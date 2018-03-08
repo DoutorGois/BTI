@@ -1,0 +1,84 @@
+{
+     "PMID": "22820851",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130821",
+     "LR": "20171021",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "34",
+     "IP": "1",
+     "DP": "2013 Feb",
+     "TI": "Rhythm-induced spike-timing patterns characterized by 1D firing maps.",
+     "PG": "59-71",
+     "LID": "10.1007/s10827-012-0406-8 [doi]",
+     "AB": "We explore patterns in the spike timing of neurons receiving periodic inputs, with an emphasis on stable characteristics which are realized in both models and in-vitro whole-cell recordings. We report on whole-cell recordings of pyramidal CA1 cells from rat hippocampus and entorhinal cortex and compare this data to model simulations. Cells were injected with a constant current to induce a steady firing rate and then a modest rhythm was added which altered the spike times and their corresponding phases relative to the rhythm. For both experiment and theory the relationship between consecutive spike phases is characterized by a probability distribution with peaks concentrated near a one-dimensional firing map. As is well-known, stable fixed points of this map correspond to the neuron phase-locking to the rhythm. We show that the interaction between noise and sufficiently steep maps can also cause a new kind of spike-time organization, in which consecutive spike time pairs organize into discrete clusters, with transitions between these clusters proceeding in a fixed sequence. This structure is not just a vestige of the noise-free dynamics. This slow dynamics and temporal organization in the relationship between consecutive spike phases is not evident in either the neuron's voltage traces or single phase or interspike interval histograms. Furthermore, the consecutive spike relationship is also evident in consecutive ISIs, and hence this ordering can be observed without detailed knowledge of the rhythm (e.g. without concurrent LFP recordings).",
+     "FAU": [
+          "Engelbrecht, Jan R",
+          "Loncich, Kristen",
+          "Mirollo, Renato",
+          "Hasselmo, Michael E",
+          "Yoshida, Motoharu"
+     ],
+     "AU": [
+          "Engelbrecht JR",
+          "Loncich K",
+          "Mirollo R",
+          "Hasselmo ME",
+          "Yoshida M"
+     ],
+     "AD": "Department of Physics, Boston College, 140 Commonwealth Ave, Chestnut Hill, MA 02467, USA. jan@bc.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH60013/MH/NIMH NIH HHS/United States",
+          "R01 MH61492/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120722",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Animals, Newborn",
+          "Biophysics",
+          "Brain/cytology",
+          "Electric Stimulation",
+          "In Vitro Techniques",
+          "*Models, Neurological",
+          "Patch-Clamp Techniques",
+          "*Periodicity",
+          "Probability",
+          "Pyramidal Cells/*physiology",
+          "Rats",
+          "Rats, Long-Evans",
+          "Time Factors"
+     ],
+     "EDAT": "2012/07/24 06:00",
+     "MHDA": "2013/08/22 06:00",
+     "CRDT": [
+          "2012/07/24 06:00"
+     ],
+     "PHST": [
+          "2011/10/12 00:00 [received]",
+          "2012/06/05 00:00 [accepted]",
+          "2012/05/12 00:00 [revised]",
+          "2012/07/24 06:00 [entrez]",
+          "2012/07/24 06:00 [pubmed]",
+          "2013/08/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10827-012-0406-8 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2013 Feb;34(1):59-71. doi: 10.1007/s10827-012-0406-8. Epub 2012 Jul 22.",
+     "term": "hippocampus"
+}

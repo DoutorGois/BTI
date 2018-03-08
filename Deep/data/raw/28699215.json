@@ -1,0 +1,98 @@
+{
+     "PMID": "28699215",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170920",
+     "LR": "20180107",
+     "IS": "1528-1167 (Electronic) 0013-9580 (Linking)",
+     "VI": "58",
+     "IP": "9",
+     "DP": "2017 Sep",
+     "TI": "Automated T2 relaxometry of the hippocampus for temporal lobe epilepsy.",
+     "PG": "1645-1652",
+     "LID": "10.1111/epi.13843 [doi]",
+     "AB": "OBJECTIVE: Hippocampal sclerosis (HS), the most common cause of refractory temporal lobe epilepsy, is associated with hippocampal volume loss and increased T2 signal. These can be identified on quantitative imaging with hippocampal volumetry and T2 relaxometry. Although hippocampal segmentation for volumetry has been automated, T2 relaxometry currently involves subjective and time-consuming manual delineation of regions of interest. In this work, we develop and validate an automated technique for hippocampal T2 relaxometry. METHODS: Fifty patients with unilateral or bilateral HS and 50 healthy controls underwent T1 -weighted and dual-echo fast recovery fast spin echo scans. Hippocampi were automatically segmented using a multi-atlas-based segmentation algorithm (STEPS) and a template database. Voxelwise T2 maps were determined using a monoexponential fit. The hippocampal segmentations were registered to the T2 maps and eroded to reduce partial volume effect. Voxels with T2 >170 msec excluded to minimize cerebrospinal fluid (CSF) contamination. Manual determination of T2 values was performed twice in each subject. Twenty controls underwent repeat scans to assess interscan reproducibility. RESULTS: Hippocampal T2 values were reliably determined using the automated method. There was a significant ipsilateral increase in T2 values in HS (p < 0.001), and a smaller but significant contralateral increase. The combination of hippocampal volumes and T2 values separated the groups well. There was a strong correlation between automated and manual methods for hippocampal T2 measurement (0.917 left, 0.896 right, both p < 0.001). Interscan reproducibility was superior for automated compared to manual measurements. SIGNIFICANCE: Automated hippocampal segmentation can be reliably extended to the determination of hippocampal T2 values, and a combination of hippocampal volumes and T2 values can separate subjects with HS from healthy controls. There is good agreement with manual measurements, and the technique is more reproducible on repeat scans than manual measurement. This protocol can be readily introduced into a clinical workflow for the assessment of patients with focal epilepsy.",
+     "CI": [
+          "(c) 2017 The Authors. Epilepsia published by Wiley Periodicals, Inc. on behalf of",
+          "International League Against Epilepsy."
+     ],
+     "FAU": [
+          "Winston, Gavin P",
+          "Vos, Sjoerd B",
+          "Burdett, Jane L",
+          "Cardoso, M Jorge",
+          "Ourselin, Sebastien",
+          "Duncan, John S"
+     ],
+     "AU": [
+          "Winston GP",
+          "Vos SB",
+          "Burdett JL",
+          "Cardoso MJ",
+          "Ourselin S",
+          "Duncan JS"
+     ],
+     "AUID": [
+          "ORCID: 0000-0001-9395-1478"
+     ],
+     "AD": "Department of Clinical and Experimental Epilepsy, UCL Institute of Neurology, London, United Kingdom. Epilepsy Society MRI Unit, Chalfont St Peter, United Kingdom. Epilepsy Society MRI Unit, Chalfont St Peter, United Kingdom. Translational Imaging Group, Centre for Medical Image Computing, UCL, London, United Kingdom. Department of Clinical and Experimental Epilepsy, UCL Institute of Neurology, London, United Kingdom. Epilepsy Society MRI Unit, Chalfont St Peter, United Kingdom. Translational Imaging Group, Centre for Medical Image Computing, UCL, London, United Kingdom. Translational Imaging Group, Centre for Medical Image Computing, UCL, London, United Kingdom. Department of Clinical and Experimental Epilepsy, UCL Institute of Neurology, London, United Kingdom. Epilepsy Society MRI Unit, Chalfont St Peter, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Wellcome Trust/United Kingdom",
+          "MR/M00841X/1/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20170712",
+     "PL": "United States",
+     "TA": "Epilepsia",
+     "JT": "Epilepsia",
+     "JID": "2983306R",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Automation/methods",
+          "Case-Control Studies",
+          "Epilepsy, Temporal Lobe/*diagnostic imaging/etiology/pathology/physiopathology",
+          "Female",
+          "Hippocampus/*diagnostic imaging/pathology/physiopathology",
+          "Humans",
+          "Magnetic Resonance Imaging/methods",
+          "Male",
+          "Middle Aged",
+          "Young Adult"
+     ],
+     "PMC": "PMC5599984",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*Hippocampus",
+          "*Magnetic resonance imaging",
+          "*T2 relaxometry",
+          "*Temporal lobe epilepsy"
+     ],
+     "EDAT": "2017/07/13 06:00",
+     "MHDA": "2017/09/21 06:00",
+     "CRDT": [
+          "2017/07/13 06:00"
+     ],
+     "PHST": [
+          "2017/06/14 00:00 [accepted]",
+          "2017/07/13 06:00 [pubmed]",
+          "2017/09/21 06:00 [medline]",
+          "2017/07/13 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1111/epi.13843 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Epilepsia. 2017 Sep;58(9):1645-1652. doi: 10.1111/epi.13843. Epub 2017 Jul 12.",
+     "term": "hippocampus"
+}

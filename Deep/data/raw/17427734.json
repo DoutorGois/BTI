@@ -1,0 +1,82 @@
+{
+     "PMID": "17427734",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070516",
+     "LR": "20170219",
+     "IS": "0278-0062 (Print) 0278-0062 (Linking)",
+     "VI": "26",
+     "IP": "4",
+     "DP": "2007 Apr",
+     "TI": "Simultaneous registration and parcellation of bilateral hippocampal surface pairs for local asymmetry quantification.",
+     "PG": "471-8",
+     "AB": "In clinical applications where structural asymmetries between homologous shapes have been correlated with pathology, the questions of definition and quantification of \"asymmetry\" arise naturally. When not only the degree but the position of deformity is thought relevant, asymmetry localization must also be addressed. Asymmetries between paired shapes have already been formulated in terms of (nonrigid) diffeomorphisms between the shapes. For the infinity of such maps possible for a given pair, we define optimality as the minimization of deviation from isometry under the constraint of piecewise deformation homogeneity. We propose a novel variational formulation for segmenting asymmetric regions from surface pairs based on the minimization of a functional of both the deformation map and the segmentation boundary, which defines the regions within which the homogeneity constraint is to be enforced. The functional minimization is achieved via a quasi-simultaneous evolution of the map and the segmenting curve, conducted on and between two-dimensional surface parametric domains. We present examples using both synthetic data and pairs of left and right hippocampal structures and demonstrate the relevance of the extracted features through a clinical epilepsy classification analysis.",
+     "FAU": [
+          "Lord, Nicholas A",
+          "Ho, Jeffrey",
+          "Vemuri, Baba C",
+          "Eisenschenk, Stephan"
+     ],
+     "AU": [
+          "Lord NA",
+          "Ho J",
+          "Vemuri BC",
+          "Eisenschenk S"
+     ],
+     "AD": "University of Florida, Gainesville, FL 32611, USA. nal@cise.ufl.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS046812/NS/NINDS NIH HHS/United States",
+          "R01 NS046812-07/NS/NINDS NIH HHS/United States",
+          "R01-NS046812/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Artificial Intelligence",
+          "Discriminant Analysis",
+          "Epilepsy/*diagnosis",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "PMC": "PMC2913155",
+     "MID": [
+          "NIHMS223141"
+     ],
+     "EDAT": "2007/04/13 09:00",
+     "MHDA": "2007/05/17 09:00",
+     "CRDT": [
+          "2007/04/13 09:00"
+     ],
+     "PHST": [
+          "2007/04/13 09:00 [pubmed]",
+          "2007/05/17 09:00 [medline]",
+          "2007/04/13 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TMI.2003.819294 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2007 Apr;26(4):471-8. doi: 10.1109/TMI.2003.819294.",
+     "term": "hippocampus"
+}

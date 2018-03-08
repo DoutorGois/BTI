@@ -1,0 +1,97 @@
+{
+     "PMID": "27305963",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170404",
+     "LR": "20170404",
+     "IS": "1532-4281 (Electronic) 1079-9893 (Linking)",
+     "VI": "36",
+     "IP": "5",
+     "DP": "2016 Oct",
+     "TI": "E-pharmacophore-based virtual screening to identify GSK-3beta inhibitors.",
+     "PG": "445-58",
+     "LID": "10.3109/10799893.2015.1122043 [doi]",
+     "AB": "Glycogen synthase kinase-3beta (GSK-3beta) is a serine/threonine kinase which has attracted significant attention during recent years in drug design studies. The deregulation of GSK-3beta increased the loss of hippocampal neurons by triggering apoptosis-mediating production of neurofibrillary tangles and alleviates memory deficits in Alzheimer's disease (AD). Given its role in the formation of neurofibrillary tangles leading to AD, it has been a major therapeutic target for intervention in AD, hence was targeted in the present study. Twenty crystal structures were refined to generate pharmacophore models based on energy involvement in binding co-crystal ligands. Four common e-pharmacophore models were optimized from the 20 pharmacophore models. Shape-based screening of four e-pharmacophore models against nine established small molecule databases using Phase v3.9 had resulted in 1800 compounds having similar pharmacophore features. Rigid receptor docking (RRD) was performed for 1800 compounds and 20 co-crystal ligands with GSK-3beta to generate dock complexes. Interactions of the best scoring lead obtained through RRD were further studied with quantum polarized ligand docking (QPLD), induced fit docking (IFD) and molecular mechanics/generalized Born surface area. Comparing the obtained leads to 20 co-crystal ligands resulted in 18 leads among them, lead1 had the lowest docking score, lower binding free energy and better binding orientation toward GSK-3beta. The 50 ns MD simulations run confirmed the stable nature of GSK-3beta-lead1 docking complex. The results from RRD, QPLD, IFD and MD simulations confirmed that lead1 might be used as a potent antagonist for GSK-3beta.",
+     "FAU": [
+          "Natarajan, Pradeep",
+          "Priyadarshini, Vani",
+          "Pradhan, Dibyabhaba",
+          "Manne, Munikumar",
+          "Swargam, Sandeep",
+          "Kanipakam, Hema",
+          "Bhuma, Vengamma",
+          "Amineni, Umamaheswari"
+     ],
+     "AU": [
+          "Natarajan P",
+          "Priyadarshini V",
+          "Pradhan D",
+          "Manne M",
+          "Swargam S",
+          "Kanipakam H",
+          "Bhuma V",
+          "Amineni U"
+     ],
+     "AD": "a Bioinformatics Centre, Department of Bioinformatics, SVIMS University , Tirupati , India and. a Bioinformatics Centre, Department of Bioinformatics, SVIMS University , Tirupati , India and. a Bioinformatics Centre, Department of Bioinformatics, SVIMS University , Tirupati , India and. a Bioinformatics Centre, Department of Bioinformatics, SVIMS University , Tirupati , India and. a Bioinformatics Centre, Department of Bioinformatics, SVIMS University , Tirupati , India and. a Bioinformatics Centre, Department of Bioinformatics, SVIMS University , Tirupati , India and. b Department of Neurology , SVIMS University , Tirupati , India. a Bioinformatics Centre, Department of Bioinformatics, SVIMS University , Tirupati , India and.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20151220",
+     "PL": "England",
+     "TA": "J Recept Signal Transduct Res",
+     "JT": "Journal of receptor and signal transduction research",
+     "JID": "9509432",
+     "RN": [
+          "0 (Ligands)",
+          "0 (Small Molecule Libraries)",
+          "EC 2.7.11.1 (Glycogen Synthase Kinase 3 beta)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*drug therapy/pathology",
+          "Apoptosis/drug effects",
+          "Crystallography, X-Ray",
+          "Drug Design",
+          "Glycogen Synthase Kinase 3 beta/antagonists & inhibitors/*chemistry",
+          "Hippocampus/drug effects/pathology",
+          "Humans",
+          "Ligands",
+          "Memory/drug effects",
+          "Molecular Docking Simulation",
+          "Neurofibrillary Tangles/chemistry/drug effects/pathology",
+          "Neurons/drug effects/pathology",
+          "Protein Binding",
+          "*Protein Conformation",
+          "Small Molecule Libraries/*chemistry/therapeutic use",
+          "User-Computer Interface"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "GSK-3beta",
+          "MD simulations",
+          "e-pharmacophore",
+          "molecular docking"
+     ],
+     "EDAT": "2016/06/17 06:00",
+     "MHDA": "2017/04/05 06:00",
+     "CRDT": [
+          "2016/06/17 06:00"
+     ],
+     "PHST": [
+          "2016/06/17 06:00 [entrez]",
+          "2016/06/17 06:00 [pubmed]",
+          "2017/04/05 06:00 [medline]"
+     ],
+     "AID": [
+          "10.3109/10799893.2015.1122043 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Recept Signal Transduct Res. 2016 Oct;36(5):445-58. doi: 10.3109/10799893.2015.1122043. Epub 2015 Dec 20.",
+     "term": "hippocampus"
+}

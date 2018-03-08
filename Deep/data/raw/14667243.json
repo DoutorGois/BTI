@@ -1,0 +1,67 @@
+{
+     "PMID": "14667243",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170219",
+     "IS": "1475-2875 (Electronic) 1475-2875 (Linking)",
+     "VI": "2",
+     "IP": "1",
+     "DP": "2003 Dec 10",
+     "TI": "Linking field-based ecological data with remotely sensed data using a geographic information system in two malaria endemic urban areas of Kenya.",
+     "PG": "44",
+     "AB": "BACKGROUND: Remote sensing technology provides detailed spectral and thermal images of the earth's surface from which surrogate ecological indicators of complex processes can be measured. METHODS: Remote sensing data were overlaid onto georeferenced entomological and human ecological data randomly sampled during April and May 2001 in the cities of Kisumu (population asymptotically equal to 320,000) and Malindi (population asymptotically equal to 81,000), Kenya. Grid cells of 270 meters x 270 meters were used to generate spatial sampling units for each city for the collection of entomological and human ecological field-based data. Multispectral Thermal Imager (MTI) satellite data in the visible spectrum at five meter resolution were acquired for Kisumu and Malindi during February and March 2001, respectively. The MTI data were fit and aggregated to the 270 meter x 270 meter grid cells used in field-based sampling using a geographic information system. The normalized difference vegetation index (NDVI) was calculated and scaled from MTI data for selected grid cells. Regression analysis was used to assess associations between NDVI values and entomological and human ecological variables at the grid cell level. RESULTS: Multivariate linear regression showed that as household density increased, mean grid cell NDVI decreased (global F-test = 9.81, df 3,72, P-value = <0.01; adjusted R2 = 0.26). Given household density, the number of potential anopheline larval habitats per grid cell also increased with increasing values of mean grid cell NDVI (global F-test = 14.29, df 3,36, P-value = <0.01; adjusted R2 = 0.51). CONCLUSIONS: NDVI values obtained from MTI data were successfully overlaid onto georeferenced entomological and human ecological data spatially sampled at a scale of 270 meters x 270 meters. Results demonstrate that NDVI at such a scale was sufficient to describe variations in entomological and human ecological parameters across both cities.",
+     "FAU": [
+          "Eisele, Thomas P",
+          "Keating, Joseph",
+          "Swalm, Chris",
+          "Mbogo, Charles M",
+          "Githeko, Andrew K",
+          "Regens, James L",
+          "Githure, John I",
+          "Andrews, Linda",
+          "Beier, John C"
+     ],
+     "AU": [
+          "Eisele TP",
+          "Keating J",
+          "Swalm C",
+          "Mbogo CM",
+          "Githeko AK",
+          "Regens JL",
+          "Githure JI",
+          "Andrews L",
+          "Beier JC"
+     ],
+     "AD": "Department of International Health and Development, Tulane University, School of Public Health and Tropical Medicine, New Orleans, LA, USA. teisele@tulane.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20031210",
+     "PL": "England",
+     "TA": "Malar J",
+     "JT": "Malaria journal",
+     "JID": "101139802",
+     "PMC": "PMC317346",
+     "EDAT": "2003/12/12 05:00",
+     "MHDA": "2003/12/12 05:00",
+     "CRDT": [
+          "2003/12/12 05:00"
+     ],
+     "PHST": [
+          "2003/08/11 00:00 [received]",
+          "2003/12/10 00:00 [accepted]",
+          "2003/12/12 05:00 [pubmed]",
+          "2003/12/12 05:00 [medline]",
+          "2003/12/12 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1186/1475-2875-2-44 [doi]",
+          "1475-2875-2-44 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Malar J. 2003 Dec 10;2(1):44. doi: 10.1186/1475-2875-2-44.",
+     "term": "grid cells"
+}

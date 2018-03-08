@@ -1,0 +1,89 @@
+{
+     "PMID": "21471389",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110609",
+     "LR": "20170220",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "31",
+     "IP": "14",
+     "DP": "2011 Apr 6",
+     "TI": "Neural correlates of forward planning in a spatial decision task in humans.",
+     "PG": "5526-39",
+     "LID": "10.1523/JNEUROSCI.4647-10.2011 [doi]",
+     "AB": "Although reinforcement learning (RL) theories have been influential in characterizing the mechanisms for reward-guided choice in the brain, the predominant temporal difference (TD) algorithm cannot explain many flexible or goal-directed actions that have been demonstrated behaviorally. We investigate such actions by contrasting an RL algorithm that is model based, in that it relies on learning a map or model of the task and planning within it, to traditional model-free TD learning. To distinguish these approaches in humans, we used functional magnetic resonance imaging in a continuous spatial navigation task, in which frequent changes to the layout of the maze forced subjects continually to relearn their favored routes, thereby exposing the RL mechanisms used. We sought evidence for the neural substrates of such mechanisms by comparing choice behavior and blood oxygen level-dependent (BOLD) signals to decision variables extracted from simulations of either algorithm. Both choices and value-related BOLD signals in striatum, although most often associated with TD learning, were better explained by the model-based theory. Furthermore, predecessor quantities for the model-based value computation were correlated with BOLD signals in the medial temporal lobe and frontal cortex. These results point to a significant extension of both the computational and anatomical substrates for RL in the brain.",
+     "FAU": [
+          "Simon, Dylan Alexander",
+          "Daw, Nathaniel D"
+     ],
+     "AU": [
+          "Simon DA",
+          "Daw ND"
+     ],
+     "AD": "Department of Psychology, Center for Neural Science, New York University, New York, New York 10003, USA. dylex@nyu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH087882/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "RN": [
+          "S88TT14065 (Oxygen)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Algorithms",
+          "Brain/blood supply/*physiology",
+          "*Brain Mapping",
+          "Cues",
+          "Decision Making/*physiology",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted/methods",
+          "Individuality",
+          "Likelihood Functions",
+          "Linear Models",
+          "Magnetic Resonance Imaging/methods",
+          "Male",
+          "Models, Neurological",
+          "Neuropsychological Tests",
+          "Oxygen/blood",
+          "Probability",
+          "*Reinforcement (Psychology)",
+          "Space Perception/*physiology",
+          "Statistics as Topic",
+          "Young Adult"
+     ],
+     "PMC": "PMC3108440",
+     "MID": [
+          "NIHMS286468"
+     ],
+     "EDAT": "2011/04/08 06:00",
+     "MHDA": "2011/06/10 06:00",
+     "CRDT": [
+          "2011/04/08 06:00"
+     ],
+     "PHST": [
+          "2011/04/08 06:00 [entrez]",
+          "2011/04/08 06:00 [pubmed]",
+          "2011/06/10 06:00 [medline]"
+     ],
+     "AID": [
+          "31/14/5526 [pii]",
+          "10.1523/JNEUROSCI.4647-10.2011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2011 Apr 6;31(14):5526-39. doi: 10.1523/JNEUROSCI.4647-10.2011.",
+     "term": "spatial navigation"
+}

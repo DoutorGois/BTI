@@ -1,0 +1,94 @@
+{
+     "PMID": "23510558",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140108",
+     "LR": "20170922",
+     "IS": "1361-8423 (Electronic) 1361-8415 (Linking)",
+     "VI": "17",
+     "IP": "6",
+     "DP": "2013 Aug",
+     "TI": "STEPS: Similarity and Truth Estimation for Propagated Segmentations and its application to hippocampal segmentation and brain parcelation.",
+     "PG": "671-84",
+     "LID": "10.1016/j.media.2013.02.006 [doi] S1361-8415(13)00020-0 [pii]",
+     "AB": "Anatomical segmentation of structures of interest is critical to quantitative analysis in medical imaging. Several automated multi-atlas based segmentation propagation methods that utilise manual delineations from multiple templates appear promising. However, high levels of accuracy and reliability are needed for use in diagnosis or in clinical trials. We propose a new local ranking strategy for template selection based on the locally normalised cross correlation (LNCC) and an extension to the classical STAPLE algorithm by Warfield et al. (2004), which we refer to as STEPS for Similarity and Truth Estimation for Propagated Segmentations. It addresses the well-known problems of local vs. global image matching and the bias introduced in the performance estimation due to structure size. We assessed the method on hippocampal segmentation using a leave-one-out cross validation with optimised model parameters; STEPS achieved a mean Dice score of 0.925 when compared with manual segmentation. This was significantly better in terms of segmentation accuracy when compared to other state-of-the-art fusion techniques. Furthermore, due to the finer anatomical scale, STEPS also obtains more accurate segmentations even when using only a third of the templates, reducing the dependence on large template databases. Using a subset of Alzheimer's Disease Neuroimaging Initiative (ADNI) scans from different MRI imaging systems and protocols, STEPS yielded similarly accurate segmentations (Dice=0.903). A cross-sectional and longitudinal hippocampal volumetric study was performed on the ADNI database. Mean+/-SD hippocampal volume (mm(3)) was 5195 +/- 656 for controls; 4786 +/- 781 for MCI; and 4427 +/- 903 for Alzheimer's disease patients and hippocampal atrophy rates (%/year) of 1.09 +/- 3.0, 2.74 +/- 3.5 and 4.04 +/- 3.6 respectively. Statistically significant (p<10(-3)) differences were found between disease groups for both hippocampal volume and volume change rates. Finally, STEPS was also applied in a multi-label segmentation propagation scenario using a leave-one-out cross validation, in order to parcellate 83 separate structures of the brain. Comparisons of STEPS with state-of-the-art multi-label fusion algorithms showed statistically significant segmentation accuracy improvements (p<10(-4)) in several key structures.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Jorge Cardoso, M",
+          "Leung, Kelvin",
+          "Modat, Marc",
+          "Keihaninejad, Shiva",
+          "Cash, David",
+          "Barnes, Josephine",
+          "Fox, Nick C",
+          "Ourselin, Sebastien"
+     ],
+     "AU": [
+          "Jorge Cardoso M",
+          "Leung K",
+          "Modat M",
+          "Keihaninejad S",
+          "Cash D",
+          "Barnes J",
+          "Fox NC",
+          "Ourselin S"
+     ],
+     "AD": "Centre for Medical Image Computing (CMIC), University College London, UK. manuel.cardoso@ucl.ac.uk",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0601846/Medical Research Council/United Kingdom",
+          "G0801306/Medical Research Council/United Kingdom",
+          "Arthritis Research UK/United Kingdom",
+          "Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130301",
+     "PL": "Netherlands",
+     "TA": "Med Image Anal",
+     "JT": "Medical image analysis",
+     "JID": "9713490",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Alzheimer Disease/*pathology",
+          "*Artificial Intelligence",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2013/03/21 06:00",
+     "MHDA": "2014/01/09 06:00",
+     "CRDT": [
+          "2013/03/21 06:00"
+     ],
+     "PHST": [
+          "2012/05/04 00:00 [received]",
+          "2013/02/06 00:00 [revised]",
+          "2013/02/18 00:00 [accepted]",
+          "2013/03/21 06:00 [entrez]",
+          "2013/03/21 06:00 [pubmed]",
+          "2014/01/09 06:00 [medline]"
+     ],
+     "AID": [
+          "S1361-8415(13)00020-0 [pii]",
+          "10.1016/j.media.2013.02.006 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Anal. 2013 Aug;17(6):671-84. doi: 10.1016/j.media.2013.02.006. Epub 2013 Mar 1.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,96 @@
+{
+     "PMID": "26561771",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20170801",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "259",
+     "DP": "2016 Feb 1",
+     "TI": "Accurate detection of low signal-to-noise ratio neuronal calcium transient waves using a matched filter.",
+     "PG": "1-12",
+     "LID": "S0165-0270(15)00394-5 [pii] 10.1016/j.jneumeth.2015.10.014 [doi]",
+     "AB": "BACKGROUND: Calcium imaging has become a fundamental modality for studying neuronal circuit dynamics both in vitro and in vivo. However, identifying calcium events (CEs) from spectral data remains laborious and difficult, especially since the signal-to-noise ratio (SNR) often falls below 2. Existing automated signal detection methods are generally applied at high SNRs, leaving a large need for an automated algorithm that can accurately extract CEs from fluorescence intensity data of SNR 2 and below. NEW METHOD: In this work we develop a Matched filter for Multi-unit Calcium Event (MMiCE) detection to extract CEs from fluorescence intensity traces of simulated and experimentally recorded neuronal calcium imaging data. RESULTS: MMiCE reached perfect performance on simulated data with SNR >/= 2 and a true positive (TP) rate of 98.27% (+/- 1.38% with a 95% confidence interval), and a false positive(FP) rate of 6.59% (+/- 2.56%) on simulated data with SNR 0.2. On real data, verified by patch-clamp recording, MMiCE performed with a TP rate of 100.00% (+/- 0.00) and a FP rate of 2.04% (+/- 4.10). COMPARISON WITH EXISTING METHOD(S): This high level of performance exceeds existing methods at SNRs as low as 0.2, which are well below those used in previous studies (SNR approximately 5-10). CONCLUSION: Overall, the MMiCE detector performed exceptionally well on both simulated data, and experimentally recorded neuronal calcium imaging data. The MMiCE detector is accurate, reliable, well suited for wide-spread use, and freely available at sites.uci.edu/aggies or from the corresponding author.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Szymanska, Agnieszka F",
+          "Kobayashi, Chiaki",
+          "Norimoto, Hiroaki",
+          "Ishikawa, Tomoe",
+          "Ikegaya, Yuji",
+          "Nenadic, Zoran"
+     ],
+     "AU": [
+          "Szymanska AF",
+          "Kobayashi C",
+          "Norimoto H",
+          "Ishikawa T",
+          "Ikegaya Y",
+          "Nenadic Z"
+     ],
+     "AD": "Department of Biomedical Engineering, University of California Irvine, Irvine, CA 92697, USA. Electronic address: aszymans@uci.edu. Laboratory of Chemical Pharmacology, Graduate School of Pharmaceutical Sciences, University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan. Electronic address: chi5.a1.ki6@gmail.com. Laboratory of Chemical Pharmacology, Graduate School of Pharmaceutical Sciences, University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan. Electronic address: hi.norimoto@gmail.com. Laboratory of Chemical Pharmacology, Graduate School of Pharmaceutical Sciences, University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan. Electronic address: tomoe0178@gmail.com. Laboratory of Chemical Pharmacology, Graduate School of Pharmaceutical Sciences, University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan; Center for Information and Neural Networks, National Institute of Information and Communications Technology, Suita City, Osaka 565-0871, Japan. Electronic address: ikegaya@mol.f.u-tokyo.ac.jp. Department of Biomedical Engineering, University of California Irvine, Irvine, CA 92697, USA. Electronic address: znenadic@uci.edu.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20151110",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Calcium/*metabolism",
+          "Hippocampus/*cytology",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Neurons/*cytology",
+          "Optical Imaging/*methods",
+          "Patch-Clamp Techniques",
+          "Rats",
+          "Rats, Wistar",
+          "*Signal-To-Noise Ratio"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Calcium transients",
+          "Dendritic spines",
+          "Detection",
+          "Low SNR",
+          "Matched filter",
+          "Multineuron calcium imaging",
+          "Somatic calcium fluctuations"
+     ],
+     "EDAT": "2015/11/13 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2015/11/13 06:00"
+     ],
+     "PHST": [
+          "2015/06/10 00:00 [received]",
+          "2015/10/06 00:00 [revised]",
+          "2015/10/27 00:00 [accepted]",
+          "2015/11/13 06:00 [entrez]",
+          "2015/11/13 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(15)00394-5 [pii]",
+          "10.1016/j.jneumeth.2015.10.014 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2016 Feb 1;259:1-12. doi: 10.1016/j.jneumeth.2015.10.014. Epub 2015 Nov 10.",
+     "term": "hippocampus"
+}

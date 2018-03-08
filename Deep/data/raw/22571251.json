@@ -1,0 +1,80 @@
+{
+     "PMID": "22571251",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121004",
+     "LR": "20141120",
+     "IS": "1361-6536 (Electronic) 0954-898X (Linking)",
+     "VI": "23",
+     "IP": "1-2",
+     "DP": "2012",
+     "TI": "Kernel duration and modulation gain in a coupled oscillator model and their implications on the progression of seizures.",
+     "PG": "59-75",
+     "LID": "10.3109/0954898X.2012.678463 [doi]",
+     "AB": "The coupled oscillator model has previously been used for the simulation of neuronal activities in in vitro rat hippocampal slice seizure data and the evaluation of seizure suppression algorithms. Each model unit can be described as either an oscillator which can generate action potential spike trains without inputs, or a threshold-based unit. With the change of only one parameter, each unit can either be an oscillator or a threshold-based spiking unit. This would eliminate the need of a new set of equations for each type of unit. Previous analysis has suggested that long kernel duration and imbalance of inhibitory feedback can cause the system to intermittently transition into and out of ictal activities. The state transitions of seizure-like events were investigated here; specifically, how the system excitability may change when the system underwent transitions in the preictal and postictal processes. Analysis showed that the area of the excitation kernel is positively correlated with the mean firing rate of ictal activity. The kernel duration is also correlated to the amount of ictal activity. The transition into ictal involved the escape from the saddle point foci in the state space trajectory identified using Newton's method.",
+     "FAU": [
+          "Chen, Wu",
+          "Cahoy, Dexter O",
+          "Tasker, Jeffrey G",
+          "Chiu, Alan W L"
+     ],
+     "AU": [
+          "Chen W",
+          "Cahoy DO",
+          "Tasker JG",
+          "Chiu AW"
+     ],
+     "AD": "Biomedical Engineering, Louisiana Tech University, Ruston, LA, United States.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P20RR016456/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20120509",
+     "PL": "England",
+     "TA": "Network",
+     "JT": "Network (Bristol, England)",
+     "JID": "9431867",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "Disease Progression",
+          "Electrophysiological Phenomena",
+          "Epilepsy/physiopathology",
+          "Feedback, Physiological/physiology",
+          "Hippocampus/physiology",
+          "In Vitro Techniques",
+          "Magnesium Deficiency/complications/physiopathology",
+          "Male",
+          "Models, Statistical",
+          "*Neural Networks (Computer)",
+          "Patch-Clamp Techniques",
+          "Rats",
+          "Rats, Wistar",
+          "Seizures/etiology/*physiopathology"
+     ],
+     "EDAT": "2012/05/11 06:00",
+     "MHDA": "2012/10/05 06:00",
+     "CRDT": [
+          "2012/05/11 06:00"
+     ],
+     "PHST": [
+          "2012/05/11 06:00 [entrez]",
+          "2012/05/11 06:00 [pubmed]",
+          "2012/10/05 06:00 [medline]"
+     ],
+     "AID": [
+          "10.3109/0954898X.2012.678463 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Network. 2012;23(1-2):59-75. doi: 10.3109/0954898X.2012.678463. Epub 2012 May 9.",
+     "term": "hippocampus"
+}

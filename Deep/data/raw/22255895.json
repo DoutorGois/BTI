@@ -1,0 +1,83 @@
+{
+     "PMID": "22255895",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120808",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2011",
+     "DP": "2011",
+     "TI": "Epileptic seizure detection with the local field potential of anterior thalamic of rats aiming at real time application.",
+     "PG": "6781-4",
+     "LID": "10.1109/IEMBS.2011.6091672 [doi]",
+     "AB": "Treating epilepsy with deep brain stimulation (DBS) is attracting more and more attention these years, especially the close loop method that gives stimuli when needed so that the implanted device will work longer. People have tried to detect seizure with electrocorticogram (ECoG), but the extra implants put more risks to it. We plan to detect seizure with local field potential (LFP) that recorded with depth electrodes of traditional DBS. To prove the validation of this method, we recorded local field potential (LFP) of anterior thalamic (ANT) of rats who have been induced to acute temporal lobe epilepsy (TLE) by kainic acid injected in hippocampus, and succeeded in detecting electrographic onset (EO) in these data. A variation of generic Osorio-Frei algorithm (GOFA) was used as the detection method with some adjustments which mainly focus on increasing calculation speed and decreasing number of total calculations to meet the future need of transplanting to battery powered embedded medical device.",
+     "FAU": [
+          "Liu, Xiaoyin",
+          "Hao, Hongwei",
+          "Yang, Linchang",
+          "Li, Luming",
+          "Zhang, Jianguo",
+          "Yang, Anchao",
+          "Ma, Yu"
+     ],
+     "AU": [
+          "Liu X",
+          "Hao H",
+          "Yang L",
+          "Li L",
+          "Zhang J",
+          "Yang A",
+          "Ma Y"
+     ],
+     "AD": "School of Aerospace Tsinghua University, Beijing 100084, China. liuxiaoyin08@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "RN": [
+          "SIV03811UC (Kainic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Deep Brain Stimulation/*instrumentation/methods",
+          "Disease Models, Animal",
+          "Electric Power Supplies",
+          "Electrodes",
+          "Electroencephalography/methods",
+          "Epilepsy, Temporal Lobe/physiopathology/*therapy",
+          "Equipment and Supplies",
+          "Hippocampus/metabolism/physiology",
+          "Kainic Acid/chemistry",
+          "Male",
+          "Neurons/pathology",
+          "Rats",
+          "Rats, Wistar",
+          "Seizures/*diagnosis",
+          "Thalamus/*pathology"
+     ],
+     "EDAT": "2012/01/19 06:00",
+     "MHDA": "2012/08/09 06:00",
+     "CRDT": [
+          "2012/01/19 06:00"
+     ],
+     "PHST": [
+          "2012/01/19 06:00 [entrez]",
+          "2012/01/19 06:00 [pubmed]",
+          "2012/08/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2011.6091672 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2011;2011:6781-4. doi: 10.1109/IEMBS.2011.6091672.",
+     "term": "hippocampus"
+}

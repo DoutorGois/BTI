@@ -1,0 +1,76 @@
+{
+     "PMID": "16467426",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060628",
+     "LR": "20071114",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "95",
+     "IP": "5",
+     "DP": "2006 May",
+     "TI": "On the origin of the extracellular action potential waveform: A modeling study.",
+     "PG": "3113-28",
+     "AB": "Although extracellular unit recording is typically used for the detection of spike occurrences, it also has the theoretical ability to report about what are typically considered intracellular features of the action potential. We address this theoretical ability by developing a model system that captures features of experimentally recorded simultaneous intracellular and extracellular recordings of CA1 pyramidal neurons. We use the line source approximation method of Holt and Koch to model the extracellular action potential (EAP) voltage resulting from the spiking activity of individual neurons. We compare the simultaneous intracellular and extracellular recordings of CA1 pyramidal neurons recorded in vivo with model predictions for the same cells reconstructed and simulated with compartmental models. The model accurately reproduces both the waveform and the amplitude of the EAPs, although it was difficult to achieve simultaneous good matches on both the intracellular and extracellular waveforms. This suggests that accounting for the EAP waveform provides a considerable constraint on the overall model. The developed model explains how and why the waveform varies with electrode position relative to the recorded cell. Interestingly, each cell's dendritic morphology had very little impact on the EAP waveform. The model also demonstrates that the varied composition of ionic currents in different cells is reflected in the features of the EAP.",
+     "FAU": [
+          "Gold, Carl",
+          "Henze, Darrell A",
+          "Koch, Christof",
+          "Buzsaki, Gyorgy"
+     ],
+     "AU": [
+          "Gold C",
+          "Henze DA",
+          "Koch C",
+          "Buzsaki G"
+     ],
+     "AD": "Computation and Neural Systems, Beckman Institute, California Institute of Technology, Pasadena, CA 91125, USA. carlg@caltech.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "1-F31-MH-070144-01A1/MH/NIMH NIH HHS/United States",
+          "MH-12403/MH/NIMH NIH HHS/United States",
+          "NS-34994/NS/NINDS NIH HHS/United States",
+          "NS-43157/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20060208",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Computer Simulation",
+          "Dendrites/physiology",
+          "Extracellular Space/*physiology",
+          "Hippocampus/cytology",
+          "Intracellular Space/physiology",
+          "*Models, Neurological",
+          "Pyramidal Cells/*physiology"
+     ],
+     "EDAT": "2006/02/10 09:00",
+     "MHDA": "2006/06/29 09:00",
+     "CRDT": [
+          "2006/02/10 09:00"
+     ],
+     "PHST": [
+          "2006/02/10 09:00 [pubmed]",
+          "2006/06/29 09:00 [medline]",
+          "2006/02/10 09:00 [entrez]"
+     ],
+     "AID": [
+          "00979.2005 [pii]",
+          "10.1152/jn.00979.2005 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2006 May;95(5):3113-28. doi: 10.1152/jn.00979.2005. Epub 2006 Feb 8.",
+     "term": "hippocampus"
+}

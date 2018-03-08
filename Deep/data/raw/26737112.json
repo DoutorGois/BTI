@@ -1,0 +1,69 @@
+{
+     "PMID": "26737112",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161006",
+     "LR": "20161230",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2015",
+     "DP": "2015 Aug",
+     "TI": "High-density MEA recordings unveil the dynamics of bursting events in Cell Cultures.",
+     "PG": "3763-6",
+     "LID": "10.1109/EMBC.2015.7319212 [doi]",
+     "AB": "High density multielectrode arrays (MEAs) based on CMOS technology (CMOS-MEAs) can simultaneously record extracellular spiking activity in neuronal cultures from 4096 closely spaced microelectrodes. This allows for a finer investigation of neuronal network activity compared to conventional MEAs with a few tens of electrodes. However, the sensing properties of these devices differ. To highlight this aspect, here we investigate and discuss the differences observed when quantifying spontaneous synchronized bursting events (SBEs) in datasets acquired with conventional MEAs and high-density MEAs from comparable hippocampal cultures. We found that datasets acquired with high-density MEAs exhibit collective dynamics similar to conventional arrays, but are characterized by a higher percentage of random spikes, i.e. spikes that are not part of a burst, most probably resulting from the larger recording capability. Additionally, the percentage of electrodes that record a burst is remarkably small on high-density MEAs compared to what can be observed on conventional MEAs and SBEs appear to be propagating in time across the electrode array, by involving shorter sequences of spikes per electrode. Overall, these results highlight a lower level of network synchronization involved in SBEs compared to what has been debated for several decades based on conventional MEA recordings from cell cultures.",
+     "FAU": [
+          "Lonardoni, Davide",
+          "Di Marco, Stefano",
+          "Amin, Hayder",
+          "Maccione, Alessandro",
+          "Berdondini, Luca",
+          "Nieus, Thierry"
+     ],
+     "AU": [
+          "Lonardoni D",
+          "Di Marco S",
+          "Amin H",
+          "Maccione A",
+          "Berdondini L",
+          "Nieus T"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Cell Culture Techniques/instrumentation/methods",
+          "Cells, Cultured",
+          "Hippocampus/physiology",
+          "Microelectrodes",
+          "Nerve Net/physiology",
+          "Neurons/*physiology",
+          "Rats"
+     ],
+     "EDAT": "2016/01/07 06:00",
+     "MHDA": "2016/10/08 06:00",
+     "CRDT": [
+          "2016/01/07 06:00"
+     ],
+     "PHST": [
+          "2016/01/07 06:00 [entrez]",
+          "2016/01/07 06:00 [pubmed]",
+          "2016/10/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2015.7319212 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2015 Aug;2015:3763-6. doi: 10.1109/EMBC.2015.7319212.",
+     "term": "hippocampus"
+}

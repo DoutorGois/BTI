@@ -1,0 +1,91 @@
+{
+     "PMID": "16415049",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060626",
+     "LR": "20170219",
+     "IS": "0006-3495 (Print) 0006-3495 (Linking)",
+     "VI": "90",
+     "IP": "8",
+     "DP": "2006 Apr 15",
+     "TI": "A model of the roles of essential kinases in the induction and expression of late long-term potentiation.",
+     "PG": "2760-75",
+     "AB": "The induction of late long-term potentiation (L-LTP) involves complex interactions among second-messenger cascades. To gain insights into these interactions, a mathematical model was developed for L-LTP induction in the CA1 region of the hippocampus. The differential equation-based model represents actions of protein kinase A (PKA), MAP kinase (MAPK), and CaM kinase II (CAMKII) in the vicinity of the synapse, and activation of transcription by CaM kinase IV (CAMKIV) and MAPK. L-LTP is represented by increases in a synaptic weight. Simulations suggest that steep, supralinear stimulus-response relationships between stimuli (e.g., elevations in [Ca(2+)]) and kinase activation are essential for translating brief stimuli into long-lasting gene activation and synaptic weight increases. Convergence of multiple kinase activities to induce L-LTP helps to generate a threshold whereby the amount of L-LTP varies steeply with the number of brief (tetanic) electrical stimuli. The model simulates tetanic, -burst, pairing-induced, and chemical L-LTP, as well as L-LTP due to synaptic tagging. The model also simulates inhibition of L-LTP by inhibition of MAPK, CAMKII, PKA, or CAMKIV. The model predicts results of experiments to delineate mechanisms underlying L-LTP induction and expression. For example, the cAMP antagonist RpcAMPs, which inhibits L-LTP induction, is predicted to inhibit ERK activation. The model also appears useful to clarify similarities and differences between hippocampal L-LTP and long-term synaptic strengthening in other systems.",
+     "FAU": [
+          "Smolen, Paul",
+          "Baxter, Douglas A",
+          "Byrne, John H"
+     ],
+     "AU": [
+          "Smolen P",
+          "Baxter DA",
+          "Byrne JH"
+     ],
+     "AD": "Department of Neurobiology and Anatomy, W.M. Keck Center for the Neurobiology of Learning and Memory, The University of Texas Medical School at Houston, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P01 NS038310/NS/NINDS NIH HHS/United States",
+          "P01 NS38310/NS/NINDS NIH HHS/United States",
+          "R01 NS50532/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20060113",
+     "PL": "United States",
+     "TA": "Biophys J",
+     "JT": "Biophysical journal",
+     "JID": "0370626",
+     "RN": [
+          "E0399OZS9N (Cyclic AMP)",
+          "EC 2.7.11.1 (Protein-Serine-Threonine Kinases)",
+          "EC 2.7.11.11 (Cyclic AMP-Dependent Protein Kinases)",
+          "EC 2.7.11.17 (CAMK4 protein, human)",
+          "EC 2.7.11.17 (Calcium-Calmodulin-Dependent Protein Kinase Type 2)",
+          "EC 2.7.11.17 (Calcium-Calmodulin-Dependent Protein Kinase Type 4)",
+          "EC 2.7.11.17 (Calcium-Calmodulin-Dependent Protein Kinases)",
+          "EC 2.7.11.24 (Mitogen-Activated Protein Kinases)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Calcium/metabolism",
+          "Calcium-Calmodulin-Dependent Protein Kinase Type 2",
+          "Calcium-Calmodulin-Dependent Protein Kinase Type 4",
+          "Calcium-Calmodulin-Dependent Protein Kinases/physiology",
+          "Computer Simulation",
+          "Cyclic AMP/metabolism",
+          "Cyclic AMP-Dependent Protein Kinases/physiology",
+          "Enzyme Activation",
+          "Hippocampus/enzymology/physiology",
+          "Humans",
+          "*Long-Term Potentiation",
+          "Mitogen-Activated Protein Kinases/physiology",
+          "*Models, Neurological",
+          "Protein-Serine-Threonine Kinases/*physiology",
+          "Synapses/enzymology/physiology",
+          "Transcriptional Activation"
+     ],
+     "PMC": "PMC1414565",
+     "EDAT": "2006/01/18 09:00",
+     "MHDA": "2006/06/27 09:00",
+     "CRDT": [
+          "2006/01/18 09:00"
+     ],
+     "PHST": [
+          "2006/01/18 09:00 [pubmed]",
+          "2006/06/27 09:00 [medline]",
+          "2006/01/18 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0006-3495(06)72458-4 [pii]",
+          "10.1529/biophysj.105.072470 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biophys J. 2006 Apr 15;90(8):2760-75. doi: 10.1529/biophysj.105.072470. Epub 2006 Jan 13.",
+     "term": "hippocampus"
+}

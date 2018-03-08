@@ -1,0 +1,60 @@
+{
+     "PMID": "9877019",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19990312",
+     "LR": "20171021",
+     "IS": "0929-5313 (Print) 0929-5313 (Linking)",
+     "VI": "5",
+     "IP": "4",
+     "DP": "1998 Dec",
+     "TI": "Adapting a feedforward heteroassociative network to Hodgkin-Huxley dynamics.",
+     "PG": "353-64",
+     "AB": "Using the original McCulloch-Pitts notion of simple on and off spike coding in lieu of rate coding, an Anderson-Kohonen artificial neural network (ANN) associative memory model was ported to a neuronal network with Hodgkin-Huxley dynamics. In the ANN, the use of 0/1 (no-spike/spike) units introduced a cross-talk term that had to be compensated by introducing balanced feedforward inhibition. The resulting ANN showed good capacity and fair selectivity (rejection of unknown input vectors). Translation to the Hodgkin-Huxley model resulted in a network that was functional but not at all robust. Evaluation of the weaknesses of this network revealed that it functioned far better using spike timing, rather than spike occurrence, as the code. The algorithm requires a novel learning algorithm for feedforward inhibition that could be sought physiologically.",
+     "FAU": [
+          "Lytton, W W"
+     ],
+     "AU": [
+          "Lytton WW"
+     ],
+     "AD": "Department of Neurology and Neuroscience Training Program, Wm. S. Middleton VA Hospital, University of Wisconsin, Madison 53706-1532, USA. bill@neurosim.wisc.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Algorithms",
+          "Association Learning/*physiology",
+          "*Computer Simulation",
+          "Hippocampus/cytology/physiology",
+          "Humans",
+          "Kinetics",
+          "Memory/*physiology",
+          "Neural Inhibition/physiology",
+          "*Neural Networks (Computer)",
+          "Neurons/physiology"
+     ],
+     "EDAT": "1999/01/07 00:00",
+     "MHDA": "1999/01/07 00:01",
+     "CRDT": [
+          "1999/01/07 00:00"
+     ],
+     "PHST": [
+          "1999/01/07 00:00 [pubmed]",
+          "1999/01/07 00:01 [medline]",
+          "1999/01/07 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 1998 Dec;5(4):353-64.",
+     "term": "hippocampus"
+}

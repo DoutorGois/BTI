@@ -1,0 +1,73 @@
+{
+     "PMID": "23220865",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140207",
+     "LR": "20130318",
+     "IS": "1741-2552 (Electronic) 1741-2552 (Linking)",
+     "VI": "10",
+     "IP": "1",
+     "DP": "2013 Feb",
+     "TI": "A statistical method for predicting seizure onset zones from human single-neuron recordings.",
+     "PG": "016001",
+     "LID": "10.1088/1741-2560/10/1/016001 [doi]",
+     "AB": "OBJECTIVE: Clinicians often use depth-electrode recordings to localize human epileptogenic foci. To advance the diagnostic value of these recordings, we applied logistic regression models to single-neuron recordings from depth-electrode microwires to predict seizure onset zones (SOZs). APPROACH: We collected data from 17 epilepsy patients at the Barrow Neurological Institute and developed logistic regression models to calculate the odds of observing SOZs in the hippocampus, amygdala and ventromedial prefrontal cortex, based on statistics such as the burst interspike interval (ISI). MAIN RESULTS: Analysis of these models showed that, for a single-unit increase in burst ISI ratio, the left hippocampus was approximately 12 times more likely to contain a SOZ; and the right amygdala, 14.5 times more likely. Our models were most accurate for the hippocampus bilaterally (at 85% average sensitivity), and performance was comparable with current diagnostics such as electroencephalography. SIGNIFICANCE: Logistic regression models can be combined with single-neuron recording to predict likely SOZs in epilepsy patients being evaluated for resective surgery, providing an automated source of clinically useful information.",
+     "FAU": [
+          "Valdez, Andre B",
+          "Hickman, Erin N",
+          "Treiman, David M",
+          "Smith, Kris A",
+          "Steinmetz, Peter N"
+     ],
+     "AU": [
+          "Valdez AB",
+          "Hickman EN",
+          "Treiman DM",
+          "Smith KA",
+          "Steinmetz PN"
+     ],
+     "AD": "Department of Neurology, Barrow Neurological Institute, Phoenix, AZ, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20121210",
+     "PL": "England",
+     "TA": "J Neural Eng",
+     "JT": "Journal of neural engineering",
+     "JID": "101217933",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Adult",
+          "*Electrodes, Implanted/statistics & numerical data",
+          "Electroencephalography/instrumentation/*methods/statistics & numerical data",
+          "Epilepsy/*diagnosis/physiopathology",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "*Models, Neurological",
+          "Neurons/pathology/*physiology",
+          "Predictive Value of Tests",
+          "Young Adult"
+     ],
+     "EDAT": "2012/12/12 06:00",
+     "MHDA": "2014/02/08 06:00",
+     "CRDT": [
+          "2012/12/11 06:00"
+     ],
+     "PHST": [
+          "2012/12/11 06:00 [entrez]",
+          "2012/12/12 06:00 [pubmed]",
+          "2014/02/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1088/1741-2560/10/1/016001 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neural Eng. 2013 Feb;10(1):016001. doi: 10.1088/1741-2560/10/1/016001. Epub 2012 Dec 10.",
+     "term": "hippocampus"
+}

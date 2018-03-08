@@ -1,0 +1,67 @@
+{
+     "PMID": "15022844",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040331",
+     "LR": "20071114",
+     "IS": "0954-898X (Print) 0954-898X (Linking)",
+     "VI": "15",
+     "IP": "1",
+     "DP": "2004 Feb",
+     "TI": "Quantal synaptic failures enhance performance in a minimal hippocampal model.",
+     "PG": "45-67",
+     "AB": "Despite the fact that animals are not optimal, natural selection is an optimizing process that can readily control small bits and pieces of organisms. It is for this reason that we need to explain certain parameters as found in Nature (e.g., number of neurons and their average activity) to fully understand the biological basis of cognition. In this optimizing sense, the failure of quantal synaptic transmission is problematic because this process incurs information loss at each synapse which seems like a bad thing for information processing. However, recent work based on an information-theoretic analysis of a single neuron suggests that such losses can be tolerated and lead to energy savings. Here we study computational simulations of a hippocampal model as a function of failure rate. We find that the failure process actually enhances some indices of performance when the model is required to solve the hippocampally dependent task of transverse patterning or when it is required to learn a simple sequence. Adding the random process of synaptic failures to the recurrent CA3-to-CA3 excitatory connections results in simulations that are more robust to parametric settings. Not only is the model more robust when synaptic failures are part of the model but there is a notable increase of sequence length memory capacity. Also, the failure process combined with additional neurons allows lower activity settings while still remaining compatible with learning the transverse patterning task. Indeed, as neuron number tended towards the biological numbers (nearly 5 x 10(4) in the simulations), it was not only possible to achieve biological failure rates (55-85%) at the minimally tolerated activity setting but these appropriately high failure rates were required for successful learning. The results are interpreted in terms of previous research demonstrating that randomization during training can enhance performance by facilitating implicit state-space search for interconnected neurons.",
+     "FAU": [
+          "Sullivan, D W",
+          "Levy, W B"
+     ],
+     "AU": [
+          "Sullivan DW",
+          "Levy WB"
+     ],
+     "AD": "Department of Neurosurgery, University of Virginia Health System, PO Box 800420, Charlottesville, VA 22908, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH48161/MH/NIMH NIH HHS/United States",
+          "MH63855/MH/NIMH NIH HHS/United States",
+          "RR15205/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "England",
+     "TA": "Network",
+     "JT": "Network (Bristol, England)",
+     "JID": "9431867",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Electrophysiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Learning/physiology",
+          "Memory/physiology",
+          "*Models, Neurological",
+          "Neurons/physiology",
+          "Synapses/*physiology"
+     ],
+     "EDAT": "2004/03/17 05:00",
+     "MHDA": "2004/04/01 05:00",
+     "CRDT": [
+          "2004/03/17 05:00"
+     ],
+     "PHST": [
+          "2004/03/17 05:00 [pubmed]",
+          "2004/04/01 05:00 [medline]",
+          "2004/03/17 05:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Network. 2004 Feb;15(1):45-67.",
+     "term": "hippocampus"
+}

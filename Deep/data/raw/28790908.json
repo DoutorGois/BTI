@@ -1,0 +1,72 @@
+{
+     "PMID": "28790908",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20170915",
+     "IS": "1662-5161 (Print) 1662-5161 (Linking)",
+     "VI": "11",
+     "DP": "2017",
+     "TI": "Multi-Kernel Learning with Dartel Improves Combined MRI-PET Classification of Alzheimer's Disease in AIBL Data: Group and Individual Analyses.",
+     "PG": "380",
+     "LID": "10.3389/fnhum.2017.00380 [doi]",
+     "AB": "Magnetic resonance imaging (MRI) and positron emission tomography (PET) are neuroimaging modalities typically used for evaluating brain changes in Alzheimer's disease (AD). Due to their complementary nature, their combination can provide more accurate AD diagnosis or prognosis. In this work, we apply a multi-modal imaging machine-learning framework to enhance AD classification and prediction of diagnosis of subject-matched gray matter MRI and Pittsburgh compound B (PiB)-PET data related to 58 AD, 108 mild cognitive impairment (MCI) and 120 healthy elderly (HE) subjects from the Australian imaging, biomarkers and lifestyle (AIBL) dataset. Specifically, we combined a Dartel algorithm to enhance anatomical registration with multi-kernel learning (MKL) technique, yielding an average of >95% accuracy for three binary classification problems: AD-vs.-HE, MCI-vs.-HE and AD-vs.-MCI, a considerable improvement from individual modality approach. Consistent with t-contrasts, the MKL weight maps revealed known brain regions associated with AD, i.e., (para)hippocampus, posterior cingulate cortex and bilateral temporal gyrus. Importantly, MKL regression analysis provided excellent predictions of diagnosis of individuals by r(2) = 0.86. In addition, we found significant correlations between the MKL classification and delayed memory recall scores with r(2) = 0.62 (p < 0.01). Interestingly, outliers in the regression model for diagnosis were mainly converter samples with a higher likelihood of converting to the inclined diagnostic category. Overall, our work demonstrates the successful application of MKL with Dartel on combined neuromarkers from different neuroimaging modalities in the AIBL data. This lends further support in favor of machine learning approach in improving the diagnosis and risk prediction of AD.",
+     "FAU": [
+          "Youssofzadeh, Vahab",
+          "McGuinness, Bernadette",
+          "Maguire, Liam P",
+          "Wong-Lin, KongFatt"
+     ],
+     "AU": [
+          "Youssofzadeh V",
+          "McGuinness B",
+          "Maguire LP",
+          "Wong-Lin K"
+     ],
+     "AD": "Computational Neuroscience Research Team, Intelligent Systems Research Centre, School of Computing and Intelligent Systems, Faculty of Computing and Engineering, Ulster UniversityLondonderry, United Kingdom. Division of Neurology, Cincinnati Children's Hospital Medical CenterCincinnati, OH, United States. Institute of Clinical Science B, Centre for Public Health, Queen's University BelfastBelfast, United Kingdom. Computational Neuroscience Research Team, Intelligent Systems Research Centre, School of Computing and Intelligent Systems, Faculty of Computing and Engineering, Ulster UniversityLondonderry, United Kingdom. Computational Neuroscience Research Team, Intelligent Systems Research Centre, School of Computing and Intelligent Systems, Faculty of Computing and Engineering, Ulster UniversityLondonderry, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170725",
+     "PL": "Switzerland",
+     "TA": "Front Hum Neurosci",
+     "JT": "Frontiers in human neuroscience",
+     "JID": "101477954",
+     "EIN": [
+          "Front Hum Neurosci. 2017 Sep 08;11:457. PMID: 28912705"
+     ],
+     "PMC": "PMC5524673",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Australian imaging",
+          "biomarkers",
+          "classification",
+          "lifestyle AIBL",
+          "machine learning",
+          "multi-kernel learning",
+          "prediction"
+     ],
+     "EDAT": "2017/08/10 06:00",
+     "MHDA": "2017/08/10 06:01",
+     "CRDT": [
+          "2017/08/10 06:00"
+     ],
+     "PHST": [
+          "2017/04/02 00:00 [received]",
+          "2017/07/06 00:00 [accepted]",
+          "2017/08/10 06:00 [entrez]",
+          "2017/08/10 06:00 [pubmed]",
+          "2017/08/10 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnhum.2017.00380 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Hum Neurosci. 2017 Jul 25;11:380. doi: 10.3389/fnhum.2017.00380. eCollection 2017.",
+     "term": "hippocampus"
+}

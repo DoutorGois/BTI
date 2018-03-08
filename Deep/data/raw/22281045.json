@@ -1,0 +1,72 @@
+{
+     "PMID": "22281045",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130110",
+     "LR": "20120904",
+     "IS": "1872-7565 (Electronic) 0169-2607 (Linking)",
+     "VI": "108",
+     "IP": "1",
+     "DP": "2012 Oct",
+     "TI": "Ensemble transcript interaction networks: a case study on Alzheimer's disease.",
+     "PG": "442-50",
+     "LID": "10.1016/j.cmpb.2011.11.011 [doi]",
+     "AB": "Systems biology techniques are a topic of recent interest within the neurological field. Computational intelligence (CI) addresses this holistic perspective by means of consensus or ensemble techniques ultimately capable of uncovering new and relevant findings. In this paper, we propose the application of a CI approach based on ensemble Bayesian network classifiers and multivariate feature subset selection to induce probabilistic dependences that could match or unveil biological relationships. The research focuses on the analysis of high-throughput Alzheimer's disease (AD) transcript profiling. The analysis is conducted from two perspectives. First, we compare the expression profiles of hippocampus subregion entorhinal cortex (EC) samples of AD patients and controls. Second, we use the ensemble approach to study four types of samples: EC and dentate gyrus (DG) samples from both patients and controls. Results disclose transcript interaction networks with remarkable structures and genes not directly related to AD by previous studies. The ensemble is able to identify a variety of transcripts that play key roles in other neurological pathologies. Classical statistical assessment by means of non-parametric tests confirms the relevance of the majority of the transcripts. The ensemble approach pinpoints key metabolic mechanisms that could lead to new findings in the pathogenesis and development of AD.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Ireland Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Armananzas, Ruben",
+          "Larranaga, Pedro",
+          "Bielza, Concha"
+     ],
+     "AU": [
+          "Armananzas R",
+          "Larranaga P",
+          "Bielza C"
+     ],
+     "AD": "Departamento de Inteligencia Artificial, Universidad Politecnica de Madrid, Madrid, Spain. r.armananzas@upm.es",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120126",
+     "PL": "Ireland",
+     "TA": "Comput Methods Programs Biomed",
+     "JT": "Computer methods and programs in biomedicine",
+     "JID": "8506513",
+     "RN": [
+          "0 (RNA, Messenger)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*etiology",
+          "Bayes Theorem",
+          "Female",
+          "Humans",
+          "RNA, Messenger/*genetics"
+     ],
+     "EDAT": "2012/01/28 06:00",
+     "MHDA": "2013/01/11 06:00",
+     "CRDT": [
+          "2012/01/28 06:00"
+     ],
+     "PHST": [
+          "2011/07/11 00:00 [received]",
+          "2011/11/29 00:00 [revised]",
+          "2011/11/30 00:00 [accepted]",
+          "2012/01/28 06:00 [entrez]",
+          "2012/01/28 06:00 [pubmed]",
+          "2013/01/11 06:00 [medline]"
+     ],
+     "AID": [
+          "S0169-2607(11)00316-6 [pii]",
+          "10.1016/j.cmpb.2011.11.011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Methods Programs Biomed. 2012 Oct;108(1):442-50. doi: 10.1016/j.cmpb.2011.11.011. Epub 2012 Jan 26.",
+     "term": "hippocampus"
+}

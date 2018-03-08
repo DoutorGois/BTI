@@ -1,0 +1,74 @@
+{
+     "PMID": "27070463",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170106",
+     "LR": "20170107",
+     "IS": "1748-3190 (Electronic) 1748-3182 (Linking)",
+     "VI": "11",
+     "IP": "3",
+     "DP": "2016 Apr 12",
+     "TI": "Decision-making ability of Physarum polycephalum enhanced by its coordinated spatiotemporal oscillatory dynamics.",
+     "PG": "036001",
+     "LID": "10.1088/1748-3190/11/3/036001 [doi]",
+     "AB": "An amoeboid unicellular organism, a plasmodium of the true slime mold Physarum polycephalum, exhibits complex spatiotemporal oscillatory dynamics and sophisticated information processing capabilities while deforming its amorphous body. We previously devised an 'amoeba-based computer (ABC),' that implemented optical feedback control to lead this amoeboid organism to search for a solution to the traveling salesman problem (TSP). In the ABC, the shortest TSP route (the optimal solution) is represented by the shape of the organism in which the body area (nutrient absorption) is maximized while the risk of being exposed to aversive light stimuli is minimized. The shortness of the TSP route found by ABC, therefore, serves as a quantitative measure of the optimality of the decision made by the organism. However, it remains unclear how the decision-making ability of the organism originates from the oscillatory dynamics of the organism. We investigated the number of coexisting traveling waves in the spatiotemporal patterns of the oscillatory dynamics of the organism. We show that a shorter TSP route can be found when the organism exhibits a lower number of traveling waves. The results imply that the oscillatory dynamics are highly coordinated throughout the global body. Based on the results, we discuss the fact that the decision-making ability of the organism can be enhanced not by uncorrelated random fluctuations, but by its highly coordinated oscillatory dynamics.",
+     "FAU": [
+          "Iwayama, Koji",
+          "Zhu, Liping",
+          "Hirata, Yoshito",
+          "Aono, Masashi",
+          "Hara, Masahiko",
+          "Aihara, Kazuyuki"
+     ],
+     "AU": [
+          "Iwayama K",
+          "Zhu L",
+          "Hirata Y",
+          "Aono M",
+          "Hara M",
+          "Aihara K"
+     ],
+     "AD": "FIRST, Innovative Mathematical Modelling Project, JST, Tokyo 153-8505, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160412",
+     "PL": "England",
+     "TA": "Bioinspir Biomim",
+     "JT": "Bioinspiration & biomimetics",
+     "JID": "101292902",
+     "SB": "IM",
+     "MH": [
+          "Biological Clocks/*physiology/radiation effects",
+          "Cell Movement/physiology/radiation effects",
+          "Computer Simulation",
+          "Decision Making/*physiology/radiation effects",
+          "Feedback, Physiological/physiology/radiation effects",
+          "Light",
+          "*Models, Biological",
+          "Phototaxis/*physiology/radiation effects",
+          "Physarum polycephalum/*physiology/radiation effects",
+          "Spatial Navigation/*physiology",
+          "Spatio-Temporal Analysis"
+     ],
+     "EDAT": "2016/04/14 06:00",
+     "MHDA": "2017/01/07 06:00",
+     "CRDT": [
+          "2016/04/13 06:00"
+     ],
+     "PHST": [
+          "2016/04/13 06:00 [entrez]",
+          "2016/04/14 06:00 [pubmed]",
+          "2017/01/07 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1088/1748-3190/11/3/036001 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Bioinspir Biomim. 2016 Apr 12;11(3):036001. doi: 10.1088/1748-3190/11/3/036001.",
+     "term": "spatial navigation"
+}

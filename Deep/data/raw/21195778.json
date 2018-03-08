@@ -1,0 +1,96 @@
+{
+     "PMID": "21195778",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110628",
+     "LR": "20170922",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "55",
+     "IP": "3",
+     "DP": "2011 Apr 1",
+     "TI": "Novel Fast Marching for Automated Segmentation of the Hippocampus (FMASH): method and validation on clinical data.",
+     "PG": "1009-19",
+     "LID": "10.1016/j.neuroimage.2010.12.071 [doi]",
+     "AB": "With hippocampal atrophy both a clinical biomarker for early Alzheimer's Disease (AD) and implicated in many other neurological and psychiatric diseases, there is much interest in the accurate, reproducible delineation of this region of interest (ROI) in structural MR images. Here we present Fast Marching for Automated Segmentation of the Hippocampus (FMASH): a novel approach using the Sethian Fast Marching (FM) technique to grow a hippocampal ROI from an automatically-defined seed point. Segmentation performance is assessed on two separate clinical datasets, utilising expert manual labels as gold standard to quantify Dice coefficients, false positive rates (FPR) and false negative rates (FNR). The first clinical dataset (denoted CMA) contains normal controls (NC) and atrophied AD patients, whilst the second is a collection of NC and bipolar (BP) patients (denoted BPSA). An optimal and robust stopping criterion is established for the propagating FM front and the final FMASH segmentation estimates compared to two commonly-used methods: FIRST/FSL and Freesurfer (FS). Results show that FMASH outperforms both FIRST and FS on the BPSA data, with significantly higher Dice coefficients (0.80+/-0.01) and lower FPR. Despite some intrinsic bias for FIRST and FS on the CMA data, due to their training, FMASH performs comparably well on the CMA data, with an average bilateral Dice coefficient of 0.82+/-0.01. Furthermore, FMASH most accurately captures the hippocampal volume difference between NC and AD, and provides a more accurate estimation of the problematic hippocampus-amygdala border on both clinical datasets. The consistency in performance across the two datasets suggests that FMASH is applicable to a range of clinical data with differing image quality and demographics.",
+     "CI": [
+          "Copyright (c) 2010 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Bishop, Courtney A",
+          "Jenkinson, Mark",
+          "Andersson, Jesper",
+          "Declerck, Jerome",
+          "Merhof, Dorit"
+     ],
+     "AU": [
+          "Bishop CA",
+          "Jenkinson M",
+          "Andersson J",
+          "Declerck J",
+          "Merhof D"
+     ],
+     "AD": "FMRIB Centre, University of Oxford, UK. courtney.bishop@merton.ox.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "BB/C519938/1/Biotechnology and Biological Sciences Research Council/United",
+          "Kingdom",
+          "Biotechnology and Biological Sciences Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20101231",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Alzheimer Disease/pathology",
+          "Analysis of Variance",
+          "Atrophy",
+          "Bipolar Disorder/pathology",
+          "Brain/pathology",
+          "Brain Mapping",
+          "Databases, Factual",
+          "False Positive Reactions",
+          "Hippocampus/*anatomy & histology/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Processing, Computer-Assisted/methods",
+          "Imaging, Three-Dimensional",
+          "Magnetic Resonance Imaging",
+          "Middle Aged",
+          "Reference Values",
+          "Reproducibility of Results",
+          "Software",
+          "Young Adult"
+     ],
+     "EDAT": "2011/01/05 06:00",
+     "MHDA": "2011/06/29 06:00",
+     "CRDT": [
+          "2011/01/04 06:00"
+     ],
+     "PHST": [
+          "2010/09/10 00:00 [received]",
+          "2010/12/07 00:00 [revised]",
+          "2010/12/24 00:00 [accepted]",
+          "2011/01/04 06:00 [entrez]",
+          "2011/01/05 06:00 [pubmed]",
+          "2011/06/29 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(10)01674-5 [pii]",
+          "10.1016/j.neuroimage.2010.12.071 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 Apr 1;55(3):1009-19. doi: 10.1016/j.neuroimage.2010.12.071. Epub 2010 Dec 31.",
+     "term": "hippocampus"
+}

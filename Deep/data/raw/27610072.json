@@ -1,0 +1,70 @@
+{
+     "PMID": "27610072",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20160909",
+     "LR": "20170220",
+     "IS": "1662-4548 (Print) 1662-453X (Linking)",
+     "VI": "10",
+     "DP": "2016",
+     "TI": "Supervised, Multivariate, Whole-Brain Reduction Did Not Help to Achieve High Classification Performance in Schizophrenia Research.",
+     "PG": "392",
+     "LID": "10.3389/fnins.2016.00392 [doi]",
+     "AB": "We examined how penalized linear discriminant analysis with resampling, which is a supervised, multivariate, whole-brain reduction technique, can help schizophrenia diagnostics and research. In an experiment with magnetic resonance brain images of 52 first-episode schizophrenia patients and 52 healthy controls, this method allowed us to select brain areas relevant to schizophrenia, such as the left prefrontal cortex, the anterior cingulum, the right anterior insula, the thalamus, and the hippocampus. Nevertheless, the classification performance based on such reduced data was not significantly better than the classification of data reduced by mass univariate selection using a t-test or unsupervised multivariate reduction using principal component analysis. Moreover, we found no important influence of the type of imaging features, namely local deformations or gray matter volumes, and the classification method, specifically linear discriminant analysis or linear support vector machines, on the classification results. However, we ascertained significant effect of a cross-validation setting on classification performance as classification results were overestimated even though the resampling was performed during the selection of brain imaging features. Therefore, it is critically important to perform cross-validation in all steps of the analysis (not only during classification) in case there is no external validation set to avoid optimistically biasing the results of classification studies.",
+     "FAU": [
+          "Janousova, Eva",
+          "Montana, Giovanni",
+          "Kasparek, Tomas",
+          "Schwarz, Daniel"
+     ],
+     "AU": [
+          "Janousova E",
+          "Montana G",
+          "Kasparek T",
+          "Schwarz D"
+     ],
+     "AD": "Institute of Biostatistics and Analyses, Faculty of Medicine, Masaryk University Brno, Czech Republic. Department of Biomedical Engineering, King's College London London, UK. Behavioural and Social Neuroscience Group, CEITEC - Central European Institute of Technology, Masaryk UniversityBrno, Czech Republic; Department of Psychiatry, University Hospital Brno and Masaryk UniversityBrno, Czech Republic. Institute of Biostatistics and Analyses, Faculty of Medicine, Masaryk University Brno, Czech Republic.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160825",
+     "PL": "Switzerland",
+     "TA": "Front Neurosci",
+     "JT": "Frontiers in neuroscience",
+     "JID": "101478481",
+     "PMC": "PMC4997127",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "classification",
+          "computational neuroanatomy",
+          "cross-validation",
+          "magnetic resonance imaging",
+          "pattern recognition",
+          "penalized linear discriminant analysis",
+          "schizophrenia",
+          "support vector machines"
+     ],
+     "EDAT": "2016/09/10 06:00",
+     "MHDA": "2016/09/10 06:01",
+     "CRDT": [
+          "2016/09/10 06:00"
+     ],
+     "PHST": [
+          "2016/01/20 00:00 [received]",
+          "2016/08/10 00:00 [accepted]",
+          "2016/09/10 06:00 [entrez]",
+          "2016/09/10 06:00 [pubmed]",
+          "2016/09/10 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnins.2016.00392 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neurosci. 2016 Aug 25;10:392. doi: 10.3389/fnins.2016.00392. eCollection 2016.",
+     "term": "hippocampus"
+}

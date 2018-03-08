@@ -1,0 +1,69 @@
+{
+     "PMID": "21989140",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111212",
+     "LR": "20150129",
+     "IS": "1471-2105 (Electronic) 1471-2105 (Linking)",
+     "VI": "12 Suppl 5",
+     "DP": "2011",
+     "TI": "Exploring matrix factorization techniques for significant genes identification of Alzheimer's disease microarray gene expression data.",
+     "PG": "S7",
+     "LID": "10.1186/1471-2105-12-S5-S7 [doi]",
+     "AB": "BACKGROUND: The wide use of high-throughput DNA microarray technology provide an increasingly detailed view of human transcriptome from hundreds to thousands of genes. Although biomedical researchers typically design microarray experiments to explore specific biological contexts, the relationships between genes are hard to identified because they are complex and noisy high-dimensional data and are often hindered by low statistical power. The main challenge now is to extract valuable biological information from the colossal amount of data to gain insight into biological processes and the mechanisms of human disease. To overcome the challenge requires mathematical and computational methods that are versatile enough to capture the underlying biological features and simple enough to be applied efficiently to large datasets. METHODS: Unsupervised machine learning approaches provide new and efficient analysis of gene expression profiles. In our study, two unsupervised knowledge-based matrix factorization methods, independent component analysis (ICA) and nonnegative matrix factorization (NMF) are integrated to identify significant genes and related pathways in microarray gene expression dataset of Alzheimer's disease. The advantage of these two approaches is they can be performed as a biclustering method by which genes and conditions can be clustered simultaneously. Furthermore, they can group genes into different categories for identifying related diagnostic pathways and regulatory networks. The difference between these two method lies in ICA assume statistical independence of the expression modes, while NMF need positivity constrains to generate localized gene expression profiles. RESULTS: In our work, we performed FastICA and non-smooth NMF methods on DNA microarray gene expression data of Alzheimer's disease respectively. The simulation results shows that both of the methods can clearly classify severe AD samples from control samples, and the biological analysis of the identified significant genes and their related pathways demonstrated that these genes play a prominent role in AD and relate the activation patterns to AD phenotypes. It is validated that the combination of these two methods is efficient. CONCLUSIONS: Unsupervised matrix factorization methods provide efficient tools to analyze high-throughput microarray dataset. According to the facts that different unsupervised approaches explore correlations in the high-dimensional data space and identify relevant subspace base on different hypotheses, integrating these methods to explore the underlying biological information from microarray dataset is an efficient approach. By combining the significant genes identified by both ICA and NMF, the biological analysis shows great efficient for elucidating the molecular taxonomy of Alzheimer's disease and enable better experimental design to further identify potential pathways and therapeutic targets of AD.",
+     "FAU": [
+          "Kong, Wei",
+          "Mou, Xiaoyang",
+          "Hu, Xiaohua"
+     ],
+     "AU": [
+          "Kong W",
+          "Mou X",
+          "Hu X"
+     ],
+     "AD": "Information Engineering College, Shanghai Maritime University, Haigang Ave., Shanghai, 201306, P R China. weikong@shmtu.edu.cn",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20110727",
+     "PL": "England",
+     "TA": "BMC Bioinformatics",
+     "JT": "BMC bioinformatics",
+     "JID": "100965194",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Alzheimer Disease/*genetics",
+          "Artificial Intelligence",
+          "Cluster Analysis",
+          "Databases, Genetic",
+          "Gene Expression Profiling/*methods",
+          "Gene Expression Regulation",
+          "Hippocampus/metabolism",
+          "Humans",
+          "Oligonucleotide Array Sequence Analysis/methods"
+     ],
+     "PMC": "PMC3203370",
+     "EDAT": "2011/10/26 06:00",
+     "MHDA": "2011/12/14 06:00",
+     "CRDT": [
+          "2011/10/13 06:00"
+     ],
+     "PHST": [
+          "2011/10/13 06:00 [entrez]",
+          "2011/10/26 06:00 [pubmed]",
+          "2011/12/14 06:00 [medline]"
+     ],
+     "AID": [
+          "1471-2105-12-S5-S7 [pii]",
+          "10.1186/1471-2105-12-S5-S7 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "BMC Bioinformatics. 2011;12 Suppl 5:S7. doi: 10.1186/1471-2105-12-S5-S7. Epub 2011 Jul 27.",
+     "term": "hippocampus"
+}

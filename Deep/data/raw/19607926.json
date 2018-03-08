@@ -1,0 +1,88 @@
+{
+     "PMID": "19607926",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20091030",
+     "LR": "20090831",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "48",
+     "IP": "4",
+     "DP": "2009 Dec",
+     "TI": "Multi-parametric classification of Alzheimer's disease and mild cognitive impairment: the impact of quantitative magnetization transfer MR imaging.",
+     "PG": "657-67",
+     "LID": "10.1016/j.neuroimage.2009.07.005 [doi]",
+     "AB": "Multi-parametric and quantitative magnetic resonance imaging (MRI) techniques have come into the focus of interest, both as a research and diagnostic modality for the evaluation of patients suffering from mild cognitive decline and overt dementia. In this study we address the question, if disease related quantitative magnetization transfer effects (qMT) within the intra- and extracellular matrices of the hippocampus may aid in the differentiation between clinically diagnosed patients with Alzheimer disease (AD), patients with mild cognitive impairment (MCI) and healthy controls. We evaluated 22 patients with AD (n=12) and MCI (n=10) and 22 healthy elderly (n=12) and younger (n=10) controls with multi-parametric MRI. Neuropsychological testing was performed in patients and elderly controls (n=34). In order to quantify the qMT effects, the absorption spectrum was sampled at relevant off-resonance frequencies. The qMT-parameters were calculated according to a two-pool spin-bath model including the T1- and T2 relaxation parameters of the free pool, determined in separate experiments. Histograms (fixed bin-size) of the normalized qMT-parameter values (z-scores) within the anterior and posterior hippocampus (hippocampal head and body) were subjected to a fuzzy-c-means classification algorithm with downstreamed PCA projection. The within-cluster sums of point-to-centroid distances were used to examine the effects of qMT- and diffusion anisotropy parameters on the discrimination of healthy volunteers, patients with Alzheimer and MCIs. The qMT-parameters T2(r) (T2 of the restricted pool) and F (fractional pool size) differentiated between the three groups (control, MCI and AD) in the anterior hippocampus. In our cohort, the MT ratio, as proposed in previous reports, did not differentiate between MCI and AD or healthy controls and MCI, but between healthy controls and AD.",
+     "FAU": [
+          "Kiefer, Claus",
+          "Brockhaus, Lisa",
+          "Cattapan-Ludewig, Katja",
+          "Ballinari, Pietro",
+          "Burren, Yuliya",
+          "Schroth, Gerhard",
+          "Wiest, Roland"
+     ],
+     "AU": [
+          "Kiefer C",
+          "Brockhaus L",
+          "Cattapan-Ludewig K",
+          "Ballinari P",
+          "Burren Y",
+          "Schroth G",
+          "Wiest R"
+     ],
+     "AD": "Institute of Diagnostic and Interventional Neuroradiology, Inselspital, University of Bern, Switzerland. claus.kiefer@insel.ch",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090714",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Algorithms",
+          "Alzheimer Disease/*diagnosis/*physiopathology",
+          "Anisotropy",
+          "Cluster Analysis",
+          "Cognition Disorders/*diagnosis/*physiopathology",
+          "Cohort Studies",
+          "Diffusion Magnetic Resonance Imaging/methods",
+          "Female",
+          "Fuzzy Logic",
+          "Hippocampus/*physiopathology",
+          "Humans",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Models, Theoretical",
+          "Neuropsychological Tests",
+          "Principal Component Analysis",
+          "Software"
+     ],
+     "EDAT": "2009/07/18 09:00",
+     "MHDA": "2009/10/31 06:00",
+     "CRDT": [
+          "2009/07/18 09:00"
+     ],
+     "PHST": [
+          "2009/04/01 00:00 [received]",
+          "2009/07/01 00:00 [revised]",
+          "2009/07/06 00:00 [accepted]",
+          "2009/07/18 09:00 [entrez]",
+          "2009/07/18 09:00 [pubmed]",
+          "2009/10/31 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(09)00765-4 [pii]",
+          "10.1016/j.neuroimage.2009.07.005 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2009 Dec;48(4):657-67. doi: 10.1016/j.neuroimage.2009.07.005. Epub 2009 Jul 14.",
+     "term": "hippocampus"
+}

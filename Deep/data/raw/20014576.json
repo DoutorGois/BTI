@@ -1,0 +1,70 @@
+{
+     "PMID": "20014576",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100105",
+     "LR": "20091217",
+     "IS": "1051-0761 (Print) 1051-0761 (Linking)",
+     "VI": "19",
+     "IP": "8",
+     "DP": "2009 Dec",
+     "TI": "Predicting avian distributions to evaluate spatiotemporal overlap with locust control operations in eastern Australia.",
+     "PG": "2026-37",
+     "AB": "Locusts and grasshoppers cause considerable economic damage to agriculture worldwide. The Australian Plague Locust Commission uses multiple pesticides to control locusts in eastern Australia. Avian exposure to agricultural pesticides is of conservation concern, especially in the case of rare and threatened species. The aim of this study was to evaluate the probability of pesticide exposure of native avian species during operational locust control based on knowledge of species occurrence in areas and times of application. Using presence-absence data provided by the Birds Australia Atlas for 1998 to 2002, we developed a series of generalized linear models to predict avian occurrences on a monthly basis in 0.5 degrees grid cells for 280 species over 2 million km2 in eastern Australia. We constructed species-specific models relating occupancy patterns to survey date and location, rainfall, and derived habitat preference. Model complexity depended on the number of observations available. Model output was the probability of occurrence for each species at times and locations of past locust control operations within the 5-year study period. Given the high spatiotemporal variability of locust control events, the variability in predicted bird species presence was high, with 108 of the total 280 species being included at least once in the top 20 predicted species for individual space-time events. The models were evaluated using field surveys collected between 2000 and 2005, at sites with and without locust outbreaks. Model strength varied among species. Some species were under- or over-predicted as times and locations of interest typically did not correspond to those in the prediction data set and certain species were likely attracted to locusts as a food source. Field surveys demonstrated the utility of the spatially explicit species lists derived from the models but also identified the presence of a number of previously unanticipated species. These results also emphasize the need for special consideration of rare and threatened species that are poorly predicted by presence-absence models. This modeling exercise was a useful a priori approach in species risk assessments to identify species present at times and locations of locust control applications, and to discover gaps in our knowledge and need for further focused data collection.",
+     "FAU": [
+          "Szabo, Judit K",
+          "Davy, Pamela J",
+          "Hooper, Michael J",
+          "Astheimer, Lee B"
+     ],
+     "AU": [
+          "Szabo JK",
+          "Davy PJ",
+          "Hooper MJ",
+          "Astheimer LB"
+     ],
+     "AD": "Institute of Environmental and Human Health, Texas Tech University, Lubbock, Texas 79416, USA. j.szabo@uq.edu.au",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Ecol Appl",
+     "JT": "Ecological applications : a publication of the Ecological Society of America",
+     "JID": "9889808",
+     "RN": [
+          "0 (Environmental Pollutants)",
+          "0 (Pesticides)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Agriculture/economics",
+          "Animals",
+          "Australia",
+          "Birds/*physiology",
+          "Conservation of Natural Resources",
+          "Demography",
+          "Environmental Pollutants/adverse effects",
+          "Grasshoppers/*physiology",
+          "Insect Control/*methods",
+          "Models, Biological",
+          "Pesticides/adverse effects",
+          "Species Specificity",
+          "Time Factors"
+     ],
+     "EDAT": "2009/12/18 06:00",
+     "MHDA": "2010/01/06 06:00",
+     "CRDT": [
+          "2009/12/18 06:00"
+     ],
+     "PHST": [
+          "2009/12/18 06:00 [entrez]",
+          "2009/12/18 06:00 [pubmed]",
+          "2010/01/06 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ecol Appl. 2009 Dec;19(8):2026-37.",
+     "term": "grid cells"
+}

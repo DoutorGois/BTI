@@ -1,0 +1,78 @@
+{
+     "PMID": "27812323",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171023",
+     "LR": "20171224",
+     "IS": "1662-5110 (Electronic) 1662-5110 (Linking)",
+     "VI": "10",
+     "DP": "2016",
+     "TI": "Intrinsic Cellular Properties and Connectivity Density Determine Variable Clustering Patterns in Randomly Connected Inhibitory Neural Networks.",
+     "PG": "82",
+     "AB": "The plethora of inhibitory interneurons in the hippocampus and cortex play a pivotal role in generating rhythmic activity by clustering and synchronizing cell firing. Results of our simulations demonstrate that both the intrinsic cellular properties of neurons and the degree of network connectivity affect the characteristics of clustered dynamics exhibited in randomly connected, heterogeneous inhibitory networks. We quantify intrinsic cellular properties by the neuron's current-frequency relation (IF curve) and Phase Response Curve (PRC), a measure of how perturbations given at various phases of a neurons firing cycle affect subsequent spike timing. We analyze network bursting properties of networks of neurons with Type I or Type II properties in both excitability and PRC profile; Type I PRCs strictly show phase advances and IF curves that exhibit frequencies arbitrarily close to zero at firing threshold while Type II PRCs display both phase advances and delays and IF curves that have a non-zero frequency at threshold. Type II neurons whose properties arise with or without an M-type adaptation current are considered. We analyze network dynamics under different levels of cellular heterogeneity and as intrinsic cellular firing frequency and the time scale of decay of synaptic inhibition are varied. Many of the dynamics exhibited by these networks diverge from the predictions of the interneuron network gamma (ING) mechanism, as well as from results in all-to-all connected networks. Our results show that randomly connected networks of Type I neurons synchronize into a single cluster of active neurons while networks of Type II neurons organize into two mutually exclusive clusters segregated by the cells' intrinsic firing frequencies. Networks of Type II neurons containing the adaptation current behave similarly to networks of either Type I or Type II neurons depending on network parameters; however, the adaptation current creates differences in the cluster dynamics compared to those in networks of Type I or Type II neurons. To understand these results, we compute neuronal PRCs calculated with a perturbation matching the profile of the synaptic current in our networks. Differences in profiles of these PRCs across the different neuron types reveal mechanisms underlying the divergent network dynamics.",
+     "FAU": [
+          "Rich, Scott",
+          "Booth, Victoria",
+          "Zochowski, Michal"
+     ],
+     "AU": [
+          "Rich S",
+          "Booth V",
+          "Zochowski M"
+     ],
+     "AD": "Applied and Interdisciplinary Mathematics, University of Michigan Ann Arbor, MI, USA. Departments of Mathematics and Anesthesiology, University of Michigan Ann Arbor, MI, USA. Departments of Physics and Biophysics, University of Michigan Ann Arbor, MI, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20161020",
+     "PL": "Switzerland",
+     "TA": "Front Neural Circuits",
+     "JT": "Frontiers in neural circuits",
+     "JID": "101477940",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Humans",
+          "Interneurons/*physiology",
+          "*Models, Theoretical",
+          "Nerve Net/*physiology",
+          "Neural Inhibition/*physiology"
+     ],
+     "PMC": "PMC5071331",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*M-current",
+          "*clustering",
+          "*computational model",
+          "*inhibitory networks",
+          "*interneurons",
+          "*phase response curve",
+          "*spike-frequency adaptation",
+          "*synchrony"
+     ],
+     "EDAT": "2016/11/05 06:00",
+     "MHDA": "2017/10/24 06:00",
+     "CRDT": [
+          "2016/11/05 06:00"
+     ],
+     "PHST": [
+          "2016/07/09 00:00 [received]",
+          "2016/10/03 00:00 [accepted]",
+          "2016/11/05 06:00 [pubmed]",
+          "2017/10/24 06:00 [medline]",
+          "2016/11/05 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.3389/fncir.2016.00082 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neural Circuits. 2016 Oct 20;10:82. doi: 10.3389/fncir.2016.00082. eCollection 2016.",
+     "term": "hippocampus"
+}

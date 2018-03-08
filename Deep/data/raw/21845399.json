@@ -1,0 +1,73 @@
+{
+     "PMID": "21845399",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120123",
+     "LR": "20111011",
+     "IS": "1432-0770 (Electronic) 0340-1200 (Linking)",
+     "VI": "105",
+     "IP": "2",
+     "DP": "2011 Aug",
+     "TI": "A computational model of the hippocampus that represents environmental structure and goal location, and guides movement.",
+     "PG": "139-52",
+     "LID": "10.1007/s00422-011-0454-6 [doi]",
+     "AB": "Hippocampal place cells (PCs) are believed to represent environmental structure. However, it is unclear how and which brain regions represent goals and guide movements. Recently, another type of cells that fire around a goal was found in rat hippocampus (we designate these cells as goal place cells, GPCs). This suggests that the hippocampus is also involved in goal representation. Assuming that the activities of GPCs depend on the distance to a goal, we propose an adaptive navigation model. By monitoring the population activity of GPCs, the model navigates to shorten the distance to the goal. To achieve the distance-dependent activities of GPCs, plastic connections are assumed between PCs and GPCs, which are modified depending on two reward-triggered activities: activity propagation through PC-PC network representing the topological environmental structure, and the activity of GPCs with different durations. The former activity propagation is regarded as a computational interpretation of \"reverse replay\" phenomenon found in rat hippocampus. Simulation results confirm that after reaching a goal only once, the model can navigate to the goal along almost the shortest path from arbitrary places in the environment. This indicates that the hippocampus might play a primary role in the representation of not only the environmental structure but also the goal, in addition to guiding the movement. This navigation strategy using the population activity of GPCs is equivalent to the taxis strategy, the simplest and most basic for biological systems. Our model is unique because this simple strategy allows the model to follow the shortest path in the topological map of the environment.",
+     "FAU": [
+          "Matsumoto, Jumpei",
+          "Makino, Yoshinari",
+          "Miura, Haruki",
+          "Yano, Masafumi"
+     ],
+     "AU": [
+          "Matsumoto J",
+          "Makino Y",
+          "Miura H",
+          "Yano M"
+     ],
+     "AD": "Research Institute of Electrical Communication, Tohoku University, 2-1-1 Katahira, Aoba-ku, Sendai, 980-8577, Japan. d0881002@ems.u-toyama.ac.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110816",
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Behavior, Animal/physiology",
+          "Computer Simulation",
+          "Cybernetics",
+          "Environment",
+          "Goals",
+          "Hippocampus/cytology/*physiology",
+          "Maze Learning/physiology",
+          "*Models, Neurological",
+          "Motor Neurons/physiology",
+          "Movement/physiology",
+          "Rats"
+     ],
+     "EDAT": "2011/08/17 06:00",
+     "MHDA": "2012/01/24 06:00",
+     "CRDT": [
+          "2011/08/17 06:00"
+     ],
+     "PHST": [
+          "2011/01/25 00:00 [received]",
+          "2011/07/30 00:00 [accepted]",
+          "2011/08/17 06:00 [entrez]",
+          "2011/08/17 06:00 [pubmed]",
+          "2012/01/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s00422-011-0454-6 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Cybern. 2011 Aug;105(2):139-52. doi: 10.1007/s00422-011-0454-6. Epub 2011 Aug 16.",
+     "term": "place cells"
+}

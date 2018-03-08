@@ -1,0 +1,89 @@
+{
+     "PMID": "25982908",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160310",
+     "LR": "20150613",
+     "IS": "1873-2860 (Electronic) 0933-3657 (Linking)",
+     "VI": "64",
+     "IP": "2",
+     "DP": "2015 Jun",
+     "TI": "A label fusion method using conditional random fields with higher-order potentials: Application to hippocampal segmentation.",
+     "PG": "117-29",
+     "LID": "10.1016/j.artmed.2015.04.005 [doi] S0933-3657(15)00045-7 [pii]",
+     "AB": "OBJECTIVE: The objective of this study is to develop a probabilistic modeling framework for segmenting structures of interest from a collection of atlases. We present a label fusion method that is based on minimizing an energy function using graph-cut techniques. METHODS AND MATERIALS: We use a conditional random field (CRF) model that allows us to efficiently incorporate shape, appearance and context information. This model is characterized by a pseudo-Boolean function defined on unary, pairwise and higher-order potentials. Given a subset of registered atlases in the target image for a particular region of interest (ROI), we first derive an appearance-shape model from these registered atlases. The unary potentials combine an appearance model based on multiple features with a label prior using a weighted voting method. The pairwise terms are defined from a Finsler metric that minimizes the surface of separation between voxels whose labels are different. The higher-order potentials used in our framework are based on the robust P(n) model proposed by Kohli et al. The higher-order potentials enforce label consistency in cliques; hence, the proposed method can be viewed as an approach to integrate high-level information with images based on low-level features. To evaluate the performance and the robustness of the proposed label fusion method, we employ two available databases of T1-weighted (T1W) magnetic resonance (MR) images of human brains. We compare our approach with other label fusion methods in the automatic hippocampal segmentation from T1W-MR images. RESULTS: Our label fusion method yields mean Dice coefficients of 0.829 and 0.790 for the two databases used with mean times of approximately 80 and 160s, respectively. CONCLUSIONS: We introduce a new label fusion method based on a CRF model and on ROIs. The CRF model is characterized by a pseudo-Boolean function defined on unary, pairwise and higher-order potentials. The proposed Boolean function is representable by graphs. A globally optimal binary labeling is found using a st-mincut algorithm in each ROI. We show that the proposed approach is very competitive with respect to recently reported methods.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Platero, Carlos",
+          "Carmen Tobar, M"
+     ],
+     "AU": [
+          "Platero C",
+          "Carmen Tobar M"
+     ],
+     "AD": "Health Science Technology Group, Technical University of Madrid, Ronda de Valencia 3, 28012 Madrid, Spain. Electronic address: carlos.platero@upm.es. Health Science Technology Group, Technical University of Madrid, Ronda de Valencia 3, 28012 Madrid, Spain.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "DEP": "20150504",
+     "PL": "Netherlands",
+     "TA": "Artif Intell Med",
+     "JT": "Artificial intelligence in medicine",
+     "JID": "8915031",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Atlases as Topic",
+          "Automation",
+          "Databases, Factual",
+          "*Decision Support Systems, Clinical",
+          "*Decision Support Techniques",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Statistical",
+          "Pattern Recognition, Automated",
+          "Predictive Value of Tests",
+          "Probability",
+          "Reproducibility of Results"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Atlas-based segmentation",
+          "Global optimization",
+          "Graph cuts",
+          "Hippocampal segmentation",
+          "Image registration",
+          "Label fusion",
+          "Magnetic resonance imaging"
+     ],
+     "EDAT": "2015/05/20 06:00",
+     "MHDA": "2016/03/11 06:00",
+     "CRDT": [
+          "2015/05/19 06:00"
+     ],
+     "PHST": [
+          "2014/09/25 00:00 [received]",
+          "2015/01/21 00:00 [revised]",
+          "2015/04/26 00:00 [accepted]",
+          "2015/05/19 06:00 [entrez]",
+          "2015/05/20 06:00 [pubmed]",
+          "2016/03/11 06:00 [medline]"
+     ],
+     "AID": [
+          "S0933-3657(15)00045-7 [pii]",
+          "10.1016/j.artmed.2015.04.005 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Artif Intell Med. 2015 Jun;64(2):117-29. doi: 10.1016/j.artmed.2015.04.005. Epub 2015 May 4.",
+     "term": "hippocampus"
+}

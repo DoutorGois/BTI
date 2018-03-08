@@ -1,0 +1,115 @@
+{
+     "PMID": "25181316",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150819",
+     "LR": "20170220",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "36",
+     "IP": "1",
+     "DP": "2015 Jan",
+     "TI": "Automated volumetry and regional thickness analysis of hippocampal subfields and medial temporal cortical structures in mild cognitive impairment.",
+     "PG": "258-87",
+     "LID": "10.1002/hbm.22627 [doi]",
+     "AB": "We evaluate a fully automatic technique for labeling hippocampal subfields and cortical subregions in the medial temporal lobe in in vivo 3 Tesla MRI. The method performs segmentation on a T2-weighted MRI scan with 0.4 x 0.4 x 2.0 mm(3) resolution, partial brain coverage, and oblique orientation. Hippocampal subfields, entorhinal cortex, and perirhinal cortex are labeled using a pipeline that combines multi-atlas label fusion and learning-based error correction. In contrast to earlier work on automatic subfield segmentation in T2-weighted MRI [Yushkevich et al., 2010], our approach requires no manual initialization, labels hippocampal subfields over a greater anterior-posterior extent, and labels the perirhinal cortex, which is further subdivided into Brodmann areas 35 and 36. The accuracy of the automatic segmentation relative to manual segmentation is measured using cross-validation in 29 subjects from a study of amnestic mild cognitive impairment (aMCI) and is highest for the dentate gyrus (Dice coefficient is 0.823), CA1 (0.803), perirhinal cortex (0.797), and entorhinal cortex (0.786) labels. A larger cohort of 83 subjects is used to examine the effects of aMCI in the hippocampal region using both subfield volume and regional subfield thickness maps. Most significant differences between aMCI and healthy aging are observed bilaterally in the CA1 subfield and in the left Brodmann area 35. Thickness analysis results are consistent with volumetry, but provide additional regional specificity and suggest nonuniformity in the effects of aMCI on hippocampal subfields and MTL cortical subregions.",
+     "CI": [
+          "(c) 2014 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Yushkevich, Paul A",
+          "Pluta, John B",
+          "Wang, Hongzhi",
+          "Xie, Long",
+          "Ding, Song-Lin",
+          "Gertje, Eske C",
+          "Mancuso, Lauren",
+          "Kliot, Daria",
+          "Das, Sandhitsu R",
+          "Wolk, David A"
+     ],
+     "AU": [
+          "Yushkevich PA",
+          "Pluta JB",
+          "Wang H",
+          "Xie L",
+          "Ding SL",
+          "Gertje EC",
+          "Mancuso L",
+          "Kliot D",
+          "Das SR",
+          "Wolk DA"
+     ],
+     "AD": "Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P30 AG010124/AG/NIA NIH HHS/United States",
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "P30AG010124/AG/NIA NIH HHS/United States",
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "R01 EB014346/EB/NIBIB NIH HHS/United States",
+          "K23 AG028018/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20140902",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Automatic Data Processing",
+          "*Brain Mapping",
+          "Cognitive Dysfunction/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Learning/physiology",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Temporal Lobe/*pathology"
+     ],
+     "PMC": "PMC4313574",
+     "MID": [
+          "NIHMS647836"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Brodmann area 35",
+          "biomarker",
+          "cornu ammonis",
+          "entorhinal cortex",
+          "hippocampus",
+          "magnetic resonance imaging",
+          "perirhinal cortex",
+          "segmentation"
+     ],
+     "EDAT": "2014/09/03 06:00",
+     "MHDA": "2015/08/20 06:00",
+     "CRDT": [
+          "2014/09/03 06:00"
+     ],
+     "PHST": [
+          "2014/03/08 00:00 [received]",
+          "2014/08/04 00:00 [revised]",
+          "2014/08/25 00:00 [accepted]",
+          "2014/09/03 06:00 [entrez]",
+          "2014/09/03 06:00 [pubmed]",
+          "2015/08/20 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.22627 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2015 Jan;36(1):258-87. doi: 10.1002/hbm.22627. Epub 2014 Sep 2.",
+     "term": "hippocampus"
+}

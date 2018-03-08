@@ -1,0 +1,68 @@
+{
+     "PMID": "17354864",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070406",
+     "LR": "20091211",
+     "VI": "9",
+     "IP": "Pt 2",
+     "DP": "2006",
+     "TI": "Brain surface conformal parameterization with algebraic functions.",
+     "PG": "946-54",
+     "AB": "In medical imaging, parameterized 3D surface models are of great interest for anatomical modeling and visualization, statistical comparisons of anatomy, and surface-based registration and signal processing. Here we introduce a parameterization method based on algebraic functions. By solving the Yamabe equation with the Ricci flow method, we can conformally map a brain surface to a multi-hole disk. The resulting parameterizations do not have any singularities and are intrinsic and stable. To illustrate the technique, we computed parameterizations of several types of anatomical surfaces in MRI scans of the brain, including the hippocampi and the cerebral cortices with various landmark curves labeled. For the cerebral cortical surfaces, we show the parameterization results are consistent with selected landmark curves and can be matched to each other using constrained harmonic maps. Unlike previous planar conformal parameterization methods, our algorithm does not introduce any singularity points. It also offers a method to explicitly match landmark curves between anatomical surfaces such as the cortex, and to compute conformal invariants for statistical comparisons of anatomy.",
+     "FAU": [
+          "Wang, Yalin",
+          "Gu, Xianfeng",
+          "Chan, Tony F",
+          "Thompson, Paul M",
+          "Yau, Shing-Tung"
+     ],
+     "AU": [
+          "Wang Y",
+          "Gu X",
+          "Chan TF",
+          "Thompson PM",
+          "Yau ST"
+     ],
+     "AD": "Mathematics Department, UCLA, Los Angeles, CA 90095, USA. ylwang@math.ucla.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Artificial Intelligence",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique",
+          "Surface Properties"
+     ],
+     "EDAT": "2007/03/16 09:00",
+     "MHDA": "2007/04/07 09:00",
+     "CRDT": [
+          "2007/03/16 09:00"
+     ],
+     "PHST": [
+          "2007/03/16 09:00 [pubmed]",
+          "2007/04/07 09:00 [medline]",
+          "2007/03/16 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2006;9(Pt 2):946-54.",
+     "term": "hippocampus"
+}

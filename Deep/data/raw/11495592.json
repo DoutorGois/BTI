@@ -1,0 +1,96 @@
+{
+     "PMID": "11495592",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20010906",
+     "LR": "20141120",
+     "IS": "0022-2623 (Print) 0022-2623 (Linking)",
+     "VI": "44",
+     "IP": "17",
+     "DP": "2001 Aug 16",
+     "TI": "Methylated analogues of methyl (R)-4-(3,4-dichlorophenylacetyl)- 3-(pyrrolidin-1-ylmethyl)piperazine-1-carboxylate (GR-89,696) as highly potent kappa-receptor agonists: stereoselective synthesis, opioid-receptor affinity, receptor selectivity, and functional studies.",
+     "PG": "2814-26",
+     "AB": "Analogues of the kappa-receptor agonist methyl (R)-4-(3,4-dichlorophenylacetyl)-3-(pyrrolidin-1-ylmethyl)piperazine-1-carboxylat e (GR-89,696, 6) bearing an additional methyl substituent in the side chain are synthesized and evaluated for their kappa-receptor affinity and selectivity. A key step in the synthesis is the stereoselective reductive amination of the ketones 9, 18, and 19 with pyrrolidine and NaBH(3)CN, which succeeds only in the presence of the Lewis acid Ti(OiPr)(4). Whereas the BOC-substituted ketone 9 affords the unlike and like diastereomers of 10 in a ratio of 70:30, the diastereoselectivity during the reductive amination of the butyl and phenyl substituted ketones 18 and 19 is enhanced to 85:15 (butyl derivative) and >95:<5 (phenyl derivative) in favor of the unlike diastereomers. In receptor binding studies using the radioligand [(3)H]U-69,593 the (S,S)-configured methyl carbamate (S,S)-14 reveals the highest kappa-receptor affinity (K(i) = 0.31 nM) within this series, even exceeding the lead kappa-agonist 6 (GR-89,696). A slightly reduced kappa-receptor affinity is observed with the propionamide (S,S)-13 (K(i) = 0.67 nM). The kappa-receptor affinity of piperazines with acyl or alkoxycarbonyl residues at both nitrogen atoms (11, 13, 14) decreases in the order (S,S) > (R,R) > (S,R) > (R,S). The methyl carbamate (S,S)-14 discloses a unique activity profile also binding at mu-receptors in the subnanomolar range (K(i) = 0.36 nM). In a functional assay, i.e., by measuring acetylcholine release in rabbit hippocampus slices, the agonistic effects of the methyl carbamate (S,S)-14 and the propionamide (S,S)-13 are demonstrated. Only weak kappa- and mu-receptor affinities are found with the butyl- and phenyl-substituted piperazines 22 and 23. However, considerable sigma(1)-receptor affinity is determined for the enantiomeric, unlike-configured butyl derivatives (R,S)-22 and (S,R)-22 with K(i)-values of 40.2 nM and 81.0 nM, respectively.",
+     "FAU": [
+          "Soukara, S",
+          "Maier, C A",
+          "Predoiu, U",
+          "Ehret, A",
+          "Jackisch, R",
+          "Wunsch, B"
+     ],
+     "AU": [
+          "Soukara S",
+          "Maier CA",
+          "Predoiu U",
+          "Ehret A",
+          "Jackisch R",
+          "Wunsch B"
+     ],
+     "AD": "Pharmazeutisches Institut der Universitat Freiburg, Hermann-Herder-Strasse 9, 79104 Freiburg i. Br., Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Med Chem",
+     "JT": "Journal of medicinal chemistry",
+     "JID": "9716531",
+     "RN": [
+          "0",
+          "(1-(4-butyl-2-(1-(pyrrolidin-1-yl)ethyl)piperazin-1-yl)-2-(3.,4-dichlorophenyl)et",
+          "han-1-one)",
+          "0 (Piperazines)",
+          "0 (Pyrrolidines)",
+          "0 (Receptors, N-Methyl-D-Aspartate)",
+          "0 (Receptors, Opioid, delta)",
+          "0 (Receptors, Opioid, kappa)",
+          "0 (Receptors, Opioid, mu)",
+          "126766-32-3 (GR 89696)",
+          "67198-13-4",
+          "(3,4-Dichloro-N-methyl-N-(2-(1-pyrrolidinyl)-cyclohexyl)-benzeneacetamide,",
+          "(trans)-Isomer)",
+          "N9YNS0M02X (Acetylcholine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "3,4-Dichloro-N-methyl-N-(2-(1-pyrrolidinyl)-cyclohexyl)-benzeneacetamide, (trans)-Isomer/chemistry",
+          "Acetylcholine/metabolism",
+          "Animals",
+          "Binding Sites",
+          "Brain/metabolism",
+          "Electric Stimulation",
+          "Guinea Pigs",
+          "Hippocampus/metabolism",
+          "In Vitro Techniques",
+          "Piperazines/*chemical synthesis/chemistry/metabolism/pharmacology",
+          "Pyrrolidines/*chemical synthesis/chemistry/metabolism/pharmacology",
+          "Rabbits",
+          "Radioligand Assay",
+          "Receptors, N-Methyl-D-Aspartate/metabolism",
+          "Receptors, Opioid, delta/metabolism",
+          "Receptors, Opioid, kappa/*agonists/metabolism",
+          "Receptors, Opioid, mu/metabolism",
+          "Stereoisomerism",
+          "Structure-Activity Relationship"
+     ],
+     "EDAT": "2001/08/10 10:00",
+     "MHDA": "2001/09/08 10:01",
+     "CRDT": [
+          "2001/08/10 10:00"
+     ],
+     "PHST": [
+          "2001/08/10 10:00 [pubmed]",
+          "2001/09/08 10:01 [medline]",
+          "2001/08/10 10:00 [entrez]"
+     ],
+     "AID": [
+          "jm0108395 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Med Chem. 2001 Aug 16;44(17):2814-26.",
+     "term": "hippocampus"
+}

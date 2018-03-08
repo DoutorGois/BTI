@@ -1,0 +1,96 @@
+{
+     "PMID": "26960946",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180220",
+     "LR": "20180220",
+     "IS": "1931-7565 (Electronic) 1931-7557 (Linking)",
+     "VI": "11",
+     "IP": "2",
+     "DP": "2017 Apr",
+     "TI": "\"Small World\" architecture in brain connectivity and hippocampal volume in Alzheimer's disease: a study via graph theory from EEG data.",
+     "PG": "473-485",
+     "LID": "10.1007/s11682-016-9528-3 [doi]",
+     "AB": "Brain imaging plays an important role in the study of Alzheimer's disease (AD), where atrophy has been found to occur in the hippocampal formation during the very early disease stages and to progress in parallel with the disease's evolution. The aim of the present study was to evaluate a possible correlation between \"Small World\" characteristics of the brain connectivity architecture-as extracted from EEG recordings-and hippocampal volume in AD patients. A dataset of 144 subjects, including 110 AD (MMSE 21.3) and 34 healthy Nold (MMSE 29.8) individuals, was evaluated. Weighted and undirected networks were built by the eLORETA solutions of the cortical sources' activities moving from EEG recordings. The evaluation of the hippocampal volume was carried out on a subgroup of 60 AD patients who received a high-resolution T1-weighted sequence and underwent processing for surface-based cortex reconstruction and volumetric segmentation using the Freesurfer image analysis software. Results showed that, quantitatively, more correlation was observed in the right hemisphere, but the same trend was seen in both hemispheres. Alpha band connectivity was negatively correlated, while slow (delta) and fast-frequency (beta, gamma) bands positively correlated with hippocampal volume. Namely, the larger the hippocampal volume, the lower the alpha and the higher the delta, beta, and gamma Small World characteristics of connectivity. Accordingly, the Small World connectivity pattern could represent a functional counterpart of structural hippocampal atrophying and related-network disconnection.",
+     "FAU": [
+          "Vecchio, Fabrizio",
+          "Miraglia, Francesca",
+          "Piludu, Francesca",
+          "Granata, Giuseppe",
+          "Romanello, Roberto",
+          "Caulo, Massimo",
+          "Onofrj, Valeria",
+          "Bramanti, Placido",
+          "Colosimo, Cesare",
+          "Rossini, Paolo Maria"
+     ],
+     "AU": [
+          "Vecchio F",
+          "Miraglia F",
+          "Piludu F",
+          "Granata G",
+          "Romanello R",
+          "Caulo M",
+          "Onofrj V",
+          "Bramanti P",
+          "Colosimo C",
+          "Rossini PM"
+     ],
+     "AD": "Brain Connectivity Laboratory, IRCCS San Raffaele Pisana, Via Val Cannuta, 247, 00166, Rome, Italy. fabrizio.vecchio@uniroma1.it. Brain Connectivity Laboratory, IRCCS San Raffaele Pisana, Via Val Cannuta, 247, 00166, Rome, Italy. IRCCS Centro Neurolesi Bonino-Pulejo, Messina, Italy. Department of Radiologic Sciences, Catholic University, Policlinic A. Gemelli, Rome, Italy. Brain Connectivity Laboratory, IRCCS San Raffaele Pisana, Via Val Cannuta, 247, 00166, Rome, Italy. Brain Connectivity Laboratory, IRCCS San Raffaele Pisana, Via Val Cannuta, 247, 00166, Rome, Italy. Department of Neuorscience, Imaging and Clinical Sciences, University of Chieti, Chieti, Italy. Department of Radiologic Sciences, Catholic University, Policlinic A. Gemelli, Rome, Italy. IRCCS Centro Neurolesi Bonino-Pulejo, Messina, Italy. Department of Radiologic Sciences, Catholic University, Policlinic A. Gemelli, Rome, Italy. Brain Connectivity Laboratory, IRCCS San Raffaele Pisana, Via Val Cannuta, 247, 00166, Rome, Italy. Department of Geriatrics, Neuroscience & Orthopedics, Institute of Neurology, Catholic University, Policlinic A. Gemelli, Rome, Italy.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Brain Imaging Behav",
+     "JT": "Brain imaging and behavior",
+     "JID": "101300405",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/pathology/*physiopathology",
+          "*Brain Waves",
+          "Computer Simulation",
+          "Connectome/*methods",
+          "Electroencephalography/*methods",
+          "Female",
+          "Hippocampus/pathology/*physiopathology",
+          "Humans",
+          "Male",
+          "*Models, Neurological",
+          "Nerve Net/pathology/*physiopathology",
+          "Neural Pathways/pathology/physiopathology",
+          "Organ Size"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer",
+          "EEG",
+          "Functional connectivity",
+          "Graph theory",
+          "Hippocampus",
+          "MRI",
+          "eLORETA"
+     ],
+     "EDAT": "2016/03/11 06:00",
+     "MHDA": "2018/02/21 06:00",
+     "CRDT": [
+          "2016/03/11 06:00"
+     ],
+     "PHST": [
+          "2016/03/11 06:00 [pubmed]",
+          "2018/02/21 06:00 [medline]",
+          "2016/03/11 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s11682-016-9528-3 [doi]",
+          "10.1007/s11682-016-9528-3 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Imaging Behav. 2017 Apr;11(2):473-485. doi: 10.1007/s11682-016-9528-3.",
+     "term": "hippocampus"
+}

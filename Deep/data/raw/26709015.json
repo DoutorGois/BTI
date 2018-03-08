@@ -1,0 +1,109 @@
+{
+     "PMID": "26709015",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161031",
+     "LR": "20170301",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "261",
+     "DP": "2016 Mar 1",
+     "TI": "Methodology for computing white matter nerve fiber orientation in human histological slices.",
+     "PG": "75-84",
+     "LID": "10.1016/j.jneumeth.2015.11.023 [doi] S0165-0270(15)00425-2 [pii]",
+     "AB": "BACKGROUND: The gold standard for mapping nerve fiber orientation in white matter of the human brain is histological analysis through biopsy. Such mappings are a crucial step in validating non-invasive techniques for assessing nerve fiber orientation in the human brain by using diffusion MRI. However, the manual extraction of nerve fiber directions of histological slices is tedious, time consuming, and prone to human error. NEW METHOD: The presented semi-automated algorithm first creates a binary-segmented mask of the nerve fibers in the histological image, and then extracts an estimate of average directionality of nerve fibers through a Fourier-domain analysis of the masked image. It also generates an uncertainty level for its estimate of average directionality. RESULTS AND COMPARISON WITH EXISTING METHODS: The average orientations of the semi-automatic method were first compared to a qualitative expert opinion based on visual inspection of nerve fibers. A weighted RMS difference between the expert estimate and the algorithmically determined angle (weighted by expert's confidence in his estimate) was 15.4 degrees , dropping to 9.9 degrees when only cases with an expert confidence level of greater than 50% were included. The algorithmically determined angles were then compared with angles extracted using a manual segmentation technique, yielding an RMS difference of 11.2 degrees . CONCLUSION: The presented semi-automated method is in good agreement with both qualitative and quantitative manual expert-based approaches for estimating directionality of nerve fibers in white matter from images of stained histological slices of the human brain.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Nazaran, Amin",
+          "Wisco, Jonathan J",
+          "Hageman, Nathan",
+          "Schettler, Stephen P",
+          "Wong, Anita",
+          "Vinters, Harry V",
+          "Teng, Chia-Chi",
+          "Bangerter, Neal K"
+     ],
+     "AU": [
+          "Nazaran A",
+          "Wisco JJ",
+          "Hageman N",
+          "Schettler SP",
+          "Wong A",
+          "Vinters HV",
+          "Teng CC",
+          "Bangerter NK"
+     ],
+     "AD": "Electrical and Computer Engineering Department, Brigham Young University, 437 CB, Provo, UT 84602, United States. Electronic address: anazaran106@gmail.com. Department of Physiology and Developmental Biology, and Neuroscience Center, Brigham Young University, Provo, UT 84602, United States; Department of Neurobiology and Anatomy, University of Utah School of Medicine, Salt Lake City, UT 84132, United States. Electronic address: jjwisco@byu.edu. Department of Pathology & Laboratory Medicine, David Geffen School of Medicine at UCLA, Los Angeles, CA, United States. Electronic address: nhageman@ucla.edu. Department of Pathology & Laboratory Medicine, David Geffen School of Medicine at UCLA, Los Angeles, CA, United States. Electronic address: sschettler@mednet.ucla.edu. Department of Pathology & Laboratory Medicine, David Geffen School of Medicine at UCLA, Los Angeles, CA, United States. Electronic address: anitawong@mednet.ucla.edu. Department of Pathology & Laboratory Medicine, David Geffen School of Medicine at UCLA, Los Angeles, CA, United States. Electronic address: hvinters@mednet.ucla.edu. School of Technology, Brigham Young University, 265 CTB, Provo, UT 84602, United States. Electronic address: ccteng@byu.edu. Electrical and Computer Engineering Department, Brigham Young University, 437 CB, Provo, UT 84602, United States. Electronic address: nealb@ee.byu.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R21 AG037843/AG/NIA NIH HHS/United States",
+          "NIH/NIA 1 R21 AG037843/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20151217",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Fourier Analysis",
+          "Hippocampus/anatomy & histology",
+          "Histological Techniques/*methods",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "*Nerve Fibers, Myelinated",
+          "Pattern Recognition, Automated/*methods",
+          "White Matter/*anatomy & histology"
+     ],
+     "PMC": "PMC5299966",
+     "MID": [
+          "NIHMS749927"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Average orientation",
+          "Fiber tracking",
+          "Fourier transform",
+          "Histology",
+          "Nerve fibers",
+          "Nerve fibers orientation",
+          "Orientation map",
+          "White matter"
+     ],
+     "EDAT": "2015/12/29 06:00",
+     "MHDA": "2016/11/01 06:00",
+     "CRDT": [
+          "2015/12/29 06:00"
+     ],
+     "PMCR": [
+          "2017/03/01 00:00"
+     ],
+     "PHST": [
+          "2015/06/28 00:00 [received]",
+          "2015/11/14 00:00 [revised]",
+          "2015/11/24 00:00 [accepted]",
+          "2017/03/01 00:00 [pmc-release]",
+          "2015/12/29 06:00 [entrez]",
+          "2015/12/29 06:00 [pubmed]",
+          "2016/11/01 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(15)00425-2 [pii]",
+          "10.1016/j.jneumeth.2015.11.023 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2016 Mar 1;261:75-84. doi: 10.1016/j.jneumeth.2015.11.023. Epub 2015 Dec 17.",
+     "term": "hippocampus"
+}

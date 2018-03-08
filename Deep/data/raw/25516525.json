@@ -1,0 +1,60 @@
+{
+     "PMID": "25516525",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150726",
+     "LR": "20141217",
+     "IS": "0371-0874 (Print) 0371-0874 (Linking)",
+     "VI": "66",
+     "IP": "6",
+     "DP": "2014 Dec 25",
+     "TI": "[Multi-channel in vivo recording techniques: analysis of phase coupling between spikes and rhythmic oscillations of local field potentials].",
+     "PG": "746-55",
+     "AB": "The purpose of this article is to introduce the measurements of phase coupling between spikes and rhythmic oscillations of local field potentials (LFPs). Multi-channel in vivo recording techniques allow us to record ensemble neuronal activity and LFPs simultaneously from the same sites in the brain. Neuronal activity is generally characterized by temporal spike sequences, while LFPs contain oscillatory rhythms in different frequency ranges. Phase coupling analysis can reveal the temporal relationships between neuronal firing and LFP rhythms. As the first step, the instantaneous phase of LFP rhythms can be calculated using Hilbert transform, and then for each time-stamped spike occurred during an oscillatory epoch, we marked instantaneous phase of the LFP at that time stamp. Finally, the phase relationships between the neuronal firing and LFP rhythms were determined by examining the distribution of the firing phase. Phase-locked spikes are revealed by the non-random distribution of spike phase. Theta phase precession is a unique phase relationship between neuronal firing and LFPs, which is one of the basic features of hippocampal place cells. Place cells show rhythmic burst firing following theta oscillation within a place field. And phase precession refers to that rhythmic burst firing shifted in a systematic way during traversal of the field, moving progressively forward on each theta cycle. This relation between phase and position can be described by a linear model, and phase precession is commonly quantified with a circular-linear coefficient. Phase coupling analysis helps us to better understand the temporal information coding between neuronal firing and LFPs.",
+     "FAU": [
+          "Wang, Ce-Qun",
+          "Chen, Qiang",
+          "Zhang, Lu",
+          "Xu, Jia-Min",
+          "Lin, Long-Nian"
+     ],
+     "AU": [
+          "Wang CQ",
+          "Chen Q",
+          "Zhang L",
+          "Xu JM",
+          "Lin LN"
+     ],
+     "AD": "Key Laboratory of Brain Functional Genomics (Ministry of Education and Shanghai Municipality), School of Life Sciences, East China Normal University, Shanghai 200062, China. lnlin@brain.ecnu.edu.cn.",
+     "LA": [
+          "chi"
+     ],
+     "PT": [
+          "English Abstract",
+          "Journal Article"
+     ],
+     "PL": "China",
+     "TA": "Sheng Li Xue Bao",
+     "JT": "Sheng li xue bao : [Acta physiologica Sinica]",
+     "JID": "20730130R",
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials",
+          "Hippocampus/*physiology",
+          "Neurons/physiology",
+          "*Periodicity"
+     ],
+     "EDAT": "2014/12/18 06:00",
+     "MHDA": "2015/07/28 06:00",
+     "CRDT": [
+          "2014/12/18 06:00"
+     ],
+     "PHST": [
+          "2014/12/18 06:00 [entrez]",
+          "2014/12/18 06:00 [pubmed]",
+          "2015/07/28 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Sheng Li Xue Bao. 2014 Dec 25;66(6):746-55.",
+     "term": "place cells"
+}

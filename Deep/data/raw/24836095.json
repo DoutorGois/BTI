@@ -1,0 +1,78 @@
+{
+     "PMID": "24836095",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150115",
+     "LR": "20170220",
+     "IS": "1741-2552 (Electronic) 1741-2552 (Linking)",
+     "VI": "11",
+     "IP": "3",
+     "DP": "2014 Jun",
+     "TI": "Empirical models of scalp-EEG responses using non-concurrent intracranial responses.",
+     "PG": "035012",
+     "LID": "10.1088/1741-2560/11/3/035012 [doi]",
+     "AB": "OBJECTIVE: This study presents inter-subject models of scalp-recorded electroencephalographic (sEEG) event-related potentials (ERPs) using intracranially recorded ERPs from electrocorticography and stereotactic depth electrodes in the hippocampus, generally termed as intracranial EEG (iEEG). APPROACH: The participants were six patients with medically-intractable epilepsy that underwent temporary placement of intracranial electrode arrays to localize seizure foci. Participants performed one experimental session using a brain-computer interface matrix spelling paradigm controlled by sEEG prior to the iEEG electrode implantation, and one or more identical sessions controlled by iEEG after implantation. All participants were able to achieve excellent spelling accuracy using sEEG, four of the participants achieved roughly equivalent performance in the iEEG sessions, and all participants were significantly above chance accuracy for the iEEG sessions. The sERPs were modeled using a linear combination of iERPs using two different optimization criteria. MAIN RESULTS: The results indicate that sERPs can be accurately estimated from the iERPs for the patients that exhibited stable ERPs over the respective sessions, and that the transformed iERPs can be accurately classified with an sERP-derived classifier. SIGNIFICANCE: The resulting models provide a new empirical representation of the formation and distribution of sERPs from underlying composite iERPs. These new insights provide a better understanding of ERP relationships and can potentially lead to the development of more robust signal processing methods for noninvasive EEG applications.",
+     "FAU": [
+          "Kaur, Komalpreet",
+          "Shih, Jerry J",
+          "Krusienski, Dean J"
+     ],
+     "AU": [
+          "Kaur K",
+          "Shih JJ",
+          "Krusienski DJ"
+     ],
+     "AD": "Old Dominion University, Department Electrical & Computer Engineering, Norfolk, VA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB000856/EB/NIBIB NIH HHS/United States",
+          "NIBIB/NINDS EB00856/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20140519",
+     "PL": "England",
+     "TA": "J Neural Eng",
+     "JT": "Journal of neural engineering",
+     "JID": "101217933",
+     "SB": "IM",
+     "MH": [
+          "Brain/*physiopathology",
+          "*Brain-Computer Interfaces",
+          "Communication Aids for Disabled",
+          "Computer Simulation",
+          "Electroencephalography/*methods",
+          "Epilepsy/*physiopathology",
+          "*Evoked Potentials",
+          "Humans",
+          "*Models, Neurological",
+          "Scalp/physiopathology",
+          "*Visual Perception"
+     ],
+     "PMC": "PMC4100981",
+     "MID": [
+          "NIHMS600069"
+     ],
+     "EDAT": "2014/05/20 06:00",
+     "MHDA": "2015/01/16 06:00",
+     "CRDT": [
+          "2014/05/20 06:00"
+     ],
+     "PHST": [
+          "2014/05/20 06:00 [entrez]",
+          "2014/05/20 06:00 [pubmed]",
+          "2015/01/16 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1088/1741-2560/11/3/035012 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neural Eng. 2014 Jun;11(3):035012. doi: 10.1088/1741-2560/11/3/035012. Epub 2014 May 19.",
+     "term": "hippocampus"
+}

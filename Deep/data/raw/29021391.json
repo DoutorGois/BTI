@@ -1,0 +1,66 @@
+{
+     "PMID": "29021391",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20180131",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "119",
+     "IP": "1",
+     "DP": "2018 Jan 1",
+     "TI": "A dual-axis rotation rule for updating the head direction cell reference frame during movement in three dimensions.",
+     "PG": "192-208",
+     "LID": "10.1152/jn.00501.2017 [doi]",
+     "AB": "In the mammalian brain, allocentric (Earth-referenced) head direction, called azimuth, is encoded by head direction (HD) cells, which fire according to the facing direction of the animal's head. On a horizontal surface, rotations of the head around the dorsoventral (D-V) axis, called yaw, correspond to changes in azimuth and elicit appropriate updating of the HD \"compass\" signal to enable large-scale navigation. However, if the animal moves through three-dimensional (3D) space then there is no longer a simple relationship between yaw rotations and azimuth changes, and so processing of 3D rotations is needed. Construction of a global 3D compass would require complex integration of 3D rotations, and also a large neuronal population, most neurons of which would be silent most of the time since animals rarely sample all available 3D orientations. We propose that, instead, the HD system treats the 3D space as a set of interrelated 2D surfaces. It could do this by updating activity according to both yaw rotations around the D-V axis and rotations of the D-V axis around the gravity-defined vertical axis. We present preliminary data to suggest that this rule operates when rats move between walls of opposing orientations. This dual-axis rule, which we show is straightforward to implement using the classic one-dimensional \"attractor\" architecture, allows consistent representation of azimuth even in volumetric space and thus may be a general feature of mammalian directional computations even for animals that swim or fly. NEW & NOTEWORTHY Maintaining a sense of direction is complicated when moving in three-dimensional (3D) space. Head direction cells, which update the direction sense based on head rotations, may accommodate 3D movement by processing both rotations of the head around the axis of the animal's body and rotations of the head/body around gravity. With modeling we show that this dual-axis rule works in principle, and we present preliminary data to support its operation in rats.",
+     "FAU": [
+          "Page, Hector J I",
+          "Wilson, Jonathan J",
+          "Jeffery, Kate J"
+     ],
+     "AU": [
+          "Page HJI",
+          "Wilson JJ",
+          "Jeffery KJ"
+     ],
+     "AD": "Institute of Behavioural Neuroscience, Department of Experimental Psychology, Division of Psychology and Language Sciences, University College London , London , United Kingdom. Institute of Behavioural Neuroscience, Department of Experimental Psychology, Division of Psychology and Language Sciences, University College London , London , United Kingdom. Institute of Behavioural Neuroscience, Department of Experimental Psychology, Division of Psychology and Language Sciences, University College London , London , United Kingdom.",
+     "AUID": [
+          "ORCID: 0000-0002-9495-0378"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171011",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*hippocampus",
+          "*navigation",
+          "*path integration",
+          "*spatial cognition",
+          "*three-dimensional space"
+     ],
+     "EDAT": "2017/10/13 06:00",
+     "MHDA": "2017/10/13 06:00",
+     "CRDT": [
+          "2017/10/13 06:00"
+     ],
+     "PHST": [
+          "2017/10/13 06:00 [pubmed]",
+          "2017/10/13 06:00 [medline]",
+          "2017/10/13 06:00 [entrez]"
+     ],
+     "AID": [
+          "jn.00501.2017 [pii]",
+          "10.1152/jn.00501.2017 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2018 Jan 1;119(1):192-208. doi: 10.1152/jn.00501.2017. Epub 2017 Oct 11.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,129 @@
+{
+     "PMID": "27108687",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171117",
+     "LR": "20171201",
+     "IS": "1872-9711 (Electronic) 0161-813X (Linking)",
+     "VI": "54",
+     "DP": "2016 May",
+     "TI": "Modeling and simulation of organophosphate-induced neurotoxicity: Prediction and validation by experimental studies.",
+     "PG": "140-152",
+     "LID": "S0161-813X(16)30058-4 [pii] 10.1016/j.neuro.2016.04.013 [doi]",
+     "AB": "Exposure to organophosphorus (OP) compounds, either pesticides or chemical warfare agents, represents a major health problem. As potent irreversible inhibitors of cholinesterase, OP may induce seizures, as in status epilepticus, and occasionally brain lesions. Although these compounds are extremely toxic agents, the search for novel antidotes remains extremely limited. In silico modeling constitutes a useful tool to identify pharmacological targets and to develop efficient therapeutic strategies. In the present work, we developed a new in silico simulator in order to predict the neurotoxicity of irreversible inhibitors of acetyl- and/or butyrylcholinesterase (ChE) as well as the potential neuroprotection provided by antagonists of cholinergic muscarinic and glutamate N-methyl-d-aspartate (NMDA) receptors. The simulator reproduced firing of CA1 hippocampal neurons triggered by exposure to paraoxon (POX), as found in patch-clamp recordings in in vitro mouse hippocampal slices. In the case of POX intoxication, it predicted a preventing action of the muscarinic receptor antagonist atropine sulfate, as well as a synergistic action with the non-competitive NMDA receptor antagonist memantine. These in silico predictions relative to beneficial effects of atropine sulfate combined with memantine were recapitulated experimentally in an in vivo model of POX in adult male Swiss mice using electroencephalic (EEG) recordings. Thus, our simulator is a new powerful tool to identify protective therapeutic strategies against OP central effects, by screening various combinations of muscarinic and NMDA receptor antagonists.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Greget, Renaud",
+          "Dadak, Selma",
+          "Barbier, Laure",
+          "Lauga, Fabien",
+          "Linossier-Pierre, Sandra",
+          "Pernot, Fabien",
+          "Legendre, Arnaud",
+          "Ambert, Nicolas",
+          "Bouteiller, Jean-Marie",
+          "Dorandeu, Frederic",
+          "Bischoff, Serge",
+          "Baudry, Michel",
+          "Fagni, Laurent",
+          "Moussaoui, Saliha"
+     ],
+     "AU": [
+          "Greget R",
+          "Dadak S",
+          "Barbier L",
+          "Lauga F",
+          "Linossier-Pierre S",
+          "Pernot F",
+          "Legendre A",
+          "Ambert N",
+          "Bouteiller JM",
+          "Dorandeu F",
+          "Bischoff S",
+          "Baudry M",
+          "Fagni L",
+          "Moussaoui S"
+     ],
+     "AD": "Rhenovia Pharma SAS, Mulhouse, France. Institut de Genomique Fonctionnelle, CNRS, UMR-5203, INSERM, U1191, Universite de Montpellier, Montpellier F-34094, France. Institut de Recherche Biomedicale des Armees (IRBA), Departement de Toxicologie et Risques Chimiques, Bretigny sur Orge, France. Institut de Recherche Biomedicale des Armees (IRBA), Departement de Toxicologie et Risques Chimiques, Bretigny sur Orge, France. Institut de Recherche Biomedicale des Armees (IRBA), Departement de Toxicologie et Risques Chimiques, Bretigny sur Orge, France. Rhenovia Pharma SAS, Mulhouse, France. Rhenovia Pharma SAS, Mulhouse, France. Rhenovia Pharma SAS, Mulhouse, France. Rhenovia Pharma SAS, Mulhouse, France. Institut de Recherche Biomedicale des Armees (IRBA), Departement de Toxicologie et Risques Chimiques, Bretigny sur Orge, France; Ecole du Val-de-Grace, Paris, France. Rhenovia Pharma SAS, Mulhouse, France. Rhenovia Pharma SAS, Mulhouse, France. Institut de Genomique Fonctionnelle, CNRS, UMR-5203, INSERM, U1191, Universite de Montpellier, Montpellier F-34094, France. Rhenovia Pharma SAS, Mulhouse, France. Electronic address: saliha.moussaoui.m@gmail.com.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160421",
+     "PL": "Netherlands",
+     "TA": "Neurotoxicology",
+     "JT": "Neurotoxicology",
+     "JID": "7905589",
+     "RN": [
+          "0 (Cholinesterase Reactivators)",
+          "0 (Enzyme Inhibitors)",
+          "0 (Excitatory Amino Acid Antagonists)",
+          "0 (Organophosphates)",
+          "0 (Oximes)",
+          "0 (Pyridinium Compounds)",
+          "EC 3.1.1.7 (Acetylcholinesterase)",
+          "HUV88P6SJS (asoxime chloride)",
+          "Q9CX8P80JW (Paraoxon)",
+          "W8O17SJF3T (Memantine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Acetylcholinesterase/metabolism",
+          "Animals",
+          "Brain Waves/drug effects",
+          "Cholinesterase Reactivators/pharmacology",
+          "*Computer Simulation",
+          "Disease Models, Animal",
+          "Enzyme Inhibitors/therapeutic use",
+          "Excitatory Amino Acid Antagonists/pharmacology",
+          "Excitatory Postsynaptic Potentials/drug effects",
+          "Hippocampus/drug effects/metabolism",
+          "Male",
+          "Memantine/pharmacology",
+          "Membrane Potentials/drug effects",
+          "Mice",
+          "*Models, Neurological",
+          "Neurons/drug effects",
+          "Neurotoxicity Syndromes/drug therapy/*etiology/pathology/physiopathology",
+          "Organophosphates/*toxicity",
+          "Oximes/pharmacology",
+          "Paraoxon/*toxicity",
+          "Pyridinium Compounds/pharmacology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*Acetyl- and/or butyryl-cholinesterase",
+          "*Acetylcholine",
+          "*N-Methyl-d-aspartate",
+          "*Organophosphorus",
+          "*Paraoxon",
+          "*gamma-Aminobutyric acid"
+     ],
+     "EDAT": "2016/04/26 06:00",
+     "MHDA": "2017/11/29 06:00",
+     "CRDT": [
+          "2016/04/26 06:00"
+     ],
+     "PHST": [
+          "2015/11/16 00:00 [received]",
+          "2016/02/07 00:00 [revised]",
+          "2016/04/19 00:00 [accepted]",
+          "2016/04/26 06:00 [entrez]",
+          "2016/04/26 06:00 [pubmed]",
+          "2017/11/29 06:00 [medline]"
+     ],
+     "AID": [
+          "S0161-813X(16)30058-4 [pii]",
+          "10.1016/j.neuro.2016.04.013 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neurotoxicology. 2016 May;54:140-152. doi: 10.1016/j.neuro.2016.04.013. Epub 2016 Apr 21.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,64 @@
+{
+     "PMID": "18533817",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090414",
+     "LR": "20081031",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "20",
+     "IP": "12",
+     "DP": "2008 Dec",
+     "TI": "Gamma oscillations in a nonlinear regime: a minimal model approach using heterogeneous integrate-and-fire networks.",
+     "PG": "2973-3002",
+     "LID": "10.1162/neco.2008.11-07-636 [doi]",
+     "AB": "Fast oscillations and in particular gamma-band oscillation (20-80 Hz) are commonly observed during brain function and are at the center of several neural processing theories. In many cases, mathematical analysis of fast oscillations in neural networks has been focused on the transition between irregular and oscillatory firing viewed as an instability of the asynchronous activity. But in fact, brain slice experiments as well as detailed simulations of biological neural networks have produced a large corpus of results concerning the properties of fully developed oscillations that are far from this transition point. We propose here a mathematical approach to deal with nonlinear oscillations in a network of heterogeneous or noisy integrate-and-fire neurons connected by strong inhibition. This approach involves limited mathematical complexity and gives a good sense of the oscillation mechanism, making it an interesting tool to understand fast rhythmic activity in simulated or biological neural networks. A surprising result of our approach is that under some conditions, a change of the strength of inhibition only weakly influences the period of the oscillation. This is in contrast to standard theoretical and experimental models of interneuron network gamma oscillations (ING), where frequency tightly depends on inhibition strength, but it is similar to observations made in some in vitro preparations in the hippocampus and the olfactory bulb and in some detailed network models. This result is explained by the phenomenon of suppression that is known to occur in strongly coupled oscillating inhibitory networks but had not yet been related to the behavior of oscillation frequency.",
+     "FAU": [
+          "Bathellier, Brice",
+          "Carleton, Alan",
+          "Gerstner, Wulfram"
+     ],
+     "AU": [
+          "Bathellier B",
+          "Carleton A",
+          "Gerstner W"
+     ],
+     "AD": "Laboratory of Computational Neuroscience and Flavour Perception Group, Brain and Mind Institute, Ecole Polytechnique Federale de Lausanne, Lausanne-EPFL, Switzerland. brice.bathellier@a3.epfl.ch",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Letter"
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "*Biological Clocks",
+          "Brain/cytology/physiology",
+          "Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "*Nonlinear Dynamics",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2008/06/07 09:00",
+     "MHDA": "2009/04/15 09:00",
+     "CRDT": [
+          "2008/06/07 09:00"
+     ],
+     "PHST": [
+          "2008/06/07 09:00 [pubmed]",
+          "2009/04/15 09:00 [medline]",
+          "2008/06/07 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/neco.2008.11-07-636 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2008 Dec;20(12):2973-3002. doi: 10.1162/neco.2008.11-07-636.",
+     "term": "hippocampus"
+}

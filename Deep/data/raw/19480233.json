@@ -1,0 +1,68 @@
+{
+     "PMID": "19480233",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090626",
+     "LR": "20170220",
+     "IS": "0161-8105 (Print) 0161-8105 (Linking)",
+     "VI": "32",
+     "IP": "5",
+     "DP": "2009 May",
+     "TI": "The time course of the probability of transition into and out of REM sleep.",
+     "PG": "655-69",
+     "AB": "STUDY OBJECTIVES: A model of rapid eye movement (REM) sleep expression is proposed that assumes underlying regulatory mechanisms operating as inhomogenous Poisson processes, the overt results of which are the transitions into and out of REM sleep. DESIGN: Based on spontaneously occurring REM sleep episodes (\"Episode\") and intervals without REM sleep (\"Interval\"), 3 variables are defined and evaluated over discrete 15-second epochs using a nonlinear logistic regression method: \"Propensity\" is the instantaneous rate of into-REM transition occurrence throughout an Interval, \"Volatility\" is the instantaneous rate of out-of-REM transition occurrence throughout an Episode, and \"Opportunity\" is the probability of being in non-REM (NREM) sleep at a given time throughout an Interval, a requisite for transition. SETTING: 12:12 light:dark cycle, isolated boxes. PARTICIPANTS: Sixteen male Sprague-Dawley rats. INTERVENTIONS: None. Spontaneous sleep cycles. MEASUREMENTS AND RESULTS: The highest levels of volatility and propensity occur, respectively, at the very beginning of Episodes and Intervals. The new condition stabilizes rapidly, and variables reach nadirs at minute 1.25 and 2.50, respectively. Afterward, volatility increases markedly, reaching values close to the initial level. Propensity increases moderately, the increment being stronger through NREM sleep bouts occurring at the end of long Intervals. Short-term homeostasis is evidenced by longer REM sleep episodes lowering propensity in the following Interval. CONCLUSIONS: The stabilization after transitions into Episodes or Intervals and the destabilization after remaining for some time in either condition may be described as resulting from continuous processes building up during Episodes and intervals. These processes underlie the overt occurrence of transitions.",
+     "FAU": [
+          "Bassi, Alejandro",
+          "Vivaldi, Ennio A",
+          "Ocampo-Garces, Adrian"
+     ],
+     "AU": [
+          "Bassi A",
+          "Vivaldi EA",
+          "Ocampo-Garces A"
+     ],
+     "AD": "Department of Computer Sciences, Faculty of Physical and Mathematical Sciences, University of Chile, Santiago, Chile.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Sleep",
+     "JT": "Sleep",
+     "JID": "7809084",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cerebral Cortex/physiology",
+          "Computer Graphics",
+          "Electroencephalography/*statistics & numerical data",
+          "Electromyography/*statistics & numerical data",
+          "Hippocampus/physiology",
+          "Male",
+          "Motor Neurons/physiology",
+          "Neck Muscles/innervation",
+          "Poisson Distribution",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "*Signal Processing, Computer-Assisted",
+          "Sleep Stages/physiology",
+          "*Sleep, REM/physiology"
+     ],
+     "PMC": "PMC2675901",
+     "EDAT": "2009/06/02 09:00",
+     "MHDA": "2009/06/27 09:00",
+     "CRDT": [
+          "2009/06/02 09:00"
+     ],
+     "PHST": [
+          "2009/06/02 09:00 [entrez]",
+          "2009/06/02 09:00 [pubmed]",
+          "2009/06/27 09:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Sleep. 2009 May;32(5):655-69.",
+     "term": "hippocampus"
+}

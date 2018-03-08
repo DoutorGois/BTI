@@ -1,0 +1,81 @@
+{
+     "PMID": "23526999",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130920",
+     "LR": "20161019",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "3",
+     "DP": "2013",
+     "TI": "Development of antipsychotic medications with novel mechanisms of action based on computational modeling of hippocampal neuropathology.",
+     "PG": "e58607",
+     "LID": "10.1371/journal.pone.0058607 [doi]",
+     "AB": "A large number of cellular level abnormalities have been identified in the hippocampus of schizophrenic subjects. Nonetheless, it remains uncertain how these pathologies interact at a system level to create clinical symptoms, and this has hindered the development of more effective antipsychotic medications. Using a 72-processor supercomputer, we created a tissue level hippocampal simulation, featuring multicompartmental neuron models with multiple ion channel subtypes and synaptic channels with realistic temporal dynamics. As an index of the schizophrenic phenotype, we used the specific inability of the model to attune to 40 Hz (gamma band) stimulation, a well-characterized abnormality in schizophrenia. We examined several possible combinations of putatively schizophrenogenic cellular lesions by systematically varying model parameters representing NMDA channel function, dendritic spine density, and GABA system integrity, conducting 910 trials in total. Two discrete \"clusters\" of neuropathological changes were identified. The most robust was characterized by co-occurring modest reductions in NMDA system function (-30%) and dendritic spine density (-30%). Another set of lesions had greater NMDA hypofunction along with low level GABA system dysregulation. To the schizophrenic model, we applied the effects of 1,500 virtual medications, which were implemented by varying five model parameters, independently, in a graded manner; the effects of known drugs were also applied. The simulation accurately distinguished agents that are known to lack clinical efficacy, and identified novel mechanisms (e.g., decrease in AMPA conductance decay time constant, increase in projection strength of calretinin-positive interneurons) and combinations of mechanisms that could re-equilibrate model behavior. These findings shed light on the mechanistic links between schizophrenic neuropathology and the gamma band oscillatory abnormalities observed in the illness. As such, they generate specific falsifiable hypotheses, which can guide postmortem and other laboratory research. Significantly, this work also suggests specific non-obvious targets for potential pharmacologic agents.",
+     "FAU": [
+          "Siekmeier, Peter J",
+          "vanMaanen, David P"
+     ],
+     "AU": [
+          "Siekmeier PJ",
+          "vanMaanen DP"
+     ],
+     "AD": "Laboratory for Computational Neuroscience, McLean Hospital, Belmont, Massachusetts, United States of America. psiekmeier@mclean.harvard.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K08 MH072771/MH/NIMH NIH HHS/United States",
+          "P50 MH060450/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20130319",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Antipsychotic Agents)",
+          "56-12-2 (gamma-Aminobutyric Acid)",
+          "6384-92-5 (N-Methylaspartate)",
+          "77521-29-0 (alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Antipsychotic Agents/*pharmacology",
+          "Computer Simulation",
+          "Drug Discovery/*methods",
+          "Hippocampus/*drug effects/pathology/physiopathology",
+          "Humans",
+          "*Models, Neurological",
+          "N-Methylaspartate/physiology",
+          "Neural Networks (Computer)",
+          "Schizophrenia/*drug therapy/pathology/physiopathology",
+          "User-Computer Interface",
+          "alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid/metabolism",
+          "gamma-Aminobutyric Acid/physiology"
+     ],
+     "PMC": "PMC3602393",
+     "EDAT": "2013/03/26 06:00",
+     "MHDA": "2013/09/21 06:00",
+     "CRDT": [
+          "2013/03/26 06:00"
+     ],
+     "PHST": [
+          "2012/10/19 00:00 [received]",
+          "2013/02/05 00:00 [accepted]",
+          "2013/03/26 06:00 [entrez]",
+          "2013/03/26 06:00 [pubmed]",
+          "2013/09/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0058607 [doi]",
+          "PONE-D-12-32569 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2013;8(3):e58607. doi: 10.1371/journal.pone.0058607. Epub 2013 Mar 19.",
+     "term": "hippocampus"
+}

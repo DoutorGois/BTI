@@ -1,0 +1,115 @@
+{
+     "PMID": "24521851",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141218",
+     "LR": "20161125",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "92",
+     "DP": "2014 May 15",
+     "TI": "Hippocampal volume change measurement: quantitative assessment of the reproducibility of expert manual outlining and the automated methods FreeSurfer and FIRST.",
+     "PG": "169-81",
+     "LID": "10.1016/j.neuroimage.2014.01.058 [doi] S1053-8119(14)00089-5 [pii]",
+     "AB": "BACKGROUND: To measure hippocampal volume change in Alzheimer's disease (AD) or mild cognitive impairment (MCI), expert manual delineation is often used because of its supposed accuracy. It has been suggested that expert outlining yields poorer reproducibility as compared to automated methods, but this has not been investigated. AIM: To determine the reproducibilities of expert manual outlining and two common automated methods for measuring hippocampal atrophy rates in healthy aging, MCI and AD. METHODS: From the Alzheimer's Disease Neuroimaging Initiative (ADNI), 80 subjects were selected: 20 patients with AD, 40 patients with mild cognitive impairment (MCI) and 20 healthy controls (HCs). Left and right hippocampal volume change between baseline and month-12 visit was assessed by using expert manual delineation, and by the automated software packages FreeSurfer (longitudinal processing stream) and FIRST. To assess reproducibility of the measured hippocampal volume change, both back-to-back (BTB) MPRAGE scans available for each visit were analyzed. Hippocampal volume change was expressed in muL, and as a percentage of baseline volume. Reproducibility of the 1-year hippocampal volume change was estimated from the BTB measurements by using linear mixed model to calculate the limits of agreement (LoA) of each method, reflecting its measurement uncertainty. Using the delta method, approximate p-values were calculated for the pairwise comparisons between methods. Statistical analyses were performed both with inclusion and exclusion of visibly incorrect segmentations. RESULTS: Visibly incorrect automated segmentation in either one or both scans of a longitudinal scan pair occurred in 7.5% of the hippocampi for FreeSurfer and in 6.9% of the hippocampi for FIRST. After excluding these failed cases, reproducibility analysis for 1-year percentage volume change yielded LoA of +/-7.2% for FreeSurfer, +/-9.7% for expert manual delineation, and +/-10.0% for FIRST. Methods ranked the same for reproducibility of 1-year muL volume change, with LoA of +/-218 muL for FreeSurfer, +/-319 muL for expert manual delineation, and +/-333 muL for FIRST. Approximate p-values indicated that reproducibility was better for FreeSurfer than for manual or FIRST, and that manual and FIRST did not differ. Inclusion of failed automated segmentations led to worsening of reproducibility of both automated methods for 1-year raw and percentage volume change. CONCLUSION: Quantitative reproducibility values of 1-year microliter and percentage hippocampal volume change were roughly similar between expert manual outlining, FIRST and FreeSurfer, but FreeSurfer reproducibility was statistically significantly superior to both manual outlining and FIRST after exclusion of failed segmentations.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Mulder, Emma R",
+          "de Jong, Remko A",
+          "Knol, Dirk L",
+          "van Schijndel, Ronald A",
+          "Cover, Keith S",
+          "Visser, Pieter J",
+          "Barkhof, Frederik",
+          "Vrenken, Hugo"
+     ],
+     "AU": [
+          "Mulder ER",
+          "de Jong RA",
+          "Knol DL",
+          "van Schijndel RA",
+          "Cover KS",
+          "Visser PJ",
+          "Barkhof F",
+          "Vrenken H"
+     ],
+     "AD": "Image Analysis Center, VU University Medical Center, Amsterdam, The Netherlands; Department of Radiology, VU University Medical Center, Amsterdam, The Netherlands. Image Analysis Center, VU University Medical Center, Amsterdam, The Netherlands; Department of Radiology, VU University Medical Center, Amsterdam, The Netherlands. Department of Epidemiology and Biostatistics, VU University Medical Center, Amsterdam, The Netherlands. Image Analysis Center, VU University Medical Center, Amsterdam, The Netherlands; Department of Information and Communication Technology, VU University Medical Center, Amsterdam, The Netherlands. Department of Physics and Medical Technology, VU University Medical Center, Amsterdam, The Netherlands. Department of Neurology, VU University Medical Center, Amsterdam, The Netherlands. Image Analysis Center, VU University Medical Center, Amsterdam, The Netherlands; Department of Radiology, VU University Medical Center, Amsterdam, The Netherlands. Department of Radiology, VU University Medical Center, Amsterdam, The Netherlands; Department of Physics and Medical Technology, VU University Medical Center, Amsterdam, The Netherlands. Electronic address: H.Vrenken@vumc.nl.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140209",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Artificial Intelligence",
+          "Atrophy",
+          "Cognitive Dysfunction/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Observer Variation",
+          "Organ Size",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Software",
+          "Software Validation"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Automatic segmentation",
+          "Hippocampus",
+          "Magnetic resonance imaging",
+          "Manual segmentation",
+          "Mild cognitive impairment"
+     ],
+     "EDAT": "2014/02/14 06:00",
+     "MHDA": "2014/12/19 06:00",
+     "CRDT": [
+          "2014/02/14 06:00"
+     ],
+     "PHST": [
+          "2013/02/07 00:00 [received]",
+          "2014/01/23 00:00 [revised]",
+          "2014/01/31 00:00 [accepted]",
+          "2014/02/14 06:00 [entrez]",
+          "2014/02/14 06:00 [pubmed]",
+          "2014/12/19 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(14)00089-5 [pii]",
+          "10.1016/j.neuroimage.2014.01.058 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2014 May 15;92:169-81. doi: 10.1016/j.neuroimage.2014.01.058. Epub 2014 Feb 9.",
+     "term": "hippocampus"
+}

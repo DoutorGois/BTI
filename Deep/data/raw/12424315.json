@@ -1,0 +1,81 @@
+{
+     "PMID": "12424315",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030114",
+     "LR": "20131121",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "88",
+     "IP": "5",
+     "DP": "2002 Nov",
+     "TI": "Disruption of coherent oscillations in inhibitory networks with anesthetics: role of GABA(A) receptor desensitization.",
+     "PG": "2821-33",
+     "AB": "The effect of anesthetic drugs at central synapses can be described quantitatively by developing kinetic models of ligand-gated ion channels. Experiments have shown that the hypnotic propofol and the sedative benzodiazepine midazolam have similar effects on single inhibitory postsynaptic potentials (IPSPs) but very different effects on slow desensitization that are not revealed by examining single responses. Synchronous oscillatory activity in networks of interneurons connected by inhibitory synapses has been implicated in many hippocampal functions, and differences in the kinetics of the GABAergic response observed with anesthetics can affect this activity. Thus we have examined the effect of propofol and midazolam-enhanced IPSPs using mathematical models of self-inhibited one- and two-cell inhibitory networks. A detailed kinetic model of the GABA(A) channel incorporating receptor desensitization is used at synapses in our models. The most dramatic effect of propofol is the modulation of slow desensitization. This is only revealed when the network is driven at frequencies that are thought to be relevant to cognitive tasks performed in the hippocampus. The level of desensitization at synapses with propofol is significantly reduced compared to control synapses. In contrast, midazolam increases macroscopic desensitization at network synapses by altering receptor affinity without concurrently modifying desensitization rates. These differences in gating between the two drugs are shown to alter network activity in stereotypically different ways. Specifically, propofol dramatically increases the amount of excitatory drive necessary for synchronized behavior relative to control, which is not the case for midazolam. Moreover, the range of parameters for which synchrony occurs is larger for propofol but smaller for midazolam, relative to control. This is an important first step in linking alterations in channel kinetics with behavioral changes.",
+     "FAU": [
+          "Baker, Pamela M",
+          "Pennefather, Peter S",
+          "Orser, Beverley A",
+          "Skinner, Frances K"
+     ],
+     "AU": [
+          "Baker PM",
+          "Pennefather PS",
+          "Orser BA",
+          "Skinner FK"
+     ],
+     "AD": "Toronto Western Research Institute, University Health Network, University of Toronto, Toronto, Ontario M5T 2S8, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "0 (Anesthetics)",
+          "0 (Anesthetics, Intravenous)",
+          "0 (GABA Antagonists)",
+          "0 (Receptors, GABA-A)",
+          "R60L0SM5BC (Midazolam)",
+          "YI7VU623SF (Propofol)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Anesthetics/*pharmacology",
+          "Anesthetics, Intravenous",
+          "Computer Simulation",
+          "Electrophysiology",
+          "GABA Antagonists/*pharmacology",
+          "Interneurons/drug effects/physiology",
+          "Ion Channel Gating/drug effects",
+          "Kinetics",
+          "Midazolam/pharmacology",
+          "Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Neurons/*drug effects",
+          "Propofol/pharmacology",
+          "Receptors, GABA-A/*drug effects",
+          "Synapses/drug effects/physiology"
+     ],
+     "EDAT": "2002/11/09 04:00",
+     "MHDA": "2003/01/15 04:00",
+     "CRDT": [
+          "2002/11/09 04:00"
+     ],
+     "PHST": [
+          "2002/11/09 04:00 [pubmed]",
+          "2003/01/15 04:00 [medline]",
+          "2002/11/09 04:00 [entrez]"
+     ],
+     "AID": [
+          "10.1152/jn.00052.2002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2002 Nov;88(5):2821-33. doi: 10.1152/jn.00052.2002.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,81 @@
+{
+     "PMID": "19437500",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090806",
+     "LR": "20090602",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "19",
+     "IP": "6",
+     "DP": "2009 Jun",
+     "TI": "Hippocampal shape analysis for Alzheimer's disease using an efficient hypothesis test and regularized discriminative deformation.",
+     "PG": "533-40",
+     "LID": "10.1002/hipo.20639 [doi]",
+     "AB": "In this article, we present a framework to perform statistical shape analysis for segmented hippocampi, including an efficient permutation test for detecting subtle class differences, and a regularized discriminative direction method for visualizing the shape discrepancy. Fisher permutation and bootstrap tests are preferred to traditional hypothesis tests which impose assumptions on the distribution of the samples. In this article, an efficient algorithm is adopted to rapidly perform the exact tests. We extend this algorithm to multivariate data by projecting the shape descriptors onto an informative direction that preserves the original discriminative information as much as possible to generate a scalar test statistic. This informative direction is further used to seek a discriminative direction to isolate the discriminative shape difference between classes from the individual variability. Compared with existing methods, the discriminative direction used in this article is regularized by requiring that the shapes deformed along it respect the underlying shape distribution as well as reflecting the essential shape differences between two populations. Hence, a more accurate localization of difference is produced. We apply our methods to analyze the hippocampal shapes for controls and subjects with Alzheimer's disease from the publicly available OASIS MRI database. We show how to localize the shape differences between the two classes.",
+     "CI": [
+          "2009 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Zhou, Luping",
+          "Lieby, Paulette",
+          "Barnes, Nick",
+          "Reglade-Meslin, Chantal",
+          "Walker, Janine",
+          "Cherbuin, Nicolas",
+          "Hartley, Richard"
+     ],
+     "AU": [
+          "Zhou L",
+          "Lieby P",
+          "Barnes N",
+          "Reglade-Meslin C",
+          "Walker J",
+          "Cherbuin N",
+          "Hartley R"
+     ],
+     "AD": "RSISE, Australian National University, Canberra, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Databases, Factual",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Imaging, Three-Dimensional",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Models, Anatomic",
+          "Multivariate Analysis"
+     ],
+     "EDAT": "2009/05/14 09:00",
+     "MHDA": "2009/08/07 09:00",
+     "CRDT": [
+          "2009/05/14 09:00"
+     ],
+     "PHST": [
+          "2009/05/14 09:00 [entrez]",
+          "2009/05/14 09:00 [pubmed]",
+          "2009/08/07 09:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.20639 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2009 Jun;19(6):533-40. doi: 10.1002/hipo.20639.",
+     "term": "hippocampus"
+}

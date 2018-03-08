@@ -1,0 +1,64 @@
+{
+     "PMID": "26158660",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160408",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "10",
+     "IP": "7",
+     "DP": "2015",
+     "TI": "Scale-Free Navigational Planning by Neuronal Traveling Waves.",
+     "PG": "e0127269",
+     "LID": "10.1371/journal.pone.0127269 [doi]",
+     "AB": "Spatial navigation and planning is assumed to involve a cognitive map for evaluating trajectories towards a goal. How such a map is realized in neuronal terms, however, remains elusive. Here we describe a simple and noise-robust neuronal implementation of a path finding algorithm in complex environments. We consider a neuronal map of the environment that supports a traveling wave spreading out from the goal location opposite to direction of the physical movement. At each position of the map, the smallest firing phase between adjacent neurons indicate the shortest direction towards the goal. In contrast to diffusion or single-wave-fronts, local phase differences build up in time at arbitrary distances from the goal, providing a minimal and robust directional information throughout the map. The time needed to reach the steady state represents an estimate of an agent's waiting time before it heads off to the goal. Given typical waiting times we estimate the minimal number of neurons involved in the cognitive map. In the context of the planning model, forward and backward spread of neuronal activity, oscillatory waves, and phase precession get a functional interpretation, allowing for speculations about the biological counterpart.",
+     "FAU": [
+          "Khajeh-Alijani, Azadeh",
+          "Urbanczik, Robert",
+          "Senn, Walter"
+     ],
+     "AU": [
+          "Khajeh-Alijani A",
+          "Urbanczik R",
+          "Senn W"
+     ],
+     "AD": "Department of Physiology, University of Bern, Bern, Switzerland. Department of Physiology, University of Bern, Bern, Switzerland. Department of Physiology, University of Bern, Bern, Switzerland.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150709",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Models, Neurological",
+          "Neurons/*physiology"
+     ],
+     "PMC": "PMC4497724",
+     "EDAT": "2015/07/15 06:00",
+     "MHDA": "2016/04/09 06:00",
+     "CRDT": [
+          "2015/07/10 06:00"
+     ],
+     "PHST": [
+          "2014/10/20 00:00 [received]",
+          "2015/04/14 00:00 [accepted]",
+          "2015/07/10 06:00 [entrez]",
+          "2015/07/15 06:00 [pubmed]",
+          "2016/04/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0127269 [doi]",
+          "PONE-D-14-47037 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2015 Jul 9;10(7):e0127269. doi: 10.1371/journal.pone.0127269. eCollection 2015.",
+     "term": "spatial navigation"
+}

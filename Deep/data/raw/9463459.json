@@ -1,0 +1,83 @@
+{
+     "PMID": "9463459",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19980414",
+     "LR": "20171213",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "79",
+     "IP": "2",
+     "DP": "1998 Feb",
+     "TI": "Interpreting neuronal population activity by reconstruction: unified framework with application to hippocampal place cells.",
+     "PG": "1017-44",
+     "AB": "Physical variables such as the orientation of a line in the visual field or the location of the body in space are coded as activity levels in populations of neurons. Reconstruction or decoding is an inverse problem in which the physical variables are estimated from observed neural activity. Reconstruction is useful first in quantifying how much information about the physical variables is present in the population and, second, in providing insight into how the brain might use distributed representations in solving related computational problems such as visual object recognition and spatial navigation. Two classes of reconstruction methods, namely, probabilistic or Bayesian methods and basis function methods, are discussed. They include important existing methods as special cases, such as population vector coding, optimal linear estimation, and template matching. As a representative example for the reconstruction problem, different methods were applied to multi-electrode spike train data from hippocampal place cells in freely moving rats. The reconstruction accuracy of the trajectories of the rats was compared for the different methods. Bayesian methods were especially accurate when a continuity constraint was enforced, and the best errors were within a factor of two of the information-theoretic limit on how accurate any reconstruction can be and were comparable with the intrinsic experimental errors in position tracking. In addition, the reconstruction analysis uncovered some interesting aspects of place cell activity, such as the tendency for erratic jumps of the reconstructed trajectory when the animal stopped running. In general, the theoretical values of the minimal achievable reconstruction errors quantify how accurately a physical variable is encoded in the neuronal population in the sense of mean square error, regardless of the method used for reading out the information. One related result is that the theoretical accuracy is independent of the width of the Gaussian tuning function only in two dimensions. Finally, all the reconstruction methods considered in this paper can be implemented by a unified neural network architecture, which the brain feasibly could use to solve related problems.",
+     "FAU": [
+          "Zhang, K",
+          "Ginzburg, I",
+          "McNaughton, B L",
+          "Sejnowski, T J"
+     ],
+     "AU": [
+          "Zhang K",
+          "Ginzburg I",
+          "McNaughton BL",
+          "Sejnowski TJ"
+     ],
+     "AD": "Computational Neurobiology Laboratory, Howard Hughes Medical Institute, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS-20331/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM S",
+     "MH": [
+          "Action Potentials",
+          "Algorithms",
+          "Animals",
+          "Bayes Theorem",
+          "*Brain Mapping",
+          "Hippocampus/cytology/*physiology",
+          "Maze Learning/physiology",
+          "Memory/*physiology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Poisson Distribution",
+          "Rats",
+          "Running",
+          "Space Perception/*physiology",
+          "Synaptic Transmission"
+     ],
+     "OTO": [
+          "NASA"
+     ],
+     "OT": [
+          "Non-programmatic"
+     ],
+     "EDAT": "1998/04/18 00:00",
+     "MHDA": "1998/04/18 00:01",
+     "CRDT": [
+          "1998/04/18 00:00"
+     ],
+     "PHST": [
+          "1998/04/18 00:00 [pubmed]",
+          "1998/04/18 00:01 [medline]",
+          "1998/04/18 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1152/jn.1998.79.2.1017 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 1998 Feb;79(2):1017-44. doi: 10.1152/jn.1998.79.2.1017.",
+     "term": "place cells"
+}

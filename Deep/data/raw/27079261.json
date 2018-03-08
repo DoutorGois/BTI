@@ -1,0 +1,94 @@
+{
+     "PMID": "27079261",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180103",
+     "LR": "20180103",
+     "IS": "1095-8657 (Electronic) 1047-8477 (Linking)",
+     "VI": "195",
+     "IP": "1",
+     "DP": "2016 Jul",
+     "TI": "ICON: 3D reconstruction with 'missing-information' restoration in biological electron tomography.",
+     "PG": "100-12",
+     "LID": "10.1016/j.jsb.2016.04.004 [doi] S1047-8477(16)30063-6 [pii]",
+     "AB": "Electron tomography (ET) plays an important role in revealing biological structures, ranging from macromolecular to subcellular scale. Due to limited tilt angles, ET reconstruction always suffers from the 'missing wedge' artifacts, thus severely weakens the further biological interpretation. In this work, we developed an algorithm called Iterative Compressed-sensing Optimized Non-uniform fast Fourier transform reconstruction (ICON) based on the theory of compressed-sensing and the assumption of sparsity of biological specimens. ICON can significantly restore the missing information in comparison with other reconstruction algorithms. More importantly, we used the leave-one-out method to verify the validity of restored information for both simulated and experimental data. The significant improvement in sub-tomogram averaging by ICON indicates its great potential in the future application of high-resolution structural determination of macromolecules in situ.",
+     "CI": [
+          "Copyright (c) 2016 The Authors. Published by Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Deng, Yuchen",
+          "Chen, Yu",
+          "Zhang, Yan",
+          "Wang, Shengliu",
+          "Zhang, Fa",
+          "Sun, Fei"
+     ],
+     "AU": [
+          "Deng Y",
+          "Chen Y",
+          "Zhang Y",
+          "Wang S",
+          "Zhang F",
+          "Sun F"
+     ],
+     "AD": "National Key Laboratory of Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing, China. Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100190, China; University of Chinese Academy of Sciences, Beijing, China. National Key Laboratory of Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China. National Key Laboratory of Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing, China. Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100190, China. Electronic address: zhangfa@ict.ac.cn. National Key Laboratory of Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China; Center for Biological Imaging, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China; University of Chinese Academy of Sciences, Beijing, China. Electronic address: feisun@ibp.ac.cn.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160411",
+     "PL": "United States",
+     "TA": "J Struct Biol",
+     "JT": "Journal of structural biology",
+     "JID": "9011206",
+     "RN": [
+          "0 (Macromolecular Substances)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Artifacts",
+          "Electron Microscope Tomography/*methods",
+          "Fourier Analysis",
+          "Hippocampus/cytology",
+          "Image Processing, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Macromolecular Substances/*chemistry",
+          "Neurons/chemistry",
+          "Rats",
+          "Ribosomes/chemistry"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Compressed sensing",
+          "Electron tomography",
+          "Missing wedge",
+          "NUFFT",
+          "Sub-tomogram averaging"
+     ],
+     "EDAT": "2016/04/16 06:00",
+     "MHDA": "2018/01/04 06:00",
+     "CRDT": [
+          "2016/04/16 06:00"
+     ],
+     "PHST": [
+          "2016/01/11 00:00 [received]",
+          "2016/04/09 00:00 [revised]",
+          "2016/04/10 00:00 [accepted]",
+          "2016/04/16 06:00 [entrez]",
+          "2016/04/16 06:00 [pubmed]",
+          "2018/01/04 06:00 [medline]"
+     ],
+     "AID": [
+          "S1047-8477(16)30063-6 [pii]",
+          "10.1016/j.jsb.2016.04.004 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Struct Biol. 2016 Jul;195(1):100-12. doi: 10.1016/j.jsb.2016.04.004. Epub 2016 Apr 11.",
+     "term": "hippocampus"
+}

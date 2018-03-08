@@ -1,0 +1,62 @@
+{
+     "PMID": "23366953",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130722",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2012",
+     "DP": "2012",
+     "TI": "Computing the trajectory mutual information between a point process and an analog stochastic process.",
+     "PG": "4603-6",
+     "LID": "10.1109/EMBC.2012.6346992 [doi]",
+     "AB": "In a number of application areas such as neural coding there is interest in computing, from real data, the information flows between stochastic processes one of which is a point process. Of particular interest is the calculation of the trajectory (as opposed to marginal) mutual information between an observed point process which is influenced by an underlying but unobserved analog stochastic process i.e. a state. Using particle filtering we develop a model based trajectory mutual information calculation for apparently the first time.",
+     "FAU": [
+          "Pasha, Syed Ahmed",
+          "Solo, Victor"
+     ],
+     "AU": [
+          "Pasha SA",
+          "Solo V"
+     ],
+     "AD": "School of Electrical and Information Engineering, University of Sydney, NSW 2006, Australia. ahmed.pasha@sydney.edu.au",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "*Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "*Models, Statistical",
+          "Neurons/*physiology",
+          "*Stochastic Processes"
+     ],
+     "EDAT": "2013/02/01 06:00",
+     "MHDA": "2013/07/23 06:00",
+     "CRDT": [
+          "2013/02/01 06:00"
+     ],
+     "PHST": [
+          "2013/02/01 06:00 [entrez]",
+          "2013/02/01 06:00 [pubmed]",
+          "2013/07/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2012.6346992 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2012;2012:4603-6. doi: 10.1109/EMBC.2012.6346992.",
+     "term": "hippocampus"
+}

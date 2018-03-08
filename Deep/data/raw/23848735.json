@@ -1,0 +1,68 @@
+{
+     "PMID": "23848735",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141124",
+     "LR": "20130715",
+     "IS": "1550-2376 (Electronic) 1539-3755 (Linking)",
+     "VI": "87",
+     "IP": "6",
+     "DP": "2013 Jun",
+     "TI": "Crosstalk and transitions between multiple spatial maps in an attractor neural network model of the hippocampus: phase diagram.",
+     "PG": "062813",
+     "AB": "We study the stable phases of an attractor neural network model, with binary units, for hippocampal place cells encoding one-dimensional (1D) or 2D spatial maps or environments. Different maps correspond to random allocations (permutations) of the place fields. Based on replica calculations we show that, below critical levels for the noise in the neural response and for the number of environments, the network activity is spatially localized in one environment. For high noise and loads the network activity extends over space, either uniformly or with spatial heterogeneities due to the crosstalk between the maps, and memory of environments is lost. Remarkably the spatially localized regime is very robust against the neural noise until it reaches its critical level. Numerical simulations are in excellent quantitative agreement with our theoretical predictions.",
+     "FAU": [
+          "Monasson, R",
+          "Rosay, S"
+     ],
+     "AU": [
+          "Monasson R",
+          "Rosay S"
+     ],
+     "AD": "Laboratoire de Physique Theorique de l'ENS, CNRS & UPMC, 24 rue Lhomond, 75005 Paris, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130620",
+     "PL": "United States",
+     "TA": "Phys Rev E Stat Nonlin Soft Matter Phys",
+     "JT": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+     "JID": "101136452",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Algorithms",
+          "Animals",
+          "Artifacts",
+          "Computer Simulation",
+          "Feedback, Physiological/*physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Signal-To-Noise Ratio",
+          "Synaptic Transmission/*physiology"
+     ],
+     "EDAT": "2013/07/16 06:00",
+     "MHDA": "2014/12/15 06:00",
+     "CRDT": [
+          "2013/07/16 06:00"
+     ],
+     "PHST": [
+          "2013/04/05 00:00 [received]",
+          "2013/07/16 06:00 [entrez]",
+          "2013/07/16 06:00 [pubmed]",
+          "2014/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1103/PhysRevE.87.062813 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phys Rev E Stat Nonlin Soft Matter Phys. 2013 Jun;87(6):062813. doi: 10.1103/PhysRevE.87.062813. Epub 2013 Jun 20.",
+     "term": "place cells"
+}

@@ -1,0 +1,87 @@
+{
+     "PMID": "26805848",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160901",
+     "LR": "20170220",
+     "IS": "1424-8220 (Electronic) 1424-8220 (Linking)",
+     "VI": "16",
+     "IP": "1",
+     "DP": "2016 Jan 21",
+     "TI": "A Novel Pedestrian Navigation Algorithm for a Foot-Mounted Inertial-Sensor-Based System.",
+     "LID": "10.3390/s16010139 [doi] E139 [pii]",
+     "AB": "This paper proposes a novel zero velocity update (ZUPT) method for a foot-mounted pedestrian navigation system (PNS). First, the error model of the PNS is developed and a Kalman filter is built based on the error model. Second, a novel zero velocity detection algorithm based on the variations in speed over a gait cycle is proposed. A finite state machine including three states is employed to model a gait cycle. The state transition conditions are determined based on speed using a sliding window. Third, the ZUPT software flow is illustrated and described. Finally, the performances of the proposed method and other methods are examined and compared experimentally. The experimental results show that the mean relative accuracy of the proposed method is 0.89% under various motion modes.",
+     "FAU": [
+          "Ren, Mingrong",
+          "Pan, Kai",
+          "Liu, Yanhong",
+          "Guo, Hongyu",
+          "Zhang, Xiaodong",
+          "Wang, Pu"
+     ],
+     "AU": [
+          "Ren M",
+          "Pan K",
+          "Liu Y",
+          "Guo H",
+          "Zhang X",
+          "Wang P"
+     ],
+     "AD": "School of Electronic Information &amp; Control Engineering, Beijing University of Technology, Beijing 100124, China. bjut_renmingrong@sohu.com. Engineering Research Center of Digital Community, Ministry of Education, Beijing 100124, China. bjut_renmingrong@sohu.com. School of Electronic Information &amp; Control Engineering, Beijing University of Technology, Beijing 100124, China. KaiPan_com@163.com. Beijing Key Laboratory of Computational Intelligence and Intelligent Systems, Beijing 100124, China. KaiPan_com@163.com. School of Electronic Information &amp; Control Engineering, Beijing University of Technology, Beijing 100124, China. liu1253891321@163.com. School of Electronic Information &amp; Control Engineering, Beijing University of Technology, Beijing 100124, China. 18810353933@163.com. School of Electronic Information &amp; Control Engineering, Beijing University of Technology, Beijing 100124, China. 18811576642@163.com. School of Electronic Information &amp; Control Engineering, Beijing University of Technology, Beijing 100124, China. wangpu@bjut.edu.cn. Beijing Laboratory for Urban Mass Transit, Beijing 100124, China. wangpu@bjut.edu.cn.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160121",
+     "PL": "Switzerland",
+     "TA": "Sensors (Basel)",
+     "JT": "Sensors (Basel, Switzerland)",
+     "JID": "101204366",
+     "SB": "IM",
+     "MH": [
+          "Accelerometry/instrumentation",
+          "Adult",
+          "*Algorithms",
+          "Female",
+          "Foot/*physiology",
+          "Gait/physiology",
+          "Humans",
+          "Male",
+          "Monitoring, Ambulatory/*instrumentation/*methods",
+          "*Pedestrians",
+          "Spatial Navigation/*physiology",
+          "Walking/physiology"
+     ],
+     "PMC": "PMC4732172",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Kalman filter",
+          "ZUPT",
+          "foot-mounted PNS"
+     ],
+     "EDAT": "2016/01/26 06:00",
+     "MHDA": "2016/09/02 06:00",
+     "CRDT": [
+          "2016/01/26 06:00"
+     ],
+     "PHST": [
+          "2015/10/08 00:00 [received]",
+          "2016/01/07 00:00 [revised]",
+          "2016/01/18 00:00 [accepted]",
+          "2016/01/26 06:00 [entrez]",
+          "2016/01/26 06:00 [pubmed]",
+          "2016/09/02 06:00 [medline]"
+     ],
+     "AID": [
+          "s16010139 [pii]",
+          "10.3390/s16010139 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Sensors (Basel). 2016 Jan 21;16(1). pii: s16010139. doi: 10.3390/s16010139.",
+     "term": "spatial navigation"
+}

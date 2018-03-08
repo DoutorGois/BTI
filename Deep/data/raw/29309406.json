@@ -1,0 +1,59 @@
+{
+     "PMID": "29309406",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20180206",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "14",
+     "IP": "1",
+     "DP": "2018 Jan",
+     "TI": "Robust and efficient coding with grid cells.",
+     "PG": "e1005922",
+     "LID": "10.1371/journal.pcbi.1005922 [doi]",
+     "AB": "The neuronal code arising from the coordinated activity of grid cells in the rodent entorhinal cortex can uniquely represent space across a large range of distances, but the precise conditions for optimal coding capacity are known only for environments with finite size. Here we consider a coding scheme that is suitable for unbounded environments, and present a novel, number theoretic approach to derive the grid parameters that maximise the coding range in the presence of noise. We derive an analytic upper bound on the coding range and provide examples for grid scales that achieve this bound and hence are optimal for encoding in unbounded environments. We show that in the absence of neuronal noise, the capacity of the system is extremely sensitive to the choice of the grid periods. However, when the accuracy of the representation is limited by neuronal noise, the capacity quickly becomes more robust against the choice of grid scales as the number of modules increases. Importantly, we found that the capacity of the system is near optimal even for random scale choices already for a realistic number of grid modules. Our study demonstrates that robust and efficient coding can be achieved without parameter tuning in the case of grid cell representation and provides a solid theoretical explanation for the large diversity of the grid scales observed in experimental studies. Moreover, we suggest that having multiple grid modules in the entorhinal cortex is not only required for the exponentially large coding capacity, but is also a prerequisite for the robustness of the system.",
+     "FAU": [
+          "Vago, Lajos",
+          "Ujfalussy, Balazs B"
+     ],
+     "AU": [
+          "Vago L",
+          "Ujfalussy BB"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-5005-8193",
+          "ORCID: http://orcid.org/0000-0002-2295-3828"
+     ],
+     "AD": "NAP-B PATTERN Group, MTA Wigner Research Center for Physics, Budapest, Hungary. NAP-B PATTERN Group, MTA Wigner Research Center for Physics, Budapest, Hungary.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20180108",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "PMC": "PMC5774847",
+     "EDAT": "2018/01/09 06:00",
+     "MHDA": "2018/01/09 06:00",
+     "CRDT": [
+          "2018/01/09 06:00"
+     ],
+     "PHST": [
+          "2017/03/13 00:00 [received]",
+          "2017/12/08 00:00 [accepted]",
+          "2018/01/19 00:00 [revised]",
+          "2018/01/09 06:00 [pubmed]",
+          "2018/01/09 06:00 [medline]",
+          "2018/01/09 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1005922 [doi]",
+          "PCOMPBIOL-D-17-00409 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2018 Jan 8;14(1):e1005922. doi: 10.1371/journal.pcbi.1005922. eCollection 2018 Jan.",
+     "term": "grid cells"
+}

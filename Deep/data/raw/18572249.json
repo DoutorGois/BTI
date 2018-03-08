@@ -1,0 +1,83 @@
+{
+     "PMID": "18572249",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081105",
+     "LR": "20161122",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "173",
+     "IP": "1",
+     "DP": "2008 Aug 15",
+     "TI": "NeuroRhythmics: software for analyzing time-series measurements of saltatory movements in neuronal processes.",
+     "PG": "147-52",
+     "LID": "10.1016/j.jneumeth.2008.05.006 [doi]",
+     "AB": "Time-lapse imaging of living neurons both in vivo and in vitro has revealed that the growth of axons and dendrites is highly dynamic and characterized by alternating periods of extension and retraction. These growth dynamics are associated with important features of neuronal development and are differentially affected by experimental treatments, but the underlying cellular mechanisms are poorly understood. NeuroRhythmics was developed to semi-automate specific quantitative tasks involved in analysis of two-dimensional time-series images of processes that exhibit saltatory elongation. This software provides detailed information on periods of growth and nongrowth that it identifies by transitions in elongation (i.e. initiation time, average rate, duration) and information regarding the overall pattern of saltatory growth (i.e. time of pattern onset, frequency of transitions, relative time spent in a state of growth vs. nongrowth). Plots and numeric output are readily imported into other applications. The user has the option to specify criteria for identifying transitions in growth behavior, which extends the potential application of the software to neurons of different types or developmental stage and to other time-series phenomena that exhibit saltatory dynamics. NeuroRhythmics will facilitate mechanistic studies of periodic axonal and dendritic growth in neurons.",
+     "FAU": [
+          "Kerlin, Aaron M",
+          "Lindsley, Tara A"
+     ],
+     "AU": [
+          "Kerlin AM",
+          "Lindsley TA"
+     ],
+     "AD": "Center for Neuropharmacology & Neuroscience, Albany Medical College, MC-136, 47 New Scotland Avenue, Albany, NY 12208, United States.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AA011416/AA/NIAAA NIH HHS/United States",
+          "R01 AA011416-07/AA/NIAAA NIH HHS/United States",
+          "R01 AA011416-08/AA/NIAAA NIH HHS/United States",
+          "R01AA11416/AA/NIAAA NIH HHS/United States",
+          "R01 AA011416-05/AA/NIAAA NIH HHS/United States",
+          "R01 AA011416-06A2/AA/NIAAA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20080517",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cell Growth Processes/*physiology",
+          "Cells, Cultured",
+          "Embryo, Mammalian",
+          "Hippocampus/cytology",
+          "Microscopy, Video/methods",
+          "Models, Neurological",
+          "Movement/*physiology",
+          "Neurons/cytology/*physiology",
+          "Rats",
+          "*Software",
+          "Time Factors"
+     ],
+     "PMC": "PMC2536636",
+     "MID": [
+          "NIHMS65511"
+     ],
+     "EDAT": "2008/06/24 09:00",
+     "MHDA": "2008/11/06 09:00",
+     "CRDT": [
+          "2008/06/24 09:00"
+     ],
+     "PHST": [
+          "2008/02/15 00:00 [received]",
+          "2008/05/09 00:00 [revised]",
+          "2008/05/10 00:00 [accepted]",
+          "2008/06/24 09:00 [pubmed]",
+          "2008/11/06 09:00 [medline]",
+          "2008/06/24 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(08)00292-6 [pii]",
+          "10.1016/j.jneumeth.2008.05.006 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2008 Aug 15;173(1):147-52. doi: 10.1016/j.jneumeth.2008.05.006. Epub 2008 May 17.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,103 @@
+{
+     "PMID": "19100262",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090320",
+     "LR": "20170220",
+     "IS": "1090-2430 (Electronic) 0014-4886 (Linking)",
+     "VI": "216",
+     "IP": "1",
+     "DP": "2009 Mar",
+     "TI": "An investigation of EEG dynamics in an animal model of temporal lobe epilepsy using the maximum Lyapunov exponent.",
+     "PG": "115-21",
+     "LID": "10.1016/j.expneurol.2008.11.009 [doi]",
+     "AB": "Analysis of intracranial electroencephalographic (iEEG) recordings in patients with temporal lobe epilepsy (TLE) has revealed characteristic dynamical features that distinguish the interictal, ictal, and postictal states and inter-state transitions. Experimental investigations into the mechanisms underlying these observations require the use of an animal model. A rat TLE model was used to test for differences in iEEG dynamics between well-defined states and to test specific hypotheses: 1) the short-term maximum Lyapunov exponent (STL(max)), a measure of signal order, is lowest and closest in value among cortical sites during the ictal state, and highest and most divergent during the postictal state; 2) STL(max) values estimated from the stimulated hippocampus are the lowest among all cortical sites; and 3) the transition from the interictal to ictal state is associated with a convergence in STL(max) values among cortical sites. iEEGs were recorded from bilateral frontal cortices and hippocampi. STL(max) and T-index (a measure of convergence/divergence of STL(max) between recorded brain areas) were compared among the four different periods. Statistical tests (ANOVA and multiple comparisons) revealed that ictal STL(max) was lower (p<0.05) than other periods, STL(max) values corresponding to the stimulated hippocampus were lower than those estimated from other cortical regions, and T-index values were highest during the postictal period and lowest during the ictal period. Also, the T-index values corresponding to the preictal period were lower than those during the interictal period (p<0.05). These results indicate that a rat TLE model demonstrates several important dynamical signal characteristics similar to those found in human TLE and support future use of the model to study epileptic state transitions.",
+     "FAU": [
+          "Nair, Sandeep P",
+          "Shiau, Deng-Shan",
+          "Principe, Jose C",
+          "Iasemidis, Leonidas D",
+          "Pardalos, Panos M",
+          "Norman, Wendy M",
+          "Carney, Paul R",
+          "Kelly, Kevin M",
+          "Sackellares, J Chris"
+     ],
+     "AU": [
+          "Nair SP",
+          "Shiau DS",
+          "Principe JC",
+          "Iasemidis LD",
+          "Pardalos PM",
+          "Norman WM",
+          "Carney PR",
+          "Kelly KM",
+          "Sackellares JC"
+     ],
+     "AD": "Department of Neurology, Allegheny General Hospital, Center for Neuroscience Research, Allegheny-Singer Research Intitute, Pittsburgh, PA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB002089/EB/NIBIB NIH HHS/United States",
+          "R01 NS046015/NS/NINDS NIH HHS/United States",
+          "R01 NS046015-03/NS/NINDS NIH HHS/United States",
+          "R01 NS050582-04/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20081127",
+     "PL": "United States",
+     "TA": "Exp Neurol",
+     "JT": "Experimental neurology",
+     "JID": "0370712",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Algorithms",
+          "Animals",
+          "Data Interpretation, Statistical",
+          "Disease Models, Animal",
+          "Electric Stimulation",
+          "Electroencephalography/*methods",
+          "Epilepsy, Temporal Lobe/*diagnosis/*physiopathology",
+          "Evoked Potentials/*physiology",
+          "Hippocampus/physiopathology",
+          "Kindling, Neurologic/physiology",
+          "Male",
+          "Models, Neurological",
+          "Neurons/physiology",
+          "Nonlinear Dynamics",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Signal Processing, Computer-Assisted",
+          "Status Epilepticus/physiopathology",
+          "Temporal Lobe/*physiopathology"
+     ],
+     "PMC": "PMC2643305",
+     "MID": [
+          "NIHMS90622"
+     ],
+     "EDAT": "2008/12/23 09:00",
+     "MHDA": "2009/03/21 09:00",
+     "CRDT": [
+          "2008/12/23 09:00"
+     ],
+     "PHST": [
+          "2008/05/30 00:00 [received]",
+          "2008/09/13 00:00 [revised]",
+          "2008/11/18 00:00 [accepted]",
+          "2008/12/23 09:00 [entrez]",
+          "2008/12/23 09:00 [pubmed]",
+          "2009/03/21 09:00 [medline]"
+     ],
+     "AID": [
+          "S0014-4886(08)00442-1 [pii]",
+          "10.1016/j.expneurol.2008.11.009 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Exp Neurol. 2009 Mar;216(1):115-21. doi: 10.1016/j.expneurol.2008.11.009. Epub 2008 Nov 27.",
+     "term": "hippocampus"
+}

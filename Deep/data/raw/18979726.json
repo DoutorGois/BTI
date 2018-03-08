@@ -1,0 +1,85 @@
+{
+     "PMID": "18979726",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081209",
+     "LR": "20170220",
+     "VI": "11",
+     "IP": "Pt 1",
+     "DP": "2008",
+     "TI": "Extracting tractosemas from a displacement probability field for tractography in DW-MRI.",
+     "PG": "9-16",
+     "AB": "In this paper we present a novel method for estimating a field of asymmetric spherical functions, dubbed tractosemas, given the intra-voxel displacement probability information. The peaks of tractosemas correspond to directions of distinct fibers, which can have either symmetric or asymmetric local fiber structure. This is in contrast to the existing methods that estimate fiber orientation distributions which are naturally symmetric and therefore cannot model asymmetries such as splaying fibers. We propose a method for extracting tractosemas from a given field of displacement probability iso-surfaces via a diffusion process. The diffusion is performed by minimizing a kernel convolution integral, which leads to an update formula expressed in the convenient form of a discrete kernel convolution. The kernel expresses the probability of diffusion between two neighboring spherical functions and we model it by the product of Gaussian and von Mises distributions. The model is validated via experiments on synthetic and real diffusion-weighted magnetic resonance (DW-MRI) datasets from a rat hippocampus and spinal cord.",
+     "FAU": [
+          "Barmpoutis, Angelos",
+          "Vemuri, Baba C",
+          "Howland, Dena",
+          "Forder, John R"
+     ],
+     "AU": [
+          "Barmpoutis A",
+          "Vemuri BC",
+          "Howland D",
+          "Forder JR"
+     ],
+     "AD": "CISE Department, University of Florida, USA. abarmpou@cise.ufl.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01NS050699-04/NS/NINDS NIH HHS/United States",
+          "R01 NS050699/NS/NINDS NIH HHS/United States",
+          "R01 EB007082-03/EB/NIBIB NIH HHS/United States",
+          "R01 EB007082/EB/NIBIB NIH HHS/United States",
+          "EB007082/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Artificial Intelligence",
+          "Data Interpretation, Statistical",
+          "Diffusion Magnetic Resonance Imaging/*methods",
+          "Hippocampus/*cytology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/methods",
+          "Information Storage and Retrieval/*methods",
+          "Models, Anatomic",
+          "Models, Neurological",
+          "Models, Statistical",
+          "Nerve Fibers, Myelinated/*ultrastructure",
+          "Pattern Recognition, Automated/*methods",
+          "Rats",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Spinal Cord/*cytology"
+     ],
+     "PMC": "PMC2760009",
+     "MID": [
+          "NIHMS144135"
+     ],
+     "EDAT": "2008/11/05 09:00",
+     "MHDA": "2008/12/17 09:00",
+     "CRDT": [
+          "2008/11/05 09:00"
+     ],
+     "PHST": [
+          "2008/11/05 09:00 [pubmed]",
+          "2008/12/17 09:00 [medline]",
+          "2008/11/05 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2008;11(Pt 1):9-16.",
+     "term": "hippocampus"
+}

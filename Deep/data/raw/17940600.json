@@ -1,0 +1,82 @@
+{
+     "PMID": "17940600",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080715",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "2",
+     "IP": "10",
+     "DP": "2007 Oct 17",
+     "TI": "A simple method for combining genetic mapping data from multiple crosses and experimental designs.",
+     "PG": "e1036",
+     "AB": "BACKGROUND: Over the past decade many linkage studies have defined chromosomal intervals containing polymorphisms that modulate a variety of traits. Many phenotypes are now associated with enough mapping data that meta-analysis could help refine locations of known QTLs and detect many novel QTLs. METHODOLOGY/PRINCIPAL FINDINGS: We describe a simple approach to combining QTL mapping results for multiple studies and demonstrate its utility using two hippocampus weight loci. Using data taken from two populations, a recombinant inbred strain set and an advanced intercross population we demonstrate considerable improvements in significance and resolution for both loci. 1-LOD support intervals were improved 51% for Hipp1a and 37% for Hipp9a. We first generate locus-wise permuted P-values for association with the phenotype from multiple maps, which can be done using a permutation method appropriate to each population. These results are then assigned to defined physical positions by interpolation between markers with known physical and genetic positions. We then use Fisher's combination test to combine position-by-position probabilities among experiments. Finally, we calculate genome-wide combined P-values by generating locus-specific P-values for each permuted map for each experiment. These permuted maps are then sampled with replacement and combined. The distribution of best locus-specific P-values for each combined map is the null distribution of genome-wide adjusted P-values. CONCLUSIONS/SIGNIFICANCE: Our approach is applicable to a wide variety of segregating and non-segregating mapping populations, facilitates rapid refinement of physical QTL position, is complementary to other QTL fine mapping methods, and provides an appropriate genome-wide criterion of significance for combined mapping results.",
+     "FAU": [
+          "Peirce, Jeremy L",
+          "Broman, Karl W",
+          "Lu, Lu",
+          "Williams, Robert W"
+     ],
+     "AU": [
+          "Peirce JL",
+          "Broman KW",
+          "Lu L",
+          "Williams RW"
+     ],
+     "AD": "Center for Neuroscience, Department of Anatomy and Neurobiology, University of Tennessee Health Science Center, Memphis, Tennessee, United States of America. jpeirce@utmem.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01AA01442501/AA/NIAAA NIH HHS/United States",
+          "P20 MH062009/MH/NIMH NIH HHS/United States",
+          "U01 AA013499/AA/NIAAA NIH HHS/United States",
+          "U01AA13499/AA/NIAAA NIH HHS/United States",
+          "U24AA135B/AA/NIAAA NIH HHS/United States",
+          "P20-MH62009/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20071017",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "*Chromosome Mapping",
+          "*Crosses, Genetic",
+          "Genetic Linkage",
+          "Genome",
+          "Hippocampus/metabolism",
+          "Humans",
+          "Models, Biological",
+          "Models, Genetic",
+          "Phenotype",
+          "*Polymorphism, Genetic",
+          "*Quantitative Trait Loci",
+          "Software"
+     ],
+     "PMC": "PMC2001185",
+     "EDAT": "2007/10/18 09:00",
+     "MHDA": "2008/07/17 09:00",
+     "CRDT": [
+          "2007/10/18 09:00"
+     ],
+     "PHST": [
+          "2007/02/04 00:00 [received]",
+          "2007/08/02 00:00 [accepted]",
+          "2007/10/18 09:00 [pubmed]",
+          "2008/07/17 09:00 [medline]",
+          "2007/10/18 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0001036 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2007 Oct 17;2(10):e1036. doi: 10.1371/journal.pone.0001036.",
+     "term": "hippocampus"
+}

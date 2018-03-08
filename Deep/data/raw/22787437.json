@@ -1,0 +1,84 @@
+{
+     "PMID": "22787437",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121107",
+     "LR": "20150224",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "8",
+     "IP": "6",
+     "DP": "2012 Jun",
+     "TI": "Fast spatiotemporal smoothing of calcium measurements in dendritic trees.",
+     "PG": "e1002569",
+     "LID": "10.1371/journal.pcbi.1002569 [doi]",
+     "AB": "We discuss methods for fast spatiotemporal smoothing of calcium signals in dendritic trees, given single-trial, spatially localized imaging data obtained via multi-photon microscopy. By analyzing the dynamics of calcium binding to probe molecules and the effects of the imaging procedure, we show that calcium concentration can be estimated up to an affine transformation, i.e., an additive and multiplicative constant. To obtain a full spatiotemporal estimate, we model calcium dynamics within the cell using a functional approach. The evolution of calcium concentration is represented through a smaller set of hidden variables that incorporate fast transients due to backpropagating action potentials (bAPs), or other forms of stimulation. Because of the resulting state space structure, inference can be done in linear time using forward-backward maximum-a-posteriori methods. Non-negativity constraints on the calcium concentration can also be incorporated using a log-barrier method that does not affect the computational scaling. Moreover, by exploiting the neuronal tree structure we show that the cost of the algorithm is also linear in the size of the dendritic tree, making the approach applicable to arbitrarily large trees. We apply this algorithm to data obtained from hippocampal CA1 pyramidal cells with experimentally evoked bAPs, some of which were paired with excitatory postsynaptic potentials (EPSPs). The algorithm recovers the timing of the bAPs and provides an estimate of the induced calcium transient throughout the tree. The proposed methods could be used to further understand the interplay between bAPs and EPSPs in synaptic strength modification. More generally, this approach allows us to infer the concentration on intracellular calcium across the dendritic tree from noisy observations at a discrete set of points in space.",
+     "FAU": [
+          "Pnevmatikakis, Eftychios A",
+          "Kelleher, Keith",
+          "Chen, Rebecca",
+          "Saggau, Petter",
+          "Josic, Kresimir",
+          "Paninski, Liam"
+     ],
+     "AU": [
+          "Pnevmatikakis EA",
+          "Kelleher K",
+          "Chen R",
+          "Saggau P",
+          "Josic K",
+          "Paninski L"
+     ],
+     "AD": "Department of Statistics and Center for Theoretical Neuroscience, Columbia University, New York, New York, USA. eftychios@stat.columbia.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20120628",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Algorithms",
+          "Animals",
+          "Calcium/analysis/*metabolism",
+          "Calcium Signaling/*physiology",
+          "Computational Biology/methods",
+          "Dendrites/chemistry/*metabolism",
+          "Hippocampus/cytology/metabolism",
+          "Microscopy, Fluorescence, Multiphoton",
+          "*Models, Neurological",
+          "Rats",
+          "Reproducibility of Results",
+          "Signal Processing, Computer-Assisted"
+     ],
+     "PMC": "PMC3386185",
+     "EDAT": "2012/07/13 06:00",
+     "MHDA": "2012/11/08 06:00",
+     "CRDT": [
+          "2012/07/13 06:00"
+     ],
+     "PHST": [
+          "2011/12/15 00:00 [received]",
+          "2012/05/08 00:00 [accepted]",
+          "2012/07/13 06:00 [entrez]",
+          "2012/07/13 06:00 [pubmed]",
+          "2012/11/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1002569 [doi]",
+          "PCOMPBIOL-D-11-01898 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2012 Jun;8(6):e1002569. doi: 10.1371/journal.pcbi.1002569. Epub 2012 Jun 28.",
+     "term": "hippocampus"
+}

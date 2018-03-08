@@ -1,0 +1,93 @@
+{
+     "PMID": "19268386",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090709",
+     "LR": "20161122",
+     "IS": "1872-7565 (Electronic) 0169-2607 (Linking)",
+     "VI": "95",
+     "IP": "2",
+     "DP": "2009 Aug",
+     "TI": "Symmetric inverse consistent nonlinear registration driven by mutual information.",
+     "PG": "105-15",
+     "LID": "10.1016/j.cmpb.2009.01.011 [doi]",
+     "AB": "A nonlinear viscoelastic image registration algorithm based on the demons paradigm and incorporating inverse consistent constraint (ICC) is implemented. An inverse consistent and symmetric cost function using mutual information (MI) as a similarity measure is employed. The cost function also includes regularization of transformation and inverse consistent error (ICE). The uncertainties in balancing various terms in the cost function are avoided by alternatively minimizing the similarity measure, the regularization of the transformation, and the ICE terms. The diffeomorphism of registration for preventing folding and/or tearing in the deformation is achieved by the composition scheme. The quality of image registration is first demonstrated by constructing brain atlas from 20 adult brains (age range 30-60). It is shown that with this registration technique: (1) the Jacobian determinant is positive for all voxels and (2) the average ICE is around 0.004 voxels with a maximum value below 0.1 voxels. Further, the deformation-based segmentation on Internet Brain Segmentation Repository, a publicly available dataset, has yielded high Dice similarity index (DSI) of 94.7% for the cerebellum and 74.7% for the hippocampus, attesting to the quality of our registration method.",
+     "FAU": [
+          "Tao, Guozhi",
+          "He, Renjie",
+          "Datta, Sushmita",
+          "Narayana, Ponnada A"
+     ],
+     "AU": [
+          "Tao G",
+          "He R",
+          "Datta S",
+          "Narayana PA"
+     ],
+     "AD": "Department of Diagnostic and Interventional Imaging, University of Texas Medical School at Houston, 6431 Fannin St., Houston, TX 77030, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB002095/EB/NIBIB NIH HHS/United States",
+          "R01 EB002095-07/EB/NIBIB NIH HHS/United States",
+          "R01 EB02095/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20090305",
+     "PL": "Ireland",
+     "TA": "Comput Methods Programs Biomed",
+     "JT": "Computer methods and programs in biomedicine",
+     "JID": "8506513",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "*Artificial Intelligence",
+          "Brain/*anatomy & histology",
+          "Female",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Nonlinear Dynamics",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique",
+          "Young Adult"
+     ],
+     "PMC": "PMC2744864",
+     "MID": [
+          "NIHMS129479"
+     ],
+     "EDAT": "2009/03/10 09:00",
+     "MHDA": "2009/07/10 09:00",
+     "CRDT": [
+          "2009/03/10 09:00"
+     ],
+     "PHST": [
+          "2008/05/23 00:00 [received]",
+          "2009/01/27 00:00 [revised]",
+          "2009/01/27 00:00 [accepted]",
+          "2009/03/10 09:00 [entrez]",
+          "2009/03/10 09:00 [pubmed]",
+          "2009/07/10 09:00 [medline]"
+     ],
+     "AID": [
+          "S0169-2607(09)00044-3 [pii]",
+          "10.1016/j.cmpb.2009.01.011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Methods Programs Biomed. 2009 Aug;95(2):105-15. doi: 10.1016/j.cmpb.2009.01.011. Epub 2009 Mar 5.",
+     "term": "hippocampus"
+}

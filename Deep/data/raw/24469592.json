@@ -1,0 +1,77 @@
+{
+     "PMID": "24469592",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141229",
+     "LR": "20170220",
+     "IS": "1740-634X (Electronic) 0893-133X (Linking)",
+     "VI": "39",
+     "IP": "7",
+     "DP": "2014 Jun",
+     "TI": "Dopaminergic contributions to hippocampal pathophysiology in schizophrenia: a computational study.",
+     "PG": "1713-21",
+     "LID": "10.1038/npp.2014.19 [doi]",
+     "AB": "Since the original formulation of the dopamine hypothesis, a number of other cellular-level abnormalities--eg, NMDA receptor hypofunction, GABA system dysfunction, neural connectivity disturbances--have been identified in schizophrenia, but the manner in which these potentially interact with hyperdopaminergia to lead to schizophrenic symptomatology remains uncertain. Previously, we created a neuroanatomically detailed, biophysically realistic computational model of hippocampus in the control (unaffected) and schizophrenic conditions, implemented on a 72-processor supercomputer platform. In the current study, we apply the effects of dopamine (DA), dose-dependently, to both models on the basis of an exhaustive review of the neurophysiologic literature on DA's ion channel and synaptic level effects. To index schizophrenic behavior, we use the specific inability of the model to attune to the 40 Hz (gamma band) frequency, a finding that has been well replicated in the clinical electroencephalography (EEG) and magnetoencephalography literature. In trials using 20 'simulated patients', we find that DA applied to the control model produces modest increases in 40 Hz activity, similar to experimental studies. However, in the schizophrenic model, increasing DA induces a decrement in 40 Hz resonance. This modeling work is significant in that it suggests that DA's effects may vary based on the neural substrate on which it acts, and--via simulated EEG recordings-points to the neurophysiologic mechanisms by which this may occur. We also feel that it makes a methodological contribution, as it exhibits a process by which a large amount of neurobiological data can be integrated to run pharmacologically relevant in silico experiments, using a systems biology approach.",
+     "FAU": [
+          "Siekmeier, Peter J",
+          "vanMaanen, David P"
+     ],
+     "AU": [
+          "Siekmeier PJ",
+          "vanMaanen DP"
+     ],
+     "AD": "1] Laboratory for Computational Neuroscience, McLean Hospital, Belmont, MA, USA [2] Harvard Medical School, Boston, MA, USA. 1] Laboratory for Computational Neuroscience, McLean Hospital, Belmont, MA, USA [2] Harvard Medical School, Boston, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K08 MH072771/MH/NIMH NIH HHS/United States",
+          "MH072771/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20140128",
+     "PL": "England",
+     "TA": "Neuropsychopharmacology",
+     "JT": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+     "JID": "8904907",
+     "RN": [
+          "VTD58H1Z2X (Dopamine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Acoustic Stimulation",
+          "Animals",
+          "Brain Waves/drug effects/physiology",
+          "Computer Simulation",
+          "Dopamine/*metabolism",
+          "Electroencephalography",
+          "Hippocampus/*physiopathology",
+          "Humans",
+          "Models, Neurological",
+          "Schizophrenia/pathology/*physiopathology"
+     ],
+     "PMC": "PMC4023145",
+     "EDAT": "2014/01/29 06:00",
+     "MHDA": "2014/12/30 06:00",
+     "CRDT": [
+          "2014/01/29 06:00"
+     ],
+     "PHST": [
+          "2013/06/24 00:00 [received]",
+          "2014/01/20 00:00 [revised]",
+          "2014/01/21 00:00 [accepted]",
+          "2014/01/29 06:00 [entrez]",
+          "2014/01/29 06:00 [pubmed]",
+          "2014/12/30 06:00 [medline]"
+     ],
+     "AID": [
+          "npp201419 [pii]",
+          "10.1038/npp.2014.19 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuropsychopharmacology. 2014 Jun;39(7):1713-21. doi: 10.1038/npp.2014.19. Epub 2014 Jan 28.",
+     "term": "hippocampus"
+}

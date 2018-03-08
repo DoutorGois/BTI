@@ -1,0 +1,59 @@
+{
+     "PMID": "28268981",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170710",
+     "LR": "20171121",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2016",
+     "DP": "2016 Aug",
+     "TI": "Application of independent component analysis to remove linear dependencies in EEG recorded in hippocampus.",
+     "PG": "3171-3174",
+     "LID": "10.1109/EMBC.2016.7591402 [doi]",
+     "AB": "Linear cross-spectral and nonlinear cross-bispectral analysis techniques were applied to EEG data recorded simultaneously in two subfields (CA1 and dentate gyrus) of the hippocampus in freely behaving neonatal rats during REM sleep. Linear dependencies between the two sites were specifically removed using independent component analysis (ICA). The cross-spectrum and the cross-bispectrum computed prior to ICA processing were compared with those after ICA processing to determine its effects. Our results indicate that ICA almost completely extracts the linear relationship in the theta frequency band between CA1 and the dentate gyrus. It is noted also that ICA processing significantly decreases the quadratic phase coupling (QPC) between the two hippocampal subfields.",
+     "FAU": [
+          "Blaise, J Harry",
+          "Taikang Ning"
+     ],
+     "AU": [
+          "Blaise JH",
+          "Taikang Ning"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Animals, Newborn",
+          "CA1 Region, Hippocampal/*physiology",
+          "Dentate Gyrus/*physiology",
+          "*Electroencephalography",
+          "Rats",
+          "*Signal Processing, Computer-Assisted",
+          "Sleep, REM/*physiology"
+     ],
+     "EDAT": "2017/03/09 06:00",
+     "MHDA": "2017/07/14 06:00",
+     "CRDT": [
+          "2017/03/09 06:00"
+     ],
+     "PHST": [
+          "2017/03/09 06:00 [entrez]",
+          "2017/03/09 06:00 [pubmed]",
+          "2017/07/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2016.7591402 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2016 Aug;2016:3171-3174. doi: 10.1109/EMBC.2016.7591402.",
+     "term": "hippocampus"
+}

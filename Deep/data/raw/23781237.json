@@ -1,0 +1,72 @@
+{
+     "PMID": "23781237",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140117",
+     "LR": "20161019",
+     "IS": "1687-5273 (Electronic)",
+     "VI": "2013",
+     "DP": "2013",
+     "TI": "Hippocampal anatomy supports the use of context in object recognition: a computational model.",
+     "PG": "294878",
+     "LID": "10.1155/2013/294878 [doi]",
+     "AB": "The human hippocampus receives distinct signals via the lateral entorhinal cortex, typically associated with object features, and the medial entorhinal cortex, associated with spatial or contextual information. The existence of these distinct types of information calls for some means by which they can be managed in an appropriate way, by integrating them or keeping them separate as required to improve recognition. We hypothesize that several anatomical features of the hippocampus, including differentiation in connectivity between the superior/inferior blades of DG and the distal/proximal regions of CA3 and CA1, work together to play this information managing role. We construct a set of neural network models with these features and compare their recognition performance when given noisy or partial versions of contexts and their associated objects. We found that the anterior and posterior regions of the hippocampus naturally require different ratios of object and context input for optimal performance, due to the greater number of objects versus contexts. Additionally, we found that having separate processing regions in DG significantly aided recognition in situations where object inputs were degraded. However, split processing in both DG and CA3 resulted in performance tradeoffs, though the actual hippocampus may have ways of mitigating such losses.",
+     "FAU": [
+          "Greene, Patrick",
+          "Howard, Mike",
+          "Bhattacharyya, Rajan",
+          "Fellous, Jean-Marc"
+     ],
+     "AU": [
+          "Greene P",
+          "Howard M",
+          "Bhattacharyya R",
+          "Fellous JM"
+     ],
+     "AD": "Graduate Program in Applied Mathematics, University of Arizona, Tucson, AZ 8572, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "T32 GM084905/GM/NIGMS NIH HHS/United States",
+          "GM084905/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20130525",
+     "PL": "United States",
+     "TA": "Comput Intell Neurosci",
+     "JT": "Computational intelligence and neuroscience",
+     "JID": "101279357",
+     "SB": "IM",
+     "MH": [
+          "Hippocampus/*anatomy & histology/*physiology",
+          "Humans",
+          "*Neural Networks (Computer)",
+          "Recognition (Psychology)/*physiology"
+     ],
+     "PMC": "PMC3677630",
+     "EDAT": "2013/06/20 06:00",
+     "MHDA": "2014/01/18 06:00",
+     "CRDT": [
+          "2013/06/20 06:00"
+     ],
+     "PHST": [
+          "2012/12/21 00:00 [received]",
+          "2013/03/26 00:00 [revised]",
+          "2013/05/04 00:00 [accepted]",
+          "2013/06/20 06:00 [entrez]",
+          "2013/06/20 06:00 [pubmed]",
+          "2014/01/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2013/294878 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Intell Neurosci. 2013;2013:294878. doi: 10.1155/2013/294878. Epub 2013 May 25.",
+     "term": "hippocampus"
+}

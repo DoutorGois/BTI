@@ -1,0 +1,69 @@
+{
+     "PMID": "24886704",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140922",
+     "LR": "20170220",
+     "IS": "1752-0509 (Electronic) 1752-0509 (Linking)",
+     "VI": "8",
+     "DP": "2014 May 27",
+     "TI": "Identifying aging-related genes in mouse hippocampus using gateway nodes.",
+     "PG": "62",
+     "LID": "10.1186/1752-0509-8-62 [doi]",
+     "AB": "BACKGROUND: High-throughput studies continue to produce volumes of metadata representing valuable sources of information to better guide biological research. With a stronger focus on data generation, analysis models that can readily identify actual signals have not received the same level of attention. This is due in part to high levels of noise and data heterogeneity, along with a lack of sophisticated algorithms for mining useful information. Networks have emerged as a powerful tool for modeling high-throughput data because they are capable of representing not only individual biological elements but also different types of relationships en masse. Moreover, well-established graph theoretic methodology can be applied to network models to increase efficiency and speed of analysis. In this project, we propose a network model that examines temporal data from mouse hippocampus at the transcriptional level via correlation of gene expression. Using this model, we formally define the concept of \"gateway\" nodes, loosely defined as nodes representing genes co-expressed in multiple states. We show that the proposed network model allows us to identify target genes implicated in hippocampal aging-related processes. RESULTS: By mining gateway genes related to hippocampal aging from networks made from gene expression in young and middle-aged mice, we provide a proof-of-concept of existence and importance of gateway nodes. Additionally, these results highlight how network analysis can act as a supplement to traditional statistical analysis of differentially expressed genes. Finally, we use the gateway nodes identified by our method as well as functional databases and literature to propose new targets for study of aging in the mouse hippocampus. CONCLUSIONS: This research highlights the need for methods of temporal comparison using network models and provides a systems biology approach to extract information from correlation networks of gene expression. Our results identify a number of genes previously implicated in the aging mouse hippocampus related to synaptic plasticity and apoptosis. Additionally, this model identifies a novel set of aging genes previously uncharacterized in the hippocampus. This research can be viewed as a first-step for identifying the processes behind comparative experiments in aging that is applicable to any type of temporal multi-state network.",
+     "FAU": [
+          "Dempsey, Kathryn M",
+          "Ali, Hesham H"
+     ],
+     "AU": [
+          "Dempsey KM",
+          "Ali HH"
+     ],
+     "AD": "Department of Pathology & Microbiology, University of Nebraska Medical Center, Omaha, USA. hali@unomaha.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P20 RR016469/RR/NCRR NIH HHS/United States",
+          "P30 MH062261/MH/NIMH NIH HHS/United States",
+          "P20 RR16469/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20140527",
+     "PL": "England",
+     "TA": "BMC Syst Biol",
+     "JT": "BMC systems biology",
+     "JID": "101301827",
+     "SB": "IM",
+     "MH": [
+          "Aging/*genetics",
+          "Animals",
+          "Gene Ontology",
+          "Hippocampus/*cytology/*physiology",
+          "Mice",
+          "Systems Biology/*methods"
+     ],
+     "PMC": "PMC4057599",
+     "EDAT": "2014/06/03 06:00",
+     "MHDA": "2014/09/23 06:00",
+     "CRDT": [
+          "2014/06/03 06:00"
+     ],
+     "PHST": [
+          "2013/03/22 00:00 [received]",
+          "2014/05/12 00:00 [accepted]",
+          "2014/06/03 06:00 [entrez]",
+          "2014/06/03 06:00 [pubmed]",
+          "2014/09/23 06:00 [medline]"
+     ],
+     "AID": [
+          "1752-0509-8-62 [pii]",
+          "10.1186/1752-0509-8-62 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "BMC Syst Biol. 2014 May 27;8:62. doi: 10.1186/1752-0509-8-62.",
+     "term": "hippocampus"
+}

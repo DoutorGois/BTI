@@ -1,0 +1,65 @@
+{
+     "PMID": "25934997",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160218",
+     "LR": "20150503",
+     "IS": "1940-9990 (Electronic) 1932-4545 (Linking)",
+     "VI": "9",
+     "IP": "2",
+     "DP": "2015 Apr",
+     "TI": "An astrocyte neuromorphic circuit that influences neuronal phase synchrony.",
+     "PG": "175-87",
+     "LID": "10.1109/TBCAS.2015.2417580 [doi]",
+     "AB": "Neuromorphic circuits are designed and simulated to emulate the role of astrocytes in phase synchronization of neuronal activity. We emulate, to a first order, the ability of slow inward currents (SICs) evoked by the astrocyte, acting on extrasynaptic N-methyl-D-aspartate receptors (NMDAR) of adjacent neurons, as a mechanism for phase synchronization. We run a simulation test incorporating two small networks of neurons interacting with astrocytic microdomains. These microdomains are designed using a resistive and capacitive ladder network and their interactions occur through pass transistors. Upon enough synaptic activity, the astrocytic microdomains interact with each other, generating SIC events on synapses of adjacent neurons. Since the amplitude of SICs is several orders of magnitude larger compared to synaptic currents, a SIC event drastically enhances the excitatory postsynaptic potential (EPSP) on adjacent neurons simultaneously. This causes neurons to fire synchronously in phase. Phase synchrony holds for a duration of time proportional to the time constant of the SIC decay. Once the SIC decay has completed, the neurons are able to go back to their natural phase difference, inducing desynchronization of their firing of spikes. This paper incorporates some biological aspects observed by recent experiments showing astrocytic influence on neuronal synchronization, and intends to offer a circuit view on the hypothesis of astrocytic role on synchronous activity that could potentially lead to the binding of neuronal information.",
+     "FAU": [
+          "Irizarry-Valle, Yilda",
+          "Parker, Alice Cline"
+     ],
+     "AU": [
+          "Irizarry-Valle Y",
+          "Parker AC"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Circuits Syst",
+     "JT": "IEEE transactions on biomedical circuits and systems",
+     "JID": "101312520",
+     "RN": [
+          "0 (Receptors, N-Methyl-D-Aspartate)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Astrocytes/cytology/*physiology",
+          "Equipment Design",
+          "Hippocampus",
+          "Humans",
+          "*Neural Networks (Computer)",
+          "Neurons/cytology/*physiology",
+          "Receptors, N-Methyl-D-Aspartate/metabolism",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2015/05/03 06:00",
+     "MHDA": "2016/02/19 06:00",
+     "CRDT": [
+          "2015/05/03 06:00"
+     ],
+     "PHST": [
+          "2015/05/03 06:00 [entrez]",
+          "2015/05/03 06:00 [pubmed]",
+          "2016/02/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TBCAS.2015.2417580 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Circuits Syst. 2015 Apr;9(2):175-87. doi: 10.1109/TBCAS.2015.2417580.",
+     "term": "hippocampus"
+}

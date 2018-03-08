@@ -1,0 +1,82 @@
+{
+     "PMID": "20882613",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110202",
+     "LR": "20100930",
+     "IS": "1522-2586 (Electronic) 1053-1807 (Linking)",
+     "VI": "32",
+     "IP": "4",
+     "DP": "2010 Oct",
+     "TI": "Automatic method for tracing regions of interest in rat brain magnetic resonance imaging studies.",
+     "PG": "830-5",
+     "LID": "10.1002/jmri.22283 [doi]",
+     "AB": "PURPOSE: To automatically extract regions of interest (ROIs) and simultaneously preserve the anatomical characteristics of each individual, we developed a new atlas-based method utilizing a pair of coregistered brain template and digital atlas. MATERIALS AND METHODS: Unlike the previous atlas-based method, this method treats each individual as the target image, and the template and atlas are each transformed to register with the individual. To evaluate the accuracy of this method we implemented it in extracting the hippocampus from two groups of T(2)-weighted structural images with different spatial resolutions and a group of T(2)*-weighted functional images. Furthermore, the results were compared against a manually segmented hippocampus and an atlas-derived hippocampus. RESULTS: Jaccard similarity (JS) reached 84.7%-90.5%, and relative error in volume (RV) was 4.8%-12.7%. The consistency observed between the results of the proposed method and manual drawing was therefore considerable. CONCLUSION: We developed a new atlas-based method for ROI extraction that can automatically extract ROI and simultaneously preserve each individual's unique anatomical characteristics.",
+     "FAU": [
+          "Nie, Binbin",
+          "Hui, Jiaojie",
+          "Wang, Lijing",
+          "Chai, Pei",
+          "Gao, Juan",
+          "Liu, Shuangquan",
+          "Zhang, Zhijun",
+          "Shan, Baoci",
+          "Zhao, Shujun"
+     ],
+     "AU": [
+          "Nie B",
+          "Hui J",
+          "Wang L",
+          "Chai P",
+          "Gao J",
+          "Liu S",
+          "Zhang Z",
+          "Shan B",
+          "Zhao S"
+     ],
+     "AD": "Physical Science and Technology College, Zhengzhou University, Zhengzhou, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Magn Reson Imaging",
+     "JT": "Journal of magnetic resonance imaging : JMRI",
+     "JID": "9105850",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Automatic Data Processing",
+          "Brain/*pathology",
+          "Brain Mapping/methods/*standards",
+          "Female",
+          "Hippocampus/pathology",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods/*standards",
+          "Male",
+          "Models, Anatomic",
+          "Pattern Recognition, Automated",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "2010/10/01 06:00",
+     "MHDA": "2011/02/03 06:00",
+     "CRDT": [
+          "2010/10/01 06:00"
+     ],
+     "PHST": [
+          "2010/10/01 06:00 [entrez]",
+          "2010/10/01 06:00 [pubmed]",
+          "2011/02/03 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/jmri.22283 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Magn Reson Imaging. 2010 Oct;32(4):830-5. doi: 10.1002/jmri.22283.",
+     "term": "hippocampus"
+}

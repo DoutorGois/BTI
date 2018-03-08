@@ -1,0 +1,100 @@
+{
+     "PMID": "27836729",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171109",
+     "LR": "20171109",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "275",
+     "DP": "2017 Jan 1",
+     "TI": "Discovering recurring patterns in electrophysiological recordings.",
+     "PG": "66-79",
+     "LID": "S0165-0270(16)30260-6 [pii] 10.1016/j.jneumeth.2016.11.001 [doi]",
+     "AB": "BACKGROUND: Fourier-based techniques are used abundantly in the analysis of electrophysiological data. However, these techniques are of limited value when the signal of interest is non-sinusoidal or non-periodic. NEW METHOD: We present sliding window matching (SWM): a new data-driven method for discovering recurring temporal patterns in electrophysiological data. SWM is effective in detecting recurring but unknown patterns even when they appear non-periodically. RESULTS: To demonstrate this, we used SWM on oscillations in local field potential (LFP) recordings from the rat hippocampus and monkey V1. The application of SWM yielded two interesting findings. We could show that rat hippocampal theta and monkey V1 gamma oscillations were both skewed (i.e. asymmetric in time), rather than being sinusoidal. Furthermore, gamma oscillations in monkey V1 were skewed differently in the superficial compared to the deeper cortical layers. Second, we used SWM to analyze responses evoked by stimuli or microsaccades even when the onset timing of stimulus or microsaccades was unknown. COMPARISON WITH EXISTING METHODS: We first validated the method on simulated datasets, and we checked that for recordings with a sufficiently low noise level the SWM results were consistent with results from the widely used phase alignment (PA) method. CONCLUSIONS: We conclude that the proposed method has wide applicability in the exploration of noisy time series data where the onset times of particular events are unknown by the experimenter such as in resting state and sleep recordings.",
+     "CI": [
+          "Copyright A(c) 2016 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Gips, Bart",
+          "Bahramisharif, Ali",
+          "Lowet, Eric",
+          "Roberts, Mark J",
+          "de Weerd, Peter",
+          "Jensen, Ole",
+          "van der Eerden, Jan"
+     ],
+     "AU": [
+          "Gips B",
+          "Bahramisharif A",
+          "Lowet E",
+          "Roberts MJ",
+          "de Weerd P",
+          "Jensen O",
+          "van der Eerden J"
+     ],
+     "AD": "Radboud University, Donders Institute for Brain, Cognition and Behaviour, 6525 EN Nijmegen, The Netherlands. Electronic address: bart.gips@donders.ru.nl. Radboud University, Donders Institute for Brain, Cognition and Behaviour, 6525 EN Nijmegen, The Netherlands; Department of Psychiatry, Academic Medical Center, PO Box 22660, 1100 DD Amsterdam, The Netherlands; Sintica Systems, Populierenlaan 421, 1185SR Amstelveen, The Netherlands; Faculty of Psychology and Neuroscience, Maastricht University, 6200 MD Maastricht, The Netherlands. Radboud University, Donders Institute for Brain, Cognition and Behaviour, 6525 EN Nijmegen, The Netherlands; Faculty of Psychology and Neuroscience, Maastricht University, 6200 MD Maastricht, The Netherlands. Faculty of Psychology and Neuroscience, Maastricht University, 6200 MD Maastricht, The Netherlands. Faculty of Psychology and Neuroscience, Maastricht University, 6200 MD Maastricht, The Netherlands. Radboud University, Donders Institute for Brain, Cognition and Behaviour, 6525 EN Nijmegen, The Netherlands; University of Birmingham, School of Psychology, Birmingham B15 2TT, UK. Radboud University, Donders Institute for Brain, Cognition and Behaviour, 6525 EN Nijmegen, The Netherlands.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Validation Studies"
+     ],
+     "DEP": "20161108",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "CA1 Region, Hippocampal/physiology",
+          "Computer Simulation",
+          "Electroencephalography/*methods",
+          "*Evoked Potentials",
+          "Fourier Analysis",
+          "Haplorhini",
+          "Male",
+          "Markov Chains",
+          "Models, Neurological",
+          "Monte Carlo Method",
+          "*Periodicity",
+          "Rats, Long-Evans",
+          "Saccades/physiology",
+          "*Signal Processing, Computer-Assisted",
+          "Software",
+          "Visual Cortex/physiology",
+          "Visual Perception/physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Evoked response",
+          "Gamma",
+          "Markov Chain Monte Carlo",
+          "Oscillation",
+          "Theta"
+     ],
+     "EDAT": "2016/11/12 06:00",
+     "MHDA": "2017/11/10 06:00",
+     "CRDT": [
+          "2016/11/13 06:00"
+     ],
+     "PHST": [
+          "2016/07/18 00:00 [received]",
+          "2016/10/10 00:00 [revised]",
+          "2016/11/02 00:00 [accepted]",
+          "2016/11/12 06:00 [pubmed]",
+          "2017/11/10 06:00 [medline]",
+          "2016/11/13 06:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(16)30260-6 [pii]",
+          "10.1016/j.jneumeth.2016.11.001 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2017 Jan 1;275:66-79. doi: 10.1016/j.jneumeth.2016.11.001. Epub 2016 Nov 8.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,100 @@
+{
+     "PMID": "18353687",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080623",
+     "LR": "20170922",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "40",
+     "IP": "4",
+     "DP": "2008 May 1",
+     "TI": "A comparison of methods for the automated calculation of volumes and atrophy rates in the hippocampus.",
+     "PG": "1655-71",
+     "LID": "10.1016/j.neuroimage.2008.01.012 [doi]",
+     "AB": "Hippocampal atrophy rates have been used in a number of studies in Alzheimer's disease (AD) to assess disease progression and are being increasingly utilized as an outcome measure in clinical trials of new pharmaceutical agents. Owing to the labor-intensive nature of hippocampal segmentation, more automated approaches are required for such analysis. In this study we compared methods of automatically segmenting the hippocampus (single-person template and template library) on the baseline image in a group of probable AD (n=36) and control (n=19) subjects with serial images. Using the method that gave most similar results to manual, three automated methods of calculating change within the hippocampal region were compared: fluid change calculated using (1) Jacobian change or (2) region propagation and (3) boundary shift. Rates were compared with manual measures. We found that segmentation of baseline hippocampus was most accurate using a template library combined with morphological operations (intensity thresholding plus one conditional dilation). This gave a voxel similarity of 0.69 (0.05) and 0.72 (0.06) in controls and probable AD subjects respectively compared with manual measures. Atrophy rates within these regions were most similar to the manual rates using the boundary shift integral (mean difference from manual rate 0.03% (1.29) in controls and 0.48% (2.44) in AD). A template library segmentation approach, together with morphological operations, provides a segmentation accurate enough to quantify relative change over time. The change over time can then be calculated automatically using boundary shift or fluid measures, with boundary shift giving most similar results to manual.",
+     "FAU": [
+          "Barnes, J",
+          "Foster, J",
+          "Boyes, R G",
+          "Pepple, T",
+          "Moore, E K",
+          "Schott, J M",
+          "Frost, C",
+          "Scahill, R I",
+          "Fox, N C"
+     ],
+     "AU": [
+          "Barnes J",
+          "Foster J",
+          "Boyes RG",
+          "Pepple T",
+          "Moore EK",
+          "Schott JM",
+          "Frost C",
+          "Scahill RI",
+          "Fox NC"
+     ],
+     "AD": "Dementia Research Centre, UCL, Institute of Neurology, London, UK. j.barnes@dementia.ion.ucl.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0601846/Medical Research Council/United Kingdom",
+          "G90/86/Medical Research Council/United Kingdom",
+          "Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20080126",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "0 (Biomarkers)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Atrophy/pathology",
+          "Biomarkers",
+          "Cross-Sectional Studies",
+          "Disease Progression",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Linear Models",
+          "Logistic Models",
+          "Longitudinal Studies",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Neuropsychological Tests",
+          "Nonlinear Dynamics"
+     ],
+     "EDAT": "2008/03/21 09:00",
+     "MHDA": "2008/06/24 09:00",
+     "CRDT": [
+          "2008/03/21 09:00"
+     ],
+     "PHST": [
+          "2007/07/02 00:00 [received]",
+          "2007/11/23 00:00 [revised]",
+          "2008/01/05 00:00 [accepted]",
+          "2008/03/21 09:00 [pubmed]",
+          "2008/06/24 09:00 [medline]",
+          "2008/03/21 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(08)00040-2 [pii]",
+          "10.1016/j.neuroimage.2008.01.012 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2008 May 1;40(4):1655-71. doi: 10.1016/j.neuroimage.2008.01.012. Epub 2008 Jan 26.",
+     "term": "hippocampus"
+}

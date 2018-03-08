@@ -1,0 +1,94 @@
+{
+     "PMID": "24671540",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150330",
+     "LR": "20170524",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "112",
+     "IP": "2",
+     "DP": "2014 Jul 15",
+     "TI": "Oxygen and seizure dynamics: II. Computational modeling.",
+     "PG": "213-23",
+     "LID": "10.1152/jn.00541.2013 [doi]",
+     "AB": "Electrophysiological recordings show intense neuronal firing during epileptic seizures leading to enhanced energy consumption. However, the relationship between oxygen metabolism and seizure patterns has not been well studied. Recent studies have developed fast and quantitative techniques to measure oxygen microdomain concentration during seizure events. In this article, we develop a biophysical model that accounts for these experimental observations. The model is an extension of the Hodgkin-Huxley formalism and includes the neuronal microenvironment dynamics of sodium, potassium, and oxygen concentrations. Our model accounts for metabolic energy consumption during and following seizure events. We can further account for the experimental observation that hypoxia can induce seizures, with seizures occurring only within a narrow range of tissue oxygen pressure. We also reproduce the interplay between excitatory and inhibitory neurons seen in experiments, accounting for the different oxygen levels observed during seizures in excitatory vs. inhibitory cell layers. Our findings offer a more comprehensive understanding of the complex interrelationship among seizures, ion dynamics, and energy metabolism.",
+     "CI": [
+          "Copyright (c) 2014 the American Physiological Society."
+     ],
+     "FAU": [
+          "Wei, Yina",
+          "Ullah, Ghanim",
+          "Ingram, Justin",
+          "Schiff, Steven J"
+     ],
+     "AU": [
+          "Wei Y",
+          "Ullah G",
+          "Ingram J",
+          "Schiff SJ"
+     ],
+     "AD": "Center for Neural Engineering, Department of Engineering Science and Mechanics, The Pennsylvania State University, University Park, Pennsylvania; Department of Physics, University of South Florida, Tampa, Florida; Mathematical Biosciences Institute, Ohio State University, Columbus, Ohio; and. Center for Neural Engineering, Department of Engineering Science and Mechanics, The Pennsylvania State University, University Park, Pennsylvania; Center for Neural Engineering, Department of Engineering Science and Mechanics, The Pennsylvania State University, University Park, Pennsylvania; Mathematical Biosciences Institute, Ohio State University, Columbus, Ohio; and Departments of Neurosurgery and Physics, The Pennsylvania State University, University Park, Pennsylvania sschiff@psu.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "1R01-EB-014641-01/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140326",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "9NEZ333N27 (Sodium)",
+          "RWP5GA015D (Potassium)",
+          "S88TT14065 (Oxygen)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "Male",
+          "*Models, Neurological",
+          "Neurons/*metabolism/physiology",
+          "Oxygen/*metabolism",
+          "Potassium/metabolism",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Seizures/metabolism/*physiopathology",
+          "Sodium/metabolism"
+     ],
+     "PMC": "PMC4064403",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "bifurcation",
+          "epilepsy",
+          "hippocampus",
+          "hypoxia",
+          "potassium"
+     ],
+     "EDAT": "2014/03/29 06:00",
+     "MHDA": "2015/03/31 06:00",
+     "CRDT": [
+          "2014/03/28 06:00"
+     ],
+     "PHST": [
+          "2014/03/28 06:00 [entrez]",
+          "2014/03/29 06:00 [pubmed]",
+          "2015/03/31 06:00 [medline]"
+     ],
+     "AID": [
+          "jn.00541.2013 [pii]",
+          "10.1152/jn.00541.2013 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2014 Jul 15;112(2):213-23. doi: 10.1152/jn.00541.2013. Epub 2014 Mar 26.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,93 @@
+{
+     "PMID": "21118483",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110215",
+     "LR": "20170220",
+     "IS": "1752-0509 (Electronic) 1752-0509 (Linking)",
+     "VI": "4",
+     "DP": "2010 Nov 30",
+     "TI": "ExprEssence--revealing the essence of differential experimental data in the context of an interaction/regulation net-work.",
+     "PG": "164",
+     "LID": "10.1186/1752-0509-4-164 [doi]",
+     "AB": "BACKGROUND: Experimentalists are overwhelmed by high-throughput data and there is an urgent need to condense information into simple hypotheses. For example, large amounts of microarray and deep sequencing data are becoming available, describing a variety of experimental conditions such as gene knockout and knockdown, the effect of interventions, and the differences between tissues and cell lines. RESULTS: To address this challenge, we developed a method, implemented as a Cytoscape plugin called ExprEssence. As input we take a network of interaction, stimulation and/or inhibition links between genes/proteins, and differential data, such as gene expression data, tracking an intervention or development in time. We condense the network, highlighting those links across which the largest changes can be observed. Highlighting is based on a simple formula inspired by the law of mass action. We can interactively modify the threshold for highlighting and instantaneously visualize results. We applied ExprEssence to three scenarios describing kidney podocyte biology, pluripotency and ageing: 1) We identify putative processes involved in podocyte (de-)differentiation and validate one prediction experimentally. 2) We predict and validate the expression level of a transcription factor involved in pluripotency. 3) Finally, we generate plausible hypotheses on the role of apoptosis, cell cycle deregulation and DNA repair in ageing data obtained from the hippocampus. CONCLUSION: Reducing the size of gene/protein networks to the few links affected by large changes allows to screen for putative mechanistic relationships among the genes/proteins that are involved in adaptation to different experimental conditions, yielding important hypotheses, insights and suggestions for new experiments. We note that we do not focus on the identification of 'active subnetworks'. Instead we focus on the identification of single links (which may or may not form subnetworks), and these single links are much easier to validate experimentally than submodules. ExprEssence is available at http://sourceforge.net/projects/expressence/.",
+     "FAU": [
+          "Warsow, Gregor",
+          "Greber, Boris",
+          "Falk, Steffi S I",
+          "Harder, Clemens",
+          "Siatkowski, Marcin",
+          "Schordan, Sandra",
+          "Som, Anup",
+          "Endlich, Nicole",
+          "Scholer, Hans",
+          "Repsilber, Dirk",
+          "Endlich, Karlhans",
+          "Fuellen, Georg"
+     ],
+     "AU": [
+          "Warsow G",
+          "Greber B",
+          "Falk SS",
+          "Harder C",
+          "Siatkowski M",
+          "Schordan S",
+          "Som A",
+          "Endlich N",
+          "Scholer H",
+          "Repsilber D",
+          "Endlich K",
+          "Fuellen G"
+     ],
+     "AD": "Institute for Biostatistics and Informatics in Medicine and Ageing Research, University of Rostock, Ernst-Heydemann-Strasse 8, Rostock, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20101130",
+     "PL": "England",
+     "TA": "BMC Syst Biol",
+     "JT": "BMC systems biology",
+     "JID": "101301827",
+     "RN": [
+          "0 (Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aging/genetics/metabolism",
+          "Animals",
+          "Cell Line",
+          "Computational Biology/*methods",
+          "*Gene Regulatory Networks",
+          "Humans",
+          "Mice",
+          "Pluripotent Stem Cells/cytology/metabolism",
+          "Podocytes/metabolism",
+          "Proteins/genetics/*metabolism",
+          "Reproducibility of Results",
+          "*Software"
+     ],
+     "PMC": "PMC3012047",
+     "EDAT": "2010/12/02 06:00",
+     "MHDA": "2011/02/16 06:00",
+     "CRDT": [
+          "2010/12/02 06:00"
+     ],
+     "PHST": [
+          "2010/07/05 00:00 [received]",
+          "2010/11/30 00:00 [accepted]",
+          "2010/12/02 06:00 [entrez]",
+          "2010/12/02 06:00 [pubmed]",
+          "2011/02/16 06:00 [medline]"
+     ],
+     "AID": [
+          "1752-0509-4-164 [pii]",
+          "10.1186/1752-0509-4-164 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "BMC Syst Biol. 2010 Nov 30;4:164. doi: 10.1186/1752-0509-4-164.",
+     "term": "hippocampus"
+}

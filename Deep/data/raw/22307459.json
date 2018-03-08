@@ -1,0 +1,85 @@
+{
+     "PMID": "22307459",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130213",
+     "LR": "20161019",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "33",
+     "IP": "2",
+     "DP": "2012 Oct",
+     "TI": "Uncovering spatial topology represented by rat hippocampal population neuronal codes.",
+     "PG": "227-55",
+     "LID": "10.1007/s10827-012-0384-x [doi]",
+     "AB": "Hippocampal population codes play an important role in representation of spatial environment and spatial navigation. Uncovering the internal representation of hippocampal population codes will help understand neural mechanisms of the hippocampus. For instance, uncovering the patterns represented by rat hippocampus (CA1) pyramidal cells during periods of either navigation or sleep has been an active research topic over the past decades. However, previous approaches to analyze or decode firing patterns of population neurons all assume the knowledge of the place fields, which are estimated from training data a priori. The question still remains unclear how can we extract information from population neuronal responses either without a priori knowledge or in the presence of finite sampling constraint. Finding the answer to this question would leverage our ability to examine the population neuronal codes under different experimental conditions. Using rat hippocampus as a model system, we attempt to uncover the hidden \"spatial topology\" represented by the hippocampal population codes. We develop a hidden Markov model (HMM) and a variational Bayesian (VB) inference algorithm to achieve this computational goal, and we apply the analysis to extensive simulation and experimental data. Our empirical results show promising direction for discovering structural patterns of ensemble spike activity during periods of active navigation. This study would also provide useful insights for future exploratory data analysis of population neuronal codes during periods of sleep.",
+     "FAU": [
+          "Chen, Zhe",
+          "Kloosterman, Fabian",
+          "Brown, Emery N",
+          "Wilson, Matthew A"
+     ],
+     "AU": [
+          "Chen Z",
+          "Kloosterman F",
+          "Brown EN",
+          "Wilson MA"
+     ],
+     "AD": "Neuroscience Statistics Research Lab, Massachusetts General Hospital, Harvard Medical School, Boston, MA 02114, USA. zhechen@mit.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH061976/MH/NIMH NIH HHS/United States",
+          "DP1 OD003646/OD/NIH HHS/United States",
+          "R56 MH061976/MH/NIMH NIH HHS/United States",
+          "MH061976/MH/NIMH NIH HHS/United States",
+          "DP1-OD003646/OD/NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20120204",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Bayes Theorem",
+          "CA1 Region, Hippocampal/*cytology",
+          "*Computer Simulation",
+          "Environment",
+          "Markov Chains",
+          "Maze Learning",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Rats",
+          "Space Perception/*physiology"
+     ],
+     "PMC": "PMC3974406",
+     "MID": [
+          "NIHMS562454"
+     ],
+     "EDAT": "2012/02/07 06:00",
+     "MHDA": "2013/02/14 06:00",
+     "CRDT": [
+          "2012/02/07 06:00"
+     ],
+     "PHST": [
+          "2011/10/27 00:00 [received]",
+          "2012/01/23 00:00 [accepted]",
+          "2012/01/16 00:00 [revised]",
+          "2012/02/07 06:00 [entrez]",
+          "2012/02/07 06:00 [pubmed]",
+          "2013/02/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10827-012-0384-x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2012 Oct;33(2):227-55. doi: 10.1007/s10827-012-0384-x. Epub 2012 Feb 4.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,76 @@
+{
+     "PMID": "8046439",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19940830",
+     "LR": "20131121",
+     "IS": "0270-6474 (Print) 0270-6474 (Linking)",
+     "VI": "14",
+     "IP": "8",
+     "DP": "1994 Aug",
+     "TI": "Detailed passive cable models of whole-cell recorded CA3 pyramidal neurons in rat hippocampal slices.",
+     "PG": "4613-38",
+     "AB": "Tight-seal whole-cell recordings were made from cleaned somata of CA3 pyramidal cells deep in hippocampal slices from 19-21-d-old rats. The cells were filled with biocytin, and their voltage responses to short current pulses were recorded. After washout of initial sag, responses scaled linearly with injected current and were stable over time. The dendritic and axonal arbors of four cells were reconstructed and measured using light microscopy. Dendritic spines and axonal boutons were counted and the additional membrane area was incorporated into the relevant segments. The morphology of each neuron was converted into a detailed branching cable model by assuming values for specific membrane capacitance Cm and resistance Rm, and cytoplasmic resistivity Ri. These parameters were optimized for each cell by directly matching the model's response to that of the real cell by means of a modified weighted least-squares fitting procedure. By comparing the deviations between model and experimental responses to control noise recordings, approximate 95% confidence intervals were established for each parameter. If a somatic shunt was allowed, a wide range of possible Rm values produced acceptable fits. With zero shunt, Cm was 0.7-0.8 microFcm-2, Ri was 170-340 omega cm, and Rm ranged between 120 and 200 k omega cm2. The electrotonic lengths of the basal and oblique dendrites were 0.2-0.3 space constants, and those of the apical tufts were 0.4-0.7 space constants. The steady-state electrical geometry of these cells was therefore compact; average dendritic tip/soma relative synaptic efficacies were > 93% for the basal and oblique dendrites, and > 81% for the tufts. With fast transient synaptic inputs, however, the models produced a wide range of postsynaptic potential shapes and marked filtering of voltage-clamp currents.",
+     "FAU": [
+          "Major, G",
+          "Larkman, A U",
+          "Jonas, P",
+          "Sakmann, B",
+          "Jack, J J"
+     ],
+     "AU": [
+          "Major G",
+          "Larkman AU",
+          "Jonas P",
+          "Sakmann B",
+          "Jack JJ"
+     ],
+     "AD": "University Laboratory of Physiology, Oxford, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "RN": [
+          "G6D6147J22 (biocytin)",
+          "K3Z4F929H6 (Lysine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Axons",
+          "Cell Membrane/physiology",
+          "Cytoplasm",
+          "Electrophysiology",
+          "Hippocampus/cytology/*physiology",
+          "Lysine/analogs & derivatives/pharmacology",
+          "Membrane Potentials/drug effects/physiology",
+          "Models, Biological",
+          "Presynaptic Terminals/physiology",
+          "Pyramidal Cells/cytology/*physiology",
+          "Rats",
+          "Rats, Wistar"
+     ],
+     "EDAT": "1994/08/01 00:00",
+     "MHDA": "1994/08/01 00:01",
+     "CRDT": [
+          "1994/08/01 00:00"
+     ],
+     "PHST": [
+          "1994/08/01 00:00 [pubmed]",
+          "1994/08/01 00:01 [medline]",
+          "1994/08/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 1994 Aug;14(8):4613-38.",
+     "term": "hippocampus"
+}

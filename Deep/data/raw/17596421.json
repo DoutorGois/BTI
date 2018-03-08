@@ -1,0 +1,83 @@
+{
+     "PMID": "17596421",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080108",
+     "LR": "20071011",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "98",
+     "IP": "4",
+     "DP": "2007 Oct",
+     "TI": "Anticipation in the rodent head direction system can be explained by an interaction of head movements and vestibular firing properties.",
+     "PG": "1883-97",
+     "AB": "The rodent head-direction (HD) system, which codes for the animal's head direction in the horizontal plane, is thought to be critically involved in spatial navigation. Electrophysiological recording studies have shown that HD cells can anticipate the animal's HD by up to 75-80 ms. The origin of this anticipation is poorly understood. In this modeling study, we provide a novel explanation for HD anticipation that relies on the firing properties of neurons afferent to the HD system. By incorporating spike rate adaptation and postinhibitory rebound as observed in medial vestibular nucleus neurons, our model produces realistic anticipation on a large corpus of rat movement data. In addition, HD anticipation varies between recording sessions of the same cell, between active and passive movement, and between different studies. Such differences do not appear to be correlated with behavioral variables and cannot be accounted for using earlier models. In the present model, anticipation depends on the power spectrum of the head movements. By direct comparison with recording data, we show that the model explains 60-80% of the observed anticipation variability. We conclude that HD afferent dynamics and the statistics of rat head movements are important in generating HD anticipation. This result contributes to understanding the functional circuitry of the HD system and has methodological implications for studies of HD anticipation.",
+     "FAU": [
+          "van der Meer, Matthijs A A",
+          "Knierim, James J",
+          "Yoganarasimha, D",
+          "Wood, Emma R",
+          "van Rossum, Mark C W"
+     ],
+     "AU": [
+          "van der Meer MA",
+          "Knierim JJ",
+          "Yoganarasimha D",
+          "Wood ER",
+          "van Rossum MC"
+     ],
+     "AD": "Neuroinformatics Doctoral Training Centre, University of Edinburgh, Edinburgh, UK. vande642@umn.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS39456/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20070627",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Data Interpretation, Statistical",
+          "Electrophysiology",
+          "Head Movements/*physiology",
+          "Linear Models",
+          "Male",
+          "Models, Neurological",
+          "Movement/physiology",
+          "Nerve Net/physiology",
+          "Neurons/physiology",
+          "Photic Stimulation",
+          "Poisson Distribution",
+          "Psychomotor Performance/physiology",
+          "Rats",
+          "Rats, Long-Evans",
+          "Rotation",
+          "Vestibule, Labyrinth/innervation/*physiology"
+     ],
+     "EDAT": "2007/06/29 09:00",
+     "MHDA": "2008/01/09 09:00",
+     "CRDT": [
+          "2007/06/29 09:00"
+     ],
+     "PHST": [
+          "2007/06/29 09:00 [pubmed]",
+          "2008/01/09 09:00 [medline]",
+          "2007/06/29 09:00 [entrez]"
+     ],
+     "AID": [
+          "00233.2007 [pii]",
+          "10.1152/jn.00233.2007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2007 Oct;98(4):1883-97. doi: 10.1152/jn.00233.2007. Epub 2007 Jun 27.",
+     "term": "spatial navigation"
+}

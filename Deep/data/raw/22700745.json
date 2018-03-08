@@ -1,0 +1,82 @@
+{
+     "PMID": "22700745",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130708",
+     "LR": "20171017",
+     "IS": "1936-959X (Electronic) 0195-6108 (Linking)",
+     "VI": "33",
+     "IP": "10",
+     "DP": "2012 Nov",
+     "TI": "Whither the hippocampus? FDG-PET hippocampal hypometabolism in Alzheimer disease revisited.",
+     "PG": "1975-82",
+     "LID": "10.3174/ajnr.A3113 [doi]",
+     "AB": "BACKGROUND AND PURPOSE: The hippocampus is a widely recognized area of early change in AD, yet voxelwise analyses of FDG-PET activity differences between AD and CN controls have consistently failed to identify hippocampal hypometabolism. In this article, we propose a high-dimensional PET-specific analysis framework to determine whether important hippocampal metabolic FDG-PET activity differences between patients with AD and CN subjects are embedded in the Jacobian information generated during spatial normalization. MATERIALS AND METHODS: Resting FDG-PET data were obtained from 102 CN and 92 participants with AD from the ADNI data base. A PET-study-specific template was constructed using symmetric diffeomorphic registration. Spatially normalized raw FDG maps, Jacobian determinant maps, and modulated maps were generated for all subjects. Statistical parametric mapping and tensor-based morphometry were performed, comparing patients with AD with CN subjects. RESULTS: Whole-brain spatially normalized raw FDG maps demonstrated robust hypometabolism in cingulate gyrus and bilateral parietal areas. No hippocampal differences were present, except on ROI-based analyses with a hippocampal mask. Whole-brain modulated maps demonstrated robust bilateral hippocampal hypometabolism, and some hypometabolism in the posterior cingulate. Tensor-based morphometry demonstrated robust hippocampal differences only. CONCLUSIONS: These results demonstrate that hippocampal metabolic differences are embedded in the Jacobian information from the spatial normalization procedure. We introduce a voxelwise PET-specific analysis framework based on the use of a PET-population-specific template, high-dimensional symmetric diffeomorphic normalization, and the use of Jacobian information, which can provide substantially increased statistical power and an order of magnitude decrease in imaging costs.",
+     "FAU": [
+          "Maldjian, J A",
+          "Whitlow, C T"
+     ],
+     "AU": [
+          "Maldjian JA",
+          "Whitlow CT"
+     ],
+     "AD": "Department of Radiology, Wake Forest School of Medicine, Winston-Salem, North Carolina 27157, USA. maldjian@wakehealth.edu",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "U01AG024904/AG/NIA NIH HHS/United States",
+          "Canadian Institutes of Health Research/Canada",
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120614",
+     "PL": "United States",
+     "TA": "AJNR Am J Neuroradiol",
+     "JT": "AJNR. American journal of neuroradiology",
+     "JID": "8003708",
+     "RN": [
+          "0 (Radiopharmaceuticals)",
+          "0Z5B2CJX4D (Fluorodeoxyglucose F18)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/*diagnostic imaging/*metabolism",
+          "Female",
+          "Fluorodeoxyglucose F18/*pharmacokinetics",
+          "Hippocampus/*diagnostic imaging/*metabolism",
+          "Humans",
+          "Male",
+          "Positron-Emission Tomography/*methods",
+          "Radiopharmaceuticals",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2012/06/16 06:00",
+     "MHDA": "2013/07/09 06:00",
+     "CRDT": [
+          "2012/06/16 06:00"
+     ],
+     "PHST": [
+          "2012/06/16 06:00 [entrez]",
+          "2012/06/16 06:00 [pubmed]",
+          "2013/07/09 06:00 [medline]"
+     ],
+     "AID": [
+          "ajnr.A3113 [pii]",
+          "10.3174/ajnr.A3113 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "AJNR Am J Neuroradiol. 2012 Nov;33(10):1975-82. doi: 10.3174/ajnr.A3113. Epub 2012 Jun 14.",
+     "term": "hippocampus"
+}

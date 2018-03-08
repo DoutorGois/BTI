@@ -1,0 +1,68 @@
+{
+     "PMID": "17604603",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20071206",
+     "LR": "20070820",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "20",
+     "IP": "6",
+     "DP": "2007 Aug",
+     "TI": "Emergence of sequence sensitivity in a hippocampal CA3-CA1 model.",
+     "PG": "653-67",
+     "AB": "Recent studies have shown that place cells in the hippocampal CA1 region fire in a sequence sensitive manner. In this study we tested if hippocampal CA3 and CA1 regions can give rise to the sequence sensitivity. We used a two-layer CA3-CA1 hippocampal model that consisted of Hodgkin-Huxley style neuron models. Sequential input signals that mimicked signals projected from the entorhinal cortex gradually modified the synaptic conductances between CA3 pyramidal cells through spike-timing-dependent plasticity (STDP) and produced propagations of neuronal activity in the radial direction from stimulated pyramidal cells. This sequence dependent spatio-temporal activity was picked up by specific CA1 pyramidal cells through modification of Schaffer collateral synapses with STDP. After learning, these CA1 pyramidal cells responded with the highest probability to the learned sequence, while responding with a lower probability to different sequences. These results demonstrate that sequence sensitivity of CA1 place cells would emerge through computation in the CA3 and CA1 regions.",
+     "FAU": [
+          "Yoshida, Motoharu",
+          "Hayashi, Hatsuo"
+     ],
+     "AU": [
+          "Yoshida M",
+          "Hayashi H"
+     ],
+     "AD": "Department of Computer Science and Electronics, Graduate School of Computer Science and Systems Engineering, Kyushu Institute of Technology, Iizuka 820-8502, Japan. motoharu@bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20070531",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Hippocampus/*cytology/physiology",
+          "*Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Neuronal Plasticity/physiology",
+          "Neurons/*physiology",
+          "Probability",
+          "Synaptic Transmission/*physiology",
+          "Time Factors"
+     ],
+     "EDAT": "2007/07/03 09:00",
+     "MHDA": "2007/12/07 09:00",
+     "CRDT": [
+          "2007/07/03 09:00"
+     ],
+     "PHST": [
+          "2006/06/22 00:00 [received]",
+          "2007/05/23 00:00 [revised]",
+          "2007/05/23 00:00 [accepted]",
+          "2007/07/03 09:00 [pubmed]",
+          "2007/12/07 09:00 [medline]",
+          "2007/07/03 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(07)00086-X [pii]",
+          "10.1016/j.neunet.2007.05.003 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2007 Aug;20(6):653-67. doi: 10.1016/j.neunet.2007.05.003. Epub 2007 May 31.",
+     "term": "place cells"
+}

@@ -1,0 +1,85 @@
+{
+     "PMID": "27217825",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170207",
+     "LR": "20170510",
+     "IS": "1687-5273 (Electronic)",
+     "VI": "2016",
+     "DP": "2016",
+     "TI": "Spike Code Flow in Cultured Neuronal Networks.",
+     "PG": "7267691",
+     "LID": "10.1155/2016/7267691 [doi]",
+     "AB": "We observed spike trains produced by one-shot electrical stimulation with 8 x 8 multielectrodes in cultured neuronal networks. Each electrode accepted spikes from several neurons. We extracted the short codes from spike trains and obtained a code spectrum with a nominal time accuracy of 1%. We then constructed code flow maps as movies of the electrode array to observe the code flow of \"1101\" and \"1011,\" which are typical pseudorandom sequence such as that we often encountered in a literature and our experiments. They seemed to flow from one electrode to the neighboring one and maintained their shape to some extent. To quantify the flow, we calculated the \"maximum cross-correlations\" among neighboring electrodes, to find the direction of maximum flow of the codes with lengths less than 8. Normalized maximum cross-correlations were almost constant irrespective of code. Furthermore, if the spike trains were shuffled in interval orders or in electrodes, they became significantly small. Thus, the analysis suggested that local codes of approximately constant shape propagated and conveyed information across the network. Hence, the codes can serve as visible and trackable marks of propagating spike waves as well as evaluating information flow in the neuronal network.",
+     "FAU": [
+          "Tamura, Shinichi",
+          "Nishitani, Yoshi",
+          "Hosokawa, Chie",
+          "Miyoshi, Tomomitsu",
+          "Sawai, Hajime",
+          "Kamimura, Takuya",
+          "Yagi, Yasushi",
+          "Mizuno-Matsumoto, Yuko",
+          "Chen, Yen-Wei"
+     ],
+     "AU": [
+          "Tamura S",
+          "Nishitani Y",
+          "Hosokawa C",
+          "Miyoshi T",
+          "Sawai H",
+          "Kamimura T",
+          "Yagi Y",
+          "Mizuno-Matsumoto Y",
+          "Chen YW"
+     ],
+     "AD": "NBL Technovator Co., Ltd., 631 Shindachimakino, Sennan 590-0522, Japan. Department of Radiology, Graduate School of Medicine, Osaka University, Suita 565-0871, Japan. Biomedical Research Institute, AIST, Ikeda, Osaka 563-8577, Japan. Department of Integrative Physiology, Graduate School of Medicine, Osaka University, Suita 565-0871, Japan. College of Health and Human Sciences, Osaka Prefecture University, Habikino, Osaka 583-8555, Japan. NBL Technovator Co., Ltd., 631 Shindachimakino, Sennan 590-0522, Japan. ISIR, Osaka University, 8-1 Mihogaoka, Ibaraki City, Osaka 567-0047, Japan. Graduate School of Applied Informatics, University of Hyogo, Kobe 650-0047, Japan. College of Information Science and Engineering, Ritsumeikan University, Kusatsu 525-8577, Japan.",
+     "AUID": [
+          "ORCID: 0000-0002-0289-4680"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160427",
+     "PL": "United States",
+     "TA": "Comput Intell Neurosci",
+     "JT": "Computational intelligence and neuroscience",
+     "JID": "101279357",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Cell Culture Techniques",
+          "Electric Stimulation",
+          "Embryo, Mammalian",
+          "Hippocampus/cytology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "Rats, Wistar"
+     ],
+     "PMC": "PMC4863084",
+     "EDAT": "2016/05/25 06:00",
+     "MHDA": "2017/02/09 06:00",
+     "CRDT": [
+          "2016/05/25 06:00"
+     ],
+     "PHST": [
+          "2015/07/01 00:00 [received]",
+          "2015/09/19 00:00 [revised]",
+          "2015/10/08 00:00 [accepted]",
+          "2016/05/25 06:00 [entrez]",
+          "2016/05/25 06:00 [pubmed]",
+          "2017/02/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2016/7267691 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Intell Neurosci. 2016;2016:7267691. doi: 10.1155/2016/7267691. Epub 2016 Apr 27.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,73 @@
+{
+     "PMID": "24946774",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140911",
+     "LR": "20150805",
+     "IS": "1475-925X (Electronic) 1475-925X (Linking)",
+     "VI": "13",
+     "DP": "2014 Jun 20",
+     "TI": "Automatic tracking of cells for video microscopy in patch clamp experiments.",
+     "PG": "78",
+     "LID": "10.1186/1475-925X-13-78 [doi]",
+     "AB": "BACKGROUND: Visualisation of neurons labeled with fluorescent proteins or compounds generally require exposure to intense light for a relatively long period of time, often leading to bleaching of the fluorescent probe and photodamage of the tissue. Here we created a technique to drastically shorten light exposure and improve the targeting of fluorescent labeled cells that is specially useful for patch-clamp recordings. We applied image tracking and mask overlay to reduce the time of fluorescence exposure and minimise mistakes when identifying neurons. METHODS: Neurons are first identified according to visual criteria (e.g. fluorescence protein expression, shape, viability etc.) and a transmission microscopy image Differential Interference Contrast (DIC) or Dodt contrast containing the cell used as a reference for the tracking algorithm. A fluorescence image can also be acquired later to be used as a mask (that can be overlaid on the target during live transmission video). As patch-clamp experiments require translating the microscope stage, we used pattern matching to track reference neurons in order to move the fluorescence mask to match the new position of the objective in relation to the sample. For the image processing we used the Open Source Computer Vision (OpenCV) library, including the Speeded-Up Robust Features (SURF) for tracking cells. The dataset of images (n = 720) was analyzed under normal conditions of acquisition and with influence of noise (defocusing and brightness). RESULTS: We validated the method in dissociated neuronal cultures and fresh brain slices expressing Enhanced Yellow Fluorescent Protein (eYFP) or Tandem Dimer Tomato (tdTomato) proteins, which considerably decreased the exposure to fluorescence excitation, thereby minimising photodamage. We also show that the neuron tracking can be used in differential interference contrast or Dodt contrast microscopy. CONCLUSION: The techniques of digital image processing used in this work are an important addition to the set of microscopy tools used in modern electrophysiology, specially in experiments with neuron cultures and brain slices.",
+     "FAU": [
+          "Peixoto, Helton M",
+          "Munguba, Hermany",
+          "Cruz, Rossana M S",
+          "Guerreiro, Ana M G",
+          "Leao, Richardson N"
+     ],
+     "AU": [
+          "Peixoto HM",
+          "Munguba H",
+          "Cruz RM",
+          "Guerreiro AM",
+          "Leao RN"
+     ],
+     "AD": "Brain Institute, Federal University of Rio Grande do Norte, 2155, 59056-450 Natal - RN, Brazil. richardson.leao@neuro.ufrn.br.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140620",
+     "PL": "England",
+     "TA": "Biomed Eng Online",
+     "JT": "Biomedical engineering online",
+     "JID": "101147518",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Automation",
+          "Cell Tracking/*methods",
+          "Hippocampus/cytology",
+          "Image Processing, Computer-Assisted",
+          "Mice",
+          "Microscopy, Video/*methods",
+          "Neurons/cytology",
+          "Patch-Clamp Techniques/*methods"
+     ],
+     "PMC": "PMC4084571",
+     "EDAT": "2014/06/21 06:00",
+     "MHDA": "2014/09/12 06:00",
+     "CRDT": [
+          "2014/06/21 06:00"
+     ],
+     "PHST": [
+          "2014/04/02 00:00 [received]",
+          "2014/06/06 00:00 [accepted]",
+          "2014/06/21 06:00 [entrez]",
+          "2014/06/21 06:00 [pubmed]",
+          "2014/09/12 06:00 [medline]"
+     ],
+     "AID": [
+          "1475-925X-13-78 [pii]",
+          "10.1186/1475-925X-13-78 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Biomed Eng Online. 2014 Jun 20;13:78. doi: 10.1186/1475-925X-13-78.",
+     "term": "hippocampus"
+}

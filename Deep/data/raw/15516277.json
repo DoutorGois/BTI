@@ -1,0 +1,64 @@
+{
+     "PMID": "15516277",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050119",
+     "LR": "20041101",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "16",
+     "IP": "12",
+     "DP": "2004 Dec",
+     "TI": "Cognitive map formation through sequence encoding by theta phase precession.",
+     "PG": "2665-97",
+     "AB": "The rodent hippocampus has been thought to represent the spatial environment as a cognitive map. The associative connections in the hippocampus imply that a neural entity represents the map as a geometrical network of hippocampal cells in terms of a chart. According to recent experimental observations, the cells fire successively relative to the theta oscillation of the local field potential, called theta phase precession, when the animal is running. This observation suggests the learning of temporal sequences with asymmetric connections in the hippocampus, but it also gives rather inconsistent implications on the formation of the chart that should consist of symmetric connections for space coding. In this study, we hypothesize that the chart is generated with theta phase coding through the integration of asymmetric connections. Our computer experiments use a hippocampal network model to demonstrate that a geometrical network is formed through running experiences in a few minutes. Asymmetric connections are found to remain and distribute heterogeneously in the network. The obtained network exhibits the spatial localization of activities at each instance as the chart does and their propagation that represents behavioral motions with multidirectional properties. We conclude that theta phase precession and the Hebbian rule with a time delay can provide the neural principles for learning the cognitive map.",
+     "FAU": [
+          "Wagatsuma, Hiroaki",
+          "Yamaguchi, Yoko"
+     ],
+     "AU": [
+          "Wagatsuma H",
+          "Yamaguchi Y"
+     ],
+     "AD": "Laboratory for Dynamics of Emergent Intelligence, RIKEN BSI, Wako-shi, Saitama 351-0198, Japan. waga@brain.riken.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Artificial Intelligence",
+          "Behavior, Animal/physiology",
+          "Brain Mapping",
+          "Cognition/*physiology",
+          "Hippocampus/*physiology",
+          "Long-Term Potentiation/physiology",
+          "Models, Neurological",
+          "Neural Networks (Computer)",
+          "Neurons/physiology",
+          "Rats"
+     ],
+     "EDAT": "2004/11/02 09:00",
+     "MHDA": "2005/01/20 09:00",
+     "CRDT": [
+          "2004/11/02 09:00"
+     ],
+     "PHST": [
+          "2004/11/02 09:00 [pubmed]",
+          "2005/01/20 09:00 [medline]",
+          "2004/11/02 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/0899766042321742 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2004 Dec;16(12):2665-97. doi: 10.1162/0899766042321742.",
+     "term": "hippocampus"
+}

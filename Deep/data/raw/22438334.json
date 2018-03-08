@@ -1,0 +1,98 @@
+{
+     "PMID": "22438334",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120716",
+     "LR": "20161019",
+     "IS": "1558-0210 (Electronic) 1534-4320 (Linking)",
+     "VI": "20",
+     "IP": "2",
+     "DP": "2012 Mar",
+     "TI": "A nonlinear model for hippocampal cognitive prosthesis: memory facilitation by hippocampal ensemble stimulation.",
+     "PG": "184-97",
+     "LID": "10.1109/TNSRE.2012.2189163 [doi]",
+     "AB": "Collaborative investigations have characterized how multineuron hippocampal ensembles encode memory necessary for subsequent successful performance by rodents in a delayed nonmatch to sample (DNMS) task and utilized that information to provide the basis for a memory prosthesis to enhance performance. By employing a unique nonlinear dynamic multi-input/multi-output (MIMO) model, developed and adapted to hippocampal neural ensemble firing patterns derived from simultaneous recorded CA1 and CA3 activity, it was possible to extract information encoded in the sample phase necessary for successful performance in the nonmatch phase of the task. The extension of this MIMO model to online delivery of electrical stimulation delivered to the same recording loci that mimicked successful CA1 firing patterns, provided the means to increase levels of performance on a trial-by-trial basis. Inclusion of several control procedures provides evidence for the specificity of effective MIMO model generated patterns of electrical stimulation. Increased utility of the MIMO model as a prosthesis device was exhibited by the demonstration of cumulative increases in DNMS task performance with repeated MIMO stimulation over many sessions on both stimulation and nonstimulation trials, suggesting overall system modification with continued exposure. Results reported here are compatible with and extend prior demonstrations and further support the candidacy of the MIMO model as an effective cortical prosthesis.",
+     "FAU": [
+          "Hampson, Robert E",
+          "Song, Dong",
+          "Chan, Rosa H M",
+          "Sweatt, Andrew J",
+          "Riley, Mitchell R",
+          "Gerhardt, Gregory A",
+          "Shin, Dae C",
+          "Marmarelis, Vasilis Z",
+          "Berger, Theodore W",
+          "Deadwyler, Samuel A"
+     ],
+     "AU": [
+          "Hampson RE",
+          "Song D",
+          "Chan RH",
+          "Sweatt AJ",
+          "Riley MR",
+          "Gerhardt GA",
+          "Shin DC",
+          "Marmarelis VZ",
+          "Berger TW",
+          "Deadwyler SA"
+     ],
+     "AD": "Department of Physiology, Wake Forest School of Medicine, Winston-Salem, NC 27157, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB001978/EB/NIBIB NIH HHS/United States",
+          "R01 DA007625/DA/NIDA NIH HHS/United States",
+          "P41-EB001978/EB/NIBIB NIH HHS/United States",
+          "R01DA07625/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Syst Rehabil Eng",
+     "JT": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "101097023",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Behavior, Animal/physiology",
+          "CA1 Region, Hippocampal/physiology",
+          "CA3 Region, Hippocampal/physiology",
+          "Cognition/*physiology",
+          "Data Interpretation, Statistical",
+          "Electric Stimulation",
+          "Electrodes, Implanted",
+          "Hippocampus/*physiology",
+          "Male",
+          "Memory/*physiology",
+          "*Neural Prostheses",
+          "Nonlinear Dynamics",
+          "Prosthesis Design",
+          "Psychomotor Performance/physiology",
+          "Rats",
+          "Rats, Long-Evans"
+     ],
+     "PMC": "PMC3397311",
+     "MID": [
+          "NIHMS387601"
+     ],
+     "EDAT": "2012/03/23 06:00",
+     "MHDA": "2012/07/17 06:00",
+     "CRDT": [
+          "2012/03/23 06:00"
+     ],
+     "PHST": [
+          "2012/03/23 06:00 [entrez]",
+          "2012/03/23 06:00 [pubmed]",
+          "2012/07/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TNSRE.2012.2189163 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Syst Rehabil Eng. 2012 Mar;20(2):184-97. doi: 10.1109/TNSRE.2012.2189163.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,73 @@
+{
+     "PMID": "23549683",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140205",
+     "LR": "20161025",
+     "IS": "1554-3528 (Electronic) 1554-351X (Linking)",
+     "VI": "45",
+     "IP": "4",
+     "DP": "2013 Dec",
+     "TI": "PandaEPL: a library for programming spatial navigation experiments.",
+     "PG": "1293-312",
+     "LID": "10.3758/s13428-013-0322-5 [doi]",
+     "AB": "Recent advances in neuroimaging and neural recording techniques have enabled researchers to make significant progress in understanding the neural mechanisms underlying human spatial navigation. Because these techniques generally require participants to remain stationary, computer-generated virtual environments are used. We introduce PandaEPL, a programming library for the Python language designed to simplify the creation of computer-controlled spatial-navigation experiments. PandaEPL is built on top of Panda3D, a modern open-source game engine. It allows users to construct three-dimensional environments that participants can navigate from a first-person perspective. Sound playback and recording and also joystick support are provided through the use of additional optional libraries. PandaEPL also handles many tasks common to all cognitive experiments, including managing configuration files, logging all internal and participant-generated events, and keeping track of the experiment state. We describe how PandaEPL compares with other software for building spatial-navigation experiments and walk the reader through the process of creating a fully functional experiment.",
+     "FAU": [
+          "Solway, Alec",
+          "Miller, Jonathan F",
+          "Kahana, Michael J"
+     ],
+     "AU": [
+          "Solway A",
+          "Miller JF",
+          "Kahana MJ"
+     ],
+     "AD": "Princeton University, Princeton, NJ, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH061975/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Behav Res Methods",
+     "JT": "Behavior research methods",
+     "JID": "101244316",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Behavioral Sciences/*instrumentation/*methods",
+          "Computers",
+          "Data Display",
+          "Environment Design",
+          "Humans",
+          "*Libraries, Digital",
+          "Research Design",
+          "*Software",
+          "Spatial Behavior/*physiology",
+          "*User-Computer Interface"
+     ],
+     "PMC": "PMC3867203",
+     "MID": [
+          "NIHMS463362"
+     ],
+     "EDAT": "2013/04/04 06:00",
+     "MHDA": "2014/02/06 06:00",
+     "CRDT": [
+          "2013/04/04 06:00"
+     ],
+     "PHST": [
+          "2013/04/04 06:00 [entrez]",
+          "2013/04/04 06:00 [pubmed]",
+          "2014/02/06 06:00 [medline]"
+     ],
+     "AID": [
+          "10.3758/s13428-013-0322-5 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Behav Res Methods. 2013 Dec;45(4):1293-312. doi: 10.3758/s13428-013-0322-5.",
+     "term": "spatial navigation"
+}

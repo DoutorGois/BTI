@@ -1,0 +1,110 @@
+{
+     "PMID": "24799359",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150511",
+     "LR": "20170220",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "24",
+     "IP": "9",
+     "DP": "2014 Sep",
+     "TI": "Cognitive impairment in temporal lobe epilepsy: role of online and offline processing of single cell information.",
+     "PG": "1129-45",
+     "LID": "10.1002/hipo.22297 [doi]",
+     "AB": "Cognitive impairment is a common comorbidity in temporal lobe epilepsy (TLE) and is often considered more detrimental to quality of life than seizures. While it has been previously shown that the encoding of memory during behavior is impaired in the pilocarpine model of TLE in rats, how this information is consolidated during the subsequent sleep period remains unknown. In this study, we first report marked deficits in spatial memory performance and severe cell loss in the CA1 layer of the hippocampus lower spatial coherence of firing in TLE rats. We then present the first evidence that the reactivation of behavior-driven patterns of activity of CA1 place cells in the hippocampus is intact in TLE rats. Using a template-matching method, we discovered that real-time (3-5 s) reactivation structure was intact in TLE rats. Furthermore, we estimated the entropy rate of short time scale ( approximately 250 ms) bursting activity using block entropies and found that significant, extended temporal correlations exist in both TLE and control rats. Fitting a first-order Markov Chain model to these bursting time series, we found that long sequences derived from behavior were significantly enriched in the Markov model over corresponding models fit on randomized data confirming the presence of replay in shorter time scales. We propose that the persistent consolidation of poor spatial information in both real time and during bursting activity may contribute to memory impairments in TLE rats.",
+     "CI": [
+          "(c) 2014 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Titiz, A S",
+          "Mahoney, J M",
+          "Testorf, M E",
+          "Holmes, G L",
+          "Scott, R C"
+     ],
+     "AU": [
+          "Titiz AS",
+          "Mahoney JM",
+          "Testorf ME",
+          "Holmes GL",
+          "Scott RC"
+     ],
+     "AD": "Department of Neurology, Geisel School of Medicine at Dartmouth, Hanover, New Hampshire.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS074450/NS/NINDS NIH HHS/United States",
+          "R01 NS073083/NS/NINDS NIH HHS/United States",
+          "NS074450/NS/NINDS NIH HHS/United States",
+          "NS073083/NS/NINDS NIH HHS/United States",
+          "R01-NS075249/NS/NINDS NIH HHS/United States",
+          "R01 NS075249/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140509",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "RN": [
+          "01MI4Q9DI3 (Pilocarpine)",
+          "G4962QA067 (Lithium Chloride)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "CA1 Region, Hippocampal/pathology/physiopathology",
+          "Cognition Disorders/epidemiology/pathology/*physiopathology",
+          "Comorbidity",
+          "Disease Models, Animal",
+          "Epilepsy, Temporal Lobe/epidemiology/pathology/*physiopathology",
+          "Lithium Chloride",
+          "Markov Chains",
+          "Maze Learning/physiology",
+          "Models, Neurological",
+          "Pilocarpine",
+          "Pyramidal Cells/pathology/*physiopathology",
+          "Rats, Sprague-Dawley",
+          "Seizures/epidemiology/pathology/physiopathology",
+          "Sleep/physiology",
+          "Spatial Memory/*physiology",
+          "Time Factors"
+     ],
+     "PMC": "PMC4146626",
+     "MID": [
+          "NIHMS591038"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Markov chain",
+          "place cells",
+          "reactivation",
+          "replay",
+          "sleep"
+     ],
+     "EDAT": "2014/05/07 06:00",
+     "MHDA": "2015/05/12 06:00",
+     "CRDT": [
+          "2014/05/07 06:00"
+     ],
+     "PHST": [
+          "2014/04/23 00:00 [accepted]",
+          "2014/05/07 06:00 [entrez]",
+          "2014/05/07 06:00 [pubmed]",
+          "2015/05/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.22297 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2014 Sep;24(9):1129-45. doi: 10.1002/hipo.22297. Epub 2014 May 9.",
+     "term": "place cells"
+}

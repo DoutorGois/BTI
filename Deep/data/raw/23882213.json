@@ -1,0 +1,66 @@
+{
+     "PMID": "23882213",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130724",
+     "LR": "20170220",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "7",
+     "DP": "2013",
+     "TI": "Rapid, parallel path planning by propagating wavefronts of spiking neural activity.",
+     "PG": "98",
+     "LID": "10.3389/fncom.2013.00098 [doi]",
+     "AB": "Efficient path planning and navigation is critical for animals, robotics, logistics and transportation. We study a model in which spatial navigation problems can rapidly be solved in the brain by parallel mental exploration of alternative routes using propagating waves of neural activity. A wave of spiking activity propagates through a hippocampus-like network, altering the synaptic connectivity. The resulting vector field of synaptic change then guides a simulated animal to the appropriate selected target locations. We demonstrate that the navigation problem can be solved using realistic, local synaptic plasticity rules during a single passage of a wavefront. Our model can find optimal solutions for competing possible targets or learn and navigate in multiple environments. The model provides a hypothesis on the possible computational mechanisms for optimal path planning in the brain, at the same time it is useful for neuromorphic implementations, where the parallelism of information processing proposed here can fully be harnessed in hardware.",
+     "FAU": [
+          "Ponulak, Filip",
+          "Hopfield, John J"
+     ],
+     "AU": [
+          "Ponulak F",
+          "Hopfield JJ"
+     ],
+     "AD": "Brain Corporation San Diego, CA, USA ; Department of Molecular Biology, Princeton University Princeton, NJ, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130718",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC3714542",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "hippocampus",
+          "mental exploration",
+          "navigation",
+          "neuromorphic systems",
+          "parallel processing",
+          "path planning",
+          "spike timing dependent plasticity",
+          "wave propagation"
+     ],
+     "EDAT": "2013/07/25 06:00",
+     "MHDA": "2013/07/25 06:01",
+     "CRDT": [
+          "2013/07/25 06:00"
+     ],
+     "PHST": [
+          "2013/04/01 00:00 [received]",
+          "2013/06/26 00:00 [accepted]",
+          "2013/07/25 06:00 [entrez]",
+          "2013/07/25 06:00 [pubmed]",
+          "2013/07/25 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2013.00098 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2013 Jul 18;7:98. doi: 10.3389/fncom.2013.00098. eCollection 2013.",
+     "term": "spatial navigation"
+}

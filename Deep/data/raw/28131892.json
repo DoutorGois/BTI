@@ -1,0 +1,75 @@
+{
+     "PMID": "28131892",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180227",
+     "LR": "20180227",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "149",
+     "DP": "2017 Apr 1",
+     "TI": "Using generative models to make probabilistic statements about hippocampal engagement in MEG.",
+     "PG": "468-482",
+     "LID": "S1053-8119(17)30037-X [pii] 10.1016/j.neuroimage.2017.01.029 [doi]",
+     "AB": "Magnetoencephalography (MEG) enables non-invasive real time characterization of brain activity. However, convincing demonstrations of signal contributions from deeper sources such as the hippocampus remain controversial and are made difficult by its depth, structural complexity and proximity to neocortex. Here, we demonstrate a method for quantifying hippocampal engagement probabilistically using simulated hippocampal activity and realistic anatomical and electromagnetic source modelling. We construct two generative models, one which supports neuronal current flow on the cortical surface, and one which supports neuronal current flow on both the cortical and hippocampal surface. Using Bayesian model comparison, we then infer which of the two models provides a more likely explanation of the dataset at hand. We also carry out a set of control experiments to rule out bias, including simulating medial temporal lobe sources to assess the risk of falsely positive results, and adding different types of displacements to the hippocampal portion of the mesh to test for anatomical specificity of the results. In addition, we test the robustness of this inference by adding co-registration error and sensor level noise. We find that the model comparison framework is sensitive to hippocampal activity when co-registration error is <3 mm and the sensor-level signal-to-noise ratio (SNR) is >-20 dB. These levels of co-registration error and SNR can now be achieved empirically using recently developed subject-specific head-casts.",
+     "CI": [
+          "Crown Copyright (c) 2017. Published by Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Meyer, Sofie S",
+          "Rossiter, Holly",
+          "Brookes, Matthew J",
+          "Woolrich, Mark W",
+          "Bestmann, Sven",
+          "Barnes, Gareth R"
+     ],
+     "AU": [
+          "Meyer SS",
+          "Rossiter H",
+          "Brookes MJ",
+          "Woolrich MW",
+          "Bestmann S",
+          "Barnes GR"
+     ],
+     "AD": "Wellcome Trust Centre for Neuroimaging, Institute of Neurology, University College London, London WC1N3BG, UK. Electronic address: sofie.meyer@gmail.com. Wellcome Trust Centre for Neuroimaging, Institute of Neurology, University College London, London WC1N3BG, UK. Sir Peter Mansfield Magnetic Resonance Centre, School of Physics and Astronomy, University of Nottingham, Nottingham, UK. Oxford Centre for Human Brain Activity, University of Oxford, Warneford Hospital, Oxford, UK. Sobell Department for Motor Neuroscience and Movement Disorders, Institute of Neurology, University College London, London, UK. Wellcome Trust Centre for Neuroimaging, Institute of Neurology, University College London, London WC1N3BG, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170125",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Brain Mapping/*methods",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Magnetoencephalography/*methods",
+          "*Models, Neurological"
+     ],
+     "PMC": "PMC5387160",
+     "EDAT": "2017/01/31 06:00",
+     "MHDA": "2018/02/28 06:00",
+     "CRDT": [
+          "2017/01/30 06:00"
+     ],
+     "PHST": [
+          "2016/06/27 00:00 [received]",
+          "2017/01/09 00:00 [revised]",
+          "2017/01/13 00:00 [accepted]",
+          "2017/01/31 06:00 [pubmed]",
+          "2018/02/28 06:00 [medline]",
+          "2017/01/30 06:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(17)30037-X [pii]",
+          "10.1016/j.neuroimage.2017.01.029 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2017 Apr 1;149:468-482. doi: 10.1016/j.neuroimage.2017.01.029. Epub 2017 Jan 25.",
+     "term": "hippocampus"
+}

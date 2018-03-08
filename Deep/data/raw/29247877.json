@@ -1,0 +1,84 @@
+{
+     "PMID": "29247877",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20180116",
+     "IS": "1361-8423 (Electronic) 1361-8415 (Linking)",
+     "VI": "44",
+     "DP": "2018 Feb",
+     "TI": "Learning non-linear patch embeddings with neural networks for label fusion.",
+     "PG": "143-155",
+     "LID": "S1361-8415(17)30182-2 [pii] 10.1016/j.media.2017.11.013 [doi]",
+     "AB": "In brain structural segmentation, multi-atlas strategies are increasingly being used over single-atlas strategies because of their ability to fit a wider anatomical variability. Patch-based label fusion (PBLF) is a type of such multi-atlas approaches that labels each target point as a weighted combination of neighboring atlas labels, where atlas points with higher local similarity to the target contribute more strongly to label fusion. PBLF can be potentially improved by increasing the discriminative capabilities of the local image similarity measurements. We propose a framework to compute patch embeddings using neural networks so as to increase discriminative abilities of similarity-based weighted voting in PBLF. As particular cases, our framework includes embeddings with different complexities, namely, a simple scaling, an affine transformation, and non-linear transformations. We compare our method with state-of-the-art alternatives in whole hippocampus and hippocampal subfields segmentation experiments using publicly available datasets. Results show that even the simplest versions of our method outperform standard PBLF, thus evidencing the benefits of discriminative learning. More complex transformation models tended to achieve better results than simpler ones, obtaining a considerable increase in average Dice score compared to standard PBLF.",
+     "CI": [
+          "Copyright (c) 2017 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Sanroma, Gerard",
+          "Benkarim, Oualid M",
+          "Piella, Gemma",
+          "Camara, Oscar",
+          "Wu, Guorong",
+          "Shen, Dinggang",
+          "Gispert, Juan D",
+          "Molinuevo, Jose Luis",
+          "Gonzalez Ballester, Miguel A"
+     ],
+     "AU": [
+          "Sanroma G",
+          "Benkarim OM",
+          "Piella G",
+          "Camara O",
+          "Wu G",
+          "Shen D",
+          "Gispert JD",
+          "Molinuevo JL",
+          "Gonzalez Ballester MA"
+     ],
+     "AD": "Department of Information and Communication Technologies, Universitat Pompeu Fabra, Tanger 122-140, Barcelona 08018, Spain. Electronic address: gerard.sanroma@upf.edu. Department of Information and Communication Technologies, Universitat Pompeu Fabra, Tanger 122-140, Barcelona 08018, Spain. Department of Information and Communication Technologies, Universitat Pompeu Fabra, Tanger 122-140, Barcelona 08018, Spain. Department of Information and Communication Technologies, Universitat Pompeu Fabra, Tanger 122-140, Barcelona 08018, Spain. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, 102 Mason Farm Rd., NC 27599, USA. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, 102 Mason Farm Rd., NC 27599, USA; Department of Brain and Cognitive Engineering, Korea University, Seoul, Republic of Korea. Barcelonabetaeta Brain Research Center, Pasqual Maragall Foundation, Wellington 30, Barcelona 08005 Spain. Barcelonabetaeta Brain Research Center, Pasqual Maragall Foundation, Wellington 30, Barcelona 08005 Spain. Department of Information and Communication Technologies, Universitat Pompeu Fabra, Tanger 122-140, Barcelona 08018, Spain; ICREA, Pg. Lluis Companys 23, Barcelona 08010 Spain.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171202",
+     "PL": "Netherlands",
+     "TA": "Med Image Anal",
+     "JT": "Medical image analysis",
+     "JID": "9713490",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Brain MRI",
+          "Embedding",
+          "Hippocampus",
+          "Multi-atlas segmentation",
+          "Neural networks",
+          "Patch-based label fusion"
+     ],
+     "EDAT": "2017/12/17 06:00",
+     "MHDA": "2017/12/17 06:00",
+     "CRDT": [
+          "2017/12/17 06:00"
+     ],
+     "PHST": [
+          "2017/03/21 00:00 [received]",
+          "2017/10/05 00:00 [revised]",
+          "2017/11/27 00:00 [accepted]",
+          "2017/12/17 06:00 [pubmed]",
+          "2017/12/17 06:00 [medline]",
+          "2017/12/17 06:00 [entrez]"
+     ],
+     "AID": [
+          "S1361-8415(17)30182-2 [pii]",
+          "10.1016/j.media.2017.11.013 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Anal. 2018 Feb;44:143-155. doi: 10.1016/j.media.2017.11.013. Epub 2017 Dec 2.",
+     "term": "hippocampus"
+}

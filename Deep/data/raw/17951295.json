@@ -1,0 +1,73 @@
+{
+     "PMID": "17951295",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080211",
+     "LR": "20170220",
+     "IS": "1542-0086 (Electronic) 0006-3495 (Linking)",
+     "VI": "94",
+     "IP": "4",
+     "DP": "2008 Feb 15",
+     "TI": "Enhanced background rejection in thick tissue with differential-aberration two-photon microscopy.",
+     "PG": "1449-58",
+     "AB": "When a two-photon excited fluorescence (TPEF) microscope is used to image deep inside tissue, out-of-focus background can arise from both ballistic and nonballistic excitation. We propose a solution to largely reject TPEF background in thick tissue. Our technique is based on differential-aberration imaging with a deformable mirror. By introducing extraneous aberrations in the excitation beam path, we preferentially quench in-focus TPEF signal while leaving out-of-focus TPEF background largely unchanged. A simple subtraction of an aberrated, from an unaberrated, TPEF image then removes background while preserving signal. Our differential aberration (DA) technique is simple, robust, and can readily be implemented with standard TPEF microscopes with essentially no loss in temporal resolution when using a line-by-line DA protocol. We analyze the performance of various induced aberration patterns, and demonstrate the effectiveness of DA-TPEF by imaging GFP-labeled sensory neurons in a mouse olfactory bulb and CA1 pyramidal cells in a hippocampus slice.",
+     "FAU": [
+          "Leray, A",
+          "Lillis, K",
+          "Mertz, J"
+     ],
+     "AU": [
+          "Leray A",
+          "Lillis K",
+          "Mertz J"
+     ],
+     "AD": "Boston University, Department of Biomedical Engineering, Boston, Massachusetts, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R21 EB005736/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20071019",
+     "PL": "United States",
+     "TA": "Biophys J",
+     "JT": "Biophysical journal",
+     "JID": "0370626",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Artifacts",
+          "Cells, Cultured",
+          "Equipment Design",
+          "Equipment Failure Analysis",
+          "Image Enhancement/*instrumentation/methods",
+          "Mice",
+          "Microscopy, Fluorescence, Multiphoton/*instrumentation/methods",
+          "Olfactory Bulb/*cytology",
+          "Pyramidal Cells/*cytology",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC2212671",
+     "EDAT": "2007/10/24 09:00",
+     "MHDA": "2008/02/12 09:00",
+     "CRDT": [
+          "2007/10/24 09:00"
+     ],
+     "PHST": [
+          "2007/10/24 09:00 [pubmed]",
+          "2008/02/12 09:00 [medline]",
+          "2007/10/24 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0006-3495(08)70661-1 [pii]",
+          "10.1529/biophysj.107.111476 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biophys J. 2008 Feb 15;94(4):1449-58. doi: 10.1529/biophysj.107.111476. Epub 2007 Oct 19.",
+     "term": "hippocampus"
+}

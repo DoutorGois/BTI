@@ -1,0 +1,58 @@
+{
+     "PMID": "24964853",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150516",
+     "LR": "20140626",
+     "IS": "0371-0874 (Print) 0371-0874 (Linking)",
+     "VI": "66",
+     "IP": "3",
+     "DP": "2014 Jun 25",
+     "TI": "[Multi-channel in vivo recording techniques: signal processing of action potentials and local field potentials].",
+     "PG": "349-57",
+     "AB": "Multi-channel in vivo recording techniques are used to record ensemble neuronal activity and local field potentials (LFP) simultaneously. One of the key points for the technique is how to process these two sets of recorded neural signals properly so that data accuracy can be assured. We intend to introduce data processing approaches for action potentials and LFP based on the original data collected through multi-channel recording system. Action potential signals are high-frequency signals, hence high sampling rate of 40 kHz is normally chosen for recording. Based on waveforms of extracellularly recorded action potentials, tetrode technology combining principal component analysis can be used to discriminate neuronal spiking signals from differently spatially distributed neurons, in order to obtain accurate single neuron spiking activity. LFPs are low-frequency signals (lower than 300 Hz), hence the sampling rate of 1 kHz is used for LFPs. Digital filtering is required for LFP analysis to isolate different frequency oscillations including theta oscillation (4-12 Hz), which is dominant in active exploration and rapid-eye-movement (REM) sleep, gamma oscillation (30-80 Hz), which is accompanied by theta oscillation during cognitive processing, and high frequency ripple oscillation (100-250 Hz) in awake immobility and slow wave sleep (SWS) state in rodent hippocampus. For the obtained signals, common data post-processing methods include inter-spike interval analysis, spike auto-correlation analysis, spike cross-correlation analysis, power spectral density analysis, and spectrogram analysis.",
+     "FAU": [
+          "Xu, Jia-Min",
+          "Wang, Ce-Qun",
+          "Lin, Long-Nian"
+     ],
+     "AU": [
+          "Xu JM",
+          "Wang CQ",
+          "Lin LN"
+     ],
+     "AD": "Key Laboratory of Brain Functional Genomics (Ministry of Education and Shanghai Municipality), East China Normal University, Shanghai 200062, China. lnlin@brain.ecnu.edu.cn.",
+     "LA": [
+          "chi"
+     ],
+     "PT": [
+          "English Abstract",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "China",
+     "TA": "Sheng Li Xue Bao",
+     "JT": "Sheng li xue bao : [Acta physiologica Sinica]",
+     "JID": "20730130R",
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials",
+          "Animals",
+          "Humans",
+          "Neurons/*physiology",
+          "Sleep"
+     ],
+     "EDAT": "2014/06/27 06:00",
+     "MHDA": "2015/05/20 06:00",
+     "CRDT": [
+          "2014/06/27 06:00"
+     ],
+     "PHST": [
+          "2014/06/27 06:00 [entrez]",
+          "2014/06/27 06:00 [pubmed]",
+          "2015/05/20 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Sheng Li Xue Bao. 2014 Jun 25;66(3):349-57.",
+     "term": "hippocampus"
+}

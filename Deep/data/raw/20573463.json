@@ -1,0 +1,86 @@
+{
+     "PMID": "20573463",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110112",
+     "LR": "20131121",
+     "IS": "1873-5894 (Electronic) 0730-725X (Linking)",
+     "VI": "28",
+     "IP": "7",
+     "DP": "2010 Sep",
+     "TI": "Assessment of spatial BOLD sensitivity variations in fMRI using gradient-echo field maps.",
+     "PG": "947-56",
+     "LID": "10.1016/j.mri.2010.05.003 [doi]",
+     "AB": "Clinical blood oxygenation level-dependent (BOLD) functional magnetic resonance imaging (fMRI) is becoming increasingly valuable in, e.g., presurgical planning, but the commonly used gradient-echo echo-planar imaging (GE-EPI) technique is sometimes hampered by macroscopic field inhomogeneities. This can affect the degree of signal change that will occur in the GE-EPI images as a response to neural activation and the subsequent blood oxygenation changes, i.e., the BOLD sensitivity (BS). In this study, quantitative BS maps were calculated directly from gradient-echo field maps obtainable on most clinical scanners. In order to validate the accuracy of the calculated BS-maps, known shim gradients were applied and field maps and GE-EPI images of a phantom were acquired. Measured GE-EPI image intensity was then compared with the calculated (predicted) image intensity (pII) which was obtained from the field maps using theoretical expressions for image-intensity loss. The validated expressions for pII were used to calculate the corresponding predicted BOLD sensitivity (pBS) maps in healthy volunteers. Since the field map is assumed to be valid throughout an entire fMRI experiment, the influence of subject motion on the pBS maps was also assessed. To demonstrate the usefulness of such maps, pBS was investigated for clinically important functional areas including hippocampus, Broca's area and primary motor cortex. A systematic left/right pBS difference was observed in Broca's area and in the hippocampus, most likely due to magnetic field inhomogeneity of the particular MRI-system used in this study. For all subjects, the hippocampus showed pBS values above unity with a clear anterior-posterior gradient and with an abrupt drop to zero pBS in the anterior parts of hippocampus. It is concluded that GE field maps can be used to accurately predict BOLD sensitivity and that this parameter is useful to assess spatial variations which will influence fMRI experiments.",
+     "FAU": [
+          "Mannfolk, Peter",
+          "Wirestam, Ronnie",
+          "Nilsson, Markus",
+          "van Westen, Danielle",
+          "Stahlberg, Freddy",
+          "Olsrud, Johan"
+     ],
+     "AU": [
+          "Mannfolk P",
+          "Wirestam R",
+          "Nilsson M",
+          "van Westen D",
+          "Stahlberg F",
+          "Olsrud J"
+     ],
+     "AD": "Department of Medical Radiation Physics, Clinical Sciences Lund, Lund University, Barngatan 2B, Lund, Sweden. peter.mannfolk@med.lu.se",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100622",
+     "PL": "Netherlands",
+     "TA": "Magn Reson Imaging",
+     "JT": "Magnetic resonance imaging",
+     "JID": "8214883",
+     "RN": [
+          "S88TT14065 (Oxygen)"
+     ],
+     "SB": "IM",
+     "EIN": [
+          "Magn Reson Imaging. 2011 May;29(4):586"
+     ],
+     "MH": [
+          "*Algorithms",
+          "Brain/*physiology",
+          "Brain Mapping/instrumentation/*methods",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Information Storage and Retrieval/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Oxygen/*blood",
+          "Oxygen Consumption/*physiology",
+          "Phantoms, Imaging",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2010/06/25 06:00",
+     "MHDA": "2011/01/13 06:00",
+     "CRDT": [
+          "2010/06/25 06:00"
+     ],
+     "PHST": [
+          "2009/07/18 00:00 [received]",
+          "2010/04/14 00:00 [revised]",
+          "2010/05/08 00:00 [accepted]",
+          "2010/06/25 06:00 [entrez]",
+          "2010/06/25 06:00 [pubmed]",
+          "2011/01/13 06:00 [medline]"
+     ],
+     "AID": [
+          "S0730-725X(10)00134-7 [pii]",
+          "10.1016/j.mri.2010.05.003 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Magn Reson Imaging. 2010 Sep;28(7):947-56. doi: 10.1016/j.mri.2010.05.003. Epub 2010 Jun 22.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,71 @@
+{
+     "PMID": "27468322",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20160729",
+     "LR": "20170801",
+     "IS": "1871-4080 (Print) 1871-4080 (Linking)",
+     "VI": "10",
+     "IP": "4",
+     "DP": "2016 Aug",
+     "TI": "Locating and navigation mechanism based on place-cell and grid-cell models.",
+     "PG": "353-60",
+     "LID": "10.1007/s11571-016-9384-2 [doi]",
+     "AB": "Extensive experiments on rats have shown that environmental cues play an important role in goal locating and navigation. Major studies about locating and navigation are carried out based only on place cells. Nevertheless, it is known that navigation may also rely on grid cells. Therefore, we model locating and navigation based on both, thus developing a novel grid-cell model, from which firing fields of grid cells can be obtained. We found a continuous-time dynamic system to describe learning and direction selection. In our simulation experiment, according to the results from physiology experiments, we successfully rebuild place fields of place cells and firing fields of grid cells. We analyzed the factors affecting the locating accuracy. Results show that the learning rate, firing threshold and cell number can influence the outcomes from various tasks. We used our system model to perform a goal navigation task and showed that paths that are changed for every run in one experiment converged to a stable one after several runs.",
+     "FAU": [
+          "Yan, Chuankui",
+          "Wang, Rubin",
+          "Qu, Jingyi",
+          "Chen, Guanrong"
+     ],
+     "AU": [
+          "Yan C",
+          "Wang R",
+          "Qu J",
+          "Chen G"
+     ],
+     "AD": "Department of Mathematics, School of Science, Hangzhou Normal University, Hangzhou, China. Institute for Cognitive Neurodynamics, School of Science, East China University of Science and Technology, Shanghai, China. Tianjin Key Laboratory for Advanced Signal Processing, College of Electronic Information Engineering, Civil Aviation University of China, Tianjin, China. Department of Electronic Engineering, City University of Hong Kong, Hong Kong SAR, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160326",
+     "PL": "Netherlands",
+     "TA": "Cogn Neurodyn",
+     "JT": "Cognitive neurodynamics",
+     "JID": "101306907",
+     "PMC": "PMC4947056",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Grid cell",
+          "Hippocampus",
+          "Learning",
+          "Navigation",
+          "Place cell",
+          "Place field"
+     ],
+     "EDAT": "2016/07/29 06:00",
+     "MHDA": "2016/07/29 06:01",
+     "CRDT": [
+          "2016/07/29 06:00"
+     ],
+     "PHST": [
+          "2015/10/17 00:00 [received]",
+          "2016/03/06 00:00 [revised]",
+          "2016/03/21 00:00 [accepted]",
+          "2016/07/29 06:00 [entrez]",
+          "2016/07/29 06:00 [pubmed]",
+          "2016/07/29 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1007/s11571-016-9384-2 [doi]",
+          "9384 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cogn Neurodyn. 2016 Aug;10(4):353-60. doi: 10.1007/s11571-016-9384-2. Epub 2016 Mar 26.",
+     "term": "place cells"
+}

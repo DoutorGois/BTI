@@ -1,0 +1,92 @@
+{
+     "PMID": "29163005",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20180125",
+     "IS": "1662-4548 (Print) 1662-453X (Linking)",
+     "VI": "11",
+     "DP": "2017",
+     "TI": "In Vivo Imaging of Tau Pathology Using Magnetic Resonance Imaging Textural Analysis.",
+     "PG": "599",
+     "LID": "10.3389/fnins.2017.00599 [doi]",
+     "AB": "Background: Non-invasive characterization of the pathological features of Alzheimer's disease (AD) could enhance patient management and the development of therapeutic strategies. Magnetic resonance imaging texture analysis (MRTA) has been used previously to extract texture descriptors from structural clinical scans in AD to determine cerebral tissue heterogeneity. In this study, we examined the potential of MRTA to specifically identify tau pathology in an AD mouse model and compared the MRTA metrics to histological measures of tau burden. Methods: MRTA was applied to T2 weighted high-resolution MR images of nine 8.5-month-old rTg4510 tau pathology (TG) mice and 16 litter matched wild-type (WT) mice. MRTA comprised of the filtration-histogram technique, where the filtration step extracted and enhanced features of different sizes (fine, medium, and coarse texture scales), followed by quantification of texture using histogram analysis (mean gray level intensity, mean intensity, entropy, uniformity, skewness, standard-deviation, and kurtosis). MRTA was applied to manually segmented regions of interest (ROI) drawn within the cortex, hippocampus, and thalamus regions and the level of tau burden was assessed in equivalent regions using histology. Results: Texture parameters were markedly different between WT and TG in the cortex (E, p < 0.01, K, p < 0.01), the hippocampus (K, p < 0.05) and in the thalamus (K, p < 0.01). In addition, we observed significant correlations between histological measurements of tau burden and kurtosis in the cortex, hippocampus and thalamus. Conclusions: MRTA successfully differentiated WT and TG in brain regions with varying degrees of tau pathology (cortex, hippocampus, and thalamus) based on T2 weighted MR images. Furthermore, the kurtosis measurement correlated with histological measures of tau burden. This initial study indicates that MRTA may have a role in the early diagnosis of AD and the assessment of tau pathology using routinely acquired structural MR images.",
+     "FAU": [
+          "Colgan, Niall",
+          "Ganeshan, Balaji",
+          "Harrison, Ian F",
+          "Ismail, Ozama",
+          "Holmes, Holly E",
+          "Wells, Jack A",
+          "Powell, Nick M",
+          "O'Callaghan, James M",
+          "O'Neill, Michael J",
+          "Murray, Tracey K",
+          "Ahmed, Zeshan",
+          "Collins, Emily C",
+          "Johnson, Ross A",
+          "Groves, Ashley",
+          "Lythgoe, Mark F"
+     ],
+     "AU": [
+          "Colgan N",
+          "Ganeshan B",
+          "Harrison IF",
+          "Ismail O",
+          "Holmes HE",
+          "Wells JA",
+          "Powell NM",
+          "O'Callaghan JM",
+          "O'Neill MJ",
+          "Murray TK",
+          "Ahmed Z",
+          "Collins EC",
+          "Johnson RA",
+          "Groves A",
+          "Lythgoe MF"
+     ],
+     "AD": "Division of Medicine, UCL Centre for Advanced Biomedical Imaging, University College London, London, United Kingdom. School of Physics, National University of Ireland Galway, Galway, Ireland. Institute of Nuclear Medicine, University College London Hospitals, London, United Kingdom. Division of Medicine, UCL Centre for Advanced Biomedical Imaging, University College London, London, United Kingdom. Division of Medicine, UCL Centre for Advanced Biomedical Imaging, University College London, London, United Kingdom. Division of Medicine, UCL Centre for Advanced Biomedical Imaging, University College London, London, United Kingdom. Division of Medicine, UCL Centre for Advanced Biomedical Imaging, University College London, London, United Kingdom. Division of Medicine, UCL Centre for Advanced Biomedical Imaging, University College London, London, United Kingdom. Division of Medicine, UCL Centre for Advanced Biomedical Imaging, University College London, London, United Kingdom. Eli Lilly & Co. Ltd., Windlesham, United Kingdom. Eli Lilly & Co. Ltd., Windlesham, United Kingdom. Eli Lilly & Co. Ltd., Windlesham, United Kingdom. Eli Lilly & Co. Ltd., Lilly Corporate Center, Indianapolis, IN, United States. Eli Lilly & Co. Ltd., Lilly Corporate Center, Indianapolis, IN, United States. Institute of Nuclear Medicine, University College London Hospitals, London, United Kingdom. Division of Medicine, UCL Centre for Advanced Biomedical Imaging, University College London, London, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NC/K500276/1/National Centre for the Replacement, Refinement and Reduction of",
+          "Animals in Research/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171106",
+     "PL": "Switzerland",
+     "TA": "Front Neurosci",
+     "JT": "Frontiers in neuroscience",
+     "JID": "101478481",
+     "PMC": "PMC5681716",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's Disease",
+          "MRI imaging",
+          "MRTA",
+          "tauopathies",
+          "texture analysis"
+     ],
+     "EDAT": "2017/11/23 06:00",
+     "MHDA": "2017/11/23 06:01",
+     "CRDT": [
+          "2017/11/23 06:00"
+     ],
+     "PHST": [
+          "2017/07/18 00:00 [received]",
+          "2017/10/11 00:00 [accepted]",
+          "2017/11/23 06:00 [entrez]",
+          "2017/11/23 06:00 [pubmed]",
+          "2017/11/23 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnins.2017.00599 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neurosci. 2017 Nov 6;11:599. doi: 10.3389/fnins.2017.00599. eCollection 2017.",
+     "term": "hippocampus"
+}

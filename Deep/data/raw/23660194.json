@@ -1,0 +1,107 @@
+{
+     "PMID": "23660194",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140318",
+     "LR": "20170220",
+     "IS": "1873-7544 (Electronic) 0306-4522 (Linking)",
+     "VI": "247",
+     "DP": "2013 Sep 5",
+     "TI": "Modeling of grid cell activity demonstrates in vivo entorhinal 'look-ahead' properties.",
+     "PG": "395-411",
+     "LID": "10.1016/j.neuroscience.2013.04.056 [doi] S0306-4522(13)00389-8 [pii]",
+     "AB": "Recent in vivo data show ensemble activity in medial entorhinal neurons that demonstrates 'look-ahead' activity, decoding spatially to reward locations ahead of a rat deliberating at a choice point while performing a cued, appetitive T-Maze task. To model this experiment's look-ahead results, we adapted previous work that produced a model where scans along equally probable directions activated place cells, associated reward cells, grid cells, and persistent spiking cells along those trajectories. Such look-ahead activity may be a function of animals performing scans to reduce ambiguity while making decisions. In our updated model, look-ahead scans at the choice point can activate goal-associated reward and place cells, which indicate the direction the virtual rat should turn at the choice point. Hebbian associations between stimulus and reward cell layers are learned during training trials, and the reward and place layers are then used during testing to retrieve goal-associated cells based on cue presentation. This system creates representations of location and associated reward information based on only two inputs of heading and speed information which activate grid cell and place cell layers. We present spatial and temporal decoding of grid cell ensembles as rats are tested with perfect and imperfect stimuli. Here, the virtual rat reliably learns goal locations through training sessions and performs both biased and unbiased look-ahead scans at the choice point. Spatial and temporal decoding of simulated medial entorhinal activity indicates that ensembles are representing forward reward locations when the animal deliberates at the choice point, emulating in vivo results.",
+     "CI": [
+          "Copyright (c) 2013 IBRO. Published by Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Gupta, K",
+          "Erdem, U M",
+          "Hasselmo, M E"
+     ],
+     "AU": [
+          "Gupta K",
+          "Erdem UM",
+          "Hasselmo ME"
+     ],
+     "AD": "Center for Memory and Brain, Boston University, 2 Cummington Mall, Boston, MA 02215, USA. kishang@bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH60013/MH/NIMH NIH HHS/United States",
+          "T32 GM008042/GM/NIGMS NIH HHS/United States",
+          "MH61492/MH/NIMH NIH HHS/United States",
+          "R01 MH060013/MH/NIMH NIH HHS/United States",
+          "R01 MH061492/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20130507",
+     "PL": "United States",
+     "TA": "Neuroscience",
+     "JT": "Neuroscience",
+     "JID": "7605074",
+     "SB": "IM",
+     "MH": [
+          "Entorhinal Cortex/*physiology",
+          "*Learning",
+          "Maze Learning/physiology",
+          "*Models, Neurological",
+          "*Neural Networks (Computer)"
+     ],
+     "PMC": "PMC3848600",
+     "MID": [
+          "NIHMS476711"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "ANOVA",
+          "Bayesian decoding",
+          "HD",
+          "LFP",
+          "MEC",
+          "PFC",
+          "PFD",
+          "VCO",
+          "VTE",
+          "analysis of variance",
+          "entorhinal cortex",
+          "grid cells",
+          "head direction",
+          "local field potential",
+          "look-ahead",
+          "medial entorhinal cortex",
+          "persistent spiking",
+          "place cells",
+          "preferred firing direction",
+          "prefrontal cortex",
+          "velocity-controlled oscillator",
+          "vicarious trial-and-error"
+     ],
+     "EDAT": "2013/05/11 06:00",
+     "MHDA": "2014/03/19 06:00",
+     "CRDT": [
+          "2013/05/11 06:00"
+     ],
+     "PHST": [
+          "2012/12/20 00:00 [received]",
+          "2013/04/25 00:00 [revised]",
+          "2013/04/26 00:00 [accepted]",
+          "2013/05/11 06:00 [entrez]",
+          "2013/05/11 06:00 [pubmed]",
+          "2014/03/19 06:00 [medline]"
+     ],
+     "AID": [
+          "S0306-4522(13)00389-8 [pii]",
+          "10.1016/j.neuroscience.2013.04.056 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroscience. 2013 Sep 5;247:395-411. doi: 10.1016/j.neuroscience.2013.04.056. Epub 2013 May 7.",
+     "term": "place cells"
+}

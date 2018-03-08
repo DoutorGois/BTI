@@ -1,0 +1,58 @@
+{
+     "PMID": "28268482",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170817",
+     "LR": "20171113",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2016",
+     "DP": "2016 Aug",
+     "TI": "Scoring sequences of hippocampal activity using hidden Markov models.",
+     "PG": "957-960",
+     "LID": "10.1109/EMBC.2016.7590860 [doi]",
+     "AB": "We propose a novel sequence score to determine to what extent neural activity is consistent with trajectories through latent ensemble states - virtual place fields - in an associated environment. In particular, we show how hidden Markov models (HMMs) can be used to model and analyze sequences of neural activity, and how the resulting joint probability of an observation sequence and an underlying sequence of states naturally lead to the development of a two component sequence score in which the sequential and contextual information are decoupled. We also show how this score can discriminate between true and shuffled sequences of hippocampal neural activity.",
+     "FAU": [
+          "Ackermann, Etienne",
+          "Kemere, Caleb"
+     ],
+     "AU": [
+          "Ackermann E",
+          "Kemere C"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/*metabolism",
+          "Markov Chains",
+          "Mice",
+          "*Models, Theoretical"
+     ],
+     "EDAT": "2017/03/09 06:00",
+     "MHDA": "2017/08/18 06:00",
+     "CRDT": [
+          "2017/03/09 06:00"
+     ],
+     "PHST": [
+          "2017/03/09 06:00 [entrez]",
+          "2017/03/09 06:00 [pubmed]",
+          "2017/08/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2016.7590860 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2016 Aug;2016:957-960. doi: 10.1109/EMBC.2016.7590860.",
+     "term": "hippocampus"
+}

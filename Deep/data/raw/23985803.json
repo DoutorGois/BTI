@@ -1,0 +1,93 @@
+{
+     "PMID": "23985803",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140424",
+     "LR": "20171116",
+     "IS": "1741-2552 (Electronic) 1741-2552 (Linking)",
+     "VI": "10",
+     "IP": "5",
+     "DP": "2013 Oct",
+     "TI": "An implantable neural probe with monolithically integrated dielectric waveguide and recording electrodes for optogenetics applications.",
+     "PG": "056012",
+     "LID": "10.1088/1741-2560/10/5/056012 [doi]",
+     "AB": "OBJECTIVE: Optogenetics promises exciting neuroscience research by offering optical stimulation of neurons with unprecedented temporal resolution, cell-type specificity and the ability to excite as well as to silence neurons. This work provides the technical solution to deliver light to local neurons and record neural potentials, facilitating local circuit analysis and bridging the gap between optogenetics and neurophysiology research. APPROACH: We have designed and obtained the first in vivo validation of a neural probe with monolithically integrated electrodes and waveguide. High spatial precision enables optical excitation of targeted neurons with minimal power and recording of single-units in dense cortical and subcortical regions. MAIN RESULTS: The total coupling and transmission loss through the dielectric waveguide at 473 nm was 10.5 +/- 1.9 dB, corresponding to an average output intensity of 9400 mW mm(-2) when coupled to a 7 mW optical fiber. Spontaneous field potentials and spiking activities of multiple Channelrhodopsin-2 expressing neurons were recorded in the hippocampus CA1 region of an anesthetized rat. Blue light stimulation at intensity of 51 mW mm(-2) induced robust spiking activities in the physiologically identified local populations. SIGNIFICANCE: This minimally invasive, complete monolithic integration provides unmatched spatial precision and scalability for future optogenetics studies at deep brain regions with high neuronal density.",
+     "FAU": [
+          "Wu, Fan",
+          "Stark, Eran",
+          "Im, Maesoon",
+          "Cho, Il-Joo",
+          "Yoon, Eui-Sung",
+          "Buzsaki, Gyorgy",
+          "Wise, Kensall D",
+          "Yoon, Euisik"
+     ],
+     "AU": [
+          "Wu F",
+          "Stark E",
+          "Im M",
+          "Cho IJ",
+          "Yoon ES",
+          "Buzsaki G",
+          "Wise KD",
+          "Yoon E"
+     ],
+     "AD": "Department of Electrical Engineering and Computer Science, University of Michigan, 1301 Beal Avenue, Ann Arbor, MI 48109-2122, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH054671/MH/NIMH NIH HHS/United States",
+          "R01 NS034994/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20130828",
+     "PL": "England",
+     "TA": "J Neural Eng",
+     "JT": "Journal of neural engineering",
+     "JID": "101217933",
+     "RN": [
+          "0 (Channelrhodopsins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "CA1 Region, Hippocampal/physiology",
+          "Channelrhodopsins",
+          "*Electrodes, Implanted",
+          "Electronics",
+          "Fiber Optic Technology",
+          "Neural Prostheses",
+          "Neurons/physiology",
+          "Optogenetics/*instrumentation/*methods",
+          "Photic Stimulation/instrumentation/methods",
+          "Prosthesis Design",
+          "Pyramidal Cells/physiology",
+          "Rats",
+          "Rats, Long-Evans"
+     ],
+     "PMC": "PMC4056669",
+     "MID": [
+          "NIHMS586060"
+     ],
+     "EDAT": "2013/08/30 06:00",
+     "MHDA": "2014/04/25 06:00",
+     "CRDT": [
+          "2013/08/30 06:00"
+     ],
+     "PHST": [
+          "2013/08/30 06:00 [entrez]",
+          "2013/08/30 06:00 [pubmed]",
+          "2014/04/25 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1088/1741-2560/10/5/056012 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neural Eng. 2013 Oct;10(5):056012. doi: 10.1088/1741-2560/10/5/056012. Epub 2013 Aug 28.",
+     "term": "hippocampus"
+}

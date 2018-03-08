@@ -1,0 +1,71 @@
+{
+     "PMID": "2765654",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19891005",
+     "LR": "20141120",
+     "IS": "0006-3495 (Print) 0006-3495 (Linking)",
+     "VI": "55",
+     "IP": "6",
+     "DP": "1989 Jun",
+     "TI": "A system model for investigating passive electrical properties of neurons.",
+     "PG": "1169-82",
+     "AB": "Passive membrane properties of neurons, characterized by a linear voltage response to constant current stimulation, were investigated by busing a system model approach. This approach utilizes the derived expression for the input impedance of a network, which simulates the passive properties of neurons, to correlate measured intracellular recordings with the response of network models. In this study, the input impedances of different network configurations and of dentate granule neurons, were derived as a function of the network elements and were validated with computer simulations. The parameters of the system model, which are the values of the network elements, were estimated using an optimization strategy. The system model provides for better estimation of the network elements than the previously described signal model, due to its explicit nature. In contrast, the signal model is an implicit function of the network elements which requires intermediate steps to estimate some of the passive properties.",
+     "FAU": [
+          "D'Aguanno, A",
+          "Bardakjian, B L",
+          "Carlen, P L"
+     ],
+     "AU": [
+          "D'Aguanno A",
+          "Bardakjian BL",
+          "Carlen PL"
+     ],
+     "AD": "Department of Electrical Engineering, University of Toronto, Ontario, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Biophys J",
+     "JT": "Biophysical journal",
+     "JID": "0370626",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cell Membrane/physiology",
+          "Computer Simulation",
+          "Dendrites/physiology",
+          "Electric Conductivity",
+          "Hippocampus/physiology",
+          "In Vitro Techniques",
+          "Male",
+          "Mathematics",
+          "Membrane Potentials",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Rats",
+          "Rats, Inbred Strains"
+     ],
+     "PMC": "PMC1330582",
+     "EDAT": "1989/06/01 00:00",
+     "MHDA": "1989/06/01 00:01",
+     "CRDT": [
+          "1989/06/01 00:00"
+     ],
+     "PHST": [
+          "1989/06/01 00:00 [pubmed]",
+          "1989/06/01 00:01 [medline]",
+          "1989/06/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "S0006-3495(89)82913-3 [pii]",
+          "10.1016/S0006-3495(89)82913-3 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biophys J. 1989 Jun;55(6):1169-82. doi: 10.1016/S0006-3495(89)82913-3.",
+     "term": "hippocampus"
+}

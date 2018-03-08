@@ -1,0 +1,76 @@
+{
+     "PMID": "21281721",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110729",
+     "LR": "20110329",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "56",
+     "IP": "1",
+     "DP": "2011 May 1",
+     "TI": "Locally Linear Diffeomorphic Metric Embedding (LLDME) for surface-based anatomical shape modeling.",
+     "PG": "149-61",
+     "LID": "10.1016/j.neuroimage.2011.01.069 [doi]",
+     "AB": "This paper presents the algorithm, Locally Linear Diffeomorphic Metric Embedding (LLDME), for constructing efficient and compact representations of surface-based brain shapes whose variations are characterized using Large Deformation Diffeomorphic Metric Mapping (LDDMM). Our hypothesis is that the shape variations in the infinite-dimensional diffeomorphic metric space can be captured by a low-dimensional space. To do so, traditional Locally Linear Embedding (LLE) that reconstructs a data point from its neighbors in Euclidean space is extended to LLDME that requires interpolating a shape from its neighbors in the infinite-dimensional diffeomorphic metric space. This is made possible through the conservation law of momentum derived from LDDMM. It indicates that initial momentum, a linear transformation of the initial velocity of diffeomorphic flows, at a fixed template shape determines the geodesic connecting the template to a subject's shape in the diffeomorphic metric space and becomes the shape signature of an individual subject. This leads to the compact linear representation of the nonlinear diffeomorphisms in terms of the initial momentum. Since the initial momentum is in a linear space, a shape can be approximated by a linear combination of its neighbors in the diffeomorphic metric space. In addition, we provide efficient computations for the metric distance between two shapes through the first order approximation of the geodesic using the initial momentum as well as for the reconstruction of a shape given its low-dimensional Euclidean coordinates using the geodesic shooting with the initial momentum as the initial condition. Experiments are performed on the hippocampal shapes of 302 normal subjects across the whole life span (18-94years). Compared with Principal Component Analysis and ISOMAP, LLDME provides the most compact and efficient representation of the age-related hippocampal shapes. Even though the hippocampal volumes among young adults are as variable as those in older adults, LLDME disentangles the hippocampal local shape variation from the hippocampal size and thus reveals the nonlinear relationship of the hippocampal morphometry with age.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Yang, Xianfeng",
+          "Goh, Alvina",
+          "Qiu, Anqi"
+     ],
+     "AU": [
+          "Yang X",
+          "Goh A",
+          "Qiu A"
+     ],
+     "AD": "Division of Bioengineering, National University of Singapore, Singapore, Singapore.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110131",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "*Aging",
+          "*Algorithms",
+          "Brain Mapping/*methods",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Middle Aged",
+          "Young Adult"
+     ],
+     "EDAT": "2011/02/02 06:00",
+     "MHDA": "2011/07/30 06:00",
+     "CRDT": [
+          "2011/02/02 06:00"
+     ],
+     "PHST": [
+          "2010/11/17 00:00 [received]",
+          "2011/01/20 00:00 [revised]",
+          "2011/01/25 00:00 [accepted]",
+          "2011/02/02 06:00 [entrez]",
+          "2011/02/02 06:00 [pubmed]",
+          "2011/07/30 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)00105-4 [pii]",
+          "10.1016/j.neuroimage.2011.01.069 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 May 1;56(1):149-61. doi: 10.1016/j.neuroimage.2011.01.069. Epub 2011 Jan 31.",
+     "term": "hippocampus"
+}

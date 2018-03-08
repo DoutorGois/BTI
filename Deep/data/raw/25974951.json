@@ -1,0 +1,63 @@
+{
+     "PMID": "25974951",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20161230",
+     "IS": "2162-2388 (Electronic) 2162-237X (Linking)",
+     "VI": "27",
+     "IP": "4",
+     "DP": "2016 Apr",
+     "TI": "An Asynchronous Recurrent Network of Cellular Automaton-Based Neurons and Its Reproduction of Spiking Neural Network Activities.",
+     "PG": "836-52",
+     "LID": "10.1109/TNNLS.2015.2425893 [doi]",
+     "AB": "Modeling and implementation approaches for the reproduction of input-output relationships in biological nervous tissues contribute to the development of engineering and clinical applications. However, because of high nonlinearity, the traditional modeling and implementation approaches encounter difficulties in terms of generalization ability (i.e., performance when reproducing an unknown data set) and computational resources (i.e., computation time and circuit elements). To overcome these difficulties, asynchronous cellular automaton-based neuron (ACAN) models, which are described as special kinds of cellular automata that can be implemented as small asynchronous sequential logic circuits have been proposed. This paper presents a novel type of such ACAN and a theoretical analysis of its excitability. This paper also presents a novel network of such neurons, which can mimic input-output relationships of biological and nonlinear ordinary differential equation model neural networks. Numerical analyses confirm that the presented network has a higher generalization ability than other major modeling and implementation approaches. In addition, Field-Programmable Gate Array-implementations confirm that the presented network requires lower computational resources.",
+     "FAU": [
+          "Matsubara, Takashi",
+          "Torikai, Hiroyuki"
+     ],
+     "AU": [
+          "Matsubara T",
+          "Torikai H"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150513",
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Netw Learn Syst",
+     "JT": "IEEE transactions on neural networks and learning systems",
+     "JID": "101616214",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/*cytology",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/physiology",
+          "*Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2015/05/15 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2015/05/15 06:00"
+     ],
+     "PHST": [
+          "2015/05/15 06:00 [entrez]",
+          "2015/05/15 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TNNLS.2015.2425893 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Netw Learn Syst. 2016 Apr;27(4):836-52. doi: 10.1109/TNNLS.2015.2425893. Epub 2015 May 13.",
+     "term": "hippocampus"
+}

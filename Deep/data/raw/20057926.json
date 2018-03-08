@@ -1,0 +1,76 @@
+{
+     "PMID": "20057926",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20110714",
+     "LR": "20130813",
+     "IS": "1662-5145 (Electronic) 1662-5145 (Linking)",
+     "VI": "3",
+     "DP": "2009",
+     "TI": "Development and validation of a sensitive entropy-based measure for the water maze.",
+     "PG": "33",
+     "LID": "10.3389/neuro.07.033.2009 [doi]",
+     "AB": "In the water maze, mice are trained to navigate to an escape platform located below the water's surface, and spatial learning is most commonly evaluated in a probe test in which the platform is removed from the pool. While contemporary tracking software provides precise positional information of mice for the duration of the probe test, existing performance measures (e.g., percent quadrant time, platform crossings) fail to exploit fully the richness of this positional data. Using the concept of entropy (H), here we develop a new measure that considers both how focused the search is and the degree to which searching is centered on the former platform location. To evaluate how H performs compared to existing measures of water maze performance we compiled five separate databases, containing more than 1600 mouse probe tests. Random selection of individual trials from respective databases then allowed us to simulate experiments with varying sample and effect sizes. Using this Monte Carlo-based method, we found that H outperformed existing measures in its ability to detect group differences over a range of sample or effect sizes. Additionally, we validated the new measure using three models of experimentally induced hippocampal dysfunction: (1) complete hippocampal lesions, (2) genetic deletion of alphaCaMKII, a gene implicated in hippocampal behavioral and synaptic plasticity, and (3) a mouse model of Alzheimer's disease. Together, these data indicate that H offers greater sensitivity than existing measures, most likely because it exploits the richness of the precise positional information of the mouse throughout the probe test.",
+     "FAU": [
+          "Maei, Hamid R",
+          "Zaslavsky, Kirill",
+          "Wang, Afra H",
+          "Yiu, Adelaide P",
+          "Teixeira, Catia M",
+          "Josselyn, Sheena A",
+          "Frankland, Paul W"
+     ],
+     "AU": [
+          "Maei HR",
+          "Zaslavsky K",
+          "Wang AH",
+          "Yiu AP",
+          "Teixeira CM",
+          "Josselyn SA",
+          "Frankland PW"
+     ],
+     "AD": "Program in Neurosciences and Mental Health, The Hospital for Sick Children Toronto, ON, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20091204",
+     "PL": "Switzerland",
+     "TA": "Front Integr Neurosci",
+     "JT": "Frontiers in integrative neuroscience",
+     "JID": "101477950",
+     "PMC": "PMC2802531",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "CaMKII",
+          "Monte Carlo method",
+          "hippocampus",
+          "navigation",
+          "spatial learning",
+          "spatial memory",
+          "transgenic mouse"
+     ],
+     "EDAT": "2010/01/09 06:00",
+     "MHDA": "2010/01/09 06:01",
+     "CRDT": [
+          "2010/01/09 06:00"
+     ],
+     "PHST": [
+          "2009/07/21 00:00 [received]",
+          "2009/11/08 00:00 [accepted]",
+          "2010/01/09 06:00 [entrez]",
+          "2010/01/09 06:00 [pubmed]",
+          "2010/01/09 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/neuro.07.033.2009 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Integr Neurosci. 2009 Dec 4;3:33. doi: 10.3389/neuro.07.033.2009. eCollection 2009.",
+     "term": "hippocampus"
+}

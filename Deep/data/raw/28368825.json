@@ -1,0 +1,61 @@
+{
+     "PMID": "28368825",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171117",
+     "LR": "20180116",
+     "IS": "1558-2639 (Electronic) 1536-1241 (Linking)",
+     "VI": "16",
+     "IP": "4",
+     "DP": "2017 Jun",
+     "TI": "A Communication Theoretical Modeling of Axonal Propagation in Hippocampal Pyramidal Neurons.",
+     "PG": "248-256",
+     "LID": "10.1109/TNB.2017.2688341 [doi]",
+     "AB": "Understanding the fundamentals of communication among neurons, known as neuro-spike communication, leads to reach bio-inspired nanoscale communication paradigms. In this paper, we focus on a part of neuro-spike communication, known as axonal transmission, and propose a realistic model for it. The shape of the spike during axonal transmission varies according to previously applied stimulations to the neuron, and these variations affect the amount of information communicated between neurons. Hence, to reach an accurate model for neuro-spike communication, the memory of axon and its effect on the axonal transmission should be considered, which are not studied in the existing literature. In this paper, we extract the important factors on the memory of axon and define memory states based on these factors. We also describe the transition among these states and the properties of axonal transmission in each of them. Finally, we demonstrate that the proposed model can follow changes in the axonal functionality properly by simulating the proposed model and reporting the root mean square error between simulation results and experimental data.",
+     "FAU": [
+          "Ramezani, Hamideh",
+          "Akan, Ozgur B"
+     ],
+     "AU": [
+          "Ramezani H",
+          "Akan OB"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20170328",
+     "PL": "United States",
+     "TA": "IEEE Trans Nanobioscience",
+     "JT": "IEEE transactions on nanobioscience",
+     "JID": "101152869",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Axons/*physiology",
+          "Cell Communication/physiology",
+          "Hippocampus/*cytology",
+          "*Models, Neurological",
+          "Nanotechnology",
+          "Pyramidal Cells/cytology/*physiology"
+     ],
+     "EDAT": "2017/04/04 06:00",
+     "MHDA": "2017/11/29 06:00",
+     "CRDT": [
+          "2017/04/04 06:00"
+     ],
+     "PHST": [
+          "2017/04/04 06:00 [pubmed]",
+          "2017/11/29 06:00 [medline]",
+          "2017/04/04 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TNB.2017.2688341 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Nanobioscience. 2017 Jun;16(4):248-256. doi: 10.1109/TNB.2017.2688341. Epub 2017 Mar 28.",
+     "term": "hippocampus"
+}

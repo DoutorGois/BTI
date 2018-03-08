@@ -1,0 +1,90 @@
+{
+     "PMID": "24134559",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140214",
+     "LR": "20131205",
+     "IS": "1528-1167 (Electronic) 0013-9580 (Linking)",
+     "VI": "54",
+     "IP": "12",
+     "DP": "2013 Dec",
+     "TI": "Shape features of epileptic spikes are a marker of epileptogenesis in mice.",
+     "PG": "2219-27",
+     "LID": "10.1111/epi.12406 [doi]",
+     "AB": "PURPOSE: To identify reliable biomarkers for quantitatively assessing the development of epilepsy in brain. METHODS: In a kainate mouse model of temporal lobe epilepsy, we performed long-term video-electroencephalography (EEG) monitoring (several weeks) of freely moving animals, from kainic acid injection to chronic epileptic stage. Using signal processing techniques, we automatically detected single epileptic spikes (ESs), and we quantified the evolution of shape features during the epileptogenesis process. Using a computational model of hippocampal activity (neuronal population level), we investigated excitatory-related and inhibitory-related parameters involved in morphologic changes of ESs. KEY FINDINGS: The frequency of ESs increases during epileptogenesis. Regarding shape features, we found that both the initial spike component and the wave component of opposite polarity of ESs gradually increase during epileptogenesis. These very specific alterations of the shape of ESs were reproduced in a computational physiologically relevant neuronal population model. Using this model, we disclosed some key parameters (related to glutamatergic and gamma-aminobutyric acid [GABA]ergic synaptic transmission) that explain the shape features of simulated ESs. Of interest, the model predicted that the decrease of GABAergic inhibition is responsible for the increase of the wave component of ESs. This prediction (at first sight counterintuitive) was verified in both in vivo and in vitro experiments. Finally, from aforementioned electrophysiologic features, we devised a novel and easily computable index (wave area/spike amplitude ratio) indicative of the progression of the disease (early vs. late stage). SIGNIFICANCE: Results suggest that dendritic inhibition in hippocampal circuits undertake dramatic changes over the latent period. These changes are responsible for observed modifications in the shape of ESs recorded in local field potential (LFP) signals. The proposed index may constitute a biomarker of epileptogenesis.",
+     "CI": [
+          "Wiley Periodicals, Inc. (c) 2013 International League Against Epilepsy."
+     ],
+     "FAU": [
+          "Huneau, Clement",
+          "Benquet, Pascal",
+          "Dieuset, Gabriel",
+          "Biraben, Arnaud",
+          "Martin, Benoit",
+          "Wendling, Fabrice"
+     ],
+     "AU": [
+          "Huneau C",
+          "Benquet P",
+          "Dieuset G",
+          "Biraben A",
+          "Martin B",
+          "Wendling F"
+     ],
+     "AD": "U1099, INSERM, Rennes, France; Universite de Rennes 1, LTSI, Rennes, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20131017",
+     "PL": "United States",
+     "TA": "Epilepsia",
+     "JT": "Epilepsia",
+     "JID": "2983306R",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/physiopathology",
+          "Computer Simulation",
+          "Disease Models, Animal",
+          "Electroencephalography",
+          "Epilepsy/*physiopathology",
+          "Hippocampus/physiopathology",
+          "Male",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Models, Neurological",
+          "Monitoring, Physiologic"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Biomarker",
+          "Computational model",
+          "In vivo model",
+          "Local field potentials",
+          "Signal processing",
+          "Temporal lobe epilepsy"
+     ],
+     "EDAT": "2013/10/19 06:00",
+     "MHDA": "2014/02/15 06:00",
+     "CRDT": [
+          "2013/10/19 06:00"
+     ],
+     "PHST": [
+          "2013/09/04 00:00 [accepted]",
+          "2013/10/19 06:00 [entrez]",
+          "2013/10/19 06:00 [pubmed]",
+          "2014/02/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/epi.12406 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Epilepsia. 2013 Dec;54(12):2219-27. doi: 10.1111/epi.12406. Epub 2013 Oct 17.",
+     "term": "hippocampus"
+}

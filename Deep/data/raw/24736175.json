@@ -1,0 +1,138 @@
+{
+     "PMID": "24736175",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150206",
+     "LR": "20161019",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "97",
+     "DP": "2014 Aug 15",
+     "TI": "Event time analysis of longitudinal neuroimage data.",
+     "PG": "9-18",
+     "LID": "10.1016/j.neuroimage.2014.04.015 [doi] S1053-8119(14)00270-5 [pii]",
+     "AB": "This paper presents a method for the statistical analysis of the associations between longitudinal neuroimaging measurements, e.g., of cortical thickness, and the timing of a clinical event of interest, e.g., disease onset. The proposed approach consists of two steps, the first of which employs a linear mixed effects (LME) model to capture temporal variation in serial imaging data. The second step utilizes the extended Cox regression model to examine the relationship between time-dependent imaging measurements and the timing of the event of interest. We demonstrate the proposed method both for the univariate analysis of image-derived biomarkers, e.g., the volume of a structure of interest, and the exploratory mass-univariate analysis of measurements contained in maps, such as cortical thickness and gray matter density. The mass-univariate method employs a recently developed spatial extension of the LME model. We applied our method to analyze structural measurements computed using FreeSurfer, a widely used brain Magnetic Resonance Image (MRI) analysis software package. We provide a quantitative and objective empirical evaluation of the statistical performance of the proposed method on longitudinal data from subjects suffering from Mild Cognitive Impairment (MCI) at baseline.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Sabuncu, Mert R",
+          "Bernal-Rusiel, Jorge L",
+          "Reuter, Martin",
+          "Greve, Douglas N",
+          "Fischl, Bruce"
+     ],
+     "AU": [
+          "Sabuncu MR",
+          "Bernal-Rusiel JL",
+          "Reuter M",
+          "Greve DN",
+          "Fischl B"
+     ],
+     "AD": "Athinoula A. Martinos Center for Biomedical Imaging, Harvard Medical School/Massachusetts General Hospital, Charlestown, MA, USA; Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA, USA. Electronic address: msabuncu@nmr.mgh.harvard.edu. Athinoula A. Martinos Center for Biomedical Imaging, Harvard Medical School/Massachusetts General Hospital, Charlestown, MA, USA. Athinoula A. Martinos Center for Biomedical Imaging, Harvard Medical School/Massachusetts General Hospital, Charlestown, MA, USA; Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA. Athinoula A. Martinos Center for Biomedical Imaging, Harvard Medical School/Massachusetts General Hospital, Charlestown, MA, USA. Athinoula A. Martinos Center for Biomedical Imaging, Harvard Medical School/Massachusetts General Hospital, Charlestown, MA, USA; Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 MH093765/MH/NIMH NIH HHS/United States",
+          "R01 NS070963/NS/NINDS NIH HHS/United States",
+          "P41-RR14075/RR/NCRR NIH HHS/United States",
+          "K25 EB013649/EB/NIBIB NIH HHS/United States",
+          "P01 NS058793/NS/NINDS NIH HHS/United States",
+          "R01EB006758/EB/NIBIB NIH HHS/United States",
+          "R01 AG016495/AG/NIA NIH HHS/United States",
+          "R01 NS052585-01/NS/NINDS NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "R01 HD071664/HD/NICHD NIH HHS/United States",
+          "R01-HD071664/HD/NICHD NIH HHS/United States",
+          "S10 RR019307/RR/NCRR NIH HHS/United States",
+          "P41 RR014075/RR/NCRR NIH HHS/United States",
+          "5P01NS058793-03/NS/NINDS NIH HHS/United States",
+          "R01 NS052585/NS/NINDS NIH HHS/United States",
+          "1K25EB013649-01/EB/NIBIB NIH HHS/United States",
+          "AG022381/AG/NIA NIH HHS/United States",
+          "R01 AG008122/AG/NIA NIH HHS/United States",
+          "R01 NS042861/NS/NINDS NIH HHS/United States",
+          "2R01NS042861-06A1/NS/NINDS NIH HHS/United States",
+          "1S10RR019307/RR/NCRR NIH HHS/United States",
+          "1S10RR023043/RR/NCRR NIH HHS/United States",
+          "5R01AG008122-22/AG/NIA NIH HHS/United States",
+          "P41EB015896/EB/NIBIB NIH HHS/United States",
+          "1R21NS072652-01/NS/NINDS NIH HHS/United States",
+          "RC1 AT005728/AT/NCCIH NIH HHS/United States",
+          "1R01NS070963/NS/NINDS NIH HHS/United States",
+          "1S10RR023401/RR/NCRR NIH HHS/United States",
+          "5U01-MH093765/MH/NIMH NIH HHS/United States",
+          "R21 NS072652/NS/NINDS NIH HHS/United States",
+          "S10 RR023043/RR/NCRR NIH HHS/United States",
+          "RC1 AT005728-01/AT/NCCIH NIH HHS/United States",
+          "R01 EB006758/EB/NIBIB NIH HHS/United States",
+          "P41 EB015896/EB/NIBIB NIH HHS/United States",
+          "S10 RR023401/RR/NCRR NIH HHS/United States",
+          "R01 AG022381/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "DEP": "20140413",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "EIN": [
+          "Neuroimage. 2015 Mar;108:74"
+     ],
+     "MH": [
+          "Benchmarking",
+          "Cerebral Cortex/anatomy & histology",
+          "*Data Interpretation, Statistical",
+          "Hippocampus/anatomy & histology",
+          "Humans",
+          "Linear Models",
+          "*Longitudinal Studies",
+          "Magnetic Resonance Imaging",
+          "Models, Statistical",
+          "Neuroimaging/*statistics & numerical data",
+          "Proportional Hazards Models"
+     ],
+     "PMC": "PMC4078261",
+     "MID": [
+          "NIHMS585837"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Cox regression",
+          "Event time analysis",
+          "Linear mixed effects models",
+          "Longitudinal studies",
+          "Survival analysis"
+     ],
+     "EDAT": "2014/04/17 06:00",
+     "MHDA": "2015/02/07 06:00",
+     "CRDT": [
+          "2014/04/17 06:00"
+     ],
+     "PHST": [
+          "2013/09/03 00:00 [received]",
+          "2014/03/28 00:00 [revised]",
+          "2014/04/04 00:00 [accepted]",
+          "2014/04/17 06:00 [entrez]",
+          "2014/04/17 06:00 [pubmed]",
+          "2015/02/07 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(14)00270-5 [pii]",
+          "10.1016/j.neuroimage.2014.04.015 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2014 Aug 15;97:9-18. doi: 10.1016/j.neuroimage.2014.04.015. Epub 2014 Apr 13.",
+     "term": "hippocampus"
+}

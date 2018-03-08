@@ -1,0 +1,65 @@
+{
+     "PMID": "18044582",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080103",
+     "LR": "20091211",
+     "VI": "10",
+     "IP": "Pt 2",
+     "DP": "2007",
+     "TI": "Spatiotemporal normalization for longitudinal analysis of gray matter atrophy in frontotemporal dementia.",
+     "PG": "303-10",
+     "AB": "We present a unified method, based on symmetric diffeomorphisms, for studying longitudinal neurodegeneration. Our method first uses symmetric diffeomorphic normalization to find a spatiotemporal parameterization of an individual's image time series. The second step involves mapping a representative image or set of images from the time series into an optimal template space. The template mapping is then combined with the intrasubject spatiotemporal map to enable pairwise statistical tests to be performed on a population of normalized time series images. Here, we apply this longitudinal analysis protocol to study the gray matter atrophy patterns induced by frontotemporal dementia (FTD). We sample our normalized spatiotemporal maps at baseline (time zero) and time one year to generate an annualized atrophy map (AAM) that estimates the annual effect of FTD. This spatiotemporal normalization enables us to locate neuroanatomical regions that consistently undergo significant annual gray matter atrophy across the population. We found the majority of annual atrophy to occur in the frontal and temporal lobes in our population of 20 subjects. We also found significant effects in the hippocampus, insula and cingulate gyrus. Our novel results, significant at p < 0.05 after false discovery rate correction, are represented in local template space but also assigned Talairach coordinates and Brodmann and Anatomical Automatic Labeling (AAL) labels. This paper shows the statistical power of symmetric diffeomorphic normalization for performing deformation-based studies of longitudinal atrophy.",
+     "FAU": [
+          "Avants, Brian",
+          "Anderson, Chivon",
+          "Grossman, Murray",
+          "Gee, James C"
+     ],
+     "AU": [
+          "Avants B",
+          "Anderson C",
+          "Grossman M",
+          "Gee JC"
+     ],
+     "AD": "Dept. of Radiology, University of Pennsylvania, Philadelphia, PA 19104-6389, USA. avants@grasp.cis.upenn.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Atrophy/pathology",
+          "Cerebral Cortex/*pathology",
+          "Dementia/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Longitudinal Studies",
+          "Magnetic Resonance Imaging/*methods",
+          "Neurons/*pathology",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2007/11/30 09:00",
+     "MHDA": "2008/01/04 09:00",
+     "CRDT": [
+          "2007/11/30 09:00"
+     ],
+     "PHST": [
+          "2007/11/30 09:00 [pubmed]",
+          "2008/01/04 09:00 [medline]",
+          "2007/11/30 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2007;10(Pt 2):303-10.",
+     "term": "hippocampus"
+}

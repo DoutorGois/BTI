@@ -1,0 +1,76 @@
+{
+     "PMID": "14667545",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040305",
+     "LR": "20051117",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "130",
+     "IP": "2",
+     "DP": "2003 Dec 15",
+     "TI": "Combining principal component and spectral analyses with the method of moments in studies of quantal transmission.",
+     "PG": "173-99",
+     "AB": "This chapter considers methods for measurements of postsynaptic responses and simple approaches to the estimation of parameters of quantal release in synapses of the central nervous system of vertebrates. The use of these methods is illustrated by the analysis of single-fibre and \"minimal\" monosynaptic postsynaptic potentials (PSPs) or currents (PSCs) recorded from neurons of the frog spinal cord and rat hippocampus. First, we briefly discuss traditional methods of the response measurements using peak amplitudes or areas, further focusing on a novel method based on multivariate statistical techniques of the principal component analysis (PCA). This approach provides typically better signal-to-noise ratios and is able to separate two or more response components, which can arise due to activation of more than one presynaptic fibre, axon collaterals, receptor subtypes or spatially separated transmission sites. Second, spectral analysis is introduced as the method of choice to verify whether the amplitude fluctuations of the postsynaptic responses have a quantal nature and to obtain estimations of the \"basic\" quantal parameters, i.e. the quantal size (Q) and mean quantal content (m), without introducing assumptions on release statistics. Third, we show how the method of moments could be applied in the framework of the Poisson and binomial models to estimate the basic quantal parameters and parameters p and n, which reflect the release probability and maximum number of quanta released (or the number of effective release sites), respectively. Fourth, we show that the analysis of the moments can also be instrumental to reveal non-uniformity of release probabilities and compare how several competing models of neurotransmitter release fit to multiple experimental data sets.",
+     "FAU": [
+          "Dityatev, Alexander E",
+          "Altinbaev, Radik Sh",
+          "Astrelin, Andrej V",
+          "Voronin, Leon L"
+     ],
+     "AU": [
+          "Dityatev AE",
+          "Altinbaev RSh",
+          "Astrelin AV",
+          "Voronin LL"
+     ],
+     "AD": "Zentrum fur Molekulare Neurobiologie, Universitat Hamburg, Martinistr. 52, D-20246 Hamburg, Germany. dityatev@zmnh.uni-hamburg.de",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Neurotransmitter Agents)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Central Nervous System/*physiology",
+          "Data Interpretation, Statistical",
+          "Excitatory Postsynaptic Potentials/physiology",
+          "Hippocampus/physiology",
+          "*Models, Neurological",
+          "Models, Statistical",
+          "Neurotransmitter Agents/metabolism/*secretion",
+          "Poisson Distribution",
+          "Presynaptic Terminals/metabolism/*secretion",
+          "Principal Component Analysis/*methods",
+          "Ranidae",
+          "Rats",
+          "Signal Processing, Computer-Assisted",
+          "Spinal Cord/physiology",
+          "*Statistical Distributions",
+          "Synaptic Vesicles/metabolism/*secretion"
+     ],
+     "EDAT": "2003/12/12 05:00",
+     "MHDA": "2004/03/06 05:00",
+     "CRDT": [
+          "2003/12/12 05:00"
+     ],
+     "PHST": [
+          "2003/12/12 05:00 [pubmed]",
+          "2004/03/06 05:00 [medline]",
+          "2003/12/12 05:00 [entrez]"
+     ],
+     "AID": [
+          "S0165027003003200 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2003 Dec 15;130(2):173-99.",
+     "term": "hippocampus"
+}

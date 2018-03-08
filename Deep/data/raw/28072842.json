@@ -1,0 +1,84 @@
+{
+     "PMID": "28072842",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170808",
+     "LR": "20170808",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "12",
+     "IP": "1",
+     "DP": "2017",
+     "TI": "Fractal Analysis of Brain Blood Oxygenation Level Dependent (BOLD) Signals from Children with Mild Traumatic Brain Injury (mTBI).",
+     "PG": "e0169647",
+     "LID": "10.1371/journal.pone.0169647 [doi]",
+     "AB": "BACKGROUND: Conventional imaging techniques are unable to detect abnormalities in the brain following mild traumatic brain injury (mTBI). Yet patients with mTBI typically show delayed response on neuropsychological evaluation. Because fractal geometry represents complexity, we explored its utility in measuring temporal fluctuations of brain resting state blood oxygen level dependent (rs-BOLD) signal. We hypothesized that there could be a detectable difference in rs-BOLD signal complexity between healthy subjects and mTBI patients based on previous studies that associated reduction in signal complexity with disease. METHODS: Fifteen subjects (13.4 +/- 2.3 y/o) and 56 age-matched (13.5 +/- 2.34 y/o) healthy controls were scanned using a GE Discovery MR750 3T MRI and 32-channel RF-coil. Axial FSPGR-3D images were used to prescribe rs-BOLD (TE/TR = 35/2000ms), acquired over 6 minutes. Motion correction was performed and anatomical and functional images were aligned and spatially warped to the N27 standard atlas. Fractal analysis, performed on grey matter, was done by estimating the Hurst exponent using de-trended fluctuation analysis and signal summation conversion methods. RESULTS AND CONCLUSIONS: Voxel-wise fractal dimension (FD) was calculated for every subject in the control group to generate mean and standard deviation maps for regional Z-score analysis. Voxel-wise validation of FD normality across controls was confirmed, and non-Gaussian voxels (3.05% over the brain) were eliminated from subsequent analysis. For each mTBI patient, regions where Z-score values were at least 2 standard deviations away from the mean (i.e. where |Z| > 2.0) were identified. In individual patients the frequently affected regions were amygdala (p = 0.02), vermis(p = 0.03), caudate head (p = 0.04), hippocampus(p = 0.03), and hypothalamus(p = 0.04), all previously reported as dysfunctional after mTBI, but based on group analysis. It is well known that the brain is best modeled as a complex system. Therefore a measure of complexity using rs-BOLD signal FD could provide an additional method to grade and monitor mTBI. Furthermore, this approach can be personalized thus providing unique patient specific assessment.",
+     "FAU": [
+          "Dona, Olga",
+          "Noseworthy, Michael D",
+          "DeMatteo, Carol",
+          "Connolly, John F"
+     ],
+     "AU": [
+          "Dona O",
+          "Noseworthy MD",
+          "DeMatteo C",
+          "Connolly JF"
+     ],
+     "AD": "McMaster School of Biomedical Engineering, McMaster University, Hamilton, Ontario, Canada. Imaging Research Centre, St. Joseph's Healthcare, Hamilton, Ontario, Canada. McMaster School of Biomedical Engineering, McMaster University, Hamilton, Ontario, Canada. Imaging Research Centre, St. Joseph's Healthcare, Hamilton, Ontario, Canada. Department of Electrical and Computer Engineering, McMaster University, Hamilton, Ontario, Canada. Department of Radiology, McMaster University, Hamilton, Ontario, Canada. School of Rehabilitation Medicine, McMaster University, Hamilton, Ontario, Canada. McMaster School of Biomedical Engineering, McMaster University, Hamilton, Ontario, Canada. Department of Linguistics, McMaster University, Hamilton, Ontario, Canada.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0003-1464-159X"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170110",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "S88TT14065 (Oxygen)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Blood Gas Analysis",
+          "Brain/*blood supply/*metabolism",
+          "Brain Concussion/*diagnostic imaging/*metabolism",
+          "Brain Mapping/methods",
+          "Case-Control Studies",
+          "Child",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging/methods",
+          "Male",
+          "Oxygen/*metabolism"
+     ],
+     "PMC": "PMC5224975",
+     "COIS": [
+          "The authors have declared that no competing interests exist."
+     ],
+     "EDAT": "2017/01/11 06:00",
+     "MHDA": "2017/08/09 06:00",
+     "CRDT": [
+          "2017/01/11 06:00"
+     ],
+     "PHST": [
+          "2016/07/15 00:00 [received]",
+          "2016/12/20 00:00 [accepted]",
+          "2017/01/11 06:00 [entrez]",
+          "2017/01/11 06:00 [pubmed]",
+          "2017/08/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0169647 [doi]",
+          "PONE-D-16-28448 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2017 Jan 10;12(1):e0169647. doi: 10.1371/journal.pone.0169647. eCollection 2017.",
+     "term": "hippocampus"
+}

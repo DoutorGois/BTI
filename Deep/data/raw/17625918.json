@@ -1,0 +1,101 @@
+{
+     "PMID": "17625918",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20071113",
+     "LR": "20170220",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "37",
+     "IP": "3",
+     "DP": "2007 Sep 1",
+     "TI": "Direct mapping of hippocampal surfaces with intrinsic shape context.",
+     "PG": "792-807",
+     "AB": "We propose in this paper a new method for the mapping of hippocampal (HC) surfaces to establish correspondences between points on HC surfaces and enable localized HC shape analysis. A novel geometric feature, the intrinsic shape context, is defined to capture the global characteristics of the HC shapes. Based on this intrinsic feature, an automatic algorithm is developed to detect a set of landmark curves that are stable across population. The direct map between a source and target HC surface is then solved as the minimizer of a harmonic energy function defined on the source surface with landmark constraints. For numerical solutions, we compute the map with the approach of solving partial differential equations on implicit surfaces. The direct mapping method has the following properties: (1) it has the advantage of being automatic; (2) it is invariant to the pose of HC shapes. In our experiments, we apply the direct mapping method to study temporal changes of HC asymmetry in Alzheimer's disease (AD) using HC surfaces from 12 AD patients and 14 normal controls. Our results show that the AD group has a different trend in temporal changes of HC asymmetry than the group of normal controls. We also demonstrate the flexibility of the direct mapping method by applying it to construct spherical maps of HC surfaces. Spherical harmonics (SPHARM) analysis is then applied and it confirms our results on temporal changes of HC asymmetry in AD.",
+     "FAU": [
+          "Shi, Yonggang",
+          "Thompson, Paul M",
+          "de Zubicaray, Greig I",
+          "Rose, Stephen E",
+          "Tu, Zhuowen",
+          "Dinov, Ivo",
+          "Toga, Arthur W"
+     ],
+     "AU": [
+          "Shi Y",
+          "Thompson PM",
+          "de Zubicaray GI",
+          "Rose SE",
+          "Tu Z",
+          "Dinov I",
+          "Toga AW"
+     ],
+     "AD": "Laboratory of Neuro Imaging, Department of Neurology, UCLA School of Medicine, Los Angeles, CA 90095, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U54 RR021813-04/RR/NCRR NIH HHS/United States",
+          "P50 AG016570-09/AG/NIA NIH HHS/United States",
+          "R21 RR019771/RR/NCRR NIH HHS/United States",
+          "P20 MH065166/MH/NIMH NIH HHS/United States",
+          "P20 MH065166-03/MH/NIMH NIH HHS/United States",
+          "P50 AG016570/AG/NIA NIH HHS/United States",
+          "P41 RR013642/RR/NCRR NIH HHS/United States",
+          "U54 RR021813/RR/NCRR NIH HHS/United States",
+          "R21 RR019771-02/RR/NCRR NIH HHS/United States",
+          "P41 RR013642-09/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20070523",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Artificial Intelligence",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "PMC": "PMC2227952",
+     "MID": [
+          "NIHMS29646"
+     ],
+     "EDAT": "2007/07/13 09:00",
+     "MHDA": "2007/11/14 09:00",
+     "CRDT": [
+          "2007/07/13 09:00"
+     ],
+     "PHST": [
+          "2006/11/18 00:00 [received]",
+          "2007/05/05 00:00 [revised]",
+          "2007/05/10 00:00 [accepted]",
+          "2007/07/13 09:00 [pubmed]",
+          "2007/11/14 09:00 [medline]",
+          "2007/07/13 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(07)00466-1 [pii]",
+          "10.1016/j.neuroimage.2007.05.016 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2007 Sep 1;37(3):792-807. doi: 10.1016/j.neuroimage.2007.05.016. Epub 2007 May 23.",
+     "term": "hippocampus"
+}

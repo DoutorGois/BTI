@@ -1,0 +1,91 @@
+{
+     "PMID": "22310969",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130213",
+     "LR": "20171021",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "33",
+     "IP": "2",
+     "DP": "2012 Oct",
+     "TI": "On the mechanisms underlying the depolarization block in the spiking dynamics of CA1 pyramidal neurons.",
+     "PG": "207-25",
+     "LID": "10.1007/s10827-012-0383-y [doi]",
+     "AB": "Under sustained input current of increasing strength neurons eventually stop firing, entering a depolarization block. This is a robust effect that is not usually explored in experiments or explicitly implemented or tested in models. However, the range of current strength needed for a depolarization block could be easily reached with a random background activity of only a few hundred excitatory synapses. Depolarization block may thus be an important property of neurons that should be better characterized in experiments and explicitly taken into account in models at all implementation scales. Here we analyze the spiking dynamics of CA1 pyramidal neuron models using the same set of ionic currents on both an accurate morphological reconstruction and on its reduction to a single-compartment. The results show the specific ion channel properties and kinetics that are needed to reproduce the experimental findings, and how their interplay can drastically modulate the neuronal dynamics and the input current range leading to a depolarization block. We suggest that this can be one of the rate-limiting mechanisms protecting a CA1 neuron from excessive spiking activity.",
+     "FAU": [
+          "Bianchi, Daniela",
+          "Marasco, Addolorata",
+          "Limongiello, Alessandro",
+          "Marchetti, Cristina",
+          "Marie, Helene",
+          "Tirozzi, Brunello",
+          "Migliore, Michele"
+     ],
+     "AU": [
+          "Bianchi D",
+          "Marasco A",
+          "Limongiello A",
+          "Marchetti C",
+          "Marie H",
+          "Tirozzi B",
+          "Migliore M"
+     ],
+     "AD": "Department of Physics, University of Rome \"La Sapienza\", Piazz. le A. Moro 2, 00185 Rome, Italy. danielabianchi12@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120205",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "RN": [
+          "0 (Excitatory Amino Acid Agonists)",
+          "6384-92-5 (N-Methylaspartate)",
+          "77521-29-0 (alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/drug effects/*physiology",
+          "Animals",
+          "Animals, Newborn",
+          "Biophysical Phenomena",
+          "CA1 Region, Hippocampal/*cytology/drug effects",
+          "Electric Stimulation",
+          "Excitatory Amino Acid Agonists/pharmacology",
+          "Hippocampus/*cytology",
+          "In Vitro Techniques",
+          "*Models, Neurological",
+          "N-Methylaspartate/pharmacology",
+          "*Nonlinear Dynamics",
+          "Patch-Clamp Techniques",
+          "Pyramidal Cells/*physiology",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Synapses/drug effects/physiology",
+          "alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid/pharmacology"
+     ],
+     "EDAT": "2012/02/09 06:00",
+     "MHDA": "2013/02/14 06:00",
+     "CRDT": [
+          "2012/02/08 06:00"
+     ],
+     "PHST": [
+          "2011/10/11 00:00 [received]",
+          "2012/01/13 00:00 [accepted]",
+          "2012/01/11 00:00 [revised]",
+          "2012/02/08 06:00 [entrez]",
+          "2012/02/09 06:00 [pubmed]",
+          "2013/02/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10827-012-0383-y [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2012 Oct;33(2):207-25. doi: 10.1007/s10827-012-0383-y. Epub 2012 Feb 5.",
+     "term": "hippocampus"
+}

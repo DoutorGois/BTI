@@ -1,0 +1,63 @@
+{
+     "PMID": "19405130",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100325",
+     "LR": "20100127",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "20",
+     "IP": "2",
+     "DP": "2010 Feb",
+     "TI": "A single-trace dual-process model of episodic memory: a novel computational account of familiarity and recollection.",
+     "PG": "235-51",
+     "LID": "10.1002/hipo.20606 [doi]",
+     "AB": "Dual-process theories of episodic memory state that retrieval is contingent on two independent processes: familiarity (providing a sense of oldness) and recollection (recovering events and their context). A variety of studies have reported distinct neural signatures for familiarity and recollection, supporting dual-process theory. One outstanding question is whether these signatures reflect the activation of distinct memory traces or the operation of different retrieval mechanisms on a single memory trace. We present a computational model that uses a single neuronal network to store memory traces, but two distinct and independent retrieval processes access the memory. The model is capable of performing familiarity and recollection-based discrimination between old and new patterns, demonstrating that dual-process models need not to rely on multiple independent memory traces, but can use a single trace. Importantly, our putative familiarity and recollection processes exhibit distinct characteristics analogous to those found in empirical data; they diverge in capacity and sensitivity to sparse and correlated patterns, exhibit distinct ROC curves, and account for performance on both item and associative recognition tests. The demonstration that a single-trace, dual-process model can account for a range of empirical findings highlights the importance of distinguishing between neuronal processes and the neuronal representations on which they operate.",
+     "FAU": [
+          "Greve, Andrea",
+          "Donaldson, David I",
+          "van Rossum, Mark C W"
+     ],
+     "AU": [
+          "Greve A",
+          "Donaldson DI",
+          "van Rossum MC"
+     ],
+     "AD": "Wales Institute of Cognitive Neuroscience, School of Psychology, Cardiff University, Park Place, Cardiff, United Kingdom. grevea@cardiff.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Association Learning",
+          "*Computer Simulation",
+          "Humans",
+          "*Mental Recall",
+          "*Neural Networks (Computer)",
+          "ROC Curve",
+          "*Recognition (Psychology)"
+     ],
+     "EDAT": "2009/05/01 09:00",
+     "MHDA": "2010/03/26 06:00",
+     "CRDT": [
+          "2009/05/01 09:00"
+     ],
+     "PHST": [
+          "2009/05/01 09:00 [entrez]",
+          "2009/05/01 09:00 [pubmed]",
+          "2010/03/26 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.20606 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2010 Feb;20(2):235-51. doi: 10.1002/hipo.20606.",
+     "term": "hippocampus"
+}

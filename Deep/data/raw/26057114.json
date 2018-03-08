@@ -1,0 +1,97 @@
+{
+     "PMID": "26057114",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160601",
+     "LR": "20150903",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "253",
+     "DP": "2015 Sep 30",
+     "TI": "Amygdalar and hippocampal volume: A comparison between manual segmentation, Freesurfer and VBM.",
+     "PG": "254-61",
+     "LID": "10.1016/j.jneumeth.2015.05.024 [doi] S0165-0270(15)00215-0 [pii]",
+     "AB": "Automated segmentation of the amygdala and the hippocampus is of interest for research looking at large datasets where manual segmentation of T1-weighted magnetic resonance tomography images is less feasible for morphometric analysis. Manual segmentation still remains the gold standard for subcortical structures like the hippocampus and the amygdala. A direct comparison of VBM8 and Freesurfer is rarely done, because VBM8 results are most often used for voxel-based analysis. We used the same region-of-interest (ROI) for Freesurfer and VBM8 to relate automated and manually derived volumes of the amygdala and the hippocampus. We processed a large manually segmented dataset of n=92 independent samples with an automated segmentation strategy (VBM8 vs. Freesurfer Version 5.0). For statistical analysis, we only calculated Pearsons's correlation coefficients, but used methods developed for comparison such as Lin's concordance coefficient. The correlation between automatic and manual segmentation was high for the hippocampus [0.58-0.76] and lower for the amygdala [0.45-0.59]. However, concordance coefficients point to higher concordance for the amygdala [0.46-0.62] instead of the hippocampus [0.06-0.12]. VBM8 and Freesurfer segmentation performed on a comparable level in comparison to manual segmentation. We conclude (1) that correlation alone does not capture systematic differences (e.g. of hippocampal volumes), (2) calculation of ROI volumes with VBM8 gives measurements comparable to Freesurfer V5.0 when using the same ROI and (3) systematic and proportional differences are caused mainly by different definitions of anatomic boundaries and only to a lesser part by different segmentation strategies. This work underscores the importance of using method comparison techniques and demonstrates that even with high correlation coefficients, there can be still large differences in absolute volume.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Grimm, Oliver",
+          "Pohlack, Sebastian",
+          "Cacciaglia, Raffaele",
+          "Winkelmann, Tobias",
+          "Plichta, Michael M",
+          "Demirakca, Traute",
+          "Flor, Herta"
+     ],
+     "AU": [
+          "Grimm O",
+          "Pohlack S",
+          "Cacciaglia R",
+          "Winkelmann T",
+          "Plichta MM",
+          "Demirakca T",
+          "Flor H"
+     ],
+     "AD": "Central Institute of Mental Health, Department of Cognitive and Clinical Neuroscience, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany; Psychiatric University Hospital Zurich, Zurich, Switzerland. Electronic address: oliver.grimm@puk.zh.ch. Central Institute of Mental Health, Department of Cognitive and Clinical Neuroscience, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany. University of Barcelona, Department of Psychiatry and Clinical Psychobiology, Barcelona, Spain. Central Institute of Mental Health, Department of Cognitive and Clinical Neuroscience, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany. Central Institute of Mental Health, Department of Psychiatry and Psychotherapy, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany. Central Institute of Mental Health, Department of Neuroimaging, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany. Central Institute of Mental Health, Department of Cognitive and Clinical Neuroscience, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150606",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Algorithms",
+          "Amygdala/*pathology",
+          "Female",
+          "Functional Laterality",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Software",
+          "Statistics, Nonparametric",
+          "Stress Disorders, Post-Traumatic/*pathology",
+          "Young Adult"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Amygdala",
+          "Freesurfer",
+          "Hippocampus",
+          "Method comparison",
+          "VBM8",
+          "Volumetry"
+     ],
+     "EDAT": "2015/06/10 06:00",
+     "MHDA": "2016/06/02 06:00",
+     "CRDT": [
+          "2015/06/10 06:00"
+     ],
+     "PHST": [
+          "2015/01/26 00:00 [received]",
+          "2015/04/24 00:00 [revised]",
+          "2015/05/26 00:00 [accepted]",
+          "2015/06/10 06:00 [entrez]",
+          "2015/06/10 06:00 [pubmed]",
+          "2016/06/02 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(15)00215-0 [pii]",
+          "10.1016/j.jneumeth.2015.05.024 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2015 Sep 30;253:254-61. doi: 10.1016/j.jneumeth.2015.05.024. Epub 2015 Jun 6.",
+     "term": "hippocampus"
+}

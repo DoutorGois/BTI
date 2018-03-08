@@ -1,0 +1,85 @@
+{
+     "PMID": "20218731",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100812",
+     "LR": "20170922",
+     "IS": "1535-3907 (Electronic) 1535-3893 (Linking)",
+     "VI": "9",
+     "IP": "5",
+     "DP": "2010 May 7",
+     "TI": "Comparison of a protein-level and peptide-level labeling strategy for quantitative proteomics of synaptosomes using isobaric tags.",
+     "PG": "2725-33",
+     "LID": "10.1021/pr900627e [doi]",
+     "AB": "Quantitative proteomics using isobaric labeling typically involves sample digestion, peptide-level labeling and 2D LC-MS/MS. Proteomic analysis of complex samples can potentially be performed more comprehensively with GeLC-MS/MS. However, combining this approach with peptide-level labeling of multiple in-gel digests from entirely sectioned gel lanes can introduce many points of variation and adversely affect the final quantitative accuracy. Alternatively, samples labeled with isobaric tags at the protein level can be combined and analyzed by GeLC-MS/MS as a single gel lane. A caveat to this strategy is that only lysine residues are labeled, which might limit protein digestion and quantitation of peptides. Here we have compared a protein-level labeling GeLC-MS/MS strategy with a peptide-level labeling 2D LC-MS/MS approach, using mouse hippocampus synaptosomes and isobaric tandem mass tags. Protein-level labeling enabled the identification of 3 times more proteins (697 versus 241) than did peptide-level labeling, and importantly for quantitation, twice as many proteins with labeled peptides (480 versus 232) were identified. Preliminary in silico analysis also suggested the alternative use of Asp-N to trypsin to circumvent the interference of lysine labeling on protein digestion. Use of Asp-N resulted in the effective analysis of fewer peptides than with trypsin for the protein-level approach (1677 versus 3131), but yielded a similar quantitative proteomic coverage in terms of both peptides (1150 versus 1181) and proteins (448 versus 480). Taken together, these experiments demonstrate that protein-level labeling combined with GeLC-MS/MS is an effective strategy for the multiplexed quantitation of synaptosomal preparations, and may also be applicable to samples of a similar proteomic complexity and dynamic range of protein abundance.",
+     "FAU": [
+          "Engmann, Olivia",
+          "Campbell, James",
+          "Ward, Malcolm",
+          "Giese, K Peter",
+          "Thompson, Andrew J"
+     ],
+     "AU": [
+          "Engmann O",
+          "Campbell J",
+          "Ward M",
+          "Giese KP",
+          "Thompson AJ"
+     ],
+     "AD": "Centre for the Cellular Basis of Behaviour, Institute of Psychiatry, King's College London, London, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0800393/Medical Research Council/United Kingdom",
+          "Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Proteome Res",
+     "JT": "Journal of proteome research",
+     "JID": "101128775",
+     "RN": [
+          "0 (Peptide Fragments)",
+          "0 (Proteins)",
+          "EC 3.4.21.4 (Trypsin)",
+          "EC 3.4.24.- (Metalloendopeptidases)",
+          "EC 3.4.24.33 (endoproteinase Asp-N)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Analysis of Variance",
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/cytology",
+          "Metalloendopeptidases/chemistry/metabolism",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Mice, Transgenic",
+          "Peptide Fragments/analysis/*metabolism",
+          "Proteins/analysis/*metabolism",
+          "Proteomics/*methods",
+          "Reproducibility of Results",
+          "Synaptosomes/*metabolism",
+          "Trypsin/chemistry/metabolism"
+     ],
+     "EDAT": "2010/03/12 06:00",
+     "MHDA": "2010/08/13 06:00",
+     "CRDT": [
+          "2010/03/12 06:00"
+     ],
+     "PHST": [
+          "2010/03/12 06:00 [entrez]",
+          "2010/03/12 06:00 [pubmed]",
+          "2010/08/13 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1021/pr900627e [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Proteome Res. 2010 May 7;9(5):2725-33. doi: 10.1021/pr900627e.",
+     "term": "hippocampus"
+}

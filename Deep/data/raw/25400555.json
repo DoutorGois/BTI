@@ -1,0 +1,68 @@
+{
+     "PMID": "25400555",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20141117",
+     "LR": "20170220",
+     "IS": "1662-5137 (Print) 1662-5137 (Linking)",
+     "VI": "8",
+     "DP": "2014",
+     "TI": "Grid cell firing patterns may arise from feedback interaction between intrinsic rebound spiking and transverse traveling waves with multiple heading angles.",
+     "PG": "201",
+     "LID": "10.3389/fnsys.2014.00201 [doi]",
+     "AB": "This article presents a model using cellular resonance and rebound properties to model grid cells in medial entorhinal cortex. The model simulates the intrinsic resonance properties of single layer II stellate cells with different frequencies due to the hyperpolarization activated cation current (h current). The stellate cells generate rebound spikes after a delay interval that differs for neurons with different resonance frequency. Stellate cells drive inhibitory interneurons to cause rebound from inhibition in an alternate set of stellate cells that drive interneurons to activate the first set of cells. This allows maintenance of activity with cycle skipping of the spiking of cells that matches recent physiological data on theta cycle skipping. The rebound spiking interacts with subthreshold oscillatory input to stellate cells or interneurons regulated by medial septal input and defined relative to the spatial location coded by neurons. The timing of rebound determines whether the network maintains the activity for the same location or shifts to phases of activity representing a different location. Simulations show that spatial firing patterns similar to grid cells can be generated with a range of different resonance frequencies, indicating how grid cells could be generated with low frequencies present in bats and in mice with knockout of the HCN1 subunit of the h current.",
+     "FAU": [
+          "Hasselmo, Michael E",
+          "Shay, Christopher F"
+     ],
+     "AU": [
+          "Hasselmo ME",
+          "Shay CF"
+     ],
+     "AD": "Department of Psychological and Brain Sciences, Center for Systems Neuroscience, Center for Memory and Brain, Graduate Program for Neuroscience, Boston University Boston, MA, USA. Department of Psychological and Brain Sciences, Center for Systems Neuroscience, Center for Memory and Brain, Graduate Program for Neuroscience, Boston University Boston, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 MH094263/MH/NIMH NIH HHS/United States",
+          "R01 MH060013/MH/NIMH NIH HHS/United States",
+          "R01 MH061492/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20141031",
+     "PL": "Switzerland",
+     "TA": "Front Syst Neurosci",
+     "JT": "Frontiers in systems neuroscience",
+     "JID": "101477946",
+     "PMC": "PMC4215619",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "entorhinal cortex",
+          "oscillatory interference",
+          "spatial navigation",
+          "stellate cells",
+          "whole-cell patch recording"
+     ],
+     "EDAT": "2014/11/18 06:00",
+     "MHDA": "2014/11/18 06:01",
+     "CRDT": [
+          "2014/11/18 06:00"
+     ],
+     "PHST": [
+          "2013/03/14 00:00 [received]",
+          "2014/09/23 00:00 [accepted]",
+          "2014/11/18 06:00 [entrez]",
+          "2014/11/18 06:00 [pubmed]",
+          "2014/11/18 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnsys.2014.00201 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Syst Neurosci. 2014 Oct 31;8:201. doi: 10.3389/fnsys.2014.00201. eCollection 2014.",
+     "term": "grid cells"
+}

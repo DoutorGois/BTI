@@ -1,0 +1,89 @@
+{
+     "PMID": "22987811",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140902",
+     "LR": "20140114",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "35",
+     "IP": "2",
+     "DP": "2014 Feb",
+     "TI": "Nonlocal regularization for active appearance model: Application to medial temporal lobe segmentation.",
+     "PG": "377-95",
+     "LID": "10.1002/hbm.22183 [doi]",
+     "AB": "The human medial temporal lobe (MTL) is an important part of the limbic system, and its substructures play key roles in learning, memory, and neurodegeneration. The MTL includes the hippocampus (HC), amygdala (AG), parahippocampal cortex (PHC), entorhinal cortex, and perirhinal cortex--structures that are complex in shape and have low between-structure intensity contrast, making them difficult to segment manually in magnetic resonance images. This article presents a new segmentation method that combines active appearance modeling and patch-based local refinement to automatically segment specific substructures of the MTL including HC, AG, PHC, and entorhinal/perirhinal cortex from MRI data. Appearance modeling, relying on eigen-decomposition to analyze statistical variations in image intensity and shape information in study population, is used to capture global shape characteristics of each structure of interest with a generative model. Patch-based local refinement, using nonlocal means to compare the image local intensity properties, is applied to locally refine the segmentation results along the structure borders to improve structure delimitation. In this manner, nonlocal regularization and global shape constraints could allow more accurate segmentations of structures. Validation experiments against manually defined labels demonstrate that this new segmentation method is computationally efficient, robust, and accurate. In a leave-one-out validation on 54 normal young adults, the method yielded a mean Dice kappa of 0.87 for the HC, 0.81 for the AG, 0.73 for the anterior parts of the parahippocampal gyrus (entorhinal and perirhinal cortex), and 0.73 for the posterior parahippocampal gyrus.",
+     "CI": [
+          "Copyright (c) 2012 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Hu, Shiyan",
+          "Coupe, Pierrick",
+          "Pruessner, Jens C",
+          "Collins, D Louis"
+     ],
+     "AU": [
+          "Hu S",
+          "Coupe P",
+          "Pruessner JC",
+          "Collins DL"
+     ],
+     "AD": "McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Quebec, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20120915",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Brain Mapping",
+          "Female",
+          "Functional Laterality",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "*Models, Statistical",
+          "Nonlinear Dynamics",
+          "Reproducibility of Results",
+          "Sex Characteristics",
+          "Temporal Lobe/*anatomy & histology/*physiology",
+          "Young Adult"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "appearance modeling",
+          "label fusion",
+          "medial temporal lobe structures",
+          "nonlocal means",
+          "segmentation"
+     ],
+     "EDAT": "2012/09/19 06:00",
+     "MHDA": "2014/09/03 06:00",
+     "CRDT": [
+          "2012/09/19 06:00"
+     ],
+     "PHST": [
+          "2012/02/02 00:00 [received]",
+          "2012/07/24 00:00 [revised]",
+          "2012/07/25 00:00 [accepted]",
+          "2012/09/19 06:00 [entrez]",
+          "2012/09/19 06:00 [pubmed]",
+          "2014/09/03 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.22183 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2014 Feb;35(2):377-95. doi: 10.1002/hbm.22183. Epub 2012 Sep 15.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,70 @@
+{
+     "PMID": "22717450",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130523",
+     "LR": "20120717",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "33",
+     "DP": "2012 Sep",
+     "TI": "Directional spike propagation in a recurrent network: dynamical firewall as anisotropic recurrent inhibition.",
+     "PG": "236-46",
+     "LID": "10.1016/j.neunet.2012.05.010 [doi]",
+     "AB": "It has been demonstrated that theta rhythm propagates along the septotemporal axis of the hippocampal CA1 of the rat running on a track, and it has been suggested that directional spike propagation in the hippocampal CA3 is reflected in CA1. In this paper, we show that directional spike propagation occurs in a recurrent network model in which neurons are connected locally and connection weights are modified through STDP. The recurrent network model consists of excitatory and inhibitory neurons, which are intrinsic bursting and fast spiking neurons developed by Izhikevich, respectively. The maximum length of connections from excitatory neurons is shorter in the horizontal direction than the vertical direction. Connections from inhibitory neurons have the same maximum length in both directions, and the maximum length of inhibitory connections is the same as that of excitatory connections in the vertical direction. When connection weights between excitatory neurons (E-->E) were modified through STDP and those from excitatory neurons to inhibitory neurons (E-->I) were constant, spikes propagated in the vertical direction as expected from the network structure. However, when E-->I connection weights were modified through STDP, as well as E-->E connection weights, spikes propagated in the horizontal direction against the above expectation. This paradoxical propagation was produced by strengthened E-->I connections which shifted the timing of inhibition forward. When E-->I connections are enhanced, the direction of effective inhibition changes from horizontal to vertical, as if a gate for spike propagation is opened in the horizontal direction and firewalls come out in the vertical direction. These results suggest that the advance of timing of inhibition caused by potentiation of E-->I connections is influential in network activity and is an important element in determining the direction of spike propagation.",
+     "CI": [
+          "Copyright (c) 2012 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Samura, Toshikazu",
+          "Hayashi, Hatsuo"
+     ],
+     "AU": [
+          "Samura T",
+          "Hayashi H"
+     ],
+     "AD": "Graduate School of Life Science and Systems Engineering, Kyushu Institute of Technology, 2-4 Hibikino, Wakamatsu-ku, Kitakyushu 808-0196, Japan. samura@brain.kyutech.ac.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20120605",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials/physiology",
+          "Animals",
+          "Anisotropy",
+          "Hippocampus/cytology/physiology",
+          "*Neural Inhibition/physiology",
+          "*Neural Networks (Computer)",
+          "Neuronal Plasticity",
+          "Random Allocation",
+          "Rats",
+          "Recurrence"
+     ],
+     "EDAT": "2012/06/22 06:00",
+     "MHDA": "2013/05/25 06:00",
+     "CRDT": [
+          "2012/06/22 06:00"
+     ],
+     "PHST": [
+          "2011/12/22 00:00 [received]",
+          "2012/04/11 00:00 [revised]",
+          "2012/05/24 00:00 [accepted]",
+          "2012/06/22 06:00 [entrez]",
+          "2012/06/22 06:00 [pubmed]",
+          "2013/05/25 06:00 [medline]"
+     ],
+     "AID": [
+          "S0893-6080(12)00155-4 [pii]",
+          "10.1016/j.neunet.2012.05.010 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2012 Sep;33:236-46. doi: 10.1016/j.neunet.2012.05.010. Epub 2012 Jun 5.",
+     "term": "hippocampus"
+}

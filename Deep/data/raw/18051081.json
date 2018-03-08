@@ -1,0 +1,75 @@
+{
+     "PMID": "18051081",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080103",
+     "LR": "20091211",
+     "VI": "10",
+     "IP": "Pt 1",
+     "DP": "2007",
+     "TI": "A study of hippocampal shape difference between genders by efficient hypothesis test and discriminative deformation.",
+     "PG": "375-83",
+     "AB": "Hypothesis testing is an important way to detect the statistical difference between two populations. In this paper, we use the Fisher permutation and bootstrap tests to differentiate hippocampal shape between genders. These methods are preferred to traditional hypothesis tests which impose assumptions on the distribution of the samples. An efficient algorithm is adopted to rapidly perform the exact tests. We extend this algorithm to multivariate data by projecting the original data onto an \"informative direction\" to generate a scalar test statistic. This \"informative direction\" is found to preserve the original discriminative information. This direction is further used in this paper to isolate the discriminative shape difference between classes from the individual variability, achieving a visualization of shape discrepancy.",
+     "FAU": [
+          "Zhou, Luping",
+          "Hartley, Richard",
+          "Lieby, Paulette",
+          "Barnes, Nick",
+          "Anstey, Kaarin",
+          "Cherbuin, Nicolas",
+          "Sachdev, Perminder"
+     ],
+     "AU": [
+          "Zhou L",
+          "Hartley R",
+          "Lieby P",
+          "Barnes N",
+          "Anstey K",
+          "Cherbuin N",
+          "Sachdev P"
+     ],
+     "AD": "RSISE The Australian National University.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Age Factors",
+          "*Algorithms",
+          "*Artificial Intelligence",
+          "*Data Interpretation, Statistical",
+          "Discriminant Analysis",
+          "Female",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2007/12/07 09:00",
+     "MHDA": "2008/01/04 09:00",
+     "CRDT": [
+          "2007/12/07 09:00"
+     ],
+     "PHST": [
+          "2007/12/07 09:00 [pubmed]",
+          "2008/01/04 09:00 [medline]",
+          "2007/12/07 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2007;10(Pt 1):375-83.",
+     "term": "hippocampus"
+}

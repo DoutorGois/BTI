@@ -1,0 +1,67 @@
+{
+     "PMID": "10704666",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20000511",
+     "LR": "20031114",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "96",
+     "IP": "1",
+     "DP": "2000 Mar 1",
+     "TI": "Computer simulation approach to the quantification of immunogold labelling on plasma membrane of cultured neurons.",
+     "PG": "11-7",
+     "AB": "Cell culture is a convenient model system to study the expression of plasma membrane-bound proteins in nerve cells. Analysing it with an ultrastructural detail researchers often apply transmission electron microscopy together with immunogold labelling. Plasma membrane profiles are one-dimensional (1D) and provide little information about the topography of membrane-bound proteins. In order to convert 1D estimates of spatial arrangement for preembedding immunogold labelled proteins into two-dimensional (2D) quantities, namely the 2D pattern and density of labelling, this paper presents a simple computer simulation technique. This technique is based on a mathematical model permitting a simulated immunogold labelled membrane to be sampled in a way similar to microtome sectioning. An interlabel distance (ILD) estimate is used to define the position of immunogold particles in membrane profiles. In order to interpret experimental ILD measurements the simulated distribution best fit to the experimental data is selected and the corresponding 2D density and pattern of particle scattering are considered to explain the real situation. Various parameters including a cell section thickness, immunogold particle size etc can be adjusted to suit the demands of a particular experiment. The technique was applied to quantify the NCAM preembedding immunogold labelling in the plasma membrane of cultured rat hippocampal neurons.",
+     "FAU": [
+          "Nikonenko, A G",
+          "Nikonenko, I R",
+          "Skibo, G G"
+     ],
+     "AU": [
+          "Nikonenko AG",
+          "Nikonenko IR",
+          "Skibo GG"
+     ],
+     "AD": "Laboratory of Quantitative Morphology, Cascade Medical Limited, Blvd Druzhby Narodov 19, 01001, PO Box 51, Kiev, Ukraine. agn@serv.biph.kiev.ua",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cell Membrane/*chemistry",
+          "Cells, Cultured",
+          "Computational Biology/*methods/standards",
+          "*Computer Simulation",
+          "Hippocampus/cytology",
+          "Immunohistochemistry",
+          "Microscopy, Immunoelectron/*methods/standards",
+          "*Models, Biological",
+          "Neurons/*chemistry/cytology",
+          "Rats",
+          "Reproducibility of Results",
+          "Software"
+     ],
+     "EDAT": "2000/03/08 09:00",
+     "MHDA": "2000/05/16 09:00",
+     "CRDT": [
+          "2000/03/08 09:00"
+     ],
+     "PHST": [
+          "2000/03/08 09:00 [pubmed]",
+          "2000/05/16 09:00 [medline]",
+          "2000/03/08 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(99)00181-8 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2000 Mar 1;96(1):11-7.",
+     "term": "hippocampus"
+}

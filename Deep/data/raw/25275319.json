@@ -1,0 +1,76 @@
+{
+     "PMID": "25275319",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151116",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "10",
+     "IP": "10",
+     "DP": "2014 Oct",
+     "TI": "Memory maintenance in synapses with calcium-based plasticity in the presence of background activity.",
+     "PG": "e1003834",
+     "LID": "10.1371/journal.pcbi.1003834 [doi]",
+     "AB": "Most models of learning and memory assume that memories are maintained in neuronal circuits by persistent synaptic modifications induced by specific patterns of pre- and postsynaptic activity. For this scenario to be viable, synaptic modifications must survive the ubiquitous ongoing activity present in neural circuits in vivo. In this paper, we investigate the time scales of memory maintenance in a calcium-based synaptic plasticity model that has been shown recently to be able to fit different experimental data-sets from hippocampal and neocortical preparations. We find that in the presence of background activity on the order of 1 Hz parameters that fit pyramidal layer 5 neocortical data lead to a very fast decay of synaptic efficacy, with time scales of minutes. We then identify two ways in which this memory time scale can be extended: (i) the extracellular calcium concentration in the experiments used to fit the model are larger than estimated concentrations in vivo. Lowering extracellular calcium concentration to in vivo levels leads to an increase in memory time scales of several orders of magnitude; (ii) adding a bistability mechanism so that each synapse has two stable states at sufficiently low background activity leads to a further boost in memory time scale, since memory decay is no longer described by an exponential decay from an initial state, but by an escape from a potential well. We argue that both features are expected to be present in synapses in vivo. These results are obtained first in a single synapse connecting two independent Poisson neurons, and then in simulations of a large network of excitatory and inhibitory integrate-and-fire neurons. Our results emphasise the need for studying plasticity at physiological extracellular calcium concentration, and highlight the role of synaptic bi- or multistability in the stability of learned synaptic structures.",
+     "FAU": [
+          "Higgins, David",
+          "Graupner, Michael",
+          "Brunel, Nicolas"
+     ],
+     "AU": [
+          "Higgins D",
+          "Graupner M",
+          "Brunel N"
+     ],
+     "AD": "IBENS, Ecole Normale Superieure, Paris, France; Departments of Statistics and Neurobiology, University of Chicago, Chicago, Illinois, United States of America. Center for Neural Science, New York University, New York, New York, United States of America. Departments of Statistics and Neurobiology, University of Chicago, Chicago, Illinois, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "DC005787-01A1/DC/NIDCD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20141002",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Calcium/*metabolism",
+          "Hippocampus/physiology",
+          "*Models, Neurological",
+          "Neuronal Plasticity/*physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "Synapses/*physiology"
+     ],
+     "PMC": "PMC4183374",
+     "EDAT": "2014/10/03 06:00",
+     "MHDA": "2015/11/17 06:00",
+     "CRDT": [
+          "2014/10/03 06:00"
+     ],
+     "PHST": [
+          "2014/03/21 00:00 [received]",
+          "2014/07/28 00:00 [accepted]",
+          "2014/10/03 06:00 [entrez]",
+          "2014/10/03 06:00 [pubmed]",
+          "2015/11/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1003834 [doi]",
+          "PCOMPBIOL-D-14-00503 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2014 Oct 2;10(10):e1003834. doi: 10.1371/journal.pcbi.1003834. eCollection 2014 Oct.",
+     "term": "hippocampus"
+}

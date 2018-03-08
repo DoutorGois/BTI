@@ -1,0 +1,102 @@
+{
+     "PMID": "25665963",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160404",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "111",
+     "DP": "2015 May 1",
+     "TI": "3D structure tensor analysis of light microscopy data for validating diffusion MRI.",
+     "PG": "192-203",
+     "LID": "10.1016/j.neuroimage.2015.01.061 [doi] S1053-8119(15)00088-9 [pii]",
+     "AB": "Diffusion magnetic resonance imaging (d-MRI) is a powerful non-invasive and non-destructive technique for characterizing brain tissue on the microscopic scale. However, the lack of validation of d-MRI by independent experimental means poses an obstacle to accurate interpretation of data acquired using this method. Recently, structure tensor analysis has been applied to light microscopy images, and this technique holds promise to be a powerful validation strategy for d-MRI. Advantages of this approach include its similarity to d-MRI in terms of averaging the effects of a large number of cellular structures, and its simplicity, which enables it to be implemented in a high-throughput manner. However, a drawback of previous implementations of this technique arises from it being restricted to 2D. As a result, structure tensor analyses have been limited to tissue sectioned in a direction orthogonal to the direction of interest. Here we describe the analytical framework for extending structure tensor analysis to 3D, and utilize the results to analyze serial image \"stacks\" acquired with confocal microscopy of rhesus macaque hippocampal tissue. Implementation of 3D structure tensor procedures requires removal of sources of anisotropy introduced in tissue preparation and confocal imaging. This is accomplished with image processing steps to mitigate the effects of anisotropic tissue shrinkage, and the effects of anisotropy in the point spread function (PSF). In order to address the latter confound, we describe procedures for measuring the dependence of PSF anisotropy on distance from the microscope objective within tissue. Prior to microscopy, ex vivo d-MRI measurements performed on the hippocampal tissue revealed three regions of tissue with mutually orthogonal directions of least restricted diffusion that correspond to CA1, alveus and inferior longitudinal fasciculus. We demonstrate the ability of 3D structure tensor analysis to identify structure tensor orientations that are parallel to d-MRI derived diffusion tensors in each of these three regions. It is concluded that the 3D generalization of structure tensor analysis will further improve the utility of this method for validation of d-MRI by making it a more flexible experimental technique that closer resembles the inherently 3D nature of d-MRI measurements.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Khan, Ahmad Raza",
+          "Cornea, Anda",
+          "Leigland, Lindsey A",
+          "Kohama, Steven G",
+          "Jespersen, Sune Norhoj",
+          "Kroenke, Christopher D"
+     ],
+     "AU": [
+          "Khan AR",
+          "Cornea A",
+          "Leigland LA",
+          "Kohama SG",
+          "Jespersen SN",
+          "Kroenke CD"
+     ],
+     "AD": "Division of Neuroscience, Oregon National Primate Research Center, Oregon Health & Science University, Beaverton, OR, USA; Advanced Imaging Research Center, Oregon Health & Science University, Portland, OR, USA; Center of Functionally Integrative Neuroscience, Aarhus University Hospital, Aarhus, Denmark. Division of Neuroscience, Oregon National Primate Research Center, Oregon Health & Science University, Beaverton, OR, USA. Advanced Imaging Research Center, Oregon Health & Science University, Portland, OR, USA. Division of Neuroscience, Oregon National Primate Research Center, Oregon Health & Science University, Beaverton, OR, USA. Center of Functionally Integrative Neuroscience, Aarhus University Hospital, Aarhus, Denmark; Department of Physics and Astronomy, Aarhus University, Aarhus, Denmark. Division of Neuroscience, Oregon National Primate Research Center, Oregon Health & Science University, Beaverton, OR, USA; Advanced Imaging Research Center, Oregon Health & Science University, Portland, OR, USA; Department of Behavioral Neuroscience, Oregon Health & Science University, Portland, OR USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P51 OD011092/OD/NIH HHS/United States",
+          "S10 RR027238/RR/NCRR NIH HHS/United States",
+          "R01 NS070022/NS/NINDS NIH HHS/United States",
+          "P30NS061800/NS/NINDS NIH HHS/United States",
+          "R01NS070022/NS/NINDS NIH HHS/United States",
+          "R01 AA021981/AA/NIAAA NIH HHS/United States",
+          "P30 NS061800/NS/NINDS NIH HHS/United States",
+          "R01AA021981/AA/NIAAA NIH HHS/United States",
+          "P51OD011092/OD/NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20150207",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Diffusion Magnetic Resonance Imaging/*methods",
+          "Female",
+          "Hippocampus/*anatomy & histology",
+          "Image Processing, Computer-Assisted/*methods",
+          "Macaca mulatta",
+          "Microscopy, Confocal"
+     ],
+     "PMC": "PMC4387076",
+     "MID": [
+          "NIHMS662062"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Anisotropy",
+          "Diffusion",
+          "Hippocampus",
+          "Structure tensor"
+     ],
+     "EDAT": "2015/02/11 06:00",
+     "MHDA": "2016/04/05 06:00",
+     "CRDT": [
+          "2015/02/11 06:00"
+     ],
+     "PHST": [
+          "2014/09/28 00:00 [received]",
+          "2014/12/10 00:00 [revised]",
+          "2015/01/31 00:00 [accepted]",
+          "2015/02/11 06:00 [entrez]",
+          "2015/02/11 06:00 [pubmed]",
+          "2016/04/05 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(15)00088-9 [pii]",
+          "10.1016/j.neuroimage.2015.01.061 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2015 May 1;111:192-203. doi: 10.1016/j.neuroimage.2015.01.061. Epub 2015 Feb 7.",
+     "term": "hippocampus"
+}

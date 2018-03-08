@@ -1,0 +1,66 @@
+{
+     "PMID": "22692899",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140428",
+     "LR": "20161125",
+     "IS": "1558-254X (Electronic) 0278-0062 (Linking)",
+     "VI": "31",
+     "IP": "11",
+     "DP": "2012 Nov",
+     "TI": "Group-wise registration of point sets for statistical shape models.",
+     "PG": "2025-34",
+     "LID": "10.1109/TMI.2012.2202913 [doi]",
+     "AB": "This paper presents a novel, fast, group-wise registration technique based on establishing soft correspondences between groups of point sets. The registration approach is used to create a statistical shape model, capable of learning the shape variations within a training set. The shape model consists of a mean shape and its transformations to all training shapes. We decouple the procedure into two steps: updating the mean shape and registering it to the training shapes. The algorithm alternates between these two steps until convergence. Following the generation of the statistical shape model, we use the soft correspondence approach to register the model to a new observation. We perform extensive experiments on two data sets: lumbar spine and hippocampi. We compare our algorithm to available state-of- the-art group-wise registration algorithms including feature-based and volume-based approaches. We demonstrate improved generalization, specificity and compactness compared to these algorithms.",
+     "FAU": [
+          "Rasoulian, Abtin",
+          "Rohling, Robert",
+          "Abolmaesumi, Purang"
+     ],
+     "AU": [
+          "Rasoulian A",
+          "Rohling R",
+          "Abolmaesumi P"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120605",
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Databases, Factual",
+          "Hippocampus/diagnostic imaging",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Lumbosacral Region/diagnostic imaging",
+          "*Models, Statistical",
+          "Normal Distribution",
+          "Spine/diagnostic imaging",
+          "Tomography, X-Ray Computed"
+     ],
+     "EDAT": "2012/06/14 06:00",
+     "MHDA": "2014/04/29 06:00",
+     "CRDT": [
+          "2012/06/14 06:00"
+     ],
+     "PHST": [
+          "2012/06/14 06:00 [entrez]",
+          "2012/06/14 06:00 [pubmed]",
+          "2014/04/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TMI.2012.2202913 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2012 Nov;31(11):2025-34. doi: 10.1109/TMI.2012.2202913. Epub 2012 Jun 5.",
+     "term": "hippocampus"
+}

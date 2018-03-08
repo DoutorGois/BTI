@@ -1,0 +1,86 @@
+{
+     "PMID": "18331641",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080616",
+     "LR": "20140904",
+     "IS": "1471-2164 (Electronic) 1471-2164 (Linking)",
+     "VI": "9",
+     "DP": "2008 Mar 10",
+     "TI": "Can subtle changes in gene expression be consistently detected with different microarray platforms?",
+     "PG": "124",
+     "LID": "10.1186/1471-2164-9-124 [doi]",
+     "AB": "BACKGROUND: The comparability of gene expression data generated with different microarray platforms is still a matter of concern. Here we address the performance and the overlap in the detection of differentially expressed genes for five different microarray platforms in a challenging biological context where differences in gene expression are few and subtle. RESULTS: Gene expression profiles in the hippocampus of five wild-type and five transgenic deltaC-doublecortin-like kinase mice were evaluated with five microarray platforms: Applied Biosystems, Affymetrix, Agilent, Illumina, LGTC home-spotted arrays. Using a fixed false discovery rate of 10% we detected surprising differences between the number of differentially expressed genes per platform. Four genes were selected by ABI, 130 by Affymetrix, 3,051 by Agilent, 54 by Illumina, and 13 by LGTC. Two genes were found significantly differentially expressed by all platforms and the four genes identified by the ABI platform were found by at least three other platforms. Quantitative RT-PCR analysis confirmed 20 out of 28 of the genes detected by two or more platforms and 8 out of 15 of the genes detected by Agilent only. We observed improved correlations between platforms when ranking the genes based on the significance level than with a fixed statistical cut-off. We demonstrate significant overlap in the affected gene sets identified by the different platforms, although biological processes were represented by only partially overlapping sets of genes. Aberrances in GABA-ergic signalling in the transgenic mice were consistently found by all platforms. CONCLUSION: The different microarray platforms give partially complementary views on biological processes affected. Our data indicate that when analyzing samples with only subtle differences in gene expression the use of two different platforms might be more attractive than increasing the number of replicates. Commercial two-color platforms seem to have higher power for finding differentially expressed genes between groups with small differences in expression.",
+     "FAU": [
+          "Pedotti, Paola",
+          "'t Hoen, Peter A C",
+          "Vreugdenhil, Erno",
+          "Schenk, Geert J",
+          "Vossen, Rolf Ham",
+          "Ariyurek, Yavuz",
+          "de Hollander, Mattias",
+          "Kuiper, Rowan",
+          "van Ommen, Gertjan J B",
+          "den Dunnen, Johan T",
+          "Boer, Judith M",
+          "de Menezes, Renee X"
+     ],
+     "AU": [
+          "Pedotti P",
+          "'t Hoen PA",
+          "Vreugdenhil E",
+          "Schenk GJ",
+          "Vossen RH",
+          "Ariyurek Y",
+          "de Hollander M",
+          "Kuiper R",
+          "van Ommen GJ",
+          "den Dunnen JT",
+          "Boer JM",
+          "de Menezes RX"
+     ],
+     "AD": "Center for Human and Clinical Genetics, Leiden University Medical Center, Leiden, The Netherlands. paola.pedotti@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20080310",
+     "PL": "England",
+     "TA": "BMC Genomics",
+     "JT": "BMC genomics",
+     "JID": "100965258",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Gene Expression",
+          "Hippocampus/*metabolism",
+          "Mice",
+          "Oligonucleotide Array Sequence Analysis/*methods",
+          "Reverse Transcriptase Polymerase Chain Reaction"
+     ],
+     "PMC": "PMC2335120",
+     "EDAT": "2008/03/12 09:00",
+     "MHDA": "2008/06/17 09:00",
+     "CRDT": [
+          "2008/03/12 09:00"
+     ],
+     "PHST": [
+          "2007/10/05 00:00 [received]",
+          "2008/03/10 00:00 [accepted]",
+          "2008/03/12 09:00 [pubmed]",
+          "2008/06/17 09:00 [medline]",
+          "2008/03/12 09:00 [entrez]"
+     ],
+     "AID": [
+          "1471-2164-9-124 [pii]",
+          "10.1186/1471-2164-9-124 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "BMC Genomics. 2008 Mar 10;9:124. doi: 10.1186/1471-2164-9-124.",
+     "term": "hippocampus"
+}

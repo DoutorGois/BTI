@@ -1,0 +1,68 @@
+{
+     "PMID": "9034855",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19970428",
+     "LR": "20071114",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "6",
+     "IP": "6",
+     "DP": "1996",
+     "TI": "Modeling the spontaneous reactivation of experience-specific hippocampal cell assembles during sleep.",
+     "PG": "685-92",
+     "AB": "During slow-wave sleep (SWS) following periods of spatial activity, hippocampal place cells that were temporally correlated, by virtue of the overlap of their place fields, exhibit enhanced temporal correlations, even though the animal sleeps in a different location (Wilson and McNaughton [1994] Science 267:676-679). The discharge of cells with overlapped place fields is more correlated in subsequent sleep, particularly during sharp waves, than in sleep episodes prior to the behavior, or than cell pairs with non-overlapped place fields. The reactivated correlated states appear during hippocampal sharp waves (SPWs), and are weak or absent in the inter-SPW interval. A simple conceptual hypothesis for this phenomenon is developed, based on the idea that hippocampal place fields reflect a two-dimensional distribution of continuously overlapping dynamic attractors in which each location is represented by the self-sustaining activity of a small subset of neurons with overlapping place fields. A numerical simulation of this hypothesis, based on a simplified representation of the CA8 recurrent network, accounts qualitatively for the main observations, including SPW-like dynamics. It is shown that, under conditions in which the connection patterns have been previously established, either associative or nonassociative mechanisms might underlie the reactivation of recently experienced states. These two alternatives appear, under at least some conditions (e.g., sparse coding), to be indistinguishable.",
+     "FAU": [
+          "Shen, B",
+          "McNaughton, B L"
+     ],
+     "AU": [
+          "Shen B",
+          "McNaughton BL"
+     ],
+     "AD": "Division of Neural Systems, Memory and Aging, University of Arizona, Tucson 85724, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH 46823/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/cytology/*physiology",
+          "Learning/physiology",
+          "*Models, Neurological",
+          "Neurons/physiology",
+          "Rats",
+          "Sleep/*physiology",
+          "Space Perception/physiology",
+          "Synapses/physiology"
+     ],
+     "EDAT": "1996/01/01 00:00",
+     "MHDA": "1996/01/01 00:01",
+     "CRDT": [
+          "1996/01/01 00:00"
+     ],
+     "PHST": [
+          "1996/01/01 00:00 [pubmed]",
+          "1996/01/01 00:01 [medline]",
+          "1996/01/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/(SICI)1098-1063(1996)6:6&lt;685::AID-HIPO11&gt;3.0.CO;2-X [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 1996;6(6):685-92. doi: 10.1002/(SICI)1098-1063(1996)6:6&lt;685::AID-HIPO11&gt;3.0.CO;2-X.",
+     "term": "place cells"
+}

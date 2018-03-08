@@ -1,0 +1,72 @@
+{
+     "PMID": "22003684",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111115",
+     "LR": "20161209",
+     "VI": "14",
+     "IP": "Pt 3",
+     "DP": "2011",
+     "TI": "Classification of Alzheimer's disease using a self-smoothing operator.",
+     "PG": "58-65",
+     "AB": "In this study, we present a system for Alzheimer's disease classification on the ADNI dataset. Our system is able to learn/fuse registration-based (matching) and overlap-based similarity measures, which are enhanced using a self-smoothing operator (SSO). From a matrix of pair-wise affinities between data points, our system uses a diffusion process to output an enhanced matrix. The diffusion propagates the affinity mass along the intrinsic data space without the need to explicitly learn the manifold. Using the enhanced metric in nearest neighborhood classification, we show significantly improved accuracy for Alzheimer's Disease over Diffusion Maps and a popular metric learning approach. State-of-the-art results are obtained in the classification of 120 brain MRIs from ADNI as normal, mild cognitive impairment, and Alzheimer's.",
+     "FAU": [
+          "Iglesias, Juan Eugenio",
+          "Jiang, Jiayan",
+          "Liu, Cheng-Yi",
+          "Tu, Zhuowen"
+     ],
+     "AU": [
+          "Iglesias JE",
+          "Jiang J",
+          "Liu CY",
+          "Tu Z"
+     ],
+     "AD": "Laboratory of Neuro Imaging, University of California, Los Angeles, USA. jeiglesias@ucla.edu",
+     "CN": [
+          "Alzheimers Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Alzheimer Disease/classification/*diagnosis/pathology",
+          "Brain Mapping/methods",
+          "Cognition Disorders/*diagnosis/pathology",
+          "Databases, Factual",
+          "Diagnostic Imaging/methods",
+          "Diffusion",
+          "Female",
+          "Hippocampus/pathology",
+          "Humans",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Models, Statistical",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "2011/10/19 06:00",
+     "MHDA": "2011/11/16 06:00",
+     "CRDT": [
+          "2011/10/19 06:00"
+     ],
+     "PHST": [
+          "2011/10/19 06:00 [entrez]",
+          "2011/10/19 06:00 [pubmed]",
+          "2011/11/16 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2011;14(Pt 3):58-65.",
+     "term": "hippocampus"
+}

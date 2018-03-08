@@ -1,0 +1,68 @@
+{
+     "PMID": "23921001",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150413",
+     "LR": "20170220",
+     "IS": "0926-9630 (Print) 0926-9630 (Linking)",
+     "VI": "192",
+     "DP": "2013",
+     "TI": "Analysis of network based co-expression modules for Alzheimer's disease.",
+     "PG": "1227",
+     "AB": "There has been an intensive research going on for Alzheimer's disease (AD) to understand its cause and progression through the past decade. However, the pathogenic factors that are responsible for these processes are still unclear. In this research we utilize the hippocampal gene expression data of 22 AD patients and present a framework for a comparative study to evaluate the two similarity measures, Mutual Information and Pearson Correlation Coefficient in developing gene coexpression networks. We hypothesize that Mutual Information based co-expression networks can capture more biologically significant dependencies as compared to Pearson Correlation Coefficient due to its ability to capture non-linear relationships. We utilize a parameter free module discovery algorithm to detect functional modules discovered by the two approaches. Further, to validate our approach, we compared the identified functional modules resulted by our experiments to the existing biological modules by computing the Jaccard index between them. Finally, we evaluated the discovered modules for their biological significance by performing biomedical literature search. We also investigated the drug interdiction pathways, which suggest potential targets for intervention.",
+     "FAU": [
+          "Dua, Prerna",
+          "Bais, Sonali",
+          "Lukiw, Walter J"
+     ],
+     "AU": [
+          "Dua P",
+          "Bais S",
+          "Lukiw WJ"
+     ],
+     "AD": "Dept. of Health Informatics and Information Management, Louisiana Tech University, Ruston, LA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG038834/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "Stud Health Technol Inform",
+     "JT": "Studies in health technology and informatics",
+     "JID": "9214582",
+     "RN": [
+          "0 (Biomarkers)",
+          "0 (Nerve Tissue Proteins)"
+     ],
+     "SB": "T",
+     "MH": [
+          "Alzheimer Disease/*metabolism",
+          "Biomarkers/metabolism",
+          "Computer Simulation",
+          "Gene Expression Profiling/*methods",
+          "Gene Expression Regulation",
+          "Hippocampus/*metabolism",
+          "Humans",
+          "*Models, Biological",
+          "Nerve Tissue Proteins/*metabolism",
+          "Protein Interaction Mapping/*methods",
+          "*Signal Transduction"
+     ],
+     "EDAT": "2013/08/08 06:00",
+     "MHDA": "2015/04/14 06:00",
+     "CRDT": [
+          "2013/08/08 06:00"
+     ],
+     "PHST": [
+          "2013/08/08 06:00 [entrez]",
+          "2013/08/08 06:00 [pubmed]",
+          "2015/04/14 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Stud Health Technol Inform. 2013;192:1227.",
+     "term": "hippocampus"
+}

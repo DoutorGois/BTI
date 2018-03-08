@@ -1,0 +1,88 @@
+{
+     "PMID": "24000956",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150330",
+     "LR": "20161019",
+     "IS": "1474-760X (Electronic) 1474-7596 (Linking)",
+     "VI": "14",
+     "IP": "8",
+     "DP": "2013 Aug 30",
+     "TI": "Measuring cell-type specific differential methylation in human brain tissue.",
+     "PG": "R94",
+     "LID": "10.1186/gb-2013-14-8-r94 [doi]",
+     "AB": "The behavior of epigenetic mechanisms in the brain is obscured by tissue heterogeneity and disease-related histological changes. Not accounting for these confounders leads to biased results. We develop a statistical methodology that estimates and adjusts for celltype composition by decomposing neuronal and non-neuronal differential signal. This method provides a conceptual framework for deconvolving heterogeneous epigenetic data from postmortem brain studies. We apply it to find cell-specific differentially methylated regions between prefrontal cortex and hippocampus. We demonstrate the utility of the method on both Infinium 450k and CHARM data.",
+     "FAU": [
+          "Montano, Carolina M",
+          "Irizarry, Rafael A",
+          "Kaufmann, Walter E",
+          "Talbot, Konrad",
+          "Gur, Raquel E",
+          "Feinberg, Andrew P",
+          "Taub, Margaret A"
+     ],
+     "AU": [
+          "Montano CM",
+          "Irizarry RA",
+          "Kaufmann WE",
+          "Talbot K",
+          "Gur RE",
+          "Feinberg AP",
+          "Taub MA"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P30 HD018655/HD/NICHD NIH HHS/United States",
+          "R01 GM083084/GM/NIGMS NIH HHS/United States",
+          "U01 MH085270/MH/NIMH NIH HHS/United States",
+          "P30AR053503/AR/NIAMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20130830",
+     "PL": "England",
+     "TA": "Genome Biol",
+     "JT": "Genome biology",
+     "JID": "100960660",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Autopsy",
+          "CpG Islands",
+          "*DNA Methylation",
+          "Epigenesis, Genetic",
+          "*Genome, Human",
+          "Hippocampus/cytology/*metabolism",
+          "Humans",
+          "Neuroglia/cytology/metabolism",
+          "Neurons/cytology/metabolism",
+          "Oligonucleotide Array Sequence Analysis/*statistics & numerical data",
+          "Organ Specificity",
+          "Prefrontal Cortex/cytology/*metabolism"
+     ],
+     "PMC": "PMC4054676",
+     "EDAT": "2013/09/05 06:00",
+     "MHDA": "2015/03/31 06:00",
+     "CRDT": [
+          "2013/09/05 06:00"
+     ],
+     "PHST": [
+          "2013/03/07 00:00 [received]",
+          "2013/08/30 00:00 [accepted]",
+          "2013/09/05 06:00 [entrez]",
+          "2013/09/05 06:00 [pubmed]",
+          "2015/03/31 06:00 [medline]"
+     ],
+     "AID": [
+          "gb-2013-14-8-r94 [pii]",
+          "10.1186/gb-2013-14-8-r94 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Genome Biol. 2013 Aug 30;14(8):R94. doi: 10.1186/gb-2013-14-8-r94.",
+     "term": "hippocampus"
+}

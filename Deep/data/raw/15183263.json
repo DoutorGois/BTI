@@ -1,0 +1,94 @@
+{
+     "PMID": "15183263",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040916",
+     "LR": "20141120",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "136",
+     "IP": "2",
+     "DP": "2004 Jul 30",
+     "TI": "An algorithm for real-time extraction of population EPSP and population spike amplitudes from hippocampal field potential recordings.",
+     "PG": "111-21",
+     "AB": "A new method is presented for extracting the amplitude of excitatory post synaptic potentials (EPSPs) and spikes in real time. It includes a low pass filter (LPF), a differentiator, a threshold function, and an intelligent integrator. It was applied to EPSP and population spike data recorded in the Dentate Gyrus and the CA1 hippocampus in vitro. The accuracy of the extraction algorithm was evaluated via the extraction normalized mean square error (eNMSE) and was found to be very high (eNMSE < 5%). The preservation of neuronal information was confirmed using the Volterra-Poisson modeling approach. Volterra-Poisson kernels were computed using amplitudes extracted with both proposed and traditional methods. The accuracy of the computed kernels and the resulting model was evaluated via the prediction normalized mean square error (pNMSE) and was found to be very high (pNMSE < 5%). The similarity between the kernels computed when the proposed method was used to extract the field potential amplitude and their counterparts when the traditional method was used to extract the field potential amplitude confirms the preservation of the neuronal dynamics. The proposed method represents a new class of real time field potential amplitude extraction algorithms with complexity that can be included in hardware implementations.",
+     "CI": [
+          "Copyright 2004 Elsevier B.V."
+     ],
+     "FAU": [
+          "Gholmieh, Ghassan",
+          "Courellis, Spiros",
+          "Dimoka, Angelika",
+          "Wills, Jack D",
+          "LaCoss, Jeff",
+          "Granacki, John J",
+          "Marmarelis, Vasilis",
+          "Berger, Theodore"
+     ],
+     "AU": [
+          "Gholmieh G",
+          "Courellis S",
+          "Dimoka A",
+          "Wills JD",
+          "LaCoss J",
+          "Granacki JJ",
+          "Marmarelis V",
+          "Berger T"
+     ],
+     "AD": "Department of Biomedical Engineering, University of South Carolina, Los Angeles, CA 90089-1451, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "RR-01861/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "*Algorithms",
+          "Animals",
+          "Electrophysiology/instrumentation/methods",
+          "Excitatory Postsynaptic Potentials/*physiology",
+          "Hippocampus/*physiology",
+          "In Vitro Techniques",
+          "Models, Neurological",
+          "Neural Pathways/physiology",
+          "Neurons/*physiology",
+          "Neurophysiology/instrumentation/methods",
+          "Poisson Distribution",
+          "Rats",
+          "Reaction Time/physiology",
+          "Reproducibility of Results",
+          "*Signal Processing, Computer-Assisted",
+          "Synaptic Transmission/physiology"
+     ],
+     "EDAT": "2004/06/09 05:00",
+     "MHDA": "2004/09/17 05:00",
+     "CRDT": [
+          "2004/06/09 05:00"
+     ],
+     "PHST": [
+          "2003/03/20 00:00 [received]",
+          "2004/01/07 00:00 [revised]",
+          "2004/01/09 00:00 [accepted]",
+          "2004/06/09 05:00 [pubmed]",
+          "2004/09/17 05:00 [medline]",
+          "2004/06/09 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1016/j.jneumeth.2004.01.006 [doi]",
+          "S0165027004000251 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2004 Jul 30;136(2):111-21. doi: 10.1016/j.jneumeth.2004.01.006.",
+     "term": "hippocampus"
+}

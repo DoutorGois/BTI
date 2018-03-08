@@ -1,0 +1,70 @@
+{
+     "PMID": "17498875",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20071206",
+     "LR": "20131121",
+     "IS": "0304-3894 (Print) 0304-3894 (Linking)",
+     "VI": "149",
+     "IP": "2",
+     "DP": "2007 Oct 22",
+     "TI": "Evaluation of a risk-based environmental hot spot delineation algorithm.",
+     "PG": "338-45",
+     "AB": "Following remedial investigations of hazardous waste sites, remedial strategies may be developed that target the removal of \"hot spots,\" localized areas of elevated contamination. For a given exposure area, a hot spot may be defined as a sub-area that causes risks for the whole exposure area to be unacceptable. The converse of this statement may also apply: when a hot spot is removed from within an exposure area, risks for the exposure area may drop below unacceptable thresholds. The latter is the motivation for a risk-based approach to hot spot delineation, which was evaluated using Monte Carlo simulation. Random samples taken from a virtual site (\"true site\") were used to create an interpolated site. The latter was gridded and concentrations from the center of each grid box were used to calculate 95% upper confidence limits on the mean site contaminant concentration and corresponding hazard quotients for a potential receptor. Grid cells with the highest concentrations were removed and hazard quotients were recalculated until the site hazard quotient dropped below the threshold of 1. The grid cells removed in this way define the spatial extent of the hot spot. For each of the 100,000 Monte Carlo iterations, the delineated hot spot was compared to the hot spot in the \"true site.\" On average, the algorithm was able to delineate hot spots that were collocated with and equal to or greater in size than the \"true hot spot.\" When delineated hot spots were mapped onto the \"true site,\" setting contaminant concentrations in the mapped area to zero, the hazard quotients for these \"remediated true sites\" were on average within 5% of the acceptable threshold of 1.",
+     "FAU": [
+          "Sinha, Parikhit",
+          "Lambert, Michael B",
+          "Schew, William A"
+     ],
+     "AU": [
+          "Sinha P",
+          "Lambert MB",
+          "Schew WA"
+     ],
+     "AD": "O'Brien and Gere, 512 Township Line Road, Two Valley Square, Suite 120, Blue Bell, PA 19422, USA. sinhap@obg.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20070406",
+     "PL": "Netherlands",
+     "TA": "J Hazard Mater",
+     "JT": "Journal of hazardous materials",
+     "JID": "9422688",
+     "RN": [
+          "0 (Soil Pollutants)",
+          "9IT35J3UV3 (Antimony)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Antimony/chemistry",
+          "Computer Simulation",
+          "*Environment",
+          "Monte Carlo Method",
+          "Risk",
+          "Soil Pollutants"
+     ],
+     "EDAT": "2007/05/15 09:00",
+     "MHDA": "2007/12/07 09:00",
+     "CRDT": [
+          "2007/05/15 09:00"
+     ],
+     "PHST": [
+          "2006/04/25 00:00 [received]",
+          "2006/08/10 00:00 [revised]",
+          "2007/03/31 00:00 [accepted]",
+          "2007/05/15 09:00 [pubmed]",
+          "2007/12/07 09:00 [medline]",
+          "2007/05/15 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0304-3894(07)00454-2 [pii]",
+          "10.1016/j.jhazmat.2007.03.086 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Hazard Mater. 2007 Oct 22;149(2):338-45. doi: 10.1016/j.jhazmat.2007.03.086. Epub 2007 Apr 6.",
+     "term": "grid cells"
+}

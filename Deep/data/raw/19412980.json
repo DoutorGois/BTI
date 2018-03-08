@@ -1,0 +1,69 @@
+{
+     "PMID": "19412980",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090729",
+     "LR": "20090504",
+     "IS": "0219-6352 (Print) 0219-6352 (Linking)",
+     "VI": "8",
+     "IP": "1",
+     "DP": "2009 Mar",
+     "TI": "A hierarchical modeling approach of hippocampus local circuit.",
+     "PG": "49-76",
+     "AB": "The modeling and simulation of a realistic nervous tissue are difficult because of the number of implied cell types (neuronal and glial), the topology of the networks, and the various heterogeneous molecular mechanisms. The MTIP (Mathematical Theory of Integrative Physiology) is used as a new modeling approach based on a representation in terms of functional interactions and a formalism (S-Propagator) related to n-level field theory. This work presents the passage from a theoretical description of the biological system to a computing implementation in the general case. The specific case of the hippocampus is presented, as well as how a drug allows learning and memory improvement in the local circuit of the CA1 area of the hippocampus. This in silico result is used to experimentally predict the drug effect in vitro to confirm the accuracy of MTIP.",
+     "FAU": [
+          "Bennani, Omar",
+          "Chauvet, Gilbert",
+          "Chauvet, Pierre",
+          "Dupont, Jean-Marc",
+          "Jouen, Francois"
+     ],
+     "AU": [
+          "Bennani O",
+          "Chauvet G",
+          "Chauvet P",
+          "Dupont JM",
+          "Jouen F"
+     ],
+     "AD": "CHArt, Ecole Pratique des Hautes Etudes, 41 rue Gay-Lussac Paris, 75005, France. omar.bennani@ephe.sorbonne.fr",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "England",
+     "TA": "J Integr Neurosci",
+     "JT": "Journal of integrative neuroscience",
+     "JID": "101156357",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/cytology/*physiology",
+          "Mathematics",
+          "*Models, Neurological",
+          "Nerve Net/cytology/*physiology",
+          "Neural Networks (Computer)",
+          "Neural Pathways/physiology",
+          "Neuronal Plasticity/physiology",
+          "Neurons/*physiology"
+     ],
+     "EDAT": "2009/05/05 09:00",
+     "MHDA": "2009/07/30 09:00",
+     "CRDT": [
+          "2009/05/05 09:00"
+     ],
+     "PHST": [
+          "2008/12/01 00:00 [received]",
+          "2009/02/09 00:00 [revised]",
+          "2009/05/05 09:00 [entrez]",
+          "2009/05/05 09:00 [pubmed]",
+          "2009/07/30 09:00 [medline]"
+     ],
+     "AID": [
+          "S0219635209002083 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Integr Neurosci. 2009 Mar;8(1):49-76.",
+     "term": "hippocampus"
+}

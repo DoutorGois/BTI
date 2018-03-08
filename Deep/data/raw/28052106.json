@@ -1,0 +1,117 @@
+{
+     "PMID": "28052106",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170828",
+     "LR": "20171116",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "12",
+     "IP": "1",
+     "DP": "2017",
+     "TI": "A Prediction Algorithm for Drug Response in Patients with Mesial Temporal Lobe Epilepsy Based on Clinical and Genetic Information.",
+     "PG": "e0169214",
+     "LID": "10.1371/journal.pone.0169214 [doi]",
+     "AB": "Mesial temporal lobe epilepsy is the most common form of adult epilepsy in surgical series. Currently, the only characteristic used to predict poor response to clinical treatment in this syndrome is the presence of hippocampal sclerosis. Single nucleotide polymorphisms (SNPs) located in genes encoding drug transporter and metabolism proteins could influence response to therapy. Therefore, we aimed to evaluate whether combining information from clinical variables as well as SNPs in candidate genes could improve the accuracy of predicting response to drug therapy in patients with mesial temporal lobe epilepsy. For this, we divided 237 patients into two groups: 75 responsive and 162 refractory to antiepileptic drug therapy. We genotyped 119 SNPs in ABCB1, ABCC2, CYP1A1, CYP1A2, CYP1B1, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4, and CYP3A5 genes. We used 98 additional SNPs to evaluate population stratification. We assessed a first scenario using only clinical variables and a second one including SNP information. The random forests algorithm combined with leave-one-out cross-validation was used to identify the best predictive model in each scenario and compared their accuracies using the area under the curve statistic. Additionally, we built a variable importance plot to present the set of most relevant predictors on the best model. The selected best model included the presence of hippocampal sclerosis and 56 SNPs. Furthermore, including SNPs in the model improved accuracy from 0.4568 to 0.8177. Our findings suggest that adding genetic information provided by SNPs, located on drug transport and metabolism genes, can improve the accuracy for predicting which patients with mesial temporal lobe epilepsy are likely to be refractory to drug treatment, making it possible to identify patients who may benefit from epilepsy surgery sooner.",
+     "FAU": [
+          "Silva-Alves, Mariana S",
+          "Secolin, Rodrigo",
+          "Carvalho, Benilton S",
+          "Yasuda, Clarissa L",
+          "Bilevicius, Elizabeth",
+          "Alvim, Marina K M",
+          "Santos, Renato O",
+          "Maurer-Morelli, Claudia V",
+          "Cendes, Fernando",
+          "Lopes-Cendes, Iscia"
+     ],
+     "AU": [
+          "Silva-Alves MS",
+          "Secolin R",
+          "Carvalho BS",
+          "Yasuda CL",
+          "Bilevicius E",
+          "Alvim MK",
+          "Santos RO",
+          "Maurer-Morelli CV",
+          "Cendes F",
+          "Lopes-Cendes I"
+     ],
+     "AD": "Department of Medical Genetics, University of Campinas-UNICAMP, and the Brazilian Institute of Neuroscience and Neurotechnology (BRAINN), Campinas, Sao Paulo, Brazil. Department of Medical Genetics, University of Campinas-UNICAMP, and the Brazilian Institute of Neuroscience and Neurotechnology (BRAINN), Campinas, Sao Paulo, Brazil. Department of Statistics, Institute of Mathematics, Statistics and Scientific Computing, University of Campinas-UNICAMP, and the Brazilian Institute of Neuroscience and Neurotechnology (BRAINN), Campinas, Sao Paulo, Brazil. Department of Neurology, University of Campinas-UNICAMP, and the Brazilian Institute of Neuroscience and Neurotechnology (BRAINN), Campinas, Sao Paulo, Brazil. Department of Neurology, University of Campinas-UNICAMP, and the Brazilian Institute of Neuroscience and Neurotechnology (BRAINN), Campinas, Sao Paulo, Brazil. Department of Neurology, University of Campinas-UNICAMP, and the Brazilian Institute of Neuroscience and Neurotechnology (BRAINN), Campinas, Sao Paulo, Brazil. Department of Medical Genetics, University of Campinas-UNICAMP, and the Brazilian Institute of Neuroscience and Neurotechnology (BRAINN), Campinas, Sao Paulo, Brazil. Department of Medical Genetics, University of Campinas-UNICAMP, and the Brazilian Institute of Neuroscience and Neurotechnology (BRAINN), Campinas, Sao Paulo, Brazil. Department of Neurology, University of Campinas-UNICAMP, and the Brazilian Institute of Neuroscience and Neurotechnology (BRAINN), Campinas, Sao Paulo, Brazil. Department of Medical Genetics, University of Campinas-UNICAMP, and the Brazilian Institute of Neuroscience and Neurotechnology (BRAINN), Campinas, Sao Paulo, Brazil.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-2485-9560",
+          "ORCID: http://orcid.org/0000-0001-9084-7173",
+          "ORCID: http://orcid.org/0000-0002-9195-1009",
+          "ORCID: http://orcid.org/0000-0001-7929-2197",
+          "ORCID: http://orcid.org/0000-0001-9336-9568"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170104",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (ABCB1 protein, human)",
+          "0 (ATP Binding Cassette Transporter, Sub-Family B)",
+          "0 (Anticonvulsants)",
+          "0 (Multidrug Resistance-Associated Proteins)",
+          "4AF605U6JN (multidrug resistance-associated protein 2)",
+          "EC 1.14.13.- (Cytochrome P-450 CYP2C9)",
+          "EC 1.14.13.- (Cytochrome P-450 CYP2E1)",
+          "EC 1.14.14.1 (CYP1B1 protein, human)",
+          "EC 1.14.14.1 (Cytochrome P-450 CYP1A1)",
+          "EC 1.14.14.1 (Cytochrome P-450 CYP1A2)",
+          "EC 1.14.14.1 (Cytochrome P-450 CYP1B1)",
+          "EC 1.14.14.1 (Cytochrome P-450 CYP2C19)",
+          "EC 1.14.14.1 (Cytochrome P-450 CYP2D6)",
+          "EC 1.14.14.1 (Cytochrome P-450 CYP3A)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "ATP Binding Cassette Transporter, Sub-Family B/genetics",
+          "*Algorithms",
+          "Anticonvulsants/*therapeutic use",
+          "Cytochrome P-450 CYP1A1/genetics",
+          "Cytochrome P-450 CYP1A2/genetics",
+          "Cytochrome P-450 CYP1B1/genetics",
+          "Cytochrome P-450 CYP2C19/genetics",
+          "Cytochrome P-450 CYP2C9/genetics",
+          "Cytochrome P-450 CYP2D6/genetics",
+          "Cytochrome P-450 CYP2E1/genetics",
+          "Cytochrome P-450 CYP3A/genetics",
+          "Epilepsy, Temporal Lobe/*drug therapy/*genetics",
+          "Genotype",
+          "Hippocampus/metabolism/pathology",
+          "Humans",
+          "Multidrug Resistance-Associated Proteins/genetics",
+          "Polymorphism, Single Nucleotide/genetics"
+     ],
+     "PMC": "PMC5215688",
+     "COIS": [
+          "The authors have no competing interest."
+     ],
+     "EDAT": "2017/01/05 06:00",
+     "MHDA": "2017/08/29 06:00",
+     "CRDT": [
+          "2017/01/05 06:00"
+     ],
+     "PHST": [
+          "2016/10/06 00:00 [received]",
+          "2016/12/13 00:00 [accepted]",
+          "2017/01/05 06:00 [entrez]",
+          "2017/01/05 06:00 [pubmed]",
+          "2017/08/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0169214 [doi]",
+          "PONE-D-16-39730 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2017 Jan 4;12(1):e0169214. doi: 10.1371/journal.pone.0169214. eCollection 2017.",
+     "term": "hippocampus"
+}

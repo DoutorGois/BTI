@@ -1,0 +1,88 @@
+{
+     "PMID": "23286113",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130129",
+     "LR": "20170220",
+     "VI": "15",
+     "IP": "Pt 3",
+     "DP": "2012",
+     "TI": "Incorporating parameter uncertainty in Bayesian segmentation models: application to hippocampal subfield volumetry.",
+     "PG": "50-7",
+     "AB": "Many successful segmentation algorithms are based on Bayesian models in which prior anatomical knowledge is combined with the available image information. However, these methods typically have many free parameters that are estimated to obtain point estimates only, whereas a faithful Bayesian analysis would also consider all possible alternate values these parameters may take. In this paper, we propose to incorporate the uncertainty of the free parameters in Bayesian segmentation models more accurately by using Monte Carlo sampling. We demonstrate our technique by sampling atlas warps in a recent method for hippocampal subfield segmentation, and show a significant improvement in an Alzheimer's disease classification task. As an additional benefit, the method also yields informative \"error bars\" on the segmentation results for each of the individual sub-structures.",
+     "FAU": [
+          "Iglesias, Juan Eugenio",
+          "Sabuncu, Mert Rory",
+          "Van Leemput, Koen"
+     ],
+     "AU": [
+          "Iglesias JE",
+          "Sabuncu MR",
+          "Van Leemput K"
+     ],
+     "AD": "Martinos Center for Biomedical Imaging, MGH, Harvard Medical School, USA.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41-RR14075/RR/NCRR NIH HHS/United States",
+          "K25 EB013649/EB/NIBIB NIH HHS/United States",
+          "R01EB006758/EB/NIBIB NIH HHS/United States",
+          "R01NS052585/NS/NINDS NIH HHS/United States",
+          "P41 RR014075/RR/NCRR NIH HHS/United States",
+          "R01 NS052585/NS/NINDS NIH HHS/United States",
+          "1K25EB013649-01/EB/NIBIB NIH HHS/United States",
+          "1KL2RR025757-01/RR/NCRR NIH HHS/United States",
+          "R01 EB013565/EB/NIBIB NIH HHS/United States",
+          "R01EB013565/EB/NIBIB NIH HHS/United States",
+          "R01 EB006758/EB/NIBIB NIH HHS/United States",
+          "KL2 RR025757/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "*Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Bayes Theorem",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC3623551",
+     "MID": [
+          "NIHMS445352"
+     ],
+     "EDAT": "2013/01/05 06:00",
+     "MHDA": "2013/01/30 06:00",
+     "CRDT": [
+          "2013/01/05 06:00"
+     ],
+     "PHST": [
+          "2013/01/05 06:00 [entrez]",
+          "2013/01/05 06:00 [pubmed]",
+          "2013/01/30 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2012;15(Pt 3):50-7.",
+     "term": "hippocampus"
+}

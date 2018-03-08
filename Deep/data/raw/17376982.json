@@ -1,0 +1,72 @@
+{
+     "PMID": "17376982",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070412",
+     "LR": "20170914",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "27",
+     "IP": "12",
+     "DP": "2007 Mar 21",
+     "TI": "Scale-invariant memory representations emerge from moire interference between grid fields that produce theta oscillations: a computational model.",
+     "PG": "3211-29",
+     "AB": "The dorsomedial entorhinal cortex (dMEC) of the rat brain contains a remarkable population of spatially tuned neurons called grid cells (Hafting et al., 2005). Each grid cell fires selectively at multiple spatial locations, which are geometrically arranged to form a hexagonal lattice that tiles the surface of the rat's environment. Here, we show that grid fields can combine with one another to form moire interference patterns, referred to as \"moire grids,\" that replicate the hexagonal lattice over an infinite range of spatial scales. We propose that dMEC grids are actually moire grids formed by interference between much smaller \"theta grids,\" which are hypothesized to be the primary source of movement-related theta rhythm in the rat brain. The formation of moire grids from theta grids obeys two scaling laws, referred to as the length and rotational scaling rules. The length scaling rule appears to account for firing properties of grid cells in layer II of dMEC, whereas the rotational scaling rule can better explain properties of layer III grid cells. Moire grids built from theta grids can be combined to form yet larger grids and can also be used as basis functions to construct memory representations of spatial locations (place cells) or visual images. Memory representations built from moire grids are automatically endowed with size invariance by the scaling properties of the moire grids. We therefore propose that moire interference between grid fields may constitute an important principle of neural computation underlying the construction of scale-invariant memory representations.",
+     "FAU": [
+          "Blair, Hugh T",
+          "Welday, Adam C",
+          "Zhang, Kechen"
+     ],
+     "AU": [
+          "Blair HT",
+          "Welday AC",
+          "Zhang K"
+     ],
+     "AD": "University of California, Los Angeles Psychology Department, Los Angeles, California 90095, USA. blair@psych.ucla.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH079511/MH/NIMH NIH HHS/United States",
+          "R01MH079511-02/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computational Biology/methods",
+          "Entorhinal Cortex/physiology",
+          "Male",
+          "Memory/*physiology",
+          "*Models, Neurological",
+          "Moire Topography/*methods",
+          "Rats",
+          "Rats, Long-Evans",
+          "Theta Rhythm/*methods"
+     ],
+     "EDAT": "2007/03/23 09:00",
+     "MHDA": "2007/04/14 09:00",
+     "CRDT": [
+          "2007/03/23 09:00"
+     ],
+     "PHST": [
+          "2007/03/23 09:00 [pubmed]",
+          "2007/04/14 09:00 [medline]",
+          "2007/03/23 09:00 [entrez]"
+     ],
+     "AID": [
+          "27/12/3211 [pii]",
+          "10.1523/JNEUROSCI.4724-06.2007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2007 Mar 21;27(12):3211-29. doi: 10.1523/JNEUROSCI.4724-06.2007.",
+     "term": "place cells"
+}

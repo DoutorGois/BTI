@@ -1,0 +1,87 @@
+{
+     "PMID": "20963854",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110331",
+     "LR": "20161018",
+     "IS": "1552-8618 (Electronic) 0730-7268 (Linking)",
+     "VI": "30",
+     "IP": "1",
+     "DP": "2011 Jan",
+     "TI": "Defining and modeling known adverse outcome pathways: Domoic acid and neuronal signaling as a case study.",
+     "PG": "9-21",
+     "LID": "10.1002/etc.373 [doi]",
+     "AB": "An adverse outcome pathway (AOP) is a sequence of key events from a molecular-level initiating event and an ensuing cascade of steps to an adverse outcome with population-level significance. To implement a predictive strategy for ecotoxicology, the multiscale nature of an AOP requires computational models to link salient processes (e.g., in chemical uptake, toxicokinetics, toxicodynamics, and population dynamics). A case study with domoic acid was used to demonstrate strategies and enable generic recommendations for developing computational models in an effort to move toward a toxicity testing paradigm focused on toxicity pathway perturbations applicable to ecological risk assessment. Domoic acid, an algal toxin with adverse effects on both wildlife and humans, is a potent agonist for kainate receptors (ionotropic glutamate receptors whose activation leads to the influx of Na(+) and Ca(2)(+)). Increased Ca(2)(+) concentrations result in neuronal excitotoxicity and cell death, primarily in the hippocampus, which produces seizures, impairs learning and memory, and alters behavior in some species. Altered neuronal Ca(2)(+) is a key process in domoic acid toxicity, which can be evaluated in vitro. Furthermore, results of these assays would be amenable to mechanistic modeling for identifying domoic acid concentrations and Ca(2)(+) perturbations that are normal, adaptive, or clearly toxic. In vitro assays with outputs amenable to measurement in exposed populations can link in vitro to in vivo conditions, and toxicokinetic information will aid in linking in vitro results to the individual organism. Development of an AOP required an iterative process with three important outcomes: a critically reviewed, stressor-specific AOP; identification of key processes suitable for evaluation with in vitro assays; and strategies for model development.",
+     "CI": [
+          "(c) 2010 SETAC."
+     ],
+     "FAU": [
+          "Watanabe, Karen H",
+          "Andersen, Melvin E",
+          "Basu, Niladri",
+          "Carvan, Michael J 3rd",
+          "Crofton, Kevin M",
+          "King, Kerensa A",
+          "Sunol, Cristina",
+          "Tiffany-Castiglioni, Evelyn",
+          "Schultz, Irvin R"
+     ],
+     "AU": [
+          "Watanabe KH",
+          "Andersen ME",
+          "Basu N",
+          "Carvan MJ 3rd",
+          "Crofton KM",
+          "King KA",
+          "Sunol C",
+          "Tiffany-Castiglioni E",
+          "Schultz IR"
+     ],
+     "AD": "Oregon Health & Science University, Beaverton, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Environ Toxicol Chem",
+     "JT": "Environmental toxicology and chemistry",
+     "JID": "8308958",
+     "RN": [
+          "0 (Environmental Pollutants)",
+          "M02525818H (domoic acid)",
+          "SIV03811UC (Kainic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Dose-Response Relationship, Drug",
+          "Environmental Monitoring/*methods",
+          "Environmental Pollutants/chemistry/*toxicity",
+          "Kainic Acid/*analogs & derivatives/chemistry/toxicity",
+          "Kinetics",
+          "Models, Theoretical",
+          "Neurons/*drug effects",
+          "Risk Assessment",
+          "Signal Transduction/*drug effects",
+          "Toxicity Tests"
+     ],
+     "EDAT": "2010/10/22 06:00",
+     "MHDA": "2011/04/01 06:00",
+     "CRDT": [
+          "2010/10/22 06:00"
+     ],
+     "PHST": [
+          "2010/10/22 06:00 [entrez]",
+          "2010/10/22 06:00 [pubmed]",
+          "2011/04/01 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/etc.373 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Environ Toxicol Chem. 2011 Jan;30(1):9-21. doi: 10.1002/etc.373.",
+     "term": "hippocampus"
+}

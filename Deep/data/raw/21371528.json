@@ -1,0 +1,74 @@
+{
+     "PMID": "21371528",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110913",
+     "LR": "20110425",
+     "IS": "1872-7972 (Electronic) 0304-3940 (Linking)",
+     "VI": "495",
+     "IP": "1",
+     "DP": "2011 May 9",
+     "TI": "Hippocampal atrophy rates in Alzheimer's disease: automated segmentation variability analysis.",
+     "PG": "6-10",
+     "LID": "10.1016/j.neulet.2011.02.065 [doi]",
+     "AB": "Hippocampal (HC) atrophy and atrophy rates are putative clinical markers of progression to Alzheimer's disease (AD). We compared results given by two different automated HC segmentation techniques in the Alzheimer's Disease Neuroimaging Initiative dataset between two time intervals. We used HC volumetric automated segmentation data for a total of 683 patients at baseline (198 controls, 331 with mild cognitive impairment (MCI) and 154 with AD), 684 at 6 months (198 controls, 332 with MCI and 154 with AD) and 587 at 12 months (176 controls, 280 with MCI and 131 with AD). Segmentation techniques included FreeSurfer and SNT. We calculated HC monthly atrophy rates between baseline and 6 months and between 6 and 12 months, and used a multiple-way ANOVA for repeated measures. Mean HC volumes decrease with time. The only significant (p<0.05) main effect was diagnosis. We measured strong interaction between technique and scan interval and weak interaction between diagnoses and scan interval. When compared to mean rates from largely manual segmentation, automated segmentation results show increased atrophy rates for both SNT and FreeSurfer techniques. While sensitive, there remains substantial technique variability, likely due to differences in methodological approaches and especially neuroanatomical HC definitions. These fundamental metrological problems need to be resolved before concluding with certainty on the accuracy and reliability of automated techniques.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Ireland Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Mouiha, Abderazzak",
+          "Duchesne, Simon"
+     ],
+     "AU": [
+          "Mouiha A",
+          "Duchesne S"
+     ],
+     "AD": "Centre de Recherche Universite Laval Robert-Giffard, 2601 de la Canadiere, Quebec, Canada G1J 2G3.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110301",
+     "PL": "Ireland",
+     "TA": "Neurosci Lett",
+     "JT": "Neuroscience letters",
+     "JID": "7600130",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/diagnosis/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Time Factors"
+     ],
+     "EDAT": "2011/03/05 06:00",
+     "MHDA": "2011/09/14 06:00",
+     "CRDT": [
+          "2011/03/05 06:00"
+     ],
+     "PHST": [
+          "2010/08/18 00:00 [received]",
+          "2011/02/16 00:00 [revised]",
+          "2011/02/23 00:00 [accepted]",
+          "2011/03/05 06:00 [entrez]",
+          "2011/03/05 06:00 [pubmed]",
+          "2011/09/14 06:00 [medline]"
+     ],
+     "AID": [
+          "S0304-3940(11)00256-4 [pii]",
+          "10.1016/j.neulet.2011.02.065 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neurosci Lett. 2011 May 9;495(1):6-10. doi: 10.1016/j.neulet.2011.02.065. Epub 2011 Mar 1.",
+     "term": "hippocampus"
+}

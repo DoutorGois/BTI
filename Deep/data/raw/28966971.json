@@ -1,0 +1,77 @@
+{
+     "PMID": "28966971",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20171005",
+     "IS": "2373-2822 (Electronic) 2373-2822 (Linking)",
+     "VI": "4",
+     "IP": "5",
+     "DP": "2017 Sep-Oct",
+     "TI": "Local or Not Local: Investigating the Nature of Striatal Theta Oscillations in Behaving Rats.",
+     "LID": "ENEURO.0128-17.2017 [pii] 10.1523/ENEURO.0128-17.2017 [doi]",
+     "AB": "In the cortex and hippocampus, neuronal oscillations of different frequencies can be observed in local field potentials (LFPs). LFPs oscillations in the theta band (6-10 Hz) have also been observed in the dorsolateral striatum (DLS) of rodents, mostly during locomotion, and have been proposed to mediate behaviorally-relevant interactions between striatum and cortex (or between striatum and hippocampus). However, it is unclear if these theta oscillations are generated in the striatum. To address this issue, we recorded LFPs and spiking activity in the DLS of rats performing a running sequence on a motorized treadmill. We observed an increase in rhythmical activity of the LFP in the theta-band during run compared to rest periods. However, several observations suggest that these oscillations are mainly generated outside of the striatum. First, theta oscillations disappeared when LFPs were rereferenced against a striatal recording electrode and the imaginary coherence between LFPs recorded at different locations within the striatum was null. Second, 8% of the recorded neurons had their spiking activity phase-locked to the theta rhythm. Third, Granger causality analyses between LFPs simultaneously recorded in the cortex and the striatum revealed that the interdependence between these two signals in the theta range was mostly accounted for by a common external source. The most parsimonious interpretation of these results is that theta oscillations observed in striatal LFPs are largely contaminated by volume-conducted signals. We propose that striatal LFPs are not optimal proxies of network dynamics in the striatum and should be interpreted with caution.",
+     "FAU": [
+          "Lalla, Laetitia",
+          "Rueda Orozco, Pavel E",
+          "Jurado-Parras, Maria-Teresa",
+          "Brovelli, Andrea",
+          "Robbe, David"
+     ],
+     "AU": [
+          "Lalla L",
+          "Rueda Orozco PE",
+          "Jurado-Parras MT",
+          "Brovelli A",
+          "Robbe D"
+     ],
+     "AUID": [
+          "ORCID: 0000-0002-9267-9641",
+          "ORCID: 0000-0002-2801-803X",
+          "ORCID: 0000-0002-5342-1330",
+          "ORCID: 0000-0002-9450-0553"
+     ],
+     "AD": "Institut National de la Sante et de la Recherche Medicale, Unite 901, Marseille 13009, France and. Aix-Marseille Universite, Unite Mixte de Recherche S901, Marseille 13009, France. Institut de Neurobiologie de la Mediterranee, Marseille 13009, France. Institut National de la Sante et de la Recherche Medicale, Unite 901, Marseille 13009, France and. Aix-Marseille Universite, Unite Mixte de Recherche S901, Marseille 13009, France. Institut de Neurobiologie de la Mediterranee, Marseille 13009, France. Institut National de la Sante et de la Recherche Medicale, Unite 901, Marseille 13009, France and. Aix-Marseille Universite, Unite Mixte de Recherche S901, Marseille 13009, France. Institut de Neurobiologie de la Mediterranee, Marseille 13009, France. Institut de Neurosciences de la Timone, Unite Mixte de Recherche 7289, Aix-Marseille Universite, Centre National de la Recherche Scientifique, Marseille 13385, France. Institut National de la Sante et de la Recherche Medicale, Unite 901, Marseille 13009, France and. Aix-Marseille Universite, Unite Mixte de Recherche S901, Marseille 13009, France. Institut de Neurobiologie de la Mediterranee, Marseille 13009, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170913",
+     "PL": "United States",
+     "TA": "eNeuro",
+     "JT": "eNeuro",
+     "JID": "101647362",
+     "PMC": "PMC5616191",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Granger",
+          "LFP",
+          "coherence",
+          "rat",
+          "striatum",
+          "theta oscillation"
+     ],
+     "EDAT": "2017/10/03 06:00",
+     "MHDA": "2017/10/03 06:00",
+     "CRDT": [
+          "2017/10/03 06:00"
+     ],
+     "PHST": [
+          "2017/04/12 00:00 [received]",
+          "2017/08/12 00:00 [revised]",
+          "2017/08/15 00:00 [accepted]",
+          "2017/10/03 06:00 [entrez]",
+          "2017/10/03 06:00 [pubmed]",
+          "2017/10/03 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1523/ENEURO.0128-17.2017 [doi]",
+          "eN-NWR-0128-17 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "eNeuro. 2017 Sep 13;4(5). pii: eN-NWR-0128-17. doi: 10.1523/ENEURO.0128-17.2017. eCollection 2017 Sep-Oct.",
+     "term": "hippocampus"
+}

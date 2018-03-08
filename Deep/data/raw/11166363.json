@@ -1,0 +1,84 @@
+{
+     "PMID": "11166363",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20010503",
+     "LR": "20161025",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "105",
+     "IP": "1",
+     "DP": "2001 Jan 30",
+     "TI": "Construction and analysis of non-Poisson stimulus-response models of neural spiking activity.",
+     "PG": "25-37",
+     "AB": "A paradigm for constructing and analyzing non-Poisson stimulus-response models of neural spike train activity is presented. Inhomogeneous gamma (IG) and inverse Gaussian (IIG) probability models are constructed by generalizing the derivation of the inhomogeneous Poisson (IP) model from the exponential probability density. The resultant spike train models have Markov dependence. Quantile-quantile (Q-Q) plots and Kolmogorov-Smirnov (K-S) plots are developed based on the rate-rescaling theorem to assess model goodness-of-fit. The analysis also expresses the spike rate function of the neuron directly in terms of its interspike interval (ISI) distribution. The methods are illustrated with an analysis of 34 spike trains from rat CA1 hippocampal pyramidal neurons recorded while the animal executed a behavioral task. The stimulus in these experiments is the animal's position in its environment and the response is the neural spiking activity. For all 34 pyramidal cells, the IG and IIG models gave better fits to the spike trains than the IP. The IG model more accurately described the frequency of longer ISIs, whereas the IIG model gave the best description of the burst frequency, i.e. ISIs < or = 20 ms. The findings suggest that bursts are a significant component of place cell spiking activity even when position and the background variable, theta phase, are taken into account. Unlike the Poisson model, the spatial and temporal rate maps of the IG and IIG models depend directly on the spiking history of the neurons. These rate maps are more physiologically plausible since the interaction between space and time determines local spiking propensity. While this statistical paradigm is being developed to study information encoding by rat hippocampal neurons, the framework should be applicable to stimulus-response experiments performed in other neural systems.",
+     "FAU": [
+          "Barbieri, R",
+          "Quirk, M C",
+          "Frank, L M",
+          "Wilson, M A",
+          "Brown, E N"
+     ],
+     "AU": [
+          "Barbieri R",
+          "Quirk MC",
+          "Frank LM",
+          "Wilson MA",
+          "Brown EN"
+     ],
+     "AD": "Department of Anesthesia and Critical Care, Massachusetts General Hospital, Harvard Medical School/MIT, 55 Fruit Street, Clinics 3, Boston, MA 02114-2698, USA. barbieri@srlb.mgh.harvard.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K02 MH061637/MH/NIMH NIH HHS/United States",
+          "R01 MH059733/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM S",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Exploratory Behavior/physiology",
+          "Hippocampus/*physiology",
+          "Markov Chains",
+          "*Models, Neurological",
+          "Normal Distribution",
+          "Poisson Distribution",
+          "Pyramidal Cells/*physiology",
+          "Rats",
+          "Rats, Long-Evans",
+          "Reaction Time/*physiology",
+          "*Signal Processing, Computer-Assisted",
+          "Space Perception/physiology",
+          "Statistics, Nonparametric",
+          "Time Factors"
+     ],
+     "OTO": [
+          "NASA"
+     ],
+     "OT": [
+          "Non-programmatic"
+     ],
+     "EDAT": "2001/02/13 11:00",
+     "MHDA": "2001/05/05 10:01",
+     "CRDT": [
+          "2001/02/13 11:00"
+     ],
+     "PHST": [
+          "2001/02/13 11:00 [pubmed]",
+          "2001/05/05 10:01 [medline]",
+          "2001/02/13 11:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(00)00344-7 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2001 Jan 30;105(1):25-37.",
+     "term": "hippocampus"
+}

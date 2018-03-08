@@ -1,0 +1,75 @@
+{
+     "PMID": "20720282",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110811",
+     "LR": "20100922",
+     "IS": "1741-2552 (Electronic) 1741-2552 (Linking)",
+     "VI": "7",
+     "IP": "5",
+     "DP": "2010 Oct",
+     "TI": "Tracking burst patterns in hippocampal cultures with high-density CMOS-MEAs.",
+     "PG": "056001",
+     "LID": "10.1088/1741-2560/7/5/056001 [doi]",
+     "AB": "In this work, we investigate the spontaneous bursting behaviour expressed by in vitro hippocampal networks by using a high-resolution CMOS-based microelectrode array (MEA), featuring 4096 electrodes, inter-electrode spacing of 21 microm and temporal resolution of 130 micros. In particular, we report an original development of an adapted analysis method enabling us to investigate spatial and temporal patterns of activity and the interplay between successive network bursts (NBs). We first defined and detected NBs, and then, we analysed the spatial and temporal behaviour of these events with an algorithm based on the centre of activity trajectory. We further refined the analysis by using a technique derived from statistical mechanics, capable of distinguishing the two main phases of NBs, i.e. (i) a propagating and (ii) a reverberating phase, and by classifying the trajectory patterns. Finally, this methodology was applied to signal representations based on spike detection, i.e. the instantaneous firing rate, and directly based on voltage-coded raw data, i.e. activity movies. Results highlight the potentialities of this approach to investigate fundamental issues on spontaneous neuronal dynamics and suggest the hypothesis that neurons operate in a sort of 'team' to the perpetuation of the transmission of the same information.",
+     "FAU": [
+          "Gandolfo, M",
+          "Maccione, A",
+          "Tedesco, M",
+          "Martinoia, S",
+          "Berdondini, L"
+     ],
+     "AU": [
+          "Gandolfo M",
+          "Maccione A",
+          "Tedesco M",
+          "Martinoia S",
+          "Berdondini L"
+     ],
+     "AD": "Neuroengineering and Bio-nano Technology Group, Department of Biophysical and Electronic Engineering, University of Genova, Vai Opera Pia 11a, 16145 Genova, Italy. mauro.gandolfo@unige.it",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100818",
+     "PL": "England",
+     "TA": "J Neural Eng",
+     "JT": "Journal of neural engineering",
+     "JID": "101217933",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Hippocampus/*cytology/*physiology",
+          "Microarray Analysis/*instrumentation/*methods",
+          "Microelectrodes",
+          "Nerve Net/*physiology",
+          "Neurons/physiology",
+          "Organ Culture Techniques",
+          "Photons",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Time Factors"
+     ],
+     "EDAT": "2010/08/20 06:00",
+     "MHDA": "2011/08/13 06:00",
+     "CRDT": [
+          "2010/08/20 06:00"
+     ],
+     "PHST": [
+          "2010/08/20 06:00 [entrez]",
+          "2010/08/20 06:00 [pubmed]",
+          "2011/08/13 06:00 [medline]"
+     ],
+     "AID": [
+          "S1741-2560(10)47909-4 [pii]",
+          "10.1088/1741-2560/7/5/056001 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neural Eng. 2010 Oct;7(5):056001. doi: 10.1088/1741-2560/7/5/056001. Epub 2010 Aug 18.",
+     "term": "hippocampus"
+}

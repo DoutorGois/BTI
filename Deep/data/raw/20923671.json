@@ -1,0 +1,93 @@
+{
+     "PMID": "20923671",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110120",
+     "LR": "20170220",
+     "IS": "1542-0086 (Electronic) 0006-3495 (Linking)",
+     "VI": "99",
+     "IP": "7",
+     "DP": "2010 Oct 6",
+     "TI": "Improved probes for hybrid voltage sensor imaging.",
+     "PG": "2355-65",
+     "LID": "10.1016/j.bpj.2010.07.037 [doi]",
+     "AB": "Hybrid voltage sensors (hVoS) probe membrane potential by coupling the fluorescence of membrane-anchored proteins to the movement of a membrane-embedded hydrophobic anion dipicrylamine. Fluorescence resonance energy transfer between these two components transduces voltage changes into fluorescence changes, providing a signal for imaging electrical activity in genetically targeted cells. To improve hVoS signals, we systematically varied the optical properties, membrane targeting motifs, and linkages of fluorescent proteins to optimize the normalized fluorescence change (DeltaF/F) and signal/noise ratio. The best results were obtained with cerulean fluorescent protein tagged N-terminally with a GAP43 motif and C-terminally with a truncated h-ras motif. With 100 mV steps in PC12 cells, this probe produced DeltaF/F = 26% (4 muM dipicrylamine), which was threefold greater than that obtained with the original farnesylated EGFP construct. We also obtained a fivefold greater signal/noise ratio, which was 70% of a theoretical optimum. We designate this GAP43-CerFP-t-h-ras construct as hVoS 2.0. With the aid of a theoretical analysis, we estimated that hVoS 2.0 places its fluorophore approximately 40 A from the bilayer midplane. hVoS 2.0 performed well in cultured hippocampal neurons, where single action potentials produced clear fluorescence changes in a single trial. This improved probe should help investigators image voltage in genetically targeted neurons.",
+     "CI": [
+          "Copyright (c) 2010 Biophysical Society. Published by Elsevier Inc. All rights",
+          "reserved."
+     ],
+     "FAU": [
+          "Wang, Dongsheng",
+          "Zhang, Zhen",
+          "Chanda, Baron",
+          "Jackson, Meyer B"
+     ],
+     "AU": [
+          "Wang D",
+          "Zhang Z",
+          "Chanda B",
+          "Jackson MB"
+     ],
+     "AD": "Department of Physiology, University of Wisconsin, Madison, WI, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R21 NS061150/NS/NINDS NIH HHS/United States",
+          "R21NS061150/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Biophys J",
+     "JT": "Biophysical journal",
+     "JID": "0370626",
+     "RN": [
+          "0 (Luminescent Proteins)",
+          "0 (Molecular Probes)",
+          "0 (Picrates)",
+          "14STR4KG8T (dipicrylamine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Amino Acid Motifs",
+          "Amino Acid Sequence",
+          "Animals",
+          "Biosensing Techniques/*methods",
+          "Cell Membrane/drug effects/metabolism",
+          "Hippocampus/cytology",
+          "Imaging, Three-Dimensional/*methods",
+          "Luminescent Proteins/chemistry",
+          "Membrane Potentials/drug effects/*physiology",
+          "*Molecular Probe Techniques",
+          "Molecular Probes/*chemistry",
+          "Molecular Sequence Data",
+          "Neurons/drug effects/metabolism",
+          "PC12 Cells",
+          "Picrates/pharmacology",
+          "Rats"
+     ],
+     "PMC": "PMC3042572",
+     "EDAT": "2010/10/07 06:00",
+     "MHDA": "2011/01/21 06:00",
+     "CRDT": [
+          "2010/10/07 06:00"
+     ],
+     "PHST": [
+          "2010/04/22 00:00 [received]",
+          "2010/06/18 00:00 [revised]",
+          "2010/07/19 00:00 [accepted]",
+          "2010/10/07 06:00 [entrez]",
+          "2010/10/07 06:00 [pubmed]",
+          "2011/01/21 06:00 [medline]"
+     ],
+     "AID": [
+          "S0006-3495(10)00909-4 [pii]",
+          "10.1016/j.bpj.2010.07.037 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biophys J. 2010 Oct 6;99(7):2355-65. doi: 10.1016/j.bpj.2010.07.037.",
+     "term": "hippocampus"
+}

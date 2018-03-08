@@ -1,0 +1,71 @@
+{
+     "PMID": "16686024",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060606",
+     "LR": "20091211",
+     "VI": "8",
+     "IP": "Pt 2",
+     "DP": "2005",
+     "TI": "Statistical modeling of shape and appearance using the continuous medial representation.",
+     "PG": "725-32",
+     "AB": "We describe a novel approach to combining shape and appearance features in the statistical analysis of structures in medical images. The continuous medial representation is used to relate these two types of features meaningfully. The representation imposes a shape-based coordinate system on structure interiors, in a way that uses the boundary normal as one of the coordinate axes, while providing an onto and nearly one-to-one parametrization. This coordinate system is used to sample image intensities in the context of shape. The approach is illustrated by the principal components analysis of the shape and appearance of the hippocampus in T1-weighted MRI from a schizophrenia study.",
+     "FAU": [
+          "Yushkevich, Paul A",
+          "Zhang, Hui",
+          "Gee, James C"
+     ],
+     "AU": [
+          "Yushkevich PA",
+          "Zhang H",
+          "Gee JC"
+     ],
+     "AD": "Department of Radiology, University of Pennsylvania, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS045839/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Artificial Intelligence",
+          "Computer Simulation",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Biological",
+          "Models, Statistical",
+          "Pattern Recognition, Automated/*methods",
+          "Principal Component Analysis",
+          "Reproducibility of Results",
+          "Schizophrenia/*pathology",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2006/05/12 09:00",
+     "MHDA": "2006/06/07 09:00",
+     "CRDT": [
+          "2006/05/12 09:00"
+     ],
+     "PHST": [
+          "2006/05/12 09:00 [pubmed]",
+          "2006/06/07 09:00 [medline]",
+          "2006/05/12 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2005;8(Pt 2):725-32.",
+     "term": "hippocampus"
+}

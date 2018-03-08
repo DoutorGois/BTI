@@ -1,0 +1,77 @@
+{
+     "PMID": "15584021",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050927",
+     "LR": "20151013",
+     "IS": "1552-4922 (Print) 1552-4922 (Linking)",
+     "VI": "63",
+     "IP": "1",
+     "DP": "2005",
+     "TI": "Hierarchical, model-based merging of multiple fragments for improved three-dimensional segmentation of nuclei.",
+     "PG": "20-33",
+     "AB": "BACKGROUND: Automated segmentation of fluorescently labeled cell nuclei in three-dimensional confocal images is essential for numerous studies, e.g., spatiotemporal fluorescence in situ hybridization quantification of immediate early gene transcription. High accuracy and automation levels are required in high-throughput and large-scale studies. Common sources of segmentation error include tight clustering and fragmentation of nuclei. Previous region-based methods are limited because they perform merging of two nuclear fragments at a time. To achieve higher accuracy without sacrificing scale, more sophisticated yet computationally efficient algorithms are needed. METHODS: A recursive tree-based algorithm that can consider multiple object fragments simultaneously is described. Starting with oversegmented data, it searches efficiently for the optimal merging pattern guided by a quantitative scoring criterion based on object modeling. Computation is bounded by limiting the depth of the merging tree. RESULTS: The proposed method was found to perform consistently better, achieving merging accuracy in the range of 92% to 100% compared with our previous algorithm, which varied in the range of 75% to 97%, even with a modest merging tree depth of 3. The overall average accuracy improved from 90% to 96%, with roughly the same computational cost for a set of representative images drawn from the CA1, CA3, and parietal cortex regions of the rat hippocampus. CONCLUSION: Hierarchical tree model-based algorithms significantly improve the accuracy of automated nuclear segmentation without sacrificing speed.",
+     "FAU": [
+          "Lin, Gang",
+          "Chawla, Monica K",
+          "Olson, Kathy",
+          "Guzowski, John F",
+          "Barnes, Carol A",
+          "Roysam, Badrinath"
+     ],
+     "AU": [
+          "Lin G",
+          "Chawla MK",
+          "Olson K",
+          "Guzowski JF",
+          "Barnes CA",
+          "Roysam B"
+     ],
+     "AD": "Department of Electrical, Computer and Systems Engineering, Rensselaer Polytechnic Institute, Troy, New York 12180-3590, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "AG009219/AG/NIA NIH HHS/United States",
+          "AG023309/AG/NIA NIH HHS/United States",
+          "AG18230/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Cytometry A",
+     "JT": "Cytometry. Part A : the journal of the International Society for Analytical Cytology",
+     "JID": "101235694",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Brain/ultrastructure",
+          "Cell Nucleus/*ultrastructure",
+          "Cluster Analysis",
+          "Computer Simulation",
+          "Imaging, Three-Dimensional",
+          "Microscopy, Confocal",
+          "*Pattern Recognition, Automated",
+          "Rats"
+     ],
+     "EDAT": "2004/12/08 09:00",
+     "MHDA": "2005/09/28 09:00",
+     "CRDT": [
+          "2004/12/08 09:00"
+     ],
+     "PHST": [
+          "2004/12/08 09:00 [pubmed]",
+          "2005/09/28 09:00 [medline]",
+          "2004/12/08 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/cyto.a.20099 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cytometry A. 2005;63(1):20-33. doi: 10.1002/cyto.a.20099.",
+     "term": "hippocampus"
+}

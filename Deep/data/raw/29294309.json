@@ -1,0 +1,87 @@
+{
+     "PMID": "29294309",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20180228",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "296",
+     "DP": "2018 Feb 15",
+     "TI": "Functional network stability and average minimal distance - A framework to rapidly assess dynamics of functional network representations.",
+     "PG": "69-83",
+     "LID": "S0165-0270(17)30439-9 [pii] 10.1016/j.jneumeth.2017.12.021 [doi]",
+     "AB": "BACKGROUND: Recent advances in neurophysiological recording techniques have increased both the spatial and temporal resolution of data. New methodologies are required that can handle large data sets in an efficient manner as well as to make quantifiable, and realistic, predictions about the global modality of the brain from under-sampled recordings. NEW METHOD: To rectify both problems, we first propose an analytical modification to an existing functional connectivity algorithm, Average Minimal Distance (AMD), to rapidly capture functional network connectivity. We then complement this algorithm by introducing Functional Network Stability (FuNS), a metric that can be used to quickly assess the global network dynamic changes over time, without being constrained by the activities of a specific set of neurons. RESULTS: We systematically test the performance of AMD and FuNS (1) on artificial spiking data with different statistical characteristics, (2) from spiking data generated using a neural network model, and (3) using in vivo data recorded from mouse hippocampus during fear learning. Our results show that AMD and FuNS are able to monitor the change in network dynamics during memory consolidation. COMPARISON WITH OTHER METHODS: AMD outperforms traditional bootstrapping and cross-correlation (CC) methods in both significance and computation time. Simultaneously, FuNS provides a reliable way to establish a link between local structural network changes, global dynamics of network-wide representations activity, and behavior. CONCLUSIONS: The AMD-FuNS framework should be universally useful in linking long time-scale, global network dynamics and cognitive behavior.",
+     "CI": [
+          "Copyright (c) 2017 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Wu, Jiaxing",
+          "Skilling, Quinton M",
+          "Maruyama, Daniel",
+          "Li, Chenguang",
+          "Ognjanovski, Nicolette",
+          "Aton, Sara",
+          "Zochowski, Michal"
+     ],
+     "AU": [
+          "Wu J",
+          "Skilling QM",
+          "Maruyama D",
+          "Li C",
+          "Ognjanovski N",
+          "Aton S",
+          "Zochowski M"
+     ],
+     "AD": "Applied Physics Program, University of Michigan, Ann Arbor, MI, 48109, USA. Biophysics Program, University of Michigan, Ann Arbor, MI, 48109, USA. Department of Physics, University of Michigan, Ann Arbor, MI, 48109, USA. R.E.U program in Biophysics, University of Michigan, Ann Arbor, MI, 48109, USA. Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI, 48109, USA. Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, MI, 48109, USA. Applied Physics Program, University of Michigan, Ann Arbor, MI, 48109, USA; Biophysics Program, University of Michigan, Ann Arbor, MI, 48109, USA; Department of Physics, University of Michigan, Ann Arbor, MI, 48109, USA. Electronic address: michalz@umich.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB018297/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171230",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "PMC": "PMC5826642",
+     "MID": [
+          "NIHMS932608"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Excitatory/inhibitory balance",
+          "Functional connectivity",
+          "Functional stability",
+          "Learning",
+          "Network dynamics"
+     ],
+     "EDAT": "2018/01/03 06:00",
+     "MHDA": "2018/01/03 06:00",
+     "CRDT": [
+          "2018/01/03 06:00"
+     ],
+     "PMCR": [
+          "2019/02/15 00:00"
+     ],
+     "PHST": [
+          "2017/08/24 00:00 [received]",
+          "2017/12/21 00:00 [revised]",
+          "2017/12/24 00:00 [accepted]",
+          "2019/02/15 00:00 [pmc-release]",
+          "2018/01/03 06:00 [pubmed]",
+          "2018/01/03 06:00 [medline]",
+          "2018/01/03 06:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(17)30439-9 [pii]",
+          "10.1016/j.jneumeth.2017.12.021 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2018 Feb 15;296:69-83. doi: 10.1016/j.jneumeth.2017.12.021. Epub 2017 Dec 30.",
+     "term": "hippocampus"
+}

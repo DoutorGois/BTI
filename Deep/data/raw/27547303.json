@@ -1,0 +1,70 @@
+{
+     "PMID": "27547303",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20160822",
+     "LR": "20170220",
+     "IS": "2045-7758 (Print) 2045-7758 (Linking)",
+     "VI": "6",
+     "IP": "14",
+     "DP": "2016 Jul",
+     "TI": "Filling in the GAPS: evaluating completeness and coverage of open-access biodiversity databases in the United States.",
+     "PG": "4654-69",
+     "LID": "10.1002/ece3.2225 [doi]",
+     "AB": "Primary biodiversity data constitute observations of particular species at given points in time and space. Open-access electronic databases provide unprecedented access to these data, but their usefulness in characterizing species distributions and patterns in biodiversity depend on how complete species inventories are at a given survey location and how uniformly distributed survey locations are along dimensions of time, space, and environment. Our aim was to compare completeness and coverage among three open-access databases representing ten taxonomic groups (amphibians, birds, freshwater bivalves, crayfish, freshwater fish, fungi, insects, mammals, plants, and reptiles) in the contiguous United States. We compiled occurrence records from the Global Biodiversity Information Facility (GBIF), the North American Breeding Bird Survey (BBS), and federally administered fish surveys (FFS). We aggregated occurrence records by 0.1 degrees x 0.1 degrees grid cells and computed three completeness metrics to classify each grid cell as well-surveyed or not. Next, we compared frequency distributions of surveyed grid cells to background environmental conditions in a GIS and performed Kolmogorov-Smirnov tests to quantify coverage through time, along two spatial gradients, and along eight environmental gradients. The three databases contributed >13.6 million reliable occurrence records distributed among >190,000 grid cells. The percent of well-surveyed grid cells was substantially lower for GBIF (5.2%) than for systematic surveys (BBS and FFS; 82.5%). Still, the large number of GBIF occurrence records produced at least 250 well-surveyed grid cells for six of nine taxonomic groups. Coverages of systematic surveys were less biased across spatial and environmental dimensions but were more biased in temporal coverage compared to GBIF data. GBIF coverages also varied among taxonomic groups, consistent with commonly recognized geographic, environmental, and institutional sampling biases. This comprehensive assessment of biodiversity data across the contiguous United States provides a prioritization scheme to fill in the gaps by contributing existing occurrence records to the public domain and planning future surveys.",
+     "FAU": [
+          "Troia, Matthew J",
+          "McManamay, Ryan A"
+     ],
+     "AU": [
+          "Troia MJ",
+          "McManamay RA"
+     ],
+     "AD": "Environmental Sciences Division Oak Ridge National Laboratory Oak Ridge Tennessee 7831. Environmental Sciences Division Oak Ridge National Laboratory Oak Ridge Tennessee 7831.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160612",
+     "PL": "England",
+     "TA": "Ecol Evol",
+     "JT": "Ecology and evolution",
+     "JID": "101566408",
+     "PMC": "PMC4979697",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Biodiversity",
+          "Global Biodiversity Information Facility",
+          "National Rivers and Streams Assessment",
+          "National Water Quality Assessment",
+          "North American Breeding Bird Survey",
+          "Regional Environmental Monitoring and Assessment Program",
+          "Wallacean shortfall",
+          "museum collections",
+          "species distribution modeling"
+     ],
+     "EDAT": "2016/08/23 06:00",
+     "MHDA": "2016/08/23 06:01",
+     "CRDT": [
+          "2016/08/23 06:00"
+     ],
+     "PHST": [
+          "2016/02/02 00:00 [received]",
+          "2016/04/30 00:00 [revised]",
+          "2016/05/11 00:00 [accepted]",
+          "2016/08/23 06:00 [entrez]",
+          "2016/08/23 06:00 [pubmed]",
+          "2016/08/23 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1002/ece3.2225 [doi]",
+          "ECE32225 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Ecol Evol. 2016 Jun 12;6(14):4654-69. doi: 10.1002/ece3.2225. eCollection 2016 Jul.",
+     "term": "grid cells"
+}

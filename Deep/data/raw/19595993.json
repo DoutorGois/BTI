@@ -1,0 +1,82 @@
+{
+     "PMID": "19595993",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20091117",
+     "LR": "20170220",
+     "IS": "1872-6240 (Electronic) 0006-8993 (Linking)",
+     "VI": "1299",
+     "DP": "2009 Nov 24",
+     "TI": "Instructional control of reinforcement learning: a behavioral and neurocomputational investigation.",
+     "PG": "74-94",
+     "LID": "10.1016/j.brainres.2009.07.007 [doi]",
+     "AB": "Humans learn how to behave directly through environmental experience and indirectly through rules and instructions. Behavior analytic research has shown that instructions can control behavior, even when such behavior leads to sub-optimal outcomes (Hayes, S. (Ed.). 1989. Rule-governed behavior: cognition, contingencies, and instructional control. Plenum Press.). Here we examine the control of behavior through instructions in a reinforcement learning task known to depend on striatal dopaminergic function. Participants selected between probabilistically reinforced stimuli, and were (incorrectly) told that a specific stimulus had the highest (or lowest) reinforcement probability. Despite experience to the contrary, instructions drove choice behavior. We present neural network simulations that capture the interactions between instruction-driven and reinforcement-driven behavior via two potential neural circuits: one in which the striatum is inaccurately trained by instruction representations coming from prefrontal cortex/hippocampus (PFC/HC), and another in which the striatum learns the environmentally based reinforcement contingencies, but is \"overridden\" at decision output. Both models capture the core behavioral phenomena but, because they differ fundamentally on what is learned, make distinct predictions for subsequent behavioral and neuroimaging experiments. Finally, we attempt to distinguish between the proposed computational mechanisms governing instructed behavior by fitting a series of abstract \"Q-learning\" and Bayesian models to subject data. The best-fitting model supports one of the neural models, suggesting the existence of a \"confirmation bias\" in which the PFC/HC system trains the reinforcement system by amplifying outcomes that are consistent with instructions while diminishing inconsistent outcomes.",
+     "FAU": [
+          "Doll, Bradley B",
+          "Jacobs, W Jake",
+          "Sanfey, Alan G",
+          "Frank, Michael J"
+     ],
+     "AU": [
+          "Doll BB",
+          "Jacobs WJ",
+          "Sanfey AG",
+          "Frank MJ"
+     ],
+     "AD": "Department of Cognitive and Linguistic Sciences, Department of Psychology, Brown University, USA. bradley_doll@brown.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH080066/MH/NIMH NIH HHS/United States",
+          "R01 MH080066-01A1/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20090803",
+     "PL": "Netherlands",
+     "TA": "Brain Res",
+     "JT": "Brain research",
+     "JID": "0045503",
+     "RN": [
+          "VTD58H1Z2X (Dopamine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Basal Ganglia/physiology",
+          "Choice Behavior/*physiology",
+          "Computer Simulation",
+          "Dopamine/physiology",
+          "Hippocampus/physiology",
+          "Humans",
+          "Models, Neurological",
+          "Nerve Net/physiology",
+          "Neural Networks (Computer)",
+          "Prefrontal Cortex/physiology",
+          "Psychomotor Performance/*physiology",
+          "*Reinforcement (Psychology)"
+     ],
+     "PMC": "PMC3050481",
+     "MID": [
+          "NIHMS274334"
+     ],
+     "EDAT": "2009/07/15 09:00",
+     "MHDA": "2009/11/18 06:00",
+     "CRDT": [
+          "2009/07/15 09:00"
+     ],
+     "PHST": [
+          "2009/07/08 00:00 [accepted]",
+          "2009/07/15 09:00 [entrez]",
+          "2009/07/15 09:00 [pubmed]",
+          "2009/11/18 06:00 [medline]"
+     ],
+     "AID": [
+          "S0006-8993(09)01387-0 [pii]",
+          "10.1016/j.brainres.2009.07.007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Res. 2009 Nov 24;1299:74-94. doi: 10.1016/j.brainres.2009.07.007. Epub 2009 Aug 3.",
+     "term": "hippocampus"
+}

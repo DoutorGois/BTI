@@ -1,0 +1,64 @@
+{
+     "PMID": "1680237",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19911021",
+     "LR": "20051116",
+     "IS": "0962-8436 (Print) 0962-8436 (Linking)",
+     "VI": "332",
+     "IP": "1264",
+     "DP": "1991 Jun 29",
+     "TI": "Probabilistic secretion of quanta in the central nervous system: granule cell synaptic control of pattern separation and activity regulation.",
+     "PG": "199-220",
+     "AB": "The implications of probabilistic secretion of quanta for the functioning of neural networks in the central nervous system have been explored. A model of stochastic secretion at synapses in simple networks, consisting of large numbers of granule cells and a relatively small number of inhibitory interneurons, has been analysed. Such networks occur in the input to the cerebellum Purkinje cells as well as to hippocampal CA3 pyramidal cells and to pyramidal cells in the visual cortex. In this model the input axons terminate on granule cells as well as on an inhibitory interneuron that projects to the granule cells. Stochastic secretion at these synapses involves both temporal variability in secretion at single synapses in the network as well as spatial variability in the secretion at different synapses. The role of this stochastic variability in controlling the size of the granule cell output to a level independent of the size of the input and in separating overlapping inputs has been determined analytically as well as by simulation. The regulation of granule-cell output activity to a reasonably constant value for different size inputs does not occur in the absence of an inhibitory interneuron when both spatial and temporal stochastic variability occurs at the remaining synapses; it is still very poor in the presence of such an interneuron but in the absence of stochastic variability. However, quite good regulation is achieved when the inhibitory interneuron is present with spatial and temporal stochastic variability of secretion at synapses in the network. Excellent regulation is achieved if, in addition, allowance is made for the nonlinear behaviour of the input-output characteristics of inhibitory interneurons. The capacity of granule-cell networks to separate overlapping patterns of activity on their inputs is adequate, with spatial variability in the secretion at synapses, but is improved if there is also temporal variability in the stochastic secretion at individual synapses, although this is at the expense of reliability in the network. Other factors which improve pattern separation are control of the output to very low activity levels, and a restriction on the cumulative size of the excitatory input terminals of each granule cell. Application of the theory to the input neural networks of the cerebellum and the hippocampus shows the role of stochastic variability in quantal transmission in determining the capacity of these networks for pattern separation and activity regulation.",
+     "FAU": [
+          "Gibson, W G",
+          "Robinson, J",
+          "Bennett, M R"
+     ],
+     "AU": [
+          "Gibson WG",
+          "Robinson J",
+          "Bennett MR"
+     ],
+     "AD": "Department of Applied Mathematics, University of Sydney, New South Wales, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Review"
+     ],
+     "PL": "England",
+     "TA": "Philos Trans R Soc Lond B Biol Sci",
+     "JT": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+     "JID": "7503623",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Central Nervous System/*physiology",
+          "Interneurons/physiology",
+          "Memory",
+          "Models, Neurological",
+          "Probability",
+          "Quantum Theory",
+          "Synapses/*physiology"
+     ],
+     "RF": "50",
+     "EDAT": "1991/06/29 00:00",
+     "MHDA": "1991/06/29 00:01",
+     "CRDT": [
+          "1991/06/29 00:00"
+     ],
+     "PHST": [
+          "1991/06/29 00:00 [pubmed]",
+          "1991/06/29 00:01 [medline]",
+          "1991/06/29 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1098/rstb.1991.0050 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Philos Trans R Soc Lond B Biol Sci. 1991 Jun 29;332(1264):199-220. doi: 10.1098/rstb.1991.0050.",
+     "term": "hippocampus"
+}

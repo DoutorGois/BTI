@@ -1,0 +1,93 @@
+{
+     "PMID": "23891884",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140625",
+     "LR": "20131101",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "83",
+     "DP": "2013 Dec",
+     "TI": "Image registration of ex-vivo MRI to sparsely sectioned histology of hippocampal and neocortical temporal lobe specimens.",
+     "PG": "770-81",
+     "LID": "10.1016/j.neuroimage.2013.07.053 [doi] S1053-8119(13)00821-5 [pii]",
+     "AB": "Intractable or drug-resistant epilepsy occurs in up to 30% of epilepsy patients, with many of these patients undergoing surgical excision of the affected brain region to achieve seizure control. Recent magnetic resonance imaging (MRI) sequences and analysis techniques have the potential to detect abnormalities not identified with diagnostic MRI protocols. Prospective studies involving pre-operative imaging and collection of surgically-resected tissue provide a unique opportunity for verification and tuning of these image analysis techniques, since direct comparison can be made against histopathology, and can lead to better prediction of surgical outcomes and potentially less invasive procedures. To carry out MRI and histology comparison, spatial correspondence between the MR images and the histology images must be found. Towards this goal, a novel pipeline is presented here for bringing ex-vivo MRI of surgically-resected temporal lobe specimens and digital histology into spatial correspondence. The sparsely-sectioned histology images represent a challenge for 3D reconstruction which we address with a combined 3D and 2D registration algorithm that alternates between slice-based and volume-based registration with the ex-vivo MRI. We evaluated our registration method on specimens resected from patients undergoing anterior temporal lobectomy (N=7) and found our method to have a mean target registration error of 0.76+/-0.66 and 0.98+/-0.60 mm for hippocampal and neocortical specimens respectively. This work allows for the spatially-local comparison of histology with post-operative MRI and paves the way for eventual correlation with pre-operative MRI image analysis techniques.",
+     "CI": [
+          "(c) 2013."
+     ],
+     "FAU": [
+          "Goubran, Maged",
+          "Crukley, Cathie",
+          "de Ribaupierre, Sandrine",
+          "Peters, Terence M",
+          "Khan, Ali R"
+     ],
+     "AU": [
+          "Goubran M",
+          "Crukley C",
+          "de Ribaupierre S",
+          "Peters TM",
+          "Khan AR"
+     ],
+     "AD": "Imaging Research Laboratories, Robarts Research Institute, London, Ontario, Canada; Biomedical Engineering, Western University, London, Ontario, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MOP 184807/Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130726",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Algorithms",
+          "Epilepsy, Temporal Lobe/pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "*Histological Techniques",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/methods",
+          "Male",
+          "Temporal Lobe/*pathology",
+          "Young Adult"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Anterior temporal lobectomy",
+          "Epilepsy",
+          "Histology",
+          "Image registration",
+          "MRI"
+     ],
+     "EDAT": "2013/07/31 06:00",
+     "MHDA": "2014/06/26 06:00",
+     "CRDT": [
+          "2013/07/30 06:00"
+     ],
+     "PHST": [
+          "2012/10/22 00:00 [received]",
+          "2013/03/22 00:00 [revised]",
+          "2013/07/15 00:00 [accepted]",
+          "2013/07/30 06:00 [entrez]",
+          "2013/07/31 06:00 [pubmed]",
+          "2014/06/26 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(13)00821-5 [pii]",
+          "10.1016/j.neuroimage.2013.07.053 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2013 Dec;83:770-81. doi: 10.1016/j.neuroimage.2013.07.053. Epub 2013 Jul 26.",
+     "term": "hippocampus"
+}

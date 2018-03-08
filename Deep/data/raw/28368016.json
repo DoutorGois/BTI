@@ -1,0 +1,69 @@
+{
+     "PMID": "28368016",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20170411",
+     "IS": "2045-2322 (Electronic) 2045-2322 (Linking)",
+     "VI": "7",
+     "DP": "2017 Apr 3",
+     "TI": "Hippocampus Segmentation Based on Local Linear Mapping.",
+     "PG": "45501",
+     "LID": "10.1038/srep45501 [doi]",
+     "AB": "We propose local linear mapping (LLM), a novel fusion framework for distance field (DF) to perform automatic hippocampus segmentation. A k-means cluster method is propose for constructing magnetic resonance (MR) and DF dictionaries. In LLM, we assume that the MR and DF samples are located on two nonlinear manifolds and the mapping from the MR manifold to the DF manifold is differentiable and locally linear. We combine the MR dictionary using local linear representation to present the test sample, and combine the DF dictionary using the corresponding coefficients derived from local linear representation procedure to predict the DF of the test sample. We then merge the overlapped predicted DF patch to obtain the DF value of each point in the test image via a confidence-based weighted average method. This approach enabled us to estimate the label of the test image according to the predicted DF. The proposed method was evaluated on brain images of 35 subjects obtained from SATA dataset. Results indicate the effectiveness of the proposed method, which yields mean Dice similarity coefficients of 0.8697, 0.8770 and 0.8734 for the left, right and bi-lateral hippocampus, respectively.",
+     "FAU": [
+          "Pang, Shumao",
+          "Jiang, Jun",
+          "Lu, Zhentai",
+          "Li, Xueli",
+          "Yang, Wei",
+          "Huang, Meiyan",
+          "Zhang, Yu",
+          "Feng, Yanqiu",
+          "Huang, Wenhua",
+          "Feng, Qianjin"
+     ],
+     "AU": [
+          "Pang S",
+          "Jiang J",
+          "Lu Z",
+          "Li X",
+          "Yang W",
+          "Huang M",
+          "Zhang Y",
+          "Feng Y",
+          "Huang W",
+          "Feng Q"
+     ],
+     "AD": "Guangdong Provincial Key Laboratory of Medical Image Processing, School of Biomedical Engineering, Southern Medical University, Guangzhou, 510515, China. School of Basic Medical Science, Southern Medical University, Guangzhou, 510515, China. Guangdong Provincial Key Laboratory of Medical Image Processing, School of Biomedical Engineering, Southern Medical University, Guangzhou, 510515, China. Guangdong Provincial Key Laboratory of Medical Image Processing, School of Biomedical Engineering, Southern Medical University, Guangzhou, 510515, China. Guangdong Provincial Key Laboratory of Medical Image Processing, School of Biomedical Engineering, Southern Medical University, Guangzhou, 510515, China. Guangdong Provincial Key Laboratory of Medical Image Processing, School of Biomedical Engineering, Southern Medical University, Guangzhou, 510515, China. Guangdong Provincial Key Laboratory of Medical Image Processing, School of Biomedical Engineering, Southern Medical University, Guangzhou, 510515, China. Guangdong Provincial Key Laboratory of Medical Image Processing, School of Biomedical Engineering, Southern Medical University, Guangzhou, 510515, China. School of Basic Medical Science, Southern Medical University, Guangzhou, 510515, China. Guangdong Provincial Key Laboratory of Medical Image Processing, School of Biomedical Engineering, Southern Medical University, Guangzhou, 510515, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170403",
+     "PL": "England",
+     "TA": "Sci Rep",
+     "JT": "Scientific reports",
+     "JID": "101563288",
+     "PMC": "PMC5377362",
+     "EDAT": "2017/04/04 06:00",
+     "MHDA": "2017/04/04 06:00",
+     "CRDT": [
+          "2017/04/04 06:00"
+     ],
+     "PHST": [
+          "2016/10/21 00:00 [received]",
+          "2017/03/01 00:00 [accepted]",
+          "2017/04/04 06:00 [entrez]",
+          "2017/04/04 06:00 [pubmed]",
+          "2017/04/04 06:00 [medline]"
+     ],
+     "AID": [
+          "srep45501 [pii]",
+          "10.1038/srep45501 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Sci Rep. 2017 Apr 3;7:45501. doi: 10.1038/srep45501.",
+     "term": "hippocampus"
+}

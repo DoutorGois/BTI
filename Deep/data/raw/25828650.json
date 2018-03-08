@@ -1,0 +1,115 @@
+{
+     "PMID": "25828650",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160304",
+     "LR": "20170220",
+     "IS": "1361-8423 (Electronic) 1361-8415 (Linking)",
+     "VI": "22",
+     "IP": "1",
+     "DP": "2015 May",
+     "TI": "4D hyperspherical harmonic (HyperSPHARM) representation of surface anatomy: a holistic treatment of multiple disconnected anatomical structures.",
+     "PG": "89-101",
+     "LID": "10.1016/j.media.2015.02.004 [doi] S1361-8415(15)00033-X [pii]",
+     "AB": "Image-based parcellation of the brain often leads to multiple disconnected anatomical structures, which pose significant challenges for analyses of morphological shapes. Existing shape models, such as the widely used spherical harmonic (SPHARM) representation, assume topological invariance, so are unable to simultaneously parameterize multiple disjoint structures. In such a situation, SPHARM has to be applied separately to each individual structure. We present a novel surface parameterization technique using 4D hyperspherical harmonics in representing multiple disjoint objects as a single analytic function, terming it HyperSPHARM. The underlying idea behind HyperSPHARM is to stereographically project an entire collection of disjoint 3D objects onto the 4D hypersphere and subsequently simultaneously parameterize them with the 4D hyperspherical harmonics. Hence, HyperSPHARM allows for a holistic treatment of multiple disjoint objects, unlike SPHARM. In an imaging dataset of healthy adult human brains, we apply HyperSPHARM to the hippocampi and amygdalae. The HyperSPHARM representations are employed as a data smoothing technique, while the HyperSPHARM coefficients are utilized in a support vector machine setting for object classification. HyperSPHARM yields nearly identical results as SPHARM, as will be shown in the paper. Its key advantage over SPHARM lies computationally; HyperSPHARM possess greater computational efficiency than SPHARM because it can parameterize multiple disjoint structures using much fewer basis functions and stereographic projection obviates SPHARM's burdensome surface flattening. In addition, HyperSPHARM can handle any type of topology, unlike SPHARM, whose analysis is confined to topologically invariant structures.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Pasha Hosseinbor, A",
+          "Chung, Moo K",
+          "Koay, Cheng Guan",
+          "Schaefer, Stacey M",
+          "van Reekum, Carien M",
+          "Schmitz, Lara Peschke",
+          "Sutterer, Matt",
+          "Alexander, Andrew L",
+          "Davidson, Richard J"
+     ],
+     "AU": [
+          "Pasha Hosseinbor A",
+          "Chung MK",
+          "Koay CG",
+          "Schaefer SM",
+          "van Reekum CM",
+          "Schmitz LP",
+          "Sutterer M",
+          "Alexander AL",
+          "Davidson RJ"
+     ],
+     "AD": "Waisman Laboratory for Brain Imaging and Behavior, University of Wisconsin-Madison, Madison, WI, USA. Electronic address: hosseinbor@wisc.edu. Waisman Laboratory for Brain Imaging and Behavior, University of Wisconsin-Madison, Madison, WI, USA; Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, WI, USA. Department of Medical Physics, University of Wisconsin-Madison, Madison, WI, USA. Waisman Laboratory for Brain Imaging and Behavior, University of Wisconsin-Madison, Madison, WI, USA. Department of Psychology, University of Reading, Reading, Berkshire RG6 6UR, UK. Waisman Laboratory for Brain Imaging and Behavior, University of Wisconsin-Madison, Madison, WI, USA. Waisman Laboratory for Brain Imaging and Behavior, University of Wisconsin-Madison, Madison, WI, USA. Waisman Laboratory for Brain Imaging and Behavior, University of Wisconsin-Madison, Madison, WI, USA; Department of Medical Physics, University of Wisconsin-Madison, Madison, WI, USA; Department of Psychiatry, University of Wisconsin-Madison, Madison, WI, USA. Waisman Laboratory for Brain Imaging and Behavior, University of Wisconsin-Madison, Madison, WI, USA; Department of Psychology, University of Wisconsin-Madison, Madison, WI, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P30 HD003352/HD/NICHD NIH HHS/United States",
+          "UL1 TR000427/TR/NCATS NIH HHS/United States",
+          "R01MH043454/MH/NIMH NIH HHS/United States",
+          "P50 MH084051/MH/NIMH NIH HHS/United States",
+          "P01 AG20166/AG/NIA NIH HHS/United States",
+          "P50 MH84051/MH/NIMH NIH HHS/United States",
+          "5T15LM007359/LM/NLM NIH HHS/United States",
+          "T15 LM007359/LM/NLM NIH HHS/United States",
+          "P50 MH10031/MH/NIMH NIH HHS/United States",
+          "UL1TR000427/TR/NCATS NIH HHS/United States",
+          "R01 MH043454/MH/NIMH NIH HHS/United States",
+          "P50 MH100031/MH/NIMH NIH HHS/United States",
+          "P01 AG020166/AG/NIA NIH HHS/United States",
+          "P50 AG033514/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150309",
+     "PL": "Netherlands",
+     "TA": "Med Image Anal",
+     "JT": "Medical image analysis",
+     "JID": "9713490",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Numerical Analysis, Computer-Assisted",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Spatio-Temporal Analysis"
+     ],
+     "PMC": "PMC4405486",
+     "MID": [
+          "NIHMS670671"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Classification",
+          "Hippocampus & Amygdala",
+          "Hyperspherical harmonics",
+          "SPHARM",
+          "Shape analysis"
+     ],
+     "EDAT": "2015/04/02 06:00",
+     "MHDA": "2016/03/05 06:00",
+     "CRDT": [
+          "2015/04/02 06:00"
+     ],
+     "PHST": [
+          "2014/09/11 00:00 [received]",
+          "2015/01/19 00:00 [revised]",
+          "2015/02/20 00:00 [accepted]",
+          "2015/04/02 06:00 [entrez]",
+          "2015/04/02 06:00 [pubmed]",
+          "2016/03/05 06:00 [medline]"
+     ],
+     "AID": [
+          "S1361-8415(15)00033-X [pii]",
+          "10.1016/j.media.2015.02.004 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Anal. 2015 May;22(1):89-101. doi: 10.1016/j.media.2015.02.004. Epub 2015 Mar 9.",
+     "term": "hippocampus"
+}

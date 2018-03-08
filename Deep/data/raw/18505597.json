@@ -1,0 +1,102 @@
+{
+     "PMID": "18505597",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080804",
+     "LR": "20140903",
+     "IS": "1471-2199 (Electronic) 1471-2199 (Linking)",
+     "VI": "9",
+     "DP": "2008 May 28",
+     "TI": "Selection of reference genes for quantitative real-time PCR in a rat asphyxial cardiac arrest model.",
+     "PG": "53",
+     "LID": "10.1186/1471-2199-9-53 [doi]",
+     "AB": "BACKGROUND: Cardiac arrest, and the associated arrest of blood circulation, immediately leads to permanent brain damage because of the exhaustion of oxygen, glucose and energy resources in the brain. Most hippocampal CA1 neurons die during the first week post the insult. Molecular data concerning the recovery after resuscitation are sparse and limited to the early time period. Expression analysis of marker genes via quantitative real-time RT-PCR enables to follow up the remodeling process. However, proper validation of the applied normalization strategy is a crucial prerequisite for reliable conclusions.Therefore, the present study aimed to determine the expression stability of ten commonly used reference genes (Actb, actin, beta; B2m, beta-2 microglobulin;CypA, cyclophilin A; Gapdh, glyceraldehyde-3-phosphate dehydrogenase; Hprt, hypoxanthine guanine phosphoribosyl transferase; Pgk1, phosphoglycerate kinase 1; Rpl13a, ribosomal protein L13A; Sdha, succinat dehydrogenase complex, subunit a, flavoprotein (Fp); Tbp, TATA box binding protein; Ywhaz, tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide) in the rat hippocampus four, seven and twenty-one days after cardiac arrest. Moreover, experimental groups treated with the anti-inflammatory and anti-apoptotic drug minocycline have been included in the study as well. RESULTS: The microglial marker Mac-1, used as a target gene to validate the experimental model, was found to be upregulated about 10- to 20-fold after cardiac arrest. Expression stability of candidate reference genes was analyzed using geNorm and NormFinder software tools. Several of these genes behave rather stable. CypA and Pgk1 were identified by geNorm as the two most stable genes 4 and 21 days after asphyxial cardiac arrest, CypA and Gapdh at 7 days post treatment. B2m turned out to be the most variable candidate reference gene, being about 2-fold upregulated in the cardiac arrest treatment groups. CONCLUSION: We have validated endogenous control genes for qRT-PCR analysis of gene expression in rat hippocampus after resuscitation from cardiac arrest. For normalization purposes in gene profiling studies a combination of CypA and Pgk1 should be considered 4 and 21 days post injury, whereas CypA and Gapdh is the best combination at 7 days. CypA is most favorable if restriction to a single reference gene for all time points is required.",
+     "FAU": [
+          "Langnaese, Kristina",
+          "John, Robin",
+          "Schweizer, Hannes",
+          "Ebmeyer, Uwe",
+          "Keilhoff, Gerburg"
+     ],
+     "AU": [
+          "Langnaese K",
+          "John R",
+          "Schweizer H",
+          "Ebmeyer U",
+          "Keilhoff G"
+     ],
+     "AD": "Institute of Medical Neurobiology, University of Magdeburg, Leipziger Str, 44, D-39120 Magdeburg, Germany. kristina.langnaese@med.ovgu.de",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20080528",
+     "PL": "England",
+     "TA": "BMC Mol Biol",
+     "JT": "BMC molecular biology",
+     "JID": "100966983",
+     "RN": [
+          "0 (14-3-3 Proteins)",
+          "0 (Actins)",
+          "0 (Flavoproteins)",
+          "0 (Microtubule-Associated Proteins)",
+          "0 (Molecular Chaperones)",
+          "0 (Ribosomal Proteins)",
+          "0 (Rpl13a protein, rat)",
+          "0 (TATA-Box Binding Protein)",
+          "0 (Ywhaz protein, rat)",
+          "EC 1.2.1.- (Glyceraldehyde-3-Phosphate Dehydrogenases)",
+          "EC 1.3.99.1 (Succinate Dehydrogenase)",
+          "EC 2.4.2.8 (Hypoxanthine Phosphoribosyltransferase)",
+          "EC 2.7.2.3 (Phosphoglycerate Kinase)",
+          "EC 2.7.2.3 (phosphoglycerate kinase 1, rat)",
+          "EC 5.2.1.- (Cyclophilin A)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "14-3-3 Proteins",
+          "Actins/genetics",
+          "Animals",
+          "Cyclophilin A/genetics",
+          "Disease Models, Animal",
+          "Flavoproteins/genetics",
+          "Gene Expression Profiling",
+          "Glyceraldehyde-3-Phosphate Dehydrogenases/genetics",
+          "Heart Arrest/*genetics/metabolism",
+          "Hippocampus/metabolism",
+          "Hypoxanthine Phosphoribosyltransferase/genetics",
+          "Immunohistochemistry",
+          "Male",
+          "Microtubule-Associated Proteins/analysis",
+          "Molecular Chaperones/genetics",
+          "Phosphoglycerate Kinase/genetics",
+          "Rats",
+          "Rats, Wistar",
+          "Reverse Transcriptase Polymerase Chain Reaction/*methods",
+          "Ribosomal Proteins/genetics",
+          "Succinate Dehydrogenase/genetics",
+          "TATA-Box Binding Protein/genetics"
+     ],
+     "PMC": "PMC2430208",
+     "EDAT": "2008/05/29 09:00",
+     "MHDA": "2008/08/05 09:00",
+     "CRDT": [
+          "2008/05/29 09:00"
+     ],
+     "PHST": [
+          "2008/02/14 00:00 [received]",
+          "2008/05/28 00:00 [accepted]",
+          "2008/05/29 09:00 [pubmed]",
+          "2008/08/05 09:00 [medline]",
+          "2008/05/29 09:00 [entrez]"
+     ],
+     "AID": [
+          "1471-2199-9-53 [pii]",
+          "10.1186/1471-2199-9-53 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "BMC Mol Biol. 2008 May 28;9:53. doi: 10.1186/1471-2199-9-53.",
+     "term": "hippocampus"
+}

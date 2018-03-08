@@ -1,0 +1,77 @@
+{
+     "PMID": "24854425",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150521",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "10",
+     "IP": "5",
+     "DP": "2014 May",
+     "TI": "A signature of attractor dynamics in the CA3 region of the hippocampus.",
+     "PG": "e1003641",
+     "LID": "10.1371/journal.pcbi.1003641 [doi]",
+     "AB": "The notion of attractor networks is the leading hypothesis for how associative memories are stored and recalled. A defining anatomical feature of such networks is excitatory recurrent connections. These \"attract\" the firing pattern of the network to a stored pattern, even when the external input is incomplete (pattern completion). The CA3 region of the hippocampus has been postulated to be such an attractor network; however, the experimental evidence has been ambiguous, leading to the suggestion that CA3 is not an attractor network. In order to resolve this controversy and to better understand how CA3 functions, we simulated CA3 and its input structures. In our simulation, we could reproduce critical experimental results and establish the criteria for identifying attractor properties. Notably, under conditions in which there is continuous input, the output should be \"attracted\" to a stored pattern. However, contrary to previous expectations, as a pattern is gradually \"morphed\" from one stored pattern to another, a sharp transition between output patterns is not expected. The observed firing patterns of CA3 meet these criteria and can be quantitatively accounted for by our model. Notably, as morphing proceeds, the activity pattern in the dentate gyrus changes; in contrast, the activity pattern in the downstream CA3 network is attracted to a stored pattern and thus undergoes little change. We furthermore show that other aspects of the observed firing patterns can be explained by learning that occurs during behavioral testing. The CA3 thus displays both the learning and recall signatures of an attractor network. These observations, taken together with existing anatomical and behavioral evidence, make the strong case that CA3 constructs associative memories based on attractor dynamics.",
+     "FAU": [
+          "Renno-Costa, Cesar",
+          "Lisman, John E",
+          "Verschure, Paul F M J"
+     ],
+     "AU": [
+          "Renno-Costa C",
+          "Lisman JE",
+          "Verschure PF"
+     ],
+     "AD": "Universitat Pompeu Fabra, Synthetic, Perceptive, Emotive and Cognitive Systems group (SPECS), Barcelona, Spain; Federal University of Rio Grande do Norte (UFRN), Brain Institute (ICe), Natal, Rio Grande do Norte, Brazil. Brandeis University, Biology Department & Volen Center for Complex Systems, Waltham, Massachusetts, United States of America. Universitat Pompeu Fabra, Synthetic, Perceptive, Emotive and Cognitive Systems group (SPECS), Barcelona, Spain; Catalan Institute of Advanced Research (ICREA), Passeig Lluis Companys 23, Barcelona, Spain; Universitat Pompeu Fabra, Center of Autonomous Systems and Neurorobotics (NRAS), Barcelona, Spain.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH102841/MH/NIMH NIH HHS/United States",
+          "R01DA027807/DA/NIDA NIH HHS/United States",
+          "R01MH102841/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140522",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Biological Clocks/*physiology",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Memory/*physiology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology"
+     ],
+     "PMC": "PMC4031055",
+     "EDAT": "2014/05/24 06:00",
+     "MHDA": "2015/05/23 06:00",
+     "CRDT": [
+          "2014/05/24 06:00"
+     ],
+     "PHST": [
+          "2014/01/03 00:00 [received]",
+          "2014/04/09 00:00 [accepted]",
+          "2014/05/24 06:00 [entrez]",
+          "2014/05/24 06:00 [pubmed]",
+          "2015/05/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1003641 [doi]",
+          "PCOMPBIOL-D-13-02295 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2014 May 22;10(5):e1003641. doi: 10.1371/journal.pcbi.1003641. eCollection 2014 May.",
+     "term": "hippocampus"
+}

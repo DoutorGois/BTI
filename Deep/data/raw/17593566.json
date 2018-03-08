@@ -1,0 +1,74 @@
+{
+     "PMID": "17593566",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080102",
+     "LR": "20070820",
+     "IS": "0277-6715 (Print) 0277-6715 (Linking)",
+     "VI": "26",
+     "IP": "21",
+     "DP": "2007 Sep 20",
+     "TI": "A binless correlation measure reduces the variability of memory reactivation estimates.",
+     "PG": "3997-4008",
+     "AB": "The standard procedure for measuring correlations between pairs of spike trains is to count the numbers of spikes occurring within a specified set of time intervals partitioning the continuous time line into discrete bins of width w (seconds). One then computes the Pearson correlation between pairs of the bin occupancy vectors. This method introduces a form of quantization noise, similar to that in analog-to-digital signal processing devices, due to the arbitrary positioning of bin boundaries relative to pairs of spikes. Small changes in bin width and small uniform shifts in bin boundaries typically produce large variations in the apparent correlation. An alternative method of determining a correlation between pairs of spike trains was recently introduced. Rather than discretize the data in time, the original spike trains are convolved with a Gaussian kernel with parameter sigma chosen to give an effective width matching the bin width omega = square root 12 sigma . Calculating the Pearson correlation of the resulting smooth functions gives an estimate of the correlation between the spike trains matching that given by the bin-based procedure, without introducing the significant variability of the bin-based estimate. Measures of memory reactivation based on the partial correlations between ensembles of pairwise spike train correlations are biased downwards by the quantization noise present in the pairwise correlation estimates. Using a binless method to measure pairwise correlation, we find that the partial correlation (or explained variance) of rat hippocampal maze activity and post-maze sleep, taking into account pre-maze sleep correlations, increases significantly over estimates made with the standard bin-based procedure.",
+     "CI": [
+          "2007 John Wiley & Sons, Ltd"
+     ],
+     "FAU": [
+          "Kruskal, Peter B",
+          "Stanis, Jessica J",
+          "McNaughton, Bruce L",
+          "Thomas, Peter J"
+     ],
+     "AU": [
+          "Kruskal PB",
+          "Stanis JJ",
+          "McNaughton BL",
+          "Thomas PJ"
+     ],
+     "AD": "Oberlin College Department of Mathematics, Oberlin, OH 44074, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH046823/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "England",
+     "TA": "Stat Med",
+     "JT": "Statistics in medicine",
+     "JID": "8215016",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Biometry",
+          "Electroencephalography/*statistics & numerical data",
+          "Hippocampus/physiology",
+          "Male",
+          "Memory/*physiology",
+          "*Models, Statistical",
+          "Neurons/physiology",
+          "Rats",
+          "Rats, Inbred F344",
+          "United States"
+     ],
+     "EDAT": "2007/06/27 09:00",
+     "MHDA": "2008/01/03 09:00",
+     "CRDT": [
+          "2007/06/27 09:00"
+     ],
+     "PHST": [
+          "2007/06/27 09:00 [pubmed]",
+          "2008/01/03 09:00 [medline]",
+          "2007/06/27 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/sim.2946 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Stat Med. 2007 Sep 20;26(21):3997-4008. doi: 10.1002/sim.2946.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,61 @@
+{
+     "PMID": "26277511",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150925",
+     "LR": "20150817",
+     "IS": "1673-4254 (Print) 1673-4254 (Linking)",
+     "VI": "35",
+     "IP": "8",
+     "DP": "2015 Aug",
+     "TI": "[Brain image segmentation based on multi-weighted probabilistic atlas].",
+     "PG": "1143-8",
+     "AB": "OBJECTIVE: We propose a multi-weighted probabilistic atlas to obtain accurate, robust, and reliable segmentation. The local similarity measure is used as the weight to compute the probabilistic atlas, and the distance field is used as the weight to incorporate the locality information of the atlas; the self-similarity is used as the weight to incorporate the local information of target image to refine the probabilistic atlas. Experimental results with brain MRI images showed that the proposed algorithm outperforms the common brain image segmentation methods and achieved a median Dice coefficient of 87.1% on the left hippocampus and 87.6% on the right.",
+     "FAU": [
+          "Zhang, Lei",
+          "Zhang, Minghui",
+          "Lu, Zhentai",
+          "Feng, Qianjin",
+          "Chen, Wufan"
+     ],
+     "AU": [
+          "Zhang L",
+          "Zhang M",
+          "Lu Z",
+          "Feng Q",
+          "Chen W"
+     ],
+     "AD": "Key Lab for Medical Imaging, Southern Medical University, Guangzhou 510515, China. E-mail: wxyilei@163.com.",
+     "LA": [
+          "chi"
+     ],
+     "PT": [
+          "English Abstract",
+          "Journal Article"
+     ],
+     "PL": "China",
+     "TA": "Nan Fang Yi Ke Da Xue Xue Bao",
+     "JT": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+     "JID": "101266132",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Brain/*anatomy & histology",
+          "Humans",
+          "*Magnetic Resonance Imaging",
+          "*Neuroimaging"
+     ],
+     "EDAT": "2015/08/19 06:00",
+     "MHDA": "2015/09/26 06:00",
+     "CRDT": [
+          "2015/08/17 06:00"
+     ],
+     "PHST": [
+          "2015/08/17 06:00 [entrez]",
+          "2015/08/19 06:00 [pubmed]",
+          "2015/09/26 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nan Fang Yi Ke Da Xue Xue Bao. 2015 Aug;35(8):1143-8.",
+     "term": "hippocampus"
+}

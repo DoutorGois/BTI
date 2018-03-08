@@ -1,0 +1,69 @@
+{
+     "PMID": "18485372",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080904",
+     "LR": "20121115",
+     "IS": "1095-8541 (Electronic) 0022-5193 (Linking)",
+     "VI": "253",
+     "IP": "3",
+     "DP": "2008 Aug 7",
+     "TI": "Spatially implicit plankton population models: Transient spatial variability.",
+     "PG": "405-23",
+     "LID": "10.1016/j.jtbi.2008.03.020 [doi]",
+     "AB": "Ocean plankton models are useful tools for understanding and predicting the behaviour of planktonic ecosystems. However, when the regions represented by the model grid cells are not well mixed, the population dynamics of grid cell averages may differ from those of smaller scales (such as the laboratory scale). Here, the 'mean field approximation' fails due to 'biological Reynolds fluxes' arising from nonlinearity in the fine-scale biological interactions and unresolved spatial variability. We investigate the domain-scale behaviour of two-component, 2D reaction-diffusion plankton models producing transient dynamics, with spatial variability resulting only from the initial conditions. Failure of the mean field approximation can be quite significant for sub grid-scale mixing rates applicable to practical ocean models. To improve the approximation of domain-scale dynamics, we investigate implicit spatial resolution methods such as spatial moment closure. For weak and moderate strengths of biological nonlinearity, spatial moment closure models generally yield significant improvements on the mean field approximation, especially at low mixing rates. However, they are less accurate given weaker transience and stronger nonlinearity. In the latter case, an alternative 'two-spike' approximation is accurate at low mixing rates. We argue that, after suitable extension, these methods may be useful for understanding and skillfully predicting the large-scale behaviour of marine ecosystems.",
+     "FAU": [
+          "Wallhead, Philip J",
+          "Martin, Adrian P",
+          "Srokosz, Meric A"
+     ],
+     "AU": [
+          "Wallhead PJ",
+          "Martin AP",
+          "Srokosz MA"
+     ],
+     "AD": "National Oceanography Centre, Southampton SO14 3ZH, UK. pjw5@noc.soton.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20080327",
+     "PL": "England",
+     "TA": "J Theor Biol",
+     "JT": "Journal of theoretical biology",
+     "JID": "0376342",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Diffusion",
+          "Ecosystem",
+          "Marine Biology/*methods",
+          "*Models, Biological",
+          "Oceans and Seas",
+          "Plankton/*growth & development",
+          "Population Dynamics"
+     ],
+     "EDAT": "2008/05/20 09:00",
+     "MHDA": "2008/09/05 09:00",
+     "CRDT": [
+          "2008/05/20 09:00"
+     ],
+     "PHST": [
+          "2007/06/27 00:00 [received]",
+          "2008/03/20 00:00 [revised]",
+          "2008/03/21 00:00 [accepted]",
+          "2008/05/20 09:00 [pubmed]",
+          "2008/09/05 09:00 [medline]",
+          "2008/05/20 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0022-5193(08)00144-6 [pii]",
+          "10.1016/j.jtbi.2008.03.020 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Theor Biol. 2008 Aug 7;253(3):405-23. doi: 10.1016/j.jtbi.2008.03.020. Epub 2008 Mar 27.",
+     "term": "grid cells"
+}

@@ -1,0 +1,89 @@
+{
+     "PMID": "24190932",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141111",
+     "LR": "20170220",
+     "IS": "1469-7793 (Electronic) 0022-3751 (Linking)",
+     "VI": "592",
+     "IP": "1",
+     "DP": "2014 Jan 1",
+     "TI": "Optogenetic identification of an intrinsic cholinergically driven inhibitory oscillator sensitive to cannabinoids and opioids in hippocampal CA1.",
+     "PG": "103-23",
+     "LID": "10.1113/jphysiol.2013.257428 [doi]",
+     "AB": "Neuronal electrical oscillations in the theta (4-14 Hz) and gamma (30-80 Hz) ranges are necessary for the performance of certain animal behaviours and cognitive processes. Perisomatic GABAergic inhibition is prominently involved in cortical oscillations driven by ACh release from septal cholinergic afferents. In neocortex and hippocampal CA3 regions, parvalbumin (PV)-expressing basket cells, activated by ACh and glutamatergic agonists, largely mediate oscillations. However, in CA1 hippocampus in vitro, cholinergic agonists or the optogenetic release of endogenous ACh from septal afferents induces rhythmic, theta-frequency inhibitory postsynaptic currents (IPSCs) in pyramidal cells, even with glutamatergic transmission blocked. The IPSCs are regulated by exogenous and endogenous cannabinoids, suggesting that they arise from type 1 cannabinoid receptor-expressing (CB1R+) interneurons - mainly cholecystokinin (CCK)-expressing cells. Nevertheless, an occult contribution of PV-expressing interneurons to these rhythms remained conceivable. Here, we directly test this hypothesis by selectively silencing CA1 PV-expressing cells optogenetically with halorhodopsin or archaerhodopsin. However, this had no effect on theta-frequency IPSC rhythms induced by carbachol (CCh). In contrast, the silencing of glutamic acid decarboxylase 2-positive interneurons, which include the CCK-expressing basket cells, strongly suppressed inhibitory oscillations; PV-expressing interneurons appear to play no role. The low-frequency IPSC oscillations induced by CCh or optogenetically stimulated ACh release were also inhibited by a mu-opioid receptor (MOR) agonist, which was unexpected because MORs in CA1 are not usually associated with CCK-expressing cells. Our results reveal novel properties of an inhibitory oscillator circuit within CA1 that is activated by muscarinic agonists. The oscillations could contribute to behaviourally relevant, atropine-sensitive, theta rhythms and link cannabinoid and opioid actions functionally.",
+     "FAU": [
+          "Nagode, Daniel A",
+          "Tang, Ai-Hui",
+          "Yang, Kun",
+          "Alger, Bradley E"
+     ],
+     "AU": [
+          "Nagode DA",
+          "Tang AH",
+          "Yang K",
+          "Alger BE"
+     ],
+     "AD": "B. E. Alger, Department of Physiology, University of Maryland School of Medicine, 655 West Baltimore Street, Rm 5-025, Baltimore, MD 21201, USA. balgerlab@gmail.com.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "DA014625/DA/NIDA NIH HHS/United States",
+          "F31 NS074880-01/NS/NINDS NIH HHS/United States",
+          "R01MH077277/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20131104",
+     "PL": "England",
+     "TA": "J Physiol",
+     "JT": "The Journal of physiology",
+     "JID": "0266262",
+     "RN": [
+          "0 (Analgesics, Opioid)",
+          "0 (Cannabinoids)",
+          "0 (Opsins)",
+          "0 (Parvalbumins)",
+          "9011-97-6 (Cholecystokinin)",
+          "EC 4.1.1.15 (Glutamate Decarboxylase)",
+          "EC 4.1.1.15 (glutamate decarboxylase 2)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Analgesics, Opioid/*pharmacology",
+          "Animals",
+          "CA1 Region, Hippocampal/*cytology/metabolism/physiology",
+          "Cannabinoids/*pharmacology",
+          "Cholecystokinin/genetics/metabolism",
+          "Cholinergic Neurons/drug effects/metabolism/*physiology",
+          "Glutamate Decarboxylase/genetics/metabolism",
+          "*Inhibitory Postsynaptic Potentials",
+          "Interneurons/drug effects/metabolism/physiology",
+          "Mice",
+          "Opsins/genetics/metabolism",
+          "*Optogenetics",
+          "Parvalbumins/genetics/metabolism",
+          "Theta Rhythm"
+     ],
+     "PMC": "PMC3903354",
+     "EDAT": "2013/11/06 06:00",
+     "MHDA": "2014/11/12 06:00",
+     "CRDT": [
+          "2013/11/06 06:00"
+     ],
+     "PHST": [
+          "2013/11/06 06:00 [entrez]",
+          "2013/11/06 06:00 [pubmed]",
+          "2014/11/12 06:00 [medline]"
+     ],
+     "AID": [
+          "jphysiol.2013.257428 [pii]",
+          "10.1113/jphysiol.2013.257428 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Physiol. 2014 Jan 1;592(1):103-23. doi: 10.1113/jphysiol.2013.257428. Epub 2013 Nov 4.",
+     "term": "hippocampus"
+}

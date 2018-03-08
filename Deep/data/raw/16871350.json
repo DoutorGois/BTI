@@ -1,0 +1,80 @@
+{
+     "PMID": "16871350",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20061103",
+     "LR": "20171021",
+     "IS": "0929-5313 (Print) 0929-5313 (Linking)",
+     "VI": "21",
+     "IP": "2",
+     "DP": "2006 Oct",
+     "TI": "Computational simulation of the input-output relationship in hippocampal pyramidal cells.",
+     "PG": "191-209",
+     "AB": "The precise mapping of how complex patterns of synaptic inputs are integrated into specific patterns of spiking output is an essential step in the characterization of the cellular basis of network dynamics and function. Relative to other principal neurons of the hippocampus, the electrophysiology of CA1 pyramidal cells has been extensively investigated. Yet, the precise input-output relationship is to date unknown even for this neuronal class. CA1 pyramidal neurons receive laminated excitatory inputs from three distinct pathways: recurrent CA1 collaterals on basal dendrites, CA3 Schaffer collaterals, mostly on oblique and proximal apical dendrites, and entorhinal perforant pathway on distal apical dendrites. We implemented detailed computer simulations of pyramidal cell electrophysiology based on three-dimensional anatomical reconstructions and compartmental models of available biophysical properties from the experimental literature. To investigate the effect of synaptic input on axosomatic firing, we stochastically distributed a realistic number of excitatory synapses in each of the three dendritic layers. We then recorded the spiking response to different stimulation patterns. For all dendritic layers, synchronous stimuli resulted in trains of spiking output and a linear relationship between input and output firing frequencies. In contrast, asynchronous stimuli evoked non-bursting spike patterns and the corresponding firing frequency input-output function was logarithmic. The regular/irregular nature of the input synaptic intervals was only reflected in the regularity of output inter-burst intervals in response to synchronous stimulation, and never affected firing frequency. Synaptic stimulations in the basal and proximal apical trees across individual neuronal morphologies yielded remarkably similar input-output relationships. Results were also robust with respect to the detailed distributions of dendritic and synaptic conductances within a plausible range constrained by experimental evidence. In contrast, the input-output relationship in response to distal apical stimuli showed dramatic differences from the other dendritic locations as well as among neurons, and was more sensible to the exact channel densities.",
+     "FAU": [
+          "Li, Xiaoshen",
+          "Ascoli, Giorgio A"
+     ],
+     "AU": [
+          "Li X",
+          "Ascoli GA"
+     ],
+     "AD": "Krasnow Institute for Advanced Study, George Mason University, Fairfax, VA 22030-4444, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "AG025633/AG/NIA NIH HHS/United States",
+          "NS39600/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20060725",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "RN": [
+          "0 (Ion Channels)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Cell Membrane/physiology",
+          "Cortical Synchronization",
+          "Dendrites/physiology",
+          "Hippocampus/anatomy & histology/*physiology",
+          "Humans",
+          "Ion Channels",
+          "*Neural Networks (Computer)",
+          "Neural Pathways/anatomy & histology/*physiology",
+          "Presynaptic Terminals/physiology",
+          "Pyramidal Cells/cytology/*physiology",
+          "Synapses/physiology",
+          "Synaptic Transmission/*physiology",
+          "Time Factors"
+     ],
+     "EDAT": "2006/07/28 09:00",
+     "MHDA": "2006/11/04 09:00",
+     "CRDT": [
+          "2006/07/28 09:00"
+     ],
+     "PHST": [
+          "2005/10/24 00:00 [received]",
+          "2006/04/13 00:00 [accepted]",
+          "2006/03/28 00:00 [revised]",
+          "2006/07/28 09:00 [pubmed]",
+          "2006/11/04 09:00 [medline]",
+          "2006/07/28 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s10827-006-8797-z [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2006 Oct;21(2):191-209. doi: 10.1007/s10827-006-8797-z. Epub 2006 Jul 25.",
+     "term": "hippocampus"
+}

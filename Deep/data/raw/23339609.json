@@ -1,0 +1,62 @@
+{
+     "PMID": "23339609",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130830",
+     "LR": "20130312",
+     "IS": "1530-888X (Electronic) 0899-7667 (Linking)",
+     "VI": "25",
+     "IP": "4",
+     "DP": "2013 Apr",
+     "TI": "Continuation-based numerical detection of after-depolarization and spike-adding thresholds.",
+     "PG": "877-900",
+     "LID": "10.1162/NECO_a_00425 [doi]",
+     "AB": "The changes in neuronal firing pattern are signatures of brain function, and it is of interest to understand how such changes evolve as a function of neuronal biophysical properties. We address this important problem by the analysis and numerical investigation of a class of mechanistic mathematical models. We focus on a hippocampal pyramidal neuron model and study the occurrence of bursting related to the after-depolarization (ADP) that follows a brief current injection. This type of burst is a transient phenomenon that is not amenable to the classical bifurcation analysis done, for example, for periodic bursting oscillators. In this letter, we show how to formulate such transient behavior as a two-point boundary value problem (2PBVP), which can be solved using well-known continuation methods. The 2PBVP is formulated such that the transient response is represented by a finite orbit segment for which onsets of ADP and additional spikes in a burst can be detected as bifurcations during a one-parameter continuation. This in turn provides us with a direct method to approximate the boundaries of regions in a two-parameter plane where certain model behavior of interest occurs. More precisely, we use two-parameter continuation of the detected onset points to identify the boundaries between regions with and without ADP and bursts with different numbers of spikes. Our 2PBVP formulation is a novel approach to parameter sensitivity analysis that can be applied to a wide range of problems.",
+     "FAU": [
+          "Nowacki, Jakub",
+          "Osinga, Hinke M",
+          "Tsaneva-Atanasova, Krasimira T"
+     ],
+     "AU": [
+          "Nowacki J",
+          "Osinga HM",
+          "Tsaneva-Atanasova KT"
+     ],
+     "AD": "jakub.nowacki@tessella.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130122",
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Dendrites/physiology",
+          "Hippocampus/*physiology",
+          "Models, Neurological",
+          "Pyramidal Cells/*physiology"
+     ],
+     "EDAT": "2013/01/24 06:00",
+     "MHDA": "2013/08/31 06:00",
+     "CRDT": [
+          "2013/01/24 06:00"
+     ],
+     "PHST": [
+          "2013/01/24 06:00 [entrez]",
+          "2013/01/24 06:00 [pubmed]",
+          "2013/08/31 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1162/NECO_a_00425 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2013 Apr;25(4):877-900. doi: 10.1162/NECO_a_00425. Epub 2013 Jan 22.",
+     "term": "hippocampus"
+}

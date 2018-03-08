@@ -1,0 +1,75 @@
+{
+     "PMID": "18509686",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081205",
+     "LR": "20171104",
+     "IS": "1741-0444 (Electronic) 0140-0118 (Linking)",
+     "VI": "46",
+     "IP": "8",
+     "DP": "2008 Aug",
+     "TI": "A low noise remotely controllable wireless telemetry system for single-unit recording in rats navigating in a vertical maze.",
+     "PG": "833-9",
+     "LID": "10.1007/s11517-008-0355-6 [doi]",
+     "AB": "The use of cables for recording neural activity limits the scope of behavioral tests used in conscious free-moving animals. Particularly, cable attachments make it impossible to record in three-dimensional (3D) mazes where levels are vertically stacked or in enclosed spaces. Such environments are of particular interest in investigations of hippocampal place cells, in which neural activity is correlated with spatial position in the environment. We developed a flexible miniaturized Bluetooth-based wireless data acquisition system. The wireless module included an 8-channel analogue front end, digital controller, and Bluetooth transceiver mounted on a backpack. Our bidirectional wireless design allowed all data channels to be previewed at 1 kHz sample rate, and one channel, selected by remote control, to be sampled at 10 kHz. Extracellular recordings of neuronal activity are highly susceptible to ambient electrical noise due to the high electrode impedance. Through careful design of appropriate shielding and hardware configuration to avoid ground loops, mains power and Bluetooth hopping frequency noise were reduced sufficiently to yield signal quality comparable to those recorded by wired systems. With this system we were able to obtain single-unit recordings of hippocampal place cells in rats running an enclosed vertical maze, over a range of 5 m.",
+     "FAU": [
+          "Chen, Hsin-Yung",
+          "Wu, Jin-Shang",
+          "Hyland, Brian",
+          "Lu, Xiao-Dong",
+          "Chen, Jia Jin Jason"
+     ],
+     "AU": [
+          "Chen HY",
+          "Wu JS",
+          "Hyland B",
+          "Lu XD",
+          "Chen JJ"
+     ],
+     "AD": "Institute of Biomedical Engineering, National Cheng Kung University, 701 No. 1 Ta-Hsueh Road, Tainan, Taiwan, ROC.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20080529",
+     "PL": "United States",
+     "TA": "Med Biol Eng Comput",
+     "JT": "Medical & biological engineering & computing",
+     "JID": "7704869",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Electroencephalography/instrumentation",
+          "Electronics, Medical",
+          "Equipment Design",
+          "Feasibility Studies",
+          "Hippocampus/*physiology",
+          "Male",
+          "Maze Learning/*physiology",
+          "Rats",
+          "Rats, Wistar",
+          "Telemetry/*instrumentation"
+     ],
+     "EDAT": "2008/05/30 09:00",
+     "MHDA": "2008/12/17 09:00",
+     "CRDT": [
+          "2008/05/30 09:00"
+     ],
+     "PHST": [
+          "2007/08/08 00:00 [received]",
+          "2008/05/09 00:00 [accepted]",
+          "2008/05/30 09:00 [pubmed]",
+          "2008/12/17 09:00 [medline]",
+          "2008/05/30 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s11517-008-0355-6 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Biol Eng Comput. 2008 Aug;46(8):833-9. doi: 10.1007/s11517-008-0355-6. Epub 2008 May 29.",
+     "term": "place cells"
+}

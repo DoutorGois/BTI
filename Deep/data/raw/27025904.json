@@ -1,0 +1,87 @@
+{
+     "PMID": "27025904",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20170815",
+     "IS": "1879-0771 (Electronic) 0895-6111 (Linking)",
+     "VI": "52",
+     "DP": "2016 Sep",
+     "TI": "Statistical shape analysis of subcortical structures using spectral matching.",
+     "PG": "58-71",
+     "LID": "S0895-6111(16)30017-9 [pii] 10.1016/j.compmedimag.2016.03.001 [doi]",
+     "AB": "Studying morphological changes of subcortical structures often predicate neurodevelopmental and neurodegenerative diseases, such as Alzheimer's disease and schizophrenia. Hence, methods for quantifying morphological variations in the brain anatomy, including groupwise shape analyses, are becoming increasingly important for studying neurological disorders. In this paper, a novel groupwise shape analysis approach is proposed to detect regional morphological alterations in subcortical structures between two study groups, e.g., healthy and pathological subjects. The proposed scheme extracts smoothed triangulated surface meshes from segmented binary maps, and establishes reliable point-to-point correspondences among the population of surfaces using a spectral matching method. Mean curvature features are incorporated in the matching process, in order to increase the accuracy of the established surface correspondence. The mean shapes are created as the geometric mean of all surfaces in each group, and a distance map between these shapes is used to characterize the morphological changes between the two study groups. The resulting distance map is further analyzed to check for statistically significant differences between two populations. The performance of the proposed framework is evaluated on two separate subcortical structures (hippocampus and putamen). Furthermore, the proposed methodology is validated in a clinical application for detecting abnormal subcortical shape variations in Alzheimer's disease. Experimental results show that the proposed method is comparable to state-of-the-art algorithms, has less computational cost, and is more sensitive to small morphological variations in patients with neuropathologies.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Shakeri, Mahsa",
+          "Lombaert, Herve",
+          "Datta, Alexandre N",
+          "Oser, Nadine",
+          "Letourneau-Guillon, Laurent",
+          "Lapointe, Laurence Vincent",
+          "Martin, Florence",
+          "Malfait, Domitille",
+          "Tucholka, Alan",
+          "Lippe, Sarah",
+          "Kadoury, Samuel"
+     ],
+     "AU": [
+          "Shakeri M",
+          "Lombaert H",
+          "Datta AN",
+          "Oser N",
+          "Letourneau-Guillon L",
+          "Lapointe LV",
+          "Martin F",
+          "Malfait D",
+          "Tucholka A",
+          "Lippe S",
+          "Kadoury S"
+     ],
+     "AD": "Polytechnique Montreal, Department of Computer and Software Engineering, Centre-ville, Montreal, QC, Canada H3C 3A7; Sainte-Justine Hospital, Research Center, 3175 Cote-Sainte-Catherine Rd., Montreal, QC, Canada H3T 1C5. Electronic address: mahsa.shakeri@polymtl.ca. Inria Sophia-Antipolis Mediterranee, Asclepios Team, 06902 Sophia-Antipolis, France. Univerity of Basel Children's Hospital, Basel, Switzerland. Univerity of Basel Children's Hospital, Basel, Switzerland. Notre-Dame Hospital, Department of Radiology, Montreal, QC, Canada H2L 4M1. University of Montreal, Department of Psychology, Montreal, QC, Canada H3C 3J7. University of Montreal, Department of Psychology, Montreal, QC, Canada H3C 3J7. Sainte-Justine Hospital, Research Center, 3175 Cote-Sainte-Catherine Rd., Montreal, QC, Canada H3T 1C5; University of Montreal, Department of Psychology, Montreal, QC, Canada H3C 3J7. Sainte-Justine Hospital, Research Center, 3175 Cote-Sainte-Catherine Rd., Montreal, QC, Canada H3T 1C5; Barcelona Beta Brain Research Center, Pasqual Maragall Foundation, Barcelona, Spain. Sainte-Justine Hospital, Research Center, 3175 Cote-Sainte-Catherine Rd., Montreal, QC, Canada H3T 1C5; University of Montreal, Department of Psychology, Montreal, QC, Canada H3C 3J7. Polytechnique Montreal, Department of Computer and Software Engineering, Centre-ville, Montreal, QC, Canada H3C 3A7; Sainte-Justine Hospital, Research Center, 3175 Cote-Sainte-Catherine Rd., Montreal, QC, Canada H3T 1C5.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160316",
+     "PL": "United States",
+     "TA": "Comput Med Imaging Graph",
+     "JT": "Computerized medical imaging and graphics : the official journal of the Computerized Medical Imaging Society",
+     "JID": "8806104",
+     "SB": "IM",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Groupwise shape analysis",
+          "Spectral matching",
+          "Subcortical morphology"
+     ],
+     "EDAT": "2016/03/31 06:00",
+     "MHDA": "2016/03/31 06:00",
+     "CRDT": [
+          "2016/03/31 06:00"
+     ],
+     "PHST": [
+          "2015/08/12 00:00 [received]",
+          "2016/02/02 00:00 [revised]",
+          "2016/03/04 00:00 [accepted]",
+          "2016/03/31 06:00 [entrez]",
+          "2016/03/31 06:00 [pubmed]",
+          "2016/03/31 06:00 [medline]"
+     ],
+     "AID": [
+          "S0895-6111(16)30017-9 [pii]",
+          "10.1016/j.compmedimag.2016.03.001 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Med Imaging Graph. 2016 Sep;52:58-71. doi: 10.1016/j.compmedimag.2016.03.001. Epub 2016 Mar 16.",
+     "term": "hippocampus"
+}

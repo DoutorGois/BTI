@@ -1,0 +1,64 @@
+{
+     "PMID": "29330017",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20180126",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "DP": "2018 Jan 9",
+     "TI": "A wrapped multi-label classifier for the automatic diagnosis and prognosis of Alzheimer's disease.",
+     "LID": "S0165-0270(17)30434-X [pii] 10.1016/j.jneumeth.2017.12.016 [doi]",
+     "AB": "BACKGROUND: AD is the most frequent neurodegenerative disease, severely impacting our society. Early diagnosis and prognosis are challenging tasks in the management of AD patients. NEW METHOD: We implemented a machine-learning classifier for the automatic early diagnosis and prognosis of AD by means of features extracted, selected and optimized from structural MRI brain images. The classifier was designed to perform multi-label automatic classification into the following four classes: HC, ncMCI, cMCI, and AD. RESULTS: From our analyses, it emerged that MMSE and hippocampus-related measures must be included as primary measures in automatic-classification systems for both the early diagnosis and the prognosis of AD. The voting scheme mainly based on the binary-classification performances on the different four groups is the best choice to model the multi-label decision function for AD, when compared with a simple majority-vote scheme or with a scheme aimed at discriminating patients with high vs low risk of conversion to AD and therapy addressing. COMPARISON WITH EXISTING METHOD(S): The accuracies of our binary classifications were higher than or comparable to previously published methods. An improvement is needed on the approach we used to combine binary-classification outputs to obtain the final multi-label classification. CONCLUSIONS: The performance of multi-label automatic-classification systems strongly depends on the choice of the voting scheme used for combining binary-classification labels.",
+     "CI": [
+          "Copyright (c) 2018 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Salvatore, C",
+          "Castiglioni, I"
+     ],
+     "AU": [
+          "Salvatore C",
+          "Castiglioni I"
+     ],
+     "AD": "Institute of Molecular Bioimaging and Physiology, National Research Council of Italy (IBFM-CNR), via F.lli Cervi 93, 20090, Segrate, MI, Italy. Electronic address: christian.salvatore@ibfm.cnr.it. Institute of Molecular Bioimaging and Physiology, National Research Council of Italy (IBFM-CNR), via F.lli Cervi 93, 20090, Segrate, MI, Italy. Electronic address: isabella.castiglioni@ibfm.cnr.it.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20180109",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer",
+          "Artificial intelligence",
+          "Mild cognitive impairment",
+          "Multilabel classifier",
+          "Voting scheme"
+     ],
+     "EDAT": "2018/01/14 06:00",
+     "MHDA": "2018/01/14 06:00",
+     "CRDT": [
+          "2018/01/14 06:00"
+     ],
+     "PHST": [
+          "2017/08/03 00:00 [received]",
+          "2017/12/21 00:00 [revised]",
+          "2017/12/21 00:00 [accepted]",
+          "2018/01/14 06:00 [pubmed]",
+          "2018/01/14 06:00 [medline]",
+          "2018/01/14 06:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(17)30434-X [pii]",
+          "10.1016/j.jneumeth.2017.12.016 [doi]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "J Neurosci Methods. 2018 Jan 9. pii: S0165-0270(17)30434-X. doi: 10.1016/j.jneumeth.2017.12.016.",
+     "term": "hippocampus"
+}

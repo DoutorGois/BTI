@@ -1,0 +1,68 @@
+{
+     "PMID": "17234584",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070206",
+     "LR": "20131121",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "27",
+     "IP": "3",
+     "DP": "2007 Jan 17",
+     "TI": "Metastability of active CA3 networks.",
+     "PG": "517-28",
+     "AB": "The brain is spontaneously active even in the absence of external input. This ongoing background activity impacts neural information processing. We used functional multineuron calcium imaging (fMCI) to analyze the net structure of spontaneous CA3 network activity in hippocampal slice cultures loaded with Oregon Green 488 BAPTA-1 using a spinning disk confocal microscope (10-30 frames/s). Principal component analysis revealed that network states, defined by active cell ensembles, were stable but heterogenous and discrete. These states were stabilized through synaptic activity and maintained against external perturbations. A few discrete states emerged during our observation period of up to 30 min. Networks tended to stay in a single state for tens of seconds and then suddenly jump to a new state. After a state transition, the old state was rarely, if ever, revisited by the network during our observation period. This temporal profile of state transitions could not be simulated by a hidden Markov model, indicating that the state dynamics is nonrandomly organized. Within each state, the pattern of network activity tended to stabilize in a specific configuration. Neither maintenance nor transition of the network states required NMDA receptor activity. These findings suggest that the network states are metastable, rather than multistable, and might be governed by local attractor-like dynamics. The fMCI data analyzed here are available at http://hippocampus.jp/data/",
+     "FAU": [
+          "Sasaki, Takuya",
+          "Matsuki, Norio",
+          "Ikegaya, Yuji"
+     ],
+     "AU": [
+          "Sasaki T",
+          "Matsuki N",
+          "Ikegaya Y"
+     ],
+     "AD": "Laboratory of Chemical Pharmacology, Graduate School of Pharmaceutical Sciences, University of Tokyo, Tokyo 113-0033, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Calcium/physiology",
+          "Cells, Cultured",
+          "Hippocampus/cytology/*physiology",
+          "Nerve Net/cytology/*physiology",
+          "Rats",
+          "Rats, Wistar"
+     ],
+     "EDAT": "2007/01/20 09:00",
+     "MHDA": "2007/02/07 09:00",
+     "CRDT": [
+          "2007/01/20 09:00"
+     ],
+     "PHST": [
+          "2007/01/20 09:00 [pubmed]",
+          "2007/02/07 09:00 [medline]",
+          "2007/01/20 09:00 [entrez]"
+     ],
+     "AID": [
+          "27/3/517 [pii]",
+          "10.1523/JNEUROSCI.4514-06.2007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2007 Jan 17;27(3):517-28. doi: 10.1523/JNEUROSCI.4514-06.2007.",
+     "term": "hippocampus"
+}

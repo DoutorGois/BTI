@@ -1,0 +1,79 @@
+{
+     "PMID": "20463205",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101201",
+     "LR": "20161019",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "104",
+     "IP": "2",
+     "DP": "2010 Aug",
+     "TI": "Measuring phase-amplitude coupling between neuronal oscillations of different frequencies.",
+     "PG": "1195-210",
+     "LID": "10.1152/jn.00106.2010 [doi]",
+     "AB": "Neuronal oscillations of different frequencies can interact in several ways. There has been particular interest in the modulation of the amplitude of high-frequency oscillations by the phase of low-frequency oscillations, since recent evidence suggests a functional role for this type of cross-frequency coupling (CFC). Phase-amplitude coupling has been reported in continuous electrophysiological signals obtained from the brain at both local and macroscopic levels. In the present work, we present a new measure for assessing phase-amplitude CFC. This measure is defined as an adaptation of the Kullback-Leibler distance-a function that is used to infer the distance between two distributions-and calculates how much an empirical amplitude distribution-like function over phase bins deviates from the uniform distribution. We show that a CFC measure defined this way is well suited for assessing the intensity of phase-amplitude coupling. We also review seven other CFC measures; we show that, by some performance benchmarks, our measure is especially attractive for this task. We also discuss some technical aspects related to the measure, such as the length of the epochs used for these analyses and the utility of surrogate control analyses. Finally, we apply the measure and a related CFC tool to actual hippocampal recordings obtained from freely moving rats and show, for the first time, that the CA3 and CA1 regions present different CFC characteristics.",
+     "FAU": [
+          "Tort, Adriano B L",
+          "Komorowski, Robert",
+          "Eichenbaum, Howard",
+          "Kopell, Nancy"
+     ],
+     "AU": [
+          "Tort AB",
+          "Komorowski R",
+          "Eichenbaum H",
+          "Kopell N"
+     ],
+     "AD": "Edmond and Lily Safra International Institute of Neuroscience of Natal and Federal University of Rio Grande do Norte, Natal, RN, Brazil. tort@natalneuro.org.br",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH-51570/MH/NIMH NIH HHS/United States",
+          "MH-71702/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20100512",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "EIN": [
+          "J Neurophysiol. 2010 Oct;104(4):2302"
+     ],
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Biological Clocks/*physiology",
+          "Hippocampus/*cytology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "Time Factors"
+     ],
+     "PMC": "PMC2941206",
+     "EDAT": "2010/05/14 06:00",
+     "MHDA": "2010/12/14 06:00",
+     "CRDT": [
+          "2010/05/14 06:00"
+     ],
+     "PHST": [
+          "2010/05/14 06:00 [entrez]",
+          "2010/05/14 06:00 [pubmed]",
+          "2010/12/14 06:00 [medline]"
+     ],
+     "AID": [
+          "jn.00106.2010 [pii]",
+          "10.1152/jn.00106.2010 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2010 Aug;104(2):1195-210. doi: 10.1152/jn.00106.2010. Epub 2010 May 12.",
+     "term": "hippocampus"
+}

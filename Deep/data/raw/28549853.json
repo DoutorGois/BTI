@@ -1,0 +1,96 @@
+{
+     "PMID": "28549853",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180205",
+     "LR": "20180205",
+     "IS": "1873-264X (Electronic) 0731-7085 (Linking)",
+     "VI": "144",
+     "DP": "2017 Sep 10",
+     "TI": "Molecular fingerprinting of principal neurons in the rodent hippocampus: A neuroinformatics approach.",
+     "PG": "269-278",
+     "LID": "S0731-7085(17)30794-X [pii] 10.1016/j.jpba.2017.03.062 [doi]",
+     "AB": "Neurons are often classified by their morphological and molecular properties. The online knowledge base Hippocampome.org primarily defines neuron types from the rodent hippocampal formation based on their main neurotransmitter (glutamate or GABA) and the spatial distributions of their axons and dendrites. For each neuron type, this open-access resource reports any and all published information regarding the presence or absence of known molecular markers, including calcium-binding proteins, neuropeptides, receptors, channels, transcription factors, and other molecules of biomedical relevance. The resulting chemical profile is relatively sparse: even for the best studied neuron types, the expression or lack thereof of fewer than 70 molecules has been firmly established to date. The mouse genome-wide in situ hybridization mapping of the Allen Brain Atlas provides a wealth of data that, when appropriately analyzed, can substantially augment the molecular marker knowledge in Hippocampome.org. Here we focus on the principal cell layers of dentate gyrus (DG), CA3, CA2, and CA1, which together contain approximately 90% of hippocampal neurons. These four anatomical parcels are densely packed with somata of mostly excitatory projection neurons. Thus, gene expression data for those layers can be justifiably linked to the respective principal neuron types: granule cells in DG and pyramidal cells in CA3, CA2, and CA1. In order to enable consistent interpretation across genes and regions, we screened the whole-genome dataset against known molecular markers of those neuron types. The resulting threshold values allow over 6000 very-high confidence (>99.5%) expressed/not-expressed assignments, expanding the biochemical information content of Hippocampome.org more than five-fold. Many of these newly identified molecular markers are potential pharmacological targets for major neurological and psychiatric conditions. Furthermore, our approach yields reasonable expression/non-expression estimates for every single gene in each of these four neuron types with >90% average confidence, providing a considerably complete genetic characterization of hippocampal principal neurons.",
+     "CI": [
+          "Copyright (c) 2017 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Hamilton, D J",
+          "White, C M",
+          "Rees, C L",
+          "Wheeler, D W",
+          "Ascoli, G A"
+     ],
+     "AU": [
+          "Hamilton DJ",
+          "White CM",
+          "Rees CL",
+          "Wheeler DW",
+          "Ascoli GA"
+     ],
+     "AD": "Krasnow Institute for Advanced Study, George Mason University, Fairfax, VA, United States. Electronic address: dhamilt5@gmu.edu. Krasnow Institute for Advanced Study, George Mason University, Fairfax, VA, United States. Krasnow Institute for Advanced Study, George Mason University, Fairfax, VA, United States. Krasnow Institute for Advanced Study, George Mason University, Fairfax, VA, United States. Krasnow Institute for Advanced Study, George Mason University, Fairfax, VA, United States. Electronic address: ascoli@gmu.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS039600/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170429",
+     "PL": "England",
+     "TA": "J Pharm Biomed Anal",
+     "JT": "Journal of pharmaceutical and biomedical analysis",
+     "JID": "8309336",
+     "RN": [
+          "3KX376GY7L (Glutamic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Glutamic Acid",
+          "Hippocampus",
+          "Mice",
+          "*Neurons"
+     ],
+     "PMC": "PMC5554463",
+     "MID": [
+          "NIHMS879157"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Genetic characterization of hippocampal principal neurons",
+          "Molecular biomarkers",
+          "Morphological and molecular properties",
+          "Neuroinformatics",
+          "Neuron types",
+          "Rodent hippocampal formation"
+     ],
+     "EDAT": "2017/05/28 06:00",
+     "MHDA": "2018/02/06 06:00",
+     "CRDT": [
+          "2017/05/28 06:00"
+     ],
+     "PMCR": [
+          "2018/09/10 00:00"
+     ],
+     "PHST": [
+          "2016/10/30 00:00 [received]",
+          "2017/03/05 00:00 [revised]",
+          "2017/03/29 00:00 [accepted]",
+          "2018/09/10 00:00 [pmc-release]",
+          "2017/05/28 06:00 [pubmed]",
+          "2018/02/06 06:00 [medline]",
+          "2017/05/28 06:00 [entrez]"
+     ],
+     "AID": [
+          "S0731-7085(17)30794-X [pii]",
+          "10.1016/j.jpba.2017.03.062 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Pharm Biomed Anal. 2017 Sep 10;144:269-278. doi: 10.1016/j.jpba.2017.03.062. Epub 2017 Apr 29.",
+     "term": "hippocampus"
+}

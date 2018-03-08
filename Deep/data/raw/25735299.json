@@ -1,0 +1,78 @@
+{
+     "PMID": "25735299",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160515",
+     "LR": "20170220",
+     "IS": "2473-4209 (Electronic) 0094-2405 (Linking)",
+     "VI": "42",
+     "IP": "3",
+     "DP": "2015 Mar",
+     "TI": "3D high spectral and spatial resolution imaging of ex vivo mouse brain.",
+     "PG": "1463-72",
+     "LID": "10.1118/1.4908203 [doi]",
+     "AB": "PURPOSE: Widely used MRI methods show brain morphology both in vivo and ex vivo at very high resolution. Many of these methods (e.g., T2*-weighted imaging, phase-sensitive imaging, or susceptibility-weighted imaging) are sensitive to local magnetic susceptibility gradients produced by subtle variations in tissue composition. However, the spectral resolution of commonly used methods is limited to maintain reasonable run-time combined with very high spatial resolution. Here, the authors report on data acquisition at increased spectral resolution, with 3-dimensional high spectral and spatial resolution MRI, in order to analyze subtle variations in water proton resonance frequency and lineshape that reflect local anatomy. The resulting information compliments previous studies based on T2* and resonance frequency. METHODS: The proton free induction decay was sampled at high resolution and Fourier transformed to produce a high-resolution water spectrum for each image voxel in a 3D volume. Data were acquired using a multigradient echo pulse sequence (i.e., echo-planar spectroscopic imaging) with a spatial resolution of 50 x 50 x 70 mum(3) and spectral resolution of 3.5 Hz. Data were analyzed in the spectral domain, and images were produced from the various Fourier components of the water resonance. This allowed precise measurement of local variations in water resonance frequency and lineshape, at the expense of significantly increased run time (16-24 h). RESULTS: High contrast T2*-weighted images were produced from the peak of the water resonance (peak height image), revealing a high degree of anatomical detail, specifically in the hippocampus and cerebellum. In images produced from Fourier components of the water resonance at -7.0 Hz from the peak, the contrast between deep white matter tracts and the surrounding tissue is the reverse of the contrast in water peak height images. This indicates the presence of a shoulder in the water resonance that is not present at +7.0 Hz and may be specific to white matter anatomy. Moreover, a frequency shift of 6.76 +/- 0.55 Hz was measured between the molecular and granular layers of the cerebellum. This shift is demonstrated in corresponding spectra; water peaks from voxels in the molecular and granular layers are consistently 2 bins apart (7.0 Hz, as dictated by the spectral resolution) from one another. CONCLUSIONS: High spectral and spatial resolution MR imaging has the potential to accurately measure the changes in the water resonance in small voxels. This information can guide optimization and interpretation of more commonly used, more rapid imaging methods that depend on image contrast produced by local susceptibility gradients. In addition, with improved sampling methods, high spectral and spatial resolution data could be acquired in reasonable run times, and used for in vivo scans to increase sensitivity to variations in local susceptibility.",
+     "FAU": [
+          "Foxley, Sean",
+          "Domowicz, Miriam",
+          "Karczmar, Gregory S",
+          "Schwartz, Nancy"
+     ],
+     "AU": [
+          "Foxley S",
+          "Domowicz M",
+          "Karczmar GS",
+          "Schwartz N"
+     ],
+     "AD": "Department of Radiology, University of Chicago, Chicago, Illinois 60637. Department of Pediatrics, University of Chicago, Chicago, Illinois 60637. Department of Radiology, University of Chicago, Chicago, Illinois 60637. Department of Pediatrics, Department of Biochemistry and Molecular Biology, University of Chicago, Chicago, Illinois 60637.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "UL1 TR000430/TR/NCATS NIH HHS/United States",
+          "P30 HD-054275/HD/NICHD NIH HHS/United States",
+          "R01 CA172801/CA/NCI NIH HHS/United States",
+          "P01 HD-009402/HD/NICHD NIH HHS/United States",
+          "P30 HD054275/HD/NICHD NIH HHS/United States",
+          "P01 HD009402/HD/NICHD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, American Recovery and Reinvestment Act",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Med Phys",
+     "JT": "Medical physics",
+     "JID": "0425746",
+     "RN": [
+          "059QF0KO0R (Water)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/*cytology",
+          "Fourier Analysis",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Mice",
+          "Water"
+     ],
+     "PMC": "PMC5148176",
+     "EDAT": "2015/03/05 06:00",
+     "MHDA": "2016/05/18 06:00",
+     "CRDT": [
+          "2015/03/05 06:00"
+     ],
+     "PHST": [
+          "2015/03/05 06:00 [entrez]",
+          "2015/03/05 06:00 [pubmed]",
+          "2016/05/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1118/1.4908203 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Phys. 2015 Mar;42(3):1463-72. doi: 10.1118/1.4908203.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,85 @@
+{
+     "PMID": "25633500",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160401",
+     "LR": "20170220",
+     "IS": "1471-2288 (Electronic) 1471-2288 (Linking)",
+     "VI": "15",
+     "DP": "2015 Jan 30",
+     "TI": "Optimal likelihood-ratio multiple testing with application to Alzheimer's disease and questionable dementia.",
+     "PG": "9",
+     "LID": "10.1186/1471-2288-15-9 [doi]",
+     "AB": "BACKGROUND: Controlling the false discovery rate is important when testing multiple hypotheses. To enhance the detection capability of a false discovery rate control test, we applied the likelihood ratio-based multiple testing method in neuroimage data and compared the performance with the existing methods. METHODS: We analysed the performance of the likelihood ratio-based false discovery rate method using simulation data generated under independent assumption, and positron emission tomography data of Alzheimer's disease and questionable dementia. We investigated how well the method detects extensive hypometabolic regions and compared the results to those of the conventional Benjamini Hochberg-false discovery rate method. RESULTS: Our findings show that the likelihood ratio-based false discovery rate method can control the false discovery rate, giving the smallest false non-discovery rate (for a one-sided test) or the smallest expected number of false assignments (for a two-sided test). Even though we assumed independence among voxels, the likelihood ratio-based false discovery rate method detected more extensive hypometabolic regions in 22 patients with Alzheimer's disease, as compared to the 44 normal controls, than did the Benjamini Hochberg-false discovery rate method. The contingency and distribution patterns were consistent with those of previous studies. In 24 questionable dementia patients, the proposed likelihood ratio-based false discovery rate method was able to detect hypometabolism in the medial temporal region. CONCLUSIONS: This study showed that the proposed likelihood ratio-based false discovery rate method efficiently identifies extensive hypometabolic regions owing to its increased detection capability and ability to control the false discovery rate.",
+     "FAU": [
+          "Lee, Donghwan",
+          "Kang, Hyejin",
+          "Kim, Eunkyung",
+          "Lee, Hyekyoung",
+          "Kim, Heejung",
+          "Kim, Yu Kyeong",
+          "Lee, Youngjo",
+          "Lee, Dong Soo"
+     ],
+     "AU": [
+          "Lee D",
+          "Kang H",
+          "Kim E",
+          "Lee H",
+          "Kim H",
+          "Kim YK",
+          "Lee Y",
+          "Lee DS"
+     ],
+     "AD": "Department of Statistics, Ewha Womans University, Seoul, Korea. donghwan.lee@ewha.ac.kr. Department of Nuclear Medicine, Seoul National University College of Medicine, Seoul, Korea. hkang211@snu.ac.kr. Data Science for Knowledge Creation Research Center, Seoul National University, Seoul, Korea. hkang211@snu.ac.kr. Department of Nuclear Medicine, Seoul National University College of Medicine, Seoul, Korea. ksea03@gmail.com. Interdisciplinary Program in Cognitive Science, Seoul National University, Seoul, Korea. ksea03@gmail.com. Department of Nuclear Medicine, Seoul National University College of Medicine, Seoul, Korea. hklee.brain@gmail.com. Department of Nuclear Medicine, Seoul National University College of Medicine, Seoul, Korea. hjkim72@snu.ac.kr. Interdisciplinary Program in Cognitive Science, Seoul National University, Seoul, Korea. hjkim72@snu.ac.kr. Department of Nuclear Medicine, Seoul National University College of Medicine, Seoul, Korea. yk3181@snu.ac.kr. Department of Nuclear Medicine, Seoul Metropolitan Government Seoul National University Boramae Medical Center, Seoul, Korea. yk3181@snu.ac.kr. Data Science for Knowledge Creation Research Center, Seoul National University, Seoul, Korea. youngjo@snu.ac.kr. Department of Statistics, Seoul National University, Seoul, Korea. youngjo@snu.ac.kr. Department of Nuclear Medicine, Seoul National University College of Medicine, Seoul, Korea. dsl@snu.ac.kr. Interdisciplinary Program in Cognitive Science, Seoul National University, Seoul, Korea. dsl@snu.ac.kr. Department of Molecular Medicine and Biopharmaceutical Sciences, Graduate School of Convergence Science and Technology, and College of Medicine, Seoul National University, Seoul, Korea. dsl@snu.ac.kr.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150130",
+     "PL": "England",
+     "TA": "BMC Med Res Methodol",
+     "JT": "BMC medical research methodology",
+     "JID": "100968545",
+     "RN": [
+          "0Z5B2CJX4D (Fluorodeoxyglucose F18)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/diagnosis/*diagnostic imaging/metabolism",
+          "Brain/*diagnostic imaging/metabolism/pathology",
+          "Computer Simulation",
+          "Dementia/diagnosis/*diagnostic imaging/metabolism",
+          "Fluorodeoxyglucose F18/pharmacokinetics",
+          "Frontal Lobe/diagnostic imaging/metabolism/pathology",
+          "Hippocampus/diagnostic imaging/metabolism/pathology",
+          "Humans",
+          "Likelihood Functions",
+          "Positron-Emission Tomography/*methods/statistics & numerical data",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC4417288",
+     "EDAT": "2015/01/31 06:00",
+     "MHDA": "2016/04/02 06:00",
+     "CRDT": [
+          "2015/01/31 06:00"
+     ],
+     "PHST": [
+          "2014/09/18 00:00 [received]",
+          "2015/01/15 00:00 [accepted]",
+          "2015/01/31 06:00 [entrez]",
+          "2015/01/31 06:00 [pubmed]",
+          "2016/04/02 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1186/1471-2288-15-9 [doi]",
+          "1471-2288-15-9 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "BMC Med Res Methodol. 2015 Jan 30;15:9. doi: 10.1186/1471-2288-15-9.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,75 @@
+{
+     "PMID": "22941838",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121129",
+     "LR": "20120903",
+     "IS": "1881-6096 (Print) 1881-6096 (Linking)",
+     "VI": "64",
+     "IP": "9",
+     "DP": "2012 Sep",
+     "TI": "[Dynamics of the language/memory functional regions determing using ECoG and fMRI].",
+     "PG": "1001-12",
+     "AB": "We compared electrocorticography (ECoG) with invasive intracranial noninvasive functional MRI using language-related tasks. Twenty patients underwent bilateral implantation of subdural electrodes (more than 80 channels) for diagnosing intractable epilepsy. Before implantation of the electrodes, language-related fMRI was performed, and the fMR images were superimposed on individual brain images. Brain mapping with electrocortical stimulation was performed on the basis of the fused fMR and brain MR images, and the specificity and sensitivity of language-related fMRI was calculated. For careful interpretation of spatial and temporal ECoG changes with semantic tasks, we developed a software to visualize semantic-ECoG dynamics in the brain. Semantic-ECoG was recorded during word, figure, and face recognition as well as memory tasks. The raw ECoG data were processed by averaging and time-frequency analysis, and the functional profiles were projected onto the individual brain surface. Acquired ECoG was classified using Support Vector Machine and Sparse Logistic Regression to decode brain signals. Because of variations in electrode locations, we normalized the ECoG electrodes by using SPM8. Although fMRI has 90% sensitivity, its specificity is only up to 50%. The basal temporal-occipital cortex was activated within 250 ms after visual object presentation. Compared to other stimuli, face stimulation evoked significantly higher ECoG amplitudes. Among different brain regions, the hippocampus was predominantly activated during the memory task. The prediction rate of ECoG classification was 90%, which was sufficient for clinical use. Semantic-ECoG is a powerful technique to detect and decode human brain functions.",
+     "FAU": [
+          "Kamada, Kyousuke",
+          "Kunii, Naoto",
+          "Hiroshima, Satoru",
+          "Ota, Takahiro",
+          "Kawai, Kensuke",
+          "Saito, Nobuhito"
+     ],
+     "AU": [
+          "Kamada K",
+          "Kunii N",
+          "Hiroshima S",
+          "Ota T",
+          "Kawai K",
+          "Saito N"
+     ],
+     "AD": "Department of Neurosurgery, Asahikawa Medical University, Hokkaido, Japan.",
+     "LA": [
+          "jpn"
+     ],
+     "PT": [
+          "English Abstract",
+          "Journal Article"
+     ],
+     "PL": "Japan",
+     "TA": "Brain Nerve",
+     "JT": "Brain and nerve = Shinkei kenkyu no shinpo",
+     "JID": "101299709",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Brain/*physiology",
+          "Brain Mapping/*methods",
+          "Electrodes, Implanted",
+          "Electroencephalography/*methods",
+          "Epilepsy/physiopathology",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "*Language",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Memory/*physiology",
+          "Young Adult"
+     ],
+     "EDAT": "2012/09/04 06:00",
+     "MHDA": "2012/12/10 06:00",
+     "CRDT": [
+          "2012/09/04 06:00"
+     ],
+     "PHST": [
+          "2012/09/04 06:00 [entrez]",
+          "2012/09/04 06:00 [pubmed]",
+          "2012/12/10 06:00 [medline]"
+     ],
+     "AID": [
+          "1416101287 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Nerve. 2012 Sep;64(9):1001-12.",
+     "term": "hippocampus"
+}

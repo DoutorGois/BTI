@@ -1,0 +1,76 @@
+{
+     "PMID": "20879331",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101115",
+     "LR": "20100930",
+     "VI": "13",
+     "IP": "Pt 2",
+     "DP": "2010",
+     "TI": "Shape-based diffeomorphic registration on hippocampal surfaces using Beltrami holomorphic flow.",
+     "PG": "323-30",
+     "AB": "We develop a new algorithm to automatically register hippocampal (HP) surfaces with complete geometric matching, avoiding the need to manually label landmark features. A good registration depends on a reasonable choice of shape energy that measures the dissimilarity between surfaces. In our work, we first propose a complete shape index using the Beltrami coefficient and curvatures, which measures subtle local differences. The proposed shape energy is zero if and only if two shapes are identical up to a rigid motion. We then seek the best surface registration by minimizing the shape energy. We propose a simple representation of surface diffeomorphisms using Beltrami coefficients, which simplifies the optimization process. We then iteratively minimize the shape energy using the proposed Beltrami Holomorphic flow (BHF) method. Experimental results on 212 HP of normal and diseased (Alzheimer's disease) subjects show our proposed algorithm is effective in registering HP surfaces with complete geometric matching. The proposed shape energy can also capture local shape differences between HP for disease analysis.",
+     "FAU": [
+          "Lui, Lok Ming",
+          "Wong, Tsz Wai",
+          "Thompson, Paul",
+          "Chan, Tony",
+          "Gu, Xianfeng",
+          "Yau, Shing-Tung"
+     ],
+     "AU": [
+          "Lui LM",
+          "Wong TW",
+          "Thompson P",
+          "Chan T",
+          "Gu X",
+          "Yau ST"
+     ],
+     "AD": "Department of Mathematics, Harvard University, Cambridge, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "1R01EB0075300A1/EB/NIBIB NIH HHS/United States",
+          "AG036535/AG/NIA NIH HHS/United States",
+          "EB007813/EB/NIBIB NIH HHS/United States",
+          "EB008281/EB/NIBIB NIH HHS/United States",
+          "EB008432/EB/NIBIB NIH HHS/United States",
+          "HD050735/HD/NICHD NIH HHS/United States",
+          "U54 RR021813/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Alzheimer Disease/*diagnosis",
+          "Hippocampus/*pathology",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2010/10/01 06:00",
+     "MHDA": "2010/11/16 06:00",
+     "CRDT": [
+          "2010/10/01 06:00"
+     ],
+     "PHST": [
+          "2010/10/01 06:00 [entrez]",
+          "2010/10/01 06:00 [pubmed]",
+          "2010/11/16 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2010;13(Pt 2):323-30.",
+     "term": "hippocampus"
+}

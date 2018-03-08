@@ -1,0 +1,89 @@
+{
+     "PMID": "26253309",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160804",
+     "LR": "20170920",
+     "IS": "1432-1106 (Electronic) 0014-4819 (Linking)",
+     "VI": "233",
+     "IP": "11",
+     "DP": "2015 Nov",
+     "TI": "Neural mechanisms underlying the exploration of small city maps using magnetoencephalography.",
+     "PG": "3187-200",
+     "LID": "10.1007/s00221-015-4387-5 [doi]",
+     "AB": "The neural mechanisms underlying spatial cognition in the context of exploring realistic city maps are unknown. We conducted a novel brain imaging study to address the question of whether and how features of special importance for map exploration are encoded in the brain to make a spatial decision. Subjects explored by eyes small city maps exemplifying five different street network types in order to locate a hypothetical City Hall, while neural activity was recorded continuously by 248 magnetoencephalography (MEG) sensors at high temporal resolution. Monitoring subjects' eye positions, we locally characterized the maps by computing three spatial parameters of the areas that were explored. We computed the number of street intersections, the total street length, and the regularity index in the circular areas of 6 degrees of visual angle radius centered on instantaneous eye positions. We tested the hypothesis that neural activity during exploration is associated with the spatial parameters and modulated by street network type. All time series were rendered stationary and nonautocorrelated by applying an autoregressive integrated moving average model and taking the residuals. We then assessed the associations between the prewhitened time-varying MEG time series from 248 sensors and the prewhitened spatial parameters time series, for each street network type, using multiple linear regression analyses. In accord with our hypothesis, ongoing neural activity was strongly associated with the spatial parameters through localized and distributed networks, and neural processing of these parameters depended on the type of street network. Overall, processing of the spatial parameters seems to predominantly involve right frontal and prefrontal areas, but not for all street network layouts. These results are in line with findings from a series of previous studies showing that frontal and prefrontal areas are involved in the processing of spatial information and decision making. Modulation of neural processing of the spatial parameters by street network type suggests that some street network layouts may contain other types of spatial information that subjects use to explore maps and make spatial decisions.",
+     "FAU": [
+          "Sakellaridi, Sofia",
+          "Christova, Peka",
+          "Christopoulos, Vassilios",
+          "Leuthold, Arthur C",
+          "Peponis, John",
+          "Georgopoulos, Apostolos P"
+     ],
+     "AU": [
+          "Sakellaridi S",
+          "Christova P",
+          "Christopoulos V",
+          "Leuthold AC",
+          "Peponis J",
+          "Georgopoulos AP"
+     ],
+     "AD": "Center for Cognitive Sciences, University of Minnesota, Minneapolis, MN, USA. Brain Sciences Center (11B), Veterans Affairs Medical Center, VAHCS, One Veterans Drive, Minneapolis, MN, 55417, USA. Department of Neurobiology, University of California Los Angeles, Los Angeles, CA, USA. Brain Sciences Center (11B), Veterans Affairs Medical Center, VAHCS, One Veterans Drive, Minneapolis, MN, 55417, USA. Department of Neuroscience, University of Minnesota Medical School, Minneapolis, MN, USA. Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, USA. Brain Sciences Center (11B), Veterans Affairs Medical Center, VAHCS, One Veterans Drive, Minneapolis, MN, 55417, USA. Department of Neuroscience, University of Minnesota Medical School, Minneapolis, MN, USA. School of Architecture, College of Architecture, Georgia Institute of Technology, Atlanta, GA, USA. Center for Cognitive Sciences, University of Minnesota, Minneapolis, MN, USA. omega@umn.edu. Brain Sciences Center (11B), Veterans Affairs Medical Center, VAHCS, One Veterans Drive, Minneapolis, MN, 55417, USA. omega@umn.edu. Department of Neuroscience, University of Minnesota Medical School, Minneapolis, MN, USA. omega@umn.edu.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150808",
+     "PL": "Germany",
+     "TA": "Exp Brain Res",
+     "JT": "Experimental brain research",
+     "JID": "0043312",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Brain/*physiology",
+          "*Brain Mapping",
+          "Female",
+          "Humans",
+          "*Magnetoencephalography",
+          "Male",
+          "Middle Aged",
+          "Photic Stimulation",
+          "Reaction Time",
+          "Recognition (Psychology)/*physiology",
+          "Spatial Navigation/*physiology",
+          "Time Factors",
+          "Young Adult"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Eye fixations",
+          "Magnetoencephalography",
+          "Map reading",
+          "Spatial decision making"
+     ],
+     "EDAT": "2015/08/09 06:00",
+     "MHDA": "2016/08/05 06:00",
+     "CRDT": [
+          "2015/08/09 06:00"
+     ],
+     "PHST": [
+          "2014/12/30 00:00 [received]",
+          "2015/07/11 00:00 [accepted]",
+          "2015/08/09 06:00 [entrez]",
+          "2015/08/09 06:00 [pubmed]",
+          "2016/08/05 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s00221-015-4387-5 [doi]",
+          "10.1007/s00221-015-4387-5 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Exp Brain Res. 2015 Nov;233(11):3187-200. doi: 10.1007/s00221-015-4387-5. Epub 2015 Aug 8.",
+     "term": "spatial navigation"
+}

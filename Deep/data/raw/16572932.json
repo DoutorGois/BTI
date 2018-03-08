@@ -1,0 +1,60 @@
+{
+     "PMID": "16572932",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060523",
+     "LR": "20061115",
+     "IS": "1214-6994 (Print) 1214-6994 (Linking)",
+     "VI": "106",
+     "IP": "4",
+     "DP": "2005",
+     "TI": "Time precision of hippocampal CA3 neurons.",
+     "PG": "409-20",
+     "AB": "Time precision of generation of action potentials (AP) is limited by the electrical properties of neuronal membrane, by the probabilistic nature of synaptic transmission and by the membrane noise. In the software environment GENESIS 2.2, we constructed a multicompartmental model of a rat hippocampal neuron, made up of soma, dendritic tree and axonal initial segment (IS). In the model were implemented channel and thermal noise, corrupting the propagation of postsynaptic signal at the soma-dendritic (SD) membrane and the AP initiation at the IS. Various levels of synaptic redundancy, connecting the presynaptic neurons with the SD membrane by various numbers N of unreliable synapses of varying probability P of vesicle release, were modelled. During simulations, random spatio-temporal patterns of synaptic activity were presented to the neuron repeatedly, eliciting sequences of APs, which were further statistically processed. The influence of P, N, channel and thermal noise on the time precision of AP generation was tested by repeated stimulation of identical input. The precision was mostly influenced by the synaptic unreliability and substantially dependent upon values N and P. The channel noise was about an order less corruptive than the synaptic unreliability, causing the time precision of neuronal responses to vary from submilliseconds to tens of microseconds, depending on the values P and N.",
+     "FAU": [
+          "Kuriscak, E",
+          "Zbornik, M",
+          "Rehak, J"
+     ],
+     "AU": [
+          "Kuriscak E",
+          "Zbornik M",
+          "Rehak J"
+     ],
+     "AD": "Institute of Physiology of the First Faculty of Medicine, Charles University in Prague, Czech Republic. ekuri@lf1.cuni.cz",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Czech Republic",
+     "TA": "Prague Med Rep",
+     "JT": "Prague medical report",
+     "JID": "101227436",
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials",
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/cytology/*physiology",
+          "Models, Animal",
+          "Neurons/*physiology",
+          "Rats",
+          "Synaptic Transmission/physiology"
+     ],
+     "EDAT": "2006/04/01 09:00",
+     "MHDA": "2006/05/24 09:00",
+     "CRDT": [
+          "2006/04/01 09:00"
+     ],
+     "PHST": [
+          "2006/04/01 09:00 [pubmed]",
+          "2006/05/24 09:00 [medline]",
+          "2006/04/01 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Prague Med Rep. 2005;106(4):409-20.",
+     "term": "hippocampus"
+}

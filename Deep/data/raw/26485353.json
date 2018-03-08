@@ -1,0 +1,72 @@
+{
+     "PMID": "26485353",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170713",
+     "LR": "20171130",
+     "IS": "1558-2531 (Electronic) 0018-9294 (Linking)",
+     "VI": "63",
+     "IP": "6",
+     "DP": "2016 Jun",
+     "TI": "Multiatlas-Based Segmentation Editing With Interaction-Guided Patch Selection and Label Fusion.",
+     "PG": "1208-1219",
+     "LID": "10.1109/TBME.2015.2491612 [doi]",
+     "AB": "We propose a novel multiatlas-based segmentation method to address the segmentation editing scenario, where an incomplete segmentation is given along with a set of existing reference label images (used as atlases). Unlike previous multiatlas-based methods, which depend solely on appearance features, we incorporate interaction-guided constraints to find appropriate atlas label patches in the reference label set and derive their weights for label fusion. Specifically, user interactions provided on the erroneous parts are first divided into multiple local combinations. For each combination, the atlas label patches well-matched with both interactions and the previous segmentation are identified. Then, the segmentation is updated through the voxelwise label fusion of selected atlas label patches with their weights derived from the distances of each underlying voxel to the interactions. Since the atlas label patches well-matched with different local combinations are used in the fusion step, our method can consider various local shape variations during the segmentation update, even with only limited atlas label images and user interactions. Besides, since our method does not depend on either image appearance or sophisticated learning steps, it can be easily applied to general editing problems. To demonstrate the generality of our method, we apply it to editing segmentations of CT prostate, CT brainstem, and MR hippocampus, respectively. Experimental results show that our method outperforms existing editing methods in all three datasets.",
+     "FAU": [
+          "Park, Sang Hyun",
+          "Gao, Yaozong",
+          "Shen, Dinggang"
+     ],
+     "AU": [
+          "Park SH",
+          "Gao Y",
+          "Shen D"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 CA140413/CA/NCI NIH HHS/United States",
+          "R01 EB008374/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20151015",
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "SB": "IM",
+     "MH": [
+          "Brain Stem/diagnostic imaging",
+          "Hippocampus/diagnostic imaging",
+          "Humans",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/methods",
+          "Male",
+          "Prostate/diagnostic imaging",
+          "Tomography, X-Ray Computed/methods"
+     ],
+     "PMC": "PMC4833707",
+     "MID": [
+          "NIHMS740193"
+     ],
+     "EDAT": "2015/10/21 06:00",
+     "MHDA": "2017/07/14 06:00",
+     "CRDT": [
+          "2015/10/21 06:00"
+     ],
+     "PHST": [
+          "2015/10/21 06:00 [pubmed]",
+          "2017/07/14 06:00 [medline]",
+          "2015/10/21 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TBME.2015.2491612 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 2016 Jun;63(6):1208-1219. doi: 10.1109/TBME.2015.2491612. Epub 2015 Oct 15.",
+     "term": "hippocampus"
+}

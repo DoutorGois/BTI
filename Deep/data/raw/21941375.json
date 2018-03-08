@@ -1,0 +1,67 @@
+{
+     "PMID": "21941375",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "2327-770X (Print) 2327-770X (Linking)",
+     "IP": "1071",
+     "DP": "2006",
+     "TI": "Framework for the Statistical Shape Analysis of Brain Structures using SPHARM-PDM.",
+     "PG": "242-250",
+     "AB": "Shape analysis has become of increasing interest to the neuroimaging community due to its potential to precisely locate morphological changes between healthy and pathological structures. This manuscript presents a comprehensive set of tools for the computation of 3D structural statistical shape analysis. It has been applied in several studies on brain morphometry, but can potentially be employed in other 3D shape problems. Its main limitations is the necessity of spherical topology.The input of the proposed shape analysis is a set of binary segmentation of a single brain structure, such as the hippocampus or caudate. These segmentations are converted into a corresponding spherical harmonic description (SPHARM), which is then sampled into a triangulated surfaces (SPHARM-PDM). After alignment, differences between groups of surfaces are computed using the Hotelling T(2) two sample metric. Statistical p-values, both raw and corrected for multiple comparisons, result in significance maps. Additional visualization of the group tests are provided via mean difference magnitude and vector maps, as well as maps of the group covariance information.The correction for multiple comparisons is performed via two separate methods that each have a distinct view of the problem. The first one aims to control the family-wise error rate (FWER) or false-positives via the extrema histogram of non-parametric permutations. The second method controls the false discovery rate and results in a less conservative estimate of the false-negatives.",
+     "FAU": [
+          "Styner, Martin",
+          "Oguz, Ipek",
+          "Xu, Shun",
+          "Brechbuhler, Christian",
+          "Pantazis, Dimitrios",
+          "Levitt, James J",
+          "Shenton, Martha E",
+          "Gerig, Guido"
+     ],
+     "AU": [
+          "Styner M",
+          "Oguz I",
+          "Xu S",
+          "Brechbuhler C",
+          "Pantazis D",
+          "Levitt JJ",
+          "Shenton ME",
+          "Gerig G"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K05 MH070047/MH/NIMH NIH HHS/United States",
+          "P01 EB002779/EB/NIBIB NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States",
+          "U54 EB005149-010012/EB/NIBIB NIH HHS/United States",
+          "P30 HD003110/HD/NICHD NIH HHS/United States",
+          "K05 MH070047-01/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Insight J",
+     "JT": "The insight journal",
+     "JID": "101558367",
+     "PMC": "PMC3062073",
+     "MID": [
+          "NIHMS152629"
+     ],
+     "EDAT": "2006/01/01 00:00",
+     "MHDA": "2006/01/01 00:00",
+     "CRDT": [
+          "2011/09/24 06:00"
+     ],
+     "PHST": [
+          "2011/09/24 06:00 [entrez]",
+          "2006/01/01 00:00 [pubmed]",
+          "2006/01/01 00:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Insight J. 2006;(1071):242-250.",
+     "term": "hippocampus"
+}

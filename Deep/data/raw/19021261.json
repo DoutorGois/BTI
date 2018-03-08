@@ -1,0 +1,71 @@
+{
+     "PMID": "19021261",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090227",
+     "LR": "20081201",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "18",
+     "IP": "12",
+     "DP": "2008",
+     "TI": "The emergence of grid cells: Intelligent design or just adaptation?",
+     "PG": "1256-69",
+     "LID": "10.1002/hipo.20520 [doi]",
+     "AB": "Individual medial entorhinal cortex (mEC) 'grid' cells provide a representation of space that appears to be essentially invariant across environments, modulo simple transformations, in contrast to multiple, rapidly acquired hippocampal maps; it may therefore be established gradually during rodent development. We explore with a simplified mathematical model the possibility that the self-organization of multiple grid fields into a triangular grid pattern may be a single-cell process, driven by firing rate adaptation and slowly varying spatial inputs. A simple analytical derivation indicates that triangular grids are favored asymptotic states of the self-organizing system, and computer simulations confirm that such states are indeed reached during a model learning process, provided it is sufficiently slow to effectively average out fluctuations. The interactions among local ensembles of grid units serve solely to stabilize a common grid orientation. Spatial information, in the real mEC network, may be provided by any combination of feedforward cortical afferents and feedback hippocampal projections from place cells, since either input alone is likely sufficient to yield grid fields.",
+     "CI": [
+          "Copyright 2008 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Kropff, Emilio",
+          "Treves, Alessandro"
+     ],
+     "AU": [
+          "Kropff E",
+          "Treves A"
+     ],
+     "AD": "Kavli Institute for Systems Neuroscience and Centre for the Biology of Memory, NTNU-Norwegian University of Science and Technology, 7489 Trondheim, Norway.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Adaptation, Physiological/physiology",
+          "Afferent Pathways/physiology",
+          "Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "Entorhinal Cortex/cytology/*physiology",
+          "Feedback/physiology",
+          "Hippocampus/physiology",
+          "Learning/physiology",
+          "Nerve Net/cytology/*physiology",
+          "Neurons/*physiology",
+          "Orientation/physiology",
+          "Space Perception/physiology"
+     ],
+     "EDAT": "2008/11/21 09:00",
+     "MHDA": "2009/02/28 09:00",
+     "CRDT": [
+          "2008/11/21 09:00"
+     ],
+     "PHST": [
+          "2008/11/21 09:00 [pubmed]",
+          "2009/02/28 09:00 [medline]",
+          "2008/11/21 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.20520 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2008;18(12):1256-69. doi: 10.1002/hipo.20520.",
+     "term": "place cells"
+}

@@ -1,0 +1,72 @@
+{
+     "PMID": "23851569",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140228",
+     "LR": "20170220",
+     "IS": "1940-087X (Electronic) 1940-087X (Linking)",
+     "IP": "77",
+     "DP": "2013 Jul 5",
+     "TI": "Construction of microdrive arrays for chronic neural recordings in awake behaving mice.",
+     "PG": "e50470",
+     "LID": "10.3791/50470 [doi]",
+     "AB": "State-of-the-art electrophysiological recordings from the brains of freely behaving animals allow researchers to simultaneously examine local field potentials (LFPs) from populations of neurons and action potentials from individual cells, as the animal engages in experimentally relevant tasks. Chronically implanted microdrives allow for brain recordings to last over periods of several weeks. Miniaturized drives and lightweight components allow for these long-term recordings to occur in small mammals, such as mice. By using tetrodes, which consist of tightly braided bundles of four electrodes in which each wire has a diameter of 12.5 mum, it is possible to isolate physiologically active neurons in superficial brain regions such as the cerebral cortex, dorsal hippocampus, and subiculum, as well as deeper regions such as the striatum and the amygdala. Moreover, this technique insures stable, high-fidelity neural recordings as the animal is challenged with a variety of behavioral tasks. This manuscript describes several techniques that have been optimized to record from the mouse brain. First, we show how to fabricate tetrodes, load them into driveable tubes, and gold-plate their tips in order to reduce their impedance from MOmega to KOmega range. Second, we show how to construct a custom microdrive assembly for carrying and moving the tetrodes vertically, with the use of inexpensive materials. Third, we show the steps for assembling a commercially available microdrive (Neuralynx VersaDrive) that is designed to carry independently movable tetrodes. Finally, we present representative results of local field potentials and single-unit signals obtained in the dorsal subiculum of mice. These techniques can be easily modified to accommodate different types of electrode arrays and recording schemes in the mouse brain.",
+     "FAU": [
+          "Chang, Eric H",
+          "Frattini, Stephen A",
+          "Robbiati, Sergio",
+          "Huerta, Patricio T"
+     ],
+     "AU": [
+          "Chang EH",
+          "Frattini SA",
+          "Robbiati S",
+          "Huerta PT"
+     ],
+     "AD": "Lab of Immune and Neural Networks, Feinstein Institute for Medical Research, North Shore LIJ Health System.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P01 AI073693/AI/NIAID NIH HHS/United States",
+          "5P01AI073693-03/AI/NIAID NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Video-Audio Media"
+     ],
+     "DEP": "20130705",
+     "PL": "United States",
+     "TA": "J Vis Exp",
+     "JT": "Journal of visualized experiments : JoVE",
+     "JID": "101313252",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Behavior, Animal/*physiology",
+          "Brain/*physiology",
+          "Electrophysiological Phenomena",
+          "Electrophysiology/*instrumentation/*methods",
+          "Mice",
+          "*Microelectrodes",
+          "Neurons/physiology"
+     ],
+     "PMC": "PMC3731431",
+     "EDAT": "2013/07/16 06:00",
+     "MHDA": "2014/03/01 06:00",
+     "CRDT": [
+          "2013/07/16 06:00"
+     ],
+     "PHST": [
+          "2013/07/16 06:00 [entrez]",
+          "2013/07/16 06:00 [pubmed]",
+          "2014/03/01 06:00 [medline]"
+     ],
+     "AID": [
+          "10.3791/50470 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "J Vis Exp. 2013 Jul 5;(77):e50470. doi: 10.3791/50470.",
+     "term": "hippocampus"
+}

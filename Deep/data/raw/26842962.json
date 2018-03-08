@@ -1,0 +1,101 @@
+{
+     "PMID": "26842962",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170928",
+     "LR": "20170928",
+     "IS": "2158-0022 (Electronic) 2158-0014 (Linking)",
+     "VI": "6",
+     "IP": "4",
+     "DP": "2016 May",
+     "TI": "Spin-Echo Resting-State Functional Connectivity in High-Susceptibility Regions: Accuracy, Reliability, and the Impact of Physiological Noise.",
+     "PG": "283-97",
+     "LID": "10.1089/brain.2015.0365 [doi]",
+     "AB": "Gradient-echo (GE) echo-planar imaging (EPI) is the method of choice in blood-oxygenation level-dependent (BOLD) functional MRI (fMRI) studies, as it demonstrates substantially higher BOLD sensitivity than its spin-echo (SE) counterpart. However, it is also well known that the GE-EPI signal is prone to signal dropouts and shifts due to susceptibility effects near air-tissue interfaces. SE-EPI, in contrast, is minimally affected by these artifacts. In this study, we quantify, for the first time, the sensitivity and specificity of SE and GE EPI for resting-state fMRI functional connectivity (fcMRI) mapping, using the 1000-brain fcMRI atlas (Yeo et al., 2011 ) as the pseudoground truth. Moreover, we assess the influence of physiological processes on resting-state BOLD measured using both regular and ultrafast GE and SE acquisitions. Our work demonstrates that SE-EPI and GE-EPI are associated with similar sensitivities, specificities, and intersubject reproducibility in fcMRI for most brain networks, generated using both seed-based analysis and independent component analysis. More importantly, SE-based fcMRI measurements demonstrated significantly higher sensitivity, specificity, and intersubject reproducibility in high-susceptibility regions, spanning the limbic and frontal networks in the 1000-brain atlas. In addition, SE-EPI is significantly less sensitive to prominent sources of physiological noise, including low-frequency respiratory volume and heart rate variations. Our work suggests that SE-EPI should be increasingly adopted in the study of networks spanning susceptibility-affected brain regions, including those that are important to memory, language, and emotion.",
+     "FAU": [
+          "Khatamian, Yasha B",
+          "Golestani, Ali M",
+          "Ragot, Don M",
+          "Chen, J Jean"
+     ],
+     "AU": [
+          "Khatamian YB",
+          "Golestani AM",
+          "Ragot DM",
+          "Chen JJ"
+     ],
+     "AD": "1 Rotman Research Institute , Baycrest, Toronto, Canada . 1 Rotman Research Institute , Baycrest, Toronto, Canada . 1 Rotman Research Institute , Baycrest, Toronto, Canada . 2 Department of Medical Biophysics, University of Toronto , Toronto, Canada . 1 Rotman Research Institute , Baycrest, Toronto, Canada . 2 Department of Medical Biophysics, University of Toronto , Toronto, Canada .",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "126164-1/Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160323",
+     "PL": "United States",
+     "TA": "Brain Connect",
+     "JT": "Brain connectivity",
+     "JID": "101550313",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Artifacts",
+          "Brain/physiology",
+          "Brain Mapping/methods",
+          "Connectome/methods",
+          "Echo-Planar Imaging/*methods",
+          "Female",
+          "Healthy Volunteers",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Reproducibility of Results",
+          "Rest/physiology",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC5167563",
+     "MID": [
+          "CAMS6366"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "BOLD",
+          "gradient echo",
+          "heart rate",
+          "hippocampus",
+          "inferior temporal",
+          "orbitofrontal",
+          "perirhinal cortex",
+          "physiological noise",
+          "respiratory volume",
+          "resting-state fMRI",
+          "resting-state functional connectivity",
+          "spin echo",
+          "susceptibility effects",
+          "temporal pole"
+     ],
+     "COIS": [
+          "Author Disclosure Statement No competing financial interests exist."
+     ],
+     "EDAT": "2016/02/05 06:00",
+     "MHDA": "2017/09/29 06:00",
+     "CRDT": [
+          "2016/02/05 06:00"
+     ],
+     "PHST": [
+          "2016/02/05 06:00 [entrez]",
+          "2016/02/05 06:00 [pubmed]",
+          "2017/09/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1089/brain.2015.0365 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Connect. 2016 May;6(4):283-97. doi: 10.1089/brain.2015.0365. Epub 2016 Mar 23.",
+     "term": "hippocampus"
+}

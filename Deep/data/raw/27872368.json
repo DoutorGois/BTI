@@ -1,0 +1,85 @@
+{
+     "PMID": "27872368",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171130",
+     "LR": "20180105",
+     "IS": "1471-2970 (Electronic) 0962-8436 (Linking)",
+     "VI": "372",
+     "IP": "1711",
+     "DP": "2017 Jan 5",
+     "TI": "Complementary learning systems within the hippocampus: a neural network modelling approach to reconciling episodic memory with statistical learning.",
+     "LID": "20160049 [pii]",
+     "AB": "A growing literature suggests that the hippocampus is critical for the rapid extraction of regularities from the environment. Although this fits with the known role of the hippocampus in rapid learning, it seems at odds with the idea that the hippocampus specializes in memorizing individual episodes. In particular, the Complementary Learning Systems theory argues that there is a computational trade-off between learning the specifics of individual experiences and regularities that hold across those experiences. We asked whether it is possible for the hippocampus to handle both statistical learning and memorization of individual episodes. We exposed a neural network model that instantiates known properties of hippocampal projections and subfields to sequences of items with temporal regularities. We found that the monosynaptic pathway-the pathway connecting entorhinal cortex directly to region CA1-was able to support statistical learning, while the trisynaptic pathway-connecting entorhinal cortex to CA1 through dentate gyrus and CA3-learned individual episodes, with apparent representations of regularities resulting from associative reactivation through recurrence. Thus, in paradigms involving rapid learning, the computational trade-off between learning episodes and regularities may be handled by separate anatomical pathways within the hippocampus itself.This article is part of the themed issue 'New frontiers for statistical learning in the cognitive sciences'.",
+     "CI": [
+          "(c) 2016 The Author(s)."
+     ],
+     "FAU": [
+          "Schapiro, Anna C",
+          "Turk-Browne, Nicholas B",
+          "Botvinick, Matthew M",
+          "Norman, Kenneth A"
+     ],
+     "AU": [
+          "Schapiro AC",
+          "Turk-Browne NB",
+          "Botvinick MM",
+          "Norman KA"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0001-8086-0331"
+     ],
+     "AD": "Princeton Neuroscience Institute and Department of Psychology, Princeton, NJ 08544, USA aschapir@bidmc.harvard.edu. Beth Israel Deaconess Medical Center and Harvard Medical School, Boston, MA 02215, USA. Princeton Neuroscience Institute and Department of Psychology, Princeton, NJ 08544, USA. Google DeepMind, London EC4A 3TW, UK. Princeton Neuroscience Institute and Department of Psychology, Princeton, NJ 08544, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EY021755/EY/NEI NIH HHS/United States",
+          "R01 MH069456/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "England",
+     "TA": "Philos Trans R Soc Lond B Biol Sci",
+     "JT": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+     "JID": "7503623",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Learning",
+          "*Memory, Episodic",
+          "*Neural Networks (Computer)"
+     ],
+     "PMC": "PMC5124075",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "associative inference",
+          "community structure",
+          "medial temporal lobe",
+          "neural network model",
+          "temporal regularities"
+     ],
+     "EDAT": "2016/11/23 06:00",
+     "MHDA": "2017/12/01 06:00",
+     "CRDT": [
+          "2016/11/23 06:00"
+     ],
+     "PHST": [
+          "2016/08/11 00:00 [accepted]",
+          "2016/11/23 06:00 [entrez]",
+          "2016/11/23 06:00 [pubmed]",
+          "2017/12/01 06:00 [medline]"
+     ],
+     "AID": [
+          "rstb.2016.0049 [pii]",
+          "10.1098/rstb.2016.0049 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Philos Trans R Soc Lond B Biol Sci. 2017 Jan 5;372(1711). pii: rstb.2016.0049. doi: 10.1098/rstb.2016.0049.",
+     "term": "hippocampus"
+}

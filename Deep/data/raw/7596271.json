@@ -1,0 +1,67 @@
+{
+     "PMID": "7596271",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19950803",
+     "LR": "20150525",
+     "IS": "0740-3194 (Print) 0740-3194 (Linking)",
+     "VI": "33",
+     "IP": "5",
+     "DP": "1995 May",
+     "TI": "Segmentation and feature extraction techniques, with applications to MRI head studies.",
+     "PG": "670-7",
+     "AB": "To obtain a three-dimensional reconstruction of the hippocampus from a volumetric MRI head study, it is necessary to separate that structure not only from the surrounding white matter, but also from contiguous areas of gray matter--the amygdala and cerebral cortex. At present it is necessary for a physician to manually segment the hippocampus on each slice of the volume to obtain such a reconstruction. This process is time consuming, and is subject to inter- and intraoperator variation as well as large discontinuities between slices. We propose a novel technique, making use of a combination of gray scale and edge-detection algorithms and some a priori knowledge, by which a computer may make an unsupervised identification of a given structure through a series of contiguous images. This technique is applicable even if the structure includes so-called false contours or missing contours. Applications include three-dimensional reconstruction of difficult-to-segment regions of the brain, and volumetric measurements of structures from series of two-dimensional images.",
+     "FAU": [
+          "Ashton, E A",
+          "Berg, M J",
+          "Parker, K J",
+          "Weisberg, J",
+          "Chen, C W",
+          "Ketonen, L"
+     ],
+     "AU": [
+          "Ashton EA",
+          "Berg MJ",
+          "Parker KJ",
+          "Weisberg J",
+          "Chen CW",
+          "Ketonen L"
+     ],
+     "AD": "Department of Electrical Engineering, University of Rochester, NY 14627, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Magn Reson Med",
+     "JT": "Magnetic resonance in medicine",
+     "JID": "8505245",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Bayes Theorem",
+          "Brain/anatomy & histology",
+          "Computer Simulation",
+          "Head/*anatomy & histology",
+          "Hippocampus/anatomy & histology",
+          "Humans",
+          "*Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging/*methods",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "1995/05/01 00:00",
+     "MHDA": "1995/05/01 00:01",
+     "CRDT": [
+          "1995/05/01 00:00"
+     ],
+     "PHST": [
+          "1995/05/01 00:00 [pubmed]",
+          "1995/05/01 00:01 [medline]",
+          "1995/05/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Magn Reson Med. 1995 May;33(5):670-7.",
+     "term": "hippocampus"
+}

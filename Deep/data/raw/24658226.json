@@ -1,0 +1,62 @@
+{
+     "PMID": "24658226",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140902",
+     "LR": "20140324",
+     "IS": "1558-2531 (Electronic) 0018-9294 (Linking)",
+     "VI": "61",
+     "IP": "4",
+     "DP": "2014 Apr",
+     "TI": "Gradient-based reliability maps for ACM-based segmentation of hippocampus.",
+     "PG": "1015-26",
+     "LID": "10.1109/TBME.2013.2293023 [doi]",
+     "AB": "Automatic segmentation of deep brain structures, such as the hippocampus (HC), in MR images has attracted considerable scientific attention due to the widespread use of MRI and to the principal role of some structures in various mental disorders. In this literature, there exists a substantial amount of work relying on deformable models incorporating prior knowledge about structures' anatomy and shape information. However, shape priors capture global shape characteristics and thus fail to model boundaries of varying properties; HC boundaries present rich, poor, and missing gradient regions. On top of that, shape prior knowledge is blended with image information in the evolution process, through global weighting of the two terms, again neglecting the spatially varying boundary properties, causing segmentation faults. An innovative method is hereby presented that aims to achieve highly accurate HC segmentation in MR images, based on the modeling of boundary properties at each anatomical location and the inclusion of appropriate image information for each of those, within an active contour model framework. Hence, blending of image information and prior knowledge is based on a local weighting map, which mixes gradient information, regional and whole brain statistical information with a multi-atlas-based spatial distribution map of the structure's labels. Experimental results on three different datasets demonstrate the efficacy and accuracy of the proposed method.",
+     "FAU": [
+          "Zarpalas, Dimitrios",
+          "Gkontra, Polyxeni",
+          "Daras, Petros",
+          "Maglaveras, Nicos"
+     ],
+     "AU": [
+          "Zarpalas D",
+          "Gkontra P",
+          "Daras P",
+          "Maglaveras N"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Biological"
+     ],
+     "EDAT": "2014/03/25 06:00",
+     "MHDA": "2014/09/03 06:00",
+     "CRDT": [
+          "2014/03/25 06:00"
+     ],
+     "PHST": [
+          "2014/03/25 06:00 [entrez]",
+          "2014/03/25 06:00 [pubmed]",
+          "2014/09/03 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TBME.2013.2293023 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 2014 Apr;61(4):1015-26. doi: 10.1109/TBME.2013.2293023.",
+     "term": "hippocampus"
+}

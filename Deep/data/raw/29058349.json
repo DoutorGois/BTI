@@ -1,0 +1,93 @@
+{
+     "PMID": "29058349",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180123",
+     "LR": "20180123",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "39",
+     "IP": "1",
+     "DP": "2018 Jan",
+     "TI": "The bumps under the hippocampus.",
+     "PG": "472-490",
+     "LID": "10.1002/hbm.23856 [doi]",
+     "AB": "Shown in every neuroanatomy textbook, a key morphological feature is the bumpy ridges, which we refer to as hippocampal dentation, on the inferior aspect of the hippocampus. Like the folding of the cerebral cortex, hippocampal dentation allows for greater surface area in a confined space. However, examining numerous approaches to hippocampal segmentation and morphology analysis, virtually all published 3D renderings of the hippocampus show the inferior surface to be quite smooth or mildly irregular; we have rarely seen the characteristic bumpy structure on reconstructed 3D surfaces. The only exception is a 9.4T postmortem study (Yushkevich et al. [2009]: NeuroImage 44:385-398). An apparent question is, does this indicate that this specific morphological signature can only be captured using ultra high-resolution techniques? Or, is such information buried in the data we commonly acquire, awaiting a computation technique that can extract and render it clearly? In this study, we propose an automatic and robust super-resolution technique that captures the fine scale morphometric features of the hippocampus based on common 3T MR images. The method is validated on 9.4T ultra-high field images and then applied on 3T data sets. This method opens possibilities of future research on the hippocampus and other sub-cortical structural morphometry correlating the degree of dentation with a range of diseases including epilepsy, Alzheimer's disease, and schizophrenia. Hum Brain Mapp 39:472-490, 2018. (c) 2017 Wiley Periodicals, Inc.",
+     "CI": [
+          "(c) 2017 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Chang, Cheng",
+          "Huang, Chuan",
+          "Zhou, Naiyun",
+          "Li, Shawn Xiang",
+          "Ver Hoef, Lawrence",
+          "Gao, Yi"
+     ],
+     "AU": [
+          "Chang C",
+          "Huang C",
+          "Zhou N",
+          "Li SX",
+          "Ver Hoef L",
+          "Gao Y"
+     ],
+     "AD": "Department of Electrical and Computer Engineering, Stony Brook University, Stony Brook, New York, 11794. Department of Radiology, Stony Brook University, Stony Brook, New York, 11794. Department of Psychiatry, Stony Brook University, Stony Brook, New York, 11794. Department of Biomedical Engineering, Stony Brook University, Stony Brook, New York, 11794. School of Biomedical Engineering, Health Science Center, Shenzhen University, Shenzhen, 518060, China. Department of Neurology, The University of Alabama at Birmingham, CIRC 312, Birmingham, Alabama, 35294. Epilepsy center, The University of Alabama at Birmingham, CIRC 312, Birmingham, Alabama, 35294. School of Biomedical Engineering, Health Science Center, Shenzhen University, Shenzhen, 518060, China. Guangdong Key Laboratory for Biomedical Measurements and Ultrasound Imaging, Shenzhen, 518060, China. Department of Applied Mathematics and Statistics, Stony Brook University, Stony Brook, New York, 11794.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0003-0094-8136"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Validation Studies"
+     ],
+     "DEP": "20171023",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Epilepsy/diagnostic imaging",
+          "Female",
+          "Hippocampus/*diagnostic imaging",
+          "Humans",
+          "Imaging, Three-Dimensional/*methods",
+          "*Magnetic Resonance Imaging/methods",
+          "Male",
+          "Middle Aged",
+          "Pattern Recognition, Automated",
+          "Sclerosis/diagnostic imaging",
+          "Young Adult"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "hippocampus dentation",
+          "morphometry",
+          "segmentation"
+     ],
+     "EDAT": "2017/10/24 06:00",
+     "MHDA": "2018/01/24 06:00",
+     "CRDT": [
+          "2017/10/24 06:00"
+     ],
+     "PHST": [
+          "2017/03/29 00:00 [received]",
+          "2017/10/09 00:00 [revised]",
+          "2017/10/11 00:00 [accepted]",
+          "2017/10/24 06:00 [pubmed]",
+          "2018/01/24 06:00 [medline]",
+          "2017/10/24 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hbm.23856 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2018 Jan;39(1):472-490. doi: 10.1002/hbm.23856. Epub 2017 Oct 23.",
+     "term": "hippocampus"
+}

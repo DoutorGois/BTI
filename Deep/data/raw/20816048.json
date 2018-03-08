@@ -1,0 +1,84 @@
+{
+     "PMID": "20816048",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101217",
+     "LR": "20170922",
+     "IS": "1542-0086 (Electronic) 0006-3495 (Linking)",
+     "VI": "99",
+     "IP": "5",
+     "DP": "2010 Sep 8",
+     "TI": "Analysis of microscopic parameters of single-particle trajectories in neurons.",
+     "PG": "1368-76",
+     "LID": "10.1016/j.bpj.2010.06.021 [doi]",
+     "AB": "We performed a comparative study of the statistical uncertainties that arise when calculating the velocity and diffusion coefficients from single-particle trajectories. We show that a method where particle mean displacement is used to calculate velocity and mean square fluctuation is used to calculate diffusion coefficient offers greater accuracy than analysis of time-dependent mean square displacement. Our assessment of the performance of the two analysis strategies is conducted in two ways. First, we apply each of the methods to simulated trajectories where each parameter term is known. Second, we analyze the motion of previously uncharacterized EphB2 receptors in the membrane of hippocampal neurons. We find that EphB2 receptors display different types of motion mode and transition between these modes. We present our data as a distribution of microscopic diffusion coefficients for each particle trajectory, which we refer to as partial distributions. Partial distributions are summed to form a cumulative distribution of diffusion coefficients for EphB2 receptors in hippocampal neurons. The structure and interpretation of the EphB2 cumulative distribution are discussed.",
+     "CI": [
+          "Copyright 2010 Biophysical Society. Published by Elsevier Inc. All rights",
+          "reserved."
+     ],
+     "FAU": [
+          "Burlakov, V M",
+          "Taylor, R",
+          "Koerner, J",
+          "Emptage, N"
+     ],
+     "AU": [
+          "Burlakov VM",
+          "Taylor R",
+          "Koerner J",
+          "Emptage N"
+     ],
+     "AD": "Department of Pharmacology, Oxford University, Oxford, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0802613/Medical Research Council/United Kingdom",
+          "Biotechnology and Biological Sciences Research Council/United Kingdom",
+          "Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Biophys J",
+     "JT": "Biophysical journal",
+     "JID": "0370626",
+     "RN": [
+          "EC 2.7.10.1 (Receptor, EphB2)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Diffusion",
+          "Hippocampus/cytology",
+          "*Models, Biological",
+          "Movement",
+          "Neurons/*metabolism",
+          "Quantum Dots",
+          "Receptor, EphB2/metabolism",
+          "Time Factors"
+     ],
+     "PMC": "PMC2931737",
+     "EDAT": "2010/09/08 06:00",
+     "MHDA": "2010/12/18 06:00",
+     "CRDT": [
+          "2010/09/07 06:00"
+     ],
+     "PHST": [
+          "2009/11/08 00:00 [received]",
+          "2010/05/13 00:00 [revised]",
+          "2010/06/01 00:00 [accepted]",
+          "2010/09/07 06:00 [entrez]",
+          "2010/09/08 06:00 [pubmed]",
+          "2010/12/18 06:00 [medline]"
+     ],
+     "AID": [
+          "S0006-3495(10)00733-2 [pii]",
+          "10.1016/j.bpj.2010.06.021 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biophys J. 2010 Sep 8;99(5):1368-76. doi: 10.1016/j.bpj.2010.06.021.",
+     "term": "hippocampus"
+}

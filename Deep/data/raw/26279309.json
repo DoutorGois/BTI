@@ -1,0 +1,111 @@
+{
+     "PMID": "26279309",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160809",
+     "LR": "20170515",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "36",
+     "IP": "11",
+     "DP": "2015 Nov",
+     "TI": "Assessing hippocampal development and language in early childhood: Evidence from a new application of the Automatic Segmentation Adapter Tool.",
+     "PG": "4483-96",
+     "LID": "10.1002/hbm.22931 [doi]",
+     "AB": "Volumetric assessments of the hippocampus and other brain structures during childhood provide useful indices of brain development and correlates of cognitive functioning in typically and atypically developing children. Automated methods such as FreeSurfer promise efficient and replicable segmentation, but may include errors which are avoided by trained manual tracers. A recently devised automated correction tool that uses a machine learning algorithm to remove systematic errors, the Automatic Segmentation Adapter Tool (ASAT), was capable of substantially improving the accuracy of FreeSurfer segmentations in an adult sample [Wang et al., 2011], but the utility of ASAT has not been examined in pediatric samples. In Study 1, the validity of FreeSurfer and ASAT corrected hippocampal segmentations were examined in 20 typically developing children and 20 children with autism spectrum disorder aged 2 and 3 years. We showed that while neither FreeSurfer nor ASAT accuracy differed by disorder or age, the accuracy of ASAT corrected segmentations were substantially better than FreeSurfer segmentations in every case, using as few as 10 training examples. In Study 2, we applied ASAT to 89 typically developing children aged 2 to 4 years to examine relations between hippocampal volume, age, sex, and expressive language. Girls had smaller hippocampi overall, and in left hippocampus this difference was larger in older than younger girls. Expressive language ability was greater in older children, and this difference was larger in those with larger hippocampi, bilaterally. Overall, this research shows that ASAT is highly reliable and useful to examinations relating behavior to hippocampal structure.",
+     "CI": [
+          "(c) 2015 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Lee, Joshua K",
+          "Nordahl, Christine W",
+          "Amaral, David G",
+          "Lee, Aaron",
+          "Solomon, Marjorie",
+          "Ghetti, Simona"
+     ],
+     "AU": [
+          "Lee JK",
+          "Nordahl CW",
+          "Amaral DG",
+          "Lee A",
+          "Solomon M",
+          "Ghetti S"
+     ],
+     "AD": "Department of Psychology, University of California, Davis, California. Center for Mind and Brain, University of California, Davis, California. MIND Institute, University of California, Davis, California. MIND Institute, University of California, Davis, California. MIND Institute, University of California, Davis, California. MIND Institute, University of California, Davis, California. Department of Psychology, University of California, Davis, California. Center for Mind and Brain, University of California, Davis, California.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U24 MH081810/MH/NIMH NIH HHS/United States",
+          "R01 NS016980/NS/NINDS NIH HHS/United States",
+          "R01 NS16980/NS/NINDS NIH HHS/United States",
+          "R01 MH103284/MH/NIMH NIH HHS/United States",
+          "R00 MH085099/MH/NIMH NIH HHS/United States",
+          "R01 MH091109/MH/NIMH NIH HHS/United States",
+          "R01 MH106518/MH/NIMH NIH HHS/United States",
+          "R01 MH104438/MH/NIMH NIH HHS/United States",
+          "R01 MH089626/MH/NIMH NIH HHS/United States",
+          "R01MH091109/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150817",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Autism Spectrum Disorder/pathology/physiopathology",
+          "Child, Preschool",
+          "Female",
+          "Hippocampus/*anatomy & histology/growth & development",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "*Language Development",
+          "*Machine Learning",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Sex Factors"
+     ],
+     "PMC": "PMC4913550",
+     "MID": [
+          "NIHMS785865"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "autism",
+          "development",
+          "freesurfer",
+          "hippocampus",
+          "language",
+          "methods",
+          "segmentation",
+          "segmentation adapter"
+     ],
+     "EDAT": "2015/08/19 06:00",
+     "MHDA": "2016/08/10 06:00",
+     "CRDT": [
+          "2015/08/18 06:00"
+     ],
+     "PHST": [
+          "2015/02/06 00:00 [received]",
+          "2015/07/23 00:00 [revised]",
+          "2015/07/28 00:00 [accepted]",
+          "2015/08/18 06:00 [entrez]",
+          "2015/08/19 06:00 [pubmed]",
+          "2016/08/10 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.22931 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2015 Nov;36(11):4483-96. doi: 10.1002/hbm.22931. Epub 2015 Aug 17.",
+     "term": "hippocampus"
+}

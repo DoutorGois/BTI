@@ -1,0 +1,66 @@
+{
+     "PMID": "28769779",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20170807",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "11",
+     "DP": "2017",
+     "TI": "Size Matters: How Scaling Affects the Interaction between Grid and Border Cells.",
+     "PG": "65",
+     "LID": "10.3389/fncom.2017.00065 [doi]",
+     "AB": "Many hippocampal cell types are characterized by a progressive increase in scale along the dorsal-to-ventral axis, such as in the cases of head-direction, grid and place cells. Also located in the medial entorhinal cortex (MEC), border cells would be expected to benefit from such scale modulations. However, this phenomenon has not been experimentally observed. Grid cells in the MEC of mammals integrate velocity related signals to map the environment with characteristic hexagonal tessellation patterns. Due to the noisy nature of these input signals, path integration processes tend to accumulate errors as animals explore the environment, leading to a loss of grid-like activity. It has been suggested that border-to-grid cells' associations minimize the accumulated grid cells' error when rodents explore enclosures. Thus, the border-grid interaction for error minimization is a suitable scenario to study the effects of border cell scaling within the context of spatial representation. In this study, we computationally address the question of (i) border cells' scale from the perspective of their role in maintaining the regularity of grid cells' firing fields, as well as (ii) what are the underlying mechanisms of grid-border associations relative to the scales of both grid and border cells. Our results suggest that for optimal contribution to grid cells' error minimization, border cells should express smaller firing fields relative to those of the associated grid cells, which is consistent with the hypothesis of border cells functioning as spatial anchoring signals.",
+     "FAU": [
+          "Santos-Pata, Diogo",
+          "Zucca, Riccardo",
+          "Low, Sock C",
+          "Verschure, Paul F M J"
+     ],
+     "AU": [
+          "Santos-Pata D",
+          "Zucca R",
+          "Low SC",
+          "Verschure PFMJ"
+     ],
+     "AD": "SPECS, Universitat Pompeu FabraBarcelona, Spain. SPECS, Universitat Pompeu FabraBarcelona, Spain. SPECS, Universitat Pompeu FabraBarcelona, Spain. SPECS, Universitat Pompeu FabraBarcelona, Spain. Institucio Catalana de Recerca i Estudis AvancatsBarcelona, Spain. Institut de Bioenginyeria de Catalunya (IBEC)Barcelona, Spain.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170718",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC5513924",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "border cells",
+          "error minimization",
+          "grid cells",
+          "navigation",
+          "path integration"
+     ],
+     "EDAT": "2017/08/05 06:00",
+     "MHDA": "2017/08/05 06:01",
+     "CRDT": [
+          "2017/08/04 06:00"
+     ],
+     "PHST": [
+          "2017/03/23 00:00 [received]",
+          "2017/07/03 00:00 [accepted]",
+          "2017/08/04 06:00 [entrez]",
+          "2017/08/05 06:00 [pubmed]",
+          "2017/08/05 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2017.00065 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2017 Jul 18;11:65. doi: 10.3389/fncom.2017.00065. eCollection 2017.",
+     "term": "place cells"
+}

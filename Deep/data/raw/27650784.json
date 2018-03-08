@@ -1,0 +1,73 @@
+{
+     "PMID": "27650784",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170203",
+     "LR": "20170203",
+     "IS": "0219-6352 (Print) 0219-6352 (Linking)",
+     "VI": "15",
+     "IP": "3",
+     "DP": "2016 Sep",
+     "TI": "Impaired neurogenesis of the dentate gyrus is associated with pattern separation deficits: A computational study.",
+     "PG": "277-293",
+     "AB": "The separation of input patterns received from the entorhinal cortex (EC) by the dentate gyrus (DG) is a well-known critical step of information processing in the hippocampus. Although the role of interneurons in separation pattern efficiency of the DG has been theoretically known, the balance of neurogenesis of excitatory neurons and interneurons as well as its potential role in information processing in the DG is not fully understood. In this work, we study separation efficiency of the DG for different rates of neurogenesis of interneurons and excitatory neurons using a novel computational model in which we assume an increase in the synaptic efficacy between excitatory neurons and interneurons and then its decay over time. Information processing in the EC and DG was simulated as information flow in a two layer feed-forward neural network. The neurogenesis rate was modeled as the percentage of new born neurons added to the neuronal population in each time bin. The results show an important role of an optimal neurogenesis rate of interneurons and excitatory neurons in the DG in efficient separation of inputs from the EC in pattern separation tasks. The model predicts that any deviation of the optimal values of neurogenesis rates leads to different decreased levels of the separation deficits of the DG which influences its function to encode memory.",
+     "FAU": [
+          "Faghihi, Faramarz",
+          "Moustafa, Ahmed A"
+     ],
+     "AU": [
+          "Faghihi F",
+          "Moustafa AA"
+     ],
+     "AD": "* Department of Cognitive Modeling, Institute for Cognitive Science, Pardis, 303-735-3602, Iran. dagger Department of Cognitive Modeling, Institute for Brain and Cognitive Science, Shahid Beheshti University, Tehran, 1983969411, Iran. double dagger School of Social Sciences and Psychology & Marcs Institute for Brain and Behaviour, University of Western Sydney, Milperra, New South Wales, 2214, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160921",
+     "PL": "England",
+     "TA": "J Integr Neurosci",
+     "JT": "Journal of integrative neuroscience",
+     "JID": "101156357",
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease",
+          "Animals",
+          "Dentate Gyrus/*physiopathology",
+          "*Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Neurogenesis/*physiology",
+          "Neurons/*physiology",
+          "Synaptic Transmission/physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Entorhinal cortex",
+          "dentate gyrus",
+          "granule cells",
+          "interneurons",
+          "neurogenesis",
+          "pattern separation"
+     ],
+     "EDAT": "2016/09/22 06:00",
+     "MHDA": "2017/02/06 06:00",
+     "CRDT": [
+          "2016/09/22 06:00"
+     ],
+     "PHST": [
+          "2016/09/22 06:00 [pubmed]",
+          "2017/02/06 06:00 [medline]",
+          "2016/09/22 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1142/S0219635216500175 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Integr Neurosci. 2016 Sep;15(3):277-293. doi: 10.1142/S0219635216500175. Epub 2016 Sep 21.",
+     "term": "hippocampus"
+}

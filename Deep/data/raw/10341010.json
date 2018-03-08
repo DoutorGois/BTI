@@ -1,0 +1,61 @@
+{
+     "PMID": "10341010",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "19990525",
+     "IS": "1435-8115 (Electronic) 1431-9276 (Linking)",
+     "VI": "5",
+     "IP": "2",
+     "DP": "1999 Mar",
+     "TI": "Application and Quantitative Validation of Computer-Automated Three-Dimensional Counting of Cell Nuclei.",
+     "PG": "106-119",
+     "AB": ": This study provides a quantitative validation of qualitative automated three-dimensional (3-D) analysis methods reported earlier. It demonstrates the applicability and quantitative accuracy of our method to detect, characterize, and count Feulgen stained cell nuclei in two tissues (hippocampus and testes). These methods can provide important insights into the interpretation of biological, pharmacological, pathological, and toxicological events. A laser-scanned confocal light microscope was used to record 3-D images in which our algorithms automatically identified individual nuclei from the optical sections given an estimate of minimum nuclear size. The hippocampal data sets were also manually counted independently by five trained observers using the STERECON 3-D image reconstruction system. The automated and manual counts were compared. The computer counts were lower ( approximately 14%) than the manual counts, mainly because the algorithms counted a nucleus only if it was present in five consecutive optical sections but the human counters included nuclei that were in fewer optical sections. A nucleus-by-nucleus comparison of the manual and automated counts verified that the automated analysis was accurate and reproducible, and permitted additional quantitative analyses not available from manual methods. The algorithms also identified subpopulations of nuclei within the hippocampal samples, and haploid and diploid nuclei in the testes. Our methods were shown to be repeatable, accurate, and more consistent than manual counting. Nuclei in regions of high (hippocampal pyramidal layer) and low (extrapyramidal layer) density were distinguished with equal ease. Haploid and diploid nuclei were distinguished in the testes, demonstrating that our automated method may be useful for ploidy analysis. The results presented here on hippocampus and testis are consistent with other qualitative results from the liver and from immunohistochemically labeled substantia nigra, demonstrating the applicability of our software across tissues and preparation methods.",
+     "FAU": [
+          "Shain",
+          "Kayali",
+          "Szarowski",
+          "Davis-Cox",
+          "Ancin",
+          "Bhattacharjya",
+          "Roysam",
+          "Turner"
+     ],
+     "AU": [
+          "Shain W",
+          "Kayali S",
+          "Szarowski D",
+          "Davis-Cox M",
+          "Ancin H",
+          "Bhattacharjya AK",
+          "Roysam B",
+          "Turner JN"
+     ],
+     "AD": "Wadsworth Center for Laboratories and Research, New York State Department of Health, Empire State Plaza, Box 509, Albany, NY 12201-0509",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Microsc Microanal",
+     "JT": "Microscopy and microanalysis : the official journal of Microscopy Society of America, Microbeam Analysis Society, Microscopical Society of Canada",
+     "JID": "9712707",
+     "EDAT": "1999/05/29 00:00",
+     "MHDA": "1999/05/29 00:00",
+     "CRDT": [
+          "1999/05/29 00:00"
+     ],
+     "PHST": [
+          "1999/05/29 00:00 [pubmed]",
+          "1999/05/29 00:00 [medline]",
+          "1999/05/29 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1017/S1431927699000069 [doi]",
+          "S1431927699000069 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Microsc Microanal. 1999 Mar;5(2):106-119. doi: 10.1017/S1431927699000069.",
+     "term": "hippocampus"
+}

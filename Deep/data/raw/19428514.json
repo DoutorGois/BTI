@@ -1,0 +1,74 @@
+{
+     "PMID": "19428514",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090716",
+     "LR": "20170922",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "179",
+     "IP": "1",
+     "DP": "2009 Apr 30",
+     "TI": "Confidence intervals for the volume of brain structures in Cavalieri sampling with local errors.",
+     "PG": "71-7",
+     "LID": "10.1016/j.jneumeth.2009.01.026 [doi]",
+     "AB": "The identification and quantification of morphological alterations that occur in the brain due to neurological disease, development and ageing, is of special interest in brain research. Design-based stereological methods have been widely applied in combination with magnetic resonance (MR) imaging to estimate the volume of brain structures. In the Cavalieri method, the volume V is directly estimated from equidistant and parallel MR images of the brain with a uniform random starting position. A second level of sampling is usually required to estimate the section area from each image (e.g., by applying point counting). The mathematical justification and implementation of the methodology is simple and it can be applied to structures of arbitrary shape. However, due to the spatial dependence in the data sample, how to predict the precision of the estimator of V becomes a difficult task. In this paper, we develop a method to construct a confidence interval for V by analysing the variability produced by each level of sampling (i.e., between and within sections' variability). Simulation from two known analytical measurement functions is carried out to show its validity. Finally, the new approach is applied to investigate the significance of hippocampus volume change in a patient with epilepsy after 2 years of disease.",
+     "FAU": [
+          "Garcia-Finana, Marta",
+          "Keller, Simon S",
+          "Roberts, Neil"
+     ],
+     "AU": [
+          "Garcia-Finana M",
+          "Keller SS",
+          "Roberts N"
+     ],
+     "AD": "Centre for Medical Statistics and Health Evaluation, University of Liverpool, Shelley's Cottage, Liverpool, UK. martaf@liv.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0701127/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090205",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Brain/*anatomy & histology/pathology",
+          "Computer Simulation",
+          "Confidence Intervals",
+          "Epilepsy, Temporal Lobe/pathology",
+          "Humans",
+          "Magnetic Resonance Imaging/*methods",
+          "Organ Size",
+          "*Signal Processing, Computer-Assisted",
+          "Time Factors"
+     ],
+     "EDAT": "2009/05/12 09:00",
+     "MHDA": "2009/07/17 09:00",
+     "CRDT": [
+          "2009/05/12 09:00"
+     ],
+     "PHST": [
+          "2008/09/28 00:00 [received]",
+          "2009/01/12 00:00 [revised]",
+          "2009/01/16 00:00 [accepted]",
+          "2009/05/12 09:00 [entrez]",
+          "2009/05/12 09:00 [pubmed]",
+          "2009/07/17 09:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(09)00042-9 [pii]",
+          "10.1016/j.jneumeth.2009.01.026 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2009 Apr 30;179(1):71-7. doi: 10.1016/j.jneumeth.2009.01.026. Epub 2009 Feb 5.",
+     "term": "hippocampus"
+}

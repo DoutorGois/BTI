@@ -1,0 +1,62 @@
+{
+     "PMID": "22806662",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130125",
+     "LR": "20171014",
+     "IS": "1612-4790 (Electronic) 1612-4782 (Linking)",
+     "VI": "13 Suppl 1",
+     "DP": "2012 Aug",
+     "TI": "Using hippocampal-striatal loops for spatial navigation and goal-directed decision-making.",
+     "PG": "S125-9",
+     "LID": "10.1007/s10339-012-0475-7 [doi]",
+     "AB": "The hippocampus plays a central role in spatial representation, declarative and episodic memory. In this area, so-called place cells possess high spatial selectivity, firing preferentially when the individual is within a small area of the environment. Interestingly, it has been found in rats that these cells can be active also when the animal is outside the location or context of their corresponding place field producing so-called \"forward sweeps\". These typically occur at decision points during task execution and seem to be utilized, among other things, for the evaluation of potential alternative paths. Anticipatory firing is also found in the ventral striatum, a brain area that is strongly interconnected with the hippocampus and is known to encode value and reward. In this paper, we describe a biologically based computational model of the hippocampal-ventral striatum circuit that implements a goal-directed mechanism of choice, with the hippocampus primarily involved in the mental simulation of possible navigation paths and the ventral striatum involved in the evaluation of the associated reward expectancies. The model is validated in a navigation task in which a rat is placed in a complex maze with multiple rewarding sites. We show that the rat mentally activates place cells to simulate paths, estimate their value, and make decisions, implementing two essential processes of model-based reinforcement learning algorithms of choice: look-ahead prediction and the evaluation of predicted states.",
+     "FAU": [
+          "Chersi, Fabian",
+          "Pezzulo, Giovanni"
+     ],
+     "AU": [
+          "Chersi F",
+          "Pezzulo G"
+     ],
+     "AD": "Institute of Cognitive Sciences and Technologies, CNR, Via S. Martino della Battaglia 44, 00185, Rome, Italy. fabian.chersi@istc.cnr.it",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Cogn Process",
+     "JT": "Cognitive processing",
+     "JID": "101177984",
+     "SB": "IM",
+     "MH": [
+          "Computer Simulation",
+          "Corpus Striatum/*physiology",
+          "*Decision Making",
+          "*Goals",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Maze Learning",
+          "*Models, Neurological",
+          "Space Perception/*physiology",
+          "Spatial Behavior/physiology"
+     ],
+     "EDAT": "2012/07/19 06:00",
+     "MHDA": "2013/01/26 06:00",
+     "CRDT": [
+          "2012/07/19 06:00"
+     ],
+     "PHST": [
+          "2012/07/19 06:00 [entrez]",
+          "2012/07/19 06:00 [pubmed]",
+          "2013/01/26 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10339-012-0475-7 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cogn Process. 2012 Aug;13 Suppl 1:S125-9. doi: 10.1007/s10339-012-0475-7.",
+     "term": "place cells"
+}

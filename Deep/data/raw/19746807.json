@@ -1,0 +1,96 @@
+{
+     "PMID": "19746807",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090930",
+     "LR": "20170214",
+     "IS": "0094-2405 (Print) 0094-2405 (Linking)",
+     "VI": "36",
+     "IP": "8",
+     "DP": "2009 Aug",
+     "TI": "Automatic analysis of medial temporal lobe atrophy from structural MRIs for the early assessment of Alzheimer disease.",
+     "PG": "3737-47",
+     "AB": "The purpose of this study is to develop a software for the extraction of the hippocampus and surrounding medial temporal lobe (MTL) regions from T1-weighted magnetic resonance (MR) images with no interactive input from the user, to introduce a novel statistical indicator, computed on the intensities in the automatically extracted MTL regions, which measures atrophy, and to evaluate the accuracy of the newly developed intensity-based measure of MTL atrophy to (a) distinguish between patients with Alzheimer disease (AD), patients with amnestic mild cognitive impairment (aMCI), and elderly controls by using established criteria for patients with AD and aMCI as the reference standard and (b) infer about the clinical outcome of aMCI patients. For the development of the software, the study included 61 patients with mild AD (17 men, 44 women; mean age +/- standard deviation (SD), 75.8 years +/- 7.8; Mini Mental State Examination (MMSE) score, 24.1 +/- 3.1), 42 patients with aMCI (11 men, 31 women; mean age +/- SD, 75.2 years +/- 4.9; MMSE score, 27.9 +/- 1.9), and 30 elderly healthy controls (10 men, 20 women; mean age +/- SD, 74.7 years +/- 5.2; MMSE score, 29.1 +/- 0.8). For the evaluation of the statistical indicator, 150 patients with mild AD (62 men, 88 women; mean age +/- SD, 76.3 years +/- 5.8; MMSE score, 23.2 +/- 4.1), 247 patients with aMCI (143 men, 104 women; mean age +/- SD, 75.3 years +/- 6.7; MMSE score, 27.0 +/- 1.8), and 135 elderly healthy controls (61 men, 74 women; mean age +/- SD, 76.4 years +/- 6.1). Fifty aMCI patients were evaluated every 6 months over a 3 year period to assess conversion to AD. For each participant, two subimages of the MTL regions were automatically extracted from T1-weighted MR images with high spatial resolution. An intensity-based MTL atrophy measure was found to separate control, MCI, and AD cohorts. Group differences were assessed by using two-sample t test. Individual classification was analyzed by using receiver operating characteristic (ROC) curves. Compared to controls, significant differences in the intensity-based MTL atrophy measure were detected in both groups of patients (AD vs controls, 0.28 +/- 0.03 vs 0.34 +/- 0.03, P < 0.001; aMCI vs controls, 0.31 +/- 0.03 vs 0.34 +/- 0.03, P < 0.001). Moreover, the subgroup of aMCI converters was significantly different from controls (0.27 +/- 0.034 vs 0.34 +/- 0.03, P < 0.001). Regarding the ROC curve for intergroup discrimination, the area under the curve was 0.863 for AD patients vs controls, 0.746 for all aMCI patients vs controls, and 0.880 for aMCI converters vs controls. With specificity set at 85%, the sensitivity was 74% for AD vs controls, 45% for aMCI vs controls, and 83% for aMCI converters vs controls. The automated analysis of MTL atrophy in the segmented volume is applied to the early assessment of AD, leading to the discrimination of aMCI converters with an average 3 year follow-up. This procedure can provide additional useful information in the early diagnosis of AD.",
+     "FAU": [
+          "Calvini, Piero",
+          "Chincarini, Andrea",
+          "Gemme, Gianluca",
+          "Penco, Maria Antonietta",
+          "Squarcia, Sandro",
+          "Nobili, Flavio",
+          "Rodriguez, Guido",
+          "Bellotti, Roberto",
+          "Catanzariti, Ezio",
+          "Cerello, Piergiorgio",
+          "De Mitri, Ivan",
+          "Fantacci, Maria Evelina"
+     ],
+     "AU": [
+          "Calvini P",
+          "Chincarini A",
+          "Gemme G",
+          "Penco MA",
+          "Squarcia S",
+          "Nobili F",
+          "Rodriguez G",
+          "Bellotti R",
+          "Catanzariti E",
+          "Cerello P",
+          "De Mitri I",
+          "Fantacci ME"
+     ],
+     "AD": "Dipartimento di Fisica, Universita di Genova, 1-16146, Genova, Italy.",
+     "CN": [
+          "MAGIC-5 Collaboration",
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "U19 AG010483/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Med Phys",
+     "JT": "Medical physics",
+     "JID": "0425746",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/*diagnosis/*pathology",
+          "*Atrophy",
+          "Automation",
+          "Female",
+          "Hippocampus/pathology",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Software",
+          "*Subtraction Technique",
+          "Temporal Lobe/*pathology",
+          "Time Factors"
+     ],
+     "PMC": "PMC2724178",
+     "EDAT": "2009/09/15 06:00",
+     "MHDA": "2009/10/01 06:00",
+     "CRDT": [
+          "2009/09/15 06:00"
+     ],
+     "PHST": [
+          "2009/09/15 06:00 [entrez]",
+          "2009/09/15 06:00 [pubmed]",
+          "2009/10/01 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1118/1.3171686 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Phys. 2009 Aug;36(8):3737-47. doi: 10.1118/1.3171686.",
+     "term": "hippocampus"
+}

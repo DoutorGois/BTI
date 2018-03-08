@@ -1,0 +1,92 @@
+{
+     "PMID": "25156191",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150723",
+     "LR": "20141203",
+     "IS": "1879-307X (Electronic) 1364-6613 (Linking)",
+     "VI": "18",
+     "IP": "12",
+     "DP": "2014 Dec",
+     "TI": "Internally generated sequences in learning and executing goal-directed behavior.",
+     "PG": "647-57",
+     "LID": "10.1016/j.tics.2014.06.011 [doi] S1364-6613(14)00157-0 [pii]",
+     "AB": "A network of brain structures including hippocampus (HC), prefrontal cortex, and striatum controls goal-directed behavior and decision making. However, the neural mechanisms underlying these functions are unknown. Here, we review the role of 'internally generated sequences': structured, multi-neuron firing patterns in the network that are not confined to signaling the current state or location of an agent, but are generated on the basis of internal brain dynamics. Neurophysiological studies suggest that such sequences fulfill functions in memory consolidation, augmentation of representations, internal simulation, and recombination of acquired information. Using computational modeling, we propose that internally generated sequences may be productively considered a component of goal-directed decision systems, implementing a sampling-based inference engine that optimizes goal acquisition at multiple timescales of on-line choice, action control, and learning.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Pezzulo, Giovanni",
+          "van der Meer, Matthijs A A",
+          "Lansink, Carien S",
+          "Pennartz, Cyriel M A"
+     ],
+     "AU": [
+          "Pezzulo G",
+          "van der Meer MA",
+          "Lansink CS",
+          "Pennartz CM"
+     ],
+     "AD": "Institute of Cognitive Sciences and Technologies, National Research Council, Via San Martino della Battaglia 44, 00185 Roma, Italy. Department of Biology and Centre for Theoretical Neuroscience, University of Waterloo, 200 University Avenue West, Waterloo, ON N2L 3G1, Canada. Swammerdam Institute for Life Sciences - Center for Neuroscience, University of Amsterdam, Science Park 904, 1098 XH Amsterdam, The Netherlands; Amsterdam Brain and Cognition, Research Priority Program Brain and Cognition, Nieuwe Achtergracht 129, 1018 WS Amsterdam, The Netherlands. Swammerdam Institute for Life Sciences - Center for Neuroscience, University of Amsterdam, Science Park 904, 1098 XH Amsterdam, The Netherlands; Amsterdam Brain and Cognition, Research Priority Program Brain and Cognition, Nieuwe Achtergracht 129, 1018 WS Amsterdam, The Netherlands. Electronic address: c.m.a.pennartz@uva.nl.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+     ],
+     "DEP": "20140823",
+     "PL": "England",
+     "TA": "Trends Cogn Sci",
+     "JT": "Trends in cognitive sciences",
+     "JID": "9708669",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/*physiology",
+          "Decision Making/*physiology",
+          "*Goals",
+          "Habits",
+          "Humans",
+          "Learning/*physiology",
+          "Memory/physiology",
+          "Psychomotor Performance/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "decision making",
+          "forward sweep",
+          "generative models",
+          "hippocampus",
+          "inference",
+          "prospection",
+          "reinforcement learning",
+          "replay",
+          "spatial navigation",
+          "theta rhythm",
+          "ventral striatum"
+     ],
+     "EDAT": "2014/08/27 06:00",
+     "MHDA": "2015/07/24 06:00",
+     "CRDT": [
+          "2014/08/27 06:00"
+     ],
+     "PHST": [
+          "2014/04/01 00:00 [received]",
+          "2014/06/25 00:00 [revised]",
+          "2014/06/26 00:00 [accepted]",
+          "2014/08/27 06:00 [entrez]",
+          "2014/08/27 06:00 [pubmed]",
+          "2015/07/24 06:00 [medline]"
+     ],
+     "AID": [
+          "S1364-6613(14)00157-0 [pii]",
+          "10.1016/j.tics.2014.06.011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Trends Cogn Sci. 2014 Dec;18(12):647-57. doi: 10.1016/j.tics.2014.06.011. Epub 2014 Aug 23.",
+     "term": "spatial navigation"
+}

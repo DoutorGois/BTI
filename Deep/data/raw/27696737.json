@@ -1,0 +1,127 @@
+{
+     "PMID": "27696737",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170921",
+     "LR": "20170921",
+     "IS": "1552-485X (Electronic) 1552-4841 (Linking)",
+     "VI": "174",
+     "IP": "3",
+     "DP": "2017 Apr",
+     "TI": "Highly polygenic architecture of antidepressant treatment response: Comparative analysis of SSRI and NRI treatment in an animal model of depression.",
+     "PG": "235-250",
+     "LID": "10.1002/ajmg.b.32494 [doi]",
+     "AB": "Response to antidepressant (AD) treatment may be a more polygenic trait than previously hypothesized, with many genetic variants interacting in yet unclear ways. In this study we used methods that can automatically learn to detect patterns of statistical regularity from a sparsely distributed signal across hippocampal transcriptome measurements in a large-scale animal pharmacogenomic study to uncover genomic variations associated with AD. The study used four inbred mouse strains of both sexes, two drug treatments, and a control group (escitalopram, nortriptyline, and saline). Multi-class and binary classification using Machine Learning (ML) and regularization algorithms using iterative and univariate feature selection methods, including InfoGain, mRMR, ANOVA, and Chi Square, were used to uncover genomic markers associated with AD response. Relevant genes were selected based on Jaccard distance and carried forward for gene-network analysis. Linear association methods uncovered only one gene associated with drug treatment response. The implementation of ML algorithms, together with feature reduction methods, revealed a set of 204 genes associated with SSRI and 241 genes associated with NRI response. Although only 10% of genes overlapped across the two drugs, network analysis shows that both drugs modulated the CREB pathway, through different molecular mechanisms. Through careful implementation and optimisations, the algorithms detected a weak signal used to predict whether an animal was treated with nortriptyline (77%) or escitalopram (67%) on an independent testing set. The results from this study indicate that the molecular signature of AD treatment may include a much broader range of genomic markers than previously hypothesized, suggesting that response to medication may be as complex as the pathology. The search for biomarkers of antidepressant treatment response could therefore consider a higher number of genetic markers and their interactions. Through predominately different molecular targets and mechanisms of action, the two drugs modulate the same Creb1 pathway which plays a key role in neurotrophic responses and in inflammatory processes. (c) 2016 The Authors. American Journal of Medical Genetics Part B: Neuropsychiatric Genetics Published by Wiley Periodicals, Inc.",
+     "CI": [
+          "(c) 2016 The Authors. American Journal of Medical Genetics Part B:",
+          "Neuropsychiatric Genetics Published by Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Malki, Karim",
+          "Tosto, Maria Grazia",
+          "Mourino-Talin, Hector",
+          "Rodriguez-Lorenzo, Sabela",
+          "Pain, Oliver",
+          "Jumhaboy, Irfan",
+          "Liu, Tina",
+          "Parpas, Panos",
+          "Newman, Stuart",
+          "Malykh, Artem",
+          "Carboni, Lucia",
+          "Uher, Rudolf",
+          "McGuffin, Peter",
+          "Schalkwyk, Leonard C",
+          "Bryson, Kevin",
+          "Herbster, Mark"
+     ],
+     "AU": [
+          "Malki K",
+          "Tosto MG",
+          "Mourino-Talin H",
+          "Rodriguez-Lorenzo S",
+          "Pain O",
+          "Jumhaboy I",
+          "Liu T",
+          "Parpas P",
+          "Newman S",
+          "Malykh A",
+          "Carboni L",
+          "Uher R",
+          "McGuffin P",
+          "Schalkwyk LC",
+          "Bryson K",
+          "Herbster M"
+     ],
+     "AD": "King's College London, MRC Social, Genetic and Developmental Psychiatry Centre at the Institute of Psychiatry, Psychology and Neuroscience (IOPPN), London, United Kingdom. King's College London, MRC Social, Genetic and Developmental Psychiatry Centre at the Institute of Psychiatry, Psychology and Neuroscience (IOPPN), London, United Kingdom. LCIBG, Tomsk State University, Tomsk, Russia. Department of Computer Science, UCL, London, United Kingdom. Division of Medicine, UCL, London, United Kingdom. Birkbeck, University of London, United Kingdom. London School of Hygiene & Tropical Medicine, United Kingdom. King's College London, MRC Social, Genetic and Developmental Psychiatry Centre at the Institute of Psychiatry, Psychology and Neuroscience (IOPPN), London, United Kingdom. Department of Computer Science Imperial College London, United Kingdom. Department of Computer Science Imperial College London, United Kingdom. King's College London, MRC Social, Genetic and Developmental Psychiatry Centre at the Institute of Psychiatry, Psychology and Neuroscience (IOPPN), London, United Kingdom. LCIBG, Tomsk State University, Tomsk, Russia. Department of Pharmacy and Biotechnology, Alma Mater Studiorum University of Bologna, Bologna, Italy. King's College London, MRC Social, Genetic and Developmental Psychiatry Centre at the Institute of Psychiatry, Psychology and Neuroscience (IOPPN), London, United Kingdom. Department of Psychiatry, Dalhousie University, Halifax, Nova Scotia, Canada. King's College London, MRC Social, Genetic and Developmental Psychiatry Centre at the Institute of Psychiatry, Psychology and Neuroscience (IOPPN), London, United Kingdom. School of Biological Sciences, University of Essex, Colchester, United Kingdom. Department of Computer Science, UCL, London, United Kingdom. Department of Computer Science, UCL, London, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "DEP": "20161001",
+     "PL": "United States",
+     "TA": "Am J Med Genet B Neuropsychiatr Genet",
+     "JT": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",
+     "JID": "101235742",
+     "RN": [
+          "0 (Antidepressive Agents)",
+          "0 (Creb1 protein, mouse)",
+          "0 (Cyclic AMP Response Element-Binding Protein)",
+          "0 (Serotonin Uptake Inhibitors)",
+          "0 (Serotonin and Noradrenaline Reuptake Inhibitors)",
+          "0DHU5B8D6V (Citalopram)",
+          "BL03SY4LXB (Nortriptyline)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Antidepressive Agents/*therapeutic use",
+          "Citalopram/therapeutic use",
+          "Cyclic AMP Response Element-Binding Protein",
+          "Depression/drug therapy",
+          "Depressive Disorder/drug therapy/genetics",
+          "Disease Models, Animal",
+          "Female",
+          "Hippocampus",
+          "Male",
+          "Mice",
+          "Multifactorial Inheritance/genetics",
+          "Nortriptyline/therapeutic use",
+          "Pharmacogenetics",
+          "Serotonin Uptake Inhibitors/therapeutic use",
+          "Serotonin and Noradrenaline Reuptake Inhibitors/*pharmacology/therapeutic use",
+          "Transcriptome/genetics",
+          "Treatment Outcome"
+     ],
+     "PMC": "PMC5434854",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "SSRI",
+          "SVM",
+          "antidepressants",
+          "machine learning",
+          "transcriptomics"
+     ],
+     "EDAT": "2016/10/04 06:00",
+     "MHDA": "2017/09/22 06:00",
+     "CRDT": [
+          "2016/10/04 06:00"
+     ],
+     "PHST": [
+          "2016/03/23 00:00 [received]",
+          "2016/08/15 00:00 [accepted]",
+          "2016/10/04 06:00 [pubmed]",
+          "2017/09/22 06:00 [medline]",
+          "2016/10/04 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/ajmg.b.32494 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Am J Med Genet B Neuropsychiatr Genet. 2017 Apr;174(3):235-250. doi: 10.1002/ajmg.b.32494. Epub 2016 Oct 1.",
+     "term": "hippocampus"
+}

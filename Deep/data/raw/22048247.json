@@ -1,0 +1,99 @@
+{
+     "PMID": "22048247",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121005",
+     "LR": "20161208",
+     "IS": "1559-2308 (Electronic) 1559-2294 (Linking)",
+     "VI": "6",
+     "IP": "11",
+     "DP": "2011 Nov",
+     "TI": "Adaptation of the CHARM DNA methylation platform for the rat genome reveals novel brain region-specific differences.",
+     "PG": "1378-90",
+     "LID": "10.4161/epi.6.11.18072 [doi]",
+     "AB": "Comprehensive High-throughput Arrays for Relative Methylation (CHARM) was recently developed as an experimental platform and analytic approach to assess DNA methylation (DNAm) at a genome-wide level. Its initial implementation was for human and mouse. We adapted it for rat and sought to examine DNAm differences across tissues and brain regions in this model organism. We extracted DNA from liver, spleen, and three brain regions: cortex, hippocampus, and hypothalamus from adult Sprague Dawley rats. DNA was digested with McrBC, and the resulting methyl-depleted fraction was hybridized to the rat CHARM array along with a mock-treated fraction. Differentially methylated regions (DMRs) between tissue types were detected using normalized methylation log-ratios. In validating 24 of the most significant DMRs by bisulfite pyrosequencing, we detected large mean differences in DNAm, ranging from 33-59%, among the most significant DMRs in the across-tissue comparisons. The comparable figures for the hippocampus vs. hypothalamus DMRs were 14-40%, for the cortex vs. hippocampus DMRs, 12-29%, and for the cortex vs. hypothalamus DMRs, 5-35%, with a correlation of r(2) = 0.92 between the methylation differences in 24 DMRs predicted by CHARM and those validated by bisulfite pyrosequencing. Our adaptation of the CHARM array for the rat genome yielded highly robust results that demonstrate the value of this method in detecting substantial DNAm differences between tissues and across different brain regions. This platform should prove valuable in future studies aimed at examining DNAm differences in particular brain regions of rats exposed to environmental stimuli with potential epigenetic consequences.",
+     "FAU": [
+          "Lee, Richard S",
+          "Tamashiro, Kellie L K",
+          "Aryee, Martin J",
+          "Murakami, Peter",
+          "Seifuddin, Fayaz",
+          "Herb, Brian",
+          "Huo, Yuqing",
+          "Rongione, Michael",
+          "Feinberg, Andrew P",
+          "Moran, Timothy H",
+          "Potash, James B"
+     ],
+     "AU": [
+          "Lee RS",
+          "Tamashiro KL",
+          "Aryee MJ",
+          "Murakami P",
+          "Seifuddin F",
+          "Herb B",
+          "Huo Y",
+          "Rongione M",
+          "Feinberg AP",
+          "Moran TH",
+          "Potash JB"
+     ],
+     "AD": "Department of Psychiatry and Behavioral Sciences, Johns Hopkins University, Baltimore, MD, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R00 HD055030/HD/NICHD NIH HHS/United States",
+          "R00HD055030/HD/NICHD NIH HHS/United States",
+          "T32 MH015330/MH/NIMH NIH HHS/United States",
+          "P30 DK079637/DK/NIDDK NIH HHS/United States",
+          "K99 HD055030/HD/NICHD NIH HHS/United States",
+          "T32MH015330/MH/NIMH NIH HHS/United States",
+          "R01DK077623/DK/NIDDK NIH HHS/United States",
+          "R01 DK077623/DK/NIDDK NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20111101",
+     "PL": "United States",
+     "TA": "Epigenetics",
+     "JT": "Epigenetics",
+     "JID": "101265293",
+     "RN": [
+          "9007-49-2 (DNA)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/*metabolism",
+          "DNA/chemistry/*metabolism",
+          "*DNA Methylation",
+          "*Genome",
+          "Hippocampus/metabolism",
+          "Hypothalamus/metabolism",
+          "Oligonucleotide Array Sequence Analysis",
+          "Rats",
+          "Rats, Sprague-Dawley"
+     ],
+     "PMC": "PMC3242812",
+     "EDAT": "2011/11/04 06:00",
+     "MHDA": "2012/10/06 06:00",
+     "CRDT": [
+          "2011/11/04 06:00"
+     ],
+     "PHST": [
+          "2011/11/04 06:00 [entrez]",
+          "2011/11/04 06:00 [pubmed]",
+          "2012/10/06 06:00 [medline]"
+     ],
+     "AID": [
+          "18072 [pii]",
+          "10.4161/epi.6.11.18072 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Epigenetics. 2011 Nov;6(11):1378-90. doi: 10.4161/epi.6.11.18072. Epub 2011 Nov 1.",
+     "term": "hippocampus"
+}

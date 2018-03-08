@@ -1,0 +1,81 @@
+{
+     "PMID": "20869387",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110406",
+     "LR": "20170922",
+     "IS": "1873-1732 (Electronic) 0079-6107 (Linking)",
+     "VI": "105",
+     "IP": "1-2",
+     "DP": "2011 Mar",
+     "TI": "Quantifying phase-amplitude coupling in neuronal network oscillations.",
+     "PG": "49-57",
+     "LID": "10.1016/j.pbiomolbio.2010.09.007 [doi]",
+     "AB": "Neuroscience time series data from a range of techniques and species reveal complex, non-linear interactions between different frequencies of neuronal network oscillations within and across brain regions. Here, we briefly review the evidence that these nested, cross-frequency interactions act in concert with linearly covariant (within-frequency) activity to dynamically coordinate functionally related neuronal ensembles during behaviour. Such studies depend upon reliable quantification of cross-frequency coordination, and we compare the properties of three techniques used to measure phase-amplitude coupling (PAC)--Envelope-to-Signal Correlation (ESC), the Modulation Index (MI) and Cross-Frequency Coherence (CFC)--by standardizing their filtering algorithms and systematically assessing their robustness to noise and signal amplitude using artificial signals. Importantly, we also introduce a freely-downloadable method for estimating statistical significance of PAC, a step overlooked in the majority of published studies. We find that varying data length and noise levels leads to the three measures differentially detecting false positives or correctly identifying frequency bands of interaction; these conditions should therefore be taken into careful consideration when selecting PAC analyses. Finally, we demonstrate the utility of the three measures in quantifying PAC in local field potential data simultaneously recorded from rat hippocampus and prefrontal cortex, revealing a novel finding of prefrontal cortical theta phase modulating hippocampal gamma power. Future adaptations that allow detection of time-variant PAC should prove essential in deciphering the roles of cross-frequency coupling in mediating or reflecting nervous system function.",
+     "CI": [
+          "(c) 2010 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Onslow, Angela C E",
+          "Bogacz, Rafal",
+          "Jones, Matthew W"
+     ],
+     "AU": [
+          "Onslow AC",
+          "Bogacz R",
+          "Jones MW"
+     ],
+     "AD": "Bristol Centre for Complexity Sciences, University of Bristol, UK.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0501146/Medical Research Council/United Kingdom",
+          "Biotechnology and Biological Sciences Research Council/United Kingdom",
+          "Medical Research Council/United Kingdom",
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100930",
+     "PL": "England",
+     "TA": "Prog Biophys Mol Biol",
+     "JT": "Progress in biophysics and molecular biology",
+     "JID": "0401233",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Hippocampus/physiology",
+          "*Models, Neurological",
+          "*Nerve Net",
+          "*Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Oscillometry",
+          "Prefrontal Cortex/physiology",
+          "Rats",
+          "Theta Rhythm/*physiology"
+     ],
+     "EDAT": "2010/09/28 06:00",
+     "MHDA": "2011/04/07 06:00",
+     "CRDT": [
+          "2010/09/28 06:00"
+     ],
+     "PHST": [
+          "2010/05/25 00:00 [received]",
+          "2010/08/06 00:00 [revised]",
+          "2010/09/15 00:00 [accepted]",
+          "2010/09/28 06:00 [entrez]",
+          "2010/09/28 06:00 [pubmed]",
+          "2011/04/07 06:00 [medline]"
+     ],
+     "AID": [
+          "S0079-6107(10)00075-1 [pii]",
+          "10.1016/j.pbiomolbio.2010.09.007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Prog Biophys Mol Biol. 2011 Mar;105(1-2):49-57. doi: 10.1016/j.pbiomolbio.2010.09.007. Epub 2010 Sep 30.",
+     "term": "hippocampus"
+}

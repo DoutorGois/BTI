@@ -1,0 +1,65 @@
+{
+     "PMID": "9034857",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19970428",
+     "LR": "20071114",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "6",
+     "IP": "6",
+     "DP": "1996",
+     "TI": "Hippocampal place cells connected by Hebbian synapses can solve spatial problems.",
+     "PG": "709-19",
+     "AB": "We propose that a cognitive map can be stored in the synapses between the pyramidal cells of CA3 in the form of the pattern of synaptic strengths connecting them. The model requires only that there are place cells in CA3 and that the connections between them are modifiable in a Hebbian manner. Given these suppositions, the synaptic strengths must evolve to represent the distance between firing centers of synaptically connected place cells. We argue that this arrangement of synaptic weights embodies all the formal properties of a map. We demonstrate that the information stored in such a structure is sufficient to solve several classic spatial problems including finding shortest paths, and negotiating detours. It is clear that much of the physiology and anatomy necessary to more precisely characterize the model is not known at this time. Nevertheless the model is robust under a variety of cell and connection densities. It also performs well under several different functions relating distance to synaptic strength. What is most remarkable in the model is that it is a logical consequence of the several key anatomical and physiological properties of the CA3 region of rats. Whether this information is used by the rat is difficult to assess at this time. Regardless of the outcome of this question, the model has promising applications to the field of robot navigation.",
+     "FAU": [
+          "Muller, R U",
+          "Stead, M"
+     ],
+     "AU": [
+          "Muller RU",
+          "Stead M"
+     ],
+     "AD": "Department of Physiology, State University of New York-Brooklyn 11203, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS20686/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cognition/physiology",
+          "Hippocampus/cytology/*physiology",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Rats",
+          "Space Perception/physiology",
+          "Spatial Behavior/*physiology",
+          "Synapses/physiology"
+     ],
+     "EDAT": "1996/01/01 00:00",
+     "MHDA": "1996/01/01 00:01",
+     "CRDT": [
+          "1996/01/01 00:00"
+     ],
+     "PHST": [
+          "1996/01/01 00:00 [pubmed]",
+          "1996/01/01 00:01 [medline]",
+          "1996/01/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/(SICI)1098-1063(1996)6:6&lt;709::AID-HIPO13&gt;3.0.CO;2-4 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 1996;6(6):709-19. doi: 10.1002/(SICI)1098-1063(1996)6:6&lt;709::AID-HIPO13&gt;3.0.CO;2-4.",
+     "term": "place cells"
+}

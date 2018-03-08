@@ -1,0 +1,80 @@
+{
+     "PMID": "16884529",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20061010",
+     "LR": "20140909",
+     "IS": "1471-2105 (Electronic) 1471-2105 (Linking)",
+     "VI": "7",
+     "DP": "2006 Aug 2",
+     "TI": "Prediction of a key role of motifs binding E2F and NR2F in down-regulation of numerous genes during the development of the mouse hippocampus.",
+     "PG": "367",
+     "AB": "BACKGROUND: We previously demonstrated that gene expression profiles during neuronal differentiation in vitro and hippocampal development in vivo were very similar, due to a conservation of the important second singular value decomposition (SVD) mode (Mode 2) of expression. The conservation of Mode 2 suggests that it reflects a regulatory mechanism conserved between the two systems. In either dataset, the expression vectors of all the genes form two large clusters that differ in the sign of the contribution of Mode 2, which for the majority of them reflects the difference between down- or up-regulation. RESULTS: In the current work, we used a novel approach of analyzing cis-regulation of gene expression in a subspace of a single SVD mode of temporal expression profiles. In the putative upstream regulatory sequences identified by mouse-human homology for all the genes represented in either dataset, we searched for simple features (motifs and pairs of motifs) associated with either sign of the loading of Mode 2. Using a cross-system training-test set approach, we identified E2F binding sites as predictors of down-regulation of gene expression during hippocampal development. NR2F binding sites, for the transcription factors Nr2f/COUP and Hnf4, and also NR2F_SP1 pairs of binding sites, were predictors of down-regulation of expression both during hippocampal development and neuronal differentiation. Analysis of another dataset, from gene profiling of myoblast differentiation in vitro, shows that the conservation of Mode 2 extends to the differentiation of mesenchymal cells. This permitted the identification of two more pairs of motifs, one of which included the CDE/CHR tandem element, as features associated with down-regulation both in the differentiating myoblasts and in the developing hippocampus. Of the features we identified, the E2F and CDE/CHR motifs may be associated with the cycling progenitor cell status, while NR2F may be related to the entry into differentiation along the neuronal pathway. CONCLUSION: Our results constitute the first prediction of an expression pattern from the genomic sequence for the developing mammalian brain, and demonstrate a potential for the analysis of gene regulation in a subspace of a single SVD mode of expression.",
+     "FAU": [
+          "Dabrowski, Michal",
+          "Aerts, Stein",
+          "Kaminska, Bozena"
+     ],
+     "AU": [
+          "Dabrowski M",
+          "Aerts S",
+          "Kaminska B"
+     ],
+     "AD": "Laboratory of Transcription Regulation, Department of Cell Biology, The Nencki Institute of Experimental Biology, Pasteura 3, 02-093 Warsaw, Poland. m.dabrowski@nencki.gov.pl",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20060802",
+     "PL": "England",
+     "TA": "BMC Bioinformatics",
+     "JT": "BMC bioinformatics",
+     "JID": "100965194",
+     "RN": [
+          "0 (COUP Transcription Factors)",
+          "0 (E2F Transcription Factors)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Amino Acid Motifs/genetics",
+          "Amino Acid Sequence",
+          "Animals",
+          "Binding Sites/genetics",
+          "COUP Transcription Factors/genetics/*metabolism",
+          "Cell Differentiation/genetics",
+          "Computational Biology/*methods",
+          "Down-Regulation/genetics",
+          "E2F Transcription Factors/genetics/*metabolism",
+          "Gene Expression Profiling/methods",
+          "Gene Expression Regulation, Developmental/genetics",
+          "Hippocampus/growth & development/*metabolism",
+          "Humans",
+          "Mice",
+          "Myoblasts/cytology/metabolism",
+          "Protein Binding",
+          "Sequence Homology, Amino Acid"
+     ],
+     "PMC": "PMC1560171",
+     "EDAT": "2006/08/04 09:00",
+     "MHDA": "2006/10/13 09:00",
+     "CRDT": [
+          "2006/08/04 09:00"
+     ],
+     "PHST": [
+          "2006/04/04 00:00 [received]",
+          "2006/08/02 00:00 [accepted]",
+          "2006/08/04 09:00 [pubmed]",
+          "2006/10/13 09:00 [medline]",
+          "2006/08/04 09:00 [entrez]"
+     ],
+     "AID": [
+          "1471-2105-7-367 [pii]",
+          "10.1186/1471-2105-7-367 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "BMC Bioinformatics. 2006 Aug 2;7:367. doi: 10.1186/1471-2105-7-367.",
+     "term": "hippocampus"
+}

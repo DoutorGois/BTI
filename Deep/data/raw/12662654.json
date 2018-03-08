@@ -1,0 +1,48 @@
+{
+     "PMID": "12662654",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20030328",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "12",
+     "IP": "7-8",
+     "DP": "1999 Oct",
+     "TI": "The consolidation of learning during sleep: comparing the pseudorehearsal and unlearning accounts.",
+     "PG": "1191-1206",
+     "AB": "We suggest that any brain-like (artificial neural network based) learning system will need a sleep-like mechanism for consolidating newly learned information if it wishes to cope with the sequential/ongoing learning of significantly new information. We summarise and explore two possible candidates for a computational account of this consolidation process in Hopfield type networks. The \"pseudorehearsal\" method is based on the relearning of randomly selected attractors in the network as the new information is added from some second system. This process is supposed to reinforce old information within the network and protect it from the disruption caused by learning new inputs. The \"unlearning\" method is based on the unlearning of randomly selected attractors in the network after new information has already been learned. This process is supposed to locate and remove the unwanted associations between information that obscure the learned inputs. We suggest that as a computational model of sleep consolidation, the pseudorehearsal approach is better supported by the psychological, evolutionary, and neurophysiological data (in particular accounting for the role of the hippocampus in consolidation).",
+     "FAU": [
+          "Robins, A",
+          "McCallum, S"
+     ],
+     "AU": [
+          "Robins A",
+          "McCallum S"
+     ],
+     "AD": "Computer Science Department, University of Otago, PO Box 56, Dunedin, New Zealand",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "EDAT": "2003/03/29 05:00",
+     "MHDA": "2003/03/29 05:00",
+     "CRDT": [
+          "2003/03/29 05:00"
+     ],
+     "PHST": [
+          "2003/03/29 05:00 [pubmed]",
+          "2003/03/29 05:00 [medline]",
+          "2003/03/29 05:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(99)00056-8 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 1999 Oct;12(7-8):1191-1206.",
+     "term": "hippocampus"
+}

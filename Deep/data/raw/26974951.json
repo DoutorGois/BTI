@@ -1,0 +1,107 @@
+{
+     "PMID": "26974951",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160818",
+     "LR": "20171201",
+     "IS": "1546-1726 (Electronic) 1097-6256 (Linking)",
+     "VI": "19",
+     "IP": "4",
+     "DP": "2016 Apr",
+     "TI": "Spike sorting for large, dense electrode arrays.",
+     "PG": "634-641",
+     "LID": "10.1038/nn.4268 [doi]",
+     "AB": "Developments in microfabrication technology have enabled the production of neural electrode arrays with hundreds of closely spaced recording sites, and electrodes with thousands of sites are under development. These probes in principle allow the simultaneous recording of very large numbers of neurons. However, use of this technology requires the development of techniques for decoding the spike times of the recorded neurons from the raw data captured from the probes. Here we present a set of tools to solve this problem, implemented in a suite of practical, user-friendly, open-source software. We validate these methods on data from the cortex, hippocampus and thalamus of rat, mouse, macaque and marmoset, demonstrating error rates as low as 5%.",
+     "FAU": [
+          "Rossant, Cyrille",
+          "Kadir, Shabnam N",
+          "Goodman, Dan F M",
+          "Schulman, John",
+          "Hunter, Maximilian L D",
+          "Saleem, Aman B",
+          "Grosmark, Andres",
+          "Belluscio, Mariano",
+          "Denfield, George H",
+          "Ecker, Alexander S",
+          "Tolias, Andreas S",
+          "Solomon, Samuel",
+          "Buzsaki, Gyorgy",
+          "Carandini, Matteo",
+          "Harris, Kenneth D"
+     ],
+     "AU": [
+          "Rossant C",
+          "Kadir SN",
+          "Goodman DFM",
+          "Schulman J",
+          "Hunter MLD",
+          "Saleem AB",
+          "Grosmark A",
+          "Belluscio M",
+          "Denfield GH",
+          "Ecker AS",
+          "Tolias AS",
+          "Solomon S",
+          "Buzsaki G",
+          "Carandini M",
+          "Harris KD"
+     ],
+     "AD": "UCL Department of Neuroscience, Physiology and Pharmacology, London, UK. UCL Institute of Neurology, London, UK. UCL Department of Neuroscience, Physiology and Pharmacology, London, UK. UCL Institute of Neurology, London, UK. Department of Electrical and Electronic Engineering, Imperial College, London, UK. Department of Electrical Engineering and Computer Sciences, UC Berkeley, Berkeley, CA. UCL Department of Neuroscience, Physiology and Pharmacology, London, UK. UCL Institute of Neurology, London, UK. UCL Institute of Ophthalmology, London, UK. NYU Neuroscience Institute, Langone Medical Center, New York, NY. NYU Neuroscience Institute, Langone Medical Center, New York, NY. Department of Neuroscience, Baylor College of Medicine, Houston, TX. Department of Neuroscience, Baylor College of Medicine, Houston, TX. Department of Neuroscience, Baylor College of Medicine, Houston, TX. UCL Institute of Behavioural Neuroscience, Department of Experimental Psychology, London, UK. NYU Neuroscience Institute, Langone Medical Center, New York, NY. UCL Institute of Ophthalmology, London, UK. UCL Department of Neuroscience, Physiology and Pharmacology, London, UK. UCL Institute of Neurology, London, UK.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "095668/Wellcome Trust/United Kingdom",
+          "95668/Wellcome Trust/United Kingdom",
+          "95669/Wellcome Trust/United Kingdom",
+          "100154/Wellcome Trust/United Kingdom",
+          "DP1 EY023176/EY/NEI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160314",
+     "PL": "United States",
+     "TA": "Nat Neurosci",
+     "JT": "Nature neuroscience",
+     "JID": "9809671",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Callithrix",
+          "Cerebral Cortex/*physiology",
+          "*Electrodes, Implanted",
+          "Hippocampus/*physiology",
+          "Macaca mulatta",
+          "Male",
+          "Mice",
+          "Rats",
+          "*Signal Processing, Computer-Assisted/instrumentation",
+          "Species Specificity",
+          "Thalamus/*physiology"
+     ],
+     "PMC": "PMC4817237",
+     "MID": [
+          "EMS67184"
+     ],
+     "EDAT": "2016/03/15 06:00",
+     "MHDA": "2016/08/19 06:00",
+     "CRDT": [
+          "2016/03/15 06:00"
+     ],
+     "PHST": [
+          "2015/12/22 00:00 [received]",
+          "2016/02/11 00:00 [accepted]",
+          "2016/03/15 06:00 [entrez]",
+          "2016/03/15 06:00 [pubmed]",
+          "2016/08/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1038/nn.4268 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nat Neurosci. 2016 Apr;19(4):634-641. doi: 10.1038/nn.4268. Epub 2016 Mar 14.",
+     "term": "hippocampus"
+}

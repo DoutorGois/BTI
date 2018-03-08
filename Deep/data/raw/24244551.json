@@ -1,0 +1,87 @@
+{
+     "PMID": "24244551",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141124",
+     "LR": "20150422",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "11",
+     "DP": "2013",
+     "TI": "Analysis of lipid experiments (ALEX): a software framework for analysis of high-resolution shotgun lipidomics data.",
+     "PG": "e79736",
+     "LID": "10.1371/journal.pone.0079736 [doi]",
+     "AB": "Global lipidomics analysis across large sample sizes produces high-content datasets that require dedicated software tools supporting lipid identification and quantification, efficient data management and lipidome visualization. Here we present a novel software-based platform for streamlined data processing, management and visualization of shotgun lipidomics data acquired using high-resolution Orbitrap mass spectrometry. The platform features the ALEX framework designed for automated identification and export of lipid species intensity directly from proprietary mass spectral data files, and an auxiliary workflow using database exploration tools for integration of sample information, computation of lipid abundance and lipidome visualization. A key feature of the platform is the organization of lipidomics data in \"database table format\" which provides the user with an unsurpassed flexibility for rapid lipidome navigation using selected features within the dataset. To demonstrate the efficacy of the platform, we present a comparative neurolipidomics study of cerebellum, hippocampus and somatosensory barrel cortex (S1BF) from wild-type and knockout mice devoid of the putative lipid phosphate phosphatase PRG-1 (plasticity related gene-1). The presented framework is generic, extendable to processing and integration of other lipidomic data structures, can be interfaced with post-processing protocols supporting statistical testing and multivariate analysis, and can serve as an avenue for disseminating lipidomics data within the scientific community. The ALEX software is available at www.msLipidomics.info.",
+     "FAU": [
+          "Husen, Peter",
+          "Tarasov, Kirill",
+          "Katafiasz, Maciej",
+          "Sokol, Elena",
+          "Vogt, Johannes",
+          "Baumgart, Jan",
+          "Nitsch, Robert",
+          "Ekroos, Kim",
+          "Ejsing, Christer S"
+     ],
+     "AU": [
+          "Husen P",
+          "Tarasov K",
+          "Katafiasz M",
+          "Sokol E",
+          "Vogt J",
+          "Baumgart J",
+          "Nitsch R",
+          "Ekroos K",
+          "Ejsing CS"
+     ],
+     "AD": "Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20131107",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Lipids)"
+     ],
+     "SB": "IM",
+     "EIN": [
+          "PLoS One. 2014;9(4):e93351"
+     ],
+     "MH": [
+          "Animals",
+          "Brain/metabolism",
+          "*Databases, Factual",
+          "Internet",
+          "Lipids/*chemistry",
+          "Mice",
+          "*Software",
+          "User-Computer Interface"
+     ],
+     "PMC": "PMC3820610",
+     "EDAT": "2013/11/19 06:00",
+     "MHDA": "2014/12/15 06:00",
+     "CRDT": [
+          "2013/11/19 06:00"
+     ],
+     "PHST": [
+          "2013/07/05 00:00 [received]",
+          "2013/09/24 00:00 [accepted]",
+          "2013/11/19 06:00 [entrez]",
+          "2013/11/19 06:00 [pubmed]",
+          "2014/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0079736 [doi]",
+          "PONE-D-13-27834 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2013 Nov 7;8(11):e79736. doi: 10.1371/journal.pone.0079736. eCollection 2013.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,101 @@
+{
+     "PMID": "26244277",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160906",
+     "LR": "20170924",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "124",
+     "IP": "Pt A",
+     "DP": "2016 Jan 1",
+     "TI": "An Optimized PatchMatch for multi-scale and multi-feature label fusion.",
+     "PG": "770-782",
+     "LID": "S1053-8119(15)00696-5 [pii] 10.1016/j.neuroimage.2015.07.076 [doi]",
+     "AB": "Automatic segmentation methods are important tools for quantitative analysis of Magnetic Resonance Images (MRI). Recently, patch-based label fusion approaches have demonstrated state-of-the-art segmentation accuracy. In this paper, we introduce a new patch-based label fusion framework to perform segmentation of anatomical structures. The proposed approach uses an Optimized PAtchMatch Label fusion (OPAL) strategy that drastically reduces the computation time required for the search of similar patches. The reduced computation time of OPAL opens the way for new strategies and facilitates processing on large databases. In this paper, we investigate new perspectives offered by OPAL, by introducing a new multi-scale and multi-feature framework. During our validation on hippocampus segmentation we use two datasets: young adults in the ICBM cohort and elderly adults in the EADC-ADNI dataset. For both, OPAL is compared to state-of-the-art methods. Results show that OPAL obtained the highest median Dice coefficient (89.9% for ICBM and 90.1% for EADC-ADNI). Moreover, in both cases, OPAL produced a segmentation accuracy similar to inter-expert variability. On the EADC-ADNI dataset, we compare the hippocampal volumes obtained by manual and automatic segmentation. The volumes appear to be highly correlated that enables to perform more accurate separation of pathological populations.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Giraud, Remi",
+          "Ta, Vinh-Thong",
+          "Papadakis, Nicolas",
+          "Manjon, Jose V",
+          "Collins, D Louis",
+          "Coupe, Pierrick"
+     ],
+     "AU": [
+          "Giraud R",
+          "Ta VT",
+          "Papadakis N",
+          "Manjon JV",
+          "Collins DL",
+          "Coupe P"
+     ],
+     "AD": "Univ. Bordeaux, LaBRI, UMR 5800, PICTURA, F-33400 Talence, France; CNRS, LaBRI, UMR 5800, PICTURA, F-33400 Talence, France; Univ. Bordeaux, IMB, UMR 5251, F-33400 Talence, France; CNRS, IMB, UMR 5251, F-33400 Talence, France; Bordeaux INP, LaBRI, UMR 5800, PICTURA, F-33600 Pessac, France. Electronic address: remi.giraud@labri.fr. Univ. Bordeaux, LaBRI, UMR 5800, PICTURA, F-33400 Talence, France; CNRS, LaBRI, UMR 5800, PICTURA, F-33400 Talence, France; Bordeaux INP, LaBRI, UMR 5800, PICTURA, F-33600 Pessac, France. Univ. Bordeaux, IMB, UMR 5251, F-33400 Talence, France; CNRS, IMB, UMR 5251, F-33400 Talence, France. Instituto de Aplicaciones de las Tecnologias de la Informacion y de las Comunicaciones Avanzadas (ITACA), Universitat Politecnica de Valencia, Camino de Vera s/n, 46022 Valencia, Spain. McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Canada. Univ. Bordeaux, LaBRI, UMR 5800, PICTURA, F-33400 Talence, France; CNRS, LaBRI, UMR 5800, PICTURA, F-33400 Talence, France.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "P30AG010129/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "DEP": "20150802",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Algorithms",
+          "Databases, Factual",
+          "Hippocampus/anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Neuroimaging/methods",
+          "Observer Variation",
+          "Reproducibility of Results",
+          "Young Adult"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Hippocampus",
+          "Late fusion",
+          "Patch matching",
+          "Patch-based method",
+          "Segmentation"
+     ],
+     "EDAT": "2015/08/06 06:00",
+     "MHDA": "2016/09/07 06:00",
+     "CRDT": [
+          "2015/08/06 06:00"
+     ],
+     "PHST": [
+          "2015/04/10 00:00 [received]",
+          "2015/07/27 00:00 [revised]",
+          "2015/07/28 00:00 [accepted]",
+          "2015/08/06 06:00 [entrez]",
+          "2015/08/06 06:00 [pubmed]",
+          "2016/09/07 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(15)00696-5 [pii]",
+          "10.1016/j.neuroimage.2015.07.076 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2016 Jan 1;124(Pt A):770-782. doi: 10.1016/j.neuroimage.2015.07.076. Epub 2015 Aug 2.",
+     "term": "hippocampus"
+}

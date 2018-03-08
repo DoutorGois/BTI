@@ -1,0 +1,84 @@
+{
+     "PMID": "28892088",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171107",
+     "LR": "20171107",
+     "IS": "1548-7105 (Electronic) 1548-7091 (Linking)",
+     "VI": "14",
+     "IP": "11",
+     "DP": "2017 Nov",
+     "TI": "Pan-neuronal calcium imaging with cellular resolution in freely swimming zebrafish.",
+     "PG": "1107-1114",
+     "LID": "10.1038/nmeth.4429 [doi]",
+     "AB": "Calcium imaging with cellular resolution typically requires an animal to be tethered under a microscope, which substantially restricts the range of behaviors that can be studied. To expand the behavioral repertoire amenable to imaging, we have developed a tracking microscope that enables whole-brain calcium imaging with cellular resolution in freely swimming larval zebrafish. This microscope uses infrared imaging to track a target animal in a behavior arena. On the basis of the predicted trajectory of the animal, we applied optimal control theory to a motorized stage system to cancel brain motion in three dimensions. We combined this motion-cancellation system with differential illumination focal filtering, a variant of HiLo microscopy, which enabled us to image the brain of a freely swimming larval zebrafish for more than an hour. This work expands the repertoire of natural behaviors that can be studied with cellular-resolution calcium imaging to potentially include spatial navigation, social behavior, feeding and reward.",
+     "FAU": [
+          "Kim, Dal Hyung",
+          "Kim, Jungsoo",
+          "Marques, Joao C",
+          "Grama, Abhinav",
+          "Hildebrand, David G C",
+          "Gu, Wenchao",
+          "Li, Jennifer M",
+          "Robson, Drew N"
+     ],
+     "AU": [
+          "Kim DH",
+          "Kim J",
+          "Marques JC",
+          "Grama A",
+          "Hildebrand DGC",
+          "Gu W",
+          "Li JM",
+          "Robson DN"
+     ],
+     "AD": "Rowland Institute at Harvard University, Cambridge, Massachusetts, USA. Rowland Institute at Harvard University, Cambridge, Massachusetts, USA. Rowland Institute at Harvard University, Cambridge, Massachusetts, USA. Department of Molecular and Cellular Biology and Center for Brain Science, Harvard University, Cambridge, Massachusetts, USA. Department of Molecular and Cellular Biology and Center for Brain Science, Harvard University, Cambridge, Massachusetts, USA. Program in Neuroscience, Department of Neurobiology, Harvard Medical School, Boston, Massachusetts, USA. Rowland Institute at Harvard University, Cambridge, Massachusetts, USA. Rowland Institute at Harvard University, Cambridge, Massachusetts, USA. Rowland Institute at Harvard University, Cambridge, Massachusetts, USA.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-2079-3517",
+          "ORCID: http://orcid.org/0000-0002-7706-4470",
+          "ORCID: http://orcid.org/0000-0002-0150-1515"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170911",
+     "PL": "United States",
+     "TA": "Nat Methods",
+     "JT": "Nature methods",
+     "JID": "101215604",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/physiology",
+          "Calcium/*metabolism",
+          "Microscopy/methods",
+          "Neurons/*metabolism",
+          "Swimming/*physiology",
+          "Zebrafish/*physiology"
+     ],
+     "EDAT": "2017/09/12 06:00",
+     "MHDA": "2017/11/08 06:00",
+     "CRDT": [
+          "2017/09/12 06:00"
+     ],
+     "PHST": [
+          "2017/01/20 00:00 [received]",
+          "2017/07/29 00:00 [accepted]",
+          "2017/09/12 06:00 [pubmed]",
+          "2017/11/08 06:00 [medline]",
+          "2017/09/12 06:00 [entrez]"
+     ],
+     "AID": [
+          "nmeth.4429 [pii]",
+          "10.1038/nmeth.4429 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nat Methods. 2017 Nov;14(11):1107-1114. doi: 10.1038/nmeth.4429. Epub 2017 Sep 11.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,70 @@
+{
+     "PMID": "15390143",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050209",
+     "LR": "20061115",
+     "IS": "1053-1807 (Print) 1053-1807 (Linking)",
+     "VI": "20",
+     "IP": "4",
+     "DP": "2004 Oct",
+     "TI": "Robust field map generation using a triple-echo acquisition.",
+     "PG": "730-4",
+     "AB": "PURPOSE: To establish a fast and robust technique for generating magnetic field maps for the correction of geometric distortions in echo-planar magnetic resonance (MR) images. MATERIALS AND METHODS: Multislice gradient-echo (GE) images were acquired at echo times of 6, 6.5, and 7.5 msec in order to cover a field shift range of +/-666 Hz in the resulting B0 maps. To account for possible phase wrap scenarios, seven phase triples were calculated for each pixel. Linear regression of the phase vs. echo time was performed for each set. The slope of the set with the minimum fitting error was taken as the true magnetic field in the respective pixel. RESULTS: Based on the fitting error distribution, the technique is shown to be feasible and effective for assessing the field distribution in the brain at 3 T, especially in inferior brain areas (amygdalae, hippocampus). Examples of echo-planar images distortion corrected using the calculated field maps are shown. CONCLUSION: The approach presented yields robust estimation of magnetic field maps and requires under a minute of additional acquisition time and only seconds of computational time. As such, it is easily possible to apply image distortion correction in routine functional MR imaging (fMRI) studies, enabling improved coregistration of brain activation maps with structures on anatomical images.",
+     "CI": [
+          "Copyright 2004 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Windischberger, Christian",
+          "Robinson, Simon",
+          "Rauscher, Alexander",
+          "Barth, Markus",
+          "Moser, Ewald"
+     ],
+     "AU": [
+          "Windischberger C",
+          "Robinson S",
+          "Rauscher A",
+          "Barth M",
+          "Moser E"
+     ],
+     "AD": "Department of Medical Physics, Medical University of Vienna, Vienna, Austria.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Magn Reson Imaging",
+     "JT": "Journal of magnetic resonance imaging : JMRI",
+     "JID": "9105850",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Brain Mapping/*methods",
+          "Chi-Square Distribution",
+          "*Echo-Planar Imaging",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Linear Models"
+     ],
+     "EDAT": "2004/09/25 05:00",
+     "MHDA": "2005/02/11 09:00",
+     "CRDT": [
+          "2004/09/25 05:00"
+     ],
+     "PHST": [
+          "2004/09/25 05:00 [pubmed]",
+          "2005/02/11 09:00 [medline]",
+          "2004/09/25 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/jmri.20158 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Magn Reson Imaging. 2004 Oct;20(4):730-4. doi: 10.1002/jmri.20158.",
+     "term": "hippocampus"
+}

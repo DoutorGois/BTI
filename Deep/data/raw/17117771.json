@@ -1,0 +1,89 @@
+{
+     "PMID": "17117771",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070130",
+     "LR": "20170922",
+     "IS": "0278-0062 (Print) 0278-0062 (Linking)",
+     "VI": "25",
+     "IP": "11",
+     "DP": "2006 Nov",
+     "TI": "Phenomenological model of diffuse global and regional atrophy using finite-element methods.",
+     "PG": "1417-30",
+     "AB": "The main goal of this work is the generation of ground-truth data for the validation of atrophy measurement techniques, commonly used in the study of neurodegenerative diseases such as dementia. Several techniques have been used to measure atrophy in cross-sectional and longitudinal studies, but it is extremely difficult to compare their performance since they have been applied to different patient populations. Furthermore, assessment of performance based on phantom measurements or simple scaled images overestimates these techniques' ability to capture the complexity of neurodegeneration of the human brain. We propose a method for atrophy simulation in structural magnetic resonance (MR) images based on finite-element methods. The method produces cohorts of brain images with known change that is physically and clinically plausible, providing data for objective evaluation of atrophy measurement techniques. Atrophy is simulated in different tissue compartments or in different neuroanatomical structures with a phenomenological model. This model of diffuse global and regional atrophy is based on volumetric measurements such as the brain or the hippocampus, from patients with known disease and guided by clinical knowledge of the relative pathological involvement of regions and tissues. The consequent biomechanical readjustment of structures is modelled using conventional physics-based techniques based on biomechanical tissue properties and simulating plausible tissue deformations with finite-element methods. A thermoelastic model of tissue deformation is employed, controlling the rate of progression of atrophy by means of a set of thermal coefficients, each one corresponding to a different type of tissue. Tissue characterization is performed by means of the meshing of a labelled brain atlas, creating a reference volumetric mesh that will be introduced to a finite-element solver to create the simulated deformations. Preliminary work on the simulation of acquisition artefacts is also presented. Cross-sectional and longitudinal sets of simulated data are shown and a visual classification protocol has been used by experts to rate real and simulated scans according to their degree of atrophy. Results confirm the potential of the proposed methodology.",
+     "FAU": [
+          "Camara, Oscar",
+          "Schweiger, Martin",
+          "Scahill, Rachael I",
+          "Crum, William R",
+          "Sneller, Beatrix I",
+          "Schnabel, Julia A",
+          "Ridgway, Gerard R",
+          "Cash, David M",
+          "Hill, Derek L G",
+          "Fox, Nick C"
+     ],
+     "AU": [
+          "Camara O",
+          "Schweiger M",
+          "Scahill RI",
+          "Crum WR",
+          "Sneller BI",
+          "Schnabel JA",
+          "Ridgway GR",
+          "Cash DM",
+          "Hill DL",
+          "Fox NC"
+     ],
+     "AD": "Centre for Medical Image Computing (CMIC), Department of Medical Physics and Bioengineering, Department of Computer Science, University College London, London WCEI 6BT, UK.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G90/86/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*pathology",
+          "Atrophy/pathology",
+          "Brain/*pathology",
+          "Computer Simulation",
+          "Finite Element Analysis",
+          "Humans",
+          "Image Enhancement/methods/standards",
+          "Image Interpretation, Computer-Assisted/*methods/standards",
+          "Magnetic Resonance Imaging/*methods/standards",
+          "*Models, Anatomic",
+          "*Models, Neurological",
+          "Phantoms, Imaging",
+          "Reference Values",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "EDAT": "2006/11/23 09:00",
+     "MHDA": "2007/01/31 09:00",
+     "CRDT": [
+          "2006/11/23 09:00"
+     ],
+     "PHST": [
+          "2006/11/23 09:00 [pubmed]",
+          "2007/01/31 09:00 [medline]",
+          "2006/11/23 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TMI.2006.880588 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2006 Nov;25(11):1417-30. doi: 10.1109/TMI.2006.880588.",
+     "term": "hippocampus"
+}

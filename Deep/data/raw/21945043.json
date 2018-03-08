@@ -1,0 +1,70 @@
+{
+     "PMID": "21945043",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120820",
+     "LR": "20111202",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "25",
+     "IP": "1",
+     "DP": "2012 Jan",
+     "TI": "Learning slow features with reservoir computing for biologically-inspired robot localization.",
+     "PG": "178-90",
+     "LID": "10.1016/j.neunet.2011.08.004 [doi]",
+     "AB": "This work proposes a hierarchical biologically-inspired architecture for learning sensor-based spatial representations of a robot environment in an unsupervised way. The first layer is comprised of a fixed randomly generated recurrent neural network, the reservoir, which projects the input into a high-dimensional, dynamic space. The second layer learns instantaneous slowly-varying signals from the reservoir states using Slow Feature Analysis (SFA), whereas the third layer learns a sparse coding on the SFA layer using Independent Component Analysis (ICA). While the SFA layer generates non-localized activations in space, the ICA layer presents high place selectivity, forming a localized spatial activation, characteristic of place cells found in the hippocampus area of the rodent's brain. We show that, using a limited number of noisy short-range distance sensors as input, the proposed system learns a spatial representation of the environment which can be used to predict the actual location of simulated and real robots, without the use of odometry. The results confirm that the reservoir layer is essential for learning spatial representations from low-dimensional input such as distance sensors. The main reason is that the reservoir state reflects the recent history of the input stream. Thus, this fading memory is essential for detecting locations, mainly when locations are ambiguous and characterized by similar sensor readings.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Antonelo, Eric",
+          "Schrauwen, Benjamin"
+     ],
+     "AU": [
+          "Antonelo E",
+          "Schrauwen B"
+     ],
+     "AD": "Department of Electronics and Information Systems, Ghent University, Ghent, Belgium. eric.antonelo@elis.ugent.be",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110901",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Learning/physiology",
+          "*Models, Biological",
+          "*Neural Networks (Computer)",
+          "Rats",
+          "*Robotics/methods/statistics & numerical data",
+          "Time Factors"
+     ],
+     "EDAT": "2011/09/29 06:00",
+     "MHDA": "2012/08/21 06:00",
+     "CRDT": [
+          "2011/09/28 06:00"
+     ],
+     "PHST": [
+          "2010/12/02 00:00 [received]",
+          "2011/06/29 00:00 [revised]",
+          "2011/08/16 00:00 [accepted]",
+          "2011/09/28 06:00 [entrez]",
+          "2011/09/29 06:00 [pubmed]",
+          "2012/08/21 06:00 [medline]"
+     ],
+     "AID": [
+          "S0893-6080(11)00222-X [pii]",
+          "10.1016/j.neunet.2011.08.004 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2012 Jan;25(1):178-90. doi: 10.1016/j.neunet.2011.08.004. Epub 2011 Sep 1.",
+     "term": "place cells"
+}

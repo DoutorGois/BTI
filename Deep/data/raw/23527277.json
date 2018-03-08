@@ -1,0 +1,71 @@
+{
+     "PMID": "23527277",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130917",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "3",
+     "DP": "2013",
+     "TI": "Assessment of subcortical source localization using deep brain activity imaging model with minimum norm operators: a MEG study.",
+     "PG": "e59856",
+     "LID": "10.1371/journal.pone.0059856 [doi]",
+     "AB": "Subcortical structures are involved in many healthy and pathological brain processes. It is crucial for many studies to use magnetoencephalography (MEG) to assess the ability to detect subcortical generators. This study aims to assess the source localization accuracy and to compare the characteristics of three inverse operators in the specific case of subcortical generators. MEG has a low sensitivity to subcortical sources mainly because of their distance from sensors and their complex cyto-architecture. However, we show that using a realistic anatomical and electrophysiological model of deep brain activity (DBA), the sources make measurable contributions to MEG sensors signals. Furthermore, we study the point-spread and cross-talk functions of the wMNE, sLORETA and dSPM inverse operators to characterize distortions in cortical and subcortical regions and to study how noise-normalization methods can improve or bias accuracy. We then run Monte Carlo simulations with neocortical and subcortical activations. In the case of single hippocampus patch activations, the results indicate that MEG can indeed localize the generators in the head and the body of the hippocampus with good accuracy. We then tackle the question of simultaneous cortical and subcortical activations. wMNE can detect hippocampal activations that are embedded in cortical activations that have less than double their amplitude, but it does not completely correct the bias to more superficial sources. dSPM and sLORETA can still detect hippocampal activity above this threshold, but such detection might include the creation of ghost deeper sources. Finally, using the DBA model, we showed that the detection of weak thalamic modulations of ongoing brain activity is possible.",
+     "FAU": [
+          "Attal, Yohan",
+          "Schwartz, Denis"
+     ],
+     "AU": [
+          "Attal Y",
+          "Schwartz D"
+     ],
+     "AD": "CRICM UMR-S975 - Centre de Recherche de l'Institut du Cerveau et de la Moelle Epiniere, Universite Pierre et Marie Curie-Paris 6, Paris, France. yohan.attal@upmc.fr",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130320",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Computer Simulation",
+          "Electroencephalography/methods",
+          "Electrophysiological Phenomena/*physiology",
+          "Female",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Magnetoencephalography/*methods",
+          "Male",
+          "*Models, Neurological",
+          "Monte Carlo Method",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC3603889",
+     "EDAT": "2013/03/26 06:00",
+     "MHDA": "2013/09/18 06:00",
+     "CRDT": [
+          "2013/03/26 06:00"
+     ],
+     "PHST": [
+          "2012/10/26 00:00 [received]",
+          "2013/02/21 00:00 [accepted]",
+          "2013/03/26 06:00 [entrez]",
+          "2013/03/26 06:00 [pubmed]",
+          "2013/09/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0059856 [doi]",
+          "PONE-D-12-33024 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2013;8(3):e59856. doi: 10.1371/journal.pone.0059856. Epub 2013 Mar 20.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,78 @@
+{
+     "PMID": "22555390",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130411",
+     "LR": "20170220",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "33",
+     "IP": "3",
+     "DP": "2012 Dec",
+     "TI": "Modeling the influence of optic flow on grid cell firing in the absence of other cues1.",
+     "PG": "475-93",
+     "LID": "10.1007/s10827-012-0396-6 [doi]",
+     "AB": "Information from the vestibular, sensorimotor, or visual systems can affect the firing of grid cells recorded in entorhinal cortex of rats. Optic flow provides information about the rat's linear and rotational velocity and, thus, could influence the firing pattern of grid cells. To investigate this possible link, we model parts of the rat's visual system and analyze their capability in estimating linear and rotational velocity. In our model a rat is simulated to move along trajectories recorded from rat's foraging on a circular ground platform. Thus, we preserve the intrinsic statistics of real rats' movements. Visual image motion is analytically computed for a spherical camera model and superimposed with noise in order to model the optic flow that would be available to the rat. This optic flow is fed into a template model to estimate the rat's linear and rotational velocities, which in turn are fed into an oscillatory interference model of grid cell firing. Grid scores are reported while altering the flow noise, tilt angle of the optical axis with respect to the ground, the number of flow templates, and the frequency used in the oscillatory interference model. Activity patterns are compatible with those of grid cells, suggesting that optic flow can contribute to their firing.",
+     "FAU": [
+          "Raudies, Florian",
+          "Mingolla, Ennio",
+          "Hasselmo, Michael E"
+     ],
+     "AU": [
+          "Raudies F",
+          "Mingolla E",
+          "Hasselmo ME"
+     ],
+     "AD": "Center of Excellence for Learning in Education, Science, and Technology (CELEST), Boston University, Boston, MA 02215, USA. fraudies@bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20120505",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "*Cues",
+          "Electrophysiological Phenomena",
+          "Entorhinal Cortex/cytology/*physiology",
+          "Linear Models",
+          "Locomotion/physiology",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Normal Distribution",
+          "Orientation/physiology",
+          "Photic Stimulation",
+          "Rats",
+          "Rotation",
+          "Visual Perception/physiology"
+     ],
+     "PMC": "PMC3484285",
+     "EDAT": "2012/05/05 06:00",
+     "MHDA": "2013/04/12 06:00",
+     "CRDT": [
+          "2012/05/05 06:00"
+     ],
+     "PHST": [
+          "2011/07/26 00:00 [received]",
+          "2012/04/03 00:00 [accepted]",
+          "2012/03/30 00:00 [revised]",
+          "2012/05/05 06:00 [entrez]",
+          "2012/05/05 06:00 [pubmed]",
+          "2013/04/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10827-012-0396-6 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2012 Dec;33(3):475-93. doi: 10.1007/s10827-012-0396-6. Epub 2012 May 5.",
+     "term": "grid cells"
+}

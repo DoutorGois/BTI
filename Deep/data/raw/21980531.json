@@ -1,0 +1,81 @@
+{
+     "PMID": "21980531",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120126",
+     "LR": "20150129",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "6",
+     "IP": "9",
+     "DP": "2011",
+     "TI": "Lateral diffusion on tubular membranes: quantification of measurements bias.",
+     "PG": "e25731",
+     "LID": "10.1371/journal.pone.0025731 [doi]",
+     "AB": "Single Particle Tracking (SPT) is a powerful technique for the analysis of the lateral diffusion of the lipid and protein components of biological membranes. In neurons, SPT allows the study of the real-time dynamics of receptors for neurotransmitters that diffuse continuously in and out synapses. In the simplest case where the membrane is flat and is parallel to the focal plane of the microscope the analysis of diffusion from SPT data is relatively straightforward. However, in most biological samples the membranes are curved, which complicates analysis and may lead to erroneous conclusions as for the mode of lateral diffusion. Here we considered the case of lateral diffusion in tubular membranes, such as axons, dendrites or the neck of dendritic spines. Monte Carlo simulations allowed us to evaluate the error in diffusion coefficient (D) calculation if the curvature is not taken into account. The underestimation is determined by the diameter of the tubular surface, the frequency of image acquisition and the degree of mobility itself. We found that projected trajectories give estimates that are 25 to 50% lower than the real D in case of 2D-SPT over the tubular surface. The use of 3D-SPT improved the measurements if the frequency of image acquisition was fast enough in relation to the mobility of the molecules and the diameter of the tube. Nevertheless, the calculation of D from the components of displacements in the axis of the tubular structure gave accurate estimate of D, free of geometrical artefacts. We show the application of this approach to analyze the diffusion of a lipid on model tubular membranes and of a membrane-bound GFP on neurites from cultured rat hippocampal neurons.",
+     "FAU": [
+          "Renner, Marianne",
+          "Domanov, Yegor",
+          "Sandrin, Fanny",
+          "Izeddin, Ignacio",
+          "Bassereau, Patricia",
+          "Triller, Antoine"
+     ],
+     "AU": [
+          "Renner M",
+          "Domanov Y",
+          "Sandrin F",
+          "Izeddin I",
+          "Bassereau P",
+          "Triller A"
+     ],
+     "AD": "Institut de Biologie de l'Ecole Normale Superieure (IBENS), Institut National de la Sante et de la Recherche Medicale U1024, Centre National de la Recherche Scientifique UMR8197, Paris, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110929",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Phosphatidylinositols)",
+          "0 (Unilamellar Liposomes)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cell Membrane/*metabolism",
+          "Diffusion",
+          "Hippocampus/cytology",
+          "*Monte Carlo Method",
+          "Neurites/metabolism",
+          "Neurons/cytology",
+          "Phosphatidylinositols/metabolism",
+          "Rats",
+          "Unilamellar Liposomes/metabolism"
+     ],
+     "PMC": "PMC3183067",
+     "EDAT": "2011/10/08 06:00",
+     "MHDA": "2012/01/27 06:00",
+     "CRDT": [
+          "2011/10/08 06:00"
+     ],
+     "PHST": [
+          "2011/06/09 00:00 [received]",
+          "2011/09/09 00:00 [accepted]",
+          "2011/10/08 06:00 [entrez]",
+          "2011/10/08 06:00 [pubmed]",
+          "2012/01/27 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0025731 [doi]",
+          "PONE-D-11-10354 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2011;6(9):e25731. doi: 10.1371/journal.pone.0025731. Epub 2011 Sep 29.",
+     "term": "hippocampus"
+}

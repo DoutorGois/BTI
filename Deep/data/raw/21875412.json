@@ -1,0 +1,103 @@
+{
+     "PMID": "21875412",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130621",
+     "LR": "20170220",
+     "IS": "1875-5828 (Electronic) 1567-2050 (Linking)",
+     "VI": "9",
+     "IP": "8",
+     "DP": "2012 Oct",
+     "TI": "Metric distances between hippocampal shapes indicate different rates of change over time in nondemented and demented subjects.",
+     "PG": "972-81",
+     "AB": "In this article, we use longitudinal morphometry (shape and size) measures of hippocampus in subjects with mild dementia of Alzheimer type (DAT) and nondemented controls in logistic discrimination. The morphometric measures we use are volume and metric distance measures at baseline and follow-up (two years apart from baseline). Morphometric differences with respect to a template hippocampus were measured by the metric distance obtained from the large deformation diffeomorphic metric mapping (LDDMM) algorithm. LDDMM assigns metric distances on the space of anatomical images, thereby allowing for the direct comparison and quantization of morphometric changes. We also apply principal component analysis (PCA) on volume and metric distance measures to obtain principal components that capture some salient aspect of morphometry. We construct classifiers based on logistic regression to distinguish diseased and healthy hippocampi (hence potentially diagnose the mild form of DAT). We consider logistic classifiers based on volume and metric distance change over time (from baseline to follow-up), on the raw volumes and metric distances, and on principal components from various types of PCA analysis. We provide a detailed comparison of the performance of these classifiers and guidelines for their practical use. Moreover, combining the information conveyed by volume and metric distance measures by PCA can provide a better biomarker for detection of dementia compared to volume, metric distance, or both.",
+     "FAU": [
+          "Ceyhan, Elvan",
+          "Beg, Mirza Faisal",
+          "Ceritoglu, Can",
+          "Wang, Lei",
+          "Morris, John C",
+          "Csernansky, John G",
+          "Miller, Michael I",
+          "Ratnanather, J Tilak"
+     ],
+     "AU": [
+          "Ceyhan E",
+          "Beg MF",
+          "Ceritoglu C",
+          "Wang L",
+          "Morris JC",
+          "Csernansky JG",
+          "Miller MI",
+          "Ratnanather JT"
+     ],
+     "AD": "Dept. of Mathematics, Koc University, 34450 Sariyer, Istanbul, Turkey. elceyhan@ku.edu.tr",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 AG05681/AG/NIA NIH HHS/United States",
+          "P41 RR015241-08/RR/NCRR NIH HHS/United States",
+          "P50 AG005681-21/AG/NIA NIH HHS/United States",
+          "R01 MH056584/MH/NIMH NIH HHS/United States",
+          "AG05684/AG/NIA NIH HHS/United States",
+          "P01 AG003991/AG/NIA NIH HHS/United States",
+          "P50 AG005681/AG/NIA NIH HHS/United States",
+          "P01 AG003991-25/AG/NIA NIH HHS/United States",
+          "P01 AG03991/AG/NIA NIH HHS/United States",
+          "P50 MH71616/MH/NIMH NIH HHS/United States",
+          "MH 56584/MH/NIMH NIH HHS/United States",
+          "R01 MH056584-13/MH/NIMH NIH HHS/United States",
+          "P41 RR015241/RR/NCRR NIH HHS/United States",
+          "P41-RR15241/RR/NCRR NIH HHS/United States",
+          "P50 MH071616-03/MH/NIMH NIH HHS/United States",
+          "P50 MH071616/MH/NIMH NIH HHS/United States",
+          "P41 EB015909/EB/NIBIB NIH HHS/United States",
+          "F32 AG005684/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United Arab Emirates",
+     "TA": "Curr Alzheimer Res",
+     "JT": "Current Alzheimer research",
+     "JID": "101208441",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Male",
+          "Neuroimaging/*methods",
+          "Principal Component Analysis"
+     ],
+     "PMC": "PMC3235259",
+     "MID": [
+          "NIHMS307164"
+     ],
+     "EDAT": "2011/08/31 06:00",
+     "MHDA": "2013/06/25 06:00",
+     "CRDT": [
+          "2011/08/31 06:00"
+     ],
+     "PHST": [
+          "2010/10/10 00:00 [received]",
+          "2011/04/14 00:00 [revised]",
+          "2011/04/17 00:00 [accepted]",
+          "2011/08/31 06:00 [entrez]",
+          "2011/08/31 06:00 [pubmed]",
+          "2013/06/25 06:00 [medline]"
+     ],
+     "AID": [
+          "BSP/CAR /0206 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Curr Alzheimer Res. 2012 Oct;9(8):972-81.",
+     "term": "hippocampus"
+}

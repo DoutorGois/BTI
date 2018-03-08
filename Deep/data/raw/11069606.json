@@ -1,0 +1,85 @@
+{
+     "PMID": "11069606",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20001222",
+     "LR": "20151119",
+     "IS": "0953-816X (Print) 0953-816X (Linking)",
+     "VI": "12",
+     "IP": "11",
+     "DP": "2000 Nov",
+     "TI": "A model of gamma-frequency network oscillations induced in the rat CA3 region by carbachol in vitro.",
+     "PG": "4093-106",
+     "AB": "Carbachol (> 20 microM) and kainate (100 nM) induce, in the in vitro CA3 region, synchronized neuronal population oscillations at approximately 40 Hz having distinctive features: (i) the oscillations persist for hours; (ii) interneurons in kainate fire at 5-20 Hz and their firing is tightly locked to field potential maxima (recorded in s. radiatum); (iii) in contrast, pyramidal cells, in both carbachol and kainate, fire at frequencies as low as 2 Hz, and their firing is less tightly locked to field potentials; (iv) the oscillations require GABAA receptors, AMPA receptors and gap junctions. Using a network of 3072 pyramidal cells and 384 interneurons (each multicompartmental and containing a segment of unmyelinated axon), we employed computer simulations to examine conditions under which network oscillations might occur with the experimentally determined properties. We found that such network oscillations could be generated, robustly, when gap junctions were located between pyramidal cell axons, as suggested to occur based on studies of spontaneous high-frequency (> 100 Hz) network oscillations in the in vitro hippocampus. In the model, pyramidal cell somatic firing was not essential for the oscillations. Critical components of the model are (i) the plexus of pyramidal cell axons, randomly and sparsely interconnected by gap junctions; (ii) glutamate synapses onto interneurons; (iii) synaptic inhibition between interneurons and onto pyramidal cell axons and somata; (iv) a sufficiently high rate of spontaneous action potentials generated in pyramidal cell axons. This model explains the dependence of network oscillations on GABA(A) and AMPA receptors, as well as on gap junctions. Besides the existence of axon-axon gap junctions, the model predicts that many of the pyramidal cell action potentials, during sustained gamma oscillations, are initiated in axons.",
+     "FAU": [
+          "Traub, R D",
+          "Bibbig, A",
+          "Fisahn, A",
+          "LeBeau, F E",
+          "Whittington, M A",
+          "Buhl, E H"
+     ],
+     "AU": [
+          "Traub RD",
+          "Bibbig A",
+          "Fisahn A",
+          "LeBeau FE",
+          "Whittington MA",
+          "Buhl EH"
+     ],
+     "AD": "Division of Neuroscience, University of Birmingham School of Medicine, Edgbaston, Birmingham B15 2TT, UK. r.d.traub@bham.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "France",
+     "TA": "Eur J Neurosci",
+     "JT": "The European journal of neuroscience",
+     "JID": "8918110",
+     "RN": [
+          "0 (Receptors, AMPA)",
+          "0 (Receptors, GABA-A)",
+          "8Y164V895Y (Carbachol)",
+          "SIV03811UC (Kainic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/drug effects/physiology",
+          "Animals",
+          "Axons/drug effects/physiology",
+          "Carbachol/*pharmacology",
+          "Electric Stimulation",
+          "Evoked Potentials/drug effects/physiology",
+          "Gap Junctions/drug effects/physiology",
+          "Hippocampus/drug effects/*physiology",
+          "In Vitro Techniques",
+          "Kainic Acid/pharmacology",
+          "Nerve Net/drug effects/physiology",
+          "Neurons/drug effects/*physiology",
+          "Oscillometry",
+          "Pyramidal Cells/drug effects/*physiology",
+          "Rats",
+          "Rats, Wistar",
+          "Receptors, AMPA/physiology",
+          "Receptors, GABA-A/physiology"
+     ],
+     "EDAT": "2000/11/09 11:00",
+     "MHDA": "2001/02/28 10:01",
+     "CRDT": [
+          "2000/11/09 11:00"
+     ],
+     "PHST": [
+          "2000/11/09 11:00 [pubmed]",
+          "2001/02/28 10:01 [medline]",
+          "2000/11/09 11:00 [entrez]"
+     ],
+     "AID": [
+          "ejn300 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Eur J Neurosci. 2000 Nov;12(11):4093-106.",
+     "term": "hippocampus"
+}

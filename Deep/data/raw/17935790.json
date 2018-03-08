@@ -1,0 +1,74 @@
+{
+     "PMID": "17935790",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080411",
+     "LR": "20071217",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "167",
+     "IP": "2",
+     "DP": "2008 Jan 30",
+     "TI": "A semi-automated algorithm for studying neuronal oscillatory patterns: a wavelet-based time frequency and coherence analysis.",
+     "PG": "384-92",
+     "AB": "In many experimental designs, animal observation is associated with local field potential (LFP) recordings in order to find correlations between behavior dynamics and neuronal activity. In such cases, relevant behaviors can occur at different times during free-running recordings and should be put together by the time of analysis. Here, we developed a MATLAB semi-automated toolbox to quantitatively analyze the temporal progression of brain oscillatory activity in multiple free-running LFP recordings obtained during spontaneous behaviors. The algorithm works by selecting LFP epochs at user-defined onset times (locked to behavior, drug injection time, etc.), calculates their time-frequency spectra, detects long-lasting oscillatory events and calculates linear coherence between pair of electrodes. As output, it generates several table-like text and tiff image files, besides group descriptive statistics. To test the algorithm, we recorded hippocampus and amygdala LFPs from rats in different behavioral states: awake (AW), sleep (SWS, slow-wave sleep and REMS, rapid-eye movement sleep) and tonic-clonic seizures. The results show that the software reliably detects all oscillatory events present in up to seven user-defined frequency bands including onset/offset time and duration. It also calculates the global spectral composition per epoch from each subject and the linear coherence (with confidence intervals) as a measure of spectral synchronization between brain regions. The output files provide an easy way to do within-subject as well as across-subject analysis. The routines will be freely available for downloading from our website http://www.neuroimago.usp.br/BPT/.",
+     "FAU": [
+          "Romcy-Pereira, Rodrigo N",
+          "de Araujo, Draulio B",
+          "Leite, Joao P",
+          "Garcia-Cairasco, Norberto"
+     ],
+     "AU": [
+          "Romcy-Pereira RN",
+          "de Araujo DB",
+          "Leite JP",
+          "Garcia-Cairasco N"
+     ],
+     "AD": "Ribeirao Preto School of Medicine, University of Sao Paulo, Ribeirao Preto, SP, Brazil. rnrpereira@rnp.fmrp.usp.br",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20070906",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Brain/cytology",
+          "*Electroencephalography",
+          "Electrophysiology",
+          "Male",
+          "Models, Neurological",
+          "Neurons/*physiology",
+          "*Pattern Recognition, Automated",
+          "Rats",
+          "Rats, Wistar",
+          "Time Factors"
+     ],
+     "EDAT": "2007/10/16 09:00",
+     "MHDA": "2008/04/12 09:00",
+     "CRDT": [
+          "2007/10/16 09:00"
+     ],
+     "PHST": [
+          "2007/05/15 00:00 [received]",
+          "2007/08/24 00:00 [revised]",
+          "2007/08/28 00:00 [accepted]",
+          "2007/10/16 09:00 [pubmed]",
+          "2008/04/12 09:00 [medline]",
+          "2007/10/16 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(07)00426-8 [pii]",
+          "10.1016/j.jneumeth.2007.08.027 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2008 Jan 30;167(2):384-92. doi: 10.1016/j.jneumeth.2007.08.027. Epub 2007 Sep 6.",
+     "term": "hippocampus"
+}

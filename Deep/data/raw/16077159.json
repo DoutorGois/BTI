@@ -1,0 +1,73 @@
+{
+     "PMID": "16077159",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060104",
+     "LR": "20171107",
+     "IS": "1539-2791 (Print) 1539-2791 (Linking)",
+     "VI": "3",
+     "IP": "3",
+     "DP": "2005",
+     "TI": "Spatial navigation and causal analysis in a brain-based device modeling cortical-hippocampal interactions.",
+     "PG": "197-221",
+     "AB": "We describe Darwin X, a physical device that interacts with a real environment, whose behavior is guided by a simulated nervous system incorporating aspects of the detailed anatomy and physiology of the hippocampus and its surrounding regions. This brain-based device integrates cues from its environment and solves a spatial memory task. The responses of simulated neuronal units in the hippocampal areas during its exploratory behavior are comparable to place cells in the rodent hippocampus and emerged by associating sensory cues during exploration. To identify different functional hippocampal pathways and their influence on behavior, we employed a time series analysis that distinguishes causal interactions within and between simulated hippocampal and neocortical regions while the device is engaged in a spatial memory task. Our analysis identified different functional pathways within the neural simulation and prompts novel predictions about the influence of the perforant path, the trisynaptic loop and hippocampal-cortical interactions on place cell activity and behavior during navigation. Moreover, this causal time series analysis may be useful in analyzing networks in general.",
+     "FAU": [
+          "Krichmar, Jeffrey L",
+          "Seth, Anil K",
+          "Nitz, Douglas A",
+          "Fleischer, Jason G",
+          "Edelman, Gerald M"
+     ],
+     "AU": [
+          "Krichmar JL",
+          "Seth AK",
+          "Nitz DA",
+          "Fleischer JG",
+          "Edelman GM"
+     ],
+     "AD": "The Neurosciences Institute, 10640 John J. Hopkins Drive, San Diego, CA 92121, USA. krichmar@nsi.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Artificial Intelligence",
+          "Behavior, Animal",
+          "Cerebral Cortex/*physiology",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Space Perception/physiology",
+          "Spatial Behavior/*physiology"
+     ],
+     "EDAT": "2005/08/04 09:00",
+     "MHDA": "2006/01/05 09:00",
+     "CRDT": [
+          "2005/08/04 09:00"
+     ],
+     "PHST": [
+          "2005/08/04 09:00 [pubmed]",
+          "2006/01/05 09:00 [medline]",
+          "2005/08/04 09:00 [entrez]"
+     ],
+     "AID": [
+          "NI:3:3:197 [pii]",
+          "10.1385/NI:3:3:197 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2005;3(3):197-221. doi: 10.1385/NI:3:3:197.",
+     "term": "place cells"
+}

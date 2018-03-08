@@ -1,0 +1,102 @@
+{
+     "PMID": "24936423",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151030",
+     "LR": "20170220",
+     "IS": "2213-1582 (Print) 2213-1582 (Linking)",
+     "VI": "4",
+     "DP": "2014",
+     "TI": "Longitudinal deformation models, spatial regularizations and learning strategies to quantify Alzheimer's disease progression.",
+     "PG": "718-29",
+     "LID": "10.1016/j.nicl.2014.02.002 [doi]",
+     "AB": "In the context of Alzheimer's disease, two challenging issues are (1) the characterization of local hippocampal shape changes specific to disease progression and (2) the identification of mild-cognitive impairment patients likely to convert. In the literature, (1) is usually solved first to detect areas potentially related to the disease. These areas are then considered as an input to solve (2). As an alternative to this sequential strategy, we investigate the use of a classification model using logistic regression to address both issues (1) and (2) simultaneously. The classification of the patients therefore does not require any a priori definition of the most representative hippocampal areas potentially related to the disease, as they are automatically detected. We first quantify deformations of patients' hippocampi between two time points using the large deformations by diffeomorphisms framework and transport these deformations to a common template. Since the deformations are expected to be spatially structured, we perform classification combining logistic loss and spatial regularization techniques, which have not been explored so far in this context, as far as we know. The main contribution of this paper is the comparison of regularization techniques enforcing the coefficient maps to be spatially smooth (Sobolev), piecewise constant (total variation) or sparse (fused LASSO) with standard regularization techniques which do not take into account the spatial structure (LASSO, ridge and ElasticNet). On a dataset of 103 patients out of ADNI, the techniques using spatial regularizations lead to the best classification rates. They also find coherent areas related to the disease progression.",
+     "FAU": [
+          "Fiot, Jean-Baptiste",
+          "Raguet, Hugo",
+          "Risser, Laurent",
+          "Cohen, Laurent D",
+          "Fripp, Jurgen",
+          "Vialard, Francois-Xavier"
+     ],
+     "AU": [
+          "Fiot JB",
+          "Raguet H",
+          "Risser L",
+          "Cohen LD",
+          "Fripp J",
+          "Vialard FX"
+     ],
+     "AD": "IBM Research, Smarter Cities Technology Centre, Damastown, Dublin 15, Ireland ; CEREMADE, UMR 7534 CNRS, Universite Paris Dauphine, PSL bigstar, France. CEREMADE, UMR 7534 CNRS, Universite Paris Dauphine, PSL bigstar, France. CNRS, Institut de Mathematiques de Toulouse, UMR 5219, France. CEREMADE, UMR 7534 CNRS, Universite Paris Dauphine, PSL bigstar, France. CSIRO Preventative Health National Research Flagship ICTC, The Australian e-Health Research Centre - BioMedIA, Royal Brisbane and Women's Hospital, Herston, QLD, Australia. CEREMADE, UMR 7534 CNRS, Universite Paris Dauphine, PSL bigstar, France.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140401",
+     "PL": "Netherlands",
+     "TA": "Neuroimage Clin",
+     "JT": "NeuroImage. Clinical",
+     "JID": "101597070",
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*pathology/*physiopathology",
+          "Cognitive Dysfunction/pathology/physiopathology",
+          "Databases, Factual/statistics & numerical data",
+          "Disease Progression",
+          "Hippocampus/*pathology/*physiopathology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Logistic Models",
+          "Magnetic Resonance Imaging",
+          "*Models, Neurological"
+     ],
+     "PMC": "PMC4053641",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Brain imaging",
+          "Coefficient map",
+          "Deformation model",
+          "Disease progression",
+          "Karcher mean",
+          "LDDMM",
+          "Logistic regression",
+          "Spatial regularization",
+          "Transport"
+     ],
+     "GN": [
+          "NLM: Original DateCompleted: 20140617"
+     ],
+     "EDAT": "2014/06/18 06:00",
+     "MHDA": "2014/06/18 06:01",
+     "CRDT": [
+          "2014/06/18 06:00"
+     ],
+     "PHST": [
+          "2013/09/19 00:00 [received]",
+          "2014/01/22 00:00 [revised]",
+          "2014/02/14 00:00 [accepted]",
+          "2014/06/18 06:00 [entrez]",
+          "2014/06/18 06:00 [pubmed]",
+          "2014/06/18 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1016/j.nicl.2014.02.002 [doi]",
+          "S2213-1582(14)00020-5 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Neuroimage Clin. 2014 Apr 1;4:718-29. doi: 10.1016/j.nicl.2014.02.002. eCollection 2014.",
+     "term": "hippocampus"
+}

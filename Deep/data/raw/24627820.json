@@ -1,0 +1,71 @@
+{
+     "PMID": "24627820",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20140314",
+     "LR": "20170220",
+     "IS": "2093-3681 (Print) 2093-3681 (Linking)",
+     "VI": "20",
+     "IP": "1",
+     "DP": "2014 Jan",
+     "TI": "Online Learning for Classification of Alzheimer Disease based on Cortical Thickness and Hippocampal Shape Analysis.",
+     "PG": "61-8",
+     "LID": "10.4258/hir.2014.20.1.61 [doi]",
+     "AB": "OBJECTIVES: Mobile healthcare applications are becoming a growing trend. Also, the prevalence of dementia in modern society is showing a steady growing trend. Among degenerative brain diseases that cause dementia, Alzheimer disease (AD) is the most common. The purpose of this study was to identify AD patients using magnetic resonance imaging in the mobile environment. METHODS: We propose an incremental classification for mobile healthcare systems. Our classification method is based on incremental learning for AD diagnosis and AD prediction using the cortical thickness data and hippocampus shape. We constructed a classifier based on principal component analysis and linear discriminant analysis. We performed initial learning and mobile subject classification. Initial learning is the group learning part in our server. Our smartphone agent implements the mobile classification and shows various results. RESULTS: With use of cortical thickness data analysis alone, the discrimination accuracy was 87.33% (sensitivity 96.49% and specificity 64.33%). When cortical thickness data and hippocampal shape were analyzed together, the achieved accuracy was 87.52% (sensitivity 96.79% and specificity 63.24%). CONCLUSIONS: In this paper, we presented a classification method based on online learning for AD diagnosis by employing both cortical thickness data and hippocampal shape analysis data. Our method was implemented on smartphone devices and discriminated AD patients for normal group.",
+     "FAU": [
+          "Lee, Ga-Young",
+          "Kim, Jeonghun",
+          "Kim, Ju Han",
+          "Kim, Kiwoong",
+          "Seong, Joon-Kyung"
+     ],
+     "AU": [
+          "Lee GY",
+          "Kim J",
+          "Kim JH",
+          "Kim K",
+          "Seong JK"
+     ],
+     "AD": "Department of Biomedical Engineering, Korea University, Seoul, Korea. Department of Computer and Radio Communications Engineering, Korea University, Seoul, Korea. Seoul National University Biomedical informatics (SNUBI), Division of Biomedical Informatics, Seoul National University College of Medicine, Seoul, Korea. ; Systems Biomedical Informatics Research Center, Seoul National University, Seoul, Korea. Department of Neuropsychiatry, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Korea. Department of Biomedical Engineering, Korea University, Seoul, Korea.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140131",
+     "PL": "Korea (South)",
+     "TA": "Healthc Inform Res",
+     "JT": "Healthcare informatics research",
+     "JID": "101534553",
+     "PMC": "PMC3950267",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer Disease",
+          "Artificial Intelligence",
+          "Classification",
+          "Delivery of Health Care",
+          "Mobile Health Units"
+     ],
+     "EDAT": "2014/03/15 06:00",
+     "MHDA": "2014/03/15 06:01",
+     "CRDT": [
+          "2014/03/15 06:00"
+     ],
+     "PHST": [
+          "2013/11/15 00:00 [received]",
+          "2013/12/24 00:00 [revised]",
+          "2014/01/01 00:00 [accepted]",
+          "2014/03/15 06:00 [entrez]",
+          "2014/03/15 06:00 [pubmed]",
+          "2014/03/15 06:01 [medline]"
+     ],
+     "AID": [
+          "10.4258/hir.2014.20.1.61 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Healthc Inform Res. 2014 Jan;20(1):61-8. doi: 10.4258/hir.2014.20.1.61. Epub 2014 Jan 31.",
+     "term": "hippocampus"
+}

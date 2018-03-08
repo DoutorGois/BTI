@@ -1,0 +1,64 @@
+{
+     "PMID": "28546533",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20170601",
+     "IS": "2045-2322 (Electronic) 2045-2322 (Linking)",
+     "VI": "7",
+     "IP": "1",
+     "DP": "2017 May 25",
+     "TI": "Comparison of accuracy between FSL's FIRST and Freesurfer for caudate nucleus and putamen segmentation.",
+     "PG": "2418",
+     "LID": "10.1038/s41598-017-02584-5 [doi]",
+     "AB": "Although several methods have been developed to automatically delineate subcortical gray matter structures from MR images, the accuracy of these algorithms has not been comprehensively examined. Most of earlier studies focused primarily on the hippocampus. Here, we assessed the accuracy of two widely used non-commercial programs (FSL-FIRST and Freesurfer) for segmenting the caudate and putamen. T1-weighted 1 mm(3) isotropic resolution MR images were acquired for thirty healthy subjects (15 females). Caudate nucleus and putamen were segmented manually by two independent observers and automatically by FIRST and Freesurfer (v4.5 and v5.3). Utilizing manual labels as reference standard the following measures were studied: Dice coefficient (D), percentage volume difference (PVD), absolute volume difference as well as intraclass correlation coefficient (ICC) for consistency and absolute agreement. For putamen segmentation, FIRST achieved higher D, lower PVD and higher ICC for absolute agreement with manual tracing than either version of Freesurfer. Freesurfer overestimated the putamen, while FIRST was not statistically different from manual tracing. The ICC for consistency with manual tracing was similar between the two methods. For caudate segmentation, FIRST and Freesurfer performed more similarly. In conclusion, Freesurfer and FIRST are not equivalent when comparing to manual tracing. FIRST was superior for putaminal segmentation.",
+     "FAU": [
+          "Perlaki, Gabor",
+          "Horvath, Reka",
+          "Nagy, Szilvia Anett",
+          "Bogner, Peter",
+          "Doczi, Tamas",
+          "Janszky, Jozsef",
+          "Orsi, Gergely"
+     ],
+     "AU": [
+          "Perlaki G",
+          "Horvath R",
+          "Nagy SA",
+          "Bogner P",
+          "Doczi T",
+          "Janszky J",
+          "Orsi G"
+     ],
+     "AD": "MTA-PTE Clinical Neuroscience MR Research Group, Pecs, 7623, Hungary. Pecs Diagnostic Centre, Pecs, 7623, Hungary. Department of Neurosurgery, University of Pecs, Medical School, Pecs, 7623, Hungary. Department of Neurology, University of Pecs, Medical School, Pecs, 7623, Hungary. Pecs Diagnostic Centre, Pecs, 7623, Hungary. MTA-PTE Neurobiology of Stress Research Group, Pecs, 7624, Hungary. Department of Radiology, University of Pecs, Medical School, Pecs, 7624, Hungary. MTA-PTE Clinical Neuroscience MR Research Group, Pecs, 7623, Hungary. Pecs Diagnostic Centre, Pecs, 7623, Hungary. Department of Neurosurgery, University of Pecs, Medical School, Pecs, 7623, Hungary. MTA-PTE Clinical Neuroscience MR Research Group, Pecs, 7623, Hungary. Department of Neurology, University of Pecs, Medical School, Pecs, 7623, Hungary. Centre for Neuroscience, University of Pecs, Pecs, 7623, Hungary. MTA-PTE Clinical Neuroscience MR Research Group, Pecs, 7623, Hungary. gergo.orsi@gmail.com. Pecs Diagnostic Centre, Pecs, 7623, Hungary. gergo.orsi@gmail.com. Department of Neurosurgery, University of Pecs, Medical School, Pecs, 7623, Hungary. gergo.orsi@gmail.com.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170525",
+     "PL": "England",
+     "TA": "Sci Rep",
+     "JT": "Scientific reports",
+     "JID": "101563288",
+     "PMC": "PMC5445091",
+     "EDAT": "2017/05/27 06:00",
+     "MHDA": "2017/05/27 06:00",
+     "CRDT": [
+          "2017/05/27 06:00"
+     ],
+     "PHST": [
+          "2016/12/13 00:00 [received]",
+          "2017/04/12 00:00 [accepted]",
+          "2017/05/27 06:00 [entrez]",
+          "2017/05/27 06:00 [pubmed]",
+          "2017/05/27 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1038/s41598-017-02584-5 [doi]",
+          "10.1038/s41598-017-02584-5 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Sci Rep. 2017 May 25;7(1):2418. doi: 10.1038/s41598-017-02584-5.",
+     "term": "hippocampus"
+}

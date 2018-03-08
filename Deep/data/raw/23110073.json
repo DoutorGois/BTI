@@ -1,0 +1,68 @@
+{
+     "PMID": "23110073",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130417",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "7",
+     "IP": "10",
+     "DP": "2012",
+     "TI": "Modeling the contributions of Basal ganglia and Hippocampus to spatial navigation using reinforcement learning.",
+     "PG": "e47467",
+     "LID": "10.1371/journal.pone.0047467 [doi]",
+     "AB": "A computational neural model that describes the competing roles of Basal Ganglia and Hippocampus in spatial navigation is presented. Model performance is evaluated on a simulated Morris water maze explored by a model rat. Cue-based and place-based navigational strategies, thought to be subserved by the Basal ganglia and Hippocampus respectively, are described. In cue-based navigation, the model rat learns to directly head towards a visible target, while in place-based navigation the target position is represented in terms of spatial context provided by an array of poles placed around the pool. Learning is formulated within the framework of Reinforcement Learning, with the nigrostriatal dopamine signal playing the role of Temporal Difference Error. Navigation inherently involves two apparently contradictory movements: goal oriented movements vs. random, wandering movements. The model hypothesizes that while the goal-directedness is determined by the gradient in Value function, randomness is driven by the complex activity of the SubThalamic Nucleus (STN)-Globus Pallidus externa (GPe) system. Each navigational system is associated with a Critic, prescribing actions that maximize value gradients for the corresponding system. In the integrated system, that incorporates both cue-based and place-based forms of navigation, navigation at a given position is determined by the system whose value function is greater at that position. The proposed model describes the experimental results of [1], a lesion-study that investigates the competition between cue-based and place-based navigational systems. The present study also examines impaired navigational performance under Parkinsonian-like conditions. The integrated navigational system, operated under dopamine-deficient conditions, exhibits increased escape latency as was observed in experimental literature describing MPTP model rats navigating a water maze.",
+     "FAU": [
+          "Sukumar, Deepika",
+          "Rengaswamy, Maithreye",
+          "Chakravarthy, V Srinivasa"
+     ],
+     "AU": [
+          "Sukumar D",
+          "Rengaswamy M",
+          "Chakravarthy VS"
+     ],
+     "AD": "Cognizant Technology Solutions, Bangalore, India.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20121026",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Basal Ganglia/*physiology",
+          "Hippocampus/*physiology",
+          "*Models, Theoretical",
+          "Rats",
+          "Reinforcement (Psychology)",
+          "Space Perception/*physiology"
+     ],
+     "PMC": "PMC3482225",
+     "EDAT": "2012/10/31 06:00",
+     "MHDA": "2013/04/18 06:00",
+     "CRDT": [
+          "2012/10/31 06:00"
+     ],
+     "PHST": [
+          "2012/07/31 00:00 [received]",
+          "2012/09/11 00:00 [accepted]",
+          "2012/10/31 06:00 [entrez]",
+          "2012/10/31 06:00 [pubmed]",
+          "2013/04/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0047467 [doi]",
+          "PONE-D-12-22685 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2012;7(10):e47467. doi: 10.1371/journal.pone.0047467. Epub 2012 Oct 26.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,104 @@
+{
+     "PMID": "28119818",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171117",
+     "LR": "20180125",
+     "IS": "2213-1582 (Electronic) 2213-1582 (Linking)",
+     "VI": "13",
+     "DP": "2017",
+     "TI": "Differential diagnosis of mild cognitive impairment and Alzheimer's disease using structural MRI cortical thickness, hippocampal shape, hippocampal texture, and volumetry.",
+     "PG": "470-482",
+     "LID": "10.1016/j.nicl.2016.11.025 [doi]",
+     "AB": "This paper presents a brain T1-weighted structural magnetic resonance imaging (MRI) biomarker that combines several individual MRI biomarkers (cortical thickness measurements, volumetric measurements, hippocampal shape, and hippocampal texture). The method was developed, trained, and evaluated using two publicly available reference datasets: a standardized dataset from the Alzheimer's Disease Neuroimaging Initiative (ADNI) and the imaging arm of the Australian Imaging Biomarkers and Lifestyle flagship study of ageing (AIBL). In addition, the method was evaluated by participation in the Computer-Aided Diagnosis of Dementia (CADDementia) challenge. Cross-validation using ADNI and AIBL data resulted in a multi-class classification accuracy of 62.7% for the discrimination of healthy normal controls (NC), subjects with mild cognitive impairment (MCI), and patients with Alzheimer's disease (AD). This performance generalized to the CADDementia challenge where the method, trained using the ADNI and AIBL data, achieved a classification accuracy 63.0%. The obtained classification accuracy resulted in a first place in the challenge, and the method was significantly better (McNemar's test) than the bottom 24 methods out of the total of 29 methods contributed by 15 different teams in the challenge. The method was further investigated with learning curve and feature selection experiments using ADNI and AIBL data. The learning curve experiments suggested that neither more training data nor a more complex classifier would have improved the obtained results. The feature selection experiment showed that both common and uncommon individual MRI biomarkers contributed to the performance; hippocampal volume, ventricular volume, hippocampal texture, and parietal lobe thickness were the most important. This study highlights the need for both subtle, localized measurements and global measurements in order to discriminate NC, MCI, and AD simultaneously based on a single structural MRI scan. It is likely that additional non-structural MRI features are needed to further improve the obtained performance, especially to improve the discrimination between NC and MCI.",
+     "FAU": [
+          "Sorensen, Lauge",
+          "Igel, Christian",
+          "Pai, Akshay",
+          "Balas, Ioana",
+          "Anker, Cecilie",
+          "Lillholm, Martin",
+          "Nielsen, Mads"
+     ],
+     "AU": [
+          "Sorensen L",
+          "Igel C",
+          "Pai A",
+          "Balas I",
+          "Anker C",
+          "Lillholm M",
+          "Nielsen M"
+     ],
+     "AD": "Department of Computer Science, University of Copenhagen, Copenhagen O DK-2100, Denmark; Biomediq A/S, Copenhagen O DK-2100, Denmark. Department of Computer Science, University of Copenhagen, Copenhagen O DK-2100, Denmark. Department of Computer Science, University of Copenhagen, Copenhagen O DK-2100, Denmark; Biomediq A/S, Copenhagen O DK-2100, Denmark. Department of Computer Science, University of Copenhagen, Copenhagen O DK-2100, Denmark. Biomediq A/S, Copenhagen O DK-2100, Denmark. Department of Computer Science, University of Copenhagen, Copenhagen O DK-2100, Denmark; Biomediq A/S, Copenhagen O DK-2100, Denmark. Department of Computer Science, University of Copenhagen, Copenhagen O DK-2100, Denmark; Biomediq A/S, Copenhagen O DK-2100, Denmark.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative and the Australian Imaging Biomarkers",
+          "and Lifestyle flagship study of ageing"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "CIHR/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20161207",
+     "PL": "Netherlands",
+     "TA": "Neuroimage Clin",
+     "JT": "NeuroImage. Clinical",
+     "JID": "101597070",
+     "RN": [
+          "0 (Biomarkers)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*diagnostic imaging",
+          "Biomarkers",
+          "Cerebral Cortex/*diagnostic imaging",
+          "Cognitive Dysfunction/*diagnostic imaging",
+          "Diagnosis, Differential",
+          "Female",
+          "Hippocampus/*diagnostic imaging",
+          "Humans",
+          "Machine Learning",
+          "Magnetic Resonance Imaging/*methods",
+          "Male"
+     ],
+     "PMC": "PMC5237821",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*Alzheimer's disease",
+          "*Biomarker",
+          "*Classification",
+          "*Machine learning",
+          "*Mild cognitive impairment",
+          "*Structural MRI"
+     ],
+     "EDAT": "2017/01/26 06:00",
+     "MHDA": "2017/11/29 06:00",
+     "CRDT": [
+          "2017/01/26 06:00"
+     ],
+     "PHST": [
+          "2016/07/10 00:00 [received]",
+          "2016/10/21 00:00 [revised]",
+          "2016/11/26 00:00 [accepted]",
+          "2017/01/26 06:00 [entrez]",
+          "2017/01/26 06:00 [pubmed]",
+          "2017/11/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1016/j.nicl.2016.11.025 [doi]",
+          "S2213-1582(16)30234-0 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Neuroimage Clin. 2016 Dec 7;13:470-482. doi: 10.1016/j.nicl.2016.11.025. eCollection 2017.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,68 @@
+{
+     "PMID": "6743759",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19840912",
+     "LR": "20161019",
+     "IS": "0006-3495 (Print) 0006-3495 (Linking)",
+     "VI": "46",
+     "IP": "1",
+     "DP": "1984 Jul",
+     "TI": "Segmental cable evaluation of somatic transients in hippocampal neurons (CA1, CA3, and dentate).",
+     "PG": "73-84",
+     "AB": "This study describes a detailed cable model of neuronal structure, which can predict the effects of discrete transient inputs. Neurons in in vitro hippocampal slices (CA1 and CA3 pyramidal cells and dentate granule neurons; n = 4 each) were physiologically characterized and stained with horseradish peroxidase (HRP). The HRP morphology was approximated with numerous small segments. The cable model included both these segments and spatially dispersed dendritic spines. The transient response function at the soma of the segmental model was numerically derived, and charging responses to simulated current inputs were computed. These simulations were compared with the physiological charging responses from the somatic penetrations, using an analysis of the charging time constants (tau i) and intercepts. The time constant ratio (tau 0/tau 1) did not significantly differ between the observed and simulated responses. A second index of comparison was the equivalent cylinder electrotonic length (L), which was derived using only the tau i values and their intercepts. The L values also did not differ significantly between the observed and simulated transients and averaged 0.91 length constant. Thus, using criteria based only on analysis of charging responses, the segmental cable model recreated accurately the observed transients at the soma. The equivalent cylinder model (with a lumped soma) could also adequately simulate the observed somatic transients, using the same criteria. However, the hippocampal neurons (particularly the pyramidal cells) did not appear to satisfy the equivalent cylinder assumption anatomically. Thus, the analysis of somatic charging transients alone may not be sufficient to discriminate between the two models of hippocampal neurons. Anatomical evidence indicates that, particularly for discrete dendritic inputs, the detailed segmental model may be more appropriate than the equivalent cylinder model.",
+     "FAU": [
+          "Turner, D A"
+     ],
+     "AU": [
+          "Turner DA"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS06792/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Biophys J",
+     "JT": "Biophysical journal",
+     "JID": "0370626",
+     "RN": [
+          "EC 1.11.1.- (Horseradish Peroxidase)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Electrophysiology",
+          "Guinea Pigs",
+          "Hippocampus/*cytology",
+          "Horseradish Peroxidase",
+          "Mathematics",
+          "Models, Biological",
+          "Neurons/*physiology"
+     ],
+     "PMC": "PMC1434928",
+     "EDAT": "1984/07/01 00:00",
+     "MHDA": "1984/07/01 00:01",
+     "CRDT": [
+          "1984/07/01 00:00"
+     ],
+     "PHST": [
+          "1984/07/01 00:00 [pubmed]",
+          "1984/07/01 00:01 [medline]",
+          "1984/07/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "S0006-3495(84)84000-X [pii]",
+          "10.1016/S0006-3495(84)84000-X [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biophys J. 1984 Jul;46(1):73-84. doi: 10.1016/S0006-3495(84)84000-X.",
+     "term": "hippocampus"
+}

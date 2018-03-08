@@ -1,0 +1,86 @@
+{
+     "PMID": "26952211",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20170220",
+     "IS": "2050-084X (Electronic) 2050-084X (Linking)",
+     "VI": "5",
+     "DP": "2016 Mar 8",
+     "TI": "Extracting grid cell characteristics from place cell inputs using non-negative principal component analysis.",
+     "PG": "e10094",
+     "LID": "10.7554/eLife.10094 [doi] e10094 [pii]",
+     "AB": "Many recent models study the downstream projection from grid cells to place cells, while recent data have pointed out the importance of the feedback projection. We thus asked how grid cells are affected by the nature of the input from the place cells. We propose a single-layer neural network with feedforward weights connecting place-like input cells to grid cell outputs. Place-to-grid weights are learned via a generalized Hebbian rule. The architecture of this network highly resembles neural networks used to perform Principal Component Analysis (PCA). Both numerical results and analytic considerations indicate that if the components of the feedforward neural network are non-negative, the output converges to a hexagonal lattice. Without the non-negativity constraint, the output converges to a square lattice. Consistent with experiments, grid spacing ratio between the first two consecutive modules is -1.4. Our results express a possible linkage between place cell to grid cell interactions and PCA.",
+     "FAU": [
+          "Dordek, Yedidyah",
+          "Soudry, Daniel",
+          "Meir, Ron",
+          "Derdikman, Dori"
+     ],
+     "AU": [
+          "Dordek Y",
+          "Soudry D",
+          "Meir R",
+          "Derdikman D"
+     ],
+     "AD": "Faculty of Electrical Engineering, Technion - Israel Institute of Technology, Haifa, Israel. Rappaport Faculty of Medicine and Research Institute, Technion - Israel Institute of Technology, Haifa, Israel. Department of Statistics, Columbia University, New York, United States. Center for Theoretical Neuroscience, Columbia University, New York, United States. Faculty of Electrical Engineering, Technion - Israel Institute of Technology, Haifa, Israel. Rappaport Faculty of Medicine and Research Institute, Technion - Israel Institute of Technology, Haifa, Israel.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0003-3677-6321"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160308",
+     "PL": "England",
+     "TA": "Elife",
+     "JT": "eLife",
+     "JID": "101579614",
+     "SB": "IM",
+     "MH": [
+          "Computer Simulation",
+          "Grid Cells/*physiology",
+          "Hippocampus/*physiology",
+          "*Nerve Net",
+          "Place Cells/*physiology",
+          "Principal Component Analysis",
+          "*Space Perception"
+     ],
+     "PMC": "PMC4841785",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "bat",
+          "entorhinal",
+          "grid cell",
+          "hippocampus",
+          "human",
+          "mouse",
+          "navigation",
+          "neuroscience",
+          "place cell",
+          "rat"
+     ],
+     "EDAT": "2016/03/10 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2016/03/09 06:00"
+     ],
+     "PHST": [
+          "2015/07/15 00:00 [received]",
+          "2016/03/08 00:00 [accepted]",
+          "2016/03/09 06:00 [entrez]",
+          "2016/03/10 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.7554/eLife.10094 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Elife. 2016 Mar 8;5:e10094. doi: 10.7554/eLife.10094.",
+     "term": "place cells"
+}

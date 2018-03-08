@@ -1,0 +1,59 @@
+{
+     "PMID": "14506685",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20031216",
+     "LR": "20030924",
+     "IS": "1059-910X (Print) 1059-910X (Linking)",
+     "VI": "62",
+     "IP": "3",
+     "DP": "2003 Oct 15",
+     "TI": "Technique to study three-dimensional spatial arrangement of synaptic vesicles using data from single sections.",
+     "PG": "201-10",
+     "AB": "Synaptic vesicles are membrane-bound organelles storing neurotransmitters in presynaptic terminals and releasing them into the synaptic cleft. Coordinated movements of synaptic vesicles relate to synaptic function and their spatial arrangement can provide useful information about the activity of a synapse. This article presents a technique to extract quantitative information about three-dimensional (3D) spatial arrangement of synaptic vesicles from measurements performed on single ultrathin random sections of a presynaptic terminal. The technique presumes quantification of a 2D density as well as 2D spatial pattern formed by vesicle profiles using a minimum spanning tree (MST) algorithm, in digitized micrographs of a presynaptic terminal. Further, original software was used to simulate a 3D spatial arrangement of synaptic vesicles and their random sectioning. A 3D density and pattern of synaptic vesicles were used as basic input parameters of the model, while a 2D density and MST quantities for vesicle profiles served as output, model-derived parameters allowing one to compare and fit simulated distributions to experimental ones. Pilot simulations performed to check the validity of the technique have shown that a 2D density and MST quantities of vesicle profiles closely relate to a 3D density and spatial pattern of vesicles. The technique was demonstrated in the analysis of spatial distribution of synaptic vesicles in axonal terminals forming asymmetric synaptic densities in the stratum radiatum of the CA1 subfield of the murine hippocampus.",
+     "CI": [
+          "Copyright 2003 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Nikonenko, Alexander G"
+     ],
+     "AU": [
+          "Nikonenko AG"
+     ],
+     "AD": "Department of Cytology, Bogomoletz Institute of Physiology, 01024, Kiev, Ukraine. olexandr.nikonenko@zmnh.uni-hamburg.de",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Microsc Res Tech",
+     "JT": "Microscopy research and technique",
+     "JID": "9203012",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computational Biology/*methods/standards",
+          "*Computer Simulation",
+          "Mice",
+          "Software",
+          "Synaptic Vesicles/*chemistry/metabolism"
+     ],
+     "EDAT": "2003/09/25 05:00",
+     "MHDA": "2003/12/17 05:00",
+     "CRDT": [
+          "2003/09/25 05:00"
+     ],
+     "PHST": [
+          "2003/09/25 05:00 [pubmed]",
+          "2003/12/17 05:00 [medline]",
+          "2003/09/25 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/jemt.10354 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Microsc Res Tech. 2003 Oct 15;62(3):201-10. doi: 10.1002/jemt.10354.",
+     "term": "hippocampus"
+}

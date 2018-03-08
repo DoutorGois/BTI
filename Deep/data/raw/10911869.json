@@ -1,0 +1,65 @@
+{
+     "PMID": "10911869",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20000809",
+     "LR": "20071114",
+     "IS": "0077-8923 (Print) 0077-8923 (Linking)",
+     "VI": "911",
+     "DP": "2000 Jun",
+     "TI": "Two-phase computational model training long-term memories in the entorhinal-hippocampal region.",
+     "PG": "83-111",
+     "AB": "The computational model described here is driven by the hypothesis that a major function of the entorhinal cortex (EC)-hippocampal system is to alter synaptic connections in the neocortex. It is based on the following postulates: (1) The EC compares the difference between neocortical representations (primary input) and feedback information conveyed by the hippocampus (the \"reconstructed input\"). The difference between the primary input and the reconstructed input (termed \"error\") initiates plastic changes in the hippocampal networks (error compensation). (2) Comparison of the primary input and reconstructed input requires that these representations are available simultaneously in the EC network. We suggest that compensation of time delays is achieved by predictive structures, such as the CA3 recurrent network and EC-CA1 connections. (3) Alteration of intrahippocampal connections gives rise to a new hippocampal output. The hippocampus generates separated (independent) outputs, which, in turn, train long-term memory traces in the EC (independent components, IC). The ICs of the long-term memory trace are generated in a two-step manner, the operations of which we attribute to the activities of the CA3 (whitening) and CA1 (separation) fields. (4) The different hippocampal fields can perform both nonlinear and linear operations, albeit at different times (theta and sharp phases). We suggest that long-term memory is represented in a distributed and hierarchical reconstruction network, which is under the supervision of the hippocampal output. Several of these model predictions can be tested experimentally.",
+     "FAU": [
+          "Lorincz, A",
+          "Buzsaki, G"
+     ],
+     "AU": [
+          "Lorincz A",
+          "Buzsaki G"
+     ],
+     "AD": "Department of Information Systems, Eotvos Lorand University, Budapest, Hungary.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH54671/MH/NIMH NIH HHS/United States",
+          "NS34994/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+     ],
+     "PL": "United States",
+     "TA": "Ann N Y Acad Sci",
+     "JT": "Annals of the New York Academy of Sciences",
+     "JID": "7506858",
+     "SB": "IM",
+     "MH": [
+          "Computer Simulation",
+          "Entorhinal Cortex/*physiology",
+          "Forecasting",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Memory/*physiology",
+          "*Models, Neurological",
+          "Nerve Net/physiology"
+     ],
+     "RF": "1181",
+     "EDAT": "2000/07/27 11:00",
+     "MHDA": "2000/08/12 11:00",
+     "CRDT": [
+          "2000/07/27 11:00"
+     ],
+     "PHST": [
+          "2000/07/27 11:00 [pubmed]",
+          "2000/08/12 11:00 [medline]",
+          "2000/07/27 11:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ann N Y Acad Sci. 2000 Jun;911:83-111.",
+     "term": "hippocampus"
+}

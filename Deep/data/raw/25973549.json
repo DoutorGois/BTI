@@ -1,0 +1,96 @@
+{
+     "PMID": "25973549",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160404",
+     "LR": "20170922",
+     "IS": "1530-888X (Electronic) 0899-7667 (Linking)",
+     "VI": "27",
+     "IP": "7",
+     "DP": "2015 Jul",
+     "TI": "Clusterless Decoding of Position from Multiunit Activity Using a Marked Point Process Filter.",
+     "PG": "1438-60",
+     "LID": "10.1162/NECO_a_00744 [doi]",
+     "AB": "Point process filters have been applied successfully to decode neural signals and track neural dynamics. Traditionally these methods assume that multiunit spiking activity has already been correctly spike-sorted. As a result, these methods are not appropriate for situations where sorting cannot be performed with high precision, such as real-time decoding for brain-computer interfaces. Because the unsupervised spike-sorting problem remains unsolved, we took an alternative approach that takes advantage of recent insights into clusterless decoding. Here we present a new point process decoding algorithm that does not require multiunit signals to be sorted into individual units. We use the theory of marked point processes to construct a function that characterizes the relationship between a covariate of interest (in this case, the location of a rat on a track) and features of the spike waveforms. In our example, we use tetrode recordings, and the marks represent a four-dimensional vector of the maximum amplitudes of the spike waveform on each of the four electrodes. In general, the marks may represent any features of the spike waveform. We then use Bayes's rule to estimate spatial location from hippocampal neural activity. We validate our approach with a simulation study and experimental data recorded in the hippocampus of a rat moving through a linear environment. Our decoding algorithm accurately reconstructs the rat's position from unsorted multiunit spiking activity. We then compare the quality of our decoding algorithm to that of a traditional spike-sorting and decoding algorithm. Our analyses show that the proposed decoding algorithm performs equivalent to or better than algorithms based on sorted single-unit activity. These results provide a path toward accurate real-time decoding of spiking patterns that could be used to carry out content-specific manipulations of population activity in hippocampus or elsewhere in the brain.",
+     "FAU": [
+          "Deng, Xinyi",
+          "Liu, Daniel F",
+          "Kay, Kenneth",
+          "Frank, Loren M",
+          "Eden, Uri T"
+     ],
+     "AU": [
+          "Deng X",
+          "Liu DF",
+          "Kay K",
+          "Frank LM",
+          "Eden UT"
+     ],
+     "AD": "Department of Mathematics and Statistics, Boston University, Boston, MA 02215, U.S.A. University of California Berkeley-University of California San Francisco Graduate Program in Bioengineering, UCSF, San Francisco, CA 94158, U.S.A. University of California Berkeley-University of California San Francisco Graduate Program in Bioengineering, UCSF, San Francisco, CA 94158, U.S.A. Department of Physiology, University of California San Francisco, San Francisco, CA 94158, U.S.A. Department of Mathematics and Statistics, Boston University, Boston, MA 02215, U.S.A.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "T32 GM007618/GM/NIGMS NIH HHS/United States",
+          "Howard Hughes Medical Institute/United States",
+          "R01 MH105174/MH/NIMH NIH HHS/United States",
+          "R01 NS073118/NS/NINDS NIH HHS/United States",
+          "R01 MH0901188/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Validation Studies"
+     ],
+     "DEP": "20150514",
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "RN": [
+          "0 (Acrylates)",
+          "0 (MA 12)",
+          "0 (Phenyl Ethers)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Acrylates",
+          "*Action Potentials",
+          "*Algorithms",
+          "Animals",
+          "Bayes Theorem",
+          "CA1 Region, Hippocampal/physiology",
+          "CA2 Region, Hippocampal/physiology",
+          "Computer Simulation",
+          "Electrophysiology/instrumentation/methods",
+          "Models, Neurological",
+          "Motor Activity/physiology",
+          "Neurons/physiology",
+          "Phenyl Ethers",
+          "Rats, Long-Evans",
+          "Signal Processing, Computer-Assisted",
+          "Space Perception/physiology"
+     ],
+     "PMC": "PMC4805376",
+     "MID": [
+          "NIHMS768098"
+     ],
+     "EDAT": "2015/05/15 06:00",
+     "MHDA": "2016/04/05 06:00",
+     "CRDT": [
+          "2015/05/15 06:00"
+     ],
+     "PHST": [
+          "2015/05/15 06:00 [entrez]",
+          "2015/05/15 06:00 [pubmed]",
+          "2016/04/05 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1162/NECO_a_00744 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2015 Jul;27(7):1438-60. doi: 10.1162/NECO_a_00744. Epub 2015 May 14.",
+     "term": "hippocampus"
+}

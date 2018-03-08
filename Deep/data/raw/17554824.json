@@ -1,0 +1,78 @@
+{
+     "PMID": "17554824",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070703",
+     "LR": "20150618",
+     "IS": "0018-9294 (Print) 0018-9294 (Linking)",
+     "VI": "54",
+     "IP": "6 Pt 1",
+     "DP": "2007 Jun",
+     "TI": "Nonlinear dynamic modeling of spike train transformations for hippocampal-cortical prostheses.",
+     "PG": "1053-66",
+     "AB": "One of the fundamental principles of cortical brain regions, including the hippocampus, is that information is represented in the ensemble firing of populations of neurons, i.e., spatio-temporal patterns of electrophysiological activity. The hippocampus has long been known to be responsible for the formation of declarative, or fact-based, memories. Damage to the hippocampus disrupts the propagation of spatio-temporal patterns of activity through hippocampal internal circuitry, resulting in a severe anterograde amnesia. Developing a neural prosthesis for the damaged hippocampus requires restoring this multiple-input, multiple-output transformation of spatio-temporal patterns of activity. Because the mechanisms underlying synaptic transmission and generation of electrical activity in neurons are inherently nonlinear, any such prosthesis must be based on a nonlinear multiple-input, multiple-output model. In this paper, we have formulated the transformational process of multi-site propagation of spike activity between two subregions of the hippocampus (CA3 and CA1) as the identification of a multiple-input, multiple-output (MIMO) system, and proposed that it can be decomposed into a series of multiple-input, single-output (MISO) systems. Each MISO system is modeled as a physiologically plausible structure that consists of 1) linear/nonlinear feedforward Volterra kernels modeling synaptic transmission and dendritic integration, 2) a linear feedback Volterra kernel modeling spike-triggered after-potentials, 3) a threshold for spike generation, 4) a summation process for somatic integration, and 5) a noise term representing intrinsic neuronal noise and the contributions of unobserved inputs. Input and output spike trains were recorded from hippocampal CA3 and CA1 regions of rats performing a spatial delayed-nonmatch-to-sample memory task that requires normal hippocampal function. Kernels were expanded with Laguerre basis functions and estimated using a maximum-likelihood method. Complexity of the feedforward kernel was progressively increased to capture higher-order system nonlinear dynamics. Results showed higher prediction accuracies as kernel complexity increased. Self-kernels describe the nonlinearities within each input. Cross-kernels capture the nonlinear interaction between inputs. Second- and third-order nonlinear models were found to successfully predict the CA1 output spike distribution based on CA3 input spike trains. First-order, linear models were shown to be insufficient.",
+     "FAU": [
+          "Song, Dong",
+          "Chan, Rosa H M",
+          "Marmarelis, Vasilis Z",
+          "Hampson, Robert E",
+          "Deadwyler, Sam A",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Song D",
+          "Chan RH",
+          "Marmarelis VZ",
+          "Hampson RE",
+          "Deadwyler SA",
+          "Berger TW"
+     ],
+     "AD": "Department of Biomedical Engineering, Program in Neuroscience, Center for Neural Engineering, University of Southern California, Los Angeles, CA 90089, USA. dsong@usc.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Cerebral Cortex/*physiology",
+          "Cognition Disorders/physiopathology/rehabilitation",
+          "Computer Simulation",
+          "Deep Brain Stimulation/instrumentation/*methods",
+          "Electric Stimulation/instrumentation/*methods",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neural Pathways/physiology",
+          "Neurons/physiology",
+          "Nonlinear Dynamics",
+          "Prosthesis Design"
+     ],
+     "EDAT": "2007/06/08 09:00",
+     "MHDA": "2007/07/04 09:00",
+     "CRDT": [
+          "2007/06/08 09:00"
+     ],
+     "PHST": [
+          "2007/06/08 09:00 [pubmed]",
+          "2007/07/04 09:00 [medline]",
+          "2007/06/08 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TBME.2007.891948 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 2007 Jun;54(6 Pt 1):1053-66. doi: 10.1109/TBME.2007.891948.",
+     "term": "hippocampus"
+}

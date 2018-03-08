@@ -1,0 +1,72 @@
+{
+     "PMID": "16946239",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070119",
+     "LR": "20071203",
+     "IS": "0006-3185 (Print) 0006-3185 (Linking)",
+     "VI": "211",
+     "IP": "1",
+     "DP": "2006 Aug",
+     "TI": "Effects of beta-catenin on dendritic morphology and simulated firing patterns in cultured hippocampal neurons.",
+     "PG": "31-43",
+     "AB": "Beta-catenin is an intracellular signaling molecule that has been shown to be important in activity-dependent dendritic morphogenesis. Here, we investigate the detailed morphological changes elicited in dendritic arbors of cultured hippocampal neurons by overexpression of beta-catenin, and we simulate the electrophysiological consequences of these changes. Compared to control neurons, cells overexpressing beta-catenin have dendritic arbors with significantly greater surface area and more branches, as well as different topological characteristics. To investigate possible effects of beta-catenin expression on the electrophysiological properties of neurons, we converted confocal images of neurons expressing beta-catenin into computational simulator formats using parameters that evenly distributed voltage-dependent channels across the cells' membranes. In simulated current clamp experiments, somata were injected with a normalized current such that the observed electrophysiological differences in the neurons would be due only to morphological differences. We found that the morphology of beta-catenin-expressing neurons contributes to significantly smaller action potential amplitude and greater sensitivity than seen in control neurons. As a consequence, beta-catenin-expressing neurons tended to exhibit higher spike rates and needed less excitation to induce firing. These findings show that beta-catenin, by modifying dendritic arborization, could have profound influences on the electrophysiological behavior of neurons.",
+     "FAU": [
+          "Krichmar, Jeffrey L",
+          "Velasquez, David",
+          "Ascoli, Giorgio A"
+     ],
+     "AU": [
+          "Krichmar JL",
+          "Velasquez D",
+          "Ascoli GA"
+     ],
+     "AD": "The Neurosciences Institute, 10640 John Jay Hopkins Drive, San Diego, California 92121, USA. krichmar@nsi.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "AG025633/AG/NIA NIH HHS/United States",
+          "R01 NS39600/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Biol Bull",
+     "JT": "The Biological bulletin",
+     "JID": "2984727R",
+     "RN": [
+          "0 (beta Catenin)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Computer Simulation",
+          "Gene Expression Regulation",
+          "Hippocampus/*cytology",
+          "Models, Biological",
+          "Nerve Net/drug effects",
+          "Neurons/*cytology/*metabolism",
+          "beta Catenin/*metabolism"
+     ],
+     "EDAT": "2006/09/02 09:00",
+     "MHDA": "2007/01/20 09:00",
+     "CRDT": [
+          "2006/09/02 09:00"
+     ],
+     "PHST": [
+          "2006/09/02 09:00 [pubmed]",
+          "2007/01/20 09:00 [medline]",
+          "2006/09/02 09:00 [entrez]"
+     ],
+     "AID": [
+          "211/1/31 [pii]",
+          "10.2307/4134575 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Bull. 2006 Aug;211(1):31-43. doi: 10.2307/4134575.",
+     "term": "hippocampus"
+}

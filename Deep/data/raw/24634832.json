@@ -1,0 +1,148 @@
+{
+     "PMID": "24634832",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160222",
+     "LR": "20161208",
+     "IS": "2213-1582 (Print) 2213-1582 (Linking)",
+     "VI": "4",
+     "DP": "2014",
+     "TI": "ApoE4 effects on automated diagnostic classifiers for mild cognitive impairment and Alzheimer's disease.",
+     "PG": "461-72",
+     "LID": "10.1016/j.nicl.2013.12.012 [doi]",
+     "AB": "Biomarkers are the only feasible way to detect and monitor presymptomatic Alzheimer's disease (AD). No single biomarker can predict future cognitive decline with an acceptable level of accuracy. In addition to designing powerful multimodal diagnostic platforms, a careful investigation of the major sources of disease heterogeneity and their influence on biomarker changes is needed. Here we investigated the accuracy of a novel multimodal biomarker classifier for differentiating cognitively normal (NC), mild cognitive impairment (MCI) and AD subjects with and without stratification by ApoE4 genotype. 111 NC, 182 MCI and 95 AD ADNI participants provided both structural MRI and CSF data at baseline. We used an automated machine-learning classifier to test the ability of hippocampal volume and CSF Abeta, t-tau and p-tau levels, both separately and in combination, to differentiate NC, MCI and AD subjects, and predict conversion. We hypothesized that the combined hippocampal/CSF biomarker classifier model would achieve the highest accuracy in differentiating between the three diagnostic groups and that ApoE4 genotype will affect both diagnostic accuracy and biomarker selection. The combined hippocampal/CSF classifier performed better than hippocampus-only classifier in differentiating NC from MCI and NC from AD. It also outperformed the CSF-only classifier in differentiating NC vs. AD. Our amyloid marker played a role in discriminating NC from MCI or AD but not for MCI vs. AD. Neurodegenerative markers contributed to accurate discrimination of AD from NC and MCI but not NC from MCI. Classifiers predicting MCI conversion performed well only after ApoE4 stratification. Hippocampal volume and sex achieved AUC = 0.68 for predicting conversion in the ApoE4-positive MCI, while CSF p-tau, education and sex achieved AUC = 0.89 for predicting conversion in ApoE4-negative MCI. These observations support the proposed biomarker trajectory in AD, which postulates that amyloid markers become abnormal early in the disease course while markers of neurodegeneration become abnormal later in the disease course and suggests that ApoE4 could be at least partially responsible for some of the observed disease heterogeneity.",
+     "FAU": [
+          "Apostolova, Liana G",
+          "Hwang, Kristy S",
+          "Kohannim, Omid",
+          "Avila, David",
+          "Elashoff, David",
+          "Jack, Clifford R Jr",
+          "Shaw, Leslie",
+          "Trojanowski, John Q",
+          "Weiner, Michael W",
+          "Thompson, Paul M"
+     ],
+     "AU": [
+          "Apostolova LG",
+          "Hwang KS",
+          "Kohannim O",
+          "Avila D",
+          "Elashoff D",
+          "Jack CR Jr",
+          "Shaw L",
+          "Trojanowski JQ",
+          "Weiner MW",
+          "Thompson PM"
+     ],
+     "AD": "Department of Neurology, David Geffen School of Medicine, UCLA, Los Angeles, CA, USA. Department of Neurology, David Geffen School of Medicine, UCLA, Los Angeles, CA, USA. Imaging genetics Center, Institute for Neuroimaging and Informatics, University of Southern California, Los Angeles, CA, USA. Department of Neurology, David Geffen School of Medicine, UCLA, Los Angeles, CA, USA. Department of Medicine Statistics Core, UCLA, Los Angeles, CA, USA. Department of Diagnostic Radiology, Mayo Clinic, Rochester, MN, USA. Department of Pathology and Laboratory Medicine, University of Pennsylvania School of Medicine, Philadelphia, PA, USA. Department of Pathology and Laboratory Medicine, University of Pennsylvania School of Medicine, Philadelphia, PA, USA. Department of Radiology, University of Pittsburgh, Pittsburgh, PA, USA ; Department of Veteran's Affairs Medical Center, San Francisco, CA, USA. Imaging genetics Center, Institute for Neuroimaging and Informatics, University of Southern California, Los Angeles, CA, USA.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "R01 AG040770/AG/NIA NIH HHS/United States",
+          "P50 AG16570/AG/NIA NIH HHS/United States",
+          "R01 AG040060/AG/NIA NIH HHS/United States",
+          "U19 AG010483/AG/NIA NIH HHS/United States",
+          "P50 AG016570/AG/NIA NIH HHS/United States",
+          "P41 RR013642/RR/NCRR NIH HHS/United States",
+          "R01 MH097268/MH/NIMH NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "AG040060/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140104",
+     "PL": "Netherlands",
+     "TA": "Neuroimage Clin",
+     "JT": "NeuroImage. Clinical",
+     "JID": "101597070",
+     "RN": [
+          "0 (Apolipoprotein E4)",
+          "0 (Biomarkers)",
+          "0 (Nerve Tissue Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Alzheimer Disease/cerebrospinal fluid/*diagnosis",
+          "Apolipoprotein E4/*cerebrospinal fluid",
+          "Atrophy/pathology",
+          "Biomarkers/cerebrospinal fluid",
+          "Cognitive Dysfunction/cerebrospinal fluid/*diagnosis",
+          "Diagnosis, Computer-Assisted/methods",
+          "Diagnosis, Differential",
+          "Female",
+          "Hippocampus/*metabolism/*pathology",
+          "Humans",
+          "Machine Learning",
+          "Male",
+          "Middle Aged",
+          "Nerve Tissue Proteins/*cerebrospinal fluid",
+          "Organ Size",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Tissue Distribution"
+     ],
+     "PMC": "PMC3952354",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "AD, Alzheimer's disease",
+          "ADNI",
+          "ADNI, Alzheimer's Disease Neuroimaging Initiative",
+          "AUC, area under the curve",
+          "Abeta",
+          "Alzheimer's disease",
+          "ApoE, apolipoprotein E",
+          "Abeta, Amyloid beta",
+          "Abeta42, Amyloid beta with 42 amino acid residues",
+          "CSF, cerebrospinal fluid",
+          "Diagnosis",
+          "Hippocampus atrophy",
+          "ICBM, International Consortium for Brain Mapping",
+          "MCI, mild cognitive impairment",
+          "MCIc, MCI converters",
+          "MCInc, MCI nonconverters",
+          "MMSE, Mini-Mental State Examination",
+          "NC, normal control",
+          "ROC, receiver operating curve",
+          "SVM, support vector machine",
+          "Tau",
+          "p-tau, phosphorylated tau protein",
+          "t-tau, total tau protein"
+     ],
+     "GN": [
+          "NLM: Original DateCompleted: 20140317"
+     ],
+     "EDAT": "2014/03/19 06:00",
+     "MHDA": "2014/03/19 06:01",
+     "CRDT": [
+          "2014/03/18 06:00"
+     ],
+     "PHST": [
+          "2013/03/26 00:00 [received]",
+          "2013/12/24 00:00 [revised]",
+          "2013/12/24 00:00 [accepted]",
+          "2014/03/18 06:00 [entrez]",
+          "2014/03/19 06:00 [pubmed]",
+          "2014/03/19 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1016/j.nicl.2013.12.012 [doi]",
+          "S2213-1582(13)00171-X [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Neuroimage Clin. 2014 Jan 4;4:461-72. doi: 10.1016/j.nicl.2013.12.012. eCollection 2014.",
+     "term": "hippocampus"
+}

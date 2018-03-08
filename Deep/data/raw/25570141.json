@@ -1,0 +1,76 @@
+{
+     "PMID": "25570141",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161019",
+     "LR": "20170220",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2014",
+     "DP": "2014",
+     "TI": "Support Vector Machine with nonlinear-kernel optimization for lateralization of epileptogenic hippocampus in MR images.",
+     "PG": "1047-50",
+     "LID": "10.1109/EMBC.2014.6943773 [doi]",
+     "AB": "Surgical treatment is suggested for seizure control in medically intractable epilepsy patients. Detailed pre-surgical evaluation and lateralization using Magnetic Resonance Images (MRI) is expected to result in a successful surgical outcome. In this study, an optimized pattern recognition approach is proposed for lateralization of mesial Temporal Lobe Epilepsy (mTLE) patients using asymmetry of imaging indices of hippocampus. T1-weighted and Fluid-Attenuated Inversion Recovery (FLAIR) images of 76 symptomatic mTLE patients are considered. First, hippocampus is segmented using automatic and manual segmentation methods; then, volumetric and intensity features are extracted from the MR images. A nonlinear Support Vector Machine (SVM) with optimized Gaussian Radial Basis Function (GRBF) kernel is used to classify the imaging features. Using leave-one-out cross validation, this method results in a correct lateralization rate of 82%, a probability of detection for the left side of 0.90 (with false alarm probability of 0.04) and a probability of detection for the right side of 0.69 (with zero false alarm probability). The lateralization results are compared to linear SVM, multi-layer perceptron Artificial Neural Network (ANN), and volumetry and FLAIR asymmetry analysis. This lateralization method is suggested for pre-surgical evaluation using MRI before surgical treatment in mTLE patients. It achieves a more correct lateralization rate and fewer false positives.",
+     "FAU": [
+          "Hosseini, Mohammad-Parsa",
+          "Nazem-Zadeh, Mohammad R",
+          "Mahmoudi, Fariborz",
+          "Ying, Hao",
+          "Soltanian-Zadeh, Hamid"
+     ],
+     "AU": [
+          "Hosseini MP",
+          "Nazem-Zadeh MR",
+          "Mahmoudi F",
+          "Ying H",
+          "Soltanian-Zadeh H"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB013227/EB/NIBIB NIH HHS/United States",
+          "R01-EB013227/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Epilepsy, Temporal Lobe/*diagnosis/diagnostic imaging",
+          "Female",
+          "Hippocampus/anatomy & histology/*diagnostic imaging",
+          "Humans",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Neural Networks (Computer)",
+          "Normal Distribution",
+          "Radiography",
+          "Support Vector Machine"
+     ],
+     "PMC": "PMC4504209",
+     "MID": [
+          "NIHMS705929"
+     ],
+     "EDAT": "2015/01/09 06:00",
+     "MHDA": "2016/11/12 06:00",
+     "CRDT": [
+          "2015/01/09 06:00"
+     ],
+     "PHST": [
+          "2015/01/09 06:00 [entrez]",
+          "2015/01/09 06:00 [pubmed]",
+          "2016/11/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2014.6943773 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2014;2014:1047-50. doi: 10.1109/EMBC.2014.6943773.",
+     "term": "hippocampus"
+}

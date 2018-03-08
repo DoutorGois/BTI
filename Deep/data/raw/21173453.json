@@ -1,0 +1,52 @@
+{
+     "PMID": "21173453",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20160519",
+     "LR": "20160205",
+     "IS": "1941-0506 (Electronic) 1077-2626 (Linking)",
+     "VI": "17",
+     "IP": "11",
+     "DP": "2011 Nov",
+     "TI": "A Hexahedral Multigrid Approach for Simulating Cuts in Deformable Objects.",
+     "PG": "1663-75",
+     "LID": "10.1109/TVCG.2010.268 [doi]",
+     "AB": "We present a hexahedral finite element method for simulating cuts in deformable bodies using the corotational formulation of strain at high computational efficiency. Key to our approach is a novel embedding of adaptive element refinements and topological changes of the simulation grid into a geometric multigrid solver. Starting with a coarse hexahedral simulation grid, this grid is adaptively refined at the surface of a cutting tool until a finest resolution level, and the cut is modeled by separating elements along the cell faces at this level. To represent the induced discontinuities on successive multigrid levels, the affected coarse grid cells are duplicated and the resulting connectivity components are distributed to either side of the cut. Drawing upon recent work on octree and multigrid schemes for the numerical solution of partial differential equations, we develop efficient algorithms for updating the systems of equations of the adaptive finite element discretization and the multigrid hierarchy. To construct a surface that accurately aligns with the cuts, we adapt the splitting cubes algorithm to the specific linked voxel representation of the simulation domain we use. The paper is completed by a convergence analysis of the finite element solver and a performance comparison to alternative numerical solution methods. These investigations show that our approach offers high computational efficiency and physical accuracy, and that it enables cutting of deformable bodies at very high resolutions.",
+     "FAU": [
+          "Dick, C",
+          "Georgii, J",
+          "Westermann, R"
+     ],
+     "AU": [
+          "Dick C",
+          "Georgii J",
+          "Westermann R"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20101223",
+     "PL": "United States",
+     "TA": "IEEE Trans Vis Comput Graph",
+     "JT": "IEEE transactions on visualization and computer graphics",
+     "JID": "9891704",
+     "EDAT": "2010/12/22 06:00",
+     "MHDA": "2010/12/22 06:01",
+     "CRDT": [
+          "2010/12/22 06:00"
+     ],
+     "PHST": [
+          "2010/12/22 06:00 [entrez]",
+          "2010/12/22 06:00 [pubmed]",
+          "2010/12/22 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1109/TVCG.2010.268 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Vis Comput Graph. 2011 Nov;17(11):1663-75. doi: 10.1109/TVCG.2010.268. Epub 2010 Dec 23.",
+     "term": "grid cells"
+}

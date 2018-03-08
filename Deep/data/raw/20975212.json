@@ -1,0 +1,74 @@
+{
+     "PMID": "20975212",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110425",
+     "LR": "20110105",
+     "IS": "1741-2552 (Electronic) 1741-2552 (Linking)",
+     "VI": "7",
+     "IP": "6",
+     "DP": "2010 Dec",
+     "TI": "Firing rate control of a neuron using a linear proportional-integral controller.",
+     "PG": "066004",
+     "LID": "10.1088/1741-2560/7/6/066004 [doi]",
+     "AB": "Some electrophysiology experiments require periodically firing neurons. One example is when measuring a neuron's phase response curve (PRC) where a neuron is stimulated with a synaptic input and the perturbation in the neuron's period is measured as a function of when the stimulus is applied. However, even regular spiking cells have considerable variations in their period. These variations can be categorized into two types: jitter, which characterizes the rapid changes in interspike intervals (ISIs) from spike to spike, and drift, which is a slow change in firing rate over seconds. The jitter is removed by averaging the phase advance of a synaptic input applied at a particular phase several times. The drift over long time scales results in a systematic change in the period over the duration of the experiment which cannot be removed by averaging. To compensate for the drift of the neuron over minutes, we designed a linear proportional-integral (PI) controller to slowly adjust the applied current to a neuron to maintain the average firing rate at a desired ISI. The parameters of the controller were calculated based on a first-order discrete model to describe the relationship between ISI and current. The algorithm is demonstrated on pyramidal cells in the hippocampal formation showing ISIs from the neuron in an open loop (constant applied current) and a closed loop (current adjusted by a spike rate controller). The advantages of using the controller can be summarized as: (1) there is a reduction in the transient time to reach a desired ISI, (2) the drift in the ISI is removed allowing for long experiments at a desired spiking rate and (3) the variance is diminished by removing the slow drift. Furthermore, we implemented an auto-tuning algorithm that estimates in real time the coefficients for each clamped neuron. We also show how the controller can improve the PRC estimation. The program runs on Real-Time eXperiment Interface (RTXI), which is Linux-based software for real-time data acquisition and control applications.",
+     "FAU": [
+          "Miranda-Dominguez, O",
+          "Gonia, J",
+          "Netoff, T I"
+     ],
+     "AU": [
+          "Miranda-Dominguez O",
+          "Gonia J",
+          "Netoff TI"
+     ],
+     "AD": "Department of Biomedical Engineering, University of Minnesota, Minneapolis, MN 55455, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20101026",
+     "PL": "England",
+     "TA": "J Neural Eng",
+     "JT": "Journal of neural engineering",
+     "JID": "101217933",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Electric Stimulation",
+          "Electronics",
+          "*Electrophysiological Phenomena",
+          "Electrophysiology/*instrumentation",
+          "Female",
+          "Hippocampus/cytology/physiology",
+          "Male",
+          "Models, Neurological",
+          "Neurons/*physiology",
+          "Patch-Clamp Techniques",
+          "Pyramidal Cells/physiology",
+          "Rats",
+          "Rats, Long-Evans",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2010/10/27 06:00",
+     "MHDA": "2011/04/26 06:00",
+     "CRDT": [
+          "2010/10/27 06:00"
+     ],
+     "PHST": [
+          "2010/10/27 06:00 [entrez]",
+          "2010/10/27 06:00 [pubmed]",
+          "2011/04/26 06:00 [medline]"
+     ],
+     "AID": [
+          "S1741-2560(10)66304-5 [pii]",
+          "10.1088/1741-2560/7/6/066004 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neural Eng. 2010 Dec;7(6):066004. doi: 10.1088/1741-2560/7/6/066004. Epub 2010 Oct 26.",
+     "term": "hippocampus"
+}

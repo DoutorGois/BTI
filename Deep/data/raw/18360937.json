@@ -1,0 +1,79 @@
+{
+     "PMID": "18360937",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080502",
+     "LR": "20170922",
+     "IS": "0954-898X (Print) 0954-898X (Linking)",
+     "VI": "18",
+     "IP": "4",
+     "DP": "2007 Dec",
+     "TI": "Asynchronous inputs and NMDA conductances predict excitatory responses in the cortical-cA1 pathway of the hippocampus.",
+     "PG": "299-325",
+     "AB": "In the hippocampus, CA1 place cells are driven by a substantial input from CA3. There is a second pathway to CA1 from the entorhinal cortex. The mode of action of cortex on CA1 through this pathway is not known. The pathway supports CA1 place field activity after CA3 has been lesioned, yet stimulation of the pathway in rat slices results in strong feedforward inhibition that prevents pyramidal cell action potentials. We use a detailed conductance-based model of this pathway to simulate the response to cortical stimulation in slice experiments and in vivo spatial exploration. We find that the presence of NMDA conductances enable CA1 pyramidal cells to integrate cortical inputs over a time scale longer than that which is effective in recruiting the inhibitory response that can suppress action potentials. We then show that this asynchronous response mode supports place field formation in response to experimentally constrained spatially modulated cortical activity. Within this model, the inclusion of GABAB conductances and the hyperpolarisation activated current I(h) reduces the strength of the GABAA inputs required to balance the excitatory inputs, and this facilitates place field formation by reducing variability in the inhibitory inputs.",
+     "FAU": [
+          "Longden, Kit D",
+          "Willshaw, David J"
+     ],
+     "AU": [
+          "Longden KD",
+          "Willshaw DJ"
+     ],
+     "AD": "Department of Bioengineering, Imperial College London, South Kensington Campus, London SW7 2AZ, UK. kit@imperial.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G9119632/Medical Research Council/United Kingdom",
+          "Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "Network",
+     "JT": "Network (Bristol, England)",
+     "JID": "9431867",
+     "RN": [
+          "0 (Receptors, GABA)",
+          "56-12-2 (gamma-Aminobutyric Acid)",
+          "6384-92-5 (N-Methylaspartate)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Behavior, Animal",
+          "Computer Simulation",
+          "Electric Stimulation/methods",
+          "Entorhinal Cortex/*cytology",
+          "Hippocampus/*cytology",
+          "In Vitro Techniques",
+          "Interneurons/physiology/radiation effects",
+          "*Models, Neurological",
+          "Motor Activity/physiology",
+          "N-Methylaspartate/*physiology",
+          "Neural Inhibition/physiology",
+          "Neural Pathways/physiology",
+          "Pyramidal Cells/*physiology",
+          "Rats",
+          "Receptors, GABA/physiology",
+          "Spatial Behavior/physiology",
+          "Synaptic Transmission/*physiology/radiation effects",
+          "Time Factors",
+          "gamma-Aminobutyric Acid/metabolism"
+     ],
+     "EDAT": "2008/03/25 09:00",
+     "MHDA": "2008/05/03 09:00",
+     "CRDT": [
+          "2008/03/25 09:00"
+     ],
+     "PHST": [
+          "2008/03/25 09:00 [pubmed]",
+          "2008/05/03 09:00 [medline]",
+          "2008/03/25 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Network. 2007 Dec;18(4):299-325.",
+     "term": "place cells"
+}

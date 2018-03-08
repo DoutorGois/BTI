@@ -1,0 +1,66 @@
+{
+     "PMID": "24730905",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150419",
+     "LR": "20140415",
+     "IS": "1550-2376 (Electronic) 1539-3755 (Linking)",
+     "VI": "89",
+     "IP": "3",
+     "DP": "2014 Mar",
+     "TI": "Promoting collective motion of self-propelled agents by distance-based influence.",
+     "PG": "032813",
+     "AB": "We propose a dynamic model for a system consisting of self-propelled agents in which the influence of an agent on another agent is weighted by geographical distance. A parameter alpha is introduced to adjust the influence: The smaller value of alpha means that the closer neighbors have a stronger influence on the moving direction. We find that there exists an optimal value of alpha leading to the highest degree of direction consensus. The value of optimal alpha increases as the system size increases, while it decreases as the absolute velocity, the sensing radius, and the noise amplitude increase.",
+     "FAU": [
+          "Yang, Han-Xin",
+          "Zhou, Tao",
+          "Huang, Liang"
+     ],
+     "AU": [
+          "Yang HX",
+          "Zhou T",
+          "Huang L"
+     ],
+     "AD": "Department of Physics, Fuzhou University, Fuzhou 350108, China. Web Sciences Center, University of Electronic Science and Technology of China, Chengdu 610054, China. Institute of Computational Physics and Complex Systems, Lanzhou University, Lanzhou, Gansu 730000, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140326",
+     "PL": "United States",
+     "TA": "Phys Rev E Stat Nonlin Soft Matter Phys",
+     "JT": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+     "JID": "101136452",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "*Cooperative Behavior",
+          "*Crowding",
+          "Humans",
+          "*Models, Biological",
+          "*Models, Statistical",
+          "Movement/*physiology",
+          "Spatial Navigation/*physiology"
+     ],
+     "EDAT": "2014/04/16 06:00",
+     "MHDA": "2015/04/22 06:00",
+     "CRDT": [
+          "2014/04/16 06:00"
+     ],
+     "PHST": [
+          "2013/11/14 00:00 [received]",
+          "2014/04/16 06:00 [entrez]",
+          "2014/04/16 06:00 [pubmed]",
+          "2015/04/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1103/PhysRevE.89.032813 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phys Rev E Stat Nonlin Soft Matter Phys. 2014 Mar;89(3):032813. doi: 10.1103/PhysRevE.89.032813. Epub 2014 Mar 26.",
+     "term": "spatial navigation"
+}

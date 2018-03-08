@@ -1,0 +1,79 @@
+{
+     "PMID": "19764871",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20091229",
+     "LR": "20091113",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "21",
+     "IP": "12",
+     "DP": "2009 Dec",
+     "TI": "Decoding movement trajectories through a T-maze using point process filters applied to place field data from rat hippocampal region CA1.",
+     "PG": "3305-34",
+     "LID": "10.1162/neco.2009.10-08-893 [doi]",
+     "AB": "Firing activity from neural ensembles in rat hippocampus has been previously used to determine an animal's position in an open environment and separately to predict future behavioral decisions. However, a unified statistical procedure to combine information about position and behavior in environments with complex topological features from ensemble hippocampal activity has yet to be described. Here we present a two-stage computational framework that uses point process filters to simultaneously estimate the animal's location and predict future behavior from ensemble neural spiking activity. First, in the encoding stage, we linearized a two-dimensional T-maze, and used spline-based generalized linear models to characterize the place-field structure of different neurons. All of these neurons displayed highly specific position-dependent firing, which frequently had several peaks at multiple locations along the maze. When the rat was at the stem of the T-maze, the firing activity of several of these neurons also varied significantly as a function of the direction it would turn at the decision point, as detected by ANOVA. Second, in the decoding stage, we developed a state-space model for the animal's movement along a T-maze and used point process filters to accurately reconstruct both the location of the animal and the probability of the next decision. The filter yielded exact full posterior densities that were highly nongaussian and often multimodal. Our computational framework provides a reliable approach for characterizing and extracting information from ensembles of neurons with spatially specific context or task-dependent firing activity.",
+     "FAU": [
+          "Huang, Yifei",
+          "Brandon, Mark P",
+          "Griffin, Amy L",
+          "Hasselmo, Michael E",
+          "Eden, Uri T"
+     ],
+     "AU": [
+          "Huang Y",
+          "Brandon MP",
+          "Griffin AL",
+          "Hasselmo ME",
+          "Eden UT"
+     ],
+     "AD": "Department of Mathematics and Statistics, Boston University, Boston, MA 02215, USA. yifei@bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH60013/MH/NIMH NIH HHS/United States",
+          "MH71702/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Analysis of Variance",
+          "Animals",
+          "CA1 Region, Hippocampal/*physiology",
+          "Computer Simulation",
+          "Maze Learning/*physiology",
+          "*Models, Neurological",
+          "Models, Statistical",
+          "Movement/*physiology",
+          "Nerve Net/physiology",
+          "Neurons/*physiology",
+          "Orientation",
+          "Rats",
+          "Spatial Behavior/physiology/radiation effects"
+     ],
+     "EDAT": "2009/09/22 06:00",
+     "MHDA": "2009/12/30 06:00",
+     "CRDT": [
+          "2009/09/22 06:00"
+     ],
+     "PHST": [
+          "2009/09/22 06:00 [entrez]",
+          "2009/09/22 06:00 [pubmed]",
+          "2009/12/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1162/neco.2009.10-08-893 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2009 Dec;21(12):3305-34. doi: 10.1162/neco.2009.10-08-893.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,65 @@
+{
+     "PMID": "22254408",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120607",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2011",
+     "DP": "2011",
+     "TI": "3-D Modeling of nitric oxide emission and vasodilation induced by CA3 hippocampal neurons.",
+     "PG": "708-11",
+     "LID": "10.1109/IEMBS.2011.6090160 [doi]",
+     "AB": "The modeling of the spread, diffusion, and decay of chemicals in the brain is a complex problem that is made difficult by the fact that the structures that produce chemicals (synapses etc.) may be very small in comparison to their radii of chemical influence. In this article, we concentrate on modeling a simple instance of this problem; that of a proficiently diffusing molecule that may cause changes in smooth muscle contractions over relatively large areas. An optimized diffusion system was developed to study the diffusion of neuronal nitric oxide. Our diffusion system allows us to model the spread of nitric oxide from all areas of neurons, including the soma and dendritic processes. In addition, our system allows us to model tiny diffusing structures without sacrificing large-scale granularity. To study the effect of NO-producing neurons on vasodilation, we simulate systems of 1 and 2 neurons. We show that it is possible for nitric oxide emitted from neurons to be involved in regulating blood flow.",
+     "FAU": [
+          "Nejati, Alireza",
+          "Unsworth, Charles P"
+     ],
+     "AU": [
+          "Nejati A",
+          "Unsworth CP"
+     ],
+     "AD": "Department of Engineering Science, University of Auckland, Auckland 1010, New Zealand. alireza.n.j@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "RN": [
+          "31C4KY9ESH (Nitric Oxide)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cerebrovascular Circulation/*physiology",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Models, Cardiovascular",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Nitric Oxide/*biosynthesis",
+          "Vasodilation/*physiology"
+     ],
+     "EDAT": "2012/01/19 06:00",
+     "MHDA": "2012/06/08 06:00",
+     "CRDT": [
+          "2012/01/19 06:00"
+     ],
+     "PHST": [
+          "2012/01/19 06:00 [entrez]",
+          "2012/01/19 06:00 [pubmed]",
+          "2012/06/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2011.6090160 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2011;2011:708-11. doi: 10.1109/IEMBS.2011.6090160.",
+     "term": "hippocampus"
+}

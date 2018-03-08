@@ -1,0 +1,67 @@
+{
+     "PMID": "1594726",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19920701",
+     "LR": "20071114",
+     "IS": "0033-295X (Print) 0033-295X (Linking)",
+     "VI": "99",
+     "IP": "2",
+     "DP": "1992 Apr",
+     "TI": "Stimulus configuration, classical conditioning, and hippocampal function.",
+     "PG": "268-305",
+     "AB": "Hippocampal participation in classical conditioning is described in terms of a multilayer network that portrays stimulus configuration. The network (a) describes behavior in real time, (b) incorporates a layer of \"hidden\" units positioned between input and output units, (c) includes inputs that are connected to the output directly as well as indirectly through the hidden-unit layer, and (d) uses a biologically plausible backpropagation procedure to train the hidden-unit layer. Nodes and connections in the neural network are mapped onto regional cerebellar, cortical, and hippocampal circuits, and the effect of lesions of different brain regions is formally studied. Computer simulations of the following classical conditioning paradigms are presented: acquisition of delay and trace conditioning, extinction, acquisition-extinction series of delay conditioning, blocking, over-shadowing, discrimination acquisition, discrimination reversal, feature-positive discrimination, conditioned inhibition, negative patterning, positive patterning, and generalization. The model correctly describes the effect of hippocampal and cortical lesions in many of these paradigms, as well as neural activity in hippocampus and medial septum during classical conditioning. Some of these results might be extended to the description of anterograde amnesia in human patients.",
+     "FAU": [
+          "Schmajuk, N A",
+          "DiCarlo, J J"
+     ],
+     "AU": [
+          "Schmajuk NA",
+          "DiCarlo JJ"
+     ],
+     "AD": "Department of Psychology, Northwestern University, Evanston, Illinois 60208.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "BRSG SO7 RR07028-22/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+     ],
+     "PL": "United States",
+     "TA": "Psychol Rev",
+     "JT": "Psychological review",
+     "JID": "0376476",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Association Learning/*physiology",
+          "Brain Mapping",
+          "Cerebellum/physiology",
+          "Cerebral Cortex/physiology",
+          "Computer Simulation",
+          "Conditioning, Classical/*physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Models, Neurological",
+          "Neural Pathways/physiology"
+     ],
+     "RF": "140",
+     "EDAT": "1992/04/01 00:00",
+     "MHDA": "1992/04/01 00:01",
+     "CRDT": [
+          "1992/04/01 00:00"
+     ],
+     "PHST": [
+          "1992/04/01 00:00 [pubmed]",
+          "1992/04/01 00:01 [medline]",
+          "1992/04/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Psychol Rev. 1992 Apr;99(2):268-305.",
+     "term": "hippocampus"
+}

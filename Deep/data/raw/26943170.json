@@ -1,0 +1,63 @@
+{
+     "PMID": "26943170",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160725",
+     "LR": "20160324",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "11",
+     "IP": "3",
+     "DP": "2016",
+     "TI": "Evaluating beta Diversity as a Surrogate for Species Representation at Fine Scale.",
+     "PG": "e0151048",
+     "LID": "10.1371/journal.pone.0151048 [doi]",
+     "AB": "Species turnover or beta diversity is a conceptually attractive surrogate for conservation planning. However, there has been only 1 attempt to determine how well sites selected to maximize beta diversity represent species, and that test was done at a scale too coarse (2,500 km2 sites) to inform most conservation decisions. We used 8 plant datasets, 3 bird datasets, and 1 mammal dataset to evaluate whether sites selected to span beta diversity will efficiently represent species at finer scale (sites sizes < 1 ha to 625 km2). We used ordinations to characterize dissimilarity in species assemblages (beta diversity) among plots (inventory data) or among grid cells (atlas data). We then selected sites to maximize beta diversity and used the Species Accumulation Index, SAI, to evaluate how efficiently the surrogate (selecting sites for maximum beta diversity) represented species in the same taxon. Across all 12 datasets, sites selected for maximum beta diversity represented species with a median efficiency of 24% (i.e., the surrogate was 24% more effective than random selection of sites), and an interquartile range of 4% to 41% efficiency. beta diversity was a better surrogate for bird datasets than for plant datasets, and for atlas datasets with 10-km to 14-km grid cells than for atlas datasets with 25-km grid cells. We conclude that beta diversity is more than a mere descriptor of how species are distributed on the landscape; in particular beta diversity might be useful to maximize the complementarity of a set of sites. Because we tested only within-taxon surrogacy, our results do not prove that beta diversity is useful for conservation planning. But our results do justify further investigation to identify the circumstances in which beta diversity performs well, and to evaluate it as a cross-taxon surrogate.",
+     "FAU": [
+          "Beier, Paul",
+          "Albuquerque, Fabio"
+     ],
+     "AU": [
+          "Beier P",
+          "Albuquerque F"
+     ],
+     "AD": "School of Forestry, Northern Arizona University, Flagstaff, Arizona, 86001, United States of America. Science and Mathematics Faculty, Arizona State University, Mesa, AZ, 85212, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160304",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "*Biodiversity",
+          "*Conservation of Natural Resources",
+          "Databases as Topic",
+          "Species Specificity"
+     ],
+     "PMC": "PMC4778865",
+     "EDAT": "2016/03/05 06:00",
+     "MHDA": "2016/07/28 06:00",
+     "CRDT": [
+          "2016/03/05 06:00"
+     ],
+     "PHST": [
+          "2015/11/26 00:00 [received]",
+          "2016/02/23 00:00 [accepted]",
+          "2016/03/05 06:00 [entrez]",
+          "2016/03/05 06:00 [pubmed]",
+          "2016/07/28 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0151048 [doi]",
+          "PONE-D-15-51307 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2016 Mar 4;11(3):e0151048. doi: 10.1371/journal.pone.0151048. eCollection 2016.",
+     "term": "grid cells"
+}

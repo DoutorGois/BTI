@@ -1,0 +1,84 @@
+{
+     "PMID": "16754291",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070116",
+     "LR": "20161124",
+     "IS": "0269-9052 (Print) 0269-9052 (Linking)",
+     "VI": "20",
+     "IP": "6",
+     "DP": "2006 Jun",
+     "TI": "Voxel-based statistical analysis of cerebral blood flow using Tc-99m ECD brain SPECT in patients with traumatic brain injury: group and individual analyses.",
+     "PG": "661-7",
+     "AB": "PURPOSE: Statistical parametric mapping (SPM) was applied to brain perfusion single photon emission computed tomography (SPECT) images in patients with traumatic brain injury (TBI) to investigate regional cerebral abnormalities compared to age-matched normal controls. METHOD: Thirteen patients with TBI underwent brain perfusion SPECT were included in this study (10 males, three females, mean age 39.8 +/- 18.2, range 21 - 74). SPM2 software implemented in MATLAB 5.3 was used for spatial pre-processing and analysis and to determine the quantitative differences between TBI patients and age-matched normal controls. RESULTS: Three large voxel clusters of significantly decreased cerebral blood perfusion were found in patients with TBI. The largest clusters were area including medial frontal gyrus (voxel number 3642, peak Z-value = 4.31, 4.27, p = 0.000) in both hemispheres. The second largest clusters were areas including cingulated gyrus and anterior cingulate gyrus of left hemisphere (voxel number 381, peak Z-value = 3.67, 3.62, p = 0.000). Other clusters were parahippocampal gyrus (voxel number 173, peak Z-value = 3.40, p = 0.000) and hippocampus (voxel number 173, peak Z-value = 3.23, p = 0.001) in the left hemisphere. The false discovery rate (FDR) was less than 0.04. CONCLUSION: From this study, group and individual analyses of SPM2 could clearly identify the perfusion abnormalities of brain SPECT in patients with TBI. Group analysis of SPM2 showed hypoperfusion pattern in the areas including medial frontal gyrus of both hemispheres, cingulate gyrus, anterior cingulate gyrus, parahippocampal gyrus and hippocampus in the left hemisphere compared to age-matched normal controls. Also, left parahippocampal gyrus and left hippocampus were additional hypoperfusion areas. However, these findings deserve further investigation on a larger number of patients to be performed to allow a better validation of objective SPM analysis in patients with TBI.",
+     "FAU": [
+          "Shin, Yong Beom",
+          "Kim, Seong-Jang",
+          "Kim, In-Ju",
+          "Kim, Yong-Ki",
+          "Kim, Dong-Soo",
+          "Park, Jae Heung",
+          "Yeom, Seok-Ran"
+     ],
+     "AU": [
+          "Shin YB",
+          "Kim SJ",
+          "Kim IJ",
+          "Kim YK",
+          "Kim DS",
+          "Park JH",
+          "Yeom SR"
+     ],
+     "AD": "Department of Rehabilitation Medicine, Pusan National University Hospital, Republic of Korea.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "Brain Inj",
+     "JT": "Brain injury",
+     "JID": "8710358",
+     "RN": [
+          "0 (Organotechnetium Compounds)",
+          "0 (Radiopharmaceuticals)",
+          "H25WJA31XE (technetium Tc 99m bicisate)",
+          "K848JZ4886 (Cysteine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Brain/*blood supply/diagnostic imaging",
+          "Brain Injuries/*diagnostic imaging/physiopathology",
+          "*Cerebrovascular Circulation",
+          "Cysteine/analogs & derivatives",
+          "Databases, Factual",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Organotechnetium Compounds",
+          "Radiopharmaceuticals",
+          "Tomography, Emission-Computed, Single-Photon/methods/standards"
+     ],
+     "EDAT": "2006/06/07 09:00",
+     "MHDA": "2007/01/17 09:00",
+     "CRDT": [
+          "2006/06/07 09:00"
+     ],
+     "PHST": [
+          "2006/06/07 09:00 [pubmed]",
+          "2007/01/17 09:00 [medline]",
+          "2006/06/07 09:00 [entrez]"
+     ],
+     "AID": [
+          "K5M5M430174235Q9 [pii]",
+          "10.1080/02699050600677071 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Inj. 2006 Jun;20(6):661-7. doi: 10.1080/02699050600677071.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,90 @@
+{
+     "PMID": "26828723",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160719",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "11",
+     "IP": "2",
+     "DP": "2016",
+     "TI": "Automated Protein Localization of Blood Brain Barrier Vasculature in Brightfield IHC Images.",
+     "PG": "e0148411",
+     "LID": "10.1371/journal.pone.0148411 [doi]",
+     "AB": "In this paper, we present an objective method for localization of proteins in blood brain barrier (BBB) vasculature using standard immunohistochemistry (IHC) techniques and bright-field microscopy. Images from the hippocampal region at the BBB are acquired using bright-field microscopy and subjected to our segmentation pipeline which is designed to automatically identify and segment microvessels containing the protein glucose transporter 1 (GLUT1). Gabor filtering and k-means clustering are employed to isolate potential vascular structures within cryosectioned slabs of the hippocampus, which are subsequently subjected to feature extraction followed by classification via decision forest. The false positive rate (FPR) of microvessel classification is characterized using synthetic and non-synthetic IHC image data for image entropies ranging between 3 and 8 bits. The average FPR for synthetic and non-synthetic IHC image data was found to be 5.48% and 5.04%, respectively.",
+     "FAU": [
+          "Soans, Rajath E",
+          "Lim, Diane C",
+          "Keenan, Brendan T",
+          "Pack, Allan I",
+          "Shackleford, James A"
+     ],
+     "AU": [
+          "Soans RE",
+          "Lim DC",
+          "Keenan BT",
+          "Pack AI",
+          "Shackleford JA"
+     ],
+     "AD": "Department of Electrical Engineering, Drexel University, Philadelphia, United States of America. Department of Medicine, University of Pennsylvania, Philadelphia, United States of America. Center for Sleep and Circadian Neurobiology, University of Pennsylvania, Philadelphia, United States of America. Department of Medicine, University of Pennsylvania, Philadelphia, United States of America. Department of Electrical Engineering, Drexel University, Philadelphia, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "HL094307/HL/NHLBI NIH HHS/United States",
+          "K12 HL090021/HL/NHLBI NIH HHS/United States",
+          "T32HL07713/HL/NHLBI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160201",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Glucose Transporter Type 1)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Automation",
+          "Blood-Brain Barrier/*metabolism",
+          "Cluster Analysis",
+          "Entropy",
+          "Glucose Transporter Type 1/*metabolism",
+          "Hippocampus/metabolism",
+          "*Image Processing, Computer-Assisted",
+          "Immunohistochemistry",
+          "Male",
+          "Mice, Inbred C57BL",
+          "Microvessels/*metabolism",
+          "Protein Transport",
+          "Reproducibility of Results",
+          "Time Factors"
+     ],
+     "PMC": "PMC4734698",
+     "EDAT": "2016/02/02 06:00",
+     "MHDA": "2016/07/20 06:00",
+     "CRDT": [
+          "2016/02/02 06:00"
+     ],
+     "PHST": [
+          "2015/05/21 00:00 [received]",
+          "2016/01/17 00:00 [accepted]",
+          "2016/02/02 06:00 [entrez]",
+          "2016/02/02 06:00 [pubmed]",
+          "2016/07/20 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0148411 [doi]",
+          "PONE-D-15-22195 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2016 Feb 1;11(2):e0148411. doi: 10.1371/journal.pone.0148411. eCollection 2016.",
+     "term": "hippocampus"
+}

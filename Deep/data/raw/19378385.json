@@ -1,0 +1,76 @@
+{
+     "PMID": "19378385",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090618",
+     "LR": "20170220",
+     "IS": "1872-7549 (Electronic) 0166-4328 (Linking)",
+     "VI": "200",
+     "IP": "1",
+     "DP": "2009 Jun 8",
+     "TI": "Evidence of multistability in a realistic computer simulation of hippocampus subfield CA1.",
+     "PG": "220-31",
+     "AB": "The manner in which hippocampus processes neural signals is thought to be central to the memory encoding process. A theoretically oriented literature has suggested that this is carried out via \"attractors\" or distinctive spatio-temporal patterns of activity. However, these ideas have not been thoroughly investigated using computational models featuring both realistic single-cell physiology and detailed cell-to-cell connectivity. Here we present a 452 cell simulation based on Traub et al.'s pyramidal cell [Traub RD, Jefferys JG, Miles R, Whittington MA, Toth K. A branching dendritic model of a rodent CA3 pyramidal neurone. J Physiol (Lond) 1994;481:79-95] and interneuron [Traub RD, Miles R, Pyramidal cell-to-inhibitory cell spike transduction explicable by active dendritic conductances in inhibitory cell. J Comput Neurosci 1995;2:291-8] models, incorporating patterns of synaptic connectivity based on an extensive review of the neuroanatomic literature. When stimulated with a one second physiologically realistic input, our simulated tissue shows the ability to hold activity on-line for several seconds; furthermore, its spiking activity, as measured by frequency and interspike interval (ISI) distributions, resembles that of in vivo hippocampus. An interesting emergent property of the system is its tendency to transition from stable state to stable state, a behavior consistent with recent experimental findings [Sasaki T, Matsuki N, Ikegaya Y. Metastability of active CA3 networks. J Neurosci 2007;27:517-28]. Inspection of spike trains and simulated blockade of K(AHP) channels suggest that this is mediated by spike frequency adaptation. This finding, in conjunction with studies showing that apamin, a K(AHP) channel blocker, enhances the memory consolidation process in laboratory animals, suggests the formation of stable attractor states is central to the process by which memories are encoded. Ways that this methodology could shed light on the etiology of mental illness, such as schizophrenia, are discussed.",
+     "FAU": [
+          "Siekmeier, Peter J"
+     ],
+     "AU": [
+          "Siekmeier PJ"
+     ],
+     "AD": "Harvard Medical School and McLean Hospital, 115 Mill Street, Belmont, MA 02478, USA. psiekmeier@mclean.harvard.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K08 MH072771/MH/NIMH NIH HHS/United States",
+          "P50 MH060450/MH/NIMH NIH HHS/United States",
+          "5K08MH072771/MH/NIMH NIH HHS/United States",
+          "P50 MH060450-09/MH/NIMH NIH HHS/United States",
+          "K08 MH072771-02/MH/NIMH NIH HHS/United States",
+          "5P50MH060450/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Netherlands",
+     "TA": "Behav Brain Res",
+     "JT": "Behavioural brain research",
+     "JID": "8004872",
+     "RN": [
+          "0 (Calcium-Binding Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Axons/metabolism/physiology",
+          "Calcium-Binding Proteins/metabolism",
+          "*Computer Simulation",
+          "Hippocampus/*cytology",
+          "*Models, Neurological",
+          "Nerve Net/physiology",
+          "Neural Networks (Computer)",
+          "Neural Pathways",
+          "Neurons/classification/cytology/*physiology",
+          "Synapses/physiology"
+     ],
+     "PMC": "PMC2768379",
+     "MID": [
+          "NIHMS91628"
+     ],
+     "EDAT": "2009/04/21 09:00",
+     "MHDA": "2009/06/19 09:00",
+     "CRDT": [
+          "2009/04/21 09:00"
+     ],
+     "PHST": [
+          "2009/04/21 09:00 [entrez]",
+          "2009/04/21 09:00 [pubmed]",
+          "2009/06/19 09:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Behav Brain Res. 2009 Jun 8;200(1):220-31.",
+     "term": "hippocampus"
+}

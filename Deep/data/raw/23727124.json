@@ -1,0 +1,93 @@
+{
+     "PMID": "23727124",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140320",
+     "LR": "20170220",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "218",
+     "IP": "2",
+     "DP": "2013 Sep 15",
+     "TI": "A comparison of automated anatomical-behavioural mapping methods in a rodent model of stroke.",
+     "PG": "170-83",
+     "LID": "10.1016/j.jneumeth.2013.05.009 [doi] S0165-0270(13)00192-1 [pii]",
+     "AB": "Neurological damage, due to conditions such as stroke, results in a complex pattern of structural changes and significant behavioural dysfunctions; the automated analysis of magnetic resonance imaging (MRI) and discovery of structural-behavioural correlates associated with these disorders remains challenging. Voxel lesion symptom mapping (VLSM) has been used to associate behaviour with lesion location in MRI, but this analysis requires the definition of lesion masks on each subject and does not exploit the rich structural information in the images. Tensor-based morphometry (TBM) has been used to perform voxel-wise structural analyses over the entire brain; however, a combination of lesion hyper-intensities and subtle structural remodelling away from the lesion might confound the interpretation of TBM. In this study, we compared and contrasted these techniques in a rodent model of stroke (n=58) to assess the efficacy of these techniques in a challenging pre-clinical application. The results from the automated techniques were compared using manually derived region-of-interest measures of the lesion, cortex, striatum, ventricle and hippocampus, and considered against model power calculations. The automated TBM techniques successfully detect both lesion and non-lesion effects, consistent with manual measurements. These techniques do not require manual segmentation to the same extent as VLSM and should be considered part of the toolkit for the unbiased analysis of pre-clinical imaging-based studies.",
+     "CI": [
+          "Copyright (c) 2013 The Authors. Published by Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Crum, William R",
+          "Giampietro, Vincent P",
+          "Smith, Edward J",
+          "Gorenkova, Natalia",
+          "Stroemer, R Paul",
+          "Modo, Michel"
+     ],
+     "AU": [
+          "Crum WR",
+          "Giampietro VP",
+          "Smith EJ",
+          "Gorenkova N",
+          "Stroemer RP",
+          "Modo M"
+     ],
+     "AD": "King's College London, Institute of Psychiatry, Department of Neuroimaging, London SE5 8AF, UK. bill.crum@kcl.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P20 EB007076/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "DEP": "20130529",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Automation",
+          "Brain Mapping/*methods",
+          "Disease Models, Animal",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Stroke/*pathology/*physiopathology"
+     ],
+     "PMC": "PMC3759848",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Image registration",
+          "Magnetic resonance imaging",
+          "Stroke",
+          "Tensor-based morphometry",
+          "Voxel lesion symptom mapping"
+     ],
+     "EDAT": "2013/06/04 06:00",
+     "MHDA": "2014/03/22 06:00",
+     "CRDT": [
+          "2013/06/04 06:00"
+     ],
+     "PHST": [
+          "2012/12/19 00:00 [received]",
+          "2013/05/15 00:00 [revised]",
+          "2013/05/16 00:00 [accepted]",
+          "2013/06/04 06:00 [entrez]",
+          "2013/06/04 06:00 [pubmed]",
+          "2014/03/22 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(13)00192-1 [pii]",
+          "10.1016/j.jneumeth.2013.05.009 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2013 Sep 15;218(2):170-83. doi: 10.1016/j.jneumeth.2013.05.009. Epub 2013 May 29.",
+     "term": "hippocampus"
+}

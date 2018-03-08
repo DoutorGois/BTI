@@ -1,0 +1,82 @@
+{
+     "PMID": "22732662",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160517",
+     "LR": "20170220",
+     "IS": "1939-3539 (Electronic) 0098-5589 (Linking)",
+     "VI": "35",
+     "IP": "3",
+     "DP": "2013 Mar",
+     "TI": "Multi-Atlas Segmentation with Joint Label Fusion.",
+     "PG": "611-23",
+     "LID": "10.1109/TPAMI.2012.143 [doi]",
+     "AB": "Multi-atlas segmentation is an effective approach for automatically labeling objects of interest in biomedical images. In this approach, multiple expert-segmented example images, called atlases, are registered to a target image, and deformed atlas segmentations are combined using label fusion. Among the proposed label fusion strategies, weighted voting with spatially varying weight distributions derived from atlas-target intensity similarity have been particularly successful. However, one limitation of these strategies is that the weights are computed independently for each atlas, without taking into account the fact that different atlases may produce similar label errors. To address this limitation, we propose a new solution for the label fusion problem in which weighted voting is formulated in terms of minimizing the total expectation of labeling error and in which pairwise dependency between atlases is explicitly modeled as the joint probability of two atlases making a segmentation error at a voxel. This probability is approximated using intensity similarity between a pair of atlases and the target image in the neighborhood of each voxel. We validate our method in two medical image segmentation problems: hippocampus segmentation and hippocampus subfield segmentation in magnetic resonance (MR) images. For both problems, we show consistent and significant improvement over label fusion strategies that assign atlas weights independently.",
+     "FAU": [
+          "Wang, Hongzhi",
+          "Suh, Jung W",
+          "Das, Sandhitsu R",
+          "Pluta, John B",
+          "Craige, Caryne",
+          "Yushkevich, Paul A"
+     ],
+     "AU": [
+          "Wang H",
+          "Suh JW",
+          "Das SR",
+          "Pluta JB",
+          "Craige C",
+          "Yushkevich PA"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "R01 AG010897/AG/NIA NIH HHS/United States",
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "DEP": "20120626",
+     "PL": "United States",
+     "TA": "IEEE Trans Pattern Anal Mach Intell",
+     "JT": "IEEE transactions on pattern analysis and machine intelligence",
+     "JID": "9885960",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Databases, Factual",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging"
+     ],
+     "PMC": "PMC3864549",
+     "MID": [
+          "NIHMS410560"
+     ],
+     "EDAT": "2012/06/27 06:00",
+     "MHDA": "2016/05/18 06:00",
+     "CRDT": [
+          "2012/06/27 06:00"
+     ],
+     "PHST": [
+          "2012/06/27 06:00 [entrez]",
+          "2012/06/27 06:00 [pubmed]",
+          "2016/05/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TPAMI.2012.143 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Pattern Anal Mach Intell. 2013 Mar;35(3):611-23. doi: 10.1109/TPAMI.2012.143. Epub 2012 Jun 26.",
+     "term": "hippocampus"
+}

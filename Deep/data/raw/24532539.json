@@ -1,0 +1,108 @@
+{
+     "PMID": "24532539",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150227",
+     "LR": "20171110",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "35",
+     "IP": "8",
+     "DP": "2014 Aug",
+     "TI": "Comparing manual and automatic segmentation of hippocampal volumes: reliability and validity issues in younger and older brains.",
+     "PG": "4236-48",
+     "LID": "10.1002/hbm.22473 [doi]",
+     "AB": "We compared hippocampal volume measures obtained by manual tracing to automatic segmentation with FreeSurfer in 44 younger (20-30 years) and 47 older (60-70 years) adults, each measured with magnetic resonance imaging (MRI) over three successive time points, separated by four months. Retest correlations over time were very high for both manual and FreeSurfer segmentations. With FreeSurfer, correlations over time were significantly lower in the older than in the younger age group, which was not the case with manual segmentation. Pearson correlations between manual and FreeSurfer estimates were sufficiently high, numerically even higher in the younger group, whereas intra-class correlation coefficient (ICC) estimates were lower in the younger than in the older group. FreeSurfer yielded higher volume estimates than manual segmentation, particularly in the younger age group. Importantly, FreeSurfer consistently overestimated hippocampal volumes independently of manually assessed volume in the younger age group, but overestimated larger volumes in the older age group to a less extent, introducing a systematic age bias in the data. Age differences in hippocampal volumes were significant with FreeSurfer, but not with manual tracing. Manual tracing resulted in a significant difference between left and right hippocampus (right > left), whereas this asymmetry effect was considerably smaller with FreeSurfer estimates. We conclude that FreeSurfer constitutes a feasible method to assess differences in hippocampal volume in young adults. FreeSurfer estimates in older age groups should, however, be interpreted with care until the automatic segmentation pipeline has been further optimized to increase validity and reliability in this age group.",
+     "CI": [
+          "Copyright (c) 2014 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Wenger, Elisabeth",
+          "Martensson, Johan",
+          "Noack, Hannes",
+          "Bodammer, Nils Christian",
+          "Kuhn, Simone",
+          "Schaefer, Sabine",
+          "Heinze, Hans-Jochen",
+          "Duzel, Emrah",
+          "Backman, Lars",
+          "Lindenberger, Ulman",
+          "Lovden, Martin"
+     ],
+     "AU": [
+          "Wenger E",
+          "Martensson J",
+          "Noack H",
+          "Bodammer NC",
+          "Kuhn S",
+          "Schaefer S",
+          "Heinze HJ",
+          "Duzel E",
+          "Backman L",
+          "Lindenberger U",
+          "Lovden M"
+     ],
+     "AD": "Center for Lifespan Psychology, Max Planck Institute for Human Development, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G1002276/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20140214",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Feasibility Studies",
+          "Functional Laterality",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Longitudinal Studies",
+          "Magnetic Resonance Imaging/*methods",
+          "Middle Aged",
+          "Organ Size",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Signal Processing, Computer-Assisted",
+          "*Software",
+          "Young Adult"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "FreeSurfer",
+          "aging",
+          "hippocampus",
+          "left right asymmetry",
+          "manual segmentation"
+     ],
+     "EDAT": "2014/02/18 06:00",
+     "MHDA": "2015/02/28 06:00",
+     "CRDT": [
+          "2014/02/18 06:00"
+     ],
+     "PHST": [
+          "2013/12/03 00:00 [received]",
+          "2014/01/14 00:00 [accepted]",
+          "2014/02/18 06:00 [entrez]",
+          "2014/02/18 06:00 [pubmed]",
+          "2015/02/28 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.22473 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2014 Aug;35(8):4236-48. doi: 10.1002/hbm.22473. Epub 2014 Feb 14.",
+     "term": "hippocampus"
+}

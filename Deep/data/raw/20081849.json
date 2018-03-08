@@ -1,0 +1,93 @@
+{
+     "PMID": "20081849",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100318",
+     "LR": "20170220",
+     "IS": "1546-1726 (Electronic) 1097-6256 (Linking)",
+     "VI": "13",
+     "IP": "3",
+     "DP": "2010 Mar",
+     "TI": "Ultrafast optogenetic control.",
+     "PG": "387-92",
+     "LID": "10.1038/nn.2495 [doi]",
+     "AB": "Channelrhodopsins such as channelrhodopsin-2 (ChR2) can drive spiking with millisecond precision in a wide variety of cells, tissues and animal species. However, several properties of this protein have limited the precision of optogenetic control. First, when ChR2 is expressed at high levels, extra spikes (for example, doublets) can occur in response to a single light pulse, with potential implications as doublets may be important for neural coding. Second, many cells cannot follow ChR2-driven spiking above the gamma (approximately 40 Hz) range in sustained trains, preventing temporally stationary optogenetic access to a broad and important neural signaling band. Finally, rapid optically driven spike trains can result in plateau potentials of 10 mV or more, causing incidental upstates with information-processing implications. We designed and validated an engineered opsin gene (ChETA) that addresses all of these limitations (profoundly reducing extra spikes, eliminating plateau potentials and allowing temporally stationary, sustained spike trains up to at least 200 Hz).",
+     "FAU": [
+          "Gunaydin, Lisa A",
+          "Yizhar, Ofer",
+          "Berndt, Andre",
+          "Sohal, Vikaas S",
+          "Deisseroth, Karl",
+          "Hegemann, Peter"
+     ],
+     "AU": [
+          "Gunaydin LA",
+          "Yizhar O",
+          "Berndt A",
+          "Sohal VS",
+          "Deisseroth K",
+          "Hegemann P"
+     ],
+     "AD": "Department of Bioengineering, Stanford University, Stanford, California, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Validation Studies"
+     ],
+     "DEP": "20100117",
+     "PL": "United States",
+     "TA": "Nat Neurosci",
+     "JT": "Nature neuroscience",
+     "JID": "9809671",
+     "RN": [
+          "0 (Rhodopsins, Microbial)",
+          "9009-81-8 (Rhodopsin)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Cells, Cultured",
+          "Cloning, Molecular",
+          "Hippocampus/physiology",
+          "Light",
+          "Membrane Potentials/physiology",
+          "Models, Molecular",
+          "Mutation",
+          "Neurons/*physiology",
+          "Oocytes/physiology",
+          "Patch-Clamp Techniques",
+          "Photic Stimulation",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Rhodopsin/chemistry/*genetics/*metabolism",
+          "Rhodopsins, Microbial/genetics/metabolism",
+          "Structural Homology, Protein",
+          "Time Factors",
+          "Xenopus laevis"
+     ],
+     "EDAT": "2010/01/19 06:00",
+     "MHDA": "2010/03/20 06:00",
+     "CRDT": [
+          "2010/01/19 06:00"
+     ],
+     "PHST": [
+          "2009/09/21 00:00 [received]",
+          "2010/01/04 00:00 [accepted]",
+          "2010/01/19 06:00 [entrez]",
+          "2010/01/19 06:00 [pubmed]",
+          "2010/03/20 06:00 [medline]"
+     ],
+     "AID": [
+          "nn.2495 [pii]",
+          "10.1038/nn.2495 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nat Neurosci. 2010 Mar;13(3):387-92. doi: 10.1038/nn.2495. Epub 2010 Jan 17.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,58 @@
+{
+     "PMID": "8792227",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19961203",
+     "LR": "20170824",
+     "IS": "0929-5313 (Print) 0929-5313 (Linking)",
+     "VI": "1",
+     "IP": "1-2",
+     "DP": "1994 Jun",
+     "TI": "Vector reconstruction from firing rates.",
+     "PG": "89-107",
+     "AB": "In a number of systems including wind detection in the cricket, visual motion perception and coding of arm movement direction in the monkey and place cell response to position in the rat hippocampus, firing rates in a population of tuned neurons are correlated with a vector quantity. We examine and compare several methods that allow the coded vector to be reconstructed from measured firing rates. In cases where the neuronal tuning curves resemble cosines, linear reconstruction methods work as well as more complex statistical methods requiring more detailed information about the responses of the coding neurons. We present a new linear method, the optimal linear estimator (OLE), that on average provides the best possible linear reconstruction. This method is compared with the more familiar vector method and shown to produce more accurate reconstructions using far fewer recorded neurons.",
+     "FAU": [
+          "Salinas, E",
+          "Abbott, L F"
+     ],
+     "AU": [
+          "Salinas E",
+          "Abbott LF"
+     ],
+     "AD": "Biology Department, Brandeis University, Waltham, MA 02254, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cell Count",
+          "Genetic Vectors/*genetics",
+          "Gryllidae",
+          "Membrane Potentials/*physiology",
+          "*Neural Networks (Computer)",
+          "Rats"
+     ],
+     "EDAT": "1994/06/01 00:00",
+     "MHDA": "1994/06/01 00:01",
+     "CRDT": [
+          "1994/06/01 00:00"
+     ],
+     "PHST": [
+          "1994/06/01 00:00 [pubmed]",
+          "1994/06/01 00:01 [medline]",
+          "1994/06/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 1994 Jun;1(1-2):89-107.",
+     "term": "hippocampus"
+}

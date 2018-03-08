@@ -1,0 +1,84 @@
+{
+     "PMID": "24945471",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150508",
+     "LR": "20140719",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "57",
+     "DP": "2014 Sep",
+     "TI": "Estimating the correlation between bursty spike trains and local field potentials.",
+     "PG": "63-72",
+     "LID": "10.1016/j.neunet.2014.05.011 [doi] S0893-6080(14)00110-5 [pii]",
+     "AB": "To further understand rhythmic neuronal synchronization, an increasingly useful method is to determine the relationship between the spiking activity of individual neurons and the local field potentials (LFPs) of neural ensembles. Spike field coherence (SFC) is a widely used method for measuring the synchronization between spike trains and LFPs. However, due to the strong dependency of SFC on the burst index, it is not suitable for analyzing the relationship between bursty spike trains and LFPs, particularly in high frequency bands. To address this issue, we developed a method called weighted spike field correlation (WSFC), which uses the first spike in each burst multiple times to estimate the relationship. In the calculation, the number of times that the first spike is used is equal to the spike count per burst. The performance of this method was demonstrated using simulated bursty spike trains and LFPs, which comprised sinusoids with different frequencies, amplitudes, and phases. This method was also used to estimate the correlation between pyramidal cells in the hippocampus and gamma oscillations in rats performing behaviors. Analyses using simulated and real data demonstrated that the WSFC method is a promising measure for estimating the correlation between bursty spike trains and high frequency LFPs.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Li, Zhaohui",
+          "Ouyang, Gaoxiang",
+          "Yao, Li",
+          "Li, Xiaoli"
+     ],
+     "AU": [
+          "Li Z",
+          "Ouyang G",
+          "Yao L",
+          "Li X"
+     ],
+     "AD": "School of Information Science and Engineering, Yanshan University, Qinhuangdao 066004, China. State Key Laboratory of Cognitive Neuroscience and Learning and IDG/McGovern Institute for Brain Research, Beijing Normal University, Beijing, China; Center for Collaboration and Innovation in Brain and Learning Sciences, Beijing Normal University, Beijing, China. State Key Laboratory of Cognitive Neuroscience and Learning and IDG/McGovern Institute for Brain Research, Beijing Normal University, Beijing, China; Center for Collaboration and Innovation in Brain and Learning Sciences, Beijing Normal University, Beijing, China. State Key Laboratory of Cognitive Neuroscience and Learning and IDG/McGovern Institute for Brain Research, Beijing Normal University, Beijing, China; Center for Collaboration and Innovation in Brain and Learning Sciences, Beijing Normal University, Beijing, China. Electronic address: xlli@ysu.edu.cn.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140606",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "*Gamma Rhythm",
+          "Hippocampus/cytology/physiology",
+          "Male",
+          "*Models, Neurological",
+          "Pyramidal Cells/*physiology",
+          "Rats",
+          "Rats, Long-Evans"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Burst",
+          "Correlation",
+          "Local field potential",
+          "Phase locking",
+          "Spike train"
+     ],
+     "EDAT": "2014/06/20 06:00",
+     "MHDA": "2015/05/09 06:00",
+     "CRDT": [
+          "2014/06/20 06:00"
+     ],
+     "PHST": [
+          "2013/05/30 00:00 [received]",
+          "2014/05/17 00:00 [revised]",
+          "2014/05/23 00:00 [accepted]",
+          "2014/06/20 06:00 [entrez]",
+          "2014/06/20 06:00 [pubmed]",
+          "2015/05/09 06:00 [medline]"
+     ],
+     "AID": [
+          "S0893-6080(14)00110-5 [pii]",
+          "10.1016/j.neunet.2014.05.011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2014 Sep;57:63-72. doi: 10.1016/j.neunet.2014.05.011. Epub 2014 Jun 6.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,70 @@
+{
+     "PMID": "6108533",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19810226",
+     "LR": "20071114",
+     "IS": "0161-6412 (Print) 0161-6412 (Linking)",
+     "VI": "2",
+     "IP": "2",
+     "DP": "1980",
+     "TI": "A circuit for safe diagnostic electrical stimulation of the human brain.",
+     "PG": "181-97",
+     "AB": "An electronic circuit for controlled electrical stimulation of the human brain has been designed to optimize safety in charge transfer from electrodes to brain and to eliminate the likelihood of unwanted currents from the neurostimulator resulting from component failure. The circuit schematics feature the following designs: (1) a highly accurate and versatile rate generator 0.5 p.p.s. to 99 in increments of 0.5 p.p.s., (2) symmetrically-biphasic lead and lag pulses of 100 musec duration, (3) photo-isolated driver amplifiers with accurate waveform, reproduction, (4) true biphasic passive-current regulators driven by an isolated battery supply voltage for switch-selectable currents of 0.25 to 5 ma or variable current regulation, (5) accurate current and voltage waveform monitors that isolate the stimulating electrodes from the monitors, and (6) capacity-coupled outputs to guarantee no net D.C. component at the end of each biphasic pulse. Relay-switching circuits are also shown that allow sequential stimulation and recording from one or several electrodes. This neurostimulator has been in use for over two years without evidence of electrolytic damage at identifiable electrode tips. The utility of simultaneous stimulation of several different electrodes at safe charge levels is described.",
+     "FAU": [
+          "Babb, T L",
+          "Mariani, E",
+          "Seidner, K A",
+          "Mutafyan, G",
+          "Halgren, E",
+          "Wilson, C L",
+          "Crandall, P H"
+     ],
+     "AU": [
+          "Babb TL",
+          "Mariani E",
+          "Seidner KA",
+          "Mutafyan G",
+          "Halgren E",
+          "Wilson CL",
+          "Crandall PH"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS02808/NS/NINDS NIH HHS/United States",
+          "NS4-2331/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "England",
+     "TA": "Neurol Res",
+     "JT": "Neurological research",
+     "JID": "7905298",
+     "SB": "IM",
+     "MH": [
+          "Amygdala/physiology",
+          "Dominance, Cerebral/physiology",
+          "Electric Stimulation/instrumentation/*methods",
+          "Electroencephalography",
+          "Epilepsy, Temporal Lobe/*diagnosis",
+          "Hippocampus/physiology",
+          "Humans"
+     ],
+     "EDAT": "1980/01/01 00:00",
+     "MHDA": "1980/01/01 00:01",
+     "CRDT": [
+          "1980/01/01 00:00"
+     ],
+     "PHST": [
+          "1980/01/01 00:00 [pubmed]",
+          "1980/01/01 00:01 [medline]",
+          "1980/01/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neurol Res. 1980;2(2):181-97.",
+     "term": "hippocampus"
+}

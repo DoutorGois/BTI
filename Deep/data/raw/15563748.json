@@ -1,0 +1,66 @@
+{
+     "PMID": "15563748",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050422",
+     "LR": "20061115",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "17",
+     "IP": "1",
+     "DP": "2005 Jan",
+     "TI": "A probabilistic framework for region-specific remodeling of dendrites in three-dimensional neuronal reconstructions.",
+     "PG": "75-96",
+     "AB": "Dendritic arborization is an important determinant of single-neuron function as well as the circuitry among neurons. Dendritic trees undergo remodeling during development, aging, and many pathological conditions, with many of the morphological changes being confined to certain regions of the dendritic tree. In order to analyze the functional consequences of such region-specific dendritic remodeling, it is essential to develop techniques that can systematically manipulate three-dimensional reconstructions of neurons. Hence, in this study, we develop an algorithm that uses statistics from precise morphometric analyses to systematically remodel neuronal reconstructions. We use the distribution function of the ratio of two normal distributed random variables to specify the probabilities of remodeling along various regions of the dendritic arborization. We then use these probabilities to drive an iterative algorithm for manipulating the dendritic tree in a region-specific manner. As a test, we apply this framework to a well-characterized example of dendritic remodeling: stress-induced dendritic atrophy in hippocampal CA3 pyramidal cells. We show that our pruning algorithm is capable of eliciting atrophy that matches biological data from rodent models of chronic stress.",
+     "FAU": [
+          "Narayanan, Rishikesh",
+          "Narayan, Anusha",
+          "Chattarji, Sumantra"
+     ],
+     "AU": [
+          "Narayanan R",
+          "Narayan A",
+          "Chattarji S"
+     ],
+     "AD": "National Centre for Biological Sciences, Bangalore 560065, India. rishi@ncbs.res.in",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Cell Shape/physiology",
+          "Dendrites/physiology/*ultrastructure",
+          "Hippocampus/cytology/pathology/physiology",
+          "*Models, Neurological",
+          "*Models, Statistical",
+          "*Nerve Net",
+          "Neuronal Plasticity/*physiology",
+          "Pyramidal Cells/cytology/physiology",
+          "Rats"
+     ],
+     "EDAT": "2004/11/27 09:00",
+     "MHDA": "2005/04/23 09:00",
+     "CRDT": [
+          "2004/11/27 09:00"
+     ],
+     "PHST": [
+          "2004/11/27 09:00 [pubmed]",
+          "2005/04/23 09:00 [medline]",
+          "2004/11/27 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/0899766052530811 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2005 Jan;17(1):75-96. doi: 10.1162/0899766052530811.",
+     "term": "hippocampus"
+}

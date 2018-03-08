@@ -1,0 +1,76 @@
+{
+     "PMID": "15371508",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050517",
+     "LR": "20071114",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "24",
+     "IP": "37",
+     "DP": "2004 Sep 15",
+     "TI": "Epilepsy in small-world networks.",
+     "PG": "8075-83",
+     "AB": "In hippocampal slice models of epilepsy, two behaviors are seen: short bursts of electrical activity lasting 100 msec and seizure-like electrical activity lasting seconds. The bursts originate from the CA3 region, where there is a high degree of recurrent excitatory connections. Seizures originate from the CA1, where there are fewer recurrent connections. In attempting to explain this behavior, we simulated model networks of excitatory neurons using several types of model neurons. The model neurons were connected in a ring containing predominantly local connections and some long-distance random connections, resulting in a small-world network connectivity pattern. By changing parameters such as the synaptic strengths, number of synapses per neuron, proportion of local versus long-distance connections, we induced \"normal,\" \"seizing,\" and \"bursting\" behaviors. Based on these simulations, we made a simple mathematical description of these networks under well-defined assumptions. This mathematical description explains how specific changes in the topology or synaptic strength in the model cause transitions from normal to seizing and then to bursting. These behaviors appear to be general properties of excitatory networks.",
+     "FAU": [
+          "Netoff, Theoden I",
+          "Clewley, Robert",
+          "Arno, Scott",
+          "Keck, Tara",
+          "White, John A"
+     ],
+     "AU": [
+          "Netoff TI",
+          "Clewley R",
+          "Arno S",
+          "Keck T",
+          "White JA"
+     ],
+     "AD": "Department of Biomedical Engineering, and Center for Memory and Brain, Boston University, Boston, Massachusetts 02215, USA. tnetoff@bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01-MH43510/MH/NIMH NIH HHS/United States",
+          "R01-NS34425/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Cell Communication",
+          "*Computer Simulation",
+          "Electroencephalography",
+          "Epilepsy/*physiopathology",
+          "Hippocampus/*physiopathology",
+          "*Models, Neurological",
+          "Nerve Net/*physiopathology",
+          "*Neural Networks (Computer)",
+          "Poisson Distribution",
+          "Stochastic Processes",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2004/09/17 05:00",
+     "MHDA": "2005/05/18 09:00",
+     "CRDT": [
+          "2004/09/17 05:00"
+     ],
+     "PHST": [
+          "2004/09/17 05:00 [pubmed]",
+          "2005/05/18 09:00 [medline]",
+          "2004/09/17 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1523/JNEUROSCI.1509-04.2004 [doi]",
+          "24/37/8075 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2004 Sep 15;24(37):8075-83. doi: 10.1523/JNEUROSCI.1509-04.2004.",
+     "term": "hippocampus"
+}

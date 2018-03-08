@@ -1,0 +1,74 @@
+{
+     "PMID": "28268589",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170731",
+     "LR": "20171117",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2016",
+     "DP": "2016 Aug",
+     "TI": "Place field detection using grid-based clustering in a large-scale computational model of the rat dentate gyrus.",
+     "PG": "1405-1408",
+     "LID": "10.1109/EMBC.2016.7590971 [doi]",
+     "AB": "Place cells are neurons in the hippocampus that are sensitive to location within an environment. Simulations of a large-scale, computational model of the rat dentate gyrus using grid cell input have been performed resulting in granule cells that express multiple place fields. The typical method of detecting place fields using a global threshold on this data is unreliable as the characteristics of the place fields from a single neuron can be highly variable. A grid-based implementation of DENCLUE has been developed to calculate local thresholds to identify each place field. An adaptive binning algorithm used to smooth the rate maps was combined with the DENCLUE implementation to adaptively choose the size of the smoothing kernel and reduce the number of free parameters of the total algorithm. A sensitivity analysis was performed using the threshold parameter to demonstrate the robustness of using local thresholds as opposed to using a single global threshold in detecting the place fields resulting from the large-scale simulation. The analysis supports the use of applying local thresholds for place field detection and will be used to further investigate the role of granule cells in hippocampal function.",
+     "FAU": [
+          "Yu, Gene J",
+          "Dong Song",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Yu GJ",
+          "Dong Song",
+          "Berger TW"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 GM104604/GM/NIGMS NIH HHS/United States",
+          "P41 EB001978/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Algorithms",
+          "Animals",
+          "*Cluster Analysis",
+          "Computer Simulation",
+          "Dentate Gyrus/*physiology",
+          "Entorhinal Cortex/physiology",
+          "Hippocampus/physiology",
+          "*Image Processing, Computer-Assisted",
+          "*Models, Neurological",
+          "Models, Statistical",
+          "Neurons/physiology",
+          "Poisson Distribution",
+          "Rats"
+     ],
+     "EDAT": "2017/03/09 06:00",
+     "MHDA": "2017/08/02 06:00",
+     "CRDT": [
+          "2017/03/09 06:00"
+     ],
+     "PHST": [
+          "2017/03/09 06:00 [entrez]",
+          "2017/03/09 06:00 [pubmed]",
+          "2017/08/02 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2016.7590971 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2016 Aug;2016:1405-1408. doi: 10.1109/EMBC.2016.7590971.",
+     "term": "place cells"
+}

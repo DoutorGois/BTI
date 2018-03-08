@@ -1,0 +1,111 @@
+{
+     "PMID": "21995051",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111115",
+     "LR": "20170220",
+     "VI": "14",
+     "IP": "Pt 2",
+     "DP": "2011",
+     "TI": "Hippocampal surface mapping of genetic risk factors in AD via sparse learning models.",
+     "PG": "376-83",
+     "AB": "Genetic mapping of hippocampal shape, an under-explored area, has strong potential as a neurodegeneration biomarker for AD and MCI. This study investigates the genetic effects of top candidate single nucleotide polymorphisms (SNPs) on hippocampal shape features as quantitative traits (QTs) in a large cohort. FS+LDDMM was used to segment hippocampal surfaces from MRI scans and shape features were extracted after surface registration. Elastic net (EN) and sparse canonical correlation analysis (SCCA) were proposed to examine SNP-QT associations, and compared with multiple regression (MR). Although similar in power, EN yielded substantially fewer predictors than MR. Detailed surface mapping of global and localized genetic effects were identified by MR and EN to reveal multi-SNP-single-QT relationships, and by SCCA to discover multi-SNP-multi-QT associations. Shape analysis identified stronger SNP-QT correlations than volume analysis. Sparse multivariate models have greater power to reveal complex SNP-QT relationships. Genetic analysis of quantitative shape features has considerable potential for enhancing mechanistic understanding of complex disorders like AD.",
+     "FAU": [
+          "Wan, Jing",
+          "Kim, Sungeun",
+          "Inlow, Mark",
+          "Nho, Kwangsik",
+          "Swaminathan, Shanker",
+          "Risacher, Shannon L",
+          "Fang, Shiaofen",
+          "Weiner, Michael W",
+          "Beg, M Faisal",
+          "Wang, Lei",
+          "Saykin, Andrew J",
+          "Shen, Li"
+     ],
+     "AU": [
+          "Wan J",
+          "Kim S",
+          "Inlow M",
+          "Nho K",
+          "Swaminathan S",
+          "Risacher SL",
+          "Fang S",
+          "Weiner MW",
+          "Beg MF",
+          "Wang L",
+          "Saykin AJ",
+          "Shen L"
+     ],
+     "AD": "Radiology and Imaging Sciences, Indiana University School of Medicine, IN, USA. wanjing@iupui.edu",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG019771-10/AG/NIA NIH HHS/United States",
+          "U01 AG024904-01/AG/NIA NIH HHS/United States",
+          "1RC 2AG036535/RC/CCR NIH HHS/United States",
+          "R01 AG019771/AG/NIA NIH HHS/United States",
+          "UL1 RR025761/RR/NCRR NIH HHS/United States",
+          "R03 EB008674-01/EB/NIBIB NIH HHS/United States",
+          "P30 AG10133/AG/NIA NIH HHS/United States",
+          "P30 AG010133/AG/NIA NIH HHS/United States",
+          "P30 AG010133-18S1/AG/NIA NIH HHS/United States",
+          "R03 EB008674/EB/NIBIB NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "RC2 AG036535/AG/NIA NIH HHS/United States",
+          "UL1 TR001108/TR/NCATS NIH HHS/United States",
+          "UL1 RR025761-01/RR/NCRR NIH HHS/United States",
+          "R01 AG19771/AG/NIA NIH HHS/United States",
+          "RR025761/RR/NCRR NIH HHS/United States",
+          "RC2 AG036535-01/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/*diagnosis/*genetics/*pathology",
+          "Cohort Studies",
+          "Female",
+          "Genetic Predisposition to Disease",
+          "Hippocampus/*pathology",
+          "Humans",
+          "*Learning",
+          "Magnetic Resonance Imaging/methods",
+          "Male",
+          "Middle Aged",
+          "Models, Genetic",
+          "Models, Neurological",
+          "Polymorphism, Single Nucleotide",
+          "Regression Analysis",
+          "Risk Factors"
+     ],
+     "PMC": "PMC3196668",
+     "MID": [
+          "NIHMS327149"
+     ],
+     "EDAT": "2011/10/15 06:00",
+     "MHDA": "2011/11/16 06:00",
+     "CRDT": [
+          "2011/10/15 06:00"
+     ],
+     "PHST": [
+          "2011/10/15 06:00 [entrez]",
+          "2011/10/15 06:00 [pubmed]",
+          "2011/11/16 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2011;14(Pt 2):376-83.",
+     "term": "hippocampus"
+}

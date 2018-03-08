@@ -1,0 +1,83 @@
+{
+     "PMID": "23428612",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20131204",
+     "LR": "20170220",
+     "IS": "1558-2531 (Electronic) 0018-9294 (Linking)",
+     "VI": "60",
+     "IP": "7",
+     "DP": "2013 Jul",
+     "TI": "A wideband dual-antenna receiver for wireless recording from animals behaving in large arenas.",
+     "PG": "1993-2004",
+     "LID": "10.1109/TBME.2013.2247603 [doi]",
+     "AB": "A low-noise wideband receiver (Rx) is presented for a multichannel wireless implantable neural recording (WINeR) system that utilizes time-division multiplexing of pulse width modulated (PWM) samples. The WINeR-6 Rx consists of four parts: 1) RF front end; 2) signal conditioning; 3) analog output (AO); and 4) field-programmable gate array (FPGA) back end. The RF front end receives RF-modulated neural signals in the 403-490 MHz band with a wide bandwidth of 18 MHz. The frequency-shift keying (FSK) PWM demodulator in the FPGA is a time-to-digital converter with 304 ps resolution, which converts the analog pulse width information to 16-bit digital samples. Automated frequency tracking has been implemented in the Rx to lock onto the free-running voltage-controlled oscillator in the transmitter (Tx). Two antennas and two parallel RF paths are used to increase the wireless coverage area. BCI-2000 graphical user interface has been adopted and modified to acquire, visualize, and record the recovered neural signals in real time. The AO module picks three demultiplexed channels and converts them into analog signals for direct observation on an oscilloscope. One of these signals is further amplified to generate an audio output, offering users the ability to listen to ongoing neural activity. Bench-top testing of the Rx performance with a 32-channel WINeR-6 Tx showed that the input referred noise of the entire system at a Tx-Rx distance of 1.5 m was 4.58 muV rms with 8-bit resolution at 640 kSps. In an in vivo experiment, location-specific receptive fields of hippocampal place cells were mapped during a behavioral experiment in which a rat completed 40 laps in a large circular track. Results were compared against those acquired from the same animal and the same set of electrodes by a commercial hardwired recording system to validate the wirelessly recorded signals.",
+     "FAU": [
+          "Lee, Seung Bae",
+          "Yin, Ming",
+          "Manns, Joseph R",
+          "Ghovanloo, Maysam"
+     ],
+     "AU": [
+          "Lee SB",
+          "Yin M",
+          "Manns JR",
+          "Ghovanloo M"
+     ],
+     "AD": "GT-Bionics Laboratory, School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA 30308, USA. slee87@gatech.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS062031/NS/NINDS NIH HHS/United States",
+          "R21 EB009437/EB/NIBIB NIH HHS/United States",
+          "1R01NS062031-01A1/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20130215",
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "SB": "IM",
+     "MH": [
+          "Actigraphy/*instrumentation",
+          "Amplifiers, Electronic",
+          "Animals",
+          "Behavior, Animal/*physiology",
+          "Electroencephalography/*instrumentation",
+          "Equipment Design",
+          "Equipment Failure Analysis",
+          "Male",
+          "Monitoring, Ambulatory/*instrumentation",
+          "Rats",
+          "Rats, Long-Evans",
+          "Signal Processing, Computer-Assisted/*instrumentation",
+          "Telemetry/*instrumentation",
+          "Wireless Technology/*instrumentation"
+     ],
+     "PMC": "PMC3925346",
+     "MID": [
+          "NIHMS553439"
+     ],
+     "EDAT": "2013/02/23 06:00",
+     "MHDA": "2013/12/16 06:00",
+     "CRDT": [
+          "2013/02/23 06:00"
+     ],
+     "PHST": [
+          "2013/02/23 06:00 [entrez]",
+          "2013/02/23 06:00 [pubmed]",
+          "2013/12/16 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TBME.2013.2247603 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 2013 Jul;60(7):1993-2004. doi: 10.1109/TBME.2013.2247603. Epub 2013 Feb 15.",
+     "term": "place cells"
+}

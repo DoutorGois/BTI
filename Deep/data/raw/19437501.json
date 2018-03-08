@@ -1,0 +1,100 @@
+{
+     "PMID": "19437501",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090806",
+     "LR": "20161122",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "19",
+     "IP": "6",
+     "DP": "2009 Jun",
+     "TI": "Spatially localized hippocampal shape analysis in late-life cognitive decline.",
+     "PG": "526-32",
+     "LID": "10.1002/hipo.20618 [doi]",
+     "AB": "We present a method for generating data-driven, concise, and spatially localized parameterizations of hippocampal (HP) shape, and use the method to analyze HP atrophy in late-life cognitive decline. The method optimizes a set of shape basis vectors (shape components) that strike a balance between spatial locality and compact representation of population shape characteristics. The method can be used for exploratory analysis of localized shape deformations in any population of HP on which point-to-point correspondence mappings have been established via anatomical landmarking or high-dimensional warping. Experiments combine the method with an automated HP to HP mapping method to analyze tracings of 101 elderly subjects with normal cognition, mild cognitive impairment, and Alzheimer's Disease (AD) from an AD Center population. Results suggest that shape components corresponding to atrophy to the CA1 and subiculum HP fields--where early AD pathology is located--correlate strongly with robust measures of the cognitive dysfunction that is typical of early AD. Furthermore, the energy function minimized by the shape component optimization technique is shown to be smooth with few local minima, suggesting that the method may be relatively easy to apply in practice.",
+     "CI": [
+          "2009 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Xie, Jing",
+          "Alcantara, Dan",
+          "Amenta, Nina",
+          "Fletcher, Evan",
+          "Martinez, Oliver",
+          "Persianinova, Maria",
+          "DeCarli, Charles",
+          "Carmichael, Owen"
+     ],
+     "AU": [
+          "Xie J",
+          "Alcantara D",
+          "Amenta N",
+          "Fletcher E",
+          "Martinez O",
+          "Persianinova M",
+          "DeCarli C",
+          "Carmichael O"
+     ],
+     "AD": "Department of Computer Science, University of California, Davis, California 95618, USA. xie@ucdavis.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "P30 AG010129-169001/AG/NIA NIH HHS/United States",
+          "P30 AG010129-19/AG/NIA NIH HHS/United States",
+          "K01 AG030514-01A1/AG/NIA NIH HHS/United States",
+          "R01 AG021028-05/AG/NIA NIH HHS/United States",
+          "P30 AG010129-18/AG/NIA NIH HHS/United States",
+          "ULI RRO24146/PHS HHS/United States",
+          "P30 AG010129-15/AG/NIA NIH HHS/United States",
+          "R01 AG021028/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "K01 AG030514-02/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Age of Onset",
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*pathology",
+          "Cognition Disorders/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Imaging, Three-Dimensional",
+          "Linear Models",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Models, Anatomic",
+          "Signal Processing, Computer-Assisted"
+     ],
+     "PMC": "PMC2862726",
+     "MID": [
+          "NIHMS197633"
+     ],
+     "EDAT": "2009/05/14 09:00",
+     "MHDA": "2009/08/07 09:00",
+     "CRDT": [
+          "2009/05/14 09:00"
+     ],
+     "PHST": [
+          "2009/05/14 09:00 [entrez]",
+          "2009/05/14 09:00 [pubmed]",
+          "2009/08/07 09:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.20618 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2009 Jun;19(6):526-32. doi: 10.1002/hipo.20618.",
+     "term": "hippocampus"
+}

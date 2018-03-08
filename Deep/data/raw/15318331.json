@@ -1,0 +1,76 @@
+{
+     "PMID": "15318331",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20041101",
+     "LR": "20131121",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "14",
+     "IP": "6",
+     "DP": "2004",
+     "TI": "Mode shifting between storage and recall based on novelty detection in oscillating hippocampal circuits.",
+     "PG": "722-41",
+     "AB": "It has been suggested that hippocampal mode shifting between a storage and a retrieval state might be under the control of acetylcholine (ACh) levels, as set by an autoregulatory hippocampo-septo-hippocampal loop. The present study investigates how such a mechanism might operate in a large-scale connectionist model of this circuitry that takes into account the major hippocampal subdivisions, oscillatory population dynamics and the time scale on which ACh exerts its effects in the hippocampus. The model assumes that hippocampal mode shifting is regulated by a novelty signal generated in the hippocampus. The simulations suggest that this signal originates in the dentate. Novel patterns presented to this structure lead to brief periods of depressed firing in the hippocampal circuitry. During these periods, an inhibitory influence of the hippocampus on the septum is lifted, leading to increased firing of cholinergic neurons. The resulting increase in ACh release in the hippocampus produces network dynamics that favor learning over retrieval. Resumption of activity in the hippocampus leads to the reinstatement of inhibition. Despite theta-locked rhythmic firing of ACh neurons in the septum, ACh modulation in the model fluctuates smoothly on a time scale of seconds. It is shown that this is compatible with the time scale on which memory processes take place. A number of strong predictions regarding memory function are derived from the model.",
+     "FAU": [
+          "Meeter, M",
+          "Murre, J M J",
+          "Talamini, L M"
+     ],
+     "AU": [
+          "Meeter M",
+          "Murre JM",
+          "Talamini LM"
+     ],
+     "AD": "Department of Psychology, University of Amsterdam, Amsterdam, The Netherlands. m@meeter.nl",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "RN": [
+          "N9YNS0M02X (Acetylcholine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Acetylcholine/metabolism/*physiology",
+          "Action Potentials/physiology",
+          "Animals",
+          "Biological Clocks/*physiology",
+          "Cholinergic Fibers/*physiology",
+          "Computer Simulation",
+          "Dentate Gyrus/physiology",
+          "Fornix, Brain/physiology",
+          "Hippocampus/*physiology",
+          "Learning/physiology",
+          "Memory/physiology",
+          "*Models, Neurological",
+          "Neural Inhibition/physiology",
+          "*Neural Networks (Computer)",
+          "Rats",
+          "Septum of Brain/physiology",
+          "Synaptic Transmission/physiology",
+          "Theta Rhythm",
+          "Time Factors"
+     ],
+     "EDAT": "2004/08/20 05:00",
+     "MHDA": "2004/11/02 09:00",
+     "CRDT": [
+          "2004/08/20 05:00"
+     ],
+     "PHST": [
+          "2004/08/20 05:00 [pubmed]",
+          "2004/11/02 09:00 [medline]",
+          "2004/08/20 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.10214 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2004;14(6):722-41. doi: 10.1002/hipo.10214.",
+     "term": "hippocampus"
+}

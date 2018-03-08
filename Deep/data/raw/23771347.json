@@ -1,0 +1,81 @@
+{
+     "PMID": "23771347",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160222",
+     "LR": "20150814",
+     "IS": "1558-0210 (Electronic) 1534-4320 (Linking)",
+     "VI": "22",
+     "IP": "1",
+     "DP": "2014 Jan",
+     "TI": "Classification of Multiple Seizure-Like States in Three Different Rodent Models of Epileptogenesis.",
+     "PG": "21-32",
+     "LID": "10.1109/TNSRE.2013.2267543 [doi]",
+     "AB": "Epilepsy is a dynamical disease and its effects are evident in over fifty million people worldwide. This study focused on objective classification of the multiple states involved in the brain's epileptiform activity. Four datasets from three different rodent hippocampal preparations were explored, wherein seizure-like-events (SLE) were induced by the perfusion of a low - Mg(2+) /high-K(+) solution or 4-Aminopyridine. Local field potentials were recorded from CA3 pyramidal neurons and interneurons and modeled as Markov processes. Specifically, hidden Markov models (HMM) were used to determine the nature of the states present. Properties of the Hilbert transform were used to construct the feature spaces for HMM training. By sequentially applying the HMM training algorithm, multiple states were identified both in episodes of SLE and nonSLE activity. Specifically, preSLE and postSLE states were differentiated and multiple inner SLE states were identified. This was accomplished using features extracted from the lower frequencies (1-4 Hz, 4-8 Hz) alongside those of both the low- (40-100 Hz) and high-gamma (100-200 Hz) of the recorded electrical activity. The learning paradigm of this HMM-based system eliminates the inherent bias associated with other learning algorithms that depend on predetermined state segmentation and renders it an appropriate candidate for SLE classification.",
+     "FAU": [
+          "Guirgis, Mirna",
+          "Serletis, Demitre",
+          "Zhang, Jane",
+          "Florez, Carlos",
+          "Dian, Joshua A",
+          "Carlen, Peter L",
+          "Bardakjian, Berj L"
+     ],
+     "AU": [
+          "Guirgis M",
+          "Serletis D",
+          "Zhang J",
+          "Florez C",
+          "Dian JA",
+          "Carlen PL",
+          "Bardakjian BL"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MOP-286154/Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130610",
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Syst Rehabil Eng",
+     "JT": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "101097023",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Diagnosis, Computer-Assisted/*methods",
+          "*Disease Models, Animal",
+          "Epilepsy/*diagnosis/*physiopathology",
+          "Hippocampus/*physiopathology",
+          "Machine Learning",
+          "Male",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2013/06/19 06:00",
+     "MHDA": "2016/02/24 06:00",
+     "CRDT": [
+          "2013/06/18 06:00"
+     ],
+     "PHST": [
+          "2013/06/18 06:00 [entrez]",
+          "2013/06/19 06:00 [pubmed]",
+          "2016/02/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TNSRE.2013.2267543 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Syst Rehabil Eng. 2014 Jan;22(1):21-32. doi: 10.1109/TNSRE.2013.2267543. Epub 2013 Jun 10.",
+     "term": "hippocampus"
+}

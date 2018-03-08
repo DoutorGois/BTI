@@ -1,0 +1,69 @@
+{
+     "PMID": "9627206",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19980804",
+     "LR": "20141021",
+     "IS": "1059-1311 (Print) 1059-1311 (Linking)",
+     "VI": "7",
+     "IP": "2",
+     "DP": "1998 Apr",
+     "TI": "Automatic detection of epileptiform spikes in the electrocorticogram: a comparison of two algorithms.",
+     "PG": "145-52",
+     "AB": "The detection and analysis of epileptiform spikes is of major importance for the presurgical evaluation of epilepsy patients concerning the localization of the epileptogenic zone. To examine the reliability of automatic spike detection software for intracranial subdural strip and intrahippocampal depth recordings, the results of two algorithms were compared with those of two human reviewers. The first is a newly developed two-stage algorithm whose first stage uses the enhanced prediction error of an updating linear predictor of the electrocorticogram (ECoG) to select candidates for the following mimetic rule-based system. The second system is the well-known rule-based algorithm developed by Gotman. Both systems achieved only a surprisingly small number of common detections (32 and 24%) accompanied by a high number of false detections (65 and 78%). Though the results were better for the first system, the clinical use of the automatic spike detection systems should be limited to the following purposes. 1. To achieve data reduction before visual inspection of the spike candidates. 2. To get an overview of the spatial distribution of spike counts. 3. To obtain a data basis for the analysis of quantitative spike parameters.",
+     "FAU": [
+          "Dumpelmann, M",
+          "Elger, C E"
+     ],
+     "AU": [
+          "Dumpelmann M",
+          "Elger CE"
+     ],
+     "AD": "Department of Epileptology, University of Bonn, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "England",
+     "TA": "Seizure",
+     "JT": "Seizure",
+     "JID": "9306979",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Cerebral Cortex/physiopathology",
+          "Diagnosis, Computer-Assisted/*instrumentation",
+          "Dominance, Cerebral/physiology",
+          "Electrodes, Implanted",
+          "Electroencephalography/*instrumentation",
+          "Epilepsy, Temporal Lobe/*diagnosis/physiopathology",
+          "Evoked Potentials/physiology",
+          "Female",
+          "Hippocampus/physiopathology",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Sensitivity and Specificity",
+          "Signal Processing, Computer-Assisted/*instrumentation",
+          "Software"
+     ],
+     "EDAT": "1998/06/17 00:00",
+     "MHDA": "1998/06/17 00:01",
+     "CRDT": [
+          "1998/06/17 00:00"
+     ],
+     "PHST": [
+          "1998/06/17 00:00 [pubmed]",
+          "1998/06/17 00:01 [medline]",
+          "1998/06/17 00:00 [entrez]"
+     ],
+     "AID": [
+          "S1059-1311(98)80071-X [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Seizure. 1998 Apr;7(2):145-52.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,120 @@
+{
+     "PMID": "28373010",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170615",
+     "LR": "20170615",
+     "IS": "1873-6971 (Electronic) 0367-326X (Linking)",
+     "VI": "119",
+     "DP": "2017 Jun",
+     "TI": "Ecdysterones from Rhaponticum carthamoides (Willd.) Iljin reduce hippocampal excitotoxic cell loss and upregulate mTOR signaling in rats.",
+     "PG": "158-167",
+     "LID": "S0367-326X(16)30958-3 [pii] 10.1016/j.fitote.2017.03.015 [doi]",
+     "AB": "Glutamate-induced excitotoxicity is a key pathological mechanism in many neurological disease states. Ecdysterones derived from Rhaponticum carthamoides (Willd.) Iljin (RCI) have been shown to alleviate glutamate-induced neuronal damage; although their mechanism of action is unclear, some data suggest that they enhance signaling in the mechanistic target of rapamycin (mTOR) signaling pathway. This study sought to elucidate the mechanisms underlying ecdysterone-mediated neuroprotection. We used in silico target prediction and simulation methods to identify putative ecdysterone binding targets, and to specifically identify those that represent nodes where several neurodegenerative diseases converge. We then used histological analyses in a rat hippocampal excitotoxicity model to test the effectiveness of ecdysterones in vivo. We found that RCI-derived ecdysterones should bind to glutamatergic NMDA-type receptors (NMDARs); specifically, in vivo modeling showed binding to the GRIN2B subunit of NMDARs, which was found also to be a node of convergence in several neurodegenerative disease pathways. Computerized network construction by using pathway information from the Kyoto Encyclopedia of Genes and Genomes (KEGG) database showed putative links between GRIN2B and mTOR pathway elements including phosphoinositide-3kinase (PI3K), mTOR, and protein kinase C (PKC); these elements are associated with neuronal survival. Brain tissue western blots of ecdysterone-treated rats showed upregulated PI3K, Akt, mTOR, and phosphorylated Akt and mTOR, and down regulated GRIN2B and the apoptotic enzyme cleaved caspase-3. Ecdysterone treatment also prevented glutamate-induced rat hippocampal cell loss. In summary, RCI-derived ecdysterones appear to prevent glutamatergic excitotoxicity by increasing mTOR/Akt/PI3K signaling activity.",
+     "CI": [
+          "Copyright (c) 2017. Published by Elsevier B.V."
+     ],
+     "FAU": [
+          "Wu, Jiming",
+          "Gao, Le",
+          "Shang, Lei",
+          "Wang, Guihua",
+          "Wei, Nana",
+          "Chu, Tiantian",
+          "Chen, Suping",
+          "Zhang, Yujun",
+          "Huang, Jian",
+          "Wang, Jinhui",
+          "Lin, Ruichao"
+     ],
+     "AU": [
+          "Wu J",
+          "Gao L",
+          "Shang L",
+          "Wang G",
+          "Wei N",
+          "Chu T",
+          "Chen S",
+          "Zhang Y",
+          "Huang J",
+          "Wang J",
+          "Lin R"
+     ],
+     "AD": "School of Traditional Chinese Materia Medica, Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of Education, Shenyang Pharmaceutical University, Shenyang 110016, China. School of Traditional Chinese Materia Medica, Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of Education, Shenyang Pharmaceutical University, Shenyang 110016, China. College of Basic Medical Science, Shenyang Medical College, Shenyang 110034, China. School of Traditional Chinese Materia Medica, Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of Education, Shenyang Pharmaceutical University, Shenyang 110016, China. School of Traditional Chinese Materia Medica, Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of Education, Shenyang Pharmaceutical University, Shenyang 110016, China. School of Traditional Chinese Materia Medica, Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of Education, Shenyang Pharmaceutical University, Shenyang 110016, China. School of Traditional Chinese Materia Medica, Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of Education, Shenyang Pharmaceutical University, Shenyang 110016, China. School of Traditional Chinese Materia Medica, Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of Education, Shenyang Pharmaceutical University, Shenyang 110016, China. School of Traditional Chinese Materia Medica, Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of Education, Shenyang Pharmaceutical University, Shenyang 110016, China. Electronic address: 13504051049@163.com. School of Traditional Chinese Materia Medica, Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of Education, Shenyang Pharmaceutical University, Shenyang 110016, China; College of Pharmacy, Shihezi University, Shihezi 832002, China. Electronic address: 15999290001@163.com. School of Traditional Chinese Materia Medica, Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of Education, Shenyang Pharmaceutical University, Shenyang 110016, China; School of Traditional Chinese Materia Medica, Beijing University of Chinese Medicine, Beijing 100029, China. Electronic address: linrch307@sina.com.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170402",
+     "PL": "Netherlands",
+     "TA": "Fitoterapia",
+     "JT": "Fitoterapia",
+     "JID": "16930290R",
+     "RN": [
+          "0 (NR2B NMDA receptor)",
+          "0 (Neuroprotective Agents)",
+          "0 (Receptors, N-Methyl-D-Aspartate)",
+          "3KX376GY7L (Glutamic Acid)",
+          "5289-74-7 (Ecdysterone)",
+          "EC 2.7.1.1 (TOR Serine-Threonine Kinases)",
+          "EC 2.7.1.1 (mTOR protein, rat)",
+          "EC 2.7.11.1 (Proto-Oncogene Proteins c-akt)",
+          "EC 3.4.22.- (Casp3 protein, rat)",
+          "EC 3.4.22.- (Caspase 3)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Caspase 3/metabolism",
+          "Ecdysterone/isolation & purification/*pharmacology",
+          "Glutamic Acid/pharmacology",
+          "Hippocampus/cytology/*drug effects",
+          "Leuzea/*chemistry",
+          "Male",
+          "Molecular Docking Simulation",
+          "Molecular Dynamics Simulation",
+          "Molecular Structure",
+          "Neuroprotective Agents/isolation & purification/*pharmacology",
+          "Phosphorylation",
+          "Plant Roots/chemistry",
+          "Proto-Oncogene Proteins c-akt/metabolism",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Receptors, N-Methyl-D-Aspartate/metabolism",
+          "Signal Transduction/*drug effects",
+          "TOR Serine-Threonine Kinases/*metabolism",
+          "Up-Regulation"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Computational simulation",
+          "Ecdysterones",
+          "GRIN2B",
+          "Neuroprotective",
+          "Rhaponticum carthamoides"
+     ],
+     "EDAT": "2017/04/05 06:00",
+     "MHDA": "2017/06/16 06:00",
+     "CRDT": [
+          "2017/04/05 06:00"
+     ],
+     "PHST": [
+          "2016/12/14 00:00 [received]",
+          "2017/03/24 00:00 [revised]",
+          "2017/03/30 00:00 [accepted]",
+          "2017/04/05 06:00 [pubmed]",
+          "2017/06/16 06:00 [medline]",
+          "2017/04/05 06:00 [entrez]"
+     ],
+     "AID": [
+          "S0367-326X(16)30958-3 [pii]",
+          "10.1016/j.fitote.2017.03.015 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Fitoterapia. 2017 Jun;119:158-167. doi: 10.1016/j.fitote.2017.03.015. Epub 2017 Apr 2.",
+     "term": "hippocampus"
+}

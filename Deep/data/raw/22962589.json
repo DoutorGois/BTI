@@ -1,0 +1,80 @@
+{
+     "PMID": "22962589",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130122",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "7",
+     "IP": "9",
+     "DP": "2012",
+     "TI": "Calcium input frequency, duration and amplitude differentially modulate the relative activation of calcineurin and CaMKII.",
+     "PG": "e43810",
+     "LID": "10.1371/journal.pone.0043810 [doi]",
+     "AB": "NMDA receptor dependent long-term potentiation (LTP) and long-term depression (LTD) are two prominent forms of synaptic plasticity, both of which are triggered by post-synaptic calcium elevation. To understand how calcium selectively stimulates two opposing processes, we developed a detailed computational model and performed simulations with different calcium input frequencies, amplitudes, and durations. We show that with a total amount of calcium ions kept constant, high frequencies of calcium pulses stimulate calmodulin more efficiently. Calcium input activates both calcineurin and Ca(2+)/calmodulin-dependent protein kinase II (CaMKII) at all frequencies, but increased frequencies shift the relative activation from calcineurin to CaMKII. Irrespective of amplitude and duration of the inputs, the total amount of calcium ions injected adjusts the sensitivity of the system to calcium input frequencies. At a given frequency, the quantity of CaMKII activated is proportional to the total amount of calcium. Thus, an input of a small amount of calcium at high frequencies can induce the same activation of CaMKII as a larger amount, at lower frequencies. Finally, the extent of activation of CaMKII signals with high calcium frequency is further controlled by other factors, including the availability of calmodulin, and by the potency of phosphatase inhibitors.",
+     "FAU": [
+          "Li, Lu",
+          "Stefan, Melanie I",
+          "Le Novere, Nicolas"
+     ],
+     "AU": [
+          "Li L",
+          "Stefan MI",
+          "Le Novere N"
+     ],
+     "AD": "EMBL European Bioinformatics Institute, Hinxton, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20120904",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Receptors, N-Methyl-D-Aspartate)",
+          "EC 2.7.11.17 (Calcium-Calmodulin-Dependent Protein Kinase Type 2)",
+          "EC 3.1.3.16 (Calcineurin)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Calcineurin/*physiology",
+          "Calcium/*metabolism/pharmacology",
+          "*Calcium Signaling",
+          "Calcium-Calmodulin-Dependent Protein Kinase Type 2/*physiology",
+          "Computer Simulation",
+          "Enzyme Activation",
+          "Hippocampus/cytology/drug effects/physiology",
+          "Humans",
+          "*Models, Molecular",
+          "Neuronal Plasticity",
+          "Neurons/cytology/drug effects/physiology",
+          "Receptors, N-Methyl-D-Aspartate/*physiology",
+          "Synaptic Transmission"
+     ],
+     "PMC": "PMC3433481",
+     "EDAT": "2012/09/11 06:00",
+     "MHDA": "2013/01/23 06:00",
+     "CRDT": [
+          "2012/09/11 06:00"
+     ],
+     "PHST": [
+          "2012/03/04 00:00 [received]",
+          "2012/07/26 00:00 [accepted]",
+          "2012/09/11 06:00 [entrez]",
+          "2012/09/11 06:00 [pubmed]",
+          "2013/01/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0043810 [doi]",
+          "PONE-D-12-06601 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2012;7(9):e43810. doi: 10.1371/journal.pone.0043810. Epub 2012 Sep 4.",
+     "term": "hippocampus"
+}

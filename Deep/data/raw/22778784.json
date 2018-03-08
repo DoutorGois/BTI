@@ -1,0 +1,80 @@
+{
+     "PMID": "22778784",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121105",
+     "LR": "20170510",
+     "IS": "1748-6718 (Electronic) 1748-670X (Linking)",
+     "VI": "2012",
+     "DP": "2012",
+     "TI": "The effect of neural noise on spike time precision in a detailed CA3 neuron model.",
+     "PG": "595398",
+     "LID": "10.1155/2012/595398 [doi]",
+     "AB": "Experimental and computational studies emphasize the role of the millisecond precision of neuronal spike times as an important coding mechanism for transmitting and representing information in the central nervous system. We investigate the spike time precision of a multicompartmental pyramidal neuron model of the CA3 region of the hippocampus under the influence of various sources of neuronal noise. We describe differences in the contribution to noise originating from voltage-gated ion channels, synaptic vesicle release, and vesicle quantal size. We analyze the effect of interspike intervals and the voltage course preceding the firing of spikes on the spike-timing jitter. The main finding of this study is the ranking of different noise sources according to their contribution to spike time precision. The most influential is synaptic vesicle release noise, causing the spike jitter to vary from 1 ms to 7 ms of a mean value 2.5 ms. Of second importance was the noise incurred by vesicle quantal size variation causing the spike time jitter to vary from 0.03 ms to 0.6 ms. Least influential was the voltage-gated channel noise generating spike jitter from 0.02 ms to 0.15 ms.",
+     "FAU": [
+          "Kuriscak, Eduard",
+          "Marsalek, Petr",
+          "Stroffek, Julius",
+          "Wunsch, Zdenek"
+     ],
+     "AU": [
+          "Kuriscak E",
+          "Marsalek P",
+          "Stroffek J",
+          "Wunsch Z"
+     ],
+     "AD": "Department of Physiology, First Medical Faculty, Charles University in Prague, Albertov 5, 12800 Praha 2, Czech Republic. ekuri@lf1.cuni.cz",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120624",
+     "PL": "United States",
+     "TA": "Comput Math Methods Med",
+     "JT": "Computational and mathematical methods in medicine",
+     "JID": "101277751",
+     "RN": [
+          "0 (Calcium Channels)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Calcium Channels/metabolism",
+          "Computer Simulation",
+          "Hippocampus/physiology",
+          "Humans",
+          "Models, Neurological",
+          "Models, Theoretical",
+          "Neurons/metabolism/*physiology",
+          "Noise",
+          "Pyramidal Cells/*physiology",
+          "Rats",
+          "Software",
+          "Synaptic Transmission",
+          "Time Factors"
+     ],
+     "PMC": "PMC3388596",
+     "EDAT": "2012/07/11 06:00",
+     "MHDA": "2012/11/06 06:00",
+     "CRDT": [
+          "2012/07/11 06:00"
+     ],
+     "PHST": [
+          "2011/09/30 00:00 [received]",
+          "2011/12/21 00:00 [revised]",
+          "2012/01/23 00:00 [accepted]",
+          "2012/07/11 06:00 [entrez]",
+          "2012/07/11 06:00 [pubmed]",
+          "2012/11/06 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2012/595398 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Math Methods Med. 2012;2012:595398. doi: 10.1155/2012/595398. Epub 2012 Jun 24.",
+     "term": "hippocampus"
+}

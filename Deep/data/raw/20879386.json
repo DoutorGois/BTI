@@ -1,0 +1,72 @@
+{
+     "PMID": "20879386",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101115",
+     "LR": "20100930",
+     "VI": "13",
+     "IP": "Pt 3",
+     "DP": "2010",
+     "TI": "Synthetic MRI signal standardization: application to multi-atlas analysis.",
+     "PG": "81-8",
+     "AB": "From the image analysis perspective, a disadvantage of MRI is the lack of image intensity standardization. Differences in coil sensitivity, pulse sequence and acquisition parameters lead to very different mappings from tissue properties to image intensity levels. This presents challenges for image analysis techniques because the distribution of image intensities for different brain regions can change substantially from scan to scan. Though intensity correction can sometimes alleviate this problem, it fails in more difficult scenarios in which different types of tissue are mapped to similar gray levels in one scan but different intensities in another. Here, we propose using multi-spectral data to create synthetic MRI scans matched to the intensity distribution of a given dataset using a physical model of acquisition. If the multi-spectral data are manually annotated, the labels can be transfered to the synthetic scans to build a dataset-tailored gold standard. The approach was tested on a multi-atlas based hippocampus segmentation framework using a publicly available database, significantly improving the results obtained with other intensity correction methods.",
+     "FAU": [
+          "Iglesias, Juan Eugenio",
+          "Dinov, Ivo",
+          "Singh, Jaskaran",
+          "Tong, Gregory",
+          "Tu, Zhuowen"
+     ],
+     "AU": [
+          "Iglesias JE",
+          "Dinov I",
+          "Singh J",
+          "Tong G",
+          "Tu Z"
+     ],
+     "AD": "Medical Imaging Informatics, University of California, Los Angeles, USA. jeiglesias@ucla.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U54RR021813/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Brain/*anatomy & histology",
+          "Computer Simulation",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "*Models, Anatomic",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "EDAT": "2010/10/01 06:00",
+     "MHDA": "2010/11/16 06:00",
+     "CRDT": [
+          "2010/10/01 06:00"
+     ],
+     "PHST": [
+          "2010/10/01 06:00 [entrez]",
+          "2010/10/01 06:00 [pubmed]",
+          "2010/11/16 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2010;13(Pt 3):81-8.",
+     "term": "hippocampus"
+}

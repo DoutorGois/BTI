@@ -1,0 +1,101 @@
+{
+     "PMID": "12690484",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040121",
+     "LR": "20170219",
+     "IS": "0340-1200 (Print) 0340-1200 (Linking)",
+     "VI": "88",
+     "IP": "4",
+     "DP": "2003 Apr",
+     "TI": "Inhibitory control of sensory gating in a computer model of the CA3 region of the hippocampus.",
+     "PG": "247-64",
+     "AB": "A model of the CA3 region of the hippocampus was used to simulate the P50 auditory-evoked potential response to repeated stimuli in order to study the neuronal circuits involved in a sensory-processing deficit associated with schizophrenia. Normal subjects have a reduced P50 auditory-evoked potential amplitude in response to the second of two paired auditory click stimuli spaced 0.5 s apart. However, schizophrenic patients do not gate or reduce their response to the second click. They have equal auditory-evoked response amplitudes to both clicks. When schizophrenic patients were medicated with traditional neuroleptics, the evoked potential amplitude to both clicks increased, but gating of the second response was not restored or improved. Animal studies suggest a role for septohippocampal cholinergic activity in sensory gating. We used a computational model of this system in order to study the relative contributions of local processing and afferent activity in sensory gating. We first compared the effect of information representation as average firing rate to information representation as cell assemblies in order to evaluate the best method to represent the response of hippocampal neurons to the auditory click. We then studied the effects of nicotinic cholinergic input on the response of the network and the effect of GABA(B) receptor activation on the ability of the local network to suppress the test response. The results of our model showed that nicotinic cholinergic input from the septum to the hippocampus can control the flow of sensory information from the cortex into the hippocampus. In addition, postsynaptic GABA(B) receptor activation was not sufficient to suppress the test response when the interstimulus interval was 500 ms. However, presynaptic GABA(B) receptor activity may be responsible for the suppression of the test response at this interstimulus interval.",
+     "FAU": [
+          "Moxon, Karen A",
+          "Gerhardt, Greg A",
+          "Gulinello, Maria",
+          "Adler, Lawrence E"
+     ],
+     "AU": [
+          "Moxon KA",
+          "Gerhardt GA",
+          "Gulinello M",
+          "Adler LE"
+     ],
+     "AD": "Drexel University, School of Biomedical Engineering, Science and Health Systems, Philadelphia, PA 19104, USA. karen.moxon@drexel.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH58414/MH/NIMH NIH HHS/United States",
+          "K02 MH001245/MH/NIMH NIH HHS/United States",
+          "MH-50787/MH/NIMH NIH HHS/United States",
+          "MH01245/MH/NIMH NIH HHS/United States",
+          "R01 MH050787/MH/NIMH NIH HHS/United States",
+          "MH-01121/MH/NIMH NIH HHS/United States",
+          "K02 MH001121/MH/NIMH NIH HHS/United States",
+          "R01 MH058414/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "RN": [
+          "0 (GABA-B Receptor Agonists)",
+          "0 (Receptors, GABA-B)",
+          "0 (Receptors, Nicotinic)",
+          "56-12-2 (gamma-Aminobutyric Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Acoustic Stimulation",
+          "Action Potentials/drug effects/physiology",
+          "Afferent Pathways/*physiology",
+          "Animals",
+          "Cholinergic Fibers/physiology",
+          "*Computer Simulation",
+          "Evoked Potentials, Auditory/physiology",
+          "GABA-B Receptor Agonists",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Neural Inhibition/*physiology",
+          "Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Reaction Time/drug effects/physiology",
+          "Receptors, GABA-B/physiology",
+          "Receptors, Nicotinic/drug effects/physiology",
+          "Reproducibility of Results",
+          "Schizophrenia/physiopathology",
+          "Septal Nuclei/physiology",
+          "Synaptic Transmission/drug effects/physiology",
+          "gamma-Aminobutyric Acid/physiology"
+     ],
+     "PMC": "PMC4170679",
+     "MID": [
+          "NIHMS627341"
+     ],
+     "EDAT": "2003/04/12 05:00",
+     "MHDA": "2004/01/22 05:00",
+     "CRDT": [
+          "2003/04/12 05:00"
+     ],
+     "PHST": [
+          "2003/04/12 05:00 [pubmed]",
+          "2004/01/22 05:00 [medline]",
+          "2003/04/12 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s00422-002-0373-7 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Cybern. 2003 Apr;88(4):247-64. doi: 10.1007/s00422-002-0373-7.",
+     "term": "hippocampus"
+}

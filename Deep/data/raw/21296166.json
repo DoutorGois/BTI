@@ -1,0 +1,82 @@
+{
+     "PMID": "21296166",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110729",
+     "LR": "20110329",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "56",
+     "IP": "1",
+     "DP": "2011 May 1",
+     "TI": "Optimal weights for local multi-atlas fusion using supervised learning and dynamic information (SuperDyn): validation on hippocampus segmentation.",
+     "PG": "126-39",
+     "LID": "10.1016/j.neuroimage.2011.01.078 [doi]",
+     "AB": "We developed a novel method for spatially-local selection of atlas-weights in multi-atlas segmentation that combines supervised learning on a training set and dynamic information in the form of local registration accuracy estimates (SuperDyn). Supervised learning was applied using a jackknife learning approach and the methods were evaluated using leave-N-out cross-validation. We applied our segmentation method to hippocampal segmentation in 1.5T and 3T MRI from two datasets: 69 healthy middle-aged subjects (aged 44-49) and 37 healthy and cognitively-impaired elderly subjects (aged 72-84). Mean Dice overlap scores (left hippocampus, right hippocampus) of (83.3, 83.2) and (85.1, 85.3) from the respective datasets were found to be significantly higher than those obtained via equally-weighted fusion, STAPLE, and dynamic fusion. In addition to global surface distance and volume metrics, we also investigated accuracy at a spatially-local scale using a surface-based segmentation performance assessment method (SurfSPA), which generates cohort-specific maps of segmentation accuracy quantified by inward or outward displacement relative to the manual segmentations. These measurements indicated greater agreement with manual segmentation and lower variability for the proposed segmentation method, as compared to equally-weighted fusion.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Khan, Ali R",
+          "Cherbuin, Nicolas",
+          "Wen, Wei",
+          "Anstey, Kaarin J",
+          "Sachdev, Perminder",
+          "Beg, Mirza Faisal"
+     ],
+     "AU": [
+          "Khan AR",
+          "Cherbuin N",
+          "Wen W",
+          "Anstey KJ",
+          "Sachdev P",
+          "Beg MF"
+     ],
+     "AD": "School of Engineering Science, Simon Fraser University, Burnaby, BC V5A 1S6, Canada. akhanf@sfu.ca",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110204",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Brain Mapping/*methods",
+          "Female",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Pattern Recognition, Automated/*methods"
+     ],
+     "EDAT": "2011/02/08 06:00",
+     "MHDA": "2011/07/30 06:00",
+     "CRDT": [
+          "2011/02/08 06:00"
+     ],
+     "PHST": [
+          "2010/11/13 00:00 [received]",
+          "2011/01/26 00:00 [revised]",
+          "2011/01/28 00:00 [accepted]",
+          "2011/02/08 06:00 [entrez]",
+          "2011/02/08 06:00 [pubmed]",
+          "2011/07/30 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)00131-5 [pii]",
+          "10.1016/j.neuroimage.2011.01.078 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 May 1;56(1):126-39. doi: 10.1016/j.neuroimage.2011.01.078. Epub 2011 Feb 4.",
+     "term": "hippocampus"
+}

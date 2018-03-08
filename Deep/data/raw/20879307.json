@@ -1,0 +1,88 @@
+{
+     "PMID": "20879307",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101115",
+     "LR": "20170922",
+     "VI": "13",
+     "IP": "Pt 2",
+     "DP": "2010",
+     "TI": "Increasing power to predict mild cognitive impairment conversion to Alzheimer's disease using hippocampal atrophy rate and statistical shape models.",
+     "PG": "125-32",
+     "AB": "Identifying mild cognitive impairment (MCI) subjects who will convert to clinical Alzheimer's disease (AD) is important for therapeutic decisions, patient counselling and clinical trials. Hippocampal volume and rate of atrophy predict clinical decline at the MCI stage and progression to AD. In this paper, we create p-maps from the differences in the shape of the hippocampus between 60 normal controls and 60 AD subjects using statistical shape models, and generate different regions of interest (ROI) by thresholding the p-maps at different significance levels. We demonstrate increased statistical power to classify 86 MCI converters and 128 MCI stable subjects using the hippocampal atrophy rates calculated by the boundary shift integral within these ROIs.",
+     "FAU": [
+          "Leung, Kelvin K",
+          "Shen, Kai-Kai",
+          "Barnes, Josephine",
+          "Ridgway, Gerard R",
+          "Clarkson, Matthew J",
+          "Fripp, Jurgen",
+          "Salvado, Olivier",
+          "Meriaudeau, Fabrice",
+          "Fox, Nick C",
+          "Bourgeat, Pierrick",
+          "Ourselin, Sebastien"
+     ],
+     "AU": [
+          "Leung KK",
+          "Shen KK",
+          "Barnes J",
+          "Ridgway GR",
+          "Clarkson MJ",
+          "Fripp J",
+          "Salvado O",
+          "Meriaudeau F",
+          "Fox NC",
+          "Bourgeat P",
+          "Ourselin S"
+     ],
+     "AD": "Centre for Medical Image Computing, University College London, WC1E 6BT, UK.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0601846/Medical Research Council/United Kingdom",
+          "Department of Health/United Kingdom",
+          "Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Alzheimer Disease/*etiology/*pathology",
+          "Atrophy/complications/pathology",
+          "Cognition Disorders/*complications/*pathology",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Neurological",
+          "Models, Statistical",
+          "Pattern Recognition, Automated/methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Subtraction Technique"
+     ],
+     "EDAT": "2010/10/01 06:00",
+     "MHDA": "2010/11/16 06:00",
+     "CRDT": [
+          "2010/10/01 06:00"
+     ],
+     "PHST": [
+          "2010/10/01 06:00 [entrez]",
+          "2010/10/01 06:00 [pubmed]",
+          "2010/11/16 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2010;13(Pt 2):125-32.",
+     "term": "hippocampus"
+}

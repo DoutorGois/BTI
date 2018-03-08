@@ -1,0 +1,65 @@
+{
+     "PMID": "26737023",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161021",
+     "LR": "20161230",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2015",
+     "DP": "2015",
+     "TI": "A comparison between block and smooth modeling in finite element simulations of tDCS.",
+     "PG": "3403-6",
+     "LID": "10.1109/EMBC.2015.7319123 [doi]",
+     "AB": "Current density distributions in five selected structures, namely, anterior superior temporal gyrus (ASTG), hippocampus (HIP), inferior frontal gyrus (IFG), occipital lobe (OCC) and pre-central gyrus (PRC) were investigated as part of a comparison between electrostatic finite element models constructed directly from MRI-resolution data (block models), and smoothed tetrahedral finite element models (smooth models). Three electrode configurations were applied, mimicking different tDCS therapies. Smooth model simulations were found to require three times longer to complete. The percentage differences between mean and median current densities of each model type in arbitrarily chosen brain structures ranged from -33.33-48.08%. No clear relationship was found between structure volumes and current density differences between the two model types. Tissue regions nearby the electrodes demonstrated the least percentage differences between block and smooth models. Therefore, block models may be adequate to predict current density values in cortical regions presumed targeted by tDCS.",
+     "FAU": [
+          "Indahlastari, Aprinda",
+          "Sadleir, Rosalind J"
+     ],
+     "AU": [
+          "Indahlastari A",
+          "Sadleir RJ"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R21INS081646/PHS HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Brain/ultrastructure",
+          "*Computer Simulation",
+          "Electrodes",
+          "*Finite Element Analysis",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Models, Theoretical",
+          "Prefrontal Cortex/*ultrastructure",
+          "Transcranial Direct Current Stimulation/*methods"
+     ],
+     "EDAT": "2016/01/07 06:00",
+     "MHDA": "2016/10/22 06:00",
+     "CRDT": [
+          "2016/01/07 06:00"
+     ],
+     "PHST": [
+          "2016/01/07 06:00 [entrez]",
+          "2016/01/07 06:00 [pubmed]",
+          "2016/10/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2015.7319123 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2015;2015:3403-6. doi: 10.1109/EMBC.2015.7319123.",
+     "term": "hippocampus"
+}

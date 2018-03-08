@@ -1,0 +1,80 @@
+{
+     "PMID": "15068187",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040521",
+     "LR": "20061115",
+     "IS": "1534-4320 (Print) 1534-4320 (Linking)",
+     "VI": "12",
+     "IP": "1",
+     "DP": "2004 Mar",
+     "TI": "Cognitive tasks for driving a brain-computer interfacing system: a pilot study.",
+     "PG": "48-54",
+     "AB": "Different cognitive tasks were investigated for use with a brain-computer interface (BCI). The main aim was to evaluate which two of several candidate tasks lead to patterns of electroencephalographic (EEG) activity that could be differentiated most reliably and, therefore, produce the highest communication rate. An optimal signal processing method was also sought to enhance differentiation of EEG profiles across tasks. In ten normal subjects (five male), aged 29-54 years, EEG activity was recorded from four channels during cognitive tasks grouped in pairs, and performed alternately. Four imagery tasks were: spatial navigation around a familiar environment; auditory imagery of a familiar tune; and right and left motor imagery of opening and closing the hand. Signal processing methodology included autoregressive (AR) modeling and classification based on logistic regression and a nonlinear generative classifier. The highest communication rate was found using the navigation and auditory imagery tasks. In terms of classification performance and, hence, possible communication rate, these results were significantly better (p < 0.05) than those obtained with the classical pairing of motor tasks involving imaginary movements of the left and right hands. In terms of EEG data analysis, a nonlinear classification model provided more robust results than a linear model (p << 0.01), and a lower AR model order than those used in previous work was found to be effective. These findings have implications for establishing appropriate methods to operate BCI systems, particularly for disabled people who may experience difficulty with motor tasks, even motor imagery.",
+     "FAU": [
+          "Curran, Eleanor",
+          "Sykacek, Peter",
+          "Stokes, Maria",
+          "Roberts, Stephen J",
+          "Penny, Will",
+          "Johnsrude, Ingrid",
+          "Owen, Adrian M"
+     ],
+     "AU": [
+          "Curran E",
+          "Sykacek P",
+          "Stokes M",
+          "Roberts SJ",
+          "Penny W",
+          "Johnsrude I",
+          "Owen AM"
+     ],
+     "AD": "Department of Law, University of Keele, ST5 5BG Keele, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Syst Rehabil Eng",
+     "JT": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "101097023",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Algorithms",
+          "Brain Mapping/*methods",
+          "Cognition/*physiology",
+          "*Communication",
+          "Communication Aids for Disabled",
+          "Electroencephalography/*methods",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "*Pattern Recognition, Automated",
+          "Pilot Projects",
+          "*Signal Processing, Computer-Assisted",
+          "*User-Computer Interface"
+     ],
+     "EDAT": "2004/04/08 05:00",
+     "MHDA": "2004/05/22 05:00",
+     "CRDT": [
+          "2004/04/08 05:00"
+     ],
+     "PHST": [
+          "2004/04/08 05:00 [pubmed]",
+          "2004/05/22 05:00 [medline]",
+          "2004/04/08 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TNSRE.2003.821372 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Syst Rehabil Eng. 2004 Mar;12(1):48-54. doi: 10.1109/TNSRE.2003.821372.",
+     "term": "spatial navigation"
+}

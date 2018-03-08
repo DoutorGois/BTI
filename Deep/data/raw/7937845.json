@@ -1,0 +1,72 @@
+{
+     "PMID": "7937845",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19941110",
+     "LR": "20130922",
+     "IS": "0027-8424 (Print) 0027-8424 (Linking)",
+     "VI": "91",
+     "IP": "21",
+     "DP": "1994 Oct 11",
+     "TI": "Non-Hebbian properties of long-term potentiation enable high-capacity encoding of temporal sequences.",
+     "PG": "10104-8",
+     "AB": "A hypothesis commonly found in biological and computational studies of synaptic plasticity embodies a version of the 1949 postulate of Hebb that coactivity of pre- and postsynaptic elements results in increased efficacy of their synaptic contacts. This general proposal presaged the identification of the first and still only known long-lasting synaptic plasticity mechanism, long-term potentiation (LTP). Yet the detailed physiology of LTP induction and expression differs in many specifics from Hebb's rule. Incorporation of these physiological LTP constraints into a simple non-Hebbian network model enabled development of \"sequence detectors\" that respond preferentially to the sequences on which they were trained. The network was found to have unexpected capacity (e.g., 50 x 10(6) random sequences in a network of 10(5) cells), which scales linearly with network size, thereby addressing the question of memory capacity in brain circuitry of realistic size.",
+     "FAU": [
+          "Granger, R",
+          "Whitson, J",
+          "Larson, J",
+          "Lynch, G"
+     ],
+     "AU": [
+          "Granger R",
+          "Whitson J",
+          "Larson J",
+          "Lynch G"
+     ],
+     "AD": "Center for the Neurobiology of Learning and Memory, University of California, Irvine 92717.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Proc Natl Acad Sci U S A",
+     "JT": "Proceedings of the National Academy of Sciences of the United States of America",
+     "JID": "7505876",
+     "RN": [
+          "0 (Receptors, AMPA)",
+          "0 (Receptors, N-Methyl-D-Aspartate)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Hippocampus/*physiology",
+          "Learning/*physiology",
+          "Long-Term Potentiation/*physiology",
+          "*Models, Neurological",
+          "Pyramidal Tracts/physiology",
+          "Random Allocation",
+          "Receptors, AMPA/physiology",
+          "Receptors, N-Methyl-D-Aspartate/physiology",
+          "Synapses/*physiology",
+          "Theta Rhythm",
+          "Time Factors"
+     ],
+     "PMC": "PMC44966",
+     "EDAT": "1994/10/11 00:00",
+     "MHDA": "1994/10/11 00:01",
+     "CRDT": [
+          "1994/10/11 00:00"
+     ],
+     "PHST": [
+          "1994/10/11 00:00 [pubmed]",
+          "1994/10/11 00:01 [medline]",
+          "1994/10/11 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc Natl Acad Sci U S A. 1994 Oct 11;91(21):10104-8.",
+     "term": "hippocampus"
+}

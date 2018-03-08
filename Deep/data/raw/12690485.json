@@ -1,0 +1,89 @@
+{
+     "PMID": "12690485",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040121",
+     "LR": "20131121",
+     "IS": "0340-1200 (Print) 0340-1200 (Linking)",
+     "VI": "88",
+     "IP": "4",
+     "DP": "2003 Apr",
+     "TI": "Dopaminergic modulation of the P50 auditory-evoked potential in a computer model of the CA3 region of the hippocampus: its relationship to sensory gating in schizophrenia.",
+     "PG": "265-75",
+     "AB": "We modeled the neuronal circuits that may underlie a sensory-processing deficit associated with schizophrenia. Schizophrenic patients have small P50 auditory-evoked responses to click stimuli compared to normal subjects. The P50 auditory-evoked response is a positive waveform recorded in the EEG approximately 50 ms after the auditory click stimulus. In addition to relatively small amplitudes, schizophrenic patients do not gate or suppress the P50 auditory-evoked response to the second of two paired-click stimuli spaced 0.5 s apart. Neuropleptic medication, which decreases dopaminergic neuronal transmission, increases the amplitude of the P50 auditory-evoked response but does not improve gating. Normal subjects have large P50 auditory-evoked responses to click stimuli when compared to unmedicated schizophrenic patients, and they gate their response to paired click stimuli or have smaller P50 auditory-evoked response amplitudes to the second of two click stimuli spaced 0.5 s apart. Schizophrenic patients do not gate and have similar response amplitudes to both clicks. We hypothesized that the small amplitudes of unmedicated schizophrenic subjects were due to a state of occlusion whereby excessive background noise in local circuits reduced the ability of cells to respond synchronously to sensory input, thereby reducing the amplitude of the P50 waveform in the EEG. Because the P50 auditory-evoked potential amplitudes increased with neuroleptic medication, which reduces dopaminergic neuronal transmission, we hypothesized a role for dopamine in modulating the signal-to-noise (S/N) in the local circuits responsible for sensory gating. To test the hypothesis that modulation of the S/N ratio reduces sensory gating, we developed a model of the effects of dopaminergic neuronal transmission that modulates the S/N in neuronal circuits. The model uses the biologically relevant computer model of the CA3 region of the hippocampus developed in the companion paper [Moxon et al. (2003) Biol Cybern, this volume]. Modified Hebb cell assemblies represented the response of the network to the click stimulus. The results of our model showed that excessive dopaminergic input impaired the ability of cells to respond synchronously to sensory input, which reduced the amplitudes of the P50 evoked responses.",
+     "FAU": [
+          "Moxon, Karen A",
+          "Gerhardt, Greg A",
+          "Adler, Lawrence E"
+     ],
+     "AU": [
+          "Moxon KA",
+          "Gerhardt GA",
+          "Adler LE"
+     ],
+     "AD": "Drexel University, School of Biomedical Engineering, Science and Health Systems, 3141 Chestnut St., Philadelphia, PA 19104-2875, USA. karen.moxon@drexel.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH-01121/MH/NIMH NIH HHS/United States",
+          "MH01245/MH/NIMH NIH HHS/United States",
+          "MH58414/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "RN": [
+          "0 (Antipsychotic Agents)",
+          "0 (Dopamine Antagonists)",
+          "0 (Nicotinic Antagonists)",
+          "0 (Receptors, Nicotinic)",
+          "VTD58H1Z2X (Dopamine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Acoustic Stimulation",
+          "Afferent Pathways/drug effects/physiology",
+          "Animals",
+          "Antipsychotic Agents/pharmacology",
+          "Artifacts",
+          "*Computer Simulation",
+          "Dopamine/*physiology",
+          "Dopamine Antagonists/pharmacology",
+          "Evoked Potentials, Auditory/drug effects/*physiology",
+          "Hippocampus/drug effects/*physiology",
+          "Humans",
+          "Models, Neurological",
+          "Neural Inhibition/drug effects/*physiology",
+          "Neural Networks (Computer)",
+          "Neurons/drug effects/physiology",
+          "Nicotinic Antagonists/pharmacology",
+          "Reaction Time/drug effects/physiology",
+          "Receptors, Nicotinic/drug effects/physiology",
+          "Schizophrenia/drug therapy/*physiopathology",
+          "Synaptic Transmission/drug effects/physiology"
+     ],
+     "EDAT": "2003/04/12 05:00",
+     "MHDA": "2004/01/22 05:00",
+     "CRDT": [
+          "2003/04/12 05:00"
+     ],
+     "PHST": [
+          "2003/04/12 05:00 [pubmed]",
+          "2004/01/22 05:00 [medline]",
+          "2003/04/12 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s00422-002-0372-8 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Cybern. 2003 Apr;88(4):265-75. doi: 10.1007/s00422-002-0372-8.",
+     "term": "hippocampus"
+}

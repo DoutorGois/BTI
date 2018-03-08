@@ -1,0 +1,79 @@
+{
+     "PMID": "15390162",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050511",
+     "LR": "20071114",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "15",
+     "IP": "1",
+     "DP": "2005",
+     "TI": "Reconstruction of the postsubiculum head direction signal from neural ensembles.",
+     "PG": "86-96",
+     "AB": "Head direction cells change their firing rates as a function of the orientation of an animal within an environment. Typically, these cells display a unimodal tuning curve with maximal firing at the cell's preferred direction. As different cells have different preferred directions, the population of cells has been hypothesized to represent the orientation of the animal within the environment. Previous research has shown that pairs of simultaneously recorded head direction cells respond similarly to cue manipulations, suggesting that a population of head direction cells acts in concert to represent the animal's orientation within its environment. Ensembles of head direction cells were recorded from the postsubiculum from rats foraging in an open field. Directional responses of each cell were quantified by the nonparametric Watson's U2 statistic, a measure which makes no explicit assumptions of tuning curve shape. Directionally responsive cells were then used to reconstruct each animal's orientation within the open field using population vector, optimal-linear estimator, and Bayesian methods. The results indicated that postsubiculum contained a complete representation of the animal's orientation. The internal consistency of a neural ensemble can be assessed by comparing the ensemble activity to the expected activity given the reconstructed orientation. This has been termed the \"coherency\" of the neural ensemble. Reconstruction error decreased as the coherency of the orientation representation increased, indicating that coherency could be used to measure a level of confidence in the representation quality. Because coherency is a linear measure dependent only on internal variables, coherency may be a behaviorally relevant measure used to ascertain the animal's confidence in its representation of orientation.",
+     "CI": [
+          "Copyright (c) 2004 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Johnson, Adam",
+          "Seeland, Kelsey",
+          "Redish, A David"
+     ],
+     "AU": [
+          "Johnson A",
+          "Seeland K",
+          "Redish AD"
+     ],
+     "AD": "Department of Neuroscience, University of Minnesota, Minneapolis, Minnesota 55455, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH68029-01/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Bayes Theorem",
+          "Head Movements/*physiology",
+          "Hippocampus/anatomy & histology/*physiology",
+          "Male",
+          "Models, Neurological",
+          "Nerve Net/anatomy & histology/*physiology",
+          "Neural Pathways/anatomy & histology/physiology",
+          "Neurons/*physiology",
+          "Orientation/*physiology",
+          "Rats",
+          "Rats, Inbred BN",
+          "Rats, Inbred F344",
+          "Space Perception/physiology",
+          "Synaptic Transmission/physiology"
+     ],
+     "EDAT": "2004/09/25 05:00",
+     "MHDA": "2005/05/12 09:00",
+     "CRDT": [
+          "2004/09/25 05:00"
+     ],
+     "PHST": [
+          "2004/09/25 05:00 [pubmed]",
+          "2005/05/12 09:00 [medline]",
+          "2004/09/25 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.20033 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2005;15(1):86-96. doi: 10.1002/hipo.20033.",
+     "term": "hippocampus"
+}

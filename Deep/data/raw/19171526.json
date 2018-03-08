@@ -1,0 +1,67 @@
+{
+     "PMID": "19171526",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090709",
+     "LR": "20090310",
+     "IS": "1558-0032 (Electronic) 1089-7771 (Linking)",
+     "VI": "13",
+     "IP": "2",
+     "DP": "2009 Mar",
+     "TI": "Modeling interaction for segmentation of neighboring structures.",
+     "PG": "252-62",
+     "LID": "10.1109/TITB.2008.2010492 [doi]",
+     "AB": "This paper presents a new method for segmenting medical images by modeling interaction between neighboring structures. Compared to previously reported methods, the proposed approach enables simultaneous segmentation of multiple neighboring structures for improved robustness. During the segmentation process, the object contour evolution and shape prior estimates are influenced by the interactions between neighboring shapes consisting of attraction, repulsion, and competition. Instead of estimating the a priori shape of each structure independently, an interactive maximum a posteriori shape estimation method is used for estimating the shape priors by considering shape prior distribution, neighboring shapes, and image features. Energy functionals are then formulated to model the interaction and segmentation. With the proposed method, neighboring structures with similar intensities and/or textures, and blurred boundaries can be extracted simultaneously. Experimental results obtained on both synthetic data and medical images demonstrate that the introduced interaction between neighboring structures improves segmentation performance compared with other existing approaches.",
+     "FAU": [
+          "Yan, Pingkun",
+          "Kassim, Ashraf A",
+          "Shen, Weijia",
+          "Shah, Mubarak"
+     ],
+     "AU": [
+          "Yan P",
+          "Kassim AA",
+          "Shen W",
+          "Shah M"
+     ],
+     "AD": "School of Computer Science, University of Central Florida, Orlando, FL 32816, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20090120",
+     "PL": "United States",
+     "TA": "IEEE Trans Inf Technol Biomed",
+     "JT": "IEEE transactions on information technology in biomedicine : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "9712259",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Amygdala/anatomy & histology",
+          "Computer Simulation",
+          "Diagnostic Imaging/*methods",
+          "Hippocampus/anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Lateral Ventricles/anatomy & histology",
+          "*Models, Biological"
+     ],
+     "EDAT": "2009/01/28 09:00",
+     "MHDA": "2009/07/10 09:00",
+     "CRDT": [
+          "2009/01/28 09:00"
+     ],
+     "PHST": [
+          "2009/01/28 09:00 [entrez]",
+          "2009/01/28 09:00 [pubmed]",
+          "2009/07/10 09:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TITB.2008.2010492 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Inf Technol Biomed. 2009 Mar;13(2):252-62. doi: 10.1109/TITB.2008.2010492. Epub 2009 Jan 20.",
+     "term": "hippocampus"
+}

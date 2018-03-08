@@ -1,0 +1,95 @@
+{
+     "PMID": "18973557",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090130",
+     "LR": "20170220",
+     "IS": "1460-9568 (Electronic) 0953-816X (Linking)",
+     "VI": "28",
+     "IP": "7",
+     "DP": "2008 Oct",
+     "TI": "Temporally structured replay of neural activity in a model of entorhinal cortex, hippocampus and postsubiculum.",
+     "PG": "1301-15",
+     "LID": "10.1111/j.1460-9568.2008.06437.x [doi]",
+     "AB": "The spiking activity of hippocampal neurons during rapid eye movement (REM) sleep exhibits temporally structured replay of spiking occurring during previously experienced trajectories. Here, temporally structured replay of place cell activity during REM sleep is modeled in a large-scale network simulation of grid cells, place cells and head direction cells. During simulated waking behavior, the movement of the simulated rat drives activity of a population of head direction cells that updates the activity of a population of entorhinal grid cells. The population of grid cells drives the activity of place cells coding individual locations. Associations between location and movement direction are encoded by modification of excitatory synaptic connections from place cells to speed modulated head direction cells. During simulated REM sleep, the population of place cells coding an experienced location activates the head direction cells coding the associated movement direction. Spiking of head direction cells then causes frequency shifts within the population of entorhinal grid cells to update a phase representation of location. Spiking grid cells then activate new place cells that drive new head direction activity. In contrast to models that perform temporally compressed sequence retrieval similar to sharp wave activity, this model can simulate data on temporally structured replay of hippocampal place cell activity during REM sleep at time scales similar to those observed during waking. These mechanisms could be important for episodic memory of trajectories.",
+     "FAU": [
+          "Hasselmo, Michael E"
+     ],
+     "AU": [
+          "Hasselmo ME"
+     ],
+     "AD": "Center for Memory and Brain, Department of Psychology and Program in Neuroscience, Boston University, 2 Cummington St, Boston, MA 02215, USA. hasselmo@bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH71702/MH/NIMH NIH HHS/United States",
+          "R01 MH060013-09/MH/NIMH NIH HHS/United States",
+          "R01 DA16454/DA/NIDA NIH HHS/United States",
+          "P50 MH060450/MH/NIMH NIH HHS/United States",
+          "R01 MH061492-06A2/MH/NIMH NIH HHS/United States",
+          "R01 DA016454/DA/NIDA NIH HHS/United States",
+          "P50 MH060450-069002/MH/NIMH NIH HHS/United States",
+          "P50 MH071702-020004/MH/NIMH NIH HHS/United States",
+          "R01 MH61492/MH/NIMH NIH HHS/United States",
+          "P50 MH060450-089002/MH/NIMH NIH HHS/United States",
+          "R01 MH60013/MH/NIMH NIH HHS/United States",
+          "MH60450/MH/NIMH NIH HHS/United States",
+          "R01 MH060013/MH/NIMH NIH HHS/United States",
+          "R01 DA016454-05/DA/NIDA NIH HHS/United States",
+          "P50 MH071702/MH/NIMH NIH HHS/United States",
+          "R01 MH061492/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "France",
+     "TA": "Eur J Neurosci",
+     "JT": "The European journal of neuroscience",
+     "JID": "8918110",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "Entorhinal Cortex/*physiology",
+          "Head Movements/physiology",
+          "Hippocampus/*physiology",
+          "Memory/physiology",
+          "Models, Neurological",
+          "Nerve Net/physiology",
+          "Neural Networks (Computer)",
+          "Neural Pathways/physiology",
+          "Neurons/*physiology",
+          "Orientation/physiology",
+          "Rats",
+          "Sleep, REM/*physiology",
+          "Space Perception/physiology",
+          "Synaptic Transmission/*physiology",
+          "Wakefulness/physiology"
+     ],
+     "PMC": "PMC2634752",
+     "MID": [
+          "NIHMS75999"
+     ],
+     "EDAT": "2008/11/01 09:00",
+     "MHDA": "2009/01/31 09:00",
+     "CRDT": [
+          "2008/11/01 09:00"
+     ],
+     "PHST": [
+          "2008/11/01 09:00 [pubmed]",
+          "2009/01/31 09:00 [medline]",
+          "2008/11/01 09:00 [entrez]"
+     ],
+     "AID": [
+          "EJN6437 [pii]",
+          "10.1111/j.1460-9568.2008.06437.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Eur J Neurosci. 2008 Oct;28(7):1301-15. doi: 10.1111/j.1460-9568.2008.06437.x.",
+     "term": "place cells"
+}

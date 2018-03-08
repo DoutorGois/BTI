@@ -1,0 +1,112 @@
+{
+     "PMID": "25791781",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160208",
+     "LR": "20170922",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "113",
+     "DP": "2015 Jun",
+     "TI": "Voxel-based morphometry at ultra-high fields. a comparison of 7T and 3T MRI data.",
+     "PG": "207-16",
+     "LID": "10.1016/j.neuroimage.2015.03.019 [doi] S1053-8119(15)00200-1 [pii]",
+     "AB": "Recent technological progress enables MRI recordings at ultra-high fields of 7 T and above leading to brain images of higher resolution and increased signal-to-noise ratio. Despite these benefits, imaging at 7 T exhibits distinct challenges due to B1 field inhomogeneities, causing decreased image quality and problems in data analysis. Although several strategies have been proposed, a systematic investigation of bias-corrected 7 T data for voxel-based morphometry (VBM) is still missing and it is an ongoing matter of debate if VBM at 7 T can be carried out properly. Here, an optimized VBM study was conducted, evaluating the impact of field strength (3T vs. 7 T) and pulse sequence (MPRAGE vs. MP2RAGE) on gray matter volume (GMV) estimates. More specifically, twenty-two participants were measured under the conditions 3T MPRAGE, 7 T MPRAGE and 7 T MP2RAGE. Due to the fact that 7 T MPRAGE data exhibited strong intensity inhomogeneities, an alternative preprocessing pipeline was proposed and applied for that data. VBM analysis revealed higher GMV estimates for 7 T predominantly in superior cortical areas, caudate nucleus, cingulate cortex and the hippocampus. On the other hand, 3T yielded higher estimates especially in inferior cortical areas of the brain, cerebellum, thalamus and putamen compared to 7 T. Besides minor exceptions, these results were observed for 7 T MPRAGE as well for the 7 T MP2RAGE measurements. Results gained in the inferior parts of the brain should be taken with caution, as native GM segmentations displayed misclassifications in these regions for both 7 T sequences. This was supported by the test-retest measurements showing highest variability in these inferior regions of the brain for 7 T and also for the advanced MP2RAGE sequence. Hence, our data support the use of 7 T MRI for VBM analysis in cortical areas, but direct comparison between field strengths and sequences requires careful assessment. Similarly, analysis of the inferior cortical regions, cerebellum and subcortical regions still remains challenging at 7 T even if the advanced MP2RAGE sequence is used.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Seiger, Rene",
+          "Hahn, Andreas",
+          "Hummer, Allan",
+          "Kranz, Georg S",
+          "Ganger, Sebastian",
+          "Kublbock, Martin",
+          "Kraus, Christoph",
+          "Sladky, Ronald",
+          "Kasper, Siegfried",
+          "Windischberger, Christian",
+          "Lanzenberger, Rupert"
+     ],
+     "AU": [
+          "Seiger R",
+          "Hahn A",
+          "Hummer A",
+          "Kranz GS",
+          "Ganger S",
+          "Kublbock M",
+          "Kraus C",
+          "Sladky R",
+          "Kasper S",
+          "Windischberger C",
+          "Lanzenberger R"
+     ],
+     "AD": "Department of Psychiatry and Psychotherapy, Medical University of Vienna, 1090 Vienna, Austria. Department of Psychiatry and Psychotherapy, Medical University of Vienna, 1090 Vienna, Austria. MR Centre of Excellence, Center for Medical Physics and Biomedical Engineering, Medical University of Vienna, 1090 Vienna, Austria. Department of Psychiatry and Psychotherapy, Medical University of Vienna, 1090 Vienna, Austria. Department of Psychiatry and Psychotherapy, Medical University of Vienna, 1090 Vienna, Austria. MR Centre of Excellence, Center for Medical Physics and Biomedical Engineering, Medical University of Vienna, 1090 Vienna, Austria. Department of Psychiatry and Psychotherapy, Medical University of Vienna, 1090 Vienna, Austria. MR Centre of Excellence, Center for Medical Physics and Biomedical Engineering, Medical University of Vienna, 1090 Vienna, Austria. Department of Psychiatry and Psychotherapy, Medical University of Vienna, 1090 Vienna, Austria. MR Centre of Excellence, Center for Medical Physics and Biomedical Engineering, Medical University of Vienna, 1090 Vienna, Austria. Department of Psychiatry and Psychotherapy, Medical University of Vienna, 1090 Vienna, Austria. Electronic address: rupert.lanzenberger@meduniwien.ac.at.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P 23021/Austrian Science Fund FWF/Austria"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150317",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Brain/*anatomy & histology",
+          "Brain Mapping",
+          "Electromagnetic Fields",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging/*instrumentation/*methods",
+          "Male",
+          "Reproducibility of Results",
+          "Signal-To-Noise Ratio",
+          "Whole Body Imaging",
+          "Young Adult"
+     ],
+     "PMC": "PMC5341769",
+     "MID": [
+          "EMS64917"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "7Tesla",
+          "MP2RAGE",
+          "MPRAGE",
+          "Test-retest",
+          "Ultra-high field",
+          "VBM"
+     ],
+     "EDAT": "2015/03/21 06:00",
+     "MHDA": "2016/02/09 06:00",
+     "CRDT": [
+          "2015/03/21 06:00"
+     ],
+     "PHST": [
+          "2014/12/17 00:00 [received]",
+          "2015/02/27 00:00 [revised]",
+          "2015/03/09 00:00 [accepted]",
+          "2015/03/21 06:00 [entrez]",
+          "2015/03/21 06:00 [pubmed]",
+          "2016/02/09 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(15)00200-1 [pii]",
+          "10.1016/j.neuroimage.2015.03.019 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2015 Jun;113:207-16. doi: 10.1016/j.neuroimage.2015.03.019. Epub 2015 Mar 17.",
+     "term": "hippocampus"
+}

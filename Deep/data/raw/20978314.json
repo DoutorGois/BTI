@@ -1,0 +1,78 @@
+{
+     "PMID": "20978314",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110201",
+     "LR": "20101027",
+     "IS": "1478-3975 (Electronic) 1478-3967 (Linking)",
+     "VI": "7",
+     "IP": "4",
+     "DP": "2010 Oct 26",
+     "TI": "Functional clustering in hippocampal cultures: relating network structure and dynamics.",
+     "PG": "046004",
+     "LID": "10.1088/1478-3975/7/4/046004 [doi]",
+     "AB": "In this work we investigate the relationship between gross anatomic structural network properties, neuronal dynamics and the resultant functional structure in dissociated rat hippocampal cultures. Specifically, we studied cultures as they developed under two conditions: the first supporting glial cell growth (high glial group), and the second one inhibiting it (low glial group). We then compared structural network properties and the spatio-temporal activity patterns of the neurons. Differences in dynamics between the two groups could be linked to the impact of the glial network on the neuronal network as the cultures developed. We also implemented a recently developed algorithm called the functional clustering algorithm (FCA) to obtain the resulting functional network structure. We show that this new algorithm is useful for capturing changes in functional network structure as the networks evolve over time. The FCA detects changes in functional structure that are consistent with expected dynamical differences due to the impact of the glial network. Cultures in the high glial group show an increase in global synchronization as the cultures age, while those in the low glial group remain locally synchronized. We additionally use the FCA to quantify the amount of synchronization present in the cultures and show that the total level of synchronization in the high glial group is stronger than in the low glial group. These results indicate an interdependence between the glial and neuronal networks present in dissociated cultures.",
+     "FAU": [
+          "Feldt, S",
+          "Wang, J X",
+          "Shtrahman, E",
+          "Dzakpasu, R",
+          "Olariu, E",
+          "Zochowski, M"
+     ],
+     "AU": [
+          "Feldt S",
+          "Wang JX",
+          "Shtrahman E",
+          "Dzakpasu R",
+          "Olariu E",
+          "Zochowski M"
+     ],
+     "AD": "Department of Physics, University of Michigan, Ann Arbor, MI 48109, USA. sfeldt@uci.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "EB008163/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20101026",
+     "PL": "England",
+     "TA": "Phys Biol",
+     "JT": "Physical biology",
+     "JID": "101197454",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Algorithms",
+          "Animals",
+          "Cells, Cultured",
+          "Cluster Analysis",
+          "Hippocampus/*cytology/physiology",
+          "Neurons/physiology",
+          "Rats",
+          "Rats, Wistar"
+     ],
+     "EDAT": "2010/10/28 06:00",
+     "MHDA": "2011/02/02 06:00",
+     "CRDT": [
+          "2010/10/28 06:00"
+     ],
+     "PHST": [
+          "2010/10/28 06:00 [entrez]",
+          "2010/10/28 06:00 [pubmed]",
+          "2011/02/02 06:00 [medline]"
+     ],
+     "AID": [
+          "S1478-3975(10)61790-6 [pii]",
+          "10.1088/1478-3975/7/4/046004 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Phys Biol. 2010 Oct 26;7(4):046004. doi: 10.1088/1478-3975/7/4/046004.",
+     "term": "hippocampus"
+}

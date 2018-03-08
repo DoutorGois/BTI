@@ -1,0 +1,73 @@
+{
+     "PMID": "28484899",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20170709",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "43",
+     "IP": "1",
+     "DP": "2017 Aug",
+     "TI": "Functional connectivity models for decoding of spatial representations from hippocampal CA1 recordings.",
+     "PG": "17-33",
+     "LID": "10.1007/s10827-017-0645-9 [doi]",
+     "AB": "Hippocampus stores spatial representations, or maps, which are recalled each time a subject is placed in the corresponding environment. Across different environments of similar geometry, these representations show strong orthogonality in CA3 of hippocampus, whereas in the CA1 subfield a considerable overlap between the maps can be seen. The lower orthogonality decreases reliability of various decoders developed in an attempt to identify which of the stored maps is active at the moment. Especially, the problem with decoding emerges with a need to analyze data at high temporal resolution. Here, we introduce a functional-connectivity-based decoder, which accounts for the pairwise correlations between the spiking activities of neurons in each map and does not require any positional information, i.e. any knowledge about place fields. We first show, on recordings of hippocampal activity in constant environmental conditions, that our decoder outperforms existing decoding methods in CA1. Our decoder is then applied to data from teleportation experiments, in which an instantaneous switch between the environment identity triggers a recall of the corresponding spatial representation . We test the sensitivity of our approach on the transition dynamics between the respective memory states (maps). We find that the rate of spontaneous state shifts (flickering) after a teleportation event is increased not only within the first few seconds as already reported, but this instability is sustained across much longer (> 1 min.) periods.",
+     "FAU": [
+          "Posani, Lorenzo",
+          "Cocco, Simona",
+          "Jezek, Karel",
+          "Monasson, Remi"
+     ],
+     "AU": [
+          "Posani L",
+          "Cocco S",
+          "Jezek K",
+          "Monasson R"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0003-1135-1300"
+     ],
+     "AD": "Laboratoire de Physique Statistique, Ecole Normale Superieure and CNRS UMR 8550, PSL Research, Paris Sorbonne UPMC, 24 rue Lhomond, 75005, Paris, France. lorenzo.posani@gmail.com. Laboratoire de Physique Statistique, Ecole Normale Superieure and CNRS UMR 8550, PSL Research, Paris Sorbonne UPMC, 24 rue Lhomond, 75005, Paris, France. Laboratory of Experimental Neurophysiology, Biomedical Center, Faculty of Medicine in Pilsen, Charles University in Prague, alej Svobody 1655/76, 32300, Pilsen, Czech Republic. Laboratoire de Physique Theorique, Ecole Normale Superieure and CNRS UMR 8549, PSL Research, Paris Sorbonne UPMC, 24 rue Lhomond, 75005, Paris, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170508",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Bayesian inference",
+          "CA1",
+          "Decoding",
+          "Functional connectivity",
+          "Graphical models",
+          "Hippocampus",
+          "Spatial representation"
+     ],
+     "EDAT": "2017/05/10 06:00",
+     "MHDA": "2017/05/10 06:00",
+     "CRDT": [
+          "2017/05/10 06:00"
+     ],
+     "PHST": [
+          "2016/12/15 00:00 [received]",
+          "2017/04/18 00:00 [accepted]",
+          "2017/04/12 00:00 [revised]",
+          "2017/05/10 06:00 [pubmed]",
+          "2017/05/10 06:00 [medline]",
+          "2017/05/10 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s10827-017-0645-9 [doi]",
+          "10.1007/s10827-017-0645-9 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2017 Aug;43(1):17-33. doi: 10.1007/s10827-017-0645-9. Epub 2017 May 8.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,81 @@
+{
+     "PMID": "24505805",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140227",
+     "LR": "20170220",
+     "VI": "16",
+     "IP": "Pt 3",
+     "DP": "2013",
+     "TI": "Minimizing joint risk of mislabeling for iterative Patch-based label fusion.",
+     "PG": "551-8",
+     "AB": "Automated labeling of anatomical structures in medical images is very important in many neuroscience studies. Recently, patch-based labeling in the non-local manner has been widely investigated to alleviate the possible misalignment when registering atlases to the target image. However, the weights used for label fusion from the registered atlases in conventional methods are generally computed independently and thus lack the capability of preventing the ambiguous atlas patches from contributing to the label fusion. More critically, these weights are often calculated based only on the simple patch similarity, thus not necessarily providing optimal solution for label fusion. To address these issues, we present a novel patch-based label fusion method in multi-atlas scenario, for the goal of labeling each voxel in the target image by the best representative atlas patches that also have the lowest joint risk of mislabeling. Specifically, sparse coding is used to select a small number of atlas patches which best represent the underlying patch at each point of the target image, thus minimizing the chance of including the misleading atlas patches for labeling. Furthermore, we examine the joint risk of any pair of atlas patches in making similar labeling error, by analyzing the correlation of their morphological error patterns and also the labeling consensus among atlases. This joint risk will be further recursively updated based on the latest labeling results to correct the possible labeling errors. To demonstrate the performance of our proposed method, we have evaluated it on both whole brain parcellation and hippocampus segmentation, and achieved promising labeling results, compared with the state-of-the-art methods.",
+     "FAU": [
+          "Wu, Guorong",
+          "Wang, Qian",
+          "Liao, Shu",
+          "Zhang, Daoqiang",
+          "Nie, Feiping",
+          "Shen, Dinggang"
+     ],
+     "AU": [
+          "Wu G",
+          "Wang Q",
+          "Liao S",
+          "Zhang D",
+          "Nie F",
+          "Shen D"
+     ],
+     "AD": "Department of Radiology and BRIC, University of North Carolina at Chapel Hill, USA. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, USA. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, USA. Department of Computer Science, Nanjing University of Aeronautics and Astronautics, China. Department of Computer Science, University of Texas Arlington, USA. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB008374/EB/NIBIB NIH HHS/United States",
+          "R01 EB006733/EB/NIBIB NIH HHS/United States",
+          "R01 AG041721/AG/NIA NIH HHS/United States",
+          "R01 AG042599/AG/NIA NIH HHS/United States",
+          "R01 EB009634/EB/NIBIB NIH HHS/United States",
+          "R01 MH100217/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Alzheimer Disease/*pathology",
+          "*Artifacts",
+          "Brain/*pathology",
+          "Cognitive Dysfunction/*diagnosis",
+          "Documentation/*methods",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/methods",
+          "Information Storage and Retrieval/methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "PMC": "PMC4109064",
+     "MID": [
+          "NIHMS603063"
+     ],
+     "EDAT": "2014/02/08 06:00",
+     "MHDA": "2014/02/28 06:00",
+     "CRDT": [
+          "2014/02/08 06:00"
+     ],
+     "PHST": [
+          "2014/02/08 06:00 [entrez]",
+          "2014/02/08 06:00 [pubmed]",
+          "2014/02/28 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2013;16(Pt 3):551-8.",
+     "term": "hippocampus"
+}

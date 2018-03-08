@@ -1,0 +1,50 @@
+{
+     "PMID": "29220306",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20180216",
+     "IS": "1530-888X (Electronic) 0899-7667 (Linking)",
+     "VI": "30",
+     "IP": "3",
+     "DP": "2018 Mar",
+     "TI": "Improving Spiking Dynamical Networks: Accurate Delays, Higher-Order Synapses, and Time Cells.",
+     "PG": "569-609",
+     "LID": "10.1162/neco_a_01046 [doi]",
+     "AB": "Researchers building spiking neural networks face the challenge of improving the biological plausibility of their model networks while maintaining the ability to quantitatively characterize network behavior. In this work, we extend the theory behind the neural engineering framework (NEF), a method of building spiking dynamical networks, to permit the use of a broad class of synapse models while maintaining prescribed dynamics up to a given order. This theory improves our understanding of how low-level synaptic properties alter the accuracy of high-level computations in spiking dynamical networks. For completeness, we provide characterizations for both continuous-time (i.e., analog) and discrete-time (i.e., digital) simulations. We demonstrate the utility of these extensions by mapping an optimal delay line onto various spiking dynamical networks using higher-order models of the synapse. We show that these networks nonlinearly encode rolling windows of input history, using a scale invariant representation, with accuracy depending on the frequency content of the input signal. Finally, we reveal that these methods provide a novel explanation of time cell responses during a delay task, which have been observed throughout hippocampus, striatum, and cortex.",
+     "FAU": [
+          "Voelker, Aaron R",
+          "Eliasmith, Chris"
+     ],
+     "AU": [
+          "Voelker AR",
+          "Eliasmith C"
+     ],
+     "AD": "Centre for Theoretical Neuroscience and David R. Cheriton School of Computer Science, University of Waterloo, Waterloo, ON N2L 3G1, Canada arvoelke@uwaterloo.ca. Centre for Theoretical Neuroscience, University of Waterloo, Waterloo, ON N2L 3G1, Canada celiasmith@uwaterloo.ca.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171208",
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "EDAT": "2017/12/09 06:00",
+     "MHDA": "2017/12/09 06:00",
+     "CRDT": [
+          "2017/12/09 06:00"
+     ],
+     "PHST": [
+          "2017/12/09 06:00 [pubmed]",
+          "2017/12/09 06:00 [medline]",
+          "2017/12/09 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/neco_a_01046 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2018 Mar;30(3):569-609. doi: 10.1162/neco_a_01046. Epub 2017 Dec 8.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,86 @@
+{
+     "PMID": "19682030",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100120",
+     "LR": "20161122",
+     "IS": "1528-1167 (Electronic) 0013-9580 (Linking)",
+     "VI": "50",
+     "IP": "12",
+     "DP": "2009 Dec",
+     "TI": "Hippocampal volume assessment in temporal lobe epilepsy: How good is automated segmentation?",
+     "PG": "2586-92",
+     "LID": "10.1111/j.1528-1167.2009.02243.x [doi]",
+     "AB": "PURPOSE: Quantitative measurement of hippocampal volume using structural magnetic resonance imaging (MRI) is a valuable tool for detection and lateralization of mesial temporal lobe epilepsy with hippocampal sclerosis (mTLE). We compare two automated hippocampal volume methodologies and manual hippocampal volumetry to determine which technique is most sensitive for the detection of hippocampal atrophy in mTLE. METHODS: We acquired a three-dimensional (3D) volumetric sequence in 10 patients with left-lateralized mTLE and 10 age-matched controls. Hippocampal volumes were measured manually, and using the software packages Freesurfer and FSL-FIRST. The sensitivities of the techniques were compared by determining the effect size for average volume reduction in patients with mTLE compared to controls. The volumes and spatial overlap of the automated and manual segmentations were also compared. RESULTS: Significant volume reduction in affected hippocampi in mTLE compared to controls was detected by manual hippocampal volume measurement (p < 0.01, effect size 33.2%), Freesurfer (p < 0.01, effect size 20.8%), and FSL-FIRST (p < 0.01, effect size 13.6%) after correction for brain volume. Freesurfer correlated reasonably (r = 0.74, p << 0.01) with this manual segmentation and FSL-FIRST relatively poorly (r = 0.47, p << 0.01). The spatial overlap between manual and automated segmentation was reduced in affected hippocampi, suggesting the accuracy of automated segmentation is reduced in pathologic brains. DISCUSSION: Expert manual hippocampal volumetry is more sensitive than both automated methods for the detection of hippocampal atrophy associated with mTLE. In our study Freesurfer was the most sensitive to hippocampal atrophy in mTLE and could be used if expert manual segmentation is not available.",
+     "FAU": [
+          "Pardoe, Heath R",
+          "Pell, Gaby S",
+          "Abbott, David F",
+          "Jackson, Graeme D"
+     ],
+     "AU": [
+          "Pardoe HR",
+          "Pell GS",
+          "Abbott DF",
+          "Jackson GD"
+     ],
+     "AD": "Brain Research Institute, Florey Neuroscience Institutes (Austin), Melbourne, Victoria, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R37 NS031146/NS/NINDS NIH HHS/United States",
+          "R37 NS031146-16/NS/NINDS NIH HHS/United States",
+          "R37NS31146/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090813",
+     "PL": "United States",
+     "TA": "Epilepsia",
+     "JT": "Epilepsia",
+     "JID": "2983306R",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Atrophy/classification/pathology",
+          "Brain/pathology",
+          "Brain Mapping/methods",
+          "Epilepsy, Temporal Lobe/diagnosis/*pathology",
+          "Female",
+          "Functional Laterality/physiology",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement",
+          "Image Interpretation, Computer-Assisted",
+          "Imaging, Three-Dimensional",
+          "Magnetic Resonance Imaging/methods/*statistics & numerical data",
+          "Male",
+          "Sclerosis/pathology"
+     ],
+     "PMC": "PMC3053147",
+     "MID": [
+          "NIHMS272631"
+     ],
+     "EDAT": "2009/08/18 09:00",
+     "MHDA": "2010/01/21 06:00",
+     "CRDT": [
+          "2009/08/18 09:00"
+     ],
+     "PHST": [
+          "2009/08/18 09:00 [entrez]",
+          "2009/08/18 09:00 [pubmed]",
+          "2010/01/21 06:00 [medline]"
+     ],
+     "AID": [
+          "EPI2243 [pii]",
+          "10.1111/j.1528-1167.2009.02243.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Epilepsia. 2009 Dec;50(12):2586-92. doi: 10.1111/j.1528-1167.2009.02243.x. Epub 2009 Aug 13.",
+     "term": "hippocampus"
+}

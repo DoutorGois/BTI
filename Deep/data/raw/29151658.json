@@ -1,0 +1,68 @@
+{
+     "PMID": "29151658",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20171219",
+     "IS": "0162-1459 (Print) 0162-1459 (Linking)",
+     "VI": "112",
+     "IP": "519",
+     "DP": "2017",
+     "TI": "Generalized Scalar-on-Image Regression Models via Total Variation.",
+     "PG": "1156-1168",
+     "LID": "10.1080/01621459.2016.1194846 [doi]",
+     "AB": "The use of imaging markers to predict clinical outcomes can have a great impact in public health. The aim of this paper is to develop a class of generalized scalar-on-image regression models via total variation (GSIRM-TV), in the sense of generalized linear models, for scalar response and imaging predictor with the presence of scalar covariates. A key novelty of GSIRM-TV is that it is assumed that the slope function (or image) of GSIRM-TV belongs to the space of bounded total variation in order to explicitly account for the piecewise smooth nature of most imaging data. We develop an efficient penalized total variation optimization to estimate the unknown slope function and other parameters. We also establish nonasymptotic error bounds on the excess risk. These bounds are explicitly specified in terms of sample size, image size, and image smoothness. Our simulations demonstrate a superior performance of GSIRM-TV against many existing approaches. We apply GSIRM-TV to the analysis of hippocampus data obtained from the Alzheimers Disease Neuroimaging Initiative (ADNI) dataset.",
+     "FAU": [
+          "Wang, Xiao",
+          "Zhu, Hongtu"
+     ],
+     "AU": [
+          "Wang X",
+          "Zhu H"
+     ],
+     "AD": "Associate Professor of Statistics, Department of Statistics, Purdue University, West Lafayette, IN 47907. Professor of Biostatistics, Department of Biostatistics, The University of Texas MD Anderson Cancer Center, Houston, TX 77230, and University of North Carolina, Chapel Hill, NC 27599.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH086633/MH/NIMH NIH HHS/United States",
+          "UL1 TR001111/TR/NCATS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170413",
+     "PL": "United States",
+     "TA": "J Am Stat Assoc",
+     "JT": "Journal of the American Statistical Association",
+     "JID": "01510020R",
+     "PMC": "PMC5693263",
+     "MID": [
+          "NIHMS848317"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Excess risk",
+          "Functional regression",
+          "Generalized scalar-on-image regression",
+          "Prediction",
+          "Total variation"
+     ],
+     "EDAT": "2017/11/21 06:00",
+     "MHDA": "2017/11/21 06:00",
+     "CRDT": [
+          "2017/11/21 06:00"
+     ],
+     "PHST": [
+          "2017/11/21 06:00 [entrez]",
+          "2017/11/21 06:00 [pubmed]",
+          "2017/11/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1080/01621459.2016.1194846 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Am Stat Assoc. 2017;112(519):1156-1168. doi: 10.1080/01621459.2016.1194846. Epub 2017 Apr 13.",
+     "term": "hippocampus"
+}

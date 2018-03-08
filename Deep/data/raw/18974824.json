@@ -1,0 +1,82 @@
+{
+     "PMID": "18974824",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090206",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "4",
+     "IP": "10",
+     "DP": "2008 Oct",
+     "TI": "The effects of NR2 subunit-dependent NMDA receptor kinetics on synaptic transmission and CaMKII activation.",
+     "PG": "e1000208",
+     "LID": "10.1371/journal.pcbi.1000208 [doi]",
+     "AB": "N-Methyl-D-aspartic acid (NMDA) receptors are widely expressed in the brain and are critical for many forms of synaptic plasticity. Subtypes of the NMDA receptor NR2 subunit are differentially expressed during development; in the forebrain, the NR2B receptor is dominant early in development, and later both NR2A and NR2B are expressed. In heterologous expression systems, NR2A-containing receptors open more reliably and show much faster opening and closing kinetics than do NR2B-containing receptors. However, conflicting data, showing similar open probabilities, exist for receptors expressed in neurons. Similarly, studies of synaptic plasticity have produced divergent results, with some showing that only NR2A-containing receptors can drive long-term potentiation and others showing that either subtype is capable of driving potentiation. In order to address these conflicting results as well as open questions about the number and location of functional receptors in the synapse, we constructed a Monte Carlo model of glutamate release, diffusion, and binding to NMDA receptors and of receptor opening and closing as well as a model of the activation of calcium-calmodulin kinase II, an enzyme critical for induction of synaptic plasticity, by NMDA receptor-mediated calcium influx. Our results suggest that the conflicting data concerning receptor open probabilities can be resolved, with NR2A- and NR2B-containing receptors having very different opening probabilities. They also support the conclusion that receptors containing either subtype can drive long-term potentiation. We also are able to estimate the number of functional receptors at a synapse from experimental data. Finally, in our models, the opening of NR2B-containing receptors is highly dependent on the location of the receptor relative to the site of glutamate release whereas the opening of NR2A-containing receptors is not. These results help to clarify the previous findings and suggest future experiments to address open questions concerning NMDA receptor function.",
+     "FAU": [
+          "Santucci, David M",
+          "Raghavachari, Sridhar"
+     ],
+     "AU": [
+          "Santucci DM",
+          "Raghavachari S"
+     ],
+     "AD": "Department of Neurobiology, Duke University Medical Center, Durham, NC, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20081031",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "RN": [
+          "0 (Protein Isoforms)",
+          "0 (Protein Subunits)",
+          "0 (Receptors, N-Methyl-D-Aspartate)",
+          "3KX376GY7L (Glutamic Acid)",
+          "EC 2.7.11.17 (Calcium-Calmodulin-Dependent Protein Kinase Type 2)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Calcium Signaling/physiology",
+          "Calcium-Calmodulin-Dependent Protein Kinase Type 2/*metabolism",
+          "Glutamic Acid/metabolism",
+          "Hippocampus/physiology",
+          "Ion Channel Gating/*physiology",
+          "Kinetics",
+          "Long-Term Potentiation/physiology",
+          "Membrane Potentials/physiology",
+          "*Models, Biological",
+          "Protein Isoforms/metabolism",
+          "Protein Subunits/genetics/metabolism",
+          "Rats",
+          "Receptors, N-Methyl-D-Aspartate/*genetics/*metabolism/ultrastructure",
+          "Structure-Activity Relationship",
+          "Synapses/metabolism",
+          "Synaptic Transmission/*physiology"
+     ],
+     "PMC": "PMC2563690",
+     "EDAT": "2008/11/01 09:00",
+     "MHDA": "2009/02/07 09:00",
+     "CRDT": [
+          "2008/11/01 09:00"
+     ],
+     "PHST": [
+          "2008/01/22 00:00 [received]",
+          "2008/09/17 00:00 [accepted]",
+          "2008/11/01 09:00 [pubmed]",
+          "2009/02/07 09:00 [medline]",
+          "2008/11/01 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1000208 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2008 Oct;4(10):e1000208. doi: 10.1371/journal.pcbi.1000208. Epub 2008 Oct 31.",
+     "term": "hippocampus"
+}

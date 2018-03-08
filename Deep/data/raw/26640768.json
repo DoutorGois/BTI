@@ -1,0 +1,111 @@
+{
+     "PMID": "26640768",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160721",
+     "LR": "20170220",
+     "IS": "2213-1582 (Electronic) 2213-1582 (Linking)",
+     "VI": "9",
+     "DP": "2015",
+     "TI": "Mapping abnormal subcortical brain morphometry in an elderly HIV+ cohort.",
+     "PG": "564-73",
+     "LID": "10.1016/j.nicl.2015.10.006 [doi]",
+     "AB": "Over 50% of HIV + individuals exhibit neurocognitive impairment and subcortical atrophy, but the profile of brain abnormalities associated with HIV is still poorly understood. Using surface-based shape analyses, we mapped the 3D profile of subcortical morphometry in 63 elderly HIV + participants and 31 uninfected controls. The thalamus, caudate, putamen, pallidum, hippocampus, amygdala, brainstem, accumbens, callosum and ventricles were segmented from high-resolution MRIs. To investigate shape-based morphometry, we analyzed the Jacobian determinant (JD) and radial distances (RD) defined on each region's surfaces. We also investigated effects of nadir CD4 + T-cell counts, viral load, time since diagnosis (TSD) and cognition on subcortical morphology. Lastly, we explored whether HIV + participants were distinguishable from unaffected controls in a machine learning context. All shape and volume features were included in a random forest (RF) model. The model was validated with 2-fold cross-validation. Volumes of HIV + participants' bilateral thalamus, left pallidum, left putamen and callosum were significantly reduced while ventricular spaces were enlarged. Significant shape variation was associated with HIV status, TSD and the Wechsler adult intelligence scale. HIV + people had diffuse atrophy, particularly in the caudate, putamen, hippocampus and thalamus. Unexpectedly, extended TSD was associated with increased thickness of the anterior right pallidum. In the classification of HIV + participants vs. controls, our RF model attained an area under the curve of 72%.",
+     "FAU": [
+          "Wade, Benjamin S C",
+          "Valcour, Victor G",
+          "Wendelken-Riegelhaupt, Lauren",
+          "Esmaeili-Firidouni, Pardis",
+          "Joshi, Shantanu H",
+          "Gutman, Boris A",
+          "Thompson, Paul M"
+     ],
+     "AU": [
+          "Wade BS",
+          "Valcour VG",
+          "Wendelken-Riegelhaupt L",
+          "Esmaeili-Firidouni P",
+          "Joshi SH",
+          "Gutman BA",
+          "Thompson PM"
+     ],
+     "AD": "Imaging Genetics Center, University of Southern California, Marina del Rey, CA, USA. Memory and Aging Center, Dept. of Neurology, University of California, San Francisco, CA, USA. Memory and Aging Center, Dept. of Neurology, University of California, San Francisco, CA, USA. Memory and Aging Center, Dept. of Neurology, University of California, San Francisco, CA, USA. Ahmanson-Lovelace Brain Mapping Center, Department of Neurology, UCLA, Los Angeles, CA, USA. Imaging Genetics Center, University of Southern California, Marina del Rey, CA, USA. Imaging Genetics Center, University of Southern California, Marina del Rey, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K24MH098759/MH/NIMH NIH HHS/United States",
+          "K23 AG032872/AG/NIA NIH HHS/United States",
+          "UL1 RR024131/RR/NCRR NIH HHS/United States",
+          "U54 EB020403/EB/NIBIB NIH HHS/United States",
+          "K23AG032872/AG/NIA NIH HHS/United States",
+          "P30 AI027763/AI/NIAID NIH HHS/United States",
+          "K24 MH098759/MH/NIMH NIH HHS/United States",
+          "P30-AI027763/AI/NIAID NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20151008",
+     "PL": "Netherlands",
+     "TA": "Neuroimage Clin",
+     "JT": "NeuroImage. Clinical",
+     "JID": "101597070",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Brain/*pathology/virology",
+          "*Brain Mapping",
+          "CD4-Positive T-Lymphocytes/pathology",
+          "Case-Control Studies",
+          "Cognition Disorders/etiology",
+          "Cohort Studies",
+          "Female",
+          "HIV Infections/complications/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Linear Models",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "ROC Curve"
+     ],
+     "PMC": "PMC4625216",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "CD4, cluster of differentiation",
+          "Classification",
+          "HIV",
+          "JD, Jacobian determinant",
+          "MRI",
+          "RD, radial distance",
+          "Random forest",
+          "Shape analysis",
+          "Subcortical"
+     ],
+     "EDAT": "2015/12/08 06:00",
+     "MHDA": "2016/07/22 06:00",
+     "CRDT": [
+          "2015/12/08 06:00"
+     ],
+     "PHST": [
+          "2015/07/26 00:00 [received]",
+          "2015/09/21 00:00 [revised]",
+          "2015/10/05 00:00 [accepted]",
+          "2015/12/08 06:00 [entrez]",
+          "2015/12/08 06:00 [pubmed]",
+          "2016/07/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1016/j.nicl.2015.10.006 [doi]",
+          "S2213-1582(15)30006-1 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Neuroimage Clin. 2015 Oct 8;9:564-73. doi: 10.1016/j.nicl.2015.10.006. eCollection 2015.",
+     "term": "hippocampus"
+}

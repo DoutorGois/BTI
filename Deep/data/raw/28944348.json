@@ -1,0 +1,75 @@
+{
+     "PMID": "28944348",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20171003",
+     "VI": "9805",
+     "DP": "2016",
+     "TI": "A New Statistical Image Analysis Approach and Its Application to Hippocampal Morphometry.",
+     "PG": "302-310",
+     "LID": "10.1007/978-3-319-43775-0_27 [doi]",
+     "AB": "In this work, we propose a novel and powerful image analysis framework for hippocampal morphometry in early mild cognitive impairment (EMCI), an early prodromal stage of Alzheimer's disease (AD). We create a hippocampal surface atlas with subfield information, model each hippocampus using the SPHARM technique, and register it to the atlas to extract surface deformation signals. We propose a new alternative to standard random field theory (RFT) and permutation image analysis methods, Statistical Parametric Mapping (SPM) Distribution Analysis or SPM-DA, to perform statistical shape analysis and compare its performance with that of RFT methods on both simulated and real hippocampal surface data. The major strengths of our framework are twofold: (a) SPM-DA provides potentially more powerful algorithms than standard RFT methods for detecting weak signals, and (b) the framework embraces the important hippocampal subfield information for improved biological interpretation. We demonstrate the effectiveness of our method via an application to an AD cohort, where an SPM-DA method detects meaningful hippocampal shape differences in EMCI that are undetected by standard RFT methods.",
+     "FAU": [
+          "Inlow, Mark",
+          "Cong, Shan",
+          "Risacher, Shannon L",
+          "West, John",
+          "Rizkalla, Maher",
+          "Salama, Paul",
+          "Saykin, Andrew J",
+          "Shen, Li"
+     ],
+     "AU": [
+          "Inlow M",
+          "Cong S",
+          "Risacher SL",
+          "West J",
+          "Rizkalla M",
+          "Salama P",
+          "Saykin AJ",
+          "Shen L"
+     ],
+     "AD": "Radiology and Imaging Sciences, Indiana University School of Medicine, IN, USA. Electrical and Computer Engineering, Purdue University Indianapolis, IN, USA. Radiology and Imaging Sciences, Indiana University School of Medicine, IN, USA. Radiology and Imaging Sciences, Indiana University School of Medicine, IN, USA. Electrical and Computer Engineering, Purdue University Indianapolis, IN, USA. Electrical and Computer Engineering, Purdue University Indianapolis, IN, USA. Radiology and Imaging Sciences, Indiana University School of Medicine, IN, USA. Radiology and Imaging Sciences, Indiana University School of Medicine, IN, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG046171/AG/NIA NIH HHS/United States",
+          "R01 AG019771/AG/NIA NIH HHS/United States",
+          "P30 AG010133/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "RC2 AG036535/AG/NIA NIH HHS/United States",
+          "UL1 TR001108/TR/NCATS NIH HHS/United States",
+          "U19 AG024904/AG/NIA NIH HHS/United States",
+          "R01 LM011360/LM/NLM NIH HHS/United States",
+          "R01 AG042437/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160814",
+     "PL": "Switzerland",
+     "TA": "Med Imaging Augment Real (2016)",
+     "JT": "Medical imaging and augmented reality : 7th International Conference, MIAR 2016, Bern, Switzerland, August 24-26, 2016 : proceedings. MIAR (Workshop) (7th : 2016 : Bern, Switzerland)",
+     "JID": "101692533",
+     "PMC": "PMC5605920",
+     "MID": [
+          "NIHMS803791"
+     ],
+     "EDAT": "2016/01/01 00:00",
+     "MHDA": "2016/01/01 00:01",
+     "CRDT": [
+          "2017/09/26 06:00"
+     ],
+     "PHST": [
+          "2017/09/26 06:00 [entrez]",
+          "2016/01/01 00:00 [pubmed]",
+          "2016/01/01 00:01 [medline]"
+     ],
+     "AID": [
+          "10.1007/978-3-319-43775-0_27 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Imaging Augment Real (2016). 2016;9805:302-310. doi: 10.1007/978-3-319-43775-0_27. Epub 2016 Aug 14.",
+     "term": "hippocampus"
+}

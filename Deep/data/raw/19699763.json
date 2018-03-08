@@ -1,0 +1,90 @@
+{
+     "PMID": "19699763",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100126",
+     "LR": "20170220",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "184",
+     "IP": "2",
+     "DP": "2009 Nov 15",
+     "TI": "Measuring instantaneous frequency of local field potential oscillations using the Kalman smoother.",
+     "PG": "365-74",
+     "LID": "10.1016/j.jneumeth.2009.08.012 [doi]",
+     "AB": "Rhythmic local field potentials (LFPs) arise from coordinated neural activity. Inference of neural function based on the properties of brain rhythms remains a challenging data analysis problem. Algorithms that characterize non-stationary rhythms with high temporal and spectral resolution may be useful for interpreting LFP activity on the timescales in which they are generated. We propose a Kalman smoother based dynamic autoregressive model for tracking the instantaneous frequency (iFreq) and frequency modulation (FM) of noisy and non-stationary sinusoids such as those found in LFP data. We verify the performance of our algorithm using simulated data with broad spectral content, and demonstrate its application using real data recorded from behavioral learning experiments. In analyses of ripple oscillations (100-250Hz) recorded from the rodent hippocampus, our algorithm identified novel repetitive, short timescale frequency dynamics. Our results suggest that iFreq and FM may be useful measures for the quantification of small timescale LFP dynamics.",
+     "FAU": [
+          "Nguyen, David P",
+          "Wilson, Matthew A",
+          "Brown, Emery N",
+          "Barbieri, Riccardo"
+     ],
+     "AU": [
+          "Nguyen DP",
+          "Wilson MA",
+          "Brown EN",
+          "Barbieri R"
+     ],
+     "AD": "Picower Institute for Learning and Memory, Massachusetts Institute of Technology, Cambridge, MA 02139, United States. dpnguyen@neurostat.mit.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH59733/MH/NIMH NIH HHS/United States",
+          "R01 HL084502-03/HL/NHLBI NIH HHS/United States",
+          "R01 HL084502/HL/NHLBI NIH HHS/United States",
+          "R01 MH059733/MH/NIMH NIH HHS/United States",
+          "R01 MH059733-09/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090821",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Algorithms",
+          "Animals",
+          "Artifacts",
+          "Biological Clocks/*physiology",
+          "Brain/*physiology",
+          "Computer Simulation",
+          "Electrophysiology/*methods",
+          "Hippocampus/physiology",
+          "Humans",
+          "Nerve Net/physiology",
+          "Neurons/*physiology",
+          "Neurophysiology/methods",
+          "Rodentia/physiology",
+          "*Signal Processing, Computer-Assisted"
+     ],
+     "PMC": "PMC2767386",
+     "MID": [
+          "NIHMS140654"
+     ],
+     "EDAT": "2009/08/25 09:00",
+     "MHDA": "2010/01/27 06:00",
+     "CRDT": [
+          "2009/08/25 09:00"
+     ],
+     "PHST": [
+          "2009/05/28 00:00 [received]",
+          "2009/07/26 00:00 [revised]",
+          "2009/08/13 00:00 [accepted]",
+          "2009/08/25 09:00 [entrez]",
+          "2009/08/25 09:00 [pubmed]",
+          "2010/01/27 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(09)00442-7 [pii]",
+          "10.1016/j.jneumeth.2009.08.012 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2009 Nov 15;184(2):365-74. doi: 10.1016/j.jneumeth.2009.08.012. Epub 2009 Aug 21.",
+     "term": "hippocampus"
+}

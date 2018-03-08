@@ -1,0 +1,92 @@
+{
+     "PMID": "24846190",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150902",
+     "LR": "20170220",
+     "IS": "1095-9564 (Electronic) 1074-7427 (Linking)",
+     "VI": "117",
+     "DP": "2015 Jan",
+     "TI": "Multiple memory systems as substrates for multiple decision systems.",
+     "PG": "4-13",
+     "LID": "10.1016/j.nlm.2014.04.014 [doi] S1074-7427(14)00082-3 [pii]",
+     "AB": "It has recently become widely appreciated that value-based decision making is supported by multiple computational strategies. In particular, animal and human behavior in learning tasks appears to include habitual responses described by prominent model-free reinforcement learning (RL) theories, but also more deliberative or goal-directed actions that can be characterized by a different class of theories, model-based RL. The latter theories evaluate actions by using a representation of the contingencies of the task (as with a learned map of a spatial maze), called an \"internal model.\" Given the evidence of behavioral and neural dissociations between these approaches, they are often characterized as dissociable learning systems, though they likely interact and share common mechanisms. In many respects, this division parallels a longstanding dissociation in cognitive neuroscience between multiple memory systems, describing, at the broadest level, separate systems for declarative and procedural learning. Procedural learning has notable parallels with model-free RL: both involve learning of habits and both are known to depend on parts of the striatum. Declarative memory, by contrast, supports memory for single events or episodes and depends on the hippocampus. The hippocampus is thought to support declarative memory by encoding temporal and spatial relations among stimuli and thus is often referred to as a relational memory system. Such relational encoding is likely to play an important role in learning an internal model, the representation that is central to model-based RL. Thus, insofar as the memory systems represent more general-purpose cognitive mechanisms that might subserve performance on many sorts of tasks including decision making, these parallels raise the question whether the multiple decision systems are served by multiple memory systems, such that one dissociation is grounded in the other. Here we investigated the relationship between model-based RL and relational memory by comparing individual differences across behavioral tasks designed to measure either capacity. Human subjects performed two tasks, a learning and generalization task (acquired equivalence) which involves relational encoding and depends on the hippocampus; and a sequential RL task that could be solved by either a model-based or model-free strategy. We assessed the correlation between subjects' use of flexible, relational memory, as measured by generalization in the acquired equivalence task, and their differential reliance on either RL strategy in the decision task. We observed a significant positive relationship between generalization and model-based, but not model-free, choice strategies. These results are consistent with the hypothesis that model-based RL, like acquired equivalence, relies on a more general-purpose relational memory system.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Doll, Bradley B",
+          "Shohamy, Daphna",
+          "Daw, Nathaniel D"
+     ],
+     "AU": [
+          "Doll BB",
+          "Shohamy D",
+          "Daw ND"
+     ],
+     "AD": "Center for Neural Science, New York University, New York, NY, United States; Department of Psychology, Columbia University, New York, NY, United States. Electronic address: bradley.doll@nyu.edu. Department of Psychology, Columbia University, New York, NY, United States. Center for Neural Science, New York University, New York, NY, United States; Department of Psychology, New York University, New York, NY, United States.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS078784/NS/NINDS NIH HHS/United States",
+          "R01NS078784-01/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20140515",
+     "PL": "United States",
+     "TA": "Neurobiol Learn Mem",
+     "JT": "Neurobiology of learning and memory",
+     "JID": "9508166",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/*physiology",
+          "Corpus Striatum/physiology",
+          "Decision Making/*physiology",
+          "Hippocampus/physiology",
+          "Humans",
+          "Learning/*physiology",
+          "Memory/*physiology",
+          "Models, Neurological",
+          "Models, Psychological",
+          "Monte Carlo Method",
+          "*Reinforcement (Psychology)",
+          "Reward",
+          "Spatial Memory/physiology"
+     ],
+     "PMC": "PMC4233017",
+     "MID": [
+          "NIHMS598594"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Reinforcement learning",
+          "Relational memory"
+     ],
+     "EDAT": "2014/05/23 06:00",
+     "MHDA": "2015/09/04 06:00",
+     "CRDT": [
+          "2014/05/22 06:00"
+     ],
+     "PHST": [
+          "2013/11/19 00:00 [received]",
+          "2014/04/22 00:00 [revised]",
+          "2014/04/29 00:00 [accepted]",
+          "2014/05/22 06:00 [entrez]",
+          "2014/05/23 06:00 [pubmed]",
+          "2015/09/04 06:00 [medline]"
+     ],
+     "AID": [
+          "S1074-7427(14)00082-3 [pii]",
+          "10.1016/j.nlm.2014.04.014 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neurobiol Learn Mem. 2015 Jan;117:4-13. doi: 10.1016/j.nlm.2014.04.014. Epub 2014 May 15.",
+     "term": "hippocampus"
+}

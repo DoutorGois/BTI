@@ -1,0 +1,103 @@
+{
+     "PMID": "26824403",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20180224",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "129",
+     "DP": "2016 Apr 1",
+     "TI": "Hippocampus and amygdala volumes from magnetic resonance images in children: Assessing accuracy of FreeSurfer and FSL against manual segmentation.",
+     "PG": "1-14",
+     "LID": "S1053-8119(16)00053-7 [pii] 10.1016/j.neuroimage.2016.01.038 [doi]",
+     "AB": "The volumetric quantification of brain structures is of great interest in pediatric populations because it allows the investigation of different factors influencing neurodevelopment. FreeSurfer and FSL both provide frequently used packages for automatic segmentation of brain structures. In this study, we examined the accuracy and consistency of those two automated protocols relative to manual segmentation, commonly considered as the \"gold standard\" technique, for estimating hippocampus and amygdala volumes in a sample of preadolescent children aged between 6 to 11 years. The volumes obtained with FreeSurfer and FSL-FIRST were evaluated and compared with manual segmentations with respect to volume difference, spatial agreement and between- and within-method correlations. Results highlighted a tendency for both automated techniques to overestimate hippocampus and amygdala volumes, in comparison to manual segmentation. This was more pronounced when using FreeSurfer than FSL-FIRST and, for both techniques, the overestimation was more marked for the amygdala than the hippocampus. Pearson correlations support moderate associations between manual tracing and FreeSurfer for hippocampus (right r=0.69, p<0.001; left r=0.77, p<0.001) and amygdala (right r=0.61, p<0.001; left r=0.67, p<0.001) volumes. Correlation coefficients between manual segmentation and FSL-FIRST were statistically significant (right hippocampus r=0.59, p<0.001; left hippocampus r=0.51, p<0.001; right amygdala r=0.35, p<0.001; left amygdala r=0.31, p<0.001) but were significantly weaker, for all investigated structures. When computing intraclass correlation coefficients between manual tracing and automatic segmentation, all comparisons, except for left hippocampus volume estimated with FreeSurfer, failed to reach 0.70. When looking at each method separately, correlations between left and right hemispheric volumes showed strong associations between bilateral hippocampus and bilateral amygdala volumes when assessed using manual segmentation or FreeSurfer. These correlations were significantly weaker when volumes were assessed with FSL-FIRST. Finally, Bland-Altman plots suggest that the difference between manual and automatic segmentation might be influenced by the volume of the structure, because smaller volumes were associated with larger volume differences between techniques. These results demonstrate that, at least in a pediatric population, the agreement between amygdala and hippocampus volumes obtained with automated FSL-FIRST and FreeSurfer protocols and those obtained with manual segmentation is not strong. Visual inspection by an informed individual and, if necessary, manual correction of automated segmentation outputs are important to ensure validity of volumetric results and interpretation of related findings.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Schoemaker, Dorothee",
+          "Buss, Claudia",
+          "Head, Kevin",
+          "Sandman, Curt A",
+          "Davis, Elysia P",
+          "Chakravarty, M Mallar",
+          "Gauthier, Serge",
+          "Pruessner, Jens C"
+     ],
+     "AU": [
+          "Schoemaker D",
+          "Buss C",
+          "Head K",
+          "Sandman CA",
+          "Davis EP",
+          "Chakravarty MM",
+          "Gauthier S",
+          "Pruessner JC"
+     ],
+     "AD": "McGill Centre for Studies in Aging, McGill University, Montreal, QC, Canada; Douglas Hospital Research Centre, Psychiatry Department, McGill University, Montreal, QC, Canada. University of California at Irvine, CA, USA; Charite, Berlin, Germany. University of California at Irvine, CA, USA. University of California at Irvine, CA, USA. University of California at Irvine, CA, USA; University of Denver, CO, USA. Douglas Hospital Research Centre, Psychiatry Department, McGill University, Montreal, QC, Canada; Biomedical Engineering Department, McGill University, Montreal, QC, Canada. McGill Centre for Studies in Aging, McGill University, Montreal, QC, Canada. McGill Centre for Studies in Aging, McGill University, Montreal, QC, Canada; Douglas Hospital Research Centre, Psychiatry Department, McGill University, Montreal, QC, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 MH096889/MH/NIMH NIH HHS/United States",
+          "P50MH 096889/MH/NIMH NIH HHS/United States",
+          "R01 51852/PHS HHS/United States",
+          "R01 HD 50662/HD/NICHD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160126",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "EIN": [
+          "Neuroimage. 2018 Feb 21;173:1-2. PMID: 29477029"
+     ],
+     "MH": [
+          "Amygdala/*anatomy & histology",
+          "Child",
+          "Female",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/methods",
+          "Male",
+          "Neuroimaging/*methods"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Amygdala",
+          "FSL-FIRST",
+          "FreeSurfer",
+          "Hippocampus",
+          "Pediatric population",
+          "Segmentation techniques"
+     ],
+     "EDAT": "2016/01/30 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2016/01/30 06:00"
+     ],
+     "PHST": [
+          "2015/08/21 00:00 [received]",
+          "2015/11/27 00:00 [revised]",
+          "2016/01/15 00:00 [accepted]",
+          "2016/01/30 06:00 [entrez]",
+          "2016/01/30 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(16)00053-7 [pii]",
+          "10.1016/j.neuroimage.2016.01.038 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2016 Apr 1;129:1-14. doi: 10.1016/j.neuroimage.2016.01.038. Epub 2016 Jan 26.",
+     "term": "hippocampus"
+}

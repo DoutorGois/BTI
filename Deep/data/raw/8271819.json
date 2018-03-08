@@ -1,0 +1,67 @@
+{
+     "PMID": "8271819",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19940201",
+     "LR": "20090929",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "47",
+     "IP": "3",
+     "DP": "1993 May",
+     "TI": "Simulation of epileptiform activity in the hippocampus using transputers.",
+     "PG": "205-13",
+     "AB": "Transputer technology is exploited to provide fast and interactive simulations of the electrical behaviour in large networks of neurones derived from experimental data of individual neurones and their connections. A synchronous numerical integration routine and an efficient communication scheme have been developed to run on toroidally configured transputer arrays of any sizes. A population of neurones up to 6400 from the hippocampus has been simulated on 19 Inmos T800 transputers. The activity of individual cells has been modelled using a similar approach to that of Traub; but the non-linear dynamics of the Na(+)-K+ channels is emphasised to explain intrinsic bursting. This model includes a description of the cellular channel currents INa, IK(DR), IK(C), ICa and IAHP. Preliminary studies indicate that this anatomically based model can be used to study the dynamic properties of neurones in the hippocampus, including monitoring the behaviour of subpopulation of cells that contribute to epileptiform activity.",
+     "FAU": [
+          "Willis, J B",
+          "Ge, Y C",
+          "Wheal, H V"
+     ],
+     "AU": [
+          "Willis JB",
+          "Ge YC",
+          "Wheal HV"
+     ],
+     "AD": "Department of Physiology and Pharmacology, University of Southampton, UK.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Potassium Channels)",
+          "0 (Sodium Channels)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Electric Stimulation/instrumentation/methods",
+          "Epilepsy/*physiopathology",
+          "Hippocampus/physiology/*physiopathology",
+          "Nerve Net",
+          "Neurons/*physiology",
+          "Potassium Channels/physiology",
+          "Sodium Channels/physiology"
+     ],
+     "EDAT": "1993/05/01 00:00",
+     "MHDA": "1993/05/01 00:01",
+     "CRDT": [
+          "1993/05/01 00:00"
+     ],
+     "PHST": [
+          "1993/05/01 00:00 [pubmed]",
+          "1993/05/01 00:01 [medline]",
+          "1993/05/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 1993 May;47(3):205-13.",
+     "term": "hippocampus"
+}

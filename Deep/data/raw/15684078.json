@@ -1,0 +1,68 @@
+{
+     "PMID": "15684078",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050422",
+     "LR": "20170219",
+     "IS": "0027-8424 (Print) 0027-8424 (Linking)",
+     "VI": "102",
+     "IP": "6",
+     "DP": "2005 Feb 8",
+     "TI": "Characterizing functional hippocampal pathways in a brain-based device as it solves a spatial memory task.",
+     "PG": "2111-6",
+     "AB": "Analyzing neural dynamics underlying complex behavior is a major challenge in systems neurobiology. To meet this challenge through computational neuroscience, we have constructed a brain-based device (Darwin X) that interacts with a real environment, and whose behavior is guided by a simulated nervous system incorporating detailed aspects of the anatomy and physiology of the hippocampus and its surrounding regions. Darwin X integrates cues from its environment to solve a spatial memory task. Place-specific units, similar to place cells in the rodent, emerged by integrating visual and self-movement cues during exploration without prior assumptions in the model about environmental inputs. Because synthetic neural modeling using brain-based devices allows recording from all elements of the simulated nervous system during behavior, we were able to identify different functional hippocampal pathways. We did this by tracing back from reference neuronal units in the CA1 region of the simulated hippocampus to all of the synaptically connected units that were coactive during a particular exploratory behavior. Our analysis identified a number of different functional pathways within the simulated hippocampus that incorporate either the perforant path or the trisynaptic loop. Place fields, which were activated by the trisynaptic circuit, tended to be more selective and informative. However, place units that were activated by the perforant path were prevalent in the model and were crucial for generating appropriate exploratory behavior. Thus, in the model, different functional pathways influence place field activity and, hence, behavior during navigation.",
+     "FAU": [
+          "Krichmar, Jeffrey L",
+          "Nitz, Douglas A",
+          "Gally, Joseph A",
+          "Edelman, Gerald M"
+     ],
+     "AU": [
+          "Krichmar JL",
+          "Nitz DA",
+          "Gally JA",
+          "Edelman GM"
+     ],
+     "AD": "The Neurosciences Institute, 10640 John Jay Hopkins Drive, San Diego, CA 92121, USA. krichmar@nsi.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20050131",
+     "PL": "United States",
+     "TA": "Proc Natl Acad Sci U S A",
+     "JT": "Proceedings of the National Academy of Sciences of the United States of America",
+     "JID": "7505876",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Behavior/physiology",
+          "Hippocampus/*anatomy & histology/*physiology",
+          "Maze Learning/physiology",
+          "Memory/*physiology",
+          "*Models, Biological",
+          "*Neural Networks (Computer)"
+     ],
+     "PMC": "PMC548312",
+     "EDAT": "2005/02/03 09:00",
+     "MHDA": "2005/04/23 09:00",
+     "CRDT": [
+          "2005/02/03 09:00"
+     ],
+     "PHST": [
+          "2005/02/03 09:00 [pubmed]",
+          "2005/04/23 09:00 [medline]",
+          "2005/02/03 09:00 [entrez]"
+     ],
+     "AID": [
+          "0409792102 [pii]",
+          "10.1073/pnas.0409792102 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc Natl Acad Sci U S A. 2005 Feb 8;102(6):2111-6. doi: 10.1073/pnas.0409792102. Epub 2005 Jan 31.",
+     "term": "place cells"
+}

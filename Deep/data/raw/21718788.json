@@ -1,0 +1,113 @@
+{
+     "PMID": "21718788",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111221",
+     "LR": "20161209",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "58",
+     "IP": "2",
+     "DP": "2011 Sep 15",
+     "TI": "Local MRI analysis approach in the diagnosis of early and prodromal Alzheimer's disease.",
+     "PG": "469-80",
+     "LID": "10.1016/j.neuroimage.2011.05.083 [doi]",
+     "AB": "BACKGROUND: Medial temporal lobe (MTL) atrophy is one of the key biomarkers to detect early neurodegenerative changes in the course of Alzheimer's disease (AD). There is active research aimed at identifying automated methodologies able to extract accurate classification indexes from T1-weighted magnetic resonance images (MRI). Such indexes should be fit for identifying AD patients as early as possible. SUBJECTS: A reference group composed of 144AD patients and 189 age-matched controls was used to train and test the procedure. It was then applied on a study group composed of 302 MCI subjects, 136 having progressed to clinically probable AD (MCI-converters) and 166 having remained stable or recovered to normal condition after a 24month follow-up (MCI-non converters). All subjects came from the ADNI database. METHODS: We sampled the brain with 7 relatively small volumes, mainly centered on the MTL, and 2 control regions. These volumes were filtered to give intensity and textural MRI-based features. Each filtered region was analyzed with a Random Forest (RF) classifier to extract relevant features, which were subsequently processed with a Support Vector Machine (SVM) classifier. Once a prediction model was trained and tested on the reference group, it was used to compute a classification index (CI) on the MCI cohort and to assess its accuracy in predicting AD conversion in MCI patients. The performance of the classification based on the features extracted by the whole 9 volumes is compared with that derived from each single volume. All experiments were performed using a bootstrap sampling estimation, and classifier performance was cross-validated with a 20-fold paradigm. RESULTS: We identified a restricted set of image features correlated with the conversion to AD. It is shown that most information originate from a small subset of the total available features, and that it is enough to give a reliable assessment. We found multiple, highly localized image-based features which alone are responsible for the overall clinical diagnosis and prognosis. The classification index is able to discriminate Controls from AD with an Area Under Curve (AUC)=0.97 (sensitivity approximately 89% at specificity approximately 94%) and Controls from MCI-converters with an AUC=0.92 (sensitivity approximately 89% at specificity approximately 80%). MCI-converters are separated from MCI-non converters with AUC=0.74(sensitivity approximately 72% at specificity approximately 65%). FINDINGS: The present automated MRI-based technique revealed a strong relationship between highly localized baseline-MRI features and the baseline clinical assessment. In addition, the classification index was also used to predict the probability of AD conversion within a time frame of two years. The definition of a single index combining local analysis of several regions can be useful to detect AD neurodegeneration in a typical MCI population.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Chincarini, Andrea",
+          "Bosco, Paolo",
+          "Calvini, Piero",
+          "Gemme, Gianluca",
+          "Esposito, Mario",
+          "Olivieri, Chiara",
+          "Rei, Luca",
+          "Squarcia, Sandro",
+          "Rodriguez, Guido",
+          "Bellotti, Roberto",
+          "Cerello, Piergiorgio",
+          "De Mitri, Ivan",
+          "Retico, Alessandra",
+          "Nobili, Flavio"
+     ],
+     "AU": [
+          "Chincarini A",
+          "Bosco P",
+          "Calvini P",
+          "Gemme G",
+          "Esposito M",
+          "Olivieri C",
+          "Rei L",
+          "Squarcia S",
+          "Rodriguez G",
+          "Bellotti R",
+          "Cerello P",
+          "De Mitri I",
+          "Retico A",
+          "Nobili F"
+     ],
+     "AD": "Istituto Nazionale di Fisica Nucleare, Sezione di Genova, I-16146, Genova, Italy. andrea.chincarini@ge.infn.it",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110616",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Alzheimer Disease/*diagnosis/pathology",
+          "Area Under Curve",
+          "Artificial Intelligence",
+          "Cognitive Dysfunction/chemically induced/pathology",
+          "Data Interpretation, Statistical",
+          "Databases, Factual",
+          "Disease Progression",
+          "Female",
+          "Follow-Up Studies",
+          "Hippocampus/physiology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*classification/*methods",
+          "Magnetic Resonance Imaging/*classification/*methods",
+          "Male",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "2011/07/02 06:00",
+     "MHDA": "2011/12/22 06:00",
+     "CRDT": [
+          "2011/07/02 06:00"
+     ],
+     "PHST": [
+          "2011/01/20 00:00 [received]",
+          "2011/05/24 00:00 [revised]",
+          "2011/05/27 00:00 [accepted]",
+          "2011/07/02 06:00 [entrez]",
+          "2011/07/02 06:00 [pubmed]",
+          "2011/12/22 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)00629-X [pii]",
+          "10.1016/j.neuroimage.2011.05.083 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 Sep 15;58(2):469-80. doi: 10.1016/j.neuroimage.2011.05.083. Epub 2011 Jun 16.",
+     "term": "hippocampus"
+}

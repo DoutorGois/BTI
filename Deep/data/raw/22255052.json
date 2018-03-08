@@ -1,0 +1,69 @@
+{
+     "PMID": "22255052",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120620",
+     "LR": "20150618",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2011",
+     "DP": "2011",
+     "TI": "Estimation and statistical validation of event-invariant nonlinear dynamic models of hippocampal CA3-CA1 population activities.",
+     "PG": "3330-3",
+     "LID": "10.1109/IEMBS.2011.6090903 [doi]",
+     "AB": "To develop hippocampal prosthetic devices that can restore the memory-dependent cognitive functions lost in diseases or injuries, it is essential to build a computational model that sufficiently captures the transformations of multiple memories performed by hippocampal sub-regions. A universal model with a single set of coefficients for all memories is desirable, since it can transform the memories without explicitly knowing what those memories represent and thus avoids switching between multiple models for multiple memories in implementation. In this study, we test the feasibility of such universal models of hippocampal CA3-CA1 by estimating the multi-input, multi-output (MEMO) nonlinear dynamic models using input (CA3) and output (CA1) spike trains recorded during multiple behavioral events representing multiple memories from rats performing a delayed nonmatch-to-sample task. We further statistically evaluated the model performances of the MEMO models on the different events. Results show that the models accurately replicate the output spike patterns during those events, and thus can be used as event-invariant nonlinear dynamic models that continuously predict the ongoing CA1 spatio-temporal patterns as the ongoing CA3 spatio-temporal patterns unfold.",
+     "FAU": [
+          "Song, Dong",
+          "Chan, Rosa H M",
+          "Marmarelis, Vasilis Z",
+          "Hampson, Robert E",
+          "Deadwyler, Sam A",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Song D",
+          "Chan RH",
+          "Marmarelis VZ",
+          "Hampson RE",
+          "Deadwyler SA",
+          "Berger TW"
+     ],
+     "AD": "Department of Biomedical Engineering, Center for Neural Engineering, University of Southern California, Los Angeles, CA 90089, USA. dsong@usc.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/cytology/*physiology",
+          "Male",
+          "*Nonlinear Dynamics",
+          "Rats",
+          "Rats, Long-Evans"
+     ],
+     "EDAT": "2012/01/19 06:00",
+     "MHDA": "2012/06/21 06:00",
+     "CRDT": [
+          "2012/01/19 06:00"
+     ],
+     "PHST": [
+          "2012/01/19 06:00 [entrez]",
+          "2012/01/19 06:00 [pubmed]",
+          "2012/06/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2011.6090903 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2011;2011:3330-3. doi: 10.1109/IEMBS.2011.6090903.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,103 @@
+{
+     "PMID": "26923371",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180209",
+     "LR": "20180209",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "145",
+     "IP": "Pt B",
+     "DP": "2017 Jan 15",
+     "TI": "HYDRA: Revealing heterogeneity of imaging and genetic patterns through a multiple max-margin discriminative analysis framework.",
+     "PG": "346-364",
+     "LID": "S1053-8119(16)00150-6 [pii] 10.1016/j.neuroimage.2016.02.041 [doi]",
+     "AB": "Multivariate pattern analysis techniques have been increasingly used over the past decade to derive highly sensitive and specific biomarkers of diseases on an individual basis. The driving assumption behind the vast majority of the existing methodologies is that a single imaging pattern can distinguish between healthy and diseased populations, or between two subgroups of patients (e.g., progressors vs. non-progressors). This assumption effectively ignores the ample evidence for the heterogeneous nature of brain diseases. Neurodegenerative, neuropsychiatric and neurodevelopmental disorders are largely characterized by high clinical heterogeneity, which likely stems in part from underlying neuroanatomical heterogeneity of various pathologies. Detecting and characterizing heterogeneity may deepen our understanding of disease mechanisms and lead to patient-specific treatments. However, few approaches tackle disease subtype discovery in a principled machine learning framework. To address this challenge, we present a novel non-linear learning algorithm for simultaneous binary classification and subtype identification, termed HYDRA (Heterogeneity through Discriminative Analysis). Neuroanatomical subtypes are effectively captured by multiple linear hyperplanes, which form a convex polytope that separates two groups (e.g., healthy controls from pathologic samples); each face of this polytope effectively defines a disease subtype. We validated HYDRA on simulated and clinical data. In the latter case, we applied the proposed method independently to the imaging and genetic datasets of the Alzheimer's Disease Neuroimaging Initiative (ADNI 1) study. The imaging dataset consisted of T1-weighted volumetric magnetic resonance images of 123 AD patients and 177 controls. The genetic dataset consisted of single nucleotide polymorphism information of 103 AD patients and 139 controls. We identified 3 reproducible subtypes of atrophy in AD relative to controls: (1) diffuse and extensive atrophy, (2) precuneus and extensive temporal lobe atrophy, as well some prefrontal atrophy, (3) atrophy pattern very much confined to the hippocampus and the medial temporal lobe. The genetics dataset yielded two subtypes of AD characterized mainly by the presence/absence of the apolipoprotein E (APOE) epsilon4 genotype, but also involving differential presence of risk alleles of CD2AP, SPON1 and LOC39095 SNPs that were associated with differences in the respective patterns of brain atrophy, especially in the precuneus. The results demonstrate the potential of the proposed approach to map disease heterogeneity in neuroimaging and genetic studies.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Varol, Erdem",
+          "Sotiras, Aristeidis",
+          "Davatzikos, Christos"
+     ],
+     "AU": [
+          "Varol E",
+          "Sotiras A",
+          "Davatzikos C"
+     ],
+     "AD": "Section for Biomedical Image Analysis, Center for Biomedical Image Computing and Analytics, University of Pennsylvania, Philadelphia, PA 19104, USA. Electronic address: erdem.varol@uphs.upenn.edu. Section for Biomedical Image Analysis, Center for Biomedical Image Computing and Analytics, University of Pennsylvania, Philadelphia, PA 19104, USA. Section for Biomedical Image Analysis, Center for Biomedical Image Computing and Analytics, University of Pennsylvania, Philadelphia, PA 19104, USA. Section for Biomedical Image Analysis, Center for Biomedical Image Computing and Analytics, University of Pennsylvania, Philadelphia, PA 19104, USA.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG014971/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160223",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*diagnostic imaging/*genetics/pathology",
+          "Atrophy/pathology",
+          "Brain/*diagnostic imaging/pathology",
+          "Cluster Analysis",
+          "Female",
+          "Humans",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Pattern Recognition, Automated/*methods",
+          "*Support Vector Machine"
+     ],
+     "PMC": "PMC5408358",
+     "MID": [
+          "NIHMS762663"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "ADNI",
+          "Aging",
+          "Alzheimer's disease",
+          "Clustering",
+          "Convex polytope",
+          "Genetics",
+          "Heterogeneity",
+          "MRI",
+          "Max-margin classification",
+          "Multivariate",
+          "Neuroimaging",
+          "SVM",
+          "Semi-supervised pattern analysis"
+     ],
+     "EDAT": "2016/03/01 06:00",
+     "MHDA": "2018/02/10 06:00",
+     "CRDT": [
+          "2016/03/01 06:00"
+     ],
+     "PHST": [
+          "2015/07/31 00:00 [received]",
+          "2016/02/11 00:00 [revised]",
+          "2016/02/12 00:00 [accepted]",
+          "2016/03/01 06:00 [pubmed]",
+          "2018/02/10 06:00 [medline]",
+          "2016/03/01 06:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(16)00150-6 [pii]",
+          "10.1016/j.neuroimage.2016.02.041 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2017 Jan 15;145(Pt B):346-364. doi: 10.1016/j.neuroimage.2016.02.041. Epub 2016 Feb 23.",
+     "term": "hippocampus"
+}

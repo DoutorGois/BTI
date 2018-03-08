@@ -1,0 +1,66 @@
+{
+     "PMID": "25611971",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150916",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "10",
+     "IP": "1",
+     "DP": "2015",
+     "TI": "Delimiting areas of endemism through kernel interpolation.",
+     "PG": "e0116673",
+     "LID": "10.1371/journal.pone.0116673 [doi]",
+     "AB": "We propose a new approach for identification of areas of endemism, the Geographical Interpolation of Endemism (GIE), based on kernel spatial interpolation. This method differs from others in being independent of grid cells. This new approach is based on estimating the overlap between the distribution of species through a kernel interpolation of centroids of species distribution and areas of influence defined from the distance between the centroid and the farthest point of occurrence of each species. We used this method to delimit areas of endemism of spiders from Brazil. To assess the effectiveness of GIE, we analyzed the same data using Parsimony Analysis of Endemism and NDM and compared the areas identified through each method. The analyses using GIE identified 101 areas of endemism of spiders in Brazil GIE demonstrated to be effective in identifying areas of endemism in multiple scales, with fuzzy edges and supported by more synendemic species than in the other methods. The areas of endemism identified with GIE were generally congruent with those identified for other taxonomic groups, suggesting that common processes can be responsible for the origin and maintenance of these biogeographic units.",
+     "FAU": [
+          "Oliveira, Ubirajara",
+          "Brescovit, Antonio D",
+          "Santos, Adalberto J"
+     ],
+     "AU": [
+          "Oliveira U",
+          "Brescovit AD",
+          "Santos AJ"
+     ],
+     "AD": "Departamento de Zoologia, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brasil. Laboratorio Especial de Colecoes Zoologicas, Instituto Butantan, Sao Paulo, Sao Paulo, Brasil. Departamento de Zoologia, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brasil.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150122",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brazil",
+          "*Ecosystem",
+          "*Models, Biological",
+          "Spiders/*physiology"
+     ],
+     "PMC": "PMC4303434",
+     "EDAT": "2015/01/23 06:00",
+     "MHDA": "2015/09/17 06:00",
+     "CRDT": [
+          "2015/01/23 06:00"
+     ],
+     "PHST": [
+          "2014/08/21 00:00 [received]",
+          "2014/12/12 00:00 [accepted]",
+          "2015/01/23 06:00 [entrez]",
+          "2015/01/23 06:00 [pubmed]",
+          "2015/09/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0116673 [doi]",
+          "PONE-D-14-37739 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2015 Jan 22;10(1):e0116673. doi: 10.1371/journal.pone.0116673. eCollection 2015.",
+     "term": "grid cells"
+}

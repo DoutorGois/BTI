@@ -1,0 +1,100 @@
+{
+     "PMID": "23261652",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130725",
+     "LR": "20170220",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "213",
+     "IP": "1",
+     "DP": "2013 Feb 15",
+     "TI": "Automated condition-invariable neurite segmentation and synapse classification using textural analysis-based machine-learning algorithms.",
+     "PG": "84-98",
+     "LID": "10.1016/j.jneumeth.2012.12.011 [doi] S0165-0270(12)00478-5 [pii]",
+     "AB": "High-resolution live-cell imaging studies of neuronal structure and function are characterized by large variability in image acquisition conditions due to background and sample variations as well as low signal-to-noise ratio. The lack of automated image analysis tools that can be generalized for varying image acquisition conditions represents one of the main challenges in the field of biomedical image analysis. Specifically, segmentation of the axonal/dendritic arborizations in brightfield or fluorescence imaging studies is extremely labor-intensive and still performed mostly manually. Here we describe a fully automated machine-learning approach based on textural analysis algorithms for segmenting neuronal arborizations in high-resolution brightfield images of live cultured neurons. We compare performance of our algorithm to manual segmentation and show that it combines 90% accuracy, with similarly high levels of specificity and sensitivity. Moreover, the algorithm maintains high performance levels under a wide range of image acquisition conditions indicating that it is largely condition-invariable. We further describe an application of this algorithm to fully automated synapse localization and classification in fluorescence imaging studies based on synaptic activity. Textural analysis-based machine-learning approach thus offers a high performance condition-invariable tool for automated neurite segmentation.",
+     "CI": [
+          "Copyright (c) 2012 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Kandaswamy, Umasankar",
+          "Rotman, Ziv",
+          "Watt, Dana",
+          "Schillebeeckx, Ian",
+          "Cavalli, Valeria",
+          "Klyachko, Vitaly A"
+     ],
+     "AU": [
+          "Kandaswamy U",
+          "Rotman Z",
+          "Watt D",
+          "Schillebeeckx I",
+          "Cavalli V",
+          "Klyachko VA"
+     ],
+     "AD": "Department of Biomedical Engineering, Washington University, St. Louis, MO 63110, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS060709/NS/NINDS NIH HHS/United States",
+          "T32 GM008151/GM/NIGMS NIH HHS/United States",
+          "R01NS060709/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20121220",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "*Artificial Intelligence",
+          "Automation",
+          "Axons/physiology",
+          "Cells, Cultured",
+          "Cluster Analysis",
+          "Dendrites/physiology",
+          "Entropy",
+          "Fluorescent Antibody Technique",
+          "Fuzzy Logic",
+          "Hippocampus/cytology",
+          "Models, Statistical",
+          "Neurites/*classification/*physiology",
+          "Normal Distribution",
+          "Quality Control",
+          "ROC Curve",
+          "Rats",
+          "Signal-To-Noise Ratio",
+          "Synapses/*classification/*physiology"
+     ],
+     "PMC": "PMC3721977",
+     "MID": [
+          "NIHMS483048"
+     ],
+     "EDAT": "2012/12/25 06:00",
+     "MHDA": "2013/07/26 06:00",
+     "CRDT": [
+          "2012/12/25 06:00"
+     ],
+     "PHST": [
+          "2012/09/28 00:00 [received]",
+          "2012/12/10 00:00 [revised]",
+          "2012/12/12 00:00 [accepted]",
+          "2012/12/25 06:00 [entrez]",
+          "2012/12/25 06:00 [pubmed]",
+          "2013/07/26 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(12)00478-5 [pii]",
+          "10.1016/j.jneumeth.2012.12.011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2013 Feb 15;213(1):84-98. doi: 10.1016/j.jneumeth.2012.12.011. Epub 2012 Dec 20.",
+     "term": "hippocampus"
+}

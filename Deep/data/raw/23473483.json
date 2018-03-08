@@ -1,0 +1,88 @@
+{
+     "PMID": "23473483",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130821",
+     "LR": "20170922",
+     "IS": "1542-0086 (Electronic) 0006-3495 (Linking)",
+     "VI": "104",
+     "IP": "5",
+     "DP": "2013 Mar 5",
+     "TI": "Wavelet transform-based de-noising for two-photon imaging of synaptic Ca2+ transients.",
+     "PG": "1006-17",
+     "LID": "10.1016/j.bpj.2013.01.015 [doi] S0006-3495(13)00085-4 [pii]",
+     "AB": "Postsynaptic Ca(2+) transients triggered by neurotransmission at excitatory synapses are a key signaling step for the induction of synaptic plasticity and are typically recorded in tissue slices using two-photon fluorescence imaging with Ca(2+)-sensitive dyes. The signals generated are small with very low peak signal/noise ratios (pSNRs) that make detailed analysis problematic. Here, we implement a wavelet-based de-noising algorithm (PURE-LET) to enhance signal/noise ratio for Ca(2+) fluorescence transients evoked by single synaptic events under physiological conditions. Using simulated Ca(2+) transients with defined noise levels, we analyzed the ability of the PURE-LET algorithm to retrieve the underlying signal. Fitting single Ca(2+) transients with an exponential rise and decay model revealed a distortion of tau(rise) but improved accuracy and reliability of tau(decay) and peak amplitude after PURE-LET de-noising compared to raw signals. The PURE-LET de-noising algorithm also provided a approximately 30-dB gain in pSNR compared to approximately 16-dB pSNR gain after an optimized binomial filter. The higher pSNR provided by PURE-LET de-noising increased discrimination accuracy between successes and failures of synaptic transmission as measured by the occurrence of synaptic Ca(2+) transients by approximately 20% relative to an optimized binomial filter. Furthermore, in comparison to binomial filter, no optimization of PURE-LET de-noising was required for reducing arbitrary bias. In conclusion, the de-noising of fluorescent Ca(2+) transients using PURE-LET enhances detection and characterization of Ca(2+) responses at central excitatory synapses.",
+     "CI": [
+          "Copyright (c) 2013 Biophysical Society. Published by Elsevier Inc. All rights",
+          "reserved."
+     ],
+     "FAU": [
+          "Tigaret, Cezar M",
+          "Tsaneva-Atanasova, Krasimira",
+          "Collingridge, Graham L",
+          "Mellor, Jack R"
+     ],
+     "AU": [
+          "Tigaret CM",
+          "Tsaneva-Atanasova K",
+          "Collingridge GL",
+          "Mellor JR"
+     ],
+     "AD": "Medical Research Council Centre for Synaptic Plasticity, School of Physiology and Pharmacology, University of Bristol, Bristol, United Kingdom. cezar.tigaret@bristol.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "089703/Wellcome Trust/United Kingdom",
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Biophys J",
+     "JT": "Biophysical journal",
+     "JID": "0370626",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Calcium/*metabolism",
+          "*Calcium Signaling",
+          "Excitatory Postsynaptic Potentials",
+          "Hippocampus/cytology",
+          "Male",
+          "Microscopy, Fluorescence, Multiphoton/*methods",
+          "Neurons/metabolism/physiology",
+          "Rats",
+          "Rats, Wistar",
+          "Signal-To-Noise Ratio",
+          "Synapses/*metabolism",
+          "*Wavelet Analysis"
+     ],
+     "PMC": "PMC3607703",
+     "EDAT": "2013/03/12 06:00",
+     "MHDA": "2013/08/22 06:00",
+     "CRDT": [
+          "2013/03/12 06:00"
+     ],
+     "PHST": [
+          "2012/02/15 00:00 [received]",
+          "2013/01/03 00:00 [revised]",
+          "2013/01/17 00:00 [accepted]",
+          "2013/03/12 06:00 [entrez]",
+          "2013/03/12 06:00 [pubmed]",
+          "2013/08/22 06:00 [medline]"
+     ],
+     "AID": [
+          "S0006-3495(13)00085-4 [pii]",
+          "10.1016/j.bpj.2013.01.015 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biophys J. 2013 Mar 5;104(5):1006-17. doi: 10.1016/j.bpj.2013.01.015.",
+     "term": "hippocampus"
+}

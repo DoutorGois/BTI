@@ -1,0 +1,94 @@
+{
+     "PMID": "20114079",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100708",
+     "LR": "20170922",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "51",
+     "IP": "1",
+     "DP": "2010 May 15",
+     "TI": "Improving intersubject image registration using tissue-class information benefits robustness and accuracy of multi-atlas based anatomical segmentation.",
+     "PG": "221-7",
+     "LID": "10.1016/j.neuroimage.2010.01.072 [doi]",
+     "AB": "Automatic anatomical segmentation of magnetic resonance human brain images has been shown to be accurate and robust when based on multiple atlases that encompass the anatomical variability of the cohort of subjects. We observed that the method tends to fail when the segmentation target shows ventricular enlargement that is not captured by the atlas database. By incorporating tissue classification information into the image registration process, we aimed to increase the robustness of the method. For testing, subjects who participated in the Oxford Project to Investigate Memory and Aging (OPTIMA) and the Alzheimer's Disease Neuroimaging Initiative (ADNI) were selected for ventriculomegaly. Segmentation quality was substantially improved in the ventricles and surrounding structures (9/9 successes on visual rating versus 4/9 successes using the baseline method). In addition, the modification resulted in a significant increase of segmentation accuracy in healthy subjects' brain images. Hippocampal segmentation results in a group of patients with temporal lobe epilepsy were near identical with both approaches. The modified approach (MAPER, multi-atlas propagation with enhanced registration) extends the applicability of multi-atlas based automatic whole-brain segmentation to subjects with ventriculomegaly, as seen in normal aging as well as in numerous neurodegenerative diseases.",
+     "CI": [
+          "Copyright (c) 2010 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Heckemann, Rolf A",
+          "Keihaninejad, Shiva",
+          "Aljabar, Paul",
+          "Rueckert, Daniel",
+          "Hajnal, Joseph V",
+          "Hammers, Alexander"
+     ],
+     "AU": [
+          "Heckemann RA",
+          "Keihaninejad S",
+          "Aljabar P",
+          "Rueckert D",
+          "Hajnal JV",
+          "Hammers A"
+     ],
+     "AD": "Division of Neuroscience and Mental Health, Faculty of Medicine, Department of Computing, Imperial College, London, UK. soundray@imperial.ac.uk",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G108/585/Medical Research Council/United Kingdom",
+          "MC_U120061309/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100128",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Aging/pathology",
+          "Alzheimer Disease/pathology",
+          "*Anatomy, Artistic",
+          "*Atlases as Topic",
+          "Automation",
+          "Brain/*pathology",
+          "Cerebral Ventricles/pathology",
+          "Databases, Factual",
+          "Epilepsy, Temporal Lobe/pathology",
+          "Hippocampus/pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Middle Aged"
+     ],
+     "EDAT": "2010/02/02 06:00",
+     "MHDA": "2010/07/09 06:00",
+     "CRDT": [
+          "2010/02/02 06:00"
+     ],
+     "PHST": [
+          "2009/11/03 00:00 [received]",
+          "2010/01/15 00:00 [revised]",
+          "2010/01/21 00:00 [accepted]",
+          "2010/02/02 06:00 [entrez]",
+          "2010/02/02 06:00 [pubmed]",
+          "2010/07/09 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(10)00094-7 [pii]",
+          "10.1016/j.neuroimage.2010.01.072 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2010 May 15;51(1):221-7. doi: 10.1016/j.neuroimage.2010.01.072. Epub 2010 Jan 28.",
+     "term": "hippocampus"
+}

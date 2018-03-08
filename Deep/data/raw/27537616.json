@@ -1,0 +1,102 @@
+{
+     "PMID": "27537616",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171005",
+     "LR": "20171005",
+     "IS": "1535-3907 (Electronic) 1535-3893 (Linking)",
+     "VI": "15",
+     "IP": "11",
+     "DP": "2016 Nov 4",
+     "TI": "Integrated Proteomic Pipeline Using Multiple Search Engines for a Proteogenomic Study with a Controlled Protein False Discovery Rate.",
+     "PG": "4082-4090",
+     "AB": "In the Chromosome-Centric Human Proteome Project (C-HPP), false-positive identification by peptide spectrum matches (PSMs) after database searches is a major issue for proteogenomic studies using liquid-chromatography and mass-spectrometry-based large proteomic profiling. Here we developed a simple strategy for protein identification, with a controlled false discovery rate (FDR) at the protein level, using an integrated proteomic pipeline (IPP) that consists of four engrailed steps as follows. First, using three different search engines, SEQUEST, MASCOT, and MS-GF+, individual proteomic searches were performed against the neXtProt database. Second, the search results from the PSMs were combined using statistical evaluation tools including DTASelect and Percolator. Third, the peptide search scores were converted into E-scores normalized using an in-house program. Last, ProteinInferencer was used to filter the proteins containing two or more peptides with a controlled FDR of 1.0% at the protein level. Finally, we compared the performance of the IPP to a conventional proteomic pipeline (CPP) for protein identification using a controlled FDR of <1% at the protein level. Using the IPP, a total of 5756 proteins (vs 4453 using the CPP) including 477 alternative splicing variants (vs 182 using the CPP) were identified from human hippocampal tissue. In addition, a total of 10 missing proteins (vs 7 using the CPP) were identified with two or more unique peptides, and their tryptic peptides were validated using MS/MS spectral pattern from a repository database or their corresponding synthetic peptides. This study shows that the IPP effectively improved the identification of proteins, including alternative splicing variants and missing proteins, in human hippocampal tissues for the C-HPP. All RAW files used in this study were deposited in ProteomeXchange (PXD000395).",
+     "FAU": [
+          "Park, Gun Wook",
+          "Hwang, Heeyoun",
+          "Kim, Kwang Hoe",
+          "Lee, Ju Yeon",
+          "Lee, Hyun Kyoung",
+          "Park, Ji Yeong",
+          "Ji, Eun Sun",
+          "Park, Sung-Kyu Robin",
+          "Yates, John R 3rd",
+          "Kwon, Kyung-Hoon",
+          "Park, Young Mok",
+          "Lee, Hyoung-Joo",
+          "Paik, Young-Ki",
+          "Kim, Jin Young",
+          "Yoo, Jong Shin"
+     ],
+     "AU": [
+          "Park GW",
+          "Hwang H",
+          "Kim KH",
+          "Lee JY",
+          "Lee HK",
+          "Park JY",
+          "Ji ES",
+          "Park SR",
+          "Yates JR 3rd",
+          "Kwon KH",
+          "Park YM",
+          "Lee HJ",
+          "Paik YK",
+          "Kim JY",
+          "Yoo JS"
+     ],
+     "AD": "Biomedical Omics Group, Korea Basic Science Institute , 162 YeonGuDanji-Ro, Ochang 363-883, Republic of Korea. Graduate School of Analytical Science and Technology, Chungnam National University , Daejeon 34134, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , 162 YeonGuDanji-Ro, Ochang 363-883, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , 162 YeonGuDanji-Ro, Ochang 363-883, Republic of Korea. Graduate School of Analytical Science and Technology, Chungnam National University , Daejeon 34134, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , 162 YeonGuDanji-Ro, Ochang 363-883, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , 162 YeonGuDanji-Ro, Ochang 363-883, Republic of Korea. Graduate School of Analytical Science and Technology, Chungnam National University , Daejeon 34134, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , 162 YeonGuDanji-Ro, Ochang 363-883, Republic of Korea. Graduate School of Analytical Science and Technology, Chungnam National University , Daejeon 34134, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , 162 YeonGuDanji-Ro, Ochang 363-883, Republic of Korea. Department of Chemical Physiology, The Scripps Research Institute , La Jolla, California 92037, United States. Department of Chemical Physiology, The Scripps Research Institute , La Jolla, California 92037, United States. Biomedical Omics Group, Korea Basic Science Institute , 162 YeonGuDanji-Ro, Ochang 363-883, Republic of Korea. Center for Cognition and Sociality, Institute for Basic Science , Daejeon 305-811, Republic of Korea. Yonsei Proteome Research Center and Department of Integrated OMICS for Biomedical Science, and Department of Biochemistry, College of Life Science and Biotechnology, Yonsei University , Seoul 120-749, Republic of Korea. Yonsei Proteome Research Center and Department of Integrated OMICS for Biomedical Science, and Department of Biochemistry, College of Life Science and Biotechnology, Yonsei University , Seoul 120-749, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , 162 YeonGuDanji-Ro, Ochang 363-883, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , 162 YeonGuDanji-Ro, Ochang 363-883, Republic of Korea. Graduate School of Analytical Science and Technology, Chungnam National University , Daejeon 34134, Republic of Korea.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160830",
+     "PL": "United States",
+     "TA": "J Proteome Res",
+     "JT": "Journal of proteome research",
+     "JID": "101128775",
+     "SB": "IM",
+     "MH": [
+          "Alternative Splicing",
+          "Computational Biology/methods",
+          "Databases, Protein",
+          "False Positive Reactions",
+          "Hippocampus/*chemistry",
+          "Humans",
+          "Mass Spectrometry/methods",
+          "Proteogenomics/*methods",
+          "Proteomics/*methods",
+          "*Search Engine"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "E-score",
+          "E-value",
+          "ProteinInferencer",
+          "alternative splicing variant",
+          "false discovery rate",
+          "integrated proteomic pipeline",
+          "missing protein",
+          "proteogenomics"
+     ],
+     "EDAT": "2016/11/05 06:00",
+     "MHDA": "2017/10/06 06:00",
+     "CRDT": [
+          "2016/08/19 06:00"
+     ],
+     "PHST": [
+          "2016/11/05 06:00 [pubmed]",
+          "2017/10/06 06:00 [medline]",
+          "2016/08/19 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1021/acs.jproteome.6b00376 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Proteome Res. 2016 Nov 4;15(11):4082-4090. doi: 10.1021/acs.jproteome.6b00376. Epub 2016 Aug 30.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,89 @@
+{
+     "PMID": "20373444",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101014",
+     "LR": "20161019",
+     "IS": "1522-2586 (Electronic) 1053-1807 (Linking)",
+     "VI": "31",
+     "IP": "4",
+     "DP": "2010 Apr",
+     "TI": "Sub-millimeter isotropic MRI for segmentation of subcortical brain regions and brain visualization.",
+     "PG": "980-6",
+     "LID": "10.1002/jmri.22120 [doi]",
+     "AB": "PURPOSE: To evaluate a rapid sub-millimeter isotropic spoiled gradient-echo (nonselective SPGR) to facilitate the brain subcortical segmentation and the visualization of brain volume compared with the commonly accepted inversion recovery-prepared SPGR (SPGR-IR) technique. MATERIALS AND METHODS: The feasibility of the nonselective SPGR was evaluated for two segmentation algorithms. FAST was used to segment the brain into constituent tissue classes (white matter, gray matter, cerebrospinal fluid) and FreeSurfer was used to segment specific subcortical structures (hippocampus, caudate, putamen, and thalamus). Localized apparent signal-to-noise ratio (SNR) and contrast-to-noise ratio (CNR) values for nonselective SPGR and the SPGR-IR were compared for the studied subcortical regions. The three-dimensional volume rendering was generated to evaluate the nonselective SPGR and the SPGR-IR for brain visualization. RESULTS: In basal ganglia regions, nonselective SPGR allows for consistent segmentation results for both FAST and FreeSurfer. This sequence also better differentiated gray/white matter compared with SPGR-IR. An approximate two-fold improvement of image quality in apparent SNR and CNR was indicated for subcortical brain anatomical structures with nonselective SPGR versus SPGR-IR. The nonselective SPGR improved clarity and yielded a more realistic depiction of the brain surface for visualization compared with SPGR-IR. CONCLUSION: Compared with SPGR-IR, nonselective SPGR allows for consistent segmentation results for basal ganglia regions and improved clarity for visualization of the brain.",
+     "CI": [
+          "(c) 2010 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Wu, Ying",
+          "Ragin, Ann B",
+          "Du, Hongyan",
+          "Sidharthan, Shawn",
+          "Dunkle, Eugene E",
+          "Koktzoglou, Ioannis",
+          "Edelman, Robert R"
+     ],
+     "AU": [
+          "Wu Y",
+          "Ragin AB",
+          "Du H",
+          "Sidharthan S",
+          "Dunkle EE",
+          "Koktzoglou I",
+          "Edelman RR"
+     ],
+     "AD": "Radiology Department, Northshore University HealthSystem, Pritzker School of Medicine, The University of Chicago, Evanston, Illinois 60201, USA. ywu@northshore.org",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH080636/MH/NIMH NIH HHS/United States",
+          "1R01MH080636-01A2/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Magn Reson Imaging",
+     "JT": "Journal of magnetic resonance imaging : JMRI",
+     "JID": "9105850",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Algorithms",
+          "Automation",
+          "Brain/*pathology",
+          "Brain Mapping/*methods",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Models, Statistical"
+     ],
+     "PMC": "PMC3186681",
+     "MID": [
+          "NIHMS218251"
+     ],
+     "EDAT": "2010/04/08 06:00",
+     "MHDA": "2010/10/15 06:00",
+     "CRDT": [
+          "2010/04/08 06:00"
+     ],
+     "PHST": [
+          "2010/04/08 06:00 [entrez]",
+          "2010/04/08 06:00 [pubmed]",
+          "2010/10/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/jmri.22120 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Magn Reson Imaging. 2010 Apr;31(4):980-6. doi: 10.1002/jmri.22120.",
+     "term": "hippocampus"
+}

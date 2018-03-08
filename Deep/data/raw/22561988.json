@@ -1,0 +1,86 @@
+{
+     "PMID": "22561988",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120820",
+     "LR": "20170220",
+     "IS": "1548-7105 (Electronic) 1548-7091 (Linking)",
+     "VI": "9",
+     "IP": "6",
+     "DP": "2012 Jun",
+     "TI": "Automated whole-cell patch-clamp electrophysiology of neurons in vivo.",
+     "PG": "585-7",
+     "LID": "10.1038/nmeth.1993 [doi]",
+     "AB": "Whole-cell patch-clamp electrophysiology of neurons is a gold-standard technique for high-fidelity analysis of the biophysical mechanisms of neural computation and pathology, but it requires great skill to perform. We have developed a robot that automatically performs patch clamping in vivo, algorithmically detecting cells by analyzing the temporal sequence of electrode impedance changes. We demonstrate good yield, throughput and quality of automated intracellular recording in mouse cortex and hippocampus.",
+     "FAU": [
+          "Kodandaramaiah, Suhasa B",
+          "Franzesi, Giovanni Talei",
+          "Chow, Brian Y",
+          "Boyden, Edward S",
+          "Forest, Craig R"
+     ],
+     "AU": [
+          "Kodandaramaiah SB",
+          "Franzesi GT",
+          "Chow BY",
+          "Boyden ES",
+          "Forest CR"
+     ],
+     "AD": "Media Lab, Massachusetts Institute of Technology, Cambridge, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "DP2 OD002002/OD/NIH HHS/United States",
+          "R01 NS075421/NS/NINDS NIH HHS/United States",
+          "1R01NS075421/NS/NINDS NIH HHS/United States",
+          "DP2OD002002/OD/NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20120506",
+     "PL": "United States",
+     "TA": "Nat Methods",
+     "JT": "Nature methods",
+     "JID": "101215604",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Automation, Laboratory/*methods",
+          "Cerebral Cortex/cytology",
+          "Electrophysiological Phenomena",
+          "Hippocampus/cytology",
+          "Mice",
+          "Neurons/*physiology",
+          "Patch-Clamp Techniques/instrumentation/*methods",
+          "Robotics"
+     ],
+     "PMC": "PMC3427788",
+     "MID": [
+          "NIHMS397908"
+     ],
+     "EDAT": "2012/05/09 06:00",
+     "MHDA": "2012/08/21 06:00",
+     "CRDT": [
+          "2012/05/08 06:00"
+     ],
+     "PHST": [
+          "2011/08/31 00:00 [received]",
+          "2012/03/30 00:00 [accepted]",
+          "2012/05/08 06:00 [entrez]",
+          "2012/05/09 06:00 [pubmed]",
+          "2012/08/21 06:00 [medline]"
+     ],
+     "AID": [
+          "nmeth.1993 [pii]",
+          "10.1038/nmeth.1993 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nat Methods. 2012 Jun;9(6):585-7. doi: 10.1038/nmeth.1993. Epub 2012 May 6.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,77 @@
+{
+     "PMID": "25276224",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150616",
+     "LR": "20151029",
+     "IS": "1748-6718 (Electronic) 1748-670X (Linking)",
+     "VI": "2014",
+     "DP": "2014",
+     "TI": "An ensemble-of-classifiers based approach for early diagnosis of Alzheimer's disease: classification using structural features of brain images.",
+     "PG": "862307",
+     "LID": "10.1155/2014/862307 [doi]",
+     "AB": "Structural brain imaging is playing a vital role in identification of changes that occur in brain associated with Alzheimer's disease. This paper proposes an automated image processing based approach for the identification of AD from MRI of the brain. The proposed approach is novel in a sense that it has higher specificity/accuracy values despite the use of smaller feature set as compared to existing approaches. Moreover, the proposed approach is capable of identifying AD patients in early stages. The dataset selected consists of 85 age and gender matched individuals from OASIS database. The features selected are volume of GM, WM, and CSF and size of hippocampus. Three different classification models (SVM, MLP, and J48) are used for identification of patients and controls. In addition, an ensemble of classifiers, based on majority voting, is adopted to overcome the error caused by an independent base classifier. Ten-fold cross validation strategy is applied for the evaluation of our scheme. Moreover, to evaluate the performance of proposed approach, individual features and combination of features are fed to individual classifiers and ensemble based classifier. Using size of left hippocampus as feature, the accuracy achieved with ensemble of classifiers is 93.75%, with 100% specificity and 87.5% sensitivity.",
+     "FAU": [
+          "Farhan, Saima",
+          "Fahiem, Muhammad Abuzar",
+          "Tauseef, Huma"
+     ],
+     "AU": [
+          "Farhan S",
+          "Fahiem MA",
+          "Tauseef H"
+     ],
+     "AD": "Department of Computer Science, Lahore College for Women University, Jail Road, Lahore 54000, Pakistan. Department of Computer Science, Lahore College for Women University, Jail Road, Lahore 54000, Pakistan. Department of Computer Science, Lahore College for Women University, Jail Road, Lahore 54000, Pakistan.",
+     "AUID": [
+          "ORCID: 0000-0003-4962-4546"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140909",
+     "PL": "United States",
+     "TA": "Comput Math Methods Med",
+     "JT": "Computational and mathematical methods in medicine",
+     "JID": "101277751",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Alzheimer Disease/*diagnosis/*pathology",
+          "Artificial Intelligence",
+          "Brain/*pathology",
+          "Brain Mapping/methods",
+          "Case-Control Studies",
+          "Decision Trees",
+          "Female",
+          "Hippocampus/pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/methods",
+          "Magnetic Resonance Imaging/methods",
+          "Male",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC4172935",
+     "EDAT": "2014/10/03 06:00",
+     "MHDA": "2015/06/17 06:00",
+     "CRDT": [
+          "2014/10/03 06:00"
+     ],
+     "PHST": [
+          "2014/05/28 00:00 [received]",
+          "2014/08/22 00:00 [revised]",
+          "2014/08/29 00:00 [accepted]",
+          "2014/10/03 06:00 [entrez]",
+          "2014/10/03 06:00 [pubmed]",
+          "2015/06/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2014/862307 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Math Methods Med. 2014;2014:862307. doi: 10.1155/2014/862307. Epub 2014 Sep 9.",
+     "term": "hippocampus"
+}

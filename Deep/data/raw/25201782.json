@@ -1,0 +1,97 @@
+{
+     "PMID": "25201782",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150910",
+     "LR": "20150115",
+     "IS": "1875-8908 (Electronic) 1387-2877 (Linking)",
+     "VI": "44",
+     "IP": "1",
+     "DP": "2015",
+     "TI": "Fully automated atlas-based hippocampal volumetry for detection of Alzheimer's disease in a memory clinic setting.",
+     "PG": "183-93",
+     "LID": "10.3233/JAD-141446 [doi]",
+     "AB": "Hippocampal volume is a promising biomarker to enhance the accuracy of the diagnosis of dementia due to Alzheimer's disease (AD). However, whereas hippocampal volume is well studied in patient samples from clinical trials, its value in clinical routine patient care is still rather unclear. The aim of the present study, therefore, was to evaluate fully automated atlas-based hippocampal volumetry for detection of AD in the setting of a secondary care expert memory clinic for outpatients. One-hundred consecutive patients with memory complaints were clinically evaluated and categorized into three diagnostic groups: AD, intermediate AD, and non-AD. A software tool based on open source software (Statistical Parametric Mapping SPM8) was employed for fully automated tissue segmentation and stereotactical normalization of high-resolution three-dimensional T1-weighted magnetic resonance images. Predefined standard masks were used for computation of grey matter volume of the left and right hippocampus which then was scaled to the patient's total grey matter volume. The right hippocampal volume provided an area under the receiver operating characteristic curve of 84% for detection of AD patients in the whole sample. This indicates that fully automated MR-based hippocampal volumetry fulfills the requirements for a relevant core feasible biomarker for detection of AD in everyday patient care in a secondary care memory clinic for outpatients. The software used in the present study has been made freely available as an SPM8 toolbox. It is robust and fast so that it is easily integrated into routine workflow.",
+     "FAU": [
+          "Suppa, Per",
+          "Anker, Ulrich",
+          "Spies, Lothar",
+          "Bopp, Irene",
+          "Ruegger-Frey, Brigitte",
+          "Klaghofer, Richard",
+          "Gocke, Carola",
+          "Hampel, Harald",
+          "Beck, Sacha",
+          "Buchert, Ralph"
+     ],
+     "AU": [
+          "Suppa P",
+          "Anker U",
+          "Spies L",
+          "Bopp I",
+          "Ruegger-Frey B",
+          "Klaghofer R",
+          "Gocke C",
+          "Hampel H",
+          "Beck S",
+          "Buchert R"
+     ],
+     "AD": "Department of Nuclear Medicine, Charite, Berlin, Germany jung diagnostics GmbH, Hamburg, Germany. Stadtspital Waid, Zurich, Switzerland. jung diagnostics GmbH, Hamburg, Germany. Stadtspital Waid, Zurich, Switzerland. Stadtspital Waid, Zurich, Switzerland. Stadtspital Waid, Zurich, Switzerland. Medical Prevention Center Hamburg, Hamburg, Germany. Universite Pierre et Marie Curie, Paris, France. Stadtspital Waid, Zurich, Switzerland. Department of Nuclear Medicine, Charite, Berlin, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Alzheimers Dis",
+     "JT": "Journal of Alzheimer's disease : JAD",
+     "JID": "9814863",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*complications/*diagnosis",
+          "*Brain Mapping",
+          "Disease Progression",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "*Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Memory Disorders/*etiology",
+          "Middle Aged",
+          "ROC Curve"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "atlas-based segmentation",
+          "hippocampal volumetry",
+          "magnetic resonance imaging",
+          "memory clinic",
+          "memory impairment"
+     ],
+     "EDAT": "2014/09/10 06:00",
+     "MHDA": "2015/09/12 06:00",
+     "CRDT": [
+          "2014/09/10 06:00"
+     ],
+     "PHST": [
+          "2014/09/10 06:00 [entrez]",
+          "2014/09/10 06:00 [pubmed]",
+          "2015/09/12 06:00 [medline]"
+     ],
+     "AID": [
+          "7150H44084742437 [pii]",
+          "10.3233/JAD-141446 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Alzheimers Dis. 2015;44(1):183-93. doi: 10.3233/JAD-141446.",
+     "term": "hippocampus"
+}

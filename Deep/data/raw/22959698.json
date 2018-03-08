@@ -1,0 +1,96 @@
+{
+     "PMID": "22959698",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130206",
+     "LR": "20170801",
+     "IS": "1552-5279 (Electronic) 1552-5260 (Linking)",
+     "VI": "8",
+     "IP": "5",
+     "DP": "2012 Sep",
+     "TI": "Comparing new templates and atlas-based segmentations in the volumetric analysis of brain magnetic resonance images for diagnosing Alzheimer's disease.",
+     "PG": "399-406",
+     "LID": "10.1016/j.jalz.2011.07.002 [doi]",
+     "AB": "BACKGROUND: The segmentation of brain structures on magnetic resonance imaging scans for calculating regional brain volumes, using automated anatomic labeling, requires the use of both brain atlases and templates (template sets). This study aims to improve the accuracy of volumetric analysis of hippocampus (HP) and amygdala (AMG) in the assessment of early Alzheimer's disease (AD) by developing template sets that correspond more closely to the brains of elderly individuals. METHODS: Total intracranial volume and HP and AMG volumes were calculated for elderly subjects with no cognitive impairment (n = 103), with amnestic mild cognitive impairment (n = 68), or with probable AD (n = 46) using the following: (1) a template set consisting of a standard atlas (atlas S), drawn on a young adult male brain, and the widely used Montreal Neurological Institute template (MNI template set); (2) a template set (template S set) in which the template is based on smoothing the image from which atlas S is derived; and (3) a new template set (template E set) in which the template is based on an atlas (atlas E) created from the brain of an elderly individual. RESULTS: Correspondence to HP and AMG volumes derived from manual segmentation was highest with automated segmentation by template E set, intermediate with template S set, and lowest with the MNI template set. The areas under the receiver operating curve for distinguishing elderly subjects with no cognitive impairment from elderly subjects with amnestic mild cognitive impairment or probable AD and the correlations between HP and AMG volumes and cognitive and functional scores were highest for template E set, intermediate for template S set, and lowest for the MNI template set. CONCLUSIONS: The accuracy of automated anatomic labeling and the diagnostic value of the derived volumes are improved with template sets based on brain atlases closely resembling the anatomy of the to-be-segmented brain magnetic resonance imaging scans.",
+     "CI": [
+          "Copyright (c) 2012 The Alzheimer's Association. Published by Elsevier Inc. All",
+          "rights reserved."
+     ],
+     "FAU": [
+          "Shen, Qian",
+          "Zhao, Weizhao",
+          "Loewenstein, David A",
+          "Potter, Elizabeth",
+          "Greig, Maria T",
+          "Raj, Ashok",
+          "Barker, Warren",
+          "Potter, Huntington",
+          "Duara, Ranjan"
+     ],
+     "AU": [
+          "Shen Q",
+          "Zhao W",
+          "Loewenstein DA",
+          "Potter E",
+          "Greig MT",
+          "Raj A",
+          "Barker W",
+          "Potter H",
+          "Duara R"
+     ],
+     "AD": "Wien Center for Alzheimer's Disease and Memory Disorders, Mount Sinai Medical Center, Miami Beach, FL, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 AG025711/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Alzheimers Dement",
+     "JT": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+     "JID": "101231978",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Alzheimer Disease/complications/*pathology",
+          "Brain/*pathology",
+          "*Brain Mapping",
+          "Cognition Disorders/diagnosis/etiology",
+          "Female",
+          "Functional Laterality",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Neuropsychological Tests",
+          "Psychiatric Status Rating Scales",
+          "ROC Curve",
+          "Reference Values"
+     ],
+     "EDAT": "2012/09/11 06:00",
+     "MHDA": "2013/02/07 06:00",
+     "CRDT": [
+          "2012/09/11 06:00"
+     ],
+     "PHST": [
+          "2010/10/26 00:00 [received]",
+          "2011/06/03 00:00 [revised]",
+          "2011/07/26 00:00 [accepted]",
+          "2012/09/11 06:00 [entrez]",
+          "2012/09/11 06:00 [pubmed]",
+          "2013/02/07 06:00 [medline]"
+     ],
+     "AID": [
+          "S1552-5260(11)02702-6 [pii]",
+          "10.1016/j.jalz.2011.07.002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Alzheimers Dement. 2012 Sep;8(5):399-406. doi: 10.1016/j.jalz.2011.07.002.",
+     "term": "hippocampus"
+}

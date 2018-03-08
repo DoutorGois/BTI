@@ -1,0 +1,93 @@
+{
+     "PMID": "19290622",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090623",
+     "LR": "20131121",
+     "IS": "1535-3893 (Print) 1535-3893 (Linking)",
+     "VI": "8",
+     "IP": "5",
+     "DP": "2009 May",
+     "TI": "Strategies for a reliable biostatistical analysis of differentially expressed spots from two-dimensional electrophoresis gels.",
+     "PG": "2601-7",
+     "LID": "10.1021/pr800532f [doi]",
+     "AB": "We performed quantitative comparisons with the two-dimensional gel electrophoresis technique and evaluated the reliability of biostatistical tests for the correction of \"false significant\" results (alpha-error) by performing repeated runs of an experiment. Results based on uncorrected p-values yielded numerous significant differences in spot intensity which could not be replicated in two additional runs. The best strategy for avoiding these \"false-positive\" results was strongly dependent on the type of result. In experiments yielding very marked group differences in spot intensity, calculation of the \"False Discovery Rate\" (FDR) by the Benjamini and Hochberg method corrected the results with sufficient reliability. In experiments yielding relatively small (p-values>0.001) group differences, up to 100% of all results which were significant in two repeated runs were excluded (\"false-negative\") by calculation of the FDR. In such experiments, significant differences need confirmation by repeated runs.",
+     "FAU": [
+          "Eravci, Murat",
+          "Mansmann, Ulrich",
+          "Broedel, Oliver",
+          "Weist, Stephanie",
+          "Buetow, Sandra",
+          "Wittke, Janosch",
+          "Brunkau, Cindy",
+          "Hummel, Manuela",
+          "Eravci, Selda",
+          "Baumgartner, Andreas"
+     ],
+     "AU": [
+          "Eravci M",
+          "Mansmann U",
+          "Broedel O",
+          "Weist S",
+          "Buetow S",
+          "Wittke J",
+          "Brunkau C",
+          "Hummel M",
+          "Eravci S",
+          "Baumgartner A"
+     ],
+     "AD": "Department of Radiology and Nuclear Medicine, Charite Universitatsmedizin, Campus Benjamin Franklin, Berlin, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Proteome Res",
+     "JT": "Journal of proteome research",
+     "JID": "101128775",
+     "RN": [
+          "0 (Proteome)",
+          "33CM23913M (Carbamazepine)",
+          "TG537D343B (Desipramine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Biometry/methods",
+          "Brain/drug effects/*metabolism",
+          "Carbamazepine/pharmacology",
+          "Desipramine/pharmacology",
+          "Electrophoresis, Gel, Two-Dimensional/*methods",
+          "Frontal Lobe/metabolism",
+          "Hippocampus/metabolism",
+          "Medulla Oblongata/metabolism",
+          "Neostriatum/metabolism",
+          "Occipital Lobe/metabolism",
+          "Parietal Lobe/metabolism",
+          "Pons/metabolism",
+          "Proteome/*analysis",
+          "Proteomics/*methods",
+          "Rats",
+          "Reproducibility of Results",
+          "Software"
+     ],
+     "EDAT": "2009/03/18 09:00",
+     "MHDA": "2009/06/24 09:00",
+     "CRDT": [
+          "2009/03/18 09:00"
+     ],
+     "PHST": [
+          "2009/03/18 09:00 [entrez]",
+          "2009/03/18 09:00 [pubmed]",
+          "2009/06/24 09:00 [medline]"
+     ],
+     "AID": [
+          "10.1021/pr800532f [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Proteome Res. 2009 May;8(5):2601-7. doi: 10.1021/pr800532f.",
+     "term": "hippocampus"
+}

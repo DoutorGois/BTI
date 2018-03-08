@@ -1,0 +1,85 @@
+{
+     "PMID": "25259520",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160108",
+     "LR": "20171025",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "9",
+     "IP": "9",
+     "DP": "2014",
+     "TI": "A toolbox for spatiotemporal analysis of voltage-sensitive dye imaging data in brain slices.",
+     "PG": "e108686",
+     "LID": "10.1371/journal.pone.0108686 [doi]",
+     "AB": "Voltage-sensitive dye imaging (VSDI) can simultaneously monitor the spatiotemporal electrical dynamics of thousands of neurons and is often used to identify functional differences in models of neurological disease. While the chief advantage of VSDI is the ability to record spatiotemporal activity, there are no tools available to visualize and statistically compare activity across the full spatiotemporal range of the VSDI dataset. Investigators commonly analyze only a subset of the data, and a majority of the dataset is routinely excluded from analysis. We have developed a software toolbox that simplifies visual inspection of VSDI data, and permits unaided statistical comparison across spatial and temporal dimensions. First, the three-dimensional VSDI dataset (x,y,time) is geometrically transformed into a two-dimensional spatiotemporal map of activity. Second, statistical comparison between groups is performed using a non-parametric permutation test. The result is a 2D map of all significant differences in both space and time. Here, we used the toolbox to identify functional differences in activity in VSDI data from acute hippocampal slices obtained from epileptic Arx conditional knock-out and control mice. Maps of spatiotemporal activity were produced and analyzed to identify differences in the activity evoked by stimulation of each of two axonal inputs to the hippocampus: the perforant pathway and the temporoammonic pathway. In mutant hippocampal slices, the toolbox identified a widespread decrease in spatiotemporal activity evoked by the temporoammonic pathway. No significant differences were observed in the activity evoked by the perforant pathway. The VSDI toolbox permitted us to visualize and statistically compare activity across the spatiotemporal scope of the VSDI dataset. Sampling error was minimized because the representation of the data is standardized by the toolbox. Statistical comparisons were conducted quickly, across the spatiotemporal scope of the data, without a priori knowledge of the character of the responses or the likely differences between them.",
+     "FAU": [
+          "Bourgeois, Elliot B",
+          "Johnson, Brian N",
+          "McCoy, Almedia J",
+          "Trippa, Lorenzo",
+          "Cohen, Akiva S",
+          "Marsh, Eric D"
+     ],
+     "AU": [
+          "Bourgeois EB",
+          "Johnson BN",
+          "McCoy AJ",
+          "Trippa L",
+          "Cohen AS",
+          "Marsh ED"
+     ],
+     "AD": "Department of Pathology, Brigham and Women's Hospital and Harvard Medical School, Boston, Massachusetts, United States of America. Department of Pediatrics, Division of Pediatric Neurology, The Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, United States of America. Department of Pediatrics, Division of Pediatric Neurology, The Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, United States of America. Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute, Boston, Massachusetts, United States of America. Department of Pediatrics, Division of Pediatric Neurology, The Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, United States of America; Department of Neurology, Division of Pediatric Neurology, The Perelman School of Medicine at the University of Pennsylvania, Philadelphia, Pennsylvania, United States of America. Department of Pediatrics, Division of Pediatric Neurology, The Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, United States of America; Department of Neurology, Division of Pediatric Neurology, The Perelman School of Medicine at the University of Pennsylvania, Philadelphia, Pennsylvania, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 HD059288/HD/NICHD NIH HHS/United States",
+          "R01 NS082761/NS/NINDS NIH HHS/United States",
+          "R01 NS069629/NS/NINDS NIH HHS/United States",
+          "F32 NS080556/NS/NINDS NIH HHS/United States",
+          "K02 NS065975/NS/NINDS NIH HHS/United States",
+          "R01 NS046616/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20140926",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/*physiology",
+          "Image Processing, Computer-Assisted",
+          "Mice",
+          "Mice, Knockout",
+          "*Software",
+          "*Spatio-Temporal Analysis",
+          "Voltage-Sensitive Dye Imaging/*methods"
+     ],
+     "PMC": "PMC4178182",
+     "EDAT": "2014/09/27 06:00",
+     "MHDA": "2016/01/09 06:00",
+     "CRDT": [
+          "2014/09/27 06:00"
+     ],
+     "PHST": [
+          "2014/02/03 00:00 [received]",
+          "2014/09/02 00:00 [accepted]",
+          "2014/09/27 06:00 [entrez]",
+          "2014/09/27 06:00 [pubmed]",
+          "2016/01/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0108686 [doi]",
+          "PONE-D-14-05123 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2014 Sep 26;9(9):e108686. doi: 10.1371/journal.pone.0108686. eCollection 2014.",
+     "term": "hippocampus"
+}

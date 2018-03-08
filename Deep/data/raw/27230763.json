@@ -1,0 +1,81 @@
+{
+     "PMID": "27230763",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170710",
+     "LR": "20180207",
+     "IS": "1474-760X (Electronic) 1474-7596 (Linking)",
+     "VI": "17",
+     "IP": "1",
+     "DP": "2016 May 26",
+     "TI": "Fast and accurate single-cell RNA-seq analysis by clustering of transcript-compatibility counts.",
+     "PG": "112",
+     "LID": "10.1186/s13059-016-0970-8 [doi]",
+     "AB": "Current approaches to single-cell transcriptomic analysis are computationally intensive and require assay-specific modeling, which limits their scope and generality. We propose a novel method that compares and clusters cells based on their transcript-compatibility read counts rather than on the transcript or gene quantifications used in standard analysis pipelines. In the reanalysis of two landmark yet disparate single-cell RNA-seq datasets, we show that our method is up to two orders of magnitude faster than previous approaches, provides accurate and in some cases improved results, and is directly applicable to data from a wide variety of assays.",
+     "FAU": [
+          "Ntranos, Vasilis",
+          "Kamath, Govinda M",
+          "Zhang, Jesse M",
+          "Pachter, Lior",
+          "Tse, David N"
+     ],
+     "AU": [
+          "Ntranos V",
+          "Kamath GM",
+          "Zhang JM",
+          "Pachter L",
+          "Tse DN"
+     ],
+     "AD": "Department of Electrical Engineering and Computer Sciences, University of California, Berkeley, CA, USA. Department of Electrical Engineering, Stanford University, Stanford, CA, USA. Department of Electrical Engineering, Stanford University, Stanford, CA, USA. Departments of Mathematics and Molecular and Cell Biology, University of California, Berkeley, CA, USA. lpachter@math.berkeley.edu. Department of Electrical Engineering and Computer Sciences, University of California, Berkeley, CA, USA. dntse@stanford.edu. Department of Electrical Engineering, Stanford University, Stanford, CA, USA. dntse@stanford.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 HG006129/HG/NHGRI NIH HHS/United States",
+          "R01 HG008164/HG/NHGRI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160526",
+     "PL": "England",
+     "TA": "Genome Biol",
+     "JT": "Genome biology",
+     "JID": "100960660",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cerebral Cortex/metabolism",
+          "Cluster Analysis",
+          "Gene Expression Profiling/*methods",
+          "High-Throughput Nucleotide Sequencing/*methods",
+          "Hippocampus/metabolism",
+          "Humans",
+          "Mice",
+          "Myoblasts/metabolism",
+          "Sequence Analysis, RNA/*methods",
+          "Single-Cell Analysis/*methods"
+     ],
+     "PMC": "PMC4881296",
+     "EDAT": "2016/05/28 06:00",
+     "MHDA": "2017/07/14 06:00",
+     "CRDT": [
+          "2016/05/28 06:00"
+     ],
+     "PHST": [
+          "2016/02/24 00:00 [received]",
+          "2016/04/29 00:00 [accepted]",
+          "2016/05/28 06:00 [entrez]",
+          "2016/05/28 06:00 [pubmed]",
+          "2017/07/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1186/s13059-016-0970-8 [doi]",
+          "10.1186/s13059-016-0970-8 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Genome Biol. 2016 May 26;17(1):112. doi: 10.1186/s13059-016-0970-8.",
+     "term": "hippocampus"
+}

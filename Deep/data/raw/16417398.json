@@ -1,0 +1,73 @@
+{
+     "PMID": "16417398",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060324",
+     "LR": "20170214",
+     "IS": "1533-0346 (Print) 1533-0338 (Linking)",
+     "VI": "5",
+     "IP": "1",
+     "DP": "2006 Feb",
+     "TI": "Implementation of talairach atlas based automated brain segmentation for radiation therapy dosimetry.",
+     "PG": "15-21",
+     "AB": "Radiotherapy for brain cancer inevitably results in irradiation of uninvolved brain. While it has been demonstrated that irradiation of the brain can result in cognitive deficits, dose-volume relationships are not well established. There is little work correlating a particular cognitive deficit with dose received by the region of the brain responsible for the specific cognitive function. One obstacle to such studies is that identification of brain anatomy is both labor intensive and dependent on the individual performing the segmentation. Automatic segmentation has the potential to be both efficient and consistent. Brains2 is a software package developed by the University of Iowa for MRI volumetric studies. It utilizes MR images, the Talairach atlas, and an artificial neural network (ANN) to segment brain images into substructures in a standardized manner. We have developed a software package, Brains2DICOM, that converts the regions of interest identified by Brains2 into a DICOM radiotherapy structure set. The structure set can be imported into a treatment planning system for dosimetry. We demonstrated the utility of Brains2DICOM using a test case, a 34-year-old man with diffuse astrocytoma treated with three-dimensional conformal radiotherapy. Brains2 successfully applied the Talairach atlas to identify the right and left frontal, parietal, temporal, occipital, subcortical, and cerebellum regions. Brains2 was not successful in applying the ANN to identify small structures, such as the hippocampus and caudate. Further work is necessary to revise the ANN or to develop new methods for identification of small structures in the presence of disease and radiation induced changes. The segmented regions-of-interest were transferred to our commercial treatment planning system using DICOM and dose-volume histograms were constructed. This method will facilitate the acquisition of data necessary for the development of normal tissue complication probability (NTCP) models that assess the probability of cognitive complications secondary to radiotherapy for intracranial and head and neck neoplasms.",
+     "FAU": [
+          "Popple, R A",
+          "Griffith, H R",
+          "Sawrie, S M",
+          "Fiveash, J B",
+          "Brezovich, I A"
+     ],
+     "AU": [
+          "Popple RA",
+          "Griffith HR",
+          "Sawrie SM",
+          "Fiveash JB",
+          "Brezovich IA"
+     ],
+     "AD": "Department of Radiation Oncology, The University of Alabama at Birmingham, 35233, USA. rpopple@uabmc.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Technol Cancer Res Treat",
+     "JT": "Technology in cancer research & treatment",
+     "JID": "101140941",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Anatomy, Artistic",
+          "Astrocytoma/radiotherapy",
+          "Brain Mapping/*methods",
+          "Brain Neoplasms/*radiotherapy",
+          "Humans",
+          "Image Processing, Computer-Assisted/methods",
+          "Magnetic Resonance Imaging/methods",
+          "Male",
+          "Medical Illustration",
+          "Neural Networks (Computer)",
+          "*Radiotherapy Dosage",
+          "*Radiotherapy, Conformal",
+          "Software"
+     ],
+     "EDAT": "2006/01/19 09:00",
+     "MHDA": "2006/03/25 09:00",
+     "CRDT": [
+          "2006/01/19 09:00"
+     ],
+     "PHST": [
+          "2006/01/19 09:00 [pubmed]",
+          "2006/03/25 09:00 [medline]",
+          "2006/01/19 09:00 [entrez]"
+     ],
+     "AID": [
+          "d=3025&c=4195&p=13282&do=detail [pii]",
+          "10.1177/153303460600500103 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Technol Cancer Res Treat. 2006 Feb;5(1):15-21. doi: 10.1177/153303460600500103.",
+     "term": "hippocampus"
+}

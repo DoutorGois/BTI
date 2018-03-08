@@ -1,0 +1,63 @@
+{
+     "PMID": "1510243",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19920921",
+     "LR": "20170803",
+     "IS": "0340-2061 (Print) 0340-2061 (Linking)",
+     "VI": "186",
+     "IP": "2",
+     "DP": "1992 Jul",
+     "TI": "Computer-assisted 3D-reconstruction and statistics of the limbic system. 2. Spatial statistics of the hippocampal formation, the fornix, and the mammillary bodies.",
+     "PG": "137-43",
+     "AB": "A statistical method is described to show the distribution of neuroanatomical structures within a Cartesian coordinate system from any given number of examinations. The algorithm is based on polygons derived from the outlines of neuroanatomical structures in parallel canthomeatal-orientated cutting planes. These polygons are transformed in virtual voxels, rotated into the bicommissural coordinate system, and projected onto the three main planes of this coordinate system. Areas with the same probability for the structures examined are given in these planes. As an example this method is applied to the hippocampal formation and the results attained are shown.",
+     "FAU": [
+          "Gerke, M",
+          "Schutz, T",
+          "Vogt, H",
+          "Kretschmann, H J"
+     ],
+     "AU": [
+          "Gerke M",
+          "Schutz T",
+          "Vogt H",
+          "Kretschmann HJ"
+     ],
+     "AD": "Abteilung Neuroanatomie, Medizinische Hochschule Hannover, Federal Republic of Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Germany",
+     "TA": "Anat Embryol (Berl)",
+     "JT": "Anatomy and embryology",
+     "JID": "7505194",
+     "SB": "IM",
+     "MH": [
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Limbic System/*anatomy & histology",
+          "Magnetic Resonance Imaging",
+          "Mammillary Bodies/*anatomy & histology",
+          "*Mathematical Computing",
+          "Stereotaxic Techniques",
+          "Tomography, X-Ray Computed"
+     ],
+     "EDAT": "1992/07/01 00:00",
+     "MHDA": "1992/07/01 00:01",
+     "CRDT": [
+          "1992/07/01 00:00"
+     ],
+     "PHST": [
+          "1992/07/01 00:00 [pubmed]",
+          "1992/07/01 00:01 [medline]",
+          "1992/07/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Anat Embryol (Berl). 1992 Jul;186(2):137-43.",
+     "term": "hippocampus"
+}

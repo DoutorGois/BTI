@@ -1,0 +1,97 @@
+{
+     "PMID": "27311642",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180205",
+     "LR": "20180205",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "139",
+     "DP": "2016 Oct 1",
+     "TI": "Prediction of successful memory encoding based on single-trial rhinal and hippocampal phase information.",
+     "PG": "127-135",
+     "LID": "S1053-8119(16)30270-1 [pii] 10.1016/j.neuroimage.2016.06.021 [doi]",
+     "AB": "Mediotemporal EEG characteristics are closely related to long-term memory formation. It has been reported that rhinal and hippocampal EEG measures reflecting the stability of phases across trials are better suited to distinguish subsequently remembered from forgotten trials than event-related potentials or amplitude-based measures. Theoretical models suggest that the phase of EEG oscillations reflects neural excitability and influences cellular plasticity. However, while previous studies have shown that the stability of phase values across trials is indeed a relevant predictor of subsequent memory performance, the effect of absolute single-trial phase values has been little explored. Here, we reanalyzed intracranial EEG recordings from the mediotemporal lobe of 27 epilepsy patients performing a continuous word recognition paradigm. Two-class classification using a support vector machine was performed to predict subsequently remembered vs. forgotten trials based on individually selected frequencies and time points. We demonstrate that it is possible to successfully predict single-trial memory formation in the majority of patients (23 out of 27) based on only three single-trial phase values given by a rhinal phase, a hippocampal phase, and a rhinal-hippocampal phase difference. Overall classification accuracy across all subjects was 69.2% choosing frequencies from the range between 0.5 and 50Hz and time points from the interval between -0.5s and 2s. For 19 patients, above chance prediction of subsequent memory was possible even when choosing only time points from the prestimulus interval (overall accuracy: 65.2%). Furthermore, prediction accuracies based on single-trial phase surpassed those based on single-trial power. Our results confirm the functional relevance of mediotemporal EEG phase for long-term memory operations and suggest that phase information may be utilized for memory enhancement applications based on deep brain stimulation.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Hohne, Marlene",
+          "Jahanbekam, Amirhossein",
+          "Bauckhage, Christian",
+          "Axmacher, Nikolai",
+          "Fell, Juergen"
+     ],
+     "AU": [
+          "Hohne M",
+          "Jahanbekam A",
+          "Bauckhage C",
+          "Axmacher N",
+          "Fell J"
+     ],
+     "AD": "Department of Epileptology, University of Bonn, D-53105 Bonn, Germany. Department of Epileptology, University of Bonn, D-53105 Bonn, Germany. Bonn-Aachen International Center for Information Technology, University of Bonn, D-53113 Bonn, Germany; Fraunhofer Institute for Intelligent Analysis and Information Systems IAIS, D-53757 Sankt Augustin, Germany. Department of Neuropsychology, Institute of Cognitive Neuroscience, Faculty of Psychology, Ruhr University Bochum, D-44801 Bochum, Germany; German Center for Neurodegenerative Diseases (DZNE), D-53175 Bonn, Germany. Department of Epileptology, University of Bonn, D-53105 Bonn, Germany. Electronic address: juergen.fell@ukb.uni-bonn.de.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160614",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Brain Mapping/methods",
+          "Computer Simulation",
+          "Cortical Synchronization/*physiology",
+          "Electroencephalography/methods",
+          "Entorhinal Cortex/*physiology",
+          "Female",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Male",
+          "Memory/*physiology",
+          "Mental Recall/*physiology",
+          "Middle Aged",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Task Performance and Analysis",
+          "Young Adult"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Hippocampus",
+          "Intracranial EEG",
+          "Memory formation",
+          "Phase",
+          "Prediction",
+          "Rhinal cortex"
+     ],
+     "EDAT": "2016/06/18 06:00",
+     "MHDA": "2018/02/06 06:00",
+     "CRDT": [
+          "2016/06/18 06:00"
+     ],
+     "PHST": [
+          "2016/02/09 00:00 [received]",
+          "2016/05/09 00:00 [revised]",
+          "2016/06/12 00:00 [accepted]",
+          "2016/06/18 06:00 [pubmed]",
+          "2018/02/06 06:00 [medline]",
+          "2016/06/18 06:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(16)30270-1 [pii]",
+          "10.1016/j.neuroimage.2016.06.021 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2016 Oct 1;139:127-135. doi: 10.1016/j.neuroimage.2016.06.021. Epub 2016 Jun 14.",
+     "term": "hippocampus"
+}

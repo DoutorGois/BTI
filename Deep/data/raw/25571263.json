@@ -1,0 +1,88 @@
+{
+     "PMID": "25571263",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151102",
+     "LR": "20161019",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2014",
+     "DP": "2014",
+     "TI": "Lateralization of temporal lobe epilepsy by imaging-based response-driven multinomial multivariate models.",
+     "PG": "5595-8",
+     "LID": "10.1109/EMBC.2014.6944895 [doi]",
+     "AB": "We have developed response-driven multinomial models, based on multivariate imaging features, to lateralize the epileptogenicity in temporal lobe epilepsy (TLE) patients. To this end, volumetrics and statistical quantities of FLAIR intensity and normalized ictal-interictal SPECT intensity on left and right hippocampi were extracted from preoperative images of forty-five retrospective TLE patients with surgical outcome of Engel class l. Using multinomial logistic function regression, the parameters of various univariate and multivariate models were estimated. Among univariate response models, the response model with SPECT attributes and response model with mean FLAIR attributes achieved the lowest fit deviance (65.1+/-0.2 and 65.5+/-0.3, respectively). They resulted in the highest probability of detection (0.82) and lowest probability of false alarm (0.02) for the epileptogenic side. The multivariate response model with incorporating all volumetrics, mean and standard deviation FLAIR, and SPECT attributes achieved a significantly lower fit deviance than other response models (11.9+/-0.1, p <; 0.001). It reached probability of detection of 1 with no false alarms. We were able to correctly lateralize the fifteen TLE patients who had undergone phase II intracranial monitoring. Therefore, the phase II intracranial monitoring might have been avoided for this set of patients. Based on this lateralization response model, the side of epileptogenicity was also detected for all thirty patients who had preceded to resection with only phase I of EEG monitoring. In conclusion, the proposed multinomial multivariate response-driven model for lateralization of epileptogenicity in TLE patients can help in decision-making prior to surgical resection and may reduce the need for implantation of intracranial monitoring electrodes.",
+     "FAU": [
+          "Nazem-Zadeh, Mohammad-Reza",
+          "Schwalb, Jason M",
+          "Bagher-Ebadian, Hassan",
+          "Mahmoudi, Fariborz",
+          "Hosseini, Mohammad-Parsa",
+          "Jafari-Khouzani, Kourosh",
+          "Elisevich, Kost V",
+          "Soltanian-Zadeh, Hamid"
+     ],
+     "AU": [
+          "Nazem-Zadeh MR",
+          "Schwalb JM",
+          "Bagher-Ebadian H",
+          "Mahmoudi F",
+          "Hosseini MP",
+          "Jafari-Khouzani K",
+          "Elisevich KV",
+          "Soltanian-Zadeh H"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB013227/EB/NIBIB NIH HHS/United States",
+          "R01-EB013227/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Electrodes",
+          "*Electroencephalography",
+          "Epilepsy, Temporal Lobe/*physiopathology",
+          "Female",
+          "Hippocampus/*physiopathology",
+          "Humans",
+          "*Image Processing, Computer-Assisted",
+          "Logistic Models",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Probability",
+          "Retrospective Studies",
+          "*Tomography, Emission-Computed, Single-Photon"
+     ],
+     "PMC": "PMC4504220",
+     "MID": [
+          "NIHMS705923"
+     ],
+     "EDAT": "2015/01/09 06:00",
+     "MHDA": "2015/11/03 06:00",
+     "CRDT": [
+          "2015/01/09 06:00"
+     ],
+     "PHST": [
+          "2015/01/09 06:00 [entrez]",
+          "2015/01/09 06:00 [pubmed]",
+          "2015/11/03 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2014.6944895 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2014;2014:5595-8. doi: 10.1109/EMBC.2014.6944895.",
+     "term": "hippocampus"
+}

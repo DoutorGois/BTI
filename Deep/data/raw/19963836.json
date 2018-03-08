@@ -1,0 +1,77 @@
+{
+     "PMID": "19963836",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100408",
+     "LR": "20161025",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2009",
+     "DP": "2009",
+     "TI": "Sparse generalized Laguerre-Volterra model of neural population dynamics.",
+     "PG": "4555-8",
+     "LID": "10.1109/IEMBS.2009.5332719 [doi]",
+     "AB": "To understand the function of a brain region, e.g., hippocampus, it is necessary to model its input-output property. Such a model can serve as the computational basis of the development of cortical prostheses restoring the transformation of population neural activities performed by the brain region. We formulate a sparse generalized Laguerre-Volterra model (SGLVM) for the multiple-input, multiple-output (MIMO) transformation of spike trains. A SGLVM consists of a set of feedforward Laguerre-Volterra kernels, a feedback Laguerre-Volterra kernel, and a probit link function. The sparse model representation involving only significant self and cross terms is achieved through statistical model selection and cross-validation methods. The SGLVM is applied successfully to the hippocampal CA3-CA1 population dynamics.",
+     "FAU": [
+          "Song, Dong",
+          "Chan, Rosa H M",
+          "Marmarelis, Vasilis Z",
+          "Hampson, Robert E",
+          "Deadwyler, Sam A",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Song D",
+          "Chan RH",
+          "Marmarelis VZ",
+          "Hampson RE",
+          "Deadwyler SA",
+          "Berger TW"
+     ],
+     "AD": "Department of Biomedical Engineering, Center for Neural Engineering, University of Southern California, Los Angeles, CA 90089, USA. dsong@usc.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 DA007625/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Algorithms",
+          "Animals",
+          "CA1 Region, Hippocampal/physiology",
+          "CA3 Region, Hippocampal/physiology",
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "Nonlinear Dynamics",
+          "Normal Distribution",
+          "Rats",
+          "Reproducibility of Results",
+          "Statistics, Nonparametric"
+     ],
+     "EDAT": "2009/12/08 06:00",
+     "MHDA": "2010/04/09 06:00",
+     "CRDT": [
+          "2009/12/08 06:00"
+     ],
+     "PHST": [
+          "2009/12/08 06:00 [entrez]",
+          "2009/12/08 06:00 [pubmed]",
+          "2010/04/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2009.5332719 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2009;2009:4555-8. doi: 10.1109/IEMBS.2009.5332719.",
+     "term": "hippocampus"
+}

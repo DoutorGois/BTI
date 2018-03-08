@@ -1,0 +1,66 @@
+{
+     "PMID": "2244969",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19910109",
+     "LR": "20071114",
+     "IS": "0166-4328 (Print) 0166-4328 (Linking)",
+     "VI": "39",
+     "IP": "3",
+     "DP": "1990 Aug 20",
+     "TI": "Role of the hippocampus in temporal and spatial navigation: an adaptive neural network.",
+     "PG": "205-29",
+     "AB": "The hippocampus has been proposed to participate in either spatial or temporal mapping. As an alternative to these seemingly conflicting views, we hypothesized that the hippocampus computes 'aggregate predictions' of environmental events that are used to control associative learning. Aggregate predictions forecast what event is going to occur, when in time, and where in space. The hypothesis assumes that activity of hippocampal pyramidal neurons is proportional to the instantaneous value of the aggregate prediction, and that the computation of the aggregate prediction is impaired by hippocampal lesions. In order to test the 'aggregate prediction' hypothesis in both spatial and temporal tasks, this paper presents a real-time neural network capable of describing temporal discrimination and spatial learning in a unified fashion. The neural network incorporates detectors that can be tuned to a particular value of continuous temporal or spatial variables. In the temporal domain, computer simulations were carried out for temporal discrimination in classical conditioning and instrumental learning, classical conditioning under different interstimulus intervals (ISIs), and classical conditioning with mixed ISIs. In the spatial domain, computer simulations were carried out for place and cue learning. The paper shows that under the 'aggregate prediction' hypothesis the network correctly describes activity of hippocampal pyramidal neurons and the effect of hippocampal lesions in temporal and spatial learning. These results suggest that, rather than either a temporal or spatial function, the hippocampus is involved in the computation of variables common to both temporal and spatial navigation.",
+     "FAU": [
+          "Schmajuk, N A"
+     ],
+     "AU": [
+          "Schmajuk NA"
+     ],
+     "AD": "Department of Psychology, Northwestern University, Evanston, IL 60201.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "SO7 RR07028-22/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+     ],
+     "PL": "Netherlands",
+     "TA": "Behav Brain Res",
+     "JT": "Behavioural brain research",
+     "JID": "8004872",
+     "SB": "IM S",
+     "MH": [
+          "Animals",
+          "Association Learning/*physiology",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/physiology",
+          "Orientation/*physiology",
+          "Psychomotor Performance/*physiology",
+          "Rats",
+          "Social Environment",
+          "Space Perception/*physiology",
+          "Time Perception/*physiology"
+     ],
+     "RF": "92",
+     "EDAT": "1990/08/20 00:00",
+     "MHDA": "1990/08/20 00:01",
+     "CRDT": [
+          "1990/08/20 00:00"
+     ],
+     "PHST": [
+          "1990/08/20 00:00 [pubmed]",
+          "1990/08/20 00:01 [medline]",
+          "1990/08/20 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Behav Brain Res. 1990 Aug 20;39(3):205-29.",
+     "term": "spatial navigation"
+}

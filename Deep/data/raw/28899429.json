@@ -1,0 +1,76 @@
+{
+     "PMID": "28899429",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20170917",
+     "IS": "1758-9193 (Electronic)",
+     "VI": "9",
+     "IP": "1",
+     "DP": "2017 Sep 12",
+     "TI": "Amyloid-independent atrophy patterns predict time to progression to dementia in mild cognitive impairment.",
+     "PG": "73",
+     "LID": "10.1186/s13195-017-0299-x [doi]",
+     "AB": "BACKGROUND: Amyloid pathology in subjects with mild cognitive impairment (MCI) is an important risk factor for progression to dementia due to Alzheimer's disease. Predicting the onset of dementia is challenging even in the presence of amyloid, as time to progression varies considerably among patients and depends on the onset of neurodegeneration. Survival analysis can account for variability in time to event, but has not often been applied to MRI measurements beyond singular predefined brain regions such as the hippocampus. Here we used a voxel-wise survival analysis to identify in an unbiased fashion brain regions where decreased gray matter volume is associated with time to dementia, and assessed the effects of amyloid on these associations. METHODS: We included 276 subjects with MCI (mean age 67 +/- 8, 41% female, mean Mini-Mental State Examination 26.6 +/- 2.4), baseline 3D T1-weighted structural MRI, baseline cerebrospinal fluid (CSF) biomarkers, and prospective clinical follow-up. We fitted for each voxel a proportional Cox hazards regression model to study whether decreased gray matter volume predicted progression to dementia in the total sample, and stratified for baseline amyloid status. RESULTS: Dementia at follow-up occurred in 122 (44%) subjects over an average follow-up period of 2.5 +/- 1.5 years. Baseline amyloid positivity was associated with progression to dementia (hazard ratio 2.4, p < 0.001). Within amyloid-positive subjects, decreased gray matter volume in the hippocampal, temporal, parietal, and frontal regions was associated with more rapid progression to dementia (median (interquartile range) hazard ratio across significant voxels 1.35 (1.32-1.40)). Repeating the analysis in amyloid-negative subjects revealed similar patterns (median (interquartile range) hazard ratio 1.76 (1.66-1.91)). CONCLUSIONS: In subjects with MCI, both abnormal amyloid CSF and decreased gray matter volume were associated with future progression to dementia. The spatial pattern of decreased gray matter volume associated with progression to dementia was consistent for amyloid-positive and amyloid-negative subjects.",
+     "FAU": [
+          "Ten Kate, Mara",
+          "Barkhof, Frederik",
+          "Visser, Pieter Jelle",
+          "Teunissen, Charlotte E",
+          "Scheltens, Philip",
+          "van der Flier, Wiesje M",
+          "Tijms, Betty M"
+     ],
+     "AU": [
+          "Ten Kate M",
+          "Barkhof F",
+          "Visser PJ",
+          "Teunissen CE",
+          "Scheltens P",
+          "van der Flier WM",
+          "Tijms BM"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-8290-8543"
+     ],
+     "AD": "Alzheimer Center & Department of Neurology, Neuroscience Campus Amsterdam, VU University Medical Center, Amsterdam, The Netherlands. m.tenkate1@vumc.nl. Alzheimer Center & Department of Neurology, VU University Medical Center, PO Box 7057, 1007 MB, Amsterdam, The Netherlands. m.tenkate1@vumc.nl. Department of Radiology and Nuclear Medicine, Neuroscience Campus Amsterdam, VU University Medical Center, Amsterdam, The Netherlands. Institutes of Neurology and Healthcare Engineering, University College London, London, UK. Alzheimer Center & Department of Neurology, Neuroscience Campus Amsterdam, VU University Medical Center, Amsterdam, The Netherlands. Department of Psychiatry & Neuropsychology, School for Mental Health and Neuroscience, Maastricht University, Maastricht, The Netherlands. Neurochemistry Laboratory and Biobank, Department of Clinical Chemistry, VU University Medical Center, Neuroscience Amsterdam, Amsterdam, The Netherlands. Alzheimer Center & Department of Neurology, Neuroscience Campus Amsterdam, VU University Medical Center, Amsterdam, The Netherlands. Alzheimer Center & Department of Neurology, Neuroscience Campus Amsterdam, VU University Medical Center, Amsterdam, The Netherlands. Department of Epidemiology and Biostatistics, VU University Medical Center, Amsterdam, The Netherlands. Alzheimer Center & Department of Neurology, Neuroscience Campus Amsterdam, VU University Medical Center, Amsterdam, The Netherlands.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170912",
+     "PL": "England",
+     "TA": "Alzheimers Res Ther",
+     "JT": "Alzheimer's research & therapy",
+     "JID": "101511643",
+     "PMC": "PMC5596472",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Magnetic resonance imaging",
+          "Mild cognitive impairment",
+          "survival analysis"
+     ],
+     "EDAT": "2017/09/14 06:00",
+     "MHDA": "2017/09/14 06:00",
+     "CRDT": [
+          "2017/09/14 06:00"
+     ],
+     "PHST": [
+          "2017/01/06 00:00 [received]",
+          "2017/08/22 00:00 [accepted]",
+          "2017/09/14 06:00 [entrez]",
+          "2017/09/14 06:00 [pubmed]",
+          "2017/09/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1186/s13195-017-0299-x [doi]",
+          "10.1186/s13195-017-0299-x [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Alzheimers Res Ther. 2017 Sep 12;9(1):73. doi: 10.1186/s13195-017-0299-x.",
+     "term": "hippocampus"
+}

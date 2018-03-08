@@ -1,0 +1,69 @@
+{
+     "PMID": "26357136",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160513",
+     "LR": "20150911",
+     "IS": "1941-0506 (Electronic) 1077-2626 (Linking)",
+     "VI": "18",
+     "IP": "12",
+     "DP": "2012 Dec",
+     "TI": "Interactive Volume Exploration of Petascale Microscopy Data Streams Using a Visualization-Driven Virtual Memory Approach.",
+     "PG": "2285-94",
+     "LID": "10.1109/TVCG.2012.240 [doi]",
+     "AB": "This paper presents the first volume visualization system that scales to petascale volumes imaged as a continuous stream of high-resolution electron microscopy images. Our architecture scales to dense, anisotropic petascale volumes because it: (1) decouples construction of the 3D multi-resolution representation required for visualization from data acquisition, and (2) decouples sample access time during ray-casting from the size of the multi-resolution hierarchy. Our system is designed around a scalable multi-resolution virtual memory architecture that handles missing data naturally, does not pre-compute any 3D multi-resolution representation such as an octree, and can accept a constant stream of 2D image tiles from the microscopes. A novelty of our system design is that it is visualization-driven: we restrict most computations to the visible volume data. Leveraging the virtual memory architecture, missing data are detected during volume ray-casting as cache misses, which are propagated backwards for on-demand out-of-core processing. 3D blocks of volume data are only constructed from 2D microscope image tiles when they have actually been accessed during ray-casting. We extensively evaluate our system design choices with respect to scalability and performance, compare to previous best-of-breed systems, and illustrate the effectiveness of our system for real microscopy data from neuroscience.",
+     "FAU": [
+          "Hadwiger, M",
+          "Beyer, J",
+          "Jeong, Won-Ki",
+          "Pfister, H"
+     ],
+     "AU": [
+          "Hadwiger M",
+          "Beyer J",
+          "Jeong WK",
+          "Pfister H"
+     ],
+     "AD": "King Abdullah University of Science and Technology (KAUST). markus.hadwiger@kaust.edu.sa",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Vis Comput Graph",
+     "JT": "IEEE transactions on visualization and computer graphics",
+     "JID": "9891704",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "*Artificial Intelligence",
+          "Cerebral Cortex/ultrastructure",
+          "*Databases, Factual",
+          "Hippocampus/ultrastructure",
+          "*Image Processing, Computer-Assisted",
+          "Mice",
+          "Microscopy, Electron/*methods",
+          "Models, Theoretical"
+     ],
+     "EDAT": "2012/12/01 00:00",
+     "MHDA": "2016/05/14 06:00",
+     "CRDT": [
+          "2015/09/11 06:00"
+     ],
+     "PHST": [
+          "2015/09/11 06:00 [entrez]",
+          "2012/12/01 00:00 [pubmed]",
+          "2016/05/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TVCG.2012.240 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Vis Comput Graph. 2012 Dec;18(12):2285-94. doi: 10.1109/TVCG.2012.240.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,64 @@
+{
+     "PMID": "20879324",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101115",
+     "LR": "20100930",
+     "VI": "13",
+     "IP": "Pt 2",
+     "DP": "2010",
+     "TI": "Hippocampal shape classification using redundancy constrained feature selection.",
+     "PG": "266-73",
+     "AB": "Landmark-based 3D hippocampal shape classification involves high-dimensional descriptor space, many noisy and redundant features, and a very small number of training samples. Feature selection becomes critical in this situation, because it not only improves classification performance, but also identifies the regions that contribute more to shape discrimination. This work identifies the drawbacks of SVM-RFE, and proposes a novel class-separability-based feature selection approach to overcome them. We formulate feature selection as a constrained integer optimization and develop a new algorithm to efficiently and optimally solve this problem. Theoretical analysis and experimental study on both synthetic data and real hippocampus data demonstrate its superior performance over the prevailing SVM-RFE. Our work provides a new efficient feature selection tool for hippocampal shape classification.",
+     "FAU": [
+          "Zhou, Luping",
+          "Wang, Lei",
+          "Shen, Chunhua",
+          "Barnes, Nick"
+     ],
+     "AU": [
+          "Zhou L",
+          "Wang L",
+          "Shen C",
+          "Barnes N"
+     ],
+     "AD": "School of Engineering, The Australian National University.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2010/10/01 06:00",
+     "MHDA": "2010/11/16 06:00",
+     "CRDT": [
+          "2010/10/01 06:00"
+     ],
+     "PHST": [
+          "2010/10/01 06:00 [entrez]",
+          "2010/10/01 06:00 [pubmed]",
+          "2010/11/16 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2010;13(Pt 2):266-73.",
+     "term": "hippocampus"
+}

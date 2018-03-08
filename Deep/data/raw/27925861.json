@@ -1,0 +1,71 @@
+{
+     "PMID": "27925861",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170522",
+     "LR": "20171207",
+     "IS": "1938-5404 (Electronic) 0033-7587 (Linking)",
+     "VI": "186",
+     "IP": "6",
+     "DP": "2016 Dec",
+     "TI": "Modeling Heavy-Ion Impairment of Hippocampal Neurogenesis after Acute and Fractionated Irradiation.",
+     "PG": "624-637",
+     "LID": "10.1667/RR14569.1 [doi]",
+     "AB": "Radiation-induced impairment of neurogenesis in the hippocampal dentate gyrus is a concern due to its reported association with cognitive detriments after radiotherapy for brain cancers and the possible risks to astronauts chronically exposed to space radiation. Here, we have extended our recent work in a mouse model of impaired neurogenesis after exposure to low-linear energy transfer (LET) radiation to heavy ion irradiation. To our knowledge, this is the first report of a predictive mathematical model of radiation-induced changes to neurogenesis for a variety of radiation types after acute or fractionated irradiation. We used a system of nonlinear ordinary differential equations (ODEs) to represent age, time after exposure and dose-dependent changes to several cell populations participating in neurogenesis, as reported in mouse experiments. We considered four compartments to model hippocampal neurogenesis and, consequently, the effects of radiation in altering neurogenesis: 1. neural stem cells (NSCs); 2. neuronal progenitor cells or neuroblasts (NB); 3. immature neurons (ImN); and 4. glioblasts (GB), with additional consideration of microglial activation. The model describes the negative feedback regulation on early and late neuronal proliferation after irradiation, and the dynamics of the age dependence of neurogenesis. We compared our model to experimental data for X rays, and protons, carbon and iron particles, including data for fractionated iron-particle irradiation. Heavy-ion irradiation is predicted to lead to poor recovery or no recovery from impaired neurogenesis at doses as low as 0.5 Gy in mice. This is only partially ameliorated by dose fractionation, which suggests important implications for Hardon therapy near the Bragg peak, and possibly for space radiation exposures as well. Predictions of the threshold doses where neurogenesis recovery fails for given radiation types are described, and the role of subthreshold transient impairments are briefly discussed.",
+     "FAU": [
+          "Cacao, Eliedonna",
+          "Cucinotta, Francis A"
+     ],
+     "AU": [
+          "Cacao E",
+          "Cucinotta FA"
+     ],
+     "AD": "Department of Health Physics and Diagnostic Sciences, University of Nevada, Las Vegas, Nevada. Department of Health Physics and Diagnostic Sciences, University of Nevada, Las Vegas, Nevada.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 CA208526/CA/NCI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20161207",
+     "PL": "United States",
+     "TA": "Radiat Res",
+     "JT": "Radiation research",
+     "JID": "0401245",
+     "SB": "IM S",
+     "MH": [
+          "Animals",
+          "*Dose Fractionation",
+          "Heavy Ions/*adverse effects",
+          "Hippocampus/*cytology",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "*Models, Biological",
+          "Neurogenesis/*radiation effects",
+          "Neurons/*cytology/*radiation effects",
+          "Time Factors"
+     ],
+     "PMC": "PMC5545979",
+     "MID": [
+          "NIHMS884311"
+     ],
+     "EDAT": "2016/12/08 06:00",
+     "MHDA": "2017/05/23 06:00",
+     "CRDT": [
+          "2016/12/08 06:00"
+     ],
+     "PHST": [
+          "2016/12/08 06:00 [pubmed]",
+          "2017/05/23 06:00 [medline]",
+          "2016/12/08 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1667/RR14569.1 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Radiat Res. 2016 Dec;186(6):624-637. doi: 10.1667/RR14569.1. Epub 2016 Dec 7.",
+     "term": "hippocampus"
+}

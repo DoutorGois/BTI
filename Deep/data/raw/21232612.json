@@ -1,0 +1,106 @@
+{
+     "PMID": "21232612",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110628",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "55",
+     "IP": "3",
+     "DP": "2011 Apr 1",
+     "TI": "Spatio-temporal activity in real time (STAR): optimization of regional fMRI feedback.",
+     "PG": "1044-53",
+     "LID": "10.1016/j.neuroimage.2010.12.085 [doi]",
+     "AB": "The use of real-time feedback has expanded fMRI from a brain probe to include potential brain interventions with significant therapeutic promise. However, whereas time-averaged blood oxygenation level-dependent (BOLD) signal measurement is usually sufficient for probing a brain state, the real-time (frame-to-frame) BOLD signal is noisy, compromising feedback accuracy. We have developed a new real-time processing technique (STAR) that combines noise-reduction properties of multi-voxel (e.g., whole-brain) techniques with the regional specificity critical for therapeutics. Nineteen subjects were given real-time feedback in a cognitive control task (imagining repetitive motor activity vs. spatial navigation), and were all able to control a visual feedback cursor based on whole-brain neural activity. The STAR technique was evaluated, retrospectively, for five a priori regions of interest in these data, and was shown to provide significantly better (frame-by-frame) classification accuracy than a regional BOLD technique. In addition to regional feedback signals, the output of the STAR technique includes spatio-temporal activity maps (movies) providing insight into brain dynamics. The STAR approach offers an appealing optimization for real-time fMRI applications requiring an anatomically-localized feedback signal.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Magland, Jeremy F",
+          "Tjoa, Christopher W",
+          "Childress, Anna Rose"
+     ],
+     "AU": [
+          "Magland JF",
+          "Tjoa CW",
+          "Childress AR"
+     ],
+     "AD": "Department of Radiology, University of Pennsylvania School of Medicine, 1 Founders Pavilion, MRI Education Center, 3400 Spruce Street, Philadelphia, PA 19104, USA. Jeremy.Magland@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K25 EB007646/EB/NIBIB NIH HHS/United States",
+          "R33 DA026114/DA/NIDA NIH HHS/United States",
+          "K25 EB007646-01A1/EB/NIBIB NIH HHS/United States",
+          "K25-EB007646/EB/NIBIB NIH HHS/United States",
+          "P50-DA12756/DA/NIDA NIH HHS/United States",
+          "P50 DA012756/DA/NIDA NIH HHS/United States",
+          "P60 DA005186/DA/NIDA NIH HHS/United States",
+          "R33-DA026114/DA/NIDA NIH HHS/United States",
+          "P60-DA005186/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110111",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "S88TT14065 (Oxygen)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Brain/*anatomy & histology/*physiology",
+          "Brain Mapping",
+          "Cognition/physiology",
+          "Computer Systems",
+          "Data Interpretation, Statistical",
+          "Feedback",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Learning",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Models, Neurological",
+          "Motion Perception/physiology",
+          "Motor Activity/physiology",
+          "Oxygen/blood",
+          "Regression Analysis",
+          "Reproducibility of Results",
+          "Space Perception/physiology",
+          "Young Adult"
+     ],
+     "PMC": "PMC3057229",
+     "MID": [
+          "NIHMS265125"
+     ],
+     "EDAT": "2011/01/15 06:00",
+     "MHDA": "2011/06/29 06:00",
+     "CRDT": [
+          "2011/01/15 06:00"
+     ],
+     "PHST": [
+          "2010/08/17 00:00 [received]",
+          "2010/12/11 00:00 [revised]",
+          "2010/12/15 00:00 [accepted]",
+          "2011/01/15 06:00 [entrez]",
+          "2011/01/15 06:00 [pubmed]",
+          "2011/06/29 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)00017-6 [pii]",
+          "10.1016/j.neuroimage.2010.12.085 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 Apr 1;55(3):1044-53. doi: 10.1016/j.neuroimage.2010.12.085. Epub 2011 Jan 11.",
+     "term": "spatial navigation"
+}

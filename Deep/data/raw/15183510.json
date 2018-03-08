@@ -1,0 +1,79 @@
+{
+     "PMID": "15183510",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040914",
+     "LR": "20061115",
+     "IS": "0306-4522 (Print) 0306-4522 (Linking)",
+     "VI": "126",
+     "IP": "3",
+     "DP": "2004",
+     "TI": "Modulation of septo-hippocampal Theta activity by GABAA receptors: an experimental and computational approach.",
+     "PG": "599-610",
+     "AB": "Theta frequency oscillation of the septo-hippocampal system has been considered as a prominent activity associated with cognitive function and affective processes. It is well documented that anxiolytic drugs diminish septo-hippocampal oscillatory Theta activity contributing to their either therapeutic or unwanted side effects. In the present experiments we applied a combination of computational and physiological techniques to explore the functional role of GABAA receptors in Theta oscillation. In electrophysiological experiments extracellular single unit recordings were performed from medial septum/diagonal band of Broca with simultaneous hippocampal (CA1) electroencephalogram (EEG) recordings from anesthetized rats. Neurotransmission at GABAA receptors were modulated by means of pharmacological tools: the actions of the GABAA receptor positive allosteric modulator diazepam and inverse agonist/negative allosteric modulator FG-7142 were evaluated on septo-hippocampal activity. Systemic administration of diazepam inhibited, whereas FG-7142 enhanced Theta oscillation of septal neurons and hippocampal EEG Theta activity. In parallel to these experimental observations, a computational model has been constructed by implementing a septal GABA neuron model with a CA1 hippocampal model containing three types of neurons (including oriens and basket interneurons and pyramidal cells; latter modeled by multicompartmental techniques; for detailed model description with network parameters see online addendum: http://geza.kzoo.edu/theta). This connectivity made the network capable of simulating the responses of the septo-hippocampal circuitry to the modulation of GABAA transmission, and the presently described computational model proved suitable to reveal several aspects of pharmacological modulation of GABAA receptors. In addition, computational findings indicated different roles of distinctively located GABAA receptors in theta generation.",
+     "FAU": [
+          "Hajos, M",
+          "Hoffmann, W E",
+          "Orban, G",
+          "Kiss, T",
+          "Erdi, P"
+     ],
+     "AU": [
+          "Hajos M",
+          "Hoffmann WE",
+          "Orban G",
+          "Kiss T",
+          "Erdi P"
+     ],
+     "AD": "Department of Neuroscience, Global Research and Development, Pfizer Inc., Eastern Point Road, Groton, CT 06340, USA. mihaly.hajos@pfizer.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuroscience",
+     "JT": "Neuroscience",
+     "JID": "7605074",
+     "RN": [
+          "0 (GABA Agonists)",
+          "0 (GABA Antagonists)",
+          "0 (Receptors, GABA-A)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "GABA Agonists/pharmacology",
+          "GABA Antagonists/pharmacology",
+          "Hippocampus/drug effects/*physiology",
+          "Male",
+          "Microelectrodes",
+          "*Models, Neurological",
+          "Neurons/drug effects/physiology",
+          "Rats",
+          "Rats, Wistar",
+          "Receptors, GABA-A/*metabolism",
+          "Septum of Brain/drug effects/*physiology",
+          "*Theta Rhythm/drug effects"
+     ],
+     "EDAT": "2004/06/09 05:00",
+     "MHDA": "2004/09/15 05:00",
+     "CRDT": [
+          "2004/06/09 05:00"
+     ],
+     "PHST": [
+          "2004/03/23 00:00 [accepted]",
+          "2004/06/09 05:00 [pubmed]",
+          "2004/09/15 05:00 [medline]",
+          "2004/06/09 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1016/j.neuroscience.2004.03.043 [doi]",
+          "S0306452204002301 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroscience. 2004;126(3):599-610. doi: 10.1016/j.neuroscience.2004.03.043.",
+     "term": "hippocampus"
+}

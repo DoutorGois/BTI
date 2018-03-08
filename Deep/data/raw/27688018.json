@@ -1,0 +1,83 @@
+{
+     "PMID": "27688018",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171116",
+     "LR": "20171128",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "274",
+     "DP": "2016 Dec 1",
+     "TI": "Improved detection of soma location and morphology in fluorescence microscopy images of neurons.",
+     "PG": "61-70",
+     "LID": "S0165-0270(16)30210-2 [pii] 10.1016/j.jneumeth.2016.09.007 [doi]",
+     "AB": "BACKGROUND: Automated detection and segmentation of somas in fluorescent images of neurons is a major goal in quantitative studies of neuronal networks, including applications of high-content-screenings where it is required to quantify multiple morphological properties of neurons. Despite recent advances in image processing targeted to neurobiological applications, existing algorithms of soma detection are often unreliable, especially when processing fluorescence image stacks of neuronal cultures. NEW METHOD: In this paper, we introduce an innovative algorithm for the detection and extraction of somas in fluorescent images of networks of cultured neurons where somas and other structures exist in the same fluorescent channel. Our method relies on a new geometrical descriptor called Directional Ratio and a collection of multiscale orientable filters to quantify the level of local isotropy in an image. To optimize the application of this approach, we introduce a new construction of multiscale anisotropic filters that is implemented by separable convolution. RESULTS: Extensive numerical experiments using 2D and 3D confocal images show that our automated algorithm reliably detects somas, accurately segments them, and separates contiguous ones. COMPARISON WITH EXISTING METHODS: We include a detailed comparison with state-of-the-art existing methods to demonstrate that our algorithm is extremely competitive in terms of accuracy, reliability and computational efficiency. CONCLUSIONS: Our algorithm will facilitate the development of automated platforms for high content neuron image processing. A Matlab code is released open-source and freely available to the scientific community.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Kayasandik, Cihan Bilge",
+          "Labate, Demetrio"
+     ],
+     "AU": [
+          "Kayasandik CB",
+          "Labate D"
+     ],
+     "AD": "Department of Mathematics, University of Houston, Houston, TX 77204, United States. Electronic address: kayasa89@math.uh.edu. Department of Mathematics, University of Houston, Houston, TX 77204, United States. Electronic address: dlabate@math.uh.edu.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160926",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Cell Body/*physiology",
+          "Cells, Cultured",
+          "Embryo, Mammalian",
+          "Hippocampus/cytology",
+          "Image Processing, Computer-Assisted",
+          "Microscopy, Confocal",
+          "Microscopy, Fluorescence/*methods",
+          "Neurons/*cytology",
+          "Rats",
+          "Software"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Confocal microscopy",
+          "Fluorescence microscopy",
+          "Image analysis",
+          "Multiscale analysis",
+          "Neuronal morphology",
+          "Soma detection"
+     ],
+     "EDAT": "2016/11/05 06:00",
+     "MHDA": "2017/11/29 06:00",
+     "CRDT": [
+          "2016/10/01 06:00"
+     ],
+     "PHST": [
+          "2016/07/15 00:00 [received]",
+          "2016/09/20 00:00 [revised]",
+          "2016/09/21 00:00 [accepted]",
+          "2016/11/05 06:00 [pubmed]",
+          "2017/11/29 06:00 [medline]",
+          "2016/10/01 06:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(16)30210-2 [pii]",
+          "10.1016/j.jneumeth.2016.09.007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2016 Dec 1;274:61-70. doi: 10.1016/j.jneumeth.2016.09.007. Epub 2016 Sep 26.",
+     "term": "hippocampus"
+}

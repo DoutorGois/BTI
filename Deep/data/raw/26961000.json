@@ -1,0 +1,74 @@
+{
+     "PMID": "26961000",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160909",
+     "LR": "20170220",
+     "IS": "1091-6490 (Electronic) 0027-8424 (Linking)",
+     "VI": "113",
+     "IP": "12",
+     "DP": "2016 Mar 22",
+     "TI": "Network synchronization in hippocampal neurons.",
+     "PG": "3341-6",
+     "LID": "10.1073/pnas.1515105113 [doi]",
+     "AB": "Oscillatory activity is widespread in dynamic neuronal networks. The main paradigm for the origin of periodicity consists of specialized pacemaking elements that synchronize and drive the rest of the network; however, other models exist. Here, we studied the spontaneous emergence of synchronized periodic bursting in a network of cultured dissociated neurons from rat hippocampus and cortex. Surprisingly, about 60% of all active neurons were self-sustained oscillators when disconnected, each with its own natural frequency. The individual neuron's tendency to oscillate and the corresponding oscillation frequency are controlled by its excitability. The single neuron intrinsic oscillations were blocked by riluzole, and are thus dependent on persistent sodium leak currents. Upon a gradual retrieval of connectivity, the synchrony evolves: Loose synchrony appears already at weak connectivity, with the oscillators converging to one common oscillation frequency, yet shifted in phase across the population. Further strengthening of the connectivity causes a reduction in the mean phase shifts until zero-lag is achieved, manifested by synchronous periodic network bursts. Interestingly, the frequency of network bursting matches the average of the intrinsic frequencies. Overall, the network behaves like other universal systems, where order emerges spontaneously by entrainment of independent rhythmic units. Although simplified with respect to circuitry in the brain, our results attribute a basic functional role for intrinsic single neuron excitability mechanisms in driving the network's activity and dynamics, contributing to our understanding of developing neural circuits.",
+     "FAU": [
+          "Penn, Yaron",
+          "Segal, Menahem",
+          "Moses, Elisha"
+     ],
+     "AU": [
+          "Penn Y",
+          "Segal M",
+          "Moses E"
+     ],
+     "AD": "Department of Physics of Complex Systems, The Weizmann Institute of Science, Rehovot 76100, Israel; Department of Neurobiology, The Weizmann Institute of Science, Rehovot 76100, Israel. Department of Physics of Complex Systems, The Weizmann Institute of Science, Rehovot 76100, Israel; elisha.moses@weizmann.ac.il.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160309",
+     "PL": "United States",
+     "TA": "Proc Natl Acad Sci U S A",
+     "JT": "Proceedings of the National Academy of Sciences of the United States of America",
+     "JID": "7505876",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Electrodes",
+          "Hippocampus/cytology/*physiology",
+          "Neurons/*physiology",
+          "Rats"
+     ],
+     "PMC": "PMC4812773",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "network",
+          "neuron",
+          "oscillator",
+          "persistent Na current",
+          "synchrony"
+     ],
+     "EDAT": "2016/03/11 06:00",
+     "MHDA": "2016/09/10 06:00",
+     "CRDT": [
+          "2016/03/11 06:00"
+     ],
+     "PHST": [
+          "2016/03/11 06:00 [entrez]",
+          "2016/03/11 06:00 [pubmed]",
+          "2016/09/10 06:00 [medline]"
+     ],
+     "AID": [
+          "1515105113 [pii]",
+          "10.1073/pnas.1515105113 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc Natl Acad Sci U S A. 2016 Mar 22;113(12):3341-6. doi: 10.1073/pnas.1515105113. Epub 2016 Mar 9.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,91 @@
+{
+     "PMID": "22398375",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120910",
+     "LR": "20161125",
+     "IS": "1875-8908 (Electronic) 1387-2877 (Linking)",
+     "VI": "30",
+     "IP": "1",
+     "DP": "2012",
+     "TI": "Toward a dynamic biomarker model in Alzheimer's disease.",
+     "PG": "91-100",
+     "LID": "10.3233/JAD-2012-111367 [doi]",
+     "AB": "Biomarkers, both biological and imaging, are indicators of specific changes that characterize Alzheimer's disease (AD) progression in vivo. Knowing the precise relationship between biomarkers and disease severity would allow for accurate disease staging and possible forecasting of decline. Jack et al. suggested as an initial hypothesis that this relationship be sigmoidal; the objective of this article is to determine, using large-scale population data from ADNI, the precise shape of this association. We considered six different models (linear; quadratic; robust quadratic; local quadratic regression; penalized B-spline; and sigmoid) and used the Akaike Information Criterion to gauge how well these models compare in conforming to the data. We included 576 subjects (229 controls, 193 AD, and 154 mild cognitive impairment subjects who converted to AD) from the ADNI study, for whom baseline data on cerebrospinal fluid amyloid-beta (Abeta)42, phosphorylated tau (p-tau), and total-tau (t-tau), hippocampal volumes, and FDG-PET were available. Analysis of this cross-sectional dataset showed that a local quadratic regression model was 42% more likely than a sigmoid to be the best model for Abeta42. This ratio augments to 22% and 73% for Penalized B-Spline in the case of p-tau and t-tau, respectively; to 3500% for the linear model for FDG-PET; and to 6700% for the Penalized B-Spline for hippocampal volumes. Preliminary, cross-sectional evidence therefore indicates that the shape of the association with disease severity is non-linear and differs between biomarkers.",
+     "FAU": [
+          "Mouiha, Abderazzak",
+          "Duchesne, Simon"
+     ],
+     "AU": [
+          "Mouiha A",
+          "Duchesne S"
+     ],
+     "AD": "Institut Universitaire en Sante Mentale de Quebec, 2601 de la Canadiere, QC, Canada.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Alzheimers Dis",
+     "JT": "Journal of Alzheimer's disease : JAD",
+     "JID": "9814863",
+     "RN": [
+          "0 (Amyloid beta-Peptides)",
+          "0 (Biomarkers)",
+          "0 (Peptide Fragments)",
+          "0 (amyloid beta-protein (1-42))",
+          "0 (tau Proteins)",
+          "0Z5B2CJX4D (Fluorodeoxyglucose F18)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*cerebrospinal fluid/diagnostic imaging/pathology/physiopathology",
+          "Amyloid beta-Peptides/cerebrospinal fluid",
+          "Biomarkers/*cerebrospinal fluid",
+          "Cognitive Dysfunction/cerebrospinal fluid",
+          "Female",
+          "Fluorodeoxyglucose F18",
+          "Hippocampus/diagnostic imaging/pathology",
+          "Humans",
+          "Longitudinal Studies",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "*Models, Statistical",
+          "*Nonlinear Dynamics",
+          "Peptide Fragments/cerebrospinal fluid",
+          "Positron-Emission Tomography",
+          "tau Proteins/cerebrospinal fluid"
+     ],
+     "EDAT": "2012/03/09 06:00",
+     "MHDA": "2012/09/11 06:00",
+     "CRDT": [
+          "2012/03/09 06:00"
+     ],
+     "PHST": [
+          "2012/03/09 06:00 [entrez]",
+          "2012/03/09 06:00 [pubmed]",
+          "2012/09/11 06:00 [medline]"
+     ],
+     "AID": [
+          "X5245X211010T561 [pii]",
+          "10.3233/JAD-2012-111367 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Alzheimers Dis. 2012;30(1):91-100. doi: 10.3233/JAD-2012-111367.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,74 @@
+{
+     "PMID": "21113115",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110110",
+     "LR": "20161019",
+     "IS": "1940-087X (Electronic) 1940-087X (Linking)",
+     "IP": "45",
+     "DP": "2010 Nov 14",
+     "TI": "Automated Sholl analysis of digitized neuronal morphology at multiple scales.",
+     "LID": "10.3791/2354 [doi] 2354 [pii]",
+     "AB": "Neuronal morphology plays a significant role in determining how neurons function and communicate. Specifically, it affects the ability of neurons to receive inputs from other cells and contributes to the propagation of action potentials. The morphology of the neurites also affects how information is processed. The diversity of dendrite morphologies facilitate local and long range signaling and allow individual neurons or groups of neurons to carry out specialized functions within the neuronal network. Alterations in dendrite morphology, including fragmentation of dendrites and changes in branching patterns, have been observed in a number of disease states, including Alzheimer's disease, schizophrenia, and mental retardation. The ability to both understand the factors that shape dendrite morphologies and to identify changes in dendrite morphologies is essential in the understanding of nervous system function and dysfunction. Neurite morphology is often analyzed by Sholl analysis and by counting the number of neurites and the number of branch tips. This analysis is generally applied to dendrites, but it can also be applied to axons. Performing this analysis by hand is both time consuming and inevitably introduces variability due to experimenter bias and inconsistency. The Bonfire program is a semi-automated approach to the analysis of dendrite and axon morphology that builds upon available open-source morphological analysis tools. Our program enables the detection of local changes in dendrite and axon branching behaviors by performing Sholl analysis on subregions of the neuritic arbor. For example, Sholl analysis is performed on both the neuron as a whole as well as on each subset of processes (primary, secondary, terminal, root, etc.) Dendrite and axon patterning is influenced by a number of intracellular and extracellular factors, many acting locally. Thus, the resulting arbor morphology is a result of specific processes acting on specific neurites, making it necessary to perform morphological analysis on a smaller scale in order to observe these local variations. The Bonfire program requires the use of two open-source analysis tools, the NeuronJ plugin to ImageJ and NeuronStudio. Neurons are traced in ImageJ, and NeuronStudio is used to define the connectivity between neurites. Bonfire contains a number of custom scripts written in MATLAB (MathWorks) that are used to convert the data into the appropriate format for further analysis, check for user errors, and ultimately perform Sholl analysis. Finally, data are exported into Excel for statistical analysis. A flow chart of the Bonfire program is shown in Figure 1.",
+     "FAU": [
+          "Kutzing, Melinda K",
+          "Langhammer, Christopher G",
+          "Luo, Vincent",
+          "Lakdawala, Hersh",
+          "Firestein, Bonnie L"
+     ],
+     "AU": [
+          "Kutzing MK",
+          "Langhammer CG",
+          "Luo V",
+          "Lakdawala H",
+          "Firestein BL"
+     ],
+     "AD": "Department of Cell Biology and Neuroscience, Rutgers University, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "T32 GM008339/GM/NIGMS NIH HHS/United States",
+          "T32 GM008339-20/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Video-Audio Media"
+     ],
+     "DEP": "20101114",
+     "PL": "United States",
+     "TA": "J Vis Exp",
+     "JT": "Journal of visualized experiments : JoVE",
+     "JID": "101313252",
+     "SB": "IM",
+     "MH": [
+          "Automation",
+          "Hippocampus/cytology",
+          "Neurites/*physiology",
+          "Neurons/cytology/*physiology",
+          "Neurophysiology/methods",
+          "Software"
+     ],
+     "PMC": "PMC3159598",
+     "EDAT": "2010/11/30 06:00",
+     "MHDA": "2011/01/11 06:00",
+     "CRDT": [
+          "2010/11/30 06:00"
+     ],
+     "PHST": [
+          "2010/11/30 06:00 [entrez]",
+          "2010/11/30 06:00 [pubmed]",
+          "2011/01/11 06:00 [medline]"
+     ],
+     "AID": [
+          "2354 [pii]",
+          "10.3791/2354 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "J Vis Exp. 2010 Nov 14;(45). pii: 2354. doi: 10.3791/2354.",
+     "term": "hippocampus"
+}

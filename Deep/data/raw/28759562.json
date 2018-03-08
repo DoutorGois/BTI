@@ -1,0 +1,73 @@
+{
+     "PMID": "28759562",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170821",
+     "LR": "20170827",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "13",
+     "IP": "7",
+     "DP": "2017 Jul",
+     "TI": "Learning and executing goal-directed choices by internally generated sequences in spiking neural circuits.",
+     "PG": "e1005669",
+     "LID": "10.1371/journal.pcbi.1005669 [doi]",
+     "AB": "Recent neural ensemble recordings have established a link between goal-directed spatial decision making and internally generated neural sequences in the hippocampus of rats. To elucidate the synaptic mechanisms of these sequences underlying spatial decision making processes, we develop and investigate a spiking neural circuit model endowed with a combination of two synaptic plasticity mechanisms including spike-timing dependent plasticity (STDP) and synaptic scaling. In this model, the interplay of the combined synaptic plasticity mechanisms and network dynamics gives rise to neural sequences which propagate ahead of the animals' decision point to reach goal locations. The dynamical properties of these forward-sweeping sequences and the rates of correct binary choices executed by these sequences are quantitatively consistent with experimental observations; this consistency, however, is lost in our model when only one of STDP or synaptic scaling is included. We further demonstrate that such sequence-based decision making in our network model can adaptively respond to time-varying and probabilistic associations of cues and goal locations, and that our model performs as well as an optimal Kalman filter model. Our results thus suggest that the combination of plasticity phenomena on different timescales provides a candidate mechanism for forming internally generated neural sequences and for implementing adaptive spatial decision making.",
+     "FAU": [
+          "Palmer, John",
+          "Keane, Adam",
+          "Gong, Pulin"
+     ],
+     "AU": [
+          "Palmer J",
+          "Keane A",
+          "Gong P"
+     ],
+     "AD": "School of Physics, University of Sydney, Sydney, NSW, Australia. Centre of Excellence for Integrative Brain Function, University of Sydney, Sydney, NSW, Australia. School of Physics, University of Sydney, Sydney, NSW, Australia. Centre of Excellence for Integrative Brain Function, University of Sydney, Sydney, NSW, Australia. School of Physics, University of Sydney, Sydney, NSW, Australia. Centre of Excellence for Integrative Brain Function, University of Sydney, Sydney, NSW, Australia.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0001-7496-6746"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170731",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Choice Behavior/*physiology",
+          "Hippocampus",
+          "*Models, Neurological",
+          "*Models, Statistical",
+          "Nerve Net/*physiology",
+          "Neuronal Plasticity/physiology",
+          "Rats"
+     ],
+     "PMC": "PMC5552356",
+     "EDAT": "2017/08/02 06:00",
+     "MHDA": "2017/08/22 06:00",
+     "CRDT": [
+          "2017/08/01 06:00"
+     ],
+     "PHST": [
+          "2016/09/13 00:00 [received]",
+          "2017/07/06 00:00 [accepted]",
+          "2017/08/10 00:00 [revised]",
+          "2017/08/02 06:00 [pubmed]",
+          "2017/08/22 06:00 [medline]",
+          "2017/08/01 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1005669 [doi]",
+          "PCOMPBIOL-D-16-01486 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2017 Jul 31;13(7):e1005669. doi: 10.1371/journal.pcbi.1005669. eCollection 2017 Jul.",
+     "term": "hippocampus"
+}

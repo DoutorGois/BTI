@@ -1,0 +1,71 @@
+{
+     "PMID": "25477768",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "1548-3746 (Print) 1548-3746 (Linking)",
+     "VI": "2014",
+     "DP": "2014 Aug",
+     "TI": "Building a Surface Atlas of Hippocampal Subfields from MRI Scans using FreeSurfer, FIRST and SPHARM.",
+     "PG": "813-816",
+     "AB": "The hippocampus is widely studied with neuroimaging techniques given its importance in learning and memory and its potential as a biomarker for brain disorders such as Alzheimer's disease and epilepsy. However, its complex folding anatomy often presents analytical challenges. In particular, the critical hippocampal subfield information is usually ignored by hippocampal registration in detailed morphometric studies. Such an approach is thus inadequate to accurately characterize hippocampal morphometry and effectively identify hippocampal structural changes related to different conditions. To bridge this gap, we present our initial effort towards building a computational framework for subfield-guided hippocampal morphometry. This initial effort is focused on surface-based morphometry and aims to build a surface atlas of hippocampal subfields. Using the FreeSurfer software package, we obtain valuable hippocampal subfield information. Using the FIRST software package, we extract reliable hippocampal surface information. Using SPHARM, we develop an approach to create an atlas by mapping interpolated subfield information onto an average surface. The empirical result using ADNI data demonstrates the promise and good reproducibility of the proposed method.",
+     "FAU": [
+          "Cong, Shan",
+          "Rizkalla, Maher",
+          "Du, Eliza Y",
+          "West, John",
+          "Risacher, Shannon",
+          "Saykin, Andrew",
+          "Shen, Li"
+     ],
+     "AU": [
+          "Cong S",
+          "Rizkalla M",
+          "Du EY",
+          "West J",
+          "Risacher S",
+          "Saykin A",
+          "Shen L"
+     ],
+     "AD": "Dept. of Electrical and Computer Engineering, Purdue University Indianapolis, Indianapolis, IN 46202. Dept. of Electrical and Computer Engineering, Purdue University Indianapolis, Indianapolis, IN 46202. Dept. of Electrical and Computer Engineering, Purdue University Indianapolis, Indianapolis, IN 46202. Dept. of Radiology and Imaging Sciences, Indiana University School of Medicine, Indianapolis, IN 46202. Dept. of Radiology and Imaging Sciences, Indiana University School of Medicine, Indianapolis, IN 46202. Dept. of Radiology and Imaging Sciences, Indiana University School of Medicine, Indianapolis, IN 46202. Dept. of Radiology and Imaging Sciences, Indiana University School of Medicine, Indianapolis, IN 46202.",
+     "CN": [
+          "for the Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG019771/AG/NIA NIH HHS/United States",
+          "P30 AG010133/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "RC2 AG036535/AG/NIA NIH HHS/United States",
+          "R01 LM011360/LM/NLM NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc (Midwest Symp Circuits Syst)",
+     "JT": "The ... Midwest Symposium on Circuits and Systems conference proceedings : MWSCAS. Midwest Symposium on Circuits and Systems",
+     "JID": "101524580",
+     "PMC": "PMC4248676",
+     "MID": [
+          "NIHMS610925"
+     ],
+     "EDAT": "2014/12/06 06:00",
+     "MHDA": "2014/12/06 06:00",
+     "CRDT": [
+          "2014/12/06 06:00"
+     ],
+     "PHST": [
+          "2014/12/06 06:00 [entrez]",
+          "2014/12/06 06:00 [pubmed]",
+          "2014/12/06 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/MWSCAS.2014.6908539 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc (Midwest Symp Circuits Syst). 2014 Aug;2014:813-816. doi: 10.1109/MWSCAS.2014.6908539.",
+     "term": "hippocampus"
+}

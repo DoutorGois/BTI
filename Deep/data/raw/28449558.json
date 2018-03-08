@@ -1,0 +1,67 @@
+{
+     "PMID": "28449558",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20170816",
+     "IS": "1738-1088 (Print) 1738-1088 (Linking)",
+     "VI": "15",
+     "IP": "2",
+     "DP": "2017 May 31",
+     "TI": "In SilicoModel-driven Assessment of the Effects of Brain-derived Neurotrophic Factor Deficiency on Glutamate and Gamma-Aminobutyric Acid: Implications for Understanding Schizophrenia Pathophysiology.",
+     "PG": "115-125",
+     "LID": "10.9758/cpn.2017.15.2.115 [doi]",
+     "AB": "Objective: Deficient brain-derived neurotrophic factor (BDNF) is one of the important mechanisms underlying the neuroplasticity abnormalities in schizophrenia. Aberration in BDNF signaling pathways directly or circuitously influences neurotransmitters like glutamate and gamma-aminobutyric acid (GABA). For the first time, this study attempts to construct and simulate the BDNF-neurotransmitter network in order to assess the effects of BDNF deficiency on glutamate and GABA. Methods: Using CellDesigner, we modeled BDNF interactions with calcium influx via N-methyl-D-aspartate receptor (NMDAR)- Calmodulin activation; synthesis of GABA via cell cycle regulators protein kinase B, glycogen synthase kinase and beta-catenin; transportation of glutamate and GABA. Steady state stability, perturbation time-course simulation and sensitivity analysis were performed in COPASI after assigning the kinetic functions, optimizing the unknown parameters using random search and genetic algorithm. Results: Study observations suggest that increased glutamate in hippocampus, similar to that seen in schizophrenia, could potentially be contributed by indirect pathway originated from BDNF. Deficient BDNF could suppress Glutamate decarboxylase 67-mediated GABA synthesis. Further, deficient BDNF corresponded to impaired transport via vesicular glutamate transporter, thereby further increasing the intracellular glutamate in GABAergic and glutamatergic cells. BDNF also altered calcium dependent neuroplasticity via NMDAR modulation. Sensitivity analysis showed that Calmodulin, cAMP response element-binding protein (CREB) and CREB regulated transcription coactivator-1 played significant role in this network. Conclusion: The study presents in silicoquantitative model of biochemical network constituting the key signaling molecules implicated in schizophrenia pathogenesis. It provides mechanistic insights into putative contribution of deficient BNDF towards alterations in neurotransmitters and neuroplasticity that are consistent with current understanding of the disorder.",
+     "FAU": [
+          "Agrawal, Rimjhim",
+          "Kalmady, Sunil Vasu",
+          "Venkatasubramanian, Ganesan"
+     ],
+     "AU": [
+          "Agrawal R",
+          "Kalmady SV",
+          "Venkatasubramanian G"
+     ],
+     "AD": "Translational Psychiatry Laboratory, Neurobiology Research Centre, National Institute of Mental Health and Neuro Sciences, Bangalore, India. Translational Psychiatry Laboratory, Neurobiology Research Centre, National Institute of Mental Health and Neuro Sciences, Bangalore, India. Translational Psychiatry Laboratory, Neurobiology Research Centre, National Institute of Mental Health and Neuro Sciences, Bangalore, India.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Korea (South)",
+     "TA": "Clin Psychopharmacol Neurosci",
+     "JT": "Clinical psychopharmacology and neuroscience : the official scientific journal of the Korean College of Neuropsychopharmacology",
+     "JID": "101207332",
+     "PMC": "PMC5426484",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Brain-derived neurotrophic factor",
+          "Computer simulation",
+          "Neuronal plasticity",
+          "Neurotransmitter agents",
+          "Schizophrenia",
+          "Signal transduction"
+     ],
+     "EDAT": "2017/04/30 06:00",
+     "MHDA": "2017/04/30 06:01",
+     "CRDT": [
+          "2017/04/29 06:00"
+     ],
+     "PHST": [
+          "2016/05/17 00:00 [received]",
+          "2016/08/15 00:00 [revised]",
+          "2016/08/17 00:00 [accepted]",
+          "2017/04/29 06:00 [entrez]",
+          "2017/04/30 06:00 [pubmed]",
+          "2017/04/30 06:01 [medline]"
+     ],
+     "AID": [
+          "cpn.2017.15.2.115 [pii]",
+          "10.9758/cpn.2017.15.2.115 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Clin Psychopharmacol Neurosci. 2017 May 31;15(2):115-125. doi: 10.9758/cpn.2017.15.2.115.",
+     "term": "hippocampus"
+}

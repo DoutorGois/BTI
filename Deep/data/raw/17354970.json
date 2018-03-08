@@ -1,0 +1,67 @@
+{
+     "PMID": "17354970",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070406",
+     "LR": "20091211",
+     "VI": "9",
+     "IP": "Pt 1",
+     "DP": "2006",
+     "TI": "Spline-based probabilistic model for anatomical landmark detection.",
+     "PG": "849-56",
+     "AB": "In medical imaging, finding landmarks that provide biologically meaningful correspondences is often a challenging and time-consuming manual task. In this paper we propose a generic and simple algorithm for landmarking non-cortical brain structures automatically. We use a probabilistic model of the image intensities based on the deformation of a tissue probability map, learned from a training set of hand-landmarked images. In this setting, estimating the location of the landmarks in a new image is equivalent to finding, by likelihood maximization, the \"best\" deformation from the tissue probability map to the image. The resulting algorithm is able to handle arbitrary types and numbers of landmarks. We demonstrate our algorithm on the detection of 3 landmarks of the hippocampus in brain MR images.",
+     "FAU": [
+          "Izard, Camille",
+          "Jedynak, Bruno",
+          "Stark, Craig E L"
+     ],
+     "AU": [
+          "Izard C",
+          "Jedynak B",
+          "Stark CE"
+     ],
+     "AD": "Laboratoire Paul Painleve, Universite des Sciences et Technologies de Lille, France. camille.izard@jhu.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Artificial Intelligence",
+          "Computer Simulation",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "*Models, Anatomic",
+          "Models, Biological",
+          "Models, Statistical",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2007/03/16 09:00",
+     "MHDA": "2007/04/07 09:00",
+     "CRDT": [
+          "2007/03/16 09:00"
+     ],
+     "PHST": [
+          "2007/03/16 09:00 [pubmed]",
+          "2007/04/07 09:00 [medline]",
+          "2007/03/16 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2006;9(Pt 1):849-56.",
+     "term": "hippocampus"
+}

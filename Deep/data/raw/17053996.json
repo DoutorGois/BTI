@@ -1,0 +1,78 @@
+{
+     "PMID": "17053996",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070815",
+     "LR": "20171021",
+     "IS": "0929-5313 (Print) 0929-5313 (Linking)",
+     "VI": "22",
+     "IP": "2",
+     "DP": "2007 Apr",
+     "TI": "Seizure-like afterdischarges simulated in a model neuron.",
+     "PG": "105-28",
+     "AB": "To explore non-synaptic mechanisms in paroxysmal discharges, we used a computer model of a simplified hippocampal pyramidal cell, surrounded by interstitial space and a \"glial-endothelial\" buffer system. Ion channels for Na+, K+, Ca2+ and Cl- ion antiport 3Na/Ca, and \"active\" ion pumps were represented in the neuron membrane. The glia had \"leak\" conductances and an ion pump. Fluxes, concentration changes and cell swelling were computed. The neuron was stimulated by injecting current. Afterdischarge (AD) followed stimulation if depolarization due to rising interstitial K+ concentration ([K+]o) activated persistent Na+ current (INa.P). AD was either simple or self-regenerating; either regular (tonic) or burst-type (clonic); and always self-limiting. Self-regenerating AD required sufficient INa.P to ensure re-excitation. Burst firing depended on activation of dendritic Ca2+ currents and Ca-dependent K+ current. Varying glial buffer function influenced [K+]o accumulation and afterdischarge duration. Variations in Na+ and K+ currents influenced the threshold and the duration of AD. The data show that high [K+]o and intrinsic membrane currents can produce the feedback of self-regenerating afterdischarges without synaptic input. The simulated discharge resembles neuron behavior during paroxysmal firing in living brain tissue.",
+     "FAU": [
+          "Kager, H",
+          "Wadman, W J",
+          "Somjen, G G"
+     ],
+     "AU": [
+          "Kager H",
+          "Wadman WJ",
+          "Somjen GG"
+     ],
+     "AD": "SILS-Center for NeuroScience, University of Amsterdam, Kruislaan 320, 1098 SM, Amsterdam, The Netherlands.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "RN": [
+          "0 (Ion Channels)",
+          "0 (Receptors, N-Methyl-D-Aspartate)",
+          "9NEZ333N27 (Sodium)",
+          "RWP5GA015D (Potassium)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Calcium/metabolism",
+          "Computer Simulation",
+          "Dendrites/drug effects/physiology",
+          "Electric Stimulation/methods",
+          "Hippocampus/*pathology",
+          "Ion Channels/drug effects/physiology",
+          "Membrane Potentials/drug effects/*physiology/radiation effects",
+          "*Models, Neurological",
+          "Potassium/metabolism/pharmacology",
+          "Pyramidal Cells/cytology/drug effects/*physiopathology",
+          "Receptors, N-Methyl-D-Aspartate/physiology",
+          "Seizures/pathology/*physiopathology",
+          "Sodium/metabolism/pharmacology"
+     ],
+     "EDAT": "2006/10/21 09:00",
+     "MHDA": "2007/08/19 09:00",
+     "CRDT": [
+          "2006/10/21 09:00"
+     ],
+     "PHST": [
+          "2005/11/11 00:00 [received]",
+          "2006/08/14 00:00 [accepted]",
+          "2006/07/17 00:00 [revised]",
+          "2006/10/21 09:00 [pubmed]",
+          "2007/08/19 09:00 [medline]",
+          "2006/10/21 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s10827-006-0001-y [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2007 Apr;22(2):105-28. doi: 10.1007/s10827-006-0001-y.",
+     "term": "hippocampus"
+}

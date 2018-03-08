@@ -1,0 +1,93 @@
+{
+     "PMID": "24662576",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150112",
+     "LR": "20140603",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "95",
+     "DP": "2014 Jul 15",
+     "TI": "Modular structure of functional networks in olfactory memory.",
+     "PG": "264-75",
+     "LID": "10.1016/j.neuroimage.2014.03.041 [doi] S1053-8119(14)00201-8 [pii]",
+     "AB": "Graph theory enables the study of systems by describing those systems as a set of nodes and edges. Graph theory has been widely applied to characterize the overall structure of data sets in the social, technological, and biological sciences, including neuroscience. Modular structure decomposition enables the definition of sub-networks whose components are gathered in the same module and work together closely, while working weakly with components from other modules. This processing is of interest for studying memory, a cognitive process that is widely distributed. We propose a new method to identify modular structure in task-related functional magnetic resonance imaging (fMRI) networks. The modular structure was obtained directly from correlation coefficients and thus retained information about both signs and weights. The method was applied to functional data acquired during a yes-no odor recognition memory task performed by young and elderly adults. Four response categories were explored: correct (Hit) and incorrect (False alarm, FA) recognition and correct and incorrect rejection. We extracted time series data for 36 areas as a function of response categories and age groups and calculated condition-based weighted correlation matrices. Overall, condition-based modular partitions were more homogeneous in young than elderly subjects. Using partition similarity-based statistics and a posteriori statistical analyses, we demonstrated that several areas, including the hippocampus, caudate nucleus, and anterior cingulate gyrus, belonged to the same module more frequently during Hit than during all other conditions. Modularity values were negatively correlated with memory scores in the Hit condition and positively correlated with bias scores (liberal/conservative attitude) in the Hit and FA conditions. We further demonstrated that the proportion of positive and negative links between areas of different modules (i.e., the proportion of correlated and anti-correlated areas) accounted for most of the observed differences in signed modularity. Taken together, our results provided some evidence that the neural networks involved in odor recognition memory are organized into modules and that these modular partitions are linked to behavioral performance and individual strategies.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Meunier, David",
+          "Fonlupt, Pierre",
+          "Saive, Anne-Lise",
+          "Plailly, Jane",
+          "Ravel, Nadine",
+          "Royet, Jean-Pierre"
+     ],
+     "AU": [
+          "Meunier D",
+          "Fonlupt P",
+          "Saive AL",
+          "Plailly J",
+          "Ravel N",
+          "Royet JP"
+     ],
+     "AD": "Olfaction: from coding to memory team, INSERM U1028, CNRS UMR 5292 - Universite Lyon 1, Lyon F-69366, France. Electronic address: David.Meunier@olfac.univ-lyon1.fr. Brain, Dynamics and Cognition team, INSERM U1028, CNRS UMR 5292 - Universite Lyon 1, Bron F-69675, France. Olfaction: from coding to memory team, INSERM U1028, CNRS UMR 5292 - Universite Lyon 1, Lyon F-69366, France. Olfaction: from coding to memory team, INSERM U1028, CNRS UMR 5292 - Universite Lyon 1, Lyon F-69366, France. Olfaction: from coding to memory team, INSERM U1028, CNRS UMR 5292 - Universite Lyon 1, Lyon F-69366, France. Olfaction: from coding to memory team, INSERM U1028, CNRS UMR 5292 - Universite Lyon 1, Lyon F-69366, France. Electronic address: royet@olfac.univ-lyon1.fr.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140322",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Brain Mapping/methods",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "*Memory/physiology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Olfactory Pathways/*physiology",
+          "Young Adult"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Functional connectivity",
+          "Graph theory",
+          "Modularity",
+          "Neural network",
+          "Olfactory memory",
+          "Signal detection theory"
+     ],
+     "EDAT": "2014/03/26 06:00",
+     "MHDA": "2015/01/13 06:00",
+     "CRDT": [
+          "2014/03/26 06:00"
+     ],
+     "PHST": [
+          "2013/10/01 00:00 [received]",
+          "2014/02/25 00:00 [revised]",
+          "2014/03/15 00:00 [accepted]",
+          "2014/03/26 06:00 [entrez]",
+          "2014/03/26 06:00 [pubmed]",
+          "2015/01/13 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(14)00201-8 [pii]",
+          "10.1016/j.neuroimage.2014.03.041 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2014 Jul 15;95:264-75. doi: 10.1016/j.neuroimage.2014.03.041. Epub 2014 Mar 22.",
+     "term": "hippocampus"
+}

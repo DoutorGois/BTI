@@ -1,0 +1,101 @@
+{
+     "PMID": "22815187",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140320",
+     "LR": "20170806",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "34",
+     "IP": "9",
+     "DP": "2013 Sep",
+     "TI": "Automated subcortical segmentation using FIRST: test-retest reliability, interscanner reliability, and comparison to manual segmentation.",
+     "PG": "2313-29",
+     "LID": "10.1002/hbm.22068 [doi]",
+     "AB": "Multiple techniques exist for the automated segmentation of magnetic resonance images (MRIs). The validity of these techniques can be assessed by evaluating test-retest reliability, interscanner reliability, and consistency with manual segmentation. We evaluate these measures for the FSL/FIRST subcortical segmentation tool. We retrospectively analyzed 190 MRI scans from 87 subjects with mood or anxiety disorders and healthy volunteers scanned multiple times on different platforms (N = 56) and/or the same platform (N = 45, groups overlap), and 146 scans from subjects who underwent both high-resolution and whole brain imaging in a single session, for comparison with manual segmentation of the hippocampus. The thalamus, caudate, putamen, hippocampus, and pallidum were reliably segmented in different sessions on the same scanner (Intraclass correlation coefficient (ICC) > 0.83 scanners and diagnostic groups pooled). In these regions, the range of between platform reliabilities were lower (0.527 < ICC < 0.953), although values below 0.7 were due to systematic differences between platforms or low reliability in the hippocampus between eight- and single-channel coil platforms. Accumbens and amygdala segmentations were generally unreliable within and between scanning platforms. ICC values for hippocampal volumes between automated and manual segmentations were acceptable (ICC > 0.7, groups pooled), and both methods detected significant differences between genders. In addition, FIRST segmentations were consistent with manual segmentations (in a subset of images; N = 20) in the left caudate and bilateral putamen. This retrospective analysis assesses realistic performance of the algorithm in conditions like those found in multisite trials or meta-analyses. In addition, the inclusion of psychiatric patients establishes reliability in subjects exhibiting volumetric abnormalities, validating patient studies.",
+     "CI": [
+          "Copyright (c) 2012 Wiley Periodicals, Inc., a Wiley company."
+     ],
+     "FAU": [
+          "Nugent, Allison C",
+          "Luckenbaugh, David A",
+          "Wood, Suzanne E",
+          "Bogers, Wendy",
+          "Zarate, Carlos A Jr",
+          "Drevets, Wayne C"
+     ],
+     "AU": [
+          "Nugent AC",
+          "Luckenbaugh DA",
+          "Wood SE",
+          "Bogers W",
+          "Zarate CA Jr",
+          "Drevets WC"
+     ],
+     "AD": "Experimental Therapeutics and Pathophysiology Branch, National Institute of Mental Health, National Institutes of Health, 10 Center Drive, Bethesda, MD 20892, USA. nugenta@mail.nih.gov",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Z99 MH999999/Intramural NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Intramural",
+          "Validation Studies"
+     ],
+     "DEP": "20120719",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Brain/*pathology",
+          "Brain Mapping/*methods",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Reproducibility of Results"
+     ],
+     "PMC": "PMC3479333",
+     "MID": [
+          "NIHMS359196"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "accumbens",
+          "amygdale",
+          "brain",
+          "caudate",
+          "hippocampus",
+          "pallidum",
+          "putamen",
+          "thalamus",
+          "volume"
+     ],
+     "EDAT": "2012/07/21 06:00",
+     "MHDA": "2014/03/22 06:00",
+     "CRDT": [
+          "2012/07/21 06:00"
+     ],
+     "PHST": [
+          "2011/04/06 00:00 [received]",
+          "2012/02/02 00:00 [revised]",
+          "2012/02/03 00:00 [accepted]",
+          "2012/07/21 06:00 [entrez]",
+          "2012/07/21 06:00 [pubmed]",
+          "2014/03/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.22068 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2013 Sep;34(9):2313-29. doi: 10.1002/hbm.22068. Epub 2012 Jul 19.",
+     "term": "hippocampus"
+}

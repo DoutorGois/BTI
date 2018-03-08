@@ -1,0 +1,71 @@
+{
+     "PMID": "16635255",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060523",
+     "LR": "20061115",
+     "IS": "0022-3042 (Print) 0022-3042 (Linking)",
+     "VI": "97 Suppl 1",
+     "DP": "2006 Apr",
+     "TI": "Identification of conserved modes of expression profiles during hippocampal development and neuronal differentiation in vitro.",
+     "PG": "87-91",
+     "AB": "Gene expression profiles can be regarded as sums of simpler modes, analogous to the modes of a vibrating violin string. Decomposition of temporal gene expression profiles into modes by singular value decomposition (SVD) was reported before, but the question as to what degree the SVD modes can be interpreted in terms of biology remains open. We report and compare the results of SVD of published datasets from hippocampal development, neuronal differentiation in vitro, and a control time-series hippocampal dataset. We demonstrate that the first SVD mode reflects the magnitude of expression, interpretable on the Affymetrix platform. In the datasets from gene profiling of hippocampal development and neuronal differentiation, the second mode reflects a monotonous change in expression, either up- or down-regulation, in the time course of experiment. We demonstrate that the top two SVD modes are conserved between datasets and therefore, likely reflect properties of the underlying system (gene expression in hippocampus) rather than of a particular experiment or dataset. Our results also indicate that the magnitude of expression, and the direction of change in expression during hippocampal development, are uncorrelated, suggesting that they are regulated by largely independent mechanisms.",
+     "FAU": [
+          "Dabrowski, Michal",
+          "Adach, Alicja",
+          "Aerts, Stein",
+          "Moreau, Yves",
+          "Kaminska, Bozena"
+     ],
+     "AU": [
+          "Dabrowski M",
+          "Adach A",
+          "Aerts S",
+          "Moreau Y",
+          "Kaminska B"
+     ],
+     "AD": "Laboratory of Transcription Regulation, Department of Cell Biology, The Nencki Institute of Experimental Biology, Warsaw, Poland. m.dabrowski@nencki.gov.pl",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "J Neurochem",
+     "JT": "Journal of neurochemistry",
+     "JID": "2985190R",
+     "RN": [
+          "0 (DNA, Complementary)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cell Differentiation/*genetics",
+          "DNA, Complementary/genetics",
+          "*Gene Expression Profiling",
+          "Hippocampus/*growth & development",
+          "Mathematics",
+          "Neurons/*cytology",
+          "Oligonucleotide Array Sequence Analysis",
+          "Rats"
+     ],
+     "EDAT": "2006/04/26 09:00",
+     "MHDA": "2006/05/24 09:00",
+     "CRDT": [
+          "2006/04/26 09:00"
+     ],
+     "PHST": [
+          "2006/04/26 09:00 [pubmed]",
+          "2006/05/24 09:00 [medline]",
+          "2006/04/26 09:00 [entrez]"
+     ],
+     "AID": [
+          "JNC3537 [pii]",
+          "10.1111/j.1471-4159.2005.03537.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurochem. 2006 Apr;97 Suppl 1:87-91. doi: 10.1111/j.1471-4159.2005.03537.x.",
+     "term": "hippocampus"
+}

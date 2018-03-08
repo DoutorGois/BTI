@@ -1,0 +1,77 @@
+{
+     "PMID": "7608762",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19950817",
+     "LR": "20171213",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "73",
+     "IP": "3",
+     "DP": "1995 Mar",
+     "TI": "Computer simulations of morphologically reconstructed CA3 hippocampal neurons.",
+     "PG": "1157-68",
+     "AB": "1. We tested several hypotheses with respect to the mechanisms and processes that control the firing characteristics and determine the spatial and temporal dynamics of intracellular Ca2+ in CA3 hippocampal neurons. In particular, we were interested to know 1) whether bursting and nonbursting behavior of CA3 neurons could be accounted for in a morphologically realistic model using a number of the known ionic conductances; 2) whether such a model is robust across different cell morphologies; 3) whether some particular nonuniform distribution of Ca2+ channels is required for bursting; and 4) whether such a model can reproduce the magnitude and spatial distribution of intracellular Ca2+ transients determined from fluorescence imaging studies and can predict reasonable intracellular Ca2+ concentration ([Ca2+]i) distribution for CA3 neurons. 2. For this purpose we have developed a highly detailed model of the distribution and densities of membrane ion channels in hippocampal CA3 bursting and nonbursting pyramidal neurons. This model reproduces both the experimentally observed firing modes and the dynamics of intracellular Ca2+. 3. The kinetics of the membrane ionic conductances are based on available experimental data. This model incorporates a single Na+ channel, three Ca2+ channels (CaN, CaL, and CaT), three Ca(2+)-independent K+ channels (KDR, KA, and KM), two Ca(2+)-dependent K+ channels (KC and KAHP), and intracellular Ca(2+)-related processes such as buffering, pumping, and radial diffusion. 4. To test the robustness of the model, we applied it to six different morphologically accurate reconstructions of CA3 hippocampal pyramidal neurons. In every neuron, Ca2+ channels, Ca(2+)-related processes, and Ca(2+)-dependent K+ channels were uniformly distributed over the entire cell. Ca(2+)-independent K+ channels were placed on the soma and the proximal apical dendrites. For each reconstructed cell we were able to reproduce bursting and nonbursting firing characteristics as well as Ca2+ transients and distributions for both somatic and synaptic stimulations. 5. Our simulation results suggest that CA3 pyramidal cell bursting behavior does not require any special distribution of Ca(2+)-dependent channels and mechanisms. Furthermore, a simple increase in the Ca(2+)-independent K+ conductances is sufficient to change the firing mode of our CA3 neurons from bursting to nonbursting. 6. The model also displays [Ca2+]i transients and distributions that are consistent with fluorescent imaging data. Peak [Ca2+]i distribution for synaptic stimulation of the nonbursting model is broader when compared with somatic stimulation. Somatic stimulation of the bursting model shows a broader distribution in [Ca2+]i when compared with the nonbursting model.(ABSTRACT TRUNCATED AT 400 WORDS)",
+     "FAU": [
+          "Migliore, M",
+          "Cook, E P",
+          "Jaffe, D B",
+          "Turner, D A",
+          "Johnston, D"
+     ],
+     "AU": [
+          "Migliore M",
+          "Cook EP",
+          "Jaffe DB",
+          "Turner DA",
+          "Johnston D"
+     ],
+     "AD": "Institute for Interdisciplinary Applications of Physics, National Research Council, Palermo, Italy.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH-10475/MH/NIMH NIH HHS/United States",
+          "MH-44754/MH/NIMH NIH HHS/United States",
+          "MH-48432/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Calcium",
+          "*Computer Simulation",
+          "Hippocampus/*physiology",
+          "Kinetics",
+          "Mathematics",
+          "*Neural Networks (Computer)",
+          "Neurons/physiology",
+          "Synapses",
+          "Time Factors"
+     ],
+     "EDAT": "1995/03/01 00:00",
+     "MHDA": "1995/03/01 00:01",
+     "CRDT": [
+          "1995/03/01 00:00"
+     ],
+     "PHST": [
+          "1995/03/01 00:00 [pubmed]",
+          "1995/03/01 00:01 [medline]",
+          "1995/03/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1152/jn.1995.73.3.1157 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 1995 Mar;73(3):1157-68. doi: 10.1152/jn.1995.73.3.1157.",
+     "term": "hippocampus"
+}

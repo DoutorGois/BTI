@@ -1,0 +1,77 @@
+{
+     "PMID": "25155013",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150811",
+     "LR": "20141216",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "25",
+     "IP": "1",
+     "DP": "2015 Jan",
+     "TI": "Short-term plasticity based network model of place cells dynamics.",
+     "PG": "94-105",
+     "LID": "10.1002/hipo.22355 [doi]",
+     "AB": "Rodent hippocampus exhibits strikingly different regimes of population activity in different behavioral states. During locomotion, hippocampal activity oscillates at theta frequency (5-12 Hz) and cells fire at specific locations in the environment, the place fields. As the animal runs through a place field, spikes are emitted at progressively earlier phases of the theta cycles. During immobility, hippocampus exhibits sharp irregular bursts of activity, with occasional rapid orderly activation of place cells expressing a possible trajectory of the animal. The mechanisms underlying this rich repertoire of dynamics are still unclear. We developed a novel recurrent network model that accounts for the observed phenomena. We assume that the network stores a map of the environment in its recurrent connections, which are endowed with short-term synaptic depression. We show that the network dynamics exhibits two different regimes that are similar to the experimentally observed population activity states in the hippocampus. The operating regime can be solely controlled by external inputs. Our results suggest that short-term synaptic plasticity is a potential mechanism contributing to shape the population activity in hippocampus.",
+     "CI": [
+          "(c) 2014 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Romani, Sandro",
+          "Tsodyks, Misha"
+     ],
+     "AU": [
+          "Romani S",
+          "Tsodyks M"
+     ],
+     "AD": "Department of Neurobiology, Weizmann Institute of Science, Rehovot 76100, Israel; Department of Neuroscience, Center for Theoretical Neuroscience, College of Physicians and Surgeons, Columbia University, New York, New York; Department of Neuroinformatics, Donders Centre for Neuroscience, Radboud University, 6525, Nijmegen, The Netherlands.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140925",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/cytology/*physiology",
+          "Nerve Net/cytology/*physiology",
+          "*Neural Networks (Computer)",
+          "Neuronal Plasticity/*physiology",
+          "Spatial Memory/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "hippocampus",
+          "neural network",
+          "phase precession",
+          "place cells",
+          "sharp waves"
+     ],
+     "EDAT": "2014/08/27 06:00",
+     "MHDA": "2015/08/12 06:00",
+     "CRDT": [
+          "2014/08/27 06:00"
+     ],
+     "PHST": [
+          "2013/12/11 00:00 [received]",
+          "2014/08/15 00:00 [revised]",
+          "2014/08/22 00:00 [accepted]",
+          "2014/08/27 06:00 [entrez]",
+          "2014/08/27 06:00 [pubmed]",
+          "2015/08/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.22355 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2015 Jan;25(1):94-105. doi: 10.1002/hipo.22355. Epub 2014 Sep 25.",
+     "term": "place cells"
+}

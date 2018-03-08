@@ -1,0 +1,91 @@
+{
+     "PMID": "17427745",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070516",
+     "LR": "20170219",
+     "IS": "0278-0062 (Print) 0278-0062 (Linking)",
+     "VI": "26",
+     "IP": "4",
+     "DP": "2007 Apr",
+     "TI": "Multiscale 3-D shape representation and segmentation using spherical wavelets.",
+     "PG": "598-618",
+     "AB": "This paper presents a novel multiscale shape representation and segmentation algorithm based on the spherical wavelet transform. This work is motivated by the need to compactly and accurately encode variations at multiple scales in the shape representation in order to drive the segmentation and shape analysis of deep brain structures, such as the caudate nucleus or the hippocampus. Our proposed shape representation can be optimized to compactly encode shape variations in a population at the needed scale and spatial locations, enabling the construction of more descriptive, nonglobal, nonuniform shape probability priors to be included in the segmentation and shape analysis framework. In particular, this representation addresses the shortcomings of techniques that learn a global shape prior at a single scale of analysis and cannot represent fine, local variations in a population of shapes in the presence of a limited dataset. Specifically, our technique defines a multiscale parametric model of surfaces belonging to the same population using a compact set of spherical wavelets targeted to that population. We further refine the shape representation by separating into groups wavelet coefficients that describe independent global and/or local biological variations in the population, using spectral graph partitioning. We then learn a prior probability distribution induced over each group to explicitly encode these variations at different scales and spatial locations. Based on this representation, we derive a parametric active surface evolution using the multiscale prior coefficients as parameters for our optimization procedure to naturally include the prior for segmentation. Additionally, the optimization method can be applied in a coarse-to-fine manner. We apply our algorithm to two different brain structures, the caudate nucleus and the hippocampus, of interest in the study of schizophrenia. We show: 1) a reconstruction task of a test set to validate the expressiveness of our multiscale prior and 2) a segmentation task. In the reconstruction task, our results show that for a given training set size, our algorithm significantly improves the approximation of shapes in a testing set over the Point Distribution Model, which tends to oversmooth data. In the segmentation task, our validation shows our algorithm is computationally efficient and outperforms the Active Shape Model algorithm, by capturing finer shape details.",
+     "FAU": [
+          "Nain, Delphine",
+          "Haker, Steven",
+          "Bobick, Aaron",
+          "Tannenbaum, Allen"
+     ],
+     "AU": [
+          "Nain D",
+          "Haker S",
+          "Bobick A",
+          "Tannenbaum A"
+     ],
+     "AD": "College of Computing, Georgia Institute of Technology, Atlanta, GA 30332, USA. delfin@alum.mit.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41RR013218/RR/NCRR NIH HHS/United States",
+          "U41 RR019703/RR/NCRR NIH HHS/United States",
+          "R01 CA104976/CA/NCI NIH HHS/United States",
+          "R01CA111288/CA/NCI NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States",
+          "R01 LM007861/LM/NLM NIH HHS/United States",
+          "R01CA109246/CA/NCI NIH HHS/United States",
+          "R01CA104976/CA/NCI NIH HHS/United States",
+          "P01CA067195/CA/NCI NIH HHS/United States",
+          "R01LM007861/LM/NLM NIH HHS/United States",
+          "P41 RR013218/RR/NCRR NIH HHS/United States",
+          "R01 CA109246/CA/NCI NIH HHS/United States",
+          "R01 CA111288/CA/NCI NIH HHS/United States",
+          "U41RR019703/RR/NCRR NIH HHS/United States",
+          "P01 CA067165/CA/NCI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Artificial Intelligence",
+          "Brain/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Numerical Analysis, Computer-Assisted",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC3660982",
+     "MID": [
+          "NIHMS462280"
+     ],
+     "EDAT": "2007/04/13 09:00",
+     "MHDA": "2007/05/17 09:00",
+     "CRDT": [
+          "2007/04/13 09:00"
+     ],
+     "PHST": [
+          "2007/04/13 09:00 [pubmed]",
+          "2007/05/17 09:00 [medline]",
+          "2007/04/13 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TMI.2007.893284 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2007 Apr;26(4):598-618. doi: 10.1109/TMI.2007.893284.",
+     "term": "hippocampus"
+}

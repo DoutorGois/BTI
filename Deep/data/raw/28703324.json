@@ -1,0 +1,80 @@
+{
+     "PMID": "28703324",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20180220",
+     "IS": "1523-1739 (Electronic) 0888-8892 (Linking)",
+     "DP": "2017 Jul 13",
+     "TI": "Scaling range sizes to threats for robust predictions of risks to biodiversity.",
+     "LID": "10.1111/cobi.12988 [doi]",
+     "AB": "Assessments of risk to biodiversity often rely on spatial distributions of species and ecosystems. Range-size metrics used extensively in these assessments, such as area of occupancy (AOO), are sensitive to measurement scale, prompting proposals to measure them at finer scales or at different scales based on the shape of the distribution or ecological characteristics of the biota. Despite its dominant role in red-list assessments for decades, appropriate spatial scales of AOO for predicting risks of species' extinction or ecosystem collapse remain untested and contentious. There are no quantitative evaluations of the scale-sensitivity of AOO as a predictor of risks, the relationship between optimal AOO scale and threat scale, or the effect of grid uncertainty. We used stochastic simulation models to explore risks to ecosystems and species with clustered, dispersed, and linear distribution patterns subject to regimes of threat events with different frequency and spatial extent. Area of occupancy was an accurate predictor of risk (0.81<|r|<0.98) and performed optimally when measured with grid cells 0.1-1.0 times the largest plausible area threatened by an event. Contrary to previous assertions, estimates of AOO at these relatively coarse scales were better predictors of risk than finer-scale estimates of AOO (e.g., when measurement cells are <1% of the area of the largest threat). The optimal scale depended on the spatial scales of threats more than the shape or size of biotic distributions. Although we found appreciable potential for grid-measurement errors, current IUCN guidelines for estimating AOO neutralize geometric uncertainty and incorporate effective scaling procedures for assessing risks posed by landscape-scale threats to species and ecosystems.",
+     "CI": [
+          "(c) 2017 The Authors. Conservation Biology published by Wiley Periodicals, Inc.",
+          "on behalf of Society for Conservation Biology."
+     ],
+     "FAU": [
+          "Keith, David A",
+          "Akcakaya, H Resit",
+          "Murray, Nicholas J"
+     ],
+     "AU": [
+          "Keith DA",
+          "Akcakaya HR",
+          "Murray NJ"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-7627-4150",
+          "ORCID: http://orcid.org/0000-0002-8679-5929"
+     ],
+     "AD": "Centre for Ecosystem Science, School of Biological, Earth and Environmental Science, University of New South Wales, Sydney, NSW 2052, Australia. New South Wales Office of Environment and Heritage, Hurstville, NSW 2220, Australia. IUCN Species Survival Commission, 1196 Gland, Switzerland. IUCN Commission on Ecosystem Management, 1196 Gland, Switzerland. IUCN Species Survival Commission, 1196 Gland, Switzerland. Department of Ecology and Evolution, Stony Brook University, Stony Brook, NY 11794, U.S.A. Centre for Ecosystem Science, School of Biological, Earth and Environmental Science, University of New South Wales, Sydney, NSW 2052, Australia. IUCN Commission on Ecosystem Management, 1196 Gland, Switzerland.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170713",
+     "PL": "United States",
+     "TA": "Conserv Biol",
+     "JT": "Conservation biology : the journal of the Society for Conservation Biology",
+     "JID": "9882301",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "IUCN Red List of Ecosystems",
+          "IUCN Red List of Threatened Species",
+          "Lista Roja de la UICN de Ecosistemas",
+          "Lista Roja de la UICN de Especies Amenazadas",
+          "distribucion de especies",
+          "escala espacial",
+          "landscape modeling",
+          "modelado de paisajes",
+          "proceso amenazante",
+          "risk assessment",
+          "spatial scale",
+          "species distribution",
+          "threatening process",
+          "valoracion de riesgo",
+          ",IUCN , IUCN ,,,,"
+     ],
+     "EDAT": "2017/07/14 06:00",
+     "MHDA": "2017/07/14 06:00",
+     "CRDT": [
+          "2017/07/14 06:00"
+     ],
+     "PHST": [
+          "2016/12/02 00:00 [received]",
+          "2017/06/25 00:00 [revised]",
+          "2017/07/07 00:00 [accepted]",
+          "2017/07/14 06:00 [pubmed]",
+          "2017/07/14 06:00 [medline]",
+          "2017/07/14 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1111/cobi.12988 [doi]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "Conserv Biol. 2017 Jul 13. doi: 10.1111/cobi.12988.",
+     "term": "grid cells"
+}

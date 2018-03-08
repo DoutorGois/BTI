@@ -1,0 +1,73 @@
+{
+     "PMID": "15901401",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050715",
+     "LR": "20091103",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "17",
+     "IP": "6",
+     "DP": "2005 Jun",
+     "TI": "A hierarchy of associations in hippocampo-cortical systems: cognitive maps and navigation strategies.",
+     "PG": "1339-84",
+     "AB": "In this letter we describe a hippocampo-cortical model of spatial processing and navigation based on a cascade of increasingly complex associative processes that are also relevant for other hippocampal functions such as episodic memory. Associative learning of different types and the related pattern encoding-recognition take place at three successive levels: (1) an object location level, which computes the landmarks from merged multimodal sensory inputs in the parahippocampal cortices; (2) a subject location level, which computes place fields by combination of local views and movement-related information in the entorhinal cortex; and (3) a spatiotemporal level, which computes place transitions from contiguous place fields in the CA3-CA1 region, which form building blocks for learning temporospatial sequences. At the cell population level, superficial entorhinal place cells encode spatial, context-independent maps as landscapes of activity; populations of transition cells in the CA3-CA1 region encode context-dependent maps as sequences of transitions, which form graphs in prefrontal-parietal cortices. The model was tested on a robot moving in a real environment; these tests produced results that could help to interpret biological data. Two different goal-oriented navigation strategies were displayed depending on the type of map used by the system. Thanks to its multilevel, multimodal integration and behavioral implementation, the model suggests functional interpretations for largely unaccounted structural differences between hippocampo-cortical systems. Further, spatiotemporal information, a common denominator shared by several brain structures, could serve as a cognitive processing frame and a functional link, for example, during spatial navigation and episodic memory, as suggested by the applications of the model to other domains, temporal sequence learning and imitation in particular.",
+     "FAU": [
+          "Banquet, J P",
+          "Gaussier, Ph",
+          "Quoy, M",
+          "Revel, A",
+          "Burnod, Y"
+     ],
+     "AU": [
+          "Banquet JP",
+          "Gaussier P",
+          "Quoy M",
+          "Revel A",
+          "Burnod Y"
+     ],
+     "AD": "INSERM U483 Neuroscience and Modelization, Universite Pierre et Marie Curie, 75252 Paris, France. banquet@ccr.jussieu.fr",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Cerebral Cortex/*physiology",
+          "Cognition/*physiology",
+          "Entorhinal Cortex/physiology",
+          "Hippocampus/*physiology",
+          "Models, Neurological",
+          "Neural Pathways/*physiology",
+          "Neurons/physiology",
+          "Orientation/*physiology",
+          "Parahippocampal Gyrus/physiology",
+          "Prefrontal Cortex/physiology",
+          "Rats",
+          "Space Perception/*physiology"
+     ],
+     "EDAT": "2005/05/20 09:00",
+     "MHDA": "2005/07/16 09:00",
+     "CRDT": [
+          "2005/05/20 09:00"
+     ],
+     "PHST": [
+          "2005/05/20 09:00 [pubmed]",
+          "2005/07/16 09:00 [medline]",
+          "2005/05/20 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/0899766053630369 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2005 Jun;17(6):1339-84. doi: 10.1162/0899766053630369.",
+     "term": "place cells"
+}

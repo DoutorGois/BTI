@@ -1,0 +1,80 @@
+{
+     "PMID": "20851199",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110405",
+     "LR": "20101203",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "54",
+     "IP": "2",
+     "DP": "2011 Jan 15",
+     "TI": "Patch-based segmentation using expert priors: application to hippocampus and ventricle segmentation.",
+     "PG": "940-54",
+     "LID": "10.1016/j.neuroimage.2010.09.018 [doi]",
+     "AB": "Quantitative magnetic resonance analysis often requires accurate, robust, and reliable automatic extraction of anatomical structures. Recently, template-warping methods incorporating a label fusion strategy have demonstrated high accuracy in segmenting cerebral structures. In this study, we propose a novel patch-based method using expert manual segmentations as priors to achieve this task. Inspired by recent work in image denoising, the proposed nonlocal patch-based label fusion produces accurate and robust segmentation. Validation with two different datasets is presented. In our experiments, the hippocampi of 80 healthy subjects and the lateral ventricles of 80 patients with Alzheimer's disease were segmented. The influence on segmentation accuracy of different parameters such as patch size and number of training subjects was also studied. A comparison with an appearance-based method and a template-based method was also carried out. The highest median kappa index values obtained with the proposed method were 0.884 for hippocampus segmentation and 0.959 for lateral ventricle segmentation.",
+     "CI": [
+          "Crown Copyright (c) 2010. Published by Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Coupe, Pierrick",
+          "Manjon, Jose V",
+          "Fonov, Vladimir",
+          "Pruessner, Jens",
+          "Robles, Montserrat",
+          "Collins, D Louis"
+     ],
+     "AU": [
+          "Coupe P",
+          "Manjon JV",
+          "Fonov V",
+          "Pruessner J",
+          "Robles M",
+          "Collins DL"
+     ],
+     "AD": "McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Canada. pierrick.coupe@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MOP-84360/Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20100917",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*pathology",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Lateral Ventricles/*anatomy & histology",
+          "*Magnetic Resonance Imaging"
+     ],
+     "EDAT": "2010/09/21 06:00",
+     "MHDA": "2011/04/06 06:00",
+     "CRDT": [
+          "2010/09/21 06:00"
+     ],
+     "PHST": [
+          "2010/08/04 00:00 [received]",
+          "2010/09/03 00:00 [revised]",
+          "2010/09/08 00:00 [accepted]",
+          "2010/09/21 06:00 [entrez]",
+          "2010/09/21 06:00 [pubmed]",
+          "2011/04/06 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(10)01199-7 [pii]",
+          "10.1016/j.neuroimage.2010.09.018 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 Jan 15;54(2):940-54. doi: 10.1016/j.neuroimage.2010.09.018. Epub 2010 Sep 17.",
+     "term": "hippocampus"
+}

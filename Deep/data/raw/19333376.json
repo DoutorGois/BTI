@@ -1,0 +1,73 @@
+{
+     "PMID": "19333376",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130704",
+     "LR": "20130813",
+     "IS": "1662-5196 (Electronic) 1662-5196 (Linking)",
+     "VI": "3",
+     "DP": "2009",
+     "TI": "Technical integration of hippocampus, Basal Ganglia and physical models for spatial navigation.",
+     "PG": "6",
+     "LID": "10.3389/neuro.11.006.2009 [doi]",
+     "AB": "Computational neuroscience is increasingly moving beyond modeling individual neurons or neural systems to consider the integration of multiple models, often constructed by different research groups. We report on our preliminary technical integration of recent hippocampal formation, basal ganglia and physical environment models, together with visualisation tools, as a case study in the use of Python across the modelling tool-chain. We do not present new modeling results here. The architecture incorporates leaky-integrator and rate-coded neurons, a 3D environment with collision detection and tactile sensors, 3D graphics and 2D plots. We found Python to be a flexible platform, offering a significant reduction in development time, without a corresponding significant increase in execution time. We illustrate this by implementing a part of the model in various alternative languages and coding styles, and comparing their execution times. For very large-scale system integration, communication with other languages and parallel execution may be required, which we demonstrate using the BRAHMS framework's Python bindings.",
+     "FAU": [
+          "Fox, Charles",
+          "Humphries, Mark",
+          "Mitchinson, Ben",
+          "Kiss, Tamas",
+          "Somogyvari, Zoltan",
+          "Prescott, Tony"
+     ],
+     "AU": [
+          "Fox C",
+          "Humphries M",
+          "Mitchinson B",
+          "Kiss T",
+          "Somogyvari Z",
+          "Prescott T"
+     ],
+     "AD": "Adaptive Behaviour Research Group, Department of Psychology, University of Sheffield Sheffield, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20090309",
+     "PL": "Switzerland",
+     "TA": "Front Neuroinform",
+     "JT": "Frontiers in neuroinformatics",
+     "JID": "101477957",
+     "PMC": "PMC2659166",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "BRAHMS",
+          "Python",
+          "basal ganglia",
+          "hippocampus",
+          "place cells",
+          "plus-maze",
+          "spatial navigation"
+     ],
+     "EDAT": "2009/04/01 09:00",
+     "MHDA": "2009/04/01 09:01",
+     "CRDT": [
+          "2009/04/01 09:00"
+     ],
+     "PHST": [
+          "2008/09/10 00:00 [received]",
+          "2009/02/20 00:00 [accepted]",
+          "2009/04/01 09:00 [entrez]",
+          "2009/04/01 09:00 [pubmed]",
+          "2009/04/01 09:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/neuro.11.006.2009 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neuroinform. 2009 Mar 9;3:6. doi: 10.3389/neuro.11.006.2009. eCollection 2009.",
+     "term": "place cells"
+}

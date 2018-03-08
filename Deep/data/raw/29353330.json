@@ -1,0 +1,65 @@
+{
+     "PMID": "29353330",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20180121",
+     "IS": "1432-0770 (Electronic) 0340-1200 (Linking)",
+     "DP": "2018 Jan 20",
+     "TI": "Leveraging variable sensor spatial acuity with a homogeneous, multi-scale place recognition framework.",
+     "LID": "10.1007/s00422-017-0745-7 [doi]",
+     "AB": "Most robot navigation systems perform place recognition using a single-sensor modality and one, or at most two heterogeneous map scales. In contrast, mammals perform navigation by combining sensing from a wide variety of modalities including vision, auditory, olfactory and tactile senses with a multi-scale, homogeneous neural map of the environment. In this paper, we develop a multi-scale, multi-sensor system for mapping and place recognition that combines spatial localization hypotheses at different spatial scales from multiple different sensors to calculate an overall place recognition estimate. We evaluate the system's performance over three repeated 1.5-km day and night journeys across a university campus spanning outdoor and multi-level indoor environments, incorporating camera, WiFi and barometric sensory information. The system outperforms a conventional camera-only localization system, with the results demonstrating not only how combining multiple sensing modalities together improves performance, but also how combining these sensing modalities over multiple scales further improves performance over a single-scale approach. The multi-scale mapping framework enables us to analyze the naturally varying spatial acuity of different sensing modalities, revealing how the multi-scale approach captures each sensing modality at its optimal operation point where a single-scale approach does not, and enables us to then weight sensor contributions at different scales based on their utility for place recognition at that scale.",
+     "FAU": [
+          "Jacobson, Adam",
+          "Chen, Zetao",
+          "Milford, Michael"
+     ],
+     "AU": [
+          "Jacobson A",
+          "Chen Z",
+          "Milford M"
+     ],
+     "AD": "School of Electrical Engineering and Computer Science, Queensland University of Technology, Brisbane, Australia. adam.jacobson@hdr.qut.edu.au. School of Electrical Engineering and Computer Science, Queensland University of Technology, Brisbane, Australia. School of Electrical Engineering and Computer Science, Queensland University of Technology, Brisbane, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "CE140100016/Australian Centre of Excellence in Robotic Vision/United States",
+          "FT140101229/Australian Research Council/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20180120",
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Place cells",
+          "Place recognition",
+          "Robotics",
+          "Sensor fusion"
+     ],
+     "EDAT": "2018/01/22 06:00",
+     "MHDA": "2018/01/22 06:00",
+     "CRDT": [
+          "2018/01/22 06:00"
+     ],
+     "PHST": [
+          "2016/08/31 00:00 [received]",
+          "2017/12/21 00:00 [accepted]",
+          "2018/01/22 06:00 [entrez]",
+          "2018/01/22 06:00 [pubmed]",
+          "2018/01/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s00422-017-0745-7 [doi]",
+          "10.1007/s00422-017-0745-7 [pii]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "Biol Cybern. 2018 Jan 20. pii: 10.1007/s00422-017-0745-7. doi: 10.1007/s00422-017-0745-7.",
+     "term": "place cells"
+}

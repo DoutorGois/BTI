@@ -1,0 +1,80 @@
+{
+     "PMID": "15376892",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20041012",
+     "LR": "20071115",
+     "IS": "0162-8828 (Print) 0098-5589 (Linking)",
+     "VI": "26",
+     "IP": "2",
+     "DP": "2004 Feb",
+     "TI": "Unsupervised learning of an atlas from unlabeled point-sets.",
+     "PG": "160-72",
+     "AB": "One of the key challenges in deformable shape modeling is the problem of estimating a meaningful average or mean shape from a set of unlabeled shapes. We present a new joint clustering and matching algorithm that is capable of computing such a mean shape from multiple shape samples which are represented by unlabeled point-sets. An iterative bootstrap process is used wherein multiple shape sample point-sets are nonrigidly deformed to the emerging mean shape, with subsequent estimation of the mean shape based on these nonrigid alignments. The process is entirely symmetric with no bias toward any of the original shape sample point-sets. We believe that this method can be especially useful for creating atlases of various shapes present in medical images. We have applied the method to create mean shapes from nine hand-segmented 2D corpus callosum data sets and 10 hippocampal 3D point-sets.",
+     "FAU": [
+          "Chui, Haili",
+          "Rangarajan, Anand",
+          "Zhang, Jie",
+          "Morison Leonard, Christiana"
+     ],
+     "AU": [
+          "Chui H",
+          "Rangarajan A",
+          "Zhang J",
+          "Morison Leonard C"
+     ],
+     "AD": "Medical Imaging Group, R2 Technologies, Sunnyvale, CA 94087, USA. hailic@r2tech.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Pattern Anal Mach Intell",
+     "JT": "IEEE transactions on pattern analysis and machine intelligence",
+     "JID": "9885960",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "*Artificial Intelligence",
+          "Atlases as Topic",
+          "Cluster Analysis",
+          "Computer Graphics",
+          "Corpus Callosum/anatomy & histology",
+          "Hippocampus/anatomy & histology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Information Storage and Retrieval/methods",
+          "Models, Statistical",
+          "Numerical Analysis, Computer-Assisted",
+          "*Pattern Recognition, Automated",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Signal Processing, Computer-Assisted",
+          "*Subtraction Technique",
+          "User-Computer Interface"
+     ],
+     "EDAT": "2004/09/21 05:00",
+     "MHDA": "2004/10/13 09:00",
+     "CRDT": [
+          "2004/09/21 05:00"
+     ],
+     "PHST": [
+          "2004/09/21 05:00 [pubmed]",
+          "2004/10/13 09:00 [medline]",
+          "2004/09/21 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TPAMI.2004.1262178 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Pattern Anal Mach Intell. 2004 Feb;26(2):160-72. doi: 10.1109/TPAMI.2004.1262178.",
+     "term": "hippocampus"
+}

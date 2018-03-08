@@ -1,0 +1,53 @@
+{
+     "PMID": "29060312",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20171220",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2017",
+     "DP": "2017 Jul",
+     "TI": "Predicting the stimulation effectiveness using pre-stimulation neural states via optogenetic activation of the medial septum glutamatergic neurons modulating the hippocampal neural activity.",
+     "PG": "2105-2108",
+     "LID": "10.1109/EMBC.2017.8037269 [doi]",
+     "AB": "In this study, we explored the role of pre-stimulation neural states on the effectiveness of optogenetic stimulation. Optogenetic stimulation was applied to the medial septum glutamatergic neurons to modulate the hippocampal neural activity in a rat tetanus toxin seizure model. The hippocampal local field potential was recorded using a multi electrode array in an awake and behaving rat. Optical stimulation with a 465nm light source was applied at 35Hz in a 20 seconds off / 20 seconds on pattern with simultaneous recording from the hippocampus. Both the baseline and the stimulation period recordings were divided into 2 second segments and used for the further analysis. In the first experiment, a support vector machine (SVM) model classified the neural states by using spectral features between 0 and 50Hz. 447 out of 545 segments (82.02%) were correctly labeled as `Baseline' while only 326 out of 544 (59.93%) segments from the stimulation period were correctly labeled as `Stimulation.' As the ratio of mislabels is significantly higher for the stimulation period (chi-squared, p<;0.01), we concluded that the stimulation was not always effective. In the second experiment, an SVM model predicted the stimulation effectiveness using the spectral features of the pre-stimulation segments. The classification result shows that 63.7% of the pre-stimulation segments correctly predicted the stimulation effectiveness. These findings suggest that the prediction of the stimulation effectiveness may improve the stimulation efficacy by implementing a state-based stimulation protocol.",
+     "FAU": [
+          "Sang-Eon Park",
+          "Laxpati, Nealen G",
+          "Connolly, Mark J",
+          "Mahmoudi, Babak",
+          "Gross, Robert E"
+     ],
+     "AU": [
+          "Sang-Eon Park",
+          "Laxpati NG",
+          "Connolly MJ",
+          "Mahmoudi B",
+          "Gross RE"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "EDAT": "2017/10/25 06:00",
+     "MHDA": "2017/10/25 06:00",
+     "CRDT": [
+          "2017/10/25 06:00"
+     ],
+     "PHST": [
+          "2017/10/25 06:00 [entrez]",
+          "2017/10/25 06:00 [pubmed]",
+          "2017/10/25 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2017.8037269 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2017 Jul;2017:2105-2108. doi: 10.1109/EMBC.2017.8037269.",
+     "term": "hippocampus"
+}

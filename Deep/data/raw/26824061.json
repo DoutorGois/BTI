@@ -1,0 +1,75 @@
+{
+     "PMID": "26824061",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20160129",
+     "LR": "20170220",
+     "IS": "2375-2548 (Print) 2375-2548 (Linking)",
+     "VI": "1",
+     "IP": "11",
+     "DP": "2015 Dec",
+     "TI": "Connecting multiple spatial scales to decode the population activity of grid cells.",
+     "PG": "e1500816",
+     "LID": "10.1126/science.1500816 [doi]",
+     "AB": "Mammalian grid cells fire when an animal crosses the points of an imaginary hexagonal grid tessellating the environment. We show how animals can navigate by reading out a simple population vector of grid cell activity across multiple spatial scales, even though neural activity is intrinsically stochastic. This theory of dead reckoning explains why grid cells are organized into discrete modules within which all cells have the same lattice scale and orientation. The lattice scale changes from module to module and should form a geometric progression with a scale ratio of around 3/2 to minimize the risk of making large-scale errors in spatial localization. Such errors should also occur if intermediate-scale modules are silenced, whereas knocking out the module at the smallest scale will only affect spatial precision. For goal-directed navigation, the allocentric grid cell representation can be readily transformed into the egocentric goal coordinates needed for planning movements. The goal location is set by nonlinear gain fields that act on goal vector cells. This theory predicts neural and behavioral correlates of grid cell readout that transcend the known link between grid cells of the medial entorhinal cortex and place cells of the hippocampus.",
+     "FAU": [
+          "Stemmler, Martin",
+          "Mathis, Alexander",
+          "Herz, Andreas V M"
+     ],
+     "AU": [
+          "Stemmler M",
+          "Mathis A",
+          "Herz AV"
+     ],
+     "AD": "Bernstein Center for Computational Neuroscience Munich and Department of Biology II, Ludwig-Maximilians-Universitat Munchen, Grosshadernerstrasse 2, 82152 Planegg-Martinsried, Germany. Department of Molecular and Cellular Biology and Center for Brain Science, Harvard University, 16 Divinity Avenue, Cambridge, MA 02138, USA. Bernstein Center for Computational Neuroscience Munich and Department of Biology II, Ludwig-Maximilians-Universitat Munchen, Grosshadernerstrasse 2, 82152 Planegg-Martinsried, Germany.",
+     "AUID": [
+          "ORCID: 0000-0002-3777-2202",
+          "ORCID: 0000-0002-3836-565X"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20151218",
+     "PL": "United States",
+     "TA": "Sci Adv",
+     "JT": "Science advances",
+     "JID": "101653440",
+     "PMC": "PMC4730856",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "entorhinal cortex",
+          "goal-directed navigation",
+          "goal-vector cells",
+          "grid cell",
+          "maximum likelihood decoding",
+          "nonlinear gain fields",
+          "population vector",
+          "self localization",
+          "spatial cognition"
+     ],
+     "EDAT": "2016/01/30 06:00",
+     "MHDA": "2016/01/30 06:01",
+     "CRDT": [
+          "2016/01/30 06:00"
+     ],
+     "PHST": [
+          "2015/06/22 00:00 [received]",
+          "2015/11/24 00:00 [accepted]",
+          "2016/01/30 06:00 [entrez]",
+          "2016/01/30 06:00 [pubmed]",
+          "2016/01/30 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1126/science.1500816 [doi]",
+          "1500816 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Sci Adv. 2015 Dec 18;1(11):e1500816. doi: 10.1126/science.1500816. eCollection 2015 Dec.",
+     "term": "place cells"
+}

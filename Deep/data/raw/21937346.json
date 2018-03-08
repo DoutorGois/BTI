@@ -1,0 +1,84 @@
+{
+     "PMID": "21937346",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120607",
+     "LR": "20120207",
+     "IS": "1558-254X (Electronic) 0278-0062 (Linking)",
+     "VI": "31",
+     "IP": "2",
+     "DP": "2012 Feb",
+     "TI": "Automated brain structure segmentation based on atlas registration and appearance models.",
+     "PG": "276-86",
+     "LID": "10.1109/TMI.2011.2168420 [doi]",
+     "AB": "Accurate automated brain structure segmentation methods facilitate the analysis of large-scale neuroimaging studies. This work describes a novel method for brain structure segmentation in magnetic resonance images that combines information about a structure's location and appearance. The spatial model is implemented by registering multiple atlas images to the target image and creating a spatial probability map. The structure's appearance is modeled by a classifier based on Gaussian scale-space features. These components are combined with a regularization term in a Bayesian framework that is globally optimized using graph cuts. The incorporation of the appearance model enables the method to segment structures with complex intensity distributions and increases its robustness against errors in the spatial model. The method is tested in cross-validation experiments on two datasets acquired with different magnetic resonance sequences, in which the hippocampus and cerebellum were segmented by an expert. Furthermore, the method is compared to two other segmentation techniques that were applied to the same data. Results show that the atlas- and appearance-based method produces accurate results with mean Dice similarity indices of 0.95 for the cerebellum, and 0.87 for the hippocampus. This was comparable to or better than the other methods, whereas the proposed technique is more widely applicable and robust.",
+     "FAU": [
+          "van der Lijn, Fedde",
+          "de Bruijne, Marleen",
+          "Klein, Stefan",
+          "den Heijer, Tom",
+          "Hoogendam, Yoo Y",
+          "van der Lugt, Aad",
+          "Breteler, Monique M B",
+          "Niessen, Wiro J"
+     ],
+     "AU": [
+          "van der Lijn F",
+          "de Bruijne M",
+          "Klein S",
+          "den Heijer T",
+          "Hoogendam YY",
+          "van der Lugt A",
+          "Breteler MM",
+          "Niessen WJ"
+     ],
+     "AD": "Departments of Medical Informatics and Radiology, Erasmus MC, 3000 CA Rotterdam, The Netherlands. f.vanderlijn@erasmusmc.nl",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110919",
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "*Algorithms",
+          "Brain/*pathology",
+          "Brain Diseases/*pathology",
+          "Computer Simulation",
+          "Female",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Models, Anatomic",
+          "Models, Neurological",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "EDAT": "2011/09/23 06:00",
+     "MHDA": "2012/06/08 06:00",
+     "CRDT": [
+          "2011/09/23 06:00"
+     ],
+     "PHST": [
+          "2011/09/23 06:00 [entrez]",
+          "2011/09/23 06:00 [pubmed]",
+          "2012/06/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TMI.2011.2168420 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2012 Feb;31(2):276-86. doi: 10.1109/TMI.2011.2168420. Epub 2011 Sep 19.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,123 @@
+{
+     "PMID": "18675918",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090123",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "43",
+     "IP": "1",
+     "DP": "2008 Oct 15",
+     "TI": "Validation of a fully automated 3D hippocampal segmentation method using subjects with Alzheimer's disease mild cognitive impairment, and elderly controls.",
+     "PG": "59-68",
+     "LID": "10.1016/j.neuroimage.2008.07.003 [doi]",
+     "AB": "We introduce a new method for brain MRI segmentation, called the auto context model (ACM), to segment the hippocampus automatically in 3D T1-weighted structural brain MRI scans of subjects from the Alzheimer's Disease Neuroimaging Initiative (ADNI). In a training phase, our algorithm used 21 hand-labeled segmentations to learn a classification rule for hippocampal versus non-hippocampal regions using a modified AdaBoost method, based on approximately 18,000 features (image intensity, position, image curvatures, image gradients, tissue classification maps of gray/white matter and CSF, and mean, standard deviation, and Haar filters of size 1x1x1 to 7x7x7). We linearly registered all brains to a standard template to devise a basic shape prior to capture the global shape of the hippocampus, defined as the pointwise summation of all the training masks. We also included curvature, gradient, mean, standard deviation, and Haar filters of the shape prior and the tissue classified images as features. During each iteration of ACM - our extension of AdaBoost - the Bayesian posterior distribution of the labeling was fed back in as an input, along with its neighborhood features as new features for AdaBoost to use. In validation studies, we compared our results with hand-labeled segmentations by two experts. Using a leave-one-out approach and standard overlap and distance error metrics, our automated segmentations agreed well with human raters; any differences were comparable to differences between trained human raters. Our error metrics compare favorably with those previously reported for other automated hippocampal segmentations, suggesting the utility of the approach for large-scale studies.",
+     "FAU": [
+          "Morra, Jonathan H",
+          "Tu, Zhuowen",
+          "Apostolova, Liana G",
+          "Green, Amity E",
+          "Avedissian, Christina",
+          "Madsen, Sarah K",
+          "Parikshak, Neelroop",
+          "Hua, Xue",
+          "Toga, Arthur W",
+          "Jack, Clifford R Jr",
+          "Weiner, Michael W",
+          "Thompson, Paul M"
+     ],
+     "AU": [
+          "Morra JH",
+          "Tu Z",
+          "Apostolova LG",
+          "Green AE",
+          "Avedissian C",
+          "Madsen SK",
+          "Parikshak N",
+          "Hua X",
+          "Toga AW",
+          "Jack CR Jr",
+          "Weiner MW",
+          "Thompson PM"
+     ],
+     "AD": "Laboratory of Neuro Imaging, Department of Neurology, UCLA School of Medicine, Los Angeles, CA 90095-1769, USA.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904-04/AG/NIA NIH HHS/United States",
+          "AG016570/AG/NIA NIH HHS/United States",
+          "R21 RR019771/RR/NCRR NIH HHS/United States",
+          "R01 LM005639/LM/NLM NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "U19 AG010483/AG/NIA NIH HHS/United States",
+          "EB01651/EB/NIBIB NIH HHS/United States",
+          "RR019771/RR/NCRR NIH HHS/United States",
+          "P50 AG016570/AG/NIA NIH HHS/United States",
+          "LM05639/LM/NLM NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Validation Studies"
+     ],
+     "DEP": "20080716",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "EIN": [
+          "Neuroimage. 2009 Feb 15;44(4):1439"
+     ],
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Alzheimer Disease/complications/*pathology",
+          "Artificial Intelligence",
+          "Cognition Disorders/complications/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC2624575",
+     "MID": [
+          "NIHMS66280"
+     ],
+     "EDAT": "2008/08/05 09:00",
+     "MHDA": "2009/01/24 09:00",
+     "CRDT": [
+          "2008/08/05 09:00"
+     ],
+     "PHST": [
+          "2007/12/04 00:00 [received]",
+          "2008/05/27 00:00 [revised]",
+          "2008/07/02 00:00 [accepted]",
+          "2008/08/05 09:00 [pubmed]",
+          "2009/01/24 09:00 [medline]",
+          "2008/08/05 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(08)00798-2 [pii]",
+          "10.1016/j.neuroimage.2008.07.003 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2008 Oct 15;43(1):59-68. doi: 10.1016/j.neuroimage.2008.07.003. Epub 2008 Jul 16.",
+     "term": "hippocampus"
+}

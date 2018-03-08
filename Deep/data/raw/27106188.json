@@ -1,0 +1,59 @@
+{
+     "PMID": "27106188",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171214",
+     "LR": "20180124",
+     "IS": "1551-0018 (Electronic) 1547-1063 (Linking)",
+     "VI": "13",
+     "IP": "3",
+     "DP": "2016 Jun 1",
+     "TI": "On the properties of input-to-output transformations in neuronal networks.",
+     "PG": "579-96",
+     "LID": "10.3934/mbe.2016009 [doi]",
+     "AB": "Information processing in neuronal networks in certain important cases can be considered as maps of binary vectors, where ones (spikes) and zeros (no spikes) of input neurons are transformed into spikes and no spikes of output neurons. A simple but fundamental characteristic of such a map is how it transforms distances between input vectors into distances between output vectors. We advanced earlier known results by finding an exact solution to this problem for McCulloch-Pitts neurons. The obtained explicit formulas allow for detailed analysis of how the network connectivity and neuronal excitability affect the transformation of distances in neurons. As an application, we explored a simple model of information processing in the hippocampus, a brain area critically implicated in learning and memory. We found network connectivity and neuronal excitability parameter values that optimize discrimination between similar and distinct inputs. A decrease of neuronal excitability, which in biological neurons may be associated with decreased inhibition, impaired the optimality of discrimination.",
+     "FAU": [
+          "Olypher, Andrey",
+          "Vaillant, Jean"
+     ],
+     "AU": [
+          "Olypher A",
+          "Vaillant J"
+     ],
+     "AD": "School of Science and Technology, Georgia Gwinnett College, Lawrenceville, GA 30043, United States. email: aolifer@ggc.edu.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Math Biosci Eng",
+     "JT": "Mathematical biosciences and engineering : MBE",
+     "JID": "101197794",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Automatic Data Processing",
+          "Discrimination (Psychology)/physiology",
+          "Hippocampus/physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology"
+     ],
+     "EDAT": "2016/04/24 06:00",
+     "MHDA": "2017/12/15 06:00",
+     "CRDT": [
+          "2016/04/24 06:00"
+     ],
+     "PHST": [
+          "2016/04/24 06:00 [entrez]",
+          "2016/04/24 06:00 [pubmed]",
+          "2017/12/15 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Math Biosci Eng. 2016 Jun 1;13(3):579-96.",
+     "term": "hippocampus"
+}

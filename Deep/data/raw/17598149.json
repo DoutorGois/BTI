@@ -1,0 +1,68 @@
+{
+     "PMID": "17598149",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080104",
+     "LR": "20170922",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "17",
+     "IP": "9",
+     "DP": "2007",
+     "TI": "Learning in a geometric model of place cell firing.",
+     "PG": "786-800",
+     "AB": "Following Hartley et al. (Hartley et al. (2000) Hippocampus 10:369-379), we present a simple feed-forward model of place cell (PC) firing predicated on neocortical information regarding the environmental geometry surrounding the animal. Incorporating the idea of boundaries with distinct sensory qualities, we show that synaptic plasticity mediated by a BCM-like rule (Bienenstock et al. (1982) J Neurosci 2:32-48) produces PCs that encode position relative to specific extended landmarks. In an unchanging environment the model is shown to undergo an initial phase of learning, resulting in the formation of stable place fields. In familiar environments, perturbation of environmental cues produces graded changes in the firing rate and position of place fields. Model simulations are compared favorably with three sets of experimental data: (1) Results published by Barry et al. (Barry et al. (2006) Rev Neurosci 17:71-97) showing the slow disappearance of duplicate place fields produced when a barrier is placed into a familiar environment. (2) Rivard et al.'s (Rivard et al. (2004) J Gen Physiol 124:9-25) study showing a graded response in PC firing such that fields near to a centrally placed object encode space relative to the object, whereas more distant fields respond to the surrounding environment. (3) Fenton et al.'s (Fenton et al. (2000a) J Gen Physiol 116:191-209) observation that inconsistent rotation of cue cards produces parametric changes in place field positions. The merits of the model are discussed in terms of its extensibility and biological plausibility.",
+     "CI": [
+          "(c) 2007 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Barry, Caswell",
+          "Burgess, Neil"
+     ],
+     "AU": [
+          "Barry C",
+          "Burgess N"
+     ],
+     "AD": "Institute of Cognitive Neuroscience, University College London, 17 Queen Square, London, United Kingdom. caswell.barry@ucl.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0501672/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Review"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Behavior, Animal",
+          "Hippocampus/cytology",
+          "*Learning",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Space Perception/*physiology"
+     ],
+     "RF": "59",
+     "EDAT": "2007/06/29 09:00",
+     "MHDA": "2008/01/05 09:00",
+     "CRDT": [
+          "2007/06/29 09:00"
+     ],
+     "PHST": [
+          "2007/06/29 09:00 [pubmed]",
+          "2008/01/05 09:00 [medline]",
+          "2007/06/29 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.20324 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2007;17(9):786-800. doi: 10.1002/hipo.20324.",
+     "term": "hippocampus"
+}

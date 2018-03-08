@@ -1,0 +1,76 @@
+{
+     "PMID": "24834973",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150115",
+     "LR": "20140520",
+     "IS": "1741-2552 (Electronic) 1741-2552 (Linking)",
+     "VI": "11",
+     "IP": "3",
+     "DP": "2014 Jun",
+     "TI": "Controlling an avatar by thought using real-time fMRI.",
+     "PG": "035006",
+     "LID": "10.1088/1741-2560/11/3/035006 [doi]",
+     "AB": "OBJECTIVE: We have developed a brain-computer interface (BCI) system based on real-time functional magnetic resonance imaging (fMRI) with virtual reality feedback. The advantage of fMRI is the relatively high spatial resolution and the coverage of the whole brain; thus we expect that it may be used to explore novel BCI strategies, based on new types of mental activities. However, fMRI suffers from a low temporal resolution and an inherent delay, since it is based on a hemodynamic response rather than electrical signals. Thus, our objective in this paper was to explore whether subjects could perform a BCI task in a virtual environment using our system, and how their performance was affected by the delay. APPROACH: The subjects controlled an avatar by left-hand, right-hand and leg motion or imagery. The BCI classification is based on locating the regions of interest (ROIs) related with each of the motor classes, and selecting the ROI with maximum average values online. The subjects performed a cue-based task and a free-choice task, and the analysis includes evaluation of the performance as well as subjective reports. MAIN RESULTS: Six subjects performed the task with high accuracy when allowed to move their fingers and toes, and three subjects achieved high accuracy using imagery alone. In the cue-based task the accuracy was highest 8-12 s after the trigger, whereas in the free-choice task the subjects performed best when the feedback was provided 6 s after the trigger. SIGNIFICANCE: We show that subjects are able to perform a navigation task in a virtual environment using an fMRI-based BCI, despite the hemodynamic delay. The same approach can be extended to other mental tasks and other brain areas.",
+     "FAU": [
+          "Cohen, Ori",
+          "Koppel, Moshe",
+          "Malach, Rafael",
+          "Friedman, Doron"
+     ],
+     "AU": [
+          "Cohen O",
+          "Koppel M",
+          "Malach R",
+          "Friedman D"
+     ],
+     "AD": "The Interdisciplinary Center Herzliya, 46150, Israel. Bar-Ilan University, Ramat-Gan 52900, Israel.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140519",
+     "PL": "England",
+     "TA": "J Neural Eng",
+     "JT": "Journal of neural engineering",
+     "JID": "101217933",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Brain Mapping/*methods",
+          "*Brain-Computer Interfaces",
+          "Computer Systems",
+          "Evoked Potentials, Motor/*physiology",
+          "Female",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/methods",
+          "Imagination/*physiology",
+          "Magnetic Resonance Imaging/methods",
+          "Male",
+          "Movement",
+          "Robotics/*methods",
+          "Spatial Navigation/*physiology",
+          "Thinking/physiology",
+          "*User-Computer Interface"
+     ],
+     "EDAT": "2014/05/20 06:00",
+     "MHDA": "2015/01/16 06:00",
+     "CRDT": [
+          "2014/05/20 06:00"
+     ],
+     "PHST": [
+          "2014/05/20 06:00 [entrez]",
+          "2014/05/20 06:00 [pubmed]",
+          "2015/01/16 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1088/1741-2560/11/3/035006 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neural Eng. 2014 Jun;11(3):035006. doi: 10.1088/1741-2560/11/3/035006. Epub 2014 May 19.",
+     "term": "spatial navigation"
+}

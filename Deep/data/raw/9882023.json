@@ -1,0 +1,66 @@
+{
+     "PMID": "9882023",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19990322",
+     "LR": "20061115",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "8",
+     "IP": "6",
+     "DP": "1998",
+     "TI": "Plasticity of directional place fields in a model of rodent CA3.",
+     "PG": "651-65",
+     "AB": "We propose a computational model of the CA3 region of the rat hippocampus that is able to reproduce the available experimental data concerning the dependence of directional selectivity of the place cell discharge on the environment and on the spatial task. The main feature of our model is a continuous, unsupervised Hebbian learning dynamics of recurrent connections, which is driven by the neuronal activities imposed upon the network by the environment-dependent external input. In our simulations, the environment and the movements of the rat are chosen to mimic those commonly observed in neurophysiological experiments. The environment is represented as local views that depend on both the position and the heading direction of the rat. We hypothesize that place cells are intrinsically directional, that is, they respond to local views. We show that the synaptic dynamics in the recurrent neural network rapidly modify the discharge correlates of the place cells: Cells tend to become omnidirectional place cells in open fields, while their directionality tends to get stronger in radial-arm mazes. We also find that the synaptic learning mechanisms account for other properties of place cell activity, such as an increase in the place cell peak firing rates as well as clustering of place fields during exploration. Our model makes several experimental predictions that can be tested using current techniques.",
+     "FAU": [
+          "Brunel, N",
+          "Trullier, O"
+     ],
+     "AU": [
+          "Brunel N",
+          "Trullier O"
+     ],
+     "AD": "LPS, Ecole Normale Superieure, Paris, France. brunel@lps.ens.fr",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Exploratory Behavior",
+          "Hippocampus/*physiology",
+          "Mathematics",
+          "Maze Learning/*physiology",
+          "Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neural Networks (Computer)",
+          "Neuronal Plasticity/*physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "Synapses/physiology"
+     ],
+     "EDAT": "1999/01/09 00:00",
+     "MHDA": "1999/01/09 00:01",
+     "CRDT": [
+          "1999/01/09 00:00"
+     ],
+     "PHST": [
+          "1999/01/09 00:00 [pubmed]",
+          "1999/01/09 00:01 [medline]",
+          "1999/01/09 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/(SICI)1098-1063(1998)8:6&lt;651::AID-HIPO8&gt;3.0.CO;2-L [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 1998;8(6):651-65. doi: 10.1002/(SICI)1098-1063(1998)8:6&lt;651::AID-HIPO8&gt;3.0.CO;2-L.",
+     "term": "place cells"
+}

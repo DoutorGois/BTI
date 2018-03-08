@@ -1,0 +1,99 @@
+{
+     "PMID": "26123028",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160824",
+     "LR": "20151121",
+     "IS": "1873-7064 (Electronic) 0028-3908 (Linking)",
+     "VI": "99",
+     "DP": "2015 Dec",
+     "TI": "GABAA receptor-mediated feedforward and feedback inhibition differentially modulate the gain and the neural code transformation in hippocampal CA1 pyramidal cells.",
+     "PG": "177-86",
+     "LID": "10.1016/j.neuropharm.2015.06.005 [doi] S0028-3908(15)00263-4 [pii]",
+     "AB": "Diverse variety of hippocampal interneurons exists in the CA1 area, which provides either feedforward (FF) or feedback (FB) inhibition to CA1 pyramidal cell (PC). However, how the two different inhibitory network architectures modulate the computational mode of CA1 PC is unknown. By investigating the CA3 PC rate-driven input-output function of CA1 PC using in vitro electrophysiology, in vitro-simulation of inhibitory network, and in silico computational modeling, we demonstrated for the first time that GABAA receptor-mediated FF and FB inhibition differentially modulate the gain, the spike precision, the neural code transformation and the information capacity of CA1 PC. Recruitment of FF inhibition buffered the CA1 PC spikes to theta-frequency regardless of the input frequency, abolishing the gain and making CA1 PC insensitive to its inputs. Instead, temporal variability of the CA1 PC spikes was increased, promoting the rate-to-temporal code transformation to enhance the information capacity of CA1 PC. In contrast, the recruitment of FB inhibition sub-linearly transformed the input rate to spike output rate with high gain and low spike temporal variability, promoting the rate-to-rate code transformation. These results suggest that GABAA receptor-mediated FF and FB inhibitory circuits could serve as network mechanisms for differentially modulating the gain of CA1 PC, allowing CA1 PC to switch between different computational modes using rate and temporal codes ad hoc. Such switch will allow CA1 PC to efficiently respond to spatio-temporally dynamic inputs and expand its computational capacity during different behavioral and neuromodulatory states in vivo.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Jang, Hyun Jae",
+          "Park, Kyerl",
+          "Lee, Jaedong",
+          "Kim, Hyuncheol",
+          "Han, Kyu Hun",
+          "Kwag, Jeehyun"
+     ],
+     "AU": [
+          "Jang HJ",
+          "Park K",
+          "Lee J",
+          "Kim H",
+          "Han KH",
+          "Kwag J"
+     ],
+     "AD": "Neural Computation Laboratory, Department of Brain and Cognitive Engineering, Korea University, South Korea. Neural Computation Laboratory, Department of Brain and Cognitive Engineering, Korea University, South Korea; Division of Life Sciences, College of Life Sciences and Biotechnology, Korea University, South Korea. Neural Computation Laboratory, Department of Brain and Cognitive Engineering, Korea University, South Korea. Neural Computation Laboratory, Department of Brain and Cognitive Engineering, Korea University, South Korea. Neural Computation Laboratory, Department of Brain and Cognitive Engineering, Korea University, South Korea; Division of Biotechnology, College of Life Sciences and Biotechnology, Korea University, South Korea. Neural Computation Laboratory, Department of Brain and Cognitive Engineering, Korea University, South Korea. Electronic address: jkwag@korea.ac.kr.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150626",
+     "PL": "England",
+     "TA": "Neuropharmacology",
+     "JT": "Neuropharmacology",
+     "JID": "0236217",
+     "RN": [
+          "0 (Receptors, GABA-A)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/drug effects",
+          "Animals",
+          "CA1 Region, Hippocampal/drug effects/*physiology",
+          "CA3 Region, Hippocampal/drug effects/physiology",
+          "Computer Simulation",
+          "Excitatory Postsynaptic Potentials/drug effects",
+          "Feedback, Physiological/drug effects/*physiology",
+          "Inhibitory Postsynaptic Potentials/drug effects",
+          "Interneurons/drug effects/physiology",
+          "*Models, Neurological",
+          "Neural Inhibition/drug effects/*physiology",
+          "Patch-Clamp Techniques",
+          "Pyramidal Cells/drug effects/*physiology",
+          "Rats, Sprague-Dawley",
+          "Receptors, GABA-A/*metabolism",
+          "Tissue Culture Techniques"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "GABA(A) receptor-mediated inhibition",
+          "Gain",
+          "Hippocampus",
+          "Input-output",
+          "Spike rate",
+          "Spike timing"
+     ],
+     "EDAT": "2015/07/01 06:00",
+     "MHDA": "2016/08/25 06:00",
+     "CRDT": [
+          "2015/07/01 06:00"
+     ],
+     "PHST": [
+          "2015/03/11 00:00 [received]",
+          "2015/05/19 00:00 [revised]",
+          "2015/06/11 00:00 [accepted]",
+          "2015/07/01 06:00 [entrez]",
+          "2015/07/01 06:00 [pubmed]",
+          "2016/08/25 06:00 [medline]"
+     ],
+     "AID": [
+          "S0028-3908(15)00263-4 [pii]",
+          "10.1016/j.neuropharm.2015.06.005 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuropharmacology. 2015 Dec;99:177-86. doi: 10.1016/j.neuropharm.2015.06.005. Epub 2015 Jun 26.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,57 @@
+{
+     "PMID": "27172447",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20160628",
+     "IS": "1530-888X (Electronic) 0899-7667 (Linking)",
+     "VI": "28",
+     "IP": "7",
+     "DP": "2016 Jul",
+     "TI": "A Novel Nonparametric Approach for Neural Encoding and Decoding Models of Multimodal Receptive Fields.",
+     "PG": "1356-87",
+     "LID": "10.1162/NECO_a_00847 [doi]",
+     "AB": "Pyramidal neurons recorded from the rat hippocampus and entorhinal cortex, such as place and grid cells, have diverse receptive fields, which are either unimodal or multimodal. Spiking activity from these cells encodes information about the spatial position of a freely foraging rat. At fine timescales, a neuron's spike activity also depends significantly on its own spike history. However, due to limitations of current parametric modeling approaches, it remains a challenge to estimate complex, multimodal neuronal receptive fields while incorporating spike history dependence. Furthermore, efforts to decode the rat's trajectory in one- or two-dimensional space from hippocampal ensemble spiking activity have mainly focused on spike history-independent neuronal encoding models. In this letter, we address these two important issues by extending a recently introduced nonparametric neural encoding framework that allows modeling both complex spatial receptive fields and spike history dependencies. Using this extended nonparametric approach, we develop novel algorithms for decoding a rat's trajectory based on recordings of hippocampal place cells and entorhinal grid cells. Results show that both encoding and decoding models derived from our new method performed significantly better than state-of-the-art encoding and decoding models on 6 minutes of test data. In addition, our model's performance remains invariant to the apparent modality of the neuron's receptive field.",
+     "FAU": [
+          "Agarwal, Rahul",
+          "Chen, Zhe",
+          "Kloosterman, Fabian",
+          "Wilson, Matthew A",
+          "Sarma, Sridevi V"
+     ],
+     "AU": [
+          "Agarwal R",
+          "Chen Z",
+          "Kloosterman F",
+          "Wilson MA",
+          "Sarma SV"
+     ],
+     "AD": "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD 21218, U.S.A. rahul.jhu@gmail.com. Department of Psychiatry and Department of Neuroscience and Physiology, New York University School of Medicine, New York, NY 10016, U.S.A. zhe.chen3@nyumc.org. Neuro-Electronics Research Flanders, Leuven, Belgium; Imec, Leuven, Belgium; and Brain and Cognition Research Unit, KU Leuven 3000, Belgium fabian.kloosterman@nerf.be. Picower Institute for Learning and Memory, MIT, Cambridge, MA 02139, U.S.A. mwilson@mit.edu. Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD 21218, U.S.A. ssarma2@jhu.edu.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160512",
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "EDAT": "2016/05/14 06:00",
+     "MHDA": "2016/05/14 06:00",
+     "CRDT": [
+          "2016/05/13 06:00"
+     ],
+     "PHST": [
+          "2016/05/13 06:00 [entrez]",
+          "2016/05/14 06:00 [pubmed]",
+          "2016/05/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1162/NECO_a_00847 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2016 Jul;28(7):1356-87. doi: 10.1162/NECO_a_00847. Epub 2016 May 12.",
+     "term": "place cells"
+}

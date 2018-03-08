@@ -1,0 +1,86 @@
+{
+     "PMID": "22487039",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130205",
+     "LR": "20170220",
+     "IS": "1460-9568 (Electronic) 0953-816X (Linking)",
+     "VI": "35",
+     "IP": "7",
+     "DP": "2012 Apr",
+     "TI": "Generalization of value in reinforcement learning by humans.",
+     "PG": "1092-104",
+     "LID": "10.1111/j.1460-9568.2012.08017.x [doi]",
+     "AB": "Research in decision-making has focused on the role of dopamine and its striatal targets in guiding choices via learned stimulus-reward or stimulus-response associations, behavior that is well described by reinforcement learning theories. However, basic reinforcement learning is relatively limited in scope and does not explain how learning about stimulus regularities or relations may guide decision-making. A candidate mechanism for this type of learning comes from the domain of memory, which has highlighted a role for the hippocampus in learning of stimulus-stimulus relations, typically dissociated from the role of the striatum in stimulus-response learning. Here, we used functional magnetic resonance imaging and computational model-based analyses to examine the joint contributions of these mechanisms to reinforcement learning. Humans performed a reinforcement learning task with added relational structure, modeled after tasks used to isolate hippocampal contributions to memory. On each trial participants chose one of four options, but the reward probabilities for pairs of options were correlated across trials. This (uninstructed) relationship between pairs of options potentially enabled an observer to learn about option values based on experience with the other options and to generalize across them. We observed blood oxygen level-dependent (BOLD) activity related to learning in the striatum and also in the hippocampus. By comparing a basic reinforcement learning model to one augmented to allow feedback to generalize between correlated options, we tested whether choice behavior and BOLD activity were influenced by the opportunity to generalize across correlated options. Although such generalization goes beyond standard computational accounts of reinforcement learning and striatal BOLD, both choices and striatal BOLD activity were better explained by the augmented model. Consistent with the hypothesized role for the hippocampus in this generalization, functional connectivity between the ventral striatum and hippocampus was modulated, across participants, by the ability of the augmented model to capture participants' choice. Our results thus point toward an interactive model in which striatal reinforcement learning systems may employ relational representations typically associated with the hippocampus.",
+     "CI": [
+          "(c) 2012 The Authors. European Journal of Neuroscience (c) 2012 Federation of",
+          "European Neuroscience Societies and Blackwell Publishing Ltd."
+     ],
+     "FAU": [
+          "Wimmer, G Elliott",
+          "Daw, Nathaniel D",
+          "Shohamy, Daphna"
+     ],
+     "AU": [
+          "Wimmer GE",
+          "Daw ND",
+          "Shohamy D"
+     ],
+     "AD": "Department of Psychology, Columbia University, 1190 Amsterdam Ave., 406 Schermerhorn Hall MC5501, New York, NY, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS 078784/NS/NINDS NIH HHS/United States",
+          "R01 NS078784/NS/NINDS NIH HHS/United States",
+          "R03 DA026957-01/DA/NIDA NIH HHS/United States",
+          "R01 NS078784-01/NS/NINDS NIH HHS/United States",
+          "R03 DA026957/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "France",
+     "TA": "Eur J Neurosci",
+     "JT": "The European journal of neuroscience",
+     "JID": "8918110",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Basal Ganglia/physiology",
+          "Female",
+          "Generalization (Psychology)/*physiology",
+          "Humans",
+          "Learning/*physiology",
+          "Male",
+          "Photic Stimulation/methods",
+          "Psychomotor Performance/physiology",
+          "*Reinforcement (Psychology)",
+          "*Reward",
+          "Young Adult"
+     ],
+     "PMC": "PMC3404618",
+     "MID": [
+          "NIHMS347070"
+     ],
+     "EDAT": "2012/04/11 06:00",
+     "MHDA": "2013/02/06 06:00",
+     "CRDT": [
+          "2012/04/11 06:00"
+     ],
+     "PHST": [
+          "2012/04/11 06:00 [entrez]",
+          "2012/04/11 06:00 [pubmed]",
+          "2013/02/06 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/j.1460-9568.2012.08017.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Eur J Neurosci. 2012 Apr;35(7):1092-104. doi: 10.1111/j.1460-9568.2012.08017.x.",
+     "term": "hippocampus"
+}

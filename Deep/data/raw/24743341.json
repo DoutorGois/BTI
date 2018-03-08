@@ -1,0 +1,65 @@
+{
+     "PMID": "24743341",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141208",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "10",
+     "IP": "4",
+     "DP": "2014 Apr",
+     "TI": "Continuous attractor network model for conjunctive position-by-velocity tuning of grid cells.",
+     "PG": "e1003558",
+     "LID": "10.1371/journal.pcbi.1003558 [doi]",
+     "AB": "The spatial responses of many of the cells recorded in layer II of rodent medial entorhinal cortex (MEC) show a triangular grid pattern, which appears to provide an accurate population code for animal spatial position. In layer III, V and VI of the rat MEC, grid cells are also selective to head-direction and are modulated by the speed of the animal. Several putative mechanisms of grid-like maps were proposed, including attractor network dynamics, interactions with theta oscillations or single-unit mechanisms such as firing rate adaptation. In this paper, we present a new attractor network model that accounts for the conjunctive position-by-velocity selectivity of grid cells. Our network model is able to perform robust path integration even when the recurrent connections are subject to random perturbations.",
+     "FAU": [
+          "Si, Bailu",
+          "Romani, Sandro",
+          "Tsodyks, Misha"
+     ],
+     "AU": [
+          "Si B",
+          "Romani S",
+          "Tsodyks M"
+     ],
+     "AD": "Department of Neurobiology, Weizmann Institute of Science, Rehovot, Israel. Center for Theoretical Neuroscience, Columbia University, New York, New York, United States of America. Department of Neurobiology, Weizmann Institute of Science, Rehovot, Israel.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140417",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Models, Theoretical",
+          "Movement",
+          "Rodentia/*physiology"
+     ],
+     "PMC": "PMC3990514",
+     "EDAT": "2014/04/20 06:00",
+     "MHDA": "2014/12/15 06:00",
+     "CRDT": [
+          "2014/04/19 06:00"
+     ],
+     "PHST": [
+          "2013/07/09 00:00 [received]",
+          "2014/02/19 00:00 [accepted]",
+          "2014/04/19 06:00 [entrez]",
+          "2014/04/20 06:00 [pubmed]",
+          "2014/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1003558 [doi]",
+          "PCOMPBIOL-D-13-01217 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2014 Apr 17;10(4):e1003558. doi: 10.1371/journal.pcbi.1003558. eCollection 2014 Apr.",
+     "term": "grid cells"
+}

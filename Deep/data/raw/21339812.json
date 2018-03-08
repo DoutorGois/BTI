@@ -1,0 +1,60 @@
+{
+     "PMID": "21339812",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "0021-8901 (Print) 0021-8901 (Linking)",
+     "VI": "48",
+     "IP": "1",
+     "DP": "2011 Feb",
+     "TI": "Using presence-only and presence-absence data to estimate the current and potential distributions of established invasive species.",
+     "PG": "25-34",
+     "AB": "1.Predicting the current and potential distributions of established invasive species is critical for evaluating management options, but methods for differentiating these distributions have received little attention. In particular, there is uncertainty among invasive species managers about the value of information from incidental sightings compared to data from designed field surveys. This study compares the two approaches, and develops a unifying framework, using the case of invasive sambar deer Cervus unicolor in Victoria, Australia.2.We first used 391 incidental sightings of sambar deer and 12 biophysical variables to construct a presence-only habitat suitability model using Maxent. We then used that model to stratify field sampling, with proportionately greater sampling of cells with high predicted habitat suitability. Field sampling, consisting of faecal pellet surveys, sign surveys and camera trapping, was conducted in 80 4-km(2) grid cells. A Bayesian state-space occupancy model was used to predict probability of suitable habitat from the field data.3.The Maxent and occupancy models predicted similar spatial distributions of habitat suitability for sambar deer in Victoria and there was a strong positive correlation between the rankings of cells by the two approaches. The congruence of the two models suggests that any spatial and detection biases in the presence-only data were relatively unimportant in our study.4.We predicted the extent of suitable habitat from the occupancy model using a threshold that gave a false negative error rate of 0.05. The current distribution was the suitable habitat within a kernel that had a 99.5% chance of including the presence locations pooled from incidental sightings and field surveys: the potential distribution was suitable habitat outside that kernel. Several discrete areas of potential distribution were identified as priorities for surveillance monitoring with the aim of detecting and managing incursions of sambar deer.5.Synthesis and applications.Our framework enables managers to robustly estimate the current and potential distributions of established invasive species using either presence-only and/or presence-absence data. Managers can then focus control and/or containment actions within the current distribution and establish surveillance monitoring to detect incursions within the potential distribution.",
+     "FAU": [
+          "Gormley, Andrew M",
+          "Forsyth, David M",
+          "Griffioen, Peter",
+          "Lindeman, Michael",
+          "Ramsey, David Sl",
+          "Scroggie, Michael P",
+          "Woodford, Luke"
+     ],
+     "AU": [
+          "Gormley AM",
+          "Forsyth DM",
+          "Griffioen P",
+          "Lindeman M",
+          "Ramsey DS",
+          "Scroggie MP",
+          "Woodford L"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "England",
+     "TA": "J Appl Ecol",
+     "JT": "The Journal of applied ecology",
+     "JID": "0055203",
+     "PMC": "PMC3038347",
+     "EDAT": "2011/02/23 06:00",
+     "MHDA": "2011/02/23 06:00",
+     "CRDT": [
+          "2011/02/23 06:00"
+     ],
+     "PHST": [
+          "2010/05/05 00:00 [received]",
+          "2010/11/02 00:00 [accepted]",
+          "2011/02/23 06:00 [entrez]",
+          "2011/02/23 06:00 [pubmed]",
+          "2011/02/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/j.1365-2664.2010.01911.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Appl Ecol. 2011 Feb;48(1):25-34. doi: 10.1111/j.1365-2664.2010.01911.x.",
+     "term": "grid cells"
+}

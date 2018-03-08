@@ -1,0 +1,105 @@
+{
+     "PMID": "26189060",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170914",
+     "LR": "20180105",
+     "IS": "1931-7565 (Electronic) 1931-7557 (Linking)",
+     "VI": "10",
+     "IP": "2",
+     "DP": "2016 Jun",
+     "TI": "Test-retest reliability of high angular resolution diffusion imaging acquisition within medial temporal lobe connections assessed via tract based spatial statistics, probabilistic tractography and a novel graph theory metric.",
+     "PG": "533-47",
+     "LID": "10.1007/s11682-015-9425-1 [doi]",
+     "AB": "This study examined the reliability of high angular resolution diffusion tensor imaging (HARDI) data collected on a single individual across several sessions using the same scanner. HARDI data was acquired for one healthy adult male at the same time of day on ten separate days across a one-month period. Environmental factors (e.g. temperature) were controlled across scanning sessions. Tract Based Spatial Statistics (TBSS) was used to assess session-to-session variability in measures of diffusion, fractional anisotropy (FA) and mean diffusivity (MD). To address reliability within specific structures of the medial temporal lobe (MTL; the focus of an ongoing investigation), probabilistic tractography segmented the Entorhinal cortex (ERc) based on connections with Hippocampus (HC), Perirhinal (PRc) and Parahippocampal (PHc) cortices. Streamline tractography generated edge weight (EW) metrics for the aforementioned ERc connections and, as comparison regions, connections between left and right rostral and caudal anterior cingulate cortex (ACC). Coefficients of variation (CoV) were derived for the surface area and volumes of these ERc connectivity-defined regions (CDR) and for EW across all ten scans, expecting that scan-to-scan reliability would yield low CoVs. TBSS revealed no significant variation in FA or MD across scanning sessions. Probabilistic tractography successfully reproduced histologically-verified adjacent medial temporal lobe circuits. Tractography-derived metrics displayed larger ranges of scanner-to-scanner variability. Connections involving HC displayed greater variability than metrics of connection between other investigated regions. By confirming the test retest reliability of HARDI data acquisition, support for the validity of significant results derived from diffusion data can be obtained.",
+     "FAU": [
+          "Kuhn, T",
+          "Gullett, J M",
+          "Nguyen, P",
+          "Boutzoukas, A E",
+          "Ford, A",
+          "Colon-Perez, L M",
+          "Triplett, W",
+          "Carney, P R",
+          "Mareci, T H",
+          "Price, C C",
+          "Bauer, R M"
+     ],
+     "AU": [
+          "Kuhn T",
+          "Gullett JM",
+          "Nguyen P",
+          "Boutzoukas AE",
+          "Ford A",
+          "Colon-Perez LM",
+          "Triplett W",
+          "Carney PR",
+          "Mareci TH",
+          "Price CC",
+          "Bauer RM"
+     ],
+     "AD": "Department of Clinical and Health Psychology, University of Florida, PO Box 100165, Gainesville, FL, 32610, USA. tkuhn@phhp.ufl.edu. Department of Clinical and Health Psychology, University of Florida, PO Box 100165, Gainesville, FL, 32610, USA. Department of VA Brain Rehabilitation Research Center, Malcolm Randall VA Center, Gainesville, FL, USA. Department of Clinical and Health Psychology, University of Florida, PO Box 100165, Gainesville, FL, 32610, USA. Department of Clinical and Health Psychology, University of Florida, PO Box 100165, Gainesville, FL, 32610, USA. Department of Neuroscience, University of Florida, Gainesville, FL, USA. Department of VA Brain Rehabilitation Research Center, Malcolm Randall VA Center, Gainesville, FL, USA. Department of Physics, University of Florida, Gainesville, FL, USA. Department of Physical Therapy, University of Florida, Gainesville, FL, USA. Department of Pediatrics, University of Florida, Gainesville, FL, USA. Department of Neurology, University of Florida, Gainesville, FL, USA. Department of Neuroscience, University of Florida, Gainesville, FL, USA. Department of J. Crayton Pruitt Family Department of Biomedical Engineering, University of Florida, Gainesville, FL, USA. Department of Biochemistry and Molecular Biology, University of Florida, Gainesville, FL, USA. Department of Clinical and Health Psychology, University of Florida, PO Box 100165, Gainesville, FL, 32610, USA. Department of Clinical and Health Psychology, University of Florida, PO Box 100165, Gainesville, FL, 32610, USA. Department of VA Brain Rehabilitation Research Center, Malcolm Randall VA Center, Gainesville, FL, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "UL1 TR000064/TR/NCATS NIH HHS/United States",
+          "K23 NS060660/NS/NINDS NIH HHS/United States",
+          "UL1 TR001427/TR/NCATS NIH HHS/United States",
+          "R01 NR014181/NR/NINR NIH HHS/United States",
+          "R01 NS082386/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Brain Imaging Behav",
+     "JT": "Brain imaging and behavior",
+     "JID": "101300405",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Anisotropy",
+          "Brain/physiology",
+          "Diffusion Magnetic Resonance Imaging/*methods/statistics & numerical data",
+          "Diffusion Tensor Imaging/*methods/statistics & numerical data",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods/statistics & numerical data",
+          "Male",
+          "*Reproducibility of Results",
+          "Temporal Lobe/physiology",
+          "White Matter/physiology"
+     ],
+     "PMC": "PMC4718901",
+     "MID": [
+          "NIHMS704242"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Diffusion weighted imaging",
+          "MRI data acquisition reliability",
+          "Probabilistic tractography",
+          "Streamline tractography",
+          "Structural neuroimaging",
+          "Tract based spatial statistics"
+     ],
+     "EDAT": "2015/07/21 06:00",
+     "MHDA": "2017/09/15 06:00",
+     "CRDT": [
+          "2015/07/20 06:00"
+     ],
+     "PHST": [
+          "2015/07/20 06:00 [entrez]",
+          "2015/07/21 06:00 [pubmed]",
+          "2017/09/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s11682-015-9425-1 [doi]",
+          "10.1007/s11682-015-9425-1 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Imaging Behav. 2016 Jun;10(2):533-47. doi: 10.1007/s11682-015-9425-1.",
+     "term": "hippocampus"
+}

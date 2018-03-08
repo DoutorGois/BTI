@@ -1,0 +1,93 @@
+{
+     "PMID": "25071227",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150508",
+     "LR": "20140926",
+     "IS": "0032-5791 (Print) 0032-5791 (Linking)",
+     "VI": "93",
+     "IP": "10",
+     "DP": "2014 Oct",
+     "TI": "Performance of an image analysis processing system for hen tracking in an environmental preference chamber.",
+     "PG": "2439-48",
+     "LID": "10.3382/ps.2014-04078 [doi]",
+     "AB": "Image processing systems have been widely used in monitoring livestock for many applications, including identification, tracking, behavior analysis, occupancy rates, and activity calculations. The primary goal of this work was to quantify image processing performance when monitoring laying hens by comparing length of stay in each compartment as detected by the image processing system with the actual occurrences registered by human observations. In this work, an image processing system was implemented and evaluated for use in an environmental animal preference chamber to detect hen navigation between 4 compartments of the chamber. One camera was installed above each compartment to produce top-view images of the whole compartment. An ellipse-fitting model was applied to captured images to detect whether the hen was present in a compartment. During a choice-test study, mean +/- SD success detection rates of 95.9 +/- 2.6% were achieved when considering total duration of compartment occupancy. These results suggest that the image processing system is currently suitable for determining the response measures for assessing environmental choices. Moreover, the image processing system offered a comprehensive analysis of occupancy while substantially reducing data processing time compared with the time-intensive alternative of manual video analysis. The above technique was used to monitor ammonia aversion in the chamber. As a preliminary pilot study, different levels of ammonia were applied to different compartments while hens were allowed to navigate between compartments. Using the automated monitor tool to assess occupancy, a negative trend of compartment occupancy with ammonia level was revealed, though further examination is needed.",
+     "CI": [
+          "(c)2014 Poultry Science Association Inc."
+     ],
+     "FAU": [
+          "Kashiha, Mohammad Amin",
+          "Green, Angela R",
+          "Sales, Tatiana Glogerley",
+          "Bahr, Claudia",
+          "Berckmans, Daniel",
+          "Gates, Richard S"
+     ],
+     "AU": [
+          "Kashiha MA",
+          "Green AR",
+          "Sales TG",
+          "Bahr C",
+          "Berckmans D",
+          "Gates RS"
+     ],
+     "AD": "M3-Biores: Model-Measure-Manage Bioresponses, Biosystems Department, KU Leuven, 3001 Leuven, Belgium amin.kashiha@biw.kuleuven.be. Department of Agricultural and Biological Engineering, University of Illinois at Urbana-Champaign, 1304 West Pennsylvania Avenue, Urbana 61801. Department of Agricultural and Biological Engineering, University of Illinois at Urbana-Champaign, 1304 West Pennsylvania Avenue, Urbana 61801. M3-Biores: Model-Measure-Manage Bioresponses, Biosystems Department, KU Leuven, 3001 Leuven, Belgium. M3-Biores: Model-Measure-Manage Bioresponses, Biosystems Department, KU Leuven, 3001 Leuven, Belgium. Department of Agricultural and Biological Engineering, University of Illinois at Urbana-Champaign, 1304 West Pennsylvania Avenue, Urbana 61801.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140728",
+     "PL": "England",
+     "TA": "Poult Sci",
+     "JT": "Poultry science",
+     "JID": "0401150",
+     "RN": [
+          "7664-41-7 (Ammonia)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Ammonia/*metabolism",
+          "Animal Husbandry/*instrumentation",
+          "Animals",
+          "Avoidance Learning",
+          "Chickens/*physiology",
+          "Female",
+          "Housing, Animal/*standards",
+          "Image Processing, Computer-Assisted/*standards",
+          "Pilot Projects",
+          "Random Allocation",
+          "*Spatial Navigation",
+          "Video Recording"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "animal behavior",
+          "choice test",
+          "image processing",
+          "laying hen",
+          "occupancy analysis"
+     ],
+     "EDAT": "2014/07/30 06:00",
+     "MHDA": "2015/05/09 06:00",
+     "CRDT": [
+          "2014/07/30 06:00"
+     ],
+     "PHST": [
+          "2014/07/30 06:00 [entrez]",
+          "2014/07/30 06:00 [pubmed]",
+          "2015/05/09 06:00 [medline]"
+     ],
+     "AID": [
+          "ps.2014-04078 [pii]",
+          "10.3382/ps.2014-04078 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Poult Sci. 2014 Oct;93(10):2439-48. doi: 10.3382/ps.2014-04078. Epub 2014 Jul 28.",
+     "term": "spatial navigation"
+}

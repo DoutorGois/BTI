@@ -1,0 +1,105 @@
+{
+     "PMID": "24747248",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141031",
+     "LR": "20170627",
+     "IS": "1879-1026 (Electronic) 0048-9697 (Linking)",
+     "VI": "485-486",
+     "DP": "2014 Jul 1",
+     "TI": "Evaluation of observation-fused regional air quality model results for population air pollution exposure estimation.",
+     "PG": "563-574",
+     "LID": "S0048-9697(14)00447-1 [pii] 10.1016/j.scitotenv.2014.03.107 [doi]",
+     "AB": "In this study, Community Multiscale Air Quality (CMAQ) model was applied to predict ambient gaseous and particulate concentrations during 2001 to 2010 in 15 hospital referral regions (HRRs) using a 36-km horizontal resolution domain. An inverse distance weighting based method was applied to produce exposure estimates based on observation-fused regional pollutant concentration fields using the differences between observations and predictions at grid cells where air quality monitors were located. Although the raw CMAQ model is capable of producing satisfying results for O3 and PM2.5 based on EPA guidelines, using the observation data fusing technique to correct CMAQ predictions leads to significant improvement of model performance for all gaseous and particulate pollutants. Regional average concentrations were calculated using five different methods: 1) inverse distance weighting of observation data alone, 2) raw CMAQ results, 3) observation-fused CMAQ results, 4) population-averaged raw CMAQ results and 5) population-averaged fused CMAQ results. It shows that while O3 (as well as NOx) monitoring networks in the HRRs are dense enough to provide consistent regional average exposure estimation based on monitoring data alone, PM2.5 observation sites (as well as monitors for CO, SO2, PM10 and PM2.5 components) are usually sparse and the difference between the average concentrations estimated by the inverse distance interpolated observations, raw CMAQ and fused CMAQ results can be significantly different. Population-weighted average should be used to account for spatial variation in pollutant concentration and population density. Using raw CMAQ results or observations alone might lead to significant biases in health outcome analyses.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Chen, Gang",
+          "Li, Jingyi",
+          "Ying, Qi",
+          "Sherman, Seth",
+          "Perkins, Neil",
+          "Sundaram, Rajeshwari",
+          "Mendola, Pauline"
+     ],
+     "AU": [
+          "Chen G",
+          "Li J",
+          "Ying Q",
+          "Sherman S",
+          "Perkins N",
+          "Sundaram R",
+          "Mendola P"
+     ],
+     "AD": "Zachry Department of Civil Engineering, Texas A&M University, College Station, TX 77843, United States. Zachry Department of Civil Engineering, Texas A&M University, College Station, TX 77843, United States. Zachry Department of Civil Engineering, Texas A&M University, College Station, TX 77843, United States. Electronic address: qying@civil.tamu.edu. The EMMES Corporation, Rockville, MD 20850, United States. Division of Intramural Population Health Research, Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Rockville, MD 20852, United States. Division of Intramural Population Health Research, Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Rockville, MD 20852, United States. Division of Intramural Population Health Research, Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Rockville, MD 20852, United States.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "HHSN275200800002C/HD/NICHD NIH HHS/United States",
+          "HHSN275200800002I/HD/NICHD NIH HHS/United States",
+          "ZIA HD008923-02/Intramural NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Intramural"
+     ],
+     "DEP": "20140417",
+     "PL": "Netherlands",
+     "TA": "Sci Total Environ",
+     "JT": "The Science of the total environment",
+     "JID": "0330500",
+     "RN": [
+          "0 (Air Pollutants)",
+          "0 (Particulate Matter)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Air Pollutants/analysis",
+          "Air Pollution/*statistics & numerical data",
+          "Environmental Exposure/analysis/*statistics & numerical data",
+          "Environmental Monitoring/methods",
+          "Humans",
+          "*Models, Chemical",
+          "Particulate Matter/analysis",
+          "Regression Analysis",
+          "Time Factors"
+     ],
+     "PMC": "PMC4151129",
+     "MID": [
+          "NIHMS587659"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Community Multiscale Air Quality (CMAQ) model",
+          "Data fusing",
+          "Exposure",
+          "Inverse distance weighting",
+          "Model performance",
+          "Population weighted average"
+     ],
+     "EDAT": "2014/04/22 06:00",
+     "MHDA": "2014/11/02 06:00",
+     "CRDT": [
+          "2014/04/22 06:00"
+     ],
+     "PHST": [
+          "2013/11/14 00:00 [received]",
+          "2014/02/17 00:00 [revised]",
+          "2014/03/22 00:00 [accepted]",
+          "2014/04/22 06:00 [entrez]",
+          "2014/04/22 06:00 [pubmed]",
+          "2014/11/02 06:00 [medline]"
+     ],
+     "AID": [
+          "S0048-9697(14)00447-1 [pii]",
+          "10.1016/j.scitotenv.2014.03.107 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Sci Total Environ. 2014 Jul 1;485-486:563-574. doi: 10.1016/j.scitotenv.2014.03.107. Epub 2014 Apr 17.",
+     "term": "grid cells"
+}

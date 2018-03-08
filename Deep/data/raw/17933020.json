@@ -1,0 +1,66 @@
+{
+     "PMID": "17933020",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080201",
+     "LR": "20071012",
+     "IS": "0219-6352 (Print) 0219-6352 (Linking)",
+     "VI": "6",
+     "IP": "3",
+     "DP": "2007 Sep",
+     "TI": "Prediction of the position of an animal based on populations of grid and place cells: a comparative simulation study.",
+     "PG": "433-46",
+     "AB": "The grid cells of the rodent medial entorhinal cortex (MEC) show activity patterns correlated with the animal's position. Unlike hippocampal place cells that are activated at only one specific location in the environment, MEC grid cells increase firing frequency at multiple regions in space, or subfields, that are arranged in regular triangular grids. It has been recently shown that a conjunction of MEC grid cells can lead to unique spatial representations. However, it remains unclear what the key properties of the grids are that allow for an accurate reconstruction of the position of the animal and what the comparison with hippocampal place cells is. Here we use a theoretical approach based on data from electrophysiological recordings of the MEC to simulate the neural activity of grid cells. Our simulations account for the accurate reproduction of grid cell mean firing rates, based on only three grid parameters, that is grid phase, spacing and orientation. The analysis of the key properties of the grids first reveals that for an accurate position reconstruction, it is necessary to combine cells with different grid spacings (which are found at different dorsoventral locations of the MEC) or orientations. Second, the relationship between grid spacing and subfield size observed in physiological data is optimal to predict the animal's position. Third, the regular triangular tessellating patterns of grid cells lead to the best position reconstruction results when compared with all other regular tessellations of two-dimensional space. Finally, the comparison of grid cells with place cells shows that populations of MEC grid cells can better predict the animal's position than equally-sized populations of hippocampal place cells with similar but unique spatial fields. Taken together, our results suggest that the MEC provides highly compact representations of the animal's position, which may be subsequently integrated by the place cells of the hippocampus.",
+     "FAU": [
+          "Guanella, Alexis",
+          "Verschure, Paul F M J"
+     ],
+     "AU": [
+          "Guanella A",
+          "Verschure PF"
+     ],
+     "AD": "Institute of Neuroinformatics, University/ETH Zurich, 190 Winterthurerstrasse CH-8057 Zurich, Switzerland. guanella@ini.phys.ethz.ch",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "J Integr Neurosci",
+     "JT": "Journal of integrative neuroscience",
+     "JID": "101156357",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Bayes Theorem",
+          "Brain Mapping",
+          "*Computer Simulation",
+          "Entorhinal Cortex/*cytology",
+          "*Models, Neurological",
+          "Neurons/classification/*physiology",
+          "Orientation/*physiology",
+          "Space Perception/*physiology"
+     ],
+     "EDAT": "2007/10/13 09:00",
+     "MHDA": "2008/02/02 09:00",
+     "CRDT": [
+          "2007/10/13 09:00"
+     ],
+     "PHST": [
+          "2007/03/15 00:00 [received]",
+          "2007/07/18 00:00 [accepted]",
+          "2007/10/13 09:00 [pubmed]",
+          "2008/02/02 09:00 [medline]",
+          "2007/10/13 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0219635207001556 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Integr Neurosci. 2007 Sep;6(3):433-46.",
+     "term": "place cells"
+}

@@ -1,0 +1,75 @@
+{
+     "PMID": "28404458",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20170715",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "155",
+     "DP": "2017 Jul 15",
+     "TI": "A comparison of accurate automatic hippocampal segmentation methods.",
+     "PG": "383-393",
+     "LID": "S1053-8119(17)30311-7 [pii] 10.1016/j.neuroimage.2017.04.018 [doi]",
+     "AB": "The hippocampus is one of the first brain structures affected by Alzheimer's disease (AD). While many automatic methods for hippocampal segmentation exist, few studies have compared them on the same data. In this study, we compare four fully automated hippocampal segmentation methods in terms of their conformity with manual segmentation and their ability to be used as an AD biomarker in clinical settings. We also apply error correction to the four automatic segmentation methods, and complete a comprehensive validation to investigate differences between the methods. The effect size and classification performance is measured for AD versus normal control (NC) groups and for stable mild cognitive impairment (sMCI) versus progressive mild cognitive impairment (pMCI) groups. Our study shows that the nonlinear patch-based segmentation method with error correction is the most accurate automatic segmentation method and yields the most conformity with manual segmentation (kappa=0.894). The largest effect size between AD versus NC and sMCI versus pMCI is produced by FreeSurfer with error correction. We further show that, using only hippocampal volume, age, and sex as features, the area under the receiver operating characteristic curve reaches up to 0.8813 for AD versus NC and 0.6451 for sMCI versus pMCI. However, the automatic segmentation methods are not significantly different in their performance.",
+     "CI": [
+          "Copyright (c) 2017. Published by Elsevier Inc."
+     ],
+     "FAU": [
+          "Zandifar, Azar",
+          "Fonov, Vladimir",
+          "Coupe, Pierrick",
+          "Pruessner, Jens",
+          "Collins, D Louis"
+     ],
+     "AU": [
+          "Zandifar A",
+          "Fonov V",
+          "Coupe P",
+          "Pruessner J",
+          "Collins DL"
+     ],
+     "AD": "McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Canada; Department of Biomedical Engineering, McGill University, Montreal, Canada. McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Canada. Univ. Bordeaux, LaBRI, UMR 5800, PICTURA, F-33400, Talence, France. McGill University Research Centre for Studies in Aging, Canada. McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Canada; Department of Biomedical Engineering, McGill University, Montreal, Canada. Electronic address: louis.collins@mcgill.ca.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170409",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Area under receiver operating characteristic curve",
+          "Cohen's d",
+          "Dice's kappa",
+          "Hippocampal segmentation"
+     ],
+     "EDAT": "2017/04/14 06:00",
+     "MHDA": "2017/04/14 06:00",
+     "CRDT": [
+          "2017/04/14 06:00"
+     ],
+     "PHST": [
+          "2016/06/21 00:00 [received]",
+          "2017/04/06 00:00 [revised]",
+          "2017/04/07 00:00 [accepted]",
+          "2017/04/14 06:00 [pubmed]",
+          "2017/04/14 06:00 [medline]",
+          "2017/04/14 06:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(17)30311-7 [pii]",
+          "10.1016/j.neuroimage.2017.04.018 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2017 Jul 15;155:383-393. doi: 10.1016/j.neuroimage.2017.04.018. Epub 2017 Apr 9.",
+     "term": "hippocampus"
+}

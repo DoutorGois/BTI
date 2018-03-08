@@ -1,0 +1,63 @@
+{
+     "PMID": "26942233",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "VI": "9351",
+     "DP": "2015 Oct",
+     "TI": "Progressive Label Fusion Framework for Multi-atlas Segmentation by Dictionary Evolution.",
+     "PG": "190-197",
+     "AB": "Accurate segmentation of anatomical structures in medical images is very important in neuroscience studies. Recently, multi-atlas patch-based label fusion methods have achieved many successes, which generally represent each target patch from an atlas patch dictionary in the image domain and then predict the latent label by directly applying the estimated representation coefficients in the label domain. However, due to the large gap between these two domains, the estimated representation coefficients in the image domain may not stay optimal for the label fusion. To overcome this dilemma, we propose a novel label fusion framework to make the weighting coefficients eventually to be optimal for the label fusion by progressively constructing a dynamic dictionary in a layer-by-layer manner, where a sequence of intermediate patch dictionaries gradually encode the transition from the patch representation coefficients in image domain to the optimal weights for label fusion. Our proposed framework is general to augment the label fusion performance of the current state-of-the-art methods. In our experiments, we apply our proposed method to hippocampus segmentation on ADNI dataset and achieve more accurate labeling results, compared to the counterpart methods with single-layer dictionary.",
+     "FAU": [
+          "Song, Yantao",
+          "Wu, Guorong",
+          "Sun, Quansen",
+          "Bahrami, Khosro",
+          "Li, Chunming",
+          "Shen, Dinggang"
+     ],
+     "AU": [
+          "Song Y",
+          "Wu G",
+          "Sun Q",
+          "Bahrami K",
+          "Li C",
+          "Shen D"
+     ],
+     "AD": "School of Computer Science and Engineering, Nanjing University of Science & Technology, Nanjing, Jiangsu, China; Department of Radiology and BRIC, University of North Carolina at Chapel Hill, NC, USA. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, NC, USA. School of Computer Science and Engineering, Nanjing University of Science & Technology, Nanjing, Jiangsu, China. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, NC, USA. School of Electronic Engineering, University of Electronic Science & Technology, Chengdu, Sichuan, China. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, NC, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB008374/EB/NIBIB NIH HHS/United States",
+          "R21 HD081467/HD/NICHD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20151118",
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "PMC": "PMC4773029",
+     "MID": [
+          "NIHMS740198"
+     ],
+     "EDAT": "2016/03/05 06:00",
+     "MHDA": "2016/03/05 06:00",
+     "CRDT": [
+          "2016/03/05 06:00"
+     ],
+     "PHST": [
+          "2016/03/05 06:00 [entrez]",
+          "2016/03/05 06:00 [pubmed]",
+          "2016/03/05 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/978-3-319-24574-4_23 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2015 Oct;9351:190-197. doi: 10.1007/978-3-319-24574-4_23. Epub 2015 Nov 18.",
+     "term": "hippocampus"
+}

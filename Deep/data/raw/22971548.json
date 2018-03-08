@@ -1,0 +1,104 @@
+{
+     "PMID": "22971548",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130314",
+     "LR": "20161125",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "63",
+     "IP": "4",
+     "DP": "2012 Dec",
+     "TI": "Brain perfusion SPECT in the mouse: normal pattern according to gender and age.",
+     "PG": "1807-17",
+     "LID": "10.1016/j.neuroimage.2012.08.038 [doi] S1053-8119(12)00838-5 [pii]",
+     "AB": "Regional cerebral blood flow (rCBF) is a useful surrogate marker of neuronal activity and a parameter of primary interest in the diagnosis of many diseases. The increasing use of mouse models spawns the demand for in vivo measurement of rCBF in the mouse. Small animal SPECT provides excellent spatial resolution at adequate sensitivity and is therefore a promising tool for imaging the mouse brain. This study evaluates the feasibility of mouse brain perfusion SPECT and assesses the regional pattern of normal Tc-99m-HMPAO uptake and the impact of age and gender. Whole-brain kinetics was compared between Tc-99m-HMPAO and Tc-99m-ECD using rapid dynamic planar scans in 10 mice. Assessment of the regional uptake pattern was restricted to the more suitable tracer, HMPAO. Two HMPAO SPECTs were performed in 18 juvenile mice aged 7.5 +/- 1.5weeks, and in the same animals at young adulthood, 19.1 +/- 4.0 weeks (nanoSPECT/CTplus, general purpose mouse apertures: 1.2kcps/MBq, 0.7mm FWHM). The 3-D MRI Digital Atlas Database of an adult C57BL/6J mouse brain was used for region-of-interest (ROI) analysis. SPECT images were stereotactically normalized using SPM8 and a custom made, left-right symmetric HMPAO template in atlas space. For testing lateral asymmetry, each SPECT was left-right flipped prior to stereotactical normalization. Flipped and unflipped SPECTs were compared by paired testing. Peak brain uptake was similar for ECD and HMPAO: 1.8 +/- 0.2 and 2.1 +/- 0.6 %ID (p=0.357). Washout after the peak was much faster for ECD than for HMPAO: 24 +/- 7min vs. 4.6 +/- 1.7h (p=0.001). The general linear model for repeated measures with gender as an intersubject factor revealed an increase in relative HMPAO uptake with age in the neocortex (p=0.018) and the hippocampus (p=0.012). A decrease was detected in the midbrain (p=0.025). Lateral asymmetry, with HMPAO uptake larger in the left hemisphere, was detected primarily in the neocortex, both at juvenile age (asymmetry index AI=2.7 +/- 1.7%, p=0.000) and at young adult age (AI=2.4 +/- 1.7%, p=0.000). Gender had no effect on asymmetry. Voxel-wise testing confirmed the ROI-based findings. In conclusion, high-resolution HMPAO SPECT is a promising technique for measuring rCBF in preclinical research. It indicates lateral asymmetry of rCBF in the mouse brain as well as age-related changes during late maturation. ECD is not suitable as tracer for brain SPECT in the mouse because of its fast clearance from tissue indicating an interspecies difference in esterase activity between mice and humans.",
+     "CI": [
+          "Copyright (c) 2012 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Apostolova, Ivayla",
+          "Wunder, Andreas",
+          "Dirnagl, Ulrich",
+          "Michel, Roger",
+          "Stemmer, Nina",
+          "Lukas, Mathias",
+          "Derlin, Thorsten",
+          "Gregor-Mamoudou, Betina",
+          "Goldschmidt, Jurgen",
+          "Brenner, Winfried",
+          "Buchert, Ralph"
+     ],
+     "AU": [
+          "Apostolova I",
+          "Wunder A",
+          "Dirnagl U",
+          "Michel R",
+          "Stemmer N",
+          "Lukas M",
+          "Derlin T",
+          "Gregor-Mamoudou B",
+          "Goldschmidt J",
+          "Brenner W",
+          "Buchert R"
+     ],
+     "AD": "Department of Nuclear Medicine, Charite-Universitatsmedizin Berlin, Germany. ivayla.apostolova@charite.de",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120823",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "0 (Organotechnetium Compounds)",
+          "0 (Radiopharmaceuticals)",
+          "3B744AG22N (Technetium Tc 99m Exametazime)",
+          "H25WJA31XE (technetium Tc 99m bicisate)",
+          "K848JZ4886 (Cysteine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aging/*physiology",
+          "Animals",
+          "Brain/*diagnostic imaging/growth & development",
+          "Cerebrovascular Circulation/*physiology",
+          "Cysteine/analogs & derivatives/pharmacokinetics",
+          "Female",
+          "Functional Laterality/physiology",
+          "Image Processing, Computer-Assisted",
+          "Male",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Organotechnetium Compounds/pharmacokinetics",
+          "Perfusion",
+          "Radiopharmaceuticals/pharmacokinetics",
+          "Sex Characteristics",
+          "Technetium Tc 99m Exametazime/pharmacokinetics",
+          "Tomography, Emission-Computed, Single-Photon"
+     ],
+     "EDAT": "2012/09/14 06:00",
+     "MHDA": "2013/03/15 06:00",
+     "CRDT": [
+          "2012/09/14 06:00"
+     ],
+     "PHST": [
+          "2012/04/20 00:00 [received]",
+          "2012/08/12 00:00 [revised]",
+          "2012/08/15 00:00 [accepted]",
+          "2012/09/14 06:00 [entrez]",
+          "2012/09/14 06:00 [pubmed]",
+          "2013/03/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(12)00838-5 [pii]",
+          "10.1016/j.neuroimage.2012.08.038 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2012 Dec;63(4):1807-17. doi: 10.1016/j.neuroimage.2012.08.038. Epub 2012 Aug 23.",
+     "term": "hippocampus"
+}

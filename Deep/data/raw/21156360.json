@@ -1,0 +1,76 @@
+{
+     "PMID": "21156360",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110329",
+     "LR": "20170220",
+     "IS": "1525-8955 (Electronic) 0885-3010 (Linking)",
+     "VI": "57",
+     "IP": "12",
+     "DP": "2010 Dec",
+     "TI": "Numerical study of a simple transcranial focused ultrasound system applied to blood-brain barrier opening.",
+     "PG": "2637-53",
+     "LID": "10.1109/TUFFC.2010.1738 [doi]",
+     "AB": "In this paper, we investigate the focalization properties of single-element transducers at low frequencies (300 to 1000 kHz) through primate and human skulls. The study addresses the transcranial targeting involved in ultrasound- induced blood-brain barrier (BBB) opening with clinically relevant targets such as the hippocampus and the basal ganglia, which are typically affected by early Alzheimer's and Parkinson's disease, respectively. A finite-difference, timedomain simulation platform is used to solve the 3-D linear acoustic wave equation with CT-based acoustic maps of the skulls. The targeted brain structures were extracted from 3-D brain atlases registered with the skulls and used to virtually position and orient the transducers. The effect of frequency is first investigated and the targeting of the different structures is then tested. The frequency of 500 kHz provided the best tradeoff between phase aberrations and standing wave effects in the human case, whereas the frequency of 800 kHz was most suitable in the case of the primate skull. A fast periodic linear chirp method was developed and found capable of reducing the standing wave effects. Such a simple, affordable, and convenient system is concluded to be feasible for BBB opening in primates and humans and could thus allow for its broader impact and applications.",
+     "FAU": [
+          "Deffieux, Thomas",
+          "Konofagou, Elisa E"
+     ],
+     "AU": [
+          "Deffieux T",
+          "Konofagou EE"
+     ],
+     "AD": "Department of Biomedical Engineering, Columbia University, New York, NY, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB009041/EB/NIBIB NIH HHS/United States",
+          "R01EB009041/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Ultrason Ferroelectr Freq Control",
+     "JT": "IEEE transactions on ultrasonics, ferroelectrics, and frequency control",
+     "JID": "9882735",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Blood-Brain Barrier/*diagnostic imaging",
+          "Computer Simulation",
+          "Hippocampus/diagnostic imaging",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Macaca mulatta",
+          "Microbubbles",
+          "*Signal Processing, Computer-Assisted",
+          "Skull/*diagnostic imaging",
+          "Software",
+          "Tomography, X-Ray Computed",
+          "Transducers",
+          "Ultrasonography, Doppler, Transcranial/instrumentation/*methods"
+     ],
+     "PMC": "PMC3968803",
+     "MID": [
+          "NIHMS297646"
+     ],
+     "EDAT": "2010/12/16 06:00",
+     "MHDA": "2011/03/30 06:00",
+     "CRDT": [
+          "2010/12/16 06:00"
+     ],
+     "PHST": [
+          "2010/12/16 06:00 [entrez]",
+          "2010/12/16 06:00 [pubmed]",
+          "2011/03/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TUFFC.2010.1738 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Ultrason Ferroelectr Freq Control. 2010 Dec;57(12):2637-53. doi: 10.1109/TUFFC.2010.1738.",
+     "term": "hippocampus"
+}

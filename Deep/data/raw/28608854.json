@@ -1,0 +1,77 @@
+{
+     "PMID": "28608854",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20170803",
+     "IS": "2158-3188 (Electronic) 2158-3188 (Linking)",
+     "VI": "7",
+     "IP": "6",
+     "DP": "2017 Jun 13",
+     "TI": "The influence of the rs6295 gene polymorphism on serotonin-1A receptor distribution investigated with PET in patients with major depression applying machine learning.",
+     "PG": "e1150",
+     "LID": "10.1038/tp.2017.108 [doi]",
+     "AB": "Major depressive disorder (MDD) is the most common neuropsychiatric disease and despite extensive research, its genetic substrate is still not sufficiently understood. The common polymorphism rs6295 of the serotonin-1A receptor gene (HTR1A) is affecting the transcriptional regulation of the 5-HT1A receptor and has been closely linked to MDD. Here, we used positron emission tomography (PET) exploiting advances in data mining and statistics by using machine learning in 62 healthy subjects and 19 patients with MDD, which were scanned with PET using the radioligand [carbonyl-(11)C]WAY-100635. All the subjects were genotyped for rs6295 and genotype was grouped in GG vs C allele carriers. Mixed model was applied in a ROI-based (region of interest) approach. ROI binding potential (BPND) was divided by dorsal raphe BPND as a specific measure to highlight rs6295 effects (BPDiv). Mixed model produced an interaction effect of ROI and genotype in the patients' group but no effects in healthy controls. Differences of BPDiv was demonstrated in seven ROIs; parahippocampus, hippocampus, fusiform gyrus, gyrus rectus, supplementary motor area, inferior frontal occipital gyrus and lingual gyrus. For classification of genotype, 'RandomForest' and Support Vector Machines were used, however, no model with sufficient predictive capability could be computed. Our results are in line with preclinical data, mouse model knockout studies as well as previous clinical analyses, demonstrating the two-pronged effect of the G allele on 5-HT1A BPND for, we believe, the first time. Future endeavors should address epigenetic effects and allosteric heteroreceptor complexes. Replication in larger samples of MDD patients is necessary to substantiate our findings.",
+     "FAU": [
+          "Kautzky, A",
+          "James, G M",
+          "Philippe, C",
+          "Baldinger-Melich, P",
+          "Kraus, C",
+          "Kranz, G S",
+          "Vanicek, T",
+          "Gryglewski, G",
+          "Wadsak, W",
+          "Mitterhauser, M",
+          "Rujescu, D",
+          "Kasper, S",
+          "Lanzenberger, R"
+     ],
+     "AU": [
+          "Kautzky A",
+          "James GM",
+          "Philippe C",
+          "Baldinger-Melich P",
+          "Kraus C",
+          "Kranz GS",
+          "Vanicek T",
+          "Gryglewski G",
+          "Wadsak W",
+          "Mitterhauser M",
+          "Rujescu D",
+          "Kasper S",
+          "Lanzenberger R"
+     ],
+     "AD": "Department of Psychiatry and Psychotherapy, Medical University of Vienna, Vienna, Austria. Department of Psychiatry and Psychotherapy, Medical University of Vienna, Vienna, Austria. Department of Biomedical Imaging and Image-Guided Therapy, Division of Nuclear Medicine, Medical University of Vienna, Vienna, Austria. Department of Psychiatry and Psychotherapy, Medical University of Vienna, Vienna, Austria. Department of Psychiatry and Psychotherapy, Medical University of Vienna, Vienna, Austria. Department of Psychiatry and Psychotherapy, Medical University of Vienna, Vienna, Austria. Department of Psychiatry and Psychotherapy, Medical University of Vienna, Vienna, Austria. Department of Psychiatry and Psychotherapy, Medical University of Vienna, Vienna, Austria. Department of Biomedical Imaging and Image-Guided Therapy, Division of Nuclear Medicine, Medical University of Vienna, Vienna, Austria. Center for Biomarker Research in Medicine (CBmed), Graz, Austria. Department of Biomedical Imaging and Image-Guided Therapy, Division of Nuclear Medicine, Medical University of Vienna, Vienna, Austria. Ludwig Boltzmann Institute for Applied Diagnostics, Vienna, Austria. University Clinic for Psychiatry, Psychotherapy and Psychosomatic, Martin-Luther-University Halle-Wittenberg, Halle, Germany. Department of Psychiatry and Psychotherapy, Medical University of Vienna, Vienna, Austria. Department of Psychiatry and Psychotherapy, Medical University of Vienna, Vienna, Austria.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170613",
+     "PL": "United States",
+     "TA": "Transl Psychiatry",
+     "JT": "Translational psychiatry",
+     "JID": "101562664",
+     "PMC": "PMC5537636",
+     "EDAT": "2017/06/14 06:00",
+     "MHDA": "2017/06/14 06:00",
+     "CRDT": [
+          "2017/06/14 06:00"
+     ],
+     "PHST": [
+          "2016/12/17 00:00 [received]",
+          "2017/04/08 00:00 [revised]",
+          "2017/04/20 00:00 [accepted]",
+          "2017/06/14 06:00 [entrez]",
+          "2017/06/14 06:00 [pubmed]",
+          "2017/06/14 06:00 [medline]"
+     ],
+     "AID": [
+          "tp2017108 [pii]",
+          "10.1038/tp.2017.108 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Transl Psychiatry. 2017 Jun 13;7(6):e1150. doi: 10.1038/tp.2017.108.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,77 @@
+{
+     "PMID": "9658048",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19980825",
+     "LR": "20171213",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "80",
+     "IP": "1",
+     "DP": "1998 Jul",
+     "TI": "Noise from voltage-gated ion channels may influence neuronal dynamics in the entorhinal cortex.",
+     "PG": "262-9",
+     "AB": "Neurons of the superficial medial entorhinal cortex (MEC), which deliver neocortical input to the hippocampus, exhibit intrinsic, subthreshold oscillations with slow dynamics. These intrinsic oscillations, driven by a persistent Na+ current and a slow outward current, may help to generate the theta rhythm, a slow rhythm that plays an important role in spatial and declarative learning. Here we show that the number of persistent Na+ channels underlying subthreshold oscillations is relatively small (<10(4)) and use a physiologically based stochastic model to argue that the random behavior of these channels may contribute crucially to cellular-level responses. In acutely isolated MEC neurons under voltage clamp, the mean and variance of the persistent Na+ current were used to estimate the single channel conductance and voltage-dependent probability of opening. A hybrid stochastic-deterministic model was built by using voltage-clamp descriptions of the persistent and fast-inactivating Na+ conductances, along with the fast and slow K+ conductances. All voltage-dependent conductances were represented with nonlinear ordinary differential equations, with the exception of the persistent Na+ conductance, which was represented as a population of stochastic ion channels. The model predicts that the probabilistic nature of Na+ channels increases the cell's repertoire of qualitative behaviors; although deterministic models at a particular point in parameter space can generate either subthreshold oscillations or phase-locked spikes (but rarely both), models with an appropriate level of channel noise can replicate physiological behavior by generating both patterns of electrical activity for a single set of parameters. Channel noise may contribute to higher order interspike interval statistics seen in vitro with DC current stimulation. Models with channel noise show evidence of spike clustering seen in brain slice experiments, although the effect is apparently not as prominent as seen in experimental results. Channel noise may contribute to cellular responses in vivo as well; the stochastic system has enhanced sensitivity to small periodic stimuli in a form of stochastic resonance that is novel (in that the relevant noise source is intrinsic and voltage-dependent) and potentially physiologically relevant. Although based on a simple model that does not include all known membrane mechanisms of MEC stellate cells, these results nevertheless imply that the stochastic nature of small collections of molecules may have important effects at the cellular and network levels.",
+     "FAU": [
+          "White, J A",
+          "Klink, R",
+          "Alonso, A",
+          "Kay, A R"
+     ],
+     "AU": [
+          "White JA",
+          "Klink R",
+          "Alonso A",
+          "Kay AR"
+     ],
+     "AD": "Department of Biomedical Engineering, Center for BioDynamics, Boston University, Boston, Massachusetts 02215, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "0 (Potassium Channels)",
+          "0 (Sodium Channels)",
+          "4368-28-9 (Tetrodotoxin)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Electric Stimulation",
+          "Entorhinal Cortex/*physiology",
+          "In Vitro Techniques",
+          "Ion Channel Gating",
+          "Male",
+          "Models, Neurological",
+          "Neurons/drug effects/*physiology",
+          "Potassium Channels/*physiology",
+          "Probability",
+          "Rats",
+          "Sodium Channels/drug effects/*physiology",
+          "Stochastic Processes",
+          "Tetrodotoxin/pharmacology"
+     ],
+     "EDAT": "1998/07/11 00:00",
+     "MHDA": "1998/07/11 00:01",
+     "CRDT": [
+          "1998/07/11 00:00"
+     ],
+     "PHST": [
+          "1998/07/11 00:00 [pubmed]",
+          "1998/07/11 00:01 [medline]",
+          "1998/07/11 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1152/jn.1998.80.1.262 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 1998 Jul;80(1):262-9. doi: 10.1152/jn.1998.80.1.262.",
+     "term": "hippocampus"
+}

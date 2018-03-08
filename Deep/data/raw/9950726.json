@@ -1,0 +1,58 @@
+{
+     "PMID": "9950726",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19990316",
+     "LR": "20061115",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "11",
+     "IP": "1",
+     "DP": "1999 Jan 1",
+     "TI": "Probabilistic synaptic transmission in the associative net.",
+     "PG": "117-37",
+     "AB": "The associative net model of heteroassociative memory with binary-valued synapses has been extended to include recent experimental data indicating that in the hippocampus, one form of synaptic modification is a change in the probability of synaptic transmission. Pattern pairs are stored in the net by a version of the Hebbian learning rule that changes the probability of transmission at synapses where the presynaptic and post-synaptic units are simultaneously active from a low, base value to a high, modified value. Numerical calculations of the expected recall response of this stochastic associative net have been used to assess the performance for different values of the base and modified probabilities. If there is a cost incurred with generating the difference between these probabilities, then a difference of about 0. 4 is optimal. This corresponds to the magnitude of change seen experimentally. Performance can be greatly enhanced by using multiple cue presentations during recall.",
+     "FAU": [
+          "Graham, B",
+          "Willshaw, D"
+     ],
+     "AU": [
+          "Graham B",
+          "Willshaw D"
+     ],
+     "AD": "Centre for Cognitive Science, Edinburgh University, 2 Buccleuch Place, Edinburgh EH8 9LW, Scotland. bruce@cns.ed.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "*Association",
+          "Hippocampus/physiology",
+          "Memory/*physiology",
+          "Mental Recall/physiology",
+          "*Models, Statistical",
+          "*Neural Networks (Computer)",
+          "Stochastic Processes",
+          "Synaptic Transmission/*physiology"
+     ],
+     "EDAT": "1999/02/09 00:00",
+     "MHDA": "1999/02/09 00:01",
+     "CRDT": [
+          "1999/02/09 00:00"
+     ],
+     "PHST": [
+          "1999/02/09 00:00 [pubmed]",
+          "1999/02/09 00:01 [medline]",
+          "1999/02/09 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 1999 Jan 1;11(1):117-37.",
+     "term": "hippocampus"
+}

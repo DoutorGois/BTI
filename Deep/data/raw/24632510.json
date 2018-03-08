@@ -1,0 +1,69 @@
+{
+     "PMID": "24632510",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141223",
+     "LR": "20161125",
+     "IS": "1873-6882 (Electronic) 0959-4388 (Linking)",
+     "VI": "25",
+     "DP": "2014 Apr",
+     "TI": "Dynamic belief state representations.",
+     "PG": "221-7",
+     "LID": "10.1016/j.conb.2014.01.018 [doi] S0959-4388(14)00034-8 [pii]",
+     "AB": "Perceptual and control systems are tasked with the challenge of accurately and efficiently estimating the dynamic states of objects in the environment. To properly account for uncertainty, it is necessary to maintain a dynamical belief state representation rather than a single state vector. In this review, canonical algorithms for computing and updating belief states in robotic applications are delineated, and connections to biological systems are highlighted. A navigation example is used to illustrate the importance of properly accounting for correlations between belief state components, and to motivate the need for further investigations in psychophysics and neurobiology.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Lee, Daniel D",
+          "Ortega, Pedro A",
+          "Stocker, Alan A"
+     ],
+     "AU": [
+          "Lee DD",
+          "Ortega PA",
+          "Stocker AA"
+     ],
+     "AD": "Electrical and Systems Engineering Department, University of Pennsylvania, Philadelphia, PA 19104, United States. Electronic address: ddlee@seas.upenn.edu. Electrical and Systems Engineering Department, University of Pennsylvania, Philadelphia, PA 19104, United States. Electrical and Systems Engineering Department, University of Pennsylvania, Philadelphia, PA 19104, United States; Psychology Department, University of Pennsylvania, Philadelphia, PA 19104, United States.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Review"
+     ],
+     "DEP": "20140315",
+     "PL": "England",
+     "TA": "Curr Opin Neurobiol",
+     "JT": "Current opinion in neurobiology",
+     "JID": "9111376",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Humans",
+          "*Physical Phenomena",
+          "*Robotics",
+          "Spatial Navigation/*physiology",
+          "*Uncertainty"
+     ],
+     "EDAT": "2014/03/19 06:00",
+     "MHDA": "2014/12/24 06:00",
+     "CRDT": [
+          "2014/03/18 06:00"
+     ],
+     "PHST": [
+          "2013/11/07 00:00 [received]",
+          "2014/01/27 00:00 [revised]",
+          "2014/01/31 00:00 [accepted]",
+          "2014/03/18 06:00 [entrez]",
+          "2014/03/19 06:00 [pubmed]",
+          "2014/12/24 06:00 [medline]"
+     ],
+     "AID": [
+          "S0959-4388(14)00034-8 [pii]",
+          "10.1016/j.conb.2014.01.018 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Curr Opin Neurobiol. 2014 Apr;25:221-7. doi: 10.1016/j.conb.2014.01.018. Epub 2014 Mar 15.",
+     "term": "spatial navigation"
+}

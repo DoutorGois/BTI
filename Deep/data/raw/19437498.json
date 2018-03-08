@@ -1,0 +1,88 @@
+{
+     "PMID": "19437498",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090806",
+     "LR": "20161122",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "19",
+     "IP": "6",
+     "DP": "2009 Jun",
+     "TI": "Disease classification with hippocampal shape invariants.",
+     "PG": "572-8",
+     "LID": "10.1002/hipo.20627 [doi]",
+     "AB": "We present an Alzheimer's detection study based on a global shape description of hippocampal surface models. With global descriptors forming our bag of features, Support Vector Machine classification of 49 Alzheimer (AD) and 63 elderly control subjects yielded 75.5% sensitivity and 87.3% specificity with 82.1% correct overall in a leave-one-out test. We show that our description contributes new information to simpler shape measures. Armed with a rigid shape registration tool, we also present a way to visualize variation in global shape description as a local displacement map, thus clarifying the descriptors' anatomical meaning.",
+     "CI": [
+          "2009 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Gutman, Boris",
+          "Wang, Yalin",
+          "Morra, Jonathan",
+          "Toga, Arthur W",
+          "Thompson, Paul M"
+     ],
+     "AU": [
+          "Gutman B",
+          "Wang Y",
+          "Morra J",
+          "Toga AW",
+          "Thompson PM"
+     ],
+     "AD": "Laboratory of Neuro Imaging, Department of Neurology, UCLA David Geffen School of Medicine, Los Angeles, California, USA. bgutman@ucla.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 RR013642-12/RR/NCRR NIH HHS/United States",
+          "U54 RR021813-05/RR/NCRR NIH HHS/United States",
+          "U54 RR021813-057523/RR/NCRR NIH HHS/United States",
+          "P41 RR013642/RR/NCRR NIH HHS/United States",
+          "U54 RR021813/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/classification/*diagnosis/*pathology/psychology",
+          "Databases, Factual",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Imaging, Three-Dimensional",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Models, Anatomic",
+          "Neuropsychological Tests",
+          "Organ Size",
+          "ROC Curve",
+          "Regression Analysis",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC3113700",
+     "MID": [
+          "NIHMS171195"
+     ],
+     "EDAT": "2009/05/14 09:00",
+     "MHDA": "2009/08/07 09:00",
+     "CRDT": [
+          "2009/05/14 09:00"
+     ],
+     "PHST": [
+          "2009/05/14 09:00 [entrez]",
+          "2009/05/14 09:00 [pubmed]",
+          "2009/08/07 09:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.20627 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2009 Jun;19(6):572-8. doi: 10.1002/hipo.20627.",
+     "term": "hippocampus"
+}

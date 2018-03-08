@@ -1,0 +1,88 @@
+{
+     "PMID": "26197808",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161220",
+     "LR": "20161230",
+     "IS": "1477-4054 (Electronic) 1467-5463 (Linking)",
+     "VI": "17",
+     "IP": "2",
+     "DP": "2016 Mar",
+     "TI": "Bioinformatics methods in drug repurposing for Alzheimer's disease.",
+     "PG": "322-35",
+     "LID": "10.1093/bib/bbv048 [doi]",
+     "AB": "Alarming epidemiological features of Alzheimer's disease impose curative treatment rather than symptomatic relief. Drug repurposing, that is reappraisal of a substance's indications against other diseases, offers time, cost and efficiency benefits in drug development, especially when in silico techniques are used. In this study, we have used gene signatures, where up- and down-regulated gene lists summarize a cell's gene expression perturbation from a drug or disease. To cope with the inherent biological and computational noise, we used an integrative approach on five disease-related microarray data sets of hippocampal origin with three different methods of evaluating differential gene expression and four drug repurposing tools. We found a list of 27 potential anti-Alzheimer agents that were additionally processed with regard to molecular similarity, pathway/ontology enrichment and network analysis. Protein kinase C, histone deacetylase, glycogen synthase kinase 3 and arginase inhibitors appear consistently in the resultant drug list and may exert their pharmacologic action in an epidermal growth factor receptor-mediated subpathway of Alzheimer's disease.",
+     "CI": [
+          "(c) The Author 2015. Published by Oxford University Press. For Permissions,",
+          "please email: journals.permissions@oup.com."
+     ],
+     "FAU": [
+          "Siavelis, John C",
+          "Bourdakou, Marilena M",
+          "Athanasiadis, Emmanouil I",
+          "Spyrou, George M",
+          "Nikita, Konstantina S"
+     ],
+     "AU": [
+          "Siavelis JC",
+          "Bourdakou MM",
+          "Athanasiadis EI",
+          "Spyrou GM",
+          "Nikita KS"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150721",
+     "PL": "England",
+     "TA": "Brief Bioinform",
+     "JT": "Briefings in bioinformatics",
+     "JID": "100912837",
+     "RN": [
+          "0 (Nerve Tissue Proteins)",
+          "0 (Neuroprotective Agents)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*drug therapy/*metabolism",
+          "Computational Biology/methods",
+          "Drug Repositioning/*methods",
+          "Hippocampus/drug effects/metabolism",
+          "Humans",
+          "Molecular Targeted Therapy/methods",
+          "Nerve Tissue Proteins/*metabolism",
+          "Neuroprotective Agents/*pharmacokinetics/*therapeutic use",
+          "Protein Interaction Mapping/methods"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Connectivity Map",
+          "drug repurposing",
+          "epidermal growth factor receptor pathway",
+          "gene signatures"
+     ],
+     "EDAT": "2015/07/23 06:00",
+     "MHDA": "2016/12/21 06:00",
+     "CRDT": [
+          "2015/07/23 06:00"
+     ],
+     "PHST": [
+          "2015/04/19 00:00 [received]",
+          "2015/07/23 06:00 [entrez]",
+          "2015/07/23 06:00 [pubmed]",
+          "2016/12/21 06:00 [medline]"
+     ],
+     "AID": [
+          "bbv048 [pii]",
+          "10.1093/bib/bbv048 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brief Bioinform. 2016 Mar;17(2):322-35. doi: 10.1093/bib/bbv048. Epub 2015 Jul 21.",
+     "term": "hippocampus"
+}

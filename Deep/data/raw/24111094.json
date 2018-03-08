@@ -1,0 +1,74 @@
+{
+     "PMID": "24111094",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150821",
+     "LR": "20161025",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2013",
+     "DP": "2013",
+     "TI": "The role of topography in the transformation of spatiotemporal patterns by a large-scale, biologically realistic model of the rat dentate gyrus.",
+     "PG": "5950-3",
+     "LID": "10.1109/EMBC.2013.6610907 [doi]",
+     "AB": "A large-scale, biologically realistic, computational model of the rat hippocampus is being constructed to study the input-output transformation that the hippocampus performs. In the initial implementation, the layer II entorhinal cortex neurons, which provide the major input to the hippocampus, and the granule cells of the dentate gyrus, which receive the majority of the input, are modeled. In a previous work, the topography, or the wiring diagram, connecting these two populations had been derived and implemented. This paper explores the consequences of two features of the topography, the distribution of the axons and the size of the neurons' axon terminal fields. The topography converts streams of independently generated random Poisson trains into structured spatiotemporal patterns through spatiotemporal convergence achievable by overlapping axon terminal fields. Increasing the axon terminal field lengths allowed input to converge over larger regions of space resulting in granule activation across a greater area but did not increase the total activity as a function of time as the number of targets per input remained constant. Additional simulations demonstrated that the total distribution of spikes in space depends not on the distribution of the presynaptic axons but the distribution of the postsynaptic population. Analyzing spike counts emphasizes the importance of the postsynaptic distribution, but it ignores the fact that each individual input may be carrying unique information. Therefore, a metric should be created that relates and tracks individual inputs as they are propagated and integrated through hippocampus.",
+     "FAU": [
+          "Yu, Gene J",
+          "Hendrickson, Phillip J",
+          "Robinson, Brian S",
+          "Song, Dong",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Yu GJ",
+          "Hendrickson PJ",
+          "Robinson BS",
+          "Song D",
+          "Berger TW"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 GM104604/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Axons/metabolism",
+          "Computer Simulation",
+          "Dentate Gyrus/physiology/*ultrastructure",
+          "Entorhinal Cortex/physiology/ultrastructure",
+          "*Models, Biological",
+          "Neurons/cytology/physiology/ultrastructure",
+          "Rats",
+          "*Spatio-Temporal Analysis"
+     ],
+     "PMC": "PMC4156021",
+     "MID": [
+          "NIHMS623097"
+     ],
+     "EDAT": "2013/10/11 06:00",
+     "MHDA": "2015/08/22 06:00",
+     "CRDT": [
+          "2013/10/11 06:00"
+     ],
+     "PHST": [
+          "2013/10/11 06:00 [entrez]",
+          "2013/10/11 06:00 [pubmed]",
+          "2015/08/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2013.6610907 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2013;2013:5950-3. doi: 10.1109/EMBC.2013.6610907.",
+     "term": "hippocampus"
+}

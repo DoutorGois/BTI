@@ -1,0 +1,75 @@
+{
+     "PMID": "17946273",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080402",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "1",
+     "DP": "2006",
+     "TI": "A multi-input modeling approach to quantify hippocampal nonlinear dynamic transformations.",
+     "PG": "4967-70",
+     "AB": "A multi-input modeling approach is introduced to quantify hippocampal neural dynamics. It is based on the Volterra modeling approach extended to multiple inputs. The computed Volterra kernels allow quantitative description of hippocampal transformations and define a predictive model that can produce responses to arbitrary input patterns. Electrophysiological data from several CA3 and CA1 cells in behaving rats were recorded simultaneously using an array of penetrating electrodes. This activity was used to compute kernels up to third order for single and multiple input cases. Representative sets of kernels illustrate the variability of the dynamics of the CA3-CA1 transformations. Our model's predictive accuracy was evaluated using ROC curves.",
+     "FAU": [
+          "Zanos, Theodoros P",
+          "Courellis, Spiros H",
+          "Hampson, Robert E",
+          "Deadwyler, Sam A",
+          "Marmarelis, Vasilis Z",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Zanos TP",
+          "Courellis SH",
+          "Hampson RE",
+          "Deadwyler SA",
+          "Marmarelis VZ",
+          "Berger TW"
+     ],
+     "AD": "Dept. of Biomed. Eng., Univ. of Southern California, Los Angeles, CA 90089, USA. zanos@usc.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Algorithms",
+          "Animals",
+          "Electrodes",
+          "Equipment Design",
+          "Hippocampus/*pathology",
+          "Models, Neurological",
+          "Models, Statistical",
+          "Models, Theoretical",
+          "Nonlinear Dynamics",
+          "Pyramidal Cells",
+          "ROC Curve",
+          "Rats",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "2007/10/20 09:00",
+     "MHDA": "2008/04/03 09:00",
+     "CRDT": [
+          "2007/10/20 09:00"
+     ],
+     "PHST": [
+          "2007/10/20 09:00 [pubmed]",
+          "2008/04/03 09:00 [medline]",
+          "2007/10/20 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2006.260575 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2006;1:4967-70. doi: 10.1109/IEMBS.2006.260575.",
+     "term": "hippocampus"
+}

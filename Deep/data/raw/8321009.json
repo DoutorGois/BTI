@@ -1,0 +1,66 @@
+{
+     "PMID": "8321009",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19930730",
+     "LR": "20071114",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "47",
+     "IP": "1-2",
+     "DP": "1993 Apr",
+     "TI": "Bayesian analysis of mixtures applied to post-synaptic potential fluctuations.",
+     "PG": "1-21",
+     "AB": "Bayesian inference techniques have been applied to the analysis of fluctuation of post-synaptic potentials in the hippocampus. The underlying statistical model assumes that the varying synaptic signals are characterized by mixtures of (unknown) numbers of individual gaussian, or normal, component distributions. Each solution consists of a group of individual components with unique mean values and relative probabilities of occurrence and a predictive probability density. The advantages of bayesian inference techniques over the alternative method of maximum likelihood estimation (MLE) of the parameters of an unknown mixture distribution include the following: (1) prior information may be incorporated in the estimation of model parameters; (2) conditional probability estimates of the number of individual components in the mixture are calculated; (3) flexibility exists in the extent to which the estimated noise standard deviation indicates the width of each component; (4) posterior distributions for component means are calculated, including measures of uncertainty about the means; and (5) probability density functions of the component distributions and the overall mixture distribution are estimated in relation to the raw grouped data, together with measures of uncertainty about these estimates. This expository report describes this novel approach to the unconstrained identification of components within a mixture, and provides demonstration of the usefulness of the technique in the context of both simulations and the analysis of distributions of synaptic potential signals.",
+     "FAU": [
+          "Turner, D A",
+          "West, M"
+     ],
+     "AU": [
+          "Turner DA",
+          "West M"
+     ],
+     "AD": "Duke University Medical Center, Durham, NC 27710.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS29482-01/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials",
+          "*Bayes Theorem",
+          "*Computer Simulation",
+          "Hippocampus/*physiology",
+          "Likelihood Functions",
+          "*Models, Biological",
+          "Stochastic Processes",
+          "Synapses/physiology"
+     ],
+     "EDAT": "1993/04/01 00:00",
+     "MHDA": "1993/04/01 00:01",
+     "CRDT": [
+          "1993/04/01 00:00"
+     ],
+     "PHST": [
+          "1993/04/01 00:00 [pubmed]",
+          "1993/04/01 00:01 [medline]",
+          "1993/04/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "0165-0270(93)90017-L [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 1993 Apr;47(1-2):1-21.",
+     "term": "hippocampus"
+}

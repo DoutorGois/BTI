@@ -1,0 +1,81 @@
+{
+     "PMID": "24790193",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140623",
+     "LR": "20170922",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "34",
+     "IP": "18",
+     "DP": "2014 Apr 30",
+     "TI": "Controlling phase noise in oscillatory interference models of grid cell firing.",
+     "PG": "6224-32",
+     "LID": "10.1523/JNEUROSCI.2540-12.2014 [doi]",
+     "AB": "Oscillatory interference models account for the spatial firing properties of grid cells in terms of neuronal oscillators with frequencies modulated by the animal's movement velocity. The phase of such a \"velocity-controlled oscillator\" (VCO) relative to a baseline (theta-band) oscillation tracks displacement along a preferred direction. Input from multiple VCOs with appropriate preferred directions causes a grid cell's grid-like firing pattern. However, accumulating phase noise causes the firing pattern to drift and become corrupted. Here we show how multiple redundant VCOs can automatically compensate for phase noise. By entraining the baseline frequency to the mean VCO frequency, VCO phases remain consistent, ensuring a coherent grid pattern and reducing its spatial drift. We show how the spatial stability of grid firing depends on the variability in VCO phases, e.g., a phase SD of 3 ms per 125 ms cycle results in stable grids for 1 min. Finally, coupling N VCOs with similar preferred directions as a ring attractor, so that their relative phases remain constant, produces grid cells with consistently offset grids, and reduces VCO phase variability of the order square root of N. The results suggest a viable functional organization of the grid cell network, and highlight the benefit of integrating displacement along multiple redundant directions for the purpose of path integration.",
+     "FAU": [
+          "Burgess, Christopher P",
+          "Burgess, Neil"
+     ],
+     "AU": [
+          "Burgess CP",
+          "Burgess N"
+     ],
+     "AD": "University College London (UCL) Institute of Ophthalmology, UCL, London EC1 V9EL, United Kingdom, UCL Institute of Cognitive Neuroscience, UCL, London WC1N 3AR, United Kingdom, and UCL Institute of Neurology, UCL, London WC1N 1PJ, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "095811/Wellcome Trust/United Kingdom",
+          "G0300117/Medical Research Council/United Kingdom",
+          "G1002276/Medical Research Council/United Kingdom",
+          "Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Biological Clocks/*physiology",
+          "Computer Simulation",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Synaptic Transmission"
+     ],
+     "PMC": "PMC4004810",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "entorhinal cortex",
+          "grid cells",
+          "hippocampus",
+          "noise",
+          "oscillatory interference",
+          "velocity controlled oscillator"
+     ],
+     "EDAT": "2014/05/03 06:00",
+     "MHDA": "2014/06/24 06:00",
+     "CRDT": [
+          "2014/05/03 06:00"
+     ],
+     "PHST": [
+          "2014/05/03 06:00 [entrez]",
+          "2014/05/03 06:00 [pubmed]",
+          "2014/06/24 06:00 [medline]"
+     ],
+     "AID": [
+          "34/18/6224 [pii]",
+          "10.1523/JNEUROSCI.2540-12.2014 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2014 Apr 30;34(18):6224-32. doi: 10.1523/JNEUROSCI.2540-12.2014.",
+     "term": "grid cells"
+}

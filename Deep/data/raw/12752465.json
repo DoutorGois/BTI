@@ -1,0 +1,85 @@
+{
+     "PMID": "12752465",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030909",
+     "LR": "20071114",
+     "IS": "0013-9580 (Print) 0013-9580 (Linking)",
+     "VI": "44",
+     "IP": "5",
+     "DP": "2003 May",
+     "TI": "Statistical mapping of scalp-recorded ictal EEG records using wavelet analysis.",
+     "PG": "664-72",
+     "AB": "PURPOSE: The wavelet transform (WT) is well suited for the analysis of signals whose characteristics vary rapidly over time. We devised a computerized method for objective scoring of scalp-recorded seizures that takes advantage of the WT. METHODS: Using wavelet coefficients as a metric, we devised a statistical scoring method aimed at detecting significant and sustained rhythmic buildup. The approach was used to create spatiotemporal significance maps for each seizure. Each seizure was also independently analyzed by computer and an expert reader not involved in the clinical workup or computer analysis of these patients. Hierarchical decision rules for determining seizure lateralization and localization were established from a training set of seizures and subsequently tested on those from an independent test set of seizures. The test dataset included a total of 57 scalp-recorded seizures from 18 patients, each with a > or =12-month seizure-free surgical outcome. RESULTS: Validation was determined by the site of surgical resection. Of the 57 seizure records in the test dataset, the computerized approach resulted in 48 correctly lateralized seizures as compared to 34 for the expert reader. Further, the computer correctly localized 41 seizures to the expert's 31. CONCLUSIONS: The method presented appears to provide an objective basis for the intrachannel scoring of ictal EEGs with minimal interference from artifacts and intermittent discharges. Although the approach has so far shown a substantial improvement over expert scoring in estimating the lateralization and locus of seizure onset, further testing is required to fully evaluate fully its diagnostic accuracy.",
+     "FAU": [
+          "Battiston, John J",
+          "Darcey, Terrance M",
+          "Siegel, Adrian M",
+          "Williamson, Peter D",
+          "Barkan, Helen I",
+          "Akay, Metin",
+          "Thadani, Vijay M",
+          "Roberts, David W"
+     ],
+     "AU": [
+          "Battiston JJ",
+          "Darcey TM",
+          "Siegel AM",
+          "Williamson PD",
+          "Barkan HI",
+          "Akay M",
+          "Thadani VM",
+          "Roberts DW"
+     ],
+     "AD": "Thayer School of Engineering, Dartmouth College, Hanover, New Hampshire, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS 33962/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Epilepsia",
+     "JT": "Epilepsia",
+     "JID": "2983306R",
+     "SB": "IM",
+     "MH": [
+          "Brain Mapping",
+          "CD-ROM",
+          "Cerebral Cortex/physiopathology",
+          "Dominance, Cerebral/physiology",
+          "Electroencephalography/*statistics & numerical data",
+          "Epilepsy, Frontal Lobe/*diagnosis/physiopathology/surgery",
+          "Epilepsy, Temporal Lobe/*diagnosis/physiopathology/surgery",
+          "Evoked Potentials/physiology",
+          "Hippocampus/physiopathology/surgery",
+          "Humans",
+          "*Mathematical Computing",
+          "Postoperative Complications/diagnosis/physiopathology",
+          "Retrospective Studies",
+          "Sensitivity and Specificity",
+          "*Signal Processing, Computer-Assisted"
+     ],
+     "EDAT": "2003/05/20 05:00",
+     "MHDA": "2003/09/10 05:00",
+     "CRDT": [
+          "2003/05/20 05:00"
+     ],
+     "PHST": [
+          "2003/05/20 05:00 [pubmed]",
+          "2003/09/10 05:00 [medline]",
+          "2003/05/20 05:00 [entrez]"
+     ],
+     "AID": [
+          "epi54202 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Epilepsia. 2003 May;44(5):664-72.",
+     "term": "hippocampus"
+}

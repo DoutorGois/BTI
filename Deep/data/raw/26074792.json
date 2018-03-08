@@ -1,0 +1,70 @@
+{
+     "PMID": "26074792",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20150615",
+     "LR": "20170220",
+     "IS": "1662-5153 (Print) 1662-5153 (Linking)",
+     "VI": "9",
+     "DP": "2015",
+     "TI": "A Bayesian context fear learning algorithm/automaton.",
+     "PG": "112",
+     "LID": "10.3389/fnbeh.2015.00112 [doi]",
+     "AB": "Contextual fear conditioning is thought to involve the synaptic plasticity-dependent establishment in hippocampus of representations of to-be-conditioned contexts which can then become associated with USs in the amygdala. A conceptual and computational model of this process is proposed in which contextual attributes are assumed to be sampled serially and randomly during contextual exposures. Given this assumption, moment-to-moment information about such attributes will often be quite different from one exposure to another and, in particular, between exposures during which representations are created, exposures during which conditioning occurs, and during recall sessions. This presents challenges to current conceptual models of hippocampal function. In order to meet these challenges, our model's hippocampus was made to operate in different modes during representation creation and recall, and non-hippocampal machinery was constructed that controlled these hippocampal modes. This machinery uses a comparison between contextual information currently observed and information associated with existing hippocampal representations of familiar contexts to compute the Bayesian Weight of Evidence that the current context is (or is not) a known one, and it uses this value to assess the appropriateness of creation or recall modes. The model predicts a number of known phenomena such as the immediate shock deficit, spurious fear conditioning to contexts that are absent but similar to actually present ones, and modulation of conditioning by pre-familiarization with contexts. It also predicts a number of as yet unknown phenomena.",
+     "FAU": [
+          "Krasne, Franklin B",
+          "Cushman, Jesse D",
+          "Fanselow, Michael S"
+     ],
+     "AU": [
+          "Krasne FB",
+          "Cushman JD",
+          "Fanselow MS"
+     ],
+     "AD": "Department of Psychology, University of California Los Angeles Los Angeles, CA, USA ; Brain Research Institute, University of California Los Angeles Los Angeles, CA, USA. Department of Psychology, University of California Los Angeles Los Angeles, CA, USA ; Brain Research Institute, University of California Los Angeles Los Angeles, CA, USA. Department of Psychology, University of California Los Angeles Los Angeles, CA, USA ; Brain Research Institute, University of California Los Angeles Los Angeles, CA, USA ; Department of Psychiatry and Biobehavioral Sciences, University of California Los Angeles Los Angeles, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH062122/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150527",
+     "PL": "Switzerland",
+     "TA": "Front Behav Neurosci",
+     "JT": "Frontiers in behavioral neuroscience",
+     "JID": "101477952",
+     "PMC": "PMC4445248",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Bayesian",
+          "amygdala",
+          "computational neuroscience",
+          "context",
+          "fear conditioning",
+          "hippocampus",
+          "model"
+     ],
+     "EDAT": "2015/06/16 06:00",
+     "MHDA": "2015/06/16 06:01",
+     "CRDT": [
+          "2015/06/16 06:00"
+     ],
+     "PHST": [
+          "2015/01/14 00:00 [received]",
+          "2015/04/16 00:00 [accepted]",
+          "2015/06/16 06:00 [entrez]",
+          "2015/06/16 06:00 [pubmed]",
+          "2015/06/16 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnbeh.2015.00112 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Behav Neurosci. 2015 May 27;9:112. doi: 10.3389/fnbeh.2015.00112. eCollection 2015.",
+     "term": "hippocampus"
+}

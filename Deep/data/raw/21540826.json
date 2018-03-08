@@ -1,0 +1,80 @@
+{
+     "PMID": "21540826",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110819",
+     "LR": "20170220",
+     "IS": "1940-087X (Electronic) 1940-087X (Linking)",
+     "IP": "50",
+     "DP": "2011 Apr 25",
+     "TI": "Transcriptome analysis of single cells.",
+     "LID": "10.3791/2634 [doi] 2634 [pii]",
+     "AB": "Many gene expression analysis techniques rely on material isolated from heterogeneous populations of cells from tissue homogenates or cells in culture. In the case of the brain, regions such as the hippocampus contain a complex arrangement of different cell types, each with distinct mRNA profiles. The ability to harvest single cells allows for a more in depth investigation into the molecular differences between and within cell populations. We describe a simple and rapid method for harvesting cells for further processing. Pipettes often used in electrophysiology are utilized to isolate (using aspiration) a cell of interest and conveniently deposit it into an Eppendorf tube for further processing with any number of molecular biology techniques. Our protocol can be modified for the harvest of dendrites from cell culture or even individual cells from acute slices. We also describe the aRNA amplification method as a major downstream application of single cell isolations. This method was developed previously by our lab as an alternative to other gene expression analysis techniques such as reverse-transcription or real-time polymerase chain reaction (PCR). This technique provides for linear amplification of the polyadenylated RNA beginning with only femtograms of material and resulting in microgram amounts of antisense RNA. The linearly amplified material provides a more accurate estimation than PCR exponential amplification of the relative abundance of components of the transcriptome of the isolated cell. The basic procedure consists of two rounds of amplification. Briefly, a T7 RNA polymerase promoter site is incorporated into double stranded cDNA created from the mRNA transcripts. An overnight in vitro transcription (IVT) reaction is then performed in which T7 RNA polymerase produces many antisense transcripts from the double stranded cDNA. The second round repeats this process but with some technical differences since the starting material is antisense RNA. It is standard to repeat the second round, resulting in three rounds of amplification. Often, the third round in vitro transcription reaction is performed using biotinylated nucleoside triphosphates so that the antisense RNA produced can be hybridized and detected on a microarray.",
+     "FAU": [
+          "Morris, Jacqueline",
+          "Singh, Jennifer M",
+          "Eberwine, James H"
+     ],
+     "AU": [
+          "Morris J",
+          "Singh JM",
+          "Eberwine JH"
+     ],
+     "AD": "Department of Pharmacology, University of Pennsylvania, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Video-Audio Media"
+     ],
+     "DEP": "20110425",
+     "PL": "United States",
+     "TA": "J Vis Exp",
+     "JT": "Journal of visualized experiments : JoVE",
+     "JID": "101313252",
+     "RN": [
+          "0 (DNA, Complementary)",
+          "0 (RNA, Messenger)",
+          "0 (Viral Proteins)",
+          "EC 2.7.7.- (bacteriophage T7 RNA polymerase)",
+          "EC 2.7.7.6 (DNA-Directed RNA Polymerases)"
+     ],
+     "SB": "IM",
+     "EIN": [
+          "J Vis Exp. 2011;57. doi: 10.3791/4082"
+     ],
+     "MH": [
+          "Animals",
+          "DNA, Complementary/genetics",
+          "DNA-Directed RNA Polymerases/genetics",
+          "Gene Expression Profiling/*methods",
+          "Hippocampus/chemistry",
+          "Promoter Regions, Genetic",
+          "RNA, Messenger/genetics",
+          "Rats",
+          "Reverse Transcriptase Polymerase Chain Reaction/*methods",
+          "Single-Cell Analysis/instrumentation/*methods",
+          "Viral Proteins/genetics"
+     ],
+     "PMC": "PMC3376915",
+     "EDAT": "2011/05/05 06:00",
+     "MHDA": "2011/08/20 06:00",
+     "CRDT": [
+          "2011/05/05 06:00"
+     ],
+     "PHST": [
+          "2011/05/05 06:00 [entrez]",
+          "2011/05/05 06:00 [pubmed]",
+          "2011/08/20 06:00 [medline]"
+     ],
+     "AID": [
+          "2634 [pii]",
+          "10.3791/2634 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "J Vis Exp. 2011 Apr 25;(50). pii: 2634. doi: 10.3791/2634.",
+     "term": "hippocampus"
+}

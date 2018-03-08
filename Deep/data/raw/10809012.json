@@ -1,0 +1,64 @@
+{
+     "PMID": "10809012",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20000731",
+     "LR": "20171021",
+     "IS": "0929-5313 (Print) 0929-5313 (Linking)",
+     "VI": "8",
+     "IP": "3",
+     "DP": "2000 May-Jun",
+     "TI": "Dynamics of sparsely connected networks of excitatory and inhibitory spiking neurons.",
+     "PG": "183-208",
+     "AB": "The dynamics of networks of sparsely connected excitatory and inhibitory integrate-and-fire neurons are studied analytically. The analysis reveals a rich repertoire of states, including synchronous states in which neurons fire regularly; asynchronous states with stationary global activity and very irregular individual cell activity; and states in which the global activity oscillates but individual cells fire irregularly, typically at rates lower than the global oscillation frequency. The network can switch between these states, provided the external frequency, or the balance between excitation and inhibition, is varied. Two types of network oscillations are observed. In the fast oscillatory state, the network frequency is almost fully controlled by the synaptic time scale. In the slow oscillatory state, the network frequency depends mostly on the membrane time constant. Finite size effects in the asynchronous state are also discussed.",
+     "FAU": [
+          "Brunel, N"
+     ],
+     "AU": [
+          "Brunel N"
+     ],
+     "AD": "LPS, Ecole Normale Superieure, Paris, France. brunel@lps.ens.fr",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Biological Clocks/physiology",
+          "Brain/cytology/*physiology",
+          "Cortical Synchronization/methods",
+          "Electric Stimulation",
+          "Excitatory Postsynaptic Potentials/*physiology",
+          "Hippocampus/cytology/physiology",
+          "Interneurons/cytology/physiology",
+          "Linear Models",
+          "Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neural Inhibition/physiology",
+          "Neural Pathways/cytology/*physiology",
+          "Neurons/cytology/*physiology",
+          "Pyramidal Cells/cytology/physiology",
+          "Synapses/physiology/ultrastructure",
+          "Time Factors"
+     ],
+     "EDAT": "2000/05/16 09:00",
+     "MHDA": "2000/08/06 11:00",
+     "CRDT": [
+          "2000/05/16 09:00"
+     ],
+     "PHST": [
+          "2000/05/16 09:00 [pubmed]",
+          "2000/08/06 11:00 [medline]",
+          "2000/05/16 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2000 May-Jun;8(3):183-208.",
+     "term": "hippocampus"
+}

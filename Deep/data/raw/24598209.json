@@ -1,0 +1,82 @@
+{
+     "PMID": "24598209",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141015",
+     "LR": "20161020",
+     "IS": "1742-5662 (Electronic) 1742-5662 (Linking)",
+     "VI": "11",
+     "IP": "94",
+     "DP": "2014 May 6",
+     "TI": "Mathematical modelling of adult hippocampal neurogenesis: effects of altered stem cell dynamics on cell counts and bromodeoxyuridine-labelled cells.",
+     "PG": "20140144",
+     "LID": "10.1098/rsif.2014.0144 [doi]",
+     "AB": "In the adult hippocampus, neurogenesis-the process of generating mature granule cells from adult neural stem cells-occurs throughout the entire lifetime. In order to investigate the involved regulatory mechanisms, knockout (KO) experiments, which modify the dynamic behaviour of this process, were conducted in the past. Evaluating these KOs is a non-trivial task owing to the complicated nature of the hippocampal neurogenic niche. In this study, we model neurogenesis as a multicompartmental system of ordinary differential equations based on experimental data. To analyse the results of KO experiments, we investigate how changes of cell properties, reflected by model parameters, influence the dynamics of cell counts and of the experimentally observed counts of cells labelled by the cell division marker bromodeoxyuridine (BrdU). We find that changing cell proliferation rates or the fraction of self-renewal, reflecting the balance between symmetric and asymmetric cell divisions, may result in multiple time phases in the response of the system, such as an initial increase in cell counts followed by a decrease. Furthermore, these phases may be qualitatively different in cells at different differentiation stages and even between mitotically labelled cells and all cells existing in the system.",
+     "FAU": [
+          "Ziebell, Frederik",
+          "Martin-Villalba, Ana",
+          "Marciniak-Czochra, Anna"
+     ],
+     "AU": [
+          "Ziebell F",
+          "Martin-Villalba A",
+          "Marciniak-Czochra A"
+     ],
+     "AD": "Institute of Applied Mathematics, University of Heidelberg, , Heidelberg, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140305",
+     "PL": "England",
+     "TA": "J R Soc Interface",
+     "JT": "Journal of the Royal Society, Interface",
+     "JID": "101217269",
+     "RN": [
+          "0 (Antimetabolites)",
+          "G34N38R2N1 (Bromodeoxyuridine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Antimetabolites/*pharmacology",
+          "Bromodeoxyuridine/*pharmacology",
+          "*Hippocampus/cytology/pathology",
+          "Humans",
+          "Mice",
+          "Mice, Knockout",
+          "*Models, Neurological",
+          "*Neural Stem Cells/cytology/metabolism",
+          "Neurogenesis/*physiology",
+          "Staining and Labeling"
+     ],
+     "PMC": "PMC3973376",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "mathematical modelling",
+          "neurogenesis",
+          "ordinary differential equations",
+          "stem cells"
+     ],
+     "EDAT": "2014/03/07 06:00",
+     "MHDA": "2014/10/16 06:00",
+     "CRDT": [
+          "2014/03/07 06:00"
+     ],
+     "PHST": [
+          "2014/03/07 06:00 [entrez]",
+          "2014/03/07 06:00 [pubmed]",
+          "2014/10/16 06:00 [medline]"
+     ],
+     "AID": [
+          "rsif.2014.0144 [pii]",
+          "10.1098/rsif.2014.0144 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "J R Soc Interface. 2014 Mar 5;11(94):20140144. doi: 10.1098/rsif.2014.0144. Print 2014 May 6.",
+     "term": "hippocampus"
+}

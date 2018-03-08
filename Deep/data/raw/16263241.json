@@ -1,0 +1,68 @@
+{
+     "PMID": "16263241",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060427",
+     "LR": "20051121",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "18",
+     "IP": "9",
+     "DP": "2005 Nov",
+     "TI": "Robust self-localisation and navigation based on hippocampal place cells.",
+     "PG": "1125-40",
+     "AB": "A computational model of the hippocampal function in spatial learning is presented. A spatial representation is incrementally acquired during exploration. Visual and self-motion information is fed into a network of rate-coded neurons. A consistent and stable place code emerges by unsupervised Hebbian learning between place- and head direction cells. Based on this representation, goal-oriented navigation is learnt by applying a reward-based learning mechanism between the hippocampus and nucleus accumbens. The model, validated on a real and simulated robot, successfully localises itself by recalibrating its path integrator using visual input. A navigation map is learnt after about 20 trials, comparable to rats in the water maze. In contrast to previous works, this system processes realistic visual input. No compass is needed for localisation and the reward-based learning mechanism extends discrete navigation models to continuous space. The model reproduces experimental findings and suggests several neurophysiological and behavioural predictions in the rat.",
+     "FAU": [
+          "Strosslin, Thomas",
+          "Sheynikhovich, Denis",
+          "Chavarriaga, Ricardo",
+          "Gerstner, Wulfram"
+     ],
+     "AU": [
+          "Strosslin T",
+          "Sheynikhovich D",
+          "Chavarriaga R",
+          "Gerstner W"
+     ],
+     "AD": "Laboratory of Computational Neuroscience, Brain and Mind Centre, EPFL, 1015 Lausanne, Switzerland. thomas.strosslin@a3.epfl.ch",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20051102",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Behavior, Animal/*physiology",
+          "*Computer Simulation",
+          "Hippocampus/*physiology",
+          "Learning/*physiology",
+          "*Models, Biological",
+          "Movement/physiology",
+          "Rats",
+          "Space Perception",
+          "Spatial Behavior/*physiology"
+     ],
+     "EDAT": "2005/11/03 09:00",
+     "MHDA": "2006/04/28 09:00",
+     "CRDT": [
+          "2005/11/03 09:00"
+     ],
+     "PHST": [
+          "2005/11/03 09:00 [pubmed]",
+          "2006/04/28 09:00 [medline]",
+          "2005/11/03 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(05)00196-6 [pii]",
+          "10.1016/j.neunet.2005.08.012 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2005 Nov;18(9):1125-40. doi: 10.1016/j.neunet.2005.08.012. Epub 2005 Nov 2.",
+     "term": "place cells"
+}

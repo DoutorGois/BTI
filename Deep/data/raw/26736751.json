@@ -1,0 +1,76 @@
+{
+     "PMID": "26736751",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160922",
+     "LR": "20170220",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2015",
+     "DP": "2015",
+     "TI": "A 3-D admittance-level computational model of a rat hippocampus for improving prosthetic design.",
+     "PG": "2295-8",
+     "LID": "10.1109/EMBC.2015.7318851 [doi]",
+     "AB": "Hippocampal prosthetic devices have been developed to bridge the gap between functioning portions of the hippocampus, in order to restore lost memory functionality in those suffering from brain injury or diseases. One approach taken in recent neuroprosthetic design is to use a multi-input, multi-output device that reads data from the CA3 in the hippocampus and electrically stimulates the CA1 in an attempt to mimic the appropriate firing pattern that would occur naturally between the two areas. However, further study needs to be conducted in order to optimize electrode placement, pulse magnitude, and shape for creating the appropriate firing pattern. This paper describes the creation and implementation of an anatomically correct 3D model of the hippocampus to simulate the electric field patterns and axonal activation from electrical stimulation due to an implanted electrode array. The activating function was applied to the voltage results to determine the firing patterns in possible axon locations within the CA1.",
+     "FAU": [
+          "Gilbert, Andrew",
+          "Loizos, Kyle",
+          "RamRakhyani, Anil Kumar",
+          "Hendrickson, Phillip",
+          "Lazzi, Gianluca",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Gilbert A",
+          "Loizos K",
+          "RamRakhyani AK",
+          "Hendrickson P",
+          "Lazzi G",
+          "Berger TW"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 GM104604/GM/NIGMS NIH HHS/United States",
+          "1U01GM104604-01/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Electric Stimulation",
+          "Electrodes, Implanted",
+          "*Hippocampus/cytology/physiology",
+          "*Imaging, Three-Dimensional",
+          "*Models, Neurological",
+          "Prosthesis Design/*methods",
+          "Rats"
+     ],
+     "PMC": "PMC4877026",
+     "MID": [
+          "NIHMS785665"
+     ],
+     "EDAT": "2016/01/07 06:00",
+     "MHDA": "2016/09/23 06:00",
+     "CRDT": [
+          "2016/01/07 06:00"
+     ],
+     "PHST": [
+          "2016/01/07 06:00 [entrez]",
+          "2016/01/07 06:00 [pubmed]",
+          "2016/09/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2015.7318851 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2015;2015:2295-8. doi: 10.1109/EMBC.2015.7318851.",
+     "term": "hippocampus"
+}

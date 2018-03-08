@@ -1,0 +1,61 @@
+{
+     "PMID": "29434324",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20180217",
+     "IS": "2045-2322 (Electronic) 2045-2322 (Linking)",
+     "VI": "8",
+     "IP": "1",
+     "DP": "2018 Feb 12",
+     "TI": "The utility of a network-based clustering method for dimension reduction of imaging and non-imaging biomarkers predictive of Alzheimer's disease.",
+     "PG": "2807",
+     "LID": "10.1038/s41598-018-21118-1 [doi]",
+     "AB": "While the identification of biomarkers for Alzheimer's disease (AD) is critical, emphasis must also be placed on defining the relationship between these and other indicators. To this end, we propose a network-based radial basis function-sparse partial least squares (RBF-sPLS) approach to analyze structural magnetic resonance imaging (sMRI) data of the brain. This intermediate phenotype for AD represents a more objective approach for exploring biomarkers in the blood and cerebrospinal fluid. The proposed method has two unique features for effective biomarker selection. The first is that applying RBF to sMRI data can reduce the dimensions without excluding information. The second is that the network analysis considers the relationship among the biomarkers, while applied to non-imaging data. As a result, the output can be interpreted as clusters of related biomarkers. In addition, it is possible to estimate the parameters between the sMRI data and biomarkers while simultaneously selecting the related brain regions and biomarkers. When applied to real data, this technique identified not only the hippocampus and traditional biomarkers, such as amyloid beta, as predictive of AD, but also numerous other regions and biomarkers.",
+     "FAU": [
+          "Yoshida, Hisako",
+          "Kawaguchi, Atsushi",
+          "Yamashita, Fumio",
+          "Tsuruya, Kazuhiko"
+     ],
+     "AU": [
+          "Yoshida H",
+          "Kawaguchi A",
+          "Yamashita F",
+          "Tsuruya K"
+     ],
+     "AD": "Clinical Research Center, Saga University Hospital, Saga, Japan. Section of Clinical Cooperation System, Center for Comprehensive Community Medicine, Faculty of Medicine, Saga University, Saga, Japan. akawa@cc.saga-u.ac.jp. Division of Ultrahigh Field MRI, Iwate Medical University, Yahaba, Japan. Department of Integrated Therapy for Chronic Kidney Disease, Graduate School of Medical Sciences, Kyushu University, Fukuoka, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20180212",
+     "PL": "England",
+     "TA": "Sci Rep",
+     "JT": "Scientific reports",
+     "JID": "101563288",
+     "PMC": "PMC5809402",
+     "EDAT": "2018/02/13 06:00",
+     "MHDA": "2018/02/13 06:00",
+     "CRDT": [
+          "2018/02/14 06:00"
+     ],
+     "PHST": [
+          "2016/12/28 00:00 [received]",
+          "2018/01/30 00:00 [accepted]",
+          "2018/02/14 06:00 [entrez]",
+          "2018/02/13 06:00 [pubmed]",
+          "2018/02/13 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1038/s41598-018-21118-1 [doi]",
+          "10.1038/s41598-018-21118-1 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Sci Rep. 2018 Feb 12;8(1):2807. doi: 10.1038/s41598-018-21118-1.",
+     "term": "hippocampus"
+}

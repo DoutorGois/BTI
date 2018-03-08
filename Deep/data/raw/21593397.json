@@ -1,0 +1,75 @@
+{
+     "PMID": "21593397",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120326",
+     "LR": "20161019",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "106",
+     "IP": "2",
+     "DP": "2011 Aug",
+     "TI": "Changes in reward contingency modulate the trial-to-trial variability of hippocampal place cells.",
+     "PG": "589-98",
+     "LID": "10.1152/jn.00091.2011 [doi]",
+     "AB": "Pyramidal cells in the rodent hippocampus often exhibit clear spatial tuning. Theories of hippocampal function suggest that these \"place cells\" implement multiple, independent neural representations of position (maps), based on different reference frames or environmental features. Consistent with the \"multiple maps\" theory, previous studies have shown that manipulating spatial factors related to task performance modulates the within-session variability (overdispersion) of cells in the hippocampus. However, the influence of changes in reward contingency on overdispersion has not been examined. To test this, we first trained rats to collect food from three feeders positioned around a circular track (task(1)). When subjects were proficient, the reward contingency was altered such that every other feeder delivered food (task(2)). We recorded ensembles of hippocampal neurons as rats performed both tasks. Place cell overdispersion was high during task(1) but decreased significantly during task(2), and this increased reliability could not be accounted for by changes in running speed or familiarity with the task. Intuitively, decreased variability might be expected to improve neural representations of position. To test this, we used Bayesian decoding of hippocampal spike trains to estimate subjects' location. Neither the amount of probability decoded to subjects' position (local probability) nor the difference between estimated position and true location (decoding accuracy) differed between tasks. However, we found that hippocampal ensembles were significantly more self-consistent during task(2) performance. These results suggest that changes in task demands can affect the firing statistics of hippocampal neurons, leading to changes in the properties of decoded neural representations.",
+     "FAU": [
+          "Wikenheiser, Andrew M",
+          "Redish, A David"
+     ],
+     "AU": [
+          "Wikenheiser AM",
+          "Redish AD"
+     ],
+     "AD": "Graduate Program in Neuroscience, University of Minnesota, Minneapolis, Minnesota, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "T32-DA-008234/DA/NIDA NIH HHS/United States",
+          "5T90-DK-070106-05/DK/NIDDK NIH HHS/United States",
+          "T32 DA007234/DA/NIDA NIH HHS/United States",
+          "R01-MH-083018/MH/NIMH NIH HHS/United States",
+          "R01 MH080318/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20110518",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Hippocampus/cytology/*physiology",
+          "Male",
+          "Motor Activity/*physiology",
+          "Neurons/physiology",
+          "Psychomotor Performance/*physiology",
+          "Rats",
+          "Rats, Inbred BN",
+          "*Reward"
+     ],
+     "PMC": "PMC3154812",
+     "EDAT": "2011/05/20 06:00",
+     "MHDA": "2012/03/27 06:00",
+     "CRDT": [
+          "2011/05/20 06:00"
+     ],
+     "PHST": [
+          "2011/05/20 06:00 [entrez]",
+          "2011/05/20 06:00 [pubmed]",
+          "2012/03/27 06:00 [medline]"
+     ],
+     "AID": [
+          "jn.00091.2011 [pii]",
+          "10.1152/jn.00091.2011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2011 Aug;106(2):589-98. doi: 10.1152/jn.00091.2011. Epub 2011 May 18.",
+     "term": "place cells"
+}

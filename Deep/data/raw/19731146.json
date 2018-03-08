@@ -1,0 +1,68 @@
+{
+     "PMID": "19731146",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20091029",
+     "LR": "20090904",
+     "IS": "1361-6536 (Electronic) 0954-898X (Linking)",
+     "VI": "20",
+     "IP": "3",
+     "DP": "2009",
+     "TI": "Additive neurogenesis as a strategy for avoiding interference in a sparsely-coding dentate gyrus.",
+     "PG": "137-61",
+     "LID": "10.1080/09548980902993156 [doi]",
+     "AB": "Recently we presented a model of additive neurogenesis in a linear, feedforward neural network that performed an encoding-decoding memory task in a changing input environment. Growing the neural network over time allowed the network to adapt to changes in input statistics without disrupting retrieval properties, and we proposed that adult neurogenesis might fulfil a similar computational role in the dentate gyrus of the hippocampus. Here we explicitly evaluate this hypothesis by examining additive neurogenesis in a simplified hippocampal memory model. The model incorporates a divergence in unit number from the entorhinal cortex to the dentate gyrus and sparse coding in the dentate gyrus, both notable features of hippocampal processing. We evaluate two distinct adaptation strategies; neuronal turnover, where the network is of fixed size but units may be deleted and new ones added, and additive neurogenesis, where the network grows over time, and quantify the performance of the network across the full range of adaptation levels from zero in a fixed network to one in a fully adapting network. We find that additive neurogenesis is always superior to neuronal turnover as it permits the network to be responsive to changes in input statistics while at the same time preserving representations of earlier environments.",
+     "FAU": [
+          "Appleby, Peter A",
+          "Wiskott, Laurenz"
+     ],
+     "AU": [
+          "Appleby PA",
+          "Wiskott L"
+     ],
+     "AD": "Institute for Theoretical Biology, Humboldt Universitat zu Berlin, Berlin 10115, Germany. p.appleby@biologie.hu-berlin.de",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "Network",
+     "JT": "Network (Bristol, England)",
+     "JID": "9431867",
+     "SB": "IM",
+     "MH": [
+          "Adaptation, Psychological/physiology",
+          "Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "Dentate Gyrus/*physiology",
+          "Environment",
+          "Learning/*physiology",
+          "Memory/*physiology",
+          "*Neural Networks (Computer)",
+          "*Neurogenesis",
+          "Neurons/physiology",
+          "Rats",
+          "Temporal Lobe/physiology"
+     ],
+     "EDAT": "2009/09/05 06:00",
+     "MHDA": "2009/10/30 06:00",
+     "CRDT": [
+          "2009/09/05 06:00"
+     ],
+     "PHST": [
+          "2009/09/05 06:00 [entrez]",
+          "2009/09/05 06:00 [pubmed]",
+          "2009/10/30 06:00 [medline]"
+     ],
+     "AID": [
+          "914288016 [pii]",
+          "10.1080/09548980902993156 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Network. 2009;20(3):137-61. doi: 10.1080/09548980902993156.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,105 @@
+{
+     "PMID": "19001039",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090318",
+     "LR": "20161124",
+     "IS": "1469-7793 (Electronic) 0022-3751 (Linking)",
+     "VI": "587",
+     "IP": "1",
+     "DP": "2009 Jan 15",
+     "TI": "Epac mediates PACAP-dependent long-term depression in the hippocampus.",
+     "PG": "101-13",
+     "LID": "10.1113/jphysiol.2008.157461 [doi]",
+     "AB": "Extensive work has shown that activation of the cAMP-dependent protein kinase A (PKA) is crucial for long-term depression (LTD) of synaptic transmission in the hippocampus, a phenomenon that is thought to be involved in memory formation. Here we studied the role of an alternative target of cAMP, the exchange protein factor directly activated by cyclic AMP (Epac). We show that pharmacological activation of Epac by the selective agonist 8-(4-chlorophenylthio)-2'-O-methyl-cAMP (8-pCPT) induces LTD in the CA1 region. Paired-pulse facilitation of synaptic responses remained unchanged after induction of this LTD, suggesting that it depended on postsynaptic mechanisms. The 8-pCPT-induced LTD was blocked by the Epac signalling inhibitor brefeldin-A (BFA), Rap-1 antagonist geranylgeranyltransferase inhibitor (GGTI) and p38 mitogen activated protein kinase (P38-MAPK) inhibitor SB203580. This indicated a direct involvement of Epac in this form of LTD. As for other forms of LTD, a mimetic peptide of the PSD-95/Disc-large/ZO-1 homology (PDZ) ligand motif of the AMPA receptor subunit GluR2 blocked the Epac-LTD, suggesting involvement of PDZ protein interaction. The Epac-LTD also depended on mobilization of intracellular Ca(2+), proteasome activity and mRNA translation, but not transcription, as it was inhibited by thapsigargin, lactacystin and anisomycin, but not actinomycin-D, respectively. Finally, we found that the pituitary adenylate cyclase activating polypeptide (PACAP) can induce an LTD that was mutually occluded by the Epac-LTD and blocked by BFA or SB203580, suggesting that the Epac-LTD could be mobilized by stimulation of PACAP receptors. Altogether these results provided evidence for a new form of hippocampal LTD.",
+     "FAU": [
+          "Ster, Jeanne",
+          "de Bock, Frederic",
+          "Bertaso, Federica",
+          "Abitbol, Karine",
+          "Daniel, Herve",
+          "Bockaert, Joel",
+          "Fagni, Laurent"
+     ],
+     "AU": [
+          "Ster J",
+          "de Bock F",
+          "Bertaso F",
+          "Abitbol K",
+          "Daniel H",
+          "Bockaert J",
+          "Fagni L"
+     ],
+     "AD": "CNRS, UMR 5203, Institut de Genomique Fonctionnelle, Montpellier, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20081110",
+     "PL": "England",
+     "TA": "J Physiol",
+     "JT": "The Journal of physiology",
+     "JID": "0266262",
+     "RN": [
+          "0 (8-(4-chloro-phenylthio)-2'-O-methyladenosine-3'-5'-cyclic monophosphate)",
+          "0 (Adcyap1 protein, mouse)",
+          "0 (Epac protein, mouse)",
+          "0 (Guanine Nucleotide Exchange Factors)",
+          "0 (Nerve Tissue Proteins)",
+          "0 (Pituitary Adenylate Cyclase-Activating Polypeptide)",
+          "0 (Receptors, AMPA)",
+          "0 (Receptors, Pituitary Adenylate Cyclase-Activating Polypeptide)",
+          "20350-15-6 (Brefeldin A)",
+          "E0399OZS9N (Cyclic AMP)",
+          "EC 2.7.11.1 (Glycogen Synthase Kinase 3 beta)",
+          "EC 2.7.11.24 (p38 Mitogen-Activated Protein Kinases)",
+          "EC 2.7.11.26 (Glycogen Synthase Kinase 3)",
+          "EC 3.4.25.1 (Proteasome Endopeptidase Complex)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "CIN": [
+          "J Physiol. 2009 Jul 1;587(Pt 13):3067-8. PMID: 19567745"
+     ],
+     "MH": [
+          "Animals",
+          "Brefeldin A/pharmacology",
+          "Calcium/metabolism",
+          "Cyclic AMP/analogs & derivatives/pharmacology",
+          "Glycogen Synthase Kinase 3/physiology",
+          "Glycogen Synthase Kinase 3 beta",
+          "Guanine Nucleotide Exchange Factors/agonists/antagonists & inhibitors/*physiology",
+          "Hippocampus/drug effects/*physiology",
+          "In Vitro Techniques",
+          "*Long-Term Synaptic Depression/drug effects",
+          "Mice",
+          "Nerve Tissue Proteins/biosynthesis",
+          "Pituitary Adenylate Cyclase-Activating Polypeptide/*physiology",
+          "Proteasome Endopeptidase Complex/metabolism",
+          "Pyramidal Cells/drug effects/physiology",
+          "Receptors, AMPA/physiology",
+          "Receptors, Pituitary Adenylate Cyclase-Activating Polypeptide/physiology",
+          "p38 Mitogen-Activated Protein Kinases/physiology"
+     ],
+     "PMC": "PMC2670026",
+     "EDAT": "2008/11/13 09:00",
+     "MHDA": "2009/03/19 09:00",
+     "CRDT": [
+          "2008/11/13 09:00"
+     ],
+     "PHST": [
+          "2008/11/13 09:00 [pubmed]",
+          "2009/03/19 09:00 [medline]",
+          "2008/11/13 09:00 [entrez]"
+     ],
+     "AID": [
+          "jphysiol.2008.157461 [pii]",
+          "10.1113/jphysiol.2008.157461 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Physiol. 2009 Jan 15;587(1):101-13. doi: 10.1113/jphysiol.2008.157461. Epub 2008 Nov 10.",
+     "term": "hippocampus"
+}

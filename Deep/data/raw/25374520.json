@@ -1,0 +1,65 @@
+{
+     "PMID": "25374520",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20141106",
+     "LR": "20170220",
+     "IS": "1662-5153 (Print) 1662-5153 (Linking)",
+     "VI": "8",
+     "DP": "2014",
+     "TI": "Source-based neurofeedback methods using EEG recordings: training altered brain activity in a functional brain source derived from blind source separation.",
+     "PG": "373",
+     "LID": "10.3389/fnbeh.2014.00373 [doi]",
+     "AB": "A developing literature explores the use of neurofeedback in the treatment of a range of clinical conditions, particularly ADHD and epilepsy, whilst neurofeedback also provides an experimental tool for studying the functional significance of endogenous brain activity. A critical component of any neurofeedback method is the underlying physiological signal which forms the basis for the feedback. While the past decade has seen the emergence of fMRI-based protocols training spatially confined BOLD activity, traditional neurofeedback has utilized a small number of electrode sites on the scalp. As scalp EEG at a given electrode site reflects a linear mixture of activity from multiple brain sources and artifacts, efforts to successfully acquire some level of control over the signal may be confounded by these extraneous sources. Further, in the event of successful training, these traditional neurofeedback methods are likely influencing multiple brain regions and processes. The present work describes the use of source-based signal processing methods in EEG neurofeedback. The feasibility and potential utility of such methods were explored in an experiment training increased theta oscillatory activity in a source derived from Blind Source Separation (BSS) of EEG data obtained during completion of a complex cognitive task (spatial navigation). Learned increases in theta activity were observed in two of the four participants to complete 20 sessions of neurofeedback targeting this individually defined functional brain source. Source-based EEG neurofeedback methods using BSS may offer important advantages over traditional neurofeedback, by targeting the desired physiological signal in a more functionally and spatially specific manner. Having provided preliminary evidence of the feasibility of these methods, future work may study a range of clinically and experimentally relevant brain processes where individual brain sources may be targeted by source-based EEG neurofeedback.",
+     "FAU": [
+          "White, David J",
+          "Congedo, Marco",
+          "Ciorciari, Joseph"
+     ],
+     "AU": [
+          "White DJ",
+          "Congedo M",
+          "Ciorciari J"
+     ],
+     "AD": "Centre for Human Psychopharmacology, School of Health Sciences, Swinburne University of Technology Hawthorn, VIC, Australia. Grenoble Images Parole Signal Automatique (Gipsa-lab), CNRS and Grenoble University Grenoble, France. Brain and Psychological Sciences Research Centre, School of Health Sciences, Swinburne University of Technology Hawthorn, VIC, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20141022",
+     "PL": "Switzerland",
+     "TA": "Front Behav Neurosci",
+     "JT": "Frontiers in behavioral neuroscience",
+     "JID": "101477952",
+     "PMC": "PMC4205806",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "BSS",
+          "EEG",
+          "blind source separation",
+          "neurofeedback",
+          "theta"
+     ],
+     "EDAT": "2014/11/07 06:00",
+     "MHDA": "2014/11/07 06:01",
+     "CRDT": [
+          "2014/11/07 06:00"
+     ],
+     "PHST": [
+          "2014/04/17 00:00 [received]",
+          "2014/10/09 00:00 [accepted]",
+          "2014/11/07 06:00 [entrez]",
+          "2014/11/07 06:00 [pubmed]",
+          "2014/11/07 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnbeh.2014.00373 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Behav Neurosci. 2014 Oct 22;8:373. doi: 10.3389/fnbeh.2014.00373. eCollection 2014.",
+     "term": "spatial navigation"
+}

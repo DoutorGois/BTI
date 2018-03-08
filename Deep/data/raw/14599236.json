@@ -1,0 +1,70 @@
+{
+     "PMID": "14599236",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20031209",
+     "LR": "20071114",
+     "IS": "0033-295X (Print) 0033-295X (Linking)",
+     "VI": "110",
+     "IP": "4",
+     "DP": "2003 Oct",
+     "TI": "Modeling hippocampal and neocortical contributions to recognition memory: a complementary-learning-systems approach.",
+     "PG": "611-46",
+     "AB": "The authors present a computational neural-network model of how the hippocampus and medial temporal lobe cortex (MTLC) contribute to recognition memory. The hippocampal component contributes by recalling studied details. The MTLC component cannot support recall, but one can extract a scalar familiarity signal from MTLC that tracks how well a test item matches studied items. The authors present simulations that establish key differences in the operating characteristics of the hippocampal-recall and MTLC-familiarity signals and identify several manipulations (e.g., target-lure similarity, interference) that differentially affect the 2 signals. They also use the model to address the stochastic relationship between recall and familiarity and the effects of partial versus complete hippocampal lesions on recognition.",
+     "CI": [
+          "((c) 2003 APA, all rights reserved)"
+     ],
+     "FAU": [
+          "Norman, Kenneth A",
+          "O'Reilly, Randall C"
+     ],
+     "AU": [
+          "Norman KA",
+          "O'Reilly RC"
+     ],
+     "AD": "University of Colorado at Boulder, Department of Psychology, Boulder, CO, USA. knorman@princeton.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH12582/MH/NIMH NIH HHS/United States",
+          "MH47566/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Psychol Rev",
+     "JT": "Psychological review",
+     "JID": "0376476",
+     "SB": "IM",
+     "MH": [
+          "Cerebral Cortex/*physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Learning/*physiology",
+          "Memory/*physiology",
+          "Recognition (Psychology)/*physiology"
+     ],
+     "EDAT": "2003/11/06 05:00",
+     "MHDA": "2003/12/10 05:00",
+     "CRDT": [
+          "2003/11/06 05:00"
+     ],
+     "PHST": [
+          "2003/11/06 05:00 [pubmed]",
+          "2003/12/10 05:00 [medline]",
+          "2003/11/06 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1037/0033-295X.110.4.611 [doi]",
+          "2003-08987-001 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Psychol Rev. 2003 Oct;110(4):611-46. doi: 10.1037/0033-295X.110.4.611.",
+     "term": "hippocampus"
+}

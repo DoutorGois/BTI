@@ -1,0 +1,76 @@
+{
+     "PMID": "28628647",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170818",
+     "LR": "20170818",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "13",
+     "IP": "6",
+     "DP": "2017 Jun",
+     "TI": "An efficient coding theory for a dynamic trajectory predicts non-uniform allocation of entorhinal grid cells to modules.",
+     "PG": "e1005597",
+     "LID": "10.1371/journal.pcbi.1005597 [doi]",
+     "AB": "Grid cells in the entorhinal cortex encode the position of an animal in its environment with spatially periodic tuning curves with different periodicities. Recent experiments established that these cells are functionally organized in discrete modules with uniform grid spacing. Here we develop a theory for efficient coding of position, which takes into account the temporal statistics of the animal's motion. The theory predicts a sharp decrease of module population sizes with grid spacing, in agreement with the trend seen in the experimental data. We identify a simple scheme for readout of the grid cell code by neural circuitry, that can match in accuracy the optimal Bayesian decoder. This readout scheme requires persistence over different timescales, depending on the grid cell module. Thus, we propose that the brain may employ an efficient representation of position which takes advantage of the spatiotemporal statistics of the encoded variable, in similarity to the principles that govern early sensory processing.",
+     "FAU": [
+          "Mosheiff, Noga",
+          "Agmon, Haggai",
+          "Moriel, Avraham",
+          "Burak, Yoram"
+     ],
+     "AU": [
+          "Mosheiff N",
+          "Agmon H",
+          "Moriel A",
+          "Burak Y"
+     ],
+     "AD": "Racah Institute of Physics, Hebrew University of Jerusalem, Jerusalem, Israel. Edmond and Lily Safra Center for Brain Sciences, Hebrew University of Jerusalem, Jerusalem, Israel. Racah Institute of Physics, Hebrew University of Jerusalem, Jerusalem, Israel. Racah Institute of Physics, Hebrew University of Jerusalem, Jerusalem, Israel. Edmond and Lily Safra Center for Brain Sciences, Hebrew University of Jerusalem, Jerusalem, Israel.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0003-1198-8782"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170619",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Entorhinal Cortex/*physiology",
+          "Grid Cells/*physiology",
+          "*Models, Neurological",
+          "Orientation/*physiology",
+          "Rats",
+          "Space Perception/*physiology",
+          "Spatial Navigation/*physiology",
+          "Spatio-Temporal Analysis"
+     ],
+     "PMC": "PMC5495497",
+     "EDAT": "2017/06/20 06:00",
+     "MHDA": "2017/08/19 06:00",
+     "CRDT": [
+          "2017/06/20 06:00"
+     ],
+     "PHST": [
+          "2017/03/20 00:00 [received]",
+          "2017/05/25 00:00 [accepted]",
+          "2017/07/03 00:00 [revised]",
+          "2017/06/20 06:00 [pubmed]",
+          "2017/08/19 06:00 [medline]",
+          "2017/06/20 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1005597 [doi]",
+          "PCOMPBIOL-D-17-00452 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2017 Jun 19;13(6):e1005597. doi: 10.1371/journal.pcbi.1005597. eCollection 2017 Jun.",
+     "term": "grid cells"
+}

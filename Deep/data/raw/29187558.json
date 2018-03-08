@@ -1,0 +1,65 @@
+{
+     "PMID": "29187558",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20180131",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "DP": "2017 Nov 29",
+     "TI": "Modeling spatial navigation in the presence of dynamic obstacles: a differential games approach.",
+     "PG": "jn008572016",
+     "LID": "10.1152/jn.00857.2016 [doi]",
+     "AB": "Obstacle circumvention strategies can be shaped by the dynamic interaction of an individual (evader) and an obstacle (pursuer). We have developed a mathematical model with predictive and emergent components, using experimental data from seven healthy young adults walking towards a target while avoiding collision with a stationary or moving obstacle (approaching head-on, or diagonally 30 degrees left or right) in a virtual environment. Two linear properties from the predictive component enable the evader to predict the minimum distance between itself and the obstacle at all times, including the future intersection of trajectories. The emergent component uses the classical differential games model to solve for an optimal circumvention while reaching the target, wherein the locomotor strategy is influenced by the obstacle, target, and the evader velocity. Both model components were fitted to a different set of experimental data obtained from five post-stroke and healthy participants to derive the minimum predicted distance (predictive component) and obstacle influence dimensions (emergent component) during circumvention. Minimum predicted distance between evader and pursuer was kept constant when the evader was closest to the obstacle in all participants. Obstacle influence dimensions varied depending on obstacle approach condition and preferred side of circumvention, reflecting differences in locomotor strategies between post-stroke and healthy individuals. Additionally, important associations between model outputs and observed experimental outcomes were found. The model, supported by experimental data, suggests that both predictive and emergent processes can shape obstacle circumvention strategies in healthy and post-stroke individuals.",
+     "FAU": [
+          "Darekar, Anuja",
+          "Goussev, Valery",
+          "McFadyen, Brad J",
+          "Lamontagne, Anouk",
+          "Fung, Joyce"
+     ],
+     "AU": [
+          "Darekar A",
+          "Goussev V",
+          "McFadyen BJ",
+          "Lamontagne A",
+          "Fung J"
+     ],
+     "AD": "1 McGill University. 2 Feil and Oberfeld Research Center, Jewish Rehabilitation Hospital (CISSS-Laval). 3 Laval University. 4 Jewish Rehabilitation Hospital. 1 McGill University.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171129",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "collision avoidance",
+          "locomotion",
+          "modeling",
+          "obstacle circumvention",
+          "stroke"
+     ],
+     "EDAT": "2017/12/01 06:00",
+     "MHDA": "2017/12/01 06:00",
+     "CRDT": [
+          "2017/12/01 06:00"
+     ],
+     "PHST": [
+          "2017/12/01 06:00 [pubmed]",
+          "2017/12/01 06:00 [medline]",
+          "2017/12/01 06:00 [entrez]"
+     ],
+     "AID": [
+          "jn.00857.2016 [pii]",
+          "10.1152/jn.00857.2016 [doi]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "J Neurophysiol. 2017 Nov 29:jn008572016. doi: 10.1152/jn.00857.2016.",
+     "term": "spatial navigation"
+}

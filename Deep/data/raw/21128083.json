@@ -1,0 +1,85 @@
+{
+     "PMID": "21128083",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110609",
+     "LR": "20161019",
+     "IS": "1863-2661 (Electronic) 1863-2653 (Linking)",
+     "VI": "216",
+     "IP": "1",
+     "DP": "2011 Mar",
+     "TI": "Axonal morphometry of hippocampal pyramidal neurons semi-automatically reconstructed after in vivo labeling in different CA3 locations.",
+     "PG": "1-15",
+     "LID": "10.1007/s00429-010-0291-8 [doi]",
+     "AB": "Axonal arbors of principal neurons form the backbone of neuronal networks in the mammalian cortex. Three-dimensional reconstructions of complete axonal trees are invaluable for quantitative analysis and modeling. However, digital data are still sparse due to labor intensity of reconstructing these complex structures. We augmented conventional tracing techniques with computational approaches to reconstruct fully labeled axonal morphologies. We digitized the axons of three rat hippocampal pyramidal cells intracellularly filled in vivo from different CA3 sub-regions: two from areas CA3b and CA3c, respectively, toward the septal pole, and one from the posterior/ventral area (CA3pv) near the temporal pole. The reconstruction system was validated by comparing the morphology of the CA3c neuron with that traced from the same cell by a different operator on a standard commercial setup. Morphometric analysis revealed substantial differences among neurons. Total length ranged from 200 (CA3b) to 500 mm (CA3c), and axonal branching complexity peaked between 1 (CA3b and CA3pv) and 2 mm (CA3c) of Euclidean distance from the soma. Length distribution was analyzed among sub-regions (CA3a,b,c and CA1a,b,c), cytoarchitectonic layers, and longitudinal extent within a three-dimensional template of the rat hippocampus. The CA3b axon extended thrice more collaterals within CA3 than into CA1. On the contrary, the CA3c projection was double into CA1 than within CA3. Moreover, the CA3b axon extension was equal between strata oriens and radiatum, while the CA3c axon displayed an oriens/radiatum ratio of 1:6. The axonal distribution of the CA3pv neuron was intermediate between those of the CA3b and CA3c neurons both relative to sub-regions and layers, with uniform collateral presence across CA3/CA1 and moderate preponderance of radiatum over oriens. In contrast with the dramatic sub-region and layer differences, the axon longitudinal spread around the soma was similar for the three neurons. To fully characterize the axonal diversity of CA3 principal neurons will require higher-throughput reconstruction systems beyond the threefold speed-up of the method adopted here.",
+     "FAU": [
+          "Ropireddy, Deepak",
+          "Scorcioni, Ruggero",
+          "Lasher, Bonnie",
+          "Buzsaki, Gyorgy",
+          "Ascoli, Giorgio A"
+     ],
+     "AU": [
+          "Ropireddy D",
+          "Scorcioni R",
+          "Lasher B",
+          "Buzsaki G",
+          "Ascoli GA"
+     ],
+     "AD": "Center for Neural Informatics, Structures, and Plasticity, Molecular Neuroscience Department, Krasnow Institute for Advanced Study, George Mason University, MS#2A1, 4400 University Drive, Fairfax, VA 22030, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R21 NS058816/NS/NINDS NIH HHS/United States",
+          "MH54671/MH/NIMH NIH HHS/United States",
+          "NS39600/NS/NINDS NIH HHS/United States",
+          "NS058816/NS/NINDS NIH HHS/United States",
+          "R01 MH054671/MH/NIMH NIH HHS/United States",
+          "R01 NS034994/NS/NINDS NIH HHS/United States",
+          "NS34994/NS/NINDS NIH HHS/United States",
+          "R01 NS039600/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20101203",
+     "PL": "Germany",
+     "TA": "Brain Struct Funct",
+     "JT": "Brain structure & function",
+     "JID": "101282001",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Axons/*ultrastructure",
+          "Brain Mapping",
+          "Image Processing, Computer-Assisted",
+          "Pyramidal Cells/physiology/*ultrastructure",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Reproducibility of Results"
+     ],
+     "PMC": "PMC3577356",
+     "MID": [
+          "NIHMS440764"
+     ],
+     "EDAT": "2010/12/04 06:00",
+     "MHDA": "2011/06/10 06:00",
+     "CRDT": [
+          "2010/12/04 06:00"
+     ],
+     "PHST": [
+          "2010/08/14 00:00 [received]",
+          "2010/11/10 00:00 [accepted]",
+          "2010/12/04 06:00 [entrez]",
+          "2010/12/04 06:00 [pubmed]",
+          "2011/06/10 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s00429-010-0291-8 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Struct Funct. 2011 Mar;216(1):1-15. doi: 10.1007/s00429-010-0291-8. Epub 2010 Dec 3.",
+     "term": "hippocampus"
+}

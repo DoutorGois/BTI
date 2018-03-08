@@ -1,0 +1,74 @@
+{
+     "PMID": "20920485",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111107",
+     "LR": "20101129",
+     "IS": "1872-6240 (Electronic) 0006-8993 (Linking)",
+     "VI": "1365",
+     "DP": "2010 Dec 13",
+     "TI": "A reinforcement learning approach to model interactions between landmarks and geometric cues during spatial learning.",
+     "PG": "35-47",
+     "LID": "10.1016/j.brainres.2010.09.091 [doi]",
+     "AB": "In contrast to predictions derived from the associative learning theory, a number of behavioral studies suggested the absence of competition between geometric cues and landmarks in some experimental paradigms. In parallel to these studies, neurobiological experiments suggested the existence of separate independent memory systems which may not always interact according to classic associative principles. In this paper we attempt to combine these two lines of research by proposing a model of spatial learning that is based on the theory of multiple memory systems. In our model, a place-based locale strategy uses activities of modeled hippocampal place cells to drive navigation to a hidden goal, while a stimulus-response taxon strategy, presumably mediated by the dorso-lateral striatum, learns landmark-approaching behavior. A strategy selection network, proposed to reside in the prefrontal cortex, implements a simple reinforcement learning rule to switch behavioral strategies. The model is used to reproduce the results of a behavioral experiment in which an interaction between a landmark and geometric cues was studied. We show that this model, built on the basis of neurobiological data, can explain the lack of competition between the landmark and geometry, potentiation of geometry learning by the landmark, and blocking. Namely, we propose that the geometry potentiation is a consequence of cooperation between memory systems during learning, while blocking is due to competition between the memory systems during action selection.",
+     "CI": [
+          "Copyright (c) 2010 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Sheynikhovich, Denis",
+          "Arleo, Angelo"
+     ],
+     "AU": [
+          "Sheynikhovich D",
+          "Arleo A"
+     ],
+     "AD": "UPMC-Paris 6, CNRS-UMR7102, 9 quai St. Bernard, F-75005 Paris, France. denis.sheynikhovich@upmc.fr",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20101001",
+     "PL": "Netherlands",
+     "TA": "Brain Res",
+     "JT": "Brain research",
+     "JID": "0045503",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/*anatomy & histology/*physiology",
+          "Corpus Striatum/physiology",
+          "Hippocampus/physiology",
+          "Humans",
+          "Learning/*physiology",
+          "*Models, Neurological",
+          "*Models, Psychological",
+          "Nerve Net/physiology",
+          "Neural Pathways/physiology",
+          "Prefrontal Cortex/physiology",
+          "*Reinforcement (Psychology)",
+          "Space Perception/*physiology"
+     ],
+     "EDAT": "2010/10/06 06:00",
+     "MHDA": "2011/11/08 06:00",
+     "CRDT": [
+          "2010/10/06 06:00"
+     ],
+     "PHST": [
+          "2010/04/16 00:00 [received]",
+          "2010/09/20 00:00 [revised]",
+          "2010/09/26 00:00 [accepted]",
+          "2010/10/06 06:00 [entrez]",
+          "2010/10/06 06:00 [pubmed]",
+          "2011/11/08 06:00 [medline]"
+     ],
+     "AID": [
+          "S0006-8993(10)02157-8 [pii]",
+          "10.1016/j.brainres.2010.09.091 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Res. 2010 Dec 13;1365:35-47. doi: 10.1016/j.brainres.2010.09.091. Epub 2010 Oct 1.",
+     "term": "place cells"
+}

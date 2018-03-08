@@ -1,0 +1,80 @@
+{
+     "PMID": "19489002",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100614",
+     "LR": "20100302",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "20",
+     "IP": "3",
+     "DP": "2010 Mar",
+     "TI": "Encoding and retrieval in a model of the hippocampal CA1 microcircuit.",
+     "PG": "423-46",
+     "LID": "10.1002/hipo.20661 [doi]",
+     "AB": "It has been proposed that the hippocampal theta rhythm (4-7 Hz) can contribute to memory formation by separating encoding (storage) and retrieval of memories into different functional half-cycles (Hasselmo et al. (2002) Neural Comput 14:793-817). We investigate, via computer simulations, the biophysical mechanisms by which storage and recall of spatio-temporal input patterns are achieved by the CA1 microcircuitry. A model of the CA1 microcircuit is presented that uses biophysical representations of the major cell types, including pyramidal (P) cells and four types of inhibitory interneurons: basket (B) cells, axo-axonic (AA) cells, bistratified (BS) cells and oriens lacunosum-moleculare (OLM) cells. Inputs to the network come from the entorhinal cortex (EC), the CA3 Schaffer collaterals and medial septum. The EC input provides the sensory information, whereas all other inputs provide context and timing information. Septal input provides timing information for phasing storage and recall. Storage is accomplished via a local STDP mediated hetero-association of the EC input pattern and the incoming CA3 input pattern on the CA1 pyramidal cell target synapses. The model simulates the timing of firing of different hippocampal cell types relative to the theta rhythm in anesthetized animals and proposes experimentally confirmed functional roles for the different classes of inhibitory interneurons in the storage and recall cycles (Klausberger et al., (2003, 2004) Nature 421:844-848, Nat Neurosci 7:41-47). Measures of recall performance of new and previously stored input patterns in the presence or absence of various inhibitory interneurons are employed to quantitatively test the performance of our model. Finally, the mean recall quality of the CA1 microcircuit is tested as the number of stored patterns is increased.",
+     "FAU": [
+          "Cutsuridis, Vassilis",
+          "Cobb, Stuart",
+          "Graham, Bruce P"
+     ],
+     "AU": [
+          "Cutsuridis V",
+          "Cobb S",
+          "Graham BP"
+     ],
+     "AD": "Department of Computing Science and Mathematics, University of Stirling, Stirling, FK9 4LA, United Kingdom. vcu@cs.stir.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "RN": [
+          "56-12-2 (gamma-Aminobutyric Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Afferent Pathways/cytology/physiology",
+          "Animals",
+          "Axons/physiology/ultrastructure",
+          "Biological Clocks/physiology",
+          "CA1 Region, Hippocampal/cytology/*physiology",
+          "*Computer Simulation",
+          "Dendrites/physiology/ultrastructure",
+          "Excitatory Postsynaptic Potentials/physiology",
+          "Humans",
+          "Inhibitory Postsynaptic Potentials/physiology",
+          "Interneurons/cytology/physiology",
+          "Learning/*physiology",
+          "Memory/*physiology",
+          "Neural Inhibition/physiology",
+          "Neural Pathways/cytology/*physiology",
+          "Neurons/cytology/*physiology",
+          "Pyramidal Cells/cytology/physiology",
+          "Synaptic Transmission/physiology",
+          "Theta Rhythm",
+          "gamma-Aminobutyric Acid/physiology"
+     ],
+     "EDAT": "2009/06/03 09:00",
+     "MHDA": "2010/06/15 06:00",
+     "CRDT": [
+          "2009/06/03 09:00"
+     ],
+     "PHST": [
+          "2009/06/03 09:00 [entrez]",
+          "2009/06/03 09:00 [pubmed]",
+          "2010/06/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.20661 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2010 Mar;20(3):423-46. doi: 10.1002/hipo.20661.",
+     "term": "hippocampus"
+}

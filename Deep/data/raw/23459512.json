@@ -1,0 +1,67 @@
+{
+     "PMID": "23459512",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130306",
+     "LR": "20170220",
+     "IS": "1664-1078 (Print) 1664-1078 (Linking)",
+     "VI": "4",
+     "DP": "2013",
+     "TI": "The mixed instrumental controller: using value of information to combine habitual choice and mental simulation.",
+     "PG": "92",
+     "LID": "10.3389/fpsyg.2013.00092 [doi]",
+     "AB": "Instrumental behavior depends on both goal-directed and habitual mechanisms of choice. Normative views cast these mechanisms in terms of model-free and model-based methods of reinforcement learning, respectively. An influential proposal hypothesizes that model-free and model-based mechanisms coexist and compete in the brain according to their relative uncertainty. In this paper we propose a novel view in which a single Mixed Instrumental Controller produces both goal-directed and habitual behavior by flexibly balancing and combining model-based and model-free computations. The Mixed Instrumental Controller performs a cost-benefits analysis to decide whether to chose an action immediately based on the available \"cached\" value of actions (linked to model-free mechanisms) or to improve value estimation by mentally simulating the expected outcome values (linked to model-based mechanisms). Since mental simulation entails cognitive effort and increases the reward delay, it is activated only when the associated \"Value of Information\" exceeds its costs. The model proposes a method to compute the Value of Information, based on the uncertainty of action values and on the distance of alternative cached action values. Overall, the model by default chooses on the basis of lighter model-free estimates, and integrates them with costly model-based predictions only when useful. Mental simulation uses a sampling method to produce reward expectancies, which are used to update the cached value of one or more actions; in turn, this updated value is used for the choice. The key predictions of the model are tested in different settings of a double T-maze scenario. Results are discussed in relation with neurobiological evidence on the hippocampus - ventral striatum circuit in rodents, which has been linked to goal-directed spatial navigation.",
+     "FAU": [
+          "Pezzulo, Giovanni",
+          "Rigoli, Francesco",
+          "Chersi, Fabian"
+     ],
+     "AU": [
+          "Pezzulo G",
+          "Rigoli F",
+          "Chersi F"
+     ],
+     "AD": "Istituto di Linguistica Computazionale, \"Antonio Zampolli,\" Consiglio Nazionale delle Ricerche Pisa, Italy ; Istituto di Scienze e Tecnologie della Cognizione, Consiglio Nazionale delle Ricerche Roma, Italy.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130304",
+     "PL": "Switzerland",
+     "TA": "Front Psychol",
+     "JT": "Frontiers in psychology",
+     "JID": "101550902",
+     "PMC": "PMC3586710",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "exploration-exploitation",
+          "forward sweeps",
+          "goal-directed decision-making",
+          "hippocampus",
+          "model-based reinforcement learning",
+          "value of information",
+          "ventral striatum"
+     ],
+     "EDAT": "2013/03/06 06:00",
+     "MHDA": "2013/03/06 06:01",
+     "CRDT": [
+          "2013/03/06 06:00"
+     ],
+     "PHST": [
+          "2012/07/10 00:00 [received]",
+          "2013/02/08 00:00 [accepted]",
+          "2013/03/06 06:00 [entrez]",
+          "2013/03/06 06:00 [pubmed]",
+          "2013/03/06 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fpsyg.2013.00092 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Psychol. 2013 Mar 4;4:92. doi: 10.3389/fpsyg.2013.00092. eCollection 2013.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,68 @@
+{
+     "PMID": "22274903",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120716",
+     "LR": "20161124",
+     "IS": "1941-1189 (Electronic) 1937-3333 (Linking)",
+     "VI": "1",
+     "DP": "2008",
+     "TI": "The impact of neurotechnology on rehabilitation.",
+     "PG": "157-97",
+     "LID": "10.1109/RBME.2008.2008687 [doi]",
+     "AB": "This paper present results of a multi-disciplinary project that is developing a microchip-based neural prosthesis for the hippocampus, a region of the brain responsible for the formation of long-term memories. Damage to the hippocampus is frequently associated with epilepsy, stroke, and dementia (Alzheimer's disease) and is considered to underlie the memory deficits related to these neurological conditions. The essential goals of the multi-laboratory effort include: (1) experimental study of neuron and neural network function--how does the hippocampus encode information? (2) formulation of biologically realistic models of neural system dynamics--can that encoding process be described mathematically to realize a predictive model of how the hippocampus responds to any event? (3) microchip implementation of neural system models--can the mathematical model be realized as a set of electronic circuits to achieve parallel processing, rapid computational speed, and miniaturization? and (4) creation of hybrid neuron-silicon interfaces-can structural and functional connections between electronic devices and neural tissue be achieved for long-term, bi-directional communication with the brain? By integrating solutions to these component problems, we are realizing a microchip-based model of hippocampal nonlinear dynamics that can perform the same function as part of the hippocampus. Through bi-directional communication with other neural tissue that normally provides the inputs and outputs to/from a damaged hippocampal area, the biomimetic model could serve as a neural prosthesis. A proof-of-concept will be presented in which the CA3 region of the hippocampal slice is surgically removed and is replaced by a microchip model of CA3 nonlinear dynamics--the \"hybrid\" hippocampal circuit displays normal physiological properties. How the work in brain slices is being extended to behaving animals also will be described.",
+     "FAU": [
+          "Berger, Theodore W",
+          "Gerhardt, Greg",
+          "Liker, Mark A",
+          "Soussou, Walid"
+     ],
+     "AU": [
+          "Berger TW",
+          "Gerhardt G",
+          "Liker MA",
+          "Soussou W"
+     ],
+     "AD": "Department of Biomedical Engineering, Center for Neural Engineering, Viterbi School of Engineering, University of Southern California, Los Angeles, CA 90089, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Review"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Rev Biomed Eng",
+     "JT": "IEEE reviews in biomedical engineering",
+     "JID": "101493803",
+     "SB": "IM",
+     "MH": [
+          "*Alzheimer Disease/physiopathology/rehabilitation",
+          "Animals",
+          "*Epilepsy/physiopathology/rehabilitation",
+          "Hippocampus/*physiopathology",
+          "Humans",
+          "*Memory, Long-Term",
+          "Miniaturization/methods",
+          "*Models, Neurological",
+          "*Neural Prostheses",
+          "*Stroke/physiopathology",
+          "Stroke Rehabilitation"
+     ],
+     "EDAT": "2008/01/01 00:00",
+     "MHDA": "2012/07/17 06:00",
+     "CRDT": [
+          "2012/01/26 06:00"
+     ],
+     "PHST": [
+          "2012/01/26 06:00 [entrez]",
+          "2008/01/01 00:00 [pubmed]",
+          "2012/07/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/RBME.2008.2008687 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Rev Biomed Eng. 2008;1:157-97. doi: 10.1109/RBME.2008.2008687.",
+     "term": "hippocampus"
+}

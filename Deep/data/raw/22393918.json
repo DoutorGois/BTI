@@ -1,0 +1,82 @@
+{
+     "PMID": "22393918",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120718",
+     "LR": "20161019",
+     "IS": "1460-9568 (Electronic) 0953-816X (Linking)",
+     "VI": "35",
+     "IP": "6",
+     "DP": "2012 Mar",
+     "TI": "A goal-directed spatial navigation model using forward trajectory planning based on grid cells.",
+     "PG": "916-31",
+     "LID": "10.1111/j.1460-9568.2012.08015.x [doi]",
+     "AB": "A goal-directed navigation model is proposed based on forward linear look-ahead probe of trajectories in a network of head direction cells, grid cells, place cells and prefrontal cortex (PFC) cells. The model allows selection of new goal-directed trajectories. In a novel environment, the virtual rat incrementally creates a map composed of place cells and PFC cells by random exploration. After exploration, the rat retrieves memory of the goal location, picks its next movement direction by forward linear look-ahead probe of trajectories in several candidate directions while stationary in one location, and finds the one activating PFC cells with the highest reward signal. Each probe direction involves activation of a static pattern of head direction cells to drive an interference model of grid cells to update their phases in a specific direction. The updating of grid cell spiking drives place cells along the probed look-ahead trajectory similar to the forward replay during waking seen in place cell recordings. Directions are probed until the look-ahead trajectory activates the reward signal and the corresponding direction is used to guide goal-finding behavior. We report simulation results in several mazes with and without barriers. Navigation with barriers requires a PFC map topology based on the temporal vicinity of visited place cells and a reward signal diffusion process. The interaction of the forward linear look-ahead trajectory probes with the reward diffusion allows discovery of never-before experienced shortcuts towards a goal location.",
+     "CI": [
+          "Published 2012. This article is a U.S. Government work and is in the public",
+          "domain in the USA."
+     ],
+     "FAU": [
+          "Erdem, Ugur M",
+          "Hasselmo, Michael"
+     ],
+     "AU": [
+          "Erdem UM",
+          "Hasselmo M"
+     ],
+     "AD": "Center for Memory and Brain and Program in Neuroscience, Boston University, 2 Cummington Street, Boston, MA 02215, USA. merdem@bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH060013-11A1/MH/NIMH NIH HHS/United States",
+          "P50 MH071702-04/MH/NIMH NIH HHS/United States",
+          "P50 MH094263-01/MH/NIMH NIH HHS/United States",
+          "R01 MH60013/MH/NIMH NIH HHS/United States",
+          "R01 MH060013/MH/NIMH NIH HHS/United States",
+          "P50 MH071702/MH/NIMH NIH HHS/United States",
+          "P50 MH094263/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120307",
+     "PL": "France",
+     "TA": "Eur J Neurosci",
+     "JT": "The European journal of neuroscience",
+     "JID": "8918110",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Goals",
+          "Maze Learning/*physiology",
+          "*Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Neurons/physiology",
+          "Rats",
+          "Spatial Behavior/*physiology",
+          "*User-Computer Interface"
+     ],
+     "PMC": "PMC3564559",
+     "MID": [
+          "NIHMS346909"
+     ],
+     "EDAT": "2012/03/08 06:00",
+     "MHDA": "2012/07/19 06:00",
+     "CRDT": [
+          "2012/03/08 06:00"
+     ],
+     "PHST": [
+          "2012/03/08 06:00 [entrez]",
+          "2012/03/08 06:00 [pubmed]",
+          "2012/07/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/j.1460-9568.2012.08015.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Eur J Neurosci. 2012 Mar;35(6):916-31. doi: 10.1111/j.1460-9568.2012.08015.x. Epub 2012 Mar 7.",
+     "term": "place cells"
+}

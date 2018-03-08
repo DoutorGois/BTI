@@ -1,0 +1,79 @@
+{
+     "PMID": "21767174",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111207",
+     "LR": "20151119",
+     "IS": "1651-226X (Electronic) 0284-186X (Linking)",
+     "VI": "50",
+     "IP": "6",
+     "DP": "2011 Aug",
+     "TI": "Photon and proton therapy planning comparison for malignant glioma based on CT, FDG-PET, DTI-MRI and fiber tracking.",
+     "PG": "777-83",
+     "LID": "10.3109/0284186X.2011.584555 [doi]",
+     "AB": "PURPOSE: The purpose of this study was to compare treatment plans generated using fixed beam Intensity Modulated photon Radiation Therapy (IMRT), inversely optimized arc therapy (RapidArc(R), RA) with spot-scanned Intensity Modulated Proton Therapy (IMPT) for high-grade glioma patients. Plans were compared with respect to target coverage and sparing of organs at risk (OARs), with special attention to the possibility of hippocampus sparing. METHOD: Fifteen consecutive patients diagnosed with grade III and IV glioma were selected for this study. The target and OARs were delineated based on computed tomography (CT), FDG-positron emission tomography (PET) and T1-, T2-weigted, and Diffusion Tensor Imaging (DTI) magnetic resonance imaging (MRI) and fiber-tracking. In this study, a 6 MV photon beam on a linear accelerator with a multileaf collimator (MLC) with 2.5 mm leaves and a spot-scanning proton therapy machine were used. Two RA fields, using both a coplanar (clinical standard) and a non-coplanar, setup was compared to the IMRT and IMPT techniques. Three and three to four non-coplanar fields where used in the spot-scanned IMPT and IMRT plans, respectively. The same set of planning dose-volume optimizer objective values were used for the four techniques. The highest planning priority was given to the brainstem (maximum 54 Gy) followed by the PTV (prescription 60 Gy); the hippocampi, eyes, inner ears, brain and chiasm were given lower priority. Doses were recorded for the plans to targets and OARs and compared to our clinical standard technique using the Wilcoxon signed rank test. RESULT: The PTV coverage was significantly more conform for IMPT than the coplanar RA technique, while RA plans tended to be more conform than the IMRT plans, as measured by the standard deviation of the PTV dose. In the cases where the tumor was confined in one cerebral hemisphere (eight patients), the non-coplanar RA and IMPT techniques yielded borderline significantly lower doses to the contralateral hippocampus compared to the standard (22% and 97% average reduction for non-coplanar RA and IMPT, respectively). The IMPT technique allowed for the largest healthy tissue sparing of the techniques in terms of whole brain doses and to the fiber tracts. The maximum doses to the chiasm and brainstem were comparable for all techniques. CONCLUSION: The IMPT technique produced the most conform plans. For tumors located in the one of the cerebral hemispheres, the non-coplanar RA and the IMPT techniques were able to reduce doses to the contralateral hippocampus. The IMPT technique offered the largest sparing of the brain and fiber tracts. RA techniques tended to produce more conform target doses than IMRT.",
+     "FAU": [
+          "Munck Af Rosenschold, Per",
+          "Engelholm, Silke",
+          "Ohlhues, Lars",
+          "Law, Ian",
+          "Vogelius, Ivan",
+          "Engelholm, Svend Aage"
+     ],
+     "AU": [
+          "Munck Af Rosenschold P",
+          "Engelholm S",
+          "Ohlhues L",
+          "Law I",
+          "Vogelius I",
+          "Engelholm SA"
+     ],
+     "AD": "Radiation Medicine Research Center, Department of Radiation Oncology, Rigshospitalet, Copenhagen, Denmark. per.munck@rh.regionh.dk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "PL": "England",
+     "TA": "Acta Oncol",
+     "JT": "Acta oncologica (Stockholm, Sweden)",
+     "JID": "8709065",
+     "RN": [
+          "0 (Protons)",
+          "0 (Radiopharmaceuticals)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Brain Neoplasms/*diagnosis/*radiotherapy",
+          "Diffusion Tensor Imaging",
+          "Glioma/*diagnosis/*radiotherapy",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Organs at Risk",
+          "Photons/*therapeutic use",
+          "Positron-Emission Tomography",
+          "Protons/*therapeutic use",
+          "Radiopharmaceuticals",
+          "*Radiotherapy Planning, Computer-Assisted",
+          "Radiotherapy, Intensity-Modulated",
+          "Tomography, X-Ray Computed"
+     ],
+     "EDAT": "2011/07/20 06:00",
+     "MHDA": "2011/12/13 00:00",
+     "CRDT": [
+          "2011/07/20 06:00"
+     ],
+     "PHST": [
+          "2011/07/20 06:00 [entrez]",
+          "2011/07/20 06:00 [pubmed]",
+          "2011/12/13 00:00 [medline]"
+     ],
+     "AID": [
+          "10.3109/0284186X.2011.584555 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Acta Oncol. 2011 Aug;50(6):777-83. doi: 10.3109/0284186X.2011.584555.",
+     "term": "hippocampus"
+}

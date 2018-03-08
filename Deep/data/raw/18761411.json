@@ -1,0 +1,80 @@
+{
+     "PMID": "18761411",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090210",
+     "LR": "20081105",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "43",
+     "IP": "4",
+     "DP": "2008 Dec",
+     "TI": "Hippocampus segmentation in MR images using atlas registration, voxel classification, and graph cuts.",
+     "PG": "708-20",
+     "LID": "10.1016/j.neuroimage.2008.07.058 [doi]",
+     "AB": "Since hippocampal volume has been found to be an early biomarker for Alzheimer's disease, there is large interest in automated methods to accurately, robustly, and reproducibly extract the hippocampus from MRI data. In this work we present a segmentation method based on the minimization of an energy functional with intensity and prior terms, which are derived from manually labelled training images. The intensity energy is based on a statistical intensity model that is learned from the training images. The prior energy consists of a spatial and regularity term. The spatial prior is obtained from a probabilistic atlas created by registering the training images to the unlabelled target image, and deforming and averaging the training labels. The regularity prior energy encourages smooth segmentations. The resulting energy functional is globally minimized using graph cuts. The method was evaluated using image data from a population-based study on diseases among the elderly. Two set of images were used: a small set of 20 manually labelled MR images and a larger set of 498 images, for which manual volume measurements were available, but no segmentations. This data was previously used in a volumetry study that found significant associations between hippocampal volume and cognitive decline and incidence of dementia. Cross-validation experiments with the labelled set showed similarity indices of 0.852 and 0.864 and mean surface distances of 0.40 and 0.36 mm for the left and right hippocampus. 83% of the automated segmentations of the large set were rated as 'good' by a trained observer. Also, the proposed method was used to repeat the manual hippocampal volumetry study. The automatically obtained hippocampal volumes showed significant associations with cognitive decline and dementia, similar to the manually measured volumes. Finally, direct quantitative and qualitative comparisons showed that the proposed method outperforms a multi-atlas based segmentation method.",
+     "FAU": [
+          "van der Lijn, Fedde",
+          "den Heijer, Tom",
+          "Breteler, Monique M B",
+          "Niessen, Wiro J"
+     ],
+     "AU": [
+          "van der Lijn F",
+          "den Heijer T",
+          "Breteler MM",
+          "Niessen WJ"
+     ],
+     "AD": "Department of Radiology, Erasmus MC, P.O Box 2040, 3000 CA, Rotterdam, The Netherlands. f.vanderlijn@erasmusmc.nl",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20080812",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Algorithms",
+          "*Artificial Intelligence",
+          "Female",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "EDAT": "2008/09/02 09:00",
+     "MHDA": "2009/02/12 09:00",
+     "CRDT": [
+          "2008/09/02 09:00"
+     ],
+     "PHST": [
+          "2008/02/22 00:00 [received]",
+          "2008/07/11 00:00 [revised]",
+          "2008/07/23 00:00 [accepted]",
+          "2008/09/02 09:00 [pubmed]",
+          "2009/02/12 09:00 [medline]",
+          "2008/09/02 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(08)00886-0 [pii]",
+          "10.1016/j.neuroimage.2008.07.058 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2008 Dec;43(4):708-20. doi: 10.1016/j.neuroimage.2008.07.058. Epub 2008 Aug 12.",
+     "term": "hippocampus"
+}

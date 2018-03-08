@@ -1,0 +1,91 @@
+{
+     "PMID": "22965669",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140811",
+     "LR": "20151119",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "35",
+     "IP": "1",
+     "DP": "2014 Jan",
+     "TI": "Multivariate pattern analysis reveals subtle brain anomalies relevant to the cognitive phenotype in neurofibromatosis type 1.",
+     "PG": "89-106",
+     "LID": "10.1002/hbm.22161 [doi]",
+     "AB": "Neurofibromatosis Type 1 (NF1) is a common genetic condition associated with cognitive dysfunction. However, the pathophysiology of the NF1 cognitive deficits is not well understood. Abnormal brain structure, including increased total brain volume, white matter (WM) and grey matter (GM) abnormalities have been reported in the NF1 brain. These previous studies employed univariate model-driven methods preventing detection of subtle and spatially distributed differences in brain anatomy. Multivariate pattern analysis allows the combination of information from multiple spatial locations yielding a discriminative power beyond that of single voxels. Here we investigated for the first time subtle anomalies in the NF1 brain, using a multivariate data-driven classification approach. We used support vector machines (SVM) to classify whole-brain GM and WM segments of structural T1 -weighted MRI scans from 39 participants with NF1 and 60 non-affected individuals, divided in children/adolescents and adults groups. We also employed voxel-based morphometry (VBM) as a univariate gold standard to study brain structural differences. SVM classifiers correctly classified 94% of cases (sensitivity 92%; specificity 96%) revealing the existence of brain structural anomalies that discriminate NF1 individuals from controls. Accordingly, VBM analysis revealed structural differences in agreement with the SVM weight maps representing the most relevant brain regions for group discrimination. These included the hippocampus, basal ganglia, thalamus, and visual cortex. This multivariate data-driven analysis thus identified subtle anomalies in brain structure in the absence of visible pathology. Our results provide further insight into the neuroanatomical correlates of known features of the cognitive phenotype of NF1.",
+     "CI": [
+          "Copyright (c) 2012 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Duarte, Joao V",
+          "Ribeiro, Maria J",
+          "Violante, Ines R",
+          "Cunha, Gil",
+          "Silva, Eduardo",
+          "Castelo-Branco, Miguel"
+     ],
+     "AU": [
+          "Duarte JV",
+          "Ribeiro MJ",
+          "Violante IR",
+          "Cunha G",
+          "Silva E",
+          "Castelo-Branco M"
+     ],
+     "AD": "Visual Neuroscience Laboratory, IBILI, Faculty of Medicine, University of Coimbra, Portugal.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120911",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Brain/*pathology",
+          "Child",
+          "Cognition Disorders/etiology/*pathology",
+          "Female",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Male",
+          "Neurofibromatosis 1/complications/*pathology/psychology",
+          "Phenotype",
+          "Support Vector Machine"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "MRI",
+          "brain structure",
+          "multivariate pattern classification",
+          "neurofibromatosis type 1",
+          "neuroimaging",
+          "support vector machine (SVM)"
+     ],
+     "EDAT": "2012/09/12 06:00",
+     "MHDA": "2014/08/12 06:00",
+     "CRDT": [
+          "2012/09/12 06:00"
+     ],
+     "PHST": [
+          "2011/11/04 00:00 [received]",
+          "2012/06/07 00:00 [revised]",
+          "2012/06/13 00:00 [accepted]",
+          "2012/09/12 06:00 [entrez]",
+          "2012/09/12 06:00 [pubmed]",
+          "2014/08/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.22161 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2014 Jan;35(1):89-106. doi: 10.1002/hbm.22161. Epub 2012 Sep 11.",
+     "term": "hippocampus"
+}

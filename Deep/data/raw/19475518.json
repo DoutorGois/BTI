@@ -1,0 +1,70 @@
+{
+     "PMID": "19475518",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20091113",
+     "LR": "20171107",
+     "IS": "1559-0089 (Electronic) 1539-2791 (Linking)",
+     "VI": "7",
+     "IP": "3",
+     "DP": "2009 Sep",
+     "TI": "The tree-edit-distance, a measure for quantifying neuronal morphology.",
+     "PG": "179-90",
+     "LID": "10.1007/s12021-009-9051-4 [doi]",
+     "AB": "The shape of neuronal cells strongly resembles botanical trees or roots of plants. To analyze and compare these complex three-dimensional structures it is important to develop suitable methods. We review the so called tree-edit-distance known from theoretical computer science and use this distance to define dissimilarity measures for neuronal cells. This measure intrinsically respects the tree-shape. It compares only those parts of two dendritic trees that have similar position in the whole tree. Therefore it can be interpreted as a generalization of methods using vector valued measures. Moreover, we show that our new measure, together with cluster analysis, is a suitable method for analyzing three-dimensional shape of hippocampal and cortical cells.",
+     "FAU": [
+          "Heumann, Holger",
+          "Wittum, Gabriel"
+     ],
+     "AU": [
+          "Heumann H",
+          "Wittum G"
+     ],
+     "AD": "SAM, ETH Zurich, Ramistrasse 101, 8092 Zurich, Switzerland. hheumann@math.ethz.ch",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20090528",
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Cell Shape",
+          "Cerebral Cortex/cytology/physiology",
+          "Computational Biology/*methods",
+          "Computer Simulation",
+          "Databases as Topic",
+          "Dendrites/physiology/ultrastructure",
+          "Hippocampus/cytology/physiology",
+          "Humans",
+          "Image Cytometry/*methods",
+          "*Mathematical Computing",
+          "Neurons/*cytology/physiology",
+          "Software"
+     ],
+     "EDAT": "2009/05/29 09:00",
+     "MHDA": "2009/11/17 06:00",
+     "CRDT": [
+          "2009/05/29 09:00"
+     ],
+     "PHST": [
+          "2008/07/28 00:00 [received]",
+          "2009/05/13 00:00 [accepted]",
+          "2009/05/29 09:00 [entrez]",
+          "2009/05/29 09:00 [pubmed]",
+          "2009/11/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s12021-009-9051-4 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2009 Sep;7(3):179-90. doi: 10.1007/s12021-009-9051-4. Epub 2009 May 28.",
+     "term": "hippocampus"
+}

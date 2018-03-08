@@ -1,0 +1,72 @@
+{
+     "PMID": "29312826",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20180111",
+     "IS": "2167-8359 (Print)",
+     "VI": "6",
+     "DP": "2018",
+     "TI": "Heteroassociative storage of hippocampal pattern sequences in the CA3 subregion.",
+     "PG": "e4203",
+     "LID": "10.7717/peerj.4203 [doi]",
+     "AB": "Background: Recent research suggests that the CA3 subregion of the hippocampus has properties of both autoassociative network, due to its ability to complete partial cues, tolerate noise, and store associations between memories, and heteroassociative one, due to its ability to store and retrieve sequences of patterns. Although there are several computational models of the CA3 as an autoassociative network, more detailed evaluations of its heteroassociative properties are missing. Methods: We developed a model of the CA3 subregion containing 10,000 integrate-and-fire neurons with both recurrent excitatory and inhibitory connections, and which exhibits coupled oscillations in the gamma and theta ranges. We stored thousands of pattern sequences using a heteroassociative learning rule with competitive synaptic scaling. Results: We showed that a purely heteroassociative network model can (i) retrieve pattern sequences from partial cues with external noise and incomplete connectivity, (ii) achieve homeostasis regarding the number of connections per neuron when many patterns are stored when using synaptic scaling, (iii) continuously update the set of retrievable patterns, guaranteeing that the last stored patterns can be retrieved and older ones can be forgotten. Discussion: Heteroassociative networks with synaptic scaling rules seem sufficient to achieve many desirable features regarding connectivity homeostasis, pattern sequence retrieval, noise tolerance and updating of the set of retrievable patterns.",
+     "FAU": [
+          "de Camargo, Raphael Y",
+          "Recio, Renan S",
+          "Reyes, Marcelo B"
+     ],
+     "AU": [
+          "de Camargo RY",
+          "Recio RS",
+          "Reyes MB"
+     ],
+     "AD": "Center for Mathematics, Computing and Cognition, Universidade Federal do ABC, Sao Bernardo do Campo, Sao Paulo, Brazil. Center for Mathematics, Computing and Cognition, Universidade Federal do ABC, Sao Bernardo do Campo, Sao Paulo, Brazil. Center for Mathematics, Computing and Cognition, Universidade Federal do ABC, Sao Bernardo do Campo, Sao Paulo, Brazil.",
+     "LA": [
+          "eng"
+     ],
+     "SI": [
+          "figshare/10.6084/m9.figshare.5378347.v2"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20180102",
+     "PL": "United States",
+     "TA": "PeerJ",
+     "JT": "PeerJ",
+     "JID": "101603425",
+     "PMC": "PMC5755486",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "CA3",
+          "Computational neuroscience",
+          "Heteroassociative coding",
+          "Hippocampus",
+          "Memory",
+          "Theta sequences"
+     ],
+     "COIS": [
+          "The authors declare there are no competing interests."
+     ],
+     "EDAT": "2018/01/10 06:00",
+     "MHDA": "2018/01/10 06:01",
+     "CRDT": [
+          "2018/01/10 06:00"
+     ],
+     "PHST": [
+          "2017/06/14 00:00 [received]",
+          "2017/12/07 00:00 [accepted]",
+          "2018/01/10 06:00 [entrez]",
+          "2018/01/10 06:00 [pubmed]",
+          "2018/01/10 06:01 [medline]"
+     ],
+     "AID": [
+          "10.7717/peerj.4203 [doi]",
+          "4203 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PeerJ. 2018 Jan 2;6:e4203. doi: 10.7717/peerj.4203. eCollection 2018.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,70 @@
+{
+     "PMID": "14690703",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040315",
+     "LR": "20061115",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "17",
+     "IP": "1",
+     "DP": "2004 Jan",
+     "TI": "Self-organising continuous attractor networks with multiple activity packets, and the representation of space.",
+     "PG": "5-27",
+     "AB": "'Continuous attractor' neural networks can maintain a localised packet of neuronal activity representing the current state of an agent in a continuous space without external sensory input. In applications such as the representation of head direction or location in the environment, only one packet of activity is needed. For some spatial computations a number of different locations, each with its own features, must be held in memory. We extend previous approaches to continuous attractor networks (in which one packet of activity is maintained active) by showing that a single continuous attractor network can maintain multiple packets of activity simultaneously, if each packet is in a different state space or map. We also show how such a network could by learning self-organise to enable the packets in each space to be moved continuously in that space by idiothetic (motion) inputs. We show how such multi-packet continuous attractor networks could be used to maintain different types of feature (such as form vs colour) simultaneously active in the correct location in a spatial representation. We also show how high-order synapses can improve the performance of these networks, and how the location of a packet could be read by motor networks. The multiple packet continuous attractor networks described here may be used for spatial representations in brain areas such as the parietal cortex and hippocampus.",
+     "FAU": [
+          "Stringer, S M",
+          "Rolls, E T",
+          "Trappenberg, T P"
+     ],
+     "AU": [
+          "Stringer SM",
+          "Rolls ET",
+          "Trappenberg TP"
+     ],
+     "AD": "Department of Experimental Psychology, Centre for Computational Neuroscience, Oxford University, South Parks Road, Oxford OX1 3UD, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Brain/anatomy & histology/*physiology",
+          "Computer Simulation",
+          "Excitatory Postsynaptic Potentials/physiology",
+          "Humans",
+          "Models, Neurological",
+          "Motion Perception/*physiology",
+          "Nerve Net/physiology",
+          "*Neural Networks (Computer)",
+          "Neurons/physiology",
+          "Space Perception/*physiology",
+          "Synapses/physiology",
+          "Time Factors",
+          "Visual Perception/physiology"
+     ],
+     "EDAT": "2003/12/24 05:00",
+     "MHDA": "2004/03/17 05:00",
+     "CRDT": [
+          "2003/12/24 05:00"
+     ],
+     "PHST": [
+          "2003/12/24 05:00 [pubmed]",
+          "2004/03/17 05:00 [medline]",
+          "2003/12/24 05:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(03)00210-7 [pii]",
+          "10.1016/S0893-6080(03)00210-7 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2004 Jan;17(1):5-27. doi: 10.1016/S0893-6080(03)00210-7.",
+     "term": "hippocampus"
+}

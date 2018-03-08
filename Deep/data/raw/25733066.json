@@ -1,0 +1,107 @@
+{
+     "PMID": "25733066",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161011",
+     "LR": "20170220",
+     "IS": "1522-2594 (Electronic) 0740-3194 (Linking)",
+     "VI": "75",
+     "IP": "1",
+     "DP": "2016 Jan",
+     "TI": "A fast algorithm for denoising magnitude diffusion-weighted images with rank and edge constraints.",
+     "PG": "433-40",
+     "LID": "10.1002/mrm.25643 [doi]",
+     "AB": "PURPOSE: To accelerate denoising of magnitude diffusion-weighted images subject to joint rank and edge constraints. METHODS: We extend a previously proposed majorize-minimize method for statistical estimation that involves noncentral chi distributions to incorporate joint rank and edge constraints. A new algorithm is derived which decomposes the constrained noncentral chi denoising problem into a series of constrained Gaussian denoising problems each of which is then solved using an efficient alternating minimization scheme. RESULTS: The performance of the proposed algorithm has been evaluated using both simulated and experimental data. Results from simulations based on ex vivo data show that the new algorithm achieves about a factor of 10 speed up over the original Quasi-Newton-based algorithm. This improvement in computational efficiency enabled denoising of large datasets containing many diffusion-encoding directions. The denoising performance of the new efficient algorithm is found to be comparable to or even better than that of the original slow algorithm. For an in vivo high-resolution Q-ball acquisition, comparison of fiber tracking results around hippocampus region before and after denoising will also be shown to demonstrate the denoising effects of the new algorithm. CONCLUSION: The optimization problem associated with denoising noncentral chi distributed diffusion-weighted images subject to joint rank and edge constraints can be solved efficiently using a majorize-minimize-based algorithm.",
+     "CI": [
+          "(c) 2015 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Lam, Fan",
+          "Liu, Ding",
+          "Song, Zhuang",
+          "Schuff, Norbert",
+          "Liang, Zhi-Pei"
+     ],
+     "AU": [
+          "Lam F",
+          "Liu D",
+          "Song Z",
+          "Schuff N",
+          "Liang ZP"
+     ],
+     "AD": "Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, Illinois, USA. Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign, Urbana, Illinois, USA. Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, Illinois, USA. Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign, Urbana, Illinois, USA. Center for Vital Longevity, University of Texas at Dallas, Dallas, Texas, USA. Department of Radiology and Biomedical Imaging, University of California, San Francisco, California, USA. Department of Veterans Affairs Medical Center, Center for Imaging of Neurodegenerative Diseases, San Francisco, California, USA. Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, Illinois, USA. Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign, Urbana, Illinois, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NIH-P41-EB001977/EB/NIBIB NIH HHS/United States",
+          "R01 EB013695/EB/NIBIB NIH HHS/United States",
+          "P41 EB015904/EB/NIBIB NIH HHS/United States",
+          "NIH-P41-EB015904/EB/NIBIB NIH HHS/United States",
+          "NIH-1RO1-EB013695/EB/NIBIB NIH HHS/United States",
+          "P41 EB001977/EB/NIBIB NIH HHS/United States",
+          "P41 RR023953/RR/NCRR NIH HHS/United States",
+          "R21 EB021013/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20150302",
+     "PL": "United States",
+     "TA": "Magn Reson Med",
+     "JT": "Magnetic resonance in medicine",
+     "JID": "8505245",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "*Artifacts",
+          "Brain/*anatomy & histology",
+          "Computer Simulation",
+          "Diffusion Magnetic Resonance Imaging/*methods",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/methods",
+          "Imaging, Three-Dimensional/*methods",
+          "In Vitro Techniques",
+          "Models, Statistical",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Signal-To-Noise Ratio",
+          "Swine"
+     ],
+     "PMC": "PMC4558386",
+     "MID": [
+          "NIHMS655830"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "diffusion imaging",
+          "edge constraint",
+          "magnitude image denoising",
+          "majorize-minimize algorithm",
+          "noncentral chi distribution",
+          "rank constraint"
+     ],
+     "EDAT": "2015/03/04 06:00",
+     "MHDA": "2016/10/12 06:00",
+     "CRDT": [
+          "2015/03/04 06:00"
+     ],
+     "PHST": [
+          "2014/08/20 00:00 [received]",
+          "2014/11/14 00:00 [revised]",
+          "2014/12/08 00:00 [accepted]",
+          "2015/03/04 06:00 [entrez]",
+          "2015/03/04 06:00 [pubmed]",
+          "2016/10/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/mrm.25643 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Magn Reson Med. 2016 Jan;75(1):433-40. doi: 10.1002/mrm.25643. Epub 2015 Mar 2.",
+     "term": "hippocampus"
+}

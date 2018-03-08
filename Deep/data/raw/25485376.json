@@ -1,0 +1,71 @@
+{
+     "PMID": "25485376",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150108",
+     "LR": "20141208",
+     "VI": "17",
+     "IP": "Pt 2",
+     "DP": "2014",
+     "TI": "Multivariate hippocampal subfield analysis of local MRI intensity and volume: application to temporal lobe epilepsy.",
+     "PG": "170-8",
+     "AB": "We propose a multispectral MRI-based clinical decision support approach to carry out automated seizure focus lateralization in patients with temporal lobe epilepsy (TLE). Based on high-resolution T1- and T2-weighted MRI with hippocampal subfield segmentations, our approach samples MRI features along the medial sheet of each subfield to minimize partial volume effects. To establish correspondence of sampling points across subjects, we propagate a spherical harmonic parameterization derived from the hippocampal boundary along a Laplacian gradient field towards the medial sheet. Volume and intensity data sampled on the medial sheet are finally fed into a supervised classifier. Testing our approach in TLE patients in whom the seizure focus could not be lateralized using conventional MR volumetry, the proposed approach correctly lateralized all patients and outperformed classification performance based on global subfield volumes or mean T2-intensity (100% vs. 68%). Moreover, statistical group-level comparisons revealed patterns of subfield abnormalities that were not evident in the global measurements and that largely agree with known histopathological changes.",
+     "FAU": [
+          "Kim, Hosung",
+          "Bernhardt, Boris C",
+          "Kulaga-Yoskovitz, Jessie",
+          "Caldairou, Benoit",
+          "Bernasconi, Andrea",
+          "Bernasconi, Neda"
+     ],
+     "AU": [
+          "Kim H",
+          "Bernhardt BC",
+          "Kulaga-Yoskovitz J",
+          "Caldairou B",
+          "Bernasconi A",
+          "Bernasconi N"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Algorithms",
+          "*Decision Support Systems, Clinical",
+          "Epilepsy, Temporal Lobe/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Male",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Software",
+          "User-Computer Interface"
+     ],
+     "EDAT": "2014/12/09 06:00",
+     "MHDA": "2015/01/09 06:00",
+     "CRDT": [
+          "2014/12/09 06:00"
+     ],
+     "PHST": [
+          "2014/12/09 06:00 [entrez]",
+          "2014/12/09 06:00 [pubmed]",
+          "2015/01/09 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2014;17(Pt 2):170-8.",
+     "term": "hippocampus"
+}

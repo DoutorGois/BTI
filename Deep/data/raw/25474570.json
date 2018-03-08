@@ -1,0 +1,65 @@
+{
+     "PMID": "25474570",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160105",
+     "LR": "20141215",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "10",
+     "IP": "12",
+     "DP": "2014 Dec",
+     "TI": "Hippocampal remapping is constrained by sparseness rather than capacity.",
+     "PG": "e1003986",
+     "LID": "10.1371/journal.pcbi.1003986 [doi]",
+     "AB": "Grid cells in the medial entorhinal cortex encode space with firing fields that are arranged on the nodes of spatial hexagonal lattices. Potential candidates to read out the space information of this grid code and to combine it with other sensory cues are hippocampal place cells. In this paper, we investigate a population of grid cells providing feed-forward input to place cells. The capacity of the underlying synaptic transformation is determined by both spatial acuity and the number of different spatial environments that can be represented. The codes for different environments arise from phase shifts of the periodical entorhinal cortex patterns that induce a global remapping of hippocampal place fields, i.e., a new random assignment of place fields for each environment. If only a single environment is encoded, the grid code can be read out at high acuity with only few place cells. A surplus in place cells can be used to store a space code for more environments via remapping. The number of stored environments can be increased even more efficiently by stronger recurrent inhibition and by partitioning the place cell population such that learning affects only a small fraction of them in each environment. We find that the spatial decoding acuity is much more resilient to multiple remappings than the sparseness of the place code. Since the hippocampal place code is sparse, we thus conclude that the projection from grid cells to the place cells is not using its full capacity to transfer space information. Both populations may encode different aspects of space.",
+     "FAU": [
+          "Kammerer, Axel",
+          "Leibold, Christian"
+     ],
+     "AU": [
+          "Kammerer A",
+          "Leibold C"
+     ],
+     "AD": "Department Biologie II, Ludwig-Maximilians-Universitat Munchen, Planegg, Germany; Graduate School for Systemic Neurosciences, Ludwig-Maximilians-Universitat Munchen, Planegg, Germany. Department Biologie II, Ludwig-Maximilians-Universitat Munchen, Planegg, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20141204",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computational Biology",
+          "Entorhinal Cortex/*cytology",
+          "Hippocampus/*cytology/*physiology",
+          "Mammals",
+          "*Models, Neurological"
+     ],
+     "PMC": "PMC4256019",
+     "EDAT": "2014/12/05 06:00",
+     "MHDA": "2016/01/06 06:00",
+     "CRDT": [
+          "2014/12/05 06:00"
+     ],
+     "PHST": [
+          "2014/06/13 00:00 [received]",
+          "2014/10/14 00:00 [accepted]",
+          "2014/12/05 06:00 [entrez]",
+          "2014/12/05 06:00 [pubmed]",
+          "2016/01/06 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1003986 [doi]",
+          "PCOMPBIOL-D-14-01057 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2014 Dec 4;10(12):e1003986. doi: 10.1371/journal.pcbi.1003986. eCollection 2014 Dec.",
+     "term": "place cells"
+}

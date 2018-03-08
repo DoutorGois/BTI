@@ -1,0 +1,62 @@
+{
+     "PMID": "29053781",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171102",
+     "LR": "20171102",
+     "IS": "1534-7362 (Electronic) 1534-7362 (Linking)",
+     "VI": "17",
+     "IP": "12",
+     "DP": "2017 Oct 1",
+     "TI": "An image-computable psychophysical spatial vision model.",
+     "PG": "12",
+     "LID": "10.1167/17.12.12 [doi]",
+     "AB": "A large part of classical visual psychophysics was concerned with the fundamental question of how pattern information is initially encoded in the human visual system. From these studies a relatively standard model of early spatial vision emerged, based on spatial frequency and orientation-specific channels followed by an accelerating nonlinearity and divisive normalization: contrast gain-control. Here we implement such a model in an image-computable way, allowing it to take arbitrary luminance images as input. Testing our implementation on classical psychophysical data, we find that it explains contrast detection data including the ModelFest data, contrast discrimination data, and oblique masking data, using a single set of parameters. Leveraging the advantage of an image-computable model, we test our model against a recent dataset using natural images as masks. We find that the model explains these data reasonably well, too. To explain data obtained at different presentation durations, our model requires different parameters to achieve an acceptable fit. In addition, we show that contrast gain-control with the fitted parameters results in a very sparse encoding of luminance information, in line with notions from efficient coding. Translating the standard early spatial vision model to be image-computable resulted in two further insights: First, the nonlinear processing requires a denser sampling of spatial frequency and orientation than optimal coding suggests. Second, the normalization needs to be fairly local in space to fit the data obtained with natural image masks. Finally, our image-computable model can serve as tool in future quantitative analyses: It allows optimized stimuli to be used to test the model and variants of it, with potential applications as an image-quality metric. In addition, it may serve as a building block for models of higher level processing.",
+     "FAU": [
+          "Schutt, Heiko H",
+          "Wichmann, Felix A"
+     ],
+     "AU": [
+          "Schutt HH",
+          "Wichmann FA"
+     ],
+     "AD": "Neural Information Processing Group, University of Tubingen, Tubingen, Germany. Department of Experimental and Biological Psychology, University of Potsdam, Germany. Neural Information Processing Group, University of Tubingen, Tubingen, Germany. Bernstein Center for Computational Neuroscience, Tubingen, Germany. Max Planck Institute for Intelligent Systems, Tubingen, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "J Vis",
+     "JT": "Journal of vision",
+     "JID": "101147197",
+     "SB": "IM",
+     "MH": [
+          "*Computer Simulation",
+          "Contrast Sensitivity/*physiology",
+          "Humans",
+          "Orientation/*physiology",
+          "Pattern Recognition, Visual/*physiology",
+          "Psychophysics/*methods",
+          "Space Perception/*physiology",
+          "Spatial Navigation/*physiology"
+     ],
+     "EDAT": "2017/10/21 06:00",
+     "MHDA": "2017/11/03 06:00",
+     "CRDT": [
+          "2017/10/21 06:00"
+     ],
+     "PHST": [
+          "2017/10/21 06:00 [entrez]",
+          "2017/10/21 06:00 [pubmed]",
+          "2017/11/03 06:00 [medline]"
+     ],
+     "AID": [
+          "2659355 [pii]",
+          "10.1167/17.12.12 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Vis. 2017 Oct 1;17(12):12. doi: 10.1167/17.12.12.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,87 @@
+{
+     "PMID": "22346744",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120604",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "8",
+     "IP": "2",
+     "DP": "2012 Feb",
+     "TI": "Subcellular location of PKA controls striatal plasticity: stochastic simulations in spiny dendrites.",
+     "PG": "e1002383",
+     "LID": "10.1371/journal.pcbi.1002383 [doi]",
+     "AB": "Dopamine release in the striatum has been implicated in various forms of reward dependent learning. Dopamine leads to production of cAMP and activation of protein kinase A (PKA), which are involved in striatal synaptic plasticity and learning. PKA and its protein targets are not diffusely located throughout the neuron, but are confined to various subcellular compartments by anchoring molecules such as A-Kinase Anchoring Proteins (AKAPs). Experiments have shown that blocking the interaction of PKA with AKAPs disrupts its subcellular location and prevents LTP in the hippocampus and striatum; however, these experiments have not revealed whether the critical function of anchoring is to locate PKA near the cAMP that activates it or near its targets, such as AMPA receptors located in the post-synaptic density. We have developed a large scale stochastic reaction-diffusion model of signaling pathways in a medium spiny projection neuron dendrite with spines, based on published biochemical measurements, to investigate this question and to evaluate whether dopamine signaling exhibits spatial specificity post-synaptically. The model was stimulated with dopamine pulses mimicking those recorded in response to reward. Simulations show that PKA colocalization with adenylate cyclase, either in the spine head or in the dendrite, leads to greater phosphorylation of DARPP-32 Thr34 and AMPA receptor GluA1 Ser845 than when PKA is anchored away from adenylate cyclase. Simulations further demonstrate that though cAMP exhibits a strong spatial gradient, diffusible DARPP-32 facilitates the spread of PKA activity, suggesting that additional inactivation mechanisms are required to produce spatial specificity of PKA activity.",
+     "FAU": [
+          "Oliveira, Rodrigo F",
+          "Kim, Myungsook",
+          "Blackwell, Kim T"
+     ],
+     "AU": [
+          "Oliveira RF",
+          "Kim M",
+          "Blackwell KT"
+     ],
+     "AD": "The Krasnow Institute for Advanced Study, George Mason University, Fairfax, Virginia, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AA016022/AA/NIAAA NIH HHS/United States",
+          "R01AA-16022/AA/NIAAA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20120209",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "RN": [
+          "0 (Dopamine and cAMP-Regulated Phosphoprotein 32)",
+          "E0399OZS9N (Cyclic AMP)",
+          "EC 2.7.11.11 (Cyclic AMP-Dependent Protein Kinases)",
+          "VTD58H1Z2X (Dopamine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computational Biology",
+          "Computer Simulation",
+          "Cyclic AMP/metabolism",
+          "Cyclic AMP-Dependent Protein Kinases/*metabolism",
+          "Dendritic Spines/*enzymology",
+          "Dopamine/metabolism",
+          "Dopamine and cAMP-Regulated Phosphoprotein 32/metabolism",
+          "Humans",
+          "Intracellular Space/metabolism",
+          "*Models, Neurological",
+          "Monte Carlo Method",
+          "Neuronal Plasticity/*physiology",
+          "Reproducibility of Results",
+          "Signal Transduction"
+     ],
+     "PMC": "PMC3276550",
+     "EDAT": "2012/02/22 06:00",
+     "MHDA": "2012/06/05 06:00",
+     "CRDT": [
+          "2012/02/21 06:00"
+     ],
+     "PHST": [
+          "2011/07/24 00:00 [received]",
+          "2011/12/26 00:00 [accepted]",
+          "2012/02/21 06:00 [entrez]",
+          "2012/02/22 06:00 [pubmed]",
+          "2012/06/05 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1002383 [doi]",
+          "PCOMPBIOL-D-11-01087 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2012 Feb;8(2):e1002383. doi: 10.1371/journal.pcbi.1002383. Epub 2012 Feb 9.",
+     "term": "hippocampus"
+}

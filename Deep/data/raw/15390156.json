@@ -1,0 +1,72 @@
+{
+     "PMID": "15390156",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050428",
+     "LR": "20081121",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "15",
+     "IP": "2",
+     "DP": "2005",
+     "TI": "Statistical determinants of dendritic morphology in hippocampal pyramidal neurons: A hidden Markov model.",
+     "PG": "166-83",
+     "AB": "Dendritic structure is traditionally characterized by distributions and interrelations of morphometric parameters, such as Sholl-like plots of the number of branches versus dendritic path distance. However, how much of a given morphology is effectively captured by any statistical description is generally unknown. In this work, we assemble a small number of standard geometrical parameters measured from experimental data in a simple stochastic algorithm to describe the dendrograms of hippocampal pyramidal cells. The model, consistent with the hidden Markov framework, is feedforward, local, and causal. It relies on two \"hidden\" local variables: the expected number of terminal tips in a given subtree, and the current path distance from the soma. The algorithm generates dendrograms that statistically reproduce all morphological essentials of dendrites observed in real neurons, including the distributions of branching and termination points, branch lengths, membrane area, topological asymmetry, and (assuming passive membrane parameters within physiological range) electrotonic characteristics. Thus, this algorithm and the small number of its morphometric parameters constitute a remarkably complete description of the dendrograms of hippocampal pyramidal cells. Specifically, it is found that CA3 and CA1 basal dendrites and CA3 apical dendrites can each be described as homogeneous morphological classes. In contrast, the accurate generation of CA1 apical dendrites necessitates the separate sampling of two types of branches, main and oblique, suggesting their derivations from different developmental mechanisms (terminal and interstitial growth, respectively). We further offer a plausible biophysical interpretation of the model hidden variables, relating them to microtubules and other intracellular resources.",
+     "CI": [
+          "(c) 2004 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Samsonovich, Alexei V",
+          "Ascoli, Giorgio A"
+     ],
+     "AU": [
+          "Samsonovich AV",
+          "Ascoli GA"
+     ],
+     "AD": "Krasnow Institute for Advanced Study, George Mason University, Fairfax, Virginia, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS39600/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Biophysical Phenomena",
+          "Biophysics",
+          "Cell Shape/physiology",
+          "Computer Simulation",
+          "Dendrites/*physiology",
+          "Hippocampus/cytology/*physiology",
+          "*Markov Chains",
+          "*Models, Neurological",
+          "Pyramidal Cells/*physiology/ultrastructure",
+          "Rats"
+     ],
+     "EDAT": "2004/09/25 05:00",
+     "MHDA": "2005/04/29 09:00",
+     "CRDT": [
+          "2004/09/25 05:00"
+     ],
+     "PHST": [
+          "2004/09/25 05:00 [pubmed]",
+          "2005/04/29 09:00 [medline]",
+          "2004/09/25 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.20041 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2005;15(2):166-83. doi: 10.1002/hipo.20041.",
+     "term": "hippocampus"
+}

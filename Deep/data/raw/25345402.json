@@ -1,0 +1,104 @@
+{
+     "PMID": "25345402",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20170410",
+     "IS": "2511-705X (Electronic) 0026-1270 (Linking)",
+     "VI": "54",
+     "IP": "2",
+     "DP": "2015",
+     "TI": "Influence of parameter settings in voxel-based morphometry 8. Using DARTEL and region-of-interest on reproducibility in gray matter volumetry.",
+     "PG": "171-8",
+     "LID": "10.3414/ME14-01-0049 [doi]",
+     "AB": "OBJECTIVES: To investigate whether reproducibility of gray matter volumetry is influenced by parameter settings for VBM 8 using Diffeomorphic Anatomical Registration Through Exponentiated Lie Algebra (DARTEL) with region-of-interest (ROI) analyses. METHODS: We prepared three-dimensional T1-weighted magnetic resonance images (3D-T1WIs) of 21 healthy subjects. All subjects were imaged with each of five MRI systems. Voxel-based morphometry 8 (VBM 8) and WFU PickAtlas software were used for gray matter volumetry. The bilateral ROI labels used were those provided as default settings with the software: Frontal Lobe, Hippocampus, Occipital Lobe, Orbital Gyrus, Parietal Lobe, Putamen, and Temporal Lobe. All 3D-T1WIs were segmented to gray matter with six parameters of VBM 8, with each parameter having between three and eight selectable levels. Reproducibility was evaluated as the standard deviation (mm(3)) of measured values for the five MRI systems. RESULTS: Reproducibility was influenced by 'Bias regularization (BiasR)', 'Bias FWHM', and 'De-noising filter' settings, but not by 'MRF weighting', 'Sampling distance', or 'Warping regularization' settings. Reproducibility in BiasR was influenced by ROI. Superior reproducibility was observed in Frontal Lobe with the BiasR1 setting, and in Hippocampus, Parietal Lobe, and Putamen with the BiasR3*, BiasR1, and BiasR5 settings, respectively. CONCLUSION: Reproducibility of gray matter volumetry was influenced by parameter settings in VBM 8 using DARTEL and ROI. In multi-center studies, the use of appropriate settings in VBM 8 with DARTEL results in reduced scanner effect.",
+     "FAU": [
+          "Goto, M",
+          "Abe, O",
+          "Aoki, S",
+          "Hayashi, N",
+          "Miyati, T",
+          "Takao, H",
+          "Matsuda, H",
+          "Yamashita, F",
+          "Iwatsubo, T",
+          "Mori, H",
+          "Kunimatsu, A",
+          "Ino, K",
+          "Yano, K",
+          "Ohtomo, K"
+     ],
+     "AU": [
+          "Goto M",
+          "Abe O",
+          "Aoki S",
+          "Hayashi N",
+          "Miyati T",
+          "Takao H",
+          "Matsuda H",
+          "Yamashita F",
+          "Iwatsubo T",
+          "Mori H",
+          "Kunimatsu A",
+          "Ino K",
+          "Yano K",
+          "Ohtomo K"
+     ],
+     "AD": "Masami Goto, Department of Radiological Technology, Graduate School of Medicine, University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8655, Japan, E-mail: car6_pa2_rw@yahoo.co.jp.",
+     "CN": [
+          "Japanese Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20141027",
+     "PL": "Germany",
+     "TA": "Methods Inf Med",
+     "JT": "Methods of information in medicine",
+     "JID": "0210453",
+     "SB": "IM",
+     "MH": [
+          "Brain/*anatomy & histology",
+          "Gray Matter/*anatomy & histology",
+          "Humans",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Organ Size/*physiology",
+          "Reference Values",
+          "*Reproducibility of Results",
+          "*Software"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Atlas-based method",
+          "effect of scanner",
+          "gray matter volumetry",
+          "reproducibility",
+          "statistical parametric mapping"
+     ],
+     "EDAT": "2014/10/28 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2014/10/28 06:00"
+     ],
+     "PHST": [
+          "2014/04/30 00:00 [received]",
+          "2014/09/17 00:00 [accepted]",
+          "2014/10/28 06:00 [entrez]",
+          "2014/10/28 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "14-01-0049 [pii]",
+          "10.3414/ME14-01-0049 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Methods Inf Med. 2015;54(2):171-8. doi: 10.3414/ME14-01-0049. Epub 2014 Oct 27.",
+     "term": "hippocampus"
+}

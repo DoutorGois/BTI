@@ -1,0 +1,84 @@
+{
+     "PMID": "27852770",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170717",
+     "LR": "20170717",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "36",
+     "IP": "46",
+     "DP": "2016 Nov 16",
+     "TI": "Environmental Anchoring of Head Direction in a Computational Model of Retrosplenial Cortex.",
+     "PG": "11601-11618",
+     "AB": "Allocentric (world-centered) spatial codes driven by path integration accumulate error unless reset by environmental sensory inputs that are necessarily egocentric (body-centered). Previous models of the head direction system avoided the necessary transformation between egocentric and allocentric reference frames by placing visual cues at infinity. Here we present a model of head direction coding that copes with exclusively proximal cues by making use of a conjunctive representation of head direction and location in retrosplenial cortex. Egocentric landmark bearing of proximal cues, which changes with location, is mapped onto this retrosplenial representation. The model avoids distortions due to parallax, which occur in simple models when a single proximal cue card is used, and can also accommodate multiple cues, suggesting how it can generalize to arbitrary sensory environments. It provides a functional account of the anatomical distribution of head direction cells along Papez' circuit, of place-by-direction coding in retrosplenial cortex, the anatomical connection from the anterior thalamic nuclei to retrosplenial cortex, and the involvement of retrosplenial cortex in navigation. In addition to parallax correction, the same mechanism allows for continuity of head direction coding between connected environments, and shows how a head direction representation can be stabilized by a single within arena cue. We also make predictions for drift during exploration of a new environment, the effects of hippocampal lesions on retrosplenial cells, and on head direction coding in differently shaped environments. SIGNIFICANCE STATEMENT: The activity of head direction cells signals the direction of an animal's head relative to landmarks in the world. Although driven by internal estimates of head movements, head direction cells must be kept aligned to the external world by sensory inputs, which arrive in the reference frame of the sensory receptors. We present a computational model, which proposes that sensory inputs are correctly associated to head directions by virtue of a conjunctive representation of place and head directions in the retrosplenial cortex. The model allows for a stable head direction signal, even when the sensory input from nearby cues changes dramatically whenever the animal moves to a different location, and enables stable representations of head direction across connected environments.",
+     "CI": [
+          "Copyright (c) 2016 Bicanski and Burgess."
+     ],
+     "FAU": [
+          "Bicanski, Andrej",
+          "Burgess, Neil"
+     ],
+     "AU": [
+          "Bicanski A",
+          "Burgess N"
+     ],
+     "AD": "Institute of Cognitive Neuroscience, University College London, London WC1N 3AZ, United Kingdom, and a.bicanski@ucl.ac.uk n.burgess@ucl.ac.uk. Institute of Neurology, University College London, London WC1N 3BG, United Kingdom. Institute of Cognitive Neuroscience, University College London, London WC1N 3AZ, United Kingdom, and a.bicanski@ucl.ac.uk n.burgess@ucl.ac.uk. Institute of Neurology, University College London, London WC1N 3BG, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cerebral Cortex/*physiology",
+          "Computer Simulation",
+          "Ecosystem",
+          "Feedback, Sensory/physiology",
+          "Head/*physiology",
+          "Head Movements/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Orientation/*physiology",
+          "Space Perception",
+          "Spatial Behavior/physiology",
+          "Spatial Navigation/*physiology"
+     ],
+     "PMC": "PMC5125222",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Papez' circuit",
+          "attractor networks",
+          "head direction cells",
+          "parallax",
+          "place cells",
+          "retrosplenial cortex"
+     ],
+     "EDAT": "2016/11/18 06:00",
+     "MHDA": "2017/07/18 06:00",
+     "CRDT": [
+          "2016/11/18 06:00"
+     ],
+     "PHST": [
+          "2016/02/10 00:00 [received]",
+          "2016/07/30 00:00 [revised]",
+          "2016/08/04 00:00 [accepted]",
+          "2016/11/18 06:00 [entrez]",
+          "2016/11/18 06:00 [pubmed]",
+          "2017/07/18 06:00 [medline]"
+     ],
+     "AID": [
+          "36/46/11601 [pii]",
+          "10.1523/JNEUROSCI.0516-16.2016 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2016 Nov 16;36(46):11601-11618. doi: 10.1523/JNEUROSCI.0516-16.2016.",
+     "term": "place cells"
+}

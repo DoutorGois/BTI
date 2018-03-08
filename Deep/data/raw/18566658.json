@@ -1,0 +1,67 @@
+{
+     "PMID": "18566658",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080725",
+     "LR": "20140903",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "4",
+     "IP": "6",
+     "DP": "2008 Jun 20",
+     "TI": "How to record a million synaptic weights in a hippocampal slice.",
+     "PG": "e1000098",
+     "LID": "10.1371/journal.pcbi.1000098 [doi]",
+     "AB": "A key step toward understanding the function of a brain circuit is to find its wiring diagram. New methods for optical stimulation and optical recording of neurons make it possible to map circuit connectivity on a very large scale. However, single synapses produce small responses that are difficult to measure on a large scale. Here I analyze how single synaptic responses may be detectable using relatively coarse readouts such as optical recording of somatic calcium. I model a network consisting of 10,000 input axons and 100 CA1 pyramidal neurons, each represented using 19 compartments with voltage-gated channels and calcium dynamics. As single synaptic inputs cannot produce a measurable somatic calcium response, I stimulate many inputs as a baseline to elicit somatic action potentials leading to a strong calcium signal. I compare statistics of responses with or without a single axonal input riding on this baseline. Through simulations I show that a single additional input shifts the distribution of the number of output action potentials. Stochastic resonance due to probabilistic synaptic release makes this shift easier to detect. With approximately 80 stimulus repetitions this approach can resolve up to 35% of individual activated synapses even in the presence of 20% recording noise. While the technique is applicable using conventional electrical stimulation and extracellular recording, optical methods promise much greater scaling, since the number of synapses scales as the product of the number of inputs and outputs. I extrapolate from current high-speed optical stimulation and recording methods, and show that this approach may scale up to the order of a million synapses in a single two-hour slice-recording experiment.",
+     "FAU": [
+          "Bhalla, Upinder S"
+     ],
+     "AU": [
+          "Bhalla US"
+     ],
+     "AD": "National Centre for Biological Sciences, Tata Institute of Fundamental Research, Bangalore, India. bhalla@ncbs.res.in",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20080620",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Brain Mapping/*methods",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Synapses/*physiology",
+          "Synaptic Transmission/*physiology"
+     ],
+     "PMC": "PMC2409153",
+     "EDAT": "2008/06/21 09:00",
+     "MHDA": "2008/07/26 09:00",
+     "CRDT": [
+          "2008/06/21 09:00"
+     ],
+     "PHST": [
+          "2007/12/10 00:00 [received]",
+          "2008/05/15 00:00 [accepted]",
+          "2008/06/21 09:00 [pubmed]",
+          "2008/07/26 09:00 [medline]",
+          "2008/06/21 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1000098 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2008 Jun 20;4(6):e1000098. doi: 10.1371/journal.pcbi.1000098.",
+     "term": "hippocampus"
+}

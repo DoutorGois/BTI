@@ -1,0 +1,96 @@
+{
+     "PMID": "25753600",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160127",
+     "LR": "20170220",
+     "IS": "0129-0657 (Print) 0129-0657 (Linking)",
+     "VI": "25",
+     "IP": "3",
+     "DP": "2015 May",
+     "TI": "Discrimination of schizophrenia auditory hallucinators by machine learning of resting-state functional MRI.",
+     "PG": "1550007",
+     "LID": "10.1142/S0129065715500070 [doi]",
+     "AB": "Auditory hallucinations (AH) are a symptom that is most often associated with schizophrenia, but patients with other neuropsychiatric conditions, and even a small percentage of healthy individuals, may also experience AH. Elucidating the neural mechanisms underlying AH in schizophrenia may offer insight into the pathophysiology associated with AH more broadly across multiple neuropsychiatric disease conditions. In this paper, we address the problem of classifying schizophrenia patients with and without a history of AH, and healthy control (HC) subjects. To this end, we performed feature extraction from resting state functional magnetic resonance imaging (rsfMRI) data and applied machine learning classifiers, testing two kinds of neuroimaging features: (a) functional connectivity (FC) measures computed by lattice auto-associative memories (LAAM), and (b) local activity (LA) measures, including regional homogeneity (ReHo) and fractional amplitude of low frequency fluctuations (fALFF). We show that it is possible to perform classification within each pair of subject groups with high accuracy. Discrimination between patients with and without lifetime AH was highest, while discrimination between schizophrenia patients and HC participants was worst, suggesting that classification according to the symptom dimension of AH may be more valid than discrimination on the basis of traditional diagnostic categories. FC measures seeded in right Heschl's gyrus (RHG) consistently showed stronger discriminative power than those seeded in left Heschl's gyrus (LHG), a finding that appears to support AH models focusing on right hemisphere abnormalities. The cortical brain localizations derived from the features with strong classification performance are consistent with proposed AH models, and include left inferior frontal gyrus (IFG), parahippocampal gyri, the cingulate cortex, as well as several temporal and prefrontal cortical brain regions. Overall, the observed findings suggest that computational intelligence approaches can provide robust tools for uncovering subtleties in complex neuroimaging data, and have the potential to advance the search for more neuroscience-based criteria for classifying mental illness in psychiatry research.",
+     "FAU": [
+          "Chyzhyk, Darya",
+          "Grana, Manuel",
+          "Ongur, Dost",
+          "Shinn, Ann K"
+     ],
+     "AU": [
+          "Chyzhyk D",
+          "Grana M",
+          "Ongur D",
+          "Shinn AK"
+     ],
+     "AD": "Computational Intelligence Group, Universidad del Pais Vasco (UPV/EHU), San Sebastian 20018, Spain.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K23 MH100611/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150119",
+     "PL": "Singapore",
+     "TA": "Int J Neural Syst",
+     "JT": "International journal of neural systems",
+     "JID": "9100527",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Brain/*physiopathology",
+          "Brain Mapping/methods",
+          "Female",
+          "Frontal Lobe/physiopathology",
+          "Hallucinations/*physiopathology/psychology",
+          "Hippocampus/physiopathology",
+          "Humans",
+          "*Machine Learning",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Memory",
+          "Neural Pathways/physiopathology",
+          "Prefrontal Cortex/physiopathology",
+          "Rest",
+          "Schizophrenia/*physiopathology",
+          "*Schizophrenic Psychology",
+          "Temporal Lobe/physiopathology"
+     ],
+     "PMC": "PMC4787625",
+     "MID": [
+          "NIHMS763001"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Resting state fMRI",
+          "Schizophrenia",
+          "feature selection",
+          "functional connectivity",
+          "lattice auto-associative memories",
+          "lattice computing",
+          "machine learning"
+     ],
+     "EDAT": "2015/03/11 06:00",
+     "MHDA": "2016/01/28 06:00",
+     "CRDT": [
+          "2015/03/11 06:00"
+     ],
+     "PHST": [
+          "2015/03/11 06:00 [entrez]",
+          "2015/03/11 06:00 [pubmed]",
+          "2016/01/28 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1142/S0129065715500070 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Int J Neural Syst. 2015 May;25(3):1550007. doi: 10.1142/S0129065715500070. Epub 2015 Jan 19.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,56 @@
+{
+     "PMID": "26942234",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "VI": "9351",
+     "DP": "2015 Oct",
+     "TI": "Multi-atlas Based Segmentation Editing with Interaction-Guided Constraints.",
+     "PG": "198-206",
+     "AB": "We propose a novel multi-atlas based segmentation method to address the editing scenario, when given an incomplete segmentation along with a set of training label images. Unlike previous multi-atlas based methods, which depend solely on appearance features, we incorporate interaction-guided constraints to find appropriate training labels and derive their voting weights. Specifically, we divide user interactions, provided on erroneous parts, into multiple local interaction combinations, and then locally search for the training label patches well-matched with each interaction combination and also the previous segmentation. Then, we estimate the new segmentation through the label fusion of selected label patches that have their weights defined with respect to their respective distances to the interactions. Since the label patches are found to be from different combinations in our method, various shape changes can be considered even with limited training labels and few user interactions. Since our method does not need image information or expensive learning steps, it can be conveniently used for most editing problems. To demonstrate the positive performance, we apply our method to editing the segmentation of three challenging data sets: prostate CT, brainstem CT, and hippocampus MR. The results show that our method outperforms the existing editing methods in all three data sets.",
+     "FAU": [
+          "Park, Sang Hyun",
+          "Gao, Yaozong",
+          "Shen, Dinggang"
+     ],
+     "AU": [
+          "Park SH",
+          "Gao Y",
+          "Shen D"
+     ],
+     "AD": "Department of Radiology and BRIC, UNC at Chapel Hill, NC 27599, USA. Department of Radiology and BRIC, UNC at Chapel Hill, NC 27599, USA; Department of Computer Science, UNC at Chapel Hill, NC 27599, USA. Department of Radiology and BRIC, UNC at Chapel Hill, NC 27599, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB008374/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20151118",
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "PMC": "PMC4773026",
+     "MID": [
+          "NIHMS740196"
+     ],
+     "EDAT": "2016/03/05 06:00",
+     "MHDA": "2016/03/05 06:00",
+     "CRDT": [
+          "2016/03/05 06:00"
+     ],
+     "PHST": [
+          "2016/03/05 06:00 [entrez]",
+          "2016/03/05 06:00 [pubmed]",
+          "2016/03/05 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/978-3-319-24574-4_24 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2015 Oct;9351:198-206. doi: 10.1007/978-3-319-24574-4_24. Epub 2015 Nov 18.",
+     "term": "hippocampus"
+}

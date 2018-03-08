@@ -1,0 +1,94 @@
+{
+     "PMID": "25926768",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20150430",
+     "LR": "20170220",
+     "IS": "1662-5099 (Print) 1662-5099 (Linking)",
+     "VI": "8",
+     "DP": "2015",
+     "TI": "Imaging activity in astrocytes and neurons with genetically encoded calcium indicators following in utero electroporation.",
+     "PG": "10",
+     "LID": "10.3389/fnmol.2015.00010 [doi]",
+     "AB": "Complex interactions between networks of astrocytes and neurons are beginning to be appreciated, but remain poorly understood. Transgenic mice expressing fluorescent protein reporters of cellular activity, such as the GCaMP family of genetically encoded calcium indicators (GECIs), have been used to explore network behavior. However, in some cases, it may be desirable to use long-established rat models that closely mimic particular aspects of human conditions such as Parkinson's disease and the development of epilepsy following status epilepticus. Methods for expressing reporter proteins in the rat brain are relatively limited. Transgenic rat technologies exist but are fairly immature. Viral-mediated expression is robust but unstable, requires invasive injections, and only works well for fairly small genes (<5 kb). In utero electroporation (IUE) offers a valuable alternative. IUE is a proven method for transfecting populations of astrocytes and neurons in the rat brain without the strict limitations on transgene size. We built a toolset of IUE plasmids carrying GCaMP variants 3, 6s, or 6f driven by CAG and targeted to the cytosol or the plasma membrane. Because low baseline fluorescence of GCaMP can hinder identification of transfected cells, we included the option of co-expressing a cytosolic tdTomato protein. A binary system consisting of a plasmid carrying a piggyBac inverted terminal repeat (ITR)-flanked CAG-GCaMP-IRES-tdTomato cassette and a separate plasmid encoding for expression of piggyBac transposase was employed to stably express GCaMP and tdTomato. The plasmids were co-electroporated on embryonic days 13.5-14.5 and astrocytic and neuronal activity was subsequently imaged in acute or cultured brain slices prepared from the cortex or hippocampus. Large spontaneous transients were detected in slices obtained from rats of varying ages up to 127 days. In this report, we demonstrate the utility of this toolset for interrogating astrocytic and neuronal activity in the rat brain.",
+     "FAU": [
+          "Gee, J Michael",
+          "Gibbons, Meredith B",
+          "Taheri, Marsa",
+          "Palumbos, Sierra",
+          "Morris, S Craig",
+          "Smeal, Roy M",
+          "Flynn, Katherine F",
+          "Economo, Michael N",
+          "Cizek, Christian G",
+          "Capecchi, Mario R",
+          "Tvrdik, Petr",
+          "Wilcox, Karen S",
+          "White, John A"
+     ],
+     "AU": [
+          "Gee JM",
+          "Gibbons MB",
+          "Taheri M",
+          "Palumbos S",
+          "Morris SC",
+          "Smeal RM",
+          "Flynn KF",
+          "Economo MN",
+          "Cizek CG",
+          "Capecchi MR",
+          "Tvrdik P",
+          "Wilcox KS",
+          "White JA"
+     ],
+     "AD": "Neuronal Dynamics Laboratory, Department of Bioengineering, University of Utah Salt Lake City, UT, USA ; MD-PhD Program, University of Utah Salt Lake City, UT, USA. Glial-Neuronal Interactions in Epilepsy Laboratory, Department of Pharmacology and Toxicology, University of Utah Salt Lake City, UT, USA ; Interdepartmental Program in Neuroscience, University of Utah Salt Lake City, UT, USA. Neuronal Dynamics Laboratory, Department of Bioengineering, University of Utah Salt Lake City, UT, USA. Mario Capecchi Laboratory, Department of Human Genetics, University of Utah Salt Lake City, UT, USA. Neuronal Dynamics Laboratory, Department of Bioengineering, University of Utah Salt Lake City, UT, USA ; Mario Capecchi Laboratory, Department of Human Genetics, University of Utah Salt Lake City, UT, USA. Glial-Neuronal Interactions in Epilepsy Laboratory, Department of Pharmacology and Toxicology, University of Utah Salt Lake City, UT, USA. Glial-Neuronal Interactions in Epilepsy Laboratory, Department of Pharmacology and Toxicology, University of Utah Salt Lake City, UT, USA. Neuronal Dynamics Laboratory, Department of Bioengineering, University of Utah Salt Lake City, UT, USA. Neuronal Dynamics Laboratory, Department of Bioengineering, University of Utah Salt Lake City, UT, USA ; Mario Capecchi Laboratory, Department of Human Genetics, University of Utah Salt Lake City, UT, USA. Mario Capecchi Laboratory, Department of Human Genetics, University of Utah Salt Lake City, UT, USA ; Department of Human Genetics, Howard Hughes Medical Institute, University of Utah Salt Lake City, UT, USA. Mario Capecchi Laboratory, Department of Human Genetics, University of Utah Salt Lake City, UT, USA. Glial-Neuronal Interactions in Epilepsy Laboratory, Department of Pharmacology and Toxicology, University of Utah Salt Lake City, UT, USA. Neuronal Dynamics Laboratory, Department of Bioengineering, University of Utah Salt Lake City, UT, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS078331/NS/NINDS NIH HHS/United States",
+          "R21 OD016562/OD/NIH HHS/United States",
+          "RC1 NS069033/NS/NINDS NIH HHS/United States",
+          "T32 NS076067/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150415",
+     "PL": "Switzerland",
+     "TA": "Front Mol Neurosci",
+     "JT": "Frontiers in molecular neuroscience",
+     "JID": "101477914",
+     "PMC": "PMC4397926",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "GCaMP3",
+          "GCaMP6",
+          "astroglia",
+          "calcium imaging",
+          "gene expression",
+          "neural network",
+          "rat model",
+          "tdTomato"
+     ],
+     "EDAT": "2015/05/01 06:00",
+     "MHDA": "2015/05/01 06:01",
+     "CRDT": [
+          "2015/05/01 06:00"
+     ],
+     "PHST": [
+          "2015/02/22 00:00 [received]",
+          "2015/03/23 00:00 [accepted]",
+          "2015/05/01 06:00 [entrez]",
+          "2015/05/01 06:00 [pubmed]",
+          "2015/05/01 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnmol.2015.00010 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Mol Neurosci. 2015 Apr 15;8:10. doi: 10.3389/fnmol.2015.00010. eCollection 2015.",
+     "term": "hippocampus"
+}

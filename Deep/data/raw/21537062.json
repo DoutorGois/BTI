@@ -1,0 +1,60 @@
+{
+     "PMID": "21537062",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110822",
+     "LR": "20110503",
+     "IS": "1878-3619 (Electronic) 0959-2989 (Linking)",
+     "VI": "21",
+     "IP": "1",
+     "DP": "2011",
+     "TI": "Genetic diagnosis of cancer by fuzzy-rough gene selection and the complementary hierarchical fuzzy classifier.",
+     "PG": "37-52",
+     "LID": "10.3233/BME-2011-0655 [doi]",
+     "AB": "Gene expression data have extremely high dimensionality with respect to traditional classifiers which causes not to be used efficiently. In this paper a Fuzzy-Rough Gene Selection and Complementary Hierarchical Fuzzy classifier (FRGS-CHF) to classify the gene expression data as a new methodology is proposed. First, some relevant genes are selected using fuzzy-rough attribute selection method. After removing redundant genes, a new complementary hierarchical fuzzy classifier is proposed. The complementary learning mechanism refers to positive and negative learning which are found in the human brain hippocampus. FRGS-CHF is made-up of two parallel hierarchical fuzzy systems; the first is trained with positive samples whilst the other is treated with negative samples. In contrast to many other methods such as statistical or neural networks, FRGS-CHF provides greater interpretability. It does not rely on the assumption of underlying data distribution. Using complementary and hierarchical approaches, the proposed method exploits the lateral inhibition between output classes and considers the problem as a multidimensional problem. Benchmarked datasets are used to demonstrate the validity and advantages of the proposed method over the other existing methods in terms of the accuracy, better transparency, time efficiency together with fewer fuzzy rules and parameters.",
+     "FAU": [
+          "Shaeiri, Zahra",
+          "Ghaderi, Reza"
+     ],
+     "AU": [
+          "Shaeiri Z",
+          "Ghaderi R"
+     ],
+     "AD": "Department of Electrical and Computer Engineering, Babol University of Technology, Babol, Iran.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "Biomed Mater Eng",
+     "JT": "Bio-medical materials and engineering",
+     "JID": "9104021",
+     "SB": "IM",
+     "MH": [
+          "*Fuzzy Logic",
+          "Gene Expression Profiling/methods",
+          "Gene Expression Regulation, Neoplastic",
+          "Humans",
+          "Neoplasms/diagnosis/*genetics",
+          "Oligonucleotide Array Sequence Analysis/*methods"
+     ],
+     "EDAT": "2011/05/04 06:00",
+     "MHDA": "2011/08/23 06:00",
+     "CRDT": [
+          "2011/05/04 06:00"
+     ],
+     "PHST": [
+          "2011/05/04 06:00 [entrez]",
+          "2011/05/04 06:00 [pubmed]",
+          "2011/08/23 06:00 [medline]"
+     ],
+     "AID": [
+          "J4865V82648707M4 [pii]",
+          "10.3233/BME-2011-0655 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biomed Mater Eng. 2011;21(1):37-52. doi: 10.3233/BME-2011-0655.",
+     "term": "hippocampus"
+}

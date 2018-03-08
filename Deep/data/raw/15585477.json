@@ -1,0 +1,77 @@
+{
+     "PMID": "15585477",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050223",
+     "LR": "20161124",
+     "IS": "0161-5505 (Print) 0161-5505 (Linking)",
+     "VI": "45",
+     "IP": "12",
+     "DP": "2004 Dec",
+     "TI": "Quantitative SPECT leads to improved performance in discrimination tasks related to prodromal Alzheimer's disease.",
+     "PG": "2026-31",
+     "AB": "UNLABELLED: We investigated the impact of the quantitation and reconstruction protocol on clinical tasks. The performance of standard clinical reconstruction procedures in discrimination tasks related to the diagnosis of prodromal Alzheimer's disease (AD) was compared with the performance of a quantitative approach incorporating improved corrections for scatter, attenuation, intrinsic spatial resolution, and distance-dependent spatial resolution. METHODS: Seventeen normal controls (normal group), 56 subjects who did not have dementia, who did have memory problems, but who did not develop AD within 5 y of follow-up (questionable group), and 27 subjects who did not have dementia, who did have memory problems, and who did develop AD over the follow-up period (converter group) were considered in this study. (99m)Tc-hexamethylpropyleneamine oxime SPECT and MRI studies were performed for each subject at baseline. The standard quantitation protocol (STD), routinely used in our clinic, consisted of Compton window scatter correction followed by filtered backprojection with attenuation correction using a uniform attenuation map. In the improved quantitative approach (QUAN), projections were corrected for scatter by use of a general spectral method and reconstructed by use of ordered-subset(s) expectation maximization, incorporating corrections for collimator response and attenuation using both a uniform attenuation map (QUANunif) and a nonuniform attenuation map (QUANnonunif). Mean SPECT activity concentration and MRI volume were estimated for 7 structures: rostral anterior cingulate gyrus, caudal anterior cingulate gyrus, posterior cingulate gyrus, hippocampus, basal forebrain, amygdala, and the banks of the superior temporal sulcus. Data were analyzed by pairwise discriminant analysis, and performance in binary group discrimination was measured by correlated receiver-operating-characteristic analysis. RESULTS: The use of QUANnonunif yielded a small but systematic improvement in discrimination accuracy for normal versus converter groups (accuracy or area under the receiver-operating-characteristic curve [Az], 0.965), normal versus questionable groups (Az, 0.973), and questionable versus converter groups (Az, 0.881) compared with the results obtained with QUANunif (Az, 0.955, 0.962, and 0.866, respectively). Discrimination performance was significantly lower (P < 0.05) with STD than with QUAN in all 3 tasks (Az with STD, 0.906, 0.878, and 0.768, respectively). MRI volume estimation led to a lower overall performance in all 3 tasks than did QUANnonunif (Az with MRI, 0.947, 0.917, and 0.872, respectively). CONCLUSION: Improved quantitative image reconstruction with accurate compensation for scatter, attenuation, and variable collimator response led to significantly better performance in discrimination tasks related to the diagnosis of prodromal AD than did standard clinical reconstruction procedures. The use of a nonuniform brain attenuation map yields a small improvement in discrimination accuracy.",
+     "FAU": [
+          "El Fakhri, Georges",
+          "Kijewski, Marie Foley",
+          "Albert, Marilyn S",
+          "Johnson, Keith A",
+          "Moore, Stephen C"
+     ],
+     "AU": [
+          "El Fakhri G",
+          "Kijewski MF",
+          "Albert MS",
+          "Johnson KA",
+          "Moore SC"
+     ],
+     "AD": "Department of Radiology, Harvard Medical School, Boston, Massachusetts 02115, USA. elfakhri@bwh.harvard.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB000802/EB/NIBIB NIH HHS/United States",
+          "P01-AG4953/AG/NIA NIH HHS/United States",
+          "R01-EB000802/EB/NIBIB NIH HHS/United States",
+          "R01-EB001989/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Nucl Med",
+     "JT": "Journal of nuclear medicine : official publication, Society of Nuclear Medicine",
+     "JID": "0217410",
+     "RN": [
+          "3B744AG22N (Technetium Tc 99m Exametazime)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/diagnostic imaging/*pathology",
+          "Brain/diagnostic imaging/*pathology",
+          "Dementia/diagnostic imaging/*pathology",
+          "Humans",
+          "*Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging/methods",
+          "*Technetium Tc 99m Exametazime",
+          "Tomography, Emission-Computed, Single-Photon/methods"
+     ],
+     "EDAT": "2004/12/09 09:00",
+     "MHDA": "2005/02/24 09:00",
+     "CRDT": [
+          "2004/12/09 09:00"
+     ],
+     "PHST": [
+          "2004/12/09 09:00 [pubmed]",
+          "2005/02/24 09:00 [medline]",
+          "2004/12/09 09:00 [entrez]"
+     ],
+     "AID": [
+          "45/12/2026 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Nucl Med. 2004 Dec;45(12):2026-31.",
+     "term": "hippocampus"
+}

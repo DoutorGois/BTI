@@ -1,0 +1,73 @@
+{
+     "PMID": "15344445",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20041001",
+     "LR": "20061115",
+     "IS": "1011-2499 (Print) 1011-2499 (Linking)",
+     "VI": "18",
+     "DP": "2003 Jul",
+     "TI": "Shape discrimination in the hippocampus using an MDL model.",
+     "PG": "38-50",
+     "AB": "We extend recent work on building 3D statistical shape models, automatically, from sets of training shapes and describe an application in shape analysis. Using an existing measure of model quality, based on a minimum description length criterion, and an existing method of surface re-parameterisation, we introduce a new approach to model optimisation that is scalable, more accurate, and involves fewer parameters than previous methods. We use the new approach to build a model of the right hippocampus, using a training set of 82 shapes, manually segmented from 3D MR images of the brain. We compare the results with those obtained using another previously published method for building 3D models, and show that our approach results in a model that is significantly more specific, general, and compact. The two models are used to investigate the hypothesis that there are differences in hippocampal shape between age-matched schizophrenic and normal control subgroups within the training set. Linear discriminant analysis is used to find the combination of shape parameters that best separates the two subgroups. We perform an unbiased test that shows there is a statistically significant shape difference using either shape model, but that the difference is more significant using the model built using our approach. We show also that the difference between the two subgroups can be visualised as a mode of shape variation.",
+     "FAU": [
+          "Davies, Rhodri H",
+          "Twining, Carole J",
+          "Allen, P Daniel",
+          "Cootes, Tim F",
+          "Taylor, Chris J"
+     ],
+     "AU": [
+          "Davies RH",
+          "Twining CJ",
+          "Allen PD",
+          "Cootes TF",
+          "Taylor CJ"
+     ],
+     "AD": "Howard Florey Institute, University of Melbourne, Australia. rhodri.davies@hfi.unimelb.edu.au",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "PL": "Germany",
+     "TA": "Inf Process Med Imaging",
+     "JT": "Information processing in medical imaging : proceedings of the ... conference",
+     "JID": "9216871",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Artificial Intelligence",
+          "Computer Simulation",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Biological",
+          "Models, Statistical",
+          "*Pattern Recognition, Automated",
+          "Schizophrenia/*diagnosis",
+          "Subtraction Technique"
+     ],
+     "EDAT": "2004/09/04 05:00",
+     "MHDA": "2004/10/02 05:00",
+     "CRDT": [
+          "2004/09/04 05:00"
+     ],
+     "PHST": [
+          "2004/09/04 05:00 [pubmed]",
+          "2004/10/02 05:00 [medline]",
+          "2004/09/04 05:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Inf Process Med Imaging. 2003 Jul;18:38-50.",
+     "term": "hippocampus"
+}

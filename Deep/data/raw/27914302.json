@@ -1,0 +1,80 @@
+{
+     "PMID": "27914302",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20180201",
+     "IS": "1361-8423 (Electronic) 1361-8415 (Linking)",
+     "VI": "36",
+     "DP": "2017 Feb",
+     "TI": "Progressive multi-atlas label fusion by dictionary evolution.",
+     "PG": "162-171",
+     "LID": "S1361-8415(16)30207-9 [pii] 10.1016/j.media.2016.11.005 [doi]",
+     "AB": "Accurate segmentation of anatomical structures in medical images is important in recent imaging based studies. In the past years, multi-atlas patch-based label fusion methods have achieved a great success in medical image segmentation. In these methods, the appearance of each input image patch is first represented by an atlas patch dictionary (in the image domain), and then the latent label of the input image patch is predicted by applying the estimated representation coefficients to the corresponding anatomical labels of the atlas patches in the atlas label dictionary (in the label domain). However, due to the generally large gap between the patch appearance in the image domain and the patch structure in the label domain, the estimated (patch) representation coefficients from the image domain may not be optimal for the final label fusion, thus reducing the labeling accuracy. To address this issue, we propose a novel label fusion framework to seek for the suitable label fusion weights by progressively constructing a dynamic dictionary in a layer-by-layer manner, where the intermediate dictionaries act as a sequence of guidance to steer the transition of (patch) representation coefficients from the image domain to the label domain. Our proposed multi-layer label fusion framework is flexible enough to be applied to the existing labeling methods for improving their label fusion performance, i.e., by extending their single-layer static dictionary to the multi-layer dynamic dictionary. The experimental results show that our proposed progressive label fusion method achieves more accurate hippocampal segmentation results for the ADNI dataset, compared to the counterpart methods using only the single-layer static dictionary.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Song, Yantao",
+          "Wu, Guorong",
+          "Bahrami, Khosro",
+          "Sun, Quansen",
+          "Shen, Dinggang"
+     ],
+     "AU": [
+          "Song Y",
+          "Wu G",
+          "Bahrami K",
+          "Sun Q",
+          "Shen D"
+     ],
+     "AD": "School of Computer Science & Technology, Nanjing University of Science and Technology, Nanjing, Jiangsu 210094, China; Department of Radiology and BRIC, University of North Carolina at Chapel Hill, NC 27599, USA. Electronic address: yantaosong@hotmail.com. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, NC 27599, USA. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, NC 27599, USA. School of Computer Science & Technology, Nanjing University of Science and Technology, Nanjing, Jiangsu 210094, China. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, NC 27599, USA; Department of Brain and Cognitive Engineering, Korea University, Seoul, 02841, Republic of Korea. Electronic address: dgshen@med.unc.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB008374/EB/NIBIB NIH HHS/United States",
+          "R01 EB009634/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20161124",
+     "PL": "Netherlands",
+     "TA": "Med Image Anal",
+     "JT": "Medical image analysis",
+     "JID": "9713490",
+     "PMC": "PMC5239730",
+     "MID": [
+          "NIHMS833561"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Brain MRI",
+          "Hippocampus",
+          "Label fusion",
+          "Multi-atlas",
+          "Sparse representation"
+     ],
+     "EDAT": "2016/12/04 06:00",
+     "MHDA": "2016/12/04 06:00",
+     "CRDT": [
+          "2016/12/04 06:00"
+     ],
+     "PHST": [
+          "2016/02/29 00:00 [received]",
+          "2016/10/08 00:00 [revised]",
+          "2016/11/18 00:00 [accepted]",
+          "2016/12/04 06:00 [pubmed]",
+          "2016/12/04 06:00 [medline]",
+          "2016/12/04 06:00 [entrez]"
+     ],
+     "AID": [
+          "S1361-8415(16)30207-9 [pii]",
+          "10.1016/j.media.2016.11.005 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Anal. 2017 Feb;36:162-171. doi: 10.1016/j.media.2016.11.005. Epub 2016 Nov 24.",
+     "term": "hippocampus"
+}

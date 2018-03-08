@@ -1,0 +1,70 @@
+{
+     "PMID": "22916006",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121214",
+     "LR": "20170309",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "8",
+     "IP": "8",
+     "DP": "2012",
+     "TI": "Maintaining a cognitive map in darkness: the need to fuse boundary knowledge with path integration.",
+     "PG": "e1002651",
+     "LID": "10.1371/journal.pcbi.1002651 [doi]",
+     "AB": "Spatial navigation requires the processing of complex, disparate and often ambiguous sensory data. The neurocomputations underpinning this vital ability remain poorly understood. Controversy remains as to whether multimodal sensory information must be combined into a unified representation, consistent with Tolman's \"cognitive map\", or whether differential activation of independent navigation modules suffice to explain observed navigation behaviour. Here we demonstrate that key neural correlates of spatial navigation in darkness cannot be explained if the path integration system acted independently of boundary (landmark) information. In vivo recordings demonstrate that the rodent head direction (HD) system becomes unstable within three minutes without vision. In contrast, rodents maintain stable place fields and grid fields for over half an hour without vision. Using a simple HD error model, we show analytically that idiothetic path integration (iPI) alone cannot be used to maintain any stable place representation beyond two to three minutes. We then use a measure of place stability based on information theoretic principles to prove that featureless boundaries alone cannot be used to improve localization above chance level. Having shown that neither iPI nor boundaries alone are sufficient, we then address the question of whether their combination is sufficient and--we conjecture--necessary to maintain place stability for prolonged periods without vision. We addressed this question in simulations and robot experiments using a navigation model comprising of a particle filter and boundary map. The model replicates published experimental results on place field and grid field stability without vision, and makes testable predictions including place field splitting and grid field rescaling if the true arena geometry differs from the acquired boundary map. We discuss our findings in light of current theories of animal navigation and neuronal computation, and elaborate on their implications and significance for the design, analysis and interpretation of experiments.",
+     "FAU": [
+          "Cheung, Allen",
+          "Ball, David",
+          "Milford, Michael",
+          "Wyeth, Gordon",
+          "Wiles, Janet"
+     ],
+     "AU": [
+          "Cheung A",
+          "Ball D",
+          "Milford M",
+          "Wyeth G",
+          "Wiles J"
+     ],
+     "AD": "The University of Queensland, Queensland Brain Institute, Brisbane, Queensland, Australia. a.cheung@uq.edu.au",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120816",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Cognition",
+          "*Darkness",
+          "Rats",
+          "Vision, Ocular"
+     ],
+     "PMC": "PMC3420935",
+     "EDAT": "2012/08/24 06:00",
+     "MHDA": "2012/12/15 06:00",
+     "CRDT": [
+          "2012/08/24 06:00"
+     ],
+     "PHST": [
+          "2012/02/17 00:00 [received]",
+          "2012/06/21 00:00 [accepted]",
+          "2012/08/24 06:00 [entrez]",
+          "2012/08/24 06:00 [pubmed]",
+          "2012/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1002651 [doi]",
+          "PCOMPBIOL-D-12-00292 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2012;8(8):e1002651. doi: 10.1371/journal.pcbi.1002651. Epub 2012 Aug 16.",
+     "term": "spatial navigation"
+}

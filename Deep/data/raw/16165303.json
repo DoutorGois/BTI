@@ -1,0 +1,84 @@
+{
+     "PMID": "16165303",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060111",
+     "LR": "20071114",
+     "IS": "0306-4522 (Print) 0306-4522 (Linking)",
+     "VI": "135",
+     "IP": "4",
+     "DP": "2005",
+     "TI": "A three-dimensional digital atlas database of the adult C57BL/6J mouse brain by magnetic resonance microscopy.",
+     "PG": "1203-15",
+     "AB": "A comprehensive three-dimensional digital atlas database of the C57BL/6J mouse brain was developed based on magnetic resonance microscopy images acquired on a 17.6-T superconducting magnet. By using both manual tracing and an atlas-based semi-automatic segmentation approach, T2-weighted magnetic resonance microscopy images of 10 adult male formalin-fixed, excised C57BL/6J mouse brains were segmented into 20 anatomical structures. These structures included the neocortex, hippocampus, amygdala, olfactory bulbs, basal forebrain and septum, caudate-putamen, globus pallidus, thalamus, hypothalamus, central gray, superior colliculi, inferior colliculi, the rest of midbrain, cerebellum, brainstem, corpus callosum/external capsule, internal capsule, anterior commissure, fimbria, and ventricles. The segmentation data were formatted and stored into a database containing three different atlas types: 10 single-specimen brain atlases, an average brain atlas and a probabilistic atlas. Additionally, quantitative group information, such as variations in structural volume, surface area, magnetic resonance microscopy image intensity and local geometry, were computed and stored as an integral part of the database. The database augments ongoing efforts with other high priority strains as defined by the Mouse Phenome Database focused on providing a quantitative framework for accurate mapping of functional, genetic and protein expression patterns acquired by a myriad of technologies and imaging modalities.",
+     "FAU": [
+          "Ma, Y",
+          "Hof, P R",
+          "Grant, S C",
+          "Blackband, S J",
+          "Bennett, R",
+          "Slatest, L",
+          "McGuigan, M D",
+          "Benveniste, H"
+     ],
+     "AU": [
+          "Ma Y",
+          "Hof PR",
+          "Grant SC",
+          "Blackband SJ",
+          "Bennett R",
+          "Slatest L",
+          "McGuigan MD",
+          "Benveniste H"
+     ],
+     "AD": "Department of Psychiatry, Mount Sinai School of Medicine, New York, NY, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 RR16105/RR/NCRR NIH HHS/United States",
+          "R01 EB 00233-04/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20050913",
+     "PL": "United States",
+     "TA": "Neuroscience",
+     "JT": "Neuroscience",
+     "JID": "7605074",
+     "SB": "IM",
+     "MH": [
+          "*Anatomy, Artistic/methods",
+          "Animals",
+          "Brain/*anatomy & histology",
+          "*Databases, Factual",
+          "Imaging, Three-Dimensional",
+          "*Magnetic Resonance Imaging",
+          "*Medical Illustration",
+          "Mice",
+          "Mice, Inbred C57BL/*anatomy & histology"
+     ],
+     "EDAT": "2005/09/17 09:00",
+     "MHDA": "2006/01/13 09:00",
+     "CRDT": [
+          "2005/09/17 09:00"
+     ],
+     "PHST": [
+          "2005/03/12 00:00 [received]",
+          "2005/07/09 00:00 [revised]",
+          "2005/07/12 00:00 [accepted]",
+          "2005/09/17 09:00 [pubmed]",
+          "2006/01/13 09:00 [medline]",
+          "2005/09/17 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0306-4522(05)00763-3 [pii]",
+          "10.1016/j.neuroscience.2005.07.014 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroscience. 2005;135(4):1203-15. doi: 10.1016/j.neuroscience.2005.07.014. Epub 2005 Sep 13.",
+     "term": "hippocampus"
+}

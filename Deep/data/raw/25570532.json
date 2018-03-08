@@ -1,0 +1,55 @@
+{
+     "PMID": "25570532",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150921",
+     "LR": "20150109",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2014",
+     "DP": "2014",
+     "TI": "Real time algorithms for sharp wave ripple detection.",
+     "PG": "2637-40",
+     "LID": "10.1109/EMBC.2014.6944164 [doi]",
+     "AB": "Neural activity during sharp wave ripples (SWR), short bursts of co-ordinated oscillatory activity in the CA1 region of the rodent hippocampus, is implicated in a variety of memory functions from consolidation to recall. Detection of these events in an algorithmic framework, has thus far relied on simple thresholding techniques with heuristically derived parameters. This study is an investigation into testing and improving the current methods for detection of SWR events in neural recordings. We propose and profile methods to reduce latency in ripple detection. Proposed algorithms are tested on simulated ripple data. The findings show that simple realtime algorithms can improve upon existing power thresholding methods and can detect ripple activity with latencies in the range of 10-20 ms.",
+     "FAU": [
+          "Sethi, Ankit",
+          "Kemere, Caleb"
+     ],
+     "AU": [
+          "Sethi A",
+          "Kemere C"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Computer Simulation",
+          "*Computer Systems",
+          "*Wavelet Analysis"
+     ],
+     "EDAT": "2015/01/09 06:00",
+     "MHDA": "2015/09/22 06:00",
+     "CRDT": [
+          "2015/01/09 06:00"
+     ],
+     "PHST": [
+          "2015/01/09 06:00 [entrez]",
+          "2015/01/09 06:00 [pubmed]",
+          "2015/09/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2014.6944164 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2014;2014:2637-40. doi: 10.1109/EMBC.2014.6944164.",
+     "term": "hippocampus"
+}

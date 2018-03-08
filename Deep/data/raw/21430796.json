@@ -1,0 +1,64 @@
+{
+     "PMID": "21430796",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20110517",
+     "LR": "20170220",
+     "IS": "1178-2021 (Electronic) 1176-6328 (Linking)",
+     "VI": "7",
+     "DP": "2011",
+     "TI": "Brain volumetric measures in alcoholics: a comparison of two segmentation methods.",
+     "PG": "65-75",
+     "LID": "10.2147/NDT.S13405 [doi]",
+     "AB": "Measures of regional brain volumes, which can be derived from magnetic resonance imaging (MRI) images by dividing a brain into its constituent parts, can be used as structural indicators of many different neuroanatomical diseases and disorders, including alcoholism. Reducing the time and cost required for brain segmentation would greatly facilitate both clinical and research endeavors. In the present study, we compared two segmentation methods to measure brain volumes in alcoholic and nonalcoholic control subjects: 1) an automated system (FreeSurfer) and 2) a semi-automated, supervised system (Cardviews, developed by the Center for Morphometric Analysis [CMA] at Massachusetts General Hospital), which requires extensive staff and oversight. The participants included 32 abstinent alcoholics (19 women) and 37 demographically matched, nonalcoholic controls (17 women). Brain scans were acquired in a 3 Tesla MRI scanner. The FreeSurfer and CMA methods showed good agreement for the lateral ventricles, cerebral white matter, caudate, and thalamus. In general, the larger the brain structure, the closer the agreement between the methods, except for the cerebral cortex, which showed large between-method differences. However, several other discrepancies existed between the FreeSurfer and CMA volume measures of alcoholics' brains. The CMA volumes, but not FreeSurfer, demonstrated that the thalamus, caudate, and putamen were significantly smaller in male alcoholics as compared with male controls. Additionally, the hippocampus was significantly smaller in alcoholic women compared with women controls. In general, correlation between methods was lowest in male alcoholic subjects, who also showed the greatest abnormalities. These results suggest that although many brain structures can be segmented reliably by CMA and FreeSurfer, low correlations between methods in some regions may be due to morphological changes in the brains of alcoholics.",
+     "FAU": [
+          "Oscar-Berman, Marlene",
+          "Song, Janet"
+     ],
+     "AU": [
+          "Oscar-Berman M",
+          "Song J"
+     ],
+     "AD": "Department of Psychiatry, Boston University School of Medicine, Suite L-815, 72 East Concord Street, Boston, MA, USA. oscar@bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K05 AA000219/AA/NIAAA NIH HHS/United States",
+          "R01 AA007112/AA/NIAAA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20110227",
+     "PL": "New Zealand",
+     "TA": "Neuropsychiatr Dis Treat",
+     "JT": "Neuropsychiatric disease and treatment",
+     "JID": "101240304",
+     "PMC": "PMC3056175",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "MRI",
+          "alcoholism",
+          "brain segmentation"
+     ],
+     "EDAT": "2011/03/25 06:00",
+     "MHDA": "2011/03/25 06:01",
+     "CRDT": [
+          "2011/03/25 06:00"
+     ],
+     "PHST": [
+          "2011/02/26 00:00 [received]",
+          "2011/03/25 06:00 [entrez]",
+          "2011/03/25 06:00 [pubmed]",
+          "2011/03/25 06:01 [medline]"
+     ],
+     "AID": [
+          "10.2147/NDT.S13405 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuropsychiatr Dis Treat. 2011;7:65-75. doi: 10.2147/NDT.S13405. Epub 2011 Feb 27.",
+     "term": "hippocampus"
+}

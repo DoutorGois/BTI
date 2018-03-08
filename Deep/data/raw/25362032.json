@@ -1,0 +1,88 @@
+{
+     "PMID": "25362032",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151026",
+     "LR": "20150209",
+     "IS": "1875-8908 (Electronic) 1387-2877 (Linking)",
+     "VI": "44",
+     "IP": "3",
+     "DP": "2015",
+     "TI": "A regulatory role for the insulin- and BDNF-linked RORA in the hippocampus: implications for Alzheimer's disease.",
+     "PG": "827-38",
+     "LID": "10.3233/JAD-141731 [doi]",
+     "AB": "Alzheimer's disease (AD) is the leading cause of dementia. The etiology of AD remains, in large part, unresolved. In this study, gene expression (microarray) data from postmortem brains in normal aged as well as AD-affected brains in conjunction with transcriptional regulatory networks were explored for etiological insights. The focus was on the hippocampus, a brain region key to memory and learning. The transcriptional regulatory networks were inferred using a trees-based (random forests or extra-trees) as well as a mutual information-based algorithm applied to compendia of adult mouse whole brain and hippocampus microarray data. Network nodes representing human orthologs of the mouse networks were used in the subsequent analysis. Among the potential transcriptional regulators tied to insulin or brain-derived neurotrophic factor (INS1, INS2, BDNF), whose peptide products have been linked to AD, is the Retinoic Acid Receptor-Related Orphan Receptor (RORA). RORA is a nuclear receptor transcription factor whose expression is distinctly upregulated in the AD hippocampus. A notable cross-section of genes differentially expressed in the AD hippocampus was found to be linked to RORA in the networks. Furthermore, several genes associated with RORA in the networks, such as APP, DNM1L, and TIA1 have been implicated in AD. Computationally-derived clusters and modules within the networks indicated strong ties between RORA and genes involved in the AD etiology. In addition, a functional mapping scheme using activity and interaction data affirmed the same network links to RORA. Thus, RORA emerges as a gene with a probable central role in the AD pathology/etiology.",
+     "FAU": [
+          "Acquaah-Mensah, George K",
+          "Agu, Nnenna",
+          "Khan, Tayyiba",
+          "Gardner, Alice"
+     ],
+     "AU": [
+          "Acquaah-Mensah GK",
+          "Agu N",
+          "Khan T",
+          "Gardner A"
+     ],
+     "AD": "Department of Pharmaceutical Sciences, School of Pharmacy, MCPHS University (Massachusetts College of Pharmacy and Health Sciences), Worcester, Massachusetts, USA. Department of Pharmaceutical Sciences, School of Pharmacy, MCPHS University (Massachusetts College of Pharmacy and Health Sciences), Worcester, Massachusetts, USA. Department of Pharmaceutical Sciences, School of Pharmacy, MCPHS University (Massachusetts College of Pharmacy and Health Sciences), Worcester, Massachusetts, USA. Department of Pharmaceutical Sciences, School of Pharmacy, MCPHS University (Massachusetts College of Pharmacy and Health Sciences), Worcester, Massachusetts, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Alzheimers Dis",
+     "JT": "Journal of Alzheimer's disease : JAD",
+     "JID": "9814863",
+     "RN": [
+          "0 (Brain-Derived Neurotrophic Factor)",
+          "0 (Insulin)",
+          "0 (Nuclear Receptor Subfamily 1, Group F, Member 1)",
+          "0 (RNA, Messenger)",
+          "0 (RORA protein, human)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*pathology",
+          "Animals",
+          "Brain-Derived Neurotrophic Factor/*metabolism",
+          "Female",
+          "Gene Expression Profiling",
+          "Gene Regulatory Networks/genetics",
+          "Hippocampus/*metabolism",
+          "Humans",
+          "Insulin/*metabolism",
+          "Male",
+          "Mice",
+          "Nuclear Receptor Subfamily 1, Group F, Member 1/genetics/*metabolism",
+          "Oligonucleotide Array Sequence Analysis",
+          "RNA, Messenger/metabolism"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "RORA",
+          "retinoids",
+          "transcriptional networks"
+     ],
+     "EDAT": "2014/11/02 06:00",
+     "MHDA": "2015/10/27 06:00",
+     "CRDT": [
+          "2014/11/02 06:00"
+     ],
+     "PHST": [
+          "2014/11/02 06:00 [entrez]",
+          "2014/11/02 06:00 [pubmed]",
+          "2015/10/27 06:00 [medline]"
+     ],
+     "AID": [
+          "P38415R35423MV21 [pii]",
+          "10.3233/JAD-141731 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Alzheimers Dis. 2015;44(3):827-38. doi: 10.3233/JAD-141731.",
+     "term": "hippocampus"
+}

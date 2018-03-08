@@ -1,0 +1,89 @@
+{
+     "PMID": "18829848",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090423",
+     "LR": "20170220",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "100",
+     "IP": "6",
+     "DP": "2008 Dec",
+     "TI": "Pyramidal neurons switch from integrators in vitro to resonators under in vivo-like conditions.",
+     "PG": "3030-42",
+     "LID": "10.1152/jn.90634.2008 [doi]",
+     "AB": "During wakefulness, pyramidal neurons in the intact brain are bombarded by synaptic input that causes tonic depolarization, increased membrane conductance (i.e., shunting), and noisy fluctuations in membrane potential; by comparison, pyramidal neurons in acute slices typically experience little background input. Such differences in operating conditions can compromise extrapolation of in vitro data to explain neuronal operation in vivo. For instance, pyramidal neurons have been identified as integrators (i.e., class 1 neurons according to Hodgkin's classification of intrinsic excitability) based on in vitro experiments but that classification is inconsistent with the ability of hippocampal pyramidal neurons to oscillate/resonate at theta frequency since intrinsic oscillatory behavior is limited to class 2 neurons. Using long depolarizing stimuli and dynamic clamp to reproduce in vivo-like conditions in slice experiments, we show that CA1 hippocampal pyramidal cells switch from integrators to resonators, i.e., from class 1 to class 2 excitability. The switch is explained by increased outward current contributed by the M-type potassium current I(M), which shifts the balance of inward and outward currents active at perithreshold potentials and thereby converts the spike-initiating mechanism as predicted by dynamical analysis of our computational model. Perithreshold activation of I(M) is enhanced by the depolarizing shift in spike threshold caused by shunting and/or sodium channel inactivation secondary to tonic depolarization. Our conclusions were validated by multiple comparisons between simulation and experimental data. Thus even so-called \"intrinsic\" properties may differ qualitatively between in vitro and in vivo conditions.",
+     "FAU": [
+          "Prescott, Steven A",
+          "Ratte, Stephanie",
+          "De Koninck, Yves",
+          "Sejnowski, Terrence J"
+     ],
+     "AU": [
+          "Prescott SA",
+          "Ratte S",
+          "De Koninck Y",
+          "Sejnowski TJ"
+     ],
+     "AD": "Howard Hughes Medical Institute, Computational Neurobiology Laboratory, Salk Institute, La Jolla, California, USA. prescott@neurobio.pitt.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Howard Hughes Medical Institute/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20081001",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "0 (Excitatory Amino Acid Antagonists)",
+          "0 (GABA Antagonists)",
+          "6OTE87SCCW (6-Cyano-7-nitroquinoxaline-2,3-dione)",
+          "Y37615DVKC (Bicuculline)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "6-Cyano-7-nitroquinoxaline-2,3-dione/pharmacology",
+          "Animals",
+          "Bicuculline/pharmacology",
+          "Biophysics",
+          "Computer Simulation",
+          "Differential Threshold/physiology",
+          "Electric Stimulation",
+          "Excitatory Amino Acid Antagonists/pharmacology",
+          "GABA Antagonists/pharmacology",
+          "Hippocampus/cytology",
+          "In Vitro Techniques",
+          "Male",
+          "Membrane Potentials/drug effects/*physiology",
+          "Models, Neurological",
+          "Nonlinear Dynamics",
+          "Patch-Clamp Techniques/methods",
+          "Pyramidal Cells/drug effects/*physiology",
+          "Rats",
+          "Rats, Sprague-Dawley"
+     ],
+     "PMC": "PMC2604842",
+     "EDAT": "2008/10/03 09:00",
+     "MHDA": "2009/04/25 09:00",
+     "CRDT": [
+          "2008/10/03 09:00"
+     ],
+     "PHST": [
+          "2008/10/03 09:00 [pubmed]",
+          "2009/04/25 09:00 [medline]",
+          "2008/10/03 09:00 [entrez]"
+     ],
+     "AID": [
+          "90634.2008 [pii]",
+          "10.1152/jn.90634.2008 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2008 Dec;100(6):3030-42. doi: 10.1152/jn.90634.2008. Epub 2008 Oct 1.",
+     "term": "hippocampus"
+}

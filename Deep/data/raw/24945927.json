@@ -1,0 +1,72 @@
+{
+     "PMID": "24945927",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150928",
+     "LR": "20140620",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "10",
+     "IP": "6",
+     "DP": "2014 Jun",
+     "TI": "The effects of theta precession on spatial learning and simplicial complex dynamics in a topological model of the hippocampal spatial map.",
+     "PG": "e1003651",
+     "LID": "10.1371/journal.pcbi.1003651 [doi]",
+     "AB": "Learning arises through the activity of large ensembles of cells, yet most of the data neuroscientists accumulate is at the level of individual neurons; we need models that can bridge this gap. We have taken spatial learning as our starting point, computationally modeling the activity of place cells using methods derived from algebraic topology, especially persistent homology. We previously showed that ensembles of hundreds of place cells could accurately encode topological information about different environments (\"learn\" the space) within certain values of place cell firing rate, place field size, and cell population; we called this parameter space the learning region. Here we advance the model both technically and conceptually. To make the model more physiological, we explored the effects of theta precession on spatial learning in our virtual ensembles. Theta precession, which is believed to influence learning and memory, did in fact enhance learning in our model, increasing both speed and the size of the learning region. Interestingly, theta precession also increased the number of spurious loops during simplicial complex formation. We next explored how downstream readout neurons might define co-firing by grouping together cells within different windows of time and thereby capturing different degrees of temporal overlap between spike trains. Our model's optimum coactivity window correlates well with experimental data, ranging from approximately 150-200 msec. We further studied the relationship between learning time, window width, and theta precession. Our results validate our topological model for spatial learning and open new avenues for connecting data at the level of individual neurons to behavioral outcomes at the neuronal ensemble level. Finally, we analyzed the dynamics of simplicial complex formation and loop transience to propose that the simplicial complex provides a useful working description of the spatial learning process.",
+     "FAU": [
+          "Arai, Mamiko",
+          "Brandt, Vicky",
+          "Dabaghian, Yuri"
+     ],
+     "AU": [
+          "Arai M",
+          "Brandt V",
+          "Dabaghian Y"
+     ],
+     "AD": "The Jan and Dan Duncan Neurological Research Institute, Baylor College of Medicine, Houston, Texas, United States of America. The Jan and Dan Duncan Neurological Research Institute, Baylor College of Medicine, Houston, Texas, United States of America. The Jan and Dan Duncan Neurological Research Institute, Baylor College of Medicine, Houston, Texas, United States of America; Department of Computational and Applied Mathematics, Rice University, Houston, Texas, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20140619",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Behavior, Animal/physiology",
+          "Computational Biology",
+          "Connectome",
+          "Hippocampus/cytology/*physiology",
+          "Learning/*physiology",
+          "*Models, Neurological",
+          "Models, Psychological",
+          "Rats",
+          "Spatial Behavior/physiology",
+          "Theta Rhythm/physiology"
+     ],
+     "PMC": "PMC4063672",
+     "EDAT": "2014/06/20 06:00",
+     "MHDA": "2015/09/29 06:00",
+     "CRDT": [
+          "2014/06/20 06:00"
+     ],
+     "PHST": [
+          "2013/09/17 00:00 [received]",
+          "2014/04/14 00:00 [accepted]",
+          "2014/06/20 06:00 [entrez]",
+          "2014/06/20 06:00 [pubmed]",
+          "2015/09/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1003651 [doi]",
+          "PCOMPBIOL-D-13-01646 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2014 Jun 19;10(6):e1003651. doi: 10.1371/journal.pcbi.1003651. eCollection 2014 Jun.",
+     "term": "place cells"
+}

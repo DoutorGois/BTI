@@ -1,0 +1,93 @@
+{
+     "PMID": "19900477",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100505",
+     "LR": "20170220",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "186",
+     "IP": "1",
+     "DP": "2010 Jan 30",
+     "TI": "Assessing instantaneous synchrony of nonlinear nonstationary oscillators in the brain.",
+     "PG": "42-51",
+     "LID": "10.1016/j.jneumeth.2009.10.023 [doi]",
+     "AB": "Neuronal populations throughout the brain achieve levels of synchronous electrophysiological activity as a consequence of both normal brain function as well as during pathological states such as in epileptic seizures. Understanding this synchrony and being able to quantitatively assess the dynamics with which neuronal oscillators across the brain couple their activity is a critical component toward decoding such complex behavior. Commonly applied techniques to resolve relationships between oscillators typically make assumptions of linearity and stationarity that are likely not to be valid for complex neural signals. In this study, intracranial electroencephalographic activity was recorded bilaterally in both hippocampi and in anteromedial thalamus of rat under normal conditions and during hypersynchronous seizure activity induced by focal injection of the epileptogenic agent kainic acid. Nonlinear oscillators were first extracted using empirical mode decomposition. The technique of eigenvalue decomposition was used to assess global phase synchrony of the highest energy oscillators. The Hilbert analytical technique was then used to measure instantaneous phase synchrony of these oscillators as they evolved in time. To test the reliability of this method, we first applied it to a system of two coupled Rossler attractors under varying levels of coupling with small frequency mismatch. The application of these analytical techniques to intracranially recorded brain signals provides a means for assessing how complex oscillatory behavior in the brain evolves and changes during both normal activity and as a consequence of diseased states without making restrictive and possibly erroneous assumptions of the linearity and stationarity of the underlying oscillatory activity.",
+     "CI": [
+          "(c) 2009 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Fine, Ananda S",
+          "Nicholls, David P",
+          "Mogul, David J"
+     ],
+     "AU": [
+          "Fine AS",
+          "Nicholls DP",
+          "Mogul DJ"
+     ],
+     "AD": "University of Illinois, Department of Bioengineering, Medical Scientist Training Program, Chicago, IL, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS046375/NS/NINDS NIH HHS/United States",
+          "R01 NS046375-01A2/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20091110",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Convulsants)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Biological Clocks/*physiology",
+          "Brain/*physiology",
+          "Convulsants",
+          "*Cortical Synchronization",
+          "Electroencephalography/*methods",
+          "Epilepsy/chemically induced/physiopathology",
+          "Hippocampus/physiology",
+          "Male",
+          "Mathematical Computing",
+          "Mathematics",
+          "Models, Theoretical",
+          "Neurophysiology/*methods",
+          "Nonlinear Dynamics",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "*Signal Processing, Computer-Assisted",
+          "Thalamus/physiology"
+     ],
+     "PMC": "PMC2815005",
+     "MID": [
+          "NIHMS161751"
+     ],
+     "EDAT": "2009/11/11 06:00",
+     "MHDA": "2010/05/06 06:00",
+     "CRDT": [
+          "2009/11/11 06:00"
+     ],
+     "PHST": [
+          "2009/01/27 00:00 [received]",
+          "2009/10/30 00:00 [revised]",
+          "2009/10/30 00:00 [accepted]",
+          "2009/11/11 06:00 [entrez]",
+          "2009/11/11 06:00 [pubmed]",
+          "2010/05/06 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(09)00596-2 [pii]",
+          "10.1016/j.jneumeth.2009.10.023 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2010 Jan 30;186(1):42-51. doi: 10.1016/j.jneumeth.2009.10.023. Epub 2009 Nov 10.",
+     "term": "hippocampus"
+}

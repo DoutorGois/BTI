@@ -1,0 +1,85 @@
+{
+     "PMID": "24004244",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150930",
+     "LR": "20140107",
+     "IS": "1520-5851 (Electronic) 0013-936X (Linking)",
+     "VI": "48",
+     "IP": "1",
+     "DP": "2014",
+     "TI": "Emissions and air quality impacts of truck-to-rail freight modal shifts in the Midwestern United States.",
+     "PG": "446-54",
+     "LID": "10.1021/es4016102 [doi]",
+     "AB": "We present an examination of the potential emissions and air quality benefits of shifting freight from truck to rail in the upper Midwestern United States. Using a novel, freight-specific emissions inventory (the Wisconsin Inventory of Freight Emissions, WIFE) and a three-dimensional Eulerian photochemical transport model (the Community Multiscale Air Quality Model, CMAQ), we quantify how specific freight mode choices impact ambient air pollution concentrations. Using WIFE, we developed two modal shift scenarios: one focusing on intraregional freight movements within the Midwest and a second on through-freight movements through the region. Freight truck and rail emissions inventories for each scenario were gridded to a 12 km x 12 km horizontal resolution as input to CMAQ, along with emissions from all other major sectors, and three-dimensional time-varying meteorology from the Weather Research and Forecasting model (WRF). The through-freight scenario reduced monthly mean (January and July) localized concentrations of nitrogen dioxide (NO2) by 28% (-2.33 ppbV) in highway grid cells, and reduced elemental carbon (EC) by 16% (-0.05 mug/m(3)) in highway grid cells. There were corresponding localized increases in railway grid cells of 25% (+0.83 ppbV) for NO2, and 22% (+0.05 mug/m(3)) for EC. The through-freight scenario reduced CO2 emissions 31% compared to baseline trucking. The through-freight scenario yields a July mean change in ground-level ambient PM2.5 and O3 over the central and eastern part of the domain (up to -3%).",
+     "FAU": [
+          "Bickford, Erica",
+          "Holloway, Tracey",
+          "Karambelas, Alexandra",
+          "Johnston, Matt",
+          "Adams, Teresa",
+          "Janssen, Mark",
+          "Moberg, Claus"
+     ],
+     "AU": [
+          "Bickford E",
+          "Holloway T",
+          "Karambelas A",
+          "Johnston M",
+          "Adams T",
+          "Janssen M",
+          "Moberg C"
+     ],
+     "AD": "Center for Sustainability and the Global Environment (SAGE), Nelson Institute for Environmental Studies and double daggerNational Center for Freight and Infrastructure Research and Education (CFIRE), University of Wisconsin-Madison , Madison, Wisconsin 53726, United States.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20131217",
+     "PL": "United States",
+     "TA": "Environ Sci Technol",
+     "JT": "Environmental science & technology",
+     "JID": "0213155",
+     "RN": [
+          "0 (Air Pollutants)",
+          "0 (Particulate Matter)",
+          "142M471B3J (Carbon Dioxide)",
+          "66H7ZZK23N (Ozone)",
+          "7440-44-0 (Carbon)",
+          "S7G510RUBH (Nitrogen Dioxide)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Air Pollutants/*analysis",
+          "Carbon/analysis",
+          "Carbon Dioxide/analysis",
+          "Environmental Monitoring",
+          "*Models, Theoretical",
+          "*Motor Vehicles",
+          "Nitrogen Dioxide/analysis",
+          "Ozone/analysis",
+          "Particulate Matter/analysis",
+          "*Railroads",
+          "Weather",
+          "Wisconsin"
+     ],
+     "EDAT": "2013/09/06 06:00",
+     "MHDA": "2015/10/01 06:00",
+     "CRDT": [
+          "2013/09/06 06:00"
+     ],
+     "PHST": [
+          "2013/09/06 06:00 [entrez]",
+          "2013/09/06 06:00 [pubmed]",
+          "2015/10/01 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1021/es4016102 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Environ Sci Technol. 2014;48(1):446-54. doi: 10.1021/es4016102. Epub 2013 Dec 17.",
+     "term": "grid cells"
+}

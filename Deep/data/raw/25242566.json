@@ -1,0 +1,129 @@
+{
+     "PMID": "25242566",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150715",
+     "LR": "20161019",
+     "IS": "1872-6623 (Electronic) 0304-3959 (Linking)",
+     "VI": "155",
+     "IP": "12",
+     "DP": "2014 Dec",
+     "TI": "Preliminary structural MRI based brain classification of chronic pelvic pain: A MAPP network study.",
+     "PG": "2502-9",
+     "LID": "10.1016/j.pain.2014.09.002 [doi] S0304-3959(14)00422-9 [pii]",
+     "AB": "Neuroimaging studies have shown that changes in brain morphology often accompany chronic pain conditions. However, brain biomarkers that are sensitive and specific to chronic pelvic pain (CPP) have not yet been adequately identified. Using data from the Trans-MAPP Research Network, we examined the changes in brain morphology associated with CPP. We used a multivariate pattern classification approach to detect these changes and to identify patterns that could be used to distinguish participants with CPP from age-matched healthy controls. In particular, we used a linear support vector machine (SVM) algorithm to differentiate gray matter images from the 2 groups. Regions of positive SVM weight included several regions within the primary somatosensory cortex, pre-supplementary motor area, hippocampus, and amygdala were identified as important drivers of the classification with 73% overall accuracy. Thus, we have identified a preliminary classifier based on brain structure that is able to predict the presence of CPP with a good degree of predictive power. Our regional findings suggest that in individuals with CPP, greater gray matter density may be found in the identified distributed brain regions, which are consistent with some previous investigations in visceral pain syndromes. Future studies are needed to improve upon our identified preliminary classifier with integration of additional variables and to assess whether the observed differences in brain structure are unique to CPP or generalizable to other chronic pain conditions.",
+     "CI": [
+          "Copyright (c) 2014 International Association for the Study of Pain. Published by",
+          "Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Bagarinao, Epifanio",
+          "Johnson, Kevin A",
+          "Martucci, Katherine T",
+          "Ichesco, Eric",
+          "Farmer, Melissa A",
+          "Labus, Jennifer",
+          "Ness, Timothy J",
+          "Harris, Richard",
+          "Deutsch, Georg",
+          "Apkarian, A Vania",
+          "Mayer, Emeran A",
+          "Clauw, Daniel J",
+          "Mackey, Sean"
+     ],
+     "AU": [
+          "Bagarinao E",
+          "Johnson KA",
+          "Martucci KT",
+          "Ichesco E",
+          "Farmer MA",
+          "Labus J",
+          "Ness TJ",
+          "Harris R",
+          "Deutsch G",
+          "Apkarian AV",
+          "Mayer EA",
+          "Clauw DJ",
+          "Mackey S"
+     ],
+     "AD": "Department of Anesthesiology, Perioperative and Pain Medicine, Division of Pain Medicine, Stanford University Medical Center, Stanford, CA, USA. Department of Anesthesiology, Perioperative and Pain Medicine, Division of Pain Medicine, Stanford University Medical Center, Stanford, CA, USA. Department of Anesthesiology, Perioperative and Pain Medicine, Division of Pain Medicine, Stanford University Medical Center, Stanford, CA, USA. Department of Anesthesiology, Chronic Pain and Fatigue Research Center, University of Michigan, Ann Arbor, MI, USA. Department of Physiology, Northwestern University, Feinberg School of Medicine, Chicago, IL, USA. Gail and Gerald Oppenheimer Family Center for Neurobiology of Stress, Pain and Interoception Network (PAIN), David Geffen School of Medicine at UCLA, Los Angeles, CA, USA. Department of Anesthesiology, University of Alabama, Birmingham Medical Center, Birmingham, AL, USA. Department of Anesthesiology, Chronic Pain and Fatigue Research Center, University of Michigan, Ann Arbor, MI, USA. Department of Radiology, University of Alabama, Birmingham Medical Center, Birmingham, AL, USA. Department of Physiology, Northwestern University, Feinberg School of Medicine, Chicago, IL, USA. Gail and Gerald Oppenheimer Family Center for Neurobiology of Stress, Pain and Interoception Network (PAIN), David Geffen School of Medicine at UCLA, Los Angeles, CA, USA. Department of Anesthesiology, Chronic Pain and Fatigue Research Center, University of Michigan, Ann Arbor, MI, USA. Department of Anesthesiology, Perioperative and Pain Medicine, Division of Pain Medicine, Stanford University Medical Center, Stanford, CA, USA. Electronic address: smackey@stanford.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K23 NS048302/NS/NINDS NIH HHS/United States",
+          "DK082325/DK/NIDDK NIH HHS/United States",
+          "DK82342/DK/NIDDK NIH HHS/United States",
+          "U01 DK082316/DK/NIDDK NIH HHS/United States",
+          "DK82370/DK/NIDDK NIH HHS/United States",
+          "K24 DA029262/DA/NIDA NIH HHS/United States",
+          "DK082316/DK/NIDDK NIH HHS/United States",
+          "DK082333/DK/NIDDK NIH HHS/United States",
+          "DK82315/DK/NIDDK NIH HHS/United States",
+          "P30 DK041301/DK/NIDDK NIH HHS/United States",
+          "R21 DA026092/DA/NIDA NIH HHS/United States",
+          "DK082344/DK/NIDDK NIH HHS/United States",
+          "R01 NS053961/NS/NINDS NIH HHS/United States",
+          "DK082345/DK/NIDDK NIH HHS/United States",
+          "T32 DA035165/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140919",
+     "PL": "United States",
+     "TA": "Pain",
+     "JT": "Pain",
+     "JID": "7508686",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Brain/*pathology",
+          "Chronic Pain/*classification/*pathology",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "*Magnetic Resonance Imaging",
+          "Middle Aged",
+          "Pelvic Pain/*classification/*pathology",
+          "Psychiatric Status Rating Scales",
+          "Surveys and Questionnaires"
+     ],
+     "PMC": "PMC4504202",
+     "MID": [
+          "NIHMS629602"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Gray matter density",
+          "Machine learning",
+          "SVM",
+          "Support vector machine",
+          "UCPPS"
+     ],
+     "EDAT": "2014/09/23 06:00",
+     "MHDA": "2015/07/16 06:00",
+     "CRDT": [
+          "2014/09/23 06:00"
+     ],
+     "PHST": [
+          "2014/02/25 00:00 [received]",
+          "2014/08/19 00:00 [revised]",
+          "2014/09/03 00:00 [accepted]",
+          "2014/09/23 06:00 [entrez]",
+          "2014/09/23 06:00 [pubmed]",
+          "2015/07/16 06:00 [medline]"
+     ],
+     "AID": [
+          "S0304-3959(14)00422-9 [pii]",
+          "10.1016/j.pain.2014.09.002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Pain. 2014 Dec;155(12):2502-9. doi: 10.1016/j.pain.2014.09.002. Epub 2014 Sep 19.",
+     "term": "hippocampus"
+}

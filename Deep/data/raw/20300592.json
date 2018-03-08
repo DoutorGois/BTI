@@ -1,0 +1,78 @@
+{
+     "PMID": "20300592",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100614",
+     "LR": "20170220",
+     "IS": "1687-5273 (Electronic)",
+     "DP": "2010",
+     "TI": "Development and validation of a spike detection and classification algorithm aimed at implementation on hardware devices.",
+     "PG": "659050",
+     "LID": "10.1155/2010/659050 [doi]",
+     "AB": "Neurons cultured in vitro on MicroElectrode Array (MEA) devices connect to each other, forming a network. To study electrophysiological activity and long term plasticity effects, long period recording and spike sorter methods are needed. Therefore, on-line and real time analysis, optimization of memory use and data transmission rate improvement become necessary. We developed an algorithm for amplitude-threshold spikes detection, whose performances were verified with (a) statistical analysis on both simulated and real signal and (b) Big O Notation. Moreover, we developed a PCA-hierarchical classifier, evaluated on simulated and real signal. Finally we proposed a spike detection hardware design on FPGA, whose feasibility was verified in terms of CLBs number, memory occupation and temporal requirements; once realized, it will be able to execute on-line detection and real time waveform analysis, reducing data storage problems.",
+     "FAU": [
+          "Biffi, E",
+          "Ghezzi, D",
+          "Pedrocchi, A",
+          "Ferrigno, G"
+     ],
+     "AU": [
+          "Biffi E",
+          "Ghezzi D",
+          "Pedrocchi A",
+          "Ferrigno G"
+     ],
+     "AD": "Neuroengineering and Medical Robotics Laboratory, Bioengineering Department, Politecnico di Milano, Piazza Leonardo da Vinci 32, 20133 Milano, Italy. emilia.biffi@mail.polimi.it",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100314",
+     "PL": "United States",
+     "TA": "Comput Intell Neurosci",
+     "JT": "Computational intelligence and neuroscience",
+     "JID": "101279357",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "*Algorithms",
+          "Animals",
+          "Cell Culture Techniques/instrumentation/methods",
+          "Cells, Cultured",
+          "Computer Simulation",
+          "Electrophysiology/instrumentation/*methods",
+          "Equipment Design",
+          "Hippocampus/cytology/physiology",
+          "Mice",
+          "Microelectrodes",
+          "Nerve Net/cytology/*physiology",
+          "Neuronal Plasticity/physiology",
+          "Neurons/cytology/*physiology",
+          "Signal Processing, Computer-Assisted/*instrumentation",
+          "Software Design",
+          "Synaptic Transmission/physiology"
+     ],
+     "PMC": "PMC2838218",
+     "EDAT": "2010/03/20 06:00",
+     "MHDA": "2010/06/15 06:00",
+     "CRDT": [
+          "2010/03/20 06:00"
+     ],
+     "PHST": [
+          "2009/03/01 00:00 [received]",
+          "2009/09/18 00:00 [revised]",
+          "2009/11/30 00:00 [accepted]",
+          "2010/03/20 06:00 [entrez]",
+          "2010/03/20 06:00 [pubmed]",
+          "2010/06/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2010/659050 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Intell Neurosci. 2010:659050. doi: 10.1155/2010/659050. Epub 2010 Mar 14.",
+     "term": "hippocampus"
+}

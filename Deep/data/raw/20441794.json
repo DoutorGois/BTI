@@ -1,0 +1,81 @@
+{
+     "PMID": "20441794",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101217",
+     "LR": "20100726",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "52",
+     "IP": "4",
+     "DP": "2010 Oct 1",
+     "TI": "Towards accurate, automatic segmentation of the hippocampus and amygdala from MRI by augmenting ANIMAL with a template library and label fusion.",
+     "PG": "1355-66",
+     "LID": "10.1016/j.neuroimage.2010.04.193 [doi]",
+     "AB": "We describe progress towards fully automatic segmentation of the hippocampus (HC) and amygdala (AG) in human subjects from MRI data. Three methods are described and tested with a set of MRIs from 80 young normal controls, using manual labeling of the HC and AG as a gold standard. The methods include: 1) our ANIMAL atlas-based method that uses non-linear registration to a pre-labeled non-linear average template (ICBM152). HC and AG labels, defined on the template are mapped through the inverse transformation to segment these structures on the subject's MRI. 2) We select the most similar MRI from the set of 80 labeled datasets to use as a template in the standard ANIMAL segmentation scheme. 3) We use label fusion techniques to combine segmentations from the 'n' most similar templates. The label fusion technique yields an optimal median Dice Kappa of 0.886 and similarity of 0.795 for HC, and 0.826 and 0.703 respectively for AG.",
+     "CI": [
+          "Copyright 2010 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Collins, D Louis",
+          "Pruessner, Jens C"
+     ],
+     "AU": [
+          "Collins DL",
+          "Pruessner JC"
+     ],
+     "AD": "McConnell Brain Imaging Center, Montreal Neurological Institute, McGill University, Montreal, Canada. louis.collins@mcgill.ca",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MOP-38460/Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100502",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Algorithms",
+          "Amygdala/*anatomy & histology",
+          "*Artificial Intelligence",
+          "Female",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique",
+          "Young Adult"
+     ],
+     "EDAT": "2010/05/06 06:00",
+     "MHDA": "2010/12/18 06:00",
+     "CRDT": [
+          "2010/05/06 06:00"
+     ],
+     "PHST": [
+          "2009/08/12 00:00 [received]",
+          "2010/04/15 00:00 [revised]",
+          "2010/04/18 00:00 [accepted]",
+          "2010/05/06 06:00 [entrez]",
+          "2010/05/06 06:00 [pubmed]",
+          "2010/12/18 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(10)00605-1 [pii]",
+          "10.1016/j.neuroimage.2010.04.193 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2010 Oct 1;52(4):1355-66. doi: 10.1016/j.neuroimage.2010.04.193. Epub 2010 May 2.",
+     "term": "hippocampus"
+}

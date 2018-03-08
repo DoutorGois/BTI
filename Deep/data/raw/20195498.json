@@ -1,0 +1,90 @@
+{
+     "PMID": "20195498",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100510",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "6",
+     "IP": "2",
+     "DP": "2010 Feb 26",
+     "TI": "Temporal sensitivity of protein kinase a activation in late-phase long term potentiation.",
+     "PG": "e1000691",
+     "LID": "10.1371/journal.pcbi.1000691 [doi]",
+     "AB": "Protein kinases play critical roles in learning and memory and in long term potentiation (LTP), a form of synaptic plasticity. The induction of late-phase LTP (L-LTP) in the CA1 region of the hippocampus requires several kinases, including CaMKII and PKA, which are activated by calcium-dependent signaling processes and other intracellular signaling pathways. The requirement for PKA is limited to L-LTP induced using spaced stimuli, but not massed stimuli. To investigate this temporal sensitivity of PKA, a computational biochemical model of L-LTP induction in CA1 pyramidal neurons was developed. The model describes the interactions of calcium and cAMP signaling pathways and is based on published biochemical measurements of two key synaptic signaling molecules, PKA and CaMKII. The model is stimulated using four 100 Hz tetani separated by 3 sec (massed) or 300 sec (spaced), identical to experimental L-LTP induction protocols. Simulations show that spaced stimulation activates more PKA than massed stimulation, and makes a key experimental prediction, that L-LTP is PKA-dependent for intervals larger than 60 sec. Experimental measurements of L-LTP demonstrate that intervals of 80 sec, but not 40 sec, produce PKA-dependent L-LTP, thereby confirming the model prediction. Examination of CaMKII reveals that its temporal sensitivity is opposite that of PKA, suggesting that PKA is required after spaced stimulation to compensate for a decrease in CaMKII. In addition to explaining the temporal sensitivity of PKA, these simulations suggest that the use of several kinases for memory storage allows each to respond optimally to different temporal patterns.",
+     "FAU": [
+          "Kim, MyungSook",
+          "Huang, Ted",
+          "Abel, Ted",
+          "Blackwell, Kim T"
+     ],
+     "AU": [
+          "Kim M",
+          "Huang T",
+          "Abel T",
+          "Blackwell KT"
+     ],
+     "AD": "George Mason University, The Krasnow Institute for Advanced Studies, Fairfax, Virginia, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AA018060/AA/NIAAA NIH HHS/United States",
+          "R01 AA18060/AA/NIAAA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20100226",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "RN": [
+          "E0399OZS9N (Cyclic AMP)",
+          "EC 2.7.11.11 (Cyclic AMP-Dependent Protein Kinases)",
+          "EC 2.7.11.17 (Calcium-Calmodulin-Dependent Protein Kinase Type 2)",
+          "SY7Q814VUP (Calcium)",
+          "VTD58H1Z2X (Dopamine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "CA1 Region, Hippocampal/*metabolism",
+          "Calcium/metabolism",
+          "Calcium-Calmodulin-Dependent Protein Kinase Type 2/metabolism",
+          "Computational Biology/*methods",
+          "Computer Simulation",
+          "Cyclic AMP/metabolism",
+          "Cyclic AMP-Dependent Protein Kinases/*physiology",
+          "Dopamine/metabolism",
+          "Enzyme Activation",
+          "Long-Term Potentiation/*physiology",
+          "Mice",
+          "*Models, Neurological",
+          "Signal Transduction",
+          "Time Factors"
+     ],
+     "PMC": "PMC2829045",
+     "EDAT": "2010/03/03 06:00",
+     "MHDA": "2010/05/11 06:00",
+     "CRDT": [
+          "2010/03/03 06:00"
+     ],
+     "PHST": [
+          "2009/07/01 00:00 [received]",
+          "2010/01/26 00:00 [accepted]",
+          "2010/03/03 06:00 [entrez]",
+          "2010/03/03 06:00 [pubmed]",
+          "2010/05/11 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1000691 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2010 Feb 26;6(2):e1000691. doi: 10.1371/journal.pcbi.1000691.",
+     "term": "hippocampus"
+}

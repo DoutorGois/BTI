@@ -1,0 +1,93 @@
+{
+     "PMID": "23894363",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140327",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "7",
+     "DP": "2013",
+     "TI": "Whole brain and brain regional coexpression network interactions associated with predisposition to alcohol consumption.",
+     "PG": "e68878",
+     "LID": "10.1371/journal.pone.0068878 [doi]",
+     "AB": "To identify brain transcriptional networks that may predispose an animal to consume alcohol, we used weighted gene coexpression network analysis (WGCNA). Candidate coexpression modules are those with an eigengene expression level that correlates significantly with the level of alcohol consumption across a panel of BXD recombinant inbred mouse strains, and that share a genomic region that regulates the module transcript expression levels (mQTL) with a genomic region that regulates alcohol consumption (bQTL). To address a controversy regarding utility of gene expression profiles from whole brain, vs specific brain regions, as indicators of the relationship of gene expression to phenotype, we compared candidate coexpression modules from whole brain gene expression data (gathered with Affymetrix 430 v2 arrays in the Colorado laboratories) and from gene expression data from 6 brain regions (nucleus accumbens (NA); prefrontal cortex (PFC); ventral tegmental area (VTA); striatum (ST); hippocampus (HP); cerebellum (CB)) available from GeneNetwork. The candidate modules were used to construct candidate eigengene networks across brain regions, resulting in three \"meta-modules\", composed of candidate modules from two or more brain regions (NA, PFC, ST, VTA) and whole brain. To mitigate the potential influence of chromosomal location of transcripts and cis-eQTLs in linkage disequilibrium, we calculated a semi-partial correlation of the transcripts in the meta-modules with alcohol consumption conditional on the transcripts' cis-eQTLs. The function of transcripts that retained the correlation with the phenotype after correction for the strong genetic influence, implicates processes of protein metabolism in the ER and Golgi as influencing susceptibility to variation in alcohol consumption. Integration of these data with human GWAS provides further information on the function of polymorphisms associated with alcohol-related traits.",
+     "FAU": [
+          "Vanderlinden, Lauren A",
+          "Saba, Laura M",
+          "Kechris, Katerina",
+          "Miles, Michael F",
+          "Hoffman, Paula L",
+          "Tabakoff, Boris"
+     ],
+     "AU": [
+          "Vanderlinden LA",
+          "Saba LM",
+          "Kechris K",
+          "Miles MF",
+          "Hoffman PL",
+          "Tabakoff B"
+     ],
+     "AD": "Department of Pharmacology, University of Colorado School of Medicine, Aurora, Colorado, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AA016649/AA/NIAAA NIH HHS/United States",
+          "K01 AA016922/AA/NIAAA NIH HHS/United States",
+          "U01AA016663/AA/NIAAA NIH HHS/United States",
+          "R24 AA013162/AA/NIAAA NIH HHS/United States",
+          "U01 AA016667/AA/NIAAA NIH HHS/United States",
+          "U01AA016649/AA/NIAAA NIH HHS/United States",
+          "P20AA017828/AA/NIAAA NIH HHS/United States",
+          "R01 AA020634/AA/NIAAA NIH HHS/United States",
+          "R24AA013162/AA/NIAAA NIH HHS/United States",
+          "U01AA016667/AA/NIAAA NIH HHS/United States",
+          "K01AA016922/AA/NIAAA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130723",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Alcohol Drinking/*genetics",
+          "Animals",
+          "*Brain/anatomy & histology/metabolism",
+          "Female",
+          "Gene Expression Profiling",
+          "Gene Regulatory Networks/*genetics",
+          "*Genetic Predisposition to Disease",
+          "Male",
+          "Mice",
+          "Mice, Inbred Strains",
+          "Models, Genetic",
+          "Quantitative Trait Loci"
+     ],
+     "PMC": "PMC3720886",
+     "EDAT": "2013/07/31 06:00",
+     "MHDA": "2014/03/29 06:00",
+     "CRDT": [
+          "2013/07/30 06:00"
+     ],
+     "PHST": [
+          "2013/02/21 00:00 [received]",
+          "2013/06/01 00:00 [accepted]",
+          "2013/07/30 06:00 [entrez]",
+          "2013/07/31 06:00 [pubmed]",
+          "2014/03/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0068878 [doi]",
+          "PONE-D-13-08132 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2013 Jul 23;8(7):e68878. doi: 10.1371/journal.pone.0068878. Print 2013.",
+     "term": "hippocampus"
+}

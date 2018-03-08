@@ -1,0 +1,81 @@
+{
+     "PMID": "23639919",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140623",
+     "LR": "20131112",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "220",
+     "IP": "2",
+     "DP": "2013 Nov 15",
+     "TI": "Detecting cell assemblies in large neuronal populations.",
+     "PG": "149-66",
+     "LID": "10.1016/j.jneumeth.2013.04.010 [doi] S0165-0270(13)00148-9 [pii]",
+     "AB": "Recent progress in the technology for single unit recordings has given the neuroscientific community the opportunity to record the spiking activity of large neuronal populations. At the same pace, statistical and mathematical tools were developed to deal with high-dimensional datasets typical of such recordings. A major line of research investigates the functional role of subsets of neurons with significant co-firing behavior: the Hebbian cell assemblies. Here we review three linear methods for the detection of cell assemblies in large neuronal populations that rely on principal and independent component analysis. Based on their performance in spike train simulations, we propose a modified framework that incorporates multiple features of these previous methods. We apply the new framework to actual single unit recordings and show the existence of cell assemblies in the rat hippocampus, which typically oscillate at theta frequencies and couple to different phases of the underlying field rhythm.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Lopes-dos-Santos, Vitor",
+          "Ribeiro, Sidarta",
+          "Tort, Adriano B L"
+     ],
+     "AU": [
+          "Lopes-dos-Santos V",
+          "Ribeiro S",
+          "Tort AB"
+     ],
+     "AD": "Brain Institute, Federal University of Rio Grande do Norte, Brazil. Electronic address: vitor@neuro.ufrn.br.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+     ],
+     "DEP": "20130429",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Algorithms",
+          "Animals",
+          "Brain/cytology",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Principal Component Analysis"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Assembly vectors",
+          "Cell assemblies",
+          "Independent component analysis",
+          "Principal component analysis"
+     ],
+     "EDAT": "2013/05/04 06:00",
+     "MHDA": "2014/06/24 06:00",
+     "CRDT": [
+          "2013/05/04 06:00"
+     ],
+     "PHST": [
+          "2013/01/06 00:00 [received]",
+          "2013/04/11 00:00 [revised]",
+          "2013/04/17 00:00 [accepted]",
+          "2013/05/04 06:00 [entrez]",
+          "2013/05/04 06:00 [pubmed]",
+          "2014/06/24 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(13)00148-9 [pii]",
+          "10.1016/j.jneumeth.2013.04.010 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2013 Nov 15;220(2):149-66. doi: 10.1016/j.jneumeth.2013.04.010. Epub 2013 Apr 29.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,99 @@
+{
+     "PMID": "25536494",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160114",
+     "LR": "20150209",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "108",
+     "DP": "2015 Mar",
+     "TI": "Comparison between balanced steady-state free precession and standard spoiled gradient echo magnetization transfer ratio imaging in multiple sclerosis: methodical and clinical considerations.",
+     "PG": "87-94",
+     "LID": "10.1016/j.neuroimage.2014.12.045 [doi] S1053-8119(14)01037-4 [pii]",
+     "AB": "Different pathological processes like demyelination and axonal loss can alter the magnetisation transfer ratio (MTR) in brain tissue. The standard method to measure this effect is to scan the respective tissue twice, one with and one without a specific saturation pulse. A major drawback of this technique based on spoiled gradient echo (GRE) sequences relates to its long acquisition time due to the saturation pulses. Recently, an alternative concept for MT imaging based on balanced steady state free precession (bSSFP) has been proposed. Modification of the duration of the radiofrequency pulses for imaging allows scanning MT sensitive and non-sensitive images. The steady-state character of bSSFP with high intrinsic signal-to-noise ratio (SNR) allows three-dimensional (3D) whole brain MTR at high spatial resolution within short and thus clinically feasible acquisition times. In the present study, both bSSFP-MT and 2D GRE-MT imaging were used in a cohort of 31 patients with multiple sclerosis (MS) to characterize different normal appearing (NA) and pathological brain structures. Under the constraint of identical SNR and scan time, a 3.4 times higher voxel size could be achieved with bSSFP. This increased resolution allowed a more accurate delineation of the different brain structures, especially of cortex, hippocampus and MS lesions. In a multiple linear regression model, we found an association between MTR of cortical lesions and a clinical measure of disability (r= -0.407, p=0.035) in the bSSFP dataset only. The different relaxation weighting of the base images (T2/T1 in bSSFP, proton density in GRE) had no effects besides a larger spreading of the MTR values of the different NA structures. This was demonstrated by the nearly perfect linearity between the NA matter MTR of both techniques as well as in the absolute MTR differences between NA matter and the respective lesions.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Amann, Michael",
+          "Sprenger, Till",
+          "Naegelin, Yvonne",
+          "Reinhardt, Julia",
+          "Kuster, Pascal",
+          "Hirsch, Jochen G",
+          "Kappos, Ludwig",
+          "Radue, Ernst-Wilhelm",
+          "Stippich, Christoph",
+          "Bieri, Oliver"
+     ],
+     "AU": [
+          "Amann M",
+          "Sprenger T",
+          "Naegelin Y",
+          "Reinhardt J",
+          "Kuster P",
+          "Hirsch JG",
+          "Kappos L",
+          "Radue EW",
+          "Stippich C",
+          "Bieri O"
+     ],
+     "AD": "Department of Neurology, University Hospital Basel, Petersgraben 4, 4031 Basel, Switzerland; Division of Diagnostic and Interventional Neuroradiology, Department of Radiology, University Hospital Basel, Petersgraben 4, 4031 Basel, Switzerland; Medical Image Analysis Center (MIAC), Schanzenstrasse 55, 4031 Basel, Switzerland. Electronic address: Michael.Amann@usb.ch. Department of Neurology, University Hospital Basel, Petersgraben 4, 4031 Basel, Switzerland; Division of Diagnostic and Interventional Neuroradiology, Department of Radiology, University Hospital Basel, Petersgraben 4, 4031 Basel, Switzerland; Medical Image Analysis Center (MIAC), Schanzenstrasse 55, 4031 Basel, Switzerland. Department of Neurology, University Hospital Basel, Petersgraben 4, 4031 Basel, Switzerland. Division of Diagnostic and Interventional Neuroradiology, Department of Radiology, University Hospital Basel, Petersgraben 4, 4031 Basel, Switzerland. Medical Image Analysis Center (MIAC), Schanzenstrasse 55, 4031 Basel, Switzerland. Fraunhofer MEVIS, Universitatsallee 29, 28359 Bremen, Germany. Department of Neurology, University Hospital Basel, Petersgraben 4, 4031 Basel, Switzerland. Medical Image Analysis Center (MIAC), Schanzenstrasse 55, 4031 Basel, Switzerland. Division of Diagnostic and Interventional Neuroradiology, Department of Radiology, University Hospital Basel, Petersgraben 4, 4031 Basel, Switzerland. Division of Medical Physics, Department of Radiology, University Hospital Basel, Petersgraben 4, 4031 Basel, Switzerland.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "DEP": "20141220",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Brain/pathology",
+          "Female",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Multiple Sclerosis, Relapsing-Remitting/*pathology",
+          "Neuroimaging/*methods"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Lesions",
+          "Magnetization transfer ratio",
+          "Multiple sclerosis",
+          "Normal appearing matter",
+          "balanced SSFP"
+     ],
+     "EDAT": "2014/12/24 06:00",
+     "MHDA": "2016/01/15 06:00",
+     "CRDT": [
+          "2014/12/24 06:00"
+     ],
+     "PHST": [
+          "2014/08/20 00:00 [received]",
+          "2014/12/12 00:00 [revised]",
+          "2014/12/16 00:00 [accepted]",
+          "2014/12/24 06:00 [entrez]",
+          "2014/12/24 06:00 [pubmed]",
+          "2016/01/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(14)01037-4 [pii]",
+          "10.1016/j.neuroimage.2014.12.045 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2015 Mar;108:87-94. doi: 10.1016/j.neuroimage.2014.12.045. Epub 2014 Dec 20.",
+     "term": "hippocampus"
+}

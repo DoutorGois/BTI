@@ -1,0 +1,79 @@
+{
+     "PMID": "24603429",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150207",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "9",
+     "IP": "3",
+     "DP": "2014",
+     "TI": "Bayesian integration of information in hippocampal place cells.",
+     "PG": "e89762",
+     "LID": "10.1371/journal.pone.0089762 [doi]",
+     "AB": "Accurate spatial localization requires a mechanism that corrects for errors, which might arise from inaccurate sensory information or neuronal noise. In this paper, we propose that Hippocampal place cells might implement such an error correction mechanism by integrating different sources of information in an approximately Bayes-optimal fashion. We compare the predictions of our model with physiological data from rats. Our results suggest that useful predictions regarding the firing fields of place cells can be made based on a single underlying principle, Bayesian cue integration, and that such predictions are possible using a remarkably small number of model parameters.",
+     "FAU": [
+          "Madl, Tamas",
+          "Franklin, Stan",
+          "Chen, Ke",
+          "Montaldi, Daniela",
+          "Trappl, Robert"
+     ],
+     "AU": [
+          "Madl T",
+          "Franklin S",
+          "Chen K",
+          "Montaldi D",
+          "Trappl R"
+     ],
+     "AD": "School of Computer Science, University of Manchester, Manchester, United Kingdom; Austrian Research Institute for Artificial Intelligence, Vienna, Austria. Institute for Intelligent Systems, University of Memphis, Memphis, Tennessee, United States of America. School of Computer Science, University of Manchester, Manchester, United Kingdom. School of Psychological Sciences, University of Manchester, Manchester, United Kingdom. Austrian Research Institute for Artificial Intelligence, Vienna, Austria.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140306",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "EIN": [
+          "PLoS One. 2015;10(8):e0136128. PMID: 26274498"
+     ],
+     "MH": [
+          "Action Potentials/physiology",
+          "*Algorithms",
+          "Animals",
+          "*Bayes Theorem",
+          "Cues",
+          "Hippocampus/cytology/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Neurons/cytology/*physiology",
+          "Orientation/physiology",
+          "Space Perception/physiology"
+     ],
+     "PMC": "PMC3945610",
+     "EDAT": "2014/03/08 06:00",
+     "MHDA": "2015/02/11 06:00",
+     "CRDT": [
+          "2014/03/08 06:00"
+     ],
+     "PHST": [
+          "2013/05/21 00:00 [received]",
+          "2014/01/24 00:00 [accepted]",
+          "2014/03/08 06:00 [entrez]",
+          "2014/03/08 06:00 [pubmed]",
+          "2015/02/11 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0089762 [doi]",
+          "PONE-D-13-20996 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2014 Mar 6;9(3):e89762. doi: 10.1371/journal.pone.0089762. eCollection 2014.",
+     "term": "place cells"
+}

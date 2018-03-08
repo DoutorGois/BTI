@@ -1,0 +1,106 @@
+{
+     "PMID": "26236628",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160404",
+     "LR": "20170220",
+     "IS": "2213-1582 (Electronic) 2213-1582 (Linking)",
+     "VI": "8",
+     "DP": "2015",
+     "TI": "A multi-contrast MRI study of microstructural brain damage in patients with mild cognitive impairment.",
+     "PG": "631-9",
+     "LID": "10.1016/j.nicl.2015.06.003 [doi]",
+     "AB": "OBJECTIVES: The aim of this study was to investigate pathological mechanisms underlying brain tissue alterations in mild cognitive impairment (MCI) using multi-contrast 3 T magnetic resonance imaging (MRI). METHODS: Forty-two MCI patients and 77 healthy controls (HC) underwent T1/T2* relaxometry as well as Magnetization Transfer (MT) MRI. Between-groups comparisons in MRI metrics were performed using permutation-based tests. Using MRI data, a generalized linear model (GLM) was computed to predict clinical performance and a support-vector machine (SVM) classification was used to classify MCI and HC subjects. RESULTS: Multi-parametric MRI data showed microstructural brain alterations in MCI patients vs HC that might be interpreted as: (i) a broad loss of myelin/cellular proteins and tissue microstructure in the hippocampus (p </= 0.01) and global white matter (p < 0.05); and (ii) iron accumulation in the pallidus nucleus (p </= 0.05). MRI metrics accurately predicted memory and executive performances in patients (p </= 0.005). SVM classification reached an accuracy of 75% to separate MCI and HC, and performed best using both volumes and T1/T2*/MT metrics. CONCLUSION: Multi-contrast MRI appears to be a promising approach to infer pathophysiological mechanisms leading to brain tissue alterations in MCI. Likewise, parametric MRI data provide powerful correlates of cognitive deficits and improve automatic disease classification based on morphometric features.",
+     "FAU": [
+          "Granziera, C",
+          "Daducci, A",
+          "Donati, A",
+          "Bonnier, G",
+          "Romascano, D",
+          "Roche, A",
+          "Bach Cuadra, M",
+          "Schmitter, D",
+          "Kloppel, S",
+          "Meuli, R",
+          "von Gunten, A",
+          "Krueger, G"
+     ],
+     "AU": [
+          "Granziera C",
+          "Daducci A",
+          "Donati A",
+          "Bonnier G",
+          "Romascano D",
+          "Roche A",
+          "Bach Cuadra M",
+          "Schmitter D",
+          "Kloppel S",
+          "Meuli R",
+          "von Gunten A",
+          "Krueger G"
+     ],
+     "AD": "Department of Clinical Neurosciences, CHUV, Lausanne, VD, Switzerland ; Advanced Clinical Imaging Technology, EPFL, Lausanne, VD, Switzerland. STI IEL LTS5, EPFL, Lausanne, VD, Switzerland. Service of Old-Age Psychiatry, Department of Psychiatry, CHUV, Lausanne, VD, Switzerland. Advanced Clinical Imaging Technology, EPFL, Lausanne, VD, Switzerland. Advanced Clinical Imaging Technology, EPFL, Lausanne, VD, Switzerland. Advanced Clinical Imaging Technology, EPFL, Lausanne, VD, Switzerland. Department of Radiology, CHUV, Lausanne, VD, Switzerland ; Signal Processing Core, Center for Biomedical Imaging, CHUV, Lausanne, VD, Switzerland. Advanced Clinical Imaging Technology, EPFL, Lausanne, VD, Switzerland. Department of Psychiatry and Psychotherapy, Section of Gerontopsychiatry, Department of Neurology, University Medical Center, Freiburg, Germany. Department of Radiology, CHUV, Lausanne, VD, Switzerland. Service of Old-Age Psychiatry, Department of Psychiatry, CHUV, Lausanne, VD, Switzerland. Advanced Clinical Imaging Technology, EPFL, Lausanne, VD, Switzerland ; Heathcare IM S AW, Siemens Schweiz AG, Renens, VD, Switzerland.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20150620",
+     "PL": "Netherlands",
+     "TA": "Neuroimage Clin",
+     "JT": "NeuroImage. Clinical",
+     "JID": "101597070",
+     "RN": [
+          "E1UOL152H7 (Iron)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Cognitive Dysfunction/*pathology",
+          "Female",
+          "Globus Pallidus/*metabolism",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Iron/*metabolism",
+          "Magnetic Resonance Imaging/*methods/standards",
+          "Male",
+          "Middle Aged",
+          "Sensitivity and Specificity",
+          "White Matter/*pathology"
+     ],
+     "PMC": "PMC4511616",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Magnetization transfer imaging",
+          "Mild cognitive impairment",
+          "Multi-contrast MRI",
+          "Quantitative MRI",
+          "Relaxometry"
+     ],
+     "EDAT": "2015/08/04 06:00",
+     "MHDA": "2016/04/05 06:00",
+     "CRDT": [
+          "2015/08/04 06:00"
+     ],
+     "PHST": [
+          "2015/02/02 00:00 [received]",
+          "2015/05/25 00:00 [revised]",
+          "2015/06/07 00:00 [accepted]",
+          "2015/08/04 06:00 [entrez]",
+          "2015/08/04 06:00 [pubmed]",
+          "2016/04/05 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1016/j.nicl.2015.06.003 [doi]",
+          "S2213-1582(15)00109-6 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Neuroimage Clin. 2015 Jun 20;8:631-9. doi: 10.1016/j.nicl.2015.06.003. eCollection 2015.",
+     "term": "hippocampus"
+}

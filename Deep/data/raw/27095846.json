@@ -1,0 +1,85 @@
+{
+     "PMID": "27095846",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20170220",
+     "IS": "1091-6490 (Electronic) 0027-8424 (Linking)",
+     "VI": "113",
+     "IP": "18",
+     "DP": "2016 May 3",
+     "TI": "Joint representation of translational and rotational components of optic flow in parietal cortex.",
+     "PG": "5077-82",
+     "LID": "10.1073/pnas.1604818113 [doi]",
+     "AB": "Terrestrial navigation naturally involves translations within the horizontal plane and eye rotations about a vertical (yaw) axis to track and fixate targets of interest. Neurons in the macaque ventral intraparietal (VIP) area are known to represent heading (the direction of self-translation) from optic flow in a manner that is tolerant to rotational visual cues generated during pursuit eye movements. Previous studies have also reported that eye rotations modulate the response gain of heading tuning curves in VIP neurons. We tested the hypothesis that VIP neurons simultaneously represent both heading and horizontal (yaw) eye rotation velocity by measuring heading tuning curves for a range of rotational velocities of either real or simulated eye movements. Three findings support the hypothesis of a joint representation. First, we show that rotation velocity selectivity based on gain modulations of visual heading tuning is similar to that measured during pure rotations. Second, gain modulations of heading tuning are similar for self-generated eye rotations and visually simulated rotations, indicating that the representation of rotation velocity in VIP is multimodal, driven by both visual and extraretinal signals. Third, we show that roughly one-half of VIP neurons jointly represent heading and rotation velocity in a multiplicatively separable manner. These results provide the first evidence, to our knowledge, for a joint representation of translation direction and rotation velocity in parietal cortex and show that rotation velocity can be represented based on visual cues, even in the absence of efference copy signals.",
+     "FAU": [
+          "Sunkara, Adhira",
+          "DeAngelis, Gregory C",
+          "Angelaki, Dora E"
+     ],
+     "AU": [
+          "Sunkara A",
+          "DeAngelis GC",
+          "Angelaki DE"
+     ],
+     "AD": "Department of Neuroscience, Baylor College of Medicine, Houston, TX 77030; Department of Brain and Cognitive Sciences, University of Rochester, Rochester, NY 14627. Department of Neuroscience, Baylor College of Medicine, Houston, TX 77030; angelaki@bcm.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EY016178/EY/NEI NIH HHS/United States",
+          "U01 NS094368/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160419",
+     "PL": "United States",
+     "TA": "Proc Natl Acad Sci U S A",
+     "JT": "Proceedings of the National Academy of Sciences of the United States of America",
+     "JID": "7505876",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Cues",
+          "Eye Movements/*physiology",
+          "Macaca mulatta",
+          "Male",
+          "Motion Perception/*physiology",
+          "Optic Flow/*physiology",
+          "Orientation/physiology",
+          "Parietal Lobe/*physiology",
+          "Rotation",
+          "Spatial Navigation/*physiology"
+     ],
+     "PMC": "PMC4983832",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "heading",
+          "optic flow",
+          "rotation",
+          "self-motion",
+          "ventral intraparietal area"
+     ],
+     "EDAT": "2016/04/21 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2016/04/21 06:00"
+     ],
+     "PHST": [
+          "2016/04/21 06:00 [entrez]",
+          "2016/04/21 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "1604818113 [pii]",
+          "10.1073/pnas.1604818113 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc Natl Acad Sci U S A. 2016 May 3;113(18):5077-82. doi: 10.1073/pnas.1604818113. Epub 2016 Apr 19.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,92 @@
+{
+     "PMID": "26153529",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151224",
+     "LR": "20150924",
+     "IS": "1365-2052 (Electronic) 0268-9146 (Linking)",
+     "VI": "46",
+     "IP": "5",
+     "DP": "2015 Oct",
+     "TI": "Transcriptome comparison in the pituitary-adrenal axis between Beagle and Chinese Field dogs after chronic stress exposure.",
+     "PG": "522-34",
+     "LID": "10.1111/age.12325 [doi]",
+     "AB": "Chronic stress can induce a series of maladjustments, and the response to stress is partly regulated by the hypothalamus-pituitary-adrenal axis. The aim of this study was to investigate the genetic mechanisms of this axis regulating stress responsiveness. The pituitary and adrenal cortex of Beagle and Chinese Field Dog (CFD) from a stress exposure group [including Beagle pituitary 1 (BP1), CFD pituitary 1 (CFDP1), Beagle adrenal cortex 1 (BAC1), CFD adrenal cortex 1 (CFDAC1)] and a control group [including Beagle pituitary 2 (BP2), CFD pituitary 2 (CFDP2), Beagle adrenal cortex 2 (BAC2), CFD adrenal cortex 2 (CFDAC2)], selected to perform RNA-seq transcriptome comparisons, showed that 40, 346, 376, 69, 70, 38, 57 and 71 differentially expressed genes were detected in BP1 vs. BP2, CFDP1 vs. CFDP2, BP1 vs. CFDP1, BP2 vs. CFDP2, BAC1 vs. BAC2, CFDAC1 vs. CFDAC2, BAC1 vs. CFDAC1 and BAC2 vs. CFDAC2 respectively. NPB was a gene common to BAC1 vs. BAC2 and CFDAC1 vs. CFDAC2, indicating it was a potential gene affecting response to chronic stress, regardless of the extent of chronic stress induced. PLP1 was a gene common to BP1 vs. CFDP1 and BP2 vs. CFDP2, suggesting its important roles in affecting the stress-tolerance difference between the two breeds, regardless of whether there was stress exposure or not. Pathway analysis found 12, 4, 11 and 1 enriched pathway in the comparisons of BP1 vs. CFDP1, BP2 vs. CFDP2, CFDP1 vs. CFDP2 and BAC1 vs. BAC2 respectively. Glutamatergic synapse, neuroactive ligand-receptor interaction, retrograde endocannabinoid signaling, GABAergic synapse, calcium signaling pathway and dopaminergic synapse were the most significantly enriched pathways in both CFDP1 vs. CFDP2 and BP1 vs. CFDP1. GO, KEGG pathway and gene network analysis demonstrated that GRIA3, GRIN2A, GRIN2B and NPY were important in regulating the stress response in CFD. Nevertheless, ADORA1, CAMK2A, GRM1, GRM7 and NR4A1 might be critical genes contributing to the stress-tolerance difference between CFD and Beagle when subjected to stress exposure. In addition, RGS4 and SYN1 might play important roles both in regulating the stress response in CFD and in affecting the stress-tolerance difference in different breeds. These observations clearly showed that some genes in the adrenal cortex and pituitary could regulate the stress response in Beagle and CFDs, whereas some others could affect the stress-tolerance difference between these two breeds. Our results can contribute to a more comprehensive understanding of the genetic mechanisms of response to chronic stress.",
+     "CI": [
+          "(c) 2015 Stichting International Foundation for Animal Genetics."
+     ],
+     "FAU": [
+          "Luo, Wei",
+          "Fang, Meixia",
+          "Xu, Haiping",
+          "Xing, Huijie",
+          "Nie, Qinghua"
+     ],
+     "AU": [
+          "Luo W",
+          "Fang M",
+          "Xu H",
+          "Xing H",
+          "Nie Q"
+     ],
+     "AD": "Department of Animal Genetics, Breeding and Reproduction, College of Animal Science, South China Agricultural University, Guangzhou, Guangdong, 510642, China. Guangdong Provincial Key Laboratory of Agro-Animal Genomics and Molecular Breeding and Key Laboratory of Chicken Genetics, Breeding and Reproduction, Ministry of Agriculture, Guangzhou, Guangdong, 510642, China. Department of Laboratory Animal Science, Medical College of Jinan University, Guangzhou, Guangdong, 510632, China. Department of Animal Genetics, Breeding and Reproduction, College of Animal Science, South China Agricultural University, Guangzhou, Guangdong, 510642, China. Guangdong Provincial Key Laboratory of Agro-Animal Genomics and Molecular Breeding and Key Laboratory of Chicken Genetics, Breeding and Reproduction, Ministry of Agriculture, Guangzhou, Guangdong, 510642, China. Department of Laboratory Animal Science, Medical College of Jinan University, Guangzhou, Guangdong, 510632, China. Department of Animal Genetics, Breeding and Reproduction, College of Animal Science, South China Agricultural University, Guangzhou, Guangdong, 510642, China. Guangdong Provincial Key Laboratory of Agro-Animal Genomics and Molecular Breeding and Key Laboratory of Chicken Genetics, Breeding and Reproduction, Ministry of Agriculture, Guangzhou, Guangdong, 510642, China.",
+     "LA": [
+          "eng"
+     ],
+     "SI": [
+          "GENBANK/GSE66265"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150707",
+     "PL": "England",
+     "TA": "Anim Genet",
+     "JT": "Animal genetics",
+     "JID": "8605704",
+     "RN": [
+          "WI4X0X7BPJ (Hydrocortisone)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Dogs/classification/*genetics",
+          "Gene Regulatory Networks",
+          "Hippocampus/pathology",
+          "Hydrocortisone/blood",
+          "Hypothalamo-Hypophyseal System/*physiology",
+          "Molecular Sequence Data",
+          "Pituitary-Adrenal System/*physiology",
+          "Polymorphism, Single Nucleotide",
+          "Sequence Analysis, DNA",
+          "Stress, Physiological/*genetics",
+          "*Transcriptome"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "RNA-seq",
+          "gene expression",
+          "hypothalamus-pituitary-adrenal axis",
+          "network analysis"
+     ],
+     "EDAT": "2015/07/15 06:00",
+     "MHDA": "2015/12/25 06:00",
+     "CRDT": [
+          "2015/07/09 06:00"
+     ],
+     "PHST": [
+          "2015/05/17 00:00 [accepted]",
+          "2015/07/09 06:00 [entrez]",
+          "2015/07/15 06:00 [pubmed]",
+          "2015/12/25 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/age.12325 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Anim Genet. 2015 Oct;46(5):522-34. doi: 10.1111/age.12325. Epub 2015 Jul 7.",
+     "term": "hippocampus"
+}

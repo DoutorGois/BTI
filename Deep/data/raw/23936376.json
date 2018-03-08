@@ -1,0 +1,101 @@
+{
+     "PMID": "23936376",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140428",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "8",
+     "DP": "2013",
+     "TI": "Using manifold learning for atlas selection in multi-atlas segmentation.",
+     "PG": "e70059",
+     "LID": "10.1371/journal.pone.0070059 [doi]",
+     "AB": "Multi-atlas segmentation has been widely used to segment various anatomical structures. The success of this technique partly relies on the selection of atlases that are best mapped to a new target image after registration. Recently, manifold learning has been proposed as a method for atlas selection. Each manifold learning technique seeks to optimize a unique objective function. Therefore, different techniques produce different embeddings even when applied to the same data set. Previous studies used a single technique in their method and gave no reason for the choice of the manifold learning technique employed nor the theoretical grounds for the choice of the manifold parameters. In this study, we compare side-by-side the results given by 3 manifold learning techniques (Isomap, Laplacian Eigenmaps and Locally Linear Embedding) on the same data set. We assess the ability of those 3 different techniques to select the best atlases to combine in the framework of multi-atlas segmentation. First, a leave-one-out experiment is used to optimize our method on a set of 110 manually segmented atlases of hippocampi and find the manifold learning technique and associated manifold parameters that give the best segmentation accuracy. Then, the optimal parameters are used to automatically segment 30 subjects from the Alzheimer's Disease Neuroimaging Initiative (ADNI). For our dataset, the selection of atlases with Locally Linear Embedding gives the best results. Our findings show that selection of atlases with manifold learning leads to segmentation accuracy close to or significantly higher than the state-of-the-art method and that accuracy can be increased by fine tuning the manifold learning process.",
+     "FAU": [
+          "Hoang Duc, Albert K",
+          "Modat, Marc",
+          "Leung, Kelvin K",
+          "Cardoso, M Jorge",
+          "Barnes, Josephine",
+          "Kadir, Timor",
+          "Ourselin, Sebastien"
+     ],
+     "AU": [
+          "Hoang Duc AK",
+          "Modat M",
+          "Leung KK",
+          "Cardoso MJ",
+          "Barnes J",
+          "Kadir T",
+          "Ourselin S"
+     ],
+     "AD": "Centre for Medical Image Computing, University College London, London, United Kingdom. albert.hoang.duc.10@ucl.ac.uk",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "UL1 TR000128/TR/NCATS NIH HHS/United States",
+          "Medical Research Council/United Kingdom",
+          "Department of Health/United Kingdom",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "Canadian Institutes of Health Research/Canada",
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "Arthritis Research UK/United Kingdom"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130802",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Algorithms",
+          "Alzheimer Disease/diagnostic imaging/*pathology",
+          "*Atlases as Topic",
+          "*Brain Mapping",
+          "Case-Control Studies",
+          "Female",
+          "Hippocampus/anatomy & histology/*pathology",
+          "Humans",
+          "*Image Interpretation, Computer-Assisted",
+          "*Image Processing, Computer-Assisted",
+          "Imaging, Three-Dimensional",
+          "Male",
+          "Neuroimaging",
+          "*Pattern Recognition, Automated",
+          "Radiography"
+     ],
+     "PMC": "PMC3732273",
+     "EDAT": "2013/08/13 06:00",
+     "MHDA": "2014/04/29 06:00",
+     "CRDT": [
+          "2013/08/13 06:00"
+     ],
+     "PHST": [
+          "2012/12/18 00:00 [received]",
+          "2013/06/15 00:00 [accepted]",
+          "2013/08/13 06:00 [entrez]",
+          "2013/08/13 06:00 [pubmed]",
+          "2014/04/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0070059 [doi]",
+          "PONE-D-12-39861 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2013 Aug 2;8(8):e70059. doi: 10.1371/journal.pone.0070059. Print 2013.",
+     "term": "hippocampus"
+}

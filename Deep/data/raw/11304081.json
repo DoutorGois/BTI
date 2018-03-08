@@ -1,0 +1,77 @@
+{
+     "PMID": "11304081",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20010712",
+     "LR": "20061115",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "13",
+     "IP": "5",
+     "DP": "2001 May",
+     "TI": "Automated hippocampal segmentation by regional fluid registration of serial MRI: validation and application in Alzheimer's disease.",
+     "PG": "847-55",
+     "AB": "The application of voxel-level three-dimensional registration to serial magnetic resonance imaging (MRI) is described. This fluid registration determines deformation fields modeling brain change, which are consistent with a model describing a viscous fluid. The objective was to validate the measurement of hippocampal volumetric change by fluid registration in Alzheimer's disease (AD) against current methodologies. The hippocampus was chosen for this study because it is difficult to measure reproducibly by manual segmentation and is widely studied; however, the technique is applicable to any structure which can be delineated on a scan. First, suitable values for the viscosity-body-force-ratio, alpha (0.01), and the number of iterations (300), were established and the convergence, repeatability, linearity, and accuracy investigated and compared with expert manual segmentation. A simple model of hippocampal atrophy was used to compare simulated volumetric change against that obtained by fluid registration. Finally the serial segmentation was compared with the current gold standard technique-expert human labeling with a volume repeatability of approximately 4%-in 27 subjects (15 normal controls, 12 clinically diagnosed with Alzheimer's disease). The scan-rescan volumetric consistency of serial segmentation by fluid-registration was shown to be superior to human serial segmentors ( approximately 2%). The mean absolute volume difference between fluid and manual segmentation was 0.7%. Fluid registration has potential importance for tracking longitudinal structural changes in brain particularly in the context of the clinical trial where large numbers of subjects may have multiple MR scans.",
+     "CI": [
+          "Copyright 2001 Academic Press."
+     ],
+     "FAU": [
+          "Crum, W R",
+          "Scahill, R I",
+          "Fox, N C"
+     ],
+     "AU": [
+          "Crum WR",
+          "Scahill RI",
+          "Fox NC"
+     ],
+     "AD": "Dementia Research Group, Institute of Neurology, 8-11 Queen Square, London, WC1N 3BG, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Algorithms",
+          "Alzheimer Disease/*diagnosis",
+          "Atrophy",
+          "Brain Mapping",
+          "Cerebrospinal Fluid/*physiology",
+          "Computer Simulation",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "*Image Enhancement",
+          "*Image Processing, Computer-Assisted",
+          "*Imaging, Three-Dimensional",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Mathematical Computing",
+          "Middle Aged",
+          "Reference Values"
+     ],
+     "EDAT": "2001/04/17 10:00",
+     "MHDA": "2001/07/13 10:01",
+     "CRDT": [
+          "2001/04/17 10:00"
+     ],
+     "PHST": [
+          "2001/04/17 10:00 [pubmed]",
+          "2001/07/13 10:01 [medline]",
+          "2001/04/17 10:00 [entrez]"
+     ],
+     "AID": [
+          "10.1006/nimg.2001.0744 [doi]",
+          "S1053-8119(01)90744-X [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2001 May;13(5):847-55. doi: 10.1006/nimg.2001.0744.",
+     "term": "hippocampus"
+}

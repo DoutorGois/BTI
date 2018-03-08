@@ -1,0 +1,72 @@
+{
+     "PMID": "28767687",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170829",
+     "LR": "20170829",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "12",
+     "IP": "8",
+     "DP": "2017",
+     "TI": "A novel on-line spatial-temporal k-anonymity method for location privacy protection from sequence rules-based inference attacks.",
+     "PG": "e0182232",
+     "LID": "10.1371/journal.pone.0182232 [doi]",
+     "AB": "Analyzing large-scale spatial-temporal k-anonymity datasets recorded in location-based service (LBS) application servers can benefit some LBS applications. However, such analyses can allow adversaries to make inference attacks that cannot be handled by spatial-temporal k-anonymity methods or other methods for protecting sensitive knowledge. In response to this challenge, first we defined a destination location prediction attack model based on privacy-sensitive sequence rules mined from large scale anonymity datasets. Then we proposed a novel on-line spatial-temporal k-anonymity method that can resist such inference attacks. Our anti-attack technique generates new anonymity datasets with awareness of privacy-sensitive sequence rules. The new datasets extend the original sequence database of anonymity datasets to hide the privacy-sensitive rules progressively. The process includes two phases: off-line analysis and on-line application. In the off-line phase, sequence rules are mined from an original sequence database of anonymity datasets, and privacy-sensitive sequence rules are developed by correlating privacy-sensitive spatial regions with spatial grid cells among the sequence rules. In the on-line phase, new anonymity datasets are generated upon LBS requests by adopting specific generalization and avoidance principles to hide the privacy-sensitive sequence rules progressively from the extended sequence anonymity datasets database. We conducted extensive experiments to test the performance of the proposed method, and to explore the influence of the parameter K value. The results demonstrated that our proposed approach is faster and more effective for hiding privacy-sensitive sequence rules in terms of hiding sensitive rules ratios to eliminate inference attacks. Our method also had fewer side effects in terms of generating new sensitive rules ratios than the traditional spatial-temporal k-anonymity method, and had basically the same side effects in terms of non-sensitive rules variation ratios with the traditional spatial-temporal k-anonymity method. Furthermore, we also found the performance variation tendency from the parameter K value, which can help achieve the goal of hiding the maximum number of original sensitive rules while generating a minimum of new sensitive rules and affecting a minimum number of non-sensitive rules.",
+     "FAU": [
+          "Zhang, Haitao",
+          "Wu, Chenxue",
+          "Chen, Zewei",
+          "Liu, Zhao",
+          "Zhu, Yunhong"
+     ],
+     "AU": [
+          "Zhang H",
+          "Wu C",
+          "Chen Z",
+          "Liu Z",
+          "Zhu Y"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-2639-4656"
+     ],
+     "AD": "School of Geographic and Biological Information, Nanjing University of Posts and Telecommunications, Nanjing, Jiangsu, China. School of Telecommunications and Information Engineering, Nanjing University of Posts and Telecommunications, Nanjing, Jiangsu, China. School of Telecommunications and Information Engineering, Nanjing University of Posts and Telecommunications, Nanjing, Jiangsu, China. School of Telecommunications and Information Engineering, Nanjing University of Posts and Telecommunications, Nanjing, Jiangsu, China. School of Telecommunications and Information Engineering, Nanjing University of Posts and Telecommunications, Nanjing, Jiangsu, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170802",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Computer Security",
+          "Databases, Nucleic Acid",
+          "Models, Theoretical",
+          "Personal Space"
+     ],
+     "PMC": "PMC5540611",
+     "EDAT": "2017/08/03 06:00",
+     "MHDA": "2017/08/30 06:00",
+     "CRDT": [
+          "2017/08/03 06:00"
+     ],
+     "PHST": [
+          "2017/01/12 00:00 [received]",
+          "2017/07/15 00:00 [accepted]",
+          "2017/08/03 06:00 [entrez]",
+          "2017/08/03 06:00 [pubmed]",
+          "2017/08/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0182232 [doi]",
+          "PONE-D-17-01451 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2017 Aug 2;12(8):e0182232. doi: 10.1371/journal.pone.0182232. eCollection 2017.",
+     "term": "grid cells"
+}

@@ -1,0 +1,58 @@
+{
+     "PMID": "16901091",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060914",
+     "LR": "20061115",
+     "IS": "0919-9454 (Print) 0919-9454 (Linking)",
+     "VI": "16",
+     "IP": "2",
+     "DP": "2005",
+     "TI": "Reassembly and interfacing neural models registered on biological model databases.",
+     "PG": "76-85",
+     "AB": "The importance of modeling and simulation of biological process is growing for further understanding of living systems at all scales from molecular to cellular, organic, and individuals. In the field of neuroscience, there are so called platform simulators, the de-facto standard neural simulators. More than a hundred neural models are registered on the model database. These models are executable in corresponding simulation environments. But usability of the registered models is not sufficient. In order to make use of the model, the users have to identify the input, output and internal state variables and parameters of the models. The roles and units of each variable and parameter are not explicitly defined in the model files. These are suggested implicitly in the papers where the simulation results are demonstrated. In this study, we propose a novel method of reassembly and interfacing models registered on biological model database. The method was applied to the neural models registered on one of the typical biological model database, ModelDB. The results are described in detail with the hippocampal pyramidal neuron model. The model is executable in NEURON simulator environment, which demonstrates that somatic EPSP amplitude is independent of synapse location. Input and output parameters and variables were identified successfully, and the results of the simulation were recorded in the organized form with annotations.",
+     "FAU": [
+          "Otake, Mihoko",
+          "Takagi, Toshihisa"
+     ],
+     "AU": [
+          "Otake M",
+          "Takagi T"
+     ],
+     "AD": "Science Integration Program, Humans, Department of Frontier Sciences and Science Integration, Division of Project Coordination, The University of Tokyo, Kashiwa-no-ha 5-1-5, Kashiwa-shi, 277-8568 Japan. otake@cb.k.u-tokyo.ac.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Japan",
+     "TA": "Genome Inform",
+     "JT": "Genome informatics. International Conference on Genome Informatics",
+     "JID": "101280573",
+     "SB": "IM",
+     "MH": [
+          "Computational Biology/*methods",
+          "*Computer Simulation",
+          "*Databases, Factual",
+          "Hippocampus/*cytology/*physiology",
+          "*Models, Neurological"
+     ],
+     "EDAT": "2006/08/12 09:00",
+     "MHDA": "2006/09/15 09:00",
+     "CRDT": [
+          "2006/08/12 09:00"
+     ],
+     "PHST": [
+          "2006/08/12 09:00 [pubmed]",
+          "2006/09/15 09:00 [medline]",
+          "2006/08/12 09:00 [entrez]"
+     ],
+     "AID": [
+          "162076 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Genome Inform. 2005;16(2):76-85.",
+     "term": "hippocampus"
+}

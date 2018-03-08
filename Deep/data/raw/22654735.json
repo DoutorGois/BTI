@@ -1,0 +1,68 @@
+{
+     "PMID": "22654735",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20121002",
+     "LR": "20170220",
+     "IS": "1662-5110 (Electronic) 1662-5110 (Linking)",
+     "VI": "6",
+     "DP": "2012",
+     "TI": "A model combining oscillations and attractor dynamics for generation of grid cell firing.",
+     "PG": "30",
+     "LID": "10.3389/fncir.2012.00030 [doi]",
+     "AB": "Different models have been able to account for different features of the data on grid cell firing properties, including the relationship of grid cells to cellular properties and network oscillations. This paper describes a model that combines elements of two major classes of models of grid cells: models using interactions of oscillations and models using attractor dynamics. This model includes a population of units with oscillatory input representing input from the medial septum. These units are termed heading angle cells because their connectivity depends upon heading angle in the environment as well as the spatial phase coded by the cell. These cells project to a population of grid cells. The sum of the heading angle input results in standing waves of circularly symmetric input to the grid cell population. Feedback from the grid cell population increases the activity of subsets of the heading angle cells, resulting in the network settling into activity patterns that resemble the patterns of firing fields in a population of grid cells. The properties of heading angle cells firing as conjunctive grid-by-head-direction cells can shift the grid cell firing according to movement velocity. The pattern of interaction of oscillations requires use of separate populations that fire on alternate cycles of the net theta rhythmic input to grid cells.",
+     "FAU": [
+          "Hasselmo, Michael E",
+          "Brandon, Mark P"
+     ],
+     "AU": [
+          "Hasselmo ME",
+          "Brandon MP"
+     ],
+     "AD": "Graduate Program for Neuroscience, Department of Psychology, Center for Memory and Brain, Boston University Boston, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 MH094263/MH/NIMH NIH HHS/United States",
+          "R01 MH060013/MH/NIMH NIH HHS/United States",
+          "R01 MH061492/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20120528",
+     "PL": "Switzerland",
+     "TA": "Front Neural Circuits",
+     "JT": "Frontiers in neural circuits",
+     "JID": "101477940",
+     "PMC": "PMC3361022",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "entorhinal cortex",
+          "oscillatory interference",
+          "spatial navigation",
+          "stellate cells",
+          "whole-cell patch recording"
+     ],
+     "EDAT": "2012/06/02 06:00",
+     "MHDA": "2012/06/02 06:01",
+     "CRDT": [
+          "2012/06/02 06:00"
+     ],
+     "PHST": [
+          "2011/12/10 00:00 [received]",
+          "2012/05/04 00:00 [accepted]",
+          "2012/06/02 06:00 [entrez]",
+          "2012/06/02 06:00 [pubmed]",
+          "2012/06/02 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncir.2012.00030 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neural Circuits. 2012 May 28;6:30. doi: 10.3389/fncir.2012.00030. eCollection 2012.",
+     "term": "grid cells"
+}

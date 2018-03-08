@@ -1,0 +1,105 @@
+{
+     "PMID": "25720402",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160627",
+     "LR": "20161125",
+     "IS": "1875-8908 (Electronic) 1387-2877 (Linking)",
+     "VI": "46",
+     "IP": "1",
+     "DP": "2015",
+     "TI": "Fully Automated Atlas-Based Hippocampus Volumetry for Clinical Routine: Validation in Subjects with Mild Cognitive Impairment from the ADNI Cohort.",
+     "PG": "199-209",
+     "LID": "10.3233/JAD-142280 [doi]",
+     "AB": "Hippocampus volumetry based on magnetic resonance imaging (MRI) has not yet been translated into everyday clinical diagnostic patient care, at least in part due to limited availability of appropriate software tools. In the present study, we evaluate a fully-automated and computationally efficient processing pipeline for atlas based hippocampal volumetry using freely available Statistical Parametric Mapping (SPM) software in 198 amnestic mild cognitive impairment (MCI) subjects from the Alzheimer's Disease Neuroimaging Initiative (ADNI1). Subjects were grouped into MCI stable and MCI to probable Alzheimer's disease (AD) converters according to follow-up diagnoses at 12, 24, and 36 months. Hippocampal grey matter volume (HGMV) was obtained from baseline T1-weighted MRI and then corrected for total intracranial volume and age. Average processing time per subject was less than 4 minutes on a standard PC. The area under the receiver operator characteristic curve of the corrected HGMV for identification of MCI to probable AD converters within 12, 24, and 36 months was 0.78, 0.72, and 0.71, respectively. Thus, hippocampal volume computed with the fully-automated processing pipeline provides similar power for prediction of MCI to probable AD conversion as computationally more expensive methods. The whole processing pipeline has been made freely available as an SPM8 toolbox. It is easily set up and integrated into everyday clinical patient care.",
+     "FAU": [
+          "Suppa, Per",
+          "Hampel, Harald",
+          "Spies, Lothar",
+          "Fiebach, Jochen B",
+          "Dubois, Bruno",
+          "Buchert, Ralph"
+     ],
+     "AU": [
+          "Suppa P",
+          "Hampel H",
+          "Spies L",
+          "Fiebach JB",
+          "Dubois B",
+          "Buchert R"
+     ],
+     "AD": "Department of Nuclear Medicine, Charite, Berlin, Germany. jung diagnostics GmbH, Hamburg, Germany. Universite Pierre et Marie Curie, Departement de Neurologie, Institut de la Memoire et de la Maladie d'Alzheimer (IM2A), Hopital de la Salpetriere, Paris, France. jung diagnostics GmbH, Hamburg, Germany. Center for Stroke Research Berlin, Charite, Berlin, Germany. Universite Pierre et Marie Curie, Departement de Neurologie, Institut de la Memoire et de la Maladie d'Alzheimer (IM2A), Hopital de la Salpetriere, Paris, France.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "Netherlands",
+     "TA": "J Alzheimers Dis",
+     "JT": "Journal of Alzheimer's disease : JAD",
+     "JID": "9814863",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/complications",
+          "*Brain Mapping",
+          "Cognitive Dysfunction/*diagnosis/etiology",
+          "Cohort Studies",
+          "Disease Progression",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "*Image Processing, Computer-Assisted",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Neuropsychological Tests",
+          "Psychiatric Status Rating Scales",
+          "ROC Curve",
+          "Regression Analysis",
+          "Reproducibility of Results",
+          "Software",
+          "Statistics as Topic"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "ADNI",
+          "Alzheimer's disease",
+          "atlas-based segmentation",
+          "fully automated",
+          "hippocampus volumetry",
+          "magnetic resonance imaging",
+          "mild cognitive impairment",
+          "prediction"
+     ],
+     "EDAT": "2015/02/28 06:00",
+     "MHDA": "2016/06/28 06:00",
+     "CRDT": [
+          "2015/02/28 06:00"
+     ],
+     "PHST": [
+          "2015/02/28 06:00 [entrez]",
+          "2015/02/28 06:00 [pubmed]",
+          "2016/06/28 06:00 [medline]"
+     ],
+     "AID": [
+          "F841213585066287 [pii]",
+          "10.3233/JAD-142280 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Alzheimers Dis. 2015;46(1):199-209. doi: 10.3233/JAD-142280.",
+     "term": "hippocampus"
+}

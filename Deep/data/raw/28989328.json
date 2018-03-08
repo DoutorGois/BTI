@@ -1,0 +1,89 @@
+{
+     "PMID": "28989328",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20171230",
+     "IS": "1520-6149 (Print) 1520-6149 (Linking)",
+     "VI": "2017",
+     "DP": "2017",
+     "TI": "NETWORK-BASED GENOME WIDE STUDY OF HIPPOCAMPAL IMAGING PHENOTYPE IN ALZHEIMER'S DISEASE TO IDENTIFY FUNCTIONAL INTERACTION MODULES.",
+     "PG": "6170-6174",
+     "LID": "10.1109/ICASSP.2017.7953342 [doi]",
+     "AB": "Identification of functional modules from biological network is a promising approach to enhance the statistical power of genome-wide association study (GWAS) and improve biological interpretation for complex diseases. The precise functions of genes are highly relevant to tissue context, while a majority of module identification studies are based on tissue-free biological networks that lacks phenotypic specificity. In this study, we propose a module identification method that maps the GWAS results of an imaging phenotype onto the corresponding tissue-specific functional interaction network by applying a machine learning framework. Ridge regression and support vector machine (SVM) models are constructed to re-prioritize GWAS results, followed by exploring hippocampus-relevant modules based on top predictions using GWAS top findings. We also propose a GWAS top-neighbor-based module identification approach and compare it with Ridge and SVM based approaches. Modules conserving both tissue specificity and GWAS discoveries are identified, showing the promise of the proposal method for providing insight into the mechanism of complex diseases.",
+     "FAU": [
+          "Yao, Xiaohui",
+          "Yan, Jingwen",
+          "Risacher, Shannon",
+          "Moore, Jason",
+          "Saykin, Andrew",
+          "Shen, Li"
+     ],
+     "AU": [
+          "Yao X",
+          "Yan J",
+          "Risacher S",
+          "Moore J",
+          "Saykin A",
+          "Shen L"
+     ],
+     "AD": "Radiology and Imaging Sciences, Indiana University, Indianapolis, IN, 46202, USA. Informatics and Computing, Indiana University, Indianapolis, IN, 46202, USA. Radiology and Imaging Sciences, Indiana University, Indianapolis, IN, 46202, USA. Informatics and Computing, Indiana University, Indianapolis, IN, 46202, USA. Radiology and Imaging Sciences, Indiana University, Indianapolis, IN, 46202, USA. Biomedical Informatics, University of Pennsylvania, Philadelphia, PA, 19104, USA. Radiology and Imaging Sciences, Indiana University, Indianapolis, IN, 46202, USA. Radiology and Imaging Sciences, Indiana University, Indianapolis, IN, 46202, USA. Informatics and Computing, Indiana University, Indianapolis, IN, 46202, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG046171/AG/NIA NIH HHS/United States",
+          "R01 AG019771/AG/NIA NIH HHS/United States",
+          "R00 LM011384/LM/NLM NIH HHS/United States",
+          "P30 AG010133/AG/NIA NIH HHS/United States",
+          "K99 LM011384/LM/NLM NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "RC2 AG036535/AG/NIA NIH HHS/United States",
+          "UL1 TR001108/TR/NCATS NIH HHS/United States",
+          "R01 EB022574/EB/NIBIB NIH HHS/United States",
+          "U19 AG024904/AG/NIA NIH HHS/United States",
+          "R01 LM011360/LM/NLM NIH HHS/United States",
+          "R01 AG042437/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170619",
+     "PL": "United States",
+     "TA": "Proc IEEE Int Conf Acoust Speech Signal Process",
+     "JT": "Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing. ICASSP (Conference)",
+     "JID": "101182171",
+     "PMC": "PMC5627518",
+     "MID": [
+          "NIHMS859868"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "GWAS",
+          "hippocampus",
+          "module identification",
+          "tissue-specific network"
+     ],
+     "EDAT": "2017/10/11 06:00",
+     "MHDA": "2017/10/11 06:01",
+     "CRDT": [
+          "2017/10/10 06:00"
+     ],
+     "PMCR": [
+          "2018/06/19 00:00"
+     ],
+     "PHST": [
+          "2018/06/19 00:00 [pmc-release]",
+          "2017/10/10 06:00 [entrez]",
+          "2017/10/11 06:00 [pubmed]",
+          "2017/10/11 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1109/ICASSP.2017.7953342 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc IEEE Int Conf Acoust Speech Signal Process. 2017;2017:6170-6174. doi: 10.1109/ICASSP.2017.7953342. Epub 2017 Jun 19.",
+     "term": "hippocampus"
+}

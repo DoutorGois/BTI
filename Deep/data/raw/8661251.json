@@ -1,0 +1,81 @@
+{
+     "PMID": "8661251",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19960919",
+     "LR": "20071114",
+     "IS": "1074-7427 (Print) 1074-7427 (Linking)",
+     "VI": "66",
+     "IP": "1",
+     "DP": "1996 Jul",
+     "TI": "A computational model of cholinergic disruption of septohippocampal activity in classical eyeblink conditioning.",
+     "PG": "51-66",
+     "AB": "A previous neurocomputational model of corticohippocampal interaction (Gluck & Myers, 1993) can provide a framework for examining the behavioral effects of septohippocampal modulation during classical conditioning. The model assumes that the hippocampal region is necessary for forming new stimulus representations during learning, but not for the formation of simple associations. This paper considers how septohippocampal interaction could affect this function. The septal nuclei provide several modulatory inputs to the hippocampus, including a cholinergic input which Hasselmo (1995) has suggested may function to regulate hippocampal dynamics on a continuum between two states: a storage state in which incoming information is encoded as an intermediate-term memory and a recall state when this information is reactivated. In this theory, anticholinergic drugs such as scopolamine should disrupt learning by selectively reducing the hippocampus's ability to store new information. An approximation of Hasselmo's idea can be implemented in the corticohippocampal model by a simple manipulation of hippocampal learning rate; this manipulation is formally equivalent to adjusting the amount of time the hippocampus spends in learning and recall states. With this manipulation, the model successfully accounts for the effects of scopolamine in retarding classical conditioning in humans (Solomon, Groccia-Ellison, Flynn, Mirak, Edwards, Dunehew, & Stanton, 1993) and animals (Solomon, Soloman, van der Schaaf, & Perry, 1983). The model further predicts that although cholinergic agonists (such as Tacrine) may improve learning in subjects with artificially depressed brain acetylcholine levels, there may be limited memory improvement in normal subjects from such cholinergic therapy. This is consistent with the general finding of a U-shaped dose response curve for cholinergic drugs in normal subjects: low to moderate doses may improve learning, but higher doses are ineffective or even degrade learning (e.g., Ennaceur & Meliani, 1992; Dumery, Derer, & Blozovski, 1988; etc.).",
+     "FAU": [
+          "Myers, C E",
+          "Ermita, B R",
+          "Harris, K",
+          "Hasselmo, M",
+          "Solomon, P",
+          "Gluck, M A"
+     ],
+     "AU": [
+          "Myers CE",
+          "Ermita BR",
+          "Harris K",
+          "Hasselmo M",
+          "Solomon P",
+          "Gluck MA"
+     ],
+     "AD": "Center for Molecular and Behavioral Neuroscience, Rutgers University, Newark, NJ, 07102, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "1-F32-MH10351-01/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+     ],
+     "PL": "United States",
+     "TA": "Neurobiol Learn Mem",
+     "JT": "Neurobiology of learning and memory",
+     "JID": "9508166",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Association Learning/physiology",
+          "Brain Mapping",
+          "Cholinergic Fibers/*physiology",
+          "Conditioning, Classical/*physiology",
+          "Conditioning, Eyelid/*physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "*Models, Theoretical",
+          "Neural Pathways/physiology",
+          "Septum Pellucidum/*physiology"
+     ],
+     "RF": "90",
+     "EDAT": "1996/07/01 00:00",
+     "MHDA": "1996/07/01 00:01",
+     "CRDT": [
+          "1996/07/01 00:00"
+     ],
+     "PHST": [
+          "1996/07/01 00:00 [pubmed]",
+          "1996/07/01 00:01 [medline]",
+          "1996/07/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "S1074-7427(96)90043-X [pii]",
+          "10.1006/nlme.1996.0043 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neurobiol Learn Mem. 1996 Jul;66(1):51-66. doi: 10.1006/nlme.1996.0043.",
+     "term": "hippocampus"
+}

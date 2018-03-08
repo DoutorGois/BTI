@@ -1,0 +1,80 @@
+{
+     "PMID": "25874764",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160115",
+     "LR": "20171116",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "10",
+     "IP": "4",
+     "DP": "2015",
+     "TI": "Insect-inspired navigation algorithm for an aerial agent using satellite imagery.",
+     "PG": "e0122077",
+     "LID": "10.1371/journal.pone.0122077 [doi]",
+     "AB": "Humans have long marveled at the ability of animals to navigate swiftly, accurately, and across long distances. Many mechanisms have been proposed for how animals acquire, store, and retrace learned routes, yet many of these hypotheses appear incongruent with behavioral observations and the animals' neural constraints. The \"Navigation by Scene Familiarity Hypothesis\" proposed originally for insect navigation offers an elegantly simple solution for retracing previously experienced routes without the need for complex neural architectures and memory retrieval mechanisms. This hypothesis proposes that an animal can return to a target location by simply moving toward the most familiar scene at any given point. Proof of concept simulations have used computer-generated ant's-eye views of the world, but here we test the ability of scene familiarity algorithms to navigate training routes across satellite images extracted from Google Maps. We find that Google satellite images are so rich in visual information that familiarity algorithms can be used to retrace even tortuous routes with low-resolution sensors. We discuss the implications of these findings not only for animal navigation but also for the potential development of visual augmentation systems and robot guidance algorithms.",
+     "FAU": [
+          "Gaffin, Douglas D",
+          "Dewar, Alexander",
+          "Graham, Paul",
+          "Philippides, Andrew"
+     ],
+     "AU": [
+          "Gaffin DD",
+          "Dewar A",
+          "Graham P",
+          "Philippides A"
+     ],
+     "AD": "Department of Biology, University of Oklahoma, Norman, Oklahoma, United States of America. School of Life Sciences, University of Sussex, Brighton, United Kingdom. School of Life Sciences, University of Sussex, Brighton, United Kingdom. Department of Informatics, University of Sussex, Brighton, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "BB/F015925/1/Biotechnology and Biological Sciences Research Council/United",
+          "Kingdom",
+          "BB/H013644/Biotechnology and Biological Sciences Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150415",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Ants/physiology",
+          "Computer Simulation",
+          "Homing Behavior/*physiology",
+          "Humans",
+          "Insecta/*physiology",
+          "Internet",
+          "Models, Theoretical",
+          "Satellite Imagery/*methods",
+          "Spatial Navigation/*physiology",
+          "Visual Perception/physiology"
+     ],
+     "PMC": "PMC4398432",
+     "EDAT": "2015/04/16 06:00",
+     "MHDA": "2016/01/16 06:00",
+     "CRDT": [
+          "2015/04/16 06:00"
+     ],
+     "PHST": [
+          "2014/08/08 00:00 [received]",
+          "2015/02/18 00:00 [accepted]",
+          "2015/04/16 06:00 [entrez]",
+          "2015/04/16 06:00 [pubmed]",
+          "2016/01/16 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0122077 [doi]",
+          "PONE-D-14-35813 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2015 Apr 15;10(4):e0122077. doi: 10.1371/journal.pone.0122077. eCollection 2015.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,104 @@
+{
+     "PMID": "26582923",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160727",
+     "LR": "20170220",
+     "IS": "1362-4962 (Electronic) 0305-1048 (Linking)",
+     "VI": "44",
+     "IP": "5",
+     "DP": "2016 Mar 18",
+     "TI": "Improved knockdown from artificial microRNAs in an enhanced miR-155 backbone: a designer's guide to potent multi-target RNAi.",
+     "PG": "e48",
+     "LID": "10.1093/nar/gkv1246 [doi]",
+     "AB": "Artificial microRNA (amiRNA) sequences embedded in natural microRNA (miRNA) backbones have proven to be useful tools for RNA interference (RNAi). amiRNAs have reduced off-target and toxic effects compared to other RNAi-based methods such as short-hairpin RNAs (shRNA). amiRNAs are often less effective for knockdown, however, compared to their shRNA counterparts. We screened a large empirically-designed amiRNA set in the synthetic inhibitory BIC/miR-155 RNA (SIBR) scaffold and show common structural and sequence-specific features associated with effective amiRNAs. We then introduced exogenous motifs into the basal stem region which increase amiRNA biogenesis and knockdown potency. We call this modified backbone the enhanced SIBR (eSIBR) scaffold. Using chained amiRNAs for multi-gene knockdown, we show that concatenation of miRNAs targeting different genes is itself sufficient for increased knockdown efficacy. Further, we show that eSIBR outperforms wild-type SIBR (wtSIBR) when amiRNAs are chained. Finally, we use a lentiviral expression system in cultured neurons, where we again find that eSIBR amiRNAs are more potent for multi-target knockdown of endogenous genes. eSIBR will be a valuable tool for RNAi approaches, especially for studies where knockdown of multiple targets is desired.",
+     "CI": [
+          "(c) The Author(s) 2015. Published by Oxford University Press on behalf of Nucleic",
+          "Acids Research."
+     ],
+     "FAU": [
+          "Fowler, Daniel K",
+          "Williams, Carly",
+          "Gerritsen, Alida T",
+          "Washbourne, Philip"
+     ],
+     "AU": [
+          "Fowler DK",
+          "Williams C",
+          "Gerritsen AT",
+          "Washbourne P"
+     ],
+     "AD": "Institute of Molecular Biology, University of Oregon, Eugene, OR 97403, USA Institute of Neuroscience, University of Oregon, Eugene, OR 97403, USA. Institute of Neuroscience, University of Oregon, Eugene, OR 97403, USA. Institute for Bioinformatics and Evolutionary Studies, University of Idaho, Moscow, ID 83844, USA. Institute of Neuroscience, University of Oregon, Eugene, OR 97403, USA pwash@uoneuro.uoregon.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "T32 HD007348/HD/NICHD NIH HHS/United States",
+          "P01 HD022486/HD/NICHD NIH HHS/United States",
+          "R01 NS065795/NS/NINDS NIH HHS/United States",
+          "T32-HD07348/HD/NICHD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20151117",
+     "PL": "England",
+     "TA": "Nucleic Acids Res",
+     "JT": "Nucleic acids research",
+     "JID": "0411011",
+     "RN": [
+          "0 (MIRN155 microRNA, human)",
+          "0 (MicroRNAs)",
+          "0 (Oligonucleotides, Antisense)",
+          "0 (Recombinant Fusion Proteins)",
+          "0 (enhanced green fluorescent protein)",
+          "147336-22-9 (Green Fluorescent Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Base Pair Mismatch",
+          "Base Sequence",
+          "COS Cells",
+          "Cercopithecus aethiops",
+          "Gene Targeting/*methods",
+          "Genetic Vectors",
+          "Green Fluorescent Proteins/genetics/metabolism",
+          "HEK293 Cells",
+          "Hippocampus/cytology/metabolism",
+          "Humans",
+          "Lentivirus/genetics",
+          "MicroRNAs/chemistry/*genetics",
+          "Molecular Mimicry",
+          "Molecular Sequence Data",
+          "Neurons/cytology/metabolism",
+          "Oligonucleotides, Antisense/chemical synthesis/*genetics",
+          "Primary Cell Culture",
+          "*RNA Interference",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Recombinant Fusion Proteins/chemistry/genetics/metabolism",
+          "Structure-Activity Relationship"
+     ],
+     "PMC": "PMC4797272",
+     "EDAT": "2015/11/20 06:00",
+     "MHDA": "2016/07/28 06:00",
+     "CRDT": [
+          "2015/11/20 06:00"
+     ],
+     "PHST": [
+          "2015/10/31 00:00 [accepted]",
+          "2015/04/22 00:00 [received]",
+          "2015/11/20 06:00 [entrez]",
+          "2015/11/20 06:00 [pubmed]",
+          "2016/07/28 06:00 [medline]"
+     ],
+     "AID": [
+          "gkv1246 [pii]",
+          "10.1093/nar/gkv1246 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nucleic Acids Res. 2016 Mar 18;44(5):e48. doi: 10.1093/nar/gkv1246. Epub 2015 Nov 17.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,68 @@
+{
+     "PMID": "15484886",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20041214",
+     "LR": "20161020",
+     "IS": "1045-9227 (Print) 1045-9227 (Linking)",
+     "VI": "15",
+     "IP": "5",
+     "DP": "2004 Sep",
+     "TI": "Theta-modulated feedforward network generates rate and phase coded firing in the entorhino-hippocampal system.",
+     "PG": "1092-9",
+     "AB": "Principal cells of the hippocampus and of its only cortical input region, the entorhinal cortex exhibit place specific activity in the freely moving rat. While entorhinal cells have widely tuned place fields, hippocampal place fields are more localized and determine not only the rate but also the timing of place cell spikes. Several models have successfully attempted to explain this fine tuning making use of intrahippocampal attractor network dynamics provided by the recurrent collaterals of hippocampal area CA3. Recent experimental evidence shows that CA1 place cells preserve their tuning curves even in the absence of input from CA3. We propose a model in which entorhinal and hippocampal pyramidal cell populations are only connected via feedforward connections. Synaptic transmission in our sytem is gated by a class of interneurons inhibiting specifically the entorhino-hippocampal pathway. Theta rhythm modulates the activity of each component. Our results show that rhythmic shunting inhibition endows entorhinal cells with a novel type of temporal code conveyed by the phase jitter of individual spikes. This converts coarsely tuned place-specific activity in the entorhinal cortex to velocity-dependent postsynaptic excitation and, thus, provides hippocampal place cells with an input that has recently been proposed to account for their rate and phase coded firing. Hippocampal place fields are generated through this mechanism and also shown to be robust against variations in the level of tonic inhibition.",
+     "FAU": [
+          "Lengyel, Mate",
+          "Erdi, Peter"
+     ],
+     "AU": [
+          "Lengyel M",
+          "Erdi P"
+     ],
+     "AD": "Department of Biophysics, KFKI Research Institute for Particle and Nuclear Physics, Hungarian Academy of Sciences, Budapest H-1121, Hungary. lmate@rmki.kfki.hu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Netw",
+     "JT": "IEEE transactions on neural networks",
+     "JID": "101211035",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Axons/physiology",
+          "Entorhinal Cortex/*physiology",
+          "Excitatory Postsynaptic Potentials/physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neural Inhibition/physiology",
+          "Neural Pathways/physiology",
+          "Neurons/*physiology",
+          "Synapses/physiology",
+          "Synaptic Transmission/physiology",
+          "*Theta Rhythm"
+     ],
+     "EDAT": "2004/10/16 09:00",
+     "MHDA": "2004/12/16 09:00",
+     "CRDT": [
+          "2004/10/16 09:00"
+     ],
+     "PHST": [
+          "2004/10/16 09:00 [pubmed]",
+          "2004/12/16 09:00 [medline]",
+          "2004/10/16 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TNN.2004.833304 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Netw. 2004 Sep;15(5):1092-9. doi: 10.1109/TNN.2004.833304.",
+     "term": "place cells"
+}

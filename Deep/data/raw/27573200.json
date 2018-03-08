@@ -1,0 +1,58 @@
+{
+     "PMID": "27573200",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20170220",
+     "IS": "2045-2322 (Electronic) 2045-2322 (Linking)",
+     "VI": "6",
+     "DP": "2016 Aug 30",
+     "TI": "Uncovering representations of sleep-associated hippocampal ensemble spike activity.",
+     "PG": "32193",
+     "LID": "10.1038/srep32193 [doi]",
+     "AB": "Pyramidal neurons in the rodent hippocampus exhibit spatial tuning during spatial navigation, and they are reactivated in specific temporal order during sharp-wave ripples observed in quiet wakefulness or slow wave sleep. However, analyzing representations of sleep-associated hippocampal ensemble spike activity remains a great challenge. In contrast to wake, during sleep there is a complete absence of animal behavior, and the ensemble spike activity is sparse (low occurrence) and fragmental in time. To examine important issues encountered in sleep data analysis, we constructed synthetic sleep-like hippocampal spike data (short epochs, sparse and sporadic firing, compressed timescale) for detailed investigations. Based upon two Bayesian population-decoding methods (one receptive field-based, and the other not), we systematically investigated their representation power and detection reliability. Notably, the receptive-field-free decoding method was found to be well-tuned for hippocampal ensemble spike data in slow wave sleep (SWS), even in the absence of prior behavioral measure or ground truth. Our results showed that in addition to the sample length, bin size, and firing rate, number of active hippocampal pyramidal neurons are critical for reliable representation of the space as well as for detection of spatiotemporal reactivated patterns in SWS or quiet wakefulness.",
+     "FAU": [
+          "Chen, Zhe",
+          "Grosmark, Andres D",
+          "Penagos, Hector",
+          "Wilson, Matthew A"
+     ],
+     "AU": [
+          "Chen Z",
+          "Grosmark AD",
+          "Penagos H",
+          "Wilson MA"
+     ],
+     "AD": "Department of Psychiatry, Department of Neuroscience &Physiology, New York University School of Medicine, New York, NY 10016, USA. The Neuroscience Institute, New York University School of Medicine, New York, NY 10016, USA. Department of Neuroscience, Columbia University Medical Center, New York, NY 10019, USA. Picower Institute of Learning and Memory, Massachusetts Institute of Technology, Cambridge, MA 02139, USA. Picower Institute of Learning and Memory, Massachusetts Institute of Technology, Cambridge, MA 02139, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160830",
+     "PL": "England",
+     "TA": "Sci Rep",
+     "JT": "Scientific reports",
+     "JID": "101563288",
+     "SB": "IM",
+     "PMC": "PMC5004124",
+     "EDAT": "2016/08/31 06:00",
+     "MHDA": "2016/08/31 06:00",
+     "CRDT": [
+          "2016/08/31 06:00"
+     ],
+     "PHST": [
+          "2016/02/04 00:00 [received]",
+          "2016/08/01 00:00 [accepted]",
+          "2016/08/31 06:00 [entrez]",
+          "2016/08/31 06:00 [pubmed]",
+          "2016/08/31 06:00 [medline]"
+     ],
+     "AID": [
+          "srep32193 [pii]",
+          "10.1038/srep32193 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Sci Rep. 2016 Aug 30;6:32193. doi: 10.1038/srep32193.",
+     "term": "spatial navigation"
+}

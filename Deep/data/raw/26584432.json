@@ -1,0 +1,77 @@
+{
+     "PMID": "26584432",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160413",
+     "LR": "20171018",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "11",
+     "IP": "11",
+     "DP": "2015 Nov",
+     "TI": "Differences in Visual-Spatial Input May Underlie Different Compression Properties of Firing Fields for Grid Cell Modules in Medial Entorhinal Cortex.",
+     "PG": "e1004596",
+     "LID": "10.1371/journal.pcbi.1004596 [doi]",
+     "AB": "Firing fields of grid cells in medial entorhinal cortex show compression or expansion after manipulations of the location of environmental barriers. This compression or expansion could be selective for individual grid cell modules with particular properties of spatial scaling. We present a model for differences in the response of modules to barrier location that arise from different mechanisms for the influence of visual features on the computation of location that drives grid cell firing patterns. These differences could arise from differences in the position of visual features within the visual field. When location was computed from the movement of visual features on the ground plane (optic flow) in the ventral visual field, this resulted in grid cell spatial firing that was not sensitive to barrier location in modules modeled with small spacing between grid cell firing fields. In contrast, when location was computed from static visual features on walls of barriers, i.e. in the more dorsal visual field, this resulted in grid cell spatial firing that compressed or expanded based on the barrier locations in modules modeled with large spacing between grid cell firing fields. This indicates that different grid cell modules might have differential properties for computing location based on visual cues, or the spatial radius of sensitivity to visual cues might differ between modules.",
+     "FAU": [
+          "Raudies, Florian",
+          "Hasselmo, Michael E"
+     ],
+     "AU": [
+          "Raudies F",
+          "Hasselmo ME"
+     ],
+     "AD": "Center for Systems Neuroscience and Department of Psychological and Brain Sciences, Boston University, Boston, Massachusetts, United States of America. Center for Computational Neuroscience and Neural Technology, Boston University, Boston, Massachusetts, United States of America. Center for Systems Neuroscience and Department of Psychological and Brain Sciences, Boston University, Boston, Massachusetts, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH60013/MH/NIMH NIH HHS/United States",
+          "P50 094263/PHS HHS/United States",
+          "MH61492/MH/NIMH NIH HHS/United States",
+          "R01 MH060013/MH/NIMH NIH HHS/United States",
+          "P50 MH094263/MH/NIMH NIH HHS/United States",
+          "R01 MH061492/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20151119",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Computational Biology",
+          "Entorhinal Cortex/*cytology/*physiology",
+          "Hippocampus/physiology",
+          "*Models, Neurological",
+          "Rats",
+          "Spatial Navigation/*physiology",
+          "Visual Cortex/*physiology"
+     ],
+     "PMC": "PMC4652908",
+     "EDAT": "2015/11/20 06:00",
+     "MHDA": "2016/04/14 06:00",
+     "CRDT": [
+          "2015/11/20 06:00"
+     ],
+     "PHST": [
+          "2015/02/28 00:00 [received]",
+          "2015/10/12 00:00 [accepted]",
+          "2015/11/20 06:00 [entrez]",
+          "2015/11/20 06:00 [pubmed]",
+          "2016/04/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1004596 [doi]",
+          "PCOMPBIOL-D-15-00337 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2015 Nov 19;11(11):e1004596. doi: 10.1371/journal.pcbi.1004596. eCollection 2015 Nov.",
+     "term": "grid cells"
+}

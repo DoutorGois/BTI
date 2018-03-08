@@ -1,0 +1,83 @@
+{
+     "PMID": "22211949",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130312",
+     "LR": "20170220",
+     "IS": "1541-0420 (Electronic) 0006-341X (Linking)",
+     "VI": "68",
+     "IP": "3",
+     "DP": "2012 Sep",
+     "TI": "Space-time data fusion under error in computer model output: an application to modeling air quality.",
+     "PG": "837-48",
+     "LID": "10.1111/j.1541-0420.2011.01725.x [doi]",
+     "AB": "We provide methods that can be used to obtain more accurate environmental exposure assessment. In particular, we propose two modeling approaches to combine monitoring data at point level with numerical model output at grid cell level, yielding improved prediction of ambient exposure at point level. Extending our earlier downscaler model (Berrocal, V. J., Gelfand, A. E., and Holland, D. M. (2010b). A spatio-temporal downscaler for outputs from numerical models. Journal of Agricultural, Biological and Environmental Statistics 15, 176-197), these new models are intended to address two potential concerns with the model output. One recognizes that there may be useful information in the outputs for grid cells that are neighbors of the one in which the location lies. The second acknowledges potential spatial misalignment between a station and its putatively associated grid cell. The first model is a Gaussian Markov random field smoothed downscaler that relates monitoring station data and computer model output via the introduction of a latent Gaussian Markov random field linked to both sources of data. The second model is a smoothed downscaler with spatially varying random weights defined through a latent Gaussian process and an exponential kernel function, that yields, at each site, a new variable on which the monitoring station data is regressed with a spatial linear model. We applied both methods to daily ozone concentration data for the Eastern US during the summer months of June, July and August 2001, obtaining, respectively, a 5% and a 15% predictive gain in overall predictive mean square error over our earlier downscaler model (Berrocal et al., 2010b). Perhaps more importantly, the predictive gain is greater at hold-out sites that are far from monitoring sites.",
+     "CI": [
+          "(c) 2011, The International Biometric Society."
+     ],
+     "FAU": [
+          "Berrocal, Veronica J",
+          "Gelfand, Alan E",
+          "Holland, David M"
+     ],
+     "AU": [
+          "Berrocal VJ",
+          "Gelfand AE",
+          "Holland DM"
+     ],
+     "AD": "Department of Biostatistics, University of Michigan, Ann Arbor, Michigan 48109, USA. berrocal@umich.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 ES014843/ES/NIEHS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20111229",
+     "PL": "United States",
+     "TA": "Biometrics",
+     "JT": "Biometrics",
+     "JID": "0370625",
+     "RN": [
+          "0 (Air Pollutants)",
+          "66H7ZZK23N (Ozone)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Air Pollutants/analysis",
+          "Air Pollution/analysis/*statistics & numerical data",
+          "Biometry",
+          "*Computer Simulation",
+          "Data Interpretation, Statistical",
+          "Environmental Exposure/statistics & numerical data",
+          "Humans",
+          "Markov Chains",
+          "*Models, Statistical",
+          "Normal Distribution",
+          "Ozone/analysis",
+          "Time Factors",
+          "United States"
+     ],
+     "PMC": "PMC4442701",
+     "MID": [
+          "NIHMS689534"
+     ],
+     "EDAT": "2012/01/04 06:00",
+     "MHDA": "2013/03/13 06:00",
+     "CRDT": [
+          "2012/01/04 06:00"
+     ],
+     "PHST": [
+          "2012/01/04 06:00 [entrez]",
+          "2012/01/04 06:00 [pubmed]",
+          "2013/03/13 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/j.1541-0420.2011.01725.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biometrics. 2012 Sep;68(3):837-48. doi: 10.1111/j.1541-0420.2011.01725.x. Epub 2011 Dec 29.",
+     "term": "grid cells"
+}

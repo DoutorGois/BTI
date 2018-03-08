@@ -1,0 +1,64 @@
+{
+     "PMID": "20700490",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101203",
+     "LR": "20141203",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "6",
+     "IP": "8",
+     "DP": "2010 Aug 5",
+     "TI": "Continuous attractors with morphed/correlated maps.",
+     "LID": "10.1371/journal.pcbi.1000869 [doi] e1000869 [pii]",
+     "AB": "Continuous attractor networks are used to model the storage and representation of analog quantities, such as position of a visual stimulus. The storage of multiple continuous attractors in the same network has previously been studied in the context of self-position coding. Several uncorrelated maps of environments are stored in the synaptic connections, and a position in a given environment is represented by a localized pattern of neural activity in the corresponding map, driven by a spatially tuned input. Here we analyze networks storing a pair of correlated maps, or a morph sequence between two uncorrelated maps. We find a novel state in which the network activity is simultaneously localized in both maps. In this state, a fixed cue presented to the network does not determine uniquely the location of the bump, i.e. the response is unreliable, with neurons not always responding when their preferred input is present. When the tuned input varies smoothly in time, the neuronal responses become reliable and selective for the environment: the subset of neurons responsive to a moving input in one map changes almost completely in the other map. This form of remapping is a non-trivial transformation between the tuned input to the network and the resulting tuning curves of the neurons. The new state of the network could be related to the formation of direction selectivity in one-dimensional environments and hippocampal remapping. The applicability of the model is not confined to self-position representations; we show an instance of the network solving a simple delayed discrimination task.",
+     "FAU": [
+          "Romani, Sandro",
+          "Tsodyks, Misha"
+     ],
+     "AU": [
+          "Romani S",
+          "Tsodyks M"
+     ],
+     "AD": "Department of Neurobiology, Weizmann Institute of Science, Rehovot, Israel.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100805",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Computer Simulation",
+          "Discrimination (Psychology)/physiology",
+          "Hippocampus/*physiology",
+          "*Models, Biological",
+          "*Neural Networks (Computer)",
+          "*Numerical Analysis, Computer-Assisted"
+     ],
+     "PMC": "PMC2916844",
+     "EDAT": "2010/08/12 06:00",
+     "MHDA": "2010/12/14 06:00",
+     "CRDT": [
+          "2010/08/12 06:00"
+     ],
+     "PHST": [
+          "2010/04/29 00:00 [received]",
+          "2010/06/28 00:00 [accepted]",
+          "2010/08/12 06:00 [entrez]",
+          "2010/08/12 06:00 [pubmed]",
+          "2010/12/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1000869 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2010 Aug 5;6(8). doi: 10.1371/journal.pcbi.1000869.",
+     "term": "hippocampus"
+}

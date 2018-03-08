@@ -1,0 +1,62 @@
+{
+     "PMID": "12463338",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20021220",
+     "LR": "20061115",
+     "IS": "0954-898X (Print) 0954-898X (Linking)",
+     "VI": "13",
+     "IP": "4",
+     "DP": "2002 Nov",
+     "TI": "Self-organizing continuous attractor networks and path integration: two-dimensional models of place cells.",
+     "PG": "429-46",
+     "AB": "Single-neuron recording studies have demonstrated the existence of neurons in the hippocampus which appear to encode information about the place where a rat is located, and about the place at which a macaque is looking. We describe 'continuous attractor' neural network models of place cells with Gaussian spatial fields in which the recurrent collateral synaptic connections between the neurons reflect the distance between two places. The networks maintain a localized packet of neuronal activity that represents the place where the animal is located. We show for two related models how the representation of the two-dimensional space in the continuous attractor network of place cells could self-organize by modifying the synaptic connections between the neurons, and also how the place being represented can be updated by idiothetic (self-motion) signals in a neural implementation of path integration.",
+     "FAU": [
+          "Stringer, S M",
+          "Rolls, E T",
+          "Trappenberg, T P",
+          "de Araujo, I E T"
+     ],
+     "AU": [
+          "Stringer SM",
+          "Rolls ET",
+          "Trappenberg TP",
+          "de Araujo IE"
+     ],
+     "AD": "Oxford University, Department of Experimental Psychology, South Parks Road, Oxford OX1 3UD, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "Network",
+     "JT": "Network (Bristol, England)",
+     "JID": "9431867",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Normal Distribution",
+          "Space Perception/*physiology",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2002/12/05 04:00",
+     "MHDA": "2002/12/21 04:00",
+     "CRDT": [
+          "2002/12/05 04:00"
+     ],
+     "PHST": [
+          "2002/12/05 04:00 [pubmed]",
+          "2002/12/21 04:00 [medline]",
+          "2002/12/05 04:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Network. 2002 Nov;13(4):429-46.",
+     "term": "place cells"
+}

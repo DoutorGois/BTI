@@ -1,0 +1,63 @@
+{
+     "PMID": "26500511",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20151027",
+     "LR": "20170220",
+     "IS": "1662-5137 (Print) 1662-5137 (Linking)",
+     "VI": "9",
+     "DP": "2015",
+     "TI": "Neurogenesis paradoxically decreases both pattern separation and memory interference.",
+     "PG": "136",
+     "LID": "10.3389/fnsys.2015.00136 [doi]",
+     "AB": "The hippocampus has been the focus of memory research for decades. While the functional role of this structure is not fully understood, it is widely recognized as being vital for rapid yet accurate encoding and retrieval of associative memories. Since the discovery of adult hippocampal neurogenesis in the dentate gyrus by Altman and Das in the 1960's, many theories and models have been put forward to explain the functional role it plays in learning and memory. These models postulate different ways in which new neurons are introduced into the dentate gyrus and their functional importance for learning and memory. Few if any previous models have incorporated the unique properties of young adult-born dentate granule cells and the developmental trajectory. In this paper, we propose a novel computational model of the dentate gyrus that incorporates the developmental trajectory of the adult-born dentate granule cells, including changes in synaptic plasticity, connectivity, excitability and lateral inhibition, using a modified version of the Restricted Boltzmann machine. Our results show superior performance on memory reconstruction tasks for both recent and distally learned items, when the unique characteristics of young dentate granule cells are taken into account. Even though the hyperexcitability of the young neurons generates more overlapping neural codes, reducing pattern separation, the unique properties of the young neurons nonetheless contribute to reducing retroactive and proactive interference, at both short and long time scales. The sparse connectivity is particularly important for generating distinct memory traces for highly overlapping patterns that are learned within the same context.",
+     "FAU": [
+          "Finnegan, Rory",
+          "Becker, Suzanna"
+     ],
+     "AU": [
+          "Finnegan R",
+          "Becker S"
+     ],
+     "AD": "Neurotechnology and Neuroplasticity Lab, McMaster Integrative Neuroscience Discovery & Study, McMaster University Hamilton, ON, Canada. Neurotechnology and Neuroplasticity Lab, Department of Psychology, Neuroscience and Behaviour, McMaster University Hamilton, ON, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20151006",
+     "PL": "Switzerland",
+     "TA": "Front Syst Neurosci",
+     "JT": "Frontiers in systems neuroscience",
+     "JID": "101477946",
+     "PMC": "PMC4593858",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "computational modeling",
+          "dentate gyrus",
+          "neurogenesis",
+          "restricted Boltzmann machines",
+          "sparse coding"
+     ],
+     "EDAT": "2015/10/27 06:00",
+     "MHDA": "2015/10/27 06:01",
+     "CRDT": [
+          "2015/10/27 06:00"
+     ],
+     "PHST": [
+          "2015/06/20 00:00 [received]",
+          "2015/09/18 00:00 [accepted]",
+          "2015/10/27 06:00 [entrez]",
+          "2015/10/27 06:00 [pubmed]",
+          "2015/10/27 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnsys.2015.00136 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Syst Neurosci. 2015 Oct 6;9:136. doi: 10.3389/fnsys.2015.00136. eCollection 2015.",
+     "term": "hippocampus"
+}

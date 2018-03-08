@@ -1,0 +1,68 @@
+{
+     "PMID": "16061401",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060120",
+     "LR": "20061115",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "28",
+     "IP": "4",
+     "DP": "2005 Dec",
+     "TI": "Segmentation of subcortical brain structures using fuzzy templates.",
+     "PG": "915-24",
+     "AB": "We propose a novel method to automatically segment subcortical structures of human brain in magnetic resonance images by using fuzzy templates. A set of fuzzy templates of the structures based on features such as intensity, spatial location, and relative spatial relationship among structures are first created from a set of training images by defining the fuzzy membership functions and by fusing the information of features. Segmentation is performed by registering the fuzzy templates of the structures on the test image and then by fusing them with the tissue maps of the test image. The final decision is taken in order to optimize the certainty in the intensity, location, relative position, and tissue content of the structure. Our method does not require specific expert definition of each structure or manual interactions during segmentation process. The technique is demonstrated with the segmentation of five structures: thalamus, putamen, caudate, hippocampus, and amygdala; the performance of the present method is comparable with previous techniques.",
+     "FAU": [
+          "Zhou, Juan",
+          "Rajapakse, Jagath C"
+     ],
+     "AU": [
+          "Zhou J",
+          "Rajapakse JC"
+     ],
+     "AD": "BioInformatics Research Center, School of Computer Engineering, Nanyang Technological University, Singapore 639798.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20050802",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Artifacts",
+          "Artificial Intelligence",
+          "Brain/anatomy & histology/*physiology",
+          "Brain Mapping",
+          "Functional Laterality/physiology",
+          "Fuzzy Logic",
+          "Humans",
+          "Image Processing, Computer-Assisted/*statistics & numerical data",
+          "Magnetic Resonance Imaging/*statistics & numerical data",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "2005/08/03 09:00",
+     "MHDA": "2006/01/21 09:00",
+     "CRDT": [
+          "2005/08/03 09:00"
+     ],
+     "PHST": [
+          "2005/01/15 00:00 [received]",
+          "2005/06/16 00:00 [revised]",
+          "2005/06/28 00:00 [accepted]",
+          "2005/08/03 09:00 [pubmed]",
+          "2006/01/21 09:00 [medline]",
+          "2005/08/03 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(05)00466-0 [pii]",
+          "10.1016/j.neuroimage.2005.06.037 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2005 Dec;28(4):915-24. doi: 10.1016/j.neuroimage.2005.06.037. Epub 2005 Aug 2.",
+     "term": "hippocampus"
+}

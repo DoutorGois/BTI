@@ -1,0 +1,109 @@
+{
+     "PMID": "21281717",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110729",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "56",
+     "IP": "1",
+     "DP": "2011 May 1",
+     "TI": "Fast and robust extraction of hippocampus from MR images for diagnostics of Alzheimer's disease.",
+     "PG": "185-96",
+     "LID": "10.1016/j.neuroimage.2011.01.062 [doi]",
+     "AB": "Assessment of temporal lobe atrophy from magnetic resonance images is a part of clinical guidelines for the diagnosis of prodromal Alzheimer's disease. As hippocampus is known to be among the first areas affected by the disease, fast and robust definition of hippocampus volume would be of great importance in the clinical decision making. We propose a method for computing automatically the volume of hippocampus using a modified multi-atlas segmentation framework, including an improved initialization of the framework and the correction of partial volume effect. The method produced a high similarity index, 0.87, and correlation coefficient, 0.94, with semi-automatically generated segmentations. When comparing hippocampus volumes extracted from 1.5T and 3T images, the absolute value of the difference was low: 3.2% of the volume. The correct classification rate for Alzheimer's disease and cognitively normal cases was about 80% while the accuracy 65% was obtained for classifying stable and progressive mild cognitive impairment cases. The method was evaluated in three cohorts consisting altogether about 1000 cases, the main emphasis being in the analysis of the ADNI cohort. The computation time of the method is about 2 minutes on a standard laptop computer. The results show a clear potential for applying the method in clinical practice.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Lotjonen, Jyrki",
+          "Wolz, Robin",
+          "Koikkalainen, Juha",
+          "Julkunen, Valtteri",
+          "Thurfjell, Lennart",
+          "Lundqvist, Roger",
+          "Waldemar, Gunhild",
+          "Soininen, Hilkka",
+          "Rueckert, Daniel"
+     ],
+     "AU": [
+          "Lotjonen J",
+          "Wolz R",
+          "Koikkalainen J",
+          "Julkunen V",
+          "Thurfjell L",
+          "Lundqvist R",
+          "Waldemar G",
+          "Soininen H",
+          "Rueckert D"
+     ],
+     "AD": "Knowledge Intensive Services, VTT Technical Research Centre of Finland, Tampere, Finland. jyrki.lotjonen@vtt.fi",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "K01 AG030514-05/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "U19 AG010483/AG/NIA NIH HHS/United States",
+          "P30 AG010129-13/AG/NIA NIH HHS/United States",
+          "U01 AG024904-07/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20110131",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Algorithms",
+          "Alzheimer Disease/*diagnosis",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "ROC Curve",
+          "Sensitivity and Specificity",
+          "Time Factors"
+     ],
+     "PMC": "PMC3554788",
+     "MID": [
+          "NIHMS352732"
+     ],
+     "EDAT": "2011/02/02 06:00",
+     "MHDA": "2011/07/30 06:00",
+     "CRDT": [
+          "2011/02/02 06:00"
+     ],
+     "PHST": [
+          "2010/09/08 00:00 [received]",
+          "2011/01/20 00:00 [revised]",
+          "2011/01/24 00:00 [accepted]",
+          "2011/02/02 06:00 [entrez]",
+          "2011/02/02 06:00 [pubmed]",
+          "2011/07/30 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)00098-X [pii]",
+          "10.1016/j.neuroimage.2011.01.062 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 May 1;56(1):185-96. doi: 10.1016/j.neuroimage.2011.01.062. Epub 2011 Jan 31.",
+     "term": "hippocampus"
+}

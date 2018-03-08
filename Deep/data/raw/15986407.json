@@ -1,0 +1,69 @@
+{
+     "PMID": "15986407",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20051013",
+     "LR": "20061115",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "15",
+     "IP": "6",
+     "DP": "2005",
+     "TI": "A computational principle for hippocampal learning and neurogenesis.",
+     "PG": "722-38",
+     "AB": "In the three decades since Marr put forward his computational theory of hippocampal coding, many computational models have been built on the same key principles proposed by Marr: sparse representations, rapid Hebbian storage, associative recall and consolidation. Most of these models have focused on either the CA3 or CA1 fields, using \"off-the-shelf\" learning algorithms such as competitive learning or Hebbian pattern association. Here, we propose a novel coding principle that is common to all hippocampal regions, and from this one principal, we derive learning rules for each of the major pathways within the hippocampus. The learning rules turn out to have much in common with several models of CA3 and CA1 in the literature, and provide a unifying framework in which to view these models. Simulations of the complete circuit confirm that both recognition memory and recall are superior relative to a hippocampally lesioned model, consistent with human data. Further, we propose a functional role for neurogenesis in the dentate gyrus (DG), namely, to create distinct memory traces for highly similar items. Our simulation results support our prediction that memory capacity increases with the number of dentate granule cells, while neuronal turnover with a fixed dentate layer size improves recall, by minimizing interference between highly similar items.",
+     "CI": [
+          "(c) 2005 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Becker, Suzanna"
+     ],
+     "AU": [
+          "Becker S"
+     ],
+     "AD": "Department of Psychology, Neuroscience, and Behavior, McMaster University, Ontario, Canada. becker@mcmaster.ca",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "*Algorithms",
+          "Animals",
+          "*Cell Proliferation",
+          "Dentate Gyrus/*physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Learning/*physiology",
+          "Memory/physiology",
+          "Models, Neurological",
+          "Neural Pathways/physiology",
+          "Neuronal Plasticity/physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "Synaptic Transmission/physiology"
+     ],
+     "EDAT": "2005/06/30 09:00",
+     "MHDA": "2005/10/14 09:00",
+     "CRDT": [
+          "2005/06/30 09:00"
+     ],
+     "PHST": [
+          "2005/06/30 09:00 [pubmed]",
+          "2005/10/14 09:00 [medline]",
+          "2005/06/30 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.20095 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2005;15(6):722-38. doi: 10.1002/hipo.20095.",
+     "term": "hippocampus"
+}

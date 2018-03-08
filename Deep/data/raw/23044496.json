@@ -1,0 +1,83 @@
+{
+     "PMID": "23044496",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130417",
+     "LR": "20151119",
+     "IS": "1473-558X (Electronic) 0959-4965 (Linking)",
+     "VI": "23",
+     "IP": "17",
+     "DP": "2012 Dec 5",
+     "TI": "Machine learning classifier using abnormal brain network topological metrics in major depressive disorder.",
+     "PG": "1006-11",
+     "LID": "10.1097/WNR.0b013e32835a650c [doi]",
+     "AB": "Resting state functional brain networks have been widely studied in brain disease research. However, it is currently unclear whether abnormal resting state functional brain network metrics can be used with machine learning for the classification of brain diseases. Resting state functional brain networks were constructed for 28 healthy controls and 38 major depressive disorder patients by thresholding partial correlation matrices of 90 regions. Three nodal metrics were calculated using graph theory-based approaches. Nonparametric permutation tests were then used for group comparisons of topological metrics, which were used as classified features in six different algorithms. We used statistical significance as the threshold for selecting features and measured the accuracies of six classifiers with different number of features. A sensitivity analysis method was used to evaluate the importance of different features. The result indicated that some of the regions exhibited significantly abnormal nodal centralities, including the limbic system, basal ganglia, medial temporal, and prefrontal regions. Support vector machine with radial basis kernel function algorithm and neural network algorithm exhibited the highest average accuracy (79.27 and 78.22%, respectively) with 28 features (P<0.05). Correlation analysis between feature importance and the statistical significance of metrics was investigated, and the results revealed a strong positive correlation between them. Overall, the current study demonstrated that major depressive disorder is associated with abnormal functional brain network topological metrics and statistically significant nodal metrics can be successfully used for feature selection in classification algorithms.",
+     "FAU": [
+          "Guo, Hao",
+          "Cao, Xiaohua",
+          "Liu, Zhifen",
+          "Li, Haifang",
+          "Chen, Junjie",
+          "Zhang, Kerang"
+     ],
+     "AU": [
+          "Guo H",
+          "Cao X",
+          "Liu Z",
+          "Li H",
+          "Chen J",
+          "Zhang K"
+     ],
+     "AD": "College of Computer Science and Technology, Taiyuan University of Technology, Taiyuan, People's Republic of China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "Neuroreport",
+     "JT": "Neuroreport",
+     "JID": "9100935",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "*Artificial Intelligence",
+          "Basal Ganglia/*physiopathology",
+          "*Brain Mapping",
+          "Depressive Disorder, Major/classification/diagnosis/*physiopathology",
+          "*Diagnosis, Computer-Assisted",
+          "Female",
+          "Gyrus Cinguli/physiopathology",
+          "Hippocampus/physiopathology",
+          "Humans",
+          "Limbic System/*physiopathology",
+          "Male",
+          "Middle Aged",
+          "Models, Neurological",
+          "Nerve Net/*physiopathology",
+          "Prefrontal Cortex/*physiopathology",
+          "Statistics, Nonparametric",
+          "*Support Vector Machine",
+          "Temporal Lobe/*physiopathology",
+          "Young Adult"
+     ],
+     "EDAT": "2012/10/10 06:00",
+     "MHDA": "2013/04/18 06:00",
+     "CRDT": [
+          "2012/10/10 06:00"
+     ],
+     "PHST": [
+          "2012/10/10 06:00 [entrez]",
+          "2012/10/10 06:00 [pubmed]",
+          "2013/04/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1097/WNR.0b013e32835a650c [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroreport. 2012 Dec 5;23(17):1006-11. doi: 10.1097/WNR.0b013e32835a650c.",
+     "term": "hippocampus"
+}

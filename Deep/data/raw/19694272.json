@@ -1,0 +1,75 @@
+{
+     "PMID": "19694272",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090923",
+     "LR": "20161118",
+     "IS": "1011-2499 (Print) 1011-2499 (Linking)",
+     "VI": "21",
+     "DP": "2009",
+     "TI": "A unified framework for MR based disease classification.",
+     "PG": "300-13",
+     "AB": "In this paper, we employ an anatomical parameterization of spatial warps to reveal structural differences between medical images of healthy control subjects and disease patients. The warps are represented as structure-specific 9-parameter affine transformations, which constitute a global, non-rigid mapping between the atlas and image coordinates. Our method estimates the structure-specific transformation parameters directly from medical scans by minimizing a Kullback-Leibler divergence measure. The resulting parameters are then input to a linear Support Vector Machine classifier, which assigns individual scans to a specific clinical group. The classifier also enables us to interpret the anatomical differences between groups, as we can visualize the discriminative warp that best differentiates the two groups. We test the accuracy of our approach on a data set consisting of Magnetic Resonance scans from 16 first episode schizophrenics and 17 age-matched healthy control subjects. The data set also contains manual labels for four regions of interest in both hemispheres: superior temporal gyrus, amygdala, hippocampus, and para-hippocampal gyrus. On this small size data set, our approach, which performs classification based on the MR images directly, yields a leave-one-out cross-validation accuracy of up to 90%. This compares favorably with the accuracy achieved by state-of-the-art techniques in schizophrenia MRI research.",
+     "FAU": [
+          "Pohl, Kilian M",
+          "Sabuncu, Mert R"
+     ],
+     "AU": [
+          "Pohl KM",
+          "Sabuncu MR"
+     ],
+     "AD": "Healthcare Informatics, IBM Almaden Research Center, San Jose, CA, USA. pohl@us.ibm.com",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U54 EB005149-050001/EB/NIBIB NIH HHS/United States",
+          "P41-RR13218/RR/NCRR NIH HHS/United States",
+          "R01-NS051826/NS/NINDS NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States",
+          "U54-EB005149/EB/NIBIB NIH HHS/United States",
+          "R01 NS051826/NS/NINDS NIH HHS/United States",
+          "P41 RR013218/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "Germany",
+     "TA": "Inf Process Med Imaging",
+     "JT": "Information processing in medical imaging : proceedings of the ... conference",
+     "JID": "9216871",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Artificial Intelligence",
+          "Brain/*pathology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Schizophrenia/*diagnosis",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "PMC": "PMC2854674",
+     "MID": [
+          "NIHMS191507"
+     ],
+     "EDAT": "2009/08/22 09:00",
+     "MHDA": "2009/09/24 06:00",
+     "CRDT": [
+          "2009/08/22 09:00"
+     ],
+     "PHST": [
+          "2009/08/22 09:00 [entrez]",
+          "2009/08/22 09:00 [pubmed]",
+          "2009/09/24 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Inf Process Med Imaging. 2009;21:300-13.",
+     "term": "hippocampus"
+}

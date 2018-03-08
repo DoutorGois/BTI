@@ -1,0 +1,62 @@
+{
+     "PMID": "21848661",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120813",
+     "LR": "20120430",
+     "IS": "1745-6584 (Electronic) 0017-467X (Linking)",
+     "VI": "50",
+     "IP": "3",
+     "DP": "2012 May-Jun",
+     "TI": "A method of accelerating transport simulation when groundwater pumping is simulated.",
+     "PG": "464-71",
+     "LID": "10.1111/j.1745-6584.2011.00851.x [doi]",
+     "AB": "In solving groundwater transport problems with numerical models, the computation time (CPU processing time) of transport simulation is approximately inversely proportional to the transport time-step size. Therefore, large time-step sizes are favorable for achieving short computation time. However, transport time-step size must be sufficiently small to avoid numerical instability if an explicit scheme is used (and to guarantee enough model accuracy if an implicit scheme is used). For a transport model involving groundwater pumping, a small transport time-step size is often required due to the high groundwater velocities near the pumping well. Small grid spacing often specified near the pumping well also limits the time-step size. This paper presents a method to increase transport time-step size in a transport model when groundwater pumping is simulated. The key to this approach is to numerically decrease the groundwater seepage velocities in grid cells near the pumping well by increasing the effective porosity so that the transport time-step size can be increased without violating stability constraints. Numerical tests reveal that by using the proposed method, the computation time of transport simulation can be reduced significantly, while the transport simulation results change very little.",
+     "CI": [
+          "(c) 2011, The Author(s). Ground Water (c) 2011, National Ground Water",
+          "Association."
+     ],
+     "FAU": [
+          "Zhang, Jim",
+          "Randall, Glenn",
+          "Wei, Xinyu"
+     ],
+     "AU": [
+          "Zhang J",
+          "Randall G",
+          "Wei X"
+     ],
+     "AD": "URS Corporation, 1333 Broadway, Oakland, CA 94612, USA. jim_zhang@urscorp.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20110817",
+     "PL": "United States",
+     "TA": "Ground Water",
+     "JT": "Ground water",
+     "JID": "9882886",
+     "SB": "IM",
+     "MH": [
+          "*Groundwater",
+          "*Models, Theoretical"
+     ],
+     "EDAT": "2011/08/19 06:00",
+     "MHDA": "2012/08/14 06:00",
+     "CRDT": [
+          "2011/08/19 06:00"
+     ],
+     "PHST": [
+          "2011/08/19 06:00 [entrez]",
+          "2011/08/19 06:00 [pubmed]",
+          "2012/08/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/j.1745-6584.2011.00851.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ground Water. 2012 May-Jun;50(3):464-71. doi: 10.1111/j.1745-6584.2011.00851.x. Epub 2011 Aug 17.",
+     "term": "grid cells"
+}

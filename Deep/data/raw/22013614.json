@@ -1,0 +1,72 @@
+{
+     "PMID": "22013614",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111115",
+     "LR": "20151119",
+     "VI": "14",
+     "IP": "Pt 3",
+     "DP": "2011",
+     "TI": "Simultaneous segmentation and grading of hippocampus for patient classification with Alzheimer's disease.",
+     "PG": "149-57",
+     "AB": "PURPOSE: To propose an innovative approach to better detect Alzheimer's Disease (AD) based on a finer detection of hippocampus (HC) atrophy patterns. METHOD: In this paper, we propose a new approach to simultaneously perform segmentation and grading of the HC to better capture the patterns of pathology occurring during AD. Based on a patch-based framework, the novel proposed grading measure estimates the similarity of the patch surrounding the voxel under study with all the patches present in different training populations. The training library used during our experiments was composed by 2 populations, 50 Cognitively Normal subjects (CN) and 50 patients with AD. Tests were completed in a leave-one-out framework. RESULTS: First, the evaluation of HC segmentation accuracy yielded a Dice's Kappa of 0.88 for CN and 0.84 for AD. Second, the proposed HC grading enables detection of AD with a success rate of 89%. Finally, a comparison of several biomarkers was investigated using a linear discriminant analysis. CONCLUSION: Using the volume and the grade of the HC at the same time resulted in an efficient patient classification with a success rate of 90%.",
+     "FAU": [
+          "Coupe, Pierrick",
+          "Eskildsen, Simon F",
+          "Manjon, Jose V",
+          "Fonov, Vladimir",
+          "Collins, D Louis"
+     ],
+     "AU": [
+          "Coupe P",
+          "Eskildsen SF",
+          "Manjon JV",
+          "Fonov V",
+          "Collins DL"
+     ],
+     "AD": "McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Canada, University, 3801 University Street, Montreal, Canada H3A 2B4.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "RN": [
+          "0 (Biomarkers)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Alzheimer Disease/*diagnosis/*pathology",
+          "Biomarkers",
+          "Case-Control Studies",
+          "Diagnostic Imaging/methods",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/methods",
+          "Models, Statistical",
+          "Random Allocation",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "2011/10/22 06:00",
+     "MHDA": "2011/11/16 06:00",
+     "CRDT": [
+          "2011/10/22 06:00"
+     ],
+     "PHST": [
+          "2011/10/22 06:00 [entrez]",
+          "2011/10/22 06:00 [pubmed]",
+          "2011/11/16 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2011;14(Pt 3):149-57.",
+     "term": "hippocampus"
+}

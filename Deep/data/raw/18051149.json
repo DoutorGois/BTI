@@ -1,0 +1,79 @@
+{
+     "PMID": "18051149",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080103",
+     "LR": "20170220",
+     "VI": "10",
+     "IP": "Pt 1",
+     "DP": "2007",
+     "TI": "Deformable density matching for 3D non-rigid registration of shapes.",
+     "PG": "942-9",
+     "AB": "There exists a large body of literature on shape matching and registration in medical image analysis. However, most of the previous work is focused on matching particular sets of features--point-sets, lines, curves and surfaces. In this work, we forsake specific geometric shape representations and instead seek probabilistic representations--specifically Gaussian mixture models--of shapes. We evaluate a closed-form distance between two probabilistic shape representations for the general case where the mixture models differ in variance and the number of components. We then cast non-rigid registration as a deformable density matching problem. In our approach, we take one mixture density onto another by deforming the component centroids via a thin-plate spline (TPS) and also minimizing the distance with respect to the variance parameters. We validate our approach on synthetic and 3D arterial tree data and evaluate it on 3D hippocampal shapes.",
+     "FAU": [
+          "Roy, Arunabha S",
+          "Gopinath, Ajay",
+          "Rangarajan, Anand"
+     ],
+     "AU": [
+          "Roy AS",
+          "Gopinath A",
+          "Rangarajan A"
+     ],
+     "AD": "Imaging Technologies Laboratory, GE Global Research Center, Bangalore, India.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS046812-05/NS/NINDS NIH HHS/United States",
+          "R01 NS046812/NS/NINDS NIH HHS/United States",
+          "R01 NS046812-04A2/NS/NINDS NIH HHS/United States",
+          "R01 NS046812-07/NS/NINDS NIH HHS/United States",
+          "R01 NS046812-06/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Validation Studies"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Artificial Intelligence",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Biological",
+          "Models, Statistical",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "PMC": "PMC2921974",
+     "MID": [
+          "NIHMS223284"
+     ],
+     "EDAT": "2007/12/07 09:00",
+     "MHDA": "2008/01/04 09:00",
+     "CRDT": [
+          "2007/12/07 09:00"
+     ],
+     "PHST": [
+          "2007/12/07 09:00 [pubmed]",
+          "2008/01/04 09:00 [medline]",
+          "2007/12/07 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2007;10(Pt 1):942-9.",
+     "term": "hippocampus"
+}

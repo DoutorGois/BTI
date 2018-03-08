@@ -1,0 +1,89 @@
+{
+     "PMID": "26158067",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20150709",
+     "LR": "20170220",
+     "IS": "2329-4302 (Print) 2329-4302 (Linking)",
+     "VI": "1",
+     "IP": "3",
+     "DP": "2014 Oct",
+     "TI": "Manually segmented template library for 8-year-old pediatric brain MRI data with 16 subcortical structures.",
+     "PG": "034502",
+     "LID": "10.1117/1.JMI.1.3.034502 [doi]",
+     "AB": "Manual segmentation of anatomy in brain MRI data taken to be the closest to the \"gold standard\" in quality is often used in automated registration-based segmentation paradigms for transfer of template labels onto the unlabeled MRI images. This study presents a library of template data with 16 subcortical structures in the central brain area which were manually labeled for MRI data from 22 children (8 male, [Formula: see text]). The lateral ventricle, thalamus, caudate, putamen, hippocampus, cerebellum, third vevntricle, fourth ventricle, brainstem, and corpuscallosum were segmented by two expert raters. Cross-validation experiments with randomized template subset selection were conducted to test for their ability to accurately segment MRI data under an automated segmentation pipeline. A high value of the dice similarity coefficient ([Formula: see text], [Formula: see text], [Formula: see text]) and small Hausdorff distance ([Formula: see text], [Formula: see text], [Formula: see text]) of the automated segmentation against the manual labels was obtained on this template library data. Additionally, comparison with segmentation obtained from adult templates showed significant improvement in accuracy with the use of an age-matched library in this cohort. A manually delineated pediatric template library such as the one described here could provide a useful benchmark for testing segmentation algorithms.",
+     "FAU": [
+          "Garg, Amanmeet",
+          "Wong, Darren",
+          "Popuri, Karteek",
+          "Poskitt, Kenneth J",
+          "Fitzpatrick, Kevin",
+          "Bjornson, Bruce",
+          "Grunau, Ruth E",
+          "Beg, Mirza Faisal"
+     ],
+     "AU": [
+          "Garg A",
+          "Wong D",
+          "Popuri K",
+          "Poskitt KJ",
+          "Fitzpatrick K",
+          "Bjornson B",
+          "Grunau RE",
+          "Beg MF"
+     ],
+     "AD": "Simon Fraser University , School of Engineering Science, Burnaby, British Columbia V5A 1M4, Canada. University of British Columbia , Department of Radiology, Vancouver, British Columbia V5Z 1M9, Canada. Simon Fraser University , School of Engineering Science, Burnaby, British Columbia V5A 1M4, Canada. University of British Columbia , Department of Radiology, Vancouver, British Columbia V5Z 1M9, Canada. University of British Columbia , Department of Pediatrics, Vancouver, British Columbia V6H 3V4, Canada ; Child and Family Research Institute , Vancouver, British Columbia V5Z 4H4, Canada. University of British Columbia , Department of Pediatrics, Vancouver, British Columbia V6H 3V4, Canada ; Child and Family Research Institute , Vancouver, British Columbia V5Z 4H4, Canada. University of British Columbia , Department of Pediatrics, Vancouver, British Columbia V6H 3V4, Canada ; Child and Family Research Institute , Vancouver, British Columbia V5Z 4H4, Canada. Simon Fraser University , School of Engineering Science, Burnaby, British Columbia V5A 1M4, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 HD039783/HD/NICHD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20141028",
+     "PL": "United States",
+     "TA": "J Med Imaging (Bellingham)",
+     "JT": "Journal of medical imaging (Bellingham, Wash.)",
+     "JID": "101643461",
+     "PMC": "PMC4478774",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "brainstem",
+          "caudate",
+          "cerebellum",
+          "fourth ventricle",
+          "hippocampus",
+          "lateral ventricle",
+          "manual segmentation",
+          "pediatric magnetic resonance imaging",
+          "putamen",
+          "subcortical structures",
+          "template library",
+          "thalamus",
+          "third ventricle"
+     ],
+     "EDAT": "2015/07/15 06:00",
+     "MHDA": "2015/07/15 06:01",
+     "CRDT": [
+          "2015/07/10 06:00"
+     ],
+     "PHST": [
+          "2014/03/18 00:00 [received]",
+          "2014/09/15 00:00 [revised]",
+          "2014/09/17 00:00 [accepted]",
+          "2015/07/10 06:00 [entrez]",
+          "2015/07/15 06:00 [pubmed]",
+          "2015/07/15 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1117/1.JMI.1.3.034502 [doi]",
+          "14028RR [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Med Imaging (Bellingham). 2014 Oct;1(3):034502. doi: 10.1117/1.JMI.1.3.034502. Epub 2014 Oct 28.",
+     "term": "hippocampus"
+}

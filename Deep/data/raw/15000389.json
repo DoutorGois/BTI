@@ -1,0 +1,70 @@
+{
+     "PMID": "15000389",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040428",
+     "LR": "20091111",
+     "IS": "0018-9294 (Print) 0018-9294 (Linking)",
+     "VI": "51",
+     "IP": "3",
+     "DP": "2004 Mar",
+     "TI": "Massively parallel classification of single-trial EEG signals using a min-max modular neural network.",
+     "PG": "551-8",
+     "AB": "This paper presents a method for classifying single-trial electroencephalogram (EEG) signals using min-max modular neural networks implemented in a massively parallel way. The method has three main steps. First, a large-scale, complex EEG classification problem is simply divided into a reasonable number of two-class subproblems, as small as needed. Second, the two-class subproblems are simply learned by individual smaller network modules in parallel. Finally, all the individual trained network modules are integrated into a hierarchical, parallel, and modular classifier according to two module combination laws. To demonstrate the effectiveness of the method, we perform simulations on fifteen different four-class EEG classification tasks, each of which consists of 1491 training and 636 test data. These EEG classification tasks were created using a set of non-averaged, single-trial hippocampal EEG signals recorded from rats; the features of the EEG signals are extracted using wavelet transform techniques. The experimental results indicate that the proposed method has several attractive features. 1) The method is appreciably faster than the existing approach that is based on conventional multilayer perceptrons. 2) Complete learning of complex EEG classification problems can be easily realized, and better generalization performance can be achieved. 3) The method scales up to large-scale, complex EEG classification problems.",
+     "FAU": [
+          "Lu, Bao-Liang",
+          "Shin, Jonghan",
+          "Ichikawa, Michinori"
+     ],
+     "AU": [
+          "Lu BL",
+          "Shin J",
+          "Ichikawa M"
+     ],
+     "AD": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, 1954 Hua Shan Rd., Shanghai 200030, PR China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Evaluation Studies",
+          "Journal Article",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Cognition/physiology",
+          "Computing Methodologies",
+          "Diagnosis, Computer-Assisted/*methods",
+          "Electroencephalography/*classification/*methods",
+          "Evoked Potentials/*physiology",
+          "Expert Systems",
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Rats",
+          "Signal Processing, Computer-Assisted"
+     ],
+     "EDAT": "2004/03/06 05:00",
+     "MHDA": "2004/04/29 05:00",
+     "CRDT": [
+          "2004/03/06 05:00"
+     ],
+     "PHST": [
+          "2004/03/06 05:00 [pubmed]",
+          "2004/04/29 05:00 [medline]",
+          "2004/03/06 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TBME.2003.821023 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 2004 Mar;51(3):551-8. doi: 10.1109/TBME.2003.821023.",
+     "term": "hippocampus"
+}

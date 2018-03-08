@@ -1,0 +1,101 @@
+{
+     "PMID": "27076422",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160908",
+     "LR": "20170220",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "36",
+     "IP": "15",
+     "DP": "2016 Apr 13",
+     "TI": "Synaptic Mechanisms of Memory Consolidation during Sleep Slow Oscillations.",
+     "PG": "4231-47",
+     "LID": "10.1523/JNEUROSCI.3648-15.2016 [doi]",
+     "AB": "UNLABELLED: Sleep is critical for regulation of synaptic efficacy, memories, and learning. However, the underlying mechanisms of how sleep rhythms contribute to consolidating memories acquired during wakefulness remain unclear. Here we studied the role of slow oscillations, 0.2-1 Hz rhythmic transitions between Up and Down states during stage 3/4 sleep, on dynamics of synaptic connectivity in the thalamocortical network model implementing spike-timing-dependent synaptic plasticity. We found that the spatiotemporal pattern of Up-state propagation determines the changes of synaptic strengths between neurons. Furthermore, an external input, mimicking hippocampal ripples, delivered to the cortical network results in input-specific changes of synaptic weights, which persisted after stimulation was removed. These synaptic changes promoted replay of specific firing sequences of the cortical neurons. Our study proposes a neuronal mechanism on how an interaction between hippocampal input, such as mediated by sharp wave-ripple events, cortical slow oscillations, and synaptic plasticity, may lead to consolidation of memories through preferential replay of cortical cell spike sequences during slow-wave sleep. SIGNIFICANCE STATEMENT: Sleep is critical for memory and learning. Replay during sleep of temporally ordered spike sequences related to a recent experience was proposed to be a neuronal substrate of memory consolidation. However, specific mechanisms of replay or how spike sequence replay leads to synaptic changes that underlie memory consolidation are still poorly understood. Here we used a detailed computational model of the thalamocortical system to report that interaction between slow cortical oscillations and synaptic plasticity during deep sleep can underlie mapping hippocampal memory traces to persistent cortical representation. This study provided, for the first time, a mechanistic explanation of how slow-wave sleep may promote consolidation of recent memory events.",
+     "CI": [
+          "Copyright (c) 2016 the authors 0270-6474/16/364231-17$15.00/0."
+     ],
+     "FAU": [
+          "Wei, Yina",
+          "Krishnan, Giri P",
+          "Bazhenov, Maxim"
+     ],
+     "AU": [
+          "Wei Y",
+          "Krishnan GP",
+          "Bazhenov M"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0001-8715-5715"
+     ],
+     "AD": "Department of Cell Biology and Neuroscience, University of California at Riverside, Riverside, California 92521. Department of Cell Biology and Neuroscience, University of California at Riverside, Riverside, California 92521. Department of Cell Biology and Neuroscience, University of California at Riverside, Riverside, California 92521 bazhenov@salk.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB009282/EB/NIBIB NIH HHS/United States",
+          "R01 MH099645/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "RN": [
+          "0 (Calcium Channels)",
+          "0 (Sodium Channels)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Calcium Channels/physiology",
+          "Cerebral Cortex/cytology/physiology",
+          "Computer Simulation",
+          "Electroencephalography",
+          "Humans",
+          "Memory/*physiology",
+          "Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Neuronal Plasticity/physiology",
+          "Neurons/physiology",
+          "Sleep/*physiology",
+          "Sodium Channels/physiology",
+          "Synapses/*physiology",
+          "Thalamus/cytology/physiology"
+     ],
+     "PMC": "PMC4829648",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "cortex",
+          "hippocampus",
+          "learning and memory",
+          "memory consolidation",
+          "sleep slow oscillations",
+          "thalamus"
+     ],
+     "EDAT": "2016/04/15 06:00",
+     "MHDA": "2016/09/09 06:00",
+     "CRDT": [
+          "2016/04/15 06:00"
+     ],
+     "PHST": [
+          "2015/10/01 00:00 [received]",
+          "2016/02/21 00:00 [accepted]",
+          "2016/04/15 06:00 [entrez]",
+          "2016/04/15 06:00 [pubmed]",
+          "2016/09/09 06:00 [medline]"
+     ],
+     "AID": [
+          "36/15/4231 [pii]",
+          "10.1523/JNEUROSCI.3648-15.2016 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2016 Apr 13;36(15):4231-47. doi: 10.1523/JNEUROSCI.3648-15.2016.",
+     "term": "hippocampus"
+}

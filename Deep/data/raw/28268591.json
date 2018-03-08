@@ -1,0 +1,65 @@
+{
+     "PMID": "28268591",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170731",
+     "LR": "20171117",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2016",
+     "DP": "2016 Aug",
+     "TI": "A bi-directional communication paradigm between parallel NEURON and an external non-neuron process.",
+     "PG": "1413-1416",
+     "LID": "10.1109/EMBC.2016.7590973 [doi]",
+     "AB": "In order to accurately model the pattern of activation due to electrical stimulation of the hippocampus, a multi-scale computational approach is necessary. At the system level, the Admittance Method (ADM) is used to calculate the extracellular voltages created by a stimulating electrode. At the network and cellular levels, a large-scale multi-compartmental neuron network is used to calculate cellular activation. This paper presents a bi-directional communication paradigm between the NEURON model and an external surrogate for the ADM solver, where at each time step, neurons share their membrane currents with the external process, and the external process shares calculated extracellular voltages with the neuronal network. This work constitutes an important first step towards a full multi-scale NEURON-ADM model with bi-directional communication.",
+     "FAU": [
+          "Hendrickson, Phillip J",
+          "Bingham, Clayton",
+          "Dong Song",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Hendrickson PJ",
+          "Bingham C",
+          "Dong Song",
+          "Berger TW"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Cell Communication",
+          "Computer Simulation",
+          "*Electric Stimulation",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Software"
+     ],
+     "EDAT": "2017/03/09 06:00",
+     "MHDA": "2017/08/02 06:00",
+     "CRDT": [
+          "2017/03/09 06:00"
+     ],
+     "PHST": [
+          "2017/03/09 06:00 [entrez]",
+          "2017/03/09 06:00 [pubmed]",
+          "2017/08/02 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2016.7590973 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2016 Aug;2016:1413-1416. doi: 10.1109/EMBC.2016.7590973.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,75 @@
+{
+     "PMID": "10798500",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20000717",
+     "LR": "20171021",
+     "IS": "0929-5313 (Print) 0929-5313 (Linking)",
+     "VI": "8",
+     "IP": "1",
+     "DP": "2000 Jan-Feb",
+     "TI": "Models of calmodulin trapping and CaM kinase II activation in a dendritic spine.",
+     "PG": "65-85",
+     "AB": "Activation of calcium/calmodulin-dependent protein kinase II (CaMKII) by calmodulin following calcium entry into the cell is important for long-term potentiation (LTP). Here a model of calmodulin binding and trapping by CaMKII in a dendritic spine was used to estimate levels and durations of CaMKII activation following LTP-inducing tetani. The calcium signal was calcium influx through NMDA receptor channels computed in a highly detailed dentate granule cell model. Calcium could bind to calmodulin and calmodulin to CaMKII. CaMKII subunits were either free, bound with calmodulin, trapped, autonomous, or capped. Strong low-frequency tetanic input produced little calmodulin trapping or CaMKII activation. Strong high-frequency tetanic input caused large numbers of CaMKII subunits to become trapped, and CaMKII was strongly activated. Calmodulin trapping and CaMKII activation were highly dependent on tetanus frequency (particularly between 10 and 100 Hz) and were highly sensitive to relatively small changes in the calcium signal. Repetition of a short high-frequency tetanus was necessary to achieve high levels of CaMKII activation. Three stages of CaMKII activation were found in the model: a short, highly activated stage; an intermediate, moderately active stage; and a long-lasting third stage, whose duration depended on dephosphorylation rates but whose decay rate was faster at low CaMKII activation levels than at high levels. It is not clear which of these three stages is most important for LTP.",
+     "FAU": [
+          "Holmes, W R"
+     ],
+     "AU": [
+          "Holmes WR"
+     ],
+     "AD": "Department of Biological Sciences, Ohio University, Athens 45701, USA. holmes@ohiou.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R29 MH051081-05/MH/NIMH NIH HHS/United States",
+          "MH51081/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "RN": [
+          "0 (Calmodulin)",
+          "0 (Receptors, N-Methyl-D-Aspartate)",
+          "EC 2.7.11.17 (Calcium-Calmodulin-Dependent Protein Kinase Type 2)",
+          "EC 2.7.11.17 (Calcium-Calmodulin-Dependent Protein Kinases)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Calcium/metabolism",
+          "Calcium-Calmodulin-Dependent Protein Kinase Type 2",
+          "Calcium-Calmodulin-Dependent Protein Kinases/*metabolism",
+          "Calmodulin/*metabolism",
+          "*Computer Simulation",
+          "Dendrites/chemistry/*enzymology/ultrastructure",
+          "Enzyme Activation/physiology",
+          "Hippocampus/cytology",
+          "Long-Term Potentiation/physiology",
+          "*Models, Neurological",
+          "Phosphorylation",
+          "Protein Binding/physiology",
+          "Receptors, N-Methyl-D-Aspartate/physiology",
+          "Stochastic Processes"
+     ],
+     "EDAT": "2000/05/08 09:00",
+     "MHDA": "2000/07/25 11:00",
+     "CRDT": [
+          "2000/05/08 09:00"
+     ],
+     "PHST": [
+          "2000/05/08 09:00 [pubmed]",
+          "2000/07/25 11:00 [medline]",
+          "2000/05/08 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2000 Jan-Feb;8(1):65-85.",
+     "term": "hippocampus"
+}

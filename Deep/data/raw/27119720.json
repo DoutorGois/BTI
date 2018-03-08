@@ -1,0 +1,74 @@
+{
+     "PMID": "27119720",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170217",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "11",
+     "IP": "4",
+     "DP": "2016",
+     "TI": "Autonomous Visual Navigation of an Indoor Environment Using a Parsimonious, Insect Inspired Familiarity Algorithm.",
+     "PG": "e0153706",
+     "LID": "10.1371/journal.pone.0153706 [doi]",
+     "AB": "The navigation of bees and ants from hive to food and back has captivated people for more than a century. Recently, the Navigation by Scene Familiarity Hypothesis (NSFH) has been proposed as a parsimonious approach that is congruent with the limited neural elements of these insects' brains. In the NSFH approach, an agent completes an initial training excursion, storing images along the way. To retrace the path, the agent scans the area and compares the current scenes to those previously experienced. By turning and moving to minimize the pixel-by-pixel differences between encountered and stored scenes, the agent is guided along the path without having memorized the sequence. An important premise of the NSFH is that the visual information of the environment is adequate to guide navigation without aliasing. Here we demonstrate that an image landscape of an indoor setting possesses ample navigational information. We produced a visual landscape of our laboratory and part of the adjoining corridor consisting of 2816 panoramic snapshots arranged in a grid at 12.7-cm centers. We show that pixel-by-pixel comparisons of these images yield robust translational and rotational visual information. We also produced a simple algorithm that tracks previously experienced routes within our lab based on an insect-inspired scene familiarity approach and demonstrate that adequate visual information exists for an agent to retrace complex training routes, including those where the path's end is not visible from its origin. We used this landscape to systematically test the interplay of sensor morphology, angles of inspection, and similarity threshold with the recapitulation performance of the agent. Finally, we compared the relative information content and chance of aliasing within our visually rich laboratory landscape to scenes acquired from indoor corridors with more repetitive scenery.",
+     "FAU": [
+          "Gaffin, Douglas D",
+          "Brayfield, Brad P"
+     ],
+     "AU": [
+          "Gaffin DD",
+          "Brayfield BP"
+     ],
+     "AUID": [
+          "ORCID: 0000-0003-3340-9147"
+     ],
+     "AD": "Department of Biology, University of Oklahoma, Norman, Oklahoma, United States of America. Department of Biology, University of Oklahoma, Norman, Oklahoma, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160427",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Ants/physiology",
+          "Bees/physiology",
+          "Behavior, Animal/*physiology",
+          "Brain/physiology",
+          "Computer Simulation",
+          "Environment",
+          "Homing Behavior/physiology",
+          "Recognition (Psychology)/*physiology",
+          "Spatial Navigation/*physiology",
+          "Visual Perception/*physiology"
+     ],
+     "PMC": "PMC4847926",
+     "EDAT": "2016/04/28 06:00",
+     "MHDA": "2017/02/18 06:00",
+     "CRDT": [
+          "2016/04/28 06:00"
+     ],
+     "PHST": [
+          "2015/10/26 00:00 [received]",
+          "2016/04/03 00:00 [accepted]",
+          "2016/04/28 06:00 [entrez]",
+          "2016/04/28 06:00 [pubmed]",
+          "2017/02/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0153706 [doi]",
+          "PONE-D-15-46895 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2016 Apr 27;11(4):e0153706. doi: 10.1371/journal.pone.0153706. eCollection 2016.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,97 @@
+{
+     "PMID": "27114897",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20161230",
+     "IS": "2213-1582 (Electronic) 2213-1582 (Linking)",
+     "VI": "11",
+     "DP": "2016",
+     "TI": "Mapping human preictal and ictal haemodynamic networks using simultaneous intracranial EEG-fMRI.",
+     "PG": "486-93",
+     "LID": "10.1016/j.nicl.2016.03.010 [doi]",
+     "AB": "Accurately characterising the brain networks involved in seizure activity may have important implications for our understanding of epilepsy. Intracranial EEG-fMRI can be used to capture focal epileptic events in humans with exquisite electrophysiological sensitivity and allows for identification of brain structures involved in this phenomenon over the entire brain. We investigated ictal BOLD networks using the simultaneous intracranial EEG-fMRI (icEEG-fMRI) in a 30 year-old male undergoing invasive presurgical evaluation with bilateral depth electrode implantations in amygdalae and hippocampi for refractory temporal lobe epilepsy. One spontaneous focal electrographic seizure was recorded. The aims of the data analysis were firstly to map BOLD changes related to the ictal activity identified on icEEG and secondly to compare different fMRI modelling approaches. Visual inspection of the icEEG showed an onset dominated by beta activity involving the right amygdala and hippocampus lasting 6.4 s (ictal onset phase), followed by gamma activity bilaterally lasting 14.8 s (late ictal phase). The fMRI data was analysed using SPM8 using two modelling approaches: firstly, purely based on the visually identified phases of the seizure and secondly, based on EEG spectral dynamics quantification. For the visual approach the two ictal phases were modelled as 'ON' blocks convolved with the haemodynamic response function; in addition the BOLD changes during the 30 s preceding the onset were modelled using a flexible basis set. For the quantitative fMRI modelling approach two models were evaluated: one consisting of the variations in beta and gamma bands power, thereby adding a quantitative element to the visually-derived models, and another based on principal components analysis of the entire spectrogram in attempt to reduce the bias associated with the visual appreciation of the icEEG. BOLD changes related to the visually defined ictal onset phase were revealed in the medial and lateral right temporal lobe. For the late ictal phase, the BOLD changes were remote from the SOZ and in deep brain areas (precuneus, posterior cingulate and others). The two quantitative models revealed BOLD changes involving the right hippocampus, amygdala and fusiform gyrus and in remote deep brain structures and the default mode network-related areas. In conclusion, icEEG-fMRI allowed us to reveal BOLD changes within and beyond the SOZ linked to very localised ictal fluctuations in beta and gamma activity measured in the amygdala and hippocampus. Furthermore, the BOLD changes within the SOZ structures were better captured by the quantitative models, highlighting the interest in considering seizure-related EEG fluctuations across the entire spectrum.",
+     "FAU": [
+          "Chaudhary, Umair J",
+          "Centeno, Maria",
+          "Thornton, Rachel C",
+          "Rodionov, Roman",
+          "Vulliemoz, Serge",
+          "McEvoy, Andrew W",
+          "Diehl, Beate",
+          "Walker, Matthew C",
+          "Duncan, John S",
+          "Carmichael, David W",
+          "Lemieux, Louis"
+     ],
+     "AU": [
+          "Chaudhary UJ",
+          "Centeno M",
+          "Thornton RC",
+          "Rodionov R",
+          "Vulliemoz S",
+          "McEvoy AW",
+          "Diehl B",
+          "Walker MC",
+          "Duncan JS",
+          "Carmichael DW",
+          "Lemieux L"
+     ],
+     "AD": "Department of Clinical and Experimental Epilepsy, UCL Institute of Neurology, Queen Square, London, UK; MRI Unit, Epilepsy Society, Chalfont St. Peter, UK. Department of Clinical and Experimental Epilepsy, UCL Institute of Neurology, Queen Square, London, UK; MRI Unit, Epilepsy Society, Chalfont St. Peter, UK; Imaging and Biophysics Unit, UCL Institute of Child Health, London, UK. Department of Clinical and Experimental Epilepsy, UCL Institute of Neurology, Queen Square, London, UK; MRI Unit, Epilepsy Society, Chalfont St. Peter, UK. Department of Clinical and Experimental Epilepsy, UCL Institute of Neurology, Queen Square, London, UK; MRI Unit, Epilepsy Society, Chalfont St. Peter, UK. EEG and Epilepsy Unit, Neurology, University Hospital and Functional Brain Mapping Lab, Faculty of Medicine, Geneva, Switzerland. Victor Horsley Department of Surgery, National Hospital for Neurology and Neurosurgery, Queen Square, London, UK. Department of Clinical and Experimental Epilepsy, UCL Institute of Neurology, Queen Square, London, UK; MRI Unit, Epilepsy Society, Chalfont St. Peter, UK; Clinical Neurophysiology, National Hospital for Neurology and Neurosurgery, Queen Square, London, UK. Department of Clinical and Experimental Epilepsy, UCL Institute of Neurology, Queen Square, London, UK; MRI Unit, Epilepsy Society, Chalfont St. Peter, UK. Department of Clinical and Experimental Epilepsy, UCL Institute of Neurology, Queen Square, London, UK; MRI Unit, Epilepsy Society, Chalfont St. Peter, UK. Imaging and Biophysics Unit, UCL Institute of Child Health, London, UK. Department of Clinical and Experimental Epilepsy, UCL Institute of Neurology, Queen Square, London, UK; MRI Unit, Epilepsy Society, Chalfont St. Peter, UK.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0301067/Medical Research Council/United Kingdom",
+          "Department of Health/United Kingdom"
+     ],
+     "PT": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160323",
+     "PL": "Netherlands",
+     "TA": "Neuroimage Clin",
+     "JT": "NeuroImage. Clinical",
+     "JID": "101597070",
+     "RN": [
+          "S88TT14065 (Oxygen)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Brain/blood supply/diagnostic imaging/physiopathology",
+          "*Brain Mapping",
+          "Brain Waves/physiology",
+          "*Electroencephalography",
+          "Epilepsy/*pathology/physiopathology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "*Nonlinear Dynamics",
+          "Oxygen/blood"
+     ],
+     "PMC": "PMC4832091",
+     "EDAT": "2016/04/27 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2016/04/27 06:00"
+     ],
+     "PHST": [
+          "2015/10/01 00:00 [received]",
+          "2016/03/04 00:00 [revised]",
+          "2016/03/11 00:00 [accepted]",
+          "2016/04/27 06:00 [entrez]",
+          "2016/04/27 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1016/j.nicl.2016.03.010 [doi]",
+          "S2213-1582(16)30051-1 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Neuroimage Clin. 2016 Mar 23;11:486-93. doi: 10.1016/j.nicl.2016.03.010. eCollection 2016.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,70 @@
+{
+     "PMID": "12191925",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030225",
+     "LR": "20090714",
+     "IS": "0956-5663 (Print) 0956-5663 (Linking)",
+     "VI": "17",
+     "IP": "9",
+     "DP": "2002 Sep",
+     "TI": "A simple exploratory algorithm for the accurate and fast detection of spontaneous synaptic events.",
+     "PG": "773-82",
+     "AB": "We have developed a program for the fast and accurate detection of spontaneous synaptic events. The algorithm identifies each event of which the slope and amplitude which meet criteria. The significant feature of this algorithm is its stepwise and exploratory search for the onset and the peak points. During the first step, the program employing the algorithm makes a rough estimate of the candidate for a synaptic event, and determines a 'temporary' onset data point. The next step is the detection of the true onset data point and 'temporary' peak data point, which probably exist several points after the temporary onset data point. The third step is a backward search to detect the true peak data point. The final step is to check whether the amplitude of the detected event exceeds the threshold. This stepwise and shuttlewise search allows for the accurate detection of the peak points. Using this program, we succeeded in detecting an increased frequency and amplitude of spontaneous excitatory postsynaptic currents in chick cerebral neurons following the application of 12-O-tetradecanoyl-phorbol-13-acetate (TPA). In addition, we demonstrated that the program employing the algorithm was able to be used for the detection of extracellular action potentials.",
+     "FAU": [
+          "Kudoh, Suguru N",
+          "Taguchi, Takahisa"
+     ],
+     "AU": [
+          "Kudoh SN",
+          "Taguchi T"
+     ],
+     "AD": "Neuronics Research Group, Special Division for Human Life Technology, National Institute of Advanced Industrial Science and Technology (AIST), 1-8-31 Midorigaoka, Ikeda, Osaka 563-8577, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "PL": "England",
+     "TA": "Biosens Bioelectron",
+     "JT": "Biosensors & bioelectronics",
+     "JID": "9001289",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "*Algorithms",
+          "Animals",
+          "Cells, Cultured",
+          "Cerebral Cortex/embryology/*physiology",
+          "Chick Embryo",
+          "Computer Simulation",
+          "Excitatory Postsynaptic Potentials/*physiology",
+          "Hippocampus/embryology/*physiology",
+          "Neurons/*physiology",
+          "Patch-Clamp Techniques",
+          "Pattern Recognition, Automated",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Synaptic Transmission/*physiology"
+     ],
+     "EDAT": "2002/08/23 10:00",
+     "MHDA": "2003/02/26 04:00",
+     "CRDT": [
+          "2002/08/23 10:00"
+     ],
+     "PHST": [
+          "2002/08/23 10:00 [pubmed]",
+          "2003/02/26 04:00 [medline]",
+          "2002/08/23 10:00 [entrez]"
+     ],
+     "AID": [
+          "S0956566302000532 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biosens Bioelectron. 2002 Sep;17(9):773-82.",
+     "term": "hippocampus"
+}

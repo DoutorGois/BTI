@@ -1,0 +1,63 @@
+{
+     "PMID": "12425436",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20021210",
+     "LR": "20031114",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "15",
+     "IP": "10",
+     "DP": "2002 Dec",
+     "TI": "Stochastic resonance in the hippocampal CA3-CA1 model: a possible memory recall mechanism.",
+     "PG": "1171-83",
+     "AB": "Stochastic resonance (SR) in a hippocampal network model was investigated. The hippocampal model consists of two layers, CA3 and CA1. Pyramidal cells in CA3 are connected to pyramidal cells in CA1 through Schaffer collateral synapses. The CA3 network causes spontaneous irregular activity (broadband spectrum peaking at around 3 Hz), while the CA1 network does not. The activity of CA3 causes membrane potential fluctuations in CA1 pyramidal cells. The CA1 network also receives a subthreshold signal (2.5 or 50 Hz) through the perforant path (PP). The subthreshold PP signals can fire CA1 pyramidal cells in cooperation with the membrane potential fluctuations that work as noise. The firing of the CA1 network shows typical features of SR. When the frequency of the PP signal is in the gamma range (50 Hz), SR that takes place in the present model shows distinctive features. 50 Hz firing of CA1 pyramidal cells is modulated by the membrane potential fluctuations, resulting in bursts. Such burst firing in the CA1 network, which resembles the firing patterns observed in the real hippocampal CA1, improves performance of subthreshold signal detection in CA1. Moreover, memory embedded at Schaffer collateral synapses can be recalled by means of SR. When Schaffer collateral synapses in subregions of CA1 are augmented three-fold as a memory pattern. pyramidal cells in the subregions respond to the subthreshold PP signal due to SR, while pyramidal cells in the rest of CA1 do not fire.",
+     "FAU": [
+          "Yoshida, Motoharu",
+          "Hayashi, Hatsuo",
+          "Tateno, Katsumi",
+          "Ishizuka, Satoru"
+     ],
+     "AU": [
+          "Yoshida M",
+          "Hayashi H",
+          "Tateno K",
+          "Ishizuka S"
+     ],
+     "AD": "Department of Computer Science and Electronics, Faculty of Computer Science and Svstems Engineering, Kyushu Institute of Technology, Iizuka, Japan. a792013m@iizuka.isc.kyutech.ac.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/cytology/*physiology",
+          "Membrane Potentials/physiology",
+          "Mental Recall/*physiology",
+          "*Neural Networks (Computer)",
+          "Pyramidal Cells/physiology",
+          "Stochastic Processes"
+     ],
+     "EDAT": "2002/11/12 04:00",
+     "MHDA": "2002/12/11 04:00",
+     "CRDT": [
+          "2002/11/12 04:00"
+     ],
+     "PHST": [
+          "2002/11/12 04:00 [pubmed]",
+          "2002/12/11 04:00 [medline]",
+          "2002/11/12 04:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(02)00092-8 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2002 Dec;15(10):1171-83.",
+     "term": "hippocampus"
+}

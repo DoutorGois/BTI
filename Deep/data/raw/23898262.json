@@ -1,0 +1,74 @@
+{
+     "PMID": "23898262",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130730",
+     "LR": "20170220",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "7",
+     "DP": "2013",
+     "TI": "Missing mass approximations for the partition function of stimulus driven Ising models.",
+     "PG": "96",
+     "LID": "10.3389/fncom.2013.00096 [doi]",
+     "AB": "Ising models are routinely used to quantify the second order, functional structure of neural populations. With some recent exceptions, they generally do not include the influence of time varying stimulus drive. Yet if the dynamics of network function are to be understood, time varying stimuli must be taken into account. Inclusion of stimulus drive carries a heavy computational burden because the partition function becomes stimulus dependent and must be separately calculated for all unique stimuli observed. This potentially increases computation time by the length of the data set. Here we present an extremely fast, yet simply implemented, method for approximating the stimulus dependent partition function in minutes or seconds. Noting that the most probable spike patterns (which are few) occur in the training data, we sum partition function terms corresponding to those patterns explicitly. We then approximate the sum over the remaining patterns (which are improbable, but many) by casting it in terms of the stimulus modulated missing mass (total stimulus dependent probability of all patterns not observed in the training data). We use a product of conditioned logistic regression models to approximate the stimulus modulated missing mass. This method has complexity of roughly O(LNNpat) where is L the data length, N the number of neurons and N pat the number of unique patterns in the data, contrasting with the O(L2 (N) ) complexity of alternate methods. Using multiple unit recordings from rat hippocampus, macaque DLPFC and cat Area 18 we demonstrate our method requires orders of magnitude less computation time than Monte Carlo methods and can approximate the stimulus driven partition function more accurately than either Monte Carlo methods or deterministic approximations. This advance allows stimuli to be easily included in Ising models making them suitable for studying population based stimulus encoding.",
+     "FAU": [
+          "Haslinger, Robert",
+          "Ba, Demba",
+          "Galuske, Ralf",
+          "Williams, Ziv",
+          "Pipa, Gordon"
+     ],
+     "AU": [
+          "Haslinger R",
+          "Ba D",
+          "Galuske R",
+          "Williams Z",
+          "Pipa G"
+     ],
+     "AD": "Martinos Center for Biomedical Imaging, Massachusetts General Hospital Charlestown, MA, USA ; Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology Cambridge, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K25 NS052422/NS/NINDS NIH HHS/United States",
+          "R01 HD059852/HD/NICHD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130724",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC3721091",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Ising model",
+          "multiple unit recordings",
+          "network function",
+          "partition function",
+          "population codes",
+          "stimulus coding"
+     ],
+     "EDAT": "2013/07/31 06:00",
+     "MHDA": "2013/07/31 06:01",
+     "CRDT": [
+          "2013/07/31 06:00"
+     ],
+     "PHST": [
+          "2013/01/07 00:00 [received]",
+          "2013/06/24 00:00 [accepted]",
+          "2013/07/31 06:00 [entrez]",
+          "2013/07/31 06:00 [pubmed]",
+          "2013/07/31 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2013.00096 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2013 Jul 24;7:96. doi: 10.3389/fncom.2013.00096. eCollection 2013.",
+     "term": "hippocampus"
+}

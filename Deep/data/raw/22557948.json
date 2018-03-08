@@ -1,0 +1,67 @@
+{
+     "PMID": "22557948",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20121002",
+     "LR": "20170220",
+     "IS": "1662-5110 (Electronic) 1662-5110 (Linking)",
+     "VI": "6",
+     "DP": "2012",
+     "TI": "Linear look-ahead in conjunctive cells: an entorhinal mechanism for vector-based navigation.",
+     "PG": "20",
+     "LID": "10.3389/fncir.2012.00020 [doi]",
+     "AB": "The crisp organization of the \"firing bumps\" of entorhinal grid cells and conjunctive cells leads to the notion that the entorhinal cortex may compute linear navigation routes. Specifically, we propose a process, termed \"linear look-ahead,\" by which a stationary animal could compute a series of locations in the direction it is facing. We speculate that this computation could be achieved through learned patterns of connection strengths among entorhinal neurons. This paper has three sections. First, we describe the minimal grid cell properties that will be built into our network. Specifically, the network relies on \"rigid modules\" of neurons, where all members have identical grid scale and orientation, but differ in spatial phase. Additionally, these neurons must be densely interconnected with synapses that are modifiable early in the animal's life. Second, we investigate whether plasticity during short bouts of locomotion could induce patterns of connections amongst grid cells or conjunctive cells. Finally, we run a simulation to test whether the learned connection patterns can exhibit linear look-ahead. Our results are straightforward. A simulated 30-min walk produces weak strengthening of synapses between grid cells that do not support linear look-ahead. Similar training in a conjunctive cell module produces a small subset of very strong connections between cells. These strong pairs have three properties: the pre- and post-synaptic cells have similar heading direction. The cell pairs have neighboring grid bumps. Finally, the spatial offset of firing bumps of the cell pair is in the direction of the common heading preference. Such a module can produce strong and accurate linear look-ahead starting in any location and extending in any direction. We speculate that this process may: (1) compute linear paths to goals; (2) update grid cell firing during navigation; and (3) stabilize the rigid modules of grid cells and conjunctive cells.",
+     "FAU": [
+          "Kubie, John L",
+          "Fenton, Andre A"
+     ],
+     "AU": [
+          "Kubie JL",
+          "Fenton AA"
+     ],
+     "AD": "Department of Cell Biology, SUNY Downstate Medical Center Brooklyn, NY, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R21 NS072891/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20120426",
+     "PL": "Switzerland",
+     "TA": "Front Neural Circuits",
+     "JT": "Frontiers in neural circuits",
+     "JID": "101477940",
+     "PMC": "PMC3337481",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "computation",
+          "conjunctive cell",
+          "entorhinal cortex",
+          "grid cell",
+          "navigation",
+          "place cell"
+     ],
+     "EDAT": "2012/05/05 06:00",
+     "MHDA": "2012/05/05 06:01",
+     "CRDT": [
+          "2012/05/05 06:00"
+     ],
+     "PHST": [
+          "2011/12/11 00:00 [received]",
+          "2012/04/06 00:00 [accepted]",
+          "2012/05/05 06:00 [entrez]",
+          "2012/05/05 06:00 [pubmed]",
+          "2012/05/05 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncir.2012.00020 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neural Circuits. 2012 Apr 26;6:20. doi: 10.3389/fncir.2012.00020. eCollection 2012.",
+     "term": "conjunctive cells"
+}

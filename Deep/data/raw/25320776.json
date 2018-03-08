@@ -1,0 +1,81 @@
+{
+     "PMID": "25320776",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141113",
+     "LR": "20170220",
+     "VI": "17",
+     "IP": "Pt 3",
+     "DP": "2014",
+     "TI": "Hierarchical bayesian modeling, estimation, and sampling for multigroup shape analysis.",
+     "PG": "9-16",
+     "AB": "This paper proposes a novel method for the analysis of anatomical shapes present in biomedical image data. Motivated by the natural organization of population data into multiple groups, this paper presents a novel hierarchical generative statistical model on shapes. The proposed method represents shapes using pointsets and defines a joint distribution on the population's (i) shape variables and (ii) object-boundary data. The proposed method solves for optimal (i) point locations, (ii) correspondences, and (iii) model-parameter values as a single optimization problem. The optimization uses expectation maximization relying on a novel Markov-chain Monte-Carlo algorithm for sampling in Kendall shape space. Results on clinical brain images demonstrate advantages over the state of the art.",
+     "FAU": [
+          "Yu, Yen-Yun",
+          "Fletcher, P Thomas",
+          "Awate, Suyash P"
+     ],
+     "AU": [
+          "Yu YY",
+          "Fletcher PT",
+          "Awate SP"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB007688/EB/NIBIB NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States",
+          "R25 GM107009/GM/NIGMS NIH HHS/United States",
+          "U54-EB005149/EB/NIBIB NIH HHS/United States",
+          "P41 RR012553/RR/NCRR NIH HHS/United States",
+          "P41 GM103545/GM/NIGMS NIH HHS/United States",
+          "5R01EB007688/EB/NIBIB NIH HHS/United States",
+          "P41-RR12553/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Bayes Theorem",
+          "Computer Simulation",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Anatomic",
+          "Models, Statistical",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sample Size",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC4872874",
+     "MID": [
+          "NIHMS783242"
+     ],
+     "EDAT": "2014/10/17 06:00",
+     "MHDA": "2014/11/14 06:00",
+     "CRDT": [
+          "2014/10/17 06:00"
+     ],
+     "PHST": [
+          "2014/10/17 06:00 [entrez]",
+          "2014/10/17 06:00 [pubmed]",
+          "2014/11/14 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2014;17(Pt 3):9-16.",
+     "term": "hippocampus"
+}

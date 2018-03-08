@@ -1,0 +1,83 @@
+{
+     "PMID": "21726653",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111229",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "58",
+     "IP": "3",
+     "DP": "2011 Oct 1",
+     "TI": "Model-based dynamical analysis of functional disconnection in schizophrenia.",
+     "PG": "870-7",
+     "LID": "10.1016/j.neuroimage.2011.06.046 [doi]",
+     "AB": "Schizophrenia is shown to be associated with impaired interactions in functional macro-networks of the brain. The focus of our study was if there is an impairment of cognitive control of learning during schizophrenia. To investigate this question, we collected fMRI data from a group of stable schizophrenia patients and controls performing an object-location associative learning task in which the learning performance of the patient group was significantly worse. We applied Dynamic Causal Modeling to analyze the fMRI data. A set of causal models of BOLD signal generation was defined to evaluate connections between five regions material to the task (Primary Visual Cortex, Superior Parietal and Inferior Temporal Cortex, Hippocampus and Dorsal Prefrontal Cortex). Bayesian model selection was used to investigate hypotheses on differences in model architecture across groups, and indicated fundamental differences in model architecture in patients compared to controls. Models lacking connections related to cognitive control were more probable in the patient group. Hypotheses on differences in effective connectivity between groups were tested by comparing estimates of neural coupling parameters in winning model structures. This analysis indicated reduced fronto-hippocampal and hippocampo-inferior temporal coupling in patients, and reduced excitatory modulation of these pathways by learning. These findings may account for the documented reductions in learning performance of schizophrenia patients.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Banyai, Mihaly",
+          "Diwadkar, Vaibhav A",
+          "Erdi, Peter"
+     ],
+     "AU": [
+          "Banyai M",
+          "Diwadkar VA",
+          "Erdi P"
+     ],
+     "AD": "KFKI Research Institute for Particle and Nuclear Physics of the Hungarian Academy of Sciences, Budapest, Hungary.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 MH068680/MH/NIMH NIH HHS/United States",
+          "K01 MH068680-01/MH/NIMH NIH HHS/United States",
+          "MH68680/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110625",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Bayes Theorem",
+          "Brain/*physiopathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Learning/physiology",
+          "Magnetic Resonance Imaging",
+          "*Models, Neurological",
+          "Neural Pathways/*physiopathology",
+          "Schizophrenia/*physiopathology"
+     ],
+     "PMC": "PMC3221737",
+     "MID": [
+          "NIHMS308117"
+     ],
+     "EDAT": "2011/07/06 06:00",
+     "MHDA": "2011/12/30 06:00",
+     "CRDT": [
+          "2011/07/06 06:00"
+     ],
+     "PHST": [
+          "2010/12/23 00:00 [received]",
+          "2011/05/13 00:00 [revised]",
+          "2011/06/19 00:00 [accepted]",
+          "2011/07/06 06:00 [entrez]",
+          "2011/07/06 06:00 [pubmed]",
+          "2011/12/30 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)00691-4 [pii]",
+          "10.1016/j.neuroimage.2011.06.046 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 Oct 1;58(3):870-7. doi: 10.1016/j.neuroimage.2011.06.046. Epub 2011 Jun 25.",
+     "term": "hippocampus"
+}

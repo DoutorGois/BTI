@@ -1,0 +1,80 @@
+{
+     "PMID": "20232384",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120210",
+     "LR": "20131121",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "21",
+     "IP": "6",
+     "DP": "2011 Jun",
+     "TI": "The race to learn: spike timing and STDP can coordinate learning and recall in CA3.",
+     "PG": "647-60",
+     "LID": "10.1002/hipo.20777 [doi]",
+     "AB": "The CA3 region of the hippocampus has long been proposed as an autoassociative network performing pattern completion on known inputs. The dentate gyrus (DG) region is often proposed as a network performing the complementary function of pattern separation. Neural models of pattern completion and separation generally designate explicit learning phases to encode new information and assume an ideal fixed threshold at which to stop learning new patterns and begin recalling known patterns. Memory systems are significantly more complex in practice, with the degree of memory recall depending on context-specific goals. Here, we present our spike-timing separation and completion (STSC) model of the entorhinal cortex (EC), DG, and CA3 network, ascribing to each region a role similar to that in existing models but adding a temporal dimension by using a spiking neural network. Simulation results demonstrate that (a) spike-timing dependent plasticity in the EC-CA3 synapses provides a pattern completion ability without recurrent CA3 connections, (b) the race between activation of CA3 cells via EC-CA3 synapses and activation of the same cells via DG-CA3 synapses distinguishes novel from known inputs, and (c) modulation of the EC-CA3 synapses adjusts the learned versus test input similarity required to evoke a direct CA3 response prior to any DG activity, thereby adjusting the pattern completion threshold. These mechanisms suggest that spike timing can arbitrate between learning and recall based on the novelty of each individual input, ensuring control of the learn-recall decision resides in the same subsystem as the learned memories themselves. The proposed modulatory signal does not override this decision but biases the system toward either learning or recall. The model provides an explanation for empirical observations that a reduction in novelty produces a corresponding reduction in the latency of responses in CA3 and CA1.",
+     "CI": [
+          "Copyright (c) 2010 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Nolan, Christopher R",
+          "Wyeth, Gordon",
+          "Milford, Michael",
+          "Wiles, Janet"
+     ],
+     "AU": [
+          "Nolan CR",
+          "Wyeth G",
+          "Milford M",
+          "Wiles J"
+     ],
+     "AD": "School of Information Technology and Electrical Engineering, The University of Queensland, Brisbane, Australia. cnolan@itee.uq.edu.au",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100315",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "RN": [
+          "N9YNS0M02X (Acetylcholine)",
+          "VTD58H1Z2X (Dopamine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Acetylcholine/physiology",
+          "Algorithms",
+          "CA3 Region, Hippocampal/cytology/*physiology",
+          "*Computer Simulation",
+          "Dopamine/physiology",
+          "Entorhinal Cortex/physiology",
+          "Learning/physiology",
+          "Mental Recall/*physiology",
+          "Models, Neurological",
+          "Neural Pathways/cytology/physiology",
+          "Pattern Recognition, Visual/*physiology",
+          "Synapses/physiology",
+          "Time Factors"
+     ],
+     "EDAT": "2010/03/17 06:00",
+     "MHDA": "2012/02/11 06:00",
+     "CRDT": [
+          "2010/03/17 06:00"
+     ],
+     "PHST": [
+          "2010/01/04 00:00 [accepted]",
+          "2010/03/17 06:00 [entrez]",
+          "2010/03/17 06:00 [pubmed]",
+          "2012/02/11 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.20777 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2011 Jun;21(6):647-60. doi: 10.1002/hipo.20777. Epub 2010 Mar 15.",
+     "term": "hippocampus"
+}

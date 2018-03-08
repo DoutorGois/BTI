@@ -1,0 +1,60 @@
+{
+     "PMID": "20426160",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100607",
+     "LR": "20100429",
+     "VI": "12",
+     "IP": "Pt 2",
+     "DP": "2009",
+     "TI": "Towards accurate, automatic segmentation of the hippocampus and amygdala from MRI.",
+     "PG": "592-600",
+     "AB": "We describe progress towards fully automatic segmentation of the hippocampus (HC) and amygdala (AG) in human subjects from MRI data. Three methods are described and tested with a set of MRIs from 80 young normal controls, using manual labeling of the HC and AG as a gold standard. The methods include: (1) our ANIMAL atlas-based method that uses non-linear registration to a pre-labeled non-linear average template (ICBM152). HC and AG labels, defined on the template are mapped through the inverse transformation to segment these structures on the subject's MRI; (2) template-based segmentation, where we select the most similar MRI from the set of 80 labeled datasets to use as a template in the standard ANIMAL segmentation scheme; (3) label fusion methods where we combine segmentations from the 'n' most similar templates. The label fusion technique yields the best results with median kappas of 0.886 and 0.826 for HC and AG, respectively.",
+     "FAU": [
+          "Collins, D Louis",
+          "Pruessner, Jens C"
+     ],
+     "AU": [
+          "Collins DL",
+          "Pruessner JC"
+     ],
+     "AD": "McConnell Brain Imaging Center, Montreal Neurological Institute. louis.collins@mcgill.ca",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Amygdala/*anatomy & histology",
+          "*Artificial Intelligence",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2009/01/01 00:00",
+     "MHDA": "2010/06/09 06:00",
+     "CRDT": [
+          "2010/04/30 06:00"
+     ],
+     "PHST": [
+          "2010/04/30 06:00 [entrez]",
+          "2009/01/01 00:00 [pubmed]",
+          "2010/06/09 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2009;12(Pt 2):592-600.",
+     "term": "hippocampus"
+}

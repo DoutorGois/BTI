@@ -1,0 +1,83 @@
+{
+     "PMID": "22615990",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120920",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "7",
+     "IP": "5",
+     "DP": "2012",
+     "TI": "An improved test for detecting multiplicative homeostatic synaptic scaling.",
+     "PG": "e37364",
+     "LID": "10.1371/journal.pone.0037364 [doi]",
+     "AB": "Homeostatic scaling of synaptic strengths is essential for maintenance of network \"gain\", but also poses a risk of losing the distinctions among relative synaptic weights, which are possibly cellular correlates of memory storage. Multiplicative scaling of all synapses has been proposed as a mechanism that would preserve the relative weights among them, because they would all be proportionately adjusted. It is crucial for this hypothesis that all synapses be affected identically, but whether or not this actually occurs is difficult to determine directly. Mathematical tests for multiplicative synaptic scaling are presently carried out on distributions of miniature synaptic current amplitudes, but the accuracy of the test procedure has not been fully validated. We now show that the existence of an amplitude threshold for empirical detection of miniature synaptic currents limits the use of the most common method for detecting multiplicative changes. Our new method circumvents the problem by discarding the potentially distorting subthreshold values after computational scaling. This new method should be useful in assessing the underlying neurophysiological nature of a homeostatic synaptic scaling transformation, and therefore in evaluating its functional significance.",
+     "FAU": [
+          "Kim, Jimok",
+          "Tsien, Richard W",
+          "Alger, Bradley E"
+     ],
+     "AU": [
+          "Kim J",
+          "Tsien RW",
+          "Alger BE"
+     ],
+     "AD": "Institute of Molecular Medicine and Genetics, Graduate Program in Neuroscience and Department of Neurology, Georgia Health Sciences University, Augusta, Georgia, United States of America. jimkim@georgiahealth.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R37MH071739/MH/NIMH NIH HHS/United States",
+          "R01AG036794/AG/NIA NIH HHS/United States",
+          "R01 AG036794/AG/NIA NIH HHS/United States",
+          "R01DA014625/DA/NIDA NIH HHS/United States",
+          "R01 DA014625/DA/NIDA NIH HHS/United States",
+          "R37 MH071739/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20120517",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "4368-28-9 (Tetrodotoxin)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Excitatory Postsynaptic Potentials/drug effects",
+          "Hippocampus/drug effects",
+          "Homeostasis/physiology",
+          "Miniature Postsynaptic Potentials/drug effects",
+          "Neuronal Plasticity/physiology",
+          "Psychophysiology/methods",
+          "Rats",
+          "Synapses/drug effects/*physiology",
+          "Synaptic Transmission/physiology",
+          "Tetrodotoxin/pharmacology"
+     ],
+     "PMC": "PMC3355135",
+     "EDAT": "2012/05/23 06:00",
+     "MHDA": "2012/09/21 06:00",
+     "CRDT": [
+          "2012/05/23 06:00"
+     ],
+     "PHST": [
+          "2011/12/23 00:00 [received]",
+          "2012/04/20 00:00 [accepted]",
+          "2012/05/23 06:00 [entrez]",
+          "2012/05/23 06:00 [pubmed]",
+          "2012/09/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0037364 [doi]",
+          "PONE-D-12-00024 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2012;7(5):e37364. doi: 10.1371/journal.pone.0037364. Epub 2012 May 17.",
+     "term": "hippocampus"
+}

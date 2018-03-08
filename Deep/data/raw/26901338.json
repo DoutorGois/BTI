@@ -1,0 +1,84 @@
+{
+     "PMID": "26901338",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160718",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "11",
+     "IP": "2",
+     "DP": "2016",
+     "TI": "Predicting Progression from Mild Cognitive Impairment to Alzheimer's Dementia Using Clinical, MRI, and Plasma Biomarkers via Probabilistic Pattern Classification.",
+     "PG": "e0138866",
+     "LID": "10.1371/journal.pone.0138866 [doi]",
+     "AB": "BACKGROUND: Individuals with mild cognitive impairment (MCI) have a substantially increased risk of developing dementia due to Alzheimer's disease (AD). In this study, we developed a multivariate prognostic model for predicting MCI-to-dementia progression at the individual patient level. METHODS: Using baseline data from 259 MCI patients and a probabilistic, kernel-based pattern classification approach, we trained a classifier to distinguish between patients who progressed to AD-type dementia (n = 139) and those who did not (n = 120) during a three-year follow-up period. More than 750 variables across four data sources were considered as potential predictors of progression. These data sources included risk factors, cognitive and functional assessments, structural magnetic resonance imaging (MRI) data, and plasma proteomic data. Predictive utility was assessed using a rigorous cross-validation framework. RESULTS: Cognitive and functional markers were most predictive of progression, while plasma proteomic markers had limited predictive utility. The best performing model incorporated a combination of cognitive/functional markers and morphometric MRI measures and predicted progression with 80% accuracy (83% sensitivity, 76% specificity, AUC = 0.87). Predictors of progression included scores on the Alzheimer's Disease Assessment Scale, Rey Auditory Verbal Learning Test, and Functional Activities Questionnaire, as well as volume/cortical thickness of three brain regions (left hippocampus, middle temporal gyrus, and inferior parietal cortex). Calibration analysis revealed that the model is capable of generating probabilistic predictions that reliably reflect the actual risk of progression. Finally, we found that the predictive accuracy of the model varied with patient demographic, genetic, and clinical characteristics and could be further improved by taking into account the confidence of the predictions. CONCLUSIONS: We developed an accurate prognostic model for predicting MCI-to-dementia progression over a three-year period. The model utilizes widely available, cost-effective, non-invasive markers and can be used to improve patient selection in clinical trials and identify high-risk MCI patients for early treatment.",
+     "FAU": [
+          "Korolev, Igor O",
+          "Symonds, Laura L",
+          "Bozoki, Andrea C"
+     ],
+     "AU": [
+          "Korolev IO",
+          "Symonds LL",
+          "Bozoki AC"
+     ],
+     "AD": "Neuroscience Program, Michigan State University, East Lansing, Michigan, United States of America. College of Osteopathic Medicine, Michigan State University, East Lansing, Michigan, United States of America. Neuroscience Program, Michigan State University, East Lansing, Michigan, United States of America. Neuroscience Program, Michigan State University, East Lansing, Michigan, United States of America. Department of Neurology, Michigan State University, East Lansing, Michigan, United States of America.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20160222",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Biomarkers)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*blood/physiopathology",
+          "Biomarkers/*blood",
+          "Cognitive Dysfunction/*blood/physiopathology",
+          "Dementia/*blood/physiopathology",
+          "Disease Progression",
+          "Female",
+          "Humans",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Models, Theoretical"
+     ],
+     "PMC": "PMC4762666",
+     "EDAT": "2016/02/24 06:00",
+     "MHDA": "2016/07/19 06:00",
+     "CRDT": [
+          "2016/02/23 06:00"
+     ],
+     "PHST": [
+          "2014/10/02 00:00 [received]",
+          "2015/09/04 00:00 [accepted]",
+          "2016/02/23 06:00 [entrez]",
+          "2016/02/24 06:00 [pubmed]",
+          "2016/07/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0138866 [doi]",
+          "PONE-D-14-44435 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2016 Feb 22;11(2):e0138866. doi: 10.1371/journal.pone.0138866. eCollection 2016.",
+     "term": "hippocampus"
+}

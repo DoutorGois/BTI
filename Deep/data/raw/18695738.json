@@ -1,0 +1,89 @@
+{
+     "PMID": "18695738",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081017",
+     "LR": "20170220",
+     "IS": "1110-7251 (Electronic) 1110-7243 (Linking)",
+     "VI": "2008",
+     "DP": "2008",
+     "TI": "Validation of alternating Kernel mixture method: application to tissue segmentation of cortical and subcortical structures.",
+     "PG": "346129",
+     "LID": "10.1155/2008/346129 [doi]",
+     "AB": "This paper describes the application of the alternating Kernel mixture (AKM) segmentation algorithm to high resolution MRI subvolumes acquired from a 1.5T scanner (hippocampus, n = 10 and prefrontal cortex, n = 9) and a 3T scanner (hippocampus, n = 10 and occipital lobe, n = 10). Segmentation of the subvolumes into cerebrospinal fluid, gray matter, and white matter tissue is validated by comparison with manual segmentation. When compared with other segmentation methods that use traditional Bayesian segmentation, AKM yields smaller errors (P < .005, exact Wilcoxon signed rank test) demonstrating the robustness and wide applicability of AKM across different structures. By generating multiple mixtures for each tissue compartment, AKM mimics the increased variation of manual segmentation in partial volumes due to the highly folded tissues. AKM's superior performance makes it useful for tissue segmentation of subcortical and cortical structures in large-scale neuroimaging studies.",
+     "FAU": [
+          "Lee, Nayoung A",
+          "Priebe, Carey E",
+          "Miller, Michael I",
+          "Ratnanather, J Tilak"
+     ],
+     "AU": [
+          "Lee NA",
+          "Priebe CE",
+          "Miller MI",
+          "Ratnanather JT"
+     ],
+     "AD": "Center for Imaging Science, Johns Hopkins University, Baltimore, MD 21218, USA. nayoung@cis.jhu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB00975-01/EB/NIBIB NIH HHS/United States",
+          "P01 AG026276/AG/NIA NIH HHS/United States",
+          "P41 RR15241-01A1/RR/NCRR NIH HHS/United States",
+          "P41 RR015241-01A1/RR/NCRR NIH HHS/United States",
+          "P41 RR15241-02S1/RR/NCRR NIH HHS/United States",
+          "R01 EB000975/EB/NIBIB NIH HHS/United States",
+          "P41 RR015241/RR/NCRR NIH HHS/United States",
+          "R01 EB000975-04/EB/NIBIB NIH HHS/United States",
+          "P50 MH071616-03/MH/NIMH NIH HHS/United States",
+          "P41 RR015241-02S1/RR/NCRR NIH HHS/United States",
+          "P50 MH071616/MH/NIMH NIH HHS/United States",
+          "P41 EB015909/EB/NIBIB NIH HHS/United States",
+          "P01 AG026276-03/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "J Biomed Biotechnol",
+     "JT": "Journal of biomedicine & biotechnology",
+     "JID": "101135740",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Artificial Intelligence",
+          "Cerebral Cortex/*anatomy & histology",
+          "Hippocampus/*anatomy & histology",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC2495022",
+     "EDAT": "2008/08/13 09:00",
+     "MHDA": "2008/10/18 09:00",
+     "CRDT": [
+          "2008/08/13 09:00"
+     ],
+     "PHST": [
+          "2007/09/04 00:00 [received]",
+          "2008/02/28 00:00 [revised]",
+          "2008/06/25 00:00 [accepted]",
+          "2008/08/13 09:00 [pubmed]",
+          "2008/10/18 09:00 [medline]",
+          "2008/08/13 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1155/2008/346129 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Biomed Biotechnol. 2008;2008:346129. doi: 10.1155/2008/346129.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,66 @@
+{
+     "PMID": "25381103",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150428",
+     "LR": "20161109",
+     "IS": "0065-2598 (Print) 0065-2598 (Linking)",
+     "VI": "823",
+     "DP": "2015",
+     "TI": "Identification of the Reichardt elementary motion detector model.",
+     "PG": "83-105",
+     "LID": "10.1007/978-3-319-10984-8_5 [doi]",
+     "AB": "The classical Hassenstein-Reichardt mathematical elementary motion detector (EMD) model is treated analytically. The EMD is stimulated with drifting sinusoidal gratings, which are often used in motion vision research, thus enabling direct comparison with neural responses from motion-sensitive neurones in the fly brain. When sinusoidal gratings are displayed on a cathode ray tube monitor, they are modulated by the refresh rate of the monitor. This generates a pulsatile signature of the visual stimulus, which is also seen in the neural response. Such pulsatile signals make a Laguerre domain identification method for estimating the parameters of a single EMD suitable, allowing estimation of both finite and infinite-dimensional dynamics. To model the response of motion-sensitive neurones with large receptive fields, a pool of spatially distributed EMDs is considered, with the weights of the contributing EMDs fitted to the neural data by a sparse estimation method. Such an EMD-array is more reliably estimated by stimulating with multiple sinusoidal gratings, since these provide higher spatial excitation than a single sinusoidal grating. Consequently, a way of designing the visual stimuli for a certain order of spatial resolution is suggested.",
+     "FAU": [
+          "Hidayat, Egi",
+          "Medvedev, Alexander",
+          "Nordstrom, Karin"
+     ],
+     "AU": [
+          "Hidayat E",
+          "Medvedev A",
+          "Nordstrom K"
+     ],
+     "AD": "Department of Information Technology, Uppsala University, Uppsala, Sweden, egi.hidayat@it.uu.se.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Adv Exp Med Biol",
+     "JT": "Advances in experimental medicine and biology",
+     "JID": "0121103",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Diptera/physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Motion",
+          "Motion Perception/*physiology",
+          "Neurons/*physiology",
+          "Photic Stimulation",
+          "Spatial Navigation/physiology",
+          "Visual Perception/physiology"
+     ],
+     "EDAT": "2014/11/09 06:00",
+     "MHDA": "2015/04/29 06:00",
+     "CRDT": [
+          "2014/11/09 06:00"
+     ],
+     "PHST": [
+          "2014/11/09 06:00 [entrez]",
+          "2014/11/09 06:00 [pubmed]",
+          "2015/04/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/978-3-319-10984-8_5 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Adv Exp Med Biol. 2015;823:83-105. doi: 10.1007/978-3-319-10984-8_5.",
+     "term": "spatial navigation"
+}

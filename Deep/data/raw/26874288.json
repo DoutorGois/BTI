@@ -1,0 +1,93 @@
+{
+     "PMID": "26874288",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161216",
+     "LR": "20170728",
+     "IS": "1361-8423 (Electronic) 1361-8415 (Linking)",
+     "VI": "30",
+     "DP": "2016 May",
+     "TI": "Statistical shape analysis using 3D Poisson equation--A quantitatively validated approach.",
+     "PG": "72-84",
+     "LID": "S1361-8415(15)00194-2 [pii] 10.1016/j.media.2015.12.007 [doi]",
+     "AB": "Statistical shape analysis has been an important area of research with applications in biology, anatomy, neuroscience, agriculture, paleontology, etc. Unfortunately, the proposed methods are rarely quantitatively evaluated, and as shown in recent studies, when they are evaluated, significant discrepancies exist in their outputs. In this work, we concentrate on the problem of finding the consistent location of deformation between two population of shapes. We propose a new shape analysis algorithm along with a framework to perform a quantitative evaluation of its performance. Specifically, the algorithm constructs a Signed Poisson Map (SPoM) by solving two Poisson equations on the volumetric shapes of arbitrary topology, and statistical analysis is then carried out on the SPoMs. The method is quantitatively evaluated on synthetic shapes and applied on real shape data sets in brain structures.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Gao, Yi",
+          "Bouix, Sylvain"
+     ],
+     "AU": [
+          "Gao Y",
+          "Bouix S"
+     ],
+     "AD": "Department of Biomedical Informatics, Stony Brook University, Stony Brook, NY 11794, United States; Department of Applied Mathematics and Statistics, Stony Brook University, Stony Brook, NY 11794, United States; Department of Computer Science, Stony Brook University, Stony Brook, NY 11794, United States. Electronic address: gaoyi@gatech.edu. Department of Psychiatry, Harvard Medical School, 1249 Boylston St, Boston, MA 02215, United States. Electronic address: sylvain@bwh.harvard.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH082918/MH/NIMH NIH HHS/United States",
+          "R01 MH82918/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Validation Studies"
+     ],
+     "DEP": "20160115",
+     "PL": "Netherlands",
+     "TA": "Med Image Anal",
+     "JT": "Medical image analysis",
+     "JID": "9713490",
+     "SB": "IM",
+     "MH": [
+          "Computer Simulation",
+          "Hippocampus/*diagnostic imaging/pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "*Models, Statistical",
+          "Pattern Recognition, Automated/*methods",
+          "Poisson Distribution",
+          "Reproducibility of Results",
+          "Schizophrenia/*diagnostic imaging/pathology",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC4789126",
+     "MID": [
+          "NIHMS752011"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Poisson equation",
+          "Quantitative evaluation",
+          "Reproducibility",
+          "Statistical shape analysis"
+     ],
+     "EDAT": "2016/02/14 06:00",
+     "MHDA": "2016/12/17 06:00",
+     "CRDT": [
+          "2016/02/14 06:00"
+     ],
+     "PHST": [
+          "2015/02/22 00:00 [received]",
+          "2015/11/27 00:00 [revised]",
+          "2015/12/23 00:00 [accepted]",
+          "2016/02/14 06:00 [entrez]",
+          "2016/02/14 06:00 [pubmed]",
+          "2016/12/17 06:00 [medline]"
+     ],
+     "AID": [
+          "S1361-8415(15)00194-2 [pii]",
+          "10.1016/j.media.2015.12.007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Anal. 2016 May;30:72-84. doi: 10.1016/j.media.2015.12.007. Epub 2016 Jan 15.",
+     "term": "hippocampus"
+}

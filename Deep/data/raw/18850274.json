@@ -1,0 +1,112 @@
+{
+     "PMID": "18850274",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090204",
+     "LR": "20161124",
+     "IS": "1559-7113 (Electronic) 1559-7105 (Linking)",
+     "VI": "36",
+     "IP": "1-4",
+     "DP": "2008 Aug",
+     "TI": "Imaging synaptic inhibition throughout the brain via genetically targeted Clomeleon.",
+     "PG": "101-18",
+     "LID": "10.1007/s11068-008-9031-x [doi]",
+     "AB": "Here we survey a molecular genetic approach for imaging synaptic inhibition. This approach is based on measuring intracellular chloride concentration ([Cl(-)](i)) with the fluorescent chloride indicator protein, Clomeleon. We first describe several different ways to express Clomeleon in selected populations of neurons in the mouse brain. These methods include targeted viral gene transfer, conditional expression controlled by Cre recombination, and transgenesis based on the neuron-specific promoter, thy1. Next, we evaluate the feasibility of using different lines of thy1::Clomeleon transgenic mice to image synaptic inhibition in several different brain regions: the hippocampus, the deep cerebellar nuclei (DCN), the basolateral nucleus of the amygdala, and the superior colliculus (SC). Activation of hippocampal interneurons caused [Cl(-)](i) to rise transiently in individual postsynaptic CA1 pyramidal neurons. [Cl(-)](i) increased linearly with the number of electrical stimuli in a train, with peak changes as large as 4 mM. These responses were largely mediated by GABA receptors because they were blocked by antagonists of GABA receptors, such as GABAzine and bicuculline. Similar responses to synaptic activity were observed in DCN neurons, amygdalar principal cells, and collicular premotor neurons. However, in contrast to the hippocampus, the responses in these three regions were largely insensitive to antagonists of inhibitory neurotransmitter receptors. This indicates that synaptic activity can also cause Cl(-) influx through alternate pathways that remain to be identified. We conclude that Clomeleon imaging permits non-invasive, spatiotemporally precise recordings of [Cl(-)](i) in a large variety of neurons, and provides new opportunities for imaging synaptic inhibition and other forms of neuronal chloride signaling.",
+     "FAU": [
+          "Berglund, Ken",
+          "Schleich, Wolfram",
+          "Wang, Hong",
+          "Feng, Guoping",
+          "Hall, William C",
+          "Kuner, Thomas",
+          "Augustine, George J"
+     ],
+     "AU": [
+          "Berglund K",
+          "Schleich W",
+          "Wang H",
+          "Feng G",
+          "Hall WC",
+          "Kuner T",
+          "Augustine GJ"
+     ],
+     "AD": "Department of Neurobiology, Duke University Medical Center, 3209, Durham, NC 27710, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH073166-02/MH/NIMH NIH HHS/United States",
+          "R01 MH073166-01/MH/NIMH NIH HHS/United States",
+          "R01 MH073166-04/MH/NIMH NIH HHS/United States",
+          "R01 MH073166-03/MH/NIMH NIH HHS/United States",
+          "R01 MH073166/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20081011",
+     "PL": "United States",
+     "TA": "Brain Cell Biol",
+     "JT": "Brain cell biology",
+     "JID": "101272887",
+     "RN": [
+          "0 (Chlorides)",
+          "0 (GABA Antagonists)",
+          "0 (Pyridazines)",
+          "0 (Recombinant Fusion Proteins)",
+          "0 (clomeleon)",
+          "99460MG420 (gabazine)",
+          "Y37615DVKC (Bicuculline)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Amygdala/cytology/metabolism/physiology",
+          "Animals",
+          "Bicuculline/pharmacology",
+          "Brain/cytology/*metabolism/physiology",
+          "Cell Culture Techniques",
+          "Cerebellum/cytology/metabolism/physiology",
+          "Chlorides/analysis/*metabolism",
+          "Diagnostic Imaging",
+          "Electric Stimulation/methods",
+          "GABA Antagonists/pharmacology",
+          "Genetic Vectors/genetics",
+          "Hippocampus/cytology/metabolism/physiology",
+          "Interneurons/cytology/metabolism/physiology",
+          "Mice",
+          "Mice, Transgenic",
+          "Microscopy, Confocal/methods",
+          "Neural Inhibition/drug effects/physiology",
+          "Neurons/cytology/*metabolism/physiology",
+          "Pyridazines/pharmacology",
+          "Recombinant Fusion Proteins/genetics/*metabolism",
+          "Superior Colliculi/cytology/metabolism/physiology",
+          "Synaptic Transmission/drug effects/physiology",
+          "Transfection/methods"
+     ],
+     "PMC": "PMC2674236",
+     "MID": [
+          "NIHMS90112"
+     ],
+     "EDAT": "2008/10/14 09:00",
+     "MHDA": "2009/02/05 09:00",
+     "CRDT": [
+          "2008/10/14 09:00"
+     ],
+     "PHST": [
+          "2008/06/11 00:00 [received]",
+          "2008/08/27 00:00 [accepted]",
+          "2008/08/27 00:00 [revised]",
+          "2008/10/14 09:00 [pubmed]",
+          "2009/02/05 09:00 [medline]",
+          "2008/10/14 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s11068-008-9031-x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Cell Biol. 2008 Aug;36(1-4):101-18. doi: 10.1007/s11068-008-9031-x. Epub 2008 Oct 11.",
+     "term": "hippocampus"
+}

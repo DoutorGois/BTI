@@ -1,0 +1,97 @@
+{
+     "PMID": "18341699",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080418",
+     "LR": "20171116",
+     "IS": "1476-072X (Electronic) 1476-072X (Linking)",
+     "VI": "7",
+     "DP": "2008 Mar 14",
+     "TI": "Hydrological modeling of geophysical parameters of arboviral and protozoan disease vectors in Internally Displaced People camps in Gulu, Uganda.",
+     "PG": "11",
+     "LID": "10.1186/1476-072X-7-11 [doi]",
+     "AB": "BACKGROUND: The aim of this study was to determine if remotely sensed data and Digital Elevation Model (DEM) can test relationships between Culex quinquefasciatus and Anopheles gambiae s.l. larval habitats and environmental parameters within Internally Displaced People (IDP) campgrounds in Gulu, Uganda. A total of 65 georeferenced aquatic habitats in various IDP camps were studied to compare the larval abundance of Cx. quinquefasciatus and An. gambiae s.l. The aquatic habitat dataset were overlaid onto Land Use Land Cover (LULC) maps retrieved from Landsat imagery with 150 m x 150 m grid cells stratified by levels of drainage. The LULC change was estimated over a period of 14 years. Poisson regression analyses and Moran's I statistics were used to model relationships between larval abundance and environmental predictors. Individual larval habitat data were further evaluated in terms of their covariations with spatial autocorrelation by regressing them on candidate spatial filter eigenvectors. Multispectral QuickBird imagery classification and DEM-based GIS methods were generated to evaluate stream flow direction and accumulation for identification of immature Cx. quinquefasciatus and An. gambiae s.l. and abundance. RESULTS: The main LULC change in urban Gulu IDP camps was non-urban to urban, which included about 71.5 % of the land cover. The regression models indicate that counts of An. gambiae s.l. larvae were associated with shade while Cx. quinquefasciatus were associated with floating vegetation. Moran's I and the General G statistics for mosquito density by species and instars, identified significant clusters of high densities of Anopheles; larvae, however, Culex are not consistently clustered. A stepwise negative binomial regression decomposed the immature An. gambiae s.l. data into empirical orthogonal bases. The data suggest the presence of roughly 11% to 28 % redundant information in the larval count samples. The DEM suggest a positive correlation for Culex (0.24) while for Anopheles there was a negative correlation (-0.23) for a local model distance to stream. CONCLUSION: These data demonstrate that optical remote sensing; geostatistics and DEMs can be used to identify parameters associated with Culex and Anopheles aquatic habitats.",
+     "FAU": [
+          "Jacob, Benjamin G",
+          "Muturi, Ephantus J",
+          "Caamano, Erick X",
+          "Gunter, James T",
+          "Mpanga, Enoch",
+          "Ayine, Robert",
+          "Okelloonen, Joseph",
+          "Nyeko, Jack Pen-Mogi",
+          "Shililu, Josephat I",
+          "Githure, John I",
+          "Regens, James L",
+          "Novak, Robert J",
+          "Kakoma, Ibulaimu"
+     ],
+     "AU": [
+          "Jacob BG",
+          "Muturi EJ",
+          "Caamano EX",
+          "Gunter JT",
+          "Mpanga E",
+          "Ayine R",
+          "Okelloonen J",
+          "Nyeko JP",
+          "Shililu JI",
+          "Githure JI",
+          "Regens JL",
+          "Novak RJ",
+          "Kakoma I"
+     ],
+     "AD": "Department of Medicine, William C, Gorgas Center for Geographic Medicine, Birmingham, AL, 35294, USA. bjacob@uab.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "DEP": "20080314",
+     "PL": "England",
+     "TA": "Int J Health Geogr",
+     "JT": "International journal of health geographics",
+     "JID": "101152198",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Anopheles",
+          "Arbovirus Infections/*transmission",
+          "Culex",
+          "*Culicidae",
+          "Disasters",
+          "*Disease Vectors",
+          "Ecosystem",
+          "Geography",
+          "Humans",
+          "Models, Theoretical",
+          "Protozoan Infections/*transmission",
+          "*Refugees",
+          "Residence Characteristics",
+          "Risk Factors",
+          "Uganda",
+          "*Wetlands"
+     ],
+     "PMC": "PMC2275725",
+     "EDAT": "2008/03/18 09:00",
+     "MHDA": "2008/04/19 09:00",
+     "CRDT": [
+          "2008/03/18 09:00"
+     ],
+     "PHST": [
+          "2007/08/04 00:00 [received]",
+          "2008/03/14 00:00 [accepted]",
+          "2008/03/18 09:00 [pubmed]",
+          "2008/04/19 09:00 [medline]",
+          "2008/03/18 09:00 [entrez]"
+     ],
+     "AID": [
+          "1476-072X-7-11 [pii]",
+          "10.1186/1476-072X-7-11 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Int J Health Geogr. 2008 Mar 14;7:11. doi: 10.1186/1476-072X-7-11.",
+     "term": "grid cells"
+}

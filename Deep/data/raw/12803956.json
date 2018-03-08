@@ -1,0 +1,68 @@
+{
+     "PMID": "12803956",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030717",
+     "LR": "20131121",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "15",
+     "IP": "5",
+     "DP": "2003 May",
+     "TI": "Gamma rhythmic bursts: coherence control in networks of cortical pyramidal neurons.",
+     "PG": "1035-61",
+     "AB": "Much evidence indicates that synchronized gamma-frequency (20-70 Hz) oscillation plays a significant functional role in the neocortex and hippocampus. Chattering neuron is a possible neocortical pacemaker for the gamma oscillation. Based on our recent model of chattering neurons, here we study how gamma-frequency bursting is synchronized in a network of these neurons. Using a phase oscillator description, we first examine how two coupled chattering neurons are synchronized. The analysis reveals that an incremental change of the bursting mode, such as from singlet to doublet, always accompanies a rapid transition from antisynchronous to synchronous firing. The state transition occurs regardless of what changes the bursting mode. Within each bursting mode, the neuronal activity undergoes a gradual change from synchrony to antisynchrony. Since the sensitivity to Ca(2+) and the maximum conductance of Ca(2+)-dependent cationic current as well as the intensity of input current systematically control the bursting mode, these quantities may be crucial for the regulation of the coherence of local cortical activity. Numerical simulations demonstrate that the modulations of the calcium sensitivity and the amplitude of the cationic current can induce rapid transitions between synchrony and asynchrony in a large-scale network of chattering neurons. The rapid synchronization of chattering neurons is shown to synchronize the activities of regular spiking pyramidal neurons at the gamma frequencies, as may be necessary for selective attention or binding processing in object recognition.",
+     "FAU": [
+          "Aoyagi, Toshio",
+          "Takekawa, Takashi",
+          "Fukai, Tomoki"
+     ],
+     "AU": [
+          "Aoyagi T",
+          "Takekawa T",
+          "Fukai T"
+     ],
+     "AD": "Department of Applied Analysis and Complex Dynamical Systems, Graduate School of Informatics, Kyoto University, Kyoto 606-8501, Japan. aoyagi@acs.i.kyoto-u.ac.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Artifacts",
+          "Calcium/physiology",
+          "Cerebral Cortex/cytology/*physiology",
+          "Cortical Synchronization",
+          "*Models, Neurological",
+          "Neural Inhibition/physiology",
+          "Neural Pathways/physiology",
+          "Periodicity",
+          "Pyramidal Cells/*physiology"
+     ],
+     "EDAT": "2003/06/14 05:00",
+     "MHDA": "2003/07/19 05:00",
+     "CRDT": [
+          "2003/06/14 05:00"
+     ],
+     "PHST": [
+          "2003/06/14 05:00 [pubmed]",
+          "2003/07/19 05:00 [medline]",
+          "2003/06/14 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/089976603765202659 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2003 May;15(5):1035-61. doi: 10.1162/089976603765202659.",
+     "term": "hippocampus"
+}

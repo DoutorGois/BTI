@@ -1,0 +1,63 @@
+{
+     "PMID": "2918748",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19890329",
+     "LR": "20141120",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "26",
+     "IP": "3",
+     "DP": "1989 Jan",
+     "TI": "A high-speed multichannel neural data acquisition system for IBM PC compatibles.",
+     "PG": "239-47",
+     "AB": "An inexpensive 32-channel data acquisition system has been constructed for use in acquiring neuroelectric data from a multiple element electrode array. Direct memory access (DMA) techniques allowed a maximum aggregate sampling rate of 652 ksamples/s, or 20.4 ksamples/s on 32 channels. The 8-bit analog-to-digital (A/D) conversion circuitry lies on a single plug-in card installed in an IBM PC-compatible AT & T 6300 Plus personal computer, although the card may be used in an IBM PC with no reduction in sampling performance. Data have been taken from 32 points on the surface of the rat hippocampal slice preparation. Assembly language graphics routines permitted rapid display of raw and processed data. Signal processing routines can be executed and results can be displayed to provide rapid feedback to an experimenter.",
+     "FAU": [
+          "Novak, J L",
+          "Wheeler, B C"
+     ],
+     "AU": [
+          "Novak JL",
+          "Wheeler BC"
+     ],
+     "AD": "Electrical and Computer Engineering Department, University of Illinois, Urbana-Champaign 61801.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "RR-7030/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "Automatic Data Processing/*instrumentation/methods",
+          "Electronics/*instrumentation",
+          "Epilepsy/physiopathology",
+          "Hippocampus/*physiology",
+          "In Vitro Techniques",
+          "Microcomputers/*instrumentation",
+          "Rats"
+     ],
+     "EDAT": "1989/01/01 00:00",
+     "MHDA": "1989/01/01 00:01",
+     "CRDT": [
+          "1989/01/01 00:00"
+     ],
+     "PHST": [
+          "1989/01/01 00:00 [pubmed]",
+          "1989/01/01 00:01 [medline]",
+          "1989/01/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 1989 Jan;26(3):239-47.",
+     "term": "hippocampus"
+}

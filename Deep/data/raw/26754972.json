@@ -1,0 +1,85 @@
+{
+     "PMID": "26754972",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20171021",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "40",
+     "IP": "2",
+     "DP": "2016 Apr",
+     "TI": "Sensory feedback in a bump attractor model of path integration.",
+     "PG": "137-55",
+     "LID": "10.1007/s10827-015-0588-y [doi]",
+     "AB": "Mammalian spatial navigation systems utilize several different sensory information channels. This information is converted into a neural code that represents the animal's current position in space by engaging place cell, grid cell, and head direction cell networks. In particular, sensory landmark (allothetic) cues can be utilized in concert with an animal's knowledge of its own velocity (idiothetic) cues to generate a more accurate representation of position than path integration provides on its own (Battaglia et al. The Journal of Neuroscience 24(19):4541-4550 (2004)). We develop a computational model that merges path integration with feedback from external sensory cues that provide a reliable representation of spatial position along an annular track. Starting with a continuous bump attractor model, we explore the impact of synaptic spatial asymmetry and heterogeneity, which disrupt the position code of the path integration process. We use asymptotic analysis to reduce the bump attractor model to a single scalar equation whose potential represents the impact of asymmetry and heterogeneity. Such imperfections cause errors to build up when the network performs path integration, but these errors can be corrected by an external control signal representing the effects of sensory cues. We demonstrate that there is an optimal strength and decay rate of the control signal when cues appear either periodically or randomly. A similar analysis is performed when errors in path integration arise from dynamic noise fluctuations. Again, there is an optimal strength and decay of discrete control that minimizes the path integration error.",
+     "FAU": [
+          "Poll, Daniel B",
+          "Nguyen, Khanh",
+          "Kilpatrick, Zachary P"
+     ],
+     "AU": [
+          "Poll DB",
+          "Nguyen K",
+          "Kilpatrick ZP"
+     ],
+     "AD": "Department of Mathematics, University of Houston, Houston, TX, 77204, USA. dbpoll@math.uh.edu. Department of Mathematics, University of Houston, Houston, TX, 77204, USA. kpnguyen@math.uh.edu. Department of Mathematics, University of Houston, Houston, TX, 77204, USA. zpkilpat@math.uh.edu.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-2835-9416"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20160111",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Cues",
+          "Feedback, Sensory/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "*Nonlinear Dynamics",
+          "Place Cells/*physiology",
+          "Space Perception/*physiology",
+          "Stochastic Processes"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Neural field",
+          "Sensory feedback",
+          "Spatial navigation",
+          "Stochastic differential equation"
+     ],
+     "EDAT": "2016/01/13 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2016/01/13 06:00"
+     ],
+     "PHST": [
+          "2015/07/15 00:00 [received]",
+          "2015/12/22 00:00 [accepted]",
+          "2015/12/14 00:00 [revised]",
+          "2016/01/13 06:00 [entrez]",
+          "2016/01/13 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10827-015-0588-y [doi]",
+          "10.1007/s10827-015-0588-y [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2016 Apr;40(2):137-55. doi: 10.1007/s10827-015-0588-y. Epub 2016 Jan 11.",
+     "term": "place cells"
+}

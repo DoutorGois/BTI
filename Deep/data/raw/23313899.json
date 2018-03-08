@@ -1,0 +1,92 @@
+{
+     "PMID": "23313899",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130408",
+     "LR": "20170220",
+     "IS": "1090-2430 (Electronic) 0014-4886 (Linking)",
+     "VI": "241",
+     "DP": "2013 Mar",
+     "TI": "Adaptive control of epileptiform excitability in an in vitro model of limbic seizures.",
+     "PG": "179-83",
+     "LID": "10.1016/j.expneurol.2013.01.002 [doi] S0014-4886(13)00015-0 [pii]",
+     "AB": "Deep brain stimulation (DBS) is a promising tool for treating drug-resistant epileptic patients. Currently, the most common approach is fixed-frequency stimulation (periodic pacing) by means of stimulating devices that operate under open-loop control. However, a drawback of this DBS strategy is the impossibility of tailoring a personalized treatment, which also limits the optimization of the stimulating apparatus. Here, we propose a novel DBS methodology based on a closed-loop control strategy, developed by exploiting statistical machine learning techniques, in which stimulation parameters are adapted to the current neural activity thus allowing for seizure suppression that is fine-tuned on the individual scale (adaptive stimulation). By means of field potential recording from adult rat hippocampus-entorhinal cortex (EC) slices treated with the convulsant drug 4-aminopyridine we determined the effectiveness of this approach compared to low-frequency periodic pacing, and found that the closed-loop stimulation strategy: (i) has similar efficacy as low-frequency periodic pacing in suppressing ictal-like events but (ii) is more efficient than periodic pacing in that it requires less electrical pulses. We also provide evidence that the closed-loop stimulation strategy can alternatively be employed to tune the frequency of a periodic pacing strategy. Our findings indicate that the adaptive stimulation strategy may represent a novel, promising approach to DBS for individually-tailored epilepsy treatment.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Panuccio, Gabriella",
+          "Guez, Arthur",
+          "Vincent, Robert",
+          "Avoli, Massimo",
+          "Pineau, Joelle"
+     ],
+     "AU": [
+          "Panuccio G",
+          "Guez A",
+          "Vincent R",
+          "Avoli M",
+          "Pineau J"
+     ],
+     "AD": "Montreal Neurological Institute, Department of Neurology & Neurosurgery, McGill University, 3801 University Street, Montreal, QC, Canada H3A 2B4.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "8109-6/Canadian Institutes of Health Research/Canada",
+          "MOP 8109/Canadian Institutes of Health Research/Canada",
+          "R21 DA019800/DA/NIDA NIH HHS/United States",
+          "97907-1/Canadian Institutes of Health Research/Canada",
+          "MOP 97907/Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130109",
+     "PL": "United States",
+     "TA": "Exp Neurol",
+     "JT": "Experimental neurology",
+     "JID": "0370712",
+     "SB": "IM",
+     "MH": [
+          "Adaptation, Physiological/*physiology",
+          "Animals",
+          "Biophysics",
+          "Electric Stimulation/adverse effects",
+          "Evoked Potentials/*physiology",
+          "In Vitro Techniques",
+          "Limbic System/*physiology",
+          "Neural Pathways/physiology",
+          "Rats",
+          "Rats, Sprague-Dawley"
+     ],
+     "PMC": "PMC4891193",
+     "MID": [
+          "CAMS5653"
+     ],
+     "OID": [
+          "NLM: CAMS5653"
+     ],
+     "EDAT": "2013/01/15 06:00",
+     "MHDA": "2013/04/09 06:00",
+     "CRDT": [
+          "2013/01/15 06:00"
+     ],
+     "PHST": [
+          "2012/09/06 00:00 [received]",
+          "2012/12/17 00:00 [revised]",
+          "2013/01/01 00:00 [accepted]",
+          "2013/01/15 06:00 [entrez]",
+          "2013/01/15 06:00 [pubmed]",
+          "2013/04/09 06:00 [medline]"
+     ],
+     "AID": [
+          "S0014-4886(13)00015-0 [pii]",
+          "10.1016/j.expneurol.2013.01.002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Exp Neurol. 2013 Mar;241:179-83. doi: 10.1016/j.expneurol.2013.01.002. Epub 2013 Jan 9.",
+     "term": "hippocampus"
+}

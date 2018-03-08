@@ -1,0 +1,84 @@
+{
+     "PMID": "29407456",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20180209",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "DP": "2018 Jan 31",
+     "TI": "A stereotaxic breed-averaged, symmetric T2w canine brain atlas including detailed morphological and volumetrical data sets.",
+     "LID": "S1053-8119(18)30066-1 [pii] 10.1016/j.neuroimage.2018.01.066 [doi]",
+     "AB": "Stereotaxic systems and automatic tissue segmentation routines enable neuronavigation as well as reproducible processing of neuroimage datasets. Such systems have been developed for humans, non-human-primates, sheep, and rodents, but not for dogs. Although dogs share important neurofunctional and -anatomical features with humans, and in spite of their importance in translational neuroscience, little is known about the variability of the canine brain morphology and, possibly related, function. Moreover, we lack templates, tissue probability maps (TPM), and stereotaxic brain labels for implementation in standard software utilities such as Statistical Parametric Mapping (SPM). Hence, objective and reproducible, image-based investigations are currently impeded in dogs. We have created a detailed stereotaxic reference frame for dogs including TPM and tissue labels, enabling inter-individual and cross-study neuroimage analysis. T2w datasets were acquired from 16 neurologically inconspicuous dogs of different breeds by 3T MRI. The datasets were averaged after initial preprocessing using linear and nonlinear registration algorithms as implemented in SPM8. TPM for gray (GM) and white matter (WM) as well as cerebrospinal fluid (CSF) were created. Different cortical, subcortical, medullary, and CSF regions were manually labeled to create a spatial binary atlas being aligned with the template. A proof-of-concept for automatic determination of morphological and volumetrical characteristics was performed using additional canine datasets (n=64) including a subgroup of laboratory beagles (n=24). Overall, 21 brain regions were labeled using the segmented tissue classes of the brain template. The proof-of-concept trial revealed excellent suitability of the created tools for image processing and subsequent analysis. There was high intra-breed variability in frontal lobe and hippocampus volumes, and noticeable inter-breed corpus callosum volume variation. The T2w brain template provides important, breed-averaged canine brain anatomy features in a spatial standard coordinate system. TPM allows automatic tissue segmentation using SPM and enables unbiased automatic image processing or morphological characterization in different canine breeds. The reported volumetric and morphometric results may serve as a starting point for further research aimed at in vivo analysis of canine brain anatomy and function.",
+     "CI": [
+          "Copyright (c) 2018. Published by Elsevier Inc."
+     ],
+     "FAU": [
+          "Nitzsche, Bjorn",
+          "Boltze, Johannes",
+          "Ludewig, Eberhard",
+          "Flegel, Thomas",
+          "Schmidt, Martin J",
+          "Seeger, Johannes",
+          "Barthel, Henryk",
+          "Brooks, Olivia W",
+          "Gounis, Matthew J",
+          "Stoffel, Michael H",
+          "Schulze, Sabine"
+     ],
+     "AU": [
+          "Nitzsche B",
+          "Boltze J",
+          "Ludewig E",
+          "Flegel T",
+          "Schmidt MJ",
+          "Seeger J",
+          "Barthel H",
+          "Brooks OW",
+          "Gounis MJ",
+          "Stoffel MH",
+          "Schulze S"
+     ],
+     "AD": "Department for Nuclear Medicine, University Hospital of Leipzig, Leipzig, Germany; Institute of Anatomy, Histology and Embryology, Faculty of Veterinary Medicine, University of Leipzig, Leipzig, Germany. Electronic address: bjoern.nitzsche@medizin.uni-leipzig.de. Department of Translational Medicine and Cell Technology, Fraunhofer Research Institution for Marine Biotechnology and Cell Technology, Institute of Medical and Marine Biotechnology, University of Lubeck, Lubeck, Germany. Clinic Unit of Diagnostic Imaging, University of Veterinary Medicine Vienna, Austria. Department of Small Animals Medicine, Veterinary Faculty, University of Leipzig, Leipzig, Germany. Department of Veterinary Clinical Sciences, Clinic for Small Animals - Neurosurgery, Neuroradiology and Clinical Neurology, Faculty of Veterinary Medicine, Justus-Liebig-University Giessen, Giessen, Germany. Institute of Anatomy, Histology and Embryology, Faculty of Veterinary Medicine, University of Leipzig, Leipzig, Germany. Department for Nuclear Medicine, University Hospital of Leipzig, Leipzig, Germany. Department of Radiology, New England Center for Stroke Research, University of Massachusetts Medical School, Worcester, MA, USA. Department of Radiology, New England Center for Stroke Research, University of Massachusetts Medical School, Worcester, MA, USA. Division of Veterinary Anatomy, Vetsuisse Faculty, University of Bern, Bern, Switzerland. Department of Veterinary Clinical Sciences, Clinic for Small Animals - Neurosurgery, Neuroradiology and Clinical Neurology, Faculty of Veterinary Medicine, Justus-Liebig-University Giessen, Giessen, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20180131",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Atlas",
+          "Brain",
+          "Canine",
+          "Dog",
+          "MRI",
+          "Stereotaxy",
+          "Tissue segmentation"
+     ],
+     "EDAT": "2018/02/07 06:00",
+     "MHDA": "2018/02/07 06:00",
+     "CRDT": [
+          "2018/02/07 06:00"
+     ],
+     "PHST": [
+          "2017/09/29 00:00 [received]",
+          "2018/01/17 00:00 [revised]",
+          "2018/01/25 00:00 [accepted]",
+          "2018/02/07 06:00 [pubmed]",
+          "2018/02/07 06:00 [medline]",
+          "2018/02/07 06:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(18)30066-1 [pii]",
+          "10.1016/j.neuroimage.2018.01.066 [doi]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "Neuroimage. 2018 Jan 31. pii: S1053-8119(18)30066-1. doi: 10.1016/j.neuroimage.2018.01.066.",
+     "term": "hippocampus"
+}

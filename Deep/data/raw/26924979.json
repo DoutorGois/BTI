@@ -1,0 +1,65 @@
+{
+     "PMID": "26924979",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20160229",
+     "LR": "20170220",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "10",
+     "DP": "2016",
+     "TI": "Hebbian Plasticity Realigns Grid Cell Activity with External Sensory Cues in Continuous Attractor Models.",
+     "PG": "13",
+     "LID": "10.3389/fncom.2016.00013 [doi]",
+     "AB": "After the discovery of grid cells, which are an essential component to understand how the mammalian brain encodes spatial information, three main classes of computational models were proposed in order to explain their working principles. Amongst them, the one based on continuous attractor networks (CAN), is promising in terms of biological plausibility and suitable for robotic applications. However, in its current formulation, it is unable to reproduce important electrophysiological findings and cannot be used to perform path integration for long periods of time. In fact, in absence of an appropriate resetting mechanism, the accumulation of errors over time due to the noise intrinsic in velocity estimation and neural computation prevents CAN models to reproduce stable spatial grid patterns. In this paper, we propose an extension of the CAN model using Hebbian plasticity to anchor grid cell activity to environmental landmarks. To validate our approach we used as input to the neural simulations both artificial data and real data recorded from a robotic setup. The additional neural mechanism can not only anchor grid patterns to external sensory cues but also recall grid patterns generated in previously explored environments. These results might be instrumental for next generation bio-inspired robotic navigation algorithms that take advantage of neural computation in order to cope with complex and dynamic environments.",
+     "FAU": [
+          "Mulas, Marcello",
+          "Waniek, Nicolai",
+          "Conradt, Jorg"
+     ],
+     "AU": [
+          "Mulas M",
+          "Waniek N",
+          "Conradt J"
+     ],
+     "AD": "Neuroscientific System Theory Group, Department of Electric and Computer Engineering, Technische Universitat Munchen Munich, Germany. Neuroscientific System Theory Group, Department of Electric and Computer Engineering, Technische Universitat Munchen Munich, Germany. Neuroscientific System Theory Group, Department of Electric and Computer Engineering, Technische Universitat Munchen Munich, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160217",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC4756165",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "continuous attractor network",
+          "grid cells",
+          "grid realignment",
+          "sensory integration",
+          "spatial information processing"
+     ],
+     "EDAT": "2016/03/01 06:00",
+     "MHDA": "2016/03/01 06:01",
+     "CRDT": [
+          "2016/03/01 06:00"
+     ],
+     "PHST": [
+          "2015/10/30 00:00 [received]",
+          "2016/02/01 00:00 [accepted]",
+          "2016/03/01 06:00 [entrez]",
+          "2016/03/01 06:00 [pubmed]",
+          "2016/03/01 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2016.00013 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2016 Feb 17;10:13. doi: 10.3389/fncom.2016.00013. eCollection 2016.",
+     "term": "grid cells"
+}

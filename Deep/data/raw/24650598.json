@@ -1,0 +1,101 @@
+{
+     "PMID": "24650598",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150206",
+     "LR": "20170827",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "94",
+     "DP": "2014 Jul 1",
+     "TI": "Optimized temporally deconvolved Ca(2)(+) imaging allows identification of spatiotemporal activity patterns of CA1 hippocampal ensembles.",
+     "PG": "239-249",
+     "LID": "S1053-8119(14)00177-3 [pii] 10.1016/j.neuroimage.2014.03.030 [doi]",
+     "AB": "Hippocampal activity is characterized by the coordinated firing of a subset of neurons. Such neuronal ensembles can either be driven by external stimuli to form new memory traces or be reactivated by intrinsic mechanisms to reactivate and consolidate old memories. Hippocampal network oscillations orchestrate this coherent activity. One key question is how the topology, i.e. the functional connectivity of neuronal networks supports their desired function. Recently, this has been addressed by characterizing the intrinsic properties for the highly recurrently connected CA3 region using organotypic slice cultures and Ca(2+) imaging. In the present study, we aimed to determine the properties of CA1 hippocampal ensembles at high temporal and multiple single cell resolution. Thus, we performed Ca(2+) imaging using the chemical fluorescent Ca(2+) indicator Oregon Green BAPTA 1-AM. To achieve most physiological conditions, we used acute hippocampal slices that were recorded in a so-called interface chamber. To faithfully reconstruct firing patterns of multiple neurons in the field of view, we optimized deconvolution-based detection of action potential associated Ca(2+) events. Our approach outperformed currently available detection algorithms by its sensitivity and robustness. In combination with advanced network analysis, we found that acute hippocampal slices contain a median of 11 CA1 neuronal ensembles with a median size of 4 neurons. This apparently low number of neurons is likely due to the confocal imaging acquisition and therefore yields a lower limit. The distribution of ensemble sizes was compatible with a scale-free topology, as far as can be judged from data with small cell numbers. Interestingly, cells were more tightly clustered in large ensembles than in smaller groups. Together, our data show that spatiotemporal activity patterns of hippocampal neuronal ensembles can be reliably detected with deconvolution-based imaging techniques in mouse hippocampal slices. The here presented techniques are fully applicable to similar studies of distributed optical measurements of neuronal activity (in vivo), where signal-to-noise ratio is critical.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Pfeiffer, Thomas",
+          "Draguhn, Andreas",
+          "Reichinnek, Susanne",
+          "Both, Martin"
+     ],
+     "AU": [
+          "Pfeiffer T",
+          "Draguhn A",
+          "Reichinnek S",
+          "Both M"
+     ],
+     "AD": "Universitat Heidelberg, Institut fur Physiologie und Pathophysiologie, Germany. Universitat Heidelberg, Institut fur Physiologie und Pathophysiologie, Germany. Universitat Heidelberg, Institut fur Physiologie und Pathophysiologie, Germany. Universitat Heidelberg, Institut fur Physiologie und Pathophysiologie, Germany. Electronic address: mboth@physiologie.uni-heidelberg.de.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140317",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "0 (Aniline Compounds)",
+          "0 (Fluoresceins)",
+          "0 (Oregon green 488 BAPTA-1)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Aniline Compounds/pharmacokinetics",
+          "Animals",
+          "Biological Clocks/physiology",
+          "Brain Mapping/methods",
+          "Calcium/*metabolism",
+          "Calcium Signaling/*physiology",
+          "Cells, Cultured",
+          "Fluoresceins/pharmacokinetics",
+          "Hippocampus/*physiology",
+          "Image Enhancement/methods",
+          "Male",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Microscopy, Fluorescence/methods",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Spatio-Temporal Analysis",
+          "Voltage-Sensitive Dye Imaging/*methods"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Ca(2+) imaging",
+          "Hippocampal ensembles",
+          "Neuronal network topology",
+          "Optimized reconstruction of neuronal firing behavior"
+     ],
+     "EDAT": "2014/03/22 06:00",
+     "MHDA": "2015/02/07 06:00",
+     "CRDT": [
+          "2014/03/22 06:00"
+     ],
+     "PHST": [
+          "2013/10/01 00:00 [received]",
+          "2014/02/07 00:00 [revised]",
+          "2014/03/10 00:00 [accepted]",
+          "2014/03/22 06:00 [entrez]",
+          "2014/03/22 06:00 [pubmed]",
+          "2015/02/07 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(14)00177-3 [pii]",
+          "10.1016/j.neuroimage.2014.03.030 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2014 Jul 1;94:239-249. doi: 10.1016/j.neuroimage.2014.03.030. Epub 2014 Mar 17.",
+     "term": "hippocampus"
+}

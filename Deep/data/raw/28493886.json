@@ -1,0 +1,82 @@
+{
+     "PMID": "28493886",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170911",
+     "LR": "20170911",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "12",
+     "IP": "5",
+     "DP": "2017",
+     "TI": "Narrow microtunnel technology for the isolation and precise identification of axonal communication among distinct hippocampal subregion networks.",
+     "PG": "e0176868",
+     "LID": "10.1371/journal.pone.0176868 [doi]",
+     "AB": "Communication between different sub regions of the hippocampus is fundamental to learning and memory. However accurate knowledge about information transfer between sub regions from access to the activity in individual axons is lacking. MEMS devices with microtunnels connecting two sub networks have begun to approach this problem but the commonly used 10 mum wide tunnels frequently measure signals from multiple axons. To reduce this complexity, we compared polydimethylsiloxane (PDMS) microtunnel devices each with a separate tunnel width of 2.5, 5 or 10 mum bridging two wells aligned over a multi electrode array (MEA). Primary rat neurons were grown in the chambers with neurons from the dentate gyrus on one side and hippocampal CA3 on the other. After 2-3 weeks of culture, spontaneous activity in the axons inside the tunnels was recorded. We report electrophysiological, exploratory data analysis for feature clustering and visual evidence to support the expectation that 2.5 mum wide tunnels have fewer axons per tunnel and therefore more clearly delineated signals than 10 or 5 mum wide tunnels. Several measures indicated that fewer axons per electrode enabled more accurate detection of spikes. A clustering analysis comparing the variations of spike height and width for different tunnel widths revealed tighter clusters representing unique spikes with less height and width variation when measured in narrow tunnels. Wider tunnels tended toward more diffuse clusters from a continuum of spike heights and widths. Standard deviations for multiple cluster measures, such as Average Dissimilarity, Silhouette Value (S) and Separation Factor (average dissimilarity/S value), support a conclusion that 2.5 mum wide tunnels containing fewer axons enable more precise determination of individual action potential peaks, their propagation direction, timing, and information transfer between sub networks.",
+     "FAU": [
+          "Narula, Udit",
+          "Ruiz, Andres",
+          "McQuaide, McKinley",
+          "DeMarse, Thomas B",
+          "Wheeler, Bruce C",
+          "Brewer, Gregory J"
+     ],
+     "AU": [
+          "Narula U",
+          "Ruiz A",
+          "McQuaide M",
+          "DeMarse TB",
+          "Wheeler BC",
+          "Brewer GJ"
+     ],
+     "AD": "Biomedical Engineering, University of California Irvine, Irvine, California, United States of America. Biomedical Engineering, University of California Irvine, Irvine, California, United States of America. Biomedical Engineering, University of California Irvine, Irvine, California, United States of America. J. Crayton Pruitt Family Department of Biomedical Engineering, University of Florida, Gainesville, Florida, United States of America. Department of Pediatric Neurology, University of Florida, Gainesville, Florida, United States of America. J. Crayton Pruitt Family Department of Biomedical Engineering, University of Florida, Gainesville, Florida, United States of America. Department of Bioengineering, University of California San Diego, San Diego, California, United States of America. Biomedical Engineering, University of California Irvine, Irvine, California, United States of America. MIND Institute, University of California Irvine, Irvine, California, United States of America.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-8535-1832"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS052233/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170511",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Axons/*physiology",
+          "Hippocampus/*physiology",
+          "Micro-Electrical-Mechanical Systems/*methods",
+          "Microelectrodes",
+          "Microscopy, Confocal",
+          "Nerve Net/*physiology",
+          "Neural Conduction/physiology",
+          "Rats, Sprague-Dawley"
+     ],
+     "PMC": "PMC5426613",
+     "EDAT": "2017/05/12 06:00",
+     "MHDA": "2017/09/12 06:00",
+     "CRDT": [
+          "2017/05/12 06:00"
+     ],
+     "PHST": [
+          "2016/08/05 00:00 [received]",
+          "2017/04/18 00:00 [accepted]",
+          "2017/05/12 06:00 [entrez]",
+          "2017/05/12 06:00 [pubmed]",
+          "2017/09/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0176868 [doi]",
+          "PONE-D-16-31461 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2017 May 11;12(5):e0176868. doi: 10.1371/journal.pone.0176868. eCollection 2017.",
+     "term": "hippocampus"
+}

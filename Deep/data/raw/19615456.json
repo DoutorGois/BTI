@@ -1,0 +1,95 @@
+{
+     "PMID": "19615456",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20091209",
+     "LR": "20170220",
+     "IS": "1095-9564 (Electronic) 1074-7427 (Linking)",
+     "VI": "92",
+     "IP": "4",
+     "DP": "2009 Nov",
+     "TI": "A model of episodic memory: mental time travel along encoded trajectories using grid cells.",
+     "PG": "559-73",
+     "LID": "10.1016/j.nlm.2009.07.005 [doi]",
+     "AB": "The definition of episodic memory includes the concept of mental time travel: the ability to re-experience a previously experienced trajectory through continuous dimensions of space and time, and to recall specific events or stimuli along this trajectory. Lesions of the hippocampus and entorhinal cortex impair human episodic memory function and impair rat performance in tasks that could be solved by retrieval of trajectories. Recent physiological data suggests a novel model for encoding and retrieval of trajectories, and for associating specific stimuli with specific positions along the trajectory. During encoding in the model, external input drives the activity of head direction cells. Entorhinal grid cells integrate the head direction input to update an internal representation of location, and drive hippocampal place cells. Trajectories are encoded by Hebbian modification of excitatory synaptic connections between hippocampal place cells and head direction cells driven by external action. Associations are also formed between hippocampal cells and sensory stimuli. During retrieval, a sensory input cue activates hippocampal cells that drive head direction activity via previously modified synapses. Persistent spiking of head direction cells maintains the direction and speed of the action, updating the activity of entorhinal grid cells that thereby further update place cell activity. Additional cells, termed arc length cells, provide coding of trajectory segments based on the one-dimensional arc length from the context of prior actions or states, overcoming ambiguity where the overlap of trajectory segments causes multiple head directions to be associated with one place. These mechanisms allow retrieval of complex, self-crossing trajectories as continuous curves through space and time.",
+     "FAU": [
+          "Hasselmo, Michael E"
+     ],
+     "AU": [
+          "Hasselmo ME"
+     ],
+     "AD": "Center for Memory and Brain, Department of Psychology and Program in Neuroscience, Boston University, 2 Cummington St., Boston, MA 02215, United States. hasselmo@bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 MH071702-039002/MH/NIMH NIH HHS/United States",
+          "P50 MH071702-030004/MH/NIMH NIH HHS/United States",
+          "R01 MH060013-09/MH/NIMH NIH HHS/United States",
+          "R01 MH061492-08/MH/NIMH NIH HHS/United States",
+          "R01 MH061492-06A2/MH/NIMH NIH HHS/United States",
+          "NIMH R01 60013/PHS HHS/United States",
+          "MH71702,/MH/NIMH NIH HHS/United States",
+          "R01 MH061492-09/MH/NIMH NIH HHS/United States",
+          "P50 MH071702-020004/MH/NIMH NIH HHS/United States",
+          "R01 MH61492/MH/NIMH NIH HHS/United States",
+          "R01 MH060013/MH/NIMH NIH HHS/United States",
+          "R01 MH060013-10/MH/NIMH NIH HHS/United States",
+          "P50 MH071702/MH/NIMH NIH HHS/United States",
+          "R01 MH061492-07/MH/NIMH NIH HHS/United States",
+          "R01 MH061492/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20090715",
+     "PL": "United States",
+     "TA": "Neurobiol Learn Mem",
+     "JT": "Neurobiology of learning and memory",
+     "JID": "9508166",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Entorhinal Cortex/*physiology",
+          "Evoked Potentials/physiology",
+          "Humans",
+          "Imagination/*physiology",
+          "Membrane Potentials/physiology",
+          "Mental Recall/*physiology",
+          "Models, Neurological",
+          "Motion Perception/physiology",
+          "*Neural Networks (Computer)",
+          "Neurons/physiology",
+          "Orientation/*physiology",
+          "Rats",
+          "Space Perception/physiology",
+          "Time Perception/physiology"
+     ],
+     "PMC": "PMC2825051",
+     "MID": [
+          "NIHMS139071"
+     ],
+     "EDAT": "2009/07/21 09:00",
+     "MHDA": "2009/12/16 06:00",
+     "CRDT": [
+          "2009/07/21 09:00"
+     ],
+     "PHST": [
+          "2009/02/13 00:00 [received]",
+          "2009/06/20 00:00 [revised]",
+          "2009/07/12 00:00 [accepted]",
+          "2009/07/21 09:00 [entrez]",
+          "2009/07/21 09:00 [pubmed]",
+          "2009/12/16 06:00 [medline]"
+     ],
+     "AID": [
+          "S1074-7427(09)00142-7 [pii]",
+          "10.1016/j.nlm.2009.07.005 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neurobiol Learn Mem. 2009 Nov;92(4):559-73. doi: 10.1016/j.nlm.2009.07.005. Epub 2009 Jul 15.",
+     "term": "place cells"
+}

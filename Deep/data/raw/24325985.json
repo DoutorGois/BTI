@@ -1,0 +1,118 @@
+{
+     "PMID": "24325985",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140909",
+     "LR": "20140114",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "223",
+     "DP": "2014 Feb 15",
+     "TI": "Automated analysis of intracellular calcium fluorescence in rat organotypic hippocampal cultures: comparison to a manual, observer based method.",
+     "PG": "20-9",
+     "LID": "10.1016/j.jneumeth.2013.11.021 [doi] S0165-0270(13)00410-X [pii]",
+     "AB": "The technical advances made in microscopy have been matched by an increase in the application of fluorescent microscopy to answer scientific questions. While analysis of fluorescent microscopy images represents a powerful tool, one must be aware of the potential pitfalls. Frequently, the analysis methods applied involve at least some manual steps which are dependent on an observers input. Typically these steps are laborious and time consuming, but more importantly they are also influenced by an individual observer's bias, drift or imprecision. This raises concerns about the repeatability and definitiveness of the reported observations. Using calcium fluorescence in organotypic hippocampal slices as an experimental platform, we demonstrate the influence that manual interventions can exert on an analysis. We show that there is a high degree of variability between observers, and that this can be sufficient to affect the outcome of an experiment. To counter this, and to eliminate the disagreement between observers, we describe an alternative fully automated method which was created using EBImage package for R. This method has the added advantage of being fully open source and customisable, allowing for this approach to be applied to other analyses.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Watters, Orla",
+          "Pickering, Mark",
+          "Murphy, Robert",
+          "Murphy, Keith J",
+          "O'Connor, John J"
+     ],
+     "AU": [
+          "Watters O",
+          "Pickering M",
+          "Murphy R",
+          "Murphy KJ",
+          "O'Connor JJ"
+     ],
+     "AD": "UCD School of Biomolecular and Biomedical Science, UCD Conway Institute of Biomolecular and Biomedical Research, University College Dublin, Belfield, Dublin 4, Ireland. UCD School of Medicine and Medical Science, University College Dublin, Belfield, Dublin 4, Ireland. Applied Neurotherapeutics Research Group, UCD School of Biomolecular and Biomedical Science, Conway Institute of Biomolecular and Biomedical Research, University College Dublin, Belfield, Dublin 4, Ireland. Applied Neurotherapeutics Research Group, UCD School of Biomolecular and Biomedical Science, Conway Institute of Biomolecular and Biomedical Research, University College Dublin, Belfield, Dublin 4, Ireland. UCD School of Biomolecular and Biomedical Science, UCD Conway Institute of Biomolecular and Biomedical Research, University College Dublin, Belfield, Dublin 4, Ireland. Electronic address: john.oconnor@ucd.ie.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20131208",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Fluorescent Dyes)",
+          "3KX376GY7L (Glutamic Acid)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Animals, Newborn",
+          "Automatic Data Processing/*methods",
+          "Calcium/*metabolism",
+          "Female",
+          "Fluorescent Dyes/metabolism",
+          "Glutamic Acid/pharmacology",
+          "Hippocampus/cytology/drug effects/*physiology",
+          "Intracellular Fluid/*metabolism",
+          "Male",
+          "Neurons/drug effects/metabolism",
+          "Optical Imaging",
+          "*Organ Culture Techniques",
+          "Rats",
+          "Time Factors"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Automated analysis",
+          "BSS",
+          "Balanced Salt Solution",
+          "Buffered Salt Solution",
+          "CT",
+          "Calcium imaging",
+          "EBSS",
+          "Earles Balanced Salt Solution",
+          "GUI",
+          "Glutamate",
+          "Hippocampus",
+          "MEM",
+          "Minimum Essential Medium",
+          "Organotypic cultures",
+          "PET",
+          "ROIs",
+          "SEM",
+          "TNF-alpha",
+          "Tumor necrosis factor alpha",
+          "Tumor necrosis factor-alpha",
+          "computerised tomography",
+          "graphical user interface",
+          "positron emission tomography",
+          "regions of interest",
+          "standard error of the mean"
+     ],
+     "EDAT": "2013/12/12 06:00",
+     "MHDA": "2014/09/10 06:00",
+     "CRDT": [
+          "2013/12/12 06:00"
+     ],
+     "PHST": [
+          "2013/05/17 00:00 [received]",
+          "2013/11/08 00:00 [revised]",
+          "2013/11/22 00:00 [accepted]",
+          "2013/12/12 06:00 [entrez]",
+          "2013/12/12 06:00 [pubmed]",
+          "2014/09/10 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(13)00410-X [pii]",
+          "10.1016/j.jneumeth.2013.11.021 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2014 Feb 15;223:20-9. doi: 10.1016/j.jneumeth.2013.11.021. Epub 2013 Dec 8.",
+     "term": "hippocampus"
+}

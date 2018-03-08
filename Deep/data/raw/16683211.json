@@ -1,0 +1,84 @@
+{
+     "PMID": "16683211",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060727",
+     "LR": "20171021",
+     "IS": "0929-5313 (Print) 0929-5313 (Linking)",
+     "VI": "20",
+     "IP": "3",
+     "DP": "2006 Jun",
+     "TI": "Fitting experimental data to models that use morphological data from public databases.",
+     "PG": "349-65",
+     "AB": "Ideally detailed neuron models should make use of morphological and electrophysiological data from the same cell. However, this rarely happens. Typically a modeler will choose a cell morphology from a public database, assign standard values for Ra, Cm, and other parameters and then do the modeling study. The assumption is that the model will produce results representative of what might be obtained experimentally. To test this assumption we developed models of CA1 hippocampal pyramidal neurons using 4 different morphologies obtained from 3 public databases. The multiple run fitter in NEURON was used to fit parameter values in each of the 4 morphological models to match experimental data recorded from 19 CA1 pyramidal cells. Fits with fixed standard parameter values produced results that were generally not representative of our experimental data. However, when parameter values were allowed to vary, excellent fits were obtained in almost all cases, but the fitted parameter values were very different among the 4 reconstructions and did not match standard values. The differences in fitted values can be explained by very different diameters, total lengths, membrane areas and volumes among the reconstructed cells, reflecting either cell heterogeneity or issues with the reconstruction data. The fitted values compensated for these differences to make the database cells and experimental cells more similar electrotonically. We conclude that models using fully reconstructed morphologies need to be calibrated with experimental data (even when morphological and electrophysiological data come from the same cell), model results should be generated with multiple reconstructions, morphological and experimental cells should come from the same strain of animal at the same age, and blind use of standard parameter values in models that use reconstruction data may not produce representative experimental results.",
+     "FAU": [
+          "Holmes, W R",
+          "Ambros-Ingerson, J",
+          "Grover, L M"
+     ],
+     "AU": [
+          "Holmes WR",
+          "Ambros-Ingerson J",
+          "Grover LM"
+     ],
+     "AD": "Neuroscience Program, Department of Biological Sciences, Ohio University, Athens, OH 45701, USA. holmes@ohio.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AA014294-03/AA/NIAAA NIH HHS/United States",
+          "AA014294/AA/NIAAA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20060422",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Cell Polarity/physiology",
+          "Cell Shape/physiology",
+          "*Databases as Topic",
+          "Dendritic Spines/physiology/ultrastructure",
+          "Hippocampus/cytology/*physiology",
+          "Image Cytometry/methods",
+          "*Models, Neurological",
+          "Nerve Net/cytology/physiology",
+          "Neural Networks (Computer)",
+          "Neural Pathways/cytology/physiology",
+          "Organ Culture Techniques",
+          "Presynaptic Terminals/physiology/ultrastructure",
+          "Public Sector",
+          "Pyramidal Cells/cytology/*physiology",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Reaction Time/physiology",
+          "Reference Values",
+          "Synaptic Transmission/*physiology"
+     ],
+     "EDAT": "2006/05/10 09:00",
+     "MHDA": "2006/07/28 09:00",
+     "CRDT": [
+          "2006/05/10 09:00"
+     ],
+     "PHST": [
+          "2005/05/20 00:00 [received]",
+          "2006/01/04 00:00 [accepted]",
+          "2005/12/20 00:00 [revised]",
+          "2006/05/10 09:00 [pubmed]",
+          "2006/07/28 09:00 [medline]",
+          "2006/05/10 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s10827-006-7189-8 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2006 Jun;20(3):349-65. doi: 10.1007/s10827-006-7189-8. Epub 2006 Apr 22.",
+     "term": "hippocampus"
+}

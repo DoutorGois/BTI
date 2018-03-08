@@ -1,0 +1,76 @@
+{
+     "PMID": "23366004",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130906",
+     "LR": "20151119",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2012",
+     "DP": "2012",
+     "TI": "Wireless hippocampal neural recording via a multiple input RF receiver to construct place-specific firing fields.",
+     "PG": "763-6",
+     "LID": "10.1109/EMBC.2012.6346043 [doi]",
+     "AB": "This paper reports scientifically meaningful in vivo experiments using a 32-channel wireless neural recording system (WINeR). The WINeR system is divided into transmitter (Tx) and receiver (Rx) parts. On the Tx side, we had WINeR-6, a system-on-a-chip (SoC) that operated based on time division multiplexing (TDM) of pulse width modulated (PWM) samples. The chip was fabricated in a 0.5-microm CMOS process, occupying 4.9 x 3.3 mm(2) and consuming 15 mW from +/-1.5V supplies. The Rx used two antennas with separate pathways to down-convert the RF signal from a large area. A time-to-digital converter (TDC) in an FPGA converted the PWM pulses into digitized samples. In order to further increase the wireless coverage area and eliminate blind spots within a large experimental arena, two receivers were synchronized. The WINeR system was used to record epileptic activities from a rat that was injected with tetanus toxin (TT) in the dorsal hippocampus. In a different in vivo experiment, place-specific firing fields of place cells, which are parts of the hippocampal-dependent memory, were mapped from a series of behavioral experiments from a rat running in a circular track. Results from the same animal were compared against a commercial hard-wired recording system to evaluate the quality of the wireless recordings.",
+     "FAU": [
+          "Lee, Seung Bae",
+          "Manns, Joseph R",
+          "Ghovanloo, Maysam"
+     ],
+     "AU": [
+          "Lee SB",
+          "Manns JR",
+          "Ghovanloo M"
+     ],
+     "AD": "GT-Bionics lab, School of Electrical and Computer Engineering at the Georgia Institute of Technology, Atlanta, GA 30308, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "1R01NS062031-01A1/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "Behavior, Animal/physiology",
+          "*Electrodes, Implanted",
+          "Electrophysiological Phenomena",
+          "Equipment Design",
+          "Hippocampus/*physiology/*surgery",
+          "Male",
+          "Radio Waves",
+          "Rats",
+          "Rats, Long-Evans",
+          "Rats, Sprague-Dawley",
+          "Remote Sensing Technology/instrumentation",
+          "Seizures/diagnosis/physiopathology",
+          "Signal Processing, Computer-Assisted",
+          "Telemetry/instrumentation",
+          "Wireless Technology/*instrumentation"
+     ],
+     "EDAT": "2013/02/01 06:00",
+     "MHDA": "2013/09/07 06:00",
+     "CRDT": [
+          "2013/02/01 06:00"
+     ],
+     "PHST": [
+          "2013/02/01 06:00 [entrez]",
+          "2013/02/01 06:00 [pubmed]",
+          "2013/09/07 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2012.6346043 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2012;2012:763-6. doi: 10.1109/EMBC.2012.6346043.",
+     "term": "place cells"
+}

@@ -1,0 +1,77 @@
+{
+     "PMID": "21273309",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110929",
+     "LR": "20170220",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "105",
+     "IP": "4",
+     "DP": "2011 Apr",
+     "TI": "Network recruitment to coherent oscillations in a hippocampal computer model.",
+     "PG": "1464-81",
+     "LID": "10.1152/jn.00643.2010 [doi]",
+     "AB": "Coherent neural oscillations represent transient synchronization of local neuronal populations in both normal and pathological brain activity. These oscillations occur at or above gamma frequencies (>30 Hz) and often are propagated to neighboring tissue under circumstances that are both normal and abnormal, such as gamma binding or seizures. The mechanisms that generate and propagate these oscillations are poorly understood. In the present study we demonstrate, via a detailed computational model, a mechanism whereby physiological noise and coupling initiate oscillations and then recruit neighboring tissue, in a manner well described by a combination of stochastic resonance and coherence resonance. We develop a novel statistical method to quantify recruitment using several measures of network synchrony. This measurement demonstrates that oscillations spread via preexisting network connections such as interneuronal connections, recurrent synapses, and gap junctions, provided that neighboring cells also receive sufficient inputs in the form of random synaptic noise. \"Epileptic\" high-frequency oscillations (HFOs), produced by pathologies such as increased synaptic activity and recurrent connections, were superior at recruiting neighboring tissue. \"Normal\" HFOs, associated with fast firing of inhibitory cells and sparse pyramidal cell firing, tended to suppress surrounding cells and showed very limited ability to recruit. These findings point to synaptic noise and physiological coupling as important targets for understanding the generation and propagation of both normal and pathological HFOs, suggesting potential new diagnostic and therapeutic approaches to human disorders such as epilepsy.",
+     "FAU": [
+          "Stacey, William C",
+          "Krieger, Abba",
+          "Litt, Brian"
+     ],
+     "AU": [
+          "Stacey WC",
+          "Krieger A",
+          "Litt B"
+     ],
+     "AD": "University of Michigan, Department of Neurology, 1500 E. Medical Center Drive, SPC 5036, Ann Arbor, MI 48109-5036, USA. william.stacey@umich.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS048598/NS/NINDS NIH HHS/United States",
+          "R01 NS-048598-01/NS/NINDS NIH HHS/United States",
+          "K08 NS069783/NS/NINDS NIH HHS/United States",
+          "2R01 NS-041811-07/NS/NINDS NIH HHS/United States",
+          "R01 NS048598-04/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110127",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "*Computer Simulation",
+          "Electrical Synapses/physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Interneurons/physiology",
+          "*Models, Biological",
+          "Models, Neurological",
+          "Nerve Net/*physiology",
+          "Synapses/physiology",
+          "Synaptic Transmission/physiology"
+     ],
+     "PMC": "PMC3075292",
+     "EDAT": "2011/01/29 06:00",
+     "MHDA": "2011/10/01 06:00",
+     "CRDT": [
+          "2011/01/29 06:00"
+     ],
+     "PHST": [
+          "2011/01/29 06:00 [entrez]",
+          "2011/01/29 06:00 [pubmed]",
+          "2011/10/01 06:00 [medline]"
+     ],
+     "AID": [
+          "jn.00643.2010 [pii]",
+          "10.1152/jn.00643.2010 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2011 Apr;105(4):1464-81. doi: 10.1152/jn.00643.2010. Epub 2011 Jan 27.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,87 @@
+{
+     "PMID": "21641989",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120413",
+     "LR": "20151119",
+     "IS": "1879-3177 (Electronic) 0887-2333 (Linking)",
+     "VI": "25",
+     "IP": "8",
+     "DP": "2011 Dec",
+     "TI": "Rapid and accurate assessment of seizure liability of drugs by using an optimal support vector machine method.",
+     "PG": "1848-54",
+     "LID": "10.1016/j.tiv.2011.05.015 [doi]",
+     "AB": "Drug-induced seizures are a serious adverse effect and assessment of seizure risk usually takes place at the late stage of drug discovery process, which does not allow sufficient time to reduce the risk by chemical modification. Thus early identification of chemicals with seizure liability using rapid and cheaper approaches would be preferable. In this study, an optimal support vector machine (SVM) modeling method has been employed to develop a prediction model of seizure liability of chemicals. A set of 680 compounds were used to train the SVM model. The established SVM model was then validated by an independent test set comprising 175 compounds, which gave a prediction accuracy of 86.9%. Further, the SVM-based prediction model of seizure liability was compared with various preclinical seizure assays, including in vitro rat hippocampal brain slice, in vivo zebrafish larvae assay, mouse spontaneous seizure model, and mouse EEG model. In terms of predictability, the SVM model was ranked just behind the mouse EEG model, but better than the rat brain slice and zebrafish models. Nevertheless, the SVM model has considerable advantages compared with the preclinical seizure assays in speed and cost. In summary, the SVM-based prediction model of seizure liability established here offers potential as a cheaper, rapid and accurate assessment of seizure liability of drugs, which could be used in the seizure risk assessment at the early stage of drug discovery. The prediction model is freely available online at http://www.sklb.scu.edu.cn/lab/yangsy/download/ADMET/seizure_pred.tar.",
+     "CI": [
+          "Copyright (c) 2011. Published by Elsevier Ltd."
+     ],
+     "FAU": [
+          "Zhang, Hui",
+          "Li, Wei",
+          "Xie, Yang",
+          "Wang, Wen-Jing",
+          "Li, Lin-Li",
+          "Yang, Sheng-Yong"
+     ],
+     "AU": [
+          "Zhang H",
+          "Li W",
+          "Xie Y",
+          "Wang WJ",
+          "Li LL",
+          "Yang SY"
+     ],
+     "AD": "State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, West China Medical School, Sichuan University, Chengdu, Sichuan 610041, PR China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20110527",
+     "PL": "England",
+     "TA": "Toxicol In Vitro",
+     "JT": "Toxicology in vitro : an international journal published in association with BIBRA",
+     "JID": "8712158",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Disease Models, Animal",
+          "Drug Evaluation, Preclinical/*methods",
+          "*Drug-Related Side Effects and Adverse Reactions",
+          "Electroencephalography",
+          "Hippocampus/drug effects/physiology",
+          "Larva/drug effects/physiology",
+          "Locomotion/drug effects",
+          "Mice",
+          "*Models, Biological",
+          "Rats",
+          "Reproducibility of Results",
+          "Seizures/*chemically induced",
+          "*Support Vector Machine",
+          "Zebrafish"
+     ],
+     "EDAT": "2011/06/07 06:00",
+     "MHDA": "2012/04/14 06:00",
+     "CRDT": [
+          "2011/06/07 06:00"
+     ],
+     "PHST": [
+          "2010/10/28 00:00 [received]",
+          "2011/04/25 00:00 [revised]",
+          "2011/05/15 00:00 [accepted]",
+          "2011/06/07 06:00 [entrez]",
+          "2011/06/07 06:00 [pubmed]",
+          "2012/04/14 06:00 [medline]"
+     ],
+     "AID": [
+          "S0887-2333(11)00141-X [pii]",
+          "10.1016/j.tiv.2011.05.015 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Toxicol In Vitro. 2011 Dec;25(8):1848-54. doi: 10.1016/j.tiv.2011.05.015. Epub 2011 May 27.",
+     "term": "hippocampus"
+}

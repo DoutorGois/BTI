@@ -1,0 +1,76 @@
+{
+     "PMID": "22984947",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130628",
+     "LR": "20161019",
+     "IS": "1471-2105 (Electronic) 1471-2105 (Linking)",
+     "VI": "13",
+     "DP": "2012 Sep 17",
+     "TI": "Correlation analysis of the side-chains conformational distribution in bound and unbound proteins.",
+     "PG": "236",
+     "LID": "10.1186/1471-2105-13-236 [doi]",
+     "AB": "BACKGROUND: Protein interactions play a key role in life processes. Characterization of conformational properties of protein-protein interactions is important for understanding the mechanisms of protein association. The rapidly increasing amount of experimentally determined structures of proteins and protein-protein complexes provides foundation for research on protein interactions and complex formation. The knowledge of the conformations of the surface side chains is essential for modeling of protein complexes. The purpose of this study was to analyze and compare dihedral angle distribution functions of the side chains at the interface and non-interface areas in bound and unbound proteins. RESULTS: To calculate the dihedral angle distribution functions, the configuration space was divided into grid cells. Statistical analysis showed that the similarity between bound and unbound interface and non-interface surface depends on the amino acid type and the grid resolution. The correlation coefficients between the distribution functions increased with the grid spacing increase for all amino acid types. The Manhattan distance showing the degree of dissimilarity between the distribution functions decreased accordingly. Short residues with one or two dihedral angles had higher correlations and smaller Manhattan distances than the longer residues. Met and Arg had the slowest growth of the correlation coefficient with the grid spacing increase. The correlations between the interface and non-interface distribution functions had a similar dependence on the grid resolution in both bound and unbound states. The interface and non-interface differences between bound and unbound distribution functions, caused by biological protein-protein interactions or crystal contacts, disappeared at the 70 degrees grid spacing for interfaces and 30 degrees for non-interface surface, which agrees with an average span of the side-chain rotamers. CONCLUSIONS: The two-fold difference in the critical grid spacing indicates larger conformational changes upon binding at the interface than at the rest of the surface. At the same time, transitions between rotamers induced by interactions across the interface or the crystal packing are rare, with most side chains having local readjustments that do not change the rotameric state. The analysis is important for better understanding of protein interactions and development of flexible docking approaches.",
+     "FAU": [
+          "Kirys, Tatsiana",
+          "Ruvinsky, Anatoly M",
+          "Tuzikov, Alexander V",
+          "Vakser, Ilya A"
+     ],
+     "AU": [
+          "Kirys T",
+          "Ruvinsky AM",
+          "Tuzikov AV",
+          "Vakser IA"
+     ],
+     "AD": "Center for Bioinformatics, The University of Kansas, Lawrence, KS 66047, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01GM074255/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20120917",
+     "PL": "England",
+     "TA": "BMC Bioinformatics",
+     "JT": "BMC bioinformatics",
+     "JID": "100965194",
+     "RN": [
+          "0 (Amino Acids)",
+          "0 (Multiprotein Complexes)",
+          "0 (Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Amino Acids/*chemistry/metabolism",
+          "Models, Molecular",
+          "Multiprotein Complexes/*chemistry/metabolism",
+          "Protein Binding",
+          "*Protein Conformation",
+          "Proteins/chemistry/metabolism"
+     ],
+     "PMC": "PMC3479416",
+     "EDAT": "2012/09/19 06:00",
+     "MHDA": "2013/07/03 06:00",
+     "CRDT": [
+          "2012/09/19 06:00"
+     ],
+     "PHST": [
+          "2012/01/23 00:00 [received]",
+          "2012/09/11 00:00 [accepted]",
+          "2012/09/19 06:00 [entrez]",
+          "2012/09/19 06:00 [pubmed]",
+          "2013/07/03 06:00 [medline]"
+     ],
+     "AID": [
+          "1471-2105-13-236 [pii]",
+          "10.1186/1471-2105-13-236 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "BMC Bioinformatics. 2012 Sep 17;13:236. doi: 10.1186/1471-2105-13-236.",
+     "term": "grid cells"
+}

@@ -1,0 +1,90 @@
+{
+     "PMID": "21360205",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120813",
+     "LR": "20161019",
+     "IS": "1559-0089 (Electronic) 1539-2791 (Linking)",
+     "VI": "9",
+     "IP": "4",
+     "DP": "2011 Dec",
+     "TI": "Automated analysis of fundamental features of brain structures.",
+     "PG": "371-80",
+     "LID": "10.1007/s12021-011-9108-z [doi]",
+     "AB": "Automated image analysis of the brain should include measures of fundamental structural features such as size and shape. We used principal axes (P-A) measurements to measure overall size and shape of brain structures segmented from MR brain images. The rationale was that quantitative volumetric studies of brain structures would benefit from shape standardization as had been shown for whole brain studies. P-A analysis software was extended to include controls for variability in position and orientation to support individual structure spatial normalization (ISSN). The rationale was that ISSN would provide a bias-free means to remove elementary sources of a structure's spatial variability in preparation for more detailed analyses. We studied nine brain structures (whole brain, cerebral hemispheres, cerebellum, brainstem, caudate, putamen, hippocampus, inferior frontal gyrus, and precuneus) from the 40-brain LPBA40 atlas. This paper provides the first report of anatomical positions and principal axes orientations within a standard reference frame, in addition to \"shape/size related\" principal axes measures, for the nine brain structures from the LPBA40 atlas. Analysis showed that overall size (mean volume) for internal brain structures was preserved using shape standardization while variance was reduced by more than 50%. Shape standardization provides increased statistical power for between-group volumetric studies of brain structures compared to volumetric studies that control only for whole brain size. To test ISSN's ability to control for spatial variability of brain structures we evaluated the overlap of 40 regions of interest (ROIs) in a standard reference frame for the nine different brain structures before and after processing. Standardizations of orientation or shape were ineffective when not combined with position standardization. The greatest reduction in spatial variability was seen for combined standardizations of position, orientation and shape. These results show that ISSNs automated processing can be a valuable asset for measuring and controlling variability of fundamental features of brain structures.",
+     "FAU": [
+          "Lancaster, Jack L",
+          "McKay, D Reese",
+          "Cykowski, Matthew D",
+          "Martinez, Michael J",
+          "Tan, Xi",
+          "Valaparla, Sunil",
+          "Zhang, Yi",
+          "Fox, Peter T"
+     ],
+     "AU": [
+          "Lancaster JL",
+          "McKay DR",
+          "Cykowski MD",
+          "Martinez MJ",
+          "Tan X",
+          "Valaparla S",
+          "Zhang Y",
+          "Fox PT"
+     ],
+     "AD": "Research Imaging Institute, Biomedical Image Analysis Division, University of Texas Health Science Center at San Antonio, 8403 Floyd Curl Drive, San Antonio, TX 78229-3900, USA. jlancaster@uthscsa.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "F32-DC009116/DC/NIDCD NIH HHS/United States",
+          "K01 EB006395/EB/NIBIB NIH HHS/United States",
+          "F32 DC009116/DC/NIDCD NIH HHS/United States",
+          "P41 RR013642/RR/NCRR NIH HHS/United States",
+          "P20 MH/DA52176/DA/NIDA NIH HHS/United States",
+          "U54 RR021813/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Brain/*anatomy & histology",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods/standards",
+          "Imaging, Three-Dimensional/*methods/standards",
+          "Magnetic Resonance Imaging/*methods/standards",
+          "Male",
+          "Neuroanatomy/instrumentation/*methods",
+          "Pattern Recognition, Automated/*methods/standards",
+          "Young Adult"
+     ],
+     "PMC": "PMC3738178",
+     "MID": [
+          "NIHMS488859"
+     ],
+     "EDAT": "2011/03/02 06:00",
+     "MHDA": "2012/08/14 06:00",
+     "CRDT": [
+          "2011/03/02 06:00"
+     ],
+     "PHST": [
+          "2011/03/02 06:00 [entrez]",
+          "2011/03/02 06:00 [pubmed]",
+          "2012/08/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s12021-011-9108-z [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2011 Dec;9(4):371-80. doi: 10.1007/s12021-011-9108-z.",
+     "term": "hippocampus"
+}

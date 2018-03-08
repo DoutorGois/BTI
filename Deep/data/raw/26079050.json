@@ -1,0 +1,79 @@
+{
+     "PMID": "26079050",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20161230",
+     "IS": "1747-0927 (Electronic) 1747-0919 (Linking)",
+     "VI": "11",
+     "IP": "2",
+     "DP": "2016",
+     "TI": "Modeling the neurodynamic organizations and interactions of teams.",
+     "PG": "123-39",
+     "LID": "10.1080/17470919.2015.1056883 [doi]",
+     "AB": "Across-brain neurodynamic organizations arise when teams perform coordinated tasks. We describe a symbolic electroencephalographic (EEG) approach that identifies when team neurodynamic organizations occur and demonstrate its utility with scientific problem solving and submarine navigation tasks. Each second, neurodynamic symbols (NS) were created showing the 1-40 Hz EEG power spectral densities for each team member. These data streams contained a performance history of the team's across-brain neurodynamic organizations. The degree of neurodynamic organization was calculated each second from a moving window average of the Shannon entropy over the task. Decreased NS entropy (i.e., greater neurodynamic organization) was prominent in the ~16 Hz EEG bins during problem solving, while during submarine navigation, the maximum NS entropy decreases were ~10 Hz and were associated with establishing the ship's location. Decreased NS entropy also occurred in the 20-40 Hz bins of both teams and was associated with uncertainty or stress. The highest mutual information levels, calculated from the EEG values of team dyads, were associated with decreased NS entropy, suggesting a link between these two measures. These studies show entropy and mutual information mapping of symbolic EEG data streams from teams can be useful for identifying organized across-brain team activation patterns.",
+     "FAU": [
+          "Stevens, Ronald H",
+          "Galloway, Trysha L"
+     ],
+     "AU": [
+          "Stevens RH",
+          "Galloway TL"
+     ],
+     "AD": "a UCLA School of Medicine , Los Angeles , CA , USA. b The Learning Chameleon, Inc ., Los Angeles , CA , USA. b The Learning Chameleon, Inc ., Los Angeles , CA , USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20150616",
+     "PL": "England",
+     "TA": "Soc Neurosci",
+     "JT": "Social neuroscience",
+     "JID": "101279009",
+     "SB": "IM",
+     "MH": [
+          "Brain/*physiology",
+          "*Brain Mapping",
+          "Computer Simulation",
+          "*Cooperative Behavior",
+          "Electroencephalography",
+          "Entropy",
+          "Female",
+          "Humans",
+          "Male",
+          "Military Personnel",
+          "*Models, Neurological",
+          "*Nonlinear Dynamics",
+          "Signal Processing, Computer-Assisted",
+          "Spatial Navigation/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "EEG",
+          "Entropy",
+          "Mutual information teamwork",
+          "Synchrony",
+          "Team neurodynamics"
+     ],
+     "EDAT": "2015/06/17 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2015/06/17 06:00"
+     ],
+     "PHST": [
+          "2015/06/17 06:00 [entrez]",
+          "2015/06/17 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1080/17470919.2015.1056883 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Soc Neurosci. 2016;11(2):123-39. doi: 10.1080/17470919.2015.1056883. Epub 2015 Jun 16.",
+     "term": "spatial navigation"
+}

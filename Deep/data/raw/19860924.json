@@ -1,0 +1,80 @@
+{
+     "PMID": "19860924",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100111",
+     "LR": "20170220",
+     "IS": "1475-925X (Electronic) 1475-925X (Linking)",
+     "VI": "8",
+     "DP": "2009 Oct 28",
+     "TI": "Classification of BMI control commands from rat's neural signals using extreme learning machine.",
+     "PG": "29",
+     "LID": "10.1186/1475-925X-8-29 [doi]",
+     "AB": "A recently developed machine learning algorithm referred to as Extreme Learning Machine (ELM) was used to classify machine control commands out of time series of spike trains of ensembles of CA1 hippocampus neurons (n = 34) of a rat, which was performing a target-to-goal task on a two-dimensional space through a brain-machine interface system. Performance of ELM was analyzed in terms of training time and classification accuracy. The results showed that some processes such as class code prefix, redundancy code suffix and smoothing effect of the classifiers' outputs could improve the accuracy of classification of robot control commands for a brain-machine interface system.",
+     "FAU": [
+          "Lee, Youngbum",
+          "Lee, Hyunjoo",
+          "Kim, Jinkwon",
+          "Shin, Hyung-Cheul",
+          "Lee, Myoungho"
+     ],
+     "AU": [
+          "Lee Y",
+          "Lee H",
+          "Kim J",
+          "Shin HC",
+          "Lee M"
+     ],
+     "AD": "Department of Electrical & Electronic Engineering, Yonsei University, Seoul, Korea. youngtiger@yonsei.ac.kr",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20091028",
+     "PL": "England",
+     "TA": "Biomed Eng Online",
+     "JT": "Biomedical engineering online",
+     "JID": "101147518",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Artificial Intelligence",
+          "Brain/physiology",
+          "Electrodes",
+          "Female",
+          "Hippocampus/pathology",
+          "Male",
+          "Models, Neurological",
+          "Models, Statistical",
+          "Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Pattern Recognition, Automated/methods",
+          "Rats",
+          "Reproducibility of Results",
+          "Signal Processing, Computer-Assisted"
+     ],
+     "PMC": "PMC2777904",
+     "EDAT": "2009/10/29 06:00",
+     "MHDA": "2010/01/12 06:00",
+     "CRDT": [
+          "2009/10/29 06:00"
+     ],
+     "PHST": [
+          "2009/02/23 00:00 [received]",
+          "2009/10/28 00:00 [accepted]",
+          "2009/10/29 06:00 [entrez]",
+          "2009/10/29 06:00 [pubmed]",
+          "2010/01/12 06:00 [medline]"
+     ],
+     "AID": [
+          "1475-925X-8-29 [pii]",
+          "10.1186/1475-925X-8-29 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Biomed Eng Online. 2009 Oct 28;8:29. doi: 10.1186/1475-925X-8-29.",
+     "term": "hippocampus"
+}

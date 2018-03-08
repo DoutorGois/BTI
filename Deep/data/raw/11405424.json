@@ -1,0 +1,60 @@
+{
+     "PMID": "11405424",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20011101",
+     "LR": "20061115",
+     "IS": "0954-898X (Print) 0954-898X (Linking)",
+     "VI": "12",
+     "IP": "2",
+     "DP": "2001 May",
+     "TI": "A model of the interaction between mood and memory.",
+     "PG": "89-109",
+     "AB": "This paper investigates a neural network model of the interaction between mood and memory. The model has two attractor networks that represent the inferior temporal cortex (IT), which stores representations of visual stimuli, and the amygdala, the activity of which reflects the mood state. The two attractor networks are coupled by forward and backward projections. The model is however generic, and is relevant to understanding the interaction between different pairs of modules in the brain, particularly, as is the case with moods and memories, when there are fewer states represented in one module than in the other. During learning, a large number of patterns are presented to the IT, each paired with one of two mood states represented in the amygdala. The recurrent connections within each module, the forward connections from the memory module to the amygdala, and the backward connections from the amygdala to the memory module, are associatively modified. It is shown how the mood state in the amygdala can influence which memory patterns are recalled in the memory module. Further, it is shown that if there is an existing mood state in the amygdala, it can be difficult to change it even when a retrieval cue is presented to the memory module that is associated with a different mood state. It is also shown that the backprojections from the amygdala to the memory module must be relatively weak if memory retrieval in the memory module is not to be disrupted. The results are relevant to understanding the interaction between structures important in mood and emotion (such as the amygdala and orbitofrontal cortex) and other brain areas involved in storing objects and faces (such as the inferior temporal visual cortex) and memories (such as the hippocampus).",
+     "FAU": [
+          "Rolls, E T",
+          "Stringer, S M"
+     ],
+     "AU": [
+          "Rolls ET",
+          "Stringer SM"
+     ],
+     "AD": "Department of Experimental Psychology, Oxford University, UK. Edmund.Rolls@psy.ox.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "Network",
+     "JT": "Network (Bristol, England)",
+     "JID": "9431867",
+     "SB": "IM",
+     "MH": [
+          "Affect/*physiology",
+          "Amygdala/physiology",
+          "Computer Simulation",
+          "Cues",
+          "Memory/*physiology",
+          "*Neural Networks (Computer)",
+          "Neural Pathways/physiology",
+          "Neurons/physiology",
+          "Photic Stimulation",
+          "Temporal Lobe/physiology"
+     ],
+     "EDAT": "2001/06/19 10:00",
+     "MHDA": "2001/11/03 10:01",
+     "CRDT": [
+          "2001/06/19 10:00"
+     ],
+     "PHST": [
+          "2001/06/19 10:00 [pubmed]",
+          "2001/11/03 10:01 [medline]",
+          "2001/06/19 10:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Network. 2001 May;12(2):89-109.",
+     "term": "hippocampus"
+}

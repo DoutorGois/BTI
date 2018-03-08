@@ -1,0 +1,81 @@
+{
+     "PMID": "21068312",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101213",
+     "LR": "20170220",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "30",
+     "IP": "45",
+     "DP": "2010 Nov 10",
+     "TI": "Low-intensity electrical stimulation affects network dynamics by modulating population rate and spike timing.",
+     "PG": "15067-79",
+     "LID": "10.1523/JNEUROSCI.2059-10.2010 [doi]",
+     "AB": "Clinical effects of transcranial electrical stimulation with weak currents are remarkable considering the low amplitude of the electric fields acting on the brain. Elucidating the processes by which small currents affect ongoing brain activity is of paramount importance for the rational design of noninvasive electrotherapeutic strategies and to determine the relevance of endogenous fields. We propose that in active neuronal networks, weak electrical fields induce small but coherent changes in the firing rate and timing of neuronal populations that can be magnified by dynamic network activity. Specifically, we show that carbachol-induced gamma oscillations (25-35 Hz) in rat hippocampal slices have an inherent rate-limiting dynamic and timing precision that govern susceptibility to low-frequency weak electric fields (<50 Hz; <10 V/m). This leads to a range of nonlinear responses, including the following: (1) asymmetric power modulation by DC fields resulting from balanced excitation and inhibition; (2) symmetric power modulation by lower frequency AC fields with a net-zero change in firing rate; and (3) half-harmonic oscillations for higher frequency AC fields resulting from increased spike timing precision. These underlying mechanisms were elucidated by slice experiments and a parsimonious computational network model of single-compartment spiking neurons responding to electric field stimulation with small incremental polarization. Intracellular recordings confirmed model predictions on neuronal timing and rate changes, as well as spike phase-entrainment resonance at 0.2 V/m. Finally, our data and mechanistic framework provide a functional role for endogenous electric fields, specifically illustrating that modulation of gamma oscillations during theta-modulated gamma activity can result from field effects alone.",
+     "FAU": [
+          "Reato, Davide",
+          "Rahman, Asif",
+          "Bikson, Marom",
+          "Parra, Lucas C"
+     ],
+     "AU": [
+          "Reato D",
+          "Rahman A",
+          "Bikson M",
+          "Parra LC"
+     ],
+     "AD": "Department of Biomedical Engineering, The City College of the City University of New York, New York 10031, USA. davide.reato@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH092926/MH/NIMH NIH HHS/United States",
+          "41341-03/PHS HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "RN": [
+          "8Y164V895Y (Carbachol)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/drug effects/physiology",
+          "Animals",
+          "Biological Clocks/drug effects/*physiology",
+          "Carbachol/pharmacology",
+          "Electric Stimulation/methods",
+          "Electrophysiology",
+          "Hippocampus/drug effects/*physiology",
+          "Models, Neurological",
+          "Nerve Net/drug effects/*physiology",
+          "Neurons/drug effects/*physiology",
+          "Rats"
+     ],
+     "PMC": "PMC3500391",
+     "MID": [
+          "NIHMS251604"
+     ],
+     "EDAT": "2010/11/12 06:00",
+     "MHDA": "2010/12/14 06:00",
+     "CRDT": [
+          "2010/11/12 06:00"
+     ],
+     "PHST": [
+          "2010/11/12 06:00 [entrez]",
+          "2010/11/12 06:00 [pubmed]",
+          "2010/12/14 06:00 [medline]"
+     ],
+     "AID": [
+          "30/45/15067 [pii]",
+          "10.1523/JNEUROSCI.2059-10.2010 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2010 Nov 10;30(45):15067-79. doi: 10.1523/JNEUROSCI.2059-10.2010.",
+     "term": "hippocampus"
+}

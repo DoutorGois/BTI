@@ -1,0 +1,110 @@
+{
+     "PMID": "24262205",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140219",
+     "LR": "20161019",
+     "IS": "1090-2430 (Electronic) 0014-4886 (Linking)",
+     "VI": "251",
+     "DP": "2014 Jan",
+     "TI": "Mechanism of highly synchronized bilateral hippocampal activity.",
+     "PG": "101-11",
+     "LID": "10.1016/j.expneurol.2013.11.014 [doi] S0014-4886(13)00338-5 [pii]",
+     "AB": "In vivo studies of epileptiform discharges in the hippocampi of rodents have shown that bilateral seizure activity can sometimes be synchronized with very small delays (<2 ms). This observed small time delay of epileptiform activity between the left and right CA3 regions is unexpected given the physiological propagation time across the hemispheres (>6 ms). The goal of this study is to determine the mechanisms of this tight synchronization with in-vitro electrophysiology techniques and computer simulations. The hypothesis of a common source was first eliminated by using an in-vitro preparation containing both hippocampi with a functional ventral hippocampal commissure (VHC) and no other tissue. Next, the hypothesis that a noisy baseline could mask the underlying synchronous activity between the two hemispheres was ruled out by low noise in-vivo recordings and computer simulation of the noisy environment. Then we built a novel bilateral CA3 model to test the hypothesis that the phenomenon of very small left-to-right propagation delay of seizure activity is a product of epileptic cell network dynamics. We found that the commissural tract connectivity could decrease the delay between seizure events recorded from two sides while the activity propagated longitudinally along the CA3 layer thereby yielding delays much smaller than the propagation time between the two sides. The modeling results indicate that both recurrent and feedforward inhibition were required for shortening the bilateral propagation delay and depended critically on the length of the commissural fiber tract as well as the number of cells involved in seizure generation. These combined modeling/experimental studies indicate that it is possible to explain near perfect synchronization between the two hemispheres by taking into account the structure of the hippocampal network.",
+     "CI": [
+          "Copyright (c) 2013. Published by Elsevier Inc."
+     ],
+     "FAU": [
+          "Wang, Y",
+          "Toprani, S",
+          "Tang, Y",
+          "Vrabec, T",
+          "Durand, D M"
+     ],
+     "AU": [
+          "Wang Y",
+          "Toprani S",
+          "Tang Y",
+          "Vrabec T",
+          "Durand DM"
+     ],
+     "AD": "Department of Biomedical Engineering, Zhejiang University, Room 217, Zhouyiqing Building, 38 Zheda Rd, Hangzhou, Zhejiang 310027, China. Electronic address: kanewy@msn.com. Neural Engineering Center, Department of Biomedical Engineering Case Western Reserve University, Cleveland, OH 44106, USA. Electronic address: sct12@case.edu. Neural Engineering Center, Department of Biomedical Engineering Case Western Reserve University, Cleveland, OH 44106, USA. Electronic address: dyt1@case.edu. Department of Biomedical Engineering, Case Western Reserve University, Cleveland, OH 44106, USA. Electronic address: tina.vrabec@case.edu. Neural Engineering Center, Department of Biomedical Engineering Case Western Reserve University, Cleveland, OH 44106, USA. Electronic address: dxd6@case.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS040785/NS/NINDS NIH HHS/United States",
+          "R01 NS060757/NS/NINDS NIH HHS/United States",
+          "T32 GM007250/GM/NIGMS NIH HHS/United States",
+          "5R01NS060757/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20131119",
+     "PL": "United States",
+     "TA": "Exp Neurol",
+     "JT": "Experimental neurology",
+     "JID": "0370712",
+     "RN": [
+          "0 (Potassium Channel Blockers)",
+          "BH3B64OKL9 (4-Aminopyridine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "4-Aminopyridine/pharmacology",
+          "Action Potentials/drug effects/*physiology",
+          "Animals",
+          "Animals, Newborn",
+          "Disease Models, Animal",
+          "Electric Stimulation",
+          "Electroencephalography",
+          "Electroencephalography Phase Synchronization/*physiology",
+          "Epilepsy/*pathology/physiopathology",
+          "Functional Laterality/*physiology",
+          "Hippocampus/drug effects/physiology/*physiopathology",
+          "In Vitro Techniques",
+          "Nerve Net/drug effects/physiopathology",
+          "Potassium Channel Blockers/pharmacology",
+          "Rats",
+          "Rats, Sprague-Dawley"
+     ],
+     "PMC": "PMC3902113",
+     "MID": [
+          "NIHMS547029"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Epilepsy",
+          "HCP",
+          "In silico",
+          "In vitro",
+          "In vivo",
+          "Synchronization",
+          "homotopic cell pairs, cells labeled with same number on both sides of the model"
+     ],
+     "EDAT": "2013/11/23 06:00",
+     "MHDA": "2014/02/20 06:00",
+     "CRDT": [
+          "2013/11/23 06:00"
+     ],
+     "PHST": [
+          "2013/06/20 00:00 [received]",
+          "2013/10/09 00:00 [revised]",
+          "2013/11/10 00:00 [accepted]",
+          "2013/11/23 06:00 [entrez]",
+          "2013/11/23 06:00 [pubmed]",
+          "2014/02/20 06:00 [medline]"
+     ],
+     "AID": [
+          "S0014-4886(13)00338-5 [pii]",
+          "10.1016/j.expneurol.2013.11.014 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Exp Neurol. 2014 Jan;251:101-11. doi: 10.1016/j.expneurol.2013.11.014. Epub 2013 Nov 19.",
+     "term": "hippocampus"
+}

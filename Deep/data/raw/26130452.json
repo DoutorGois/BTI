@@ -1,0 +1,94 @@
+{
+     "PMID": "26130452",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160429",
+     "LR": "20170220",
+     "IS": "1473-0189 (Electronic) 1473-0189 (Linking)",
+     "VI": "15",
+     "IP": "15",
+     "DP": "2015 Aug 7",
+     "TI": "Development and validation of a microfluidic immunoassay capable of multiplexing parallel samples in microliter volumes.",
+     "PG": "3211-21",
+     "LID": "10.1039/c5lc00398a [doi]",
+     "AB": "Immunoassays are widely utilized due to their ability to quantify a vast assortment of biomolecules relevant to biological research and clinical diagnostics. Recently, immunoassay capabilities have been improved by the development of multiplex assays that simultaneously measure multiple analytes in a single sample. However, these assays are hindered by high costs of reagents and relatively large sample requirements. For example, in vitro screening systems currently dedicate individual wells to each time point of interest and this limitation is amplified in screening studies when the investigation of many experimental conditions is necessary; resulting in large volumes for analysis, a correspondingly high cost and a limited temporal experimental design. Microfluidics based immunoassays have been developed in order to overcome these drawbacks. Together, previous studies have demonstrated on-chip assays with either a large dynamic range, high performance sensitivity, and/or the ability to process samples in parallel on a single chip. In this report, we develop a multiplex immunoassay possessing all of these parallel characteristics using commercially available reagents, which allows the analytes of interest to be easily changed. The device presented can measure 6 proteins in 32 samples simultaneously using only 4.2 muL of sample volume. High quality standard curves are generated for all 6 analytes included in the analysis, and spiked samples are quantified throughout the working range of the assay. In addition, we demonstrate a strong correlation (R(2) = 0.8999) between in vitro supernatant measurements using our device and those obtained from a bench-top multiplex immunoassay. Finally, we describe cytokine secretion in an in vitro inflammatory hippocampus culture system, establishing proof-of-concept of the ability to use this platform as an in vitro screening tool. The low-volume, multiplexing abilities of the microdevice described in this report could be broadly applied to numerous situations where sample volumes and costs are limiting.",
+     "FAU": [
+          "Ghodbane, Mehdi",
+          "Stucky, Elizabeth C",
+          "Maguire, Tim J",
+          "Schloss, Rene S",
+          "Shreiber, David I",
+          "Zahn, Jeffrey D",
+          "Yarmush, Martin L"
+     ],
+     "AU": [
+          "Ghodbane M",
+          "Stucky EC",
+          "Maguire TJ",
+          "Schloss RS",
+          "Shreiber DI",
+          "Zahn JD",
+          "Yarmush ML"
+     ],
+     "AD": "Department of Biomedical Engineering, Rutgers, The State University of New Jersey, 599 Taylor Road, Piscataway, New Jersey 08854, USA. yarmush@rci.rutgers.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "UH2 TR000503/TR/NCATS NIH HHS/United States",
+          "P41EB002503/EB/NIBIB NIH HHS/United States",
+          "T32GM008339/GM/NIGMS NIH HHS/United States",
+          "T32 GM008339/GM/NIGMS NIH HHS/United States",
+          "UH2TR000503/TR/NCATS NIH HHS/United States",
+          "P41 EB002503/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "England",
+     "TA": "Lab Chip",
+     "JT": "Lab on a chip",
+     "JID": "101128948",
+     "RN": [
+          "0 (Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cell Line",
+          "Coculture Techniques/instrumentation/methods",
+          "Equipment Design",
+          "Hippocampus/chemistry",
+          "Humans",
+          "Immunoassay/instrumentation/*methods",
+          "Mesenchymal Stromal Cells",
+          "Microfluidic Analytical Techniques/instrumentation/*methods",
+          "Proteins/analysis",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Reproducibility of Results"
+     ],
+     "PMC": "PMC4507421",
+     "MID": [
+          "NIHMS704675"
+     ],
+     "EDAT": "2015/07/02 06:00",
+     "MHDA": "2016/04/30 06:00",
+     "CRDT": [
+          "2015/07/02 06:00"
+     ],
+     "PHST": [
+          "2015/07/02 06:00 [entrez]",
+          "2015/07/02 06:00 [pubmed]",
+          "2016/04/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1039/c5lc00398a [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Lab Chip. 2015 Aug 7;15(15):3211-21. doi: 10.1039/c5lc00398a.",
+     "term": "hippocampus"
+}

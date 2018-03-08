@@ -1,0 +1,88 @@
+{
+     "PMID": "22653846",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140403",
+     "LR": "20151119",
+     "IS": "1477-0334 (Electronic) 0962-2802 (Linking)",
+     "VI": "22",
+     "IP": "4",
+     "DP": "2013 Aug",
+     "TI": "Comparison of four shape features for detecting hippocampal shape changes in early Alzheimer's.",
+     "PG": "439-62",
+     "LID": "10.1177/0962280212448975 [doi]",
+     "AB": "We compare four methods for generating shape-based features from 3D binary images of the hippocampus for use in group discrimination and classification. The first method we investigate is based on decomposing the hippocampal binary segmentation onto an orthonormal basis of spherical harmonics, followed by computation of shape invariants by tensor contraction using the Clebsch-Gordan coefficients. The second method we investigate is based on the classical 3D moment invariants; these are a special case of the spherical harmonics-based tensor invariants. The third method is based on solving the Helmholtz equation on the geometry of the binary hippocampal segmentation, and construction of shape-descriptive features from the eigenvalues of the Fourier-like modes of the geometry represented by the Laplacian eigenfunctions. The fourth method investigates the use of initial momentum obtained from the large-deformation diffeomorphic metric mapping method as a shape feature. Each of these shape features is tested for group differences in the control (Clinical Dementia Rating Scale CDR 0) and the early (very mild) Alzheimer's (CDR 0.5) population. Classification of individual shapes is performed via a linear support vector machine based classifer with leave-one-out cross validation to test for overall performance. These experiments show that all of these feature computation approaches gave stable and reasonable classification results on the same database, and with the same classifier. The best performance was achieved with the shape-features constructed from large-deformation diffeomorphic metric mapping-based initial momentum.",
+     "FAU": [
+          "Beg, Mirza Faisal",
+          "Raamana, Pradeep Reddy",
+          "Barbieri, Sebastiano",
+          "Wang, Lei"
+     ],
+     "AU": [
+          "Beg MF",
+          "Raamana PR",
+          "Barbieri S",
+          "Wang L"
+     ],
+     "AD": "Medical Image Analysis Laboratory, School of Engineering Science, Simon Fraser University, Burnaby, BC, Canada. mfbeg.pkr1@sfu.ca",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120530",
+     "PL": "England",
+     "TA": "Stat Methods Med Res",
+     "JT": "Statistical methods in medical research",
+     "JID": "9212457",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/*pathology",
+          "Biostatistics",
+          "Case-Control Studies",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Imaging, Three-Dimensional",
+          "Male",
+          "Middle Aged",
+          "Models, Anatomic",
+          "Models, Neurological",
+          "Neuroimaging/*statistics & numerical data",
+          "Support Vector Machine"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Laplacian",
+          "classification",
+          "invariants",
+          "large-deformation diffeomorphic metric mapping",
+          "principal component analysis",
+          "spherical harmonics",
+          "support vector machines"
+     ],
+     "EDAT": "2012/06/02 06:00",
+     "MHDA": "2014/04/04 06:00",
+     "CRDT": [
+          "2012/06/02 06:00"
+     ],
+     "PHST": [
+          "2012/06/02 06:00 [entrez]",
+          "2012/06/02 06:00 [pubmed]",
+          "2014/04/04 06:00 [medline]"
+     ],
+     "AID": [
+          "0962280212448975 [pii]",
+          "10.1177/0962280212448975 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Stat Methods Med Res. 2013 Aug;22(4):439-62. doi: 10.1177/0962280212448975. Epub 2012 May 30.",
+     "term": "hippocampus"
+}

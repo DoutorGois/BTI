@@ -1,0 +1,131 @@
+{
+     "PMID": "26911693",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160630",
+     "LR": "20170220",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "36",
+     "IP": "8",
+     "DP": "2016 Feb 24",
+     "TI": "A Bright and Fast Red Fluorescent Protein Voltage Indicator That Reports Neuronal Activity in Organotypic Brain Slices.",
+     "PG": "2458-72",
+     "LID": "10.1523/JNEUROSCI.3484-15.2016 [doi]",
+     "AB": "Optical imaging of voltage indicators based on green fluorescent proteins (FPs) or archaerhodopsin has emerged as a powerful approach for detecting the activity of many individual neurons with high spatial and temporal resolution. Relative to green FP-based voltage indicators, a bright red-shifted FP-based voltage indicator has the intrinsic advantages of lower phototoxicity, lower autofluorescent background, and compatibility with blue-light-excitable channelrhodopsins. Here, we report a bright red fluorescent voltage indicator (fluorescent indicator for voltage imaging red; FlicR1) with properties that are comparable to the best available green indicators. To develop FlicR1, we used directed protein evolution and rational engineering to screen libraries of thousands of variants. FlicR1 faithfully reports single action potentials ( approximately 3% DeltaF/F) and tracks electrically driven voltage oscillations at 100 Hz in dissociated Sprague Dawley rat hippocampal neurons in single trial recordings. Furthermore, FlicR1 can be easily imaged with wide-field fluorescence microscopy. We demonstrate that FlicR1 can be used in conjunction with a blue-shifted channelrhodopsin for all-optical electrophysiology, although blue light photoactivation of the FlicR1 chromophore presents a challenge for applications that require spatially overlapping yellow and blue excitation.",
+     "CI": [
+          "Copyright (c) 2016 the authors 0270-6474/16/362459-15$15.00/0."
+     ],
+     "FAU": [
+          "Abdelfattah, Ahmed S",
+          "Farhi, Samouil L",
+          "Zhao, Yongxin",
+          "Brinks, Daan",
+          "Zou, Peng",
+          "Ruangkittisakul, Araya",
+          "Platisa, Jelena",
+          "Pieribone, Vincent A",
+          "Ballanyi, Klaus",
+          "Cohen, Adam E",
+          "Campbell, Robert E"
+     ],
+     "AU": [
+          "Abdelfattah AS",
+          "Farhi SL",
+          "Zhao Y",
+          "Brinks D",
+          "Zou P",
+          "Ruangkittisakul A",
+          "Platisa J",
+          "Pieribone VA",
+          "Ballanyi K",
+          "Cohen AE",
+          "Campbell RE"
+     ],
+     "AD": "Department of Chemistry, University of Alberta, Edmonton, Alberta T6G 2G2, Canada. Department of Chemistry and Chemical Biology, Harvard University, Cambridge, Massachusetts 02138. Department of Chemistry, University of Alberta, Edmonton, Alberta T6G 2G2, Canada. Department of Chemistry and Chemical Biology, Harvard University, Cambridge, Massachusetts 02138. Department of Chemistry and Chemical Biology, Harvard University, Cambridge, Massachusetts 02138. Department of Physiology, University of Alberta, Edmonton, Alberta T6G 2H7, Canada. The John B. Pierce Laboratory, Inc., New Haven, Connecticut 06519, Cellular and Molecular Physiology, Yale University School of Medicine, New Haven, Connecticut 06520. The John B. Pierce Laboratory, Inc., New Haven, Connecticut 06519, Cellular and Molecular Physiology, Yale University School of Medicine, New Haven, Connecticut 06520, Neurobiology, Yale University School of Medicine, New Haven, Connecticut 06510. Department of Physiology, University of Alberta, Edmonton, Alberta T6G 2H7, Canada. Department of Chemistry and Chemical Biology, Harvard University, Cambridge, Massachusetts 02138, Department of Physics, Harvard University, Cambridge, Massachusetts 02138, and Howard Hughes Medical Institute, Harvard University, Cambridge, Massachusetts 02138. Department of Chemistry, University of Alberta, Edmonton, Alberta T6G 2G2, Canada, robert.e.campbell@ualberta.ca.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0003-1359-4568",
+          "ORCID: http://orcid.org/0000-0002-9798-5242",
+          "ORCID: http://orcid.org/0000-0002-5836-5454"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "SI": [
+          "PDB/4G80",
+          "PDB/4I2Y"
+     ],
+     "GR": [
+          "1-R01-EB012498-01/EB/NIBIB NIH HHS/United States",
+          "DP2 OD007428/OD/NIH HHS/United States",
+          "R01 NS083875/NS/NINDS NIH HHS/United States",
+          "MOP-123514/Canadian Institutes of Health Research/Canada",
+          "R01 EB012498/EB/NIBIB NIH HHS/United States",
+          "1-DP2-OD007428/OD/NIH HHS/United States",
+          "Howard Hughes Medical Institute/United States",
+          "U01 NS090565/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "RN": [
+          "0 (Fluorescent Dyes)",
+          "0 (Luminescent Proteins)",
+          "0 (red fluorescent protein)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Animals, Newborn",
+          "Cells, Cultured",
+          "Female",
+          "Fluorescent Dyes/*analysis",
+          "HEK293 Cells",
+          "HeLa Cells",
+          "Hippocampus/*chemistry/*physiology",
+          "Humans",
+          "Luminescent Proteins/*analysis",
+          "Male",
+          "Microscopy, Fluorescence/methods",
+          "Neurons/*chemistry/*physiology",
+          "Organ Culture Techniques/methods",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Real-Time Polymerase Chain Reaction/methods"
+     ],
+     "PMC": "PMC4764664",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "biosensors",
+          "fluorescence imaging",
+          "fluorescent proteins",
+          "genetically encoded indicators",
+          "protein engineering",
+          "voltage imaging"
+     ],
+     "EDAT": "2016/02/26 06:00",
+     "MHDA": "2016/07/01 06:00",
+     "CRDT": [
+          "2016/02/26 06:00"
+     ],
+     "PHST": [
+          "2016/02/26 06:00 [entrez]",
+          "2016/02/26 06:00 [pubmed]",
+          "2016/07/01 06:00 [medline]"
+     ],
+     "AID": [
+          "36/8/2458 [pii]",
+          "10.1523/JNEUROSCI.3484-15.2016 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2016 Feb 24;36(8):2458-72. doi: 10.1523/JNEUROSCI.3484-15.2016.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,64 @@
+{
+     "PMID": "25356642",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151130",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "10",
+     "IP": "10",
+     "DP": "2014 Oct",
+     "TI": "Estimating location without external cues.",
+     "PG": "e1003927",
+     "LID": "10.1371/journal.pcbi.1003927 [doi]",
+     "AB": "The ability to determine one's location is fundamental to spatial navigation. Here, it is shown that localization is theoretically possible without the use of external cues, and without knowledge of initial position or orientation. With only error-prone self-motion estimates as input, a fully disoriented agent can, in principle, determine its location in familiar spaces with 1-fold rotational symmetry. Surprisingly, localization does not require the sensing of any external cue, including the boundary. The combination of self-motion estimates and an internal map of the arena provide enough information for localization. This stands in conflict with the supposition that 2D arenas are analogous to open fields. Using a rodent error model, it is shown that the localization performance which can be achieved is enough to initiate and maintain stable firing patterns like those of grid cells, starting from full disorientation. Successful localization was achieved when the rotational asymmetry was due to the external boundary, an interior barrier or a void space within an arena. Optimal localization performance was found to depend on arena shape, arena size, local and global rotational asymmetry, and the structure of the path taken during localization. Since allothetic cues including visual and boundary contact cues were not present, localization necessarily relied on the fusion of idiothetic self-motion cues and memory of the boundary. Implications for spatial navigation mechanisms are discussed, including possible relationships with place field overdispersion and hippocampal reverse replay. Based on these results, experiments are suggested to identify if and where information fusion occurs in the mammalian spatial memory system.",
+     "FAU": [
+          "Cheung, Allen"
+     ],
+     "AU": [
+          "Cheung A"
+     ],
+     "AD": "The University of Queensland, Queensland Brain Institute, Brisbane, Queensland, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20141030",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Attention/*physiology",
+          "Computational Biology",
+          "Cues",
+          "*Models, Biological",
+          "Rats",
+          "Spatial Navigation/*physiology"
+     ],
+     "PMC": "PMC4214594",
+     "EDAT": "2014/10/31 06:00",
+     "MHDA": "2015/12/15 06:00",
+     "CRDT": [
+          "2014/10/31 06:00"
+     ],
+     "PHST": [
+          "2014/06/15 00:00 [received]",
+          "2014/09/19 00:00 [accepted]",
+          "2014/10/31 06:00 [entrez]",
+          "2014/10/31 06:00 [pubmed]",
+          "2015/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1003927 [doi]",
+          "PCOMPBIOL-D-14-01072 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2014 Oct 30;10(10):e1003927. doi: 10.1371/journal.pcbi.1003927. eCollection 2014 Oct.",
+     "term": "grid cells"
+}

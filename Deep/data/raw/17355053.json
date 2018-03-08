@@ -1,0 +1,77 @@
+{
+     "PMID": "17355053",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20071217",
+     "LR": "20091111",
+     "IS": "0018-9294 (Print) 0018-9294 (Linking)",
+     "VI": "54",
+     "IP": "3",
+     "DP": "2007 Mar",
+     "TI": "Construction of point process adaptive filter algorithms for neural systems using sequential Monte Carlo methods.",
+     "PG": "419-28",
+     "AB": "The stochastic state point process filter (SSPPF) and steepest descent point process filter (SDPPF) are adaptive filter algorithms for state estimation from point process observations that have been used to track neural receptive field plasticity and to decode the representations of biological signals in ensemble neural spiking activity. The SSPPF and SDPPF are constructed using, respectively, Gaussian and steepest descent approximations to the standard Bayes and Chapman-Kolmogorov (BCK) system of filter equations. To extend these approaches for constructing point process adaptive filters, we develop sequential Monte Carlo (SMC) approximations to the BCK equations in which the SSPPF and SDPPF serve as the proposal densities. We term the two new SMC point process filters SMC-PPFs and SMC-PPFD, respectively. We illustrate the new filter algorithms by decoding the wind stimulus magnitude from simulated neural spiking activity in the cricket cercal system. The SMC-PPFs and SMC-PPFD provide more accurate state estimates at low number of particles than a conventional bootstrap SMC filter algorithm in which the state transition probability density is the proposal density. We also use the SMC-PPFs algorithm to track the temporal evolution of a spatial receptive field of a rat hippocampal neuron recorded while the animal foraged in an open environment. Our results suggest an approach for constructing point process adaptive filters using SMC methods.",
+     "FAU": [
+          "Ergun, Ayla",
+          "Barbieri, Riccardo",
+          "Eden, Uri T",
+          "Wilson, Matthew A",
+          "Brown, Emery N"
+     ],
+     "AU": [
+          "Ergun A",
+          "Barbieri R",
+          "Eden UT",
+          "Wilson MA",
+          "Brown EN"
+     ],
+     "AD": "Neuroscience Statistics Research Laboratory, Department of Anesthesia and Critical Care, Massachusetts General Hospital, Boston, MA 02114-2698, USA. ayla@neurostat.mgh.harvard.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "DA015644/DA/NIDA NIH HHS/United States",
+          "MH59733/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "*Algorithms",
+          "Animals",
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "Models, Statistical",
+          "Monte Carlo Method",
+          "Nerve Net/*physiology",
+          "Neuronal Plasticity/*physiology",
+          "Rats",
+          "Signal Processing, Computer-Assisted",
+          "Stochastic Processes"
+     ],
+     "EDAT": "2007/03/16 09:00",
+     "MHDA": "2007/12/18 09:00",
+     "CRDT": [
+          "2007/03/16 09:00"
+     ],
+     "PHST": [
+          "2007/03/16 09:00 [pubmed]",
+          "2007/12/18 09:00 [medline]",
+          "2007/03/16 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TBME.2006.888821 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 2007 Mar;54(3):419-28. doi: 10.1109/TBME.2006.888821.",
+     "term": "hippocampus"
+}

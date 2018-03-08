@@ -1,0 +1,52 @@
+{
+     "PMID": "28436902",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170424",
+     "IS": "2162-2388 (Electronic) 2162-237X (Linking)",
+     "DP": "2017 Apr 17",
+     "TI": "Learning to Predict Consequences as a Method of Knowledge Transfer in Reinforcement Learning.",
+     "LID": "10.1109/TNNLS.2017.2690910 [doi]",
+     "AB": "The reinforcement learning (RL) paradigm allows agents to solve tasks through trial-and-error learning. To be capable of efficient, long-term learning, RL agents should be able to apply knowledge gained in the past to new tasks they may encounter in the future. The ability to predict actions' consequences may facilitate such knowledge transfer. We consider here domains where an RL agent has access to two kinds of information: agent-centric information with constant semantics across tasks, and environment-centric information, which is necessary to solve the task, but with semantics that differ between tasks. For example, in robot navigation, environment-centric information may include the robot's geographic location, while agent-centric information may include sensor readings of various nearby obstacles. We propose that these situations provide an opportunity for a very natural style of knowledge transfer, in which the agent learns to predict actions' environmental consequences using agent-centric information. These predictions contain important information about the affordances and dangers present in a novel environment, and can effectively transfer knowledge from agent-centric to environment-centric learning systems. Using several example problems including spatial navigation and network routing, we show that our knowledge transfer approach can allow faster and lower cost learning than existing alternatives.",
+     "FAU": [
+          "Chalmers, Eric",
+          "Contreras, Edgar Bermudez",
+          "Robertson, Brandon",
+          "Luczak, Artur",
+          "Gruber, Aaron"
+     ],
+     "AU": [
+          "Chalmers E",
+          "Contreras EB",
+          "Robertson B",
+          "Luczak A",
+          "Gruber A"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170417",
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Netw Learn Syst",
+     "JT": "IEEE transactions on neural networks and learning systems",
+     "JID": "101616214",
+     "EDAT": "2017/04/25 06:00",
+     "MHDA": "2017/04/25 06:00",
+     "CRDT": [
+          "2017/04/25 06:00"
+     ],
+     "PHST": [
+          "2017/04/25 06:00 [entrez]",
+          "2017/04/25 06:00 [pubmed]",
+          "2017/04/25 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TNNLS.2017.2690910 [doi]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "IEEE Trans Neural Netw Learn Syst. 2017 Apr 17. doi: 10.1109/TNNLS.2017.2690910.",
+     "term": "spatial navigation"
+}

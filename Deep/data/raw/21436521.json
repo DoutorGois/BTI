@@ -1,0 +1,85 @@
+{
+     "PMID": "21436521",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110831",
+     "LR": "20170220",
+     "IS": "1741-2552 (Electronic) 1741-2552 (Linking)",
+     "VI": "8",
+     "IP": "2",
+     "DP": "2011 Apr",
+     "TI": "Control of a brain-computer interface using stereotactic depth electrodes in and adjacent to the hippocampus.",
+     "PG": "025006",
+     "LID": "10.1088/1741-2560/8/2/025006 [doi]",
+     "AB": "A brain-computer interface (BCI) is a device that enables severely disabled people to communicate and interact with their environments using their brain waves. Most research investigating BCI in humans has used scalp-recorded electroencephalography or intracranial electrocorticography. The use of brain signals obtained directly from stereotactic depth electrodes to control a BCI has not previously been explored. In this study, event-related potentials (ERPs) recorded from bilateral stereotactic depth electrodes implanted in and adjacent to the hippocampus were used to control a P300 Speller paradigm. The ERPs were preprocessed and used to train a linear classifier to subsequently predict the intended target letters. The classifier was able to predict the intended target character at or near 100% accuracy using fewer than 15 stimulation sequences in the two subjects tested. Our results demonstrate that ERPs from hippocampal and hippocampal adjacent depth electrodes can be used to reliably control the P300 Speller BCI paradigm.",
+     "FAU": [
+          "Krusienski, D J",
+          "Shih, J J"
+     ],
+     "AU": [
+          "Krusienski DJ",
+          "Shih JJ"
+     ],
+     "AD": "Department of Electrical & Computer Engineering, Old Dominion University, Norfolk, VA, USA. deankrusienski@ieee.org",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB000856/EB/NIBIB NIH HHS/United States",
+          "R01 EB000856-01/EB/NIBIB NIH HHS/United States",
+          "EB00856/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20110324",
+     "PL": "England",
+     "TA": "J Neural Eng",
+     "JT": "Journal of neural engineering",
+     "JID": "101217933",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Biofeedback, Psychology/instrumentation",
+          "Biotechnology",
+          "Brain Mapping/*instrumentation/methods",
+          "Communication Aids for Disabled",
+          "*Computer Peripherals",
+          "*Electrodes, Implanted",
+          "Electroencephalography/*instrumentation/methods",
+          "*Evoked Potentials",
+          "Hippocampus/*physiopathology/surgery",
+          "Humans",
+          "Imagination",
+          "Male",
+          "Man-Machine Systems",
+          "Middle Aged",
+          "Neuromuscular Diseases/rehabilitation",
+          "*User-Computer Interface"
+     ],
+     "PMC": "PMC3150521",
+     "MID": [
+          "NIHMS308382"
+     ],
+     "EDAT": "2011/03/26 06:00",
+     "MHDA": "2011/09/01 06:00",
+     "CRDT": [
+          "2011/03/26 06:00"
+     ],
+     "PHST": [
+          "2011/03/26 06:00 [entrez]",
+          "2011/03/26 06:00 [pubmed]",
+          "2011/09/01 06:00 [medline]"
+     ],
+     "AID": [
+          "S1741-2560(11)63414-3 [pii]",
+          "10.1088/1741-2560/8/2/025006 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neural Eng. 2011 Apr;8(2):025006. doi: 10.1088/1741-2560/8/2/025006. Epub 2011 Mar 24.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,102 @@
+{
+     "PMID": "25670955",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20150211",
+     "LR": "20170220",
+     "IS": "1738-3684 (Print) 1738-3684 (Linking)",
+     "VI": "12",
+     "IP": "1",
+     "DP": "2015 Jan",
+     "TI": "Gene interactions and structural brain change in early-onset Alzheimer's disease subjects using the pipeline environment.",
+     "PG": "125-35",
+     "LID": "10.4306/pi.2015.12.1.125 [doi]",
+     "AB": "OBJECTIVE: This article investigates subjects aged 55 to 65 from the Alzheimer's Disease Neuroimaging Initiative (ADNI) database to broaden our understanding of early-onset (EO) cognitive impairment using neuroimaging and genetics biomarkers. METHODS: Nine of the subjects had EO-AD (Alzheimer's disease) and 27 had EO-MCI (mild cognitive impairment). The 15 most important neuroimaging markers were extracted with the Global Shape Analysis (GSA) Pipeline workflow. The 20 most significant single nucleotide polymorphisms (SNPs) were chosen and were associated with specific neuroimaging biomarkers. RESULTS: We identified associations between the neuroimaging phenotypes and genotypes for a total of 36 subjects. Our results for all the subjects taken together showed the most significant associations between rs7718456 and L_hippocampus (volume), and between rs7718456 and R_hippocampus (volume). For the 27 MCI subjects, we found the most significant associations between rs6446443 and R_superior_frontal_gyrus (volume), and between rs17029131 and L_Precuneus (volume). For the nine AD subjects, we found the most significant associations between rs16964473 and L_rectus gyrus (surface area), and between rs12972537 and L_rectus_gyrus (surface area). CONCLUSION: We observed significant correlations between the SNPs and the neuroimaging phenotypes in the 36 EO subjects in terms of neuroimaging genetics. However, larger sample sizes are needed to ensure that the effects will be detectable for a reasonable false-positive error rate using the GSA and Plink Pipeline workflows.",
+     "FAU": [
+          "Moon, Seok Woo",
+          "Dinov, Ivo D",
+          "Zamanyan, Alen",
+          "Shi, Ran",
+          "Genco, Alex",
+          "Hobel, Sam",
+          "Thompson, Paul M",
+          "Toga, Arthur W"
+     ],
+     "AU": [
+          "Moon SW",
+          "Dinov ID",
+          "Zamanyan A",
+          "Shi R",
+          "Genco A",
+          "Hobel S",
+          "Thompson PM",
+          "Toga AW"
+     ],
+     "AD": "Department of Psychiatry, Konkuk University School of Medicine, Chungju, Republic of Korea. Laboratory of Neuro Imaging, Institute for Neuroimaging and Informatics, University of Southern California, Los Angeles, CA, USA. ; Statistics Online Computational Resource, UMSM, University of Michigan, Ann Arbor, MI, USA. Laboratory of Neuro Imaging, Institute for Neuroimaging and Informatics, University of Southern California, Los Angeles, CA, USA. Laboratory of Neuro Imaging, Institute for Neuroimaging and Informatics, University of Southern California, Los Angeles, CA, USA. Laboratory of Neuro Imaging, Institute for Neuroimaging and Informatics, University of Southern California, Los Angeles, CA, USA. Laboratory of Neuro Imaging, Institute for Neuroimaging and Informatics, University of Southern California, Los Angeles, CA, USA. Laboratory of Neuro Imaging, Institute for Neuroimaging and Informatics, University of Southern California, Los Angeles, CA, USA. Laboratory of Neuro Imaging, Institute for Neuroimaging and Informatics, University of Southern California, Los Angeles, CA, USA.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative (ADNI)"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "P41 EB015922/EB/NIBIB NIH HHS/United States",
+          "RF1 AG041915/AG/NIA NIH HHS/United States",
+          "U54 EB020406/EB/NIBIB NIH HHS/United States",
+          "P50 AG005142/AG/NIA NIH HHS/United States",
+          "R21 RR019771/RR/NCRR NIH HHS/United States",
+          "R01 LM005639/LM/NLM NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "P20 NR015331/NR/NINR NIH HHS/United States",
+          "P30 DK089503/DK/NIDDK NIH HHS/United States",
+          "U54 EB020403/EB/NIBIB NIH HHS/United States",
+          "P41 RR013642/RR/NCRR NIH HHS/United States",
+          "U54 RR021813/RR/NCRR NIH HHS/United States",
+          "U24 RR021992/RR/NCRR NIH HHS/United States",
+          "P50 NS091856/NS/NINDS NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "R01 MH071940/MH/NIMH NIH HHS/United States",
+          "U24 RR025736/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150112",
+     "PL": "Korea (South)",
+     "TA": "Psychiatry Investig",
+     "JT": "Psychiatry investigation",
+     "JID": "101242994",
+     "PMC": "PMC4310910",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "ADNI",
+          "Alzheimer's disease",
+          "Early-onset",
+          "Genetics",
+          "Memory",
+          "Mild cognitive impairment",
+          "Neuroimaging"
+     ],
+     "EDAT": "2015/02/12 06:00",
+     "MHDA": "2015/02/12 06:01",
+     "CRDT": [
+          "2015/02/12 06:00"
+     ],
+     "PHST": [
+          "2013/11/05 00:00 [received]",
+          "2014/02/02 00:00 [revised]",
+          "2014/02/03 00:00 [accepted]",
+          "2015/02/12 06:00 [entrez]",
+          "2015/02/12 06:00 [pubmed]",
+          "2015/02/12 06:01 [medline]"
+     ],
+     "AID": [
+          "10.4306/pi.2015.12.1.125 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Psychiatry Investig. 2015 Jan;12(1):125-35. doi: 10.4306/pi.2015.12.1.125. Epub 2015 Jan 12.",
+     "term": "hippocampus"
+}

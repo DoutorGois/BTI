@@ -1,0 +1,102 @@
+{
+     "PMID": "25678405",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160512",
+     "LR": "20150820",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "25",
+     "IP": "9",
+     "DP": "2015 Sep",
+     "TI": "Transition between encoding and consolidation/replay dynamics via cholinergic modulation of CAN current: A modeling study.",
+     "PG": "1052-70",
+     "LID": "10.1002/hipo.22429 [doi]",
+     "AB": "Hippocampal place cells that are activated sequentially during active waking get reactivated in a temporally compressed (5-20 times) manner during slow-wave-sleep and quiet waking. The two-stage model of the hippocampus suggests that neural activity during awaking supports encoding function while temporally compressed reactivation (replay) supports consolidation. However, the mechanisms supporting different neural activity with different temporal scales during encoding and consolidation remain unclear. Based on the idea that acetylcholine modulates functional transition between encoding and consolidation, we tested whether the cholinergic modulation may adjust intrinsic network dynamics to support different temporal scales for these two modes of operation. Simulations demonstrate that cholinergic modulation of the calcium activated non-specific cationic (CAN) current and the synaptic transmission may be sufficient to switch the network dynamics between encoding and consolidation modes. When the CAN current is active and the synaptic transmission is suppressed, mimicking the high acetylcholine condition during active waking, a slow propagation of multiple spikes is evident. This activity resembles the firing pattern of place cells and time cells during active waking. On the other hand, when CAN current is suppressed and the synaptic transmission is intact, mimicking the low acetylcholine condition during slow-wave-sleep, a time compressed fast ( approximately 10 times) activity propagation of the same set of cells is evident. This activity resembles the time compressed firing pattern of place cells during replay and pre-play, achieving a temporal compression factor in the range observed in vivo (5-20 times). These observations suggest that cholinergic system could adjust intrinsic network dynamics suitable for encoding and consolidation through the modulation of the CAN current and synaptic conductance in the hippocampus.",
+     "CI": [
+          "(c) 2015 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Saravanan, Varun",
+          "Arabali, Danial",
+          "Jochems, Arthur",
+          "Cui, Anja-Xiaoxing",
+          "Gootjes-Dreesbach, Luise",
+          "Cutsuridis, Vassilis",
+          "Yoshida, Motoharu"
+     ],
+     "AU": [
+          "Saravanan V",
+          "Arabali D",
+          "Jochems A",
+          "Cui AX",
+          "Gootjes-Dreesbach L",
+          "Cutsuridis V",
+          "Yoshida M"
+     ],
+     "AD": "Neural Dynamics Laboratory, Faculty of psychology, Ruhr-Universitat Bochum, Bochum, Germany. Neural Dynamics Laboratory, Faculty of psychology, Ruhr-Universitat Bochum, Bochum, Germany. Neural Dynamics Laboratory, Faculty of psychology, Ruhr-Universitat Bochum, Bochum, Germany. Neural Dynamics Laboratory, Faculty of psychology, Ruhr-Universitat Bochum, Bochum, Germany. Neural Dynamics Laboratory, Faculty of psychology, Ruhr-Universitat Bochum, Bochum, Germany. Institute of Molecular Biology and Biotechnology, Foundation for Research and Technology-Hellas (FORTH), Heracklion, Crete, Greece. Neural Dynamics Laboratory, Faculty of psychology, Ruhr-Universitat Bochum, Bochum, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150326",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "RN": [
+          "0 (Cholinergic Agents)",
+          "0 (Ion Channels)",
+          "N9YNS0M02X (Acetylcholine)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Acetylcholine/metabolism",
+          "Action Potentials/drug effects",
+          "Animals",
+          "Calcium/*metabolism",
+          "Cholinergic Agents/*pharmacology",
+          "Computer Simulation",
+          "Hippocampus/*cytology",
+          "Ion Channels/*drug effects/physiology",
+          "*Models, Neurological",
+          "Nerve Net/drug effects/physiology",
+          "Neurons/*drug effects/physiology",
+          "*Nonlinear Dynamics",
+          "Synaptic Transmission/drug effects/physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "acetylcholine",
+          "hippocampus",
+          "inhibitory interneuron",
+          "place cell",
+          "pyramidal cell",
+          "replay",
+          "theta"
+     ],
+     "EDAT": "2015/02/14 06:00",
+     "MHDA": "2016/05/14 06:00",
+     "CRDT": [
+          "2015/02/14 06:00"
+     ],
+     "PHST": [
+          "2014/05/01 00:00 [received]",
+          "2015/01/29 00:00 [revised]",
+          "2015/02/03 00:00 [accepted]",
+          "2015/02/14 06:00 [entrez]",
+          "2015/02/14 06:00 [pubmed]",
+          "2016/05/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.22429 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2015 Sep;25(9):1052-70. doi: 10.1002/hipo.22429. Epub 2015 Mar 26.",
+     "term": "place cells"
+}

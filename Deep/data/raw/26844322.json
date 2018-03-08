@@ -1,0 +1,62 @@
+{
+     "PMID": "26844322",
+     "STAT": "Publisher",
+     "DA": "20160205",
+     "ISBN": [
+          "9781420076844"
+     ],
+     "PB": [
+          "CRC Press/Taylor & Francis"
+     ],
+     "ED": [
+          "2nd",
+          "Frostig RD"
+     ],
+     "CTI": [
+          "Frontiers in Neuroscience"
+     ],
+     "DP": "2009",
+     "TI": "In Vivo Observations of Rapid Scattered Light Changes Associated with Neurophysiological Activity",
+     "BTI": [
+          "In Vivo Optical Imaging of Brain Function"
+     ],
+     "CP": [
+          "Chapter 5"
+     ],
+     "AB": "Cognitive processes and other advanced neural functions rely on spatial and temporal interplay within linked neural networks. To study this interplay and test network level models, imaging techniques are required to capture dynamics of neural interaction. Of the many available imaging techniques, including PET, MRI, MEG, and EEG, recent developments in optical techniques offer significant advantages and a unique complement to other methods. Much effort has been invested in techniques that use light to acquire images of brain activity. Sensitive optical techniques have demonstrated spatial organization of visual cortex columnar structures in a fashion that complements electrophysiological recording [1-3]. Spatial patterns of sensory activation in human temporal cortex [4] and rodent sensory cortex [5,6] have also been visualized. Thus, hemodynamic and other metabolic indicators have successfully mapped the dynamics of neural activity in vivo using spectroscopic and oximetry techniques [7,8]. Light absorbance changes associated with metabolic and hemodynamic processes are robust and relatively easy to obtain noninvasively, but spatial and temporal resolutions are limited by the anatomy and physiological regulation of cerebral perfusion. Fundamentally, the spatial resolution is limited by microvasculature organization, and the temporal resolution is limited by the rate of vessel diameter fluctuations and hemoglobin deoxygenation, which can occur as rapidly as 150 to 250 ms [9]. Fast optical signals that correspond more closely to electrical activation have remained difficult to detect above noise for in vivo and noninvasive measurements, because fast signals are small relative to other physiological events (including hemodynamics) and electrical noise. However, no other existing method offers the resolution, specificity, and field of view required for such work, making fast optical techniques the holy grail for in vivo neurophysiology. Several laboratories have recorded relatively fast optical changes noninvasively using fiber optics and modulated light [10] or continuous illumination [11], but with relatively low spatial and temporal resolution. Detailed investigations of the coupling between neurovascular signals and electrophysiological patterns are under way [12], and several investigators have started to combine optical and magnetic resonance imaging modalities to investigate the sources of signals from both methods [13,14]. Diffusion tensor MRI has recently gained popularity as a functional imaging methodology, because at least part of these signals appear to originate from similar cellular swelling mechanisms as may underlie fast optical signals [15,16]. Our results suggest that optical signals can track neurophysiological dynamics at high speed. Thus, this chapter will focus on methods and results for using optical signals for recording fast neural events. In the past decade, it has become increasingly important to record simultaneously from large neural populations to assess their interactions to perform complex tasks. Theoretical arguments and experimental observations suggest that correlated firing across many individual neurons may encode relationships within the data stream [17], and recent studies have found significant information in the synchrony of neural populations [18,19]. Such work has demonstrated that it is important to know not only when a neuron fires but also how such discharge occurs in relation to activity in other cells. Most procedures for assessing activity of many neurons involve the use of multiple electrode arrays. The density of such arrays has grown rapidly from a few electrodes to a hundred or more electrodes in close proximity. Although electrode arrays provide excellent temporal resolution of neural activity, spatial resolution and sampling density are limited, and invasive electrodes have the potential to damage tissue. Moreover, single unit recordings by microelectrode arrays can be biased by preferential sampling of large neurons. Although optical measurements can temporally resolve the submillisecond dynamics of action potentials [20,21], such measurements have typically employed single channel detectors for speed and sensitivity. Even when fast-changing signals are enhanced through the use of voltage sensitive dyes, most investigators have used limited photodiode arrays consisting of a few dozen detectors (i.e., comparable to the resolution of typical electrode arrays). We have demonstrated the feasibility of imaging fast optical signals associated with neural activity using solid state imagers with a large number of detectors, such as CCDs. To date, our in vivo measurements have mostly been limited to averaged evoked activity of neural populations acting in synchrony. However, we recently demonstrated dynamic visualization of stimulus-evoked neural activity in isolated retina, with subcellular spatial resolution. Further, in some cases we can record functional images from large collections of individual cells in single passes. Our current studies involve tissue illumination with light of specific wavelengths, while scattered light is typically collected through microscope optics or by a coherent fiber optic image conduit, and conveyed to a charged coupled device (CCD) camera. The present technology allows continuous long-term measurements from a 2D tissue surface, with image capture rates up to 2000 Hz. Some versions of our imager allow recording from deep brain structures in freely behaving animals without disrupting normal behavior. Such techniques are essential to assess the role of the brain in spontaneous state-related and motor behaviors. We performed a number of physiological experiments to study the nature of light-scattering changes in vivo, and to investigate brain functioning in acute preparations, isolated retina, and in freely behaving animals. Images of optical changes from the dorsal hippocampus, ventral medulla, and whisker barrels showed clear regional patterns in response to physiologic manipulations or state alterations, which corresponded to neural activation of these structures. Fast components of the optical responses demonstrated improved spatial specificity and temporal signatures over the slower metabolic signals, and exhibited consistent changes after repeated stimulation or state changes. The procedure allowed assessment of activity components that were difficult to measure or were inaccessible with standard microelectrode techniques in freely behaving animals. Relationships between light scattering changes and neural activation were established by analyzing reflectance changes during synchronous \"spontaneous\" and evoked electrical activity, pharmacologically induced activity, and spontaneous state changes [22-24]. Synchronous oscillatory activation produced detectable light-scattering changes at similar frequencies to those observed in concurrent electroencephalographic recording. We believe that a large portion of the signals obtained during these studies result from changes in light scattering with some absorbance component. Since we typically use 660 nm or longer illumination wavelengths, absorbance by hemoglobin is low. Indeed, through the use of spectral component modeling, Malonek and Grinvald [25] claim the contribution of light scattering to the mapping components was larger than 70% at longer wavelengths. Additionally, the use of dark field illumination around the perimeter of the region forces the light to enter the tissue and to be scattered before returning to the detector. Thus, scattering events play a more prominent role in changes that we see, especially since the vasculature (the locus of the dominant absorbance changes) is located primarily on the surface of the tissue. Earlier reports of fast optical signals associated with neural activity described scattering changes and polarization (birefringence) changes [20,21]. While polarized-light illumination is required for cross-polarized measurements, nonpolarized light is typically used for assessment of scattering changes accompanying neural activation. The best evidence for polarization signals would be direct measurement of a change in the angular distribution. Demonstration of a flat spectral dependence across a polarity change in the Hgb oxygenation difference spectrum (e.g., 780-820 nm) would also be a strong indication. Many questions in neural interaction require temporal resolution in excess of the resolution provided by electroencephalographic measurements (which reflect integrated signals over large neural populations), and our recent efforts have been directed toward assessment of faster neural changes by optical means. We found that Schaeffer's collateral stimulation, in vivo, activated hippocampal cell populations and produced light-scattering changes concomitant with evoked electrical responses. These fast optical changes have been imaged and further characterized in recent studies of the rat dorsal medulla and whisker barrels. Recordings from isolated lobster nerve have been useful in optimizing scattered light changes resulting from volleys of action potentials. We have also used isolated retinas for better characterization of fast intrinsic optical signals associated with neural activation. Such signals can be found in single trials, and show optical changes that occur on the submillisecond time scale, comparable with ionic flux across the neural membrane. Studies with isolated nerve are ongoing in our laboratories to investigate the biophysical mechanisms of fast-scattered light changes associated with membrane potentials.",
+     "CI": [
+          "Copyright (c) 2009, Taylor & Francis Group, LLC."
+     ],
+     "FED": [
+          "Frostig, Ron D"
+     ],
+     "FAU": [
+          "Rector, David M.",
+          "Yao, Xincheng",
+          "Harper, Ronald M.",
+          "George, John S."
+     ],
+     "AU": [
+          "Rector DM",
+          "Yao X",
+          "Harper RM",
+          "George JS"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Review",
+          "Book Chapter"
+     ],
+     "PL": "Boca Raton (FL)",
+     "EDAT": "2016/02/05 06:00",
+     "MHDA": "2016/02/05 06:00",
+     "CDAT": [
+          "2016/02/05 06:00"
+     ],
+     "AID": [
+          "NBK20228 [bookaccession]"
+     ],
+     "term": "hippocampus"
+}

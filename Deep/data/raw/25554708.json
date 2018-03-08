@@ -1,0 +1,73 @@
+{
+     "PMID": "25554708",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "0018-9219 (Print) 0018-9219 (Linking)",
+     "VI": "102",
+     "IP": "5",
+     "DP": "2014 May",
+     "TI": "An Augmented Two-Layer Model Captures Nonlinear Analog Spatial Integration Effects in Pyramidal Neuron Dendrites.",
+     "LID": "1 [pii]",
+     "AB": "In pursuit of the goal to understand and eventually reproduce the diverse functions of the brain, a key challenge lies in reverse engineering the peculiar biology-based \"technology\" that underlies the brain's remarkable ability to process and store information. The basic building block of the nervous system is the nerve cell, or \"neuron,\" yet after more than 100 years of neurophysiological study and 60 years of modeling, the information processing functions of individual neurons, and the parameters that allow them to engage in so many different types of computation (sensory, motor, mnemonic, executive, etc.) remain poorly understood. In this paper, we review both historical and recent findings that have led to our current understanding of the analog spatial processing capabilities of dendrites, the major input structures of neurons, with a focus on the principal cell type of the neocortex and hippocampus, the pyramidal neuron (PN). We encapsulate our current understanding of PN dendritic integration in an abstract layered model whose spatially sensitive branch-subunits compute multidimensional sigmoidal functions. Unlike the 1-D sigmoids found in conventional neural network models, multidimensional sigmoids allow the cell to implement a rich spectrum of nonlinear modulation effects directly within their dendritic trees.",
+     "FAU": [
+          "Jadi, Monika P",
+          "Behabadi, Bardia F",
+          "Poleg-Polsky, Alon",
+          "Schiller, Jackie",
+          "Mel, Bartlett W"
+     ],
+     "AU": [
+          "Jadi MP",
+          "Behabadi BF",
+          "Poleg-Polsky A",
+          "Schiller J",
+          "Mel BW"
+     ],
+     "AD": "Computational Neurobiology Laboratory, Salk Institute for Biological Studies, La Jolla, CA 92037 USA. Qualcomm Research, San Diego, CA 92121 USA. Synaptic Physiology Section, National Institute of Neurobiological Disorders and Stroke, National Institutes of Health, Bethesda, MD 20892 USA. Department of Physiology, Technion Medical School, Haifa 31096, Israel. Department of Biomedical Engineering and Neuroscience Graduate Program, University of Southern California, Los Angeles, CA 90089 USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH065918/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Proc IEEE Inst Electr Electron Eng",
+     "JT": "Proceedings of the IEEE. Institute of Electrical and Electronics Engineers",
+     "JID": "9879073",
+     "PMC": "PMC4279447",
+     "MID": [
+          "NIHMS634632"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Contextual modulation",
+          "dendrites",
+          "dendritic spike",
+          "multilayer network",
+          "multiplicative interaction",
+          "single-neuron model",
+          "synaptic integration"
+     ],
+     "EDAT": "2015/01/03 06:00",
+     "MHDA": "2015/01/03 06:00",
+     "CRDT": [
+          "2015/01/03 06:00"
+     ],
+     "PHST": [
+          "2015/01/03 06:00 [entrez]",
+          "2015/01/03 06:00 [pubmed]",
+          "2015/01/03 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/JPROC.2014.2312671 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc IEEE Inst Electr Electron Eng. 2014 May;102(5). doi: 10.1109/JPROC.2014.2312671.",
+     "term": "hippocampus"
+}

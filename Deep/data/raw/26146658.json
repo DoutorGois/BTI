@@ -1,0 +1,62 @@
+{
+     "PMID": "26146658",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20171116",
+     "IS": "2373-2822 (Electronic) 2373-2822 (Linking)",
+     "VI": "2",
+     "IP": "3",
+     "DP": "2015 May-Jun",
+     "TI": "Network Mechanisms Generating Abnormal and Normal Hippocampal High-Frequency Oscillations: A Computational Analysis.",
+     "LID": "10.1523/ENEURO.0024-15.2015 [doi]",
+     "AB": "High-frequency oscillations (HFOs) are an intriguing potential biomarker for epilepsy, typically categorized according to peak frequency as either ripples (100-250 Hz) or fast ripples (>250 Hz). In the hippocampus, fast ripples were originally thought to be more specific to epileptic tissue, but it is still very di cult to distinguish which HFOs are caused by normal versus pathological brain activity. In this study we use a computational model of hippocampus to investigate possible network mechanisms underpinning normal ripples, pathological ripples, and fast ripples. Our results unify several prior findings regarding HFO mechanisms, and also make several new predictions regarding abnormal HFOs. We show that HFOs are generic, emergent phenomena whose characteristics reflect a wide range of connectivity and network input. Although produced by di erent mechanisms, both normal and abnormal HFOs generate similar ripple frequencies, underscoring that peak frequency is unable to distinguish the two. Abnormal ripples are generic phenomena that arise when input to pyramidal cells overcomes network inhibition, resulting in high-frequency, uncoordinated firing. In addition, fast ripples transiently and sporadically arise from the precise conditions that produce abnormal ripples. Lastly, we show that such abnormal conditions do not require any specific network structure to produce coherent HFOs, as even completely asynchronous activity is capable of producing abnormal ripples and fast ripples in this manner. These results provide a generic, network-based explanation for the link between pathological ripples and fast ripples, and a unifying description for the entire spectrum from normal ripples to pathological fast ripples.",
+     "FAU": [
+          "Fink, Christian G",
+          "Gliske, Stephen",
+          "Catoni, Nicholas",
+          "Stacey, William C"
+     ],
+     "AU": [
+          "Fink CG",
+          "Gliske S",
+          "Catoni N",
+          "Stacey WC"
+     ],
+     "AD": "Department of Physics & Astronomy and Neuroscience Program, Ohio Wesleyan University, Delaware, OH, USA. Department of Neurology, University of Michigan, Ann Arbor, MI, USA. Department of Neuroscience, Brown University, Providence, RI, USA. Department of Biomedical Engineering, University of Michigan, Ann Arbor, MI, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K08 NS069783/NS/NINDS NIH HHS/United States",
+          "R01 NS094399/NS/NINDS NIH HHS/United States",
+          "UL1 TR000433/TR/NCATS NIH HHS/United States",
+          "UL1 TR002240/TR/NCATS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "eNeuro",
+     "JT": "eNeuro",
+     "JID": "101647362",
+     "PMC": "PMC4487885",
+     "MID": [
+          "NIHMS695993"
+     ],
+     "EDAT": "2015/07/07 06:00",
+     "MHDA": "2015/07/07 06:01",
+     "CRDT": [
+          "2015/07/07 06:00"
+     ],
+     "PHST": [
+          "2015/07/07 06:00 [entrez]",
+          "2015/07/07 06:00 [pubmed]",
+          "2015/07/07 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1523/ENEURO.0024-15.2015 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "eNeuro. 2015 May-Jun;2(3). doi: 10.1523/ENEURO.0024-15.2015.",
+     "term": "hippocampus"
+}

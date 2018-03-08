@@ -1,0 +1,96 @@
+{
+     "PMID": "26594378",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160829",
+     "LR": "20170220",
+     "IS": "2052-4463 (Print) 2052-4463 (Linking)",
+     "VI": "2",
+     "DP": "2015",
+     "TI": "Multi-contrast submillimetric 3 Tesla hippocampal subfield segmentation protocol and dataset.",
+     "PG": "150059",
+     "LID": "10.1038/sdata.2015.59 [doi]",
+     "AB": "The hippocampus is composed of distinct anatomical subregions that participate in multiple cognitive processes and are differentially affected in prevalent neurological and psychiatric conditions. Advances in high-field MRI allow for the non-invasive identification of hippocampal substructure. These approaches, however, demand time-consuming manual segmentation that relies heavily on anatomical expertise. Here, we share manual labels and associated high-resolution MRI data (MNI-HISUB25; submillimetric T1- and T2-weighted images, detailed sequence information, and stereotaxic probabilistic anatomical maps) based on 25 healthy subjects. Data were acquired on a widely available 3 Tesla MRI system using a 32 phased-array head coil. The protocol divided the hippocampal formation into three subregions: subicular complex, merged Cornu Ammonis 1, 2 and 3 (CA1-3) subfields, and CA4-dentate gyrus (CA4-DG). Segmentation was guided by consistent intensity and morphology characteristics of the densely myelinated molecular layer together with few geometry-based boundaries flexible to overall mesiotemporal anatomy, and achieved excellent intra-/inter-rater reliability (Dice index >/=90/87%). The dataset can inform neuroimaging assessments of the mesiotemporal lobe and help to develop segmentation algorithms relevant for basic and clinical neurosciences.",
+     "FAU": [
+          "Kulaga-Yoskovitz, Jessie",
+          "Bernhardt, Boris C",
+          "Hong, Seok-Jun",
+          "Mansi, Tommaso",
+          "Liang, Kevin E",
+          "van der Kouwe, Andre J W",
+          "Smallwood, Jonathan",
+          "Bernasconi, Andrea",
+          "Bernasconi, Neda"
+     ],
+     "AU": [
+          "Kulaga-Yoskovitz J",
+          "Bernhardt BC",
+          "Hong SJ",
+          "Mansi T",
+          "Liang KE",
+          "van der Kouwe AJ",
+          "Smallwood J",
+          "Bernasconi A",
+          "Bernasconi N"
+     ],
+     "AD": "Neuroimaging of Epilepsy Laboratory, Department of Neurology and Neurosurgery and McConnell Brain Imaging Centre, McGill University , Montreal, Quebec, Canada H3A2B4. Neuroimaging of Epilepsy Laboratory, Department of Neurology and Neurosurgery and McConnell Brain Imaging Centre, McGill University , Montreal, Quebec, Canada H3A2B4 ; Max-Planck Institute for Human Cognitive and Brain Sciences, Department of Social Neuroscience , Leipzig 04303, Germany. Neuroimaging of Epilepsy Laboratory, Department of Neurology and Neurosurgery and McConnell Brain Imaging Centre, McGill University , Montreal, Quebec, Canada H3A2B4. Medical Imaging Technologies, Healthcare Technology Center, Siemens Medical Solution USA, Inc. , Princeton, New Jersey 08540, USA. Neuroimaging of Epilepsy Laboratory, Department of Neurology and Neurosurgery and McConnell Brain Imaging Centre, McGill University , Montreal, Quebec, Canada H3A2B4. Department of Radiology, Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital , Charlestown, Massachusetts 02129, USA. Department of Psychology, York University , York YO105DD, UK. Neuroimaging of Epilepsy Laboratory, Department of Neurology and Neurosurgery and McConnell Brain Imaging Centre, McGill University , Montreal, Quebec, Canada H3A2B4. Neuroimaging of Epilepsy Laboratory, Department of Neurology and Neurosurgery and McConnell Brain Imaging Centre, McGill University , Montreal, Quebec, Canada H3A2B4.",
+     "AUID": [
+          "ORCID: 0000-0003-3470-8456"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MOP-123520/Canadian Institutes of Health Research/Canada",
+          "MOP-57840/Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Dataset",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20151110",
+     "PL": "England",
+     "TA": "Sci Data",
+     "JT": "Scientific data",
+     "JID": "101640192",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Brain Mapping",
+          "Dentate Gyrus/anatomy & histology",
+          "*Hippocampus/anatomy & histology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted",
+          "Magnetic Resonance Imaging"
+     ],
+     "PMC": "PMC4640139",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Brain",
+          "Brain imaging",
+          "Magnetic resonance imaging",
+          "Neurology",
+          "Neuroscience"
+     ],
+     "EDAT": "2015/11/26 06:00",
+     "MHDA": "2016/08/30 06:00",
+     "CRDT": [
+          "2015/11/24 06:00"
+     ],
+     "PHST": [
+          "2015/08/10 00:00 [received]",
+          "2015/10/07 00:00 [accepted]",
+          "2015/11/24 06:00 [entrez]",
+          "2015/11/26 06:00 [pubmed]",
+          "2016/08/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1038/sdata.2015.59 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Sci Data. 2015 Nov 10;2:150059. doi: 10.1038/sdata.2015.59. eCollection 2015.",
+     "term": "hippocampus"
+}

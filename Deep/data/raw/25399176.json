@@ -1,0 +1,62 @@
+{
+     "PMID": "25399176",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20150604",
+     "LR": "20141117",
+     "IS": "1089-7690 (Electronic) 0021-9606 (Linking)",
+     "VI": "141",
+     "IP": "18",
+     "DP": "2014 Nov 14",
+     "TI": "Detecting vapour bubbles in simulations of metastable water.",
+     "PG": "18C511",
+     "LID": "10.1063/1.4896216 [doi]",
+     "AB": "The investigation of cavitation in metastable liquids with molecular simulations requires an appropriate definition of the volume of the vapour bubble forming within the metastable liquid phase. Commonly used approaches for bubble detection exhibit two significant flaws: first, when applied to water they often identify the voids within the hydrogen bond network as bubbles thus masking the signature of emerging bubbles and, second, they lack thermodynamic consistency. Here, we present two grid-based methods, the M-method and the V-method, to detect bubbles in metastable water specifically designed to address these shortcomings. The M-method incorporates information about neighbouring grid cells to distinguish between liquid- and vapour-like cells, which allows for a very sensitive detection of small bubbles and high spatial resolution of the detected bubbles. The V-method is calibrated such that its estimates for the bubble volume correspond to the average change in system volume and are thus thermodynamically consistent. Both methods are computationally inexpensive such that they can be used in molecular dynamics and Monte Carlo simulations of cavitation. We illustrate them by computing the free energy barrier and the size of the critical bubble for cavitation in water at negative pressure.",
+     "FAU": [
+          "Gonzalez, Miguel A",
+          "Menzl, Georg",
+          "Aragones, Juan L",
+          "Geiger, Philipp",
+          "Caupin, Frederic",
+          "Abascal, Jose L F",
+          "Dellago, Christoph",
+          "Valeriani, Chantal"
+     ],
+     "AU": [
+          "Gonzalez MA",
+          "Menzl G",
+          "Aragones JL",
+          "Geiger P",
+          "Caupin F",
+          "Abascal JL",
+          "Dellago C",
+          "Valeriani C"
+     ],
+     "AD": "Departamento de Quimica Fsica, Facultad de Ciencias Quimicas, Universidad Complutense de Madrid, 28040 Madrid, Spain. Faculty of Physics and Center for Computational Materials Science, University of Vienna, Boltzmanngasse 5, 1090 Vienna, Austria. Departamento de Quimica Fsica, Facultad de Ciencias Quimicas, Universidad Complutense de Madrid, 28040 Madrid, Spain. Faculty of Physics and Center for Computational Materials Science, University of Vienna, Boltzmanngasse 5, 1090 Vienna, Austria. Laboratoire de Physique de la Matiere Condensee et Nanostructures, Universite Claude Bernard, Lyon 1 et CNRS, Institut Universitaire de France, 43 boulevard du 11 novembre 1918, 69100 Villeurbanne, France. Departamento de Quimica Fsica, Facultad de Ciencias Quimicas, Universidad Complutense de Madrid, 28040 Madrid, Spain. Faculty of Physics and Center for Computational Materials Science, University of Vienna, Boltzmanngasse 5, 1090 Vienna, Austria. Departamento de Quimica Fsica, Facultad de Ciencias Quimicas, Universidad Complutense de Madrid, 28040 Madrid, Spain.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "J Chem Phys",
+     "JT": "The Journal of chemical physics",
+     "JID": "0375360",
+     "EDAT": "2014/11/17 06:00",
+     "MHDA": "2014/11/17 06:01",
+     "CRDT": [
+          "2014/11/17 06:00"
+     ],
+     "PHST": [
+          "2014/11/17 06:00 [entrez]",
+          "2014/11/17 06:00 [pubmed]",
+          "2014/11/17 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1063/1.4896216 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Chem Phys. 2014 Nov 14;141(18):18C511. doi: 10.1063/1.4896216.",
+     "term": "grid cells"
+}

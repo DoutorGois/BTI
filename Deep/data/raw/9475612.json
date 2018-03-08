@@ -1,0 +1,69 @@
+{
+     "PMID": "9475612",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19980403",
+     "LR": "20131121",
+     "IS": "0166-4328 (Print) 0166-4328 (Linking)",
+     "VI": "89",
+     "IP": "1-2",
+     "DP": "1997 Dec",
+     "TI": "Free recall and recognition in a network model of the hippocampus: simulating effects of scopolamine on human memory function.",
+     "PG": "1-34",
+     "AB": "Free recall and recognition are simulated in a network model of the hippocampal formation, incorporating simplified simulations of neurons, synaptic connections, and the effects of acetylcholine. Simulations focus on modeling the effects of the acetylcholine receptor blocker scopolamine on human memory. Systemic administration of scopolamine is modeled by blockade of the cellular effects of acetylcholine in the model, resulting in memory impairments replicating data from studies on human subjects. This blockade of cholinergic effects impairs the encoding of new input patterns (as measured by delayed free recall), but does not impair the delayed free recall of input patterns learned before the blockade. The impairment is selective to the free recall but not the recognition of items encoded under the influence of scopolamine. In the model, scopolamine blocks strengthening of recurrent connections in region CA3 to form attractor states for new items (encoding impaired) but allows recurrent excitation to drive the network into previously stored attractor states (retrieval spared). Neuron populations representing items (individual words) have weaker recurrent connections than neuron populations representing experimental context. When scopolamine further weakens the strength of recurrent connections it selectively prevents the subsequent reactivation of item attractor states by context input (impaired free recall) without impairing the subsequent reactivation of context attractor states by item input (spared recognition). This asymmetry in the strength of attractor states also allows simulation of the list-strength effect for free recall but not recognition. Simulation of a paired associate learning paradigm predicts that scopolamine should greatly enhance proactive interference due to retrieval of previously encoded associations during storage of new associations.",
+     "FAU": [
+          "Hasselmo, M E",
+          "Wyble, B P"
+     ],
+     "AU": [
+          "Hasselmo ME",
+          "Wyble BP"
+     ],
+     "AD": "Department of Psychology, Program in Neuroscience, Harvard University, Cambridge, MA 02138, USA. hasselmo@katla.harvard.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R29 MH52732-01/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+     ],
+     "PL": "Netherlands",
+     "TA": "Behav Brain Res",
+     "JT": "Behavioural brain research",
+     "JID": "8004872",
+     "RN": [
+          "0 (Cholinergic Antagonists)",
+          "451IFR0GXB (Scopolamine Hydrobromide)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Cholinergic Antagonists/*pharmacology",
+          "Cognition/*physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Memory/*drug effects",
+          "Mental Recall/*physiology",
+          "*Neural Networks (Computer)",
+          "Scopolamine Hydrobromide/*pharmacology"
+     ],
+     "RF": "160",
+     "EDAT": "1998/02/25 00:00",
+     "MHDA": "1998/02/25 00:01",
+     "CRDT": [
+          "1998/02/25 00:00"
+     ],
+     "PHST": [
+          "1998/02/25 00:00 [pubmed]",
+          "1998/02/25 00:01 [medline]",
+          "1998/02/25 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Behav Brain Res. 1997 Dec;89(1-2):1-34.",
+     "term": "hippocampus"
+}

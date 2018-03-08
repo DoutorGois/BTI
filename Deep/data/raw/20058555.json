@@ -1,0 +1,63 @@
+{
+     "PMID": "20058555",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100204",
+     "LR": "20100111",
+     "IS": "1532-8546 (Print) 1532-8546 (Linking)",
+     "VI": "53",
+     "DP": "2009 Nov",
+     "TI": "A finite element model of region-specific response for mild diffuse brain injury.",
+     "PG": "193-213",
+     "AB": "It is well known that rotational loading is responsible for a spectrum of diffuse brain injuries spanning from concussion to diffuse axonal trauma. Many experimental studies have been performed to understand the pathological and biomechanical factors associated with diffuse brain injuries. Finite element models have also been developed to correlate experimental findings with intrinsic variables such as strain. However, a paucity of studies exist examining the combined role of the strain-time parameter. Consequently, using the principles of finite element analysis, the present study introduced the concept of sustained maximum principal strain (SMPS) criterion and explored its potential applicability to diffuse brain injury. An algorithm was developed to determine if the principal strain in a finite element of the brain exceeded a specified magnitude over a specific time interval. The anatomical and geometrical details of the rat for the two-dimensional model were obtained from published data. Using material properties from literature and iterative techniques, the model was validated under three distinct rotational loading conditions indicative of non-injury, concussion, and diffuse axonal trauma. Validation results produced a set of material properties to define the model and were deemed appropriate to examine the role of sustained strain as an indicator of the mechanics of mild diffuse brain injury at the local level. Using a separate set of histological data obtained from graded mild diffuse brain injury experimental studies in rats, different formulations of SMPS criterion were evaluated. For the hippocampus and parietal cortex regions, 4-4 SMPS criterion was found to most closely match with the pattern of histological results. This was further verified by correlating the fractional areas to the time of unconsciousness for each animal group. Although not fully conclusive, these results are valuable in the understanding of diffuse brain injury pathologies following rotational loading.",
+     "FAU": [
+          "Fijalkowski, Ronald J",
+          "Yoganandan, Narayan",
+          "Zhang, Jiangyue",
+          "Pintar, Frank A"
+     ],
+     "AU": [
+          "Fijalkowski RJ",
+          "Yoganandan N",
+          "Zhang J",
+          "Pintar FA"
+     ],
+     "AD": "Department of Neurosurgery, Medical College of Wisconsin, Milwaukee, Wisconsin, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Stapp Car Crash J",
+     "JT": "Stapp car crash journal",
+     "JID": "101133951",
+     "SB": "IM",
+     "MH": [
+          "*Acceleration",
+          "Brain/*physiopathology",
+          "Brain Injuries/*etiology/*physiopathology",
+          "Computer Simulation",
+          "Elastic Modulus",
+          "Finite Element Analysis",
+          "Humans",
+          "*Models, Biological",
+          "Rotation"
+     ],
+     "EDAT": "2010/01/12 06:00",
+     "MHDA": "2010/02/05 06:00",
+     "CRDT": [
+          "2010/01/12 06:00"
+     ],
+     "PHST": [
+          "2010/01/12 06:00 [entrez]",
+          "2010/01/12 06:00 [pubmed]",
+          "2010/02/05 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Stapp Car Crash J. 2009 Nov;53:193-213.",
+     "term": "hippocampus"
+}

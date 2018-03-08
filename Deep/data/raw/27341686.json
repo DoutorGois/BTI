@@ -1,0 +1,67 @@
+{
+     "PMID": "27341686",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170320",
+     "LR": "20170320",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "12",
+     "IP": "6",
+     "DP": "2016 Jun",
+     "TI": "Competitive Dynamics in MSTd: A Mechanism for Robust Heading Perception Based on Optic Flow.",
+     "PG": "e1004942",
+     "LID": "10.1371/journal.pcbi.1004942 [doi]",
+     "AB": "Human heading perception based on optic flow is not only accurate, it is also remarkably robust and stable. These qualities are especially apparent when observers move through environments containing other moving objects, which introduce optic flow that is inconsistent with observer self-motion and therefore uninformative about heading direction. Moving objects may also occupy large portions of the visual field and occlude regions of the background optic flow that are most informative about heading perception. The fact that heading perception is biased by no more than a few degrees under such conditions attests to the robustness of the visual system and warrants further investigation. The aim of the present study was to investigate whether recurrent, competitive dynamics among MSTd neurons that serve to reduce uncertainty about heading over time offer a plausible mechanism for capturing the robustness of human heading perception. Simulations of existing heading models that do not contain competitive dynamics yield heading estimates that are far more erratic and unstable than human judgments. We present a dynamical model of primate visual areas V1, MT, and MSTd based on that of Layton, Mingolla, and Browning that is similar to the other models, except that the model includes recurrent interactions among model MSTd neurons. Competitive dynamics stabilize the model's heading estimate over time, even when a moving object crosses the future path. Soft winner-take-all dynamics enhance units that code a heading direction consistent with the time history and suppress responses to transient changes to the optic flow field. Our findings support recurrent competitive temporal dynamics as a crucial mechanism underlying the robustness and stability of perception of heading.",
+     "FAU": [
+          "Layton, Oliver W",
+          "Fajen, Brett R"
+     ],
+     "AU": [
+          "Layton OW",
+          "Fajen BR"
+     ],
+     "AD": "Department of Cognitive Science, Rensselaer Polytechnic Institute, Troy, New York, United States of America. Department of Cognitive Science, Rensselaer Polytechnic Institute, Troy, New York, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160624",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Computer Simulation",
+          "Humans",
+          "*Models, Neurological",
+          "Motion Perception/*physiology",
+          "Optic Flow/*physiology",
+          "Orientation/*physiology",
+          "Spatial Navigation/*physiology",
+          "Visual Cortex/*physiology"
+     ],
+     "PMC": "PMC4920404",
+     "EDAT": "2016/06/25 06:00",
+     "MHDA": "2017/03/21 06:00",
+     "CRDT": [
+          "2016/06/25 06:00"
+     ],
+     "PHST": [
+          "2015/11/25 00:00 [received]",
+          "2016/04/22 00:00 [accepted]",
+          "2016/06/25 06:00 [entrez]",
+          "2016/06/25 06:00 [pubmed]",
+          "2017/03/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1004942 [doi]",
+          "PCOMPBIOL-D-15-01990 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2016 Jun 24;12(6):e1004942. doi: 10.1371/journal.pcbi.1004942. eCollection 2016 Jun.",
+     "term": "spatial navigation"
+}

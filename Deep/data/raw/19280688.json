@@ -1,0 +1,86 @@
+{
+     "PMID": "19280688",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090512",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "45",
+     "IP": "3",
+     "DP": "2009 Apr 15",
+     "TI": "Regional shape abnormalities in mild cognitive impairment and Alzheimer's disease.",
+     "PG": "656-61",
+     "AB": "Magnetic resonance (MR) based shape analysis provides an opportunity to detect regional specificity of volumetric changes that may distinguish mild cognitive impairment (MCI) and Alzheimer's disease (AD) from healthy elderly controls (CON), and predict future conversion to AD. We assessed the surface deformation of seven structures (amygdala, hippocampus, thalamus, caudate, putamen, globus pallidus, body and temporal horn of the lateral ventricles) in 383 MRI volumes, based on data shared through the publicly available Alzheimer's Disease Neuroimaging Initiative (ADNI), to identify regionally-specific shape abnormalities in MCI and AD. Large deformation diffeomorphic metric mapping (LDDMM) was used to generate the shapes of seven structures based on template shapes injected into segmented subcortical volumes. LDDMM then constructed the surface deformation maps encoding the local shape variation of each subject relative to the template. Hierarchical models were developed to detect differences in local shape in MCI and AD relative to CON. Our findings revealed that surface inward-deformation in MCI and AD is most prominent in the anterior hippocampal segment and the basolateral complex of the amygdala. Most pronounced surface outward-deformation in MCI and AD occurs in the lateral ventricles. Mild surface inward-deformation in MCI and AD occurs in the anterior-lateral and ventral-lateral aspects of the thalamus, with no evidence of regionally-specific deformation in the putamen or globus pallidus. Although the locations of the shape abnormalities in MCI and AD are primarily within the mesial temporal region, analyses support distinct components of correlated shape variation that may help predict future MCI conversion.",
+     "FAU": [
+          "Qiu, Anqi",
+          "Fennema-Notestine, Christine",
+          "Dale, Anders M",
+          "Miller, Michael I"
+     ],
+     "AU": [
+          "Qiu A",
+          "Fennema-Notestine C",
+          "Dale AM",
+          "Miller MI"
+     ],
+     "AD": "Division of Bioengineering, National University of Singapore, Singapore. bieqa@nus.edu.sg",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U24 RR021382/RR/NCRR NIH HHS/United States",
+          "U01-AG024904/AG/NIA NIH HHS/United States",
+          "U01 AG024904-04/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "P41 RR015241-097563/RR/NCRR NIH HHS/United States",
+          "U19 AG010483/AG/NIA NIH HHS/United States",
+          "U24-RR021382/RR/NCRR NIH HHS/United States",
+          "P41 RR015241/RR/NCRR NIH HHS/United States",
+          "U24 RR021382-03/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*pathology",
+          "Brain/*pathology",
+          "Cognition Disorders/*pathology",
+          "Disease Progression",
+          "Female",
+          "Humans",
+          "Image Interpretation, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged"
+     ],
+     "PMC": "PMC2847795",
+     "MID": [
+          "NIHMS188690"
+     ],
+     "EDAT": "2009/03/13 09:00",
+     "MHDA": "2009/05/13 09:00",
+     "CRDT": [
+          "2009/03/13 09:00"
+     ],
+     "PHST": [
+          "2009/03/13 09:00 [entrez]",
+          "2009/03/13 09:00 [pubmed]",
+          "2009/05/13 09:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2009 Apr 15;45(3):656-61.",
+     "term": "hippocampus"
+}

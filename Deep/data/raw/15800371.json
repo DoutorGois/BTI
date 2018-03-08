@@ -1,0 +1,84 @@
+{
+     "PMID": "15800371",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050617",
+     "LR": "20170219",
+     "IS": "1539-2791 (Print) 1539-2791 (Linking)",
+     "VI": "2",
+     "IP": "4",
+     "DP": "2004",
+     "TI": "Artificial neural networks and artificial organisms can predict Alzheimer pathology in individual patients only on the basis of cognitive and functional status.",
+     "PG": "399-416",
+     "AB": "Data from several studies have pointed out the existence of a strong correlation between Alzheimer's disease (AD) neuropathology and cognitive state. However, because of their highly complex and nonlinear relationship, it has been difficult to develop a predictive model for individual patient classification through traditional statistical approaches. When exposed to complex data sets, artificial neural networks (ANNs) can recognize patterns, learn the relationship of different variables, and address classification tasks. To predict the results of postmortem brain examinations, we applied ANNs to the Nun Study data set, a longitudinal epidemiological study, which includes annual cognitive and functional evaluation. One hundred seventeen subjects from the study participated in this analysis. We determined how demographic data and the cognitive and functional variables of each subject during the last year of her life could predict the presence of brain pathology expressed as Braak stages, neurofibrillary tangles (NFTs) and neuritic plaques (NPs) count in the neocortex and hippocampus, and brain atrophy. The result of this analysis was then compared with traditional statistical models. ANNs proved to be better predictors than Linear Discriminant Analysis in all experimentations (+ approximately 10% in overall accuracy), especially when assembled in Artificial Organisms (+ approximately 20% in overall accuracy). Demographic, cognitive, and clinical variables were better predictors of tangles count in the neocortex and in the hippocampus when compared to NPs count. These findings strengthen the hypothesis that neurofibrillary pathology may represent the major anatomic substrate of the cognitive impairment found in AD.",
+     "FAU": [
+          "Buscema, Massimo",
+          "Grossi, Enzo",
+          "Snowdon, David",
+          "Antuono, Piero",
+          "Intraligi, Marco",
+          "Maurelli, Guido",
+          "Savare, Rita"
+     ],
+     "AU": [
+          "Buscema M",
+          "Grossi E",
+          "Snowdon D",
+          "Antuono P",
+          "Intraligi M",
+          "Maurelli G",
+          "Savare R"
+     ],
+     "AD": "Semeion Research Center, Rome, Italy.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG009862-14/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*pathology/physiopathology",
+          "Cognition/*physiology",
+          "*Computer Simulation",
+          "Databases, Factual",
+          "Hippocampus/pathology/physiopathology",
+          "Humans",
+          "Neocortex/pathology/physiopathology",
+          "*Neural Networks (Computer)",
+          "Neurofibrillary Tangles/pathology",
+          "Neuropsychological Tests",
+          "Plaque, Amyloid/pathology",
+          "Predictive Value of Tests",
+          "Reproducibility of Results"
+     ],
+     "PMC": "PMC1360290",
+     "MID": [
+          "NIHMS4670"
+     ],
+     "EDAT": "2005/04/01 09:00",
+     "MHDA": "2005/06/18 09:00",
+     "CRDT": [
+          "2005/04/01 09:00"
+     ],
+     "PHST": [
+          "2005/04/01 09:00 [pubmed]",
+          "2005/06/18 09:00 [medline]",
+          "2005/04/01 09:00 [entrez]"
+     ],
+     "AID": [
+          "NI:2:4:399 [pii]",
+          "10.1385/NI:2:4:399 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2004;2(4):399-416. doi: 10.1385/NI:2:4:399.",
+     "term": "hippocampus"
+}

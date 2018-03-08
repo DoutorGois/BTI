@@ -1,0 +1,96 @@
+{
+     "PMID": "21990125",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120510",
+     "LR": "20170220",
+     "IS": "1522-2586 (Electronic) 1053-1807 (Linking)",
+     "VI": "35",
+     "IP": "2",
+     "DP": "2012 Feb",
+     "TI": "Comprehensive brain analysis with automated high-resolution magnetization transfer measurements.",
+     "PG": "309-17",
+     "LID": "10.1002/jmri.22835 [doi]",
+     "AB": "PURPOSE: To enhance the reliability and spatial resolution of magnetization transfer ratio (MTR) measurements for interrogation of subcortical brain regions with an automated volume of interest (VOI) approach. MATERIALS AND METHODS: A 3D magnetization transfer (MT) sequence was acquired using a scan-rescan imaging protocol in nine healthy volunteers. VOI definition masks for the MTR measurements were generated using FreeSurfer and compared to a manual region of interest (ROI) approach. (The longitudinal stability of MTR was monitored using agar gel phantom over a 5-month period.) Intraclass correlation coefficients (ICCs), coefficients of variation (CVs), and instrumental standard deviation (ISD) were determined. RESULTS: CVs ranged from 1.29%-2.64% (automated) vs. 1.30%-3.40% (manual). ISDs ranged from 0.62-1.10 pu (automated) vs. 0.68-1.67 pu (manual). The SD of the running difference was 1.70% for the phantom scans. The Bland-Altman method indicated interchangeability of the automated VOI and manual ROI measurements. CONCLUSION: The automated VOI approach for MTR measurement yielded higher ICCs, lower CVs, and lower ISDs compared to the manual method, supporting the utility of this strategy. These results demonstrate the feasibility of obtaining reliable MTR measurements in hippocampus and other critical subcortical regions.",
+     "CI": [
+          "Copyright (c) 2011 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Wu, Ying",
+          "Du, Hongyan",
+          "Storey, Pippa",
+          "Glielmi, Christopher",
+          "Malone, Fiona",
+          "Sidharthan, Shawn",
+          "Ragin, Ann",
+          "Tofts, Paul S",
+          "Edelman, Robert R"
+     ],
+     "AU": [
+          "Wu Y",
+          "Du H",
+          "Storey P",
+          "Glielmi C",
+          "Malone F",
+          "Sidharthan S",
+          "Ragin A",
+          "Tofts PS",
+          "Edelman RR"
+     ],
+     "AD": "Radiology, NorthShore University HealthSystem, Evanston, Illinois 60201, USA. YWu@northshore.org",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH080636/MH/NIMH NIH HHS/United States",
+          "1R01MH080636-01A2/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20111011",
+     "PL": "United States",
+     "TA": "J Magn Reson Imaging",
+     "JT": "Journal of magnetic resonance imaging : JMRI",
+     "JID": "9105850",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Analysis of Variance",
+          "Brain Mapping/*methods",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted/methods",
+          "Imaging, Three-Dimensional",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Phantoms, Imaging",
+          "Reproducibility of Results"
+     ],
+     "PMC": "PMC4137888",
+     "MID": [
+          "NIHMS327171"
+     ],
+     "EDAT": "2011/10/13 06:00",
+     "MHDA": "2012/05/11 06:00",
+     "CRDT": [
+          "2011/10/13 06:00"
+     ],
+     "PHST": [
+          "2011/04/20 00:00 [received]",
+          "2011/09/14 00:00 [accepted]",
+          "2011/10/13 06:00 [entrez]",
+          "2011/10/13 06:00 [pubmed]",
+          "2012/05/11 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/jmri.22835 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Magn Reson Imaging. 2012 Feb;35(2):309-17. doi: 10.1002/jmri.22835. Epub 2011 Oct 11.",
+     "term": "hippocampus"
+}

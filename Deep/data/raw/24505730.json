@@ -1,0 +1,74 @@
+{
+     "PMID": "24505730",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140227",
+     "LR": "20170220",
+     "VI": "16",
+     "IP": "Pt 1",
+     "DP": "2013",
+     "TI": "Groupwise segmentation with multi-atlas joint label fusion.",
+     "PG": "711-8",
+     "AB": "Groupwise segmentation that simultaneously segments a set of images and ensures that the segmentations for the same structure of interest from different images are consistent usually can achieve better performance than segmenting each image independently. Our main contribution is that we adopt the groupwise segmentation framework to improve the performance of multi-atlas label fusion. We develop a novel statistical model to allow this extension. Comparing to previous atlas propagation and groupwise segmentation work, one key novelty of our method is that the error produced during label propagation is explicitly addressed in the joint label fusion framework. Experiments on hippocampus segmentation in magnetic resonance images show the effectiveness of the new groupwise segmentation technique.",
+     "FAU": [
+          "Wang, Hongzhi",
+          "Yushkevich, Paul A"
+     ],
+     "AU": [
+          "Wang H",
+          "Yushkevich PA"
+     ],
+     "AD": "Department of Radiology, University of Pennsylvania, USA. Department of Radiology, University of Pennsylvania, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "R01 EB014346/EB/NIBIB NIH HHS/United States",
+          "AG037376/AG/NIA NIH HHS/United States",
+          "EB014346/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Computer Simulation",
+          "Data Interpretation, Statistical",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Neurological",
+          "Models, Statistical",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "PMC": "PMC3918678",
+     "MID": [
+          "NIHMS508397"
+     ],
+     "EDAT": "2014/02/08 06:00",
+     "MHDA": "2014/02/28 06:00",
+     "CRDT": [
+          "2014/02/08 06:00"
+     ],
+     "PHST": [
+          "2014/02/08 06:00 [entrez]",
+          "2014/02/08 06:00 [pubmed]",
+          "2014/02/28 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2013;16(Pt 1):711-8.",
+     "term": "hippocampus"
+}

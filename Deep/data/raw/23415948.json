@@ -1,0 +1,87 @@
+{
+     "PMID": "23415948",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130913",
+     "LR": "20130401",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "74",
+     "DP": "2013 Jul 1",
+     "TI": "A novel in vivo atlas of human hippocampal subfields using high-resolution 3 T magnetic resonance imaging.",
+     "PG": "254-65",
+     "LID": "10.1016/j.neuroimage.2013.02.003 [doi] S1053-8119(13)00123-7 [pii]",
+     "AB": "The hippocampus is a neuroanatomical structure that has been widely studied in the context of learning, memory, stress, and neurodegeneration. Neuroanatomically, the hippocampus is subdivided into several subfields with intricate morphologies and complex three-dimensional relationships. Recent studies have demonstrated that the identification of different subfields is possible with high-resolution and -contrast image volumes acquired using ex vivo specimens in a small bore 9.4 T scanner and, more recently, in vivo, at 7 T. In these studies, the neuroanatomical definitions of boundaries between subfields are based upon salient differences in image contrast. Typically, the definition of subfields has not been possible using commonly available magnetic resonance (MR) scanners (i.e.: 1.5 or 3T) due to resolution and contrast limitations. To overcome the limited availability of post-mortem specimens and expertise in state-of-the-art high-field imaging, we propose a coupling of MR acquisition and detailed segmentation techniques that allow for the reliable identification of hippocampal anatomy (including subfields). High-resolution and -contrast T1- and T2-weighted image volumes were acquired from 5 volunteers (2 male; 3 female; age range: 29-57, avg. 37) using a clinical research-grade 3T scanner and have final super-sampled isotropic voxel dimensions of 0.3mm. We demonstrate that by using these acquisition techniques, our data results in contrast-to-noise ratios that compare well with high-resolution images acquired with long scan times using post-mortem data at higher field strengths. For the subfields, the cornus ammonis (CA) 1, CA2/CA3, CA4/dentate gyrus, stratum radiatum/stratum lacunosum/stratum moleculare, and subiculum were all labeled as separate structures. Hippocampal volumes are reported for each of the substructures and the hippocampus as a whole (range for hippocampus: 2456.72-3325.02 mm(3)). Intra-rater reliability of our manual segmentation protocol demonstrates high reliability for the whole hippocampus (mean Dice Kappa of 0.91; range 0.90-0.92) and for each of the subfields (range of Dice Kappas: 0.64-0.83). We demonstrate that our reliability is better than the Dice Kappas produced by simulating the following errors: a translation by a single voxel in all cardinal directions and 1% volumetric shrinkage and expansion. The completed hippocampal atlases are available freely online (info2.camh.net/kf-tigr/index.php/Hippocampus) and can be coupled with novel computational neuroanatomy techniques that will allow for them to be customized to the unique neuroanatomy of different subjects, and ultimately be utilized in different analysis pipelines.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Winterburn, Julie L",
+          "Pruessner, Jens C",
+          "Chavez, Sofia",
+          "Schira, Mark M",
+          "Lobaugh, Nancy J",
+          "Voineskos, Aristotle N",
+          "Chakravarty, M Mallar"
+     ],
+     "AU": [
+          "Winterburn JL",
+          "Pruessner JC",
+          "Chavez S",
+          "Schira MM",
+          "Lobaugh NJ",
+          "Voineskos AN",
+          "Chakravarty MM"
+     ],
+     "AD": "Kimel Family Translational Imaging Genetics Research Laboratory, Research Imaging Centre, Centre for Addiction and Mental Health, Toronto, Canada. winterburn.julie@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01MH099167/MH/NIMH NIH HHS/United States",
+          "Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130213",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Anatomy, Artistic",
+          "*Atlases as Topic",
+          "Brain Mapping/*methods",
+          "Female",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged"
+     ],
+     "EDAT": "2013/02/19 06:00",
+     "MHDA": "2013/09/14 06:00",
+     "CRDT": [
+          "2013/02/19 06:00"
+     ],
+     "PHST": [
+          "2012/12/13 00:00 [received]",
+          "2013/01/28 00:00 [revised]",
+          "2013/02/03 00:00 [accepted]",
+          "2013/02/19 06:00 [entrez]",
+          "2013/02/19 06:00 [pubmed]",
+          "2013/09/14 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(13)00123-7 [pii]",
+          "10.1016/j.neuroimage.2013.02.003 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2013 Jul 1;74:254-65. doi: 10.1016/j.neuroimage.2013.02.003. Epub 2013 Feb 13.",
+     "term": "hippocampus"
+}

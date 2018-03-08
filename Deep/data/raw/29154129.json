@@ -1,0 +1,104 @@
+{
+     "PMID": "29154129",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171220",
+     "LR": "20171220",
+     "IS": "1097-4199 (Electronic) 0896-6273 (Linking)",
+     "VI": "96",
+     "IP": "5",
+     "DP": "2017 Dec 6",
+     "TI": "Collective Behavior of Place and Non-place Neurons in the Hippocampal Network.",
+     "PG": "1178-1191.e4",
+     "LID": "S0896-6273(17)30996-0 [pii] 10.1016/j.neuron.2017.10.027 [doi]",
+     "AB": "Discussions of the hippocampus often focus on place cells, but many neurons are not place cells in any given environment. Here we describe the collective activity in such mixed populations, treating place and non-place cells on the same footing. We start with optical imaging experiments on CA1 in mice as they run along a virtual linear track and use maximum entropy methods to approximate the distribution of patterns of activity in the population, matching the correlations between pairs of cells but otherwise assuming as little structure as possible. We find that these simple models accurately predict the activity of each neuron from the state of all the other neurons in the network, regardless of how well that neuron codes for position. Our results suggest that understanding the neural activity may require not only knowledge of the external variables modulating it but also of the internal network state.",
+     "CI": [
+          "Copyright (c) 2017 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Meshulam, Leenoy",
+          "Gauthier, Jeffrey L",
+          "Brody, Carlos D",
+          "Tank, David W",
+          "Bialek, William"
+     ],
+     "AU": [
+          "Meshulam L",
+          "Gauthier JL",
+          "Brody CD",
+          "Tank DW",
+          "Bialek W"
+     ],
+     "AD": "Princeton Neuroscience Institute, Princeton University, Princeton, NJ 08544, USA; Joseph Henry Laboratories of Physics, Princeton University, Princeton, NJ 08544, USA; Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, NJ 08544, USA. Electronic address: leenoy@princeton.edu. Princeton Neuroscience Institute, Princeton University, Princeton, NJ 08544, USA. Princeton Neuroscience Institute, Princeton University, Princeton, NJ 08544, USA; Department of Molecular Biology, Princeton University, Princeton, NJ 08544, USA; Howard Hughes Medical Institute, Princeton University, Princeton, NJ 08544, USA. Princeton Neuroscience Institute, Princeton University, Princeton, NJ 08544, USA; Joseph Henry Laboratories of Physics, Princeton University, Princeton, NJ 08544, USA; Department of Molecular Biology, Princeton University, Princeton, NJ 08544, USA. Joseph Henry Laboratories of Physics, Princeton University, Princeton, NJ 08544, USA; Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, NJ 08544, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Howard Hughes Medical Institute/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171116",
+     "PL": "United States",
+     "TA": "Neuron",
+     "JT": "Neuron",
+     "JID": "8809320",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Algorithms",
+          "Animals",
+          "CA1 Region, Hippocampal/cytology/physiology",
+          "Entropy",
+          "Hippocampus/*cytology/*physiology",
+          "Male",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Mice, Transgenic",
+          "Models, Neurological",
+          "Nerve Net/*cytology/*physiology",
+          "Neurons/*physiology",
+          "Photic Stimulation",
+          "Space Perception/*physiology",
+          "User-Computer Interface"
+     ],
+     "PMC": "PMC5720931",
+     "MID": [
+          "HHMIMS917471"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "collective phenomena",
+          "hippocampus",
+          "maximum entropy",
+          "pairwise correlations",
+          "place cells"
+     ],
+     "EDAT": "2017/11/21 06:00",
+     "MHDA": "2017/12/21 06:00",
+     "CRDT": [
+          "2017/11/21 06:00"
+     ],
+     "PMCR": [
+          "2018/12/06 00:00"
+     ],
+     "PHST": [
+          "2016/12/23 00:00 [received]",
+          "2017/09/29 00:00 [revised]",
+          "2017/10/24 00:00 [accepted]",
+          "2018/12/06 00:00 [pmc-release]",
+          "2017/11/21 06:00 [pubmed]",
+          "2017/12/21 06:00 [medline]",
+          "2017/11/21 06:00 [entrez]"
+     ],
+     "AID": [
+          "S0896-6273(17)30996-0 [pii]",
+          "10.1016/j.neuron.2017.10.027 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuron. 2017 Dec 6;96(5):1178-1191.e4. doi: 10.1016/j.neuron.2017.10.027. Epub 2017 Nov 16.",
+     "term": "place cells"
+}

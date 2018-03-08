@@ -1,0 +1,82 @@
+{
+     "PMID": "28777748",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20170904",
+     "IS": "1875-8908 (Electronic) 1387-2877 (Linking)",
+     "VI": "60",
+     "IP": "1",
+     "DP": "2017",
+     "TI": "Fully Automatic MRI-Based Hippocampus Volumetry Using FSL-FIRST: Intra-Scanner Test-Retest Stability, Inter-Field Strength Variability, and Performance as Enrichment Biomarker for Clinical Trials Using Prodromal Target Populations at Risk for Alzheimer's Disease.",
+     "PG": "151-164",
+     "LID": "10.3233/JAD-161108 [doi]",
+     "AB": "BACKGROUND: MRI-based hippocampus volume is a core clinical biomarker for identification of Alzheimer's disease (AD). OBJECTIVE: To assess robustness of automatic hippocampus volumetry with the freely available FSL-FIRST software with respect to short-term repeat and across field strength imaging. FSL-FIRST hippocampus volume (FIRST-HV) was also evaluated as enrichment biomarker for mild cognitive impairment (MCI) trials. METHODS: Robustness of FIRST-HV was assessed in 51 healthy controls (HC), 74 MCI subjects, and 28 patients with AD dementia from ADNI1, each with two pairs of back-to-back scans, one at 1.5T one at 3T. Enrichment performance was tested in a second sample of 287 ADNI MCI subjects. RESULTS: FSL-FIRST worked properly in all four scans in 147 out of 153 subjects of the first sample (49 HC, 72 MCI, 26 AD). In these subjects, FIRST-HV did not differ between the first and the second scan within an imaging session, neither at 1.5T nor at 3T (p>/=0.302). FIRST-HV was on average 0.78% larger at 3T compared to 1.5T (p = 0.012). The variance of the FIRST-HV difference was larger in the inter-field strength setting than in the intra-scanner settings (p < 0.0005). Computer simulations suggested that the additional variability encountered in the inter-field strength scenario does not cause a relevant degradation of FIRST-HV's prognostic performance in MCI. FIRST-HV based enrichment resulted in considerably increased effect size of the 2-years change of cognitive measures. CONCLUSION: The impact of intra-scanner test-retest and inter-field strength variability of FIRST-HV on clinical tasks is negligible. In addition, FIRST-HV is useful for enrichment in clinical MCI trials.",
+     "FAU": [
+          "Cavedo, Enrica",
+          "Suppa, Per",
+          "Lange, Catharina",
+          "Opfer, Roland",
+          "Lista, Simone",
+          "Galluzzi, Samantha",
+          "Schwarz, Adam J",
+          "Spies, Lothar",
+          "Buchert, Ralph",
+          "Hampel, Harald"
+     ],
+     "AU": [
+          "Cavedo E",
+          "Suppa P",
+          "Lange C",
+          "Opfer R",
+          "Lista S",
+          "Galluzzi S",
+          "Schwarz AJ",
+          "Spies L",
+          "Buchert R",
+          "Hampel H"
+     ],
+     "AD": "AXA Research Fund and UPMC Chair, Sorbonne Universites, Universite Pierre et Marie Curie (UPMC) Paris 06, Inserm, CNRS, Institut du Cerveau et de la Moelle Epiniere (ICM), Departement de Neurologie, Institut de la Memoire et de la Maladie d'Alzheimer (IM2A), Hopital Pitie-Salpetriere, Boulevard de l'hopital, F-75013, Paris, France. IRCCS Centro San Giovanni di Dio, Brescia, Italy. Department of Nuclear Medicine, Charite- Universitatsmedizin Berlin, Berlin, Germany. Jung diagnostics GmbH, Hamburg, Germany. Department of Nuclear Medicine, Charite- Universitatsmedizin Berlin, Berlin, Germany. Jung diagnostics GmbH, Hamburg, Germany. AXA Research Fund and UPMC Chair, Sorbonne Universites, Universite Pierre et Marie Curie (UPMC) Paris 06, Inserm, CNRS, Institut du Cerveau et de la Moelle Epiniere (ICM), Departement de Neurologie, Institut de la Memoire et de la Maladie d'Alzheimer (IM2A), Hopital Pitie-Salpetriere, Boulevard de l'hopital, F-75013, Paris, France. IRCCS Centro San Giovanni di Dio, Brescia, Italy. Eli Lilly and Company, Indianapolis, IN, USA. Jung diagnostics GmbH, Hamburg, Germany. Department of Nuclear Medicine, Charite- Universitatsmedizin Berlin, Berlin, Germany. Department of Radiology and Nuclear Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. AXA Research Fund and UPMC Chair, Sorbonne Universites, Universite Pierre et Marie Curie (UPMC) Paris 06, Inserm, CNRS, Institut du Cerveau et de la Moelle Epiniere (ICM), Departement de Neurologie, Institut de la Memoire et de la Maladie d'Alzheimer (IM2A), Hopital Pitie-Salpetriere, Boulevard de l'hopital, F-75013, Paris, France.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative",
+          "Alzheimer Precision Medicine Initiative (APMI)"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Alzheimers Dis",
+     "JT": "Journal of Alzheimer's disease : JAD",
+     "JID": "9814863",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "FSL-FIRST",
+          "clinical trials",
+          "hippocampus",
+          "mild cognitive impairment",
+          "reproducibility",
+          "test/retest"
+     ],
+     "EDAT": "2017/08/05 06:00",
+     "MHDA": "2017/08/05 06:00",
+     "CRDT": [
+          "2017/08/05 06:00"
+     ],
+     "PHST": [
+          "2017/08/05 06:00 [pubmed]",
+          "2017/08/05 06:00 [medline]",
+          "2017/08/05 06:00 [entrez]"
+     ],
+     "AID": [
+          "JAD161108 [pii]",
+          "10.3233/JAD-161108 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Alzheimers Dis. 2017;60(1):151-164. doi: 10.3233/JAD-161108.",
+     "term": "hippocampus"
+}

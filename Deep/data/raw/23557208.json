@@ -1,0 +1,71 @@
+{
+     "PMID": "23557208",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140408",
+     "LR": "20170220",
+     "IS": "1557-9042 (Electronic) 0897-7151 (Linking)",
+     "VI": "30",
+     "IP": "17",
+     "DP": "2013 Sep 1",
+     "TI": "Why is CA3 more vulnerable than CA1 in experimental models of controlled cortical impact-induced brain injury?",
+     "PG": "1521-30",
+     "LID": "10.1089/neu.2012.2520 [doi]",
+     "AB": "One interesting finding of controlled cortical impact (CCI) experiments is that the CA3 region of the hippocampus, which is positioned further from the impact than the CA1 region, is reported as being more injured. The current literature has suggested a positive correlation between brain tissue stretch and neuronal cell loss. However, it is counterintuitive to assume that CA3 is stretched more during CCI injury. Recent mechanical studies of the brain have reported on a level of spatial heterogeneity not previously appreciated-the finding that CA1 was significantly stiffer than all other regions tested and that CA3 was one of the most compliant. We hypothesized that mechanical heterogeneity of anatomical structures could underlie the proposed heterogeneous mechanical response and hence the pattern of cell death. As such, we developed a three-dimensional finite element (FE) rat brain model representing detailed hippocampal structures and simulated various CCI experiments. Four groups of material properties based on recent experiments were tested. In group 1, hyperelastic material properties were assigned to various hippocampal structures, with CA3 more compliant than CA1. In group 2, linear viscoelastic material properties were assigned to hippocampal structures, with CA3 more compliant than CA1. In group 3, the hippocampus was represented by homogenous linear viscoelastic material properties. In group 4, a homogeneous nonlinear hippocampus was adopted. Simulation results demonstrated that for CCI with a 5-mm diameter, flat shape impactor, CA3 experienced increased tensile strains over a larger area and to a greater magnitude than did CA1 for group 1, which best explained why CA3 is more sensitive to CCI injury. However, for groups 2-4, the total volume with high strain (>30%) in CA3 was smaller than that in CA1. The FE rat brain model, with detailed hippocampal structures presented here, will help to engineer desired experimental neurotrauma models by virtually characterizing brain biomechanics before testing.",
+     "FAU": [
+          "Mao, Haojie",
+          "Elkin, Benjamin S",
+          "Genthikatti, Vinay V",
+          "Morrison, Barclay 3rd",
+          "Yang, King H"
+     ],
+     "AU": [
+          "Mao H",
+          "Elkin BS",
+          "Genthikatti VV",
+          "Morrison B 3rd",
+          "Yang KH"
+     ],
+     "AD": "Biomedical Engineering Department, Wayne State University, Detroit, Michigan 48201, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20130803",
+     "PL": "United States",
+     "TA": "J Neurotrauma",
+     "JT": "Journal of neurotrauma",
+     "JID": "8811626",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Biomechanical Phenomena/physiology",
+          "Brain Injuries/*diagnostic imaging/physiopathology",
+          "CA1 Region, Hippocampal/cytology/*injuries/physiology",
+          "CA3 Region, Hippocampal/cytology/*injuries/physiology",
+          "Cerebral Cortex/cytology/*injuries/physiology",
+          "*Disease Models, Animal",
+          "Radiography",
+          "Rats"
+     ],
+     "PMC": "PMC3751323",
+     "EDAT": "2013/04/06 06:00",
+     "MHDA": "2014/04/09 06:00",
+     "CRDT": [
+          "2013/04/06 06:00"
+     ],
+     "PHST": [
+          "2013/04/06 06:00 [entrez]",
+          "2013/04/06 06:00 [pubmed]",
+          "2014/04/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1089/neu.2012.2520 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurotrauma. 2013 Sep 1;30(17):1521-30. doi: 10.1089/neu.2012.2520. Epub 2013 Aug 3.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,98 @@
+{
+     "PMID": "27664967",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20180124",
+     "IS": "1460-2199 (Electronic) 1047-3211 (Linking)",
+     "VI": "27",
+     "IP": "11",
+     "DP": "2017 Nov 1",
+     "TI": "Comparison of In Vivo and Ex Vivo MRI of the Human Hippocampal Formation in the Same Subjects.",
+     "PG": "5185-5196",
+     "LID": "10.1093/cercor/bhw299 [doi]",
+     "AB": "Multiple techniques for quantification of hippocampal subfields from in vivo MRI have been proposed. Linking in vivo MRI to the underlying histology can help validate and improve these techniques. High-resolution ex vivo MRI can provide an intermediate modality to map information between these very different imaging modalities. This article evaluates the ability to match information between in vivo and ex vivo MRI in the same subjects. We perform rigid and deformable registration on 10 pairs of in vivo (3 T, 0.4 x 0.4 x 2.6 mm3) and ex vivo (9.4 T, 0.2 x 0.2 x 0.2 mm3) scans, and describe differences in MRI appearance between these modalities qualitatively and quantitatively. The feasibility of using this dataset to validate in vivo segmentation is evaluated by applying an automatic hippocampal subfield segmentation technique (ASHS) to in vivo scans and comparing SRLM (stratum/radiatum/lacunosum/moleculare) surface to manual tracing on corresponding ex vivo scans (and in 2 cases, histology). Regional increases in thickness are detected in ex vivo scans adjacent to the ventricles and were not related to scanner, resolution differences, or susceptibility artefacts. Satisfactory in vivo/ex vivo registration and subvoxel accuracy of ASHS segmentation of hippocampal SRLM demonstrate the feasibility of using this dataset for validation, and potentially, improvement of in vivo segmentation methods.",
+     "CI": [
+          "(c) The Author 2016. Published by Oxford University Press. All rights reserved.",
+          "For Permissions, please e-mail: journals.permissions@oup.com."
+     ],
+     "FAU": [
+          "Wisse, L E M",
+          "Adler, D H",
+          "Ittyerah, R",
+          "Pluta, J B",
+          "Robinson, J L",
+          "Schuck, T",
+          "Trojanowski, J Q",
+          "Grossman, M",
+          "Detre, J A",
+          "Elliott, M A",
+          "Toledo, J B",
+          "Liu, W",
+          "Pickup, S",
+          "Das, S R",
+          "Wolk, D A",
+          "Yushkevich, P A"
+     ],
+     "AU": [
+          "Wisse LEM",
+          "Adler DH",
+          "Ittyerah R",
+          "Pluta JB",
+          "Robinson JL",
+          "Schuck T",
+          "Trojanowski JQ",
+          "Grossman M",
+          "Detre JA",
+          "Elliott MA",
+          "Toledo JB",
+          "Liu W",
+          "Pickup S",
+          "Das SR",
+          "Wolk DA",
+          "Yushkevich PA"
+     ],
+     "AD": "Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104, USA. Penn Memory Center, Department of Neurology, University of Pennsylvania, Philadelphia, PA 19104, USA. Center for Neurodegenerative Disease Research (CNDR), University of Pennsylvania, Philadelphia, PA 19104, USA. Center for Neurodegenerative Disease Research (CNDR), University of Pennsylvania, Philadelphia, PA 19104, USA. Center for Neurodegenerative Disease Research (CNDR), University of Pennsylvania, Philadelphia, PA 19104, USA. Department of Pathology and Laboratory Medicine, University of Pennsylvania, Philadelphia, PA 19102, USA. Department of Neurology, University of Pennsylvania, Philadelphia, PA 19104, USA. Center for Functional Neuroimaging, Department of Neurology, University of Pennsylvania, PA 19104, USA. Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104, USA. Department of Pathology and Laboratory Medicine, University of Pennsylvania, Philadelphia, PA 19102, USA. Small Animal Imaging Facility, Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104, USA. Small Animal Imaging Facility, Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104, USA. Penn Memory Center, Department of Neurology, University of Pennsylvania, Philadelphia, PA 19104, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P01 AG017586/AG/NIA NIH HHS/United States",
+          "P30 AG010124/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Cereb Cortex",
+     "JT": "Cerebral cortex (New York, N.Y. : 1991)",
+     "JID": "9110718",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "MRI",
+          "hippocampus",
+          "in vivo",
+          "postmortem",
+          "subfields"
+     ],
+     "EDAT": "2016/09/25 06:00",
+     "MHDA": "2016/09/25 06:00",
+     "CRDT": [
+          "2016/09/25 06:00"
+     ],
+     "PHST": [
+          "2015/10/26 00:00 [received]",
+          "2016/09/06 00:00 [accepted]",
+          "2016/09/25 06:00 [pubmed]",
+          "2016/09/25 06:00 [medline]",
+          "2016/09/25 06:00 [entrez]"
+     ],
+     "AID": [
+          "bhw299 [pii]",
+          "10.1093/cercor/bhw299 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cereb Cortex. 2017 Nov 1;27(11):5185-5196. doi: 10.1093/cercor/bhw299.",
+     "term": "hippocampus"
+}

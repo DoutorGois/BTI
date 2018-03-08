@@ -1,0 +1,75 @@
+{
+     "PMID": "17358201",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070627",
+     "LR": "20070315",
+     "IS": "1539-3755 (Print) 1539-3755 (Linking)",
+     "VI": "75",
+     "IP": "1 Pt 1",
+     "DP": "2007 Jan",
+     "TI": "Population model of hippocampal pyramidal neurons, linking a refractory density approach to conductance-based neurons.",
+     "PG": "011924",
+     "AB": "We propose a macroscopic approach toward realistic simulations of the population activity of hippocampal pyramidal neurons, based on the known refractory density equation with a different hazard function and on a different single-neuron threshold model. The threshold model is a conductance-based model taking into account adaptation-providing currents, which is reduced by omitting the fast sodium current and instead using an explicit threshold criterion for action potential events. Compared to the full pyramidal neuron model, the threshold model well approximates spike-time moments, postspike refractory states, and postsynaptic current integration. The dynamics of a neural population continuum are described by a set of one-dimensional partial differential equations in terms of the distributions of the refractory density (where the refractory state is defined by the time elapsed since the last action potential), the membrane potential, and the gating variables of the voltage-dependent channels, across the entire population. As the source term in the density equation, the probability density of firing, or hazard function, is derived from the Fokker-Planck (FP) equation, assuming that a single neuron is governed by a deterministic average-across-population input and a noise term. A self-similar solution of the FP equation in the subthreshold regime is obtained. Responses of the ensemble to stimulation by a current step and oscillating current are simulated and compared with individual neuron simulations. An example of interictal-like activity of a population of all-to-all connected excitatory neurons is presented.",
+     "FAU": [
+          "Chizhov, Anton V",
+          "Graham, Lyle J"
+     ],
+     "AU": [
+          "Chizhov AV",
+          "Graham LJ"
+     ],
+     "AD": "Laboratory of Neurophysics and Physiology, UMR 8119 CNRS, University Paris-5, 45 rue des Saint-Peres, 75006, Paris, France. Anton.Chizhov@mail.ioffe.ru",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20070126",
+     "PL": "United States",
+     "TA": "Phys Rev E Stat Nonlin Soft Matter Phys",
+     "JT": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+     "JID": "101136452",
+     "RN": [
+          "0 (Ions)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Algorithms",
+          "Animals",
+          "Biophysics/*methods",
+          "Brain/metabolism",
+          "Computer Simulation",
+          "Hippocampus/metabolism/*pathology",
+          "Humans",
+          "Ions",
+          "Membrane Potentials",
+          "Models, Neurological",
+          "Models, Theoretical",
+          "Neurons/*metabolism",
+          "Oscillometry",
+          "Probability",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "2007/03/16 09:00",
+     "MHDA": "2007/06/28 09:00",
+     "CRDT": [
+          "2007/03/16 09:00"
+     ],
+     "PHST": [
+          "2006/05/19 00:00 [received]",
+          "2006/10/19 00:00 [revised]",
+          "2007/03/16 09:00 [pubmed]",
+          "2007/06/28 09:00 [medline]",
+          "2007/03/16 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1103/PhysRevE.75.011924 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phys Rev E Stat Nonlin Soft Matter Phys. 2007 Jan;75(1 Pt 1):011924. doi: 10.1103/PhysRevE.75.011924. Epub 2007 Jan 26.",
+     "term": "hippocampus"
+}

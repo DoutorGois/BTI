@@ -1,0 +1,76 @@
+{
+     "PMID": "23366153",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130814",
+     "LR": "20161025",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2012",
+     "DP": "2012",
+     "TI": "Implementation of activity-dependent synaptic plasticity rules for a large-scale biologically realistic model of the hippocampus.",
+     "PG": "1366-9",
+     "LID": "10.1109/EMBC.2012.6346192 [doi]",
+     "AB": "A large-scale computational model of the hippocampus should consider plasticity at different time scales in order to capture the non-stationary information processing behavior of the hippocampus more accurately. This paper presents a computational model that describes hippocampal long-term potentiation/depression (LTP/LTD) and short-term plasticity implemented in the NEURON simulation environment. The LTP/LTD component is based on spike-timing-dependent plasticity (STDP). The short-term plasticity component modifies a previously defined deterministic model at a population synapse level to a probabilistic model that can be implemented at a single synapse level. The plasticity mechanisms are validated and incorporated into a large-scale model of the entorhinal cortex projection to the dentate gyrus. Computational expense of the added plasticity was also evaluated and shown to increase simulation time by less than a factor of two. This model can be easily included in future large-scale hippocampal simulations to investigate the effects of LTP/LTD and short-term plasticity in conjunction with other biological considerations on system function.",
+     "FAU": [
+          "Robinson, Brian S",
+          "Yu, Gene J",
+          "Hendrickson, Phillip J",
+          "Song, Dong",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Robinson BS",
+          "Yu GJ",
+          "Hendrickson PJ",
+          "Song D",
+          "Berger TW"
+     ],
+     "AD": "Department of Biomedical Engineering, University of Southern California, Los Angeles, CA 90089, USA. bsrobins@usc.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 GM104604/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Computer Simulation",
+          "Entorhinal Cortex/physiology",
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "Neuronal Plasticity/*physiology",
+          "Rats",
+          "Reproducibility of Results",
+          "Synapses/physiology"
+     ],
+     "PMC": "PMC4172364",
+     "MID": [
+          "NIHMS623093"
+     ],
+     "EDAT": "2013/02/01 06:00",
+     "MHDA": "2013/08/15 06:00",
+     "CRDT": [
+          "2013/02/01 06:00"
+     ],
+     "PHST": [
+          "2013/02/01 06:00 [entrez]",
+          "2013/02/01 06:00 [pubmed]",
+          "2013/08/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2012.6346192 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2012;2012:1366-9. doi: 10.1109/EMBC.2012.6346192.",
+     "term": "hippocampus"
+}

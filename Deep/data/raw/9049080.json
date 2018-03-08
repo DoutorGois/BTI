@@ -1,0 +1,57 @@
+{
+     "PMID": "9049080",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19970529",
+     "LR": "20001218",
+     "IS": "0926-6410 (Print) 0926-6410 (Linking)",
+     "VI": "5",
+     "IP": "1-2",
+     "DP": "1996 Dec",
+     "TI": "Computational study on the neural mechanism of sequential pattern memory.",
+     "PG": "137-46",
+     "AB": "The brain stores various kinds of temporal sequences as long-term memories, such as motor sequences, episodes, and melodies. The present study aims at clarifying the general principle underlying such memories. For this purpose, the memory mechanism of sequential patterns is examined from the viewpoint of computational theory and neural network modeling, and a neural network model of sequential pattern memory based on a simple and reasonable principle is presented. Specifically, spatio-temporal patterns varying gradually with time are stably stored in a network consisting of pairs of excitatory and inhibitory cells with recurrent connections; such a pair can achieve non-monotonic input-output characteristics which are essential for smooth sequential recall. Storage is performed using a simple learning algorithm which is based on the covariance rule and requires only that the sequence be input several times and retrieval is highly tolerant to noise. It is thought that a similar principle is used in cerebral memory systems, and the relevance of this model to the brain is discussed. Also, possible roles of hippocampus and basal ganglia in memorizing sequences are suggested.",
+     "FAU": [
+          "Morita, M"
+     ],
+     "AU": [
+          "Morita M"
+     ],
+     "AD": "Institute of Information Sciences and Electronics, University of Tsukuba, Ibaraki, Japan. mor@is.tsukuba.ac.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "Brain Res Cogn Brain Res",
+     "JT": "Brain research. Cognitive brain research",
+     "JID": "9214304",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Computer Simulation",
+          "Learning/*physiology",
+          "Memory/*physiology",
+          "Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Neurons/*physiology"
+     ],
+     "EDAT": "1996/12/01 00:00",
+     "MHDA": "1996/12/01 00:01",
+     "CRDT": [
+          "1996/12/01 00:00"
+     ],
+     "PHST": [
+          "1996/12/01 00:00 [pubmed]",
+          "1996/12/01 00:01 [medline]",
+          "1996/12/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "S0926-6410(96)00050-X [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Res Cogn Brain Res. 1996 Dec;5(1-2):137-46.",
+     "term": "hippocampus"
+}

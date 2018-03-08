@@ -1,0 +1,67 @@
+{
+     "PMID": "22056477",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120817",
+     "LR": "20111121",
+     "IS": "1741-2552 (Electronic) 1741-2552 (Linking)",
+     "VI": "8",
+     "IP": "6",
+     "DP": "2011 Dec",
+     "TI": "The traveling salesrat: insights into the dynamics of efficient spatial navigation in the rodent.",
+     "PG": "065010",
+     "LID": "10.1088/1741-2560/8/6/065010 [doi]",
+     "AB": "Rodent spatial navigation requires the dynamic evaluation of multiple sources of information, including visual cues, self-motion signals and reward signals. The nature of the evaluation, its dynamics and the relative weighting of the multiple information streams are largely unknown and have generated many hypotheses in the field of robotics. We use the framework of the traveling salesperson problem (TSP) to study how this evaluation may be achieved. The TSP is a classical artificial intelligence NP-hard problem that requires an agent to visit a fixed set of locations once, minimizing the total distance traveled. We show that after a few trials, rats converge on a short route between rewarded food cups. We propose that this route emerges from a series of local decisions that are derived from weighing information embedded in the context of the task. We study the relative weighting of spatial and reward information and establish that, in the conditions of this experiment, when the contingencies are not in conflict, rats choose the spatial or reward optimal solution. There was a trend toward a preference for space when the contingencies were in conflict. We also show that the spatial decision about which cup to go to next is biased by the orientation of the animal. Reward contingencies are also shown to significantly and dynamically modulate the decision-making process. This paradigm will allow for further neurophysiological studies aimed at understanding the synergistic role of brain areas involved in planning, reward processing and spatial navigation. These insights will in turn suggest new neural-like architectures for the control of mobile autonomous robots.",
+     "FAU": [
+          "de Jong, Laurel Watkins",
+          "Gereke, Brian",
+          "Martin, Gerard M",
+          "Fellous, Jean-Marc"
+     ],
+     "AU": [
+          "de Jong LW",
+          "Gereke B",
+          "Martin GM",
+          "Fellous JM"
+     ],
+     "AD": "University of Arizona, Tucson, AZ 85724, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20111104",
+     "PL": "England",
+     "TA": "J Neural Eng",
+     "JT": "Journal of neural engineering",
+     "JID": "101217933",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Efficiency/*physiology",
+          "Motor Activity/*physiology",
+          "Orientation/*physiology",
+          "Rats",
+          "Rats, Inbred BN",
+          "Rats, Inbred F344",
+          "Space Perception/*physiology"
+     ],
+     "EDAT": "2011/11/08 06:00",
+     "MHDA": "2012/08/18 06:00",
+     "CRDT": [
+          "2011/11/08 06:00"
+     ],
+     "PHST": [
+          "2011/11/08 06:00 [entrez]",
+          "2011/11/08 06:00 [pubmed]",
+          "2012/08/18 06:00 [medline]"
+     ],
+     "AID": [
+          "S1741-2560(11)84820-2 [pii]",
+          "10.1088/1741-2560/8/6/065010 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neural Eng. 2011 Dec;8(6):065010. doi: 10.1088/1741-2560/8/6/065010. Epub 2011 Nov 4.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,80 @@
+{
+     "PMID": "18727679",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090227",
+     "LR": "20090213",
+     "IS": "1528-1167 (Electronic) 0013-9580 (Linking)",
+     "VI": "50",
+     "IP": "2",
+     "DP": "2009 Feb",
+     "TI": "Automated MRI analysis for identification of hippocampal atrophy in temporal lobe epilepsy.",
+     "PG": "228-33",
+     "LID": "10.1111/j.1528-1167.2008.01768.x [doi]",
+     "AB": "BACKGROUND: Hippocampal sclerosis is frequently associated with hippocampal atrophy (HA), which is often observed on routine magnetic resonance imaging (MRI) of patients with medial temporal lobe epilepsy (MTLE). Manual morphometry of the hippocampus is sensitive to detecting HA, but is time-consuming and prone to operator error. Automated MRI morphometry has the potential to provide rapid and accurate assistance in the clinical detection of HA. METHODS: We performed a voxel-based morphometry analysis of 23 consecutive subjects with MTLE and 58 matched controls. Images from randomly selected 34 controls were used to create mean and standard deviation images of gray matter volume. Voxel-wise standardized Z-score hippocampal images from patients and the remaining 24 controls were cross-checked with receiver operating characteristic (ROC) curves to evaluate sensitivity versus one-specificity rate for a binary classifier (atrophied versus normal hippocampi). RESULTS: The ipsilateral hippocampi of patients with MTLE displayed a significantly lower mean Z-score compared to the hippocampi of controls [F(2,67) = 33.014, p < 0.001, Tukey HSD < 0.001]. A classifier using the hippocampal gray matter Z-scores to discriminate between atrophied and normal hippocampi yielded a fitted ROC = 97.3, traditionally considered an excellent discriminator, with a standard error of classification of 1.173 individuals if 100 patients and 100 controls are studied. CONCLUSION: Automatic morphometry can be potentially used as a clinical tool to assist the detection of HA in patients with MTLE. It can provide a quantifiable estimative of atrophy, which can aid in the decision about the presence of clinically relevant HA.",
+     "FAU": [
+          "Bonilha, Leonardo",
+          "Halford, Jonathan J",
+          "Rorden, Chris",
+          "Roberts, Donna R",
+          "Rumboldt, Zoran",
+          "Eckert, Mark A"
+     ],
+     "AU": [
+          "Bonilha L",
+          "Halford JJ",
+          "Rorden C",
+          "Roberts DR",
+          "Rumboldt Z",
+          "Eckert MA"
+     ],
+     "AD": "Department of Neurology, Medical University of South Carolina, Charleston, SC, USA. bonilha@musc.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20080825",
+     "PL": "United States",
+     "TA": "Epilepsia",
+     "JT": "Epilepsia",
+     "JID": "2983306R",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Atrophy",
+          "Brain Mapping",
+          "Dominance, Cerebral/physiology",
+          "Epilepsy, Temporal Lobe/*diagnosis/pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "*Image Processing, Computer-Assisted",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "ROC Curve",
+          "Reference Values",
+          "Sclerosis",
+          "Sensitivity and Specificity",
+          "Young Adult"
+     ],
+     "EDAT": "2008/08/30 09:00",
+     "MHDA": "2009/02/28 09:00",
+     "CRDT": [
+          "2008/08/30 09:00"
+     ],
+     "PHST": [
+          "2008/08/30 09:00 [pubmed]",
+          "2009/02/28 09:00 [medline]",
+          "2008/08/30 09:00 [entrez]"
+     ],
+     "AID": [
+          "EPI1768 [pii]",
+          "10.1111/j.1528-1167.2008.01768.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Epilepsia. 2009 Feb;50(2):228-33. doi: 10.1111/j.1528-1167.2008.01768.x. Epub 2008 Aug 25.",
+     "term": "hippocampus"
+}

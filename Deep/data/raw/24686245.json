@@ -1,0 +1,87 @@
+{
+     "PMID": "24686245",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150223",
+     "LR": "20170220",
+     "IS": "1558-254X (Electronic) 0278-0062 (Linking)",
+     "VI": "33",
+     "IP": "7",
+     "DP": "2014 Jul",
+     "TI": "Metric optimization for surface analysis in the Laplace-Beltrami embedding space.",
+     "PG": "1447-63",
+     "LID": "10.1109/TMI.2014.2313812 [doi]",
+     "AB": "In this paper, we present a novel approach for the intrinsic mapping of anatomical surfaces and its application in brain mapping research. Using the Laplace-Beltrami eigen-system, we represent each surface with an isometry invariant embedding in a high dimensional space. The key idea in our system is that we realize surface deformation in the embedding space via the iterative optimization of a conformal metric without explicitly perturbing the surface or its embedding. By minimizing a distance measure in the embedding space with metric optimization, our method generates a conformal map directly between surfaces with highly uniform metric distortion and the ability of aligning salient geometric features. Besides pairwise surface maps, we also extend the metric optimization approach for group-wise atlas construction and multi-atlas cortical label fusion. In experimental results, we demonstrate the robustness and generality of our method by applying it to map both cortical and hippocampal surfaces in population studies. For cortical labeling, our method achieves excellent performance in a cross-validation experiment with 40 manually labeled surfaces, and successfully models localized brain development in a pediatric study of 80 subjects. For hippocampal mapping, our method produces much more significant results than two popular tools on a multiple sclerosis study of 109 subjects.",
+     "FAU": [
+          "Shi, Yonggang",
+          "Lai, Rongjie",
+          "Wang, Danny J J",
+          "Pelletier, Daniel",
+          "Mohr, David",
+          "Sicotte, Nancy",
+          "Toga, Arthur W"
+     ],
+     "AU": [
+          "Shi Y",
+          "Lai R",
+          "Wang DJ",
+          "Pelletier D",
+          "Mohr D",
+          "Sicotte N",
+          "Toga AW"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01EB013633/EB/NIBIB NIH HHS/United States",
+          "P41 EB015922/EB/NIBIB NIH HHS/United States",
+          "R01 MH080892/MH/NIMH NIH HHS/United States",
+          "K01 EB013633/EB/NIBIB NIH HHS/United States",
+          "R01MH080892/MH/NIMH NIH HHS/United States",
+          "P41EB015922/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140325",
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "*Algorithms",
+          "Brain Mapping/*methods",
+          "Cerebral Cortex/anatomy & histology/physiology",
+          "Child",
+          "Depression/pathology/physiopathology",
+          "Female",
+          "Hippocampus/pathology/physiopathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods"
+     ],
+     "PMC": "PMC4079755",
+     "MID": [
+          "NIHMS581032"
+     ],
+     "EDAT": "2014/04/02 06:00",
+     "MHDA": "2015/02/24 06:00",
+     "CRDT": [
+          "2014/04/02 06:00"
+     ],
+     "PHST": [
+          "2014/04/02 06:00 [entrez]",
+          "2014/04/02 06:00 [pubmed]",
+          "2015/02/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TMI.2014.2313812 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2014 Jul;33(7):1447-63. doi: 10.1109/TMI.2014.2313812. Epub 2014 Mar 25.",
+     "term": "hippocampus"
+}

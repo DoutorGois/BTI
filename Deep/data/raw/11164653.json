@@ -1,0 +1,59 @@
+{
+     "PMID": "11164653",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20010301",
+     "LR": "20061115",
+     "IS": "0303-2647 (Print) 0303-2647 (Linking)",
+     "VI": "58",
+     "IP": "1-3",
+     "DP": "2000 Oct-Dec",
+     "TI": "Dynamics of a hybrid system of a brain neural network and an artificial nonlinear oscillator.",
+     "PG": "249-57",
+     "AB": "In the brain, many functional modules interact with each other to execute complex information processing. Understanding the nature of these interactions is necessary for understanding how the brain functions. In this study, to mimic interacting modules in the brain, we constructed a hybrid system mutually coupling a hippocampal CA3 network as an actual brain module and a radial isochron clock (RIC) simulated by a personal computer as an artificial module. Return map analysis of the CA3-RIC system's dynamics showed the mutual entrainment and complex dynamics dependent on the coupling modes. The phase response curve of CA3 was modeled regarding the CA3 as a nonlinear oscillator. Using the phase response curves of CA3 and RIC, we reconstructed return maps of the hybrid system's dynamics. Although the reconstructed return maps almost agreed with the experimental data, there were deviations dependent on the coupling mode. In particular, we noted that the deviation was smaller under the bidirectional coupling conditions than during the one-way coupling from RIC to CA3. These results suggest that brain modules may flexibly change their dynamical properties through interaction with other modules.",
+     "FAU": [
+          "Katayama, N",
+          "Nakao, M",
+          "Saitoh, H",
+          "Yamamoto, M"
+     ],
+     "AU": [
+          "Katayama N",
+          "Nakao M",
+          "Saitoh H",
+          "Yamamoto M"
+     ],
+     "AD": "Laboratory of Neurophysiology and Bioinformatics, Graduate School of Information Sciences, Tohoku University, Sendai, Japan. katayama@ecei.tohoku.ac.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Ireland",
+     "TA": "Biosystems",
+     "JT": "Bio Systems",
+     "JID": "0430773",
+     "SB": "IM",
+     "MH": [
+          "Hippocampus/*physiology",
+          "*Nerve Net"
+     ],
+     "EDAT": "2001/02/13 11:00",
+     "MHDA": "2001/03/07 10:01",
+     "CRDT": [
+          "2001/02/13 11:00"
+     ],
+     "PHST": [
+          "2001/02/13 11:00 [pubmed]",
+          "2001/03/07 10:01 [medline]",
+          "2001/02/13 11:00 [entrez]"
+     ],
+     "AID": [
+          "S0303264700001295 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biosystems. 2000 Oct-Dec;58(1-3):249-57.",
+     "term": "hippocampus"
+}

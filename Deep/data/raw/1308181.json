@@ -1,0 +1,61 @@
+{
+     "PMID": "1308181",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19930924",
+     "LR": "20031114",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "2",
+     "IP": "2",
+     "DP": "1992 Apr",
+     "TI": "Navigation by fragment fitting: a theory of hippocampal function.",
+     "PG": "165-87",
+     "AB": "This paper describes a computational theory of spatial learning and navigation and its possible realization in the hippocampus. In the theory, mammals store memories of their geographical environment as a large number of independent fragments. A typical fragment denotes a few prominent landmarks in some region, their geometric relations, and their nongeometric properties, such as smells and visual cues. Navigation involves piecing together current sense data and relevant fragments to form a local map of the animal's surroundings; this is like solving a jigsaw puzzle. This computational model has been implemented in a computer program, whose performance is broadly consistent with observed levels of animal performance, and laboratory results, in spatial learning. Possible realizations of the model in animal brains are discussed. Unlike some neural net models of spatial learning, the model is strongly geometric, and uses special neural structures to store and manipulate two-dimensional vectors and bearings. A possible neural architecture is described in which the hippocampus performs the geometric operations; this has a long-term memory for fragments (somewhere in the neocortex), which can associatively recall fragments into a number of parallel fragment fitters, in the dentate gyrus and CA3 regions. These vary the positions and orientations of their fragments, to optimize the fit of the fragments to each other and to the animal's recent sense data. A local map of the animal's surroundings is stored in CA1 and subicular regions, where matching of fragment positions and attributes takes place. Mismatches are passed back via the entorhinal cortex to improve the fit during the next hippocampal theta cycle. The model offers the potential for understanding current data on spatial learning, on the neuroanatomy of the hippocampus and on place cells in a coherent framework, as well as understanding the role of the hippocampus in nonpositional memory tasks. Comparisons with experimental data are given.",
+     "FAU": [
+          "Worden, R"
+     ],
+     "AU": [
+          "Worden R"
+     ],
+     "AD": "Logica Cambridge Ltd, Cambridge, U.K.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM S",
+     "MH": [
+          "Animals",
+          "Brain Mapping",
+          "Cognition/physiology",
+          "Hippocampus/*physiology",
+          "Learning/*physiology",
+          "Mammals/*physiology",
+          "Memory/physiology",
+          "*Models, Neurological",
+          "*Models, Psychological",
+          "Neurons/physiology",
+          "Space Perception/*physiology"
+     ],
+     "EDAT": "1992/04/01 00:00",
+     "MHDA": "1992/04/01 00:01",
+     "CRDT": [
+          "1992/04/01 00:00"
+     ],
+     "PHST": [
+          "1992/04/01 00:00 [pubmed]",
+          "1992/04/01 00:01 [medline]",
+          "1992/04/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.450020208 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 1992 Apr;2(2):165-87. doi: 10.1002/hipo.450020208.",
+     "term": "place cells"
+}

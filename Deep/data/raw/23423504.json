@@ -1,0 +1,59 @@
+{
+     "PMID": "23423504",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130221",
+     "LR": "20130418",
+     "IS": "2152-5250 (Print) 2152-5250 (Linking)",
+     "VI": "4",
+     "IP": "1",
+     "DP": "2013 Feb",
+     "TI": "Voxel-based Morphometry of Brain MRI in Normal Aging and Alzheimer's Disease.",
+     "PG": "29-37",
+     "AB": "Voxel-based morphometry (VBM) using structural brain MRI has been widely used for assessment of normal aging and Alzheimer's disease (AD). VBM of MRI data comprises segmentation into gray matter, white matter, and cerebrospinal fluid partitions, anatomical standardization of all the images to the same stereotactic space using linear affine transformation and further non-linear warping, smoothing, and finally performing a statistical analysis. Two techniques for VBM are commonly used, optimized VBM using statistical parametric mapping (SPM) 2 or SPM5 with non-linear warping based on discrete cosine transforms and SPM8 plus non-linear warping based on diffeomorphic anatomical registration using exponentiated Lie algebra (DARTEL). In normal aging, most cortical regions prominently in frontal and insular areas have been reported to show age-related gray matter atrophy. In contrast, specific structures such as amygdala, hippocampus, and thalamus have been reported to be preserved in normal aging. On the other hand, VBM studies have demonstrated progression of atrophy mapping upstream to Braak's stages of neurofibrillary tangle deposition in AD. The earliest atrophy takes place in medial temporal structures. Stand-alone VBM software using SPM8 plus DARTEL running on Windows has been newly developed as an adjunct to the clinical assessment of AD. This software provides a Z-score map as a consequence of comparison of a patient's MRI with a normal database.",
+     "FAU": [
+          "Matsuda, Hiroshi"
+     ],
+     "AU": [
+          "Matsuda H"
+     ],
+     "AD": "Integrative Brain Imaging Center, National Center of Neurology and Psychiatry, Tokyo, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20121204",
+     "PL": "United States",
+     "TA": "Aging Dis",
+     "JT": "Aging and disease",
+     "JID": "101540533",
+     "PMC": "PMC3570139",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "MRI",
+          "Neuroradiology",
+          "aging",
+          "voxel-based morphometry"
+     ],
+     "EDAT": "2013/02/21 06:00",
+     "MHDA": "2013/02/21 06:01",
+     "CRDT": [
+          "2013/02/21 06:00"
+     ],
+     "PHST": [
+          "2012/11/12 00:00 [received]",
+          "2012/11/20 00:00 [revised]",
+          "2012/12/01 00:00 [accepted]",
+          "2013/02/21 06:00 [entrez]",
+          "2013/02/21 06:00 [pubmed]",
+          "2013/02/21 06:01 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Aging Dis. 2013 Feb;4(1):29-37. Epub 2012 Dec 4.",
+     "term": "hippocampus"
+}

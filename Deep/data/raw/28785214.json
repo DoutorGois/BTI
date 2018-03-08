@@ -1,0 +1,65 @@
+{
+     "PMID": "28785214",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20170811",
+     "IS": "1662-5196 (Print) 1662-5196 (Linking)",
+     "VI": "11",
+     "DP": "2017",
+     "TI": "The GridCAT: A Toolbox for Automated Analysis of Human Grid Cell Codes in fMRI.",
+     "PG": "47",
+     "LID": "10.3389/fninf.2017.00047 [doi]",
+     "AB": "Human functional magnetic resonance imaging (fMRI) studies examining the putative firing of grid cells (i.e., the grid code) suggest that this cellular mechanism supports not only spatial navigation, but also more abstract cognitive processes. Despite increased interest in this research, there remain relatively few human grid code studies, perhaps due to the complex analysis methods, which are not included in standard fMRI analysis packages. To overcome this, we have developed the Matlab-based open-source Grid Code Analysis Toolbox (GridCAT), which performs all analyses, from the estimation and fitting of the grid code in the general linear model (GLM), to the generation of grid code metrics and plots. The GridCAT, therefore, opens up this cutting-edge research area by allowing users to analyze data by means of a simple and user-friendly graphical user interface (GUI). Researchers confident with programming can edit the open-source code and use example scripts accompanying the GridCAT to implement their own analysis pipelines. Here, we review the current literature in the field of fMRI grid code research with particular focus on the different analysis options that have been implemented, which we describe in detail. Key features of the GridCAT are demonstrated via analysis of an example dataset, which is also provided online together with a detailed manual, so that users can replicate the results presented here, and explore the GridCAT's functionality. By making the GridCAT available to the wider neuroscience community, we believe that it will prove invaluable in elucidating the role of grid codes in higher-order cognitive processes.",
+     "FAU": [
+          "Stangl, Matthias",
+          "Shine, Jonathan",
+          "Wolbers, Thomas"
+     ],
+     "AU": [
+          "Stangl M",
+          "Shine J",
+          "Wolbers T"
+     ],
+     "AD": "German Center for Neurodegenerative Diseases (DZNE), Aging and Cognition Research GroupMagdeburg, Germany. German Center for Neurodegenerative Diseases (DZNE), Aging and Cognition Research GroupMagdeburg, Germany. German Center for Neurodegenerative Diseases (DZNE), Aging and Cognition Research GroupMagdeburg, Germany. Center for Behavioral Brain SciencesMagdeburg, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170721",
+     "PL": "Switzerland",
+     "TA": "Front Neuroinform",
+     "JT": "Frontiers in neuroinformatics",
+     "JID": "101477957",
+     "PMC": "PMC5519580",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "fMRI",
+          "general linear model",
+          "grid cells",
+          "human",
+          "open-source",
+          "toolbox"
+     ],
+     "EDAT": "2017/08/09 06:00",
+     "MHDA": "2017/08/09 06:01",
+     "CRDT": [
+          "2017/08/09 06:00"
+     ],
+     "PHST": [
+          "2017/04/07 00:00 [received]",
+          "2017/06/27 00:00 [accepted]",
+          "2017/08/09 06:00 [entrez]",
+          "2017/08/09 06:00 [pubmed]",
+          "2017/08/09 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fninf.2017.00047 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neuroinform. 2017 Jul 21;11:47. doi: 10.3389/fninf.2017.00047. eCollection 2017.",
+     "term": "grid cells"
+}

@@ -1,0 +1,70 @@
+{
+     "PMID": "17970649",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20071221",
+     "LR": "20071031",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "19",
+     "IP": "12",
+     "DP": "2007 Dec",
+     "TI": "Context learning in the rodent hippocampus.",
+     "PG": "3173-215",
+     "AB": "We present a Bayesian statistical theory of context learning in the rodent hippocampus. While context is often defined in an experimental setting in relation to specific background cues or task demands, we advance a single, more general notion of context that suffices for a variety of learning phenomena. Specifically, a context is defined as a statistically stationary distribution of experiences, and context learning is defined as the problem of how to form contexts out of groups of experiences that cluster together in time. The challenge of context learning is solving the model selection problem: How many contexts make up the rodent's world? Solving this problem requires balancing two opposing goals: minimize the variability of the distribution of experiences within a context and minimize the likelihood of transitioning between contexts. The theory provides an understanding of why hippocampal place cell remapping sometimes develops gradually over many days of experience and why even consistent landmark differences may need to be relearned after other environmental changes. The theory provides an explanation for progressive performance improvements in serial reversal learning, based on a clear dissociation between the incremental process of context learning and the relatively abrupt context selection process. The impact of partial reinforcement on reversal learning is also addressed. Finally, the theory explains why alternating sequence learning does not consistently result in unique context-dependent sequence representations in hippocampus.",
+     "FAU": [
+          "Fuhs, Mark C",
+          "Touretzky, David S"
+     ],
+     "AU": [
+          "Fuhs MC",
+          "Touretzky DS"
+     ],
+     "AD": "Computer Science Department and Center for the Neural Basis of Cognition, Carnegie Mellon University, Pittsburgh, PA 15213, USA. Mark.Fuhs@cs.cmu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH59932/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Bayes Theorem",
+          "Hippocampus/*physiology",
+          "Learning/*physiology",
+          "Memory/physiology",
+          "Models, Neurological",
+          "Neural Pathways/physiology",
+          "Neurons/*physiology",
+          "Perception/physiology",
+          "Rats",
+          "Rodentia/*physiology",
+          "Space Perception/physiology",
+          "Synaptic Transmission/physiology"
+     ],
+     "EDAT": "2007/11/01 09:00",
+     "MHDA": "2007/12/22 09:00",
+     "CRDT": [
+          "2007/11/01 09:00"
+     ],
+     "PHST": [
+          "2007/11/01 09:00 [pubmed]",
+          "2007/12/22 09:00 [medline]",
+          "2007/11/01 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/neco.2007.19.12.3173 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2007 Dec;19(12):3173-215. doi: 10.1162/neco.2007.19.12.3173.",
+     "term": "hippocampus"
+}

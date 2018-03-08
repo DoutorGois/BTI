@@ -1,0 +1,75 @@
+{
+     "PMID": "25821989",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160308",
+     "LR": "20170220",
+     "IS": "2050-084X (Electronic) 2050-084X (Linking)",
+     "VI": "4",
+     "DP": "2015 Mar 30",
+     "TI": "The self-organization of grid cells in 3D.",
+     "LID": "10.7554/eLife.05913 [doi]",
+     "AB": "Do we expect periodic grid cells to emerge in bats, or perhaps dolphins, exploring a three-dimensional environment? How long will it take? Our self-organizing model, based on ring-rate adaptation, points at a complex answer. The mathematical analysis leads to asymptotic states resembling face centered cubic (FCC) and hexagonal close packed (HCP) crystal structures, which are calculated to be very close to each other in terms of cost function. The simulation of the full model, however, shows that the approach to such asymptotic states involves several sub-processes over distinct time scales. The smoothing of the initially irregular multiple fields of individual units and their arrangement into hexagonal grids over certain best planes are observed to occur relatively quickly, even in large 3D volumes. The correct mutual orientation of the planes, though, and the coordinated arrangement of different units, take a longer time, with the network showing no sign of convergence towards either a pure FCC or HCP ordering.",
+     "FAU": [
+          "Stella, Federico",
+          "Treves, Alessandro"
+     ],
+     "AU": [
+          "Stella F",
+          "Treves A"
+     ],
+     "AD": "Cognitive Neuroscience, Scuola Internazionale Superiore di Studi Avanzati, Trieste, Italy. Cognitive Neuroscience, Scuola Internazionale Superiore di Studi Avanzati, Trieste, Italy.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150330",
+     "PL": "England",
+     "TA": "Elife",
+     "JT": "eLife",
+     "JID": "101579614",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Exploratory Behavior/*physiology",
+          "Hippocampus/cytology/*physiology",
+          "Humans",
+          "*Models, Theoretical",
+          "Spatial Navigation/*physiology"
+     ],
+     "PMC": "PMC4453437",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "bat",
+          "grid cells",
+          "learning",
+          "neural network",
+          "neuroscience",
+          "pattern formation",
+          "spatial representations"
+     ],
+     "EDAT": "2015/03/31 06:00",
+     "MHDA": "2016/03/10 06:00",
+     "CRDT": [
+          "2015/03/31 06:00"
+     ],
+     "PHST": [
+          "2014/12/05 00:00 [received]",
+          "2015/03/25 00:00 [accepted]",
+          "2015/03/31 06:00 [entrez]",
+          "2015/03/31 06:00 [pubmed]",
+          "2016/03/10 06:00 [medline]"
+     ],
+     "AID": [
+          "10.7554/eLife.05913 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Elife. 2015 Mar 30;4. doi: 10.7554/eLife.05913.",
+     "term": "grid cells"
+}

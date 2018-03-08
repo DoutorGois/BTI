@@ -1,0 +1,73 @@
+{
+     "PMID": "26300744",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20150824",
+     "LR": "20170220",
+     "IS": "1662-5137 (Print) 1662-5137 (Linking)",
+     "VI": "9",
+     "DP": "2015",
+     "TI": "Network models provide insights into how oriens-lacunosum-moleculare and bistratified cell interactions influence the power of local hippocampal CA1 theta oscillations.",
+     "PG": "110",
+     "LID": "10.3389/fnsys.2015.00110 [doi]",
+     "AB": "Hippocampal theta is a 4-12 Hz rhythm associated with episodic memory, and although it has been studied extensively, the cellular mechanisms underlying its generation are unclear. The complex interactions between different interneuron types, such as those between oriens-lacunosum-moleculare (OLM) interneurons and bistratified cells (BiCs), make their contribution to network rhythms difficult to determine experimentally. We created network models that are tied to experimental work at both cellular and network levels to explore how these interneuron interactions affect the power of local oscillations. Our cellular models were constrained with properties from patch clamp recordings in the CA1 region of an intact hippocampus preparation in vitro. Our network models are composed of three different types of interneurons: parvalbumin-positive (PV+) basket and axo-axonic cells (BC/AACs), PV+ BiCs, and somatostatin-positive OLM cells. Also included is a spatially extended pyramidal cell model to allow for a simplified local field potential representation, as well as experimentally-constrained, theta frequency synaptic inputs to the interneurons. The network size, connectivity, and synaptic properties were constrained with experimental data. To determine how the interactions between OLM cells and BiCs could affect local theta power, we explored how the number of OLM-BiC connections and connection strength affected local theta power. We found that our models operate in regimes that could be distinguished by whether OLM cells minimally or strongly affected the power of network theta oscillations due to balances that, respectively, allow compensatory effects or not. Inactivation of OLM cells could result in no change or even an increase in theta power. We predict that the dis-inhibitory effect of OLM cells to BiCs to pyramidal cell interactions plays a critical role in the resulting power of network theta oscillations. Overall, our network models reveal a dynamic interplay between different classes of interneurons in influencing local theta power.",
+     "FAU": [
+          "Ferguson, Katie A",
+          "Huh, Carey Y L",
+          "Amilhon, Benedicte",
+          "Manseau, Frederic",
+          "Williams, Sylvain",
+          "Skinner, Frances K"
+     ],
+     "AU": [
+          "Ferguson KA",
+          "Huh CY",
+          "Amilhon B",
+          "Manseau F",
+          "Williams S",
+          "Skinner FK"
+     ],
+     "AD": "Division of Fundamental Neurobiology, Toronto Western Research Institute, University Health Network Toronto, ON, Canada ; Department of Physiology, University of Toronto Toronto, ON, Canada. Department of Psychiatry, Douglas Mental Health University Institute, McGill University Montreal, QC, Canada. Department of Psychiatry, Douglas Mental Health University Institute, McGill University Montreal, QC, Canada. Department of Psychiatry, Douglas Mental Health University Institute, McGill University Montreal, QC, Canada. Department of Psychiatry, Douglas Mental Health University Institute, McGill University Montreal, QC, Canada. Division of Fundamental Neurobiology, Toronto Western Research Institute, University Health Network Toronto, ON, Canada ; Departments of Medicine (Neurology) and Physiology, University of Toronto Toronto, ON, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150807",
+     "PL": "Switzerland",
+     "TA": "Front Syst Neurosci",
+     "JT": "Frontiers in systems neuroscience",
+     "JID": "101477946",
+     "PMC": "PMC4528165",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "computational model",
+          "hippocampus",
+          "inhibitory networks",
+          "interneuron",
+          "mathematical model",
+          "microcircuit",
+          "theta rhythm"
+     ],
+     "EDAT": "2015/08/25 06:00",
+     "MHDA": "2015/08/25 06:01",
+     "CRDT": [
+          "2015/08/25 06:00"
+     ],
+     "PHST": [
+          "2015/04/01 00:00 [received]",
+          "2015/07/14 00:00 [accepted]",
+          "2015/08/25 06:00 [entrez]",
+          "2015/08/25 06:00 [pubmed]",
+          "2015/08/25 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnsys.2015.00110 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Syst Neurosci. 2015 Aug 7;9:110. doi: 10.3389/fnsys.2015.00110. eCollection 2015.",
+     "term": "hippocampus"
+}

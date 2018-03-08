@@ -1,0 +1,71 @@
+{
+     "PMID": "21909090",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111115",
+     "LR": "20170220",
+     "IS": "1546-1726 (Electronic) 1097-6256 (Linking)",
+     "VI": "14",
+     "IP": "10",
+     "DP": "2011 Sep 11",
+     "TI": "Grid cells generate an analog error-correcting code for singularly precise neural computation.",
+     "PG": "1330-7",
+     "LID": "10.1038/nn.2901 [doi]",
+     "AB": "Entorhinal grid cells in mammals fire as a function of animal location, with spatially periodic response patterns. This nonlocal periodic representation of location, a local variable, is unlike other neural codes. There is no theoretical explanation for why such a code should exist. We examined how accurately the grid code with noisy neurons allows an ideal observer to estimate location and found this code to be a previously unknown type of population code with unprecedented robustness to noise. In particular, the representational accuracy attained by grid cells over the coding range was in a qualitatively different class from what is possible with observed sensory and motor population codes. We found that a simple neural network can effectively correct the grid code. To the best of our knowledge, these results are the first demonstration that the brain contains, and may exploit, powerful error-correcting codes for analog variables.",
+     "CI": [
+          "(c) 2011 Nature America, Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Sreenivasan, Sameet",
+          "Fiete, Ila"
+     ],
+     "AU": [
+          "Sreenivasan S",
+          "Fiete I"
+     ],
+     "AD": "Center for Learning and Memory, University of Texas at Austin, Austin, Texas, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20110911",
+     "PL": "United States",
+     "TA": "Nat Neurosci",
+     "JT": "Nature neuroscience",
+     "JID": "9809671",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/cytology",
+          "*Computer Simulation",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/physiology",
+          "*Neural Networks (Computer)",
+          "Neural Pathways/physiology",
+          "Neurons/*physiology"
+     ],
+     "EDAT": "2011/09/13 06:00",
+     "MHDA": "2011/11/16 06:00",
+     "CRDT": [
+          "2011/09/13 06:00"
+     ],
+     "PHST": [
+          "2011/03/15 00:00 [received]",
+          "2011/07/18 00:00 [accepted]",
+          "2011/09/13 06:00 [entrez]",
+          "2011/09/13 06:00 [pubmed]",
+          "2011/11/16 06:00 [medline]"
+     ],
+     "AID": [
+          "nn.2901 [pii]",
+          "10.1038/nn.2901 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Nat Neurosci. 2011 Sep 11;14(10):1330-7. doi: 10.1038/nn.2901.",
+     "term": "grid cells"
+}

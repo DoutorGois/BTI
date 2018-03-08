@@ -1,0 +1,73 @@
+{
+     "PMID": "21060719",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20110714",
+     "LR": "20170922",
+     "IS": "1662-5188 (Electronic) 1662-5188 (Linking)",
+     "VI": "4",
+     "DP": "2010",
+     "TI": "Spike-timing dependent plasticity and the cognitive map.",
+     "PG": "142",
+     "LID": "10.3389/fncom.2010.00142 [doi]",
+     "AB": "Since the discovery of place cells - single pyramidal neurons that encode spatial location - it has been hypothesized that the hippocampus may act as a cognitive map of known environments. This putative function has been extensively modeled using auto-associative networks, which utilize rate-coded synaptic plasticity rules in order to generate strong bi-directional connections between concurrently active place cells that encode for neighboring place fields. However, empirical studies using hippocampal cultures have demonstrated that the magnitude and direction of changes in synaptic strength can also be dictated by the relative timing of pre- and post-synaptic firing according to a spike-timing dependent plasticity (STDP) rule. Furthermore, electrophysiology studies have identified persistent \"theta-coded\" temporal correlations in place cell activity in vivo, characterized by phase precession of firing as the corresponding place field is traversed. It is not yet clear if STDP and theta-coded neural dynamics are compatible with cognitive map theory and previous rate-coded models of spatial learning in the hippocampus. Here, we demonstrate that an STDP rule based on empirical data obtained from the hippocampus can mediate rate-coded Hebbian learning when pre- and post-synaptic activity is stochastic and has no persistent sequence bias. We subsequently demonstrate that a spiking recurrent neural network that utilizes this STDP rule, alongside theta-coded neural activity, allows the rapid development of a cognitive map during directed or random exploration of an environment of overlapping place fields. Hence, we establish that STDP and phase precession are compatible with rate-coded models of cognitive map development.",
+     "FAU": [
+          "Bush, Daniel",
+          "Philippides, Andrew",
+          "Husbands, Phil",
+          "O'Shea, Michael"
+     ],
+     "AU": [
+          "Bush D",
+          "Philippides A",
+          "Husbands P",
+          "O'Shea M"
+     ],
+     "AD": "Department of Physics and Astronomy, University of California Los Angeles Los Angeles, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "BB/F010052/1/Biotechnology and Biological Sciences Research Council/United",
+          "Kingdom"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20101015",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC2972746",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "STDP",
+          "auto-associative network",
+          "hippocampus",
+          "navigation",
+          "phase precession",
+          "spatial memory",
+          "synaptic plasticity"
+     ],
+     "EDAT": "2010/11/10 06:00",
+     "MHDA": "2010/11/10 06:01",
+     "CRDT": [
+          "2010/11/10 06:00"
+     ],
+     "PHST": [
+          "2010/02/17 00:00 [received]",
+          "2010/09/24 00:00 [accepted]",
+          "2010/11/10 06:00 [entrez]",
+          "2010/11/10 06:00 [pubmed]",
+          "2010/11/10 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2010.00142 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2010 Oct 15;4:142. doi: 10.3389/fncom.2010.00142. eCollection 2010.",
+     "term": "place cells"
+}

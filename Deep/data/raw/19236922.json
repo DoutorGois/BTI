@@ -1,0 +1,96 @@
+{
+     "PMID": "19236922",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090624",
+     "LR": "20170922",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "46",
+     "IP": "3",
+     "DP": "2009 Jul 1",
+     "TI": "Automatic segmentation of the hippocampus and the amygdala driven by hybrid constraints: method and validation.",
+     "PG": "749-61",
+     "LID": "10.1016/j.neuroimage.2009.02.013 [doi]",
+     "AB": "The segmentation from MRI of macroscopically ill-defined and highly variable structures, such as the hippocampus (Hc) and the amygdala (Am), requires the use of specific constraints. Here, we describe and evaluate a fast fully automatic hybrid segmentation that uses knowledge derived from probabilistic atlases and anatomical landmarks, adapted from a semi-automatic method. The algorithm was designed at the outset for application on images from healthy subjects and patients with hippocampal sclerosis. Probabilistic atlases were built from 16 healthy subjects, registered using SPM5. Local mismatch in the atlas registration step was automatically detected and corrected. Quantitative evaluation with respect to manual segmentations was performed on the 16 young subjects, with a leave-one-out strategy, a mixed cohort of 8 controls and 15 patients with epilepsy with variable degrees of hippocampal sclerosis, and 8 healthy subjects acquired on a 3 T scanner. Seven performance indices were computed, among which error on volumes RV and Dice overlap K. The method proved to be fast, robust and accurate. For Hc, results with the new method were: 16 young subjects {RV=5%, K=87%}; mixed cohort {RV=8%, K=84%}; 3 T cohort {RV=9%, K=85%}. Results were better than with atlas-based (thresholded probability map) or semi-automatic segmentations. Atlas mismatch detection and correction proved efficient for the most sclerotic Hc. For Am, results were: 16 young controls {RV=7%, K=85%}; mixed cohort {RV=19%, K=78%}; 3 T cohort {RV=10%, K=77%}. Results were better than with the semi-automatic segmentation, and were also better than atlas-based segmentations for the 16 young subjects.",
+     "FAU": [
+          "Chupin, M",
+          "Hammers, A",
+          "Liu, R S N",
+          "Colliot, O",
+          "Burdett, J",
+          "Bardinet, E",
+          "Duncan, J S",
+          "Garnero, L",
+          "Lemieux, L"
+     ],
+     "AU": [
+          "Chupin M",
+          "Hammers A",
+          "Liu RS",
+          "Colliot O",
+          "Burdett J",
+          "Bardinet E",
+          "Duncan JS",
+          "Garnero L",
+          "Lemieux L"
+     ],
+     "AD": "Department of Clinical and Experimental Epilepsy, Institute of Neurology, UCL, UK. marie.chupin@upmc.fr",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G108/585/Medical Research Council/United Kingdom",
+          "G9805989/Medical Research Council/United Kingdom",
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20090221",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Amygdala/*anatomy & histology",
+          "*Artificial Intelligence",
+          "Female",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC2677639",
+     "EDAT": "2009/02/25 09:00",
+     "MHDA": "2009/06/25 09:00",
+     "CRDT": [
+          "2009/02/25 09:00"
+     ],
+     "PHST": [
+          "2008/07/25 00:00 [received]",
+          "2009/01/14 00:00 [revised]",
+          "2009/02/09 00:00 [accepted]",
+          "2009/02/25 09:00 [entrez]",
+          "2009/02/25 09:00 [pubmed]",
+          "2009/06/25 09:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(09)00152-9 [pii]",
+          "10.1016/j.neuroimage.2009.02.013 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2009 Jul 1;46(3):749-61. doi: 10.1016/j.neuroimage.2009.02.013. Epub 2009 Feb 21.",
+     "term": "hippocampus"
+}

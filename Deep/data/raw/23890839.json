@@ -1,0 +1,104 @@
+{
+     "PMID": "23890839",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140402",
+     "LR": "20161125",
+     "IS": "1558-1497 (Electronic) 0197-4580 (Linking)",
+     "VI": "34",
+     "IP": "12",
+     "DP": "2013 Dec",
+     "TI": "How early can we predict Alzheimer's disease using computational anatomy?",
+     "PG": "2815-26",
+     "LID": "10.1016/j.neurobiolaging.2013.06.015 [doi] S0197-4580(13)00270-4 [pii]",
+     "AB": "Computational anatomy with magnetic resonance imaging (MRI) is well established as a noninvasive biomarker of Alzheimer's disease (AD); however, there is less certainty about its dependency on the staging of AD. We use classical group analyses and automated machine learning classification of standard structural MRI scans to investigate AD diagnostic accuracy from the preclinical phase to clinical dementia. Longitudinal data from the Alzheimer's Disease Neuroimaging Initiative were stratified into 4 groups according to the clinical status-(1) AD patients; (2) mild cognitive impairment (MCI) converters; (3) MCI nonconverters; and (4) healthy controls-and submitted to a support vector machine. The obtained classifier was significantly above the chance level (62%) for detecting AD already 4 years before conversion from MCI. Voxel-based univariate tests confirmed the plausibility of our findings detecting a distributed network of hippocampal-temporoparietal atrophy in AD patients. We also identified a subgroup of control subjects with brain structure and cognitive changes highly similar to those observed in AD. Our results indicate that computational anatomy can detect AD substantially earlier than suggested by current models. The demonstrated differential spatial pattern of atrophy between correctly and incorrectly classified AD patients challenges the assumption of a uniform pathophysiological process underlying clinically identified AD.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Adaszewski, Stanislaw",
+          "Dukart, Juergen",
+          "Kherif, Ferath",
+          "Frackowiak, Richard",
+          "Draganski, Bogdan"
+     ],
+     "AU": [
+          "Adaszewski S",
+          "Dukart J",
+          "Kherif F",
+          "Frackowiak R",
+          "Draganski B"
+     ],
+     "AD": "Departement des Neurosciences Cliniques, Laboratoire de Recherche en Neuroimagerie, Centre Hospitalier Universitaire Vaudois, Universite de Lausanne, Lausanne, Switzerland; Department of Neurology, Faculty of Electronics and Information Technology, Warsaw University of Technology, Warsaw, Poland.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130726",
+     "PL": "United States",
+     "TA": "Neurobiol Aging",
+     "JT": "Neurobiology of aging",
+     "JID": "8100437",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/classification/*diagnosis/*pathology",
+          "Anatomy/*methods",
+          "Artificial Intelligence",
+          "Atrophy",
+          "Brain",
+          "Cognitive Dysfunction/diagnosis/pathology",
+          "Early Diagnosis",
+          "Female",
+          "Forecasting",
+          "Hippocampus/pathology",
+          "Humans",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Parietal Lobe/pathology",
+          "Temporal Lobe/pathology",
+          "Time Factors"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Biomarker",
+          "Mild cognitive impairment",
+          "Structural magnetic resonance imaging"
+     ],
+     "EDAT": "2013/07/31 06:00",
+     "MHDA": "2014/04/03 06:00",
+     "CRDT": [
+          "2013/07/30 06:00"
+     ],
+     "PHST": [
+          "2013/04/02 00:00 [received]",
+          "2013/05/24 00:00 [revised]",
+          "2013/06/20 00:00 [accepted]",
+          "2013/07/30 06:00 [entrez]",
+          "2013/07/31 06:00 [pubmed]",
+          "2014/04/03 06:00 [medline]"
+     ],
+     "AID": [
+          "S0197-4580(13)00270-4 [pii]",
+          "10.1016/j.neurobiolaging.2013.06.015 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neurobiol Aging. 2013 Dec;34(12):2815-26. doi: 10.1016/j.neurobiolaging.2013.06.015. Epub 2013 Jul 26.",
+     "term": "hippocampus"
+}

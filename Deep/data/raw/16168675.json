@@ -1,0 +1,79 @@
+{
+     "PMID": "16168675",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060321",
+     "LR": "20061115",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "29",
+     "IP": "2",
+     "DP": "2006 Jan 15",
+     "TI": "MR-based neurological disease classification methodology: application to lateralization of seizure focus in temporal lobe epilepsy.",
+     "PG": "557-66",
+     "AB": "Classification approaches for neurological diseases tend to concentrate on specific structures such as the hippocampus (HC). The hypothesis for the novel methodology presented in this work is that pathologies will impact large tissue areas with detectable variations of T1-weighted MR signal intensity and registration metrics. The technique is applied to lateralization of seizure focus in 127 patients with intractable temporal lobe epilepsy (TLE), in which the site of seizure onset was determined by comprehensive evaluation (69 with left MTL seizure focus (SF) (group \"L\") and 58 with right SF (group \"R\")). The method analyses large, non-specific Volumes of Interest (VOI) centered on the left and right medial temporal lobes (MTL) (55 x 82 x 80 voxels) in pre-processed scans aligned in stereotaxic space. Extracted VOIs are linearly and nonlinearly registered to a reference target image. Principal Components Analyses of (i) the normalized intensity and (ii) the trace, a measure of local volume change, are used to generate a multidimensional reference space from a set of 152 neurologically healthy subjects. VOIs from TLE patients, processed in a similar fashion, are projected in this space, and leave-one-out, forward stepwise linear discriminant analysis of the eigencoordinate distributions is used for classification. Following manual MRI volumetric analysis, 80 patients had HC atrophy (group \"HA\") ipsilateral to the SF (42 with left SF or \"LHA\", and 38 with right or \"RHA\"), and the remaining 47 had normal HC volumes (group \"HNV\") (27 with left SF or \"LNV\", and 20 with right SF or \"RNV\"). The automated method was 100% accurate at separating \"HA\" vs. \"HNV\", \"LHA\" vs. \"RHA\", and \"LNV\" vs \"RNV\". It was also 96% accurate at separating \"L\" vs. \"R\". Our results indicate that MR data projected in multidimensional feature domains can lateralize SF in epilepsy patients with a high accuracy, irrespective of HC volumes. This single-scan, practical and objective method holds promise for the pre-surgical evaluation of TLE patients.",
+     "FAU": [
+          "Duchesne, S",
+          "Bernasconi, N",
+          "Bernasconi, A",
+          "Collins, D L"
+     ],
+     "AU": [
+          "Duchesne S",
+          "Bernasconi N",
+          "Bernasconi A",
+          "Collins DL"
+     ],
+     "AD": "McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, 3801, University St., Montreal, Canada H3A 2B4. duchesne@bic.mni.mcgill.ca",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20050915",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Atrophy",
+          "Electroencephalography",
+          "Epilepsy, Temporal Lobe/*classification/*pathology",
+          "Female",
+          "Functional Laterality/*physiology",
+          "Hippocampus/pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Models, Statistical",
+          "Nervous System Diseases/*classification/*pathology",
+          "ROC Curve",
+          "Reference Values",
+          "Seizures/*classification/*pathology"
+     ],
+     "EDAT": "2005/09/20 09:00",
+     "MHDA": "2006/03/22 09:00",
+     "CRDT": [
+          "2005/09/20 09:00"
+     ],
+     "PHST": [
+          "2005/04/15 00:00 [received]",
+          "2005/07/15 00:00 [revised]",
+          "2005/07/20 00:00 [accepted]",
+          "2005/09/20 09:00 [pubmed]",
+          "2006/03/22 09:00 [medline]",
+          "2005/09/20 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(05)00553-7 [pii]",
+          "10.1016/j.neuroimage.2005.07.052 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2006 Jan 15;29(2):557-66. doi: 10.1016/j.neuroimage.2005.07.052. Epub 2005 Sep 15.",
+     "term": "hippocampus"
+}

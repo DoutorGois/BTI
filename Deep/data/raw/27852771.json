@@ -1,0 +1,96 @@
+{
+     "PMID": "27852771",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170717",
+     "LR": "20170717",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "36",
+     "IP": "46",
+     "DP": "2016 Nov 16",
+     "TI": "Reduced Efficacy of the KCC2 Cotransporter Promotes Epileptic Oscillations in a Subiculum Network Model.",
+     "PG": "11619-11633",
+     "AB": "Pharmacoresistant epilepsy is a chronic neurological condition in which a basal brain hyperexcitability results in paroxysmal hypersynchronous neuronal discharges. Human temporal lobe epilepsy has been associated with dysfunction or loss of the potassium-chloride cotransporter KCC2 in a subset of pyramidal cells in the subiculum, a key structure generating epileptic activities. KCC2 regulates intraneuronal chloride and extracellular potassium levels by extruding both ions. Absence of effective KCC2 may alter the dynamics of chloride and potassium levels during repeated activation of GABAergic synapses due to interneuron activity. In turn, such GABAergic stress may itself affect Cl(-) regulation. Such changes in ionic homeostasis may switch GABAergic signaling from inhibitory to excitatory in affected pyramidal cells and also increase neuronal excitability. Possibly these changes contribute to periodic bursting in pyramidal cells, an essential component in the onset of ictal epileptic events. We tested this hypothesis with a computational model of a subicular network with realistic connectivity. The pyramidal cell model explicitly incorporated the cotransporter KCC2 and its effects on the internal/external chloride and potassium levels. Our network model suggested the loss of KCC2 in a critical number of pyramidal cells increased external potassium and intracellular chloride concentrations leading to seizure-like field potential oscillations. These oscillations included transient discharges leading to ictal-like field events with frequency spectra as in vitro Restoration of KCC2 function suppressed seizure activity and thus may present a useful therapeutic option. These simulations therefore suggest that reduced KCC2 cotransporter activity alone may underlie the generation of ictal discharges. SIGNIFICANCE STATEMENT: Ion regulation in the brain is a major determinant of neural excitability. Intracellular chloride in neurons, a partial determinant of the resting potential and the inhibitory reversal potentials, is regulated together with extracellular potassium via kation chloride cotransporters. During temporal lobe epilepsy, the homeostatic regulation of intracellular chloride is impaired in pyramidal cells, yet how this dysregulation may lead to seizures has not been explored. Using a realistic neural network model describing ion mechanisms, we show that chloride homeostasis pathology provokes seizure activity analogous to recordings from epileptogenic brain tissue. We show that there is a critical percentage of pathological cells required for seizure initiation. Our model predicts that restoration of the chloride homeostasis in pyramidal cells could be a viable antiepileptic strategy.",
+     "CI": [
+          "Copyright (c) 2016 the authors 0270-6474/16/3611620-15$15.00/0."
+     ],
+     "FAU": [
+          "Buchin, Anatoly",
+          "Chizhov, Anton",
+          "Huberfeld, Gilles",
+          "Miles, Richard",
+          "Gutkin, Boris S"
+     ],
+     "AU": [
+          "Buchin A",
+          "Chizhov A",
+          "Huberfeld G",
+          "Miles R",
+          "Gutkin BS"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0001-6284-9913",
+          "ORCID: http://orcid.org/0000-0001-8120-0300",
+          "ORCID: http://orcid.org/0000-0001-6409-979X"
+     ],
+     "AD": "Ecole normale superieure, Paris Sciences et Lettres University, Laboratoire de Neurosciences Cognitives, Institute national de la sante et de la recherche medicale U960, Group for Neural Theory, 75005 Paris, France, anat.buchin@gmail.com. Peter the Great St. Petersburg Polytechnic University, St. Petersburg 195251, Russia. National Research University Higher School of Economics, Center for Cognition and Decision Making, Moscow 109316, Russia. Ioffe Institute, Computational Physics Laboratory, St. Petersburg 194021, Russia. Sechenov Institute of Evolutionary Physiology and Biochemistry of the Russian Academy of Sciences, St. Petersburg 194223, Russia. Universite Pierre et Marie Curie, Pitie-Salpetriere Hopital, Assistance Publique-Hopitaux de Paris, Neurophysiology Department, 75013 Paris, France. Institute national de la sante et de la recherche medicale U1129 \"Infantile Epilepsies and Brain Plasticity,\" Paris Descartes University, Pole de recherche et d'enseignement superieur Sorbonne Paris Cite, 75015 Paris, France, and. Institut du Cerveau et de la Moelle Epiniere, Cortex et Epilepsie Group, 75013 Paris, France. Ecole normale superieure, Paris Sciences et Lettres University, Laboratoire de Neurosciences Cognitives, Institute national de la sante et de la recherche medicale U960, Group for Neural Theory, 75005 Paris, France. National Research University Higher School of Economics, Center for Cognition and Decision Making, Moscow 109316, Russia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "RN": [
+          "0 (Symporters)",
+          "0 (potassium-chloride symporters)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Biological Clocks",
+          "Brain Waves",
+          "Computer Simulation",
+          "Epilepsy/*physiopathology",
+          "Hippocampus/*physiopathology",
+          "Humans",
+          "Ion Channel Gating",
+          "*Models, Neurological",
+          "Nerve Net/*physiopathology",
+          "Symporters/*metabolism"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "GABA",
+          "KCC2",
+          "epilepsy",
+          "extracellular potassium",
+          "intracellular chloride",
+          "subiculum"
+     ],
+     "EDAT": "2016/11/18 06:00",
+     "MHDA": "2017/07/18 06:00",
+     "CRDT": [
+          "2016/11/18 06:00"
+     ],
+     "PHST": [
+          "2015/11/24 00:00 [received]",
+          "2016/08/04 00:00 [revised]",
+          "2016/08/07 00:00 [accepted]",
+          "2016/11/18 06:00 [entrez]",
+          "2016/11/18 06:00 [pubmed]",
+          "2017/07/18 06:00 [medline]"
+     ],
+     "AID": [
+          "36/46/11619 [pii]",
+          "10.1523/JNEUROSCI.4228-15.2016 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2016 Nov 16;36(46):11619-11633. doi: 10.1523/JNEUROSCI.4228-15.2016.",
+     "term": "hippocampus"
+}

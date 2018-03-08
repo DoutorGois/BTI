@@ -1,0 +1,118 @@
+{
+     "PMID": "24240640",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141006",
+     "LR": "20161019",
+     "IS": "1875-8908 (Electronic) 1387-2877 (Linking)",
+     "VI": "39",
+     "IP": "3",
+     "DP": "2014",
+     "TI": "Structural diversity of Alzheimer's disease amyloid-beta dimers and their role in oligomerization and fibril formation.",
+     "PG": "583-600",
+     "LID": "10.3233/JAD-131589 [doi]",
+     "AB": "Alzheimer's disease (AD) is associated with the formation of toxic amyloid-beta (Abeta)42 oligomers, and recent evidence supports a role for Abeta dimers as building blocks for oligomers. Molecular dynamics simulation studies have identified clans for the dominant conformations of Abeta42 forming dimers; however, it is unclear if a larger spectrum of dimers is involved and which set(s) of dimers might evolve to oligomers verse fibrils. Therefore, for this study we generated multiple structural conformations of Abeta42, using explicit all-atom molecular dynamics, and then clustering the different structures based on key conformational similarities. Those matching a selection threshold were then used to model a process of oligomerization. Remarkably, we showed a greater diversity in Abeta dimers than previously described. Depending on the clan family, different types of Abeta dimers were obtained. While some had the tendency to evolve into oligomeric rings, others formed fibrils of diverse characteristics. Then we selected the dimers that would evolve to membranephilic annular oligomers. Nearly one third of the 28 evaluated annular oligomers had the dimer interfaces between the neighboring Abeta42 monomers with possible salt bridges between the residue K28 from one side and either residue E22 or D23 on the other. Based on these results, key amino acids were identified for point mutations that either enhanced or suppressed the formation and toxicity of oligomer rings. Our studies suggest a greater diversity of Abeta dimers. Understanding the structure of Abeta dimers might be important for the rationale design of small molecules that block formation of toxic oligomers.",
+     "FAU": [
+          "Tsigelny, Igor F",
+          "Sharikov, Yuriy",
+          "Kouznetsova, Valentina L",
+          "Greenberg, Jerry P",
+          "Wrasidlo, Wolfgang",
+          "Gonzalez, Tania",
+          "Desplats, Paula",
+          "Michael, Sarah E",
+          "Trejo-Morales, Margarita",
+          "Overk, Cassia R",
+          "Masliah, Eliezer"
+     ],
+     "AU": [
+          "Tsigelny IF",
+          "Sharikov Y",
+          "Kouznetsova VL",
+          "Greenberg JP",
+          "Wrasidlo W",
+          "Gonzalez T",
+          "Desplats P",
+          "Michael SE",
+          "Trejo-Morales M",
+          "Overk CR",
+          "Masliah E"
+     ],
+     "AD": "San Diego Supercomputer Center, University of California, San Diego, La Jolla, CA, USA Moores Cancer Center, University of California, San Diego, La Jolla, CA, USA Department of Neurosciences, University of California, San Diego, La Jolla, CA, USA. San Diego Supercomputer Center, University of California, San Diego, La Jolla, CA, USA Department of Neurosciences, University of California, San Diego, La Jolla, CA, USA. San Diego Supercomputer Center, University of California, San Diego, La Jolla, CA, USA Moores Cancer Center, University of California, San Diego, La Jolla, CA, USA. San Diego Supercomputer Center, University of California, San Diego, La Jolla, CA, USA. Moores Cancer Center, University of California, San Diego, La Jolla, CA, USA Department of Neurosciences, University of California, San Diego, La Jolla, CA, USA. Department of Neurosciences, University of California, San Diego, La Jolla, CA, USA. Department of Neurosciences, University of California, San Diego, La Jolla, CA, USA. Department of Neurosciences, University of California, San Diego, La Jolla, CA, USA. Department of Neurosciences, University of California, San Diego, La Jolla, CA, USA. Department of Neurosciences, University of California, San Diego, La Jolla, CA, USA. Department of Neurosciences, University of California, San Diego, La Jolla, CA, USA Department of Pathology, University of California, San Diego, La Jolla, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 AG005131/AG/NIA NIH HHS/United States",
+          "R01 AG043384/AG/NIA NIH HHS/United States",
+          "AG031097/AG/NIA NIH HHS/United States",
+          "R01 AG018440/AG/NIA NIH HHS/United States",
+          "P01 AG031097/AG/NIA NIH HHS/United States",
+          "R37 AG018440/AG/NIA NIH HHS/United States",
+          "AG022074/AG/NIA NIH HHS/United States",
+          "AG18440/AG/NIA NIH HHS/United States",
+          "AG043384/AG/NIA NIH HHS/United States",
+          "P01 AG022074/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Alzheimers Dis",
+     "JT": "Journal of Alzheimer's disease : JAD",
+     "JID": "9814863",
+     "RN": [
+          "0 (Amyloid beta-Peptides)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Amyloid beta-Peptides/*chemistry/genetics/*metabolism/ultrastructure",
+          "Analysis of Variance",
+          "Animals",
+          "Cells, Cultured",
+          "Dimerization",
+          "Hippocampus/cytology",
+          "Humans",
+          "Microscopy, Electron",
+          "*Models, Molecular",
+          "Molecular Dynamics Simulation",
+          "Neural Stem Cells/metabolism",
+          "Point Mutation/genetics",
+          "Protein Conformation",
+          "Protein Multimerization/*physiology",
+          "Protein Structure, Secondary",
+          "Rats"
+     ],
+     "PMC": "PMC4449729",
+     "MID": [
+          "NIHMS691908"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Dimers",
+          "molecular dynamics",
+          "neurodegeneration",
+          "oligomers",
+          "synaptoxicity"
+     ],
+     "EDAT": "2013/11/19 06:00",
+     "MHDA": "2014/10/07 06:00",
+     "CRDT": [
+          "2013/11/19 06:00"
+     ],
+     "PHST": [
+          "2013/11/19 06:00 [entrez]",
+          "2013/11/19 06:00 [pubmed]",
+          "2014/10/07 06:00 [medline]"
+     ],
+     "AID": [
+          "H207HW230K6460P2 [pii]",
+          "10.3233/JAD-131589 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Alzheimers Dis. 2014;39(3):583-600. doi: 10.3233/JAD-131589.",
+     "term": "hippocampus"
+}

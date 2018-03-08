@@ -1,0 +1,63 @@
+{
+     "PMID": "8383502",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19930412",
+     "LR": "20061115",
+     "IS": "0735-7044 (Print) 0735-7044 (Linking)",
+     "VI": "107",
+     "IP": "1",
+     "DP": "1993 Feb",
+     "TI": "A simple network model simulates hippocampal place fields: parametric analyses and physiological predictions.",
+     "PG": "34-50",
+     "AB": "Hippocampal place cells may be the computational units of a neuronal cognitive mapping system. A network model trained to compute locations from distal cues simulated the defining properties of hippocampal place cells (i.e., place-specific activation). The model produced units with detailed properties of place cells, including multiple subfields, \"silent\" and \"noisy\" cells, fields that persisted after cue removal, and groups of simulated fields that overlapped in multiple clusters. Quantitative variants of the model showed that different properties of the fields were influenced by the complexity of the visual input (the number of spatial cues), the available computational resources (the number of hidden units), and the output encoding used to represent location. The simulations provide a framework for testing relationships between place field properties, variations in spatial environments, and the integrity of the hippocampal system.",
+     "FAU": [
+          "Shapiro, M L",
+          "Hetherington, P A"
+     ],
+     "AU": [
+          "Shapiro ML",
+          "Hetherington PA"
+     ],
+     "AD": "Department of Psychology, McGill University, Montreal, Quebec, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Behav Neurosci",
+     "JT": "Behavioral neuroscience",
+     "JID": "8302411",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Association Learning/*physiology",
+          "Brain Mapping",
+          "Hippocampus/*physiology",
+          "Mental Recall/*physiology",
+          "*Neural Networks (Computer)",
+          "Neuronal Plasticity/physiology",
+          "Neurons/physiology",
+          "Orientation/*physiology",
+          "Problem Solving",
+          "Rats",
+          "*Social Environment",
+          "Synaptic Transmission/physiology"
+     ],
+     "EDAT": "1993/02/01 00:00",
+     "MHDA": "1993/02/01 00:01",
+     "CRDT": [
+          "1993/02/01 00:00"
+     ],
+     "PHST": [
+          "1993/02/01 00:00 [pubmed]",
+          "1993/02/01 00:01 [medline]",
+          "1993/02/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Behav Neurosci. 1993 Feb;107(1):34-50.",
+     "term": "place cells"
+}

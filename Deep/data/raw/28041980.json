@@ -1,0 +1,99 @@
+{
+     "PMID": "28041980",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180227",
+     "LR": "20180227",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "149",
+     "DP": "2017 Apr 1",
+     "TI": "A family of locally constrained CCA models for detecting activation patterns in fMRI.",
+     "PG": "63-84",
+     "LID": "S1053-8119(16)30806-0 [pii] 10.1016/j.neuroimage.2016.12.081 [doi]",
+     "AB": "Canonical correlation analysis (CCA) has been used in Functional Magnetic Resonance Imaging (fMRI) for improved detection of activation by incorporating time series from multiple voxels in a local neighborhood. To improve the specificity of local CCA methods, spatial constraints were previously proposed. In this study, constraints are generalized by introducing a family model of spatial constraints for CCA to further increase both sensitivity and specificity in fMRI activation detection. The proposed locally-constrained CCA (cCCA) model is formulated in terms of a multivariate constrained optimization problem and solved efficiently with numerical optimization techniques. To evaluate the performance of this cCCA model, simulated data are generated with a Signal-To-Noise Ratio of 0.25, which is realistic to the noise level contained in episodic memory fMRI data. Receiver operating characteristic (ROC) methods are used to compare the performance of different models. The cCCA model with optimum parameters (called optimum-cCCA) obtains the largest area under the ROC curve. Furthermore, a novel validation method is proposed to validate the selected optimum-cCCA parameters based on ROC from simulated data and real fMRI data. Results for optimum-cCCA are then compared with conventional fMRI analysis methods using data from an episodic memory task. Wavelet-resampled resting-state data are used to obtain the null distribution of activation. For simulated data, accuracy in detecting activation increases for the optimum-cCCA model by about 43% as compared to the single voxel analysis with comparable Gaussian smoothing. Results from the real fMRI data set indicate a significant increase in activation detection, particularly in hippocampus, para-hippocampal area and nearby medial temporal lobe regions with the proposed method.",
+     "CI": [
+          "Copyright (c) 2017 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Zhuang, Xiaowei",
+          "Yang, Zhengshi",
+          "Curran, Tim",
+          "Byrd, Richard",
+          "Nandy, Rajesh",
+          "Cordes, Dietmar"
+     ],
+     "AU": [
+          "Zhuang X",
+          "Yang Z",
+          "Curran T",
+          "Byrd R",
+          "Nandy R",
+          "Cordes D"
+     ],
+     "AD": "Cleveland Clinic Lou Ruvo Center for Brain Health, Las Vegas, NV 89106, USA. Cleveland Clinic Lou Ruvo Center for Brain Health, Las Vegas, NV 89106, USA. Department of Psychology and Neuroscience, University of Colorado, Boulder, CO 80309, USA. Department of Computer Science, University of Colorado, Boulder, CO 80309, USA. School of Public Health, University of North Texas, Fort Worth, TX 76107, USA. Cleveland Clinic Lou Ruvo Center for Brain Health, Las Vegas, NV 89106, USA; Department of Psychology and Neuroscience, University of Colorado, Boulder, CO 80309, USA. Electronic address: cordesd@ccf.org.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P20 GM109025/GM/NIGMS NIH HHS/United States",
+          "R01 EB014284/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20161229",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Area Under Curve",
+          "Brain Mapping/*methods",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "*Models, Neurological",
+          "ROC Curve",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC5493994",
+     "MID": [
+          "NIHMS849742"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Constrained canonical correlation analysis (cCCA)",
+          "Episodic memory task",
+          "Functional Magnetic Resonance Imaging (fMRI)",
+          "Multivariate analysis",
+          "Numerical optimization"
+     ],
+     "EDAT": "2017/01/04 06:00",
+     "MHDA": "2018/02/28 06:00",
+     "CRDT": [
+          "2017/01/03 06:00"
+     ],
+     "PMCR": [
+          "2018/04/01 00:00"
+     ],
+     "PHST": [
+          "2016/08/06 00:00 [received]",
+          "2016/12/21 00:00 [revised]",
+          "2016/12/28 00:00 [accepted]",
+          "2018/04/01 00:00 [pmc-release]",
+          "2017/01/04 06:00 [pubmed]",
+          "2018/02/28 06:00 [medline]",
+          "2017/01/03 06:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(16)30806-0 [pii]",
+          "10.1016/j.neuroimage.2016.12.081 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2017 Apr 1;149:63-84. doi: 10.1016/j.neuroimage.2016.12.081. Epub 2016 Dec 29.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,67 @@
+{
+     "PMID": "25071536",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20140729",
+     "LR": "20170220",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "8",
+     "DP": "2014",
+     "TI": "Memory consolidation from seconds to weeks: a three-stage neural network model with autonomous reinstatement dynamics.",
+     "PG": "64",
+     "LID": "10.3389/fncom.2014.00064 [doi]",
+     "AB": "Declarative long-term memories are not created in an instant. Gradual stabilization and temporally shifting dependence of acquired declarative memories in different brain regions-called systems consolidation-can be tracked in time by lesion experiments. The observation of temporally graded retrograde amnesia (RA) following hippocampal lesions points to a gradual transfer of memory from hippocampus to neocortical long-term memory. Spontaneous reactivations of hippocampal memories, as observed in place cell reactivations during slow-wave-sleep, are supposed to drive neocortical reinstatements and facilitate this process. We propose a functional neural network implementation of these ideas and furthermore suggest an extended three-state framework that includes the prefrontal cortex (PFC). It bridges the temporal chasm between working memory percepts on the scale of seconds and consolidated long-term memory on the scale of weeks or months. We show that our three-stage model can autonomously produce the necessary stochastic reactivation dynamics for successful episodic memory consolidation. The resulting learning system is shown to exhibit classical memory effects seen in experimental studies, such as retrograde and anterograde amnesia (AA) after simulated hippocampal lesioning; furthermore the model reproduces peculiar biological findings on memory modulation, such as retrograde facilitation of memory after suppressed acquisition of new long-term memories-similar to the effects of benzodiazepines on memory.",
+     "FAU": [
+          "Fiebig, Florian",
+          "Lansner, Anders"
+     ],
+     "AU": [
+          "Fiebig F",
+          "Lansner A"
+     ],
+     "AD": "Department of Computational Biology, Royal Institute of Technology (KTH) Stockholm, Sweden ; Institute for Adaptive and Neural Computation, School of Informatics, Edinburgh University Edinburgh, Scotland. Department of Computational Biology, Royal Institute of Technology (KTH) Stockholm, Sweden ; Department of Numerical Analysis and Computer Science, Stockholm University Stockholm, Sweden.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140701",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC4077014",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "anterograde amnesia",
+          "complementary learning systems",
+          "computational model",
+          "memory consolidation",
+          "neural adaptation",
+          "retrograde amnesia",
+          "retrograde facilitation",
+          "synaptic depression",
+          "working memory"
+     ],
+     "EDAT": "2014/07/30 06:00",
+     "MHDA": "2014/07/30 06:01",
+     "CRDT": [
+          "2014/07/30 06:00"
+     ],
+     "PHST": [
+          "2014/03/14 00:00 [received]",
+          "2014/05/24 00:00 [accepted]",
+          "2014/07/30 06:00 [entrez]",
+          "2014/07/30 06:00 [pubmed]",
+          "2014/07/30 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2014.00064 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2014 Jul 1;8:64. doi: 10.3389/fncom.2014.00064. eCollection 2014.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,69 @@
+{
+     "PMID": "17784780",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20071018",
+     "LR": "20140904",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "3",
+     "IP": "8",
+     "DP": "2007 Aug",
+     "TI": "Slowness and sparseness lead to place, head-direction, and spatial-view cells.",
+     "PG": "e166",
+     "AB": "We present a model for the self-organized formation of place cells, head-direction cells, and spatial-view cells in the hippocampal formation based on unsupervised learning on quasi-natural visual stimuli. The model comprises a hierarchy of Slow Feature Analysis (SFA) nodes, which were recently shown to reproduce many properties of complex cells in the early visual system []. The system extracts a distributed grid-like representation of position and orientation, which is transcoded into a localized place-field, head-direction, or view representation, by sparse coding. The type of cells that develops depends solely on the relevant input statistics, i.e., the movement pattern of the simulated animal. The numerical simulations are complemented by a mathematical analysis that allows us to accurately predict the output of the top SFA layer.",
+     "FAU": [
+          "Franzius, Mathias",
+          "Sprekeler, Henning",
+          "Wiskott, Laurenz"
+     ],
+     "AU": [
+          "Franzius M",
+          "Sprekeler H",
+          "Wiskott L"
+     ],
+     "AD": "Institute for Theoretical Biology, Humboldt-Universitat zu Berlin, Berlin, Germany. m.franzius@biologie.hu-berlin.de",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Head Movements/*physiology",
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "Nerve Net/cytology/*physiology",
+          "Neurons, Afferent/classification/cytology/*physiology",
+          "Orientation/*physiology",
+          "Rats",
+          "Space Perception/*physiology"
+     ],
+     "PMC": "PMC1963505",
+     "EDAT": "2007/09/06 09:00",
+     "MHDA": "2007/10/19 09:00",
+     "CRDT": [
+          "2007/09/06 09:00"
+     ],
+     "PHST": [
+          "2007/05/01 00:00 [received]",
+          "2007/07/05 00:00 [accepted]",
+          "2007/09/06 09:00 [pubmed]",
+          "2007/10/19 09:00 [medline]",
+          "2007/09/06 09:00 [entrez]"
+     ],
+     "AID": [
+          "07-PLCB-RA-0240 [pii]",
+          "10.1371/journal.pcbi.0030166 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2007 Aug;3(8):e166. doi: 10.1371/journal.pcbi.0030166.",
+     "term": "place cells"
+}

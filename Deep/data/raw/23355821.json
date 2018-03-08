@@ -1,0 +1,73 @@
+{
+     "PMID": "23355821",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130129",
+     "LR": "20130813",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "7",
+     "DP": "2013",
+     "TI": "Computational modeling of the effects of amyloid-beta on release probability at hippocampal synapses.",
+     "PG": "1",
+     "LID": "10.3389/fncom.2013.00001 [doi]",
+     "AB": "The role of amyloid beta (Abeta) in brain function and in the pathogenesis of Alzheimer's disease (AD) remains elusive. Recent publications reported that an increase in Abeta concentration perturbs pre-synaptic release in hippocampal neurons. In particular, it was shown in vitro that Abeta is an endogenous regulator of synaptic transmission at the CA3-CA1 synapse, enhancing its release probability. How this synaptic modulator influences neuronal output during physiological stimulation patterns, such as those elicited in vivo, is still unknown. Using a realistic model of hippocampal CA1 pyramidal neurons, we first implemented this Abeta-induced enhancement of release probability and validated the model by reproducing the experimental findings. We then demonstrated that this synaptic modification can significantly alter synaptic integration properties in a wide range of physiologically relevant input frequencies (from 5 to 200 Hz). Finally, we used natural input patterns, obtained from CA3 pyramidal neurons in vivo during free exploration of rats in an open field, to investigate the effects of enhanced Abeta on synaptic release under physiological conditions. The model shows that the CA1 neuronal response to these natural patterns is altered in the increased-Abeta condition, especially for frequencies in the theta and gamma ranges. These results suggest that the perturbation of release probability induced by increased Abeta can significantly alter the spike probability of CA1 pyramidal neurons and thus contribute to abnormal hippocampal function during AD.",
+     "FAU": [
+          "Romani, Armando",
+          "Marchetti, Cristina",
+          "Bianchi, Daniela",
+          "Leinekugel, Xavier",
+          "Poirazi, Panayiota",
+          "Migliore, Michele",
+          "Marie, Helene"
+     ],
+     "AU": [
+          "Romani A",
+          "Marchetti C",
+          "Bianchi D",
+          "Leinekugel X",
+          "Poirazi P",
+          "Migliore M",
+          "Marie H"
+     ],
+     "AD": "Laboratory of Molecular Mechanisms of Synaptic Plasticity, European Brain Research Institute Rome, Italy.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130125",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC3555117",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "amyloid-beta",
+          "computational modeling",
+          "hippocampus",
+          "neuronal output",
+          "release probability"
+     ],
+     "EDAT": "2013/01/29 06:00",
+     "MHDA": "2013/01/29 06:01",
+     "CRDT": [
+          "2013/01/29 06:00"
+     ],
+     "PHST": [
+          "2012/10/10 00:00 [received]",
+          "2013/01/02 00:00 [accepted]",
+          "2013/01/29 06:00 [entrez]",
+          "2013/01/29 06:00 [pubmed]",
+          "2013/01/29 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2013.00001 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2013 Jan 25;7:1. doi: 10.3389/fncom.2013.00001. eCollection 2013.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,70 @@
+{
+     "PMID": "16686016",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060606",
+     "LR": "20091211",
+     "VI": "8",
+     "IP": "Pt 2",
+     "DP": "2005",
+     "TI": "Brain surface parameterization using Riemann surface structure.",
+     "PG": "657-65",
+     "AB": "We develop a general approach that uses holomorphic 1-forms to parameterize anatomical surfaces with complex (possibly branching) topology. Rather than evolve the surface geometry to a plane or sphere, we instead use the fact that all orientable surfaces are Riemann surfaces and admit conformal structures, which induce special curvilinear coordinate systems on the surfaces. Based on Riemann surface structure, we can then canonically partition the surface into patches. Each of these patches can be conformally mapped to a parallelogram. The resulting surface subdivision and the parameterizations of the components are intrinsic and stable. To illustrate the technique, we computed conformal structures for several types of anatomical surfaces in MRI scans of the brain, including the cortex, hippocampus, and lateral ventricles. We found that the resulting parameterizations were consistent across subjects, even for branching structures such as the ventricles, which are otherwise difficult to parameterize. Compared with other variational approaches based on surface inflation, our technique works on surfaces with arbitrary complexity while guaranteeing minimal distortion in the parameterization. It also offers a way to explicitly match landmark curves in anatomical surfaces such as the cortex, providing a surface-based framework to compare anatomy statistically and to generate grids on surfaces for PDE-based signal processing.",
+     "FAU": [
+          "Wang, Yalin",
+          "Gu, Xianfeng",
+          "Hayashi, Kiralee M",
+          "Chan, Tony F",
+          "Thompson, Paul M",
+          "Yau, Shing-Tung"
+     ],
+     "AU": [
+          "Wang Y",
+          "Gu X",
+          "Hayashi KM",
+          "Chan TF",
+          "Thompson PM",
+          "Yau ST"
+     ],
+     "AD": "Mathematics Department, UCLA, Los Angeles, CA 90095, USA. ylwang@math.ucla.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Brain/*anatomy & histology/*physiology",
+          "Computer Simulation",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Anatomic",
+          "*Models, Biological",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Surface Properties"
+     ],
+     "EDAT": "2006/05/12 09:00",
+     "MHDA": "2006/06/07 09:00",
+     "CRDT": [
+          "2006/05/12 09:00"
+     ],
+     "PHST": [
+          "2006/05/12 09:00 [pubmed]",
+          "2006/06/07 09:00 [medline]",
+          "2006/05/12 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2005;8(Pt 2):657-65.",
+     "term": "hippocampus"
+}

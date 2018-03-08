@@ -1,0 +1,60 @@
+{
+     "PMID": "23367160",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130724",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2012",
+     "DP": "2012",
+     "TI": "Nonlinear model for Dynamic Synapse Neural Network.",
+     "PG": "5441-4",
+     "LID": "10.1109/EMBC.2012.6347225 [doi]",
+     "AB": "This paper presents a simplified nonlinear model for Dynamic Synapse Neural Network (DSNN) which is based on nonlinear dynamics of neurons in the hippocampus, using a recurrent neural network. The proposed model will be utilized in place of DSNN for various applications which require simpler implementation and faster training, maintaining the same performance as a nonlinear system model, classifier, or pattern recognizer. This model was tested in two different structure and training methods, by learning the input-output relationship of a few DSNNs with sets of experimentally-determined coefficients. The results showed that this model can capture DSNN's complicated nonlinear dynamics in a temporal domain with less computational cost and faster training.",
+     "FAU": [
+          "Park, Hyung O",
+          "Dibazar, Alireza A",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Park HO",
+          "Dibazar AA",
+          "Berger TW"
+     ],
+     "AD": "Laboratory for Neural Dynamics, University of Southern California, Los Angeles, CA 90089, USA. hyungpar@usc.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Humans",
+          "*Nerve Net",
+          "*Nonlinear Dynamics",
+          "Synapses/*physiology"
+     ],
+     "EDAT": "2013/02/01 06:00",
+     "MHDA": "2013/07/25 06:00",
+     "CRDT": [
+          "2013/02/01 06:00"
+     ],
+     "PHST": [
+          "2013/02/01 06:00 [entrez]",
+          "2013/02/01 06:00 [pubmed]",
+          "2013/07/25 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2012.6347225 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2012;2012:5441-4. doi: 10.1109/EMBC.2012.6347225.",
+     "term": "hippocampus"
+}

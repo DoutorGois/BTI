@@ -1,0 +1,68 @@
+{
+     "PMID": "12444387",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030528",
+     "LR": "20031114",
+     "IS": "1234-1010 (Print) 1234-1010 (Linking)",
+     "VI": "8",
+     "IP": "11",
+     "DP": "2002 Nov",
+     "TI": "EEG noise cancellation by a subspace method based on wavelet decomposition.",
+     "PG": "MT199-204",
+     "AB": "BACKGROUND: Noise reduction techniques play an essential role in EEG signal processing applications. A variety of methods are currently in use, including those based on linear filtering and adaptive noise cancellation, as well as subspace-based methods using singular value decomposition (SVD). SVD offers a robust method to decompose the data matrix into signal and noise subspaces. However, the SVD algorithm is characterized by high computational complexity, which restricts its use in real time EEG signal analysis. MATERIAL/METHODS: In this work we applied a wavelet transform to decompose the EEG signal into parallel subsignals. Noise was cancelled using the SVD-based method for each subsignal, and the noiseless EEG was reconstructed by using an inverse wavelet transform. EEGs were recorded in freely behaving rats from two different sites of the brain: 1). the hilar region of the dentate gyrus of the hippocampus, 2). the frontal cortex, with the electrode tip located in the vicinity of the epipial neocortical surface. RESULTS: Our noise suppression method had the most obvious effect on the EEG frequency spectrum, where random noise was considerably diminished. In the time domain, the reconstructed waveform closely resembled the original EEG signal, but it could clearly be seen that most of the transient spikes had been removed. CONCLUSIONS: The present method offers remarkable computational savings and is especially well adapted for the analysis of highly dynamic EEGs.",
+     "FAU": [
+          "Olkkonen, Hannu",
+          "Pesola, Peitsa",
+          "Olkkonen, Juuso",
+          "Valjakka, Antti",
+          "Tuomisto, Leena"
+     ],
+     "AU": [
+          "Olkkonen H",
+          "Pesola P",
+          "Olkkonen J",
+          "Valjakka A",
+          "Tuomisto L"
+     ],
+     "AD": "Department of Applied Physics, University of Kuopio, Kuopio, Finland. hannu.olkkonen@uku.fi",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Med Sci Monit",
+     "JT": "Medical science monitor : international medical journal of experimental and clinical research",
+     "JID": "9609063",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Brain/pathology",
+          "Electroencephalography/*methods",
+          "Frontal Lobe/pathology",
+          "Hippocampus/pathology",
+          "Models, Statistical",
+          "Rats",
+          "*Signal Processing, Computer-Assisted",
+          "Software"
+     ],
+     "EDAT": "2002/11/22 04:00",
+     "MHDA": "2003/05/29 05:00",
+     "CRDT": [
+          "2002/11/22 04:00"
+     ],
+     "PHST": [
+          "2002/11/22 04:00 [pubmed]",
+          "2003/05/29 05:00 [medline]",
+          "2002/11/22 04:00 [entrez]"
+     ],
+     "AID": [
+          "2776 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Sci Monit. 2002 Nov;8(11):MT199-204.",
+     "term": "hippocampus"
+}

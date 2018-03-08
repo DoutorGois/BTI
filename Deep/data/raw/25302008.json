@@ -1,0 +1,60 @@
+{
+     "PMID": "25302008",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "0277-786X (Print) 0277-786X (Linking)",
+     "VI": "9034",
+     "DP": "2014 Mar 21",
+     "TI": "Interpolation of Longitudinal Shape and Image Data via Optimal Mass Transport.",
+     "PG": "90342X",
+     "AB": "Longitudinal analysis of medical imaging data has become central to the study of many disorders. Unfortunately, various constraints (study design, patient availability, technological limitations) restrict the acquisition of data to only a few time points, limiting the study of continuous disease/treatment progression. Having the ability to produce a sensible time interpolation of the data can lead to improved analysis, such as intuitive visualizations of anatomical changes, or the creation of more samples to improve statistical analysis. In this work, we model interpolation of medical image data, in particular shape data, using the theory of optimal mass transport (OMT), which can construct a continuous transition from two time points while preserving \"mass\" (e.g., image intensity, shape volume) during the transition. The theory even allows a short extrapolation in time and may help predict short-term treatment impact or disease progression on anatomical structure. We apply the proposed method to the hippocampus-amygdala complex in schizophrenia, the heart in atrial fibrillation, and full head MR images in traumatic brain injury.",
+     "FAU": [
+          "Gao, Yi",
+          "Zhu, Liang-Jia",
+          "Bouix, Sylvain",
+          "Tannenbaum, Allen"
+     ],
+     "AU": [
+          "Gao Y",
+          "Zhu LJ",
+          "Bouix S",
+          "Tannenbaum A"
+     ],
+     "AD": "Department of Electrical and Computer Engineering and the Comprehensive Cancer Center, the University of Alabama at Birmingham; 1150 10th Avenue South, Birmingham, AL 35294. Departments of Computer Science and Applied Mathematics/Statistics, Stony Brook University, Stony Brook, New York, 11794. Department of Psychiatry, Harvard Medical School, 1249 Boylston St, Boston, MA, 02215. Departments of Computer Science and Applied Mathematics/Statistics, Stony Brook University, Stony Brook, New York, 11794.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB015902/EB/NIBIB NIH HHS/United States",
+          "P41 RR013218/RR/NCRR NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Proc SPIE Int Soc Opt Eng",
+     "JT": "Proceedings of SPIE--the International Society for Optical Engineering",
+     "JID": "101524122",
+     "PMC": "PMC4187117",
+     "MID": [
+          "NIHMS629127"
+     ],
+     "EDAT": "2014/10/11 06:00",
+     "MHDA": "2014/10/11 06:00",
+     "CRDT": [
+          "2014/10/11 06:00"
+     ],
+     "PHST": [
+          "2014/10/11 06:00 [entrez]",
+          "2014/10/11 06:00 [pubmed]",
+          "2014/10/11 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1117/12.2043282 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc SPIE Int Soc Opt Eng. 2014 Mar 21;9034:90342X. doi: 10.1117/12.2043282.",
+     "term": "hippocampus"
+}

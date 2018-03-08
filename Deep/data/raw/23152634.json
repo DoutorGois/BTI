@@ -1,0 +1,78 @@
+{
+     "PMID": "23152634",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130121",
+     "LR": "20140325",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "32",
+     "IP": "46",
+     "DP": "2012 Nov 14",
+     "TI": "How glitter relates to gold: similarity-dependent reward prediction errors in the human striatum.",
+     "PG": "16521-9",
+     "LID": "10.1523/JNEUROSCI.2383-12.2012 [doi]",
+     "AB": "Optimal choices benefit from previous learning. However, it is not clear how previously learned stimuli influence behavior to novel but similar stimuli. One possibility is to generalize based on the similarity between learned and current stimuli. Here, we use neuroscientific methods and a novel computational model to inform the question of how stimulus generalization is implemented in the human brain. Behavioral responses during an intradimensional discrimination task showed similarity-dependent generalization. Moreover, a peak shift occurred, i.e., the peak of the behavioral generalization gradient was displaced from the rewarded conditioned stimulus in the direction away from the unrewarded conditioned stimulus. To account for the behavioral responses, we designed a similarity-based reinforcement learning model wherein prediction errors generalize across similar stimuli and update their value. We show that this model predicts a similarity-dependent neural generalization gradient in the striatum as well as changes in responding during extinction. Moreover, across subjects, the width of generalization was negatively correlated with functional connectivity between the striatum and the hippocampus. This result suggests that hippocampus-striatal connections contribute to stimulus-specific value updating by controlling the width of generalization. In summary, our results shed light onto the neurobiology of a fundamental, similarity-dependent learning principle that allows learning the value of stimuli that have never been encountered.",
+     "FAU": [
+          "Kahnt, Thorsten",
+          "Park, Soyoung Q",
+          "Burke, Christopher J",
+          "Tobler, Philippe N"
+     ],
+     "AU": [
+          "Kahnt T",
+          "Park SQ",
+          "Burke CJ",
+          "Tobler PN"
+     ],
+     "AD": "Laboratory for Social and Neural Systems Research, Department of Economics, University of Zurich, 8006 Zurich, Switzerland. thorsten.kahnt@econ.uzh.ch",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Conditioning, Operant/physiology",
+          "Data Interpretation, Statistical",
+          "Extinction, Psychological",
+          "Female",
+          "Forecasting",
+          "Generalization (Psychology)/physiology",
+          "Hippocampus/physiology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Models, Neurological",
+          "Neostriatum/*physiology",
+          "Photic Stimulation",
+          "Psychomotor Performance/*physiology",
+          "Reinforcement (Psychology)",
+          "*Reward",
+          "Visual Perception/physiology",
+          "Young Adult"
+     ],
+     "EDAT": "2012/11/16 06:00",
+     "MHDA": "2013/01/23 06:00",
+     "CRDT": [
+          "2012/11/16 06:00"
+     ],
+     "PHST": [
+          "2012/11/16 06:00 [entrez]",
+          "2012/11/16 06:00 [pubmed]",
+          "2013/01/23 06:00 [medline]"
+     ],
+     "AID": [
+          "32/46/16521 [pii]",
+          "10.1523/JNEUROSCI.2383-12.2012 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2012 Nov 14;32(46):16521-9. doi: 10.1523/JNEUROSCI.2383-12.2012.",
+     "term": "hippocampus"
+}

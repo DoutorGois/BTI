@@ -1,0 +1,81 @@
+{
+     "PMID": "23576429",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140409",
+     "LR": "20130916",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "23",
+     "IP": "9",
+     "DP": "2013 Sep",
+     "TI": "Phase precession of grid cells in a network model without external pacemaker.",
+     "PG": "786-96",
+     "LID": "10.1002/hipo.22133 [doi]",
+     "AB": "Rodent brains encode space in both the firing rate and the spike timing of neurons in the medial entorhinal cortex. The rate code is realized by grid fields, that is, the neurons fire at multiple places that are arranged on a hexagonal lattice. Such activity is accompanied by theta oscillations of the local field potential. The phase of spikes thereby encodes space as well, since it decreases with the distance traveled in the field-a phenomenon called phase precession. A likely candidate for grid cells are entorhinal cortex stellate cells, which are type II oscillators and have been suggested to act as pacemakers. It is unclear how spiking of such putative pacemaker neurons would be able to precess in phase relative to a self-generated oscillation. This article presents a computational model of how this paradox can be resolved although the periodicity of the grid fields interferes with the periodic firing of the neurons. Our simulations show that the connections between stellate cells synchronize small cell groups, which allows a population oscillation during grid field activity that is accompanied by theta phase precession. Direct excitatory coupling between the stellate cells, indirect inhibitory coupling via a gamma-oscillating network of interneurons, or both could mediate this phase coordination. Our model further suggests modulation of h-currents to be a feasible mechanism to adjust phase precession to running-speed. The coexistence of rate and timing code for space hence follows as a natural consequence of the self-organization in a recurrent network.",
+     "CI": [
+          "Copyright (c) 2013 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Thurley, Kay",
+          "Hellmundt, Franziska",
+          "Leibold, Christian"
+     ],
+     "AU": [
+          "Thurley K",
+          "Hellmundt F",
+          "Leibold C"
+     ],
+     "AD": "Department Biology II, Ludwig-Maximilians-University, Munich, Germany; Bernstein Center for Computational Neuroscience, Munich, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130523",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Biological Clocks/physiology",
+          "Computer Simulation",
+          "Hippocampus/*cytology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neural Inhibition/physiology",
+          "Neurons/*physiology",
+          "Synapses/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "computational model",
+          "entorhinal cortex",
+          "grid cells",
+          "phase precession",
+          "theta rhythm"
+     ],
+     "EDAT": "2013/04/12 06:00",
+     "MHDA": "2014/04/10 06:00",
+     "CRDT": [
+          "2013/04/12 06:00"
+     ],
+     "PHST": [
+          "2013/04/01 00:00 [accepted]",
+          "2013/04/12 06:00 [entrez]",
+          "2013/04/12 06:00 [pubmed]",
+          "2014/04/10 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.22133 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2013 Sep;23(9):786-96. doi: 10.1002/hipo.22133. Epub 2013 May 23.",
+     "term": "grid cells"
+}

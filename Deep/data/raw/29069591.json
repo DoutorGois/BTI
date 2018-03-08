@@ -1,0 +1,82 @@
+{
+     "PMID": "29069591",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20171219",
+     "IS": "2211-1247 (Electronic)",
+     "VI": "21",
+     "IP": "4",
+     "DP": "2017 Oct 24",
+     "TI": "Tracking the Same Neurons across Multiple Days in Ca(2+) Imaging Data.",
+     "PG": "1102-1115",
+     "LID": "S2211-1247(17)31430-4 [pii] 10.1016/j.celrep.2017.10.013 [doi]",
+     "AB": "Ca(2+) imaging techniques permit time-lapse recordings of neuronal activity from large populations over weeks. However, without identifying the same neurons across imaging sessions (cell registration), longitudinal analysis of the neural code is restricted to population-level statistics. Accurate cell registration becomes challenging with increased numbers of cells, sessions, and inter-session intervals. Current cell registration practices, whether manual or automatic, do not quantitatively evaluate registration accuracy, possibly leading to data misinterpretation. We developed a probabilistic method that automatically registers cells across multiple sessions and estimates the registration confidence for each registered cell. Using large-scale Ca(2+) imaging data recorded over weeks from the hippocampus and cortex of freely behaving mice, we show that our method performs more accurate registration than previously used routines, yielding estimated error rates <5%, and that the registration is scalable for many sessions. Thus, our method allows reliable longitudinal analysis of the same neurons over long time periods.",
+     "CI": [
+          "Copyright (c) 2017 The Author(s). Published by Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Sheintuch, Liron",
+          "Rubin, Alon",
+          "Brande-Eilat, Noa",
+          "Geva, Nitzan",
+          "Sadeh, Noa",
+          "Pinchasof, Or",
+          "Ziv, Yaniv"
+     ],
+     "AU": [
+          "Sheintuch L",
+          "Rubin A",
+          "Brande-Eilat N",
+          "Geva N",
+          "Sadeh N",
+          "Pinchasof O",
+          "Ziv Y"
+     ],
+     "AD": "Department of Neurobiology, Weizmann Institute of Science, Rehovot 76100, Israel. Department of Neurobiology, Weizmann Institute of Science, Rehovot 76100, Israel. Department of Neurobiology, Weizmann Institute of Science, Rehovot 76100, Israel. Department of Neurobiology, Weizmann Institute of Science, Rehovot 76100, Israel. Department of Neurobiology, Weizmann Institute of Science, Rehovot 76100, Israel. Department of Neurobiology, Weizmann Institute of Science, Rehovot 76100, Israel. Department of Neurobiology, Weizmann Institute of Science, Rehovot 76100, Israel. Electronic address: yaniv.ziv@weizmann.ac.il.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Cell Rep",
+     "JT": "Cell reports",
+     "JID": "101573691",
+     "PMC": "PMC5670033",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "GCaMP6",
+          "calcium imaging",
+          "cell registration",
+          "fluorescence imaging",
+          "hippocampus",
+          "image alignment",
+          "microendoscopy",
+          "miniature microscopes",
+          "place cells",
+          "two-photon microscopy"
+     ],
+     "EDAT": "2017/10/27 06:00",
+     "MHDA": "2017/10/27 06:00",
+     "CRDT": [
+          "2017/10/26 06:00"
+     ],
+     "PHST": [
+          "2017/05/02 00:00 [received]",
+          "2017/08/14 00:00 [revised]",
+          "2017/10/03 00:00 [accepted]",
+          "2017/10/26 06:00 [entrez]",
+          "2017/10/27 06:00 [pubmed]",
+          "2017/10/27 06:00 [medline]"
+     ],
+     "AID": [
+          "S2211-1247(17)31430-4 [pii]",
+          "10.1016/j.celrep.2017.10.013 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cell Rep. 2017 Oct 24;21(4):1102-1115. doi: 10.1016/j.celrep.2017.10.013.",
+     "term": "place cells"
+}

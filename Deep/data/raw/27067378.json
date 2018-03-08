@@ -1,0 +1,106 @@
+{
+     "PMID": "27067378",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170613",
+     "LR": "20171223",
+     "IS": "2050-084X (Electronic) 2050-084X (Linking)",
+     "VI": "5",
+     "DP": "2016 Apr 12",
+     "TI": "Demixed principal component analysis of neural population data.",
+     "LID": "10.7554/eLife.10989 [doi] e10989 [pii]",
+     "AB": "Neurons in higher cortical areas, such as the prefrontal cortex, are often tuned to a variety of sensory and motor variables, and are therefore said to display mixed selectivity. This complexity of single neuron responses can obscure what information these areas represent and how it is represented. Here we demonstrate the advantages of a new dimensionality reduction technique, demixed principal component analysis (dPCA), that decomposes population activity into a few components. In addition to systematically capturing the majority of the variance of the data, dPCA also exposes the dependence of the neural representation on task parameters such as stimuli, decisions, or rewards. To illustrate our method we reanalyze population data from four datasets comprising different species, different cortical areas and different experimental tasks. In each case, dPCA provides a concise way of visualizing the data that summarizes the task-dependent features of the population response in a single figure.",
+     "FAU": [
+          "Kobak, Dmitry",
+          "Brendel, Wieland",
+          "Constantinidis, Christos",
+          "Feierstein, Claudia E",
+          "Kepecs, Adam",
+          "Mainen, Zachary F",
+          "Qi, Xue-Lian",
+          "Romo, Ranulfo",
+          "Uchida, Naoshige",
+          "Machens, Christian K"
+     ],
+     "AU": [
+          "Kobak D",
+          "Brendel W",
+          "Constantinidis C",
+          "Feierstein CE",
+          "Kepecs A",
+          "Mainen ZF",
+          "Qi XL",
+          "Romo R",
+          "Uchida N",
+          "Machens CK"
+     ],
+     "AUID": [
+          "ORCID: 0000-0002-5639-7209",
+          "ORCID: 0000-0002-8002-922X"
+     ],
+     "AD": "Champalimaud Neuroscience Program, Champalimaud Centre for the Unknown, Lisbon, Portugal. Champalimaud Neuroscience Program, Champalimaud Centre for the Unknown, Lisbon, Portugal. Ecole Normale Superieure, Paris, France. Centre for Integrative Neuroscience, University of Tubingen, Tubingen, Germany. Wake Forest University School of Medicine, Winston-Salem, United States. Champalimaud Neuroscience Program, Champalimaud Centre for the Unknown, Lisbon, Portugal. Cold Spring Harbor Laboratory, Cold Spring Harbor, United States. Champalimaud Neuroscience Program, Champalimaud Centre for the Unknown, Lisbon, Portugal. Wake Forest University School of Medicine, Winston-Salem, United States. Instituto de Fisiologia Celular-Neurociencias, Universidad Nacional Autonoma de Mexico, Mexico City, Mexico. El Colegio Nacional, Mexico City, Mexico. Harvard University, Cambridge, United States. Champalimaud Neuroscience Program, Champalimaud Centre for the Unknown, Lisbon, Portugal.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH097061/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160412",
+     "PL": "England",
+     "TA": "Elife",
+     "JT": "eLife",
+     "JID": "101579614",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Datasets as Topic",
+          "Decision Making/physiology",
+          "Macaca mulatta",
+          "Memory, Short-Term/*physiology",
+          "Motor Neurons/cytology/*physiology",
+          "Multifactor Dimensionality Reduction/*methods",
+          "Olfactory Perception/physiology",
+          "Prefrontal Cortex/anatomy & histology/cytology/*physiology",
+          "Principal Component Analysis/*methods",
+          "Rats",
+          "Reward",
+          "Sensory Receptor Cells/cytology/*physiology",
+          "Spatial Navigation/physiology",
+          "Task Performance and Analysis"
+     ],
+     "PMC": "PMC4887222",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*dimensionality reduction",
+          "*neuroscience",
+          "*population activity",
+          "*prefrontal cortex",
+          "*principal component analysis",
+          "*rat",
+          "*rhesus macaque"
+     ],
+     "EDAT": "2016/04/14 06:00",
+     "MHDA": "2017/06/14 06:00",
+     "CRDT": [
+          "2016/04/13 06:00"
+     ],
+     "PHST": [
+          "2015/08/19 00:00 [received]",
+          "2016/04/07 00:00 [accepted]",
+          "2016/04/13 06:00 [entrez]",
+          "2016/04/14 06:00 [pubmed]",
+          "2017/06/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.7554/eLife.10989 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Elife. 2016 Apr 12;5. doi: 10.7554/eLife.10989.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,126 @@
+{
+     "PMID": "27479868",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180105",
+     "LR": "20180105",
+     "IS": "1098-1136 (Electronic) 0894-1491 (Linking)",
+     "VI": "64",
+     "IP": "12",
+     "DP": "2016 Dec",
+     "TI": "Ca(2+) transients in astrocyte fine processes occur via Ca(2+) influx in the adult mouse hippocampus.",
+     "PG": "2093-2103",
+     "LID": "10.1002/glia.23042 [doi]",
+     "AB": "Astrocytes display complex morphologies with an array of fine extensions extending from the soma and the primary thick processes. Until the use of genetically encoded calcium indicators (GECIs) selectively expressed in astrocytes, Ca(2+) signaling was only examined in soma and thick primary processes of astrocytes where Ca(2+) -sensitive fluorescent dyes could be imaged. GECI imaging in astrocytes revealed a previously unsuspected pattern of spontaneous Ca(2+) transients in fine processes that has not been observed without chronic expression of GECIs, raising potential concerns about the effects of GECI expression. Here, we perform two-photon imaging of Ca(2+) transients in adult CA1 hippocampal astrocytes using a new single-cell patch-loading strategy to image Ca(2+) -sensitive fluorescent dyes in the cytoplasm of fine processes. We observed that astrocyte fine processes exhibited a high frequency of spontaneous Ca(2+) transients whereas astrocyte soma rarely showed spontaneous Ca(2+) oscillations similar to previous reports using GECIs. We exploited this new approach to show these signals were independent of neuronal spiking, metabotropic glutamate receptor (mGluR) activity, TRPA1 channels, and L- or T-type voltage-gated calcium channels. Removal of extracellular Ca(2+) almost completely and reversibly abolished the spontaneous signals while IP3 R2 KO mice also exhibited spontaneous and compartmentalized signals, suggesting they rely on influx of extracellular Ca(2+) . The Ca(2+) influx dependency of the spontaneous signals in patch-loaded astrocytes was also observed in astrocytes expressing GCaMP3, further highlighting the presence of Ca(2+) influx pathways in astrocytes. The mechanisms underlying these localized Ca(2+) signals are critical for understanding how astrocytes regulate important functions in the adult brain. GLIA 2016;64:2093-2103.",
+     "CI": [
+          "(c) 2016 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Rungta, Ravi L",
+          "Bernier, Louis-Philippe",
+          "Dissing-Olesen, Lasse",
+          "Groten, Christopher J",
+          "LeDue, Jeffrey M",
+          "Ko, Rebecca",
+          "Drissler, Sibyl",
+          "MacVicar, Brian A"
+     ],
+     "AU": [
+          "Rungta RL",
+          "Bernier LP",
+          "Dissing-Olesen L",
+          "Groten CJ",
+          "LeDue JM",
+          "Ko R",
+          "Drissler S",
+          "MacVicar BA"
+     ],
+     "AD": "Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BC, V6T 2B5, Canada. Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BC, V6T 2B5, Canada. Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BC, V6T 2B5, Canada. Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BC, V6T 2B5, Canada. Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BC, V6T 2B5, Canada. Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BC, V6T 2B5, Canada. Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BC, V6T 2B5, Canada. Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BC, V6T 2B5, Canada. bmacvicar@brain.ubc.ca.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160801",
+     "PL": "United States",
+     "TA": "Glia",
+     "JT": "Glia",
+     "JID": "8806785",
+     "RN": [
+          "0 (7-(hydroxyimino)cyclopropan(b)chromen-1a-carbxoylic acid ethyl ester)",
+          "0 (Cacna1d protein, mouse)",
+          "0 (Calcium Channels, L-Type)",
+          "0 (Chromones)",
+          "0 (Excitatory Amino Acid Antagonists)",
+          "0 (Excitatory Amino Acid Transporter 1)",
+          "0 (Inositol 1,4,5-Trisphosphate Receptors)",
+          "0 (Ip3r2 protein, mouse)",
+          "0 (Luminescent Proteins)",
+          "0 (Pyridines)",
+          "0 (Slc1a3 protein, mouse)",
+          "0 (TRPA1 Cation Channel)",
+          "0 (Trpa1 protein, mouse)",
+          "7VC0YVI27Y (6-methyl-2-(phenylethynyl)pyridine)",
+          "MM6384NG73 (Carbenoxolone)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/drug effects",
+          "Animals",
+          "Astrocytes/*metabolism",
+          "Calcium/*metabolism",
+          "Calcium Channels, L-Type/genetics/metabolism",
+          "Calcium Signaling/drug effects",
+          "Carbenoxolone/pharmacology",
+          "Chromones/pharmacology",
+          "Excitatory Amino Acid Antagonists/pharmacology",
+          "Excitatory Amino Acid Transporter 1/genetics/metabolism",
+          "Female",
+          "Hippocampus/*cytology",
+          "In Vitro Techniques",
+          "Inositol 1,4,5-Trisphosphate Receptors/genetics/metabolism",
+          "Luminescent Proteins/genetics/metabolism",
+          "Male",
+          "Membrane Microdomains/drug effects/metabolism",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Mice, Transgenic",
+          "Pyridines/pharmacology",
+          "TRPA1 Cation Channel/genetics/metabolism"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Calcium Green-1 dextran",
+          "Fluo-4",
+          "GCaMP",
+          "IP3R2",
+          "TRPA1",
+          "calcium channel",
+          "glia",
+          "microdomain",
+          "synaptic",
+          "two-photon"
+     ],
+     "EDAT": "2016/10/21 06:00",
+     "MHDA": "2018/01/06 06:00",
+     "CRDT": [
+          "2016/08/02 06:00"
+     ],
+     "PHST": [
+          "2016/03/14 00:00 [received]",
+          "2016/07/13 00:00 [accepted]",
+          "2016/10/21 06:00 [pubmed]",
+          "2018/01/06 06:00 [medline]",
+          "2016/08/02 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/glia.23042 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Glia. 2016 Dec;64(12):2093-2103. doi: 10.1002/glia.23042. Epub 2016 Aug 1.",
+     "term": "hippocampus"
+}

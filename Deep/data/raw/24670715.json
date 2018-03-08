@@ -1,0 +1,72 @@
+{
+     "PMID": "24670715",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150406",
+     "LR": "20171116",
+     "IS": "1424-8220 (Electronic) 1424-8220 (Linking)",
+     "VI": "14",
+     "IP": "4",
+     "DP": "2014 Mar 25",
+     "TI": "Context-aware personal navigation using embedded sensor fusion in smartphones.",
+     "PG": "5742-67",
+     "LID": "10.3390/s140405742 [doi]",
+     "AB": "Context-awareness is an interesting topic in mobile navigation scenarios where the context of the application is highly dynamic. Using context-aware computing, navigation services consider the situation of user, not only in the design process, but in real time while the device is in use. The basic idea is that mobile navigation services can provide different services based on different contexts-where contexts are related to the user's activity and the device placement. Context-aware systems are concerned with the following challenges which are addressed in this paper: context acquisition, context understanding, and context-aware application adaptation. The proposed approach in this paper is using low-cost sensors in a multi-level fusion scheme to improve the accuracy and robustness of context-aware navigation system. The experimental results demonstrate the capabilities of the context-aware Personal Navigation Systems (PNS) for outdoor personal navigation using a smartphone.",
+     "FAU": [
+          "Saeedi, Sara",
+          "Moussa, Adel",
+          "El-Sheimy, Naser"
+     ],
+     "AU": [
+          "Saeedi S",
+          "Moussa A",
+          "El-Sheimy N"
+     ],
+     "AD": "Department of Geomatics Engineering, University of Calgary, 2500, University Drive, NW, Calgary, Alberta T2N 1N4, Canada. ssaeedi@ucalgary.ca. Department of Geomatics Engineering, University of Calgary, 2500, University Drive, NW, Calgary, Alberta T2N 1N4, Canada. amelsaye@ucalgary.ca. Department of Geomatics Engineering, University of Calgary, 2500, University Drive, NW, Calgary, Alberta T2N 1N4, Canada. elsheimy@ucalgary.ca.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140325",
+     "PL": "Switzerland",
+     "TA": "Sensors (Basel)",
+     "JT": "Sensors (Basel, Switzerland)",
+     "JID": "101204366",
+     "SB": "IM",
+     "MH": [
+          "Accelerometry/*instrumentation",
+          "Algorithms",
+          "*Awareness",
+          "*Cell Phone",
+          "Fuzzy Logic",
+          "Geographic Information Systems",
+          "Humans",
+          "*Spatial Navigation",
+          "Time Factors",
+          "Vision, Ocular"
+     ],
+     "PMC": "PMC4029676",
+     "EDAT": "2014/03/29 06:00",
+     "MHDA": "2015/04/07 06:00",
+     "CRDT": [
+          "2014/03/28 06:00"
+     ],
+     "PHST": [
+          "2013/10/01 00:00 [received]",
+          "2014/03/14 00:00 [revised]",
+          "2014/03/14 00:00 [accepted]",
+          "2014/03/28 06:00 [entrez]",
+          "2014/03/29 06:00 [pubmed]",
+          "2015/04/07 06:00 [medline]"
+     ],
+     "AID": [
+          "s140405742 [pii]",
+          "10.3390/s140405742 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Sensors (Basel). 2014 Mar 25;14(4):5742-67. doi: 10.3390/s140405742.",
+     "term": "spatial navigation"
+}

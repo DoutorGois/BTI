@@ -1,0 +1,73 @@
+{
+     "PMID": "12461633",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20031028",
+     "LR": "20170922",
+     "IS": "0340-1200 (Print) 0340-1200 (Linking)",
+     "VI": "87",
+     "IP": "5-6",
+     "DP": "2002 Dec",
+     "TI": "Spike propagation synchronized by temporally asymmetric Hebbian learning.",
+     "PG": "440-5",
+     "AB": "Synchronously spiking neurons have been observed in the cerebral cortex and the hippocampus. In computer models, synchronous spike volleys may be propagated across appropriately connected neuron populations. However, it is unclear how the appropriate synaptic connectivity is set up during development and maintained during adult learning. We performed computer simulations to investigate the influence of temporally asymmetric Hebbian synaptic plasticity on the propagation of spike volleys. In addition to feedforward connections, recurrent connections were included between and within neuron populations and spike transmission delays varied due to axonal, synaptic and dendritic transmission. We found that repeated presentations of input volleys decreased the synaptic conductances of intragroup and feedback connections while synaptic conductances of feedforward connections with short delays became stronger than those of connections with longer delays. These adaptations led to the synchronization of spike volleys as they propagated across neuron populations. The findings suggests that temporally asymmetric Hebbian learning may enhance synchronized spiking within small populations of neurons in cortical and hippocampal areas and familiar stimuli may produce synchronized spike volleys that are rapidly propagated across neural tissue.",
+     "FAU": [
+          "Suri, Roland E",
+          "Sejnowski, Terrence J"
+     ],
+     "AU": [
+          "Suri RE",
+          "Sejnowski TJ"
+     ],
+     "AD": "Howard Hughes Medical Institute, The Salk Institute for Biological Studies, La Jolla, CA 92037, USA. rsuri@intopsys.com",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Howard Hughes Medical Institute/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Computer Simulation",
+          "Learning/*physiology",
+          "Models, Neurological",
+          "*Neuronal Plasticity",
+          "Neurons/cytology/*physiology",
+          "Synapses/physiology",
+          "Synaptic Transmission/physiology",
+          "Time"
+     ],
+     "PMC": "PMC2944018",
+     "MID": [
+          "HHMIMS234083"
+     ],
+     "OID": [
+          "NLM: HHMIMS234083"
+     ],
+     "EDAT": "2002/12/04 04:00",
+     "MHDA": "2003/10/29 05:00",
+     "CRDT": [
+          "2002/12/04 04:00"
+     ],
+     "PHST": [
+          "2002/12/04 04:00 [pubmed]",
+          "2003/10/29 05:00 [medline]",
+          "2002/12/04 04:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s00422-002-0355-9 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Cybern. 2002 Dec;87(5-6):440-5. doi: 10.1007/s00422-002-0355-9.",
+     "term": "hippocampus"
+}

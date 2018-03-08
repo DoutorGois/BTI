@@ -1,0 +1,76 @@
+{
+     "PMID": "20071270",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101028",
+     "LR": "20100723",
+     "IS": "1558-0210 (Electronic) 1534-4320 (Linking)",
+     "VI": "18",
+     "IP": "2",
+     "DP": "2010 Apr",
+     "TI": "Embedded neural recording with TinyOS-based wireless-enabled processor modules.",
+     "PG": "134-41",
+     "LID": "10.1109/TNSRE.2009.2039606 [doi]",
+     "AB": "To create a wireless neural recording system that can benefit from the continuous advancements being made in embedded microcontroller and communications technologies, an embedded-system-based architecture for wireless neural recording has been designed, fabricated, and tested. The system consists of commercial-off-the-shelf wireless-enabled processor modules (motes) for communicating the neural signals, and a back-end database server and client application for archiving and browsing the neural signals. A neural-signal-acquisition application has been developed to enable the mote to either acquire neural signals at a rate of 4000 12-bit samples per second, or detect and transmit spike heights and widths sampled at a rate of 16670 12-bit samples per second on a single channel. The motes acquire neural signals via a custom low-noise neural-signal amplifier with adjustable gain and high-pass corner frequency that has been designed, and fabricated in a 1.5-microm CMOS process. In addition to browsing acquired neural data, the client application enables the user to remotely toggle modes of operation (real-time or spike-only), as well as amplifier gain and high-pass corner frequency.",
+     "FAU": [
+          "Farshchi, Shahin",
+          "Pesterev, Aleksey",
+          "Nuyujukian, Paul",
+          "Guenterberg, Eric",
+          "Mody, Istvan",
+          "Judy, Jack W"
+     ],
+     "AU": [
+          "Farshchi S",
+          "Pesterev A",
+          "Nuyujukian P",
+          "Guenterberg E",
+          "Mody I",
+          "Judy JW"
+     ],
+     "AD": "Lux Capital Management, New York, NY 10017, USA. shahin@cal.berkeley.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20100112",
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Syst Rehabil Eng",
+     "JT": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "101097023",
+     "SB": "IM",
+     "MH": [
+          "Amplifiers, Electronic",
+          "Animals",
+          "Brain/physiology",
+          "Computer Systems",
+          "Electric Impedance",
+          "*Electrodes, Implanted",
+          "*Electronics",
+          "Equipment Design",
+          "Hippocampus/physiology",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Microcomputers",
+          "Signal Processing, Computer-Assisted",
+          "Software"
+     ],
+     "EDAT": "2010/01/15 06:00",
+     "MHDA": "2010/10/29 06:00",
+     "CRDT": [
+          "2010/01/15 06:00"
+     ],
+     "PHST": [
+          "2010/01/15 06:00 [entrez]",
+          "2010/01/15 06:00 [pubmed]",
+          "2010/10/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TNSRE.2009.2039606 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Syst Rehabil Eng. 2010 Apr;18(2):134-41. doi: 10.1109/TNSRE.2009.2039606. Epub 2010 Jan 12.",
+     "term": "hippocampus"
+}

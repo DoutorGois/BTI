@@ -1,0 +1,79 @@
+{
+     "PMID": "15344451",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20041001",
+     "LR": "20071114",
+     "IS": "1011-2499 (Print) 1011-2499 (Linking)",
+     "VI": "18",
+     "DP": "2003 Jul",
+     "TI": "Feature selection for shape-based classification of biological objects.",
+     "PG": "114-25",
+     "AB": "This paper introduces a method for selecting subsets of relevant statistical features in biological shape-based classification problems. The method builds upon existing feature selection methodology by introducing a heuristic that favors the geometric locality of the selected features. This heuristic effectively reduces the combinatorial search space of the feature selection problem. The new method is tested on synthetic data and on clinical data from a study of hippocampal shape in schizophrenia. Results on clinical data indicate that features describing the head of the right hippocampus are most relevant for discrimination.",
+     "FAU": [
+          "Yushkevich, Paul",
+          "Joshi, Sarang",
+          "Pizer, Stephen M",
+          "Csernansky, John G",
+          "Wang, Lei E"
+     ],
+     "AU": [
+          "Yushkevich P",
+          "Joshi S",
+          "Pizer SM",
+          "Csernansky JG",
+          "Wang LE"
+     ],
+     "AD": "Medical Image Display and Analysis Group, University of North Carolina, Chapel Hill, NC, USA pauly@cs.unc.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH56584/MH/NIMH NIH HHS/United States",
+          "MH62130/MH/NIMH NIH HHS/United States",
+          "P01 CA47982/CA/NCI NIH HHS/United States"
+     ],
+     "PT": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Validation Studies"
+     ],
+     "PL": "Germany",
+     "TA": "Inf Process Med Imaging",
+     "JT": "Information processing in medical imaging : proceedings of the ... conference",
+     "JID": "9216871",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Artificial Intelligence",
+          "Computer Simulation",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/methods",
+          "Models, Biological",
+          "*Pattern Recognition, Automated",
+          "Reproducibility of Results",
+          "Schizophrenia/*diagnosis",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "EDAT": "2004/09/04 05:00",
+     "MHDA": "2004/10/02 05:00",
+     "CRDT": [
+          "2004/09/04 05:00"
+     ],
+     "PHST": [
+          "2004/09/04 05:00 [pubmed]",
+          "2004/10/02 05:00 [medline]",
+          "2004/09/04 05:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Inf Process Med Imaging. 2003 Jul;18:114-25.",
+     "term": "hippocampus"
+}

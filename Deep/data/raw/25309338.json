@@ -1,0 +1,68 @@
+{
+     "PMID": "25309338",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20141013",
+     "LR": "20170220",
+     "IS": "1662-5129 (Print) 1662-5129 (Linking)",
+     "VI": "8",
+     "DP": "2014",
+     "TI": "Parametric Anatomical Modeling: a method for modeling the anatomical layout of neurons and their projections.",
+     "PG": "91",
+     "LID": "10.3389/fnana.2014.00091 [doi]",
+     "AB": "Computational models of neural networks can be based on a variety of different parameters. These parameters include, for example, the 3d shape of neuron layers, the neurons' spatial projection patterns, spiking dynamics and neurotransmitter systems. While many well-developed approaches are available to model, for example, the spiking dynamics, there is a lack of approaches for modeling the anatomical layout of neurons and their projections. We present a new method, called Parametric Anatomical Modeling (PAM), to fill this gap. PAM can be used to derive network connectivities and conduction delays from anatomical data, such as the position and shape of the neuronal layers and the dendritic and axonal projection patterns. Within the PAM framework, several mapping techniques between layers can account for a large variety of connection properties between pre- and post-synaptic neuron layers. PAM is implemented as a Python tool and integrated in the 3d modeling software Blender. We demonstrate on a 3d model of the hippocampal formation how PAM can help reveal complex properties of the synaptic connectivity and conduction delays, properties that might be relevant to uncover the function of the hippocampus. Based on these analyses, two experimentally testable predictions arose: (i) the number of neurons and the spread of connections is heterogeneously distributed across the main anatomical axes, (ii) the distribution of connection lengths in CA3-CA1 differ qualitatively from those between DG-CA3 and CA3-CA3. Models created by PAM can also serve as an educational tool to visualize the 3d connectivity of brain regions. The low-dimensional, but yet biologically plausible, parameter space renders PAM suitable to analyse allometric and evolutionary factors in networks and to model the complexity of real networks with comparatively little effort.",
+     "FAU": [
+          "Pyka, Martin",
+          "Klatt, Sebastian",
+          "Cheng, Sen"
+     ],
+     "AU": [
+          "Pyka M",
+          "Klatt S",
+          "Cheng S"
+     ],
+     "AD": "Department of Psychology, Mercator Research Group \"Structure of Memory,\" Ruhr-University Bochum Bochum, Germany ; Faculty of Psychology, Ruhr-University Bochum Bochum, Germany. Department of Psychology, Mercator Research Group \"Structure of Memory,\" Ruhr-University Bochum Bochum, Germany ; Faculty of Electrical Engineering and Information Technology, Ruhr-University Bochum Bochum, Germany. Department of Psychology, Mercator Research Group \"Structure of Memory,\" Ruhr-University Bochum Bochum, Germany ; Faculty of Psychology, Ruhr-University Bochum Bochum, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140915",
+     "PL": "Switzerland",
+     "TA": "Front Neuroanat",
+     "JT": "Frontiers in neuroanatomy",
+     "JID": "101477943",
+     "PMC": "PMC4164034",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "3d model",
+          "Blender",
+          "NEST",
+          "brain anatomy",
+          "conduction latencies",
+          "connection patterns",
+          "functional morphology",
+          "hippocampal formation"
+     ],
+     "EDAT": "2014/10/14 06:00",
+     "MHDA": "2014/10/14 06:01",
+     "CRDT": [
+          "2014/10/14 06:00"
+     ],
+     "PHST": [
+          "2014/05/01 00:00 [received]",
+          "2014/08/20 00:00 [accepted]",
+          "2014/10/14 06:00 [entrez]",
+          "2014/10/14 06:00 [pubmed]",
+          "2014/10/14 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnana.2014.00091 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neuroanat. 2014 Sep 15;8:91. doi: 10.3389/fnana.2014.00091. eCollection 2014.",
+     "term": "hippocampus"
+}

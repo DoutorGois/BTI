@@ -1,0 +1,66 @@
+{
+     "PMID": "24455124",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20140123",
+     "LR": "20170220",
+     "IS": "2045-7758 (Print) 2045-7758 (Linking)",
+     "VI": "3",
+     "IP": "15",
+     "DP": "2013 Dec",
+     "TI": "Dynamic occupancy models for analyzing species' range dynamics across large geographic scales.",
+     "PG": "4896-909",
+     "LID": "10.1002/ece3.858 [doi]",
+     "AB": "Large-scale biodiversity data are needed to predict species' responses to global change and to address basic questions in macroecology. While such data are increasingly becoming available, their analysis is challenging because of the typically large heterogeneity in spatial sampling intensity and the need to account for observation processes. Two further challenges are accounting for spatial effects that are not explained by covariates, and drawing inference on dynamics at these large spatial scales. We developed dynamic occupancy models to analyze large-scale atlas data. In addition to occupancy, these models estimate local colonization and persistence probabilities. We accounted for spatial autocorrelation using conditional autoregressive models and autologistic models. We fitted the models to detection/nondetection data collected on a quarter-degree grid across southern Africa during two atlas projects, using the hadeda ibis (Bostrychia hagedash) as an example. The model accurately reproduced the range expansion between the first (SABAP1: 1987-1992) and second (SABAP2: 2007-2012) Southern African Bird Atlas Project into the drier parts of interior South Africa. Grid cells occupied during SABAP1 generally remained occupied, but colonization of unoccupied grid cells was strongly dependent on the number of occupied grid cells in the neighborhood. The detection probability strongly varied across space due to variation in effort, observer identity, seasonality, and unexplained spatial effects. We present a flexible hierarchical approach for analyzing grid-based atlas data using dynamical occupancy models. Our model is similar to a species' distribution model obtained using generalized additive models but has a number of advantages. Our model accounts for the heterogeneous sampling process, spatial correlation, and perhaps most importantly, allows us to examine dynamic aspects of species ranges.",
+     "FAU": [
+          "Bled, Florent",
+          "Nichols, James D",
+          "Altwegg, Res"
+     ],
+     "AU": [
+          "Bled F",
+          "Nichols JD",
+          "Altwegg R"
+     ],
+     "AD": "South African National Biodiversity Institute P/Bag X7, Claremont, 7735, South Africa ; Animal Demography Unit, Departments of Biological Sciences and Statistical Sciences, University of Cape Town Rondebosch, 7701, South Africa ; Patuxent Wildlife Research Center, US Geological Survey Laurel, Maryland, 20708. Patuxent Wildlife Research Center, US Geological Survey Laurel, Maryland, 20708. South African National Biodiversity Institute P/Bag X7, Claremont, 7735, South Africa ; Animal Demography Unit, Departments of Biological Sciences and Statistical Sciences, University of Cape Town Rondebosch, 7701, South Africa.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20131107",
+     "PL": "England",
+     "TA": "Ecol Evol",
+     "JT": "Ecology and evolution",
+     "JID": "101566408",
+     "PMC": "PMC3892356",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Autologistic model",
+          "big data",
+          "conservation biogeography",
+          "hierarchical model",
+          "spatially correlated random effects"
+     ],
+     "EDAT": "2014/01/24 06:00",
+     "MHDA": "2014/01/24 06:01",
+     "CRDT": [
+          "2014/01/24 06:00"
+     ],
+     "PHST": [
+          "2013/09/18 00:00 [received]",
+          "2013/09/19 00:00 [accepted]",
+          "2014/01/24 06:00 [entrez]",
+          "2014/01/24 06:00 [pubmed]",
+          "2014/01/24 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1002/ece3.858 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ecol Evol. 2013 Dec;3(15):4896-909. doi: 10.1002/ece3.858. Epub 2013 Nov 7.",
+     "term": "grid cells"
+}

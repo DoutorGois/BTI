@@ -1,0 +1,65 @@
+{
+     "PMID": "11665775",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20020426",
+     "LR": "20061115",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "14",
+     "IP": "6-7",
+     "DP": "2001 Jul-Sep",
+     "TI": "Trajectory estimation from place cell data.",
+     "PG": "835-44",
+     "AB": "We consider the problem of propagating the conditional probability density associated with the movement parameters (position, heading, velocity, etc.) of an animal, given the responses of an ensemble of place cells. While we are not the first to look at this question, ours seems to be the first treatment that incorporates a general Markov process model for the motion parameters and a general observation model postulating place cells centered in a lower dimensional 'measurement space' formed from combinations of the Markovian variables. An important part of our analysis involves the determination of a suitable set of sufficient statistics for propagating the conditional density in this context. Making use of these results we are led to approximations which greatly simplify the estimation problem and various aspects of its neuroscientific interpretation.",
+     "FAU": [
+          "Twum-Danso, N",
+          "Brockett, R"
+     ],
+     "AU": [
+          "Twum-Danso N",
+          "Brockett R"
+     ],
+     "AD": "Division of Engineering and Applied Sciences, Harvard University, Cambridge, MA 02138, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Review"
+     ],
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Markov Chains",
+          "*Models, Neurological",
+          "Movement/*physiology",
+          "Neurons/*physiology",
+          "Orientation/*physiology",
+          "Space Perception/*physiology"
+     ],
+     "RF": "12",
+     "EDAT": "2001/10/23 10:00",
+     "MHDA": "2002/04/27 10:01",
+     "CRDT": [
+          "2001/10/23 10:00"
+     ],
+     "PHST": [
+          "2001/10/23 10:00 [pubmed]",
+          "2002/04/27 10:01 [medline]",
+          "2001/10/23 10:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(01)00079-X [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2001 Jul-Sep;14(6-7):835-44.",
+     "term": "place cells"
+}

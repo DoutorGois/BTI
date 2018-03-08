@@ -1,0 +1,96 @@
+{
+     "PMID": "23023395",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140225",
+     "LR": "20170220",
+     "IS": "1522-2594 (Electronic) 0740-3194 (Linking)",
+     "VI": "70",
+     "IP": "2",
+     "DP": "2013 Aug",
+     "TI": "High efficiency multishot interleaved spiral-in/out: acquisition for high-resolution BOLD fMRI.",
+     "PG": "420-8",
+     "LID": "10.1002/mrm.24476 [doi]",
+     "AB": "Growing demand for high spatial resolution blood oxygenation level dependent (BOLD) functional magnetic resonance imaging faces a challenge of the spatial resolution versus coverage or temporal resolution tradeoff, which can be addressed by methods that afford increased acquisition efficiency. Spiral acquisition trajectories have been shown to be superior to currently prevalent echo-planar imaging in terms of acquisition efficiency, and high spatial resolution can be achieved by employing multiple-shot spiral acquisition. The interleaved spiral in/out trajectory is preferred over spiral-in due to increased BOLD signal contrast-to-noise ratio (CNR) and higher acquisition efficiency than that of spiral-out or noninterleaved spiral in/out trajectories (Law & Glover. Magn Reson Med 2009; 62:829-834.), but to date applicability of the multishot interleaved spiral in/out for high spatial resolution imaging has not been studied. Herein we propose multishot interleaved spiral in/out acquisition and investigate its applicability for high spatial resolution BOLD functional magnetic resonance imaging. Images reconstructed from interleaved spiral-in and -out trajectories possess artifacts caused by differences in T2 decay, off-resonance, and k-space errors associated with the two trajectories. We analyze the associated errors and demonstrate that application of conjugate phase reconstruction and spectral filtering can substantially mitigate these image artifacts. After applying these processing steps, the multishot interleaved spiral in/out pulse sequence yields high BOLD CNR images at in-plane resolution below 1 x 1 mm while preserving acceptable temporal resolution (4 s) and brain coverage (15 slices of 2 mm thickness). Moreover, this method yields sufficient BOLD CNR at 1.5 mm isotropic resolution for detection of activation in hippocampus associated with cognitive tasks (Stern memory task). The multishot interleaved spiral in/out acquisition is a promising technique for high spatial resolution BOLD functional magnetic resonance imaging applications.",
+     "CI": [
+          "(c) 2012 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Jung, Youngkyoo",
+          "Samsonov, Alexey A",
+          "Liu, Thomas T",
+          "Buracas, Giedrius T"
+     ],
+     "AU": [
+          "Jung Y",
+          "Samsonov AA",
+          "Liu TT",
+          "Buracas GT"
+     ],
+     "AD": "Department of Radiology, Wake Forest School of Medicine, Winston-Salem, North Carolina, USA. yojung@wakehealth.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS065034/NS/NINDS NIH HHS/United States",
+          "R21 EB008187/EB/NIBIB NIH HHS/United States",
+          "R01NS065034/NS/NINDS NIH HHS/United States",
+          "R21 EB008187-02/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20120928",
+     "PL": "United States",
+     "TA": "Magn Reson Med",
+     "JT": "Magnetic resonance in medicine",
+     "JID": "8505245",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Artifacts",
+          "Brain Mapping/*methods",
+          "Evoked Potentials/*physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Memory/*physiology",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC3535559",
+     "MID": [
+          "NIHMS399819"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "BOLD",
+          "functional MRI",
+          "high resolution",
+          "spiral imaging"
+     ],
+     "EDAT": "2012/10/02 06:00",
+     "MHDA": "2014/02/26 06:00",
+     "CRDT": [
+          "2012/10/02 06:00"
+     ],
+     "PHST": [
+          "2012/04/20 00:00 [received]",
+          "2012/07/24 00:00 [revised]",
+          "2012/08/07 00:00 [accepted]",
+          "2012/10/02 06:00 [entrez]",
+          "2012/10/02 06:00 [pubmed]",
+          "2014/02/26 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/mrm.24476 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Magn Reson Med. 2013 Aug;70(2):420-8. doi: 10.1002/mrm.24476. Epub 2012 Sep 28.",
+     "term": "hippocampus"
+}

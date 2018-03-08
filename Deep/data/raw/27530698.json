@@ -1,0 +1,91 @@
+{
+     "PMID": "27530698",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170912",
+     "LR": "20171015",
+     "IS": "1873-7544 (Electronic) 0306-4522 (Linking)",
+     "VI": "334",
+     "DP": "2016 Oct 15",
+     "TI": "Distinct current modules shape cellular dynamics in model neurons.",
+     "PG": "309-331",
+     "LID": "S0306-4522(16)30379-7 [pii] 10.1016/j.neuroscience.2016.08.016 [doi]",
+     "AB": "Numerous intrinsic currents are known to collectively shape neuronal membrane potential dynamics, or neuronal signatures. Although how sets of currents shape specific signatures such as spiking characteristics or oscillations has been studied individually, it is less clear how a neuron's suite of currents jointly shape its entire set of signatures. Biophysical conductance-based models of neurons represent a viable tool to address this important question. We hypothesized that currents are grouped into distinct modules that shape specific neuronal characteristics or signatures, such as resting potential, sub-threshold oscillations, and spiking waveforms, for several classes of neurons. For such a grouping to occur, the currents within one module should have minimal functional interference with currents belonging to other modules. This condition is satisfied if the gating functions of currents in the same module are grouped together on the voltage axis; in contrast, such functions are segregated along the voltage axis for currents belonging to different modules. We tested this hypothesis using four published example case models and found it to be valid for these classes of neurons. This insight into the neurobiological organization of currents also suggests an intuitive, systematic, and robust methodology to develop biophysical single-cell models with multiple biological characteristics applicable for both hand- and automated-tuning approaches. We illustrate the methodology using two example case rodent pyramidal neurons, from the lateral amygdala and the hippocampus. The methodology also helped reveal that a single-core compartment model could capture multiple neuronal properties. Such biophysical single-compartment models have potential to improve the fidelity of large network models.",
+     "CI": [
+          "Copyright (c) 2016 IBRO. Published by Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Alturki, Adel",
+          "Feng, Feng",
+          "Nair, Ajay",
+          "Guntu, Vinay",
+          "Nair, Satish S"
+     ],
+     "AU": [
+          "Alturki A",
+          "Feng F",
+          "Nair A",
+          "Guntu V",
+          "Nair SS"
+     ],
+     "AD": "Department of Electrical and Computer Engineering, University of Missouri, Columbia, MO, United States. Department of Electrical and Computer Engineering, University of Missouri, Columbia, MO, United States. Veteran's Hospital, University of Missouri, Columbia, MO, United States. Department of Electrical and Computer Engineering, University of Missouri, Columbia, MO, United States. Department of Electrical and Computer Engineering, University of Missouri, Columbia, MO, United States. Electronic address: nairs@missouri.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH087755/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Validation Studies"
+     ],
+     "DEP": "20160813",
+     "PL": "United States",
+     "TA": "Neuroscience",
+     "JT": "Neuroscience",
+     "JID": "7605074",
+     "SB": "IM",
+     "MH": [
+          "Amygdala/physiology",
+          "Animals",
+          "Biomechanical Phenomena",
+          "Hippocampus/physiology",
+          "Membrane Potentials/*physiology",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Olfactory Bulb/physiology",
+          "Rodentia"
+     ],
+     "PMC": "PMC5086448",
+     "MID": [
+          "NIHMS810620"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "biophysical model",
+          "current modules",
+          "neuronal signatures"
+     ],
+     "EDAT": "2016/10/31 06:00",
+     "MHDA": "2017/09/13 06:00",
+     "CRDT": [
+          "2016/08/18 06:00"
+     ],
+     "PHST": [
+          "2016/06/27 00:00 [received]",
+          "2016/08/06 00:00 [revised]",
+          "2016/08/08 00:00 [accepted]",
+          "2016/10/31 06:00 [pubmed]",
+          "2017/09/13 06:00 [medline]",
+          "2016/08/18 06:00 [entrez]"
+     ],
+     "AID": [
+          "S0306-4522(16)30379-7 [pii]",
+          "10.1016/j.neuroscience.2016.08.016 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroscience. 2016 Oct 15;334:309-331. doi: 10.1016/j.neuroscience.2016.08.016. Epub 2016 Aug 13.",
+     "term": "hippocampus"
+}

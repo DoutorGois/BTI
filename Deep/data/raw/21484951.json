@@ -1,0 +1,70 @@
+{
+     "PMID": "21484951",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110802",
+     "LR": "20110412",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "32",
+     "IP": "5",
+     "DP": "2011 May",
+     "TI": "Detection and localization of hippocampal activity using beamformers with MEG: a detailed investigation using simulations and empirical data.",
+     "PG": "812-27",
+     "LID": "10.1002/hbm.21068 [doi]",
+     "AB": "The ability to detect neuronal activity emanating from deep brain structures such as the hippocampus using magnetoencephalography has been debated in the literature. While a significant number of recent publications reported activations from deep brain structures, others reported their inability to detect such activity even when other detection modalities confirmed its presence. In this article, we relied on realistic simulations to show that both sides of this debate are correct and that these findings are reconcilable. We show that the ability to detect such activations in evoked responses depends on the signal strength, the amount of brain noise background, the experimental design parameters, and the methodology used to detect them. Furthermore, we show that small signal strengths require contrasts with control conditions to be detected, particularly in the presence of strong brain noise backgrounds. We focus on one localization technique, the adaptive spatial filter (beamformer), and examine its strengths and weaknesses in reconstructing hippocampal activations, in the presence of other strong brain sources such as visual activations, and compare the performance of the vector and scalar beamformers under such conditions. We show that although a weight-normalized beamformer combined with a multisphere head model is not biased in the presence of uncorrelated random noise, it can be significantly biased in the presence of correlated brain noise. Furthermore, we show that the vector beamformer performs significantly better than the scalar under such conditions. We corroborate our findings empirically using real data and demonstrate our ability to detect and localize such sources.",
+     "CI": [
+          "Copyright (c) 2010 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Quraan, Maher A",
+          "Moses, Sandra N",
+          "Hung, Yuwen",
+          "Mills, Travis",
+          "Taylor, Margot J"
+     ],
+     "AU": [
+          "Quraan MA",
+          "Moses SN",
+          "Hung Y",
+          "Mills T",
+          "Taylor MJ"
+     ],
+     "AD": "Neurosciences and Mental Health, The Hospital for Sick Children, Toronto, Ontario, Canada. mquraan@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Brain Mapping/*methods",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Magnetoencephalography/*methods",
+          "*Models, Neurological",
+          "Signal Processing, Computer-Assisted"
+     ],
+     "EDAT": "2011/04/13 06:00",
+     "MHDA": "2011/08/04 06:00",
+     "CRDT": [
+          "2011/04/13 06:00"
+     ],
+     "PHST": [
+          "2011/04/13 06:00 [entrez]",
+          "2011/04/13 06:00 [pubmed]",
+          "2011/08/04 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.21068 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2011 May;32(5):812-27. doi: 10.1002/hbm.21068.",
+     "term": "hippocampus"
+}

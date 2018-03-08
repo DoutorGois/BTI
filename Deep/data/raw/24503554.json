@@ -1,0 +1,95 @@
+{
+     "PMID": "24503554",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150312",
+     "LR": "20170220",
+     "IS": "1936-959X (Electronic) 0195-6108 (Linking)",
+     "VI": "35",
+     "IP": "6 Suppl",
+     "DP": "2014 Jun",
+     "TI": "Accelerated echo-planar J-resolved spectroscopic imaging in the human brain using compressed sensing: a pilot validation in obstructive sleep apnea.",
+     "PG": "S81-9",
+     "LID": "10.3174/ajnr.A3846 [doi]",
+     "AB": "BACKGROUND AND PURPOSE: Echo-planar J-resolved spectroscopic imaging is a fast spectroscopic technique to record the biochemical information in multiple regions of the brain, but for clinical applications, time is still a constraint. Investigations of neural injury in obstructive sleep apnea have revealed structural changes in the brain, but determining the neurochemical changes requires more detailed measurements across multiple brain regions, demonstrating a need for faster echo-planar J-resolved spectroscopic imaging. Hence, we have extended the compressed sensing reconstruction of prospectively undersampled 4D echo-planar J-resolved spectroscopic imaging to investigate metabolic changes in multiple brain locations of patients with obstructive sleep apnea and healthy controls. MATERIALS AND METHODS: Nonuniform undersampling was imposed along 1 spatial and 1 spectral dimension of 4D echo-planar J-resolved spectroscopic imaging, and test-retest reliability of the compressed sensing reconstruction of the nonuniform undersampling data was tested by using a brain phantom. In addition, 9 patients with obstructive sleep apnea and 11 healthy controls were investigated by using a 3T MR imaging/MR spectroscopy scanner. RESULTS: Significantly reduced metabolite differences were observed between patients with obstructive sleep apnea and healthy controls in multiple brain regions: NAA/Cr in the left hippocampus; total Cho/Cr and Glx/Cr in the right hippocampus; total NAA/Cr, taurine/Cr, scyllo-Inositol/Cr, phosphocholine/Cr, and total Cho/Cr in the occipital gray matter; total NAA/Cr and NAA/Cr in the medial frontal white matter; and taurine/Cr and total Cho/Cr in the left frontal white matter regions. CONCLUSIONS: The 4D echo-planar J-resolved spectroscopic imaging technique using the nonuniform undersampling-based acquisition and compressed sensing reconstruction in patients with obstructive sleep apnea and healthy brain is feasible in a clinically suitable time. In addition to brain metabolite changes previously reported by 1D MR spectroscopy, our results show changes of additional metabolites in patients with obstructive sleep apnea compared with healthy controls.",
+     "CI": [
+          "(c) 2014 by American Journal of Neuroradiology."
+     ],
+     "FAU": [
+          "Sarma, M K",
+          "Nagarajan, R",
+          "Macey, P M",
+          "Kumar, R",
+          "Villablanca, J P",
+          "Furuyama, J",
+          "Thomas, M A"
+     ],
+     "AU": [
+          "Sarma MK",
+          "Nagarajan R",
+          "Macey PM",
+          "Kumar R",
+          "Villablanca JP",
+          "Furuyama J",
+          "Thomas MA"
+     ],
+     "AD": "From the Departments of Radiological Sciences (M.K.S., R.N., R.K., J.P.V., J.F., M.A.T.). From the Departments of Radiological Sciences (M.K.S., R.N., R.K., J.P.V., J.F., M.A.T.). School of Nursing (P.M.M.), University of California, Los Angeles, Los Angeles, California. From the Departments of Radiological Sciences (M.K.S., R.N., R.K., J.P.V., J.F., M.A.T.)Anesthesiology (R.K.), David Geffen School of Medicine. From the Departments of Radiological Sciences (M.K.S., R.N., R.K., J.P.V., J.F., M.A.T.). From the Departments of Radiological Sciences (M.K.S., R.N., R.K., J.P.V., J.F., M.A.T.). From the Departments of Radiological Sciences (M.K.S., R.N., R.K., J.P.V., J.F., M.A.T.) athomas@mednet.ucla.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NR013693/NR/NINR NIH HHS/United States",
+          "R21 NS080649/NS/NINDS NIH HHS/United States",
+          "1R01NR013693-01A1/NR/NINR NIH HHS/United States",
+          "1R21NS080649-01A1/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Validation Studies"
+     ],
+     "DEP": "20140206",
+     "PL": "United States",
+     "TA": "AJNR Am J Neuroradiol",
+     "JT": "AJNR. American journal of neuroradiology",
+     "JID": "8003708",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Brain/*metabolism",
+          "*Brain Diseases/diagnosis/etiology/metabolism",
+          "Data Compression",
+          "Echo-Planar Imaging/*methods/*standards",
+          "Humans",
+          "Image Processing, Computer-Assisted/methods",
+          "Middle Aged",
+          "*Models, Theoretical",
+          "Phantoms, Imaging",
+          "Pilot Projects",
+          "Reproducibility of Results",
+          "*Sleep Apnea, Obstructive/complications/diagnosis/metabolism"
+     ],
+     "PMC": "PMC4077940",
+     "MID": [
+          "NIHMS571005"
+     ],
+     "EDAT": "2014/02/08 06:00",
+     "MHDA": "2015/03/13 06:00",
+     "CRDT": [
+          "2014/02/08 06:00"
+     ],
+     "PHST": [
+          "2014/02/08 06:00 [entrez]",
+          "2014/02/08 06:00 [pubmed]",
+          "2015/03/13 06:00 [medline]"
+     ],
+     "AID": [
+          "ajnr.A3846 [pii]",
+          "10.3174/ajnr.A3846 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "AJNR Am J Neuroradiol. 2014 Jun;35(6 Suppl):S81-9. doi: 10.3174/ajnr.A3846. Epub 2014 Feb 6.",
+     "term": "hippocampus"
+}

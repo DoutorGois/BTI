@@ -1,0 +1,95 @@
+{
+     "PMID": "22504319",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121203",
+     "LR": "20170220",
+     "IS": "1875-8908 (Electronic) 1387-2877 (Linking)",
+     "VI": "31",
+     "IP": "1",
+     "DP": "2012",
+     "TI": "In vivo analysis of hippocampal subfield atrophy in mild cognitive impairment via semi-automatic segmentation of T2-weighted MRI.",
+     "PG": "85-99",
+     "LID": "10.3233/JAD-2012-111931 [doi]",
+     "AB": "The measurement of hippocampal volumes using MRI is a useful in-vivo biomarker for detection and monitoring of early Alzheimer's disease (AD), including during the amnestic mild cognitive impairment (a-MCI) stage. The pathology underlying AD has regionally selective effects within the hippocampus. As such, we predict that hippocampal subfields are more sensitive in discriminating prodromal AD (i.e., a-MCI) from cognitively normal controls than whole hippocampal volumes, and attempt to demonstrate this using a semi-automatic method that can accurately segment hippocampal subfields. High-resolution coronal-oblique T2-weighted images of the hippocampal formation were acquired in 45 subjects (28 controls and 17 a-MCI (mean age: 69.5 +/- 9.2; 70.2 +/- 7.6)). CA1, CA2, CA3, and CA4/DG subfields, along with head and tail regions, were segmented using an automatic algorithm. CA1 and CA4/DG segmentations were manually edited. Whole hippocampal volumes were obtained from the subjects' T1-weighted anatomical images. Automatic segmentation produced significant group differences in the following subfields: CA1 (left: p = 0.001, right: p = 0.038), CA4/DG (left: p = 0.002, right: p = 0.043), head (left: p = 0.018, right: p = 0.002), and tail (left: p = 0.019). After manual correction, differences were increased in CA1 (left: p < 0.001, right: p = 0.002), and reduced in CA4/DG (left: p = 0.029, right: p = 0.221). Whole hippocampal volumes significantly differed bilaterally (left: p = 0.028, right: p = 0.009). This pattern of atrophy in a-MCI is consistent with the topography of AD pathology observed in postmortem studies, and corrected left CA1 provided stronger discrimination than whole hippocampal volume (p = 0.03). These results suggest that semi-automatic segmentation of hippocampal subfields is efficient and may provide additional sensitivity beyond whole hippocampal volumes.",
+     "FAU": [
+          "Pluta, John",
+          "Yushkevich, Paul",
+          "Das, Sandhitsu",
+          "Wolk, David"
+     ],
+     "AU": [
+          "Pluta J",
+          "Yushkevich P",
+          "Das S",
+          "Wolk D"
+     ],
+     "AD": "Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, PA, USA. jpluta@mail.med.upenn.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P30 AG010124/AG/NIA NIH HHS/United States",
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "K25-AG027785/AG/NIA NIH HHS/United States",
+          "K25 AG027785-05/AG/NIA NIH HHS/United States",
+          "P30AG010124/AG/NIA NIH HHS/United States",
+          "K25 AG027785-02/AG/NIA NIH HHS/United States",
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "R01 AG037376-03/AG/NIA NIH HHS/United States",
+          "K25 AG027785-03/AG/NIA NIH HHS/United States",
+          "K25 AG027785-03S1/AG/NIA NIH HHS/United States",
+          "R01 AG037376-02/AG/NIA NIH HHS/United States",
+          "K25 AG027785-01A1/AG/NIA NIH HHS/United States",
+          "K23-AG028018/AG/NIA NIH HHS/United States",
+          "K23 AG028018/AG/NIA NIH HHS/United States",
+          "K25 AG027785-04/AG/NIA NIH HHS/United States",
+          "R01 AG037376-01/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Video-Audio Media"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Alzheimers Dis",
+     "JT": "Journal of Alzheimer's disease : JAD",
+     "JID": "9814863",
+     "SB": "IM",
+     "MH": [
+          "Area Under Curve",
+          "Atrophy/etiology/pathology",
+          "*Automatic Data Processing",
+          "Case-Control Studies",
+          "Chi-Square Distribution",
+          "Cognitive Dysfunction/complications/*pathology",
+          "Female",
+          "Functional Laterality",
+          "Hippocampus/*pathology",
+          "Humans",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "ROC Curve"
+     ],
+     "PMC": "PMC3391337",
+     "MID": [
+          "NIHMS366415"
+     ],
+     "EDAT": "2012/04/17 06:00",
+     "MHDA": "2012/12/10 06:00",
+     "CRDT": [
+          "2012/04/17 06:00"
+     ],
+     "PHST": [
+          "2012/04/17 06:00 [entrez]",
+          "2012/04/17 06:00 [pubmed]",
+          "2012/12/10 06:00 [medline]"
+     ],
+     "AID": [
+          "74701307X52M342M [pii]",
+          "10.3233/JAD-2012-111931 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Alzheimers Dis. 2012;31(1):85-99. doi: 10.3233/JAD-2012-111931.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,74 @@
+{
+     "PMID": "15680687",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050425",
+     "LR": "20071114",
+     "IS": "0306-4522 (Print) 0306-4522 (Linking)",
+     "VI": "131",
+     "IP": "1",
+     "DP": "2005",
+     "TI": "Quantitative measures of cluster quality for use in extracellular recordings.",
+     "PG": "1-11",
+     "AB": "While the use of multi-channel electrodes (stereotrodes and tetrodes) has allowed for the simultaneous recording and identification of many neurons, quantitative measures of the quality of neurons in such recordings are lacking. In multi-channel recordings, each spike waveform is discriminated in a high-dimensional space, making traditional measures of unit quality inapplicable. We describe two measures of unit isolation quality, Lratio and Isolation Distance, and evaluate their performance using simulations and tetrode recordings. Both measures quantified how well separated the spikes of one cluster (putative neuron) were from other spikes recorded simultaneously on the same multi-channel electrode. In simulations and tetrode recordings, both Lratio and Isolation Distance discriminated well- and poorly-separated clusters. In data sets from the rodent hippocampus in which neurons were simultaneously recorded intracellularly and extracellularly, values of Isolation Distance and Lratio were related to the correct identification of spikes.",
+     "FAU": [
+          "Schmitzer-Torbert, N",
+          "Jackson, J",
+          "Henze, D",
+          "Harris, K",
+          "Redish, A D"
+     ],
+     "AU": [
+          "Schmitzer-Torbert N",
+          "Jackson J",
+          "Henze D",
+          "Harris K",
+          "Redish AD"
+     ],
+     "AD": "Department of Neuroscience, 6-145 Jackson Hall, 321 Church Street SE, University of Minnesota, Minneapolis MN 55455, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH68029/MH/NIMH NIH HHS/United States",
+          "MH73245/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neuroscience",
+     "JT": "Neuroscience",
+     "JID": "7605074",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cluster Analysis",
+          "Corpus Striatum/physiology",
+          "Electrophysiology/methods",
+          "Hippocampus/physiology",
+          "Models, Neurological",
+          "Neurons/*physiology",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2005/02/01 09:00",
+     "MHDA": "2005/04/26 09:00",
+     "CRDT": [
+          "2005/02/01 09:00"
+     ],
+     "PHST": [
+          "2004/09/01 00:00 [accepted]",
+          "2005/02/01 09:00 [pubmed]",
+          "2005/04/26 09:00 [medline]",
+          "2005/02/01 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0306-4522(04)00842-5 [pii]",
+          "10.1016/j.neuroscience.2004.09.066 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroscience. 2005;131(1):1-11. doi: 10.1016/j.neuroscience.2004.09.066.",
+     "term": "hippocampus"
+}

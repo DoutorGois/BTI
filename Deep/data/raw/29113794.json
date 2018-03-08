@@ -1,0 +1,68 @@
+{
+     "PMID": "29113794",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20180121",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "294",
+     "DP": "2018 Jan 15",
+     "TI": "A new rat-compatible robotic framework for spatial navigation behavioral experiments.",
+     "PG": "40-50",
+     "LID": "S0165-0270(17)30377-1 [pii] 10.1016/j.jneumeth.2017.10.021 [doi]",
+     "AB": "BACKGROUND: Understanding the neural substrate of information encoding and processing requires a precise control of the animal's behavior. Most of what has been learned from the rodent navigational system results from relatively simple tasks in which the movements of the animal is controlled by corridors or walkways, passive movements, treadmills or virtual reality environments. While a lot has been and continues to be learned from these types of experiments, recent evidence has shown that such artificial constraints may have significant consequences on the functioning of the neural circuits of spatial navigation. NEW METHODS: We present a novel and alternative approach for effectively controlling the precise direction and speed of movement of the animal in an ethologically realistic environment, using a small robot (Sphero). RESULTS: We describe the robotic framework and demonstrate its use in replicating pre-programmed or rat-recorded paths. We show that the robot can control the movement of a rat in order to produce specific trajectories and speeds. We demonstrate that the robot can be used to aid the rat in learning a spatial memory task in a large and complex environment. We show that dorsal hippocampal CA1 place cells do not remap when the rat is following the robot. Comparison with existing method(s): Our framework only involves positive motivation and has been tested together with wireless electrophysiology in large and complex environments. CONCLUSIONS: Our robotic framework can be used to design novel tasks and experiments in which electrophysiological recordings would be largely devoid of maze or task-dependent artifacts.",
+     "CI": [
+          "Copyright (c) 2017 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Gianelli, Sam",
+          "Harland, Bruce",
+          "Fellous, Jean-Marc"
+     ],
+     "AU": [
+          "Gianelli S",
+          "Harland B",
+          "Fellous JM"
+     ],
+     "AD": "Computational and Experimental Neuroscience Laboratory, University of Arizona, United States. Computational and Experimental Neuroscience Laboratory, University of Arizona, United States; Psychology Department, University of Arizona, United States. Psychology Department, University of Arizona, United States; Program in Applied Mathematics University of Arizona, Tucson, AZ, United States. Electronic address: fellous@email.arizona.edu.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171104",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Hippocampus",
+          "Place-cell",
+          "Robot",
+          "Spatial navigation",
+          "Sphero"
+     ],
+     "EDAT": "2017/11/09 06:00",
+     "MHDA": "2017/11/09 06:00",
+     "CRDT": [
+          "2017/11/09 06:00"
+     ],
+     "PHST": [
+          "2017/06/07 00:00 [received]",
+          "2017/10/23 00:00 [revised]",
+          "2017/10/23 00:00 [accepted]",
+          "2017/11/09 06:00 [pubmed]",
+          "2017/11/09 06:00 [medline]",
+          "2017/11/09 06:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(17)30377-1 [pii]",
+          "10.1016/j.jneumeth.2017.10.021 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2018 Jan 15;294:40-50. doi: 10.1016/j.jneumeth.2017.10.021. Epub 2017 Nov 4.",
+     "term": "place cells"
+}

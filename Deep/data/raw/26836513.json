@@ -1,0 +1,74 @@
+{
+     "PMID": "26836513",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171116",
+     "LR": "20171128",
+     "IS": "1530-8898 (Electronic) 0898-929X (Linking)",
+     "VI": "28",
+     "IP": "6",
+     "DP": "2016 Jun",
+     "TI": "Multivoxel Object Representations in Adult Human Visual Cortex Are Flexible: An Associative Learning Study.",
+     "PG": "852-68",
+     "LID": "10.1162/jocn_a_00933 [doi]",
+     "AB": "Learning associations between co-occurring events enables us to extract structure from our environment. Medial-temporal lobe structures are critical for associative learning. However, the role of the ventral visual pathway (VVP) in associative learning is not clear. Do multivoxel object representations in the VVP reflect newly formed associations? We show that VVP multivoxel representations become more similar to each other after human participants learn arbitrary new associations between pairs of unrelated objects (faces, houses, cars, chairs). Participants were scanned before and after 15 days of associative learning. To evaluate how object representations changed, a classifier was trained on discriminating two nonassociated categories (e.g., faces/houses) and tested on discriminating their paired associates (e.g., cars/chairs). Because the associations were arbitrary and counterbalanced across participants, there was initially no particular reason for this cross-classification decision to tend toward either alternative. Nonetheless, after learning, cross-classification performance increased in the VVP (but not hippocampus), on average by 3.3%, with some voxels showing increases of up to 10%. For example, a chair multivoxel representation that initially resembled neither face nor house representations was, after learning, classified as more similar to that of faces for participants who associated chairs with faces and to that of houses for participants who associated chairs with houses. Additionally, learning produced long-lasting perceptual consequences. In a behavioral priming experiment performed several months later, the change in cross-classification performance was correlated with the degree of priming. Thus, VVP multivoxel representations are not static but become more similar to each other after associative learning.",
+     "FAU": [
+          "Senoussi, Mehdi",
+          "Berry, Isabelle",
+          "VanRullen, Rufin",
+          "Reddy, Leila"
+     ],
+     "AU": [
+          "Senoussi M",
+          "Berry I",
+          "VanRullen R",
+          "Reddy L"
+     ],
+     "AD": "Universite de Toulouse. CNRS, CerCo, Toulouse, France. Inserm Imagerie cerebrale et handicaps neurologiques UMR 825, Toulouse, France. Centre Hospitalier Universitaire de Toulouse Pole Neurosciences CHU Purpan. Universite de Toulouse. CNRS, CerCo, Toulouse, France. Universite de Toulouse. CNRS, CerCo, Toulouse, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160202",
+     "PL": "United States",
+     "TA": "J Cogn Neurosci",
+     "JT": "Journal of cognitive neuroscience",
+     "JID": "8910747",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Association Learning/*physiology",
+          "Brain Mapping/methods",
+          "Female",
+          "Humans",
+          "Linear Models",
+          "*Magnetic Resonance Imaging/methods",
+          "Male",
+          "Multivariate Analysis",
+          "Neuropsychological Tests",
+          "Pattern Recognition, Visual/*physiology",
+          "Photic Stimulation",
+          "Repetition Priming/physiology",
+          "*Support Vector Machine",
+          "Visual Cortex/diagnostic imaging/*physiology",
+          "Young Adult"
+     ],
+     "EDAT": "2016/02/03 06:00",
+     "MHDA": "2017/11/29 06:00",
+     "CRDT": [
+          "2016/02/03 06:00"
+     ],
+     "PHST": [
+          "2016/02/03 06:00 [entrez]",
+          "2016/02/03 06:00 [pubmed]",
+          "2017/11/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1162/jocn_a_00933 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Cogn Neurosci. 2016 Jun;28(6):852-68. doi: 10.1162/jocn_a_00933. Epub 2016 Feb 2.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,86 @@
+{
+     "PMID": "25546153",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150427",
+     "LR": "20150226",
+     "IS": "1531-8249 (Electronic) 0364-5134 (Linking)",
+     "VI": "77",
+     "IP": "3",
+     "DP": "2015 Mar",
+     "TI": "Magnetic resonance imaging pattern learning in temporal lobe epilepsy: classification and prognostics.",
+     "PG": "436-46",
+     "LID": "10.1002/ana.24341 [doi]",
+     "AB": "OBJECTIVE: In temporal lobe epilepsy (TLE), although hippocampal atrophy lateralizes the focus, the value of magnetic resonance imaging (MRI) to predict postsurgical outcome is rather modest. Prediction solely based on the hippocampus may be hampered by widespread mesiotemporal structural damage shown by advanced imaging. Increasingly complex and high-dimensional representation of MRI metrics motivates a shift to machine learning to establish objective, data-driven criteria for pathogenic processes and prognosis. METHODS: We applied clustering to 114 consecutive unilateral TLE patients using 1.5T MRI profiles derived from surface morphology of hippocampus, amygdala, and entorhinal cortex. To evaluate the diagnostic validity of the classification, we assessed its yield to predict outcome in 79 surgically treated patients. Reproducibility of outcome prediction was assessed in an independent cohort of 27 patients evaluated on 3.0T MRI. RESULTS: Four similarly sized classes partitioned our cohort; in all, alterations spanned over the 3 mesiotemporal structures. Compared to 46 controls, TLE-I showed marked bilateral atrophy; in TLE-II atrophy was ipsilateral; TLE-III showed mild bilateral atrophy; whereas TLE-IV showed hypertrophy. Classes differed with regard to histopathology and freedom from seizures. Classwise surface-based classifiers accurately predicted outcome in 92 +/- 1% of patients, outperforming conventional volumetry. Predictors of relapse were distributed bilaterally across structures. Prediction accuracy was similarly high in the independent cohort (96%), supporting generalizability. INTERPRETATION: We provide a novel description of individual variability across the TLE spectrum. Class membership was associated with distinct patterns of damage and outcome predictors that did not spatially overlap, emphasizing the ability of machine learning to disentangle the differential contribution of morphology to patient phenotypes, ultimately refining the prognosis of epilepsy surgery.",
+     "CI": [
+          "(c) 2014 American Neurological Association."
+     ],
+     "FAU": [
+          "Bernhardt, Boris C",
+          "Hong, Seok-Jun",
+          "Bernasconi, Andrea",
+          "Bernasconi, Neda"
+     ],
+     "AU": [
+          "Bernhardt BC",
+          "Hong SJ",
+          "Bernasconi A",
+          "Bernasconi N"
+     ],
+     "AD": "Neuroimaging of Epilepsy Laboratory, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MOP-123520/Canadian Institutes of Health Research/Canada",
+          "MOP-57840/Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150113",
+     "PL": "United States",
+     "TA": "Ann Neurol",
+     "JT": "Annals of neurology",
+     "JID": "7707449",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Amygdala/*pathology",
+          "Artificial Intelligence",
+          "Atrophy/classification/diagnosis",
+          "Entorhinal Cortex/*pathology",
+          "Epilepsy, Temporal Lobe/classification/*diagnosis",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "*Prognosis",
+          "Recurrence",
+          "Young Adult"
+     ],
+     "EDAT": "2014/12/30 06:00",
+     "MHDA": "2015/04/29 06:00",
+     "CRDT": [
+          "2014/12/30 06:00"
+     ],
+     "PHST": [
+          "2014/08/29 00:00 [received]",
+          "2014/12/08 00:00 [revised]",
+          "2014/12/21 00:00 [accepted]",
+          "2014/12/30 06:00 [entrez]",
+          "2014/12/30 06:00 [pubmed]",
+          "2015/04/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/ana.24341 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ann Neurol. 2015 Mar;77(3):436-46. doi: 10.1002/ana.24341. Epub 2015 Jan 13.",
+     "term": "hippocampus"
+}

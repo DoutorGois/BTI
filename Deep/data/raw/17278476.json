@@ -1,0 +1,76 @@
+{
+     "PMID": "17278476",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070228",
+     "LR": "20161020",
+     "IS": "1045-9227 (Print) 1045-9227 (Linking)",
+     "VI": "18",
+     "IP": "1",
+     "DP": "2007 Jan",
+     "TI": "Dynamically reconfigurable silicon array of spiking neurons with conductance-based synapses.",
+     "PG": "253-65",
+     "AB": "A mixed-signal very large scale integration (VLSI) chip for large scale emulation of spiking neural networks is presented. The chip contains 2400 silicon neurons with fully programmable and reconfigurable synaptic connectivity. Each neuron implements a discrete-time model of a single-compartment cell. The model allows for analog membrane dynamics and an arbitrary number of synaptic connections, each with tunable conductance and reversal potential. The array of silicon neurons functions as an address-event (AE) transceiver, with incoming and outgoing spikes communicated over an asynchronous event-driven digital bus. Address encoding and conflict resolution of spiking events are implemented via a randomized arbitration scheme that ensures balanced servicing of event requests across the array. Routing of events is implemented externally using dynamically programmable random-access memory that stores a postsynaptic address, the conductance, and the reversal potential of each synaptic connection. Here, we describe the silicon neuron circuits, present experimental data characterizing the 3 mm x 3 mm chip fabricated in 0.5-microm complementary metal-oxide-semiconductor (CMOS) technology, and demonstrate its utility by configuring the hardware to emulate a model of attractor dynamics and waves of neural activity during sleep in rat hippocampus.",
+     "FAU": [
+          "Vogelstein, R Jacob",
+          "Mallik, Udayan",
+          "Vogelstein, Joshua T",
+          "Cauwenberghs, Gert"
+     ],
+     "AU": [
+          "Vogelstein RJ",
+          "Mallik U",
+          "Vogelstein JT",
+          "Cauwenberghs G"
+     ],
+     "AD": "Department of Biomedical Engineering, The Johns Hopkins University, Baltimore, MD 21205, USA. jvogelst@bme.jhu.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Netw",
+     "JT": "IEEE transactions on neural networks",
+     "JID": "101211035",
+     "RN": [
+          "Z4152N8IUI (Silicon)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Biomimetics/*instrumentation/methods",
+          "Computer Simulation",
+          "Computer-Aided Design",
+          "Electric Conductivity",
+          "*Electronics",
+          "Equipment Design",
+          "Equipment Failure Analysis",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "*Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Silicon",
+          "Synaptic Transmission/physiology"
+     ],
+     "EDAT": "2007/02/07 09:00",
+     "MHDA": "2007/03/01 09:00",
+     "CRDT": [
+          "2007/02/07 09:00"
+     ],
+     "PHST": [
+          "2007/02/07 09:00 [pubmed]",
+          "2007/03/01 09:00 [medline]",
+          "2007/02/07 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TNN.2006.883007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Netw. 2007 Jan;18(1):253-65. doi: 10.1109/TNN.2006.883007.",
+     "term": "hippocampus"
+}

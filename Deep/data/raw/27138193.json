@@ -1,0 +1,83 @@
+{
+     "PMID": "27138193",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20171014",
+     "IS": "1352-8661 (Electronic) 0968-5243 (Linking)",
+     "VI": "29",
+     "IP": "3",
+     "DP": "2016 Jun",
+     "TI": "Robust imaging of hippocampal inner structure at 7T: in vivo acquisition protocol and methodological choices.",
+     "PG": "475-89",
+     "LID": "10.1007/s10334-016-0552-5 [doi]",
+     "AB": "OBJECTIVE: Motion-robust multi-slab imaging of hippocampal inner structure in vivo at 7T. MATERIALS AND METHODS: Motion is a crucial issue for ultra-high resolution imaging, such as can be achieved with 7T MRI. An acquisition protocol was designed for imaging hippocampal inner structure at 7T. It relies on a compromise between anatomical details visibility and robustness to motion. In order to reduce acquisition time and motion artifacts, the full slab covering the hippocampus was split into separate slabs with lower acquisition time. A robust registration approach was implemented to combine the acquired slabs within a final 3D-consistent high-resolution slab covering the whole hippocampus. Evaluation was performed on 50 subjects overall, made of three groups of subjects acquired using three acquisition settings; it focused on three issues: visibility of hippocampal inner structure, robustness to motion artifacts and registration procedure performance. RESULTS: Overall, T2-weighted acquisitions with interleaved slabs proved robust. Multi-slab registration yielded high quality datasets in 96 % of the subjects, thus compatible with further analyses of hippocampal inner structure. CONCLUSION: Multi-slab acquisition and registration setting is efficient for reducing acquisition time and consequently motion artifacts for ultra-high resolution imaging of the inner structure of the hippocampus.",
+     "FAU": [
+          "Marrakchi-Kacem, Linda",
+          "Vignaud, Alexandre",
+          "Sein, Julien",
+          "Germain, Johanne",
+          "Henry, Thomas R",
+          "Poupon, Cyril",
+          "Hertz-Pannier, Lucie",
+          "Lehericy, Stephane",
+          "Colliot, Olivier",
+          "Van de Moortele, Pierre-Francois",
+          "Chupin, Marie"
+     ],
+     "AU": [
+          "Marrakchi-Kacem L",
+          "Vignaud A",
+          "Sein J",
+          "Germain J",
+          "Henry TR",
+          "Poupon C",
+          "Hertz-Pannier L",
+          "Lehericy S",
+          "Colliot O",
+          "Van de Moortele PF",
+          "Chupin M"
+     ],
+     "AD": "UPMC Univ Paris 06, UMR S 1127, ICM, Sorbonne Universites, 75013, Paris, France. linda.marrakchi@gmail.com. Inserm, U1127, 75013, Paris, France. linda.marrakchi@gmail.com. CNRS, UMR 7225, 75013, Paris, France. linda.marrakchi@gmail.com. ICM, 75013, Paris, France. linda.marrakchi@gmail.com. Inria Paris-Rocquencourt, 75013, Paris, France. linda.marrakchi@gmail.com. Institut Superieur de Biotechnologies de Sidi Thabet, Ariana-Tunis, Tunisia. linda.marrakchi@gmail.com. UNIRS, NeuroSpin, I2BM, DSV, CEA, Saclay, France. Center for Magnetic Resonance Research (CMRR), University of Minnesota, Minneapolis, MN, USA. UPMC Univ Paris 06, UMR S 1127, ICM, Sorbonne Universites, 75013, Paris, France. Inserm, U1127, 75013, Paris, France. CNRS, UMR 7225, 75013, Paris, France. ICM, 75013, Paris, France. Inria Paris-Rocquencourt, 75013, Paris, France. Department of Neurology, University of Minnesota, Minneapolis, MN, USA. UNIRS, NeuroSpin, I2BM, DSV, CEA, Saclay, France. UNIACT, NeuroSpin, I2BM, DSV, CEA, Saclay, France. INSERM U1129, Paris, France. Paris-Descartes University, CEA, Gif sur Yvette, France. UPMC Univ Paris 06, UMR S 1127, ICM, Sorbonne Universites, 75013, Paris, France. Inserm, U1127, 75013, Paris, France. CNRS, UMR 7225, 75013, Paris, France. ICM, 75013, Paris, France. Centre de Neuro-Imagerie de Recherche CENIR, AP-HP, Hopital de la Pitie Salpetriere, Paris, France. UPMC Univ Paris 06, UMR S 1127, ICM, Sorbonne Universites, 75013, Paris, France. Inserm, U1127, 75013, Paris, France. CNRS, UMR 7225, 75013, Paris, France. ICM, 75013, Paris, France. Inria Paris-Rocquencourt, 75013, Paris, France. Center for Magnetic Resonance Research (CMRR), University of Minnesota, Minneapolis, MN, USA. UPMC Univ Paris 06, UMR S 1127, ICM, Sorbonne Universites, 75013, Paris, France. Inserm, U1127, 75013, Paris, France. CNRS, UMR 7225, 75013, Paris, France. ICM, 75013, Paris, France. Inria Paris-Rocquencourt, 75013, Paris, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160502",
+     "PL": "Germany",
+     "TA": "MAGMA",
+     "JT": "Magma (New York, N.Y.)",
+     "JID": "9310752",
+     "SB": "IM",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Anatomical contrasts",
+          "Hippocampal formation",
+          "Inner structure of the hippocampus",
+          "Registration",
+          "Ultra-high field imaging"
+     ],
+     "EDAT": "2016/05/04 06:00",
+     "MHDA": "2016/05/04 06:00",
+     "CRDT": [
+          "2016/05/04 06:00"
+     ],
+     "PHST": [
+          "2015/12/07 00:00 [received]",
+          "2016/03/12 00:00 [accepted]",
+          "2016/03/11 00:00 [revised]",
+          "2016/05/04 06:00 [entrez]",
+          "2016/05/04 06:00 [pubmed]",
+          "2016/05/04 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10334-016-0552-5 [doi]",
+          "10.1007/s10334-016-0552-5 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "MAGMA. 2016 Jun;29(3):475-89. doi: 10.1007/s10334-016-0552-5. Epub 2016 May 2.",
+     "term": "hippocampus"
+}

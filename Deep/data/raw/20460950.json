@@ -1,0 +1,79 @@
+{
+     "PMID": "20460950",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101019",
+     "LR": "20100714",
+     "IS": "1423-0372 (Electronic) 1011-6125 (Linking)",
+     "VI": "88",
+     "IP": "4",
+     "DP": "2010",
+     "TI": "Using Monte-Carlo-simulated radiation transport to calculate dose distribution in rats before irradiation with Leksell Gamma Knife 4C: technical note.",
+     "PG": "208-15",
+     "LID": "10.1159/000314355 [doi]",
+     "AB": "BACKGROUND: Gamma knife surgery (GKS) is used at subnecrotic doses for temporal lobe epilepsy (TLE) treatment. Rat models of TLE have been used to probe the mechanisms underlying GKS. Previous GKS studies on rats have used the Leksell GammaPlan (LGP) treatment planning system to determine the irradiation time to achieve the dose to deliver. Since LGP is not designed for such small structures, it is important to calibrate the system for the rat brain. METHODS: We have used a Monte Carlo simulation (MCS) radiation transport scheme, with CT data as anatomical and tissue-specific information, to simulate the dose distribution in a rat brain when using a Leksell Gamma Knife. RESULTS: We show how dose distributions obtained by MCS quantitatively compare to those predicted by LGP, and discuss whether LGP should be used for studies involving rats. The energy deposited when using the 4-mm collimators was calculated for targets on both sides of the rat brain in the dorsal hippocampus, which allowed us to determine the exact time to irradiate rats with a given dose. CONCLUSION: The MCS method used in this study can easily be used for future GKS studies on small animals when accurate dose distributions are required.",
+     "CI": [
+          "2010 S. Karger AG, Basel."
+     ],
+     "FAU": [
+          "Marcelin, Beatrice",
+          "Kjall, Per",
+          "Johansson, Jonas",
+          "Lundin, Anders",
+          "Nordstrom, Hakan",
+          "Eriksson, Markus",
+          "Bernard, Christophe",
+          "Regis, Jean"
+     ],
+     "AU": [
+          "Marcelin B",
+          "Kjall P",
+          "Johansson J",
+          "Lundin A",
+          "Nordstrom H",
+          "Eriksson M",
+          "Bernard C",
+          "Regis J"
+     ],
+     "AD": "INSERM U751, Universite de la Mediterranee, Hopital La Timone, Marseille, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100512",
+     "PL": "Switzerland",
+     "TA": "Stereotact Funct Neurosurg",
+     "JT": "Stereotactic and functional neurosurgery",
+     "JID": "8902881",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Calibration",
+          "*Radiation Dosage",
+          "Radiosurgery/*instrumentation/methods",
+          "Radiotherapy Planning, Computer-Assisted/instrumentation/*methods",
+          "Rats"
+     ],
+     "EDAT": "2010/05/13 06:00",
+     "MHDA": "2010/10/20 06:00",
+     "CRDT": [
+          "2010/05/13 06:00"
+     ],
+     "PHST": [
+          "2009/07/31 00:00 [received]",
+          "2010/03/04 00:00 [accepted]",
+          "2010/05/13 06:00 [entrez]",
+          "2010/05/13 06:00 [pubmed]",
+          "2010/10/20 06:00 [medline]"
+     ],
+     "AID": [
+          "000314355 [pii]",
+          "10.1159/000314355 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Stereotact Funct Neurosurg. 2010;88(4):208-15. doi: 10.1159/000314355. Epub 2010 May 12.",
+     "term": "hippocampus"
+}

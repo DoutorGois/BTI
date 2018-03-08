@@ -1,0 +1,73 @@
+{
+     "PMID": "16085388",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20051109",
+     "LR": "20050905",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "18",
+     "IP": "5-6",
+     "DP": "2005 Jun-Jul",
+     "TI": "Ovarian cancer diagnosis by hippocampus and neocortex-inspired learning memory structures.",
+     "PG": "818-25",
+     "AB": "Early detection and accurate staging of ovarian cancer are the keys to improving survival rate. However, at present there is no single diagnosis modality that is sufficiently sensitive. DNA microarray analysis is an emerging technique that has potential for ameliorating the hardship in early detection and staging of ovarian disease. However, microarray data is ultra-huge and difficult to analyze. Hence, computational intelligence methods are often utilized to assist in the diagnosis and analysis process. Fuzzy Neural Networks (FNN) are more suitable for this task as FNN provides not only the accuracy, but also the interpretability of its reasoning process. Hippocampus-inspired Complementary Learning FNN (CLFNN) is able to rapidly derive fuzzy sets and formulate fuzzy rules. CLFNN uses positive and negative learning, and hence it reduces the effect of the curse of dimensionality and is capable of modeling the dynamics of the problem space with relatively good classification performance. One of its successors, a hybrid of complementary hippocampal learning and associative neocortical learning called Pseudo Associative Complementary Learning (PACL), is a structure that seeks to functionally model the memory consolidation process. Both PACL and CLFNN have human-like reasoning that allows physicians to examine their computation using familiar terms. They can construct intuitive fuzzy rules autonomously to justify their reasoning, which is important to generate trust among the users. Hence, CLFNN and PACL are applied as a diagnostic decision support system in ovarian cancer diagnosis. The experimental results are encouraging.",
+     "FAU": [
+          "Tan, T Z",
+          "Quek, C",
+          "Ng, G S"
+     ],
+     "AU": [
+          "Tan TZ",
+          "Quek C",
+          "Ng GS"
+     ],
+     "AD": "Centre for Computational Intelligence (formerly known as Intelligent System Lab), School of Computer Engineering, Nanyang Technological University, Blk N4, #B1a-02, Nanyang Avenue, Singapore 639798.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "RN": [
+          "0 (DNA, Neoplasm)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Artificial Intelligence",
+          "DNA, Neoplasm/genetics",
+          "*Diagnosis, Computer-Assisted",
+          "Female",
+          "Fuzzy Logic",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Memory",
+          "*Models, Neurological",
+          "Neocortex/*physiology",
+          "Neoplasm Staging",
+          "Oligonucleotide Array Sequence Analysis",
+          "Ovarian Neoplasms/*diagnosis",
+          "Regression Analysis"
+     ],
+     "EDAT": "2005/08/09 09:00",
+     "MHDA": "2005/11/10 09:00",
+     "CRDT": [
+          "2005/08/09 09:00"
+     ],
+     "PHST": [
+          "2005/08/09 09:00 [pubmed]",
+          "2005/11/10 09:00 [medline]",
+          "2005/08/09 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(05)00144-9 [pii]",
+          "10.1016/j.neunet.2005.06.027 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2005 Jun-Jul;18(5-6):818-25. doi: 10.1016/j.neunet.2005.06.027.",
+     "term": "hippocampus"
+}

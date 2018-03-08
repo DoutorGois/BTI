@@ -1,0 +1,97 @@
+{
+     "PMID": "24151008",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141209",
+     "LR": "20151119",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "35",
+     "IP": "6",
+     "DP": "2014 Jun",
+     "TI": "Local label learning (LLL) for subcortical structure segmentation: application to hippocampus segmentation.",
+     "PG": "2674-97",
+     "LID": "10.1002/hbm.22359 [doi]",
+     "AB": "Automatic and reliable segmentation of subcortical structures is an important but difficult task in quantitative brain image analysis. Multi-atlas based segmentation methods have attracted great interest due to their promising performance. Under the multi-atlas based segmentation framework, using deformation fields generated for registering atlas images onto a target image to be segmented, labels of the atlases are first propagated to the target image space and then fused to get the target image segmentation based on a label fusion strategy. While many label fusion strategies have been developed, most of these methods adopt predefined weighting models that are not necessarily optimal. In this study, we propose a novel local label learning strategy to estimate the target image's segmentation label using statistical machine learning techniques. In particular, we use a L1-regularized support vector machine (SVM) with a k nearest neighbor (kNN) based training sample selection strategy to learn a classifier for each of the target image voxel from its neighboring voxels in the atlases based on both image intensity and texture features. Our method has produced segmentation results consistently better than state-of-the-art label fusion methods in validation experiments on hippocampal segmentation of over 100 MR images obtained from publicly available and in-house datasets. Volumetric analysis has also demonstrated the capability of our method in detecting hippocampal volume changes due to Alzheimer's disease.",
+     "CI": [
+          "Copyright (c) 2013 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Hao, Yongfu",
+          "Wang, Tianyao",
+          "Zhang, Xinqing",
+          "Duan, Yunyun",
+          "Yu, Chunshui",
+          "Jiang, Tianzi",
+          "Fan, Yong"
+     ],
+     "AU": [
+          "Hao Y",
+          "Wang T",
+          "Zhang X",
+          "Duan Y",
+          "Yu C",
+          "Jiang T",
+          "Fan Y"
+     ],
+     "AD": "Brainnetome Center, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20131023",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/diagnosis/pathology",
+          "Atlases as Topic",
+          "Brain/*anatomy & histology/pathology",
+          "Epilepsy/diagnosis/pathology",
+          "Female",
+          "Functional Laterality",
+          "Hippocampus/anatomy & histology/pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "*Support Vector Machine"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "SVM",
+          "hippocampal segmentation",
+          "local label learning",
+          "multi-atlas based segmentation"
+     ],
+     "EDAT": "2013/10/24 06:00",
+     "MHDA": "2014/12/15 06:00",
+     "CRDT": [
+          "2013/10/24 06:00"
+     ],
+     "PHST": [
+          "2013/04/15 00:00 [received]",
+          "2013/06/17 00:00 [accepted]",
+          "2013/10/24 06:00 [entrez]",
+          "2013/10/24 06:00 [pubmed]",
+          "2014/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.22359 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2014 Jun;35(6):2674-97. doi: 10.1002/hbm.22359. Epub 2013 Oct 23.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,68 @@
+{
+     "PMID": "26622208",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "1552-3098 (Print) 1552-3098 (Linking)",
+     "VI": "31",
+     "IP": "2",
+     "DP": "2015 Apr",
+     "TI": "Concentric Tube Robots as Steerable Needles: Achieving Follow-the-Leader Deployment.",
+     "PG": "246-258",
+     "AB": "Concentric tube robots can enable new clinical interventions if they are able to pass through soft tissue, deploy along desired paths through open cavities, or travel along winding lumens. These behaviors require the robot to deploy in such a way that the curved shape of its shaft remains unchanged as the tip progresses forward (i.e., \"follow-the-leader\" deployment). Follow-the-leader deployment is challenging for concentric tube robots due to elastic (and particularly torsional) coupling between the tubes that form the robot. However, as we show in this paper, follow-the-leader deployment is possible, provided that tube precurvatures and deployment sequences are appropriately selected. We begin by defining follow-the-leader deployment and providing conditions that must be satisfied for a concentric tube robot to achieve it. We then examine several useful special cases of follow-the-leader deployment, showing that both circular and helical precurvatures can be employed, and provide an experimental illustration of the helical case. We also explore approximate follow-the-leader behavior and provide a metric for the similarity of a general deployment to a follow-the-leader deployment. Finally, we consider access to the hippocampus in the brain to treat epilepsy, as a motivating clinical example for follow-the-leader deployment.",
+     "FAU": [
+          "Gilbert, Hunter B",
+          "Neimat, Joseph",
+          "Webster, Robert J 3rd"
+     ],
+     "AU": [
+          "Gilbert HB",
+          "Neimat J",
+          "Webster RJ 3rd"
+     ],
+     "AD": "Department of Mechanical Engineering, Vanderbilt University, Nashville, TN 37235 USA. Department of Neurological Surgery, Vanderbilt University Medical Center, Nashville, TN 37232 USA. Department of Mechanical Engineering, Vanderbilt University, Nashville, TN 37235 USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB017467/EB/NIBIB NIH HHS/United States",
+          "R21 EB017952/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150210",
+     "TA": "IEEE Trans Robot",
+     "JT": "IEEE transactions on robotics : a publication of the IEEE Robotics and Automation Society",
+     "JID": "101514509",
+     "PMC": "PMC4662566",
+     "MID": [
+          "NIHMS668905"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Concentric tube robot",
+          "continuum robot",
+          "medical robotics",
+          "needle steering",
+          "surgical robotics"
+     ],
+     "EDAT": "2015/12/02 06:00",
+     "MHDA": "2015/12/02 06:00",
+     "CRDT": [
+          "2015/12/02 06:00"
+     ],
+     "PHST": [
+          "2015/12/02 06:00 [entrez]",
+          "2015/12/02 06:00 [pubmed]",
+          "2015/12/02 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TRO.2015.2394331 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Robot. 2015 Apr;31(2):246-258. doi: 10.1109/TRO.2015.2394331. Epub 2015 Feb 10.",
+     "term": "hippocampus"
+}

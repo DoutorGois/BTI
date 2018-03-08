@@ -1,0 +1,68 @@
+{
+     "PMID": "23300431",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130625",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "9",
+     "IP": "1",
+     "DP": "2013",
+     "TI": "Network self-organization explains the statistics and dynamics of synaptic connection strengths in cortex.",
+     "PG": "e1002848",
+     "LID": "10.1371/journal.pcbi.1002848 [doi]",
+     "AB": "The information processing abilities of neural circuits arise from their synaptic connection patterns. Understanding the laws governing these connectivity patterns is essential for understanding brain function. The overall distribution of synaptic strengths of local excitatory connections in cortex and hippocampus is long-tailed, exhibiting a small number of synaptic connections of very large efficacy. At the same time, new synaptic connections are constantly being created and individual synaptic connection strengths show substantial fluctuations across time. It remains unclear through what mechanisms these properties of neural circuits arise and how they contribute to learning and memory. In this study we show that fundamental characteristics of excitatory synaptic connections in cortex and hippocampus can be explained as a consequence of self-organization in a recurrent network combining spike-timing-dependent plasticity (STDP), structural plasticity and different forms of homeostatic plasticity. In the network, associative synaptic plasticity in the form of STDP induces a rich-get-richer dynamics among synapses, while homeostatic mechanisms induce competition. Under distinctly different initial conditions, the ensuing self-organization produces long-tailed synaptic strength distributions matching experimental findings. We show that this self-organization can take place with a purely additive STDP mechanism and that multiplicative weight dynamics emerge as a consequence of network interactions. The observed patterns of fluctuation of synaptic strengths, including elimination and generation of synaptic connections and long-term persistence of strong connections, are consistent with the dynamics of dendritic spines found in rat hippocampus. Beyond this, the model predicts an approximately power-law scaling of the lifetimes of newly established synaptic connection strengths during development. Our results suggest that the combined action of multiple forms of neuronal plasticity plays an essential role in the formation and maintenance of cortical circuits.",
+     "FAU": [
+          "Zheng, Pengsheng",
+          "Dimitrakakis, Christos",
+          "Triesch, Jochen"
+     ],
+     "AU": [
+          "Zheng P",
+          "Dimitrakakis C",
+          "Triesch J"
+     ],
+     "AD": "Frankfurt Institute for Advanced Studies, Frankfurt am Main, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130103",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Cerebral Cortex/*physiology",
+          "Homeostasis",
+          "Humans",
+          "Learning",
+          "Memory",
+          "*Nerve Net",
+          "Synapses/*physiology"
+     ],
+     "PMC": "PMC3536614",
+     "EDAT": "2013/01/10 06:00",
+     "MHDA": "2013/06/26 06:00",
+     "CRDT": [
+          "2013/01/10 06:00"
+     ],
+     "PHST": [
+          "2012/06/03 00:00 [received]",
+          "2012/11/07 00:00 [accepted]",
+          "2013/01/10 06:00 [entrez]",
+          "2013/01/10 06:00 [pubmed]",
+          "2013/06/26 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1002848 [doi]",
+          "PCOMPBIOL-D-12-00897 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2013;9(1):e1002848. doi: 10.1371/journal.pcbi.1002848. Epub 2013 Jan 3.",
+     "term": "hippocampus"
+}

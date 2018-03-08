@@ -1,0 +1,62 @@
+{
+     "PMID": "15762157",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050504",
+     "LR": "20101118",
+     "IS": "1533-4880 (Print) 1533-4880 (Linking)",
+     "VI": "5",
+     "IP": "1",
+     "DP": "2005 Jan",
+     "TI": "Nature's Batik: a computer evolution model of diatom valve morphogenesis.",
+     "PG": "25-34",
+     "AB": "This paper describes a novel computer simulation that uses evolution to design functioning raphid pennate diatom valves. The model of valve morphogenesis used is based on current theories that highlight the importance of cytoskeletal elements in valve development. An \"organic\" negative imprint is grown in a grid-based system, using both local and global rules to dictate grid cell states. Silica then diffuses out into all remaining grid cells. This model is shown to generate raphid pennate diatom valves capable of functioning as cell walls. At every stage of development the generated valves are consistent with observations of real diatom valve growth. This model of diatom valve morphogenesis is interestingly similar to the negative technique used by artists in batik painting.",
+     "FAU": [
+          "Bentley, Katie",
+          "Cox, Eileen J",
+          "Bentley, Peter J"
+     ],
+     "AU": [
+          "Bentley K",
+          "Cox EJ",
+          "Bentley PJ"
+     ],
+     "AD": "Department of Computer Science, University College London, London, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Nanosci Nanotechnol",
+     "JT": "Journal of nanoscience and nanotechnology",
+     "JID": "101088195",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "*Biological Evolution",
+          "Cell Differentiation/physiology",
+          "Cell Proliferation",
+          "Computer Simulation",
+          "Diatoms/*growth & development/*ultrastructure",
+          "*Models, Biological",
+          "Morphogenesis/*physiology",
+          "Paintings"
+     ],
+     "EDAT": "2005/03/15 09:00",
+     "MHDA": "2005/05/05 09:00",
+     "CRDT": [
+          "2005/03/15 09:00"
+     ],
+     "PHST": [
+          "2005/03/15 09:00 [pubmed]",
+          "2005/05/05 09:00 [medline]",
+          "2005/03/15 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Nanosci Nanotechnol. 2005 Jan;5(1):25-34.",
+     "term": "grid cells"
+}

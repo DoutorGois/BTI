@@ -1,0 +1,80 @@
+{
+     "PMID": "25864919",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160829",
+     "LR": "20151023",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "25",
+     "IP": "11",
+     "DP": "2015 Nov",
+     "TI": "Impaired dendritic inhibition leads to epileptic activity in a computer model of CA3.",
+     "PG": "1336-50",
+     "LID": "10.1002/hipo.22440 [doi]",
+     "AB": "Temporal lobe epilepsy (TLE) is a common type of epilepsy with hippocampus as the usual site of origin. The CA3 subfield of hippocampus is reported to have a low epileptic threshold and hence initiates the disorder in patients with TLE. This study computationally investigates how impaired dendritic inhibition of pyramidal cells in the vulnerable CA3 subfield leads to generation of epileptic activity. A model of CA3 subfield consisting of 800 pyramidal cells, 200 basket cells (BC) and 200 Oriens-Lacunosum Moleculare (O-LM) interneurons was used. The dendritic inhibition provided by O-LM interneurons is reported to be selectively impaired in some TLEs. A step-wise approach is taken to investigate how alterations in network connectivity lead to generation of epileptic patterns. Initially, dendritic inhibition alone was reduced, followed by an increase in the external inputs received at the distal dendrites of pyramidal cells, and finally additional changes were made at the synapses between all neurons in the network. In the first case, when the dendritic inhibition of pyramidal cells alone was reduced, the local field potential activity changed from a theta-modulated gamma pattern to a prominently gamma frequency pattern. In the second case, in addition to this reduction of dendritic inhibition, with a simultaneous large increase in the external excitatory inputs received by pyramidal cells, the basket cells entered a state of depolarization block, causing the network to generate a typical ictal activity pattern. In the third case, when the dendritic inhibition onto the pyramidal cells was reduced and changes were simultaneously made in synaptic connectivity between all neurons in the network, the basket cells were again observed to enter depolarization block. In the third case, impairment of dendritic inhibition required to generate an ictal activity pattern was lesser than the two previous cases. Moreover, the ictal like activity began earlier in the third case. Hence, our study suggests that greater synaptic plasticity occurring in the whole network due to increase in reception of external excitatory inputs (due to impaired dendritic inhibition) makes the network more susceptible to generation of epileptic activity.",
+     "CI": [
+          "(c) 2015 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Sanjay, M",
+          "Neymotin, Samuel A",
+          "Krothapalli, Srinivasa B"
+     ],
+     "AU": [
+          "Sanjay M",
+          "Neymotin SA",
+          "Krothapalli SB"
+     ],
+     "AD": "Neurophysiology Unit, Department of Neurological Sciences, Christian Medical College, Vellore, India. Department of Bioengineering, Christian Medical College, Vellore, India. Department of Physiology and Pharmacology, State University of New York, Downstate Medical Center, Brooklyn, New York. Department of Neurobiology, Yale University School of Medicine, New Haven, Connecticut. Neurophysiology Unit, Department of Neurological Sciences, Christian Medical College, Vellore, India.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150422",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "CA3 Region, Hippocampal/*physiology",
+          "Dendrites/*physiology",
+          "Epilepsy, Temporal Lobe/*physiopathology",
+          "Humans",
+          "Neural Inhibition/*physiology",
+          "*Neural Networks (Computer)",
+          "Neuronal Plasticity/*physiology",
+          "Pyramidal Cells/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "basket cells",
+          "depolarization block",
+          "hippocampus",
+          "ictal activity",
+          "oscillations",
+          "temporal lobe epilepsy"
+     ],
+     "EDAT": "2015/04/14 06:00",
+     "MHDA": "2016/08/30 06:00",
+     "CRDT": [
+          "2015/04/14 06:00"
+     ],
+     "PHST": [
+          "2015/03/10 00:00 [accepted]",
+          "2015/04/14 06:00 [entrez]",
+          "2015/04/14 06:00 [pubmed]",
+          "2016/08/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.22440 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2015 Nov;25(11):1336-50. doi: 10.1002/hipo.22440. Epub 2015 Apr 22.",
+     "term": "hippocampus"
+}

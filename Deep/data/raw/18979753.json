@@ -1,0 +1,105 @@
+{
+     "PMID": "18979753",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081209",
+     "LR": "20170220",
+     "VI": "11",
+     "IP": "Pt 1",
+     "DP": "2008",
+     "TI": "Model-based segmentation of hippocampal subfields in ultra-high resolution in vivo MRI.",
+     "PG": "235-43",
+     "AB": "Recent developments in MR data acquisition technology are starting to yield images that show anatomical features of the hippocampal formation at an unprecedented level of detail, providing the basis for hippocampal subfield measurement. Because of the role of the hippocampus in human memory and its implication in a variety of disorders and conditions, the ability to reliably and efficiently quantify its subfields through in vivo neuroimaging is of great interest to both basic neuroscience and clinical research. In this paper, we propose a fully-automated method for segmenting the hippocampal subfields in ultra-high resolution MRI data. Using a Bayesian approach, we build a computational model of how images around the hippocampal area are generated, and use this model to obtain automated segmentations. We validate the proposed technique by comparing our segmentation results with corresponding manual delineations in ultra-high resolution MRI scans of five individuals.",
+     "FAU": [
+          "Van Leemput, Koen",
+          "Bakkour, Akram",
+          "Benner, Thomas",
+          "Wiggins, Graham",
+          "Wald, Lawrence L",
+          "Augustinack, Jean",
+          "Dickerson, Bradford C",
+          "Golland, Polina",
+          "Fischl, Bruce"
+     ],
+     "AU": [
+          "Van Leemput K",
+          "Bakkour A",
+          "Benner T",
+          "Wiggins G",
+          "Wald LL",
+          "Augustinack J",
+          "Dickerson BC",
+          "Golland P",
+          "Fischl B"
+     ],
+     "AD": "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, MGH, Harvard Medical School, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U24 RR021382/RR/NCRR NIH HHS/United States",
+          "R01 EB006758-02/EB/NIBIB NIH HHS/United States",
+          "R01 NS051826-04/NS/NINDS NIH HHS/United States",
+          "P41-RR14075/RR/NCRR NIH HHS/United States",
+          "P41-RR13218/RR/NCRR NIH HHS/United States",
+          "R01 RR016594-04/RR/NCRR NIH HHS/United States",
+          "R01 NS052585-01/NS/NINDS NIH HHS/United States",
+          "P41 RR013218-10/RR/NCRR NIH HHS/United States",
+          "R01 EB001550/EB/NIBIB NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States",
+          "U54-EB005149/EB/NIBIB NIH HHS/United States",
+          "P41 RR014075/RR/NCRR NIH HHS/United States",
+          "R01 NS051826/NS/NINDS NIH HHS/United States",
+          "R01 NS052585/NS/NINDS NIH HHS/United States",
+          "P41 RR013218/RR/NCRR NIH HHS/United States",
+          "R01 NS052585-03/NS/NINDS NIH HHS/United States",
+          "R01 RR16594-01A1/RR/NCRR NIH HHS/United States",
+          "U24 RR021382-04/RR/NCRR NIH HHS/United States",
+          "R01 RR016594/RR/NCRR NIH HHS/United States",
+          "U54 EB005149-04/EB/NIBIB NIH HHS/United States",
+          "R01 EB006758/EB/NIBIB NIH HHS/United States",
+          "P41 RR014075-09/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "*Artificial Intelligence",
+          "Cluster Analysis",
+          "Computer Simulation",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/methods",
+          "Models, Biological",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC2799119",
+     "MID": [
+          "NIHMS88082"
+     ],
+     "EDAT": "2008/11/05 09:00",
+     "MHDA": "2008/12/17 09:00",
+     "CRDT": [
+          "2008/11/05 09:00"
+     ],
+     "PHST": [
+          "2008/11/05 09:00 [pubmed]",
+          "2008/12/17 09:00 [medline]",
+          "2008/11/05 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2008;11(Pt 1):235-43.",
+     "term": "hippocampus"
+}

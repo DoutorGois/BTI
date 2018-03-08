@@ -1,0 +1,70 @@
+{
+     "PMID": "10601459",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20000203",
+     "LR": "20171213",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "82",
+     "IP": "6",
+     "DP": "1999 Dec",
+     "TI": "Passive normalization of synaptic integration influenced by dendritic architecture.",
+     "PG": "3268-85",
+     "AB": "We examined how biophysical properties and neuronal morphology affect the propagation of individual postsynaptic potentials (PSPs) from synaptic inputs to the soma. This analysis is based on evidence that individual synaptic activations do not reduce local driving force significantly in most central neurons, so each synapse acts approximately as a current source. Therefore the spread of PSPs throughout a dendritic tree can be described in terms of transfer impedance (Z(c)), which reflects how a current applied at one location affects membrane potential at other locations. We addressed this topic through four lines of study and uncovered new implications of neuronal morphology for synaptic integration. First, Z(c) was considered in terms of two-port theory and contrasted with dendrosomatic voltage transfer. Second, equivalent cylinder models were used to compare the spatial profiles of Z(c) and dendrosomatic voltage transfer. These simulations showed that Z(c) is less affected by dendritic location than voltage transfer is. Third, compartmental models based on morphological reconstructions of five different neuron types were used to calculate Z(c), input impedance (Z(N)), and voltage transfer throughout the dendritic tree. For all neurons, there was no significant variation of Z(c) with location within higher-order dendrites. Furthermore, Z(c) was relatively independent of synaptic location throughout the entire cell in three of the five neuron types (CA3 interneurons, CA3 pyramidal neurons, and dentate granule cells). This was quite unlike Z(N), which increased with distance from the soma and was responsible for a parallel decrease of voltage transfer. Fourth, simulations of fast excitatory PSPs (EPSPs) were consistent with the analysis of Z(c); peak EPSP amplitude varied <20% in the same three neuron types, a phenomenon that we call \"passive synaptic normalization\" to underscore the fact that it does not require active currents. We conclude that the presence of a long primary dendrite, as in CA1 or neocortical pyramidal cells, favors substantial location-dependent variability of somatic PSP amplitude. In neurons that lack long primary dendrites, however, PSP amplitude at the soma will be much less dependent on synaptic location.",
+     "FAU": [
+          "Jaffe, D B",
+          "Carnevale, N T"
+     ],
+     "AU": [
+          "Jaffe DB",
+          "Carnevale NT"
+     ],
+     "AD": "Division of Life Sciences, University of Texas at San Antonio, San Antonio, Texas 78249, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "GM08194-17S1/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Dendrites/*physiology",
+          "Electric Stimulation",
+          "Electrophysiology",
+          "Excitatory Postsynaptic Potentials/physiology",
+          "Hippocampus/cytology/*physiology",
+          "Membrane Potentials/physiology",
+          "Models, Neurological",
+          "Pyramidal Cells/physiology",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Synapses/*physiology"
+     ],
+     "EDAT": "1999/12/22 00:00",
+     "MHDA": "1999/12/22 00:01",
+     "CRDT": [
+          "1999/12/22 00:00"
+     ],
+     "PHST": [
+          "1999/12/22 00:00 [pubmed]",
+          "1999/12/22 00:01 [medline]",
+          "1999/12/22 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1152/jn.1999.82.6.3268 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 1999 Dec;82(6):3268-85. doi: 10.1152/jn.1999.82.6.3268.",
+     "term": "hippocampus"
+}

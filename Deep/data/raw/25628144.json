@@ -1,0 +1,72 @@
+{
+     "PMID": "25628144",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160607",
+     "LR": "20150909",
+     "IS": "1617-7940 (Electronic) 1617-7940 (Linking)",
+     "VI": "14",
+     "IP": "5",
+     "DP": "2015 Oct",
+     "TI": "Predicting changes in cortical electrophysiological function after in vitro traumatic brain injury.",
+     "PG": "1033-44",
+     "LID": "10.1007/s10237-015-0652-6 [doi]",
+     "AB": "Finite element (FE) models of traumatic brain injury (TBI) are capable of predicting injury-induced brain tissue deformation. However, current FE models are not equipped to predict the biological consequences of tissue deformation, which requires the determination of tolerance criteria relating the effects of mechanical stimuli to biologically relevant functional responses. To address this deficiency, we present functional tolerance criteria for the cortex for alterations in neuronal network electrophysiological function in response to controlled mechanical stimuli. Organotypic cortical slice cultures were mechanically injured via equibiaxial stretch with a well-characterized in vitro model of TBI at tissue strains and strain rates relevant to TBI (up to Lagrangian strain of 0.59 and strain rates up to 29 [Formula: see text]. At 4-6 days post-injury, electrophysiological function was assessed simultaneously throughout the cortex using microelectrode arrays. Electrophysiological parameters associated with unstimulated spontaneous network activity (neural event rate, duration, and magnitude), stimulated evoked responses (the maximum response [Formula: see text], the stimulus current necessary for a half-maximal response [Formula: see text], and the electrophysiological parameter [Formula: see text] that is representative of firing uniformity), and evoked paired-pulse ratios at varying interstimulus intervals were quantified for each cortical slice culture. Nonlinear regression was performed between mechanical injury parameters as independent variables (tissue strain and strain rate) and each electrophysiological parameter as output. Parsimonious best-fit equations were determined from a large pool of candidate equations with tenfold cross-validation. Changes in electrophysiological parameters were dependent on strain and strain rate in a complex manner. Compared to the hippocampus, the cortex was less spontaneously active, less excitable, and less prone to significant changes in electrophysiological function in response to controlled deformation (strain or strain rate). Our study provides functional data that can be incorporated into FE models to improve their predictive capabilities of the in vivo consequences of TBI.",
+     "FAU": [
+          "Kang, Woo Hyeun",
+          "Morrison, Barclay 3rd"
+     ],
+     "AU": [
+          "Kang WH",
+          "Morrison B 3rd"
+     ],
+     "AD": "Department of Biomedical Engineering, Columbia University, 351 Engineering Terrace MC 8904, 1210 Amsterdam Avenue, New York, NY, 10027, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150128",
+     "PL": "Germany",
+     "TA": "Biomech Model Mechanobiol",
+     "JT": "Biomechanics and modeling in mechanobiology",
+     "JID": "101135325",
+     "SB": "IM S",
+     "MH": [
+          "*Action Potentials",
+          "Animals",
+          "Brain Injuries/*physiopathology",
+          "Cerebral Cortex/*physiopathology",
+          "Computer Simulation",
+          "Elastic Modulus",
+          "*Evoked Potentials",
+          "Hardness",
+          "*Models, Neurological",
+          "Nerve Net/*physiopathology",
+          "Organ Culture Techniques",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Stress, Mechanical",
+          "Synaptic Transmission"
+     ],
+     "EDAT": "2015/01/30 06:00",
+     "MHDA": "2016/06/09 06:00",
+     "CRDT": [
+          "2015/01/29 06:00"
+     ],
+     "PHST": [
+          "2014/09/16 00:00 [received]",
+          "2015/01/14 00:00 [accepted]",
+          "2015/01/29 06:00 [entrez]",
+          "2015/01/30 06:00 [pubmed]",
+          "2016/06/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10237-015-0652-6 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biomech Model Mechanobiol. 2015 Oct;14(5):1033-44. doi: 10.1007/s10237-015-0652-6. Epub 2015 Jan 28.",
+     "term": "hippocampus"
+}

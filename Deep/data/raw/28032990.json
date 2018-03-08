@@ -1,0 +1,106 @@
+{
+     "PMID": "28032990",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170711",
+     "LR": "20170713",
+     "IS": "1554-8937 (Electronic) 1554-8929 (Linking)",
+     "VI": "12",
+     "IP": "2",
+     "DP": "2017 Feb 17",
+     "TI": "Iterative Focused Screening with Biological Fingerprints Identifies Selective Asc-1 Inhibitors Distinct from Traditional High Throughput Screening.",
+     "PG": "519-527",
+     "LID": "10.1021/acschembio.6b00913 [doi]",
+     "AB": "N-methyl-d-aspartate receptors (NMDARs) mediate glutamatergic signaling that is critical to cognitive processes in the central nervous system, and NMDAR hypofunction is thought to contribute to cognitive impairment observed in both schizophrenia and Alzheimer's disease. One approach to enhance the function of NMDAR is to increase the concentration of an NMDAR coagonist, such as glycine or d-serine, in the synaptic cleft. Inhibition of alanine-serine-cysteine transporter-1 (Asc-1), the primary transporter of d-serine, is attractive because the transporter is localized to neurons in brain regions critical to cognitive function, including the hippocampus and cortical layers III and IV, and is colocalized with d-serine and NMDARs. To identify novel Asc-1 inhibitors, two different screening approaches were performed with whole-cell amino acid uptake in heterologous cells stably expressing human Asc-1: (1) a high-throughput screen (HTS) of 3 M compounds measuring (35)S l-cysteine uptake into cells attached to scintillation proximity assay beads in a 1536 well format and (2) an iterative focused screen (IFS) of a 45000 compound diversity set using a (3)H d-serine uptake assay with a liquid scintillation plate reader in a 384 well format. Critically important for both screening approaches was the implementation of counter screens to remove nonspecific inhibitors of radioactive amino acid uptake. Furthermore, a 15000 compound expansion step incorporating both on- and off-target data into chemical and biological fingerprint-based models for selection of additional hits enabled the identification of novel Asc-1-selective chemical matter from the IFS that was not identified in the full-collection HTS.",
+     "FAU": [
+          "Kutchukian, Peter S",
+          "Warren, Lee",
+          "Magliaro, Brian C",
+          "Amoss, Adam",
+          "Cassaday, Jason A",
+          "O'Donnell, Gregory",
+          "Squadroni, Brian",
+          "Zuck, Paul",
+          "Pascarella, Danette",
+          "Culberson, J Chris",
+          "Cooke, Andrew J",
+          "Hurzy, Danielle",
+          "Schlegel, Kelly-Ann Sondra",
+          "Thomson, Fiona",
+          "Johnson, Eric N",
+          "Uebele, Victor N",
+          "Hermes, Jeffrey D",
+          "Parmentier-Batteur, Sophie",
+          "Finley, Michael"
+     ],
+     "AU": [
+          "Kutchukian PS",
+          "Warren L",
+          "Magliaro BC",
+          "Amoss A",
+          "Cassaday JA",
+          "O'Donnell G",
+          "Squadroni B",
+          "Zuck P",
+          "Pascarella D",
+          "Culberson JC",
+          "Cooke AJ",
+          "Hurzy D",
+          "Schlegel KS",
+          "Thomson F",
+          "Johnson EN",
+          "Uebele VN",
+          "Hermes JD",
+          "Parmentier-Batteur S",
+          "Finley M"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-5684-1971",
+          "ORCID: http://orcid.org/0000-0002-8987-5369",
+          "ORCID: http://orcid.org/0000-0002-5547-5519"
+     ],
+     "AD": "Modeling and Informatics, Merck & Co., Inc., MRL , Boston, Massachusetts, United States. Neuroscience, Merck & Co., Inc., MRL , West Point, Pennsylvania, United States. Pharmacology, Merck & Co., Inc., MRL , West Point, Pennsylvania, United States. Screening and Protein Sciences, Merck & Co., Inc., MRL , North Wales, Pennsylvania, United States. Screening and Protein Sciences, Merck & Co., Inc., MRL , North Wales, Pennsylvania, United States. Screening and Protein Sciences, Merck & Co., Inc., MRL , North Wales, Pennsylvania, United States. Screening and Protein Sciences, Merck & Co., Inc., MRL , North Wales, Pennsylvania, United States. Screening and Protein Sciences, Merck & Co., Inc., MRL , North Wales, Pennsylvania, United States. Pharmacology, Merck & Co., Inc., MRL , West Point, Pennsylvania, United States. Modeling and Informatics, Merck & Co., Inc., MRL , West Point, Pennsylvania, United States. Chemistry, Merck & Co., Inc., MRL , West Point, Pennsylvania, United States. Chemistry, Merck & Co., Inc., MRL , West Point, Pennsylvania, United States. Chemistry, Merck & Co., Inc., MRL , West Point, Pennsylvania, United States. Neuroscience, Merck & Co., Inc., MRL , West Point, Pennsylvania, United States. Screening and Protein Sciences, Merck & Co., Inc., MRL , North Wales, Pennsylvania, United States. Screening and Protein Sciences, Merck & Co., Inc., MRL , North Wales, Pennsylvania, United States. Screening and Protein Sciences, Merck & Co., Inc., MRL , North Wales, Pennsylvania, United States. Neuroscience, Merck & Co., Inc., MRL , West Point, Pennsylvania, United States. Screening and Protein Sciences, Merck & Co., Inc., MRL , North Wales, Pennsylvania, United States.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170106",
+     "PL": "United States",
+     "TA": "ACS Chem Biol",
+     "JT": "ACS chemical biology",
+     "JID": "101282906",
+     "RN": [
+          "0 (Amino Acid Transport System y+)",
+          "0 (SLC7A10 protein, human)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Amino Acid Transport System y+/*antagonists & inhibitors",
+          "Animals",
+          "Bayes Theorem",
+          "CHO Cells",
+          "Cricetinae",
+          "Cricetulus",
+          "*High-Throughput Screening Assays",
+          "Humans",
+          "Machine Learning"
+     ],
+     "EDAT": "2016/12/30 06:00",
+     "MHDA": "2017/07/14 06:00",
+     "CRDT": [
+          "2016/12/30 06:00"
+     ],
+     "PHST": [
+          "2016/12/30 06:00 [pubmed]",
+          "2017/07/14 06:00 [medline]",
+          "2016/12/30 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1021/acschembio.6b00913 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "ACS Chem Biol. 2017 Feb 17;12(2):519-527. doi: 10.1021/acschembio.6b00913. Epub 2017 Jan 6.",
+     "term": "hippocampus"
+}

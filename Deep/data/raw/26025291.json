@@ -1,0 +1,81 @@
+{
+     "PMID": "26025291",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160518",
+     "LR": "20150831",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "118",
+     "DP": "2015 Sep",
+     "TI": "Measuring directionality between neuronal oscillations of different frequencies.",
+     "PG": "359-67",
+     "LID": "10.1016/j.neuroimage.2015.05.044 [doi] S1053-8119(15)00426-7 [pii]",
+     "AB": "It is well established that neuronal oscillations at different frequencies interact with each other in terms of cross-frequency coupling (CFC). In particular, the phase of slower oscillations modulates the power of faster oscillations. This is referred to as phase-amplitude coupling (PAC). Examples are alpha phase to gamma power coupling as observed in humans and theta phase to gamma power coupling as observed in the rat hippocampus. We here ask if the interaction between alpha and gamma oscillations is in the direction of the phase of slower oscillations driving the power of faster oscillations or conversely from the power of faster oscillations driving the phase of slower oscillations. To answer this question, we introduce a new measure to estimate the cross-frequency directionality (CFD). This measure is based on the phase-slope index (PSI) between the phase of slower oscillations and the power envelope of faster oscillations. Further, we propose a randomization framework for statistically evaluating the coupling measures when controlling for multiple comparisons over the investigated frequency ranges. The method was firstly validated on simulated data and next applied to resting state electrocorticography (ECoG) data. These results demonstrate that the method works reliably. In particular, we found that the power envelope of gamma oscillations drives the phase of slower oscillations in the alpha band. This surprising finding is not easily reconcilable with theories suggesting that feedback controlled alpha oscillations modulate feedforward processing reflected in the gamma band.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Jiang, Haiteng",
+          "Bahramisharif, Ali",
+          "van Gerven, Marcel A J",
+          "Jensen, Ole"
+     ],
+     "AU": [
+          "Jiang H",
+          "Bahramisharif A",
+          "van Gerven MA",
+          "Jensen O"
+     ],
+     "AD": "Radboud University, Donders Institute for Brain, Cognition and Behaviour, 6500 HB Nijmegen, The Netherlands. Electronic address: h.jiang@donders.ru.nl. Radboud University, Donders Institute for Brain, Cognition and Behaviour, 6500 HB Nijmegen, The Netherlands; Department of Psychiatry, Academic Medical Centre, PO Box 22660, 1100 DD, Amsterdam, The Netherlands. Radboud University, Donders Institute for Brain, Cognition and Behaviour, 6500 HB Nijmegen, The Netherlands. Radboud University, Donders Institute for Brain, Cognition and Behaviour, 6500 HB Nijmegen, The Netherlands.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150527",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "*Alpha Rhythm",
+          "Cerebral Cortex/*physiology",
+          "Computer Simulation",
+          "Electroencephalography/*methods",
+          "*Gamma Rhythm",
+          "Humans",
+          "*Signal Processing, Computer-Assisted",
+          "Statistics as Topic"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Cross-frequency coupling",
+          "Cross-frequency directionality",
+          "Neuronal oscillations"
+     ],
+     "EDAT": "2015/05/31 06:00",
+     "MHDA": "2016/05/19 06:00",
+     "CRDT": [
+          "2015/05/31 06:00"
+     ],
+     "PHST": [
+          "2014/12/10 00:00 [received]",
+          "2015/04/13 00:00 [revised]",
+          "2015/05/16 00:00 [accepted]",
+          "2015/05/31 06:00 [entrez]",
+          "2015/05/31 06:00 [pubmed]",
+          "2016/05/19 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(15)00426-7 [pii]",
+          "10.1016/j.neuroimage.2015.05.044 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2015 Sep;118:359-67. doi: 10.1016/j.neuroimage.2015.05.044. Epub 2015 May 27.",
+     "term": "hippocampus"
+}

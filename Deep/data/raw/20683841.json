@@ -1,0 +1,76 @@
+{
+     "PMID": "20683841",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120207",
+     "LR": "20170220",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "21",
+     "IP": "11",
+     "DP": "2011 Nov",
+     "TI": "Pattern separation in the dentate gyrus: a role for the CA3 backprojection.",
+     "PG": "1190-215",
+     "LID": "10.1002/hipo.20828 [doi]",
+     "AB": "Many theories of hippocampal function assume that area CA3 of hippocampus is capable of performing rapid pattern storage, as well as pattern completion when a partial version of a familiar pattern is presented, and that the dentate gyrus (DG) is a preprocessor that performs pattern separation, facilitating storage and recall in CA3. The latter assumption derives partly from the anatomical and physiological properties of DG. However, the major output of DG is from a large number of DG granule cells to a smaller number of CA3 pyramidal cells, which potentially negates the pattern separation performed in the DG. Here, we consider a simple CA3 network model, and consider how it might interact with a previously developed computational model of the DG. The resulting \"standard\" DG-CA3 model performs pattern storage and completion well, given a small set of sparse, randomly derived patterns representing entorhinal input to the DG and CA3. However, under many circumstances, the pattern separation achieved in the DG is not as robust in CA3, resulting in a low storage capacity for CA3, compared to previous mathematical estimates of the storage capacity for an autoassociative network of this size. We also examine an often-overlooked aspect of hippocampal anatomy that might increase functionality in the combined DG-CA3 model. Specifically, axon collaterals of CA3 pyramidal cells project \"back\" to the DG (\"backprojections\"), exerting inhibitory effects on granule cells that could potentially ensure that different subpopulations of granule cells are recruited to respond to similar patterns. In the model, addition of such backprojections improves both pattern separation and storage capacity. We also show that the DG-CA3 model with backprojections provides a better fit to empirical data than a model without backprojections. Therefore, we hypothesize that CA3 backprojections might play an important role in hippocampal function.",
+     "CI": [
+          "Copyright (c) 2010 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Myers, Catherine E",
+          "Scharfman, Helen E"
+     ],
+     "AU": [
+          "Myers CE",
+          "Scharfman HE"
+     ],
+     "AD": "Department of Psychology, Rutgers University, Newark, New Jersey, USA. catherine.myers2@va.gov",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AA018737/AA/NIAAA NIH HHS/United States",
+          "R01 AA018737-03/AA/NIAAA NIH HHS/United States",
+          "R21 MH090606/MH/NIMH NIH HHS/United States",
+          "R01 AA01837-01/AA/NIAAA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20100803",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "CA3 Region, Hippocampal/*anatomy & histology/*physiology",
+          "Dentate Gyrus/*anatomy & histology/*physiology",
+          "*Models, Neurological",
+          "*Models, Theoretical",
+          "Nerve Net/anatomy & histology/physiology",
+          "Pattern Recognition, Visual/physiology"
+     ],
+     "PMC": "PMC2976779",
+     "MID": [
+          "NIHMS223345"
+     ],
+     "EDAT": "2010/08/05 06:00",
+     "MHDA": "2012/02/09 06:00",
+     "CRDT": [
+          "2010/08/05 06:00"
+     ],
+     "PHST": [
+          "2010/04/21 00:00 [accepted]",
+          "2010/08/05 06:00 [entrez]",
+          "2010/08/05 06:00 [pubmed]",
+          "2012/02/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.20828 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2011 Nov;21(11):1190-215. doi: 10.1002/hipo.20828. Epub 2010 Aug 3.",
+     "term": "hippocampus"
+}

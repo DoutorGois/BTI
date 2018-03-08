@@ -1,0 +1,84 @@
+{
+     "PMID": "15625097",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050613",
+     "LR": "20131121",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "93",
+     "IP": "5",
+     "DP": "2005 May",
+     "TI": "Calcium time course as a signal for spike-timing-dependent plasticity.",
+     "PG": "2600-13",
+     "AB": "Calcium has been proposed as a postsynaptic signal underlying synaptic spike-timing-dependent plasticity (STDP). We examine this hypothesis with computational modeling based on experimental results from hippocampal cultures, some of which are presented here, in which pairs and triplets of pre- and postsynaptic spikes induce potentiation and depression in a temporally asymmetric way. Specifically, we present a set of model biochemical detectors, based on plausible molecular pathways, which make direct use of the time course of the calcium signal to reproduce these experimental STDP results. Our model features a modular structure, in which long-term potentiation (LTP) and depression (LTD) components compete to determine final plasticity outcomes; one aspect of this competition is a veto through which appropriate calcium time courses suppress LTD. Simulations of our model are also shown to be consistent with classical LTP and LTD induced by several presynaptic stimulation paradigms. Overall, our results provide computational evidence that, while the postsynaptic calcium time course contains sufficient information to distinguish various experimental long-term plasticity paradigms, small changes in the properties of back-propagation of action potentials or in synaptic dynamics can alter the calcium time course in ways that will significantly affect STDP induction by any detector based exclusively on postsynaptic calcium. This may account for the variability of STDP outcomes seen within hippocampal cultures, under repeated application of a single experimental protocol, as well as for that seen in multiple spike experiments across different systems.",
+     "FAU": [
+          "Rubin, Jonathan E",
+          "Gerkin, Richard C",
+          "Bi, Guo-Qiang",
+          "Chow, Carson C"
+     ],
+     "AU": [
+          "Rubin JE",
+          "Gerkin RC",
+          "Bi GQ",
+          "Chow CC"
+     ],
+     "AD": "Department of Mathematics, University of Pittsburgh, 301 Thackeray Hall, Pittsburgh, PA 15260, USA. rubin@math.pitt.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01-MH-01508/MH/NIMH NIH HHS/United States",
+          "P50-MH-64445/MH/NIMH NIH HHS/United States",
+          "R01 MH-066962/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "DEP": "20041229",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Calcium/*metabolism",
+          "Cells, Cultured",
+          "Electric Stimulation/methods",
+          "Embryo, Mammalian",
+          "Hippocampus/*cytology",
+          "Models, Neurological",
+          "Neural Inhibition/physiology",
+          "Neuronal Plasticity/*physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "Synaptic Transmission/physiology",
+          "Time Factors"
+     ],
+     "EDAT": "2004/12/31 09:00",
+     "MHDA": "2005/06/14 09:00",
+     "CRDT": [
+          "2004/12/31 09:00"
+     ],
+     "PHST": [
+          "2004/12/31 09:00 [pubmed]",
+          "2005/06/14 09:00 [medline]",
+          "2004/12/31 09:00 [entrez]"
+     ],
+     "AID": [
+          "00803.2004 [pii]",
+          "10.1152/jn.00803.2004 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2005 May;93(5):2600-13. doi: 10.1152/jn.00803.2004. Epub 2004 Dec 29.",
+     "term": "hippocampus"
+}

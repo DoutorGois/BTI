@@ -1,0 +1,64 @@
+{
+     "PMID": "10080505",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19990324",
+     "LR": "20061115",
+     "IS": "0013-9580 (Print) 0013-9580 (Linking)",
+     "VI": "40",
+     "IP": "3",
+     "DP": "1999 Mar",
+     "TI": "Visual and automatic investigation of epileptiform spikes in intracranial EEG recordings.",
+     "PG": "275-85",
+     "AB": "PURPOSE: Performance of automatic spike-detection algorithms and interrater reliability of human EEG reviewers were investigated previously by using scalp EEG recordings. However, it is not known, whether the findings of these studies hold for intracranial recordings. To address this question, we analyzed spike detection in intracranial recordings by two human reviewers and three automatic systems covering major lines in the development of automatic spike-detection systems. METHODS: Intracranial recordings from subdural and intrahippocampal depth electrode contacts in seven patients were analyzed by two reviewers and three spike-detection systems: (a) The rule-based system by Gotman, (b) a two-stage system consisting of a linear predictor and a second rule-based stage, and (c) a system using wavelet coefficients of the intracranial EEG data. RESULTS: Agreement between the two human reviewers with respect to spike identification was <50%. The automatic systems achieved agreements of 24% (Gotman), 26% (wavelet detector), and 32% (two-stage system) with the individual human reviewers. In spite of the small proportion of agreements, the same anatomic regions were identified by human and automatic EEG analysis as generators for the majority of spikes. CONCLUSIONS: The poor agreement between the human EEG reviewers suggests that the definition of spikes and spike-like episodes in intracranial electrodes is far from unequivocal. Nevertheless, localizing information is highly consistent by either visual or automatic spike detection, independent of the algorithm used for automatic spike detection.",
+     "FAU": [
+          "Dumpelmann, M",
+          "Elger, C E"
+     ],
+     "AU": [
+          "Dumpelmann M",
+          "Elger CE"
+     ],
+     "AD": "Department of Epileptology, University of Bonn, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Epilepsia",
+     "JT": "Epilepsia",
+     "JID": "2983306R",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Diagnosis, Computer-Assisted",
+          "Electrodes, Implanted",
+          "Electroencephalography/*methods/statistics & numerical data",
+          "Epilepsy/*diagnosis/physiopathology",
+          "Epilepsy, Temporal Lobe/diagnosis/physiopathology",
+          "Fourier Analysis",
+          "Functional Laterality/physiology",
+          "Hippocampus/physiopathology",
+          "Humans",
+          "Middle Aged",
+          "Random Allocation",
+          "Reproducibility of Results",
+          "Subdural Space"
+     ],
+     "EDAT": "1999/03/18 00:00",
+     "MHDA": "1999/03/18 00:01",
+     "CRDT": [
+          "1999/03/18 00:00"
+     ],
+     "PHST": [
+          "1999/03/18 00:00 [pubmed]",
+          "1999/03/18 00:01 [medline]",
+          "1999/03/18 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Epilepsia. 1999 Mar;40(3):275-85.",
+     "term": "hippocampus"
+}

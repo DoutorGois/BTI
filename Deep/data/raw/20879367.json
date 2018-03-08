@@ -1,0 +1,77 @@
+{
+     "PMID": "20879367",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101115",
+     "LR": "20171107",
+     "VI": "13",
+     "IP": "Pt 2",
+     "DP": "2010",
+     "TI": "Registration of longitudinal image sequences with implicit template and spatial-temporal heuristics.",
+     "PG": "618-25",
+     "AB": "Accurate measurement of longitudinal changes of anatomical structure is important and challenging in many clinical studies. Also, for identification of disease-affected regions due to the brain disease, it is extremely necessary to register a population data to the common space simultaneously. In this paper, we propose a new method for simultaneous longitudinal and groupwise registration of a set of longitudinal data acquired from multiple subjects. Our goal is to 1) consistently measure the longitudinal changes from a sequence of longitudinal data acquired from the same subject; and 2) jointly align all image data (acquired from all time points of all subjects) to a hidden common space. To achieve these two goals, we first introduce a set of temporal fiber bundles to explore the spatial-temporal behavior of anatomical changes in each longitudinal data of the same subject. Then, a probabilistic model is built upon the hidden state of spatial smoothness and temporal continuity on the fibers. Finally, the transformation fields that connect each time-point image of each subject to the common space are simultaneously estimated by the expectation maximization (EM) approach, via the maximum a posterior (MAP) estimation of probabilistic models. Promising results are obtained to quantitatively measure the longitudinal changes of hippocampus volume, indicating better performance of our method than the conventional pairwise methods.",
+     "FAU": [
+          "Wu, Guorong",
+          "Wang, Qian",
+          "Jia, Hongjun",
+          "Shen, Dinggang"
+     ],
+     "AU": [
+          "Wu G",
+          "Wang Q",
+          "Jia H",
+          "Shen D"
+     ],
+     "AD": "Department of Radiology and BRIC, University of North Carolina at Chapel Hill, USA. grwu@med.unc.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "RC1 MH088520-01/None/None",
+          "R01 EB008374/EB/NIBIB NIH HHS/United States",
+          "R01 EB006733/EB/NIBIB NIH HHS/United States",
+          "R01 EB009634/EB/NIBIB NIH HHS/United States",
+          "R01 EB009634-01A1/EB/NIBIB NIH HHS/United States",
+          "RC1 MH088520/MH/NIMH NIH HHS/United States",
+          "R01 EB008374-01A2/None/None"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Brain/*pathology",
+          "Data Interpretation, Statistical",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Longitudinal Studies",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "PMC": "PMC3021473",
+     "MID": [
+          "NIHMS217224"
+     ],
+     "EDAT": "2010/10/01 06:00",
+     "MHDA": "2010/11/16 06:00",
+     "CRDT": [
+          "2010/10/01 06:00"
+     ],
+     "PHST": [
+          "2010/10/01 06:00 [entrez]",
+          "2010/10/01 06:00 [pubmed]",
+          "2010/11/16 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2010;13(Pt 2):618-25.",
+     "term": "hippocampus"
+}

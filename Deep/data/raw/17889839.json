@@ -1,0 +1,67 @@
+{
+     "PMID": "17889839",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080814",
+     "LR": "20080324",
+     "IS": "0006-8993 (Print) 0006-8993 (Linking)",
+     "VI": "1202",
+     "DP": "2008 Apr 2",
+     "TI": "A neural network model of hippocampal-striatal-prefrontal interactions in contextual conditioning.",
+     "PG": "87-98",
+     "AB": "The hippocampus is thought to be critical for encoding contextually bound memories and setting the context for ongoing behavior. However, the mechanisms by which the hippocampal-cortical system controls behavior are poorly understood. We propose a computational model in which the hippocampus exerts contextual control over motivated behavior by gating prefrontal cortex inputs to the nucleus accumbens. The model integrates the episodic memory functions of the hippocampus, the prefrontal role in representing the motivational stimuli and cognitive control, and the role of striatal regions in conditioned learning within a single theoretical framework. Simulation results are consistent with the hypothesis that hippocampal-prefrontal interactions may act as the neural substrate that allows contextual cues to override conditioned responses at the level of the nucleus accumbens. Prefrontal and hippocampal input overrides the predominant CS-US association if the context is inconsistent, and promotes flexible selection of previously learned associations and behaviors. Simulated transection of the fornix, effectively eliminating hippocampal and prefrontal influence over the nucleus accumbens, abolishes normal contextual modulation of behavior. The model is consistent with a wide range of empirical data.",
+     "FAU": [
+          "Turnock, Matthew",
+          "Becker, Suzanna"
+     ],
+     "AU": [
+          "Turnock M",
+          "Becker S"
+     ],
+     "AD": "Department of Psychology, Neuroscience and Behaviour, McMaster University, Building 34, Room 312, 1280 Main Street West, Hamilton, Canada ON L8S 4K1.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20070726",
+     "PL": "Netherlands",
+     "TA": "Brain Res",
+     "JT": "Brain research",
+     "JID": "0045503",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Conditioning (Psychology)/*physiology",
+          "Cues",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Learning/physiology",
+          "Memory/physiology",
+          "Nerve Net/*physiology",
+          "*Neural Networks (Computer)",
+          "Nucleus Accumbens/*physiology",
+          "Prefrontal Cortex/*physiology"
+     ],
+     "EDAT": "2007/09/25 09:00",
+     "MHDA": "2008/08/15 09:00",
+     "CRDT": [
+          "2007/09/25 09:00"
+     ],
+     "PHST": [
+          "2007/05/21 00:00 [received]",
+          "2007/06/20 00:00 [accepted]",
+          "2007/09/25 09:00 [pubmed]",
+          "2008/08/15 09:00 [medline]",
+          "2007/09/25 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0006-8993(07)01442-4 [pii]",
+          "10.1016/j.brainres.2007.06.078 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Res. 2008 Apr 2;1202:87-98. doi: 10.1016/j.brainres.2007.06.078. Epub 2007 Jul 26.",
+     "term": "hippocampus"
+}

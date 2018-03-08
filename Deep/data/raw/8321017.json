@@ -1,0 +1,75 @@
+{
+     "PMID": "8321017",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19930730",
+     "LR": "20041117",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "47",
+     "IP": "1-2",
+     "DP": "1993 Apr",
+     "TI": "In situ hybridization histochemistry quantification: automatic count on single cell in digital image.",
+     "PG": "93-103",
+     "AB": "It is extremely useful in investigations of the central nervous system (CNS) to measure mRNA expression in cells by in situ hybridization. However, this approach is limited by the difficulties of a reliable quantitative evaluation. In the present paper we describe a method for quantifying radioactive hybrids on individual cells by a silver grain count in digital images. Quantification is based on the real size and grey level of a single grain obtained by computerized microscope image analysis (IBAS 2, Kontron-Zeiss, PC 286). The program provides for automatic identification of cell area, the portion occupied by grains and their grey level. The number of grains per cell results from a mathematical function integrating these parameters with a 'density factor'. This factor is introduced to better estimate the number of grains when there is overlapping. The method was tested by measuring the expression of preproNPY (pp-NPY) mRNA in rat dentate gyrus and preproSomatostatin (pp-SOM) mRNA in frontal cerebral cortex of control and colchicine-treated rats. Colchicine did not modify the number of pp-SOM mRNA-positive cells but reduced the expression per cell. These results confirm the advantages of our method to quantify a wide range of silver grains (10-5000) and improves the sensitivity of in situ hybridization. With this support the in situ hybridization technique could be considered a real quantitative method for measuring small alterations in neuronal function.",
+     "FAU": [
+          "Masseroli, M",
+          "Bollea, A",
+          "Bendotti, C",
+          "Forloni, G"
+     ],
+     "AU": [
+          "Masseroli M",
+          "Bollea A",
+          "Bendotti C",
+          "Forloni G"
+     ],
+     "AD": "Department of Geriatric Neuropsychiatry, Istituto di Ricerche Farmacologiche Mario Negri, Milan, Italy.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Nerve Tissue Proteins)",
+          "0 (Neuropeptide Y)",
+          "0 (RNA, Messenger)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Analog-Digital Conversion",
+          "Animals",
+          "Cell Size",
+          "Densitometry",
+          "Gene Expression",
+          "Hippocampus/chemistry/cytology",
+          "*Image Processing, Computer-Assisted",
+          "*In Situ Hybridization",
+          "Male",
+          "Nerve Tissue Proteins/biosynthesis/genetics",
+          "Neuropeptide Y/biosynthesis/genetics",
+          "RNA, Messenger/*analysis/genetics",
+          "Rats",
+          "Software"
+     ],
+     "EDAT": "1993/04/01 00:00",
+     "MHDA": "1993/04/01 00:01",
+     "CRDT": [
+          "1993/04/01 00:00"
+     ],
+     "PHST": [
+          "1993/04/01 00:00 [pubmed]",
+          "1993/04/01 00:01 [medline]",
+          "1993/04/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "0165-0270(93)90025-M [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 1993 Apr;47(1-2):93-103.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,104 @@
+{
+     "PMID": "26923370",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180123",
+     "LR": "20180226",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "132",
+     "DP": "2016 May 15",
+     "TI": "Removing inter-subject technical variability in magnetic resonance imaging studies.",
+     "PG": "198-212",
+     "LID": "S1053-8119(16)00145-2 [pii] 10.1016/j.neuroimage.2016.02.036 [doi]",
+     "AB": "Magnetic resonance imaging (MRI) intensities are acquired in arbitrary units, making scans non-comparable across sites and between subjects. Intensity normalization is a first step for the improvement of comparability of the images across subjects. However, we show that unwanted inter-scan variability associated with imaging site, scanner effect, and other technical artifacts is still present after standard intensity normalization in large multi-site neuroimaging studies. We propose RAVEL (Removal of Artificial Voxel Effect by Linear regression), a tool to remove residual technical variability after intensity normalization. As proposed by SVA and RUV [Leek and Storey, 2007, 2008, Gagnon-Bartsch and Speed, 2012], two batch effect correction tools largely used in genomics, we decompose the voxel intensities of images registered to a template into a biological component and an unwanted variation component. The unwanted variation component is estimated from a control region obtained from the cerebrospinal fluid (CSF), where intensities are known to be unassociated with disease status and other clinical covariates. We perform a singular value decomposition (SVD) of the control voxels to estimate factors of unwanted variation. We then estimate the unwanted factors using linear regression for every voxel of the brain and take the residuals as the RAVEL-corrected intensities. We assess the performance of RAVEL using T1-weighted (T1-w) images from more than 900 subjects with Alzheimer's disease (AD) and mild cognitive impairment (MCI), as well as healthy controls from the Alzheimer's Disease Neuroimaging Initiative (ADNI) database. We compare RAVEL to two intensity-normalization-only methods: histogram matching and White Stripe. We show that RAVEL performs best at improving the replicability of the brain regions that are empirically found to be most associated with AD, and that these regions are significantly more present in structures impacted by AD (hippocampus, amygdala, parahippocampal gyrus, enthorinal area, and fornix stria terminals). In addition, we show that the RAVEL-corrected intensities have the best performance in distinguishing between MCI subjects and healthy subjects using the mean hippocampal intensity (AUC=67%), a marked improvement compared to results from intensity normalization alone (AUC=63% and 59% for histogram matching and White Stripe, respectively). RAVEL is promising for many other imaging modalities.",
+     "CI": [
+          "Published by Elsevier Inc."
+     ],
+     "FAU": [
+          "Fortin, Jean-Philippe",
+          "Sweeney, Elizabeth M",
+          "Muschelli, John",
+          "Crainiceanu, Ciprian M",
+          "Shinohara, Russell T"
+     ],
+     "AU": [
+          "Fortin JP",
+          "Sweeney EM",
+          "Muschelli J",
+          "Crainiceanu CM",
+          "Shinohara RT"
+     ],
+     "AD": "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA. Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA. Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA. Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA. Department of Biostatistics and Epidemiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA. Electronic address: rshi@upenn.edu.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB017255/EB/NIBIB NIH HHS/United States",
+          "R01 NS085211/NS/NINDS NIH HHS/United States",
+          "R21 NS093349/NS/NINDS NIH HHS/United States",
+          "T32 AG000247/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20160223",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Alzheimer Disease/diagnostic imaging/pathology",
+          "Artifacts",
+          "Brain/*anatomy & histology/pathology",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Linear Models",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Neuroimaging/*methods",
+          "ROC Curve",
+          "Reproducibility of Results",
+          "Signal Processing, Computer-Assisted"
+     ],
+     "PMC": "PMC5540379",
+     "MID": [
+          "NIHMS879283"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*ADNI",
+          "*Alzheimer's disease",
+          "*MRI",
+          "*Normalization",
+          "*Scan effect"
+     ],
+     "EDAT": "2016/03/01 06:00",
+     "MHDA": "2018/01/24 06:00",
+     "CRDT": [
+          "2016/03/01 06:00"
+     ],
+     "PHST": [
+          "2015/10/30 00:00 [received]",
+          "2016/01/30 00:00 [revised]",
+          "2016/02/12 00:00 [accepted]",
+          "2016/03/01 06:00 [entrez]",
+          "2016/03/01 06:00 [pubmed]",
+          "2018/01/24 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(16)00145-2 [pii]",
+          "10.1016/j.neuroimage.2016.02.036 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2016 May 15;132:198-212. doi: 10.1016/j.neuroimage.2016.02.036. Epub 2016 Feb 23.",
+     "term": "hippocampus"
+}

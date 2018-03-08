@@ -1,0 +1,65 @@
+{
+     "PMID": "25389238",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151209",
+     "LR": "20161125",
+     "IS": "1558-2531 (Electronic) 0018-9294 (Linking)",
+     "VI": "62",
+     "IP": "4",
+     "DP": "2015 Apr",
+     "TI": "An automated statistical shape model developmental pipeline: application to the human scapula and humerus.",
+     "PG": "1098-107",
+     "LID": "10.1109/TBME.2014.2368362 [doi]",
+     "AB": "This paper presents development of statistical shape models based on robust and rigid-groupwise registration followed by pointset nonrigid registration. The main advantages of the pipeline include automation in that the method does not rely on manual landmarks or a regionalization step; there is no bias in the choice of reference during the correspondence steps and the use of the probabilistic principal component analysis framework increases the domain of the shape variability. A comparison between the widely used expectation maximization-iterative closest point algorithm and a recently reported groupwise method on publicly available data (hippocampus) using the well-known criteria of generality, specificity, and compactness is also presented. The proposed method gives similar values but the curves of generality and specificity are superior to those of the other two methods. Finally, the method is applied to the human scapula, which is a known difficult structure, and the human humerus.",
+     "FAU": [
+          "Mutsvangwa, Tinashe",
+          "Burdin, Valerie",
+          "Schwartz, Cedric",
+          "Roux, Christian"
+     ],
+     "AU": [
+          "Mutsvangwa T",
+          "Burdin V",
+          "Schwartz C",
+          "Roux C"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20141106",
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "SB": "IM",
+     "MH": [
+          "Humans",
+          "Humerus/*anatomy & histology/diagnostic imaging",
+          "Imaging, Three-Dimensional/*methods",
+          "Models, Biological",
+          "Principal Component Analysis",
+          "Scapula/*anatomy & histology/diagnostic imaging",
+          "Tomography, X-Ray Computed"
+     ],
+     "EDAT": "2014/11/13 06:00",
+     "MHDA": "2015/12/15 06:00",
+     "CRDT": [
+          "2014/11/13 06:00"
+     ],
+     "PHST": [
+          "2014/11/13 06:00 [entrez]",
+          "2014/11/13 06:00 [pubmed]",
+          "2015/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TBME.2014.2368362 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 2015 Apr;62(4):1098-107. doi: 10.1109/TBME.2014.2368362. Epub 2014 Nov 6.",
+     "term": "hippocampus"
+}

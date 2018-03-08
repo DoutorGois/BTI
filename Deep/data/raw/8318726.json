@@ -1,0 +1,77 @@
+{
+     "PMID": "8318726",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19930805",
+     "LR": "20101118",
+     "IS": "1059-910X (Print) 1059-910X (Linking)",
+     "VI": "24",
+     "IP": "5",
+     "DP": "1993 Apr 1",
+     "TI": "Developments in three-dimensional stereo brightfield microscopy.",
+     "PG": "437-51",
+     "AB": "We present recent developments of a widefield computer/microscope system and image reconstruction algorithm for producing three-dimensional (3D) increased depth of field images in the form of brightfield stereo pairs of thick specimens. The theoretical principle of this image reconstruction technique is based on Weiner-type inverse filtering. A number of extensions and refinements to our previous work have included further testing of the system with a broader class of specimens and the implementation of several pragmatic refinements important for future 3D microscopy systems. These refinements include histogram modification routines for improving visualization, a preprocessing routine to eliminate edge artifacts due to circular convolution and other effects, stereo viewing angle optimization, a rule of thumb estimate for the axial sampling rate, and incorporation of a variation of the Fast Fourier Transform and filtering operations that significantly reduce computational time. Images of spyrogyra, neonatal rat hippocampal neurons, and cervical/vaginal cell smears are presented to show the utility of these methods for 3D visualization. The primary advantages of these methods are that they operate with an ordinary transmitted light microscope and are inexpensively implemented on a personal computer with reasonable computation time.",
+     "FAU": [
+          "Willis, B",
+          "Turner, J N",
+          "Collins, D N",
+          "Roysam, B",
+          "Holmes, T J"
+     ],
+     "AU": [
+          "Willis B",
+          "Turner JN",
+          "Collins DN",
+          "Roysam B",
+          "Holmes TJ"
+     ],
+     "AD": "Department of Biomedical Engineering, Rensselaer Polytechnic Institute, Troy, New York 12180-3590.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "08R5RR06904/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+     ],
+     "PL": "United States",
+     "TA": "Microsc Res Tech",
+     "JT": "Microscopy research and technique",
+     "JID": "9203012",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Cervix Uteri/cytology",
+          "Eukaryota/cytology",
+          "Female",
+          "Fourier Analysis",
+          "Hippocampus/cytology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Microscopy/instrumentation/*methods",
+          "Neurons/cytology"
+     ],
+     "RF": "37",
+     "EDAT": "1993/04/01 00:00",
+     "MHDA": "1993/04/01 00:01",
+     "CRDT": [
+          "1993/04/01 00:00"
+     ],
+     "PHST": [
+          "1993/04/01 00:00 [pubmed]",
+          "1993/04/01 00:01 [medline]",
+          "1993/04/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/jemt.1070240509 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Microsc Res Tech. 1993 Apr 1;24(5):437-51. doi: 10.1002/jemt.1070240509.",
+     "term": "hippocampus"
+}

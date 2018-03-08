@@ -1,0 +1,66 @@
+{
+     "PMID": "23596411",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130419",
+     "LR": "20170220",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "7",
+     "DP": "2013",
+     "TI": "Toggling between gamma-frequency activity and suppression of cell assemblies.",
+     "PG": "33",
+     "LID": "10.3389/fncom.2013.00033 [doi]",
+     "AB": "Gamma (30-80 Hz) rhythms in hippocampus and neocortex resulting from the interaction of excitatory and inhibitory cells (E- and I-cells), called Pyramidal-Interneuronal Network Gamma (PING), require that the I-cells respond to the E-cells, but don't fire on their own. In idealized models, there is a sharp boundary between a parameter regime where the I-cells have weak-enough drive for PING, and one where they have so much drive that they fire without being prompted by the E-cells. In the latter regime, they often de-synchronize and suppress the E-cells; the boundary was therefore called the \"suppression boundary\" by Borgers and Kopell (2005). The model I-cells used in the earlier work by Borgers and Kopell have a \"type 1\" phase response, i.e., excitatory input always advances them. However, fast-spiking inhibitory basket cells often have a \"type 2\" phase response: Excitatory input arriving soon after they fire delays them. We study the effect of the phase response type on the suppression transition, under the additional assumption that the I-cells are kept synchronous by gap junctions. When many E-cells participate on a given cycle, the resulting excitation advances the I-cells on the next cycle if their phase response is of type 1, and this can result in suppression of more E-cells on the next cycle. Therefore, strong E-cell spike volleys tend to be followed by weaker ones, and vice versa. This often results in erratic fluctuations in the strengths of the E-cell spike volleys. When the phase response of the I-cells is of type 2, the opposite happens: strong E-cell spike volleys delay the inhibition on the next cycle, therefore tend to be followed by yet stronger ones. The strengths of the E-cell spike volleys don't oscillate, and there is a nearly abrupt transition from PING to ING (a rhythm involving I-cells only).",
+     "FAU": [
+          "Borgers, Christoph",
+          "Walker, Bryan"
+     ],
+     "AU": [
+          "Borgers C",
+          "Walker B"
+     ],
+     "AD": "Department of Mathematics, Tufts University Medford, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS067199/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130416",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC3627140",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "attentional selection",
+          "cell assembly",
+          "feedback inhibtion",
+          "gamma oscillation",
+          "type 2 neuron"
+     ],
+     "EDAT": "2013/04/19 06:00",
+     "MHDA": "2013/04/19 06:01",
+     "CRDT": [
+          "2013/04/19 06:00"
+     ],
+     "PHST": [
+          "2012/12/19 00:00 [received]",
+          "2013/03/25 00:00 [accepted]",
+          "2013/04/19 06:00 [entrez]",
+          "2013/04/19 06:00 [pubmed]",
+          "2013/04/19 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2013.00033 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2013 Apr 16;7:33. doi: 10.3389/fncom.2013.00033. eCollection 2013.",
+     "term": "hippocampus"
+}

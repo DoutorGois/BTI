@@ -1,0 +1,75 @@
+{
+     "PMID": "16108010",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20051215",
+     "LR": "20061115",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "15",
+     "IP": "7",
+     "DP": "2005",
+     "TI": "Theta oscillation-coupled dendritic spiking integrates inputs on a long time scale.",
+     "PG": "950-62",
+     "AB": "Persistent neural activity lasting for seconds after transient stimulation has been observed in several brain areas. This activity has been taken to be indicative of the integration of inputs on long time scales. Passive membrane properties render neural time constants to be on the order of milliseconds. Intense synaptic bombardment, characteristic of in vivo states, was previously shown to further reduce the time scale of effective integration. We explored how long-term integration in single cells could be supported by dendritic spikes coupled with the theta oscillation, a prominent brain rhythm often observed during working memory tasks. We used a two-compartmental conductance-based model of a hippocampal pyramidal cell to study the interplay of intrinsic dynamics with periodic inputs in the theta frequency band. We show that periodic dendritic spiking integrates inputs by shifting the phase relative to an external oscillation, since spiking frequency is quasi-linearly modulated by current injection. The time-constant of this integration process is practically infinite for input intensities above a threshold (the integration threshold) and can be still several hundred milliseconds long below the integration threshold. The somatic compartment received theta frequency stimulation in antiphase with the dendritic oscillation. Consequently, dendritic spikes could only elicit somatic action potentials when they were sufficiently phase-shifted and thus coincided with somatic depolarization. Somatic depolarization modulated the frequency but not the phase of firing, endowing the cell with the capability to code for two different variables at the same time. Inputs to the dendrite shifted the phase of dendritic spiking, while somatic input was modulating its firing rate. This mechanism resulted in firing patterns that closely matched experimental data from hippocampal place cells of freely behaving rats. We discuss the plausibility of our proposed mechanism and its potential to account for the firing pattern of cells outside the hippocampus during working memory tasks.",
+     "CI": [
+          "Copyright 2005 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Huhn, Zsofia",
+          "Orban, Gergo",
+          "Erdi, Peter",
+          "Lengyel, Mate"
+     ],
+     "AU": [
+          "Huhn Z",
+          "Orban G",
+          "Erdi P",
+          "Lengyel M"
+     ],
+     "AD": "Biophysics Department, KFKI Research Institute for Particle and Nuclear Physics, Hungarian Academy of Sciences, Budapest.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Biological Clocks",
+          "Dendrites/*physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Memory, Short-Term/physiology",
+          "Neural Networks (Computer)",
+          "Pyramidal Cells/*physiology",
+          "Rats",
+          "Reaction Time/physiology",
+          "Synaptic Transmission/physiology",
+          "*Theta Rhythm",
+          "Time Factors"
+     ],
+     "EDAT": "2005/08/19 09:00",
+     "MHDA": "2005/12/16 09:00",
+     "CRDT": [
+          "2005/08/19 09:00"
+     ],
+     "PHST": [
+          "2005/08/19 09:00 [pubmed]",
+          "2005/12/16 09:00 [medline]",
+          "2005/08/19 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.20112 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2005;15(7):950-62. doi: 10.1002/hipo.20112.",
+     "term": "place cells"
+}

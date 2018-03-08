@@ -1,0 +1,77 @@
+{
+     "PMID": "22285219",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120629",
+     "LR": "20170922",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "60",
+     "IP": "2",
+     "DP": "2012 Apr 2",
+     "TI": "Multiple sensitivity profiles to diversity and transition structure in non-stationary input.",
+     "PG": "991-1005",
+     "LID": "10.1016/j.neuroimage.2012.01.041 [doi]",
+     "AB": "Recent formalizations suggest that the human brain codes for the degree of order in the environment and utilizes this knowledge to optimize perception and performance in the immediate future. However, the neural bases of how the brain spontaneously codes for order are poorly understood. It has been shown that activity in lateral temporal cortex and the hippocampus is linearly correlated with the order of short visual series under tasks requiring attention to the input and when series order is invariant over time. Here, we examined if sensitivity to order is manifested in both linear and non-linear BOLD response profiles, quantified the degree to which order-sensitive regions operate as a functional network, and evaluated these questions using a paradigm in which performance of the ongoing task could be completed without any attention to the stimulus whose order was manipulated. Participants listened to a 10-minute sequence of tones characterized by non-stationary order, and fMRI identified cortical regions sensitive to time-varying statistical features of this input. Activity in perisylvian regions was negatively correlated with input diversity, quantified via Shannon's Entropy. Activity in ventral premotor, lateral temporal, and insular regions was correlated linearly, parabolically, or via a step-function with the strength of transition constraints in the series, quantified via Markov Entropy. Granger-causality analysis revealed that order-sensitive regions form a functional network, with regions showing non-linear responses to order associated with more afferent connectivity than those showing linear responses. These findings identify networks that spontaneously code and respond to diverse aspects of order via multiple response profiles, and that play a central role in generating and gating predictive neural activity.",
+     "CI": [
+          "Copyright A(c) 2012 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Tobia, Michael J",
+          "Iacovella, Vittorio",
+          "Hasson, Uri"
+     ],
+     "AU": [
+          "Tobia MJ",
+          "Iacovella V",
+          "Hasson U"
+     ],
+     "AD": "Center for Mind/Brain Sciences (CIMeC), The University of Trento, Italy.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "263318/European Research Council/International"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120112",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Cerebral Cortex/*physiology",
+          "Female",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Markov Chains",
+          "Mental Processes/*physiology",
+          "Uncertainty"
+     ],
+     "EDAT": "2012/01/31 06:00",
+     "MHDA": "2012/06/30 06:00",
+     "CRDT": [
+          "2012/01/31 06:00"
+     ],
+     "PHST": [
+          "2011/10/17 00:00 [received]",
+          "2011/12/09 00:00 [revised]",
+          "2012/01/04 00:00 [accepted]",
+          "2012/01/31 06:00 [entrez]",
+          "2012/01/31 06:00 [pubmed]",
+          "2012/06/30 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(12)00058-4 [pii]",
+          "10.1016/j.neuroimage.2012.01.041 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2012 Apr 2;60(2):991-1005. doi: 10.1016/j.neuroimage.2012.01.041. Epub 2012 Jan 12.",
+     "term": "hippocampus"
+}

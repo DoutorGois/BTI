@@ -1,0 +1,70 @@
+{
+     "PMID": "10946990",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20001222",
+     "LR": "20171021",
+     "IS": "0929-5313 (Print) 0929-5313 (Linking)",
+     "VI": "9",
+     "IP": "1",
+     "DP": "2000 Jul-Aug",
+     "TI": "A temporal mechanism for generating the phase precession of hippocampal place cells.",
+     "PG": "5-30",
+     "AB": "The phase relationship between the activity of hippocampal place cells and the hippocampal theta rhythm systematically processes as the animal runs through the region in an environment called the place field of the cell. We present a minimal biophysical model of the phase precession of place cells in region CA3 of the hippocampus. The model describes the dynamics of two coupled point neurons--namely, a pyramidal cell and an interneuron, the latter of which is driven by a pacemaker input. Outside of the place field, the network displays a stable, background firing pattern that is locked to the theta rhythm. The pacemaker input drives the interneuron, which in turn activates the pyramidal cell. A single stimulus to the pyramidal cell from the dentate gyrus, simulating entrance into the place field, reorganizes the functional roles of the cells in the network for a number of cycles of the theta rhythm. In the reorganized network, the pyramidal cell drives the interneuron at a higher frequency than the theta frequency, thus causing a systematic precession relative to the theta input. The frequency of the pyramidal cell can vary to account for changes in the animal's running speed. The transient dynamics end after up to 360 degrees of phase precession when the pacemaker input to the interneuron occurs at a phase to return the network to the stable background firing pattern, thus signaling the end of the place field. Our model, in contrast to others, reports that phase precession is a temporally, and not spatially, controlled process. We also predict that like pyramidal cells, interneurons phase precess. Our model provides a mechanism for shutting off place cell firing after the animal has crossed the place field, and it explains the observed nearly 360 degrees of phase precession. We also describe how this model is consistent with a proposed autoassociative memory role of the CA3 region.",
+     "FAU": [
+          "Bose, A",
+          "Booth, V",
+          "Recce, M"
+     ],
+     "AU": [
+          "Bose A",
+          "Booth V",
+          "Recce M"
+     ],
+     "AD": "Department of Mathematical Sciences, Center for Applied Mathematics and Statistics, New Jersey Institute of Technology, Newark 07102-1982, USA. bose@nimbu.njit.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Biological Clocks/physiology",
+          "Hippocampus/cytology/*physiology",
+          "Humans",
+          "Interneurons/cytology/physiology",
+          "Memory/physiology",
+          "Models, Neurological",
+          "Motor Activity/physiology",
+          "Nerve Net/cytology/*physiology",
+          "Neural Inhibition/physiology",
+          "Neural Pathways/cytology/*physiology",
+          "Neurons/cytology/*physiology",
+          "Pyramidal Cells/cytology/physiology",
+          "Space Perception/physiology",
+          "Theta Rhythm",
+          "Time Factors"
+     ],
+     "EDAT": "2000/08/18 11:00",
+     "MHDA": "2001/02/28 10:01",
+     "CRDT": [
+          "2000/08/18 11:00"
+     ],
+     "PHST": [
+          "2000/08/18 11:00 [pubmed]",
+          "2001/02/28 10:01 [medline]",
+          "2000/08/18 11:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2000 Jul-Aug;9(1):5-30.",
+     "term": "place cells"
+}

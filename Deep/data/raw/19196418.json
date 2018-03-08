@@ -1,0 +1,79 @@
+{
+     "PMID": "19196418",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090227",
+     "LR": "20170220",
+     "IS": "1365-2818 (Electronic) 0022-2720 (Linking)",
+     "VI": "233",
+     "IP": "1",
+     "DP": "2009 Jan",
+     "TI": "Automated identification of neurons in 3D confocal datasets from zebrafish brainstem.",
+     "PG": "114-31",
+     "LID": "10.1111/j.1365-2818.2008.03102.x [doi]",
+     "AB": "Many kinds of neuroscience data are being acquired regarding the dynamic behaviour and phenotypic diversity of nerve cells. But as the size, complexity and numbers of 3D neuroanatomical datasets grow ever larger, the need for automated detection and analysis of individual neurons takes on greater importance. We describe here a method that detects and identifies neurons within confocal image stacks acquired from the zebrafish brainstem. The first step is to create a template that incorporates the location of all known neurons within a population - in this case the population of reticulospinal cells. Once created, the template is used in conjunction with a sequence of algorithms to determine the 3D location and identity of all fluorescent neurons in each confocal dataset. After an image registration step, neurons are segmented within the confocal image stack and subsequently localized to specific locations within the brainstem template - in many instances identifying neurons as specific, individual reticulospinal cells. This image-processing sequence is fully automated except for the initial selection of three registration points on a maximum projection image. In analysing confocal image stacks that ranged considerably in image quality, we found that this method correctly identified on average approximately 80% of the neurons (if we assume that manual detection by experts constitutes 'ground truth'). Because this identification can be generated approximately 100 times faster than manual identification, it offers a considerable time savings for the investigation of zebrafish reticulospinal neurons. In addition to its cell identification function, this protocol might also be integrated with stereological techniques to enhance quantification of neurons in larger databases. Our focus has been on zebrafish brainstem systems, but the methods described should be applicable to diverse neural architectures including retina, hippocampus and cerebral cortex.",
+     "FAU": [
+          "Kamali, M",
+          "Day, L J",
+          "Brooks, D H",
+          "Zhou, X",
+          "O'Malley, D M"
+     ],
+     "AU": [
+          "Kamali M",
+          "Day LJ",
+          "Brooks DH",
+          "Zhou X",
+          "O'Malley DM"
+     ],
+     "AD": "Department of Electrical and Computer Engineering, Boston, Massachusetts, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 RR012553-07/RR/NCRR NIH HHS/United States",
+          "1-P41-RR12553-7/RR/NCRR NIH HHS/United States",
+          "P41 RR012553/RR/NCRR NIH HHS/United States",
+          "P41 GM103545/GM/NIGMS NIH HHS/United States",
+          "P41 RR012553-05/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "England",
+     "TA": "J Microsc",
+     "JT": "Journal of microscopy",
+     "JID": "0204522",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Automation",
+          "Brain Stem/*cytology",
+          "Imaging, Three-Dimensional/*methods",
+          "Microscopy, Confocal/*methods",
+          "Neurons/*cytology",
+          "*Zebrafish"
+     ],
+     "PMC": "PMC2798854",
+     "MID": [
+          "NIHMS157547"
+     ],
+     "EDAT": "2009/02/07 09:00",
+     "MHDA": "2009/02/28 09:00",
+     "CRDT": [
+          "2009/02/07 09:00"
+     ],
+     "PHST": [
+          "2009/02/07 09:00 [entrez]",
+          "2009/02/07 09:00 [pubmed]",
+          "2009/02/28 09:00 [medline]"
+     ],
+     "AID": [
+          "JMI3102 [pii]",
+          "10.1111/j.1365-2818.2008.03102.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Microsc. 2009 Jan;233(1):114-31. doi: 10.1111/j.1365-2818.2008.03102.x.",
+     "term": "hippocampus"
+}

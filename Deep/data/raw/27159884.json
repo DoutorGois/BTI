@@ -1,0 +1,93 @@
+{
+     "PMID": "27159884",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170320",
+     "LR": "20170320",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "12",
+     "IP": "5",
+     "DP": "2016 May",
+     "TI": "High-Degree Neurons Feed Cortical Computations.",
+     "PG": "e1004858",
+     "LID": "10.1371/journal.pcbi.1004858 [doi]",
+     "AB": "Recent work has shown that functional connectivity among cortical neurons is highly varied, with a small percentage of neurons having many more connections than others. Also, recent theoretical developments now make it possible to quantify how neurons modify information from the connections they receive. Therefore, it is now possible to investigate how information modification, or computation, depends on the number of connections a neuron receives (in-degree) or sends out (out-degree). To do this, we recorded the simultaneous spiking activity of hundreds of neurons in cortico-hippocampal slice cultures using a high-density 512-electrode array. This preparation and recording method combination produced large numbers of neurons recorded at temporal and spatial resolutions that are not currently available in any in vivo recording system. We utilized transfer entropy (a well-established method for detecting linear and nonlinear interactions in time series) and the partial information decomposition (a powerful, recently developed tool for dissecting multivariate information processing into distinct parts) to quantify computation between neurons where information flows converged. We found that computations did not occur equally in all neurons throughout the networks. Surprisingly, neurons that computed large amounts of information tended to receive connections from high out-degree neurons. However, the in-degree of a neuron was not related to the amount of information it computed. To gain insight into these findings, we developed a simple feedforward network model. We found that a degree-modified Hebbian wiring rule best reproduced the pattern of computation and degree correlation results seen in the real data. Interestingly, this rule also maximized signal propagation in the presence of network-wide correlations, suggesting a mechanism by which cortex could deal with common random background input. These are the first results to show that the extent to which a neuron modifies incoming information streams depends on its topological location in the surrounding functional network.",
+     "FAU": [
+          "Timme, Nicholas M",
+          "Ito, Shinya",
+          "Myroshnychenko, Maxym",
+          "Nigam, Sunny",
+          "Shimono, Masanori",
+          "Yeh, Fang-Chin",
+          "Hottowy, Pawel",
+          "Litke, Alan M",
+          "Beggs, John M"
+     ],
+     "AU": [
+          "Timme NM",
+          "Ito S",
+          "Myroshnychenko M",
+          "Nigam S",
+          "Shimono M",
+          "Yeh FC",
+          "Hottowy P",
+          "Litke AM",
+          "Beggs JM"
+     ],
+     "AD": "Department of Physics, Indiana University, Bloomington, Indiana, United States of America. Santa Cruz Institute for Particle Physics, University of California at Santa Cruz, Santa Cruz, California, United States of America. Program in Neuroscience, Indiana University, Bloomington, Indiana, United States of America. Department of Physics, Indiana University, Bloomington, Indiana, United States of America. MGH/HST Athinoula A. Martinos Center, Harvard Medical School, Charlestown, Massachusetts, United States of America. Department of Neuroscience and Behavioral Disorders, Duke-NUS Graduate Medical School, Singapore. Physics and Applied Computer Science, AGH University of Science and Technology, Krakow, Poland. Santa Cruz Institute for Particle Physics, University of California at Santa Cruz, Santa Cruz, California, United States of America. Department of Physics, Indiana University, Bloomington, Indiana, United States of America.",
+     "AUID": [
+          "ORCID: 0000-0001-7790-257X",
+          "ORCID: 0000-0003-1559-5556",
+          "ORCID: 0000-0002-7592-2195"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20160509",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "Cerebral Cortex/cytology/*physiology",
+          "Computational Biology",
+          "Feedback, Physiological",
+          "Hippocampus/cytology/physiology",
+          "Information Theory",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "*Models, Neurological",
+          "Multivariate Analysis",
+          "Nerve Net/cytology/physiology",
+          "Neurons/*physiology",
+          "Synaptic Transmission/*physiology"
+     ],
+     "PMC": "PMC4861348",
+     "EDAT": "2016/05/10 06:00",
+     "MHDA": "2017/03/21 06:00",
+     "CRDT": [
+          "2016/05/10 06:00"
+     ],
+     "PHST": [
+          "2015/07/10 00:00 [received]",
+          "2016/03/07 00:00 [accepted]",
+          "2016/05/10 06:00 [entrez]",
+          "2016/05/10 06:00 [pubmed]",
+          "2017/03/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1004858 [doi]",
+          "PCOMPBIOL-D-15-01149 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2016 May 9;12(5):e1004858. doi: 10.1371/journal.pcbi.1004858. eCollection 2016 May.",
+     "term": "hippocampus"
+}

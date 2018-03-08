@@ -1,0 +1,105 @@
+{
+     "PMID": "27567809",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180126",
+     "LR": "20180131",
+     "IS": "1875-8908 (Electronic) 1387-2877 (Linking)",
+     "VI": "54",
+     "IP": "3",
+     "DP": "2016 Oct 4",
+     "TI": "Clinical Application of Automatic Segmentation of Medial Temporal Lobe Subregions in Prodromal and Dementia-Level Alzheimer's Disease.",
+     "PG": "1027-1037",
+     "AB": "BACKGROUND: Volumetry of medial temporal lobe (MTL) structures to diagnose Alzheimer's disease (AD) in its earliest symptomatic stage could be of great importance for interventions or disease modifying pharmacotherapy. OBJECTIVE: This study aimed to demonstrate the first application of an automatic segmentation method of MTL subregions in a clinical population. Automatic segmentation of magnetic resonance images (MRIs) in a research population has previously been shown to detect evidence of neurodegeneration in MTL subregions and to help discriminate AD and mild cognitive impairment (MCI) from a healthy comparison group. METHODS: Clinical patients were selected and T2-weighted MRI scan quality was checked. An automatic segmentation method of hippocampal subfields (ASHS) was applied to scans of 67 AD patients, 38 amnestic MCI patients, and 57 healthy controls. Hippocampal subfields, entorhinal cortex (ERC), and perirhinal cortex were automatically labeled and subregion volumes were compared between groups. RESULTS: One fourth of all scans were excluded due to bad scan quality. There were significant volume reductions in all subregions, except BA36, in aMCIs (p < 0.001), most prominently in Cornu Ammonis 1 (CA1) and ERC, and in all subregions in AD. However, sensitivity of CA1 and ERC hardly differed from sensitivity of WH in aMCI and AD. CONCLUSION: Applying automatic segmentation of MTL subregions in a clinical setting as a potential biomarker for prodromal AD is feasible, but issues of image quality due to motion remain to be addressed. CA1 and ERC provided strongest group discrimination in differentiating aMCIs from controls, but discriminatory power of different subfields was low overall.",
+     "FAU": [
+          "Gertje, Eske Christiane",
+          "Pluta, John",
+          "Das, Sandhitsu",
+          "Mancuso, Lauren",
+          "Kliot, Dasha",
+          "Yushkevich, Paul",
+          "Wolk, David"
+     ],
+     "AU": [
+          "Gertje EC",
+          "Pluta J",
+          "Das S",
+          "Mancuso L",
+          "Kliot D",
+          "Yushkevich P",
+          "Wolk D"
+     ],
+     "AD": "Department of Internal Medicine, Skane University Hospital, Lund, Sweden. Department of Neurology, University of Oldenburg, Oldenburg, Germany. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, USA. Penn Memory Center, Department of Neurology, University of Pennsylvania, Philadelphia, USA. Penn Memory Center, Department of Neurology, University of Pennsylvania, Philadelphia, USA. Penn Memory Center, Department of Neurology, University of Pennsylvania, Philadelphia, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, USA. Penn Memory Center, Department of Neurology, University of Pennsylvania, Philadelphia, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K23 AG028018/AG/NIA NIH HHS/United States",
+          "P30 AG010124/AG/NIA NIH HHS/United States",
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "R01 EB017255/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Alzheimers Dis",
+     "JT": "Journal of Alzheimer's disease : JAD",
+     "JID": "9814863",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*diagnostic imaging/psychology",
+          "Cognitive Dysfunction/*diagnostic imaging/psychology",
+          "Cohort Studies",
+          "Dementia/diagnostic imaging/psychology",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "*Prodromal Symptoms",
+          "Temporal Lobe/*diagnostic imaging"
+     ],
+     "PMC": "PMC5520993",
+     "MID": [
+          "NIHMS880899"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*Alzheimer's disease",
+          "*Cornu Ammonis",
+          "*anatomy",
+          "*biomarker",
+          "*diagnosis",
+          "*entorhinal cortex",
+          "*hippocampal subfields",
+          "*hippocampus",
+          "*histology",
+          "*magnetic resonance imaging",
+          "*medial temporal lobe",
+          "*mild cognitive impairment"
+     ],
+     "EDAT": "2016/08/29 06:00",
+     "MHDA": "2018/01/27 06:00",
+     "CRDT": [
+          "2016/08/29 06:00"
+     ],
+     "PHST": [
+          "2016/08/29 06:00 [pubmed]",
+          "2018/01/27 06:00 [medline]",
+          "2016/08/29 06:00 [entrez]"
+     ],
+     "AID": [
+          "JAD160014 [pii]",
+          "10.3233/JAD-160014 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Alzheimers Dis. 2016 Oct 4;54(3):1027-1037. doi: 10.3233/JAD-160014.",
+     "term": "hippocampus"
+}

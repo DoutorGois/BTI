@@ -1,0 +1,87 @@
+{
+     "PMID": "27332675",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171213",
+     "LR": "20180101",
+     "IS": "2162-2906 (Electronic) 1096-2247 (Linking)",
+     "VI": "67",
+     "IP": "1",
+     "DP": "2017 Jan",
+     "TI": "A hybrid model for spatially and temporally resolved ozone exposures in the continental United States.",
+     "PG": "39-52",
+     "LID": "10.1080/10962247.2016.1200159 [doi]",
+     "AB": "Ground-level ozone is an important atmospheric oxidant, which exhibits considerable spatial and temporal variability in its concentration level. Existing modeling approaches for ground-level ozone include chemical transport models, land-use regression, Kriging, and data fusion of chemical transport models with monitoring data. Each of these methods has both strengths and weaknesses. Combining those complementary approaches could improve model performance. Meanwhile, satellite-based total column ozone, combined with ozone vertical profile, is another potential input. The authors propose a hybrid model that integrates the above variables to achieve spatially and temporally resolved exposure assessments for ground-level ozone. The authors used a neural network for its capacity to model interactions and nonlinearity. Convolutional layers, which use convolution kernels to aggregate nearby information, were added to the neural network to account for spatial and temporal autocorrelation. The authors trained the model with the Air Quality System (AQS) 8-hr daily maximum ozone in the continental United States from 2000 to 2012 and tested it with left out monitoring sites. Cross-validated R(2) on the left out monitoring sites ranged from 0.74 to 0.80 (mean 0.76) for predictions on 1 km x 1 km grid cells, which indicates good model performance. Model performance remains good even at low ozone concentrations. The prediction results facilitate epidemiological studies to assess the health effect of ozone in the long term and the short term. IMPLICATIONS: Ozone monitors do not provide full data coverage over the United States, which is an obstacle to assess the health effect of ozone when monitoring data are not available. This paper used a hybrid approach to combine satellite-based ozone measurements, chemical transport model simulations, land-use terms, and other auxiliary variables to obtain spatially and temporally resolved ground-level ozone estimation.",
+     "FAU": [
+          "Di, Qian",
+          "Rowland, Sebastian",
+          "Koutrakis, Petros",
+          "Schwartz, Joel"
+     ],
+     "AU": [
+          "Di Q",
+          "Rowland S",
+          "Koutrakis P",
+          "Schwartz J"
+     ],
+     "AD": "a Department of Environmental Health, Harvard T.H. Chan School of Public Health , Boston , MA , USA. a Department of Environmental Health, Harvard T.H. Chan School of Public Health , Boston , MA , USA. a Department of Environmental Health, Harvard T.H. Chan School of Public Health , Boston , MA , USA. a Department of Environmental Health, Harvard T.H. Chan School of Public Health , Boston , MA , USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "4953-RFA14-3/16-4/HEI/International",
+          "P30 ES000002/ES/NIEHS NIH HHS/United States",
+          "RD83479801/EPA/International",
+          "R21 ES024012/ES/NIEHS NIH HHS/United States",
+          "83587201-0/EPA/International",
+          "R01 ES024332-01A1/ES/NIEHS NIH HHS/United States",
+          "R01 ES024332/ES/NIEHS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "J Air Waste Manag Assoc",
+     "JT": "Journal of the Air & Waste Management Association (1995)",
+     "JID": "9503111",
+     "RN": [
+          "0 (Air Pollutants)",
+          "66H7ZZK23N (Ozone)"
+     ],
+     "SB": "IM",
+     "EIN": [
+          "J Air Waste Manag Assoc. 2017 Mar;67(3):389-390. PMID: 28192071"
+     ],
+     "MH": [
+          "Air Pollutants/*chemistry",
+          "Air Pollution/*analysis",
+          "Environmental Exposure/*analysis",
+          "Environmental Monitoring/methods",
+          "Humans",
+          "*Models, Theoretical",
+          "Ozone/*adverse effects/*chemistry",
+          "United States"
+     ],
+     "PMC": "PMC5741295",
+     "MID": [
+          "NIHMS876667"
+     ],
+     "EDAT": "2016/06/23 06:00",
+     "MHDA": "2017/12/14 06:00",
+     "CRDT": [
+          "2016/06/23 06:00"
+     ],
+     "PHST": [
+          "2016/06/23 06:00 [pubmed]",
+          "2017/12/14 06:00 [medline]",
+          "2016/06/23 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1080/10962247.2016.1200159 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Air Waste Manag Assoc. 2017 Jan;67(1):39-52. doi: 10.1080/10962247.2016.1200159.",
+     "term": "grid cells"
+}

@@ -1,0 +1,77 @@
+{
+     "PMID": "19433888",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20091215",
+     "LR": "20101022",
+     "IS": "1875-8908 (Electronic) 1387-2877 (Linking)",
+     "VI": "17",
+     "IP": "3",
+     "DP": "2009",
+     "TI": "Morphological hippocampal markers for automated detection of Alzheimer's disease and mild cognitive impairment converters in magnetic resonance images.",
+     "PG": "643-59",
+     "LID": "10.3233/JAD-2009-1082 [doi]",
+     "AB": "In this study, we investigated the use of hippocampal shape-based markers for automatic detection of Alzheimer's disease (AD) and mild cognitive impairment converters (MCI-c). Three-dimensional T1-weighted magnetic resonance images of 50 AD subjects, 50 age-matched controls, 15 MCI-c, and 15 MCI-non-converters (MCI-nc) were taken. Manual delineations of both hippocampi were obtained from normalized images. Fully automatic shape modeling was used to generate comparable meshes for both structures. Repeated permutation tests, run over a randomly sub-sampled training set (25 controls and 25 ADs), highlighted shape-based markers, mostly located in the CA1 sector, which consistently discriminated ADs and controls. Support vector machines (SVMs) were trained, using markers from either one or both hippocampi, to automatically classify control and AD subjects. Leave-1-out cross-validations over the remaining 25 ADs and 25 controls resulted in an optimal accuracy of 90% (sensitivity 92%), for markers in the left hippocampus. The same morphological markers were used to train SVMs for MCI-c versus MCI-nc classification: markers in the right hippocampus reached an accuracy (and sensitivity) of 80%. Due to the pattern recognition framework, our results statistically represent the expected performances of clinical set-ups, and compare favorably to analyses based on hippocampal volumes.",
+     "FAU": [
+          "Ferrarini, Luca",
+          "Frisoni, Giovanni B",
+          "Pievani, Michela",
+          "Reiber, Johan H C",
+          "Ganzola, Rossana",
+          "Milles, Julien"
+     ],
+     "AU": [
+          "Ferrarini L",
+          "Frisoni GB",
+          "Pievani M",
+          "Reiber JH",
+          "Ganzola R",
+          "Milles J"
+     ],
+     "AD": "LKEB - Department of Radiology, Division of Image Processing, Leiden University Medical Center, Leiden, The Netherlands. L.Ferrarini@lumc.nl",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Alzheimers Dis",
+     "JT": "Journal of Alzheimer's disease : JAD",
+     "JID": "9814863",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*pathology",
+          "Brain Mapping",
+          "Cognition Disorders/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Imaging, Three-Dimensional/methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Pattern Recognition, Automated/*methods",
+          "Species Specificity"
+     ],
+     "EDAT": "2009/05/13 09:00",
+     "MHDA": "2009/12/16 06:00",
+     "CRDT": [
+          "2009/05/13 09:00"
+     ],
+     "PHST": [
+          "2009/05/13 09:00 [entrez]",
+          "2009/05/13 09:00 [pubmed]",
+          "2009/12/16 06:00 [medline]"
+     ],
+     "AID": [
+          "V222360288507328 [pii]",
+          "10.3233/JAD-2009-1082 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Alzheimers Dis. 2009;17(3):643-59. doi: 10.3233/JAD-2009-1082.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,68 @@
+{
+     "PMID": "17360681",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070613",
+     "LR": "20140907",
+     "IS": "0027-8424 (Print) 0027-8424 (Linking)",
+     "VI": "104",
+     "IP": "9",
+     "DP": "2007 Feb 27",
+     "TI": "Retrospective and prospective responses arising in a modeled hippocampus during maze navigation by a brain-based device.",
+     "PG": "3556-61",
+     "AB": "Recent recordings of place field activity in rodent hippocampus have revealed correlates of current, recent past, and imminent future events in spatial memory tasks. To analyze these properties, we used a brain-based device, Darwin XI, that incorporated a detailed model of medial temporal structures shaped by experience-dependent synaptic activity. Darwin XI was tested on a plus maze in which it approached a goal arm from different start arms. In the task, a journey corresponded to the route from a particular starting point to a particular goal. During maze navigation, the device developed place-dependent responses in its simulated hippocampus. Journey-dependent place fields, whose activity differed in different journeys through the same maze arm, were found in the recordings of simulated CA1 neuronal units. We also found an approximately equal number of journey-independent place fields. The journey-dependent responses were either retrospective, where activity was present in the goal arm, or prospective, where activity was present in the start arm. Detailed analysis of network dynamics of the neural simulation during behavior revealed that many different neural pathways could stimulate any single CA1 unit. That analysis also revealed that place activity was driven more by hippocampal and entorhinal cortical influences than by sensory cortical input. Moreover, journey-dependent activity was driven more strongly by hippocampal influence than journey-independent activity.",
+     "FAU": [
+          "Fleischer, Jason G",
+          "Gally, Joseph A",
+          "Edelman, Gerald M",
+          "Krichmar, Jeffrey L"
+     ],
+     "AU": [
+          "Fleischer JG",
+          "Gally JA",
+          "Edelman GM",
+          "Krichmar JL"
+     ],
+     "AD": "Neurosciences Institute, 10640 John Jay Hopkins Drive, San Diego, CA 92121, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20070221",
+     "PL": "United States",
+     "TA": "Proc Natl Acad Sci U S A",
+     "JT": "Proceedings of the National Academy of Sciences of the United States of America",
+     "JID": "7505876",
+     "SB": "IM",
+     "MH": [
+          "Hippocampus/*physiology",
+          "Maze Learning/*physiology",
+          "Memory/*physiology",
+          "*Models, Neurological",
+          "Neural Pathways/physiology",
+          "*Robotics",
+          "Space Perception/*physiology"
+     ],
+     "PMC": "PMC1802731",
+     "EDAT": "2007/03/16 09:00",
+     "MHDA": "2007/06/15 09:00",
+     "CRDT": [
+          "2007/03/16 09:00"
+     ],
+     "PHST": [
+          "2007/03/16 09:00 [pubmed]",
+          "2007/06/15 09:00 [medline]",
+          "2007/03/16 09:00 [entrez]"
+     ],
+     "AID": [
+          "0611571104 [pii]",
+          "10.1073/pnas.0611571104 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc Natl Acad Sci U S A. 2007 Feb 27;104(9):3556-61. doi: 10.1073/pnas.0611571104. Epub 2007 Feb 21.",
+     "term": "hippocampus"
+}

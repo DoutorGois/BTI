@@ -1,0 +1,120 @@
+{
+     "PMID": "26026680",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160418",
+     "LR": "20170220",
+     "IS": "1873-7544 (Electronic) 0306-4522 (Linking)",
+     "VI": "301",
+     "DP": "2015 Aug 20",
+     "TI": "Tract-based analysis of white matter degeneration in Alzheimer's disease.",
+     "PG": "79-89",
+     "LID": "10.1016/j.neuroscience.2015.05.049 [doi] S0306-4522(15)00491-1 [pii]",
+     "AB": "Although much prior work has focused on the known cortical pathology that defines Alzheimer's disease (AD) histologically, recent work has additionally demonstrated substantial damage to the cerebral white matter in this condition. While there is large evidence of diffuse damage to the white matter in AD, it is unclear whether specific white matter tracts exhibit a more accelerated pattern of damage and whether the damage is associated with the classical neurodegenerative changes of AD. In this study, we investigated microstructural differences in the large fascicular bundles of the cerebral white matter of individuals with AD and mild cognitive impairment (MCI), using recently developed automated diffusion tractography procedures in the Alzheimer's disease Neuroimaging Initiative (ADNI) dataset. Eighteen major fiber bundles in a total of 36 individuals with AD, 81 MCI and 60 control participants were examined with the TRActs Constrained by UnderLying Anatomy (TRACULA) procedure available as part of the FreeSurfer image processing software package. For each fiber bundle, the mean fractional anisotropy (FA), and mean, radial and axial diffusivities were calculated. Individuals with AD had increased diffusivities in both left and right cingulum-angular bundles compared to control participants (p<0.001). Individuals with MCI also had increased axial and mean diffusivities and increased FA in both cingulum-angular bundles compared to control participants (p<0.05) and decreased radial diffusivity compared to individuals with AD (p<0.05). We additionally examined how white matter deterioration relates to hippocampal volume, a traditional imaging measure of AD pathology, and found the strongest negative correlations in AD patients between hippocampal volume and the diffusivities of the cingulum-angular and cingulum-cingulate gyrus bundles and of the corticospinal tracts (p<0.05). However, statistically controlling for hippocampal volume did not remove all group differences in white matter measures, suggesting a unique contribution of white matter damage to AD unexplained by this disease biomarker. These results suggest that (1) AD-associated deterioration of white matter fibers is greatest in tracts known to be connected to areas of pathology in AD and (2) lower white matter tract integrity is more diffusely associated with lower hippocampal volume indicating that the pathology in the white matter follows to some degree the neurodegenerative staging and progression of this condition.",
+     "CI": [
+          "Copyright (c) 2015 IBRO. Published by Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Lee, S-H",
+          "Coutu, J-P",
+          "Wilkens, P",
+          "Yendiki, A",
+          "Rosas, H D",
+          "Salat, D H"
+     ],
+     "AU": [
+          "Lee SH",
+          "Coutu JP",
+          "Wilkens P",
+          "Yendiki A",
+          "Rosas HD",
+          "Salat DH"
+     ],
+     "AD": "MGH/MIT/HMS Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School, Charlestown, MA, USA; Department of Neurology, Kangwon National University School of Medicine, Chuncheon, South Korea. Electronic address: movement@kangwon.ac.kr. MGH/MIT/HMS Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School, Charlestown, MA, USA; Harvard-Massachusetts Institute of Technology Division of Health Sciences and Technology, Massachusetts Institute of Technology, Cambridge, MA, USA. MGH/MIT/HMS Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School, Charlestown, MA, USA; Department of Neurology, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA. MGH/MIT/HMS Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School, Charlestown, MA, USA; Department of Radiology, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA. MGH/MIT/HMS Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School, Charlestown, MA, USA; Department of Neurology, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA. MGH/MIT/HMS Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School, Charlestown, MA, USA; Department of Radiology, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA; Neuroimaging Research for Veterans Center, VA Boston Healthcare System, Boston, MA, USA.",
+     "CN": [
+          "Alzheimer's disease Neuroimaging Initiative (ADNI)"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P01 NS058793/NS/NINDS NIH HHS/United States",
+          "S10 RR021110/RR/NCRR NIH HHS/United States",
+          "S10RR023043/RR/NCRR NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "S10 RR019254/RR/NCRR NIH HHS/United States",
+          "S10 RR019307/RR/NCRR NIH HHS/United States",
+          "S10RR023401/RR/NCRR NIH HHS/United States",
+          "P41 RR014075/RR/NCRR NIH HHS/United States",
+          "NS058793/NS/NINDS NIH HHS/United States",
+          "R01 NS042861/NS/NINDS NIH HHS/United States",
+          "S10RR021110/RR/NCRR NIH HHS/United States",
+          "R56 NS042861/NS/NINDS NIH HHS/United States",
+          "R01NR010827/NR/NINR NIH HHS/United States",
+          "S10RR019307/RR/NCRR NIH HHS/United States",
+          "NS042861/NS/NINDS NIH HHS/United States",
+          "S10 RR023043/RR/NCRR NIH HHS/United States",
+          "S10RR019254/RR/NCRR NIH HHS/United States",
+          "P41RR14075/RR/NCRR NIH HHS/United States",
+          "S10 RR023401/RR/NCRR NIH HHS/United States",
+          "R01 NR010827/NR/NINR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20150527",
+     "PL": "United States",
+     "TA": "Neuroscience",
+     "JT": "Neuroscience",
+     "JID": "7605074",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/*pathology",
+          "Brain/*pathology",
+          "Cognitive Dysfunction/pathology",
+          "Diffusion Magnetic Resonance Imaging",
+          "Diffusion Tensor Imaging",
+          "Female",
+          "Humans",
+          "Male",
+          "White Matter/*pathology"
+     ],
+     "PMC": "PMC4505932",
+     "MID": [
+          "NIHMS704960"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "cingulum and angular bundle",
+          "hippocampus",
+          "mild cognitive impairment",
+          "white matter"
+     ],
+     "EDAT": "2015/06/01 06:00",
+     "MHDA": "2016/04/19 06:00",
+     "CRDT": [
+          "2015/06/01 06:00"
+     ],
+     "PHST": [
+          "2015/02/07 00:00 [received]",
+          "2015/05/18 00:00 [revised]",
+          "2015/05/20 00:00 [accepted]",
+          "2015/06/01 06:00 [entrez]",
+          "2015/06/01 06:00 [pubmed]",
+          "2016/04/19 06:00 [medline]"
+     ],
+     "AID": [
+          "S0306-4522(15)00491-1 [pii]",
+          "10.1016/j.neuroscience.2015.05.049 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroscience. 2015 Aug 20;301:79-89. doi: 10.1016/j.neuroscience.2015.05.049. Epub 2015 May 27.",
+     "term": "hippocampus"
+}

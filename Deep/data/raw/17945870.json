@@ -1,0 +1,68 @@
+{
+     "PMID": "17945870",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080402",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "1",
+     "DP": "2006",
+     "TI": "Enhancement of information transmission with stochastic resonance in hippocampal CA1 neuron models.",
+     "PG": "4957-60",
+     "AB": "Stochastic resonance (SR) has been shown to enhance the signal to noise ratio or detection of signals in neurons. It is not yet clear how this effect of SR on the signal to noise ratio affects signal processing in neural networks. In this paper, we test the hypothesis that SR can improve information transmission in the hippocampus. From spike firing times recorded at the soma, the inter spike intervals were generated and then \"total\" and \"noise\" entropies were estimated to obtain the mutual information and information rate of the spike trains. The results show that the information rate reached a maximum value at a specific amplitude of the background noise, implying that the stochastic resonance can improve the information transmission in the CA1 neuron model. Furthermore, the results also show that the effect of stochastic resonance tended to decrease as the intensity of the random sub-threshold spike trains (signal) (more than 20 l/s) approached to that of the background noise (100 l/s). In conclusion, the computation results that the stochastic resonance can improve information processing in the hippocampal CA1 neuron model in which the intensity of the random sub-threshold spike trains was set at 5-20 l/s.",
+     "FAU": [
+          "Mino, Hiroyuki",
+          "Durand, Dominique M",
+          "Kawaguchi, Minato"
+     ],
+     "AU": [
+          "Mino H",
+          "Durand DM",
+          "Kawaguchi M"
+     ],
+     "AD": "Dept. of Electr. & Comput. Eng., Kanto Gakuin Univ., Kanazawa-ku, Yokohama, Japan. mino@ieee.org",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Computer Simulation",
+          "Equipment Design",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Models, Neurological",
+          "Models, Statistical",
+          "Monte Carlo Method",
+          "Nerve Net",
+          "*Neural Pathways",
+          "Neurons/*metabolism/*pathology",
+          "Poisson Distribution",
+          "Reproducibility of Results",
+          "Stochastic Processes",
+          "Synaptic Transmission"
+     ],
+     "EDAT": "2007/10/20 09:00",
+     "MHDA": "2008/04/03 09:00",
+     "CRDT": [
+          "2007/10/20 09:00"
+     ],
+     "PHST": [
+          "2007/10/20 09:00 [pubmed]",
+          "2008/04/03 09:00 [medline]",
+          "2007/10/20 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2006.260133 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2006;1:4957-60. doi: 10.1109/IEMBS.2006.260133.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,68 @@
+{
+     "PMID": "24032964",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140423",
+     "LR": "20130916",
+     "IS": "1550-2376 (Electronic) 1539-3755 (Linking)",
+     "VI": "88",
+     "IP": "2",
+     "DP": "2013 Aug",
+     "TI": "Linking hydrophobicity and hydrodynamics by the hybrid fluctuating hydrodynamics and molecular dynamics methodologies.",
+     "PG": "023305",
+     "AB": "The development of a hybrid fluctuating hydrodynamics (FHD) and molecular dynamics (MD) simulation method that combines the molecular dynamics of moving particles with the fluctuating hydrodynamics of solvent fields on Eulerian grid cells is presented. This method allows resolution of solute-solvent interfaces and realization of excluded volumes of particles in the presence of hydrodynamic coupling. With these capabilities, we show that the ubiquitous forces mediated by the solvent, hydrophobicity and hydrodynamics, can be linked in a mesoscopic simulation. The strategies we devise to overcome the numerical issues of mixing variables in the Eulerian and Lagrangian coordinate systems, i.e., using a pair of auxiliary fluids to realize the excluded volumes of particles and assigning collocating gridding systems on solutes to interface with solvent fields, are also presented. Simulation results show that the hybrid FHD and MD method can reproduce the solvation free energies and scaling laws of particles dynamics for hydrophobes of different sizes. The collapse of two hydrophobic particles was also simulated to illustrate that the hybrid FHD and MD method has the potential to be generally applied to study nanoscale self-assembly and dynamics-structure-function relationships of biomolecules.",
+     "FAU": [
+          "Voulgarakis, Nikolaos K",
+          "Shang, Barry Z",
+          "Chu, Jhih-Wei"
+     ],
+     "AU": [
+          "Voulgarakis NK",
+          "Shang BZ",
+          "Chu JW"
+     ],
+     "AD": "Department of Chemical and Biomolecular Engineering, University of California, Berkeley, Berkeley, California 94720, USA and Department of Mathematics, Washington State University, Richland, Washington 99372, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20130827",
+     "PL": "United States",
+     "TA": "Phys Rev E Stat Nonlin Soft Matter Phys",
+     "JT": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+     "JID": "101136452",
+     "RN": [
+          "0 (Solvents)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "*Hydrodynamics",
+          "*Hydrophobic and Hydrophilic Interactions",
+          "*Molecular Dynamics Simulation",
+          "Solvents/chemistry",
+          "Temperature",
+          "Thermodynamics"
+     ],
+     "EDAT": "2013/09/17 06:00",
+     "MHDA": "2014/04/24 06:00",
+     "CRDT": [
+          "2013/09/17 06:00"
+     ],
+     "PHST": [
+          "2013/03/16 00:00 [received]",
+          "2013/06/11 00:00 [revised]",
+          "2013/09/17 06:00 [entrez]",
+          "2013/09/17 06:00 [pubmed]",
+          "2014/04/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1103/PhysRevE.88.023305 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phys Rev E Stat Nonlin Soft Matter Phys. 2013 Aug;88(2):023305. doi: 10.1103/PhysRevE.88.023305. Epub 2013 Aug 27.",
+     "term": "grid cells"
+}

@@ -1,0 +1,76 @@
+{
+     "PMID": "22389141",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20131203",
+     "LR": "20161125",
+     "IS": "1558-2531 (Electronic) 0018-9294 (Linking)",
+     "VI": "60",
+     "IP": "3",
+     "DP": "2013 Mar",
+     "TI": "Synchrony dynamics across brain structures in limbic epilepsy vary between initiation and termination phases of seizures.",
+     "PG": "821-9",
+     "LID": "10.1109/TBME.2012.2189113 [doi]",
+     "AB": "Neuronal populations in the brain achieve levels of synchronous electrophysiological activity during both normal brain function and pathological states such as epileptic seizures. Understanding how the dynamics of neuronal oscillators in the brain evolve from normal to diseased states is a critical component toward decoding such complex behaviors. In this study, we sought to develop a more in-depth understanding of multisite dynamics underlying seizure evolution in limbic epilepsy by analyzing oscillators in recordings of local field potentials from three brain structures (bilateral hippocampi and anteromedial thalamus) in a kainic acid in vivo rat model of temporal lobe epilepsy extracted using the empirical mode decomposition (EMD) technique. EMD provides an adaptive nonlinear decomposition into a set of finite oscillatory components. Oscillator frequencies, power, and phase synchrony were assessed within and between sites as seizures evolved. Consistent patterns of low-frequency (~35 Hz) synchrony occurred transiently during early-stage ictogenesis between thalamus and both hippocampi; in contrast, higher frequency (~120 Hz) synchrony appeared between thalamus and focal hippocampus as seizures naturally terminated. These multi-site synchrony events may provide a key insight into how synchrony disruption via stimulation could be targeted as well as contribute to a better understanding of how brain synchrony evolves in epilepsy.",
+     "FAU": [
+          "Sobayo, Tiwalade",
+          "Fine, Ananda S",
+          "Gunnar, Elizabeth",
+          "Kazlauskas, Christine",
+          "Nicholls, David",
+          "Mogul, David J"
+     ],
+     "AU": [
+          "Sobayo T",
+          "Fine AS",
+          "Gunnar E",
+          "Kazlauskas C",
+          "Nicholls D",
+          "Mogul DJ"
+     ],
+     "AD": "Department of Biomedical Engineering, Illinois Institute of Technology, Chicago, IL 60616-3793, USA. tsobayo@iit.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20120227",
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "RN": [
+          "SIV03811UC (Kainic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Electrophysiological Phenomena/*physiology",
+          "Epilepsy, Temporal Lobe/chemically induced/*physiopathology",
+          "Hippocampus/physiopathology",
+          "Kainic Acid/adverse effects",
+          "Male",
+          "Models, Neurological",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Seizures/*physiopathology",
+          "Signal Processing, Computer-Assisted"
+     ],
+     "EDAT": "2012/03/06 06:00",
+     "MHDA": "2013/12/16 06:00",
+     "CRDT": [
+          "2012/03/06 06:00"
+     ],
+     "PHST": [
+          "2012/03/06 06:00 [entrez]",
+          "2012/03/06 06:00 [pubmed]",
+          "2013/12/16 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TBME.2012.2189113 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 2013 Mar;60(3):821-9. doi: 10.1109/TBME.2012.2189113. Epub 2012 Feb 27.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,78 @@
+{
+     "PMID": "15344479",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20041001",
+     "LR": "20071114",
+     "IS": "1011-2499 (Print) 1011-2499 (Linking)",
+     "VI": "18",
+     "DP": "2003 Jul",
+     "TI": "Gaussian distributions on Lie groups and their application to statistical shape analysis.",
+     "PG": "450-62",
+     "AB": "The Gaussian distribution is the basis for many methods used in the statistical analysis of shape. One such method is principal component analysis, which has proven to be a powerful technique for describing the geometric variability of a population of objects. The Gaussian framework is well understood when the data being studied are elements of a Euclidean vector space. This is the case for geometric objects that are described by landmarks or dense collections of boundary points. We have been using medial representations, or m-reps, for modelling the geometry of anatomical objects. The medial parameters are not elements of a Euclidean space, and thus standard PCA is not applicable. In our previous work we have shown that the m-rep model parameters are instead elements of a Lie group. In this paper we develop the notion of a Gaussian distribution on this Lie group. We then derive the maximum likelihood estimates of the mean and the covariance of this distribution. Analogous to principal component analysis of covariance in Euclidean spaces, we define principal geodesic analysis on Lie groups for the study of anatomical variability in medially-defined objects. Results of applying this framework on a population of hippocampi in a schizophrenia study are presented.",
+     "FAU": [
+          "Fletcher, P Thomas",
+          "Joshi, Sarang",
+          "Lu, Conglin",
+          "Pizer, Stephen"
+     ],
+     "AU": [
+          "Fletcher PT",
+          "Joshi S",
+          "Lu C",
+          "Pizer S"
+     ],
+     "AD": "Medical Image Display and Analysis Group, University of North Carolina at Chapel Hill, USA. fletcher@cs.unc.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH33127/MH/NIMH NIH HHS/United States",
+          "P01 CA47982/CA/NCI NIH HHS/United States"
+     ],
+     "PT": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Validation Studies"
+     ],
+     "PL": "Germany",
+     "TA": "Inf Process Med Imaging",
+     "JT": "Information processing in medical imaging : proceedings of the ... conference",
+     "JID": "9216871",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Computer Simulation",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/methods",
+          "Models, Biological",
+          "Models, Statistical",
+          "Normal Distribution",
+          "*Pattern Recognition, Automated",
+          "Principal Component Analysis",
+          "Reproducibility of Results",
+          "Schizophrenia/*diagnosis",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "EDAT": "2004/09/04 05:00",
+     "MHDA": "2004/10/02 05:00",
+     "CRDT": [
+          "2004/09/04 05:00"
+     ],
+     "PHST": [
+          "2004/09/04 05:00 [pubmed]",
+          "2004/10/02 05:00 [medline]",
+          "2004/09/04 05:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Inf Process Med Imaging. 2003 Jul;18:450-62.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,81 @@
+{
+     "PMID": "26575133",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161020",
+     "LR": "20171111",
+     "IS": "1940-087X (Electronic) 1940-087X (Linking)",
+     "IP": "105",
+     "DP": "2015 Nov 10",
+     "TI": "High-resolution In Vivo Manual Segmentation Protocol for Human Hippocampal Subfields Using 3T Magnetic Resonance Imaging.",
+     "PG": "e51861",
+     "LID": "10.3791/51861 [doi]",
+     "AB": "The human hippocampus has been broadly studied in the context of memory and normal brain function and its role in different neuropsychiatric disorders has been heavily studied. While many imaging studies treat the hippocampus as a single unitary neuroanatomical structure, it is, in fact, composed of several subfields that have a complex three-dimensional geometry. As such, it is known that these subfields perform specialized functions and are differentially affected through the course of different disease states. Magnetic resonance (MR) imaging can be used as a powerful tool to interrogate the morphology of the hippocampus and its subfields. Many groups use advanced imaging software and hardware (>3T) to image the subfields; however this type of technology may not be readily available in most research and clinical imaging centers. To address this need, this manuscript provides a detailed step-by-step protocol for segmenting the full anterior-posterior length of the hippocampus and its subfields: cornu ammonis (CA) 1, CA2/CA3, CA4/dentate gyrus (DG), strata radiatum/lacunosum/moleculare (SR/SL/SM), and subiculum. This protocol has been applied to five subjects (3F, 2M; age 29-57, avg. 37). Protocol reliability is assessed by resegmenting either the right or left hippocampus of each subject and computing the overlap using the Dice's kappa metric. Mean Dice's kappa (range) across the five subjects are: whole hippocampus, 0.91 (0.90-0.92); CA1, 0.78 (0.77-0.79); CA2/CA3, 0.64 (0.56-0.73); CA4/dentate gyrus, 0.83 (0.81-0.85); strata radiatum/lacunosum/moleculare, 0.71 (0.68-0.73); and subiculum 0.75 (0.72-0.78). The segmentation protocol presented here provides other laboratories with a reliable method to study the hippocampus and hippocampal subfields in vivo using commonly available MR tools.",
+     "FAU": [
+          "Winterburn, Julie",
+          "Pruessner, Jens C",
+          "Sofia, Chavez",
+          "Schira, Mark M",
+          "Lobaugh, Nancy J",
+          "Voineskos, Aristotle N",
+          "Chakravarty, M Mallar"
+     ],
+     "AU": [
+          "Winterburn J",
+          "Pruessner JC",
+          "Sofia C",
+          "Schira MM",
+          "Lobaugh NJ",
+          "Voineskos AN",
+          "Chakravarty MM"
+     ],
+     "AD": "Institute of Biomaterials and Biomedical Engineering, University of Toronto; Computational Brain Anatomy Laboratory, Douglas Institute, McGill University; winterburn.julie@gmail.com. McGill Centre for Studies in Aging, McGill University. MRI Unit, Research Imaging Centre, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health; Department of Psychiatry, University of Toronto. School of Psychology, University of Wollongong; Neuroscience Research Australia. MRI Unit, Research Imaging Centre, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health; Department of Medicine, University of Toronto. Department of Psychiatry, University of Toronto; Kimel Family Translational Imaging Genetics Research Laboratory, Research Imaging Centre, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health. Institute of Biomaterials and Biomedical Engineering, University of Toronto; Computational Brain Anatomy Laboratory, Douglas Institute, McGill University.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH099167/MH/NIMH NIH HHS/United States",
+          "R01MH099167/MH/NIMH NIH HHS/United States",
+          "Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Video-Audio Media"
+     ],
+     "DEP": "20151110",
+     "PL": "United States",
+     "TA": "J Vis Exp",
+     "JT": "Journal of visualized experiments : JoVE",
+     "JID": "101313252",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Female",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Reproducibility of Results",
+          "Software"
+     ],
+     "PMC": "PMC4692694",
+     "EDAT": "2015/11/18 06:00",
+     "MHDA": "2016/10/21 06:00",
+     "CRDT": [
+          "2015/11/18 06:00"
+     ],
+     "PHST": [
+          "2015/11/18 06:00 [entrez]",
+          "2015/11/18 06:00 [pubmed]",
+          "2016/10/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.3791/51861 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "J Vis Exp. 2015 Nov 10;(105):e51861. doi: 10.3791/51861.",
+     "term": "hippocampus"
+}

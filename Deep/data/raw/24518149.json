@@ -1,0 +1,102 @@
+{
+     "PMID": "24518149",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141124",
+     "LR": "20161209",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "227",
+     "DP": "2014 Apr 30",
+     "TI": "Automated algorithm to measure changes in medial temporal lobe volume in Alzheimer disease.",
+     "PG": "35-46",
+     "LID": "10.1016/j.jneumeth.2014.01.033 [doi] S0165-0270(14)00050-8 [pii]",
+     "AB": "BACKGROUND: The change in volume of anatomic structures is as a sensitive indicator of Alzheimer disease (AD) progression. Although several methods are available to measure brain volumes, improvements in speed and automation are required. Our objective was to develop a fully automated, fast, and reliable approach to measure change in medial temporal lobe (MTL) volume, including primarily hippocampus. METHODS: The MTL volume defined in an atlas image was propagated onto each baseline image and a level set algorithm was applied to refine the shape and smooth the boundary. The MTL of the baseline image was then mapped onto the corresponding follow-up image to measure volume change (DeltaMTL). Baseline and 24 months 3D T1-weighted images from the Alzheimer Disease Neuroimaging Initiative (ADNI) were randomly selected for 50 normal elderly controls (NECs), 50 subjects with mild cognitive impairment (MCI) and 50 subjects with AD to test the algorithm. The method was compared to the FreeSurfer segmentation tools. RESULTS: The average DeltaMTL (mean+/-SEM) was 68+/-35mm(3) in NEC, 187+/-38mm(3) in MCI and 300+/-34mm(3) in the AD group and was significantly different (p<0.0001) between all three groups. The DeltaMTL was correlated with cognitive decline. COMPARISON WITH EXISTING METHOD(S): Results for the FreeSurfer software were similar but did not detect significant differences between the MCI and AD groups. CONCLUSION: This novel segmentation approach is fully automated and provides a robust marker of brain atrophy that shows different rates of atrophy over 2 years between NEC, MCI, and AD groups.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Kazemifar, Samaneh",
+          "Drozd, John J",
+          "Rajakumar, Nagalingam",
+          "Borrie, Michael J",
+          "Bartha, Robert"
+     ],
+     "AU": [
+          "Kazemifar S",
+          "Drozd JJ",
+          "Rajakumar N",
+          "Borrie MJ",
+          "Bartha R"
+     ],
+     "AD": "Robarts Research Institute, University of Western Ontario, 1151 Richmond Street, London, Ontario, Canada N6A 3K7; Department of Medical Biophysics, University of Western Ontario, 1151 Richmond Street, London, Ontario, Canada N6A 3K7. Robarts Research Institute, University of Western Ontario, 1151 Richmond Street, London, Ontario, Canada N6A 3K7. Department of Anatomy and Cell Biology, University of Western Ontario, 1151 Richmond Street, London, Ontario, Canada N6A 3K7. Department of Medicine, University of Western Ontario, 1151 Richmond Street, London, Ontario, Canada N6A 3K7; Division of Aging, Rehabilitation and Geriatric Care, Lawson Health Research Institute, 268 Grosvenor Street, London, Ontario, Canada N6A 4V2. Robarts Research Institute, University of Western Ontario, 1151 Richmond Street, London, Ontario, Canada N6A 3K7; Department of Medical Biophysics, University of Western Ontario, 1151 Richmond Street, London, Ontario, Canada N6A 3K7. Electronic address: rbartha@robarts.ca.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140208",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "*Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Cognitive Dysfunction/pathology",
+          "Female",
+          "Hippocampus/pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Statistics as Topic",
+          "Temporal Lobe/*pathology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer disease",
+          "Hippocampus",
+          "MRI",
+          "Medial temporal lobe segmentation",
+          "Multi-atlas",
+          "Shape"
+     ],
+     "EDAT": "2014/02/13 06:00",
+     "MHDA": "2014/12/15 06:00",
+     "CRDT": [
+          "2014/02/13 06:00"
+     ],
+     "PHST": [
+          "2013/12/04 00:00 [received]",
+          "2014/01/30 00:00 [revised]",
+          "2014/01/31 00:00 [accepted]",
+          "2014/02/13 06:00 [entrez]",
+          "2014/02/13 06:00 [pubmed]",
+          "2014/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(14)00050-8 [pii]",
+          "10.1016/j.jneumeth.2014.01.033 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2014 Apr 30;227:35-46. doi: 10.1016/j.jneumeth.2014.01.033. Epub 2014 Feb 8.",
+     "term": "hippocampus"
+}

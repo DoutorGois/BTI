@@ -1,0 +1,90 @@
+{
+     "PMID": "22072690",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120104",
+     "LR": "20161019",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "31",
+     "IP": "45",
+     "DP": "2011 Nov 9",
+     "TI": "Measuring the quality of neuronal identification in ensemble recordings.",
+     "PG": "16398-409",
+     "LID": "10.1523/JNEUROSCI.4053-11.2011 [doi]",
+     "AB": "Technological advances in electrode construction and digital signal processing now allow recording simultaneous extracellular action potential discharges from many single neurons, with the potential to revolutionize understanding of the neural codes for sensory, motor, and cognitive variables. Such studies have revealed the importance of ensemble neural codes, encoding information in the dynamic relationships among the action potential spike trains of multiple single neurons. Although the success of this research depends on the accurate classification of extracellular action potentials to individual neurons, there are no widely used quantitative methods for assessing the quality of the classifications. Here we describe information theoretic measures of action potential waveform isolation applicable to any dataset that have an intuitive, universal interpretation, that are not dependent on the methods or choice of parameters for single-unit isolation, and that have been validated using a dataset of simultaneous intracellular and extracellular neuronal recordings from Sprague Dawley rats.",
+     "FAU": [
+          "Neymotin, Samuel A",
+          "Lytton, William W",
+          "Olypher, Andrey V",
+          "Fenton, Andre A"
+     ],
+     "AU": [
+          "Neymotin SA",
+          "Lytton WW",
+          "Olypher AV",
+          "Fenton AA"
+     ],
+     "AD": "State University of New York Downstate/New York University-Poly Joint Biomedical Engineering Program, Brooklyn, New York 11203, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH084038-02/MH/NIMH NIH HHS/United States",
+          "R01MH084038/MH/NIMH NIH HHS/United States",
+          "R01 MH084038/MH/NIMH NIH HHS/United States",
+          "R21MH082417/MH/NIMH NIH HHS/United States",
+          "R42 NS064474-03/NS/NINDS NIH HHS/United States",
+          "R42NS064474/NS/NINDS NIH HHS/United States",
+          "R21 MH082417-02/MH/NIMH NIH HHS/United States",
+          "R42 NS064474/NS/NINDS NIH HHS/United States",
+          "R21 MH082417/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Electrodes",
+          "Electrophysiology",
+          "Hippocampus/cytology",
+          "*Information Theory",
+          "Male",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Nonlinear Dynamics",
+          "Probability",
+          "Rats",
+          "Rats, Long-Evans",
+          "Software",
+          "Statistics as Topic"
+     ],
+     "PMC": "PMC3247202",
+     "MID": [
+          "NIHMS340605"
+     ],
+     "EDAT": "2011/11/11 06:00",
+     "MHDA": "2012/01/05 06:00",
+     "CRDT": [
+          "2011/11/11 06:00"
+     ],
+     "PHST": [
+          "2011/11/11 06:00 [entrez]",
+          "2011/11/11 06:00 [pubmed]",
+          "2012/01/05 06:00 [medline]"
+     ],
+     "AID": [
+          "31/45/16398 [pii]",
+          "10.1523/JNEUROSCI.4053-11.2011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2011 Nov 9;31(45):16398-409. doi: 10.1523/JNEUROSCI.4053-11.2011.",
+     "term": "hippocampus"
+}

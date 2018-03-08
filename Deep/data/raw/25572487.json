@@ -1,0 +1,74 @@
+{
+     "PMID": "25572487",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150904",
+     "LR": "20170220",
+     "IS": "1475-925X (Electronic) 1475-925X (Linking)",
+     "VI": "14",
+     "DP": "2015 Jan 9",
+     "TI": "Brain MR image denoising for Rician noise using pre-smooth non-local means filter.",
+     "PG": "2",
+     "LID": "10.1186/1475-925X-14-2 [doi]",
+     "AB": "BACKGROUND: Magnetic resonance imaging (MRI) is corrupted by Rician noise, which is image dependent and computed from both real and imaginary images. Rician noise makes image-based quantitative measurement difficult. The non-local means (NLM) filter has been proven to be effective against additive noise. METHODS: Considering the characteristics of both Rician noise and the NLM filter, this study proposes a frame for a pre-smoothing NLM (PSNLM) filter combined with image transformation. In the PSNLM frame, noisy MRI is first transformed into an image in which noise can be treated as additive noise. Second, the transformed MRI is pre-smoothed via a traditional denoising method. Third, the NLM filter is applied to the transformed MRI, with weights that are computed from the pre-smoothed image. Finally, inverse transformation is performed on the denoised MRI to obtain the denoising results. RESULTS: To test the performance of the proposed method, both simulated and real patient data are used, and various pre-smoothing (Gaussian, median, and anisotropic filters) and image transformation [squared magnitude of the MRI, and forward and inverse variance-stabilizing trans-formations (VST)] methods are used to reduce noise. The performance of the proposed method is evaluated through visual inspection and quantitative comparison of the peak signal-to-noise ratio of the simulated data. The real data include Alzheimer's disease patients and normal controls. For the real patient data, the performance of the proposed method is evaluated by detecting atrophy regions in the hippocampus and the parahippocampal gyrus. CONCLUSIONS: The comparison of the experimental results demonstrates that using a Gaussian pre-smoothing filter and VST produce the best results for the peak signal-to-noise ratio (PSNR) and atrophy detection.",
+     "FAU": [
+          "Yang, Jian",
+          "Fan, Jingfan",
+          "Ai, Danni",
+          "Zhou, Shoujun",
+          "Tang, Songyuan",
+          "Wang, Yongtian"
+     ],
+     "AU": [
+          "Yang J",
+          "Fan J",
+          "Ai D",
+          "Zhou S",
+          "Tang S",
+          "Wang Y"
+     ],
+     "AD": "Beijing Engineering Research Center of Mixed Reality and Advanced Display, School of Optics and Electronics, Beijing Institute of Technology, Beijing 10081, China. sytang@bit.edu.cn.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150109",
+     "PL": "England",
+     "TA": "Biomed Eng Online",
+     "JT": "Biomedical engineering online",
+     "JID": "101147518",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Alzheimer Disease/diagnosis",
+          "*Brain",
+          "Humans",
+          "Image Enhancement/*methods",
+          "*Magnetic Resonance Imaging",
+          "Normal Distribution",
+          "*Signal-To-Noise Ratio"
+     ],
+     "PMC": "PMC4360923",
+     "EDAT": "2015/01/13 06:00",
+     "MHDA": "2015/09/05 06:00",
+     "CRDT": [
+          "2015/01/10 06:00"
+     ],
+     "PHST": [
+          "2014/07/26 00:00 [received]",
+          "2014/11/19 00:00 [accepted]",
+          "2015/01/10 06:00 [entrez]",
+          "2015/01/13 06:00 [pubmed]",
+          "2015/09/05 06:00 [medline]"
+     ],
+     "AID": [
+          "1475-925X-14-2 [pii]",
+          "10.1186/1475-925X-14-2 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Biomed Eng Online. 2015 Jan 9;14:2. doi: 10.1186/1475-925X-14-2.",
+     "term": "hippocampus"
+}

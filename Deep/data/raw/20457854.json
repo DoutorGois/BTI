@@ -1,0 +1,81 @@
+{
+     "PMID": "20457854",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100909",
+     "LR": "20161019",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "103",
+     "IP": "6",
+     "DP": "2010 Jun",
+     "TI": "Computational analysis of the impact of chronic stress on intrinsic and synaptic excitability in the hippocampus.",
+     "PG": "3070-83",
+     "LID": "10.1152/jn.00913.2009 [doi]",
+     "AB": "Dendritic atrophy and impaired long-term synaptic potentiation (LTP) are hallmarks of chronic stress-induced plasticity in the hippocampus. It has been hypothesized that these disparate structural and physiological correlates of stress lead to hippocampal dysfunction by reducing postsynaptic dendritic surface, thereby adversely affecting the availability of synaptic inputs and suppressing LTP. Here we examine the validity of this framework using biophysical models of hippocampal CA3 pyramidal neurons. To statistically match with the experimentally observed region specificity of stress-induced atrophy, we use an algorithm to systematically prune three-dimensional reconstructions of CA3 pyramidal neurons. Using this algorithm, we build a biophysically realistic computational model to analyze the effects of stress on intrinsic and synaptic excitability. We find that stress-induced atrophy of CA3 dendrites leads to an increase in input resistance, which depends exponentially on the percentage of neuronal atrophy. This increase translates directly into higher spiking frequencies in response to both somatic current injections and synaptic inputs at various locations along the dendritic arbor. Remarkably, we also find that the dendritic regions that manifest atrophy-induced synaptic hyperexcitability are governed by the region specificity of the underlying dendritic atrophy. Coupled with experimentally observed modulation of N-methyl-d-aspartate receptor currents, such hyperexcitability could tilt the balance of plasticity mechanisms in favor of synaptic potentiation over depression. Thus paradoxically, our results suggest that stress may impair hippocampal learning and memory, not by directly inhibiting LTP, but because of stress-induced facilitation of intrinsic and synaptic excitability and the consequent imbalance in bidirectional synaptic plasticity.",
+     "FAU": [
+          "Narayanan, Rishikesh",
+          "Chattarji, Sumantra"
+     ],
+     "AU": [
+          "Narayanan R",
+          "Chattarji S"
+     ],
+     "AD": "National Center for Biological Sciences, Bangalore 560065, India.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100324",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "0 (Excitatory Amino Acid Agonists)",
+          "77521-29-0 (alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Algorithms",
+          "Animals",
+          "Atrophy",
+          "Biophysics",
+          "CA3 Region, Hippocampal/*cytology",
+          "*Computer Simulation",
+          "Dendrites/physiology",
+          "Excitatory Amino Acid Agonists/pharmacology",
+          "Excitatory Postsynaptic Potentials/drug effects",
+          "Freezing Reaction, Cataleptic/physiology",
+          "*Models, Neurological",
+          "Neuronal Plasticity/physiology",
+          "Pyramidal Cells/cytology/*physiology",
+          "Stress, Physiological/*physiology",
+          "Synapses/*physiology",
+          "alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid/pharmacology"
+     ],
+     "PMC": "PMC2888238",
+     "EDAT": "2010/05/12 06:00",
+     "MHDA": "2010/09/10 06:00",
+     "CRDT": [
+          "2010/05/12 06:00"
+     ],
+     "PHST": [
+          "2010/05/12 06:00 [entrez]",
+          "2010/05/12 06:00 [pubmed]",
+          "2010/09/10 06:00 [medline]"
+     ],
+     "AID": [
+          "jn.00913.2009 [pii]",
+          "10.1152/jn.00913.2009 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2010 Jun;103(6):3070-83. doi: 10.1152/jn.00913.2009. Epub 2010 Mar 24.",
+     "term": "hippocampus"
+}

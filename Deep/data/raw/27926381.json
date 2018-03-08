@@ -1,0 +1,84 @@
+{
+     "PMID": "27926381",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171120",
+     "LR": "20171128",
+     "IS": "1873-2860 (Electronic) 0933-3657 (Linking)",
+     "VI": "73",
+     "DP": "2016 Oct",
+     "TI": "A review on brain structures segmentation in magnetic resonance imaging.",
+     "PG": "45-69",
+     "LID": "S0933-3657(16)30115-4 [pii] 10.1016/j.artmed.2016.09.001 [doi]",
+     "AB": "BACKGROUND AND OBJECTIVES: Automatic brain structures segmentation in magnetic resonance images has been widely investigated in recent years with the goal of helping diagnosis and patient follow-up in different brain diseases. Here, we present a review of the state-of-the-art of automatic methods available in the literature ranging from structure specific segmentation methods to whole brain parcellation approaches. METHODS: We divide first the algorithms according to their target structures and then we propose a general classification based on their segmentation strategy, which includes atlas-based, learning-based, deformable, region-based and hybrid methods. We further discuss each category's strengths and weaknesses and analyze its performance in segmenting different brain structures providing a qualitative and quantitative comparison. RESULTS: We compare the results of the analyzed works for the following brain structures: hippocampus, thalamus, caudate nucleus, putamen, pallidum, amygdala, accumbens, lateral ventricles, and brainstem. The structures on which more works have focused on are the hippocampus and the caudate nucleus. In general, the accumbens (0.69 mean DSC) is the most difficult structure to segment whereas the structures that seem to get the best results are the brainstem, closely followed by the thalamus and the putamen with 0.88, 0.87 and 0.86 mean DSC, respectively. Atlas-based approaches achieve good results when segmenting the hippocampus (DSC between 0.75 and 0.90), thalamus (0.88-0.92) and lateral ventricles (0.83-0.93), while deformable methods perform good for caudate nucleus (0.84-0.91) and putamen segmentation (0.86-0.89). CONCLUSIONS: There is not yet a single automatic segmentation approach that can emerge as a standard for the clinical practice, providing accurate brain structures segmentation. Future trends need to focus on combining multi-atlas methods with learning-based or deformable approaches. Employing atlases to provide spatial robustness and modeling the structures appearance with supervised classifiers or Active Appearance Models could lead to improved segmentation results.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Gonzalez-Villa, Sandra",
+          "Oliver, Arnau",
+          "Valverde, Sergi",
+          "Wang, Liping",
+          "Zwiggelaar, Reyer",
+          "Llado, Xavier"
+     ],
+     "AU": [
+          "Gonzalez-Villa S",
+          "Oliver A",
+          "Valverde S",
+          "Wang L",
+          "Zwiggelaar R",
+          "Llado X"
+     ],
+     "AD": "Institute of Computer Vision and Robotics, University of Girona, Ed. P-IV, Campus Montilivi, 17071 Girona, Spain. Institute of Computer Vision and Robotics, University of Girona, Ed. P-IV, Campus Montilivi, 17071 Girona, Spain. Electronic address: aoliver@eia.udg.edu. Institute of Computer Vision and Robotics, University of Girona, Ed. P-IV, Campus Montilivi, 17071 Girona, Spain. Department of Computer Science, Aberystwyth University, Aberystwyth SY23 3DB, Wales, UK. Department of Computer Science, Aberystwyth University, Aberystwyth SY23 3DB, Wales, UK. Institute of Computer Vision and Robotics, University of Girona, Ed. P-IV, Campus Montilivi, 17071 Girona, Spain.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Review"
+     ],
+     "DEP": "20160930",
+     "PL": "Netherlands",
+     "TA": "Artif Intell Med",
+     "JT": "Artificial intelligence in medicine",
+     "JID": "8915031",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Atlases as Topic",
+          "Brain/*diagnostic imaging",
+          "Hippocampus/diagnostic imaging",
+          "Humans",
+          "*Magnetic Resonance Imaging"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Automated segmentation methods",
+          "Brain structures",
+          "Magnetic resonance imaging",
+          "Review"
+     ],
+     "EDAT": "2016/12/08 06:00",
+     "MHDA": "2017/11/29 06:00",
+     "CRDT": [
+          "2016/12/08 06:00"
+     ],
+     "PHST": [
+          "2016/04/01 00:00 [received]",
+          "2016/07/27 00:00 [revised]",
+          "2016/09/05 00:00 [accepted]",
+          "2016/12/08 06:00 [entrez]",
+          "2016/12/08 06:00 [pubmed]",
+          "2017/11/29 06:00 [medline]"
+     ],
+     "AID": [
+          "S0933-3657(16)30115-4 [pii]",
+          "10.1016/j.artmed.2016.09.001 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Artif Intell Med. 2016 Oct;73:45-69. doi: 10.1016/j.artmed.2016.09.001. Epub 2016 Sep 30.",
+     "term": "hippocampus"
+}

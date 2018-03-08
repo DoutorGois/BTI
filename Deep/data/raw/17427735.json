@@ -1,0 +1,77 @@
+{
+     "PMID": "17427735",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070516",
+     "LR": "20071203",
+     "IS": "0278-0062 (Print) 0278-0062 (Linking)",
+     "VI": "26",
+     "IP": "4",
+     "DP": "2007 Apr",
+     "TI": "Atlas renormalization for improved brain MR image segmentation across scanner platforms.",
+     "PG": "479-86",
+     "AB": "Atlas-based approaches have demonstrated the ability to automatically identify detailed brain structures from 3-D magnetic resonance (MR) brain images. Unfortunately, the accuracy of this type of method often degrades when processing data acquired on a different scanner platform or pulse sequence than the data used for the atlas training. In this paper, we improve the performance of an atlas-based whole brain segmentation method by introducing an intensity renormalization procedure that automatically adjusts the prior atlas intensity model to new input data. Validation using manually labeled test datasets has shown that the new procedure improves the segmentation accuracy (as measured by the Dice coefficient) by 10% or more for several structures including hippocampus, amygdala, caudate, and pallidum. The results verify that this new procedure reduces the sensitivity of the whole brain segmentation method to changes in scanner platforms and improves its accuracy and robustness, which can thus facilitate multicenter or multisite neuroanatomical imaging studies.",
+     "FAU": [
+          "Han, Xiao",
+          "Fischl, Bruce"
+     ],
+     "AU": [
+          "Han X",
+          "Fischl B"
+     ],
+     "AD": "Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School, Charlestown, MA 02129, USA. xiao.han@cmsrtp.com",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41-RR14075/RR/NCRR NIH HHS/United States",
+          "R01 EB001550/EB/NIBIB NIH HHS/United States",
+          "R01 RR16594-01A1/RR/NCRR NIH HHS/United States",
+          "U24 RR021382/RR/NCRR NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Anatomy, Artistic/methods",
+          "*Artificial Intelligence",
+          "Brain/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/methods",
+          "Magnetic Resonance Imaging/instrumentation/*methods",
+          "Medical Illustration",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "EDAT": "2007/04/13 09:00",
+     "MHDA": "2007/05/17 09:00",
+     "CRDT": [
+          "2007/04/13 09:00"
+     ],
+     "PHST": [
+          "2007/04/13 09:00 [pubmed]",
+          "2007/05/17 09:00 [medline]",
+          "2007/04/13 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TMI.2007.893282 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2007 Apr;26(4):479-86. doi: 10.1109/TMI.2007.893282.",
+     "term": "hippocampus"
+}

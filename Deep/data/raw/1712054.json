@@ -1,0 +1,67 @@
+{
+     "PMID": "1712054",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19910808",
+     "LR": "20031114",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "36",
+     "IP": "1",
+     "DP": "1991 Jan",
+     "TI": "Automated image analysis for counting unstained cultured neurones.",
+     "PG": "1-8",
+     "AB": "A fully automated image analysis technique was developed for counting the number of live or fixed, unstained neurones present in a representative region of a cell culture dish. A dish containing cultured mouse hippocampal neurones was placed on the motorized stage of an inverted microscope, and the neurones were visualized using Hoffman modulation contrast optics. The resulting image was digitized, and processed by subtracting the background illumination, low pass filtering, thresholding, then deleting objects whose areas fell outside a specified range. Two threshold levels were used, each with its own area range, and the two resulting binary images were combined. The number of objects in the combined image was counted. The number of cells in each field was also counted manually, and the processing was repeated on a series of 100 fields covering a representative region of the dish. The automated counts were highly correlated with the manual counts for each of the 12 culture dishes examined in this study. The correlation coefficient was calculated for the manual and automated counts from each dish, and the values ranged from 0.91 to 0.97. Six of the dishes were treated with the envelope protein of the human immunodeficiency virus (gp120), which reduces survival of neurons in this system. The six treated dishes were found to have significantly fewer neurones than the six control dishes, using either manual or automated counting techniques.",
+     "FAU": [
+          "Clements, J D",
+          "Buzy, J M"
+     ],
+     "AU": [
+          "Clements JD",
+          "Buzy JM"
+     ],
+     "AD": "Laboratory of Neurophysiology, NIH, Bethesda, MD 20892.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Culture Media)",
+          "0 (HIV Envelope Protein gp120)",
+          "0 (Viral Proteins)"
+     ],
+     "SB": "IM X",
+     "MH": [
+          "Animals",
+          "Cell Survival/drug effects",
+          "Cells, Cultured",
+          "Culture Media",
+          "Female",
+          "HIV Envelope Protein gp120/pharmacology",
+          "Hippocampus/cytology",
+          "*Image Processing, Computer-Assisted",
+          "Mice",
+          "Neurons/*cytology",
+          "Pregnancy",
+          "Staining and Labeling",
+          "Viral Proteins/pharmacology"
+     ],
+     "EDAT": "1991/01/01 00:00",
+     "MHDA": "1991/01/01 00:01",
+     "CRDT": [
+          "1991/01/01 00:00"
+     ],
+     "PHST": [
+          "1991/01/01 00:00 [pubmed]",
+          "1991/01/01 00:01 [medline]",
+          "1991/01/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 1991 Jan;36(1):1-8.",
+     "term": "hippocampus"
+}

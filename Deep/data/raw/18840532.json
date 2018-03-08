@@ -1,0 +1,115 @@
+{
+     "PMID": "18840532",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090219",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "44",
+     "IP": "2",
+     "DP": "2009 Jan 15",
+     "TI": "A high-resolution computational atlas of the human hippocampus from postmortem magnetic resonance imaging at 9.4 T.",
+     "PG": "385-98",
+     "LID": "10.1016/j.neuroimage.2008.08.042 [doi]",
+     "AB": "This paper describes the construction of a computational anatomical atlas of the human hippocampus. The atlas is derived from high-resolution 9.4 Tesla MRI of postmortem samples. The main subfields of the hippocampus (cornu ammonis fields CA1, CA2/3; the dentate gyrus; and the vestigial hippocampal sulcus) are labeled in the images manually using a combination of distinguishable image features and geometrical features. A synthetic average image is derived from the MRI of the samples using shape and intensity averaging in the diffeomorphic non-linear registration framework, and a consensus labeling of the template is generated. The agreement of the consensus labeling with manual labeling of each sample is measured, and the effect of aiding registration with landmarks and manually generated mask images is evaluated. The atlas is provided as an online resource with the aim of supporting subfield segmentation in emerging hippocampus imaging and image analysis techniques. An example application examining subfield-level hippocampal atrophy in temporal lobe epilepsy demonstrates the application of the atlas to in vivo studies.",
+     "FAU": [
+          "Yushkevich, Paul A",
+          "Avants, Brian B",
+          "Pluta, John",
+          "Das, Sandhitsu",
+          "Minkoff, David",
+          "Mechanic-Hamilton, Dawn",
+          "Glynn, Simon",
+          "Pickup, Stephen",
+          "Liu, Weixia",
+          "Gee, James C",
+          "Grossman, Murray",
+          "Detre, John A"
+     ],
+     "AU": [
+          "Yushkevich PA",
+          "Avants BB",
+          "Pluta J",
+          "Das S",
+          "Minkoff D",
+          "Mechanic-Hamilton D",
+          "Glynn S",
+          "Pickup S",
+          "Liu W",
+          "Gee JC",
+          "Grossman M",
+          "Detre JA"
+     ],
+     "AD": "Penn Image Computing and Science Laboratory (PICSL), Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104, USA. pauly2@mail.med.upenn.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH068066-04/MH/NIMH NIH HHS/United States",
+          "P30 NS045839-06A1/NS/NINDS NIH HHS/United States",
+          "NS061111/NS/NINDS NIH HHS/United States",
+          "R21 NS061111-02/NS/NINDS NIH HHS/United States",
+          "R03 EB008200/EB/NIBIB NIH HHS/United States",
+          "K25 AG027785-02/AG/NIA NIH HHS/United States",
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "MH068066/MH/NIMH NIH HHS/United States",
+          "K24 NS058386-02/NS/NINDS NIH HHS/United States",
+          "AG027785/AG/NIA NIH HHS/United States",
+          "R03 EB008200-01/EB/NIBIB NIH HHS/United States",
+          "P30 NS045839/NS/NINDS NIH HHS/United States",
+          "K24 NS058386/NS/NINDS NIH HHS/United States",
+          "R01 MH068066/MH/NIMH NIH HHS/United States",
+          "NS045839/NS/NINDS NIH HHS/United States",
+          "NS058386/NS/NINDS NIH HHS/United States",
+          "R21 NS061111/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20080918",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Cadaver",
+          "Computer Simulation",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "*Models, Anatomic",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC2650508",
+     "MID": [
+          "NIHMS83210"
+     ],
+     "EDAT": "2008/10/09 09:00",
+     "MHDA": "2009/02/20 09:00",
+     "CRDT": [
+          "2008/10/09 09:00"
+     ],
+     "PHST": [
+          "2008/04/08 00:00 [received]",
+          "2008/08/12 00:00 [revised]",
+          "2008/08/31 00:00 [accepted]",
+          "2008/10/09 09:00 [pubmed]",
+          "2009/02/20 09:00 [medline]",
+          "2008/10/09 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(08)00976-2 [pii]",
+          "10.1016/j.neuroimage.2008.08.042 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2009 Jan 15;44(2):385-98. doi: 10.1016/j.neuroimage.2008.08.042. Epub 2008 Sep 18.",
+     "term": "hippocampus"
+}

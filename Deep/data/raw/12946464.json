@@ -1,0 +1,87 @@
+{
+     "PMID": "12946464",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040226",
+     "LR": "20071114",
+     "IS": "1361-8415 (Print) 1361-8415 (Linking)",
+     "VI": "7",
+     "IP": "3",
+     "DP": "2003 Sep",
+     "TI": "Statistical shape analysis of neuroanatomical structures based on medial models.",
+     "PG": "207-20",
+     "AB": "Knowledge about the biological variability of anatomical objects is essential for statistical shape analysis and discrimination between healthy and pathological structures. This paper describes a novel approach that incorporates the variability of an object population into the generation of a characteristic 3D shape model. The proposed shape representation is a coarse-scale sampled medial description derived from a fine-scale spherical harmonics (SPHARM) boundary description. This medial description is composed of a net of medial samples (m-rep) with fixed graph properties. The medial model is computed automatically from a predefined shape space using pruned 3D Voronoi skeletons. A new method determines the stable medial branching topology from the shape space. An intrinsic coordinate system and an implicit correspondence between shapes is defined on the medial manifold. Several studies of biological structures clearly demonstrate that the novel representation has the promise to describe shape changes in a natural and intuitive way. A new medial shape similarity study of group differences between monozygotic and dizygotic twins in lateral ventricle shape demonstrates the meaningful and powerful representation of local and global form.",
+     "FAU": [
+          "Styner, M",
+          "Gerig, G",
+          "Lieberman, J",
+          "Jones, D",
+          "Weinberger, D"
+     ],
+     "AU": [
+          "Styner M",
+          "Gerig G",
+          "Lieberman J",
+          "Jones D",
+          "Weinberger D"
+     ],
+     "AD": "Department of Computer Science, University of North Carolina, Chapel Hill, NC 27599, USA. martin_styner@ieee.org",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "CA 47982/CA/NCI NIH HHS/United States",
+          "P30-MH33127/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Validation Studies"
+     ],
+     "PL": "Netherlands",
+     "TA": "Med Image Anal",
+     "JT": "Medical image analysis",
+     "JID": "9713490",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Brain/pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Lateral Ventricles/*pathology",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Models, Biological",
+          "Models, Statistical",
+          "Nervous System/anatomy & histology/pathology",
+          "*Pattern Recognition, Automated",
+          "Reproducibility of Results",
+          "Schizophrenia/*diagnosis",
+          "Sensitivity and Specificity",
+          "Subtraction Technique",
+          "Twins, Dizygotic",
+          "Twins, Monozygotic"
+     ],
+     "EDAT": "2003/08/30 05:00",
+     "MHDA": "2004/02/27 05:00",
+     "CRDT": [
+          "2003/08/30 05:00"
+     ],
+     "PHST": [
+          "2003/08/30 05:00 [pubmed]",
+          "2004/02/27 05:00 [medline]",
+          "2003/08/30 05:00 [entrez]"
+     ],
+     "AID": [
+          "S136184150200110X [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Anal. 2003 Sep;7(3):207-20.",
+     "term": "hippocampus"
+}

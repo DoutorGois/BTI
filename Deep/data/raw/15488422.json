@@ -1,0 +1,90 @@
+{
+     "PMID": "15488422",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050105",
+     "LR": "20071114",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "23",
+     "IP": "2",
+     "DP": "2004 Oct",
+     "TI": "A unified approach for morphometric and functional data analysis in young, old, and demented adults using automated atlas-based head size normalization: reliability and validation against manual measurement of total intracranial volume.",
+     "PG": "724-38",
+     "AB": "Atlas normalization, as commonly used by functional data analysis, provides an automated solution to the widely encountered problem of correcting for head size variation in regional and whole-brain morphometric analyses, so long as an age- and population-appropriate target atlas is used. In the present article, we develop and validate an atlas normalization procedure for head size correction using manual total intracranial volume (TIV) measurement as a reference. The target image used for atlas transformation consisted of a merged young and old-adult template specifically created for cross age-span normalization. Automated atlas transformation generated the Atlas Scaling Factor (ASF) defined as the volume-scaling factor required to match each individual to the atlas target. Because atlas normalization equates head size, the ASF should be proportional to TIV. A validation analysis was performed on 147 subjects to evaluate ASF as a proxy for manual TIV measurement. In addition, 19 subjects were imaged on multiple days to assess test-retest reliability. Results indicated that the ASF was (1) equivalent to manual TIV normalization (r = 0.93), (2) reliable across multiple imaging sessions (r = 1.00; mean absolute percentage of difference = 0.51%), (3) able to connect between-gender head size differences, and (4) minimally biased in demented older adults with marked atrophy. Hippocampal volume differences between nondemented (n = 49) and demented (n = 50) older adults (measured manually) were equivalent whether corrected using manual TIV or automated ASF (effect sizes of 1.29 and 1.46, respectively). To provide normative values, ASF was used to automatically derive estimated TIV (eTIV) in 335 subjects aged 15-96 including both clinically characterized nondemented (n = 77) and demented (n = 90) older adults. Differences in eTIV between nondemented and demented groups were negligible, thus failing to support the hypothesis that large premorbid brain size moderates Alzheimer's disease. Gender was the only robust factor that influenced eTIV. Men showed an approximately approximately 12% larger eTIV than women. These results demonstrate that atlas normalization using appropriate template images provides a robust, automated method for head size correction that is equivalent to manual TIV correction in studies of aging and dementia. Thus, atlas normalization provides a common framework for both morphometric and functional data analysis.",
+     "FAU": [
+          "Buckner, Randy L",
+          "Head, Denise",
+          "Parker, Jamie",
+          "Fotenos, Anthony F",
+          "Marcus, Daniel",
+          "Morris, John C",
+          "Snyder, Abraham Z"
+     ],
+     "AU": [
+          "Buckner RL",
+          "Head D",
+          "Parker J",
+          "Fotenos AF",
+          "Marcus D",
+          "Morris JC",
+          "Snyder AZ"
+     ],
+     "AD": "Department of Psychology, HHMI at Washington University, Campus Box 1125, One Brookings Drive, St. Louis, MO 63130, USA. rbuckner@artsci.wustl.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "AG03991/AG/NIA NIH HHS/United States",
+          "P50 AG05681/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Aging/*physiology",
+          "Algorithms",
+          "Atrophy",
+          "Dementia/*pathology",
+          "Female",
+          "Head/*anatomy & histology",
+          "Hippocampus/anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Reproducibility of Results",
+          "Sex Characteristics"
+     ],
+     "EDAT": "2004/10/19 09:00",
+     "MHDA": "2005/01/06 09:00",
+     "CRDT": [
+          "2004/10/19 09:00"
+     ],
+     "PHST": [
+          "2004/03/27 00:00 [received]",
+          "2004/06/03 00:00 [revised]",
+          "2004/06/07 00:00 [accepted]",
+          "2004/10/19 09:00 [pubmed]",
+          "2005/01/06 09:00 [medline]",
+          "2004/10/19 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053811904003271 [pii]",
+          "10.1016/j.neuroimage.2004.06.018 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2004 Oct;23(2):724-38. doi: 10.1016/j.neuroimage.2004.06.018.",
+     "term": "hippocampus"
+}

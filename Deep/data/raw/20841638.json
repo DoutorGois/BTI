@@ -1,0 +1,68 @@
+{
+     "PMID": "20841638",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110811",
+     "LR": "20151119",
+     "IS": "1741-2552 (Electronic) 1741-2552 (Linking)",
+     "VI": "7",
+     "IP": "5",
+     "DP": "2010 Oct",
+     "TI": "Modeling carbachol-induced hippocampal network synchronization using hidden Markov models.",
+     "PG": "056012",
+     "LID": "10.1088/1741-2560/7/5/056012 [doi]",
+     "AB": "In this work we studied the neural state transitions undergone by the hippocampal neural network using a hidden Markov model (HMM) framework. We first employed a measure based on the Lempel-Ziv (LZ) estimator to characterize the changes in the hippocampal oscillation patterns in terms of their complexity. These oscillations correspond to different modes of hippocampal network synchronization induced by the cholinergic agonist carbachol in the CA1 region of mice hippocampus. HMMs are then used to model the dynamics of the LZ-derived complexity signals as first-order Markov chains. Consequently, the signals corresponding to our oscillation recordings can be segmented into a sequence of statistically discriminated hidden states. The segmentation is used for detecting transitions in neural synchronization modes in data recorded from wild-type and triple transgenic mice models (3xTG) of Alzheimer's disease (AD). Our data suggest that transition from low-frequency (delta range) continuous oscillation mode into high-frequency (theta range) oscillation, exhibiting repeated burst-type patterns, occurs always through a mode resembling a mixture of the two patterns, continuous with burst. The relatively random patterns of oscillation during this mode may reflect the fact that the neuronal network undergoes re-organization. Further insight into the time durations of these modes (retrieved via the HMM segmentation of the LZ-derived signals) reveals that the mixed mode lasts significantly longer (p < 10(-4)) in 3xTG AD mice. These findings, coupled with the documented cholinergic neurotransmission deficits in the 3xTG mice model, may be highly relevant for the case of AD.",
+     "FAU": [
+          "Dragomir, Andrei",
+          "Akay, Yasemin M",
+          "Akay, Metin"
+     ],
+     "AU": [
+          "Dragomir A",
+          "Akay YM",
+          "Akay M"
+     ],
+     "AD": "Department of Biomedical Engineering, Cullen College of Engineering, University of Houston, Houston, TX, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "DEP": "20100914",
+     "PL": "England",
+     "TA": "J Neural Eng",
+     "JT": "Journal of neural engineering",
+     "JID": "101217933",
+     "RN": [
+          "8Y164V895Y (Carbachol)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/drug effects/*physiology",
+          "Animals",
+          "Carbachol/*pharmacology",
+          "Hippocampus/drug effects/*physiology",
+          "*Markov Chains",
+          "Mice",
+          "*Neural Networks (Computer)"
+     ],
+     "EDAT": "2010/09/16 06:00",
+     "MHDA": "2011/08/13 06:00",
+     "CRDT": [
+          "2010/09/16 06:00"
+     ],
+     "PHST": [
+          "2010/09/16 06:00 [entrez]",
+          "2010/09/16 06:00 [pubmed]",
+          "2011/08/13 06:00 [medline]"
+     ],
+     "AID": [
+          "S1741-2560(10)55564-2 [pii]",
+          "10.1088/1741-2560/7/5/056012 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neural Eng. 2010 Oct;7(5):056012. doi: 10.1088/1741-2560/7/5/056012. Epub 2010 Sep 14.",
+     "term": "hippocampus"
+}

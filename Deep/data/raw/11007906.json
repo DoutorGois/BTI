@@ -1,0 +1,67 @@
+{
+     "PMID": "11007906",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20010222",
+     "LR": "20061115",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "20",
+     "IP": "19",
+     "DP": "2000 Oct 1",
+     "TI": "The involvement of recurrent connections in area CA3 in establishing the properties of place fields: a model.",
+     "PG": "7463-77",
+     "AB": "Strong constraints on the neural mechanisms underlying the formation of place fields in the rodent hippocampus come from the systematic changes in spatial activity patterns that are consequent on systematic environmental manipulations. We describe an attractor network model of area CA3 in which local, recurrent, excitatory, and inhibitory interactions generate appropriate place cell representations from location- and direction-specific activity in the entorhinal cortex. In the model, familiarity with the environment, as reflected by activity in neuromodulatory systems, influences the efficacy and plasticity of the recurrent and feedforward inputs to CA3. In unfamiliar, novel, environments, mossy fiber inputs impose activity patterns on CA3, and the recurrent collaterals and the perforant path inputs are subject to graded Hebbian plasticity. This sculpts CA3 attractors and associates them with activity patterns in the entorhinal cortex. In familiar environments, place fields are controlled by the way that perforant path inputs select among the attractors. Depending on the training experience provided, the model generates place fields that are either directional or nondirectional and whose changes when the environment undergoes simple geometric transformations are in accordance with experimental data. Representations of multiple environments can be stored and recalled with little interference, and these have the appropriate degrees of similarity in visually similar environments.",
+     "FAU": [
+          "Kali, S",
+          "Dayan, P"
+     ],
+     "AU": [
+          "Kali S",
+          "Dayan P"
+     ],
+     "AD": "Gatsby Computational Neuroscience Unit, University College London, London WC1N 3AR, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Computer Simulation",
+          "Entorhinal Cortex/physiology",
+          "Environment",
+          "Exploratory Behavior/physiology",
+          "Hippocampus/*physiology",
+          "Maze Learning/physiology",
+          "Memory/physiology",
+          "*Models, Neurological",
+          "Mossy Fibers, Hippocampal/physiology",
+          "*Neural Networks (Computer)",
+          "Neuronal Plasticity/physiology",
+          "Perforant Pathway/physiology",
+          "Rats",
+          "Reaction Time/physiology",
+          "Space Perception/*physiology"
+     ],
+     "EDAT": "2000/09/29 11:00",
+     "MHDA": "2001/03/03 10:01",
+     "CRDT": [
+          "2000/09/29 11:00"
+     ],
+     "PHST": [
+          "2000/09/29 11:00 [pubmed]",
+          "2001/03/03 10:01 [medline]",
+          "2000/09/29 11:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2000 Oct 1;20(19):7463-77.",
+     "term": "hippocampus"
+}

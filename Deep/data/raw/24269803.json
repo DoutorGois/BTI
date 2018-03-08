@@ -1,0 +1,91 @@
+{
+     "PMID": "24269803",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180119",
+     "LR": "20180221",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "88",
+     "DP": "2014 Mar",
+     "TI": "Capturing the musical brain with Lasso: Dynamic decoding of musical features from fMRI data.",
+     "PG": "170-80",
+     "LID": "10.1016/j.neuroimage.2013.11.017 [doi] S1053-8119(13)01109-9 [pii]",
+     "AB": "We investigated neural correlates of musical feature processing with a decoding approach. To this end, we used a method that combines computational extraction of musical features with regularized multiple regression (LASSO). Optimal model parameters were determined by maximizing the decoding accuracy using a leave-one-out cross-validation scheme. The method was applied to functional magnetic resonance imaging (fMRI) data that were collected using a naturalistic paradigm, in which participants' brain responses were recorded while they were continuously listening to pieces of real music. The dependent variables comprised musical feature time series that were computationally extracted from the stimulus. We expected timbral features to obtain a higher prediction accuracy than rhythmic and tonal ones. Moreover, we expected the areas significantly contributing to the decoding models to be consistent with areas of significant activation observed in previous research using a naturalistic paradigm with fMRI. Of the six musical features considered, five could be significantly predicted for the majority of participants. The areas significantly contributing to the optimal decoding models agreed to a great extent with results obtained in previous studies. In particular, areas in the superior temporal gyrus, Heschl's gyrus, Rolandic operculum, and cerebellum contributed to the decoding of timbral features. For the decoding of the rhythmic feature, we found the bilateral superior temporal gyrus, right Heschl's gyrus, and hippocampus to contribute most. The tonal feature, however, could not be significantly predicted, suggesting a higher inter-participant variability in its neural processing. A subsequent classification experiment revealed that segments of the stimulus could be classified from the fMRI data with significant accuracy. The present findings provide compelling evidence for the involvement of the auditory cortex, the cerebellum and the hippocampus in the processing of musical features during continuous listening to music.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Toiviainen, Petri",
+          "Alluri, Vinoo",
+          "Brattico, Elvira",
+          "Wallentin, Mikkel",
+          "Vuust, Peter"
+     ],
+     "AU": [
+          "Toiviainen P",
+          "Alluri V",
+          "Brattico E",
+          "Wallentin M",
+          "Vuust P"
+     ],
+     "AD": "Finnish Centre of Excellence in Interdisciplinary Music Research, Department of Music, University of Jyvaskyla, Finland. Electronic address: petri.toiviainen@jyu.fi. Finnish Centre of Excellence in Interdisciplinary Music Research, Department of Music, University of Jyvaskyla, Finland; Department of Mathematical Information Technology, University of Jyvaskyla, Finland. Electronic address: vinoo.alluri@jyu.fi. Finnish Centre of Excellence in Interdisciplinary Music Research, Department of Music, University of Jyvaskyla, Finland; Brain & Mind Laboratory, Biomedical Engineering and Computational Science (BECS), Aalto University, Finland; Cognitive Brain Research Unit (CBRU), Institute of Behavioural Sciences, University of Helsinki, Finland. Electronic address: elvira.brattico@helsinki.fi. Center of Functionally Integrative Neuroscience, Aarhus University Hospital, Denmark. Electronic address: mikkel@cfin.dk. Center of Functionally Integrative Neuroscience, Aarhus University Hospital, Denmark; Royal Academy of Music, Aarhus, Denmark. Electronic address: pv@musikkons.dk.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20131119",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Auditory Cortex/diagnostic imaging/*physiology",
+          "Auditory Perception/*physiology",
+          "Brain Mapping/*methods",
+          "Cerebellum/diagnostic imaging/*physiology",
+          "Female",
+          "Hippocampus/diagnostic imaging/*physiology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "*Music",
+          "*Signal Processing, Computer-Assisted",
+          "Young Adult"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*Decoding",
+          "*Music",
+          "*Music Information Retrieval",
+          "*Naturalistic paradigm",
+          "*Time series",
+          "*fMRI"
+     ],
+     "EDAT": "2013/11/26 06:00",
+     "MHDA": "2013/11/26 06:01",
+     "CRDT": [
+          "2013/11/26 06:00"
+     ],
+     "PHST": [
+          "2013/07/03 00:00 [received]",
+          "2013/10/05 00:00 [revised]",
+          "2013/11/10 00:00 [accepted]",
+          "2013/11/26 06:00 [entrez]",
+          "2013/11/26 06:00 [pubmed]",
+          "2013/11/26 06:01 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(13)01109-9 [pii]",
+          "10.1016/j.neuroimage.2013.11.017 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2014 Mar;88:170-80. doi: 10.1016/j.neuroimage.2013.11.017. Epub 2013 Nov 19.",
+     "term": "hippocampus"
+}

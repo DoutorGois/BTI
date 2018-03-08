@@ -1,0 +1,68 @@
+{
+     "PMID": "9740038",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19981208",
+     "LR": "20131121",
+     "IS": "0895-6111 (Print) 0895-6111 (Linking)",
+     "VI": "22",
+     "IP": "3",
+     "DP": "1998 May-Jun",
+     "TI": "Segmentation of the hippocampus from brain MRI using deformable contours.",
+     "PG": "203-16",
+     "AB": "The application of a discrete dynamic contour model for segmentation of the hippocampus from brain MRI has been investigated. Solutions to several common problems of dynamic contours in this case and similar cases have been developed. A new method for extracting the discontinuous boundary of a structure with multiple edges near the structure has been developed. The method is based on detecting and following edges by external forces. The reliability of the final contour and the model stability have been improved by using a continuous mapping of the external energy and limiting movements of the contour. The problem of optimizing the internal force weight has been overcome by making it dependent on the amount of the external force. Finally, the results of applying the proposed algorithm, which implements the above modifications, to multiple applications have been evaluated.",
+     "FAU": [
+          "Ghanei, A",
+          "Soltanian-Zadeh, H",
+          "Windham, J P"
+     ],
+     "AU": [
+          "Ghanei A",
+          "Soltanian-Zadeh H",
+          "Windham JP"
+     ],
+     "AD": "Department of Diagnostic Radiology and Medical Imaging, Henry Ford Hospital, Detroit, MI 48202, USA. aghanei@umich.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Comput Med Imaging Graph",
+     "JT": "Computerized medical imaging and graphics : the official journal of the Computerized Medical Imaging Society",
+     "JID": "8806104",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Artifacts",
+          "Biomechanical Phenomena",
+          "Brain/*anatomy & histology",
+          "Computer Simulation",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Biological",
+          "Movement",
+          "Phantoms, Imaging",
+          "Reproducibility of Results",
+          "Tomography, X-Ray Computed"
+     ],
+     "EDAT": "1998/09/18 00:00",
+     "MHDA": "1998/09/18 00:01",
+     "CRDT": [
+          "1998/09/18 00:00"
+     ],
+     "PHST": [
+          "1998/09/18 00:00 [pubmed]",
+          "1998/09/18 00:01 [medline]",
+          "1998/09/18 00:00 [entrez]"
+     ],
+     "AID": [
+          "S0895-6111(98)00026-3 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Med Imaging Graph. 1998 May-Jun;22(3):203-16.",
+     "term": "hippocampus"
+}

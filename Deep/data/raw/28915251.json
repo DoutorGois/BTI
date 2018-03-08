@@ -1,0 +1,77 @@
+{
+     "PMID": "28915251",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171012",
+     "LR": "20171012",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "12",
+     "IP": "9",
+     "DP": "2017",
+     "TI": "Computational analysis of network activity and spatial reach of sharp wave-ripples.",
+     "PG": "e0184542",
+     "LID": "10.1371/journal.pone.0184542 [doi]",
+     "AB": "Network oscillations of different frequencies, durations and amplitudes are hypothesized to coordinate information processing and transfer across brain areas. Among these oscillations, hippocampal sharp wave-ripple complexes (SPW-Rs) are one of the most prominent. SPW-Rs occurring in the hippocampus are suggested to play essential roles in memory consolidation as well as information transfer to the neocortex. To-date, most of the knowledge about SPW-Rs comes from experimental studies averaging responses from neuronal populations monitored by conventional microelectrodes. In this work, we investigate spatiotemporal characteristics of SPW-Rs and how microelectrode size and distance influence SPW-R recordings using a biophysical model of hippocampus. We also explore contributions from neuronal spikes and synaptic potentials to SPW-Rs based on two different types of network activity. Our study suggests that neuronal spikes from pyramidal cells contribute significantly to ripples while high amplitude sharp waves mainly arise from synaptic activity. Our simulations on spatial reach of SPW-Rs show that the amplitudes of sharp waves and ripples exhibit a steep decrease with distance from the network and this effect is more prominent for smaller area electrodes. Furthermore, the amplitude of the signal decreases strongly with increasing electrode surface area as a result of averaging. The relative decrease is more pronounced when the recording electrode is closer to the source of the activity. Through simulations of field potentials across a high-density microelectrode array, we demonstrate the importance of finding the ideal spatial resolution for capturing SPW-Rs with great sensitivity. Our work provides insights on contributions from spikes and synaptic potentials to SPW-Rs and describes the effect of measurement configuration on LFPs to guide experimental studies towards improved SPW-R recordings.",
+     "FAU": [
+          "Canakci, Sadullah",
+          "Toy, Muhammed Faruk",
+          "Inci, Ahmet Fatih",
+          "Liu, Xin",
+          "Kuzum, Duygu"
+     ],
+     "AU": [
+          "Canakci S",
+          "Toy MF",
+          "Inci AF",
+          "Liu X",
+          "Kuzum D"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-2855-7818"
+     ],
+     "AD": "Electrical and Computer Engineering Department, Boston University, Boston, Massachusetts, United States of America. Electrical and Computer Engineering Department, University of California San Diego, La Jolla, California, United States of America. Electrical and Electronics Engineering, Middle East Technical University, Ankara, Turkey. Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, Turkey. Electrical and Computer Engineering Department, University of California San Diego, La Jolla, California, United States of America. Electrical and Computer Engineering Department, University of California San Diego, La Jolla, California, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170915",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Computer Simulation",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Microelectrodes",
+          "*Models, Neurological",
+          "Neocortex/*physiology",
+          "Nerve Net/*physiology",
+          "Pyramidal Cells/physiology",
+          "Synaptic Potentials/*physiology"
+     ],
+     "PMC": "PMC5600383",
+     "EDAT": "2017/09/16 06:00",
+     "MHDA": "2017/10/13 06:00",
+     "CRDT": [
+          "2017/09/16 06:00"
+     ],
+     "PHST": [
+          "2016/11/03 00:00 [received]",
+          "2017/08/25 00:00 [accepted]",
+          "2017/09/16 06:00 [entrez]",
+          "2017/09/16 06:00 [pubmed]",
+          "2017/10/13 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0184542 [doi]",
+          "PONE-D-16-43704 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2017 Sep 15;12(9):e0184542. doi: 10.1371/journal.pone.0184542. eCollection 2017.",
+     "term": "hippocampus"
+}

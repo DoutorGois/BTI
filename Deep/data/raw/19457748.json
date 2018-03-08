@@ -1,0 +1,95 @@
+{
+     "PMID": "19457748",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100322",
+     "LR": "20170220",
+     "IS": "1558-254X (Electronic) 0278-0062 (Linking)",
+     "VI": "29",
+     "IP": "1",
+     "DP": "2010 Jan",
+     "TI": "Comparison of AdaBoost and support vector machines for detecting Alzheimer's disease through automated hippocampal segmentation.",
+     "PG": "30-43",
+     "LID": "10.1109/TMI.2009.2021941 [doi]",
+     "AB": "We compared four automated methods for hippocampal segmentation using different machine learning algorithms: 1) hierarchical AdaBoost, 2) support vector machines (SVM) with manual feature selection, 3) hierarchical SVM with automated feature selection (Ada-SVM), and 4) a publicly available brain segmentation package (FreeSurfer). We trained our approaches using T1-weighted brain MRIs from 30 subjects [10 normal elderly, 10 mild cognitive impairment (MCI), and 10 Alzheimer's disease (AD)], and tested on an independent set of 40 subjects (20 normal, 20 AD). Manually segmented gold standard hippocampal tracings were available for all subjects (training and testing). We assessed each approach's accuracy relative to manual segmentations, and its power to map AD effects. We then converted the segmentations into parametric surfaces to map disease effects on anatomy. After surface reconstruction, we computed significance maps, and overall corrected p-values, for the 3-D profile of shape differences between AD and normal subjects. Our AdaBoost and Ada-SVM segmentations compared favorably with the manual segmentations and detected disease effects as well as FreeSurfer on the data tested. Cumulative p-value plots, in conjunction with the false discovery rate method, were used to examine the power of each method to detect correlations with diagnosis and cognitive scores. We also evaluated how segmentation accuracy depended on the size of the training set, providing practical information for future users of this technique.",
+     "FAU": [
+          "Morra, Jonathan H",
+          "Tu, Zhuowen",
+          "Apostolova, Liana G",
+          "Green, Amity E",
+          "Toga, Arthur W",
+          "Thompson, Paul M"
+     ],
+     "AU": [
+          "Morra JH",
+          "Tu Z",
+          "Apostolova LG",
+          "Green AE",
+          "Toga AW",
+          "Thompson PM"
+     ],
+     "AD": "Laboratory of Neuro Imaging, Department of Neurology, University of California, Los Angeles, CA 90095, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 HD050735-02/HD/NICHD NIH HHS/United States",
+          "P50 AG16570/AG/NIA NIH HHS/United States",
+          "AG016570/AG/NIA NIH HHS/United States",
+          "R01 LM005639-10/LM/NLM NIH HHS/United States",
+          "R21 RR019771/RR/NCRR NIH HHS/United States",
+          "R01 LM005639/LM/NLM NIH HHS/United States",
+          "HD050735/HD/NICHD NIH HHS/United States",
+          "EB01651/EB/NIBIB NIH HHS/United States",
+          "RR019771/RR/NCRR NIH HHS/United States",
+          "P50 AG016570/AG/NIA NIH HHS/United States",
+          "K23 AG026803/AG/NIA NIH HHS/United States",
+          "R01 HD050735/HD/NICHD NIH HHS/United States",
+          "U54 RR021813-05/RR/NCRR NIH HHS/United States",
+          "U54 RR021813/RR/NCRR NIH HHS/United States",
+          "LM05639/LM/NLM NIH HHS/United States",
+          "R21 RR019771-02/RR/NCRR NIH HHS/United States",
+          "P50 AG016570-100004/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090519",
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Alzheimer Disease/*diagnosis/pathology",
+          "*Artificial Intelligence",
+          "Bayes Theorem",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/methods"
+     ],
+     "PMC": "PMC2805054",
+     "MID": [
+          "NIHMS136696"
+     ],
+     "EDAT": "2009/05/22 09:00",
+     "MHDA": "2010/03/23 06:00",
+     "CRDT": [
+          "2009/05/22 09:00"
+     ],
+     "PHST": [
+          "2009/05/22 09:00 [entrez]",
+          "2009/05/22 09:00 [pubmed]",
+          "2010/03/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TMI.2009.2021941 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2010 Jan;29(1):30-43. doi: 10.1109/TMI.2009.2021941. Epub 2009 May 19.",
+     "term": "hippocampus"
+}

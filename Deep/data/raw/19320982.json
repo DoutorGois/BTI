@@ -1,0 +1,84 @@
+{
+     "PMID": "19320982",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090630",
+     "LR": "20170922",
+     "IS": "1471-2202 (Electronic) 1471-2202 (Linking)",
+     "VI": "10",
+     "DP": "2009 Mar 25",
+     "TI": "A mathematical model of aging-related and cortisol induced hippocampal dysfunction.",
+     "PG": "26",
+     "LID": "10.1186/1471-2202-10-26 [doi]",
+     "AB": "BACKGROUND: The hippocampus is essential for declarative memory synthesis and is a core pathological substrate for Alzheimer's disease (AD), the most common aging-related dementing disease. Acute increases in plasma cortisol are associated with transient hippocampal inhibition and retrograde amnesia, while chronic cortisol elevation is associated with hippocampal atrophy. Thus, cortisol levels could be monitored and managed in older people, to decrease their risk of AD type hippocampal dysfunction. We generated an in silicomodel of the chronic effects of elevated plasma cortisol on hippocampal activity and atrophy, using the systems biology mark-up language (SBML). We further challenged the model with biologically based interventions to ascertain if cortisol associated hippocampal dysfunction could be abrogated. RESULTS: The in silicoSBML model reflected the in vivoaging of the hippocampus and increased plasma cortisol and negative feedback to the hypothalamic pituitary axis. Aging induced a 12% decrease in hippocampus activity (HA), increased to 30% by acute and 40% by chronic elevations in cortisol. The biological intervention attenuated the cortisol associated decrease in HA by 2% in the acute cortisol simulation and by 8% in the chronic simulation. CONCLUSION: Both acute and chronic elevations in cortisol secretion increased aging-associated hippocampal atrophy and a loss of HA in the model. We suggest that this first SMBL model, in tandem with in vitroand in vivostudies, may provide a backbone to further frame computational cortisol and brain aging models, which may help predict aging-related brain changes in vulnerable older people.",
+     "FAU": [
+          "McAuley, Mark T",
+          "Kenny, Rose Anne",
+          "Kirkwood, Thomas B L",
+          "Wilkinson, Darren J",
+          "Jones, Janette J L",
+          "Miller, Veronica M"
+     ],
+     "AU": [
+          "McAuley MT",
+          "Kenny RA",
+          "Kirkwood TB",
+          "Wilkinson DJ",
+          "Jones JJ",
+          "Miller VM"
+     ],
+     "AD": "Henry Wellcome Building, Biogerontology Building, Institute for Ageing and Health, Newcastle University, Newcastle Upon Tyne, England, NE4 6BE, UK. M.McAuley@herts.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "BB/C008200/1/Biotechnology and Biological Sciences Research Council/United",
+          "Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090325",
+     "PL": "England",
+     "TA": "BMC Neurosci",
+     "JT": "BMC neuroscience",
+     "JID": "100966986",
+     "RN": [
+          "WI4X0X7BPJ (Hydrocortisone)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aging/*pathology",
+          "Atrophy",
+          "Computational Biology",
+          "*Computer Simulation",
+          "Hippocampus/*pathology/physiopathology",
+          "Humans",
+          "Hydrocortisone/*adverse effects/blood",
+          "Hypothalamo-Hypophyseal System/physiopathology",
+          "Models, Theoretical",
+          "Neurodegenerative Diseases/*pathology/physiopathology",
+          "Pituitary-Adrenal System/physiopathology"
+     ],
+     "PMC": "PMC2680862",
+     "EDAT": "2009/03/27 09:00",
+     "MHDA": "2009/07/01 09:00",
+     "CRDT": [
+          "2009/03/27 09:00"
+     ],
+     "PHST": [
+          "2008/01/23 00:00 [received]",
+          "2009/03/25 00:00 [accepted]",
+          "2009/03/27 09:00 [entrez]",
+          "2009/03/27 09:00 [pubmed]",
+          "2009/07/01 09:00 [medline]"
+     ],
+     "AID": [
+          "1471-2202-10-26 [pii]",
+          "10.1186/1471-2202-10-26 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "BMC Neurosci. 2009 Mar 25;10:26. doi: 10.1186/1471-2202-10-26.",
+     "term": "hippocampus"
+}

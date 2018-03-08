@@ -1,0 +1,65 @@
+{
+     "PMID": "22132041",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20120823",
+     "LR": "20170220",
+     "IS": "1871-4099 (Electronic) 1871-4080 (Linking)",
+     "VI": "4",
+     "IP": "4",
+     "DP": "2010 Dec",
+     "TI": "A Kalman filtering approach to the representation of kinematic quantities by the hippocampal-entorhinal complex.",
+     "PG": "315-35",
+     "LID": "10.1007/s11571-010-9115-z [doi]",
+     "AB": "Several regions of the brain which represent kinematic quantities are grouped under a single state-estimator framework. A theoretic effort is made to predict the activity of each cell population as a function of time using a simple state estimator (the Kalman filter). Three brain regions are considered in detail: the parietal cortex (reaching cells), the hippocampus (place cells and head-direction cells), and the entorhinal cortex (grid cells). For the reaching cell and place cell examples, we compute the perceived probability distributions of objects in the environment as a function of the observations. For the grid cell example, we show that the elastic behavior of the grids observed in experiments arises naturally from the Kalman filter. To our knowledge, the application of a tensor Kalman filter to grid cells is completely novel.",
+     "FAU": [
+          "Osborn, Graham Wordsworth"
+     ],
+     "AU": [
+          "Osborn GW"
+     ],
+     "AD": "121 S Fremont Ave, Apt 305, Baltimore, MD 21201 USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20100608",
+     "PL": "Netherlands",
+     "TA": "Cogn Neurodyn",
+     "JT": "Cognitive neurodynamics",
+     "JID": "101306907",
+     "PMC": "PMC2974095",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Entorhinal",
+          "Grid cell",
+          "Hippocampus",
+          "Kalman filter",
+          "Place cell",
+          "State estimation"
+     ],
+     "EDAT": "2011/12/02 06:00",
+     "MHDA": "2011/12/02 06:01",
+     "CRDT": [
+          "2011/12/02 06:00"
+     ],
+     "PHST": [
+          "2009/09/07 00:00 [received]",
+          "2010/05/13 00:00 [revised]",
+          "2010/05/17 00:00 [accepted]",
+          "2011/12/02 06:00 [entrez]",
+          "2011/12/02 06:00 [pubmed]",
+          "2011/12/02 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1007/s11571-010-9115-z [doi]",
+          "9115 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cogn Neurodyn. 2010 Dec;4(4):315-35. doi: 10.1007/s11571-010-9115-z. Epub 2010 Jun 8.",
+     "term": "place cells"
+}

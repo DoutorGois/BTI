@@ -1,0 +1,70 @@
+{
+     "PMID": "26571534",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170818",
+     "LR": "20171121",
+     "IS": "1558-0210 (Electronic) 1534-4320 (Linking)",
+     "VI": "24",
+     "IP": "6",
+     "DP": "2016 Jun",
+     "TI": "Seizure Suppression Efficacy of Closed-Loop Versus Open-Loop Deep Brain Stimulation in a Rodent Model of Epilepsy.",
+     "PG": "710-9",
+     "LID": "10.1109/TNSRE.2015.2498973 [doi]",
+     "AB": "We assess and compare the effects of both closed-loop and open-loop neurostimulation of the rat hippocampus by means of a custom low-power programmable therapeutic neurostimulation device on the suppression of spontaneous seizures in a rodent model of epilepsy. Chronic seizures were induced by intraperitoneal kainic acid injection. Two bipolar electrodes were implanted into the CA1 regions of both hippocampi. The electrodes were connected to the custom-built programmable therapeutic neurostimulation device that can trigger an electrical stimulation either in a periodic manner or upon detection of the intracerebral electroencephalographic (icEEE) seizure onset. This device includes a microchip consisting of a 256-channel icEEG recording system and a 64-channel stimulator, and a programmable seizure detector implemented in a field-programmable gate array (FPGA). The neurostimulator was used to evaluate seizure suppression efficacy in ten epileptic rats for a total of 240 subject-days (5760 subject-hours). For this purpose, all rats were randomly divided into two groups: the no-stimulation group and the stimulation group. The no-stimulation group did not receive stimulation. The stimulation group received, first, closed-loop stimulation and, next, open-loop stimulation. The no-stimulation and stimulation groups had a similar seizure frequency baseline, averaging five seizures per day. Closed-loop stimulation reduced seizure frequency by 90% and open-loop stimulation reduced seizure frequency by 17%, both in the stimulation group as compared to the no-stimulation group.",
+     "FAU": [
+          "Salam, M Tariqus",
+          "Perez Velazquez, Jose Luis",
+          "Genov, Roman"
+     ],
+     "AU": [
+          "Salam MT",
+          "Perez Velazquez JL",
+          "Genov R"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20151110",
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Syst Rehabil Eng",
+     "JT": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "101097023",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Deep Brain Stimulation/*instrumentation/methods",
+          "Diagnosis, Computer-Assisted/instrumentation/methods",
+          "Electroencephalography/*instrumentation/methods",
+          "Epilepsy/*diagnosis/physiopathology/*prevention & control",
+          "Equipment Design",
+          "Equipment Failure Analysis",
+          "Feedback",
+          "Male",
+          "Rats",
+          "Rats, Wistar",
+          "Signal Processing, Computer-Assisted/instrumentation",
+          "Therapy, Computer-Assisted/*instrumentation/methods",
+          "Treatment Outcome"
+     ],
+     "EDAT": "2015/11/17 06:00",
+     "MHDA": "2017/08/19 06:00",
+     "CRDT": [
+          "2015/11/17 06:00"
+     ],
+     "PHST": [
+          "2015/11/17 06:00 [entrez]",
+          "2015/11/17 06:00 [pubmed]",
+          "2017/08/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TNSRE.2015.2498973 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Syst Rehabil Eng. 2016 Jun;24(6):710-9. doi: 10.1109/TNSRE.2015.2498973. Epub 2015 Nov 10.",
+     "term": "hippocampus"
+}

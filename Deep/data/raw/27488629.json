@@ -1,0 +1,94 @@
+{
+     "PMID": "27488629",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170710",
+     "LR": "20171220",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "36",
+     "IP": "31",
+     "DP": "2016 Aug 3",
+     "TI": "Direction Selectivity in Drosophila Emerges from Preferred-Direction Enhancement and Null-Direction Suppression.",
+     "PG": "8078-92",
+     "LID": "10.1523/JNEUROSCI.1272-16.2016 [doi]",
+     "AB": "UNLABELLED: Across animal phyla, motion vision relies on neurons that respond preferentially to stimuli moving in one, preferred direction over the opposite, null direction. In the elementary motion detector of Drosophila, direction selectivity emerges in two neuron types, T4 and T5, but the computational algorithm underlying this selectivity remains unknown. We find that the receptive fields of both T4 and T5 exhibit spatiotemporally offset light-preferring and dark-preferring subfields, each obliquely oriented in spacetime. In a linear-nonlinear modeling framework, the spatiotemporal organization of the T5 receptive field predicts the activity of T5 in response to motion stimuli. These findings demonstrate that direction selectivity emerges from the enhancement of responses to motion in the preferred direction, as well as the suppression of responses to motion in the null direction. Thus, remarkably, T5 incorporates the essential algorithmic strategies used by the Hassenstein-Reichardt correlator and the Barlow-Levick detector. Our model for T5 also provides an algorithmic explanation for the selectivity of T5 for moving dark edges: our model captures all two- and three-point spacetime correlations relevant to motion in this stimulus class. More broadly, our findings reveal the contribution of input pathway visual processing, specifically center-surround, temporally biphasic receptive fields, to the generation of direction selectivity in T5. As the spatiotemporal receptive field of T5 in Drosophila is common to the simple cell in vertebrate visual cortex, our stimulus-response model of T5 will inform efforts in an experimentally tractable context to identify more detailed, mechanistic models of a prevalent computation. SIGNIFICANCE STATEMENT: Feature selective neurons respond preferentially to astonishingly specific stimuli, providing the neurobiological basis for perception. Direction selectivity serves as a paradigmatic model of feature selectivity that has been examined in many species. While insect elementary motion detectors have served as premiere experimental models of direction selectivity for 60 years, the central question of their underlying algorithm remains unanswered. Using in vivo two-photon imaging of intracellular calcium signals, we measure the receptive fields of the first direction-selective cells in the Drosophila visual system, and define the algorithm used to compute the direction of motion. Computational modeling of these receptive fields predicts responses to motion and reveals how this circuit efficiently captures many useful correlations intrinsic to moving dark edges.",
+     "CI": [
+          "Copyright (c) 2016 the authors 0270-6474/16/368078-15$15.00/0."
+     ],
+     "FAU": [
+          "Leong, Jonathan Chit Sing",
+          "Esch, Jennifer Judson",
+          "Poole, Ben",
+          "Ganguli, Surya",
+          "Clandinin, Thomas Robert"
+     ],
+     "AU": [
+          "Leong JC",
+          "Esch JJ",
+          "Poole B",
+          "Ganguli S",
+          "Clandinin TR"
+     ],
+     "AUID": [
+          "ORCID: 0000-0002-9562-3360"
+     ],
+     "AD": "Department of Neurobiology, School of Medicine. Department of Neurobiology, School of Medicine. Department of Computer Science, and. Department of Applied Physics, Stanford University, Stanford, California 94305. Department of Neurobiology, School of Medicine, trc@stanford.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EY022638/EY/NEI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Drosophila/*physiology",
+          "*Models, Neurological",
+          "Motion Perception/*physiology",
+          "Orientation, Spatial/*physiology",
+          "Photic Stimulation/methods",
+          "Sensory Receptor Cells/*physiology",
+          "Space Perception/*physiology",
+          "Spatial Navigation/physiology",
+          "Visual Cortex/physiology"
+     ],
+     "PMC": "PMC4971360",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*Hassenstein-Reichardt correlator",
+          "*elementary motion detection",
+          "*two-photon calcium imaging in vivo"
+     ],
+     "EDAT": "2016/08/05 06:00",
+     "MHDA": "2017/07/14 06:00",
+     "CRDT": [
+          "2016/08/05 06:00"
+     ],
+     "PHST": [
+          "2016/04/16 00:00 [received]",
+          "2016/05/25 00:00 [accepted]",
+          "2016/08/05 06:00 [entrez]",
+          "2016/08/05 06:00 [pubmed]",
+          "2017/07/14 06:00 [medline]"
+     ],
+     "AID": [
+          "36/31/8078 [pii]",
+          "10.1523/JNEUROSCI.1272-16.2016 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2016 Aug 3;36(31):8078-92. doi: 10.1523/JNEUROSCI.1272-16.2016.",
+     "term": "spatial navigation"
+}

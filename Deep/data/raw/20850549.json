@@ -1,0 +1,86 @@
+{
+     "PMID": "20850549",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110405",
+     "LR": "20161019",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "54",
+     "IP": "2",
+     "DP": "2011 Jan 15",
+     "TI": "Instantaneous and causal connectivity in resting state brain networks derived from functional MRI data.",
+     "PG": "1043-52",
+     "LID": "10.1016/j.neuroimage.2010.09.024 [doi]",
+     "AB": "BACKGROUND: Most neuroimaging studies of resting state networks have concentrated on functional connectivity (FC) based on instantaneous correlation in a single network. In this study we investigated both FC and effective connectivity (EC) based on Granger causality of four important networks at resting state derived from functional magnetic resonance imaging data - default mode network (DMN), hippocampal cortical memory network (HCMN), dorsal attention network (DAN) and fronto-parietal control network (FPCN). METHODOLOGY/PRINCIPLE FINDINGS: A method called correlation-purged Granger causality analysis was used, not only enabling the simultaneous evaluation of FC and EC of all networks using a single multivariate model, but also accounting for the interaction between them resulting from the smoothing of neuronal activity by hemodynamics. FC was visualized using a force-directed layout upon which causal interactions were overlaid. FC results revealed that DAN is very tightly coupled compared to the other networks while the DMN forms the backbone around which the other networks amalgamate. The pattern of bidirectional causal interactions indicates that posterior cingulate and posterior inferior parietal lobule of DMN act as major hubs. The pattern of unidirectional causal paths revealed that hippocampus and anterior prefrontal cortex (aPFC) receive major inputs, likely reflecting memory encoding/retrieval and cognitive integration, respectively. Major outputs emanating from anterior insula and middle temporal area, which are directed at aPFC, may carry information about interoceptive awareness and external environment, respectively, into aPFC for integration, supporting the hypothesis that aPFC-seeded FPCN acts as a control network. CONCLUSIONS/SIGNIFICANCE: Our findings indicate the following. First, regions whose activities are not synchronized interact via time-delayed causal influences. Second, the causal interactions are organized such that cingulo-parietal regions act as hubs. Finally, segregation of different resting state networks is not clear cut but only by soft boundaries.",
+     "CI": [
+          "Copyright (c) 2010 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Deshpande, Gopikrishna",
+          "Santhanam, Priya",
+          "Hu, Xiaoping"
+     ],
+     "AU": [
+          "Deshpande G",
+          "Santhanam P",
+          "Hu X"
+     ],
+     "AD": "Wallace H Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University, Atlanta, GA 30322, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB002009/EB/NIBIB NIH HHS/United States",
+          "R01 EB002009-12/EB/NIBIB NIH HHS/United States",
+          "R01 EB002009-13/EB/NIBIB NIH HHS/United States",
+          "R01EB002009/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100917",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Brain/*physiology",
+          "Brain Mapping/*methods",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted/methods",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Nerve Net/*physiology",
+          "Neural Pathways/physiology",
+          "Rest/*physiology"
+     ],
+     "PMC": "PMC2997120",
+     "MID": [
+          "NIHMS238215"
+     ],
+     "EDAT": "2010/09/21 06:00",
+     "MHDA": "2011/04/06 06:00",
+     "CRDT": [
+          "2010/09/21 06:00"
+     ],
+     "PHST": [
+          "2010/04/27 00:00 [received]",
+          "2010/08/23 00:00 [revised]",
+          "2010/09/08 00:00 [accepted]",
+          "2010/09/21 06:00 [entrez]",
+          "2010/09/21 06:00 [pubmed]",
+          "2011/04/06 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(10)01205-X [pii]",
+          "10.1016/j.neuroimage.2010.09.024 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 Jan 15;54(2):1043-52. doi: 10.1016/j.neuroimage.2010.09.024. Epub 2010 Sep 17.",
+     "term": "hippocampus"
+}

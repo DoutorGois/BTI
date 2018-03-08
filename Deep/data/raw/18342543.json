@@ -1,0 +1,79 @@
+{
+     "PMID": "18342543",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080623",
+     "LR": "20170922",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "40",
+     "IP": "4",
+     "DP": "2008 May 1",
+     "TI": "Impact of inconsistent resolution on VBM studies.",
+     "PG": "1711-7",
+     "LID": "10.1016/j.neuroimage.2008.01.031 [doi]",
+     "AB": "This paper considers the effects of using magnetic resonance scans with different voxel dimensions in voxel-based morphometry studies. This is of potential relevance to many longitudinal studies or any ad-hoc study that relies on pre-existing databases of subjects. In order to study this effect, a group of controls were contrasted with a group of semantic dementia as well as with a group of Alzheimer's disease patients using a mixture of different voxel dimensions scans on each side of the statistical test. Scans were interpolated using a sinc function in order to obtain a different voxel depth. The effects were measured by comparing the output of each analysis to the benchmark in which all scans had the original depth (and highest resolution), both visually and through the computation of the root-mean-square error difference between the resulting t-maps. It was shown that the impact is highly dependent on the scan itself, with some images showing more robustness to the interpolation process, and hence yielding fewer differences. A measure of robustness is proposed, which may be used in order to understand the impact of mixing different dimensions or adjusting them for each scan. Indiscriminate use of voxel dimensions on both groups was found to produce more errors (false positives/false negatives) than does an approach involving the use of balanced groups and a voxel dimension nuisance covariate.",
+     "FAU": [
+          "Pereira, Joao M S",
+          "Nestor, Peter J",
+          "Williams, Guy B"
+     ],
+     "AU": [
+          "Pereira JM",
+          "Nestor PJ",
+          "Williams GB"
+     ],
+     "AD": "Department of Clinical Neurosciences, University of Cambridge School of Clinical Medicine, Cambridge, UK. jmsp2@wbic.cam.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0600986/Medical Research Council/United Kingdom",
+          "G108/653/Medical Research Council/United Kingdom",
+          "Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20080201",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Alzheimer Disease/pathology",
+          "Atrophy",
+          "Brain/*anatomy & histology/*pathology",
+          "Cerebral Cortex/pathology",
+          "Cohort Studies",
+          "Data Interpretation, Statistical",
+          "Hippocampus/pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*statistics & numerical data",
+          "Magnetic Resonance Imaging/*statistics & numerical data",
+          "Reproducibility of Results",
+          "Temporal Lobe/pathology"
+     ],
+     "EDAT": "2008/03/18 09:00",
+     "MHDA": "2008/06/24 09:00",
+     "CRDT": [
+          "2008/03/18 09:00"
+     ],
+     "PHST": [
+          "2007/09/13 00:00 [received]",
+          "2008/01/16 00:00 [revised]",
+          "2008/01/22 00:00 [accepted]",
+          "2008/03/18 09:00 [pubmed]",
+          "2008/06/24 09:00 [medline]",
+          "2008/03/18 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(08)00090-6 [pii]",
+          "10.1016/j.neuroimage.2008.01.031 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2008 May 1;40(4):1711-7. doi: 10.1016/j.neuroimage.2008.01.031. Epub 2008 Feb 1.",
+     "term": "hippocampus"
+}

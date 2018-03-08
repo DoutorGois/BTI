@@ -1,0 +1,81 @@
+{
+     "PMID": "12169244",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20020911",
+     "LR": "20161124",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "16",
+     "IP": "3 Pt 1",
+     "DP": "2002 Jul",
+     "TI": "Template-based method for multiple volumes of interest of human brain PET images.",
+     "PG": "577-86",
+     "AB": "Specific region-based analysis for the quantification of brain imaging is very time-consuming work and subject to errors in both accuracy and reproducibility. In this study, we assessed a two-step template-based method for defining volumes of interest (VOIs). The first step was the spatial transformation of the VOI template from a model MRI to an individual MRI with SPM99. The second step was to refine the transformed VOI to the individual gray matter of MRI using the intensity characteristics of this image with our developed software running on a PC type of computer. The reliability of the values of the final refined VOIs was investigated by comparing them to those of manually drawn VOIs. The template-based method was found to be both accurate and robust and can be used as a reliable alternative for the manual determination of VOIs.",
+     "FAU": [
+          "Yasuno, Fumihiko",
+          "Hasnine, Akter Haque",
+          "Suhara, Tetsuya",
+          "Ichimiya, Tetsuya",
+          "Sudo, Yasuhiko",
+          "Inoue, Makoto",
+          "Takano, Akihiro",
+          "Ou, Tan",
+          "Ando, Tomomichi",
+          "Toyama, Hinako"
+     ],
+     "AU": [
+          "Yasuno F",
+          "Hasnine AH",
+          "Suhara T",
+          "Ichimiya T",
+          "Sudo Y",
+          "Inoue M",
+          "Takano A",
+          "Ou T",
+          "Ando T",
+          "Toyama H"
+     ],
+     "AD": "Brain Imaging Project, National Institute of Radiological Sciences, 4-9-1 Anagawa, Inage-ku, Chiba, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Amygdala/anatomy & histology/diagnostic imaging",
+          "Brain/*anatomy & histology/*diagnostic imaging/physiology",
+          "Cerebral Cortex/anatomy & histology/diagnostic imaging",
+          "Hippocampus/anatomy & histology/diagnostic imaging",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Models, Neurological",
+          "Organ Specificity",
+          "Periaqueductal Gray/anatomy & histology/diagnostic imaging",
+          "Thalamus/anatomy & histology/diagnostic imaging",
+          "*Tomography, Emission-Computed"
+     ],
+     "EDAT": "2002/08/10 10:00",
+     "MHDA": "2002/09/12 10:01",
+     "CRDT": [
+          "2002/08/10 10:00"
+     ],
+     "PHST": [
+          "2002/08/10 10:00 [pubmed]",
+          "2002/09/12 10:01 [medline]",
+          "2002/08/10 10:00 [entrez]"
+     ],
+     "AID": [
+          "S1053811902911201 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2002 Jul;16(3 Pt 1):577-86.",
+     "term": "hippocampus"
+}

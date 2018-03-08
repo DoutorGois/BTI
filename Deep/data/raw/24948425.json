@@ -1,0 +1,77 @@
+{
+     "PMID": "24948425",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151215",
+     "LR": "20171219",
+     "IS": "1432-1920 (Electronic) 0028-3940 (Linking)",
+     "VI": "56",
+     "IP": "9",
+     "DP": "2014 Sep",
+     "TI": "Classification and localization of early-stage Alzheimer's disease in magnetic resonance images using a patch-based classifier ensemble.",
+     "PG": "709-21",
+     "LID": "10.1007/s00234-014-1385-4 [doi]",
+     "AB": "INTRODUCTION: Classification methods have been proposed to detect Alzheimer's disease (AD) using magnetic resonance images. Most rely on features such as the shape/volume of brain structures that need to be defined a priori. In this work, we propose a method that does not require either the segmentation of specific brain regions or the nonlinear alignment to a template. Besides classification, we also analyze which brain regions are discriminative between a group of normal controls and a group of AD patients. METHODS: We perform 3D texture analysis using Local Binary Patterns computed at local image patches in the whole brain, combined in a classifier ensemble.We evaluate our method in a publicly available database including very mild-to-mild AD subjects and healthy elderly controls. RESULTS: For the subject cohort including only mild AD subjects, the best results are obtained using a combination of large (30x30x30 and 40x40x40 voxels) patches. A spatial analysis on the best performing patches shows that these are located in the medial-temporal lobe and in the periventricular regions. When very mild AD subjects are included in the dataset, the small (10x10x10 voxels) patches perform best, with the most discriminative ones being located near the left hippocampus. CONCLUSION: We show that our method is able not only to perform accurate classification, but also to localize dis-criminative brain regions, which are in accordance with the medical literature. This is achieved without the need to segment-specific brain structures and without performing nonlinear registration to a template, indicating that the method may be suitable for a clinical implementation that can help to diagnose AD at an earlier stage.",
+     "FAU": [
+          "Simoes, Rita",
+          "van Cappellen van Walsum, Anne-Marie",
+          "Slump, Cornelis H"
+     ],
+     "AU": [
+          "Simoes R",
+          "van Cappellen van Walsum AM",
+          "Slump CH"
+     ],
+     "AD": "MIRA Institute for Biomedical Technology and Technical Medicine, University of Twente, Enschede, The Netherlands, a.r.lopessimoes@utwente.nl.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 AG05681/AG/NIA NIH HHS/United States",
+          "R01 AG021910/AG/NIA NIH HHS/United States",
+          "R01 MH56584/MH/NIMH NIH HHS/United States",
+          "P50 MH071616/MH/NIMH NIH HHS/United States",
+          "P01 AG03991/AG/NIA NIH HHS/United States",
+          "U24 RR021382/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Clinical Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140620",
+     "PL": "Germany",
+     "TA": "Neuroradiology",
+     "JT": "Neuroradiology",
+     "JID": "1302751",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/*classification/*pathology",
+          "Brain Mapping/methods",
+          "Female",
+          "Humans",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Severity of Illness Index"
+     ],
+     "EDAT": "2014/06/21 06:00",
+     "MHDA": "2015/12/17 06:00",
+     "CRDT": [
+          "2014/06/21 06:00"
+     ],
+     "PHST": [
+          "2013/09/24 00:00 [received]",
+          "2014/05/19 00:00 [accepted]",
+          "2014/06/21 06:00 [entrez]",
+          "2014/06/21 06:00 [pubmed]",
+          "2015/12/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s00234-014-1385-4 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroradiology. 2014 Sep;56(9):709-21. doi: 10.1007/s00234-014-1385-4. Epub 2014 Jun 20.",
+     "term": "hippocampus"
+}

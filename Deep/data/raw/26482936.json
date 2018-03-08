@@ -1,0 +1,94 @@
+{
+     "PMID": "26482936",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170106",
+     "LR": "20170909",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "26",
+     "IP": "5",
+     "DP": "2016 May",
+     "TI": "Dynamics of robust pattern separability in the hippocampal dentate gyrus.",
+     "PG": "623-32",
+     "LID": "10.1002/hipo.22546 [doi]",
+     "AB": "The dentate gyrus (DG) is thought to perform pattern separation on inputs received from the entorhinal cortex, such that the DG forms distinct representations of different input patterns. Neuronal responses, however, are known to be variable, and that variability has the potential to confuse the representations of different inputs, thereby hindering the pattern separation function. This variability can be especially problematic for tissues such as the DG, in which the responses can persist for tens of seconds following stimulation: the long response duration allows for variability from many different sources to accumulate. To understand how the DG can robustly encode different input patterns, we investigated a recently developed in vitro hippocampal DG preparation that generates persistent responses to transient electrical stimulation. For 10-20 s after stimulation, the responses are indicative of the pattern of stimulation that was applied, even though the responses exhibit significant trial-to-trial variability. Analyzing the dynamical trajectories of the evoked responses, we found that, following stimulation, the neural responses follow distinct paths through the space of possible neural activations, with a different path associated with each stimulation pattern. The neural responses' trial-to-trial variability shifts the responses along these paths rather than between them, maintaining the separability of the input patterns. Manipulations that redistributed the variability more isotropically over the space of possible neural activations impeded the pattern separation function. Consequently, we conclude that the confinement of neuronal variability to these one-dimensional paths mitigates the impacts of variability on pattern encoding and, thus, may be an important aspect of the DG's ability to robustly encode input patterns.",
+     "CI": [
+          "(c) 2015 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Zylberberg, Joel",
+          "Hyde, Robert A",
+          "Strowbridge, Ben W"
+     ],
+     "AU": [
+          "Zylberberg J",
+          "Hyde RA",
+          "Strowbridge BW"
+     ],
+     "AD": "Department of Applied Mathematics, University of Washington, Seattle, Washington. Department of Physiology and Biophysics, University of Colorado School of Medicine, Aurora, Colorado. Department of Neurosciences, Case Western Reserve University, Cleveland, Ohio. Department of Neurosciences, Case Western Reserve University, Cleveland, Ohio.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 DC004285/DC/NIDCD NIH HHS/United States",
+          "T32 GM007250/GM/NIGMS NIH HHS/United States",
+          "R01-DC04285/DC/NIDCD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20151105",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Dentate Gyrus/*cytology/*physiology",
+          "Electric Stimulation",
+          "Excitatory Postsynaptic Potentials/physiology",
+          "In Vitro Techniques",
+          "Models, Neurological",
+          "Neurons/*physiology",
+          "*Nonlinear Dynamics",
+          "Rats"
+     ],
+     "PMC": "PMC5546763",
+     "MID": [
+          "NIHMS731861"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "dentate gyrus",
+          "intracellular",
+          "pattern separation",
+          "persistence",
+          "slice",
+          "variability"
+     ],
+     "EDAT": "2015/10/21 06:00",
+     "MHDA": "2017/01/07 06:00",
+     "CRDT": [
+          "2015/10/21 06:00"
+     ],
+     "PHST": [
+          "2015/07/31 00:00 [received]",
+          "2015/10/05 00:00 [revised]",
+          "2015/10/09 00:00 [accepted]",
+          "2015/10/21 06:00 [entrez]",
+          "2015/10/21 06:00 [pubmed]",
+          "2017/01/07 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.22546 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2016 May;26(5):623-32. doi: 10.1002/hipo.22546. Epub 2015 Nov 5.",
+     "term": "hippocampus"
+}

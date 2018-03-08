@@ -1,0 +1,59 @@
+{
+     "PMID": "10396904",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19990728",
+     "LR": "20091111",
+     "IS": "0018-9294 (Print) 0018-9294 (Linking)",
+     "VI": "46",
+     "IP": "7",
+     "DP": "1999 Jul",
+     "TI": "Multiple window time-frequency distribution and coherence of EEG using Slepian sequences and hermite functions.",
+     "PG": "861-6",
+     "AB": "Multiple window (MW) time-frequency analysis (TFA) is a newly developed technique to estimate a time-varying spectrum for random nonstationary signals with low bias and variance. In this paper, we describe the application of MW-TFA techniques to electroencephalogram (EEG) and compare the results with those of the conventional spectrogram. We find that the MW-TFA provide us with not only low bias and variance time-frequency (TF) distribution for EEG but also TF coherence estimation between a single realization of EEG recorded from two sites. We also compare the performance of the MW-TFA using two sets of windows, Slepian sequences, and Hermite functions. If care is taken in matching the two windows, we find no noticeable difference in the resulting TF representations.",
+     "FAU": [
+          "Xu, Y",
+          "Haykin, S",
+          "Racine, R J"
+     ],
+     "AU": [
+          "Xu Y",
+          "Haykin S",
+          "Racine RJ"
+     ],
+     "AD": "Communications Research Laboratory, McMaster University, Hamilton, Ontario, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cerebral Cortex/physiology",
+          "*Electroencephalography",
+          "Hippocampus/physiology",
+          "Models, Neurological",
+          "*Signal Processing, Computer-Assisted"
+     ],
+     "EDAT": "1999/07/09 00:00",
+     "MHDA": "1999/07/09 00:01",
+     "CRDT": [
+          "1999/07/09 00:00"
+     ],
+     "PHST": [
+          "1999/07/09 00:00 [pubmed]",
+          "1999/07/09 00:01 [medline]",
+          "1999/07/09 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 1999 Jul;46(7):861-6.",
+     "term": "hippocampus"
+}

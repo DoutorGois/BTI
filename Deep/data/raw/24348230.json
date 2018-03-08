@@ -1,0 +1,75 @@
+{
+     "PMID": "24348230",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140819",
+     "LR": "20170922",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "9",
+     "IP": "12",
+     "DP": "2013",
+     "TI": "Forward and backward inference in spatial cognition.",
+     "PG": "e1003383",
+     "LID": "10.1371/journal.pcbi.1003383 [doi]",
+     "AB": "This paper shows that the various computations underlying spatial cognition can be implemented using statistical inference in a single probabilistic model. Inference is implemented using a common set of 'lower-level' computations involving forward and backward inference over time. For example, to estimate where you are in a known environment, forward inference is used to optimally combine location estimates from path integration with those from sensory input. To decide which way to turn to reach a goal, forward inference is used to compute the likelihood of reaching that goal under each option. To work out which environment you are in, forward inference is used to compute the likelihood of sensory observations under the different hypotheses. For reaching sensory goals that require a chaining together of decisions, forward inference can be used to compute a state trajectory that will lead to that goal, and backward inference to refine the route and estimate control signals that produce the required trajectory. We propose that these computations are reflected in recent findings of pattern replay in the mammalian brain. Specifically, that theta sequences reflect decision making, theta flickering reflects model selection, and remote replay reflects route and motor planning. We also propose a mapping of the above computational processes onto lateral and medial entorhinal cortex and hippocampus.",
+     "FAU": [
+          "Penny, Will D",
+          "Zeidman, Peter",
+          "Burgess, Neil"
+     ],
+     "AU": [
+          "Penny WD",
+          "Zeidman P",
+          "Burgess N"
+     ],
+     "AD": "Wellcome Trust Centre for Neuroimaging, University College, London, London, United Kingdom. Wellcome Trust Centre for Neuroimaging, University College, London, London, United Kingdom. Institute for Cognitive Neuroscience, University College, London, London, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "091593/Wellcome Trust/United Kingdom",
+          "095811/Wellcome Trust/United Kingdom",
+          "G1002276/Medical Research Council/United Kingdom",
+          "091593/Z/10/Z/Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20131212",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "*Cognition",
+          "Hippocampus/physiology",
+          "Humans",
+          "Models, Theoretical",
+          "Probability",
+          "*Space Perception"
+     ],
+     "PMC": "PMC3861045",
+     "EDAT": "2013/12/19 06:00",
+     "MHDA": "2014/08/20 06:00",
+     "CRDT": [
+          "2013/12/19 06:00"
+     ],
+     "PHST": [
+          "2013/04/04 00:00 [received]",
+          "2013/10/23 00:00 [accepted]",
+          "2013/12/19 06:00 [entrez]",
+          "2013/12/19 06:00 [pubmed]",
+          "2014/08/20 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1003383 [doi]",
+          "PCOMPBIOL-D-13-00562 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2013;9(12):e1003383. doi: 10.1371/journal.pcbi.1003383. Epub 2013 Dec 12.",
+     "term": "hippocampus"
+}

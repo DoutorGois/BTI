@@ -1,0 +1,62 @@
+{
+     "PMID": "19436082",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090805",
+     "LR": "20090522",
+     "IS": "1741-2552 (Electronic) 1741-2552 (Linking)",
+     "VI": "6",
+     "IP": "3",
+     "DP": "2009 Jun",
+     "TI": "Theta phase precession and phase selectivity: a cognitive device description of neural coding.",
+     "PG": "036002",
+     "LID": "10.1088/1741-2560/6/3/036002 [doi]",
+     "AB": "Information in neural systems is carried by way of phase and rate codes. Neuronal signals are processed through transformative biophysical mechanisms at the cellular and network levels. Neural coding transformations can be represented mathematically in a device called the cognitive rhythm generator (CRG). Incoming signals to the CRG are parsed through a bank of neuronal modes that orchestrate proportional, integrative and derivative transformations associated with neural coding. Mode outputs are then mixed through static nonlinearities to encode (spatio) temporal phase relationships. The static nonlinear outputs feed and modulate a ring device (limit cycle) encoding output dynamics. Small coupled CRG networks were created to investigate coding functionality associated with neuronal phase preference and theta precession in the hippocampus. Phase selectivity was found to be dependent on mode shape and polarity, while phase precession was a product of modal mixing (i.e. changes in the relative contribution or amplitude of mode outputs resulted in shifting phase preference). Nonlinear system identification was implemented to help validate the model and explain response characteristics associated with modal mixing; in particular, principal dynamic modes experimentally derived from a hippocampal neuron were inserted into a CRG and the neuron's dynamic response was successfully cloned. From our results, small CRG networks possessing disynaptic feedforward inhibition in combination with feedforward excitation exhibited frequency-dependent inhibitory-to-excitatory and excitatory-to-inhibitory transitions that were similar to transitions seen in a single CRG with quadratic modal mixing. This suggests nonlinear modal mixing to be a coding manifestation of the effect of network connectivity in shaping system dynamic behavior. We hypothesize that circuits containing disynaptic feedforward inhibition in the nervous system may be candidates for interpreting upstream rate codes to guide downstream processes such as phase precession, because of their demonstrated frequency-selective properties.",
+     "FAU": [
+          "Zalay, Osbert C",
+          "Bardakjian, Berj L"
+     ],
+     "AU": [
+          "Zalay OC",
+          "Bardakjian BL"
+     ],
+     "AD": "Institute of Biomaterials and Biomedical Engineering, University of Toronto, Toronto, Canada. oz.zalay@utoronto.ca",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090512",
+     "PL": "England",
+     "TA": "J Neural Eng",
+     "JT": "Journal of neural engineering",
+     "JID": "101217933",
+     "SB": "IM",
+     "MH": [
+          "Biological Clocks/*physiology",
+          "Cognition/*physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/*physiology"
+     ],
+     "EDAT": "2009/05/14 09:00",
+     "MHDA": "2009/08/06 09:00",
+     "CRDT": [
+          "2009/05/14 09:00"
+     ],
+     "PHST": [
+          "2009/05/14 09:00 [entrez]",
+          "2009/05/14 09:00 [pubmed]",
+          "2009/08/06 09:00 [medline]"
+     ],
+     "AID": [
+          "S1741-2560(09)98127-7 [pii]",
+          "10.1088/1741-2560/6/3/036002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neural Eng. 2009 Jun;6(3):036002. doi: 10.1088/1741-2560/6/3/036002. Epub 2009 May 12.",
+     "term": "hippocampus"
+}

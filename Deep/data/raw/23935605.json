@@ -1,0 +1,78 @@
+{
+     "PMID": "23935605",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140117",
+     "LR": "20170220",
+     "IS": "1687-5273 (Electronic)",
+     "VI": "2013",
+     "DP": "2013",
+     "TI": "Strategic cognitive sequencing: a computational cognitive neuroscience approach.",
+     "PG": "149329",
+     "LID": "10.1155/2013/149329 [doi]",
+     "AB": "We address strategic cognitive sequencing, the \"outer loop\" of human cognition: how the brain decides what cognitive process to apply at a given moment to solve complex, multistep cognitive tasks. We argue that this topic has been neglected relative to its importance for systematic reasons but that recent work on how individual brain systems accomplish their computations has set the stage for productively addressing how brain regions coordinate over time to accomplish our most impressive thinking. We present four preliminary neural network models. The first addresses how the prefrontal cortex (PFC) and basal ganglia (BG) cooperate to perform trial-and-error learning of short sequences; the next, how several areas of PFC learn to make predictions of likely reward, and how this contributes to the BG making decisions at the level of strategies. The third models address how PFC, BG, parietal cortex, and hippocampus can work together to memorize sequences of cognitive actions from instruction (or \"self-instruction\"). The last shows how a constraint satisfaction process can find useful plans. The PFC maintains current and goal states and associates from both of these to find a \"bridging\" state, an abstract plan. We discuss how these processes could work together to produce strategic cognitive sequencing and discuss future directions in this area.",
+     "FAU": [
+          "Herd, Seth A",
+          "Krueger, Kai A",
+          "Kriete, Trenton E",
+          "Huang, Tsung-Ren",
+          "Hazy, Thomas E",
+          "O'Reilly, Randall C"
+     ],
+     "AU": [
+          "Herd SA",
+          "Krueger KA",
+          "Kriete TE",
+          "Huang TR",
+          "Hazy TE",
+          "O'Reilly RC"
+     ],
+     "AD": "Department of Psychology, University of Colorado Boulder, Boulder, CO 80309, USA. seth.herd@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 MH079485/MH/NIMH NIH HHS/United States",
+          "MH079485/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20130708",
+     "PL": "United States",
+     "TA": "Comput Intell Neurosci",
+     "JT": "Computational intelligence and neuroscience",
+     "JID": "101279357",
+     "SB": "IM",
+     "MH": [
+          "Brain/*physiology",
+          "Cognition/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Neurosciences/methods"
+     ],
+     "PMC": "PMC3722785",
+     "EDAT": "2013/08/13 06:00",
+     "MHDA": "2014/01/18 06:00",
+     "CRDT": [
+          "2013/08/13 06:00"
+     ],
+     "PHST": [
+          "2012/12/22 00:00 [received]",
+          "2013/05/07 00:00 [revised]",
+          "2013/05/28 00:00 [accepted]",
+          "2013/08/13 06:00 [entrez]",
+          "2013/08/13 06:00 [pubmed]",
+          "2014/01/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2013/149329 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Intell Neurosci. 2013;2013:149329. doi: 10.1155/2013/149329. Epub 2013 Jul 8.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,65 @@
+{
+     "PMID": "7285562",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19811221",
+     "LR": "20061115",
+     "IS": "0010-468X (Print) 0010-468X (Linking)",
+     "VI": "13",
+     "IP": "1-2",
+     "DP": "1981 Mar-Jun",
+     "TI": "Real-time analysis of hippocampal neural activity in the intervals between interictal spikes.",
+     "PG": "19-26",
+     "AB": "Previously the electroencephalogram (EEG) was modeled as consisting of faster, smaller waves superimposed on larger, slower waves. The intent of this study is to modify the program to sample neural activity over specific intervals of time following detection of a distinct wave pattern. The use of conditional sampling is illustrated by considering wave detection following epileptic interictal spikes in the rabbit hippocampus. To create an epileptic focus, small pellets of sodium penicillin suspended in agar were placed on the rabbit hippocampus. This produced regularly recurring, spontaneous, large amplitude discharges, or interictal spikes, at the site of application. Following detection of an interictal spike, the program delayed the onset of a sample period for either 1.0 s or 6.0 s. The neural activity was then sampled for 5.1 s, and fast and slow waves were detected over the sample period. The frequency distribution of waves in four of these 5.1 s intervals was calculated. Comparison of the frequency distributions following the 1.0 s and 6.0 s delays showed no discernible differences. The data illustrate that not all types of neural activity are markedly modified by interictal spikes and suggest that hippocampal cellular populations generate similar waves 1.0 s and 6.0 s after such a spike. Moreover, this experiment illustrates adaptation of the program to sample activity over a limited period of time following detection of a specific cortical waveform.",
+     "FAU": [
+          "Horowitz, J",
+          "Whitelaw, K",
+          "Lim, A",
+          "Jacobs, C"
+     ],
+     "AU": [
+          "Horowitz J",
+          "Whitelaw K",
+          "Lim A",
+          "Jacobs C"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Netherlands",
+     "TA": "Comput Programs Biomed",
+     "JT": "Computer programs in biomedicine",
+     "JID": "0237013",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Computers",
+          "Electroencephalography",
+          "Electrophysiology",
+          "Female",
+          "Hippocampus/*physiology",
+          "*Minicomputers",
+          "Neurons/physiology",
+          "Rabbits",
+          "Seizures/physiopathology",
+          "Time Factors"
+     ],
+     "EDAT": "1981/03/01 00:00",
+     "MHDA": "1981/03/01 00:01",
+     "CRDT": [
+          "1981/03/01 00:00"
+     ],
+     "PHST": [
+          "1981/03/01 00:00 [pubmed]",
+          "1981/03/01 00:01 [medline]",
+          "1981/03/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Programs Biomed. 1981 Mar-Jun;13(1-2):19-26.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,69 @@
+{
+     "PMID": "23366947",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130722",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2012",
+     "DP": "2012",
+     "TI": "A dual mode FPGA design for the hippocampal prosthesis.",
+     "PG": "4579-82",
+     "LID": "10.1109/EMBC.2012.6346986 [doi]",
+     "AB": "One important step towards the cognitive neural prosthesis design is to achieve real-time prediction of neuronal firing pattern. An FPGA-based hardware computational platform is designed to guarantee this hard real-time signal processing requirement. The proposed platform can work in dual modes: generalized Laguerre-Volterra model parameters estimation and output prediction, and can switch between these two important system functions. Compared with the traditional software-based platform implemented in C, the hardware platform achieves better efficiency in doing the biocomputations by up to thousandfold speedup in this process.",
+     "FAU": [
+          "Li, Will X Y",
+          "Chan, Rosa H M",
+          "Song, Dong",
+          "Berger, Theodore W",
+          "Cheung, Ray C C"
+     ],
+     "AU": [
+          "Li WX",
+          "Chan RH",
+          "Song D",
+          "Berger TW",
+          "Cheung RC"
+     ],
+     "AD": "Department of Electrical Engineering, City University of Hong Kong, Hong Kong. xyli@ee.cityu.edu.hk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials",
+          "Diagnosis, Computer-Assisted/*instrumentation",
+          "Electroencephalography/*instrumentation",
+          "Equipment Design",
+          "Equipment Failure Analysis",
+          "Hippocampus/*physiopathology",
+          "Humans",
+          "Nervous System Diseases/*diagnosis/*physiopathology/rehabilitation",
+          "Prostheses and Implants",
+          "Signal Processing, Computer-Assisted/*instrumentation"
+     ],
+     "EDAT": "2013/02/01 06:00",
+     "MHDA": "2013/07/23 06:00",
+     "CRDT": [
+          "2013/02/01 06:00"
+     ],
+     "PHST": [
+          "2013/02/01 06:00 [entrez]",
+          "2013/02/01 06:00 [pubmed]",
+          "2013/07/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2012.6346986 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2012;2012:4579-82. doi: 10.1109/EMBC.2012.6346986.",
+     "term": "hippocampus"
+}

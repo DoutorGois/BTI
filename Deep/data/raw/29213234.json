@@ -1,0 +1,65 @@
+{
+     "PMID": "29213234",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20171220",
+     "IS": "1662-5218 (Print) 1662-5218 (Linking)",
+     "VI": "11",
+     "DP": "2017",
+     "TI": "Cognitive Mapping Based on Conjunctive Representations of Space and Movement.",
+     "PG": "61",
+     "LID": "10.3389/fnbot.2017.00061 [doi]",
+     "AB": "It is a challenge to build robust simultaneous localization and mapping (SLAM) system in dynamical large-scale environments. Inspired by recent findings in the entorhinal-hippocampal neuronal circuits, we propose a cognitive mapping model that includes continuous attractor networks of head-direction cells and conjunctive grid cells to integrate velocity information by conjunctive encodings of space and movement. Visual inputs from the local view cells in the model provide feedback cues to correct drifting errors of the attractors caused by the noisy velocity inputs. We demonstrate the mapping performance of the proposed cognitive mapping model on an open-source dataset of 66 km car journey in a 3 km x 1.6 km urban area. Experimental results show that the proposed model is robust in building a coherent semi-metric topological map of the entire urban area using a monocular camera, even though the image inputs contain various changes caused by different light conditions and terrains. The results in this study could inspire both neuroscience and robotic research to better understand the neural computational mechanisms of spatial cognition and to build robust robotic navigation systems in large-scale environments.",
+     "FAU": [
+          "Zeng, Taiping",
+          "Si, Bailu"
+     ],
+     "AU": [
+          "Zeng T",
+          "Si B"
+     ],
+     "AD": "State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China. University of Chinese Academy of Sciences, Beijing, China. State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171122",
+     "PL": "Switzerland",
+     "TA": "Front Neurorobot",
+     "JT": "Frontiers in neurorobotics",
+     "JID": "101477958",
+     "PMC": "PMC5703018",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "attractor dynamics",
+          "bio-inspired robots",
+          "cognitive map",
+          "conjunctive grid cells",
+          "head-direction cells",
+          "medial entorhinal cortex",
+          "monocular SLAM",
+          "path integration"
+     ],
+     "EDAT": "2017/12/08 06:00",
+     "MHDA": "2017/12/08 06:01",
+     "CRDT": [
+          "2017/12/08 06:00"
+     ],
+     "PHST": [
+          "2017/01/05 00:00 [received]",
+          "2017/10/19 00:00 [accepted]",
+          "2017/12/08 06:00 [entrez]",
+          "2017/12/08 06:00 [pubmed]",
+          "2017/12/08 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnbot.2017.00061 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neurorobot. 2017 Nov 22;11:61. doi: 10.3389/fnbot.2017.00061. eCollection 2017.",
+     "term": "grid cells"
+}

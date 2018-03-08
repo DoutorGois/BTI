@@ -1,0 +1,75 @@
+{
+     "PMID": "29402038",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180208",
+     "LR": "20180208",
+     "IS": "1094-4087 (Electronic) 1094-4087 (Linking)",
+     "VI": "26",
+     "IP": "2",
+     "DP": "2018 Jan 22",
+     "TI": "Thermal nanoimprint lithography for drift correction in super-resolution fluorescence microscopy.",
+     "PG": "1670-1680",
+     "LID": "10.1364/OE.26.001670 [doi]",
+     "AB": "Localization-based super-resolution microscopy enables imaging of biological structures with sub-diffraction-limited accuracy, but generally requires extended acquisition time. Consequently, stage drift often limits the spatial precision. Previously, we reported a simple method to correct for this by creating an array of 1 mum(3) fiducial markers, every ~8 mum, on the coverslip, using UV-nanoimprint lithography (UV-NIL). While this allowed reliable and accurate 3D drift correction, it suffered high autofluorescence background with shorter wavelength illumination, unstable adsorption to the substrate glass surface, and suboptimal biocompatibility. Here, we present an improved fiducial micro-pattern prepared by thermal nanoimprint lithography (T-NIL). The new pattern is made of a thermal plastic material with low fluorescence backgrounds across the wide excitation range, particularly in the blue-region; robust structural stability under cell culturing condition; and a high bio-compatibility in terms of cell viability and adhesion. We demonstrate drift precision to 1.5 nm for lateral (x, y) and 6.1 nm axial (z) axes every 0.2 seconds for a total of 1 min long image acquisition. As a proof of principle, we acquired 4-color wide-field fluorescence images of live mammalian cells; we also acquired super-resolution images of fixed hippocampal neurons, and super-resolution images of live glutamate receptors and postsynaptic density proteins.",
+     "FAU": [
+          "Youn, Yeoan",
+          "Ishitsuka, Yuji",
+          "Jin, Chaoyi",
+          "Selvin, Paul R"
+     ],
+     "AU": [
+          "Youn Y",
+          "Ishitsuka Y",
+          "Jin C",
+          "Selvin PR"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Opt Express",
+     "JT": "Optics express",
+     "JID": "101137103",
+     "RN": [
+          "0 (Biocompatible Materials)",
+          "0 (Polymers)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Biocompatible Materials",
+          "*Fiducial Markers",
+          "Fluorescence",
+          "HeLa Cells",
+          "Hippocampus/cytology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Microscopy, Fluorescence/*methods",
+          "*Nanotechnology",
+          "Neuroglia",
+          "*Neurons",
+          "Polymers",
+          "*Printing",
+          "Rats"
+     ],
+     "EDAT": "2018/02/07 06:00",
+     "MHDA": "2018/02/09 06:00",
+     "CRDT": [
+          "2018/02/07 06:00"
+     ],
+     "PHST": [
+          "2018/02/07 06:00 [entrez]",
+          "2018/02/07 06:00 [pubmed]",
+          "2018/02/09 06:00 [medline]"
+     ],
+     "AID": [
+          "380837 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Opt Express. 2018 Jan 22;26(2):1670-1680.",
+     "term": "hippocampus"
+}

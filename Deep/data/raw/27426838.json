@@ -1,0 +1,129 @@
+{
+     "PMID": "27426838",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180124",
+     "LR": "20180124",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "141",
+     "DP": "2016 Nov 1",
+     "TI": "Bayesian longitudinal segmentation of hippocampal substructures in brain MRI using subject-specific atlases.",
+     "PG": "542-555",
+     "LID": "S1053-8119(16)30327-5 [pii] 10.1016/j.neuroimage.2016.07.020 [doi]",
+     "AB": "The hippocampal formation is a complex, heterogeneous structure that consists of a number of distinct, interacting subregions. Atrophy of these subregions is implied in a variety of neurodegenerative diseases, most prominently in Alzheimer's disease (AD). Thanks to the increasing resolution of MR images and computational atlases, automatic segmentation of hippocampal subregions is becoming feasible in MRI scans. Here we introduce a generative model for dedicated longitudinal segmentation that relies on subject-specific atlases. The segmentations of the scans at the different time points are jointly computed using Bayesian inference. All time points are treated the same to avoid processing bias. We evaluate this approach using over 4700 scans from two publicly available datasets (ADNI and MIRIAD). In test-retest reliability experiments, the proposed method yielded significantly lower volume differences and significantly higher Dice overlaps than the cross-sectional approach for nearly every subregion (average across subregions: 4.5% vs. 6.5%, Dice overlap: 81.8% vs. 75.4%). The longitudinal algorithm also demonstrated increased sensitivity to group differences: in MIRIAD (69 subjects: 46 with AD and 23 controls), it found differences in atrophy rates between AD and controls that the cross sectional method could not detect in a number of subregions: right parasubiculum, left and right presubiculum, right subiculum, left dentate gyrus, left CA4, left HATA and right tail. In ADNI (836 subjects: 369 with AD, 215 with early cognitive impairment - eMCI - and 252 controls), all methods found significant differences between AD and controls, but the proposed longitudinal algorithm detected differences between controls and eMCI and differences between eMCI and AD that the cross sectional method could not find: left presubiculum, right subiculum, left and right parasubiculum, left and right HATA. Moreover, many of the differences that the cross-sectional method already found were detected with higher significance. The presented algorithm will be made available as part of the open-source neuroimaging package FreeSurfer.",
+     "CI": [
+          "Copyright (c) 2016 The Authors. Published by Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Iglesias, Juan Eugenio",
+          "Van Leemput, Koen",
+          "Augustinack, Jean",
+          "Insausti, Ricardo",
+          "Fischl, Bruce",
+          "Reuter, Martin"
+     ],
+     "AU": [
+          "Iglesias JE",
+          "Van Leemput K",
+          "Augustinack J",
+          "Insausti R",
+          "Fischl B",
+          "Reuter M"
+     ],
+     "AD": "Basque Center on Cognition, Brain and Language, Spain; Translational Imaging Group, University College London, United Kingdom. Electronic address: e.iglesias@bcbl.eu. Massachusetts General Hospital and Harvard Medical School, USA; Department of Applied Mathematics and Computer Science, Technical University of Denmark, Denmark. Massachusetts General Hospital and Harvard Medical School, USA. Human Neuroanatomy Laboratory, University of Castilla-La Mancha, Spain. Massachusetts General Hospital and Harvard Medical School, USA; MIT Computer Science and Artificial Intelligence Laboratory (CSAIL), USA. Massachusetts General Hospital and Harvard Medical School, USA; MIT Computer Science and Artificial Intelligence Laboratory (CSAIL), USA.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U24 RR021382/RR/NCRR NIH HHS/United States",
+          "U01 MH093765/MH/NIMH NIH HHS/United States",
+          "R01 NS070963/NS/NINDS NIH HHS/United States",
+          "U01 NS086625/NS/NINDS NIH HHS/United States",
+          "R21 EB018907/EB/NIBIB NIH HHS/United States",
+          "R01 AG054076/AG/NIA NIH HHS/United States",
+          "R01 AG016495/AG/NIA NIH HHS/United States",
+          "K25 CA181632/CA/NCI NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "N01 HC025195/HC/NHLBI NIH HHS/United States",
+          "S10 RR019307/RR/NCRR NIH HHS/United States",
+          "P41 RR014075/RR/NCRR NIH HHS/United States",
+          "U19 AG024904/AG/NIA NIH HHS/United States",
+          "R01 AG008122/AG/NIA NIH HHS/United States",
+          "R01 EB019956/EB/NIBIB NIH HHS/United States",
+          "R21 NS072652/NS/NINDS NIH HHS/United States",
+          "S10 RR023043/RR/NCRR NIH HHS/United States",
+          "R01 EB006758/EB/NIBIB NIH HHS/United States",
+          "P41 EB015896/EB/NIBIB NIH HHS/United States",
+          "R01 NS083534/NS/NINDS NIH HHS/United States",
+          "S10 RR023401/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160715",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aging/*pathology",
+          "Alzheimer Disease/diagnostic imaging/*pathology",
+          "Bayes Theorem",
+          "Female",
+          "Hippocampus/diagnostic imaging/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "PMC": "PMC5026967",
+     "MID": [
+          "NIHMS811175"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Bayesian modeling",
+          "Hippocampal subfields",
+          "Longitudinal modeling",
+          "Segmentation"
+     ],
+     "COIS": [
+          "In addition, BF has a financial interest in CorticoMetrics, a company whose",
+          "medical pursuits focus on brain imaging and measurement technologies. BF's",
+          "interests were reviewed and are managed by Massachusetts General Hospital and",
+          "Partners HealthCare in accordance with their conflict of interest policies."
+     ],
+     "EDAT": "2016/07/19 06:00",
+     "MHDA": "2018/01/25 06:00",
+     "CRDT": [
+          "2016/07/19 06:00"
+     ],
+     "PHST": [
+          "2016/03/18 00:00 [received]",
+          "2016/05/13 00:00 [revised]",
+          "2016/07/07 00:00 [accepted]",
+          "2016/07/19 06:00 [entrez]",
+          "2016/07/19 06:00 [pubmed]",
+          "2018/01/25 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(16)30327-5 [pii]",
+          "10.1016/j.neuroimage.2016.07.020 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2016 Nov 1;141:542-555. doi: 10.1016/j.neuroimage.2016.07.020. Epub 2016 Jul 15.",
+     "term": "hippocampus"
+}

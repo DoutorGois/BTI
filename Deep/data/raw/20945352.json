@@ -1,0 +1,75 @@
+{
+     "PMID": "20945352",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120214",
+     "LR": "20110310",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "32",
+     "IP": "4",
+     "DP": "2011 Apr",
+     "TI": "An ex vivo imaging pipeline for producing high-quality and high-resolution diffusion-weighted imaging datasets.",
+     "PG": "544-63",
+     "LID": "10.1002/hbm.21043 [doi]",
+     "AB": "Diffusion tensor (DT) imaging and related multifiber reconstruction algorithms allow the study of in vivo microstructure and, by means of tractography, structural connectivity. Although reconstruction algorithms are promising imaging tools, high-quality diffusion-weighted imaging (DWI) datasets for verification and validation of postprocessing and analysis methods are lacking. Clinical in vivo DWI is limited by, for example, physiological noise and low signal-to-noise ratio. Here, we performed a series of DWI measurements on postmortem pig brains, which resemble the human brain in neuroanatomical complexity, to establish an ex vivo imaging pipeline for generating high-quality DWI datasets. Perfusion fixation ensured that tissue characteristics were comparable to in vivo conditions. There were three main results: (i) heat conduction and unstable tissue mechanics accounted for time-varying artefacts in the DWI dataset, which were present for up to 15 h after positioning brain tissue in the scanner; (ii) using fitted DT, q-ball, and persistent angular structure magnetic resonance imaging algorithms, any b-value between approximately 2,000 and approximately 8,000 s/mm(2) , with an optimal value around 4,000 s/mm(2) , allowed for consistent reconstruction of fiber directions; (iii) diffusivity measures in the postmortem brain tissue were stable over a 3-year period. On the basis of these results, we established an optimized ex vivo pipeline for high-quality and high-resolution DWI. The pipeline produces DWI data sets with a high level of tissue structure detail showing for example two parallel horizontal rims in the cerebral cortex and multiple rims in the hippocampus. We conclude that high-quality ex vivo DWI can be used to validate fiber reconstruction algorithms and to complement histological studies.",
+     "CI": [
+          "Copyright (c) 2010 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Dyrby, Tim B",
+          "Baare, William F C",
+          "Alexander, Daniel C",
+          "Jelsing, Jacob",
+          "Garde, Ellen",
+          "Sogaard, Lise V"
+     ],
+     "AU": [
+          "Dyrby TB",
+          "Baare WF",
+          "Alexander DC",
+          "Jelsing J",
+          "Garde E",
+          "Sogaard LV"
+     ],
+     "AD": "Danish Research Centre for Magnetic Resonance, Copenhagen University Hospital Hvidovre, Hvidovre, Denmark. timd@drcmr.dk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Brain Mapping/*methods",
+          "Diffusion",
+          "Diffusion Tensor Imaging/*methods",
+          "Image Processing, Computer-Assisted/*methods",
+          "Reproducibility of Results",
+          "Species Specificity",
+          "Sus scrofa"
+     ],
+     "EDAT": "2010/10/15 06:00",
+     "MHDA": "2012/02/15 06:00",
+     "CRDT": [
+          "2010/10/15 06:00"
+     ],
+     "PHST": [
+          "2010/10/15 06:00 [entrez]",
+          "2010/10/15 06:00 [pubmed]",
+          "2012/02/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.21043 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2011 Apr;32(4):544-63. doi: 10.1002/hbm.21043.",
+     "term": "hippocampus"
+}

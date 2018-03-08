@@ -1,0 +1,96 @@
+{
+     "PMID": "25738424",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150825",
+     "LR": "20170810",
+     "IS": "2168-6238 (Electronic) 2168-622X (Linking)",
+     "VI": "72",
+     "IP": "6",
+     "DP": "2015 Jun",
+     "TI": "Circuit- and Diagnosis-Specific DNA Methylation Changes at gamma-Aminobutyric Acid-Related Genes in Postmortem Human Hippocampus in Schizophrenia and Bipolar Disorder.",
+     "PG": "541-51",
+     "LID": "10.1001/jamapsychiatry.2015.49 [doi]",
+     "AB": "IMPORTANCE: Dysfunction related to gamma-aminobutyric acid (GABA)-ergic neurotransmission in the pathophysiology of major psychosis has been well established by the work of multiple groups across several decades, including the widely replicated downregulation of GAD1. Prior gene expression and network analyses within the human hippocampus implicate a broader network of genes, termed the GAD1 regulatory network, in regulation of GAD1 expression. Several genes within this GAD1 regulatory network show diagnosis- and sector-specific expression changes within the circuitry of the hippocampus, influencing abnormal GAD1 expression in schizophrenia and bipolar disorder. OBJECTIVE: To investigate the hypothesis that aberrant DNA methylation contributes to circuit- and diagnosis-specific abnormal expression of GAD1 regulatory network genes in psychotic illness. DESIGN, SETTING, AND PARTICIPANTS: This epigenetic association study targeting GAD1 regulatory network genes was conducted between July 1, 2012, and June 30, 2014. Postmortem human hippocampus tissue samples were obtained from 8 patients with schizophrenia, 8 patients with bipolar disorder, and 8 healthy control participants matched for age, sex, postmortem interval, and other potential confounds from the Harvard Brain Tissue Resource Center, McLean Hospital, Belmont, Massachusetts. We extracted DNA from laser-microdissected stratum oriens tissue of cornu ammonis 2/3 (CA2/3) and CA1 postmortem human hippocampus, bisulfite modified it, and assessed it with the Infinium HumanMethylation450 BeadChip (Illumina, Inc). The subset of CpG loci associated with GAD1 regulatory network genes was analyzed in R version 3.1.0 software (R Foundation) using the minfi package. Findings were validated using bisulfite pyrosequencing. MAIN OUTCOMES AND MEASURES: Methylation levels at 1308 GAD1 regulatory network-associated CpG loci were assessed both as individual sites to identify differentially methylated positions and by sharing information among colocalized probes to identify differentially methylated regions. RESULTS: A total of 146 differentially methylated positions with a false detection rate lower than 0.05 were identified across all 6 groups (2 circuit locations in each of 3 diagnostic categories), and 54 differentially methylated regions with P < .01 were identified in single-group comparisons. Methylation changes were enriched in MSX1, CCND2, and DAXX at specific loci within the hippocampus of patients with schizophrenia and bipolar disorder. CONCLUSIONS AND RELEVANCE: This work demonstrates diagnosis- and circuit-specific DNA methylation changes at a subset of GAD1 regulatory network genes in the human hippocampus in schizophrenia and bipolar disorder. These genes participate in chromatin regulation and cell cycle control, supporting the concept that the established GABAergic dysfunction in these disorders is related to disruption of GABAergic interneuron physiology at specific circuit locations within the human hippocampus.",
+     "FAU": [
+          "Ruzicka, W Brad",
+          "Subburaju, Sivan",
+          "Benes, Francine M"
+     ],
+     "AU": [
+          "Ruzicka WB",
+          "Subburaju S",
+          "Benes FM"
+     ],
+     "AD": "Program in Structural and Molecular Neuroscience, McLean Hospital, Belmont, Massachusetts2Department of Psychiatry, Harvard Medical School, Boston, Massachusetts. Program in Structural and Molecular Neuroscience, McLean Hospital, Belmont, Massachusetts2Department of Psychiatry, Harvard Medical School, Boston, Massachusetts. Program in Structural and Molecular Neuroscience, McLean Hospital, Belmont, Massachusetts2Department of Psychiatry, Harvard Medical School, Boston, Massachusetts3Program in Neuroscience, Harvard Medical School, Boston, Massachusetts.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH077175/MH/NIMH NIH HHS/United States",
+          "MH077175/MH/NIMH NIH HHS/United States",
+          "R25 MH094612/MH/NIMH NIH HHS/United States",
+          "MH/NS 077550/MH/NIMH NIH HHS/United States",
+          "R34 MH077550/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "JAMA Psychiatry",
+     "JT": "JAMA psychiatry",
+     "JID": "101589550",
+     "RN": [
+          "0 (Adaptor Proteins, Signal Transducing)",
+          "0 (CCND2 protein, human)",
+          "0 (Cyclin D2)",
+          "0 (DAXX protein, human)",
+          "0 (MSX1 Transcription Factor)",
+          "0 (MSX1 protein, human)",
+          "0 (Nuclear Proteins)",
+          "56-12-2 (gamma-Aminobutyric Acid)",
+          "EC 4.1.1.15 (Glutamate Decarboxylase)",
+          "EC 4.1.1.15 (glutamate decarboxylase 1)"
+     ],
+     "SB": "AIM IM",
+     "MH": [
+          "Adaptor Proteins, Signal Transducing/metabolism",
+          "Bipolar Disorder/genetics/*metabolism",
+          "Case-Control Studies",
+          "CpG Islands/genetics",
+          "Cyclin D2/metabolism",
+          "*DNA Methylation",
+          "Genetic Association Studies",
+          "Glutamate Decarboxylase/*metabolism",
+          "Hippocampus/*metabolism",
+          "Humans",
+          "MSX1 Transcription Factor/metabolism",
+          "Nuclear Proteins/metabolism",
+          "Schizophrenia/genetics/*metabolism",
+          "Signal Transduction/genetics",
+          "gamma-Aminobutyric Acid/*metabolism"
+     ],
+     "PMC": "PMC5547581",
+     "MID": [
+          "NIHMS889148"
+     ],
+     "EDAT": "2015/03/05 06:00",
+     "MHDA": "2015/08/26 06:00",
+     "CRDT": [
+          "2015/03/05 06:00"
+     ],
+     "PHST": [
+          "2015/03/05 06:00 [entrez]",
+          "2015/03/05 06:00 [pubmed]",
+          "2015/08/26 06:00 [medline]"
+     ],
+     "AID": [
+          "2173395 [pii]",
+          "10.1001/jamapsychiatry.2015.49 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "JAMA Psychiatry. 2015 Jun;72(6):541-51. doi: 10.1001/jamapsychiatry.2015.49.",
+     "term": "hippocampus"
+}

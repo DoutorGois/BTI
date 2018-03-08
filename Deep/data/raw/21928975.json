@@ -1,0 +1,71 @@
+{
+     "PMID": "21928975",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120530",
+     "LR": "20161125",
+     "IS": "1550-2376 (Electronic) 1539-3755 (Linking)",
+     "VI": "84",
+     "IP": "2 Pt 1",
+     "DP": "2011 Aug",
+     "TI": "Unbiased estimation of Langevin dynamics from time series with application to hippocampal field potentials in vitro.",
+     "PG": "021133",
+     "AB": "The last decade showed an increased interest in Langevin equations for modeling time series recorded from complex dynamical systems. These equations allow to discriminate between deterministic (drift) and stochastic (diffusion) components of the recorded time series. In practice, the estimation of drift and diffusion is often based on approximations of the models' dynamics that are valid only for high sampling frequencies. Also, model assessment is not or only indirectly performed, potentially leading to false claims. In this study we compare the performance of an asymptotically unbiased estimation method with a generally used approximate method, demonstrating the necessity of using (asymptotically) unbiased estimators. Furthermore, we describe how confidence intervals for the unknown parameters can be constructed and how model assessment can be carried out. We apply the methodology to local field potentials recorded in vitro from mouse hippocampus from eight genetically different strains. The recorded field potentials turn out to be well described by linearly damped Langevin equations with parabolic diffusion. The modeling enables a dynamical interpretation of the spectral power of the field potentials. It reveals that observed spectral power differences in the field potentials across hippocampal regions are associated with differences in the deterministic component of the system, and it reveals transiently active current dipoles, which are not detectable by conventional methods. Also, all estimated parameters have significant heritabilities, which suggests that the Langevin equations capture biological relevant aspects of electrical hippocampal activity.",
+     "FAU": [
+          "Hindriks, R",
+          "Jansen, R",
+          "Bijma, F",
+          "Mansvelder, H D",
+          "de Gunst, M C M",
+          "van der Vaart, A W"
+     ],
+     "AU": [
+          "Hindriks R",
+          "Jansen R",
+          "Bijma F",
+          "Mansvelder HD",
+          "de Gunst MC",
+          "van der Vaart AW"
+     ],
+     "AD": "Department of Mathematics, VU University Amsterdam, The Netherlands.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20110823",
+     "PL": "United States",
+     "TA": "Phys Rev E Stat Nonlin Soft Matter Phys",
+     "JT": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+     "JID": "101136452",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Diffusion",
+          "Electrophysiological Phenomena",
+          "Hippocampus/*physiology",
+          "Linear Models",
+          "Mice",
+          "*Models, Biological",
+          "Time Factors"
+     ],
+     "EDAT": "2011/09/21 06:00",
+     "MHDA": "2012/05/31 06:00",
+     "CRDT": [
+          "2011/09/21 06:00"
+     ],
+     "PHST": [
+          "2010/10/05 00:00 [received]",
+          "2011/06/14 00:00 [revised]",
+          "2011/09/21 06:00 [entrez]",
+          "2011/09/21 06:00 [pubmed]",
+          "2012/05/31 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1103/PhysRevE.84.021133 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phys Rev E Stat Nonlin Soft Matter Phys. 2011 Aug;84(2 Pt 1):021133. doi: 10.1103/PhysRevE.84.021133. Epub 2011 Aug 23.",
+     "term": "hippocampus"
+}

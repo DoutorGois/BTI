@@ -1,0 +1,59 @@
+{
+     "PMID": "23031134",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121212",
+     "LR": "20121003",
+     "IS": "1079-7114 (Electronic) 0031-9007 (Linking)",
+     "VI": "109",
+     "IP": "1",
+     "DP": "2012 Jul 6",
+     "TI": "Resolution of nested neuronal representations can be exponential in the number of neurons.",
+     "PG": "018103",
+     "AB": "Collective computation is typically polynomial in the number of computational elements, such as transistors or neurons, whether one considers the storage capacity of a memory device or the number of floating-point operations per second of a CPU. However, we show here that the capacity of a computational network to resolve real-valued signals of arbitrary dimensions can be exponential in N, even if the individual elements are noisy and unreliable. Nested, modular codes that achieve such high resolutions mirror the properties of grid cells in vertebrates, which underlie spatial navigation.",
+     "FAU": [
+          "Mathis, Alexander",
+          "Herz, Andreas V M",
+          "Stemmler, Martin B"
+     ],
+     "AU": [
+          "Mathis A",
+          "Herz AV",
+          "Stemmler MB"
+     ],
+     "AD": "Bernstein Center for Computational Neuroscience, Graduate School of Systemic Neurosciences, Ludwig-Maximilians-Universitat Munchen, Grosshadernerstrasse 2, D-82152 Martinsried, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20120706",
+     "PL": "United States",
+     "TA": "Phys Rev Lett",
+     "JT": "Physical review letters",
+     "JID": "0401141",
+     "SB": "IM",
+     "MH": [
+          "*Models, Neurological",
+          "Neurons/cytology/*physiology",
+          "Stochastic Processes"
+     ],
+     "EDAT": "2012/10/04 06:00",
+     "MHDA": "2012/12/13 06:00",
+     "CRDT": [
+          "2012/10/04 06:00"
+     ],
+     "PHST": [
+          "2011/09/20 00:00 [received]",
+          "2012/10/04 06:00 [entrez]",
+          "2012/10/04 06:00 [pubmed]",
+          "2012/12/13 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1103/PhysRevLett.109.018103 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phys Rev Lett. 2012 Jul 6;109(1):018103. doi: 10.1103/PhysRevLett.109.018103. Epub 2012 Jul 6.",
+     "term": "grid cells"
+}

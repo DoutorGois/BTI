@@ -1,0 +1,111 @@
+{
+     "PMID": "27935582",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180118",
+     "LR": "20180118",
+     "IS": "1476-5403 (Electronic) 1350-9047 (Linking)",
+     "VI": "24",
+     "IP": "2",
+     "DP": "2017 Feb",
+     "TI": "Global ischemia induces lysosomal-mediated degradation of mTOR and activation of autophagy in hippocampal neurons destined to die.",
+     "PG": "317-329",
+     "LID": "10.1038/cdd.2016.140 [doi]",
+     "AB": "The mammalian target of rapamycin (mTOR) is a key regulator of cell growth, autophagy, translation, and survival. Dysregulation of mTOR signaling is associated with cancer, diabetes, and autism. However, a role for mTOR signaling in neuronal death is not well delineated. Here we show that global ischemia triggers a transient increase in mTOR phosphorylation at S2448, whereas decreasing p-mTOR and functional activity in selectively vulnerable hippocampal CA1 neurons. The decrease in mTOR coincides with an increase in biochemical markers of autophagy, pS317-ULK-1, pS14-Beclin-1, and LC3-II, a decrease in the cargo adaptor p62, and an increase in autophagic flux, a functional readout of autophagy. This is significant in that autophagy, a catabolic process downstream of mTORC1, promotes the formation of autophagosomes that capture and target cytoplasmic components to lysosomes. Inhibitors of the lysosomal (but not proteasomal) pathway rescued the ischemia-induced decrease in mTOR, consistent with degradation of mTOR via the autophagy/lysosomal pathway. Administration of the mTORC1 inhibitor rapamycin or acute knockdown of mTOR promotes autophagy and attenuates ischemia-induced neuronal death, indicating an inverse causal relation between mTOR, autophagy, and neuronal death. Our findings identify a novel and previously unappreciated mechanism by which mTOR self-regulates its own levels in hippocampal neurons in a clinically relevant model of ischemic stroke.",
+     "FAU": [
+          "Hwang, Jee-Yeon",
+          "Gertner, Michael",
+          "Pontarelli, Fabrizio",
+          "Court-Vazquez, Brenda",
+          "Bennett, Michael Vander Laan",
+          "Ofengeim, Dimitry",
+          "Zukin, Ruth Suzanne"
+     ],
+     "AU": [
+          "Hwang JY",
+          "Gertner M",
+          "Pontarelli F",
+          "Court-Vazquez B",
+          "Bennett MV",
+          "Ofengeim D",
+          "Zukin RS"
+     ],
+     "AD": "Dominick P Purpura Department of Neuroscience, Rose F Kennedy Center, Albert Einstein College of Medicine, New York, NY 10461, USA. Dominick P Purpura Department of Neuroscience, Rose F Kennedy Center, Albert Einstein College of Medicine, New York, NY 10461, USA. Dominick P Purpura Department of Neuroscience, Rose F Kennedy Center, Albert Einstein College of Medicine, New York, NY 10461, USA. Dominick P Purpura Department of Neuroscience, Rose F Kennedy Center, Albert Einstein College of Medicine, New York, NY 10461, USA. Dominick P Purpura Department of Neuroscience, Rose F Kennedy Center, Albert Einstein College of Medicine, New York, NY 10461, USA. Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA. Dominick P Purpura Department of Neuroscience, Rose F Kennedy Center, Albert Einstein College of Medicine, New York, NY 10461, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 HD083828/HD/NICHD NIH HHS/United States",
+          "R01 MH092877/MH/NIMH NIH HHS/United States",
+          "R01 NS046742/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20161209",
+     "PL": "England",
+     "TA": "Cell Death Differ",
+     "JT": "Cell death and differentiation",
+     "JID": "9437445",
+     "RN": [
+          "0 (Beclin-1)",
+          "0 (Leupeptins)",
+          "0 (Microtubule-Associated Proteins)",
+          "133343-34-7 (lactacystin)",
+          "5142-23-4 (3-methyladenine)",
+          "EC 2.7.1.1 (TOR Serine-Threonine Kinases)",
+          "EC 2.7.11.1 (Autophagy-Related Protein-1 Homolog)",
+          "EC 2.7.11.31 (AMP-Activated Protein Kinases)",
+          "J97339NR3V (leupeptin)",
+          "JAC85A2161 (Adenine)",
+          "W36ZG6FT64 (Sirolimus)",
+          "WYQ7N0BPYC (Acetylcysteine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "AMP-Activated Protein Kinases/metabolism",
+          "Acetylcysteine/analogs & derivatives/pharmacology",
+          "Adenine/analogs & derivatives/pharmacology",
+          "Animals",
+          "*Autophagy/drug effects",
+          "Autophagy-Related Protein-1 Homolog/metabolism",
+          "Beclin-1/metabolism",
+          "Cells, Cultured",
+          "Hippocampus/cytology",
+          "Ischemia/metabolism/pathology",
+          "Leupeptins/pharmacology",
+          "Lysosomes/drug effects/*metabolism",
+          "Male",
+          "Microtubule-Associated Proteins/metabolism",
+          "Neurons/cytology/drug effects/metabolism",
+          "Phosphorylation/drug effects",
+          "RNA Interference",
+          "Rats",
+          "Sirolimus/pharmacology",
+          "TOR Serine-Threonine Kinases/antagonists & inhibitors/genetics/*metabolism"
+     ],
+     "PMC": "PMC5299717",
+     "COIS": [
+          "The authors declare no conflict of interest."
+     ],
+     "EDAT": "2016/12/10 06:00",
+     "MHDA": "2018/01/19 06:00",
+     "CRDT": [
+          "2016/12/10 06:00"
+     ],
+     "PHST": [
+          "2015/02/19 00:00 [received]",
+          "2016/09/08 00:00 [revised]",
+          "2016/10/14 00:00 [accepted]",
+          "2016/12/10 06:00 [pubmed]",
+          "2018/01/19 06:00 [medline]",
+          "2016/12/10 06:00 [entrez]"
+     ],
+     "AID": [
+          "cdd2016140 [pii]",
+          "10.1038/cdd.2016.140 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cell Death Differ. 2017 Feb;24(2):317-329. doi: 10.1038/cdd.2016.140. Epub 2016 Dec 9.",
+     "term": "hippocampus"
+}

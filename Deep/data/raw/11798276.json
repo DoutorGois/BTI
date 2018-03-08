@@ -1,0 +1,69 @@
+{
+     "PMID": "11798276",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20020419",
+     "LR": "20071114",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "15",
+     "IP": "2",
+     "DP": "2002 Feb",
+     "TI": "Measuring size and shape of the hippocampus in MR images using a deformable shape model.",
+     "PG": "422-34",
+     "AB": "A method for segmentation and quantification of the shape and size of the hippocampus is proposed, based on an automated image analysis algorithm. The algorithm uses a deformable shape model to locate the hippocampus in magnetic resonance images and to determine a geometric representation of its boundary. The deformable model combines three types of information. First, it employs information about the geometric properties of the hippocampal boundary, from a local and relatively finer scale to a more global and relatively coarser scale. Second, the model includes a statistical characterization of normal shape variation across individuals, serving as prior knowledge to the algorithm. Third, the algorithm utilizes a number of manually defined boundary points, which can help guide the model deformation to the appropriate boundaries, wherever these boundaries are weak or not clearly defined in MR images. Excellent agreement is demonstrated between the algorithm and manual segmentations by well-trained raters, with a correlation coefficient equal to 0.97 and algorithm/rater differences statistically equivalent to interrater differences for manual definitions.",
+     "FAU": [
+          "Shen, Dinggang",
+          "Moffat, Scott",
+          "Resnick, Susan M",
+          "Davatzikos, Christos"
+     ],
+     "AU": [
+          "Shen D",
+          "Moffat S",
+          "Resnick SM",
+          "Davatzikos C"
+     ],
+     "AD": "Center for Biomedical Image Computing, Department of Radiology, Johns Hokins University School of Medicine, Baltimore, Maryland 21287, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NIH-AG-93-07/AG/NIA NIH HHS/United States",
+          "R01-AG14971/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Automation",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Magnetic Resonance Imaging/methods",
+          "Models, Structural",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "2002/01/19 10:00",
+     "MHDA": "2002/04/20 10:01",
+     "CRDT": [
+          "2002/01/19 10:00"
+     ],
+     "PHST": [
+          "2002/01/19 10:00 [pubmed]",
+          "2002/04/20 10:01 [medline]",
+          "2002/01/19 10:00 [entrez]"
+     ],
+     "AID": [
+          "10.1006/nimg.2001.0987 [doi]",
+          "S1053811901909875 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2002 Feb;15(2):422-34. doi: 10.1006/nimg.2001.0987.",
+     "term": "hippocampus"
+}

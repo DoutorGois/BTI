@@ -1,0 +1,89 @@
+{
+     "PMID": "26511248",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160202",
+     "LR": "20161125",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "35",
+     "IP": "43",
+     "DP": "2015 Oct 28",
+     "TI": "A Lognormal Recurrent Network Model for Burst Generation during Hippocampal Sharp Waves.",
+     "PG": "14585-601",
+     "LID": "10.1523/JNEUROSCI.4944-14.2015 [doi]",
+     "AB": "The strength of cortical synapses distributes lognormally, with a long tail of strong synapses. Various properties of neuronal activity, such as the average firing rates of neurons, the rate and magnitude of spike bursts, the magnitude of population synchrony, and the correlations between presynaptic and postsynaptic spikes, also obey lognormal-like distributions reported in the rodent hippocampal CA1 and CA3 areas. Theoretical models have demonstrated how such a firing rate distribution emerges from neural network dynamics. However, how the other properties also display lognormal patterns remain unknown. Because these features are likely to originate from neural dynamics in CA3, we model a recurrent neural network with the weights of recurrent excitatory connections distributed lognormally to explore the underlying mechanisms and their functional implications. Using multi-timescale adaptive threshold neurons, we construct a low-frequency spontaneous firing state of bursty neurons. This state well replicates the observed statistical properties of population synchrony in hippocampal pyramidal cells. Our results show that the lognormal distribution of synaptic weights consistently accounts for the observed long-tailed features of hippocampal activity. Furthermore, our model demonstrates that bursts spread over the lognormal network much more effectively than single spikes, implying an advantage of spike bursts in information transfer. This efficiency in burst propagation is not found in neural network models with Gaussian-weighted recurrent excitatory synapses. Our model proposes a potential network mechanism to generate sharp waves in CA3 and associated ripples in CA1 because bursts occur in CA3 pyramidal neurons most frequently during sharp waves.",
+     "CI": [
+          "Copyright (c) 2015 the authors 0270-6474/15/3514585-17$15.00/0."
+     ],
+     "FAU": [
+          "Omura, Yoshiyuki",
+          "Carvalho, Milena M",
+          "Inokuchi, Kaoru",
+          "Fukai, Tomoki"
+     ],
+     "AU": [
+          "Omura Y",
+          "Carvalho MM",
+          "Inokuchi K",
+          "Fukai T"
+     ],
+     "AD": "Department of Biochemistry, Faculty of Medicine, Graduate School of Medicine and Pharmaceutical Sciences, University of Toyama, Toyama 930-0194, Japan, Laboratory for Neural Circuit Theory, RIKEN Brain Science Institute, Saitama 351-0198, Japan, CREST, Japan Science and Technology, Saitama 332-0012, Japan, and. Laboratory for Neural Circuit Theory, RIKEN Brain Science Institute, Saitama 351-0198, Japan, Sao Carlos Institute of Physics, University of Sao Paulo, 13560-970, Sao Carlos, Sao Paulo, Brazil. Department of Biochemistry, Faculty of Medicine, Graduate School of Medicine and Pharmaceutical Sciences, University of Toyama, Toyama 930-0194, Japan, CREST, Japan Science and Technology, Saitama 332-0012, Japan, and tfukai@riken.jp inokuchi@med.u-toyama.ac.jp. Laboratory for Neural Circuit Theory, RIKEN Brain Science Institute, Saitama 351-0198, Japan, CREST, Japan Science and Technology, Saitama 332-0012, Japan, and tfukai@riken.jp inokuchi@med.u-toyama.ac.jp.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0001-7719-2184",
+          "ORCID: http://orcid.org/0000-0001-6977-5638"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Adaptation, Physiological/physiology",
+          "Algorithms",
+          "CA1 Region, Hippocampal/physiology",
+          "CA3 Region, Hippocampal/physiology",
+          "Computer Simulation",
+          "Electrophysiological Phenomena",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Pyramidal Cells/physiology",
+          "Synapses/physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "CA3",
+          "spike propagation",
+          "spiking neuron",
+          "spontaneous activity",
+          "synchrony"
+     ],
+     "EDAT": "2015/10/30 06:00",
+     "MHDA": "2016/02/03 06:00",
+     "CRDT": [
+          "2015/10/30 06:00"
+     ],
+     "PHST": [
+          "2015/10/30 06:00 [entrez]",
+          "2015/10/30 06:00 [pubmed]",
+          "2016/02/03 06:00 [medline]"
+     ],
+     "AID": [
+          "35/43/14585 [pii]",
+          "10.1523/JNEUROSCI.4944-14.2015 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2015 Oct 28;35(43):14585-601. doi: 10.1523/JNEUROSCI.4944-14.2015.",
+     "term": "hippocampus"
+}

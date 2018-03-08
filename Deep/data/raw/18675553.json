@@ -1,0 +1,79 @@
+{
+     "PMID": "18675553",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081229",
+     "LR": "20080908",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "42",
+     "IP": "4",
+     "DP": "2008 Oct 1",
+     "TI": "Multi-structure network shape analysis via normal surface momentum maps.",
+     "PG": "1430-8",
+     "LID": "10.1016/j.neuroimage.2008.04.257 [doi]",
+     "AB": "We present a shape analysis pipeline for the assessment of anatomical variations in subcortical networks in MR images. The shape analysis pipeline injects the global shape properties of the CFA subcortical template into the subcortical parcellations generated from FreeSurfer via large deformation diffeomorphic metric mapping (LDDMM). Examples are shown for this injection in several subcortical structures whose raw MR images were sampled from the database of Open Access Series of Imaging Studies (OASIS). The shape analysis is performed on random field representation of the template surface momentum maps that encode the shape variation of subcortical structure targets of each individual subject relative to the template. The momentum maps have the optimum property that they are supported only on the boundary of the subcortical structures with the direction normal to the subcortical nuclei boundary thereby reducing the dimension of shape variation significantly. A two-level statistical model was built on these momentum maps to assess anatomical connectivity among the subcortical structures on the basis of similar surface deformation (compression or expansion). Results in the study of healthy aging on the hippocampus-amygdala network indicate the anatomical connectivity between the basolateral complex of the amygdala and the subiculum of the hippocampus on the basis of shape compression in healthy elders relative to young adults.",
+     "FAU": [
+          "Qiu, Anqi",
+          "Miller, Michael I"
+     ],
+     "AU": [
+          "Qiu A",
+          "Miller MI"
+     ],
+     "AD": "Division of Bioengineering, National University of Singapore, Singapore. bieqa@nus.edu.sg",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 RR15241/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20080510",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aging/*pathology",
+          "Algorithms",
+          "Amygdala/*anatomy & histology",
+          "Female",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Nerve Net/*anatomy & histology",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Young Adult"
+     ],
+     "EDAT": "2008/08/05 09:00",
+     "MHDA": "2008/12/30 09:00",
+     "CRDT": [
+          "2008/08/05 09:00"
+     ],
+     "PHST": [
+          "2008/01/27 00:00 [received]",
+          "2008/04/18 00:00 [revised]",
+          "2008/04/24 00:00 [accepted]",
+          "2008/08/05 09:00 [pubmed]",
+          "2008/12/30 09:00 [medline]",
+          "2008/08/05 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(08)00594-6 [pii]",
+          "10.1016/j.neuroimage.2008.04.257 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2008 Oct 1;42(4):1430-8. doi: 10.1016/j.neuroimage.2008.04.257. Epub 2008 May 10.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,69 @@
+{
+     "PMID": "24656055",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140915",
+     "LR": "20150514",
+     "IS": "1742-4682 (Electronic) 1742-4682 (Linking)",
+     "VI": "11",
+     "DP": "2014 Mar 24",
+     "TI": "The role of the entorhinal cortex in epileptiform activities of the hippocampus.",
+     "PG": "14",
+     "LID": "10.1186/1742-4682-11-14 [doi]",
+     "AB": "BACKGROUND: Temporal lobe epilepsy (TLE) is the commonest type of epilepsy in adults, and the hippocampus is indicated to have a close relationship with TLE. Recent researches also indicate that the entorhinal cortex (EC) is involved in epilepsy. To explore the essential role that the EC may play in epilepsy, a computational model of the hippocampal CA3 region was built, which consisted of pyramidal cells and two types of interneurons. By changing the input signals from the EC, the effects of EC on epileptiform activities of the hippocampus were investigated. Additionally, recent studies have found that the antiepileptic drug valproate (VPA) can block ictal discharges but cannot block interictal discharges in vitro, and the mechanism under this phenomenon is still confusing. In our model, the effects of VPA on epileptiform activities were simulated and some mechanisms were explored. RESULTS: Interictal discharges were induced in the model without the input signals from the EC, whereas the model with the EC input produced ictal discharges when the EC input contained ictal discharges. The GABA-ergic connection strength was enhanced and the NMDA-ergic connection strength was reduced to simulate the effects of VPA, and the simulation results showed that the disappearance of ictal discharges in the model mainly due to the disappearance of ictal discharges in the input signals from the EC. CONCLUSIONS: Simulation results showed that ictal discharges in the EC were necessary for the hippocampus to generate ictal discharges, and VPA might block the ictal discharges in the EC, which led to the disappearance of ictal discharges in the hippocampus.",
+     "FAU": [
+          "Ren, Hui",
+          "Shi, Ye-Jun",
+          "Lu, Qin-Chi",
+          "Liang, Pei-Ji",
+          "Zhang, Pu-Ming"
+     ],
+     "AU": [
+          "Ren H",
+          "Shi YJ",
+          "Lu QC",
+          "Liang PJ",
+          "Zhang PM"
+     ],
+     "AD": "School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China. pmzhang@sjtu.edu.cn.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140324",
+     "PL": "England",
+     "TA": "Theor Biol Med Model",
+     "JT": "Theoretical biology & medical modelling",
+     "JID": "101224383",
+     "SB": "IM",
+     "MH": [
+          "CA3 Region, Hippocampal/*physiopathology",
+          "Entorhinal Cortex/*physiopathology",
+          "Epilepsy, Temporal Lobe/*physiopathology",
+          "Humans",
+          "Membrane Potentials"
+     ],
+     "PMC": "PMC3994397",
+     "EDAT": "2014/03/25 06:00",
+     "MHDA": "2014/09/16 06:00",
+     "CRDT": [
+          "2014/03/25 06:00"
+     ],
+     "PHST": [
+          "2014/01/19 00:00 [received]",
+          "2014/03/17 00:00 [accepted]",
+          "2014/03/25 06:00 [entrez]",
+          "2014/03/25 06:00 [pubmed]",
+          "2014/09/16 06:00 [medline]"
+     ],
+     "AID": [
+          "1742-4682-11-14 [pii]",
+          "10.1186/1742-4682-11-14 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Theor Biol Med Model. 2014 Mar 24;11:14. doi: 10.1186/1742-4682-11-14.",
+     "term": "hippocampus"
+}

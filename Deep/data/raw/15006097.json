@@ -1,0 +1,87 @@
+{
+     "PMID": "15006097",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040401",
+     "LR": "20071114",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "16",
+     "IP": "2",
+     "DP": "2004 Feb",
+     "TI": "Dynamic analyses of information encoding in neural ensembles.",
+     "PG": "277-307",
+     "AB": "Neural spike train decoding algorithms and techniques to compute Shannon mutual information are important methods for analyzing how neural systems represent biological signals. Decoding algorithms are also one of several strategies being used to design controls for brain-machine interfaces. Developing optimal strategies to design decoding algorithms and compute mutual information are therefore important problems in computational neuroscience. We present a general recursive filter decoding algorithm based on a point process model of individual neuron spiking activity and a linear stochastic state-space model of the biological signal. We derive from the algorithm new instantaneous estimates of the entropy, entropy rate, and the mutual information between the signal and the ensemble spiking activity. We assess the accuracy of the algorithm by computing, along with the decoding error, the true coverage probability of the approximate 0.95 confidence regions for the individual signal estimates. We illustrate the new algorithm by reanalyzing the position and ensemble neural spiking activity of CA1 hippocampal neurons from two rats foraging in an open circular environment. We compare the performance of this algorithm with a linear filter constructed by the widely used reverse correlation method. The median decoding error for Animal 1 (2) during 10 minutes of open foraging was 5.9 (5.5) cm, the median entropy was 6.9 (7.0) bits, the median information was 9.4 (9.4) bits, and the true coverage probability for 0.95 confidence regions was 0.67 (0.75) using 34 (32) neurons. These findings improve significantly on our previous results and suggest an integrated approach to dynamically reading neural codes, measuring their properties, and quantifying the accuracy with which encoded information is extracted.",
+     "FAU": [
+          "Barbieri, Riccardo",
+          "Frank, Loren M",
+          "Nguyen, David P",
+          "Quirk, Michael C",
+          "Solo, Victor",
+          "Wilson, Matthew A",
+          "Brown, Emery N"
+     ],
+     "AU": [
+          "Barbieri R",
+          "Frank LM",
+          "Nguyen DP",
+          "Quirk MC",
+          "Solo V",
+          "Wilson MA",
+          "Brown EN"
+     ],
+     "AD": "Neuroscience Statistics Research Laboratory, Department of Anesthesia and Critical Care, Massachusetts General Hospital/Harvard Medical School, Boston, MA 02114, USA. barbieri@neurostat.mgh.harvard.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "DA015644/DA/NIDA NIH HHS/United States",
+          "MH59733/MH/NIMH NIH HHS/United States",
+          "MH61637/MH/NIMH NIH HHS/United States",
+          "MH65018/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "*Algorithms",
+          "Animals",
+          "Exploratory Behavior/physiology",
+          "Hippocampus/*physiology",
+          "Nerve Net/*physiology",
+          "Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Rats",
+          "Rats, Long-Evans",
+          "Reaction Time/physiology",
+          "Reproducibility of Results",
+          "Signal Processing, Computer-Assisted",
+          "Stochastic Processes",
+          "Synaptic Transmission/physiology"
+     ],
+     "EDAT": "2004/03/10 05:00",
+     "MHDA": "2004/04/02 05:00",
+     "CRDT": [
+          "2004/03/10 05:00"
+     ],
+     "PHST": [
+          "2004/03/10 05:00 [pubmed]",
+          "2004/04/02 05:00 [medline]",
+          "2004/03/10 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/089976604322742038 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2004 Feb;16(2):277-307. doi: 10.1162/089976604322742038.",
+     "term": "hippocampus"
+}

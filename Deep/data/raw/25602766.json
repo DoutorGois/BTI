@@ -1,0 +1,66 @@
+{
+     "PMID": "25602766",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151214",
+     "LR": "20150224",
+     "IS": "1530-888X (Electronic) 0899-7667 (Linking)",
+     "VI": "27",
+     "IP": "3",
+     "DP": "2015 Mar",
+     "TI": "Two-trace model for spike-timing-dependent synaptic plasticity.",
+     "PG": "672-98",
+     "LID": "10.1162/NECO_a_00707 [doi]",
+     "AB": "We present an effective model for timing-dependent synaptic plasticity (STDP) in terms of two interacting traces, corresponding to the fraction of activated NMDA receptors and the [Formula: see text] concentration in the dendritic spine of the postsynaptic neuron. This model intends to bridge the worlds of existing simplistic phenomenological rules and highly detailed models, thus constituting a practical tool for the study of the interplay of neural activity and synaptic plasticity in extended spiking neural networks. For isolated pairs of pre- and postsynaptic spikes, the standard pairwise STDP rule is reproduced, with appropriate parameters determining the respective weights and timescales for the causal and the anticausal contributions. The model contains otherwise only three free parameters, which can be adjusted to reproduce triplet nonlinearities in hippocampal culture and cortical slices. We also investigate the transition from time-dependent to rate-dependent plasticity occurring for both correlated and uncorrelated spike patterns.",
+     "FAU": [
+          "Echeveste, Rodrigo",
+          "Gros, Claudius"
+     ],
+     "AU": [
+          "Echeveste R",
+          "Gros C"
+     ],
+     "AD": "Institute for Theoretical Physics, Goethe University Frankfurt, Hessen 60438, Germany echeveste@itp.uni-frankfurt.de.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150120",
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Cerebral Cortex/cytology/physiology",
+          "Computer Simulation",
+          "Hippocampus/cytology/physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Neuronal Plasticity/*physiology",
+          "Neurons/*physiology",
+          "Synapses/physiology",
+          "Time Factors"
+     ],
+     "EDAT": "2015/01/21 06:00",
+     "MHDA": "2015/12/15 06:00",
+     "CRDT": [
+          "2015/01/21 06:00"
+     ],
+     "PHST": [
+          "2015/01/21 06:00 [entrez]",
+          "2015/01/21 06:00 [pubmed]",
+          "2015/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1162/NECO_a_00707 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2015 Mar;27(3):672-98. doi: 10.1162/NECO_a_00707. Epub 2015 Jan 20.",
+     "term": "hippocampus"
+}

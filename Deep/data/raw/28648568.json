@@ -1,0 +1,68 @@
+{
+     "PMID": "28648568",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20170930",
+     "IS": "1878-4216 (Electronic) 0278-5846 (Linking)",
+     "VI": "80",
+     "IP": "Pt B",
+     "DP": "2018 Jan 3",
+     "TI": "Application of machine learning classification for structural brain MRI in mood disorders: Critical review from a clinical perspective.",
+     "PG": "71-80",
+     "LID": "S0278-5846(17)30213-0 [pii] 10.1016/j.pnpbp.2017.06.024 [doi]",
+     "AB": "Mood disorders are a highly prevalent group of mental disorders causing substantial socioeconomic burden. There are various methodological approaches for identifying the underlying mechanisms of the etiology, symptomatology, and therapeutics of mood disorders; however, neuroimaging studies have provided the most direct evidence for mood disorder neural substrates by visualizing the brains of living individuals. The prefrontal cortex, hippocampus, amygdala, thalamus, ventral striatum, and corpus callosum are associated with depression and bipolar disorder. Identifying the distinct and common contributions of these anatomical regions to depression and bipolar disorder have broadened and deepened our understanding of mood disorders. However, the extent to which neuroimaging research findings contribute to clinical practice in the real-world setting is unclear. As traditional or non-machine learning MRI studies have analyzed group-level differences, it is not possible to directly translate findings from research to clinical practice; the knowledge gained pertains to the disorder, but not to individuals. On the other hand, a machine learning approach makes it possible to provide individual-level classifications. For the past two decades, many studies have reported on the classification accuracy of machine learning-based neuroimaging studies from the perspective of diagnosis and treatment response. However, for the application of a machine learning-based brain MRI approach in real world clinical settings, several major issues should be considered. Secondary changes due to illness duration and medication, clinical subtypes and heterogeneity, comorbidities, and cost-effectiveness restrict the generalization of the current machine learning findings. Sophisticated classification of clinical and diagnostic subtypes is needed. Additionally, as the approach is inevitably limited by sample size, multi-site participation and data-sharing are needed in the future.",
+     "CI": [
+          "Copyright (c) 2017 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Kim, Yong-Ku",
+          "Na, Kyoung-Sae"
+     ],
+     "AU": [
+          "Kim YK",
+          "Na KS"
+     ],
+     "AD": "Department of Psychiatry, College of Medicine, Korea University, Seoul, Republic of Korea. Department of Psychiatry, Gachon University Gil Medical Center, Incheon, Republic of Korea. Electronic address: ksna13@gachon.ac.kr.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Review"
+     ],
+     "DEP": "20170623",
+     "PL": "England",
+     "TA": "Prog Neuropsychopharmacol Biol Psychiatry",
+     "JT": "Progress in neuro-psychopharmacology & biological psychiatry",
+     "JID": "8211617",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Bipolar disorder",
+          "Depression",
+          "MRI",
+          "Machine learning",
+          "Neuroimaging"
+     ],
+     "EDAT": "2017/06/27 06:00",
+     "MHDA": "2017/06/27 06:00",
+     "CRDT": [
+          "2017/06/27 06:00"
+     ],
+     "PHST": [
+          "2017/03/15 00:00 [received]",
+          "2017/06/07 00:00 [revised]",
+          "2017/06/22 00:00 [accepted]",
+          "2017/06/27 06:00 [pubmed]",
+          "2017/06/27 06:00 [medline]",
+          "2017/06/27 06:00 [entrez]"
+     ],
+     "AID": [
+          "S0278-5846(17)30213-0 [pii]",
+          "10.1016/j.pnpbp.2017.06.024 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Prog Neuropsychopharmacol Biol Psychiatry. 2018 Jan 3;80(Pt B):71-80. doi: 10.1016/j.pnpbp.2017.06.024. Epub 2017 Jun 23.",
+     "term": "hippocampus"
+}

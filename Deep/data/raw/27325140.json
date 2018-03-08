@@ -1,0 +1,92 @@
+{
+     "PMID": "27325140",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170201",
+     "LR": "20171104",
+     "IS": "1861-6429 (Electronic) 1861-6410 (Linking)",
+     "VI": "11",
+     "IP": "11",
+     "DP": "2016 Nov",
+     "TI": "Automatic thalamus and hippocampus segmentation from MP2RAGE: comparison of publicly available methods and implications for DTI quantification.",
+     "PG": "1979-1991",
+     "AB": "PURPOSE: In both structural and functional MRI, there is a need for accurate and reliable automatic segmentation of brain regions. Inconsistent segmentation reduces sensitivity and may bias results in clinical studies. The current study compares the performance of publicly available segmentation tools and their impact on diffusion quantification, emphasizing the importance of using recently developed segmentation algorithms and imaging techniques. METHODS: Four publicly available, automatic segmentation methods (volBrain, FSL, FreeSurfer and SPM) are compared to manual segmentation of the thalamus and hippocampus imaged with a recently proposed T1-weighted MRI sequence (MP2RAGE). We evaluate morphometric accuracy on 22 healthy subjects and impact on diffusivity measurements obtained from aligned diffusion-weighted images on a subset of 10 subjects. RESULTS: Compared to manual segmentation, the highest Dice similarity index of the thalamus is obtained with volBrain using a local library ([Formula: see text], [Formula: see text]) followed by volBrain using an external library ([Formula: see text], [Formula: see text]), FSL ([Formula: see text], [Formula: see text]), FreeSurfer ([Formula: see text], [Formula: see text]) and SPM ([Formula: see text], [Formula: see text]). The same order is found for hippocampus with volBrain local ([Formula: see text], [Formula: see text]), volBrain external ([Formula: see text], [Formula: see text]), FSL ([Formula: see text], [Formula: see text]), FreeSurfer ([Formula: see text], [Formula: see text]) and SPM ([Formula: see text], [Formula: see text]). For diffusivity measurements, volBrain provides values closest to those obtained from manual segmentations. volBrain is the only method where FA values do not differ significantly from manual segmentation of the thalamus. CONCLUSIONS: Overall we find that volBrain is superior in thalamus and hippocampus segmentation compared to FSL, FreeSurfer and SPM. Furthermore, the choice of segmentation technique and training library affects quantitative results from diffusivity measures in thalamus and hippocampus.",
+     "FAU": [
+          "Naess-Schmidt, Erhard",
+          "Tietze, Anna",
+          "Blicher, Jakob Udby",
+          "Petersen, Mikkel",
+          "Mikkelsen, Irene K",
+          "Coupe, Pierrick",
+          "Manjon, Jose V",
+          "Eskildsen, Simon Fristed"
+     ],
+     "AU": [
+          "Naess-Schmidt E",
+          "Tietze A",
+          "Blicher JU",
+          "Petersen M",
+          "Mikkelsen IK",
+          "Coupe P",
+          "Manjon JV",
+          "Eskildsen SF"
+     ],
+     "AD": "Hammel Neurorehabilitation Centre and University Research Clinic, Aarhus University, Voldbyvej 15, 8460, Hammel, Denmark. erhnae@rm.dk. Hammel Neurorehabilitation Centre and University Research Clinic, Voldbyvej 15, 8460, Hammel, Denmark. erhnae@rm.dk. Center of Functionally Integrative Neuroscience and MINDLab, Aarhus University, Aarhus, Denmark. Department of Neuroradiology, Aarhus University Hospital, Aarhus, Denmark. Center of Functionally Integrative Neuroscience and MINDLab, Aarhus University, Aarhus, Denmark. Center of Functionally Integrative Neuroscience and MINDLab, Aarhus University, Aarhus, Denmark. Center of Functionally Integrative Neuroscience and MINDLab, Aarhus University, Aarhus, Denmark. Laboratoire Bordelais de Recherche en Informatique, Unite Mixte de Recherche CNRS (UMR 5800), PICTURA Research Group, 351, cours de la Liberation, 33405, Talence cedex, France. Instituto de Aplicaciones de las Tecnologias de la Informacion y de las Comunicaciones Avanzadas (ITACA), Universitat Politecnica de Valencia, Camino de Vera s/n, 46022, Valencia, Spain. Center of Functionally Integrative Neuroscience and MINDLab, Aarhus University, Aarhus, Denmark.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "DEP": "20160620",
+     "PL": "Germany",
+     "TA": "Int J Comput Assist Radiol Surg",
+     "JT": "International journal of computer assisted radiology and surgery",
+     "JID": "101499225",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Female",
+          "Hippocampus/*diagnostic imaging/surgery",
+          "Humans",
+          "*Image Processing, Computer-Assisted",
+          "*Magnetic Resonance Imaging/methods",
+          "Male",
+          "Neuroimaging",
+          "Observer Variation",
+          "Thalamus/*diagnostic imaging/surgery",
+          "Young Adult"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Diffusion-weighted imaging",
+          "Hippocampus",
+          "MP2RAGE",
+          "MRI",
+          "Segmentation",
+          "Thalamus"
+     ],
+     "EDAT": "2016/06/22 06:00",
+     "MHDA": "2017/02/02 06:00",
+     "CRDT": [
+          "2016/06/22 06:00"
+     ],
+     "PHST": [
+          "2015/12/21 00:00 [received]",
+          "2016/05/27 00:00 [accepted]",
+          "2016/06/22 06:00 [pubmed]",
+          "2017/02/02 06:00 [medline]",
+          "2016/06/22 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s11548-016-1433-0 [doi]",
+          "10.1007/s11548-016-1433-0 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Int J Comput Assist Radiol Surg. 2016 Nov;11(11):1979-1991. doi: 10.1007/s11548-016-1433-0. Epub 2016 Jun 20.",
+     "term": "hippocampus"
+}

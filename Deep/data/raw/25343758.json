@@ -1,0 +1,67 @@
+{
+     "PMID": "25343758",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160201",
+     "LR": "20150509",
+     "IS": "1558-254X (Electronic) 0278-0062 (Linking)",
+     "VI": "34",
+     "IP": "5",
+     "DP": "2015 May",
+     "TI": "Spectral Laplace-Beltrami wavelets with applications in medical images.",
+     "PG": "1005-17",
+     "LID": "10.1109/TMI.2014.2363884 [doi]",
+     "AB": "The spectral graph wavelet transform (SGWT) has recently been developed to compute wavelet transforms of functions defined on non-Euclidean spaces such as graphs. By capitalizing on the established framework of the SGWT, we adopt a fast and efficient computation of a discretized Laplace-Beltrami (LB) operator that allows its extension from arbitrary graphs to differentiable and closed 2-D manifolds (smooth surfaces embedded in the 3-D Euclidean space). This particular class of manifolds are widely used in bioimaging to characterize the morphology of cells, tissues, and organs. They are often discretized into triangular meshes, providing additional geometric information apart from simple nodes and weighted connections in graphs. In comparison with the SGWT, the wavelet bases constructed with the LB operator are spatially localized with a more uniform \"spread\" with respect to underlying curvature of the surface. In our experiments, we first use synthetic data to show that traditional applications of wavelets in smoothing and edge detectio can be done using the wavelet bases constructed with the LB operator. Second, we show that multi-resolutional capabilities of the proposed framework are applicable in the classification of Alzheimer's patients with normal subjects using hippocampal shapes. Wavelet transforms of the hippocampal shape deformations at finer resolutions registered higher sensitivity (96%) and specificity (90%) than the classification results obtained from the direct usage of hippocampal shape deformations. In addition, the Laplace-Beltrami method requires consistently a smaller number of principal components (to retain a fixed variance) at higher resolution as compared to the binary and weighted graph Laplacians, demonstrating the potential of the wavelet bases in adapting to the geometry of the underlying manifold.",
+     "FAU": [
+          "Tan, Mingzhen",
+          "Qiu, Anqi"
+     ],
+     "AU": [
+          "Tan M",
+          "Qiu A"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20141017",
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Alzheimer Disease",
+          "Databases, Factual",
+          "Hippocampus/anatomy & histology",
+          "Humans",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging",
+          "*Wavelet Analysis"
+     ],
+     "EDAT": "2014/10/25 06:00",
+     "MHDA": "2016/02/02 06:00",
+     "CRDT": [
+          "2014/10/25 06:00"
+     ],
+     "PHST": [
+          "2014/10/25 06:00 [entrez]",
+          "2014/10/25 06:00 [pubmed]",
+          "2016/02/02 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TMI.2014.2363884 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2015 May;34(5):1005-17. doi: 10.1109/TMI.2014.2363884. Epub 2014 Oct 17.",
+     "term": "hippocampus"
+}

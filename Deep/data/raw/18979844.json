@@ -1,0 +1,68 @@
+{
+     "PMID": "18979844",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081209",
+     "LR": "20091211",
+     "VI": "11",
+     "IP": "Pt 1",
+     "DP": "2008",
+     "TI": "Surface-based vector analysis using heat equation interpolation: a new approach to quantify local hippocampal volume changes.",
+     "PG": "1008-15",
+     "AB": "Analysis of surface-based displacement vectors using spherical harmonic description (SPHARM) localizes shape changes accurately. However, it does not allow differentiating volume variations from shifting and/or bending. We propose a new approach to quantify local volume changes by computing the surface-based Jacobian determinant. This measurement is computed on the displacement vector fields estimated by a heat equation interpolation on the displacement vectors produced by SPHARM. Data simulation showed that the surface-based Jacobian determinant enables accurate quantification of local volume changes without interference of shifting/bending. In patients with temporal lobe epilepsy and left hippocampal atrophy, SPHARM detected widespread inward deformation related to atrophy in the hippocampal head and body, and showed areas of mirrored inward/outward deformations mostly at the level of the hippocampal tail. In these areas, the surface-based Jacobian determinant showed atrophy. Our method facilitates the interpretation of SPHARM because it allows decomposing volume changes and shifting/bending. Furthermore, it provides a better delineation of the extent of hippocampal atrophy.",
+     "FAU": [
+          "Kim, Hosung",
+          "Besson, Pierre",
+          "Colliot, Olivier",
+          "Bernasconi, Andrea",
+          "Bernasconi, Neda"
+     ],
+     "AU": [
+          "Kim H",
+          "Besson P",
+          "Colliot O",
+          "Bernasconi A",
+          "Bernasconi N"
+     ],
+     "AD": "Department of Neurology and Brain Imaging Center, McGill University, Montreal Neurological Institute and Hospital, Montreal, Quebec, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Artificial Intelligence",
+          "Energy Transfer",
+          "Epilepsy, Temporal Lobe/*diagnosis",
+          "Hippocampus/*pathology",
+          "Hot Temperature",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2008/11/05 09:00",
+     "MHDA": "2008/12/17 09:00",
+     "CRDT": [
+          "2008/11/05 09:00"
+     ],
+     "PHST": [
+          "2008/11/05 09:00 [pubmed]",
+          "2008/12/17 09:00 [medline]",
+          "2008/11/05 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2008;11(Pt 1):1008-15.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,99 @@
+{
+     "PMID": "26497657",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161006",
+     "LR": "20170729",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "36",
+     "IP": "12",
+     "DP": "2015 Dec",
+     "TI": "Multivariate classification of smokers and nonsmokers using SVM-RFE on structural MRI images.",
+     "PG": "4869-79",
+     "LID": "10.1002/hbm.22956 [doi]",
+     "AB": "Voxel-based morphometry (VBM) studies have revealed gray matter alterations in smokers, but this type of analysis has poor predictive value for individual cases, which limits its applicability in clinical diagnoses and treatment. A predictive model would essentially embody a complex biomarker that could be used to evaluate treatment efficacy. In this study, we applied VBM along with a multivariate classification method consisting of a support vector machine with recursive feature elimination to discriminate smokers from nonsmokers using their structural MRI data. Mean gray matter volumes in 1,024 cerebral cortical regions of interest created using a subparcellated version of the Automated Anatomical Labeling template were calculated from 60 smokers and 60 nonsmokers, and served as input features to the classification procedure. The classifier achieved the highest accuracy of 69.6% when taking the 139 highest ranked features via 10-fold cross-validation. Critically, these features were later validated on an independent testing set that consisted of 28 smokers and 28 nonsmokers, yielding a 64.04% accuracy level (binomial P = 0.01). Following classification, exploratory post hoc regression analyses were performed, which revealed that gray matter volumes in the putamen, hippocampus, prefrontal cortex, cingulate cortex, caudate, thalamus, pre-/postcentral gyrus, precuneus, and the parahippocampal gyrus, were inversely related to smoking behavioral characteristics. These results not only indicate that smoking related gray matter alterations can provide predictive power for group membership, but also suggest that machine learning techniques can reveal underlying smoking-related neurobiology.",
+     "CI": [
+          "Published 2015. This article is a U.S. Government work and is in the public",
+          "domain in the USA."
+     ],
+     "FAU": [
+          "Ding, Xiaoyu",
+          "Yang, Yihong",
+          "Stein, Elliot A",
+          "Ross, Thomas J"
+     ],
+     "AU": [
+          "Ding X",
+          "Yang Y",
+          "Stein EA",
+          "Ross TJ"
+     ],
+     "AD": "Neuroimaging Research Branch, Intramural Research Program, National Institute on Drug Abuse, National Institutes of Health, Baltimore, Maryland. Neuroimaging Research Branch, Intramural Research Program, National Institute on Drug Abuse, National Institutes of Health, Baltimore, Maryland. Neuroimaging Research Branch, Intramural Research Program, National Institute on Drug Abuse, National Institutes of Health, Baltimore, Maryland. Neuroimaging Research Branch, Intramural Research Program, National Institute on Drug Abuse, National Institutes of Health, Baltimore, Maryland.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Z99 DA999999/Intramural NIH HHS/United States",
+          "NDA13001-001-00000/PHS HHS/United States",
+          "Intramural NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Intramural",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "DEP": "20151024",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Cerebral Cortex/*pathology",
+          "Female",
+          "Gray Matter/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Psychiatric Status Rating Scales",
+          "Regression Analysis",
+          "Reproducibility of Results",
+          "Smoking/*pathology",
+          "Support Vector Machine"
+     ],
+     "PMC": "PMC5531448",
+     "MID": [
+          "NIHMS717722"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "multivariate classification",
+          "recursive feature elimination",
+          "smoking addiction",
+          "structural MRI",
+          "support vector machine",
+          "voxel-based morphometry"
+     ],
+     "EDAT": "2015/10/27 06:00",
+     "MHDA": "2016/10/08 06:00",
+     "CRDT": [
+          "2015/10/27 06:00"
+     ],
+     "PHST": [
+          "2014/12/31 00:00 [received]",
+          "2015/08/13 00:00 [revised]",
+          "2015/08/17 00:00 [accepted]",
+          "2015/10/27 06:00 [entrez]",
+          "2015/10/27 06:00 [pubmed]",
+          "2016/10/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.22956 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2015 Dec;36(12):4869-79. doi: 10.1002/hbm.22956. Epub 2015 Oct 24.",
+     "term": "hippocampus"
+}

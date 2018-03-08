@@ -1,0 +1,90 @@
+{
+     "PMID": "27168407",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180116",
+     "LR": "20180215",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "37",
+     "IP": "10",
+     "DP": "2016 Oct",
+     "TI": "MICA-A toolbox for masked independent component analysis of fMRI data.",
+     "PG": "3544-56",
+     "LID": "10.1002/hbm.23258 [doi]",
+     "AB": "Independent component analysis (ICA) is a widely used technique for investigating functional connectivity (fc) in functional magnetic resonance imaging data. Masked independent component analysis (mICA), that is, ICA restricted to a defined region of interest, has been shown to detect local fc networks in particular brain regions, including the cerebellum, brainstem, posterior cingulate cortex, operculo-insular cortex, hippocampus, and spinal cord. Here, we present the mICA toolbox, an open-source GUI toolbox based on FSL command line tools that performs mICA and related analyses in an integrated way. Functions include automated mask generation from atlases, essential preprocessing, mICA-based parcellation, back-reconstruction of whole-brain fc networks from local ones, and reproducibility analysis. Automated slice-wise calculation and cropping are additional functions that reduce computational time and memory requirements for large analyses. To validate our toolbox, we tested these different functions on the cerebellum, hippocampus, and brainstem, using resting-state and task-based data from the Human Connectome Project. In the cerebellum, mICA detected six local networks together with their whole-brain counterparts, closely replicating previous results. MICA-based parcellation of the hippocampus showed a longitudinally discrete configuration with greater heterogeneity in the anterior hippocampus, consistent with animal and human literature. Finally, brainstem mICA detected motor and sensory nuclei involved in the motor task of tongue movement, thereby replicating and extending earlier results. Hum Brain Mapp 37:3544-3556, 2016. (c) 2016 Wiley Periodicals, Inc.",
+     "CI": [
+          "(c) 2016 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Moher Alsady, Tawfik",
+          "Blessing, Esther M",
+          "Beissner, Florian"
+     ],
+     "AU": [
+          "Moher Alsady T",
+          "Blessing EM",
+          "Beissner F"
+     ],
+     "AD": "Somatosensory and Autonomic Therapy Research, Institute for Neuroradiology, Hannover Medical School, Carl-Neuberg-Strasse 1, Hannover, 30625, Germany. Department of Psychiatry, Steven and Alexandra Cohen Veterans Center for Posttraumatic Stress and Traumatic Brain Injury, New York University Langone Medical Center, 550 First Avenue, New York, NY 10016. Somatosensory and Autonomic Therapy Research, Institute for Neuroradiology, Hannover Medical School, Carl-Neuberg-Strasse 1, Hannover, 30625, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Validation Studies",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160511",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Atlases as Topic",
+          "Brain/*diagnostic imaging/*physiology",
+          "Connectome/methods",
+          "Female",
+          "Humans",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Motor Activity/physiology",
+          "Neural Pathways/diagnostic imaging/physiology",
+          "Reproducibility of Results",
+          "Rest",
+          "Tongue/physiology",
+          "*User-Computer Interface"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*brainstem",
+          "*functional connectivity",
+          "*independent component analysis",
+          "*localized ICA",
+          "*masked ICA",
+          "*parcellation",
+          "*spatially-restricted ICA"
+     ],
+     "EDAT": "2016/05/12 06:00",
+     "MHDA": "2018/01/18 06:00",
+     "CRDT": [
+          "2016/05/12 06:00"
+     ],
+     "PHST": [
+          "2015/10/02 00:00 [received]",
+          "2016/04/23 00:00 [revised]",
+          "2016/04/29 00:00 [accepted]",
+          "2016/05/12 06:00 [entrez]",
+          "2016/05/12 06:00 [pubmed]",
+          "2018/01/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.23258 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2016 Oct;37(10):3544-56. doi: 10.1002/hbm.23258. Epub 2016 May 11.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,85 @@
+{
+     "PMID": "22836174",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130625",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "63",
+     "IP": "3",
+     "DP": "2012 Nov 15",
+     "TI": "Quantitative mouse brain phenotyping based on single and multispectral MR protocols.",
+     "PG": "1633-45",
+     "LID": "10.1016/j.neuroimage.2012.07.021 [doi] S1053-8119(12)00732-X [pii]",
+     "AB": "Sophisticated image analysis methods have been developed for the human brain, but such tools still need to be adapted and optimized for quantitative small animal imaging. We propose a framework for quantitative anatomical phenotyping in mouse models of neurological and psychiatric conditions. The framework encompasses an atlas space, image acquisition protocols, and software tools to register images into this space. We show that a suite of segmentation tools (Avants, Epstein et al., 2008) designed for human neuroimaging can be incorporated into a pipeline for segmenting mouse brain images acquired with multispectral magnetic resonance imaging (MR) protocols. We present a flexible approach for segmenting such hyperimages, optimizing registration, and identifying optimal combinations of image channels for particular structures. Brain imaging with T1, T2* and T2 contrasts yielded accuracy in the range of 83% for hippocampus and caudate putamen (Hc and CPu), but only 54% in white matter tracts, and 44% for the ventricles. The addition of diffusion tensor parameter images improved accuracy for large gray matter structures (by >5%), white matter (10%), and ventricles (15%). The use of Markov random field segmentation further improved overall accuracy in the C57BL/6 strain by 6%; so Dice coefficients for Hc and CPu reached 93%, for white matter 79%, for ventricles 68%, and for substantia nigra 80%. We demonstrate the segmentation pipeline for the widely used C57BL/6 strain, and two test strains (BXD29, APP/TTA). This approach appears promising for characterizing temporal changes in mouse models of human neurological and psychiatric conditions, and may provide anatomical constraints for other preclinical imaging, e.g. fMRI and molecular imaging. This is the first demonstration that multiple MR imaging modalities combined with multivariate segmentation methods lead to significant improvements in anatomical segmentation in the mouse brain.",
+     "CI": [
+          "Copyright (c) 2012 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Badea, Alexandra",
+          "Gewalt, Sally",
+          "Avants, Brian B",
+          "Cook, James J",
+          "Johnson, G Allan"
+     ],
+     "AU": [
+          "Badea A",
+          "Gewalt S",
+          "Avants BB",
+          "Cook JJ",
+          "Johnson GA"
+     ],
+     "AD": "Center for InVivo Microscopy, Box 3302, Duke University Medical Center, Durham, NC 27710, USA. alexandra.badea@duke.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB015897/EB/NIBIB NIH HHS/United States",
+          "U24 CA092656/CA/NCI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20120723",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/*anatomy & histology",
+          "Brain Mapping/*methods",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging",
+          "Mice/*anatomy & histology",
+          "Mice, Inbred C57BL",
+          "Phenotype",
+          "*Software"
+     ],
+     "PMC": "PMC3604698",
+     "MID": [
+          "NIHMS396334"
+     ],
+     "EDAT": "2012/07/28 06:00",
+     "MHDA": "2013/06/26 06:00",
+     "CRDT": [
+          "2012/07/28 06:00"
+     ],
+     "PHST": [
+          "2012/05/07 00:00 [received]",
+          "2012/06/26 00:00 [revised]",
+          "2012/07/07 00:00 [accepted]",
+          "2012/07/28 06:00 [entrez]",
+          "2012/07/28 06:00 [pubmed]",
+          "2013/06/26 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(12)00732-X [pii]",
+          "10.1016/j.neuroimage.2012.07.021 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2012 Nov 15;63(3):1633-45. doi: 10.1016/j.neuroimage.2012.07.021. Epub 2012 Jul 23.",
+     "term": "hippocampus"
+}

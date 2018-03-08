@@ -1,0 +1,67 @@
+{
+     "PMID": "24730895",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150419",
+     "LR": "20140415",
+     "IS": "1550-2376 (Electronic) 1539-3755 (Linking)",
+     "VI": "89",
+     "IP": "3",
+     "DP": "2014 Mar",
+     "TI": "Crosstalk and transitions between multiple spatial maps in an attractor neural network model of the hippocampus: collective motion of the activity.",
+     "PG": "032803",
+     "AB": "The dynamics of a neural model for hippocampal place cells storing spatial maps is studied. In the absence of external input, depending on the number of cells and on the values of control parameters (number of environments stored, level of neural noise, average level of activity, connectivity of place cells), a \"clump\" of spatially localized activity can diffuse or remains pinned due to crosstalk between the environments. In the single-environment case, the macroscopic coefficient of diffusion of the clump and its effective mobility are calculated analytically from first principles and corroborated by numerical simulations. In the multienvironment case the heights and the widths of the pinning barriers are analytically characterized with the replica method; diffusion within one map is then in competition with transitions between different maps. Possible mechanisms enhancing mobility are proposed and tested.",
+     "FAU": [
+          "Monasson, R",
+          "Rosay, S"
+     ],
+     "AU": [
+          "Monasson R",
+          "Rosay S"
+     ],
+     "AD": "Laboratoire de Physique Theorique de l'ENS, CNRS & UPMC, 24 rue Lhomond, 75005 Paris, France. Laboratoire de Physique Theorique de l'ENS, CNRS & UPMC, 24 rue Lhomond, 75005 Paris, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140311",
+     "PL": "United States",
+     "TA": "Phys Rev E Stat Nonlin Soft Matter Phys",
+     "JT": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+     "JID": "101136452",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Models, Statistical",
+          "Nerve Net/*physiology",
+          "Neural Pathways/*physiology",
+          "Neurons/*physiology",
+          "Synaptic Transmission/*physiology"
+     ],
+     "EDAT": "2014/04/16 06:00",
+     "MHDA": "2015/04/22 06:00",
+     "CRDT": [
+          "2014/04/16 06:00"
+     ],
+     "PHST": [
+          "2013/10/14 00:00 [received]",
+          "2014/04/16 06:00 [entrez]",
+          "2014/04/16 06:00 [pubmed]",
+          "2015/04/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1103/PhysRevE.89.032803 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phys Rev E Stat Nonlin Soft Matter Phys. 2014 Mar;89(3):032803. doi: 10.1103/PhysRevE.89.032803. Epub 2014 Mar 11.",
+     "term": "place cells"
+}

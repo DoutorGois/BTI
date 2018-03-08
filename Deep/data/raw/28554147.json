@@ -1,0 +1,97 @@
+{
+     "PMID": "28554147",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170821",
+     "LR": "20170821",
+     "IS": "1872-8952 (Electronic) 1388-2457 (Linking)",
+     "VI": "128",
+     "IP": "7",
+     "DP": "2017 Jul",
+     "TI": "Seizure prediction in patients with focal hippocampal epilepsy.",
+     "PG": "1299-1307",
+     "LID": "S1388-2457(17)30182-7 [pii] 10.1016/j.clinph.2017.04.026 [doi]",
+     "AB": "OBJECTIVE: We evaluated the performance of our previously developed seizure prediction approach on thirty eight seizures from ten patients with focal hippocampal epilepsy. METHODS: The seizure prediction system was developed based on the extraction of correlation dimension, correlation entropy, noise level, Lempel-Ziv complexity, largest Lyapunov exponent, and nonlinear interdependence from segments of intracranial EEG. RESULTS: Our results showed an average sensitivity of 86.7% and 92.9%, an average false prediction rate of 0.126 and 0.096/h, and an average minimum prediction time of 14.3 and 33.3min, respectively, using seizure occurrence periods of 30 and 50min and a seizure prediction horizon of 10s. Two-third of the analyzed seizures showed significantly increased complexity in periods prior to the seizures in comparison with baseline. In four patients, strong bidirectional connectivities between epileptic contacts and the surrounding areas were observed. However, in five patients, unidirectional functional connectivities in preictal periods were observed from remote areas to epileptogenic zones. CONCLUSIONS: Overall, preictal periods in patients with focal hippocampal epilepsy were characterized with patient-specific changes in univariate and bivariate nonlinear measures. SIGNIFICANCE: The spatio-temporal characterization of preictal periods may help to better understand the mechanism underlying seizure generation in patients with focal hippocampal epilepsy.",
+     "CI": [
+          "Copyright (c) 2017 International Federation of Clinical Neurophysiology. All",
+          "rights reserved."
+     ],
+     "FAU": [
+          "Aarabi, Ardalan",
+          "He, Bin"
+     ],
+     "AU": [
+          "Aarabi A",
+          "He B"
+     ],
+     "AD": "GRAMFC Inserm U1105, University Research Center, University of Picardie-Jules Verne, CHU AMIENS - SITE SUD, Avenue Laennec, 80054 Amiens, France; Faculty of Medicine, University of Picardie Jules Verne, Amiens 80036, France. Electronic address: ardalan.aarabi@u-picardie.fr. Department of Biomedical Engineering, University of Minnesota, Minneapolis, MN 55455, USA; Institute for Engineering in Medicine, University of Minnesota, Minneapolis, MN 55455, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB021027/EB/NIBIB NIH HHS/United States",
+          "R01 NS096761/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170512",
+     "PL": "Netherlands",
+     "TA": "Clin Neurophysiol",
+     "JT": "Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology",
+     "JID": "100883319",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Brain Mapping/methods",
+          "Electrocorticography/*methods",
+          "Epilepsies, Partial/*diagnosis/*physiopathology",
+          "Female",
+          "Hippocampus/*physiopathology",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Predictive Value of Tests",
+          "Seizures/*diagnosis/*physiopathology",
+          "Young Adult"
+     ],
+     "PMC": "PMC5513720",
+     "MID": [
+          "NIHMS876394"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Complexity",
+          "Connectivity",
+          "Focal hippocampal epilepsy",
+          "Intracranial EEG",
+          "Preictal identification",
+          "Seizure prediction"
+     ],
+     "EDAT": "2017/05/30 06:00",
+     "MHDA": "2017/08/22 06:00",
+     "CRDT": [
+          "2017/05/30 06:00"
+     ],
+     "PMCR": [
+          "2018/07/01 00:00"
+     ],
+     "PHST": [
+          "2017/02/11 00:00 [received]",
+          "2017/04/24 00:00 [revised]",
+          "2017/04/26 00:00 [accepted]",
+          "2018/07/01 00:00 [pmc-release]",
+          "2017/05/30 06:00 [pubmed]",
+          "2017/08/22 06:00 [medline]",
+          "2017/05/30 06:00 [entrez]"
+     ],
+     "AID": [
+          "S1388-2457(17)30182-7 [pii]",
+          "10.1016/j.clinph.2017.04.026 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Clin Neurophysiol. 2017 Jul;128(7):1299-1307. doi: 10.1016/j.clinph.2017.04.026. Epub 2017 May 12.",
+     "term": "hippocampus"
+}

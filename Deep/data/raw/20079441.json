@@ -1,0 +1,100 @@
+{
+     "PMID": "20079441",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100608",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "50",
+     "IP": "3",
+     "DP": "2010 Apr 15",
+     "TI": "Learning brain connectivity of Alzheimer's disease by sparse inverse covariance estimation.",
+     "PG": "935-49",
+     "LID": "10.1016/j.neuroimage.2009.12.120 [doi]",
+     "AB": "Rapid advances in neuroimaging techniques provide great potentials for study of Alzheimer's disease (AD). Existing findings have shown that AD is closely related to alteration in the functional brain network, i.e., the functional connectivity between different brain regions. In this paper, we propose a method based on sparse inverse covariance estimation (SICE) to identify functional brain connectivity networks from PET data. Our method is able to identify both the connectivity network structure and strength for a large number of brain regions with small sample sizes. We apply the proposed method to the PET data of AD, mild cognitive impairment (MCI), and normal control (NC) subjects. Compared with NC, AD shows decrease in the amount of inter-region functional connectivity within the temporal lobe especially between the area around hippocampus and other regions and increase in the amount of connectivity within the frontal lobe as well as between the parietal and occipital lobes. Also, AD shows weaker between-lobe connectivity than within-lobe connectivity and weaker between-hemisphere connectivity, compared with NC. In addition to being a method for knowledge discovery about AD, the proposed SICE method can also be used for classifying new subjects, which makes it a suitable approach for novel connectivity-based AD biomarker identification. Our experiments show that the best sensitivity and specificity our method can achieve in AD vs. NC classification are 88% and 88%, respectively.",
+     "CI": [
+          "Copyright 2009 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Huang, Shuai",
+          "Li, Jing",
+          "Sun, Liang",
+          "Ye, Jieping",
+          "Fleisher, Adam",
+          "Wu, Teresa",
+          "Chen, Kewei",
+          "Reiman, Eric"
+     ],
+     "AU": [
+          "Huang S",
+          "Li J",
+          "Sun L",
+          "Ye J",
+          "Fleisher A",
+          "Wu T",
+          "Chen K",
+          "Reiman E"
+     ],
+     "AD": "Department of Industrial Engineering, Arizona State University, Tempe, AZ 85287-8809, USA.",
+     "CN": [
+          "Alzheimer's Disease NeuroImaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "U01 AG024904-01/AG/NIA NIH HHS/United States",
+          "U19 AG010483/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100114",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Algorithms",
+          "Alzheimer Disease/diagnosis/*diagnostic imaging/*pathology",
+          "Brain/*diagnostic imaging/*pathology",
+          "Cognition Disorders/diagnosis/diagnostic imaging/pathology",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Male",
+          "Models, Neurological",
+          "Neural Pathways/diagnostic imaging/pathology",
+          "Positron-Emission Tomography/*methods",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC3068623",
+     "MID": [
+          "NIHMS238659"
+     ],
+     "EDAT": "2010/01/19 06:00",
+     "MHDA": "2010/06/09 06:00",
+     "CRDT": [
+          "2010/01/19 06:00"
+     ],
+     "PHST": [
+          "2009/08/12 00:00 [received]",
+          "2009/12/29 00:00 [revised]",
+          "2009/12/30 00:00 [accepted]",
+          "2010/01/19 06:00 [entrez]",
+          "2010/01/19 06:00 [pubmed]",
+          "2010/06/09 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(09)01428-1 [pii]",
+          "10.1016/j.neuroimage.2009.12.120 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2010 Apr 15;50(3):935-49. doi: 10.1016/j.neuroimage.2009.12.120. Epub 2010 Jan 14.",
+     "term": "hippocampus"
+}

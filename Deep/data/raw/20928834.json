@@ -1,0 +1,75 @@
+{
+     "PMID": "20928834",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120514",
+     "LR": "20170220",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "22",
+     "IP": "2",
+     "DP": "2012 Feb",
+     "TI": "The single place fields of CA3 cells: a two-stage transformation from grid cells.",
+     "PG": "200-8",
+     "LID": "10.1002/hipo.20882 [doi]",
+     "AB": "Granule cells of the dentate gyrus (DG) generally have multiple place fields, whereas CA3 cells, which are second order, have only a single place field. Here, we explore the mechanisms by which the high selectivity of CA3 cells is achieved. Previous work showed that the multiple place fields of DG neurons could be quantitatively accounted for by a model based on the number and strength of grid cell inputs and a competitive network interaction in the DG that is mediated by gamma frequency feedback inhibition. We have now built a model of CA3 based on similar principles. CA3 cells receive input from an average of one active DG cell and from 1,400 cortical grid cells. Based on experimental findings, we have assumed a linear interaction of the two pathways. The results show that simulated CA3 cells generally have a single place field, as observed experimentally. Thus, a two-step process based on simple rules (and that can occur without learning) is able to explain how grid cell inputs to the hippocampus give rise to cells having ultimate spatial selectivity. The CA3 processes that produce a single place depend critically on the competitive network processes and do not require the direct cortical inputs to CA3, which are therefore likely to perform some other unknown function.",
+     "CI": [
+          "Copyright (c) 2010 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "de Almeida, Licurgo",
+          "Idiart, Marco",
+          "Lisman, John E"
+     ],
+     "AU": [
+          "de Almeida L",
+          "Idiart M",
+          "Lisman JE"
+     ],
+     "AD": "Department of Biology and Volen Center for Complex Systems, Brandeis University, Waltham, Massachusetts 02454, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 MH060450/MH/NIMH NIH HHS/United States",
+          "R01 DA027807/DA/NIDA NIH HHS/United States",
+          "R01DA027807/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20101006",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "CA3 Region, Hippocampal/*physiology",
+          "*Computer Simulation",
+          "*Models, Neurological",
+          "Pyramidal Cells/*physiology"
+     ],
+     "PMC": "PMC3690668",
+     "MID": [
+          "NIHMS482198"
+     ],
+     "EDAT": "2010/10/12 06:00",
+     "MHDA": "2012/05/15 06:00",
+     "CRDT": [
+          "2010/10/08 06:00"
+     ],
+     "PHST": [
+          "2010/08/11 00:00 [accepted]",
+          "2010/10/08 06:00 [entrez]",
+          "2010/10/12 06:00 [pubmed]",
+          "2012/05/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.20882 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2012 Feb;22(2):200-8. doi: 10.1002/hipo.20882. Epub 2010 Oct 6.",
+     "term": "grid cells"
+}

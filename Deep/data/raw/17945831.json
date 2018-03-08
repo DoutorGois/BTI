@@ -1,0 +1,70 @@
+{
+     "PMID": "17945831",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080307",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "1",
+     "DP": "2006",
+     "TI": "Information transmission in hippocampal CA1 neuron models in the presence of poisson shot noise: the case of periodic sub-threshold spike trains.",
+     "PG": "4196-9",
+     "AB": "This article presents an analysis of the information transmission of periodic sub-threshold spike trains in a hippocampal CA1 neuron model in the presence of a homogeneous Poisson shot noise. In the computer simulation, periodic sub-threshold spike trains were presented repeatedly to the midpoint of the main apical branch, while the homogeneous Poisson shot noise was applied to the mid-point of a basal dendrite in the CA1 neuron model consisting of the soma with one sodium, one calcium, and five potassium channels. From spike firing times recorded at the soma, the inter spike intervals were generated and then the probability, p(T), of the inter-spike interval histogram corresponding to the spike interval, r, of the periodic input spike trains was estimated to obtain an index of information transmission. In the present article, it is shown that at a specific amplitude of the homogeneous Poisson shot noise, p(T) was found to be maximized, as well as the possibility to encode the periodic sub-threshold spike trains became greater. It was implied that setting the amplitude of the homogeneous Poisson shot noise to the specific values which maximize the information transmission might contribute to efficiently encoding the periodic sub-threshold spike trains by utilizing the stochastic resonance.",
+     "FAU": [
+          "Kawaguchi, Minato",
+          "Mino, Hiroyuki",
+          "Durand, Dominique M"
+     ],
+     "AU": [
+          "Kawaguchi M",
+          "Mino H",
+          "Durand DM"
+     ],
+     "AD": "Graduate Sch. of Eng., Kanto Gakuin Univ., Yokohama. gutch_be@mac.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "RN": [
+          "0 (Calcium Channels)",
+          "0 (Potassium Channels)",
+          "0 (Sodium Channels)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Calcium Channels/physiology",
+          "Cell Communication/*physiology",
+          "Hippocampus/*physiology",
+          "Mechanoreceptors/physiology",
+          "Models, Neurological",
+          "Neurons/*physiology",
+          "Noise",
+          "Poisson Distribution",
+          "Potassium Channels/physiology",
+          "Sensory Thresholds/physiology",
+          "Sodium Channels/physiology"
+     ],
+     "EDAT": "2007/10/20 09:00",
+     "MHDA": "2008/03/08 09:00",
+     "CRDT": [
+          "2007/10/20 09:00"
+     ],
+     "PHST": [
+          "2007/10/20 09:00 [pubmed]",
+          "2008/03/08 09:00 [medline]",
+          "2007/10/20 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2006.260237 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2006;1:4196-9. doi: 10.1109/IEMBS.2006.260237.",
+     "term": "hippocampus"
+}

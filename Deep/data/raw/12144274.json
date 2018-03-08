@@ -1,0 +1,64 @@
+{
+     "PMID": "12144274",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030122",
+     "LR": "20061115",
+     "IS": "0013-936X (Print) 0013-936X (Linking)",
+     "VI": "36",
+     "IP": "13",
+     "DP": "2002 Jul 1",
+     "TI": "The decoupled direct method for sensitivity analysis in a three-dimensional air quality model--implementation, accuracy, and efficiency.",
+     "PG": "2965-76",
+     "AB": "The decoupled direct method (DDM) has been implemented in a three-dimensional (3D) air quality model in order to calculate first-order sensitivities with respect to emissions and initial and boundary concentrations. This required deriving new equations for the sensitivities from the equations of the hybrid chemistry solver and the nonlinear advection algorithm in the model. The sensitivities for the chemistry and advection steps were tested in box-model and rotating-hill simulations, respectively. The complete model was then applied to an ozone episode of the Lake Michigan region during July 7-13, 1995. The DDM was found to be highly accurate for calculating the sensitivity of the 3D model. The sensitivities obtained by perturbing the inputs (brute-force method) converged toward the DDM sensitivities, as the brute-force perturbations became small. Ozone changes predicted with the DDM sensitivities were also compared to actual changes obtained from simulations with reduced inputs. For 40% reductions in volatile organic compound and/or NOx emissions,the predicted changes correlate highly with the actual changes and are directionally correct for nearly all grid cells in the modeling domain. However, the magnitude of the predicted changes is 10-20% smaller than the actual changes on average. Agreement between predicted and actual ozone changes is better for 40% reductions in initial or boundary concentrations. Calculating one sensitivity by the DDM is up to 2.5 times faster than calculating the concentrations alone.",
+     "FAU": [
+          "Dunker, Alan M",
+          "Yarwood, Greg",
+          "Ortmann, Jerome P",
+          "Wilson, Gary M"
+     ],
+     "AU": [
+          "Dunker AM",
+          "Yarwood G",
+          "Ortmann JP",
+          "Wilson GM"
+     ],
+     "AD": "Chemical and Environmental Sciences Laboratory, General Motors Research and Development Center, Warren, Michigan 48090-9055, USA. alan.m.dunker@gm.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Environ Sci Technol",
+     "JT": "Environmental science & technology",
+     "JID": "0213155",
+     "RN": [
+          "0 (Air Pollutants)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Air Movements",
+          "Air Pollutants/*analysis",
+          "Forecasting",
+          "*Models, Theoretical",
+          "Quality Control",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2002/07/30 10:00",
+     "MHDA": "2003/01/23 04:00",
+     "CRDT": [
+          "2002/07/30 10:00"
+     ],
+     "PHST": [
+          "2002/07/30 10:00 [pubmed]",
+          "2003/01/23 04:00 [medline]",
+          "2002/07/30 10:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Environ Sci Technol. 2002 Jul 1;36(13):2965-76.",
+     "term": "grid cells"
+}

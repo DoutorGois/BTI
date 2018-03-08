@@ -1,0 +1,91 @@
+{
+     "PMID": "17633711",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070831",
+     "LR": "20170220",
+     "IS": "1011-2499 (Print) 1011-2499 (Linking)",
+     "VI": "20",
+     "DP": "2007",
+     "TI": "Shape modeling and analysis with entropy-based particle systems.",
+     "PG": "333-45",
+     "AB": "This paper presents a new method for constructing compact statistical point-based models of ensembles of similar shapes that does not rely on any specific surface parameterization. The method requires very little preprocessing or parameter tuning, and is applicable to a wider range of problems than existing methods, including nonmanifold surfaces and objects of arbitrary topology. The proposed method is to construct a point-based sampling of the shape ensemble that simultaneously maximizes both the geometric accuracy and the statistical simplicity of the model. Surface point samples, which also define the shape-to-shape correspondences, are modeled as sets of dynamic particles that are constrained to lie on a set of implicit surfaces. Sample positions are optimized by gradient descent on an energy function that balances the negative entropy of the distribution on each shape with the positive entropy of the ensemble of shapes. We also extend the method with a curvature-adaptive sampling strategy in order to better approximate the geometry of the objects. This paper presents the formulation; several synthetic examples in two and three dimensions; and an application to the statistical shape analysis of the caudate and hippocampus brain structures from two clinical studies.",
+     "FAU": [
+          "Cates, Joshua",
+          "Fletcher, P Thomas",
+          "Styner, Martin",
+          "Shenton, Martha",
+          "Whitaker, Ross"
+     ],
+     "AU": [
+          "Cates J",
+          "Fletcher PT",
+          "Styner M",
+          "Shenton M",
+          "Whitaker R"
+     ],
+     "AD": "School of Computing, University of Utah, Salt Lake City UT, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K05 MH 01110/MH/NIMH NIH HHS/United States",
+          "R01 MH050740/MH/NIMH NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States",
+          "R01 MH 50740/MH/NIMH NIH HHS/United States",
+          "R01 MH050740-10/MH/NIMH NIH HHS/United States",
+          "R01 MH 52807/MH/NIMH NIH HHS/United States",
+          "2-P41-RR12553-07/RR/NCRR NIH HHS/United States",
+          "P41 RR012553/RR/NCRR NIH HHS/United States",
+          "P50 MH033127/MH/NIMH NIH HHS/United States",
+          "R01 MH052807/MH/NIMH NIH HHS/United States",
+          "MH33127/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "Germany",
+     "TA": "Inf Process Med Imaging",
+     "JT": "Information processing in medical imaging : proceedings of the ... conference",
+     "JID": "9216871",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Algorithms",
+          "Artificial Intelligence",
+          "Computer Simulation",
+          "Entropy",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Models, Neurological",
+          "Particle Size",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Schizophrenia/*diagnosis",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC2768473",
+     "MID": [
+          "NIHMS152546"
+     ],
+     "EDAT": "2007/07/19 09:00",
+     "MHDA": "2007/09/01 09:00",
+     "CRDT": [
+          "2007/07/19 09:00"
+     ],
+     "PHST": [
+          "2007/07/19 09:00 [pubmed]",
+          "2007/09/01 09:00 [medline]",
+          "2007/07/19 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Inf Process Med Imaging. 2007;20:333-45.",
+     "term": "hippocampus"
+}

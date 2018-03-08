@@ -1,0 +1,111 @@
+{
+     "PMID": "20129863",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101129",
+     "LR": "20170220",
+     "IS": "1941-0042 (Electronic) 1057-7149 (Linking)",
+     "VI": "19",
+     "IP": "6",
+     "DP": "2010 Jun",
+     "TI": "Atlas generation for subcortical and ventricular structures with its applications in shape analysis.",
+     "PG": "1539-47",
+     "LID": "10.1109/TIP.2010.2042099 [doi]",
+     "AB": "Atlas-driven morphometric analysis has received great attention for studying anatomical shape variation across clinical populations in neuroimaging research as it provides a local coordinate representation for understanding the family of anatomic observations. We present a procedure for generating atlas of subcortical and ventricular structures, including amygdala, hippocampus, caudate, putamen, globus pallidus, thalamus, and lateral ventricles, using the large deformation diffeomorphic metric atlas generation algorithm. The atlas was built based on manually labeled volumes of 41 subjects randomly selected from the database of Open Access Series of Imaging Studies (OASIS, 10 young adults, 10 middle-age adults, 10 healthy elders, and 11 patients with dementia). We show that the estimated atlas is representative of the population in terms of its metric distance to each individual subject in the population. In the application of detecting shape variations, using the estimated atlas may potentially increase statistical power in identifying group shape difference when comparing with using a single subject atlas. In shape-based classification, the metric distances between subjects and each of within-class estimated atlases construct a shape feature space, which allows for performing a variety of classification algorithms to distinguish anatomies.",
+     "FAU": [
+          "Qiu, Anqi",
+          "Brown, Timothy",
+          "Fischl, Bruce",
+          "Ma, Jun",
+          "Miller, Michael I"
+     ],
+     "AU": [
+          "Qiu A",
+          "Brown T",
+          "Fischl B",
+          "Ma J",
+          "Miller MI"
+     ],
+     "AD": "Division of Bioengineering, National University of Singapore, Singapore 117576. bieqa@nus.edu.sg",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U24 RR021382/RR/NCRR NIH HHS/United States",
+          "P41-RR14075/RR/NCRR NIH HHS/United States",
+          "R01EB006758/EB/NIBIB NIH HHS/United States",
+          "R01 NS052585-01/NS/NINDS NIH HHS/United States",
+          "P41 RR015241-097563/RR/NCRR NIH HHS/United States",
+          "R01 EB001550/EB/NIBIB NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States",
+          "R01 EB008171/EB/NIBIB NIH HHS/United States",
+          "P41 RR014075/RR/NCRR NIH HHS/United States",
+          "R01 NS052585/NS/NINDS NIH HHS/United States",
+          "U24 RR021382-05/RR/NCRR NIH HHS/United States",
+          "P41 RR15241/RR/NCRR NIH HHS/United States",
+          "R01 RR16594-01A1/RR/NCRR NIH HHS/United States",
+          "R01 EB001550-04/EB/NIBIB NIH HHS/United States",
+          "R01 EB000975/EB/NIBIB NIH HHS/United States",
+          "P41 RR015241/RR/NCRR NIH HHS/United States",
+          "R01 RR016594-01A1/RR/NCRR NIH HHS/United States",
+          "R01 RR016594/RR/NCRR NIH HHS/United States",
+          "R01 NS052585-01A1/NS/NINDS NIH HHS/United States",
+          "U54 EB005149-04/EB/NIBIB NIH HHS/United States",
+          "R01 EB006758/EB/NIBIB NIH HHS/United States",
+          "R01 EB006758-03/EB/NIBIB NIH HHS/United States",
+          "P41 RR014075-04/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100202",
+     "PL": "United States",
+     "TA": "IEEE Trans Image Process",
+     "JT": "IEEE transactions on image processing : a publication of the IEEE Signal Processing Society",
+     "JID": "9886191",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Algorithms",
+          "Anatomy, Artistic",
+          "Atlases as Topic",
+          "Brain/*pathology",
+          "Computer Simulation",
+          "Dementia/*pathology",
+          "Female",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "*Models, Anatomic",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC2909363",
+     "MID": [
+          "NIHMS183586"
+     ],
+     "EDAT": "2010/02/05 06:00",
+     "MHDA": "2010/12/14 06:00",
+     "CRDT": [
+          "2010/02/05 06:00"
+     ],
+     "PHST": [
+          "2010/02/05 06:00 [entrez]",
+          "2010/02/05 06:00 [pubmed]",
+          "2010/12/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TIP.2010.2042099 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Image Process. 2010 Jun;19(6):1539-47. doi: 10.1109/TIP.2010.2042099. Epub 2010 Feb 2.",
+     "term": "hippocampus"
+}

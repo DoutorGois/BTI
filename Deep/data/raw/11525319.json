@@ -1,0 +1,89 @@
+{
+     "PMID": "11525319",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20011207",
+     "LR": "20161124",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "14",
+     "IP": "1 Pt 1",
+     "DP": "2001 Jul",
+     "TI": "Quantification of F-18 FDG PET images in temporal lobe epilepsy patients using probabilistic brain atlas.",
+     "PG": "1-6",
+     "AB": "A probabilistic atlas of the human brain (Statistical Probabilistic Anatomical Maps: SPAM) was developed by the international consortium for brain mapping (ICBM). It is a good frame for calculating volume of interest (VOI) in many fields of brain images. After calculating the counts in VOI using the product of probability of SPAM images and counts in FDG images, asymmetric indices (AI) were calculated and used for finding epileptogenic zones in mesial temporal lobe epilepsy (mTLE). FDG PET images from 18 surgically confirmed mTLE patients and 22 age-matched controls were spatially normalized to the average brain MRI template of ICBM. Counts from normalized PET images were multiplied with the probability of 12 VOIs from SPAM images in both temporal lobes. Finally AI were calculated on each pair of VOIs, and compared with visual assessment. If AI of mTLE patients were not within 2.9 standard deviation from those of normal control group (P < 0.008; Bonferroni correction for P < 0.05), epileptogenic zones were considered to be found successfully. The counts of VOIs in the normal control group were symmetric (AI < 4.3%, paired t test P > 0.05) except for those of the inferior temporal gyrus (P < 0.001). By AIs in six pairs of VOIs, PET in mTLE had deficit on one side (P < 0.05). Lateralization was correct in only 14/18 of patients by AI, but 17/18 were consistent with visual inspection. In three patients with normal AI, PET images were symmetric on visual inspection. The asymmetric indices obtained by taking the product of the statistical probability anatomical map and FDG PET, correlated well with visual assessment in mTLE patients. SPAM is useful for the quantification of VOIs in functional images.",
+     "FAU": [
+          "Kang, K W",
+          "Lee, D S",
+          "Cho, J H",
+          "Lee, J S",
+          "Yeo, J S",
+          "Lee, S K",
+          "Chung, J K",
+          "Lee, M C"
+     ],
+     "AU": [
+          "Kang KW",
+          "Lee DS",
+          "Cho JH",
+          "Lee JS",
+          "Yeo JS",
+          "Lee SK",
+          "Chung JK",
+          "Lee MC"
+     ],
+     "AD": "Department of Nuclear Medicine, Seoul National University College of Medicine, Korea.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "0Z5B2CJX4D (Fluorodeoxyglucose F18)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Brain Mapping",
+          "Dominance, Cerebral/physiology",
+          "Epilepsy, Temporal Lobe/*diagnostic imaging/surgery",
+          "Female",
+          "Fluorodeoxyglucose F18",
+          "Follow-Up Studies",
+          "Hippocampus/diagnostic imaging/surgery",
+          "Humans",
+          "Image Processing, Computer-Assisted/*statistics & numerical data",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "*Models, Statistical",
+          "Postoperative Complications/diagnostic imaging",
+          "Psychosurgery",
+          "Reference Values",
+          "Temporal Lobe/diagnostic imaging/surgery",
+          "Tomography, Emission-Computed/*statistics & numerical data"
+     ],
+     "EDAT": "2001/08/30 10:00",
+     "MHDA": "2002/01/05 10:01",
+     "CRDT": [
+          "2001/08/30 10:00"
+     ],
+     "PHST": [
+          "2001/08/30 10:00 [pubmed]",
+          "2002/01/05 10:01 [medline]",
+          "2001/08/30 10:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(01)90783-9 [pii]",
+          "10.1006/nimg.2001.0783 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2001 Jul;14(1 Pt 1):1-6. doi: 10.1006/nimg.2001.0783.",
+     "term": "hippocampus"
+}

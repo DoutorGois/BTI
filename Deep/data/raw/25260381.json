@@ -1,0 +1,92 @@
+{
+     "PMID": "25260381",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150910",
+     "LR": "20161019",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "38",
+     "IP": "1",
+     "DP": "2015 Feb",
+     "TI": "Model-based asessment of an in-vivo predictive relationship from CA1 to CA3 in the rodent hippocampus.",
+     "PG": "89-103",
+     "LID": "10.1007/s10827-014-0530-8 [doi]",
+     "AB": "Although an anatomical connection from CA1 to CA3 via the Entorhinal Cortex (EC) and through backprojecting interneurons has long been known it exist, it has never been examined quantitatively on the single neuron level, in the in-vivo nonpatholgical, nonperturbed brain. Here, single spike activity was recorded using a multi-electrode array from the CA3 and CA1 areas of the rodent hippocampus (N = 7) during a behavioral task. The predictive power from CA3-->CA1 and CA1-->CA3 was examined by constructing Multivariate Autoregressive (MVAR) models from recorded neurons in both directions. All nonsignificant inputs and models were identified and removed by means of Monte Carlo simulation methods. It was found that 121/166 (73 %) CA3-->CA1 models and 96/145 (66 %) CA1-->CA3 models had significant predictive power, thus confirming a predictive 'Granger' causal relationship from CA1 to CA3. This relationship is thought to be caused by a combination of truly causal connections such as the CA1-->EC-->CA3 pathway and common inputs such as those from the Septum. All MVAR models were then examined in the frequency domain and it was found that CA3 kernels had significantly more power in the theta and beta range than those of CA1, confirming CA3's role as an endogenous hippocampal pacemaker.",
+     "FAU": [
+          "Sandler, Roman A",
+          "Song, Dong",
+          "Hampson, Robert E",
+          "Deadwyler, Sam A",
+          "Berger, Theodore W",
+          "Marmarelis, Vasilis Z"
+     ],
+     "AU": [
+          "Sandler RA",
+          "Song D",
+          "Hampson RE",
+          "Deadwyler SA",
+          "Berger TW",
+          "Marmarelis VZ"
+     ],
+     "AD": "Department of Biomedical Engineering, University of Southern California, DRB 367, 1042 Downey Way Los Angeles, Los Angeles, CA, 90089, USA, rsandler@usc.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB001978/EB/NIBIB NIH HHS/United States",
+          "P41-EB001978/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140927",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Brain Waves",
+          "CA1 Region, Hippocampal/cytology/*physiology",
+          "CA3 Region, Hippocampal/cytology/*physiology",
+          "Male",
+          "*Models, Neurological",
+          "Monte Carlo Method",
+          "Nerve Net/*physiology",
+          "Neural Pathways/physiology",
+          "Neurons/*physiology",
+          "Nonlinear Dynamics",
+          "ROC Curve",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Reproducibility of Results",
+          "Statistics, Nonparametric"
+     ],
+     "PMC": "PMC4297547",
+     "MID": [
+          "NIHMS631625"
+     ],
+     "EDAT": "2014/09/28 06:00",
+     "MHDA": "2015/09/12 06:00",
+     "CRDT": [
+          "2014/09/28 06:00"
+     ],
+     "PHST": [
+          "2014/05/20 00:00 [received]",
+          "2014/09/05 00:00 [accepted]",
+          "2014/09/02 00:00 [revised]",
+          "2014/09/28 06:00 [entrez]",
+          "2014/09/28 06:00 [pubmed]",
+          "2015/09/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10827-014-0530-8 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2015 Feb;38(1):89-103. doi: 10.1007/s10827-014-0530-8. Epub 2014 Sep 27.",
+     "term": "hippocampus"
+}

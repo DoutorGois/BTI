@@ -1,0 +1,83 @@
+{
+     "PMID": "22965825",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130611",
+     "LR": "20170220",
+     "IS": "1573-6792 (Electronic) 0896-0267 (Linking)",
+     "VI": "26",
+     "IP": "1",
+     "DP": "2013 Jan",
+     "TI": "Navigation of a telepresence robot via covert visuospatial attention and real-time fMRI.",
+     "PG": "177-85",
+     "LID": "10.1007/s10548-012-0252-z [doi]",
+     "AB": "Brain-computer interfaces (BCIs) allow people with severe neurological impairment and without ability to control their muscles to regain some control over their environment. The BCI user performs a mental task to regulate brain activity, which is measured and translated into commands controlling some external device. We here show that healthy participants are capable of navigating a robot by covertly shifting their visuospatial attention. Covert Visuospatial Attention (COVISA) constitutes a very intuitive brain function for spatial navigation and does not depend on presented stimuli or on eye movements. Our robot is equipped with motors and a camera that sends visual feedback to the user who can navigate it from a remote location. We used an ultrahigh field MRI scanner (7 Tesla) to obtain fMRI signals that were decoded in real time using a support vector machine. Four healthy subjects with virtually no training succeeded in navigating the robot to at least three of four target locations. Our results thus show that with COVISA BCI, realtime robot navigation can be achieved. Since the magnitude of the fMRI signal has been shown to correlate well with the magnitude of spectral power changes in the gamma frequency band in signals measured by intracranial electrodes, the COVISA concept may in future translate to intracranial application in severely paralyzed people.",
+     "FAU": [
+          "Andersson, Patrik",
+          "Pluim, Josien P W",
+          "Viergever, Max A",
+          "Ramsey, Nick F"
+     ],
+     "AU": [
+          "Andersson P",
+          "Pluim JP",
+          "Viergever MA",
+          "Ramsey NF"
+     ],
+     "AD": "Image Sciences Institute, University Medical Center Utrecht, Utrecht, The Netherlands. andersson.j.p@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120911",
+     "PL": "United States",
+     "TA": "Brain Topogr",
+     "JT": "Brain topography",
+     "JID": "8903034",
+     "RN": [
+          "S88TT14065 (Oxygen)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Attention/*physiology",
+          "Brain/*blood supply/*physiology",
+          "*Brain-Computer Interfaces",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Multivariate Analysis",
+          "Oxygen/blood",
+          "Photic Stimulation",
+          "Psychomotor Performance/physiology",
+          "*Robotics",
+          "Space Perception/*physiology",
+          "Support Vector Machine",
+          "Young Adult"
+     ],
+     "PMC": "PMC3536975",
+     "EDAT": "2012/09/12 06:00",
+     "MHDA": "2013/06/12 06:00",
+     "CRDT": [
+          "2012/09/12 06:00"
+     ],
+     "PHST": [
+          "2012/04/04 00:00 [received]",
+          "2012/08/17 00:00 [accepted]",
+          "2012/09/12 06:00 [entrez]",
+          "2012/09/12 06:00 [pubmed]",
+          "2013/06/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10548-012-0252-z [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Topogr. 2013 Jan;26(1):177-85. doi: 10.1007/s10548-012-0252-z. Epub 2012 Sep 11.",
+     "term": "spatial navigation"
+}

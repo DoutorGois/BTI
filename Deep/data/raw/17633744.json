@@ -1,0 +1,67 @@
+{
+     "PMID": "17633744",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070831",
+     "LR": "20070718",
+     "IS": "1011-2499 (Print) 1011-2499 (Linking)",
+     "VI": "20",
+     "DP": "2007",
+     "TI": "Non-parametric surface-based regularisation for building statistical shape models.",
+     "PG": "738-50",
+     "AB": "Determining groupwise correspondence across a set of unlabelled examples of either shapes or images, by the use of an optimisation procedure, is a well-established technique that has been shown to produce quantitatively better models than other approaches. However, the computational cost of the optimisation is high, leading to long convergence times. In this paper, we show how topologically non-trivial shapes can be mapped to regular grids (called shape images). This leads to an initial reduction in computational complexity. By also considering the question of regularisation, we show that a non-parametric fluid regulariser can be applied in a principled manner, the fluid flowing on the shape surface itself, whilst not loosing the computational gain made by the use of shape images. We show that this non-parametric regularisation leads to a further considerable gain, when compared to previous parametric regularisation methods. Quantitative evaluation is performed on biological datasets, and shown to yield a substantial decrease in convergence time, with no loss of model quality.",
+     "FAU": [
+          "Twining, Carole",
+          "Davies, Rhodri",
+          "Taylor, Chris"
+     ],
+     "AU": [
+          "Twining C",
+          "Davies R",
+          "Taylor C"
+     ],
+     "AD": "Imaging Sciences, University of Manchester, Manchester, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Inf Process Med Imaging",
+     "JT": "Information processing in medical imaging : proceedings of the ... conference",
+     "JID": "9216871",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Artificial Intelligence",
+          "Computer Simulation",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "*Models, Anatomic",
+          "*Models, Neurological",
+          "Models, Statistical",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Subtraction Technique"
+     ],
+     "EDAT": "2007/07/19 09:00",
+     "MHDA": "2007/09/01 09:00",
+     "CRDT": [
+          "2007/07/19 09:00"
+     ],
+     "PHST": [
+          "2007/07/19 09:00 [pubmed]",
+          "2007/09/01 09:00 [medline]",
+          "2007/07/19 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Inf Process Med Imaging. 2007;20:738-50.",
+     "term": "hippocampus"
+}

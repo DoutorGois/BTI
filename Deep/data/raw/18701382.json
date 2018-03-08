@@ -1,0 +1,84 @@
+{
+     "PMID": "18701382",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081027",
+     "LR": "20170220",
+     "IS": "1558-0210 (Electronic) 1534-4320 (Linking)",
+     "VI": "16",
+     "IP": "4",
+     "DP": "2008 Aug",
+     "TI": "Nonlinear modeling of causal interrelationships in neuronal ensembles.",
+     "PG": "336-52",
+     "LID": "10.1109/TNSRE.2008.926716 [doi]",
+     "AB": "The increasing availability of multiunit recordings gives new urgency to the need for effective analysis of \"multidimensional\" time-series data that are derived from the recorded activity of neuronal ensembles in the form of multiple sequences of action potentials--treated mathematically as point-processes and computationally as spike-trains. Whether in conditions of spontaneous activity or under conditions of external stimulation, the objective is the identification and quantification of possible causal links among the neurons generating the observed binary signals. A multiple-input/multiple-output (MIMO) modeling methodology is presented that can be used to quantify the neuronal dynamics of causal interrelationships in neuronal ensembles using spike-train data recorded from individual neurons. These causal interrelationships are modeled as transformations of spike-trains recorded from a set of neurons designated as the \"inputs\" into spike-trains recorded from another set of neurons designated as the \"outputs.\" The MIMO model is composed of a set of multiinput/single-output (MISO) modules, one for each output. Each module is the cascade of a MISO Volterra model and a threshold operator generating the output spikes. The Laguerre expansion approach is used to estimate the Volterra kernels of each MISO module from the respective input-output data using the least-squares method. The predictive performance of the model is evaluated with the use of the receiver operating characteristic (ROC) curve, from which the optimum threshold is also selected. The Mann-Whitney statistic is used to select the significant inputs for each output by examining the statistical significance of improvements in the predictive accuracy of the model when the respective inputs is included. Illustrative examples are presented for a simulated system and for an actual application using multiunit data recordings from the hippocampus of a behaving rat.",
+     "FAU": [
+          "Zanos, Theodoros P",
+          "Courellis, Spiros H",
+          "Berger, Theodore W",
+          "Hampson, Robert E",
+          "Deadwyler, Sam A",
+          "Marmarelis, Vasilis Z"
+     ],
+     "AU": [
+          "Zanos TP",
+          "Courellis SH",
+          "Berger TW",
+          "Hampson RE",
+          "Deadwyler SA",
+          "Marmarelis VZ"
+     ],
+     "AD": "Biomedical Engineering Department, Biomimetic Microelectronic Systems-Engineering Resource Center (BMES-ERC), Biomedical Simulations Resource (BMSR), University of Southern California, Los Angeles, CA 90089 USA. zanos@usc.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB001978/EB/NIBIB NIH HHS/United States",
+          "R01 DA008549-14A1/DA/NIDA NIH HHS/United States",
+          "P41 EB001978-245378/EB/NIBIB NIH HHS/United States",
+          "R01 DA008549/DA/NIDA NIH HHS/United States",
+          "P41 EB001978-24/EB/NIBIB NIH HHS/United States",
+          "R01 DA008549-15/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Syst Rehabil Eng",
+     "JT": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "101097023",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Computer Simulation",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Nonlinear Dynamics",
+          "Synaptic Transmission/*physiology"
+     ],
+     "PMC": "PMC2729787",
+     "MID": [
+          "NIHMS98309"
+     ],
+     "EDAT": "2008/08/15 09:00",
+     "MHDA": "2008/10/28 09:00",
+     "CRDT": [
+          "2008/08/15 09:00"
+     ],
+     "PHST": [
+          "2008/08/15 09:00 [pubmed]",
+          "2008/10/28 09:00 [medline]",
+          "2008/08/15 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TNSRE.2008.926716 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Syst Rehabil Eng. 2008 Aug;16(4):336-52. doi: 10.1109/TNSRE.2008.926716.",
+     "term": "hippocampus"
+}

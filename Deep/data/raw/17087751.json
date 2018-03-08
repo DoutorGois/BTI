@@ -1,0 +1,59 @@
+{
+     "PMID": "17087751",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070201",
+     "LR": "20061107",
+     "IS": "0017-467X (Print) 0017-467X (Linking)",
+     "VI": "44",
+     "IP": "6",
+     "DP": "2006 Nov-Dec",
+     "TI": "Grid cell distortion and MODFLOW's integrated finite-difference numerical solution.",
+     "PG": "797-802",
+     "AB": "The ground water flow model MODFLOW inherently implements a nongeneralized integrated finite-difference (IFD) numerical scheme. The IFD numerical scheme allows for construction of finite-difference model grids with curvilinear (piecewise linear) rows. The resulting grid comprises model cells in the shape of trapezoids and is distorted in comparison to a traditional MODFLOW finite-difference grid. A version of MODFLOW-88 (herein referred to as MODFLOW IFD) with the code adapted to make the one-dimensional DELR and DELC arrays two dimensional, so that equivalent conductance between distorted grid cells can be calculated, is described. MODFLOW IFD is used to inspect the sensitivity of the numerical head and velocity solutions to the level of distortion in trapezoidal grid cells within a converging radial flow domain. A test problem designed for the analysis implements a grid oriented such that flow is parallel to columns with converging widths. The sensitivity analysis demonstrates MODFLOW IFD's capacity to numerically derive a head solution and resulting intercell volumetric flow when the internal calculation of equivalent conductance accounts for the distortion of the grid cells. The sensitivity of the velocity solution to grid cell distortion indicates criteria for distorted grid design. In the radial flow test problem described, the numerical head solution is not sensitive to grid cell distortion. The accuracy of the velocity solution is sensitive to cell distortion with error <1% if the angle between the nonparallel sides of trapezoidal cells is <12.5 degrees. The error of the velocity solution is related to the degree to which the spatial discretization of a curve is approximated with piecewise linear segments. Curvilinear finite-difference grid construction adds versatility to spatial discretization of the flow domain. MODFLOW-88's inherent IFD numerical scheme and the test problem results imply that more recent versions of MODFLOW 2000, with minor modifications, have the potential to make use of a curvilinear grid.",
+     "FAU": [
+          "Romero, Dave M",
+          "Silver, Steven E"
+     ],
+     "AU": [
+          "Romero DM",
+          "Silver SE"
+     ],
+     "AD": "Balleau Groundwater, Inc. 901 Rio Grande Blvd. NW, Suite F-242, Albuquerque, NM 87104, USA. romerod@balleau.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Ground Water",
+     "JT": "Ground water",
+     "JID": "9882886",
+     "SB": "IM",
+     "MH": [
+          "Anisotropy",
+          "*Computer Simulation",
+          "*Models, Theoretical",
+          "Numerical Analysis, Computer-Assisted",
+          "*Software",
+          "*Water Movements"
+     ],
+     "EDAT": "2006/11/08 09:00",
+     "MHDA": "2007/02/03 09:00",
+     "CRDT": [
+          "2006/11/08 09:00"
+     ],
+     "PHST": [
+          "2006/11/08 09:00 [pubmed]",
+          "2007/02/03 09:00 [medline]",
+          "2006/11/08 09:00 [entrez]"
+     ],
+     "AID": [
+          "GWAT179 [pii]",
+          "10.1111/j.1745-6584.2005.00179.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ground Water. 2006 Nov-Dec;44(6):797-802. doi: 10.1111/j.1745-6584.2005.00179.x.",
+     "term": "grid cells"
+}

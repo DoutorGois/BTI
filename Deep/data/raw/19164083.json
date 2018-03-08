@@ -1,0 +1,73 @@
+{
+     "PMID": "19164083",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090910",
+     "LR": "20120424",
+     "IS": "1558-254X (Electronic) 0278-0062 (Linking)",
+     "VI": "28",
+     "IP": "6",
+     "DP": "2009 Jun",
+     "TI": "Identifying anatomical shape difference by regularized discriminative direction.",
+     "PG": "937-50",
+     "LID": "10.1109/TMI.2009.2012556 [doi]",
+     "AB": "Identifying the shape difference between two groups of anatomical objects is important for medical image analysis and computer-aided diagnosis. A method called \"discriminative direction\" in the literature has been proposed to solve this problem. In that method, the shape difference between groups is identified by deforming a shape along the discriminative direction. This paper conducts a thorough study about inferring this discriminative direction in an efficient and accurate way. First, finding the discriminative direction is reformulated as a preimage problem in kernel-based learning. This provides a complementary but conceptually simpler solution than the previous method. More importantly, we find that a shape deforming along the original discriminative direction cannot faithfully maintain its anatomical correctness. This unnecessarily introduces spurious shape differences and leads to inaccurate analysis. To overcome this problem, this paper further proposes a regularized discriminative direction by requiring a shape to conform to its underlying distribution when it deforms. Two different approaches are developed to impose the regularization, one from the perspective of probability distributions and the other from a geometric point of view, and their relationship is discussed. After verifying their superior performance through controlled experiments, we apply the proposed methods to detecting and localizing the hippocampal shape difference between sexes. We get results consistent with other independent research, providing a more compact representation of the shape difference compared with the established discriminative direction method.",
+     "FAU": [
+          "Zhou, Luping",
+          "Hartley, Richard",
+          "Wang, Lei",
+          "Lieby, Paulette",
+          "Barnes, Nick"
+     ],
+     "AU": [
+          "Zhou L",
+          "Hartley R",
+          "Wang L",
+          "Lieby P",
+          "Barnes N"
+     ],
+     "AD": "RSISE, Australian National University, Canberra, ACT 0200, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090119",
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Artificial Intelligence",
+          "Discriminant Analysis",
+          "Face/anatomy & histology",
+          "Female",
+          "Hippocampus/anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Male",
+          "*Models, Statistical",
+          "*Principal Component Analysis",
+          "Sex Factors"
+     ],
+     "EDAT": "2009/01/24 09:00",
+     "MHDA": "2009/09/11 06:00",
+     "CRDT": [
+          "2009/01/24 09:00"
+     ],
+     "PHST": [
+          "2009/01/24 09:00 [entrez]",
+          "2009/01/24 09:00 [pubmed]",
+          "2009/09/11 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TMI.2009.2012556 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2009 Jun;28(6):937-50. doi: 10.1109/TMI.2009.2012556. Epub 2009 Jan 19.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,158 @@
+{
+     "PMID": "21292420",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110829",
+     "LR": "20161118",
+     "IS": "1873-5894 (Electronic) 0730-725X (Linking)",
+     "VI": "29",
+     "IP": "4",
+     "DP": "2011 May",
+     "TI": "Application of machine learning methods to describe the effects of conjugated equine estrogens therapy on region-specific brain volumes.",
+     "PG": "546-53",
+     "LID": "10.1016/j.mri.2010.12.001 [doi]",
+     "AB": "Use of conjugated equine estrogens (CEE) has been linked to smaller regional brain volumes in women aged >/=65 years; however, it is unknown whether this results in a broad-based characteristic pattern of effects. Structural magnetic resonance imaging was used to assess regional volumes of normal tissue and ischemic lesions among 513 women who had been enrolled in a randomized clinical trial of CEE therapy for an average of 6.6 years, beginning at ages 65-80 years. A multivariate pattern analysis, based on a machine learning technique that combined Random Forest and logistic regression with L(1) penalty, was applied to identify patterns among regional volumes associated with therapy and whether patterns discriminate between treatment groups. The multivariate pattern analysis detected smaller regional volumes of normal tissue within the limbic and temporal lobes among women that had been assigned to CEE therapy. Mean decrements ranged as high as 7% in the left entorhinal cortex and 5% in the left perirhinal cortex, which exceeded the effect sizes reported previously in frontal lobe and hippocampus. Overall accuracy of classification based on these patterns, however, was projected to be only 54.5%. Prescription of CEE therapy for an average of 6.6 years is associated with lower regional brain volumes, but it does not induce a characteristic spatial pattern of changes in brain volumes of sufficient magnitude to discriminate users and nonusers.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Casanova, Ramon",
+          "Espeland, Mark A",
+          "Goveas, Joseph S",
+          "Davatzikos, Christos",
+          "Gaussoin, Sarah A",
+          "Maldjian, Joseph A",
+          "Brunner, Robert L",
+          "Kuller, Lewis H",
+          "Johnson, Karen C",
+          "Mysiw, W Jerry",
+          "Wagner, Benjamin",
+          "Resnick, Susan M"
+     ],
+     "AU": [
+          "Casanova R",
+          "Espeland MA",
+          "Goveas JS",
+          "Davatzikos C",
+          "Gaussoin SA",
+          "Maldjian JA",
+          "Brunner RL",
+          "Kuller LH",
+          "Johnson KC",
+          "Mysiw WJ",
+          "Wagner B",
+          "Resnick SM"
+     ],
+     "AD": "Department of Biostatistical Sciences, Wake Forest University School of Medicine, Winston-Salem, NC, USA. casanova@wfubmc.edu",
+     "CN": [
+          "Women's Health Initiative Memory Study"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "N01 WH044221/WH/WHI NIH HHS/United States",
+          "Z99 AG999999/Intramural NIH HHS/United States",
+          "ZIA AG000190-03/Intramural NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, N.I.H., Intramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110202",
+     "PL": "Netherlands",
+     "TA": "Magn Reson Imaging",
+     "JT": "Magnetic resonance imaging",
+     "JID": "8214883",
+     "RN": [
+          "0 (Estrogens)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Animals",
+          "*Artificial Intelligence",
+          "Brain/*drug effects/*physiology",
+          "Brain Ischemia/pathology",
+          "Estrogens/*therapeutic use",
+          "Female",
+          "Horses",
+          "Humans",
+          "Image Processing, Computer-Assisted/methods",
+          "Magnetic Resonance Imaging/methods",
+          "Multivariate Analysis",
+          "Reproducibility of Results"
+     ],
+     "PMC": "PMC3079024",
+     "MID": [
+          "NIHMS269067"
+     ],
+     "IR": [
+          "Wassertheil-Smoller S",
+          "Kotchen JM",
+          "Stefanick ML",
+          "Jackson R",
+          "Robbins J",
+          "Nathan L",
+          "Limacher M",
+          "Robinson J",
+          "Ockene J",
+          "Margolis K",
+          "Brunner R",
+          "Murphy C",
+          "Kuller L",
+          "Shumaker S",
+          "Bryan N",
+          "Buckholtz N",
+          "Molchan S",
+          "Resnick S",
+          "Rossouw J",
+          "Pottern L"
+     ],
+     "FIR": [
+          "Wassertheil-Smoller, Sylvia",
+          "Kotchen, Jane Morley",
+          "Stefanick, Marcia L",
+          "Jackson, Rebecca",
+          "Robbins, John",
+          "Nathan, Lauren",
+          "Limacher, Marian",
+          "Robinson, Jennifer",
+          "Ockene, Judith",
+          "Margolis, Karen",
+          "Brunner, Robert",
+          "Murphy, Carol",
+          "Kuller, Lewis",
+          "Shumaker, Sally",
+          "Bryan, Nick",
+          "Buckholtz, Neil",
+          "Molchan, Susan",
+          "Resnick, Susan",
+          "Rossouw, Jacques",
+          "Pottern, Linda"
+     ],
+     "EDAT": "2011/02/05 06:00",
+     "MHDA": "2011/08/30 06:00",
+     "CRDT": [
+          "2011/02/05 06:00"
+     ],
+     "PHST": [
+          "2010/08/30 00:00 [received]",
+          "2010/10/18 00:00 [revised]",
+          "2010/12/02 00:00 [accepted]",
+          "2011/02/05 06:00 [entrez]",
+          "2011/02/05 06:00 [pubmed]",
+          "2011/08/30 06:00 [medline]"
+     ],
+     "AID": [
+          "S0730-725X(10)00394-2 [pii]",
+          "10.1016/j.mri.2010.12.001 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Magn Reson Imaging. 2011 May;29(4):546-53. doi: 10.1016/j.mri.2010.12.001. Epub 2011 Feb 2.",
+     "term": "hippocampus"
+}

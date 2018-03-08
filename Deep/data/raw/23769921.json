@@ -1,0 +1,115 @@
+{
+     "PMID": "23769921",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141218",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "83",
+     "DP": "2013 Dec",
+     "TI": "Automatic hippocampus segmentation of 7.0 Tesla MR images by combining multiple atlases and auto-context models.",
+     "PG": "335-45",
+     "LID": "10.1016/j.neuroimage.2013.06.006 [doi] S1053-8119(13)00643-5 [pii]",
+     "AB": "In many neuroscience and clinical studies, accurate measurement of hippocampus is very important to reveal the inter-subject anatomical differences or the subtle intra-subject longitudinal changes due to aging or dementia. Although many automatic segmentation methods have been developed, their performances are still challenged by the poor image contrast of hippocampus in the MR images acquired especially from 1.5 or 3.0 Tesla (T) scanners. With the recent advance of imaging technology, 7.0 T scanner provides much higher image contrast and resolution for hippocampus study. However, the previous methods developed for segmentation of hippocampus from 1.5 T or 3.0 T images do not work for the 7.0 T images, due to different levels of imaging contrast and texture information. In this paper, we present a learning-based algorithm for automatic segmentation of hippocampi from 7.0 T images, by taking advantages of the state-of-the-art multi-atlas framework and also the auto-context model (ACM). Specifically, ACM is performed in each atlas domain to iteratively construct sequences of location-adaptive classifiers by integrating both image appearance and local context features. Due to the plenty texture information in 7.0 T images, more advanced texture features are also extracted and incorporated into the ACM during the training stage. Then, under the multi-atlas segmentation framework, multiple sequences of ACM-based classifiers are trained for all atlases to incorporate the anatomical variability. In the application stage, for a new image, its hippocampus segmentation can be achieved by fusing the labeling results from all atlases, each of which is obtained by applying the atlas-specific ACM-based classifiers. Experimental results on twenty 7.0 T images with the voxel size of 0.35x0.35x0.35 mm3 show very promising hippocampus segmentations (in terms of Dice overlap ratio 89.1+/-0.020), indicating high applicability for the future clinical and neuroscience studies.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Kim, Minjeong",
+          "Wu, Guorong",
+          "Li, Wei",
+          "Wang, Li",
+          "Son, Young-Don",
+          "Cho, Zang-Hee",
+          "Shen, Dinggang"
+     ],
+     "AU": [
+          "Kim M",
+          "Wu G",
+          "Li W",
+          "Wang L",
+          "Son YD",
+          "Cho ZH",
+          "Shen D"
+     ],
+     "AD": "Department of Radiology and BRIC, University of North Carolina at Chapel Hill, NC 27599, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB008374/EB/NIBIB NIH HHS/United States",
+          "R01 EB006733/EB/NIBIB NIH HHS/United States",
+          "R01 AG041721/AG/NIA NIH HHS/United States",
+          "EB008374/EB/NIBIB NIH HHS/United States",
+          "R01 AG042599/AG/NIA NIH HHS/United States",
+          "EB009634/EB/NIBIB NIH HHS/United States",
+          "R01 EB009634/EB/NIBIB NIH HHS/United States",
+          "AG041721/AG/NIA NIH HHS/United States",
+          "EB006733/EB/NIBIB NIH HHS/United States",
+          "R01 MH100217/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20130611",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Algorithms",
+          "Artificial Intelligence",
+          "Computer Simulation",
+          "Female",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "*Models, Anatomic",
+          "Models, Neurological",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Subtraction Technique"
+     ],
+     "PMC": "PMC4071619",
+     "MID": [
+          "NIHMS603065"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "7.0T MRI",
+          "Auto-context model",
+          "Automatic hippocampus segmentation",
+          "Label fusion",
+          "Multiple atlases based segmentation"
+     ],
+     "EDAT": "2013/06/19 06:00",
+     "MHDA": "2014/12/19 06:00",
+     "CRDT": [
+          "2013/06/18 06:00"
+     ],
+     "PHST": [
+          "2013/01/05 00:00 [received]",
+          "2013/05/28 00:00 [revised]",
+          "2013/06/04 00:00 [accepted]",
+          "2013/06/18 06:00 [entrez]",
+          "2013/06/19 06:00 [pubmed]",
+          "2014/12/19 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(13)00643-5 [pii]",
+          "10.1016/j.neuroimage.2013.06.006 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2013 Dec;83:335-45. doi: 10.1016/j.neuroimage.2013.06.006. Epub 2013 Jun 11.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,92 @@
+{
+     "PMID": "26151840",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160520",
+     "LR": "20161019",
+     "IS": "1522-2594 (Electronic) 0740-3194 (Linking)",
+     "VI": "74",
+     "IP": "3",
+     "DP": "2015 Sep",
+     "TI": "Parallel reconstruction in accelerated multivoxel MR spectroscopy.",
+     "PG": "599-606",
+     "LID": "10.1002/mrm.25718 [doi]",
+     "AB": "PURPOSE: To develop the simultaneous acquisition of multiple voxels in localized MR spectroscopy (MRS) using sensitivity encoding, allowing reduced total scan time compared to conventional sequential single voxel (SV) acquisition methods. METHODS: Dual volume localization was used to simultaneously excite voxels in both hemispheres. Receiver coil sensitivity profiles were used to unfold the data. To demonstrate the method, MRS voxels in the left and right hippocampus were measured at 3 tesla (T) and the left and right motor cortices at 7T. Spectra were compared to conventional SV acquisitions. Spectra were also recorded from the lesion and contralateral hemisphere of a patient with a low-grade oligodendroglioma at 7T. RESULTS: It was possible to generate signal in two voxels simultaneously and separate the signal originating from the different locations, with spectral results almost identical to those observed using conventional single voxel methods. The method results in an increased chemical shift displacement artifact, which might be improved by advanced pulse designs, and a noise increase due to the unfolding g-factor, which was larger at 3T than 7T. CONCLUSION: The simultaneous acquisition of voxels for MRS is possible by using modulated slice-selective pulses and receive coil sensitivity profiles to unfold the resulting signals.",
+     "CI": [
+          "(c) 2015 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Boer, V O",
+          "Klomp, D W J",
+          "Laterra, J",
+          "Barker, P B"
+     ],
+     "AU": [
+          "Boer VO",
+          "Klomp DW",
+          "Laterra J",
+          "Barker PB"
+     ],
+     "AD": "Department of Radiology, University Medical Center Utrecht, Utrecht, The Netherlands. Department of Radiology, University Medical Center Utrecht, Utrecht, The Netherlands. Departments of Neurology, Oncology and Neuroscience, The Johns Hopkins University, Baltimore, Maryland, USA. Kennedy Krieger Institute, Baltimore, Maryland, USA. Kennedy Krieger Institute, Baltimore, Maryland, USA. Russell H. Morgan Department of Radiology and Radiological Science, The Johns Hopkins University, Baltimore, Maryland, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB015909/EB/NIBIB NIH HHS/United States",
+          "R01 MH096263/MH/NIMH NIH HHS/United States",
+          "P41EB015909/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150617",
+     "PL": "United States",
+     "TA": "Magn Reson Med",
+     "JT": "Magnetic resonance in medicine",
+     "JID": "8505245",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Brain/pathology",
+          "Brain Neoplasms/pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Oligodendroglioma/pathology",
+          "Phantoms, Imaging"
+     ],
+     "PMC": "PMC4545732",
+     "MID": [
+          "NIHMS679649"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "MR spectroscopy",
+          "high field",
+          "multiband",
+          "multivoxel"
+     ],
+     "EDAT": "2015/07/08 06:00",
+     "MHDA": "2016/05/21 06:00",
+     "CRDT": [
+          "2015/07/08 06:00"
+     ],
+     "PHST": [
+          "2014/11/26 00:00 [received]",
+          "2015/02/02 00:00 [revised]",
+          "2015/03/15 00:00 [accepted]",
+          "2015/07/08 06:00 [entrez]",
+          "2015/07/08 06:00 [pubmed]",
+          "2016/05/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/mrm.25718 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Magn Reson Med. 2015 Sep;74(3):599-606. doi: 10.1002/mrm.25718. Epub 2015 Jun 17.",
+     "term": "hippocampus"
+}

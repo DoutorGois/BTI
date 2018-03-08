@@ -1,0 +1,89 @@
+{
+     "PMID": "22119491",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120529",
+     "LR": "20170220",
+     "IS": "1361-8423 (Electronic) 1361-8415 (Linking)",
+     "VI": "16",
+     "IP": "2",
+     "DP": "2012 Feb",
+     "TI": "Multiscale 3D shape representation and segmentation with applications to hippocampal/caudate extraction from brain MRI.",
+     "PG": "374-85",
+     "LID": "10.1016/j.media.2011.10.002 [doi]",
+     "AB": "Extracting structure of interest from medical images is an important yet tedious work. Due to the image quality, the shape knowledge is widely used for assisting and constraining the segmentation process. In many previous works, shape knowledge was incorporated by first constructing a shape space from training cases, and then constraining the segmentation process to be within the learned shape space. However, such an approach has certain limitations due to the number of variations, eigen-shapemodes, that can be captured in the learned shape space. Moreover, small scale shape variances are usually overwhelmed by those in the large scale, and therefore the local shape information is lost. In this work, we present a multiscale representation for shapes with arbitrary topology, and a fully automatic method to segment the target organ/tissue from medical images using such multiscale shape information and local image features. First, we handle the problem of lacking eigen-shapemodes by providing a multiscale shape representation using the wavelet transform. Consequently, the shape variances existing in the training shapes captured by the statistical learning step are also represented at various scales. Note that by doing so, one can greatly enrich the eigen-shapemodes as well as capture small scale shape changes. Furthermore, in order to make full use of the training information, not only the shape but also the grayscale training images are utilized in a multi-atlas initialization procedure. By combining such initialization with the multiscale shape knowledge, we perform segmentation tests for challenging medical data sets where the target objects have low contrast and sharp corner structures, and demonstrate the statistically significant improvement obtained by employing such multiscale representation, in representing shapes as well as the overall shape based segmentation tasks.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Gao, Yi",
+          "Corn, Benjamin",
+          "Schifter, Dan",
+          "Tannenbaum, Allen"
+     ],
+     "AU": [
+          "Gao Y",
+          "Corn B",
+          "Schifter D",
+          "Tannenbaum A"
+     ],
+     "AD": "Schools of Electrical & Computer Engineering and Biomedical Engineering, Georgia Institute of Technology, Atlanta, GA 30332-0250, USA. yi.gao@gatech.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 RR013218-03/RR/NCRR NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States",
+          "P41 RR-13218/RR/NCRR NIH HHS/United States",
+          "P41 RR013218/RR/NCRR NIH HHS/United States",
+          "U54 EB005149-01/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20111102",
+     "PL": "Netherlands",
+     "TA": "Med Image Anal",
+     "JT": "Medical image analysis",
+     "JID": "9713490",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Caudate Nucleus/*anatomy & histology",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC3267872",
+     "MID": [
+          "NIHMS336000"
+     ],
+     "EDAT": "2011/11/29 06:00",
+     "MHDA": "2012/05/30 06:00",
+     "CRDT": [
+          "2011/11/29 06:00"
+     ],
+     "PHST": [
+          "2011/05/05 00:00 [received]",
+          "2011/10/18 00:00 [revised]",
+          "2011/10/20 00:00 [accepted]",
+          "2011/11/29 06:00 [entrez]",
+          "2011/11/29 06:00 [pubmed]",
+          "2012/05/30 06:00 [medline]"
+     ],
+     "AID": [
+          "S1361-8415(11)00140-X [pii]",
+          "10.1016/j.media.2011.10.002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Anal. 2012 Feb;16(2):374-85. doi: 10.1016/j.media.2011.10.002. Epub 2011 Nov 2.",
+     "term": "hippocampus"
+}

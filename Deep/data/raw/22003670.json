@@ -1,0 +1,79 @@
+{
+     "PMID": "22003670",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111115",
+     "LR": "20111018",
+     "VI": "14",
+     "IP": "Pt 1",
+     "DP": "2011",
+     "TI": "Neural process reconstruction from sparse user scribbles.",
+     "PG": "621-8",
+     "AB": "We present a novel semi-automatic method for segmenting neural processes in large, highly anisotropic EM (electron microscopy) image stacks. Our method takes advantage of sparse scribble annotations provided by the user to guide a 3D variational segmentation model, thereby allowing our method to globally optimally enforce 3D geometric constraints on the segmentation. Moreover, we leverage a novel algorithm for propagating segmentation constraints through the image stack via optimal volumetric pathways, thereby allowing our method to compute highly accurate 3D segmentations from very sparse user input. We evaluate our method by reconstructing 16 neural processes in a 1024 x 1024 x 50 nanometer-scale EM image stack of a mouse hippocampus. We demonstrate that, on average, our method is 68% more accurate than previous state-of-the-art semi-automatic methods.",
+     "FAU": [
+          "Roberts, Mike",
+          "Jeong, Won-Ki",
+          "Vazquez-Reina, Amelio",
+          "Unger, Markus",
+          "Bischof, Horst",
+          "Lichtman, Jeff",
+          "Pfister, Hanspeter"
+     ],
+     "AU": [
+          "Roberts M",
+          "Jeong WK",
+          "Vazquez-Reina A",
+          "Unger M",
+          "Bischof H",
+          "Lichtman J",
+          "Pfister H"
+     ],
+     "AD": "Harvard University, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "1P30NS062685-01/NS/NINDS NIH HHS/United States",
+          "R01 NS020364-23/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Anisotropy",
+          "Automation",
+          "Hippocampus/*metabolism",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Markov Chains",
+          "Mice",
+          "Microscopy, Electron/*methods",
+          "Models, Neurological",
+          "Neurons/*pathology",
+          "Software"
+     ],
+     "EDAT": "2011/10/19 06:00",
+     "MHDA": "2011/11/16 06:00",
+     "CRDT": [
+          "2011/10/19 06:00"
+     ],
+     "PHST": [
+          "2011/10/19 06:00 [entrez]",
+          "2011/10/19 06:00 [pubmed]",
+          "2011/11/16 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2011;14(Pt 1):621-8.",
+     "term": "hippocampus"
+}

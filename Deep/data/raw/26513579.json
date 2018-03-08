@@ -1,0 +1,75 @@
+{
+     "PMID": "26513579",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160331",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "11",
+     "IP": "10",
+     "DP": "2015 Oct",
+     "TI": "Relating Cortical Atrophy in Temporal Lobe Epilepsy with Graph Diffusion-Based Network Models.",
+     "PG": "e1004564",
+     "LID": "10.1371/journal.pcbi.1004564 [doi]",
+     "AB": "Mesial temporal lobe epilepsy (TLE) is characterized by stereotyped origination and spread pattern of epileptogenic activity, which is reflected in stereotyped topographic distribution of neuronal atrophy on magnetic resonance imaging (MRI). Both epileptogenic activity and atrophy spread appear to follow white matter connections. We model the networked spread of activity and atrophy in TLE from first principles via two simple first order network diffusion models. Atrophy distribution is modeled as a simple consequence of the propagation of epileptogenic activity in one model, and as a progressive degenerative process in the other. We show that the network models closely reproduce the regional volumetric gray matter atrophy distribution of two epilepsy cohorts: 29 TLE subjects with medial temporal sclerosis (TLE-MTS), and 50 TLE subjects with normal appearance on MRI (TLE-no). Statistical validation at the group level suggests high correlation with measured atrophy (R = 0.586 for TLE-MTS, R = 0.283 for TLE-no). We conclude that atrophy spread model out-performs the hyperactivity spread model. These results pave the way for future clinical application of the proposed model on individual patients, including estimating future spread of atrophy, identification of seizure onset zones and surgical planning.",
+     "FAU": [
+          "Abdelnour, Farras",
+          "Mueller, Susanne",
+          "Raj, Ashish"
+     ],
+     "AU": [
+          "Abdelnour F",
+          "Mueller S",
+          "Raj A"
+     ],
+     "AD": "Radiology, Weill Cornell Medical College, New York, New York, United States of America. Radiology, University of California San Francisco, San Francisco, California, United States of America. Radiology, Weill Cornell Medical College, New York, New York, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS075425/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20151029",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Atrophy/pathology/physiopathology",
+          "Computer Simulation",
+          "Connectome/methods",
+          "Epilepsy, Temporal Lobe/*pathology/*physiopathology",
+          "Female",
+          "Hippocampus/*pathology/*physiopathology",
+          "Humans",
+          "Magnetic Resonance Imaging/methods",
+          "Male",
+          "*Models, Neurological",
+          "Nerve Net/pathology/*physiopathology"
+     ],
+     "PMC": "PMC4626097",
+     "EDAT": "2015/10/30 06:00",
+     "MHDA": "2016/04/01 06:00",
+     "CRDT": [
+          "2015/10/30 06:00"
+     ],
+     "PHST": [
+          "2015/04/24 00:00 [received]",
+          "2015/09/21 00:00 [accepted]",
+          "2015/10/30 06:00 [entrez]",
+          "2015/10/30 06:00 [pubmed]",
+          "2016/04/01 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1004564 [doi]",
+          "PCOMPBIOL-D-15-00657 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2015 Oct 29;11(10):e1004564. doi: 10.1371/journal.pcbi.1004564. eCollection 2015 Oct.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,71 @@
+{
+     "PMID": "29476982",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20180224",
+     "IS": "1879-0534 (Electronic) 0010-4825 (Linking)",
+     "VI": "95",
+     "DP": "2018 Feb 9",
+     "TI": "Atlas selection for hippocampus segmentation: Relevance evaluation of three meta-information parameters.",
+     "PG": "90-98",
+     "LID": "S0010-4825(18)30033-7 [pii] 10.1016/j.compbiomed.2018.02.005 [doi]",
+     "AB": "Current state-of-the-art methods for whole and subfield hippocampus segmentation use pre-segmented templates, also known as atlases, in the pre-processing stages. Typically, the input image is registered to the template, which provides prior information for the segmentation process. Using a single standard atlas increases the difficulty in dealing with individuals who have a brain anatomy that is morphologically different from the atlas, especially in older brains. To increase the segmentation precision in these cases, without any manual intervention, multiple atlases can be used. However, registration to many templates leads to a high computational cost. Researchers have proposed to use an atlas pre-selection technique based on meta-information followed by the selection of an atlas based on image similarity. Unfortunately, this method also presents a high computational cost due to the image-similarity process. Thus, it is desirable to pre-select a smaller number of atlases as long as this does not impact on the segmentation quality. To pick out an atlas that provides the best registration, we evaluate the use of three meta-information parameters (medical condition, age range, and gender) to choose the atlas. In this work, 24 atlases were defined and each is based on the combination of the three meta-information parameters. These atlases were used to segment 352vol from the Alzheimer's Disease Neuroimaging Initiative (ADNI) database. Hippocampus segmentation with each of these atlases was evaluated and compared to reference segmentations of the hippocampus, which are available from ADNI. The use of atlas selection by meta-information led to a significant gain in the Dice similarity coefficient, which reached 0.68+/-0.11, compared to 0.62+/-0.12 when using only the standard MNI152 atlas. Statistical analysis showed that the three meta-information parameters provided a significant improvement in the segmentation accuracy.",
+     "CI": [
+          "Copyright (c) 2018 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Dill, Vanderson",
+          "Klein, Pedro Costa",
+          "Franco, Alexandre Rosa",
+          "Pinho, Marcio Sarroglia"
+     ],
+     "AU": [
+          "Dill V",
+          "Klein PC",
+          "Franco AR",
+          "Pinho MS"
+     ],
+     "AD": "School of Technology, PUCRS, Porto Alegre, Brazil. School of Technology, PUCRS, Porto Alegre, Brazil. School of Technology, PUCRS, Porto Alegre, Brazil; School of Medicine, PUCRS, Porto Alegre, Brazil; Brain Institute of Rio Grande do Sul, PUCRS, Porto Alegre, Brazil. School of Technology, PUCRS, Porto Alegre, Brazil. Electronic address: pinho@pucrs.br.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20180209",
+     "PL": "United States",
+     "TA": "Comput Biol Med",
+     "JT": "Computers in biology and medicine",
+     "JID": "1250250",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Atlas-based segmentation",
+          "Hippocampus segmentation",
+          "Magnetic resonance imaging",
+          "Medical imaging",
+          "Segmentation evaluation"
+     ],
+     "EDAT": "2018/02/25 06:00",
+     "MHDA": "2018/02/25 06:00",
+     "CRDT": [
+          "2018/02/25 06:00"
+     ],
+     "PHST": [
+          "2017/11/13 00:00 [received]",
+          "2018/02/07 00:00 [revised]",
+          "2018/02/08 00:00 [accepted]",
+          "2018/02/25 06:00 [entrez]",
+          "2018/02/25 06:00 [pubmed]",
+          "2018/02/25 06:00 [medline]"
+     ],
+     "AID": [
+          "S0010-4825(18)30033-7 [pii]",
+          "10.1016/j.compbiomed.2018.02.005 [doi]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "Comput Biol Med. 2018 Feb 9;95:90-98. doi: 10.1016/j.compbiomed.2018.02.005.",
+     "term": "hippocampus"
+}

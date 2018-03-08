@@ -1,0 +1,91 @@
+{
+     "PMID": "19021258",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090227",
+     "LR": "20161122",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "18",
+     "IP": "12",
+     "DP": "2008",
+     "TI": "Grid cell mechanisms and function: contributions of entorhinal persistent spiking and phase resetting.",
+     "PG": "1213-29",
+     "LID": "10.1002/hipo.20512 [doi]",
+     "AB": "This article presents a model of grid cell firing based on the intrinsic persistent firing shown experimentally in neurons of entorhinal cortex. In this model, the mechanism of persistent firing allows individual neurons to hold a stable baseline firing frequency. Depolarizing input from speed-modulated head direction cells transiently shifts the frequency of firing from baseline, resulting in a shift in spiking phase in proportion to the integral of velocity. The convergence of input from different persistent firing neurons causes spiking in a grid cell only when the persistent firing neurons are within similar phase ranges. This model effectively simulates the two-dimensional firing of grid cells in open field environments, as well as the properties of theta phase precession. This model provides an alternate implementation of oscillatory interference models. The persistent firing could also interact on a circuit level with rhythmic inhibition and neurons showing membrane potential oscillations to code position with spiking phase. These mechanisms could operate in parallel with computation of position from visual angle and distance of stimuli. In addition to simulating two-dimensional grid patterns, models of phase interference can account for context-dependent firing in other tasks. In network simulations of entorhinal cortex, hippocampus, and postsubiculum, the reset of phase effectively replicates context-dependent firing by entorhinal and hippocampal neurons during performance of a continuous spatial alternation task, a delayed spatial alternation task with running in a wheel during the delay period (Pastalkova et al., Science, 2008), and a hairpin maze task.",
+     "CI": [
+          "Copyright 2008 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Hasselmo, Michael E"
+     ],
+     "AU": [
+          "Hasselmo ME"
+     ],
+     "AD": "Center for Memory and Brain, Department of Psychology and Program in Neuroscience, Boston University, Boston, Massachusetts 02215, USA. hasselmo@bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 MH071702-03/MH/NIMH NIH HHS/United States",
+          "MH71702/MH/NIMH NIH HHS/United States",
+          "R01 MH060013-09/MH/NIMH NIH HHS/United States",
+          "P50 MH060450/MH/NIMH NIH HHS/United States",
+          "DA16454/DA/NIDA NIH HHS/United States",
+          "R01 MH061492-06A2/MH/NIMH NIH HHS/United States",
+          "R01 60013/PHS HHS/United States",
+          "MH61492/MH/NIMH NIH HHS/United States",
+          "R01 DA016454/DA/NIDA NIH HHS/United States",
+          "P50 MH060450-069002/MH/NIMH NIH HHS/United States",
+          "P50 MH071702-020004/MH/NIMH NIH HHS/United States",
+          "MH60450/MH/NIMH NIH HHS/United States",
+          "R01 MH060013/MH/NIMH NIH HHS/United States",
+          "R01 DA016454-05/DA/NIDA NIH HHS/United States",
+          "P50 MH071702/MH/NIMH NIH HHS/United States",
+          "R01 MH061492/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Biological Clocks/physiology",
+          "Computer Simulation",
+          "Entorhinal Cortex/*physiology",
+          "Hippocampus/physiology",
+          "Nerve Net/*physiology",
+          "Neural Inhibition/physiology",
+          "Neural Pathways/physiology",
+          "Neurons/*physiology",
+          "Orientation/physiology",
+          "Space Perception/physiology",
+          "Synaptic Transmission/physiology"
+     ],
+     "PMC": "PMC2614862",
+     "MID": [
+          "NIHMS77579"
+     ],
+     "EDAT": "2008/11/21 09:00",
+     "MHDA": "2009/02/28 09:00",
+     "CRDT": [
+          "2008/11/21 09:00"
+     ],
+     "PHST": [
+          "2008/11/21 09:00 [pubmed]",
+          "2009/02/28 09:00 [medline]",
+          "2008/11/21 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.20512 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2008;18(12):1213-29. doi: 10.1002/hipo.20512.",
+     "term": "grid cells"
+}

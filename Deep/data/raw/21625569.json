@@ -1,0 +1,72 @@
+{
+     "PMID": "21625569",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110927",
+     "LR": "20150204",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "7",
+     "IP": "5",
+     "DP": "2011 May",
+     "TI": "Spatial learning and action planning in a prefrontal cortical network model.",
+     "PG": "e1002045",
+     "LID": "10.1371/journal.pcbi.1002045 [doi]",
+     "AB": "The interplay between hippocampus and prefrontal cortex (PFC) is fundamental to spatial cognition. Complementing hippocampal place coding, prefrontal representations provide more abstract and hierarchically organized memories suitable for decision making. We model a prefrontal network mediating distributed information processing for spatial learning and action planning. Specific connectivity and synaptic adaptation principles shape the recurrent dynamics of the network arranged in cortical minicolumns. We show how the PFC columnar organization is suitable for learning sparse topological-metrical representations from redundant hippocampal inputs. The recurrent nature of the network supports multilevel spatial processing, allowing structural features of the environment to be encoded. An activation diffusion mechanism spreads the neural activity through the column population leading to trajectory planning. The model provides a functional framework for interpreting the activity of PFC neurons recorded during navigation tasks. We illustrate the link from single unit activity to behavioral responses. The results suggest plausible neural mechanisms subserving the cognitive \"insight\" capability originally attributed to rodents by Tolman & Honzik. Our time course analysis of neural responses shows how the interaction between hippocampus and PFC can yield the encoding of manifold information pertinent to spatial planning, including prospective coding and distance-to-goal correlates.",
+     "FAU": [
+          "Martinet, Louis-Emmanuel",
+          "Sheynikhovich, Denis",
+          "Benchenane, Karim",
+          "Arleo, Angelo"
+     ],
+     "AU": [
+          "Martinet LE",
+          "Sheynikhovich D",
+          "Benchenane K",
+          "Arleo A"
+     ],
+     "AD": "Laboratory of Neurobiology of Adaptive Processes, UMR 7102, CNRS-UPMC Univ P6, Paris, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110519",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cognition/*physiology",
+          "Hippocampus/physiology",
+          "Learning/*physiology",
+          "Models, Neurological",
+          "Nerve Net/physiology",
+          "Prefrontal Cortex/*physiology",
+          "Rats",
+          "Spatial Behavior/*physiology"
+     ],
+     "PMC": "PMC3098199",
+     "EDAT": "2011/06/01 06:00",
+     "MHDA": "2011/09/29 06:00",
+     "CRDT": [
+          "2011/06/01 06:00"
+     ],
+     "PHST": [
+          "2010/12/20 00:00 [received]",
+          "2011/03/20 00:00 [accepted]",
+          "2011/06/01 06:00 [entrez]",
+          "2011/06/01 06:00 [pubmed]",
+          "2011/09/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1002045 [doi]",
+          "PCOMPBIOL-D-10-00423 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2011 May;7(5):e1002045. doi: 10.1371/journal.pcbi.1002045. Epub 2011 May 19.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,80 @@
+{
+     "PMID": "14750970",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040608",
+     "LR": "20141120",
+     "IS": "0953-816X (Print) 0953-816X (Linking)",
+     "VI": "19",
+     "IP": "1",
+     "DP": "2004 Jan",
+     "TI": "Diversity beyond variance: modulation of firing rates and network coherence by GABAergic subpopulations.",
+     "PG": "119-30",
+     "AB": "Computational modelling studies have revealed that heterogeneity in interneuronal networks can powerfully modulate firing rates, responses to excitatory inputs, theta-gamma oscillations and network synchrony. In these previous studies, heterogeneity was represented by the degree of variance in various interneuronal synaptic and cellular parameters. However, a major characteristic of gamma-amino-butyric-acid-ergic (GABAergic) synaptic and interneuronal populations is the presence of distinct subgroups, which variance-based approaches cannot fully address. Here we apply an information theory-based measure of diversity, the Shannon-Wiener diversity index (equivalent to entropy), which takes into account both the number and relative abundance of categories within a population. Computational modelling data and experimental dynamic clamp results show that increasing the diversity index in the somatically injected inhibitory post synaptic currents (IPSC) peak conductances modulates the firing rates of CA1 pyramidal cells in a predictable manner that depends on both the mean and variance of the IPSC conductance. Furthermore, increases in the diversity index in interneuronal populations strongly decreased network coherence, even when population variance, the previously applied measure of heterogeneity, remained unchanged. These modelling and experimental results reveal a new approach to the study of interneuronal heterogeneity, and demonstrate the modulation of principal cell firing rates and interneuronal network coherence by parameter clustering at both the synaptic and cellular levels.",
+     "FAU": [
+          "Foldy, Csaba",
+          "Aradi, Ildiko",
+          "Howard, Allyson",
+          "Soltesz, Ivan"
+     ],
+     "AU": [
+          "Foldy C",
+          "Aradi I",
+          "Howard A",
+          "Soltesz I"
+     ],
+     "AD": "Department of Anatomy & Neurobiology, University of California, Irvine, CA 92697-1280, USA. cfoldy@uci.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS35915/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "France",
+     "TA": "Eur J Neurosci",
+     "JT": "The European journal of neuroscience",
+     "JID": "8918110",
+     "RN": [
+          "56-12-2 (gamma-Aminobutyric Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Entropy",
+          "Hippocampus/cytology/*physiology",
+          "In Vitro Techniques",
+          "Information Theory",
+          "*Models, Neurological",
+          "Nerve Net/cytology/*physiology",
+          "Neural Inhibition/physiology",
+          "Neural Networks (Computer)",
+          "Neural Pathways/cytology/*physiology",
+          "Neurons/cytology/*physiology",
+          "Patch-Clamp Techniques",
+          "Rats",
+          "Rats, Wistar",
+          "Synaptic Transmission/physiology",
+          "gamma-Aminobutyric Acid/*metabolism"
+     ],
+     "EDAT": "2004/01/31 05:00",
+     "MHDA": "2004/06/21 10:00",
+     "CRDT": [
+          "2004/01/31 05:00"
+     ],
+     "PHST": [
+          "2004/01/31 05:00 [pubmed]",
+          "2004/06/21 10:00 [medline]",
+          "2004/01/31 05:00 [entrez]"
+     ],
+     "AID": [
+          "3096 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Eur J Neurosci. 2004 Jan;19(1):119-30.",
+     "term": "hippocampus"
+}

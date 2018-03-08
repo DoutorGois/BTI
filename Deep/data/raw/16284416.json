@@ -1,0 +1,76 @@
+{
+     "PMID": "16284416",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060228",
+     "LR": "20171107",
+     "IS": "1539-2791 (Print) 1539-2791 (Linking)",
+     "VI": "3",
+     "IP": "4",
+     "DP": "2005",
+     "TI": "A cross-platform freeware tool for digital reconstruction of neuronal arborizations from image stacks.",
+     "PG": "343-60",
+     "AB": "Digital reconstruction of neuronal arborizations is an important step in the quantitative investigation of cellular neuroanatomy. In this process, neurites imaged by microscopy are semi-manually traced through the use of specialized computer software and represented as binary trees of branching cylinders (or truncated cones). Such form of the reconstruction files is efficient and parsimonious, and allows extensive morphometric analysis as well as the implementation of biophysical models of electrophysiology. Here, we describe Neuron_ Morpho, a plugin for the popular Java application ImageJ that mediates the digital reconstruction of neurons from image stacks. Both the executable and code of Neuron_ Morpho are freely distributed (www.maths. soton.ac.uk/staff/D'Alessandro/morpho or www.krasnow.gmu.edu/L-Neuron), and are compatible with all major computer platforms (including Windows, Mac, and Linux). We tested Neuron_Morpho by reconstructing two neurons from each of the two preparations representing different brain areas (hippocampus and cerebellum), neuritic type (pyramidal cell dendrites and olivar axonal projection terminals), and labeling method (rapid Golgi impregnation and anterograde dextran amine), and quantitatively comparing the resulting morphologies to those of the same cells reconstructed with the standard commercial system, Neurolucida. None of the numerous morphometric measures that were analyzed displayed any significant or systematic difference between the two reconstructing systems.",
+     "FAU": [
+          "Brown, Kerry M",
+          "Donohue, Duncan E",
+          "D'Alessandro, Giampaolo",
+          "Ascoli, Giorgio A"
+     ],
+     "AU": [
+          "Brown KM",
+          "Donohue DE",
+          "D'Alessandro G",
+          "Ascoli GA"
+     ],
+     "AD": "Krasnow Institute for Advanced Study, George Mason University, Fairfax, VA 22030-4444, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS39600/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Axons/ultrastructure",
+          "Cell Shape/physiology",
+          "Cerebellum/cytology",
+          "Dendrites/ultrastructure",
+          "Female",
+          "Hippocampus/cytology",
+          "Image Cytometry/*methods/standards/*trends",
+          "Male",
+          "Nervous System/*cytology",
+          "Neurons/*cytology",
+          "Pyramidal Cells/cytology",
+          "Rats",
+          "Rats, Long-Evans",
+          "*Software/economics/standards"
+     ],
+     "EDAT": "2005/11/15 09:00",
+     "MHDA": "2006/03/01 09:00",
+     "CRDT": [
+          "2005/11/15 09:00"
+     ],
+     "PHST": [
+          "2005/11/15 09:00 [pubmed]",
+          "2006/03/01 09:00 [medline]",
+          "2005/11/15 09:00 [entrez]"
+     ],
+     "AID": [
+          "NI:3:4:343 [pii]",
+          "10.1385/NI:3:4:343 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2005;3(4):343-60. doi: 10.1385/NI:3:4:343.",
+     "term": "hippocampus"
+}

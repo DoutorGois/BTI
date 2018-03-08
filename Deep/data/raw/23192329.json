@@ -1,0 +1,64 @@
+{
+     "PMID": "23192329",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140616",
+     "LR": "20170926",
+     "IS": "1432-1416 (Electronic) 0303-6812 (Linking)",
+     "VI": "67",
+     "IP": "6-7",
+     "DP": "2013 Dec",
+     "TI": "Development and application of a volume penalization immersed boundary method for the computation of blood flow and shear stresses in cerebral vessels and aneurysms.",
+     "PG": "1847-75",
+     "LID": "10.1007/s00285-012-0627-5 [doi]",
+     "AB": "A volume-penalizing immersed boundary method is presented for the simulation of laminar incompressible flow inside geometrically complex blood vessels in the human brain. We concentrate on cerebral aneurysms and compute flow in curved brain vessels with and without spherical aneurysm cavities attached. We approximate blood as an incompressible Newtonian fluid and simulate the flow with the use of a skew-symmetric finite-volume discretization and explicit time-stepping. A key element of the immersed boundary method is the so-called masking function. This is a binary function with which we identify at any location in the domain whether it is 'solid' or 'fluid', allowing to represent objects immersed in a Cartesian grid. We compare three definitions of the masking function for geometries that are non-aligned with the grid. In each case a 'staircase' representation is used in which a grid cell is either 'solid' or 'fluid'. Reliable findings are obtained with our immersed boundary method, even at fairly coarse meshes with about 16 grid cells across a velocity profile. The validation of the immersed boundary method is provided on the basis of classical Poiseuille flow in a cylindrical pipe. We obtain first order convergence for the velocity and the shear stress, reflecting the fact that in our approach the solid-fluid interface is localized with an accuracy on the order of a grid cell. Simulations for curved vessels and aneurysms are done for different flow regimes, characterized by different values of the Reynolds number (Re). The validation is performed for laminar flow at Re = 250, while the flow in more complex geometries is studied at Re = 100 and Re = 250, as suggested by physiological conditions pertaining to flow of blood in the circle of Willis.",
+     "FAU": [
+          "Mikhal, Julia",
+          "Geurts, Bernard J"
+     ],
+     "AU": [
+          "Mikhal J",
+          "Geurts BJ"
+     ],
+     "AD": "Multiscale Modeling and Simulation, Department of Applied Mathematics, University of Twente, P.O. Box 217, 7500 AE, Enschede, The Netherlands, julia.mikhal@gmail.com.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20121129",
+     "PL": "Germany",
+     "TA": "J Math Biol",
+     "JT": "Journal of mathematical biology",
+     "JID": "7502105",
+     "SB": "IM",
+     "MH": [
+          "Blood Flow Velocity/*physiology",
+          "Brain/*blood supply",
+          "Cerebral Arteries/*physiology",
+          "Computer Simulation",
+          "Hemodynamics/physiology",
+          "Humans",
+          "Intracranial Aneurysm/*physiopathology",
+          "*Models, Cardiovascular"
+     ],
+     "EDAT": "2012/11/30 06:00",
+     "MHDA": "2014/06/17 06:00",
+     "CRDT": [
+          "2012/11/30 06:00"
+     ],
+     "PHST": [
+          "2012/03/18 00:00 [received]",
+          "2012/11/30 06:00 [entrez]",
+          "2012/11/30 06:00 [pubmed]",
+          "2014/06/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s00285-012-0627-5 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Math Biol. 2013 Dec;67(6-7):1847-75. doi: 10.1007/s00285-012-0627-5. Epub 2012 Nov 29.",
+     "term": "grid cells"
+}

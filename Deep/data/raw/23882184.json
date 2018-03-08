@@ -1,0 +1,63 @@
+{
+     "PMID": "23882184",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130724",
+     "LR": "20170220",
+     "IS": "1662-5102 (Print) 1662-5102 (Linking)",
+     "VI": "7",
+     "DP": "2013",
+     "TI": "The spatial representations acquired in CA3 by self-organizing recurrent connections.",
+     "PG": "112",
+     "LID": "10.3389/fncel.2013.00112 [doi]",
+     "AB": "Neural computation models have hypothesized that the dentate gyrus (DG) drives the storage in the CA3 network of new memories including, e.g., in rodents, spatial memories. Can recurrent CA3 connections self-organize, during storage, and form what have been called continuous attractors, or charts-so that they express spatial information later, when aside from a partial cue the information may not be available in the inputs? We use a simplified mathematical network model to contrast the properties of spatial representations self-organized through simulated Hebbian plasticity with those of charts pre-wired in the synaptic matrix, a control case closer to the ideal notion of continuous attractors. Both models form granular quasi-attractors, characterized by drift, which approach continuous ones only in the limit of an infinitely large network. The two models are comparable in terms of precision, but not of accuracy: with self-organized connections, the metric of space remains distorted, ill-adequate for accurate path integration, even when scaled up to the real hippocampus. While prolonged self-organization makes charts somewhat more informative about position in the environment, some positional information is surprisingly present also about environments never learned, borrowed, as it were, from unrelated charts. In contrast, context discrimination decreases with more learning, as different charts tend to collapse onto each other. These observations challenge the feasibility of the idealized CA3 continuous chart concept, and are consistent with a CA3 specialization for episodic memory rather than path integration.",
+     "FAU": [
+          "Cerasti, Erika",
+          "Treves, Alessandro"
+     ],
+     "AU": [
+          "Cerasti E",
+          "Treves A"
+     ],
+     "AD": "SISSA, Cognitive Neuroscience Sector Trieste, Italy ; College de France Paris, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130716",
+     "PL": "Switzerland",
+     "TA": "Front Cell Neurosci",
+     "JT": "Frontiers in cellular neuroscience",
+     "JID": "101477935",
+     "PMC": "PMC3712127",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "associative plasticity",
+          "continuous attractors",
+          "information theory",
+          "memory network",
+          "mossy fibers"
+     ],
+     "EDAT": "2013/07/25 06:00",
+     "MHDA": "2013/07/25 06:01",
+     "CRDT": [
+          "2013/07/25 06:00"
+     ],
+     "PHST": [
+          "2013/03/30 00:00 [received]",
+          "2013/06/26 00:00 [accepted]",
+          "2013/07/25 06:00 [entrez]",
+          "2013/07/25 06:00 [pubmed]",
+          "2013/07/25 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncel.2013.00112 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Cell Neurosci. 2013 Jul 16;7:112. doi: 10.3389/fncel.2013.00112. eCollection 2013.",
+     "term": "hippocampus"
+}

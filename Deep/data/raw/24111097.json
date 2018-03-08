@@ -1,0 +1,72 @@
+{
+     "PMID": "24111097",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150821",
+     "LR": "20161025",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2013",
+     "DP": "2013",
+     "TI": "The contribution of relative activation levels between populations of cells to network activity in a large-scale biologically realistic model of the hippocampus.",
+     "PG": "5962-5",
+     "LID": "10.1109/EMBC.2013.6610910 [doi]",
+     "AB": "In previously published work, we showed the progress we've made towards creating a large-scale, biologically realistic model of the rat hippocampus, starting with the projection from entorhinal cortex (EC) to the dentate gyrus (DG). We created the model to help us study how the common components of neurobiological systems in mammals - large numbers of neurons with intricate, branching morphologies; active, non-linear membrane properties; nonuniform distributions throughout membrane surface of these non-linear conductances; non-uniform and topographic connectivity between pre- and post-synaptic neurons; and activity-dependent changes in synaptic function - combine and contribute to give a particular brain region its \"neural processing\" properties. In this work, we report on the results of a series of simulations we ran to test the role of feed-forward and feedback inhibition in the dentate gyrus. We find that a) the system shows rhythmic bands of activity only in the presence of feedback inhibition, b) that the frequency of rhythmicity increases with increasing amounts of feed-forward inhibition, c) that it decreases with increasing amounts of feedback inhibition, and d) that strong excitatory inputs appear to enhance and prolong the amount of rhythmicity in the system.",
+     "FAU": [
+          "Hendrickson, Phillip J",
+          "Yu, Gene J",
+          "Robinson, Brian S",
+          "Song, Dong",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Hendrickson PJ",
+          "Yu GJ",
+          "Robinson BS",
+          "Song D",
+          "Berger TW"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 GM104604/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Entorhinal Cortex/physiology",
+          "Hippocampus/*cytology/*physiology",
+          "*Models, Neurological",
+          "Nerve Net/cytology/*physiology",
+          "Neurons/*cytology/physiology",
+          "Rats"
+     ],
+     "PMC": "PMC4157909",
+     "MID": [
+          "NIHMS623096"
+     ],
+     "EDAT": "2013/10/11 06:00",
+     "MHDA": "2015/08/22 06:00",
+     "CRDT": [
+          "2013/10/11 06:00"
+     ],
+     "PHST": [
+          "2013/10/11 06:00 [entrez]",
+          "2013/10/11 06:00 [pubmed]",
+          "2015/08/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2013.6610910 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2013;2013:5962-5. doi: 10.1109/EMBC.2013.6610910.",
+     "term": "hippocampus"
+}

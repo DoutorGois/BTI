@@ -1,0 +1,68 @@
+{
+     "PMID": "21875702",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130515",
+     "LR": "20120206",
+     "IS": "1872-6240 (Electronic) 0006-8993 (Linking)",
+     "VI": "1434",
+     "DP": "2012 Jan 24",
+     "TI": "Cortical attractor network dynamics with diluted connectivity.",
+     "PG": "212-25",
+     "LID": "10.1016/j.brainres.2011.08.002 [doi]",
+     "AB": "The connectivity of the cerebral cortex is diluted, with the probability of excitatory connections between even nearby pyramidal cells rarely more than 0.1, and in the hippocampus 0.04. To investigate the extent to which this diluted connectivity affects the dynamics of attractor networks in the cerebral cortex, we simulated an integrate-and-fire attractor network taking decisions between competing inputs with diluted connectivity of 0.25 or 0.1, and with the same number of synaptic connections per neuron for the recurrent collateral synapses within an attractor population as for full connectivity. The results indicated that there was less spiking-related noise with the diluted connectivity in that the stability of the network when in the spontaneous state of firing increased, and the accuracy of the correct decisions increased. The decision times were a little slower with diluted than with complete connectivity. Given that the capacity of the network is set by the number of recurrent collateral synaptic connections per neuron, on which there is a biological limit, the findings indicate that the stability of cortical networks, and the accuracy of their correct decisions or memory recall operations, can be increased by utilizing diluted connectivity and correspondingly increasing the number of neurons in the network, with little impact on the speed of processing of the cortex. Thus diluted connectivity can decrease cortical spiking-related noise. In addition, we show that the Fano factor for the trial-to-trial variability of the neuronal firing decreases from the spontaneous firing state value when the attractor network makes a decision. This article is part of a Special Issue entitled \"Neural Coding\".",
+     "CI": [
+          "Copyright (c) 2011 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Rolls, Edmund T",
+          "Webb, Tristan J"
+     ],
+     "AU": [
+          "Rolls ET",
+          "Webb TJ"
+     ],
+     "AD": "Oxford Centre for Computational Neuroscience, Oxford, UK. Edmund.Rolls@oxcns.org",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110807",
+     "PL": "Netherlands",
+     "TA": "Brain Res",
+     "JT": "Brain research",
+     "JID": "0045503",
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials/physiology",
+          "*Cerebral Cortex/physiology",
+          "Computer Simulation",
+          "*Decision Making/physiology",
+          "*Neural Networks (Computer)",
+          "Neural Pathways/physiology",
+          "*Neurons/physiology"
+     ],
+     "EDAT": "2011/08/31 06:00",
+     "MHDA": "2013/05/17 06:00",
+     "CRDT": [
+          "2011/08/31 06:00"
+     ],
+     "PHST": [
+          "2011/03/09 00:00 [received]",
+          "2011/07/29 00:00 [revised]",
+          "2011/08/02 00:00 [accepted]",
+          "2011/08/31 06:00 [entrez]",
+          "2011/08/31 06:00 [pubmed]",
+          "2013/05/17 06:00 [medline]"
+     ],
+     "AID": [
+          "S0006-8993(11)01438-7 [pii]",
+          "10.1016/j.brainres.2011.08.002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Res. 2012 Jan 24;1434:212-25. doi: 10.1016/j.brainres.2011.08.002. Epub 2011 Aug 7.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,71 @@
+{
+     "PMID": "9877022",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19990312",
+     "LR": "20171021",
+     "IS": "0929-5313 (Print) 0929-5313 (Linking)",
+     "VI": "5",
+     "IP": "4",
+     "DP": "1998 Dec",
+     "TI": "Frequency control in synchronized networks of inhibitory neurons.",
+     "PG": "407-20",
+     "AB": "We analyze the control of frequency for a synchronized inhibitory neuronal network. The analysis is done for a reduced membrane model with a biophysically based synaptic influence. We argue that such a reduced model can quantitatively capture the frequency behavior of a larger class of neuronal models. We show that in different parameter regimes, the network frequency depends in different ways on the intrinsic and synaptic time constants. Only in one portion of the parameter space, called phasic, is the network period proportional to the synaptic decay time. These results are discussed in connection with previous work of the authors, which showed that for mildly heterogeneous networks, the synchrony breaks down, but coherence is preserved much more for systems in the phasic regime than in the other regimes. These results imply that for mildly heterogeneous networks, the existence of a coherent rhythm implies a linear dependence of the network period on synaptic decay time and a much weaker dependence on the drive to the cells. We give experimental evidence for this conclusion.",
+     "FAU": [
+          "Chow, C C",
+          "White, J A",
+          "Ritt, J",
+          "Kopell, N"
+     ],
+     "AU": [
+          "Chow CC",
+          "White JA",
+          "Ritt J",
+          "Kopell N"
+     ],
+     "AD": "Department of Mathematics and Center for BioDynamics, Boston University, MA 02215, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "1R29NS34425/NS/NINDS NIH HHS/United States",
+          "MH47150/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "EIN": [
+          "J Comput Neurosci 1999 Jul-Aug;7(1):89"
+     ],
+     "MH": [
+          "Action Potentials/physiology",
+          "Hippocampus/cytology/physiology",
+          "Interneurons/*physiology",
+          "Neural Inhibition/*physiology",
+          "*Neural Networks (Computer)",
+          "Neural Pathways",
+          "Periodicity",
+          "Synapses/physiology"
+     ],
+     "EDAT": "1999/01/07 00:00",
+     "MHDA": "1999/01/07 00:01",
+     "CRDT": [
+          "1999/01/07 00:00"
+     ],
+     "PHST": [
+          "1999/01/07 00:00 [pubmed]",
+          "1999/01/07 00:01 [medline]",
+          "1999/01/07 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 1998 Dec;5(4):407-20.",
+     "term": "hippocampus"
+}

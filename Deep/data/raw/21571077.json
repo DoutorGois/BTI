@@ -1,0 +1,83 @@
+{
+     "PMID": "21571077",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111121",
+     "LR": "20110718",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "57",
+     "IP": "4",
+     "DP": "2011 Aug 15",
+     "TI": "A combination of atlas-based and voxel-wise approaches to analyze metabolic changes in autoradiographic data from Alzheimer's mice.",
+     "PG": "1447-57",
+     "LID": "10.1016/j.neuroimage.2011.04.059 [doi]",
+     "AB": "Murine models are commonly used in neuroscience research to improve our knowledge of disease processes and to test drug effects. To accurately study brain glucose metabolism in these animals, ex vivo autoradiography remains the gold standard. The analysis of 3D-reconstructed autoradiographic volumes using a voxel-wise approach allows clusters of voxels representing metabolic differences between groups to be revealed. However, the spatial localization of these clusters requires careful visual identification by a neuroanatomist, a time-consuming task that is often subject to misinterpretation. Moreover, the large number of voxels to be computed in autoradiographic rodent images leads to many false positives. Here, we proposed an original automated indexation of the results of a voxel-wise approach using an MRI-based 3D digital atlas, followed by the restriction of the statistical analysis using atlas-based segmentation, thus taking advantage of the specific and complementary strengths of these two approaches. In a preliminary study of transgenic Alzheimer's mice (APP/PS1), and control littermates (PS1), we were able to achieve prompt and direct anatomical indexation of metabolic changes detected between the two groups, revealing both hypo- and hypermetabolism in the brain of APP/PS1 mice. Furthermore, statistical results were refined using atlas-based segmentation: most interesting results were obtained for the hippocampus. We thus confirmed and extended our previous results by identifying the brain structures affected in this pathological model and demonstrating modified glucose uptake in structures like the olfactory bulb. Our combined approach thus paves the way for a complete and accurate examination of functional data from cerebral structures involved in models of neurodegenerative diseases.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Lebenberg, J",
+          "Herard, A-S",
+          "Dubois, A",
+          "Dhenain, M",
+          "Hantraye, P",
+          "Delzescaux, T"
+     ],
+     "AU": [
+          "Lebenberg J",
+          "Herard AS",
+          "Dubois A",
+          "Dhenain M",
+          "Hantraye P",
+          "Delzescaux T"
+     ],
+     "AD": "CEA-DSV-I2BM-MIRCen, CNRS URA2210, Fontenay aux Roses, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110504",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*metabolism/pathology",
+          "Anatomy, Artistic",
+          "Animals",
+          "Atlases as Topic",
+          "Autoradiography/*methods",
+          "Brain Mapping/*methods",
+          "Disease Models, Animal",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Mice, Transgenic"
+     ],
+     "EDAT": "2011/05/17 06:00",
+     "MHDA": "2011/12/13 00:00",
+     "CRDT": [
+          "2011/05/17 06:00"
+     ],
+     "PHST": [
+          "2011/01/21 00:00 [received]",
+          "2011/04/01 00:00 [revised]",
+          "2011/04/26 00:00 [accepted]",
+          "2011/05/17 06:00 [entrez]",
+          "2011/05/17 06:00 [pubmed]",
+          "2011/12/13 00:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)00476-9 [pii]",
+          "10.1016/j.neuroimage.2011.04.059 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 Aug 15;57(4):1447-57. doi: 10.1016/j.neuroimage.2011.04.059. Epub 2011 May 4.",
+     "term": "hippocampus"
+}

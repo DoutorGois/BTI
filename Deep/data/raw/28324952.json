@@ -1,0 +1,58 @@
+{
+     "PMID": "28324952",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170908",
+     "LR": "20171120",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2016",
+     "DP": "2016 Aug",
+     "TI": "The influence of the pre-stimulation neural state on the post-stimulation neural dynamics via distributed microstimulation of the hippocampus.",
+     "PG": "1810-1813",
+     "LID": "10.1109/EMBC.2016.7591070 [doi]",
+     "AB": "In this study we investigated how the neural state influences how the brain responds to electrical stimulation using a 16-channel microelectrode array with 8 stimulation and recording channels implanted in the rat hippocampus. In two experiments we identified the stimulation threshold at which the brain changes to an afterdischarge state. In one experiment a range of suprathreshold stimulations were applied, and in another the stimulation was not changed. The neural state was measured by the power spectral density prior to stimulation. In the first experiment, these measures and the stimulation parameters were used as features, either together or separately, for training a Support Vector Machine (SVM) classifier to predict whether the stimulation would produce an afterdischarge. In the second experiment, recursive feature elimination was used to iteratively remove the neural state features from the recording channels that had the least impact on the overall accuracy. In the first experiment 43 stimulations elicited 26 afterdischarges. In predicting the post-stimulation state-change (afterdischarge vs. no afterdischarge) the feature space of only neural state had a higher accuracy (67.4%) than when combined with the stimulation parameters (65.1%) or the stimulation parameters alone (58.1%). The overall classification results from both feature spaces containing the neural state were non-independent (chi-squared p <; 0.01). In the second experiment, the channels that were the least predictive were those on the more distal ends of the recording electrode, and the most predictive were clustered in the center of the electrode. Additionally, the accuracy increased when 4 channels were removed. The findings from these experiments suggest that both the pre-stimulation state and the spatial properties from where it is measured can play a role in how neural stimulation can induce functional changes in the hippocampal networks.",
+     "FAU": [
+          "Connolly, Mark J",
+          "Gross, Robert E",
+          "Mahmoudi, Babak"
+     ],
+     "AU": [
+          "Connolly MJ",
+          "Gross RE",
+          "Mahmoudi B"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain Mapping",
+          "*Electric Stimulation",
+          "Hippocampus/*physiology",
+          "Rats"
+     ],
+     "EDAT": "2016/01/01 00:00",
+     "MHDA": "2017/09/09 06:00",
+     "CRDT": [
+          "2017/03/23 06:00"
+     ],
+     "PHST": [
+          "2017/03/23 06:00 [entrez]",
+          "2016/01/01 00:00 [pubmed]",
+          "2017/09/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2016.7591070 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2016 Aug;2016:1810-1813. doi: 10.1109/EMBC.2016.7591070.",
+     "term": "hippocampus"
+}

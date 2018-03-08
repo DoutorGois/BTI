@@ -1,0 +1,71 @@
+{
+     "PMID": "23762019",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140117",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "9",
+     "IP": "6",
+     "DP": "2013",
+     "TI": "Theta coordinated error-driven learning in the hippocampus.",
+     "PG": "e1003067",
+     "LID": "10.1371/journal.pcbi.1003067 [doi]",
+     "AB": "The learning mechanism in the hippocampus has almost universally been assumed to be Hebbian in nature, where individual neurons in an engram join together with synaptic weight increases to support facilitated recall of memories later. However, it is also widely known that Hebbian learning mechanisms impose significant capacity constraints, and are generally less computationally powerful than learning mechanisms that take advantage of error signals. We show that the differential phase relationships of hippocampal subfields within the overall theta rhythm enable a powerful form of error-driven learning, which results in significantly greater capacity, as shown in computer simulations. In one phase of the theta cycle, the bidirectional connectivity between CA1 and entorhinal cortex can be trained in an error-driven fashion to learn to effectively encode the cortical inputs in a compact and sparse form over CA1. In a subsequent portion of the theta cycle, the system attempts to recall an existing memory, via the pathway from entorhinal cortex to CA3 and CA1. Finally the full theta cycle completes when a strong target encoding representation of the current input is imposed onto the CA1 via direct projections from entorhinal cortex. The difference between this target encoding and the attempted recall of the same representation on CA1 constitutes an error signal that can drive the learning of CA3 to CA1 synapses. This CA3 to CA1 pathway is critical for enabling full reinstatement of recalled hippocampal memories out in cortex. Taken together, these new learning dynamics enable a much more robust, high-capacity model of hippocampal learning than was available previously under the classical Hebbian model.",
+     "FAU": [
+          "Ketz, Nicholas",
+          "Morkonda, Srinimisha G",
+          "O'Reilly, Randall C"
+     ],
+     "AU": [
+          "Ketz N",
+          "Morkonda SG",
+          "O'Reilly RC"
+     ],
+     "AD": "Department of Psychology, University of Colorado Boulder, Boulder, Colorado, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH079485/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Validation Studies"
+     ],
+     "DEP": "20130606",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Learning",
+          "*Models, Biological",
+          "*Theta Rhythm"
+     ],
+     "PMC": "PMC3675133",
+     "EDAT": "2013/06/14 06:00",
+     "MHDA": "2014/01/18 06:00",
+     "CRDT": [
+          "2013/06/14 06:00"
+     ],
+     "PHST": [
+          "2012/11/17 00:00 [received]",
+          "2013/04/06 00:00 [accepted]",
+          "2013/06/14 06:00 [entrez]",
+          "2013/06/14 06:00 [pubmed]",
+          "2014/01/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1003067 [doi]",
+          "PCOMPBIOL-D-12-01830 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2013;9(6):e1003067. doi: 10.1371/journal.pcbi.1003067. Epub 2013 Jun 6.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,85 @@
+{
+     "PMID": "23707901",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140207",
+     "LR": "20130715",
+     "IS": "1872-7972 (Electronic) 0304-3940 (Linking)",
+     "VI": "548",
+     "DP": "2013 Aug 26",
+     "TI": "Cocaine addiction related reproducible brain regions of abnormal default-mode network functional connectivity: a group ICA study with different model orders.",
+     "PG": "110-4",
+     "LID": "10.1016/j.neulet.2013.05.029 [doi] S0304-3940(13)00464-3 [pii]",
+     "AB": "Model order selection in group independent component analysis (ICA) has a significant effect on the obtained components. This study investigated the reproducible brain regions of abnormal default-mode network (DMN) functional connectivity related with cocaine addiction through different model order settings in group ICA. Resting-state fMRI data from 24 cocaine addicts and 24 healthy controls were temporally concatenated and processed by group ICA using model orders of 10, 20, 30, 40, and 50, respectively. For each model order, the group ICA approach was repeated 100 times using the ICASSO toolbox and after clustering the obtained components, centrotype-based anterior and posterior DMN components were selected for further analysis. Individual DMN components were obtained through back-reconstruction and converted to z-score maps. A whole brain mixed effects factorial ANOVA was performed to explore the differences in resting-state DMN functional connectivity between cocaine addicts and healthy controls. The hippocampus, which showed decreased functional connectivity in cocaine addicts for all the tested model orders, might be considered as a reproducible abnormal region in DMN associated with cocaine addiction. This finding suggests that using group ICA to examine the functional connectivity of the hippocampus in the resting-state DMN may provide an additional insight potentially relevant for cocaine-related diagnoses and treatments.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier Ireland Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Ding, Xiaoyu",
+          "Lee, Seong-Whan"
+     ],
+     "AU": [
+          "Ding X",
+          "Lee SW"
+     ],
+     "AD": "Department of Computer Science and Engineering, Korea University, Anam-dong, Seongbuk-ku, Seoul 136-713, Republic of Korea. xyding@image.korea.ac.kr",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130522",
+     "PL": "Ireland",
+     "TA": "Neurosci Lett",
+     "JT": "Neuroscience letters",
+     "JID": "7600130",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Brain/*physiopathology",
+          "Brain Mapping/*methods",
+          "Cocaine-Related Disorders/*physiopathology",
+          "Computer Simulation",
+          "Connectome/*methods",
+          "Female",
+          "Humans",
+          "Male",
+          "*Models, Neurological",
+          "Nerve Net/*physiopathology",
+          "Principal Component Analysis",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Cocaine addiction",
+          "Default-mode network",
+          "Functional connectivity",
+          "Group ICA",
+          "Model order"
+     ],
+     "EDAT": "2013/05/28 06:00",
+     "MHDA": "2014/02/08 06:00",
+     "CRDT": [
+          "2013/05/28 06:00"
+     ],
+     "PHST": [
+          "2013/01/18 00:00 [received]",
+          "2013/04/27 00:00 [revised]",
+          "2013/05/13 00:00 [accepted]",
+          "2013/05/28 06:00 [entrez]",
+          "2013/05/28 06:00 [pubmed]",
+          "2014/02/08 06:00 [medline]"
+     ],
+     "AID": [
+          "S0304-3940(13)00464-3 [pii]",
+          "10.1016/j.neulet.2013.05.029 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neurosci Lett. 2013 Aug 26;548:110-4. doi: 10.1016/j.neulet.2013.05.029. Epub 2013 May 22.",
+     "term": "hippocampus"
+}

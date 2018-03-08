@@ -1,0 +1,69 @@
+{
+     "PMID": "8321013",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19930730",
+     "LR": "20090929",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "47",
+     "IP": "1-2",
+     "DP": "1993 Apr",
+     "TI": "A system for quantitative morphological measurement and electronic modelling of neurons: three-dimensional reconstruction.",
+     "PG": "39-51",
+     "AB": "A system for accurately reconstructing neurones from optical sections taken at high magnification is described. Cells are digitised on a 68000-based microcomputer to form a database consisting of a series of linked nodes each consisting of x, y, z coordinates and an estimate of dendritic diameter. This database is used to generate three-dimensional (3-D) displays of the neurone and allows quantitative analysis of the cell volume, surface area and dendritic length. Images of the cell can be manipulated locally or transferred to an IBM 3090 mainframe where a wireframe model can be displayed on an IBM 5080 graphics terminal and rotated interactively in real time, allowing visualisation of the cell from all angles. Space-filling models can also be produced. Reconstructions can also provide morphological data for passive electrical simulations of hippocampal pyramidal cells.",
+     "FAU": [
+          "Stockley, E W",
+          "Cole, H M",
+          "Brown, A D",
+          "Wheal, H V"
+     ],
+     "AU": [
+          "Stockley EW",
+          "Cole HM",
+          "Brown AD",
+          "Wheal HV"
+     ],
+     "AD": "Department of Physiology and Pharmacology, University of Southampton, UK.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cell Size",
+          "Databases, Factual",
+          "Dendrites/ultrastructure",
+          "Hippocampus/cytology",
+          "*Image Processing, Computer-Assisted",
+          "Microcomputers",
+          "Models, Anatomic",
+          "*Models, Neurological",
+          "Neurons/*ultrastructure",
+          "Photomicrography",
+          "Rats",
+          "Software"
+     ],
+     "EDAT": "1993/04/01 00:00",
+     "MHDA": "1993/04/01 00:01",
+     "CRDT": [
+          "1993/04/01 00:00"
+     ],
+     "PHST": [
+          "1993/04/01 00:00 [pubmed]",
+          "1993/04/01 00:01 [medline]",
+          "1993/04/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 1993 Apr;47(1-2):39-51.",
+     "term": "hippocampus"
+}

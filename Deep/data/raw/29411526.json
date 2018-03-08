@@ -1,0 +1,67 @@
+{
+     "PMID": "29411526",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20180207",
+     "IS": "1526-9914 (Electronic) 1526-9914 (Linking)",
+     "DP": "2018 Feb 7",
+     "TI": "Assessment of multi-criteria optimization (MCO) for volumetric modulated arc therapy (VMAT) in hippocampal avoidance whole brain radiation therapy (HA-WBRT).",
+     "LID": "10.1002/acm2.12277 [doi]",
+     "AB": "This study compared the dosimetric performance of (a) volumetric modulated arc therapy (VMAT) with standard optimization (STD) and (b) multi-criteria optimization (MCO) to (c) intensity modulated radiation therapy (IMRT) with MCO for hippocampal avoidance whole brain radiation therapy (HA-WBRT) in RayStation treatment planning system (TPS). Ten HA-WBRT patients previously treated with MCO-IMRT or MCO-VMAT on an Elekta Infinity accelerator with Agility multileaf collimators (5-mm leaves) were re-planned for the other two modalities. All patients received 30 Gy in 15 fractions to the planning target volume (PTV), namely, PTV30 expanded with a 2-mm margin from the whole brain excluding hippocampus with margin. The patients all had metastatic lesions (up to 12) of variable sizes and proximity to the hippocampus, treated with an additional 7.5 Gy from a simultaneous integrated boost (SIB) to PTV37.5. The IMRT plans used eight to eleven non-coplanar fields, whereas the VMAT plans used two coplanar full arcs and a vertex half arc. The averaged target coverage, dose to organs-at-risk (OARs) and monitor unit provided by the three modalities were compared, and a Wilcoxon signed-rank test was performed. MCO-VMAT provided statistically significant reduction of D100 of hippocampus compared to STD-VMAT, and Dmax of cochleas compared to MCO-IMRT. With statistical significance, MCO-VMAT improved V30 of PTV30 by 14.2% and 4.8%, respectively, compared to MCO-IMRT and STD-VMAT. It also raised D95 of PTV37.5 by 0.4 Gy compared to both MCO-IMRT and STD-VMAT. Improved plan quality parameters such as a decrease in overall plan Dmax and total monitor units (MU) were also observed for MCO-VMAT. MCO-VMAT is found to be the optimal modality for HA-WBRT in terms of PTV coverage, OAR sparing and delivery efficiency, compared to MCO-IMRT or STD-VMAT.",
+     "CI": [
+          "(c) 2018 The Authors. Journal of Applied Clinical Medical Physics published by",
+          "Wiley Periodicals, Inc. on behalf of American Association of Physicists in",
+          "Medicine."
+     ],
+     "FAU": [
+          "Zieminski, Stephen",
+          "Khandekar, Melin",
+          "Wang, Yi"
+     ],
+     "AU": [
+          "Zieminski S",
+          "Khandekar M",
+          "Wang Y"
+     ],
+     "AD": "Department of Radiation Oncology, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA. Department of Radiation Oncology, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA. Department of Radiation Oncology, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20180207",
+     "PL": "United States",
+     "TA": "J Appl Clin Med Phys",
+     "JT": "Journal of applied clinical medical physics",
+     "JID": "101089176",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "MCO",
+          "VMAT",
+          "HA-WBRT",
+          "dosimetric comparison",
+          "treatment planning"
+     ],
+     "EDAT": "2018/02/08 06:00",
+     "MHDA": "2018/02/08 06:00",
+     "CRDT": [
+          "2018/02/08 06:00"
+     ],
+     "PHST": [
+          "2017/08/15 00:00 [received]",
+          "2017/11/29 00:00 [revised]",
+          "2017/12/29 00:00 [accepted]",
+          "2018/02/08 06:00 [entrez]",
+          "2018/02/08 06:00 [pubmed]",
+          "2018/02/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/acm2.12277 [doi]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "J Appl Clin Med Phys. 2018 Feb 7. doi: 10.1002/acm2.12277.",
+     "term": "hippocampus"
+}

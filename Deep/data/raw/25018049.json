@@ -1,0 +1,119 @@
+{
+     "PMID": "25018049",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150824",
+     "LR": "20141205",
+     "IS": "1724-191X (Electronic) 1120-1797 (Linking)",
+     "VI": "30",
+     "IP": "8",
+     "DP": "2014 Dec",
+     "TI": "Automated voxel-by-voxel tissue classification for hippocampal segmentation: methods and validation.",
+     "PG": "878-87",
+     "LID": "10.1016/j.ejmp.2014.06.044 [doi] S1120-1797(14)00148-3 [pii]",
+     "AB": "The hippocampus is an important structural biomarker for Alzheimer's disease (AD) and has a primary role in the pathogenesis of other neurological and psychiatric diseases. This study presents a fully automated pattern recognition system for an accurate and reproducible segmentation of the hippocampus in structural Magnetic Resonance Imaging (MRI). The method was validated on a mixed cohort of 56 T1-weighted structural brain images, and consists of three processing levels: (a) Linear registration: all brain images were registered to a standard template and an automated method was applied to capture the global shape of the hippocampus. (b) Feature extraction: all voxels included in the previously selected volume were characterized by 315 features computed from local information. (c) Voxel classification: a Random Forest algorithm was used to classify voxels as belonging or not belonging to the hippocampus. In order to improve the classification performance, an adaptive learning method based on the use of the Pearson's correlation coefficient was developed. The segmentation results (Dice similarity index = 0.81 +/- 0.03) compare well with other state-of-the art approaches. A validation study was conducted on an independent dataset of 100 T1-weighted brain images, achieving significantly better results than those obtained with FreeSurfer.",
+     "CI": [
+          "Copyright (c) 2014 Associazione Italiana di Fisica Medica. Published by Elsevier",
+          "Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Tangaro, S",
+          "Amoroso, N",
+          "Boccardi, M",
+          "Bruno, S",
+          "Chincarini, A",
+          "Ferraro, G",
+          "Frisoni, G B",
+          "Maglietta, R",
+          "Redolfi, A",
+          "Rei, L",
+          "Tateo, A",
+          "Bellotti, R"
+     ],
+     "AU": [
+          "Tangaro S",
+          "Amoroso N",
+          "Boccardi M",
+          "Bruno S",
+          "Chincarini A",
+          "Ferraro G",
+          "Frisoni GB",
+          "Maglietta R",
+          "Redolfi A",
+          "Rei L",
+          "Tateo A",
+          "Bellotti R"
+     ],
+     "AD": "Istituto Nazionale di Fisica Nucleare, Sezione di Bari, Italy. Istituto Nazionale di Fisica Nucleare, Sezione di Bari, Italy; Dipartimento Interateneo di Fisica \"M. Merlin\", Universita degli Studi di Bari, Italy. Electronic address: nicola.amoroso@ba.infn.it. LENITEM Laboratory of Epidemiology, Neuroimaging, and Telemedicine, IRCCS Centro S. Giovanni di Dio - FBF, Brescia, Italy. Overdale Hospital, St Helier, Jersey. Istituto Nazionale di Fisica Nucleare, Sezione di Genova, Italy. Istituto Nazionale di Fisica Nucleare, Sezione di Bari, Italy; Dipartimento Interateneo di Fisica \"M. Merlin\", Universita degli Studi di Bari, Italy. LENITEM Laboratory of Epidemiology, Neuroimaging, and Telemedicine, IRCCS Centro S. Giovanni di Dio - FBF, Brescia, Italy; AFaR Associazione Fatebenefratelli per la Ricerca, Rome, Italy; Psychogeriatric Ward, IRCCS Centro S. Giovanni di Dio - FBF, Brescia, Italy. Istituto di Studio sui Sistemi Intelligenti per l'Automazione, Consiglio Nazionale delle Ricerche, Bari, Italy. LENITEM Laboratory of Epidemiology, Neuroimaging, and Telemedicine, IRCCS Centro S. Giovanni di Dio - FBF, Brescia, Italy. Istituto Nazionale di Fisica Nucleare, Sezione di Genova, Italy. Istituto Nazionale di Fisica Nucleare, Sezione di Bari, Italy. Istituto Nazionale di Fisica Nucleare, Sezione di Bari, Italy; Dipartimento Interateneo di Fisica \"M. Merlin\", Universita degli Studi di Bari, Italy.",
+     "CN": [
+          "Alzheimers Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20140711",
+     "PL": "Italy",
+     "TA": "Phys Med",
+     "JT": "Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB)",
+     "JID": "9302888",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Alzheimer Disease/pathology",
+          "Automatic Data Processing",
+          "Brain Mapping/*methods",
+          "Databases, Factual",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Linear Models",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Pattern Recognition, Automated",
+          "Reproducibility of Results",
+          "*Signal Processing, Computer-Assisted",
+          "Software"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Classification methods",
+          "Feature extraction",
+          "Hippocampus",
+          "MRI",
+          "Segmentation"
+     ],
+     "EDAT": "2014/07/16 06:00",
+     "MHDA": "2015/08/25 06:00",
+     "CRDT": [
+          "2014/07/15 06:00"
+     ],
+     "PHST": [
+          "2014/02/19 00:00 [received]",
+          "2014/06/09 00:00 [revised]",
+          "2014/06/24 00:00 [accepted]",
+          "2014/07/15 06:00 [entrez]",
+          "2014/07/16 06:00 [pubmed]",
+          "2015/08/25 06:00 [medline]"
+     ],
+     "AID": [
+          "S1120-1797(14)00148-3 [pii]",
+          "10.1016/j.ejmp.2014.06.044 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phys Med. 2014 Dec;30(8):878-87. doi: 10.1016/j.ejmp.2014.06.044. Epub 2014 Jul 11.",
+     "term": "hippocampus"
+}

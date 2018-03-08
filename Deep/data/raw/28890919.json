@@ -1,0 +1,76 @@
+{
+     "PMID": "28890919",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20170914",
+     "IS": "2365-7464 (Print)",
+     "VI": "2",
+     "IP": "1",
+     "DP": "2017",
+     "TI": "Integrating images from a moveable tracked display of three-dimensional data.",
+     "PG": "34",
+     "LID": "10.1186/s41235-017-0069-0 [doi]",
+     "AB": "This paper describes a novel method for displaying data obtained by three-dimensional medical imaging, by which the position and orientation of a freely movable screen are optically tracked and used in real time to select the current slice from the data set for presentation. With this method, which we call a \"freely moving in-situ medical image\", the screen and imaged data are registered to a common coordinate system in space external to the user, at adjustable scale, and are available for free exploration. The three-dimensional image data occupy empty space, as if an invisible patient is being sliced by the moving screen. A behavioral study using real computed tomography lung vessel data established the superiority of the in situ display over a control condition with the same free exploration, but displaying data on a fixed screen (ex situ), with respect to accuracy in the task of tracing along a vessel and reporting spatial relations between vessel structures. A \"freely moving in-situ medical image\" display appears from these measures to promote spatial navigation and understanding of medical data.",
+     "FAU": [
+          "Shukla, Gaurav",
+          "Klatzky, Roberta L",
+          "Wu, Bing",
+          "Wang, Bo",
+          "Galeotti, John",
+          "Chapmann, Brian",
+          "Stetten, George"
+     ],
+     "AU": [
+          "Shukla G",
+          "Klatzky RL",
+          "Wu B",
+          "Wang B",
+          "Galeotti J",
+          "Chapmann B",
+          "Stetten G"
+     ],
+     "AD": "Radiation Oncology, University of Pennsylvania, Philadelphia, PA 19107 USA.0000 0004 1936 8972grid.25879.31 Department of Psychology, Carnegie Mellon University, Pittsburgh, PA 15213 USA.0000 0001 2097 0344grid.147455.6 Arizona State University-Polytechnic Campus, Mesa, AZ 85212 USA.0000 0001 2151 2636grid.215654.1 Eye and Ear Institute, University of Pittsburgh Medical Center, Pittsburgh, PA 15213 USA.0000 0001 0650 7433grid.412689.0 Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213 USA.0000 0001 2097 0344grid.147455.6 Imaging & Neurosciences Center, University of Utah School of Medicine, Salt Lake City, UT 84108 USA.0000 0001 2193 0096grid.223827.e Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA 15213 USA.0000 0004 1936 9000grid.21925.3d",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 HL087119/HL/NHLBI NIH HHS/United States",
+          "R21 EB007721/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170823",
+     "PL": "England",
+     "TA": "Cogn Res Princ Implic",
+     "JT": "Cognitive research: principles and implications",
+     "JID": "101697632",
+     "PMC": "PMC5569642",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Medical imaging",
+          "Radiology",
+          "Visualization"
+     ],
+     "EDAT": "2017/09/12 06:00",
+     "MHDA": "2017/09/12 06:01",
+     "CRDT": [
+          "2017/09/12 06:00"
+     ],
+     "PHST": [
+          "2017/03/20 00:00 [received]",
+          "2017/06/30 00:00 [accepted]",
+          "2017/09/12 06:00 [entrez]",
+          "2017/09/12 06:00 [pubmed]",
+          "2017/09/12 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1186/s41235-017-0069-0 [doi]",
+          "69 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cogn Res Princ Implic. 2017;2(1):34. doi: 10.1186/s41235-017-0069-0. Epub 2017 Aug 23.",
+     "term": "spatial navigation"
+}

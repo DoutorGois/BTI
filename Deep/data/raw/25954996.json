@@ -1,0 +1,75 @@
+{
+     "PMID": "25954996",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160418",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "11",
+     "IP": "5",
+     "DP": "2015 May",
+     "TI": "Memory storage fidelity in the hippocampal circuit: the role of subregions and input statistics.",
+     "PG": "e1004250",
+     "LID": "10.1371/journal.pcbi.1004250 [doi]",
+     "AB": "In the last decades a standard model regarding the function of the hippocampus in memory formation has been established and tested computationally. It has been argued that the CA3 region works as an auto-associative memory and that its recurrent fibers are the actual storing place of the memories. Furthermore, to work properly CA3 requires memory patterns that are mutually uncorrelated. It has been suggested that the dentate gyrus orthogonalizes the patterns before storage, a process known as pattern separation. In this study we review the model when random input patterns are presented for storage and investigate whether it is capable of storing patterns of more realistic entorhinal grid cell input. Surprisingly, we find that an auto-associative CA3 net is redundant for random inputs up to moderate noise levels and is only beneficial at high noise levels. When grid cell input is presented, auto-association is even harmful for memory performance at all levels. Furthermore, we find that Hebbian learning in the dentate gyrus does not support its function as a pattern separator. These findings challenge the standard framework and support an alternative view where the simpler EC-CA1-EC network is sufficient for memory storage.",
+     "FAU": [
+          "Neher, Torsten",
+          "Cheng, Sen",
+          "Wiskott, Laurenz"
+     ],
+     "AU": [
+          "Neher T",
+          "Cheng S",
+          "Wiskott L"
+     ],
+     "AD": "International Graduate School Neuroscience, Ruhr-University Bochum, Bochum, Germany; Institute for Neural Computation, Ruhr-University Bochum, Bochum, Germany. International Graduate School Neuroscience, Ruhr-University Bochum, Bochum, Germany; Mercator Research Group 'Structure of Memory', Department of Psychology, Ruhr-University Bochum, Bochum, Germany. International Graduate School Neuroscience, Ruhr-University Bochum, Bochum, Germany; Institute for Neural Computation, Ruhr-University Bochum, Bochum, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150508",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "CA1 Region, Hippocampal/physiology",
+          "CA3 Region, Hippocampal/physiology",
+          "Computational Biology",
+          "Dentate Gyrus/physiology",
+          "Entorhinal Cortex/physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Learning/physiology",
+          "Memory/*physiology",
+          "Mental Recall/physiology",
+          "*Models, Neurological",
+          "*Models, Psychological"
+     ],
+     "PMC": "PMC4425359",
+     "EDAT": "2015/05/09 06:00",
+     "MHDA": "2016/04/19 06:00",
+     "CRDT": [
+          "2015/05/09 06:00"
+     ],
+     "PHST": [
+          "2014/09/22 00:00 [received]",
+          "2015/03/19 00:00 [accepted]",
+          "2015/05/09 06:00 [entrez]",
+          "2015/05/09 06:00 [pubmed]",
+          "2016/04/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1004250 [doi]",
+          "PCOMPBIOL-D-14-01731 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2015 May 8;11(5):e1004250. doi: 10.1371/journal.pcbi.1004250. eCollection 2015 May.",
+     "term": "hippocampus"
+}

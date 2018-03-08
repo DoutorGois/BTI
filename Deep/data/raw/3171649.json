@@ -1,0 +1,58 @@
+{
+     "PMID": "3171649",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19881123",
+     "LR": "20171213",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "60",
+     "IP": "2",
+     "DP": "1988 Aug",
+     "TI": "Theory of dynamic similarity in neuronal systems.",
+     "PG": "751-68",
+     "AB": "1. The techniques of dynamic similarity from the engineering science of fluid mechanics are applied to neuronal systems to suggest how to scale down critical parameters (such as numbers of constituent cells and synapses, synaptic strengths, thresholds, etc.) from naturally occurring systems to computer models. 2. The interconnectivity of a prototypical neuronal junction is defined in terms of the total number of projecting fibers, receiving cells, synapses, and directly connected cell fiber pairs. Critical derivative parameters are defined in terms of these, including: a global convergence factor, alpha ij, which is the ratio of the numbers of projecting fibers to receiving cells; and an interconnectivity completeness parameter or microscopic convergence/divergence parameter, gamma ij, which measures both the percentage of cells to which a given sending fiber projects (and the percentage of fibers from which a given cell receives) and the percentage of cell fiber combinations which are directly connected. 3. Analysis of the differential equations governing neuroelectric activity in constituent neurons suggests the definition of a sensitivity parameter complex, sigma ij (with components eta ij and mu ij) for each ij junction. These numbers represent the ratio of synaptic drive to current leakage in nonactive neurons. 4. A model for quasi-steady firing suggests the definition of a parameter, rho *j, which may be used to characterize the level of activity in a given neuronal population in terms of its synaptic drive and system parameters. It may be considered as the neuronal analog of the Reynolds number in fluid mechanics. 5. The analysis implies that computer models of neuronal systems should be scaled so as to keep the parameters alpha ij, gamma ij, and sigma ij for every junction at the same values as in the corresponding junctions of naturally occurring system being modeled. Equations for a scaling factor, chi, numbers of constituent synapses, thresholds, etc., are provided. The scaling method is illustrated by a computer simulation example and by application to the junction of the perforant path fibers to the granule cells of the hippocampus. 6. The analysis shows that there is a fundamental trade-off in scaled down computer models between verisimilitude at the level of network interconnectivity and verisimilitude at the level of individual neuronal dynamics. 7. The approach of dynamic similarity is discussed with respect to compression of free parameters and predictive comparison of naturally occurring systems.",
+     "FAU": [
+          "MacGregor, R J",
+          "Tajchman, G"
+     ],
+     "AU": [
+          "MacGregor RJ",
+          "Tajchman G"
+     ],
+     "AD": "Aerospace Engineering Sciences, University of Colorado, Boulder 80309-0429.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Mathematics",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Synapses/*physiology"
+     ],
+     "EDAT": "1988/08/01 00:00",
+     "MHDA": "1988/08/01 00:01",
+     "CRDT": [
+          "1988/08/01 00:00"
+     ],
+     "PHST": [
+          "1988/08/01 00:00 [pubmed]",
+          "1988/08/01 00:01 [medline]",
+          "1988/08/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1152/jn.1988.60.2.751 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 1988 Aug;60(2):751-68. doi: 10.1152/jn.1988.60.2.751.",
+     "term": "hippocampus"
+}

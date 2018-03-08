@@ -1,0 +1,75 @@
+{
+     "PMID": "12034331",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20020910",
+     "LR": "20151119",
+     "IS": "1385-299X (Print) 1385-299X (Linking)",
+     "VI": "9",
+     "IP": "2",
+     "DP": "2002 Apr",
+     "TI": "Recording and marking with silicon multichannel electrodes.",
+     "PG": "122-9",
+     "AB": "This protocol describes an implementation of recording and analysis of evoked potentials in the hippocampal cortex, combined with lesioning using multichannel silicon probes. Multichannel recording offers the advantage of capturing a potential field at one instant in time. The potentials are then subjected to current source density (CSD) analysis, to reveal the layer-by-layer current sources and sinks. Signals from each channel of a silicon probe (maximum 16 channels in this study) were amplified and digitized at up to 40 kHz after sample-and-hold circuits. A modular lesion circuit board could be inserted between the input preamplifiers and the silicon probe, such that any one of the 16 electrodes could be connected to a DC lesion current. By making a lesion at the electrode showing a physiological event of interest, the anatomical location of the event can be precisely identified, as shown for the distal dendritic current sink in CA1 following medial perforant path stimulation. Making two discrete lesions through the silicon probe is useful to indicate the degree of tissue shrinkage during histological procedures. In addition, potential/CSD profiles were stable following small movements of the silicon probe, suggesting that the probe did not cause excessive damage to the brain.",
+     "FAU": [
+          "Townsend, George",
+          "Peloquin, Pascal",
+          "Kloosterman, Fabian",
+          "Hetke, Jamille F",
+          "Leung, L Stan"
+     ],
+     "AU": [
+          "Townsend G",
+          "Peloquin P",
+          "Kloosterman F",
+          "Hetke JF",
+          "Leung LS"
+     ],
+     "AD": "Department of Computer Science, Algoma University College, Sault Ste. Marie, Ontario, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "Brain Res Brain Res Protoc",
+     "JT": "Brain research. Brain research protocols",
+     "JID": "9716650",
+     "RN": [
+          "0 (Silicones)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Dendrites/physiology/ultrastructure",
+          "Denervation/instrumentation/methods",
+          "Electric Stimulation/methods",
+          "Electrodes/*standards",
+          "Electrophysiology/*instrumentation/methods",
+          "Evoked Potentials/*physiology",
+          "Hippocampus/cytology/*physiology",
+          "Neurons/cytology/*physiology",
+          "Rats",
+          "Rats, Inbred Strains",
+          "Reaction Time/physiology",
+          "Signal Processing, Computer-Assisted/*instrumentation",
+          "*Silicones"
+     ],
+     "EDAT": "2002/05/30 10:00",
+     "MHDA": "2002/09/11 10:01",
+     "CRDT": [
+          "2002/05/30 10:00"
+     ],
+     "PHST": [
+          "2002/05/30 10:00 [pubmed]",
+          "2002/09/11 10:01 [medline]",
+          "2002/05/30 10:00 [entrez]"
+     ],
+     "AID": [
+          "S1385299X02001393 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Res Brain Res Protoc. 2002 Apr;9(2):122-9.",
+     "term": "hippocampus"
+}

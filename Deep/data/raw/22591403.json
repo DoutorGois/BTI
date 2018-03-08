@@ -1,0 +1,85 @@
+{
+     "PMID": "22591403",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121001",
+     "LR": "20121115",
+     "IS": "1525-1594 (Electronic) 0160-564X (Linking)",
+     "VI": "36",
+     "IP": "6",
+     "DP": "2012 Jun",
+     "TI": "A quantitative metric for pattern fidelity of bioprinted cocultures.",
+     "PG": "E151-62",
+     "LID": "10.1111/j.1525-1594.2012.01460.x [doi]",
+     "AB": "This article describes a quantitative metric for coculture pattern fidelity and its use in the assessment of bioprinting systems. Increasingly, bioprinting is used to create in vitro cell and tissue models for the purpose of studying cell behavior and cell-cell interaction. To create meaningful models, a bioprinting system must be able to place cells in biologically relevant patterns with sufficient fidelity. A metric for assessing fidelity would be valuable for tuning experimental processes and parameters within a bioprinting system and for comparing performance between different systems. Toward this end, the \"bioprinting fidelity index\" (BFI), a metric which rates a bioprinted patterned coculture with a single number based on the proportions of correctly placed cells, is proposed. Additionally, a mathematical model of drop-on-demand printing is introduced, which predicts an upper bound on the BFI based on drop placement statistics. A proof-of-concept study was conducted in which patterned cocultures of D1 and 4T07 cells were produced in two different demonstration patterns. The BFI for the patterned cocultures was calculated and compared to the printing model fidelity prediction. The printing model successfully predicted the best BFI observed in the samples, and the BFI showed quantitatively that post-processing techniques negatively impacted the final fidelity of the samples. The BFI provides a principled method for comparing printing and post-processing methods.",
+     "CI": [
+          "(c) 2012, Copyright the Authors. Artificial Organs (c) 2012, International Center",
+          "for Artificial Organs and Transplantation and Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Pepper, Matthew E",
+          "Groff, Richard E",
+          "Cass, Cheryl A P",
+          "Mattimore, Justin P",
+          "Burg, Timothy",
+          "Burg, Karen J L"
+     ],
+     "AU": [
+          "Pepper ME",
+          "Groff RE",
+          "Cass CA",
+          "Mattimore JP",
+          "Burg T",
+          "Burg KJ"
+     ],
+     "AD": "Departments of Electrical and Computer Engineering Bioengineering, Institute for Biological Interfaces of Engineering, Clemson University, Clemson, SC 29634, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20120516",
+     "PL": "United States",
+     "TA": "Artif Organs",
+     "JT": "Artificial organs",
+     "JID": "7802778",
+     "RN": [
+          "9007-34-5 (Collagen)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Breast/cytology",
+          "Cell Line",
+          "Cell Line, Tumor",
+          "Coculture Techniques/*instrumentation",
+          "Collagen/chemistry",
+          "Equipment Design",
+          "Female",
+          "Mesenchymal Stromal Cells/cytology",
+          "Mice",
+          "*Models, Biological",
+          "Models, Statistical",
+          "Tissue Array Analysis/*instrumentation",
+          "Tissue Engineering/instrumentation",
+          "Tissue Scaffolds/chemistry"
+     ],
+     "EDAT": "2012/05/18 06:00",
+     "MHDA": "2012/10/02 06:00",
+     "CRDT": [
+          "2012/05/18 06:00"
+     ],
+     "PHST": [
+          "2012/05/18 06:00 [entrez]",
+          "2012/05/18 06:00 [pubmed]",
+          "2012/10/02 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/j.1525-1594.2012.01460.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Artif Organs. 2012 Jun;36(6):E151-62. doi: 10.1111/j.1525-1594.2012.01460.x. Epub 2012 May 16.",
+     "term": "place cells"
+}

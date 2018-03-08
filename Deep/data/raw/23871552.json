@@ -1,0 +1,74 @@
+{
+     "PMID": "23871552",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140411",
+     "LR": "20130923",
+     "IS": "1879-2448 (Electronic) 0043-1354 (Linking)",
+     "VI": "47",
+     "IP": "15",
+     "DP": "2013 Oct 1",
+     "TI": "An improved cellular automaton method to model multispecies biofilms.",
+     "PG": "5729-42",
+     "LID": "10.1016/j.watres.2013.06.055 [doi] S0043-1354(13)00558-7 [pii]",
+     "AB": "Biomass-spreading rules used in previous cellular automaton methods to simulate multispecies biofilm introduced extensive mixing between different biomass species or resulted in spatially discontinuous biomass concentration and distribution; this caused results based on the cellular automaton methods to deviate from experimental results and those from the more computationally intensive continuous method. To overcome the problems, we propose new biomass-spreading rules in this work: Excess biomass spreads by pushing a line of grid cells that are on the shortest path from the source grid cell to the destination grid cell, and the fractions of different biomass species in the grid cells on the path change due to the spreading. To evaluate the new rules, three two-dimensional simulation examples are used to compare the biomass distribution computed using the continuous method and three cellular automaton methods, one based on the new rules and the other two based on rules presented in two previous studies. The relationship between the biomass species is syntrophic in one example and competitive in the other two examples. Simulation results generated using the cellular automaton method based on the new rules agree much better with the continuous method than do results using the other two cellular automaton methods. The new biomass-spreading rules are no more complex to implement than the existing rules.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Tang, Youneng",
+          "Valocchi, Albert J"
+     ],
+     "AU": [
+          "Tang Y",
+          "Valocchi AJ"
+     ],
+     "AD": "Department of Civil & Environmental Engineering, University of Illinois at Urbana-Champaign, 205 North Mathews Avenue, Urbana, IL 61801, USA. Electronic address: tayone0916@gmail.com.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20130706",
+     "PL": "England",
+     "TA": "Water Res",
+     "JT": "Water research",
+     "JID": "0105072",
+     "SB": "IM",
+     "MH": [
+          "Biofilms/*growth & development",
+          "*Biomass",
+          "*Models, Theoretical"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Biofilm model",
+          "Biomass-spreading rule",
+          "Cellular automaton",
+          "Multispecies"
+     ],
+     "EDAT": "2013/07/23 06:00",
+     "MHDA": "2014/04/12 06:00",
+     "CRDT": [
+          "2013/07/23 06:00"
+     ],
+     "PHST": [
+          "2013/03/05 00:00 [received]",
+          "2013/06/16 00:00 [revised]",
+          "2013/06/27 00:00 [accepted]",
+          "2013/07/23 06:00 [entrez]",
+          "2013/07/23 06:00 [pubmed]",
+          "2014/04/12 06:00 [medline]"
+     ],
+     "AID": [
+          "S0043-1354(13)00558-7 [pii]",
+          "10.1016/j.watres.2013.06.055 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Water Res. 2013 Oct 1;47(15):5729-42. doi: 10.1016/j.watres.2013.06.055. Epub 2013 Jul 6.",
+     "term": "grid cells"
+}

@@ -1,0 +1,71 @@
+{
+     "PMID": "24453312",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140311",
+     "LR": "20140123",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "34",
+     "IP": "4",
+     "DP": "2014 Jan 22",
+     "TI": "Active dendrites regulate spectral selectivity in location-dependent spike initiation dynamics of hippocampal model neurons.",
+     "PG": "1195-211",
+     "LID": "10.1523/JNEUROSCI.3203-13.2014 [doi]",
+     "AB": "How does the presence of plastic active dendrites in a pyramidal neuron alter its spike initiation dynamics? To answer this question, we measured the spike-triggered average (STA) from experimentally constrained, conductance-based hippocampal neuronal models of various morphological complexities. We transformed the STA computed from these models to the spectral and the spectrotemporal domains and found that the spike initiation dynamics exhibited temporally localized selectivity to a characteristic frequency. In the presence of the hyperpolarization-activated cyclic nucleotide-gated (HCN) channels, the STA characteristic frequency strongly correlated with the subthreshold resonance frequency in the theta frequency range. Increases in HCN channel density or in input variance increased the STA characteristic frequency and its selectivity strength. In the absence of HCN channels, the STA exhibited weak delta frequency selectivity and the characteristic frequency was related to the repolarization dynamics of the action potentials and the recovery kinetics of sodium channels from inactivation. Comparison of STA obtained with inputs at various dendritic locations revealed that nonspiking and spiking dendrites increased and reduced the spectrotemporal integration window of the STA with increasing distance from the soma as direct consequences of passive filtering and dendritic spike initiation, respectively. Finally, the presence of HCN channels set the STA characteristic frequency in the theta range across the somatodendritic arbor and specific STA measurements were strongly related to equivalent transfer-impedance-related measurements. Our results identify explicit roles for plastic active dendrites in neural coding and strongly recommend a dynamically reconfigurable multi-STA model to characterize location-dependent input feature selectivity in pyramidal neurons.",
+     "FAU": [
+          "Das, Anindita",
+          "Narayanan, Rishikesh"
+     ],
+     "AU": [
+          "Das A",
+          "Narayanan R"
+     ],
+     "AD": "Cellular Neurophysiology Laboratory, Molecular Biophysics Unit, Indian Institute of Science, Bangalore 560012, India.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Dendrites/*physiology",
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "Neuronal Plasticity/*physiology",
+          "Pyramidal Cells/physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "HCN channels",
+          "active dendrites",
+          "hippocampus",
+          "intrinsic plasticity",
+          "spike initiation dynamics",
+          "spike-triggered average"
+     ],
+     "EDAT": "2014/01/24 06:00",
+     "MHDA": "2014/03/13 06:00",
+     "CRDT": [
+          "2014/01/24 06:00"
+     ],
+     "PHST": [
+          "2014/01/24 06:00 [entrez]",
+          "2014/01/24 06:00 [pubmed]",
+          "2014/03/13 06:00 [medline]"
+     ],
+     "AID": [
+          "34/4/1195 [pii]",
+          "10.1523/JNEUROSCI.3203-13.2014 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2014 Jan 22;34(4):1195-211. doi: 10.1523/JNEUROSCI.3203-13.2014.",
+     "term": "hippocampus"
+}

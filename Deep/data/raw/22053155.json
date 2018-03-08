@@ -1,0 +1,72 @@
+{
+     "PMID": "22053155",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20111110",
+     "LR": "20170220",
+     "IS": "1662-5196 (Electronic) 1662-5196 (Linking)",
+     "VI": "5",
+     "DP": "2011",
+     "TI": "Knowledge synthesis with maps of neural connectivity.",
+     "PG": "24",
+     "LID": "10.3389/fninf.2011.00024 [doi]",
+     "AB": "This paper describes software for neuroanatomical knowledge synthesis based on neural connectivity data. This software supports a mature methodology developed since the early 1990s. Over this time, the Swanson laboratory at USC has generated an account of the neural connectivity of the sub-structures of the hypothalamus, amygdala, septum, hippocampus, and bed nucleus of the stria terminalis. This is based on neuroanatomical data maps drawn into a standard brain atlas by experts. In earlier work, we presented an application for visualizing and comparing anatomical macro connections using the Swanson third edition atlas as a framework for accurate registration. Here we describe major improvements to the NeuARt application based on the incorporation of a knowledge representation of experimental design. We also present improvements in the interface and features of the data mapping components within a unified web-application. As a step toward developing an accurate sub-regional account of neural connectivity, we provide navigational access between the data maps and a semantic representation of area-to-area connections that they support. We do so based on an approach called \"Knowledge Engineering from Experimental Design\" (KEfED) model that is based on experimental variables. We have extended the underlying KEfED representation of tract-tracing experiments by incorporating the definition of a neuronanatomical data map as a measurement variable in the study design. This paper describes the software design of a web-application that allows anatomical data sets to be described within a standard experimental context and thus indexed by non-spatial experimental design features.",
+     "FAU": [
+          "Tallis, Marcelo",
+          "Thompson, Richard",
+          "Russ, Thomas A",
+          "Burns, Gully A P C"
+     ],
+     "AU": [
+          "Tallis M",
+          "Thompson R",
+          "Russ TA",
+          "Burns GA"
+     ],
+     "AD": "Information Sciences Institute, University of Southern California Marina del Rey, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 GM083871/GM/NIGMS NIH HHS/United States",
+          "R01 MH079068/MH/NIMH NIH HHS/United States",
+          "U24 GM104203/GM/NIGMS NIH HHS/United States",
+          "U24 RR025736/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20111101",
+     "PL": "Switzerland",
+     "TA": "Front Neuroinform",
+     "JT": "Frontiers in neuroinformatics",
+     "JID": "101477957",
+     "PMC": "PMC3205380",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "knowledge engineering",
+          "neural connectivity",
+          "neuroanatomical mapping",
+          "tract-tracing"
+     ],
+     "EDAT": "2011/11/05 06:00",
+     "MHDA": "2011/11/05 06:01",
+     "CRDT": [
+          "2011/11/05 06:00"
+     ],
+     "PHST": [
+          "2011/04/01 00:00 [received]",
+          "2011/10/13 00:00 [accepted]",
+          "2011/11/05 06:00 [entrez]",
+          "2011/11/05 06:00 [pubmed]",
+          "2011/11/05 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fninf.2011.00024 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neuroinform. 2011 Nov 1;5:24. doi: 10.3389/fninf.2011.00024. eCollection 2011.",
+     "term": "hippocampus"
+}

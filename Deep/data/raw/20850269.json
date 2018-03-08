@@ -1,0 +1,87 @@
+{
+     "PMID": "20850269",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110330",
+     "LR": "20101201",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "24",
+     "IP": "1",
+     "DP": "2011 Jan",
+     "TI": "A mathematical model for Cantor coding in the hippocampus.",
+     "PG": "43-53",
+     "LID": "10.1016/j.neunet.2010.08.006 [doi]",
+     "AB": "Recent studies suggest that the hippocampus is crucial for memory of sequentially organized information. Cantor coding in hippocampal CA1 is theoretically hypothesized to provide a scheme for encoding temporal sequences of events. Here, in order to investigate this Cantor coding in detail, we construct a CA1 network model consisting of conductance-based model neurons. It is assumed that CA3 outputs temporal sequences of spatial patterns to CA1. We examine the dependence of output patterns of CA1 neurons on input time series by taking each output and combining it with an input sequence. It is shown that the output patterns of CA1 were hierarchically clustered in a self-similar manner according to the similarity of input temporal sequences. The population dynamics of the network can be well approximated by a set of contractive affine transformations, which forms a Cantor set. Furthermore, it is shown that the performance of the encoding scheme sensitively depends on the interval of input sequences. The bursting neurons with NMDA synapses are effective for encoding sequential input with long (over 150 ms) intervals while the non-bursting neurons with AMPA synapses are effective for encoding input with short (less than 30 ms) intervals.",
+     "CI": [
+          "Copyright (c) 2010 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Yamaguti, Yutaka",
+          "Kuroda, Shigeru",
+          "Fukushima, Yasuhiro",
+          "Tsukada, Minoru",
+          "Tsuda, Ichiro"
+     ],
+     "AU": [
+          "Yamaguti Y",
+          "Kuroda S",
+          "Fukushima Y",
+          "Tsukada M",
+          "Tsuda I"
+     ],
+     "AD": "Research Institute for Electronic Science, Hokkaido University, Kita-ku, Sapporo, Hokkaido, Japan. yamaguchi@math.sci.hokudai.ac.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100917",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "RN": [
+          "0 (Excitatory Amino Acid Agonists)",
+          "6384-92-5 (N-Methylaspartate)",
+          "77521-29-0 (alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "CA1 Region, Hippocampal/*cytology/*physiology",
+          "Discriminant Analysis",
+          "Excitatory Amino Acid Agonists/pharmacology",
+          "*Mathematical Computing",
+          "*Models, Neurological",
+          "N-Methylaspartate/pharmacology",
+          "Nerve Net/drug effects/physiology",
+          "Neural Pathways/drug effects/physiology",
+          "Pyramidal Cells/*physiology",
+          "Synapses/drug effects/physiology",
+          "Time Factors",
+          "alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid/pharmacology"
+     ],
+     "EDAT": "2010/09/21 06:00",
+     "MHDA": "2011/03/31 06:00",
+     "CRDT": [
+          "2010/09/21 06:00"
+     ],
+     "PHST": [
+          "2009/11/05 00:00 [received]",
+          "2010/08/13 00:00 [revised]",
+          "2010/08/23 00:00 [accepted]",
+          "2010/09/21 06:00 [entrez]",
+          "2010/09/21 06:00 [pubmed]",
+          "2011/03/31 06:00 [medline]"
+     ],
+     "AID": [
+          "S0893-6080(10)00157-7 [pii]",
+          "10.1016/j.neunet.2010.08.006 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2011 Jan;24(1):43-53. doi: 10.1016/j.neunet.2010.08.006. Epub 2010 Sep 17.",
+     "term": "hippocampus"
+}

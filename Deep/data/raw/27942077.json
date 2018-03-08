@@ -1,0 +1,86 @@
+{
+     "PMID": "27942077",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20170816",
+     "IS": "0031-3203 (Print) 0031-3203 (Linking)",
+     "VI": "63",
+     "DP": "2017 Mar",
+     "TI": "Robust multi-atlas label propagation by deep sparse representation.",
+     "PG": "511-517",
+     "AB": "Recently, multi-atlas patch-based label fusion has achieved many successes in medical imaging area. The basic assumption in the current state-of-the-art approaches is that the image patch at the target image point can be represented by a patch dictionary consisting of atlas patches from registered atlas images. Therefore, the label at the target image point can be determined by fusing labels of atlas image patches with similar anatomical structures. However, such assumption on image patch representation does not always hold in label fusion since (1) the image content within the patch may be corrupted due to noise and artifact; and (2) the distribution of morphometric patterns among atlas patches might be unbalanced such that the majority patterns can dominate label fusion result over other minority patterns. The violation of the above basic assumptions could significantly undermine the label fusion accuracy. To overcome these issues, we first consider forming label-specific group for the atlas patches with the same label. Then, we alter the conventional flat and shallow dictionary to a deep multi-layer structure, where the top layer (label-specific dictionaries) consists of groups of representative atlas patches and the subsequent layers (residual dictionaries) hierarchically encode the patchwise residual information in different scales. Thus, the label fusion follows the representation consensus across representative dictionaries. However, the representation of target patch in each group is iteratively optimized by using the representative atlas patches in each label-specific dictionary exclusively to match the principal patterns and also using all residual patterns across groups collaboratively to overcome the issue that some groups might be absent of certain variation patterns presented in the target image patch. Promising segmentation results have been achieved in labeling hippocampus on ADNI dataset, as well as basal ganglia and brainstem structures, compared to other counterpart label fusion methods.",
+     "FAU": [
+          "Zu, Chen",
+          "Wang, Zhengxia",
+          "Zhang, Daoqiang",
+          "Liang, Peipeng",
+          "Shi, Yonghong",
+          "Shen, Dinggang",
+          "Wu, Guorong"
+     ],
+     "AU": [
+          "Zu C",
+          "Wang Z",
+          "Zhang D",
+          "Liang P",
+          "Shi Y",
+          "Shen D",
+          "Wu G"
+     ],
+     "AD": "Department of Radiology and BRIC, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA; College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA; Department of Information Science and Engineering, Chongqing Jiaotong University, Chongqing 400074, China. College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China. Department of Radiology, Xuanwu Hospital, Capital Medical University, Beijing 100053, China. Digital Medical Research Center, School of Basic Medical Science, Fudan University, Shanghai 200032, China; Shanghai Key Laboratory of Medical Image Computing and Computer-Assisted Intervention, Shanghai 200032, China. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA; Department of Brain and Cognitive Engineering, Korea University, Seoul 02841, Republic of Korea. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB008374/EB/NIBIB NIH HHS/United States",
+          "K01 AG049089/AG/NIA NIH HHS/United States",
+          "R01 EB006733/EB/NIBIB NIH HHS/United States",
+          "R01 AG041721/AG/NIA NIH HHS/United States",
+          "R01 CA140413/CA/NCI NIH HHS/United States",
+          "R01 AG049371/AG/NIA NIH HHS/United States",
+          "R01 AG042599/AG/NIA NIH HHS/United States",
+          "R01 EB009634/EB/NIBIB NIH HHS/United States",
+          "R01 MH100217/MH/NIMH NIH HHS/United States",
+          "R21 HD081467/HD/NICHD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160921",
+     "PL": "England",
+     "TA": "Pattern Recognit",
+     "JT": "Pattern recognition",
+     "JID": "0250655",
+     "PMC": "PMC5144541",
+     "MID": [
+          "NIHMS833082"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Hierarchical sparse representation",
+          "Multi-atlas segmentation",
+          "Patch-based label fusion"
+     ],
+     "EDAT": "2016/12/13 06:00",
+     "MHDA": "2016/12/13 06:01",
+     "CRDT": [
+          "2016/12/13 06:00"
+     ],
+     "PMCR": [
+          "2017/03/01 00:00"
+     ],
+     "PHST": [
+          "2017/03/01 00:00 [pmc-release]",
+          "2016/12/13 06:00 [entrez]",
+          "2016/12/13 06:00 [pubmed]",
+          "2016/12/13 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1016/j.patcog.2016.09.028 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Pattern Recognit. 2017 Mar;63:511-517. doi: 10.1016/j.patcog.2016.09.028. Epub 2016 Sep 21.",
+     "term": "hippocampus"
+}

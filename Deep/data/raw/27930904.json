@@ -1,0 +1,98 @@
+{
+     "PMID": "27930904",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170717",
+     "LR": "20180112",
+     "IS": "1097-4199 (Electronic) 0896-6273 (Linking)",
+     "VI": "92",
+     "IP": "5",
+     "DP": "2016 Dec 7",
+     "TI": "Computations Underlying Social Hierarchy Learning: Distinct Neural Mechanisms for Updating and Representing Self-Relevant Information.",
+     "PG": "1135-1147",
+     "LID": "S0896-6273(16)30802-9 [pii] 10.1016/j.neuron.2016.10.052 [doi]",
+     "AB": "Knowledge about social hierarchies organizes human behavior, yet we understand little about the underlying computations. Here we show that a Bayesian inference scheme, which tracks the power of individuals, better captures behavioral and neural data compared with a reinforcement learning model inspired by rating systems used in games such as chess. We provide evidence that the medial prefrontal cortex (MPFC) selectively mediates the updating of knowledge about one's own hierarchy, as opposed to that of another individual, a process that underpinned successful performance and involved functional interactions with the amygdala and hippocampus. In contrast, we observed domain-general coding of rank in the amygdala and hippocampus, even when the task did not require it. Our findings reveal the computations underlying a core aspect of social cognition and provide new evidence that self-relevant information may indeed be afforded a unique representational status in the brain.",
+     "CI": [
+          "Copyright A(c) 2016 The Authors. Published by Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Kumaran, Dharshan",
+          "Banino, Andrea",
+          "Blundell, Charles",
+          "Hassabis, Demis",
+          "Dayan, Peter"
+     ],
+     "AU": [
+          "Kumaran D",
+          "Banino A",
+          "Blundell C",
+          "Hassabis D",
+          "Dayan P"
+     ],
+     "AD": "Google DeepMind, 5 New Street Square, London EC4A 3TW, UK; Institute of Cognitive Neuroscience, University College London, 17 Queen Square, London WC1N 3AR, UK. Electronic address: dkumaran@google.com. Google DeepMind, 5 New Street Square, London EC4A 3TW, UK. Google DeepMind, 5 New Street Square, London EC4A 3TW, UK. Google DeepMind, 5 New Street Square, London EC4A 3TW, UK; Gatsby Computational Neuroscience Unit, 25 Howland Street, London W1T 4JG, UK. Gatsby Computational Neuroscience Unit, 25 Howland Street, London W1T 4JG, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Neuron",
+     "JT": "Neuron",
+     "JID": "8809320",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Amygdala/diagnostic imaging/*physiology",
+          "Bayes Theorem",
+          "Brain/diagnostic imaging/physiology",
+          "Female",
+          "Functional Neuroimaging",
+          "*Hierarchy, Social",
+          "Hippocampus/diagnostic imaging/*physiology",
+          "Humans",
+          "Learning/*physiology",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Models, Neurological",
+          "Models, Psychological",
+          "Neural Pathways/diagnostic imaging/physiology",
+          "Prefrontal Cortex/diagnostic imaging/*physiology",
+          "Reinforcement (Psychology)",
+          "*Self Concept",
+          "Young Adult"
+     ],
+     "PMC": "PMC5158095",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Bayesian",
+          "hippocampus",
+          "learning",
+          "memory",
+          "prefrontal cortex",
+          "reinforcement learning",
+          "social hierarchy"
+     ],
+     "EDAT": "2016/12/09 06:00",
+     "MHDA": "2017/07/18 06:00",
+     "CRDT": [
+          "2016/12/09 06:00"
+     ],
+     "PHST": [
+          "2016/07/10 00:00 [received]",
+          "2016/09/17 00:00 [revised]",
+          "2016/10/21 00:00 [accepted]",
+          "2016/12/09 06:00 [entrez]",
+          "2016/12/09 06:00 [pubmed]",
+          "2017/07/18 06:00 [medline]"
+     ],
+     "AID": [
+          "S0896-6273(16)30802-9 [pii]",
+          "10.1016/j.neuron.2016.10.052 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuron. 2016 Dec 7;92(5):1135-1147. doi: 10.1016/j.neuron.2016.10.052.",
+     "term": "hippocampus"
+}

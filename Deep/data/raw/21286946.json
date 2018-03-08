@@ -1,0 +1,80 @@
+{
+     "PMID": "21286946",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120813",
+     "LR": "20170220",
+     "IS": "1559-0089 (Electronic) 1539-2791 (Linking)",
+     "VI": "9",
+     "IP": "4",
+     "DP": "2011 Dec",
+     "TI": "Dataset of magnetic resonance images of nonepileptic subjects and temporal lobe epilepsy patients for validation of hippocampal segmentation techniques.",
+     "PG": "335-46",
+     "LID": "10.1007/s12021-010-9096-4 [doi]",
+     "AB": "The hippocampus has become the focus of research in several neurodegenerative disorders. Automatic segmentation of this structure from magnetic resonance (MR) imaging scans of the brain facilitates this work. Segmentation techniques must be evaluated using a dataset of MR images with accurate hippocampal outlines generated manually. Manual segmentation is not a trivial task. Lack of a unique segmentation protocol and poor image quality are only two factors that have confounded the consistency required for comparative study. We have developed a publicly available dataset of T1-weighted (T1W) MR images of epileptic and nonepileptic subjects along with their hippocampal outlines to provide a means of evaluation of segmentation techniques. This dataset contains 50 T1W MR images, 40 epileptic and ten nonepileptic. All images were manually segmented by a widely used protocol. Twenty five images were selected for training and were provided with hippocampal labels. Twenty five other images were provided without labels for testing algorithms. The users are allowed to evaluate their generated labels for the test images using 11 segmentation similarity metrics. Using this dataset, we evaluated two segmentation algorithms, Brain Parser and Classifier Fusion and Labeling (CFL), trained by the training set. For Brain Parser, an average Dice coefficient of 0.64 was obtained with the testing set. For CFL, this value was 0.75. Such findings indicate a need for further improvement of segmentation algorithms in order to enhance reliability.",
+     "FAU": [
+          "Jafari-Khouzani, Kourosh",
+          "Elisevich, Kost V",
+          "Patel, Suresh",
+          "Soltanian-Zadeh, Hamid"
+     ],
+     "AU": [
+          "Jafari-Khouzani K",
+          "Elisevich KV",
+          "Patel S",
+          "Soltanian-Zadeh H"
+     ],
+     "AD": "Department of Diagnostic Radiology, Henry Ford Hospital, Detroit, MI 48202, USA. kjafari@rad.hfh.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB002450/EB/NIBIB NIH HHS/United States",
+          "EB002450/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Epilepsy, Temporal Lobe/*diagnosis/pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Pattern Recognition, Automated/*methods",
+          "Young Adult"
+     ],
+     "PMC": "PMC4501402",
+     "MID": [
+          "NIHMS502920"
+     ],
+     "EDAT": "2011/02/03 06:00",
+     "MHDA": "2012/08/14 06:00",
+     "CRDT": [
+          "2011/02/03 06:00"
+     ],
+     "PHST": [
+          "2011/02/03 06:00 [entrez]",
+          "2011/02/03 06:00 [pubmed]",
+          "2012/08/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s12021-010-9096-4 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2011 Dec;9(4):335-46. doi: 10.1007/s12021-010-9096-4.",
+     "term": "hippocampus"
+}

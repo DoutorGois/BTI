@@ -1,0 +1,65 @@
+{
+     "PMID": "12424297",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030114",
+     "LR": "20081121",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "88",
+     "IP": "5",
+     "DP": "2002 Nov",
+     "TI": "Noise and coupling affect signal detection and bursting in a simulated physiological neural network.",
+     "PG": "2598-611",
+     "AB": "Signal detection in the CNS relies on a complex interaction between the numerous synaptic inputs to the detecting cells. Two effects, stochastic resonance (SR) and coherence resonance (CR) have been shown to affect signal detection in arrays of basic neuronal models. Here, an array of simulated hippocampal CA1 neurons was used to test the hypothesis that physiological noise and electrical coupling can interact to modulate signal detection in the CA1 region of the hippocampus. The array was tested using varying levels of coupling and noise with different input signals. Detection of a subthreshold signal in the network improved as the number of detecting cells increased and as coupling was increased as predicted by previous studies in SR; however, the response depended greatly on the noise characteristics present and varied from SR predictions at times. Careful evaluation of noise characteristics may be necessary to form conclusions about the role of SR in complex systems such as physiological neurons. The coupled array fired synchronous, periodic bursts when presented with noise alone. The synchrony of this firing changed as a function of noise and coupling as predicted by CR. The firing was very similar to certain models of epileptiform activity, leading to a discussion of CR as a possible simple model of epilepsy. A single neuron was unable to recruit its neighbors to a periodic signal unless the signal was very close to the synchronous bursting frequency. These findings, when viewed in comparison with physiological parameters in the hippocampus, suggest that both SR and CR can have significant effects on signal processing in vivo.",
+     "FAU": [
+          "Stacey, William C",
+          "Durand, Dominique M"
+     ],
+     "AU": [
+          "Stacey WC",
+          "Durand DM"
+     ],
+     "AD": "Department of Biomedical Engineering, Case Western Reserve University, Ohio 44106, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "Electrophysiology",
+          "Hippocampus/physiology",
+          "*Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Noise/*adverse effects",
+          "Rats",
+          "Recruitment, Neurophysiological/physiology",
+          "Signal Detection, Psychological/*physiology",
+          "Stochastic Processes",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2002/11/09 04:00",
+     "MHDA": "2003/01/15 04:00",
+     "CRDT": [
+          "2002/11/09 04:00"
+     ],
+     "PHST": [
+          "2002/11/09 04:00 [pubmed]",
+          "2003/01/15 04:00 [medline]",
+          "2002/11/09 04:00 [entrez]"
+     ],
+     "AID": [
+          "10.1152/jn.00223.2002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2002 Nov;88(5):2598-611. doi: 10.1152/jn.00223.2002.",
+     "term": "hippocampus"
+}

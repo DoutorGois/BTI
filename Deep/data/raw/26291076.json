@@ -1,0 +1,69 @@
+{
+     "PMID": "26291076",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160523",
+     "LR": "20150821",
+     "IS": "1748-3190 (Electronic) 1748-3182 (Linking)",
+     "VI": "10",
+     "IP": "5",
+     "DP": "2015 Aug 20",
+     "TI": "Minimal feedback to a rhythm generator improves the robustness to slope variations of a compass biped.",
+     "PG": "056005",
+     "LID": "10.1088/1748-3190/10/5/056005 [doi]",
+     "AB": "In recent years there has been a growing interest in the field of dynamic walking and bio-inspired robots. However, while walking and running on a flat surface have been studied extensively, walking dynamically over terrains with varying slope remains a challenge. Previously we developed an open loop controller based on a central pattern generator (CPG). The controller applied predefined torque patterns to a compass-gait biped, and achieved stable gaits over a limited range of slopes. In this work, this range is greatly extended by applying a once per cycle feedback to the CPG controller. The terrain's slope is measured and used to modify both the CPG frequency and the torque amplitude once per step. A multi-objective optimization algorithm was used to tune the controller parameters for a simulated CB model. The resulting controller successfully traverses terrains with slopes ranging from +7 degrees to -8 degrees , comparable to most slopes found in human constructed environments. Gait stability was verified by computing the linearized Poincare Map both numerically and analytically.",
+     "FAU": [
+          "Spitz, Jonathan",
+          "Evstrachin, Alexandrina",
+          "Zacksenhouse, Miriam"
+     ],
+     "AU": [
+          "Spitz J",
+          "Evstrachin A",
+          "Zacksenhouse M"
+     ],
+     "AD": "Jonathan Spitz, Alexandrina Evstrachin and Miriam Zacksenhouse are with the Sensory-Motor Integration Laboratory, Faculty of Mechanical Engineering, TechnionIsrael's Institute of Technology, Haifa 32000, Israel.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150820",
+     "PL": "England",
+     "TA": "Bioinspir Biomim",
+     "JT": "Bioinspiration & biomimetics",
+     "JID": "101292902",
+     "SB": "IM",
+     "MH": [
+          "Biological Clocks/physiology",
+          "Biomimetics/*methods",
+          "Central Pattern Generators/*physiology",
+          "Computer Simulation",
+          "Computer-Aided Design",
+          "Feedback, Physiological/physiology",
+          "Gait/*physiology",
+          "Humans",
+          "Leg/physiology",
+          "*Models, Neurological",
+          "Robotics/*methods",
+          "Spatial Navigation/*physiology"
+     ],
+     "EDAT": "2015/08/21 06:00",
+     "MHDA": "2016/05/24 06:00",
+     "CRDT": [
+          "2015/08/21 06:00"
+     ],
+     "PHST": [
+          "2015/08/21 06:00 [entrez]",
+          "2015/08/21 06:00 [pubmed]",
+          "2016/05/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1088/1748-3190/10/5/056005 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Bioinspir Biomim. 2015 Aug 20;10(5):056005. doi: 10.1088/1748-3190/10/5/056005.",
+     "term": "spatial navigation"
+}

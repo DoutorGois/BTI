@@ -1,0 +1,71 @@
+{
+     "PMID": "12482103",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030114",
+     "LR": "20061115",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "17",
+     "IP": "1",
+     "DP": "2002 Sep",
+     "TI": "The precision of anatomical normalization in the medial temporal lobe using spatial basis functions.",
+     "PG": "507-12",
+     "AB": "We investigated the accuracy of spatial basis function normalization using anatomical landmarks to determine how precisely homologous regions are colocalized. We examined precision in terms of: (1) the number of nonlinear basis functions used by the normalization procedure; (2) the degree of (Bayesian) regularization; and (3) the effect of substituting different templates and how this interacted with the number of basis functions. The face validity of spatial normalization was assessed as a function of these parameters, using the colocalization of homologous landmarks in a test sample of 20 normally developing children and 5 children with bilateral hippocampal pathology. Our results suggest that when optimal normalization parameters are used, anatomical landmarks in the medial temporal lobes are colocalized to within a standard deviation of about 1 mm. When suboptimal parameters are used this standard deviation can increase up to 3 mm. Interestingly the optimal parameters are those that provide a rather constrained normalization as opposed to those that optimize intensity matching at the expense of rendering the warps \"unlikely.\" The implications of our results, for users of voxel-based morphometry, are discussed.",
+     "FAU": [
+          "Salmond, C H",
+          "Ashburner, J",
+          "Vargha-Khadem, F",
+          "Connelly, A",
+          "Gadian, D G",
+          "Friston, K J"
+     ],
+     "AU": [
+          "Salmond CH",
+          "Ashburner J",
+          "Vargha-Khadem F",
+          "Connelly A",
+          "Gadian DG",
+          "Friston KJ"
+     ],
+     "AD": "Developmental Cognitive Neuroscience Unit, Institute of Child Health, University College London, 30 Guilford Street, London WCIN 1EM, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Amnesia/pathology",
+          "Child",
+          "Female",
+          "Functional Laterality/physiology",
+          "Hippocampus/pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Reproducibility of Results",
+          "Temporal Lobe/*anatomy & histology"
+     ],
+     "EDAT": "2002/12/17 04:00",
+     "MHDA": "2003/01/15 04:00",
+     "CRDT": [
+          "2002/12/17 04:00"
+     ],
+     "PHST": [
+          "2002/12/17 04:00 [pubmed]",
+          "2003/01/15 04:00 [medline]",
+          "2002/12/17 04:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2002 Sep;17(1):507-12.",
+     "term": "hippocampus"
+}

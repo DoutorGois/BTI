@@ -1,0 +1,76 @@
+{
+     "PMID": "22252986",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130115",
+     "LR": "20120620",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "22",
+     "IP": "7",
+     "DP": "2012 Jul",
+     "TI": "GABAergic contributions to gating, timing, and phase precession of hippocampal neuronal activity during theta oscillations.",
+     "PG": "1597-621",
+     "LID": "10.1002/hipo.21002 [doi]",
+     "AB": "Successful spatial exploration requires gating, storage, and retrieval of spatial memories in the correct order. The hippocampus is known to play an important role in the temporal organization of spatial information. Temporally ordered spatial memories are encoded and retrieved by the firing rate and phase of hippocampal pyramidal cells and inhibitory interneurons with respect to ongoing network theta oscillations paced by intra- and extrahippocampal areas. Much is known about the anatomical, physiological, and molecular characteristics as well as the connectivity and synaptic properties of various cell types in the hippocampal microcircuits, but how these detailed properties of individual neurons give rise to temporal organization of spatial memories remains unclear. We present a model of the hippocampal CA1 microcircuit based on observed biophysical properties of pyramidal cells and six types of inhibitory interneurons: axo-axonic, basket, bistratistified, neurogliaform, ivy, and oriens lacunosum-moleculare cells. The model simulates a virtual rat running on a linear track. Excitatory transient inputs come from the entorhinal cortex (EC) and the CA3 Schaffer collaterals and impinge on both the pyramidal cells and inhibitory interneurons, whereas inhibitory inputs from the medial septum impinge only on the inhibitory interneurons. Dopamine operates as a gate-keeper modulating the spatial memory flow to the PC distal dendrites in a frequency-dependent manner. A mechanism for spike-timing-dependent plasticity in distal and proximal PC dendrites consisting of three calcium detectors, which responds to the instantaneous calcium level and its time course in the dendrite, is used to model the plasticity effects. The model simulates the timing of firing of different hippocampal cell types relative to theta oscillations, and proposes functional roles for the different classes of the hippocampal and septal inhibitory interneurons in the correct ordering of spatial memories as well as in the generation and maintenance of theta phase precession of pyramidal cells (place cells) in CA1. The model leads to a number of experimentally testable predictions that may lead to a better understanding of the biophysical computations in the hippocampus and medial septum.",
+     "CI": [
+          "Copyright (c) 2011 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Cutsuridis, Vassilis",
+          "Hasselmo, Michael"
+     ],
+     "AU": [
+          "Cutsuridis V",
+          "Hasselmo M"
+     ],
+     "AD": "Division of Engineering, King's College London, Strand, London, United Kingdom. vcutsuridis@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20120118",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "RN": [
+          "56-12-2 (gamma-Aminobutyric Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Axons",
+          "Hippocampus/*cytology",
+          "Ion Channel Gating/*physiology",
+          "*Models, Neurological",
+          "Nerve Net",
+          "Neural Inhibition/physiology",
+          "Neurons/classification/*physiology",
+          "Nonlinear Dynamics",
+          "Rats",
+          "Theta Rhythm/*physiology",
+          "Time Factors",
+          "gamma-Aminobutyric Acid/*metabolism"
+     ],
+     "EDAT": "2012/01/19 06:00",
+     "MHDA": "2013/01/16 06:00",
+     "CRDT": [
+          "2012/01/19 06:00"
+     ],
+     "PHST": [
+          "2011/11/17 00:00 [accepted]",
+          "2012/01/19 06:00 [entrez]",
+          "2012/01/19 06:00 [pubmed]",
+          "2013/01/16 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.21002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2012 Jul;22(7):1597-621. doi: 10.1002/hipo.21002. Epub 2012 Jan 18.",
+     "term": "place cells"
+}

@@ -1,0 +1,83 @@
+{
+     "PMID": "22576352",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130919",
+     "LR": "20161019",
+     "IS": "1522-2594 (Electronic) 0740-3194 (Linking)",
+     "VI": "69",
+     "IP": "4",
+     "DP": "2013 Apr",
+     "TI": "Oscillating and pulsed gradient diffusion magnetic resonance microscopy over an extended b-value range: implications for the characterization of tissue microstructure.",
+     "PG": "1131-45",
+     "LID": "10.1002/mrm.24325 [doi]",
+     "AB": "Oscillating gradient spin-echo (OGSE) pulse sequences have been proposed for acquiring diffusion data with very short diffusion times, which probe tissue structure at the subcellular scale. OGSE sequences are an alternative to pulsed gradient spin echo measurements, which typically probe longer diffusion times due to gradient limitations. In this investigation, a high-strength (6600 G/cm) gradient designed for small-sample microscopy was used to acquire OGSE and pulsed gradient spin echo data in a rat hippocampal specimen at microscopic resolution. Measurements covered a broad range of diffusion times (TDeff = 1.2-15.0 ms), frequencies (omega = 67-1000 Hz), and b-values (b = 0-3.2 ms/mum2). Variations in apparent diffusion coefficient with frequency and diffusion time provided microstructural information at a scale much smaller than the imaging resolution. For a more direct comparison of the techniques, OGSE and pulsed gradient spin echo data were acquired with similar effective diffusion times. Measurements with similar TDeff were consistent at low b-value (b < 1 ms/mum(2) ), but diverged at higher b-values. Experimental observations suggest that the effective diffusion time can be helpful in the interpretation of low b-value OGSE data. However, caution is required at higher b, where enhanced sensitivity to restriction and exchange render the effective diffusion time an unsuitable representation. Oscillating and pulsed gradient diffusion techniques offer unique, complementary information. In combination, the two methods provide a powerful tool for characterizing complex diffusion within biological tissues.",
+     "CI": [
+          "Copyright (c) 2012 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Portnoy, S",
+          "Flint, J J",
+          "Blackband, S J",
+          "Stanisz, G J"
+     ],
+     "AU": [
+          "Portnoy S",
+          "Flint JJ",
+          "Blackband SJ",
+          "Stanisz GJ"
+     ],
+     "AD": "Department of Neuroscience, University of Florida, McKnight Brain Institute, Gainesville, FL 32611, USA. sharon.portnoy@mbi.ufl.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB012874/EB/NIBIB NIH HHS/United States",
+          "1R01EB012874/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20120510",
+     "PL": "United States",
+     "TA": "Magn Reson Med",
+     "JT": "Magnetic resonance in medicine",
+     "JID": "8505245",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Hippocampus/*cytology",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Microscopy/*methods",
+          "Rats",
+          "*Signal Processing, Computer-Assisted"
+     ],
+     "PMC": "PMC3421060",
+     "MID": [
+          "NIHMS371571"
+     ],
+     "EDAT": "2012/05/12 06:00",
+     "MHDA": "2013/09/21 06:00",
+     "CRDT": [
+          "2012/05/12 06:00"
+     ],
+     "PHST": [
+          "2011/12/21 00:00 [received]",
+          "2012/04/11 00:00 [revised]",
+          "2012/04/12 00:00 [accepted]",
+          "2012/05/12 06:00 [entrez]",
+          "2012/05/12 06:00 [pubmed]",
+          "2013/09/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/mrm.24325 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Magn Reson Med. 2013 Apr;69(4):1131-45. doi: 10.1002/mrm.24325. Epub 2012 May 10.",
+     "term": "hippocampus"
+}

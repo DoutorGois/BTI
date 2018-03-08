@@ -1,0 +1,74 @@
+{
+     "PMID": "14724747",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040727",
+     "LR": "20170920",
+     "IS": "0022-2631 (Print) 0022-2631 (Linking)",
+     "VI": "196",
+     "IP": "2",
+     "DP": "2003 Nov 15",
+     "TI": "Interpretation and optimization of absorbance and fluorescence signals from voltage-sensitive dyes.",
+     "PG": "105-16",
+     "AB": "Voltage-sensitive dyes produce absorbance and fluorescence changes that can be used to image voltage. The present study develops a systematic approach to the optimization of these signals. A mathematical analysis assesses the dye optical density ( OD) that optimizes the signal-to-noise ratio in absorbance and fluorescence measurements. The signal-to-noise ratio is maximal for a dye OD of 2 (natural logarithm) in absorbance and ~1 in fluorescence. The fluorescence result is approximate because, in contrast to absorbance, the optimal dye OD varies with the amount of scattering and intrinsic absorbance of the tissue. The signal-to-noise ratio of absorbance is higher in thick preparations such as brain slices; fluorescence is superior in thin preparations such as cell culture. The optimal OD for absorbance and fluorescence, as well as the superiority of absorbance, were confirmed experimentally on hippocampal slices. This analysis also provided insight into the interpretation of signals normalized to resting light intensities. With both absorbance and fluorescence, the normalized signal (Delta I/I) varies with OD, and does not reflect the change in dye absorbance. In absorbance this problem is remedied by dividing Delta I/I by the dye OD to obtain the absorbance change. For fluorescence a correction is possible, but is more complicated. Because this analysis indicates that high levels of stain optimize the signal-to-noise, dyes were tested for pharmacological actions and phototoxicity. The absorbance dye RH155 was found to have pharmacological action at high staining levels. The fluorescent dye RH414 was phototoxic. Adverse effects could not be detected with the absorbance dye RH482.",
+     "FAU": [
+          "Chang, P Y",
+          "Jackson, M B"
+     ],
+     "AU": [
+          "Chang PY",
+          "Jackson MB"
+     ],
+     "AD": "Department of Physiology and Biophysics Ph.D. Program, University of Wisconsin, Madison WI 53706, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS30016/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "J Membr Biol",
+     "JT": "The Journal of membrane biology",
+     "JID": "0211301",
+     "RN": [
+          "0 (Fluorescent Dyes)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Culture Techniques",
+          "*Fluorescent Dyes",
+          "Hippocampus/cytology/*physiology",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Membrane Potentials/*physiology",
+          "Microscopy, Fluorescence/*methods",
+          "Models, Neurological",
+          "Neurons/cytology/*physiology",
+          "Rats",
+          "Spectrometry, Fluorescence/*methods"
+     ],
+     "EDAT": "2004/01/16 05:00",
+     "MHDA": "2004/07/28 05:00",
+     "CRDT": [
+          "2004/01/16 05:00"
+     ],
+     "PHST": [
+          "2003/06/26 00:00 [received]",
+          "2004/01/16 05:00 [pubmed]",
+          "2004/07/28 05:00 [medline]",
+          "2004/01/16 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s00232-003-0629-8 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Membr Biol. 2003 Nov 15;196(2):105-16. doi: 10.1007/s00232-003-0629-8.",
+     "term": "hippocampus"
+}

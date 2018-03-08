@@ -1,0 +1,56 @@
+{
+     "PMID": "17296260",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070626",
+     "LR": "20070509",
+     "IS": "0303-2647 (Print) 0303-2647 (Linking)",
+     "VI": "89",
+     "IP": "1-3",
+     "DP": "2007 May-Jun",
+     "TI": "Quantifying the information transmitted in a single stimulus.",
+     "PG": "4-9",
+     "AB": "Information theory - in particular mutual information- has been widely used to investigate neural processing in various brain areas. Shannon mutual information quantifies how much information is, on average, contained in a set of neural activities about a set of stimuli. To extend a similar approach to single stimulus encoding, we need to introduce a quantity specific for a single stimulus. This quantity has been defined in literature by four different measures, but none of them satisfies the same intuitive properties (non-negativity, additivity), that characterize mutual information. We present here a detailed analysis of the different meanings and properties of these four definitions. We show that all these measures satisfy, at least, a weaker additivity condition, i.e. limited to the response set. This allows us to use them for analysing correlated coding, as we illustrate in a toy-example from hippocampal place cells.",
+     "FAU": [
+          "Bezzi, Michele"
+     ],
+     "AU": [
+          "Bezzi M"
+     ],
+     "AD": "Accenture Technology Labs, 449 route des Cretes BP 99, F-06902, Sophia Antipolis, France. michele.bezzi@accenture.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20061111",
+     "PL": "Ireland",
+     "TA": "Biosystems",
+     "JT": "Bio Systems",
+     "JID": "0430773",
+     "SB": "IM",
+     "MH": [
+          "Hippocampus/cytology/physiology",
+          "*Information Theory"
+     ],
+     "EDAT": "2007/02/14 09:00",
+     "MHDA": "2007/06/27 09:00",
+     "CRDT": [
+          "2007/02/14 09:00"
+     ],
+     "PHST": [
+          "2006/01/02 00:00 [received]",
+          "2006/04/28 00:00 [accepted]",
+          "2007/02/14 09:00 [pubmed]",
+          "2007/06/27 09:00 [medline]",
+          "2007/02/14 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0303-2647(06)00233-4 [pii]",
+          "10.1016/j.biosystems.2006.04.009 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biosystems. 2007 May-Jun;89(1-3):4-9. doi: 10.1016/j.biosystems.2006.04.009. Epub 2006 Nov 11.",
+     "term": "place cells"
+}

@@ -1,0 +1,66 @@
+{
+     "PMID": "16262641",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20051215",
+     "LR": "20081121",
+     "IS": "0953-816X (Print) 0953-816X (Linking)",
+     "VI": "22",
+     "IP": "8",
+     "DP": "2005 Oct",
+     "TI": "Distinct properties of two major excitatory inputs to hippocampal pyramidal cells: a computational study.",
+     "PG": "2027-48",
+     "AB": "The two main sources of excitatory input to CA1 pyramidal cells, the Schaffer collaterals (SC) and the perforant path (PP), target different regions of the dendritic tree. This spatial segregation may have important consequences for the way in which different inputs affect the activity of principal neurons. We constructed detailed biophysical models of CA1 pyramidal cells, incorporating a variety of active conductances, and investigated the ability of synapses located in different dendritic segments to elicit a somatic voltage response. Synaptic efficacy as seen by the soma was strongly dependent on the site of the synapse, with PP inputs being more severely attenuated than SC inputs. Variability within SC inputs, but not between SC inputs and PP inputs, could be eliminated by appropriate scaling of synaptic efficacy. The spatial and temporal summation of multiple synaptic inputs was also investigated. While summation of SC inputs was linear up to the somatic spike threshold, PP inputs summed in a strongly sublinear fashion, with the somatic response remaining subthreshold even following the simultaneous activation of a large number of synapses and during stimulation with high-frequency trains. Finally, the relative impact of different pathways on somatic activity could be effectively altered by modulating the kinetic properties of dendritic transient K+ channels, corresponding to the activation of ascending modulatory neurotransmitter systems. In this case, the efficacy of the PP was enhanced by the dendritic generation and limited spread of action potentials. Strong PP activation could also evoke dendritic Ca++ spikes, which often triggered a somatic burst.",
+     "FAU": [
+          "Kali, Szabolcs",
+          "Freund, Tamas F"
+     ],
+     "AU": [
+          "Kali S",
+          "Freund TF"
+     ],
+     "AD": "Department of Cellular and Network Neurobiology, Institute of Experimental Medicine, Hungarian Academy of Sciences, PO Box 67, Budapest H-1450, Hungary. kali@koki.hu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "France",
+     "TA": "Eur J Neurosci",
+     "JT": "The European journal of neuroscience",
+     "JID": "8918110",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Biophysical Phenomena",
+          "Biophysics",
+          "Dendrites/physiology",
+          "Excitatory Postsynaptic Potentials/physiology",
+          "Hippocampus/*cytology",
+          "*Models, Neurological",
+          "Neural Pathways/*physiology",
+          "Pyramidal Cells/cytology/*physiology",
+          "Reproducibility of Results",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2005/11/03 09:00",
+     "MHDA": "2005/12/16 09:00",
+     "CRDT": [
+          "2005/11/03 09:00"
+     ],
+     "PHST": [
+          "2005/11/03 09:00 [pubmed]",
+          "2005/12/16 09:00 [medline]",
+          "2005/11/03 09:00 [entrez]"
+     ],
+     "AID": [
+          "EJN4406 [pii]",
+          "10.1111/j.1460-9568.2005.04406.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Eur J Neurosci. 2005 Oct;22(8):2027-48. doi: 10.1111/j.1460-9568.2005.04406.x.",
+     "term": "hippocampus"
+}

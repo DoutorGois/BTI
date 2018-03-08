@@ -1,0 +1,76 @@
+{
+     "PMID": "22984404",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130312",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "7",
+     "IP": "9",
+     "DP": "2012",
+     "TI": "Efficient universal computing architectures for decoding neural activity.",
+     "PG": "e42492",
+     "LID": "10.1371/journal.pone.0042492 [doi]",
+     "AB": "The ability to decode neural activity into meaningful control signals for prosthetic devices is critical to the development of clinically useful brain- machine interfaces (BMIs). Such systems require input from tens to hundreds of brain-implanted recording electrodes in order to deliver robust and accurate performance; in serving that primary function they should also minimize power dissipation in order to avoid damaging neural tissue; and they should transmit data wirelessly in order to minimize the risk of infection associated with chronic, transcutaneous implants. Electronic architectures for brain- machine interfaces must therefore minimize size and power consumption, while maximizing the ability to compress data to be transmitted over limited-bandwidth wireless channels. Here we present a system of extremely low computational complexity, designed for real-time decoding of neural signals, and suited for highly scalable implantable systems. Our programmable architecture is an explicit implementation of a universal computing machine emulating the dynamics of a network of integrate-and-fire neurons; it requires no arithmetic operations except for counting, and decodes neural signals using only computationally inexpensive logic operations. The simplicity of this architecture does not compromise its ability to compress raw neural data by factors greater than [Formula: see text]. We describe a set of decoding algorithms based on this computational architecture, one designed to operate within an implanted system, minimizing its power consumption and data transmission bandwidth; and a complementary set of algorithms for learning, programming the decoder, and postprocessing the decoded output, designed to operate in an external, nonimplanted unit. The implementation of the implantable portion is estimated to require fewer than 5000 operations per second. A proof-of-concept, 32-channel field-programmable gate array (FPGA) implementation of this portion is consequently energy efficient. We validate the performance of our overall system by decoding electrophysiologic data from a behaving rodent.",
+     "FAU": [
+          "Rapoport, Benjamin I",
+          "Turicchia, Lorenzo",
+          "Wattanapanitch, Woradorn",
+          "Davidson, Thomas J",
+          "Sarpeshkar, Rahul"
+     ],
+     "AU": [
+          "Rapoport BI",
+          "Turicchia L",
+          "Wattanapanitch W",
+          "Davidson TJ",
+          "Sarpeshkar R"
+     ],
+     "AD": "Harvard Medical School, Boston, Massachusetts, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "T32 GM007753/GM/NIGMS NIH HHS/United States",
+          "NS056140/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20120912",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/*physiology",
+          "Computer Simulation",
+          "Hippocampus/physiology",
+          "Humans",
+          "Rats",
+          "*User-Computer Interface"
+     ],
+     "PMC": "PMC3440437",
+     "EDAT": "2012/09/18 06:00",
+     "MHDA": "2013/03/13 06:00",
+     "CRDT": [
+          "2012/09/18 06:00"
+     ],
+     "PHST": [
+          "2011/06/25 00:00 [received]",
+          "2012/07/09 00:00 [accepted]",
+          "2012/09/18 06:00 [entrez]",
+          "2012/09/18 06:00 [pubmed]",
+          "2013/03/13 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0042492 [doi]",
+          "PONE-D-11-11745 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2012;7(9):e42492. doi: 10.1371/journal.pone.0042492. Epub 2012 Sep 12.",
+     "term": "hippocampus"
+}

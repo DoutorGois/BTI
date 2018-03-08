@@ -1,0 +1,92 @@
+{
+     "PMID": "19518518",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090819",
+     "LR": "20170220",
+     "IS": "1539-3755 (Print) 1539-3755 (Linking)",
+     "VI": "79",
+     "IP": "5 Pt 2",
+     "DP": "2009 May",
+     "TI": "Functional clustering algorithm for the analysis of dynamic network data.",
+     "PG": "056104",
+     "AB": "We formulate a technique for the detection of functional clusters in discrete event data. The advantage of this algorithm is that no prior knowledge of the number of functional groups is needed, as our procedure progressively combines data traces and derives the optimal clustering cutoff in a simple and intuitive manner through the use of surrogate data sets. In order to demonstrate the power of this algorithm to detect changes in network dynamics and connectivity, we apply it to both simulated neural spike train data and real neural data obtained from the mouse hippocampus during exploration and slow-wave sleep. Using the simulated data, we show that our algorithm performs better than existing methods. In the experimental data, we observe state-dependent clustering patterns consistent with known neurophysiological processes involved in memory consolidation.",
+     "FAU": [
+          "Feldt, S",
+          "Waddell, J",
+          "Hetrick, V L",
+          "Berke, J D",
+          "Zochowski, M"
+     ],
+     "AU": [
+          "Feldt S",
+          "Waddell J",
+          "Hetrick VL",
+          "Berke JD",
+          "Zochowski M"
+     ],
+     "AD": "Department of Physics, University of Michigan, Ann Arbor, Michigan 48109, USA. sarahfel@umich.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R21 EB008163-01A1/EB/NIBIB NIH HHS/United States",
+          "R01 DA014318-05/DA/NIDA NIH HHS/United States",
+          "EB008163/EB/NIBIB NIH HHS/United States",
+          "R01 DA14318/DA/NIDA NIH HHS/United States",
+          "R21 EB008163/EB/NIBIB NIH HHS/United States",
+          "R01 DA014318/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20090507",
+     "PL": "United States",
+     "TA": "Phys Rev E Stat Nonlin Soft Matter Phys",
+     "JT": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+     "JID": "101136452",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "*Algorithms",
+          "Animals",
+          "Artificial Intelligence",
+          "*Cluster Analysis",
+          "Computer Simulation",
+          "Exploratory Behavior/physiology",
+          "Hippocampus/physiology",
+          "Information Theory",
+          "Memory/physiology",
+          "Mice",
+          "Neurons/*physiology",
+          "Pattern Recognition, Automated/methods",
+          "Poisson Distribution",
+          "Signal Processing, Computer-Assisted",
+          "Sleep/physiology"
+     ],
+     "PMC": "PMC2814878",
+     "MID": [
+          "NIHMS130078"
+     ],
+     "EDAT": "2009/06/13 09:00",
+     "MHDA": "2009/08/20 09:00",
+     "CRDT": [
+          "2009/06/13 09:00"
+     ],
+     "PHST": [
+          "2008/07/27 00:00 [received]",
+          "2009/02/08 00:00 [revised]",
+          "2009/06/13 09:00 [entrez]",
+          "2009/06/13 09:00 [pubmed]",
+          "2009/08/20 09:00 [medline]"
+     ],
+     "AID": [
+          "10.1103/PhysRevE.79.056104 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phys Rev E Stat Nonlin Soft Matter Phys. 2009 May;79(5 Pt 2):056104. doi: 10.1103/PhysRevE.79.056104. Epub 2009 May 7.",
+     "term": "hippocampus"
+}

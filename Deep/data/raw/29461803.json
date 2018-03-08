@@ -1,0 +1,48 @@
+{
+     "PMID": "29461803",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20180220",
+     "IS": "1520-6882 (Electronic) 0003-2700 (Linking)",
+     "DP": "2018 Feb 20",
+     "TI": "Exploring ion suppression in mass spectrometry imaging of a heterogeneous tissue.",
+     "LID": "10.1021/acs.analchem.7b05005 [doi]",
+     "AB": "In this study we have explored several aspects of regional analyte suppression in mass spectrometry imaging of a heterogeneous sample; transverse cryosections of mouse brain. Olanzapine was homogeneously coated across the section prior to DESI and MALDI mass spectrometry imaging. We employed the concept of a tissue extinction coefficient (TEC) to assess suppression of an analyte on tissue relative to its intensity in an off tissue region. We expanded the use of TEC, by first segmenting anatomical regions using graph-cuts clustering, and calculating a TEC for each cluster. The single ion image of the olanzapine [M+H]+ ion was seen to vary considerably across the image, with anatomical features such as the white matter and hippocampus visible. While trends in regional ion suppression were conserved across MSI modalities, significant changes in the magnitude of relative regional suppression effects between techniques were seen. Notably the intensity of olanzapine was less suppressed in DESI than for MALDI. In MALDI MSI, significant differences in the concentration dependence of regional TECs were seen, with the TEC of white matter clusters exhibiting a notably stronger correlation with concentration than for clusters associated with grey matter regions. We further employed cluster-specific TECs as regional normalisation factors. In comparison to published pixel-by-pixel normalisation methods, regional TEC normalisation exhibited superior reduction ion suppression artefacts. We also considered the usefulness of a segmentation-based approach to compare spectral information obtained from complementary modalities.",
+     "FAU": [
+          "Taylor, Adam",
+          "Dexter, Alex",
+          "Bunch, Josephine"
+     ],
+     "AU": [
+          "Taylor A",
+          "Dexter A",
+          "Bunch J"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20180220",
+     "PL": "United States",
+     "TA": "Anal Chem",
+     "JT": "Analytical chemistry",
+     "JID": "0370536",
+     "EDAT": "2018/02/21 06:00",
+     "MHDA": "2018/02/21 06:00",
+     "CRDT": [
+          "2018/02/21 06:00"
+     ],
+     "PHST": [
+          "2018/02/21 06:00 [entrez]",
+          "2018/02/21 06:00 [pubmed]",
+          "2018/02/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1021/acs.analchem.7b05005 [doi]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "Anal Chem. 2018 Feb 20. doi: 10.1021/acs.analchem.7b05005.",
+     "term": "hippocampus"
+}

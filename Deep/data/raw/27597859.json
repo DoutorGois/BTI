@@ -1,0 +1,70 @@
+{
+     "PMID": "27597859",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170206",
+     "LR": "20170220",
+     "IS": "1687-5273 (Electronic)",
+     "VI": "2016",
+     "DP": "2016",
+     "TI": "A Model of Generating Visual Place Cells Based on Environment Perception and Similar Measure.",
+     "PG": "3253678",
+     "LID": "10.1155/2016/3253678 [doi]",
+     "AB": "It is an important content to generate visual place cells (VPCs) in the field of bioinspired navigation. By analyzing the firing characteristic of biological place cells and the existing methods for generating VPCs, a model of generating visual place cells based on environment perception and similar measure is abstracted in this paper. VPCs' generation process is divided into three phases, including environment perception, similar measure, and recruiting of a new place cell. According to this process, a specific method for generating VPCs is presented. External reference landmarks are obtained based on local invariant characteristics of image and a similar measure function is designed based on Euclidean distance and Gaussian function. Simulation validates the proposed method is available. The firing characteristic of the generated VPCs is similar to that of biological place cells, and VPCs' firing fields can be adjusted flexibly by changing the adjustment factor of firing field (AFFF) and firing rate's threshold (FRT).",
+     "FAU": [
+          "Zhou, Yang",
+          "Wu, Dewei"
+     ],
+     "AU": [
+          "Zhou Y",
+          "Wu D"
+     ],
+     "AUID": [
+          "ORCID: 0000-0002-8384-7842",
+          "ORCID: 0000-0002-6691-5225"
+     ],
+     "AD": "Information and Navigation College, Air Force Engineering University, Xi'an, Shaanxi 710077, China. Information and Navigation College, Air Force Engineering University, Xi'an, Shaanxi 710077, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160814",
+     "PL": "United States",
+     "TA": "Comput Intell Neurosci",
+     "JT": "Computational intelligence and neuroscience",
+     "JID": "101279357",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Brain/*cytology",
+          "*Environment",
+          "Humans",
+          "*Models, Neurological",
+          "Photic Stimulation",
+          "Place Cells/*physiology",
+          "Space Perception/*physiology"
+     ],
+     "PMC": "PMC5002307",
+     "EDAT": "2016/09/07 06:00",
+     "MHDA": "2017/02/07 06:00",
+     "CRDT": [
+          "2016/09/07 06:00"
+     ],
+     "PHST": [
+          "2016/04/26 00:00 [received]",
+          "2016/06/15 00:00 [revised]",
+          "2016/07/11 00:00 [accepted]",
+          "2016/09/07 06:00 [entrez]",
+          "2016/09/07 06:00 [pubmed]",
+          "2017/02/07 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2016/3253678 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Intell Neurosci. 2016;2016:3253678. doi: 10.1155/2016/3253678. Epub 2016 Aug 14.",
+     "term": "place cells"
+}

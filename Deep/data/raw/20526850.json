@@ -1,0 +1,83 @@
+{
+     "PMID": "20526850",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100923",
+     "LR": "20131121",
+     "IS": "1863-2661 (Electronic) 1863-2653 (Linking)",
+     "VI": "215",
+     "IP": "1",
+     "DP": "2010 Jul",
+     "TI": "Realistic modelling of receptor activation in hippocampal excitatory synapses: analysis of multivesicular release, release location, temperature and synaptic cross-talk.",
+     "PG": "49-65",
+     "LID": "10.1007/s00429-010-0273-x [doi]",
+     "AB": "Chemically mediated synaptic transmission results from fusion of synaptic vesicles with the presynaptic plasma membrane, subsequent release of the vesicular content into the cleft and binding to postsynaptic receptors. Previous modelling studies of excitatory neurotransmitter glutamate were based on simplified geometries failing to account for the biologically realistic synaptic environment, in particular, the presence of astrocytes, the geometry of extracellular space, and the neurotransmitter uptake mechanism. Using 3-dimensional reconstructions of hippocampal glutamatergic synapses including the surrounding astrocytic processes we have developed a biologically realistic model to analyse receptor activation in different conditions. We used the finite element method to simulate glutamate release, analyse glutamate diffusion following single and multiple vesicle release and binding at the postsynaptic site to AMPA and NMDA receptors. We demonstrate that: (1) the transmitter diffusion is highly temperature-sensitive; (2) release conditions and geometry more specifically affect AMPARs than NMDARs; (3) the sensitivities of AMPARs and NMDARs to simultaneous vesicular release are different; (4) in the case of multivesicle neurotransmitter release with variable delays, the binding of glutamate to AMPARs is additive up to 1 ms after the release, then becomes independent, but to NMDARs the binding is additive up to 33 ms; (5) the number of AMPARs varies more than the number of NMDRs in response to the input firing patterns; (6) the presence of astrocytes effectively blocks synaptic cross-talk; and (7) synaptic cross-talk, mediated by NMDARs but not AMPARs, is only possible after quasi-simultaneous multivesicular release at physiological temperature (35 degrees C) without intervening astrocytes, but not at 25 degrees C. Our simulations demonstrate the importance of temperature and ultrastructural synaptic environment in synaptic transmission and synaptic cross-talk.",
+     "FAU": [
+          "Boucher, Jerome",
+          "Kroger, Helmut",
+          "Sik, Attila"
+     ],
+     "AU": [
+          "Boucher J",
+          "Kroger H",
+          "Sik A"
+     ],
+     "AD": "Centre de Recherche Universite Laval Robert-Giffard, Quebec, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MOP-81105/Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100606",
+     "PL": "Germany",
+     "TA": "Brain Struct Funct",
+     "JT": "Brain structure & function",
+     "JID": "101282001",
+     "RN": [
+          "0 (Receptors, AMPA)",
+          "0 (Receptors, N-Methyl-D-Aspartate)",
+          "3KX376GY7L (Glutamic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Astrocytes/metabolism",
+          "Computer Simulation",
+          "Finite Element Analysis",
+          "Glutamic Acid/*metabolism",
+          "Hippocampus/*metabolism/ultrastructure",
+          "Imaging, Three-Dimensional",
+          "Microscopy, Electron, Transmission",
+          "*Models, Biological",
+          "Rats",
+          "Receptor Cross-Talk/physiology",
+          "Receptors, AMPA/*metabolism",
+          "Receptors, N-Methyl-D-Aspartate/*metabolism",
+          "Synapses/*metabolism/ultrastructure",
+          "Synaptic Vesicles/metabolism/ultrastructure",
+          "Temperature"
+     ],
+     "EDAT": "2010/06/08 06:00",
+     "MHDA": "2010/09/24 06:00",
+     "CRDT": [
+          "2010/06/08 06:00"
+     ],
+     "PHST": [
+          "2010/02/25 00:00 [received]",
+          "2010/05/18 00:00 [accepted]",
+          "2010/06/08 06:00 [entrez]",
+          "2010/06/08 06:00 [pubmed]",
+          "2010/09/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s00429-010-0273-x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Struct Funct. 2010 Jul;215(1):49-65. doi: 10.1007/s00429-010-0273-x. Epub 2010 Jun 6.",
+     "term": "hippocampus"
+}

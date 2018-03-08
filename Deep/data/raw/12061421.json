@@ -1,0 +1,69 @@
+{
+     "PMID": "12061421",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20021224",
+     "LR": "20061115",
+     "IS": "0954-898X (Print) 0954-898X (Linking)",
+     "VI": "13",
+     "IP": "2",
+     "DP": "2002 May",
+     "TI": "Self-organizing continuous attractor networks and path integration: one-dimensional models of head direction cells.",
+     "PG": "217-42",
+     "AB": "Some neurons encode information about the orientation or position of an animal, and can maintain their response properties in the absence of visual input. Examples include head direction cells in rats and primates, place cells in rats and spatial view cells in primates. 'Continuous attractor' neural networks model these continuous physical spaces by using recurrent collateral connections between the neurons which reflect the distance between the neurons in the state space (e.g. head direction space) of the animal. These networks maintain a localized packet of neuronal activity representing the current state of the animal. We show how the synaptic connections in a one-dimensional continuous attractor network (of for example head direction cells) could be self-organized by associative learning. We also show how the activity packet could be moved from one location to another by idiothetic (self-motion) inputs, for example vestibular or proprioceptive, and how the synaptic connections could self-organize to implement this. The models described use 'trace' associative synaptic learning rules that utilize a form of temporal average of recent cell activity to associate the firing of rotation cells with the recent change in the representation of the head direction in the continuous attractor. We also show how a nonlinear neuronal activation function that could be implemented by NMDA receptors could contribute to the stability of the activity packet that represents the current state of the animal.",
+     "FAU": [
+          "Stringer, S M",
+          "Trappenberg, T P",
+          "Rolls, E T",
+          "de Araujo, I E T"
+     ],
+     "AU": [
+          "Stringer SM",
+          "Trappenberg TP",
+          "Rolls ET",
+          "de Araujo IE"
+     ],
+     "AD": "Oxford University, Department of Experimental Psychology, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "Network",
+     "JT": "Network (Bristol, England)",
+     "JID": "9431867",
+     "RN": [
+          "0 (Receptors, N-Methyl-D-Aspartate)"
+     ],
+     "SB": "IM S",
+     "MH": [
+          "Animals",
+          "Cues",
+          "Head/*physiology",
+          "*Models, Neurological",
+          "Motion Perception/*physiology",
+          "Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Orientation",
+          "Receptors, N-Methyl-D-Aspartate/physiology",
+          "Rotation",
+          "Space Perception/*physiology",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2002/06/14 10:00",
+     "MHDA": "2002/12/27 04:00",
+     "CRDT": [
+          "2002/06/14 10:00"
+     ],
+     "PHST": [
+          "2002/06/14 10:00 [pubmed]",
+          "2002/12/27 04:00 [medline]",
+          "2002/06/14 10:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Network. 2002 May;13(2):217-42.",
+     "term": "place cells"
+}

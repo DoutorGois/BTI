@@ -1,0 +1,80 @@
+{
+     "PMID": "26388719",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20150921",
+     "LR": "20170220",
+     "IS": "1662-4548 (Print) 1662-453X (Linking)",
+     "VI": "9",
+     "DP": "2015",
+     "TI": "Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach.",
+     "PG": "307",
+     "LID": "10.3389/fnins.2015.00307 [doi]",
+     "AB": "Determination of sensitive and specific markers of very early AD progression is intended to aid researchers and clinicians to develop new treatments and monitor their effectiveness, as well as to lessen the time and cost of clinical trials. Magnetic Resonance (MR)-related biomarkers have been recently identified by the use of machine learning methods for the in vivo differential diagnosis of AD. However, the vast majority of neuroimaging papers investigating this topic are focused on the difference between AD and patients with mild cognitive impairment (MCI), not considering the impact of MCI patients who will (MCIc) or not convert (MCInc) to AD. Morphological T1-weighted MRIs of 137 AD, 76 MCIc, 134 MCInc, and 162 healthy controls (CN) selected from the Alzheimer's disease neuroimaging initiative (ADNI) cohort, were used by an optimized machine learning algorithm. Voxels influencing the classification between these AD-related pre-clinical phases involved hippocampus, entorhinal cortex, basal ganglia, gyrus rectus, precuneus, and cerebellum, all critical regions known to be strongly involved in the pathophysiological mechanisms of AD. Classification accuracy was 76% AD vs. CN, 72% MCIc vs. CN, 66% MCIc vs. MCInc (nested 20-fold cross validation). Our data encourage the application of computer-based diagnosis in clinical practice of AD opening new prospective in the early management of AD patients.",
+     "FAU": [
+          "Salvatore, Christian",
+          "Cerasa, Antonio",
+          "Battista, Petronilla",
+          "Gilardi, Maria C",
+          "Quattrone, Aldo",
+          "Castiglioni, Isabella"
+     ],
+     "AU": [
+          "Salvatore C",
+          "Cerasa A",
+          "Battista P",
+          "Gilardi MC",
+          "Quattrone A",
+          "Castiglioni I"
+     ],
+     "AD": "Institute of Molecular Bioimaging and Physiology, National Research Council (IBFM-CNR) Milan, Italy. Neuroimaging Research Unit, Institute of Molecular Bioimaging and Physiology, National Research Council (IBFM-CNR) Catanzaro, Italy. Institute of Molecular Bioimaging and Physiology, National Research Council (IBFM-CNR) Milan, Italy. Institute of Molecular Bioimaging and Physiology, National Research Council (IBFM-CNR) Milan, Italy. Department of Medical Sciences, Institute of Neurology, University \"Magna Graecia\" Catanzaro, Italy. Institute of Molecular Bioimaging and Physiology, National Research Council (IBFM-CNR) Milan, Italy.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150901",
+     "PL": "Switzerland",
+     "TA": "Front Neurosci",
+     "JT": "Frontiers in neuroscience",
+     "JID": "101478481",
+     "PMC": "PMC4555016",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "artificial intelligence",
+          "automatic classification",
+          "machine learning",
+          "magnetic resonance imaging",
+          "mild cognitive impairment",
+          "structural neuroimaging biomarkers",
+          "support vector machine"
+     ],
+     "EDAT": "2015/09/22 06:00",
+     "MHDA": "2015/09/22 06:01",
+     "CRDT": [
+          "2015/09/22 06:00"
+     ],
+     "PHST": [
+          "2015/03/20 00:00 [received]",
+          "2015/08/13 00:00 [accepted]",
+          "2015/09/22 06:00 [entrez]",
+          "2015/09/22 06:00 [pubmed]",
+          "2015/09/22 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnins.2015.00307 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neurosci. 2015 Sep 1;9:307. doi: 10.3389/fnins.2015.00307. eCollection 2015.",
+     "term": "hippocampus"
+}

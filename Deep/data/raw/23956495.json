@@ -1,0 +1,78 @@
+{
+     "PMID": "23956495",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "0920-5691 (Print) 0920-5691 (Linking)",
+     "VI": "103",
+     "IP": "1",
+     "DP": "2013 May",
+     "TI": "Toward a comprehensive framework for the spatiotemporal statistical analysis of longitudinal shape data.",
+     "PG": "22-59",
+     "AB": "This paper proposes an original approach for the statistical analysis of longitudinal shape data. The proposed method allows the characterization of typical growth patterns and subject-specific shape changes in repeated time-series observations of several subjects. This can be seen as the extension of usual longitudinal statistics of scalar measurements to high-dimensional shape or image data. The method is based on the estimation of continuous subject-specific growth trajectories and the comparison of such temporal shape changes across subjects. Differences between growth trajectories are decomposed into morphological deformations, which account for shape changes independent of the time, and time warps, which account for different rates of shape changes over time. Given a longitudinal shape data set, we estimate a mean growth scenario representative of the population, and the variations of this scenario both in terms of shape changes and in terms of change in growth speed. Then, intrinsic statistics are derived in the space of spatiotemporal deformations, which characterize the typical variations in shape and in growth speed within the studied population. They can be used to detect systematic developmental delays across subjects. In the context of neuroscience, we apply this method to analyze the differences in the growth of the hippocampus in children diagnosed with autism, developmental delays and in controls. Result suggest that group differences may be better characterized by a different speed of maturation rather than shape differences at a given age. In the context of anthropology, we assess the differences in the typical growth of the endocranium between chimpanzees and bonobos. We take advantage of this study to show the robustness of the method with respect to change of parameters and perturbation of the age estimates.",
+     "FAU": [
+          "Durrleman, S",
+          "Pennec, X",
+          "Trouve, A",
+          "Braga, J",
+          "Gerig, G",
+          "Ayache, N"
+     ],
+     "AU": [
+          "Durrleman S",
+          "Pennec X",
+          "Trouve A",
+          "Braga J",
+          "Gerig G",
+          "Ayache N"
+     ],
+     "AD": "Scientific Computing and Imaging (SCI) Institute, 72 S. Central Drive, Salt Lake City, UT 84112, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 HD067731/HD/NICHD NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States",
+          "U01 NS082086/NS/NINDS NIH HHS/United States",
+          "R01 MH061696/MH/NIMH NIH HHS/United States",
+          "R01 HD055741/HD/NICHD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Int J Comput Vis",
+     "JT": "International journal of computer vision",
+     "JID": "101189508",
+     "PMC": "PMC3744347",
+     "MID": [
+          "NIHMS465526"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "growth",
+          "longitudinal data",
+          "shape regression",
+          "spatiotemporal registration",
+          "statistics",
+          "time warp"
+     ],
+     "EDAT": "2013/08/21 06:00",
+     "MHDA": "2013/08/21 06:00",
+     "CRDT": [
+          "2013/08/20 06:00"
+     ],
+     "PHST": [
+          "2013/08/20 06:00 [entrez]",
+          "2013/08/21 06:00 [pubmed]",
+          "2013/08/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s11263-012-0592-x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Int J Comput Vis. 2013 May;103(1):22-59. doi: 10.1007/s11263-012-0592-x.",
+     "term": "hippocampus"
+}

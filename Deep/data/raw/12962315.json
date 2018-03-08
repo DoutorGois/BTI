@@ -1,0 +1,71 @@
+{
+     "PMID": "12962315",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20031212",
+     "LR": "20061115",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "13",
+     "IP": "6",
+     "DP": "2003",
+     "TI": "Dynamically detuned oscillations account for the coupled rate and temporal code of place cell firing.",
+     "PG": "700-14",
+     "AB": "Firing of place cells in the exploring rat conveys doubly coded spatial information: both the rate of spikes and their timing relative to the phase of the ongoing field theta oscillation are correlated with the location of the animal. Specifically, the firing rate of a place cell waxes and wanes, while the timing of spikes precesses monotonically as the animal traverses the portion of the environment preferred by the cell. We propose a mechanism for the generation of this firing pattern that can be applied for place cells in all three hippocampal subfields and that encodes spatial information in the output of the cell without relying on topographical connections or topographical input. A single pyramidal cell was modeled so that the cell received rhythmic inhibition in phase with theta field potential oscillation on the soma and was excited on the dendrite with input depending on the speed of the rat. The dendrite sustained an intrinsic membrane potential oscillation, frequency modulated by its input. Firing probability of the cell was determined jointly by somatic and dendritic oscillations. Results were obtained on different levels of abstraction: a purely analytical derivation was arrived at, corroborated by numerical simulations of rate neurons, and an extension of these simulations to spiking neurons was also performed. Realistic patterns of rate and temporal coding emerged and were found to be inseparable. These results may have implications on the robustness of information coding in place cell firing and on the ways information is processed in structures downstream to the hippocampus.",
+     "FAU": [
+          "Lengyel, Mate",
+          "Szatmary, Zoltan",
+          "Erdi, Peter"
+     ],
+     "AU": [
+          "Lengyel M",
+          "Szatmary Z",
+          "Erdi P"
+     ],
+     "AD": "Department of Biophysics, KFKI Research Institute for Particle and Nuclear Physics, Hungarian Academy of Sciences, Budapest, Hungary. lmate@rmki.kfki.hu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Afferent Pathways/cytology/*physiology",
+          "Animals",
+          "Biological Clocks/*physiology",
+          "Cell Membrane/physiology",
+          "Dendrites/physiology",
+          "Hippocampus/cytology/*physiology",
+          "Models, Neurological",
+          "Neural Inhibition/physiology",
+          "Orientation/*physiology",
+          "Pyramidal Cells/cytology/*physiology",
+          "Rats",
+          "Reaction Time/physiology",
+          "Space Perception/*physiology",
+          "Synaptic Transmission/physiology",
+          "Time Factors"
+     ],
+     "EDAT": "2003/09/10 05:00",
+     "MHDA": "2003/12/13 05:00",
+     "CRDT": [
+          "2003/09/10 05:00"
+     ],
+     "PHST": [
+          "2003/09/10 05:00 [pubmed]",
+          "2003/12/13 05:00 [medline]",
+          "2003/09/10 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.10116 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2003;13(6):700-14. doi: 10.1002/hipo.10116.",
+     "term": "place cells"
+}

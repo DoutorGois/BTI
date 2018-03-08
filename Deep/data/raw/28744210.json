@@ -1,0 +1,64 @@
+{
+     "PMID": "28744210",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20170728",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "11",
+     "DP": "2017",
+     "TI": "Transition Dynamics of a Dentate Gyrus-CA3 Neuronal Network during Temporal Lobe Epilepsy.",
+     "PG": "61",
+     "LID": "10.3389/fncom.2017.00061 [doi]",
+     "AB": "In temporal lobe epilepsy (TLE), the variation of chemical receptor expression underlies the basis of neural network activity shifts, resulting in neuronal hyperexcitability and epileptiform discharges. However, dynamical mechanisms involved in the transitions of TLE are not fully understood, because of the neuronal diversity and the indeterminacy of network connection. Hence, based on Hodgkin-Huxley (HH) type neurons and Pinsky-Rinzel (PR) type neurons coupling with glutamatergic and GABAergic synaptic connections respectively, we propose a computational framework which contains dentate gyrus (DG) region and CA3 region. By regulating the concentration range of N-methyl-D-aspartate-type glutamate receptor (NMDAR), we demonstrate the pyramidal neuron can generate transitions from interictal to seizure discharges. This suggests that enhanced endogenous activity of NMDAR contributes to excitability in pyramidal neuron. Moreover, we conclude that excitatory discharges in CA3 region vary considerably on account of the excitatory currents produced by the excitatory pyramidal neuron. Interestingly, by changing the backprojection connection, we find that glutamatergic type backprojection can promote the dominant frequency of firings and further motivate excitatory counterpropagation from CA3 region to DG region. However, GABAergic type backprojection can reduce firing rate and block morbid counterpropagation, which may be factored into the terminations of TLE. In addition, neuronal diversity dominated network shows weak correlation with different backprojections. Our modeling and simulation studies provide new insights into the mechanisms of seizures generation and connectionism in local hippocampus, along with the synaptic mechanisms of this disease.",
+     "FAU": [
+          "Zhang, Liyuan",
+          "Fan, Denggui",
+          "Wang, Qingyun"
+     ],
+     "AU": [
+          "Zhang L",
+          "Fan D",
+          "Wang Q"
+     ],
+     "AD": "Department of Dynamics and Control, Beihang UniversityBeijing, China. Department of Information and Computing Science, School of Mathematics and Physics, University of Science and Technology BeijingBeijing, China. Department of Dynamics and Control, Beihang UniversityBeijing, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170711",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC5504536",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "GABAergic receptor",
+          "dentate gyrus-CA3 network",
+          "dynamical transition",
+          "glutamatergic receptor",
+          "temporal lobe epilepsy"
+     ],
+     "EDAT": "2017/07/27 06:00",
+     "MHDA": "2017/07/27 06:01",
+     "CRDT": [
+          "2017/07/27 06:00"
+     ],
+     "PHST": [
+          "2017/05/24 00:00 [received]",
+          "2017/06/26 00:00 [accepted]",
+          "2017/07/27 06:00 [entrez]",
+          "2017/07/27 06:00 [pubmed]",
+          "2017/07/27 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2017.00061 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2017 Jul 11;11:61. doi: 10.3389/fncom.2017.00061. eCollection 2017.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,63 @@
+{
+     "PMID": "8634367",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19960711",
+     "LR": "20170714",
+     "IS": "0340-1200 (Print) 0340-1200 (Linking)",
+     "VI": "74",
+     "IP": "2",
+     "DP": "1996 Feb",
+     "TI": "Context codes and the effect of noisy learning on a simplified hippocampal CA3 model.",
+     "PG": "159-65",
+     "AB": "This paper investigates how noise affects a minimal computational model of the hippocampus and, in particular, region CA3. The architecture and physiology employed are consistent with the known anatomy and physiology of this region. Here, we use computer simulations to demonstrate and quantify the ability of this model to create context codes in sequential learning problems. These context codes are mediated by local context neurons which are analogous to hippocampal place-coding cells. These local context neurons endow the network with many of its problem-solving abilities. Our results show that the network encodes context on its own and then uses context to solve sequence prediction under ambiguous conditions. Noise during learning affects performance, and it also affects the development of context codes. The relationship between noise and performance in a sequence prediction is simple and corresponds to a disruption of local context neuron firing. As noise exceeds the signal, sequence completion and local context neuron firing are both lost. For the parameters investigated, extra learning trials and slower learning rates do not overcome either of the effects of noise. The results are consistent with the important role played, in this hippocampal model, by local context neurons in sequence prediction and for disambiguation across time.",
+     "FAU": [
+          "Wu, X",
+          "Baxter, R A",
+          "Levy, W B"
+     ],
+     "AU": [
+          "Wu X",
+          "Baxter RA",
+          "Levy WB"
+     ],
+     "AD": "Department of Neurosurgery, University of Virginia Health Sciences Center, Charlottesville 22908, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH00622/MH/NIMH NIH HHS/United States",
+          "MH48161/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "SB": "IM",
+     "MH": [
+          "Artifacts",
+          "Hippocampus/cytology/*physiology",
+          "Learning/*physiology",
+          "Mathematics",
+          "*Models, Neurological",
+          "Neurons/physiology"
+     ],
+     "EDAT": "1996/02/01 00:00",
+     "MHDA": "1996/02/01 00:01",
+     "CRDT": [
+          "1996/02/01 00:00"
+     ],
+     "PHST": [
+          "1996/02/01 00:00 [pubmed]",
+          "1996/02/01 00:01 [medline]",
+          "1996/02/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Cybern. 1996 Feb;74(2):159-65.",
+     "term": "hippocampus"
+}

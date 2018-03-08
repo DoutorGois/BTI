@@ -1,0 +1,102 @@
+{
+     "PMID": "26289473",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160708",
+     "LR": "20170220",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "114",
+     "IP": "4",
+     "DP": "2015 Oct",
+     "TI": "Spike sorting of synchronous spikes from local neuron ensembles.",
+     "PG": "2535-49",
+     "LID": "10.1152/jn.00993.2014 [doi]",
+     "AB": "Synchronous spike discharge of cortical neurons is thought to be a fingerprint of neuronal cooperativity. Because neighboring neurons are more densely connected to one another than neurons that are located further apart, near-synchronous spike discharge can be expected to be prevalent and it might provide an important basis for cortical computations. Using microelectrodes to record local groups of neurons does not allow for the reliable separation of synchronous spikes from different cells, because available spike sorting algorithms cannot correctly resolve the temporally overlapping waveforms. We show that high spike sorting performance of in vivo recordings, including overlapping spikes, can be achieved with a recently developed filter-based template matching procedure. Using tetrodes with a three-dimensional structure, we demonstrate with simulated data and ground truth in vitro data, obtained by dual intracellular recording of two neurons located next to a tetrode, that the spike sorting of synchronous spikes can be as successful as the spike sorting of nonoverlapping spikes and that the spatial information provided by multielectrodes greatly reduces the error rates. We apply the method to tetrode recordings from the prefrontal cortex of behaving primates, and we show that overlapping spikes can be identified and assigned to individual neurons to study synchronous activity in local groups of neurons.",
+     "CI": [
+          "Copyright (c) 2015 the American Physiological Society."
+     ],
+     "FAU": [
+          "Franke, Felix",
+          "Propper, Robert",
+          "Alle, Henrik",
+          "Meier, Philipp",
+          "Geiger, Jorg R P",
+          "Obermayer, Klaus",
+          "Munk, Matthias H J"
+     ],
+     "AU": [
+          "Franke F",
+          "Propper R",
+          "Alle H",
+          "Meier P",
+          "Geiger JR",
+          "Obermayer K",
+          "Munk MH"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0001-5550-1222"
+     ],
+     "AD": "Technische Universitat Berlin, School for Electrical Engineering and Computer Science, Berlin, Germany; Bernstein Center for Computational Neuroscience, Berlin, Germany; felix.franke@bsse.ethz.ch. Technische Universitat Berlin, School for Electrical Engineering and Computer Science, Berlin, Germany; Bernstein Center for Computational Neuroscience, Berlin, Germany; Charite Berlin, Berlin, Germany; Technische Universitat Berlin, School for Electrical Engineering and Computer Science, Berlin, Germany; Bernstein Center for Computational Neuroscience, Berlin, Germany; Charite Berlin, Berlin, Germany; Technische Universitat Berlin, School for Electrical Engineering and Computer Science, Berlin, Germany; Bernstein Center for Computational Neuroscience, Berlin, Germany; Fachbereich Biologie, Technische Universitat Darmstadt, Darmstadt, Germany; and Max Planck Institute for Biological Cybernetics, Tubingen, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20150819",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials",
+          "Animals",
+          "Computer Simulation",
+          "Electric Stimulation",
+          "Hippocampus/physiology",
+          "Macaca",
+          "Memory, Short-Term/physiology",
+          "Models, Neurological",
+          "Neurons/*physiology",
+          "Neuropsychological Tests",
+          "Patch-Clamp Techniques",
+          "Prefrontal Cortex/physiology",
+          "Rats, Wistar",
+          "*Signal Processing, Computer-Assisted",
+          "Tissue Culture Techniques",
+          "Visual Perception/physiology"
+     ],
+     "PMC": "PMC4725215",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "overlapping spikes",
+          "simultaneous intracellular and extracellular recordings",
+          "spike sorting",
+          "synchronous spikes",
+          "template matching"
+     ],
+     "EDAT": "2015/08/21 06:00",
+     "MHDA": "2016/07/09 06:00",
+     "CRDT": [
+          "2015/08/21 06:00"
+     ],
+     "PHST": [
+          "2014/12/10 00:00 [received]",
+          "2015/08/14 00:00 [accepted]",
+          "2015/08/21 06:00 [entrez]",
+          "2015/08/21 06:00 [pubmed]",
+          "2016/07/09 06:00 [medline]"
+     ],
+     "AID": [
+          "jn.00993.2014 [pii]",
+          "10.1152/jn.00993.2014 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2015 Oct;114(4):2535-49. doi: 10.1152/jn.00993.2014. Epub 2015 Aug 19.",
+     "term": "hippocampus"
+}

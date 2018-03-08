@@ -1,0 +1,72 @@
+{
+     "PMID": "24695724",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140522",
+     "LR": "20170922",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "34",
+     "IP": "14",
+     "DP": "2014 Apr 2",
+     "TI": "A hybrid oscillatory interference/continuous attractor network model of grid cell firing.",
+     "PG": "5065-79",
+     "LID": "10.1523/JNEUROSCI.4017-13.2014 [doi]",
+     "AB": "Grid cells in the rodent medial entorhinal cortex exhibit remarkably regular spatial firing patterns that tessellate all environments visited by the animal. Two theoretical mechanisms that could generate this spatially periodic activity pattern have been proposed: oscillatory interference and continuous attractor dynamics. Although a variety of evidence has been cited in support of each, some aspects of the two mechanisms are complementary, suggesting that a combined model may best account for experimental data. The oscillatory interference model proposes that the grid pattern is formed from linear interference patterns or \"periodic bands\" in which velocity-controlled oscillators integrate self-motion to code displacement along preferred directions. However, it also allows the use of symmetric recurrent connectivity between grid cells to provide relative stability and continuous attractor dynamics. Here, we present simulations of this type of hybrid model, demonstrate that it generates intracellular membrane potential profiles that closely match those observed in vivo, addresses several criticisms aimed at pure oscillatory interference and continuous attractor models, and provides testable predictions for future empirical studies.",
+     "FAU": [
+          "Bush, Daniel",
+          "Burgess, Neil"
+     ],
+     "AU": [
+          "Bush D",
+          "Burgess N"
+     ],
+     "AD": "Institute of Cognitive Neuroscience, University College London, London WC1N 3AR, United Kingdom, and Institute of Neurology, University College London, London WC1N 3BG, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "095811/Wellcome Trust/United Kingdom",
+          "G0300117/Medical Research Council/United Kingdom",
+          "G1002276/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Biological Clocks/*physiology",
+          "Computer Simulation",
+          "Entorhinal Cortex/cytology",
+          "Environment",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Nonlinear Dynamics",
+          "Space Perception/physiology"
+     ],
+     "PMC": "PMC3972729",
+     "EDAT": "2014/04/04 06:00",
+     "MHDA": "2014/05/23 06:00",
+     "CRDT": [
+          "2014/04/04 06:00"
+     ],
+     "PHST": [
+          "2014/04/04 06:00 [entrez]",
+          "2014/04/04 06:00 [pubmed]",
+          "2014/05/23 06:00 [medline]"
+     ],
+     "AID": [
+          "34/14/5065 [pii]",
+          "10.1523/JNEUROSCI.4017-13.2014 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2014 Apr 2;34(14):5065-79. doi: 10.1523/JNEUROSCI.4017-13.2014.",
+     "term": "grid cells"
+}

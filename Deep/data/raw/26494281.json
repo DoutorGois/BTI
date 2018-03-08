@@ -1,0 +1,85 @@
+{
+     "PMID": "26494281",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160726",
+     "LR": "20151215",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "72",
+     "DP": "2015 Dec",
+     "TI": "A GPU-accelerated cortical neural network model for visually guided robot navigation.",
+     "PG": "75-87",
+     "LID": "10.1016/j.neunet.2015.09.005 [doi] S0893-6080(15)00180-X [pii]",
+     "AB": "Humans and other terrestrial animals use vision to traverse novel cluttered environments with apparent ease. On one hand, although much is known about the behavioral dynamics of steering in humans, it remains unclear how relevant perceptual variables might be represented in the brain. On the other hand, although a wealth of data exists about the neural circuitry that is concerned with the perception of self-motion variables such as the current direction of travel, little research has been devoted to investigating how this neural circuitry may relate to active steering control. Here we present a cortical neural network model for visually guided navigation that has been embodied on a physical robot exploring a real-world environment. The model includes a rate based motion energy model for area V1, and a spiking neural network model for cortical area MT. The model generates a cortical representation of optic flow, determines the position of objects based on motion discontinuities, and combines these signals with the representation of a goal location to produce motor commands that successfully steer the robot around obstacles toward the goal. The model produces robot trajectories that closely match human behavioral data. This study demonstrates how neural signals in a model of cortical area MT might provide sufficient motion information to steer a physical robot on human-like paths around obstacles in a real-world environment, and exemplifies the importance of embodiment, as behavior is deeply coupled not only with the underlying model of brain function, but also with the anatomical constraints of the physical body it controls.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Beyeler, Michael",
+          "Oros, Nicolas",
+          "Dutt, Nikil",
+          "Krichmar, Jeffrey L"
+     ],
+     "AU": [
+          "Beyeler M",
+          "Oros N",
+          "Dutt N",
+          "Krichmar JL"
+     ],
+     "AD": "Department of Computer Science, University of California Irvine, Irvine, CA, USA. Electronic address: mbeyeler@uci.edu. Department of Cognitive Sciences, University of California Irvine, Irvine, CA, USA. Department of Computer Science, University of California Irvine, Irvine, CA, USA; Department of Cognitive Sciences, University of California Irvine, Irvine, CA, USA. Department of Computer Science, University of California Irvine, Irvine, CA, USA; Department of Cognitive Sciences, University of California Irvine, Irvine, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20151009",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Humans",
+          "Motion",
+          "Motion Perception",
+          "*Neural Networks (Computer)",
+          "*Robotics",
+          "Spatial Navigation/*physiology",
+          "Visual Perception/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "GPU",
+          "MT",
+          "Motion energy",
+          "Obstacle avoidance",
+          "Robot navigation",
+          "Spiking neural network"
+     ],
+     "EDAT": "2015/10/24 06:00",
+     "MHDA": "2016/07/28 06:00",
+     "CRDT": [
+          "2015/10/24 06:00"
+     ],
+     "PHST": [
+          "2015/02/14 00:00 [received]",
+          "2015/07/17 00:00 [revised]",
+          "2015/09/22 00:00 [accepted]",
+          "2015/10/24 06:00 [entrez]",
+          "2015/10/24 06:00 [pubmed]",
+          "2016/07/28 06:00 [medline]"
+     ],
+     "AID": [
+          "S0893-6080(15)00180-X [pii]",
+          "10.1016/j.neunet.2015.09.005 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2015 Dec;72:75-87. doi: 10.1016/j.neunet.2015.09.005. Epub 2015 Oct 9.",
+     "term": "spatial navigation"
+}

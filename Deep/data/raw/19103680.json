@@ -1,0 +1,73 @@
+{
+     "PMID": "19103680",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20091207",
+     "LR": "20170922",
+     "IS": "1469-7793 (Electronic) 0022-3751 (Linking)",
+     "VI": "587",
+     "IP": "Pt 4",
+     "DP": "2009 Feb 15",
+     "TI": "Neuronal oscillations and the rate-to-phase transform: mechanism, model and mutual information.",
+     "PG": "769-85",
+     "LID": "10.1113/jphysiol.2008.164111 [doi]",
+     "AB": "Theoretical and experimental studies suggest that oscillatory modes of processing play an important role in neuronal computations. One well supported idea is that the net excitatory input during oscillations will be reported in the phase of firing, a 'rate-to-phase transform', and that this transform might enable a temporal code. Here, we investigate the efficiency of this code at the level of fundamental single cell computations. We first develop a general framework for the understanding of the rate-to-phase transform as implemented by single neurons. Using whole cell patch-clamp recordings of rat hippocampal pyramidal neurons in vitro, we investigated the relationship between tonic excitation and phase of firing during simulated theta frequency (5 Hz) and gamma frequency (40 Hz) oscillations, over a range of physiological firing rates. During theta frequency oscillations, the phase of the first spike per cycle was a near-linear function of tonic excitation, advancing through a full 180 deg, from the peak to the trough of the oscillation cycle as excitation increased. In contrast, this relationship was not apparent for gamma oscillations, during which the phase of firing was virtually independent of the level of tonic excitatory input within the range of physiological firing rates. We show that a simple analytical model can substantially capture this behaviour, enabling generalization to other oscillatory states and cell types. The capacity of such a transform to encode information is limited by the temporal precision of neuronal activity. Using the data from our whole cell recordings, we calculated the information about the input available in the rate or phase of firing, and found the phase code to be significantly more efficient. Thus, temporal modes of processing can enable neuronal coding to be inherently more efficient, thereby allowing a reduction in processing time or in the number of neurons required.",
+     "FAU": [
+          "McLelland, Douglas",
+          "Paulsen, Ole"
+     ],
+     "AU": [
+          "McLelland D",
+          "Paulsen O"
+     ],
+     "AD": "Department of Physiology, Anatomy and Genetics, University of Oxford, Oxford, UK. douglas.mclelland@dpag.ox.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "BB/D015758/1/Biotechnology and Biological Sciences Research Council/United",
+          "Kingdom",
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20081222",
+     "PL": "England",
+     "TA": "J Physiol",
+     "JT": "The Journal of physiology",
+     "JID": "0266262",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Biological Clocks/*physiology",
+          "Hippocampus/cytology/physiology",
+          "*Models, Neurological",
+          "Neurons/cytology/physiology",
+          "Patch-Clamp Techniques/methods",
+          "Rats",
+          "Rats, Wistar",
+          "Time Factors"
+     ],
+     "PMC": "PMC2669970",
+     "EDAT": "2008/12/24 09:00",
+     "MHDA": "2009/12/16 06:00",
+     "CRDT": [
+          "2008/12/24 09:00"
+     ],
+     "PHST": [
+          "2008/12/24 09:00 [entrez]",
+          "2008/12/24 09:00 [pubmed]",
+          "2009/12/16 06:00 [medline]"
+     ],
+     "AID": [
+          "jphysiol.2008.164111 [pii]",
+          "10.1113/jphysiol.2008.164111 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Physiol. 2009 Feb 15;587(Pt 4):769-85. doi: 10.1113/jphysiol.2008.164111. Epub 2008 Dec 22.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,73 @@
+{
+     "PMID": "19616410",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20091102",
+     "LR": "20090811",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "22",
+     "IP": "5-6",
+     "DP": "2009 Jul-Aug",
+     "TI": "Here and now: how time segments may become events in the hippocampus.",
+     "PG": "738-47",
+     "LID": "10.1016/j.neunet.2009.06.020 [doi]",
+     "AB": "The hippocampal formation is believed to play a central role in memory functions related to the representation of events. Events are usually considered as temporally bounded processes, in contrast to the continuous nature of sensory signal flow they originate from. Events are then organized and stored according to behavioral relevance and are used to facilitate prediction of similar events. In this paper we are interested in the kind of representation of sensory signals that allows for detecting and/or predicting events. Based on new results on the identification problem of linear hidden processes, we propose a connectionist network with biologically sound parameter tuning that can represent causal relationships and define events. Interestingly, the wiring diagram of our architecture not only resembles the gross anatomy of the hippocampal formation (including the entorhinal cortex), but it also features similar spatial distribution functions of activity (localized and periodic, 'grid-like' patterns) as found in the different parts of the hippocampal formation. We shortly discuss how our model corresponds to different theories on the role of the hippocampal formation in forming episodic memories or supporting spatial navigation. We speculate that our approach may constitute a step toward a unified theory about the functional role of the hippocampus and the structure of memory representations.",
+     "FAU": [
+          "Lorincz, Andras",
+          "Szirtes, Gabor"
+     ],
+     "AU": [
+          "Lorincz A",
+          "Szirtes G"
+     ],
+     "AD": "Department of Software Technology and Methodology, Eotvos Lorand University, Pazmany setany 1/C, Budapest, H-1117, Hungary. andras.lorincz@elte.hu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090701",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/anatomy & histology/*physiology",
+          "Learning/physiology",
+          "Linear Models",
+          "Memory/*physiology",
+          "*Models, Neurological",
+          "Neurons/physiology",
+          "Nonlinear Dynamics",
+          "Psychomotor Performance/physiology",
+          "Rats",
+          "Spatial Behavior/physiology",
+          "Time Factors"
+     ],
+     "EDAT": "2009/07/21 09:00",
+     "MHDA": "2009/11/03 06:00",
+     "CRDT": [
+          "2009/07/21 09:00"
+     ],
+     "PHST": [
+          "2009/05/06 00:00 [received]",
+          "2009/05/25 00:00 [revised]",
+          "2009/06/25 00:00 [accepted]",
+          "2009/07/21 09:00 [entrez]",
+          "2009/07/21 09:00 [pubmed]",
+          "2009/11/03 06:00 [medline]"
+     ],
+     "AID": [
+          "S0893-6080(09)00143-9 [pii]",
+          "10.1016/j.neunet.2009.06.020 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2009 Jul-Aug;22(5-6):738-47. doi: 10.1016/j.neunet.2009.06.020. Epub 2009 Jul 1.",
+     "term": "spatial navigation"
+}

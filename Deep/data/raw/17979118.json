@@ -1,0 +1,77 @@
+{
+     "PMID": "17979118",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090227",
+     "LR": "20081125",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "29",
+     "IP": "12",
+     "DP": "2008 Dec",
+     "TI": "Validation of a fully automated hippocampal segmentation method on patients with dementia.",
+     "PG": "1442-9",
+     "AB": "We describe a fully automated method for hippocampal segmentation. The method uses SPM5 (http://www.fil.ion.ucl.ac.uk/spm/) software to segment the brain into grey/white matter, and spatially normalize the images to standard space. Grey matter pixels within a predefined hippocampal region in standard space are identified to segment the hippocampi. The method was validated on 36 subjects (9 each of Alzheimer's disease, dementia with Lewy bodies, vascular dementia, and healthy controls). The mean absolute difference in volume compared with manual segmentation was 11% (SD 9%). Linear regression between manual and automated volume gave V(auto) = V(manual) x 0.83 + 401 ml. The method provides an acceptable automated alternative to manual segmentation which may be of value in large studies.",
+     "CI": [
+          "Copyright 2007 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Firbank, Michael J",
+          "Barber, Robert",
+          "Burton, Emma J",
+          "O'Brien, John T"
+     ],
+     "AU": [
+          "Firbank MJ",
+          "Barber R",
+          "Burton EJ",
+          "O'Brien JT"
+     ],
+     "AD": "Institute for Ageing and Health, Newcastle University, Wolfson Research Centre, Westgate Road, Newcastle upon Tyne NE4 6BE, United Kingdom. m.j.firbank@ncl.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/pathology/physiopathology",
+          "Automation/methods",
+          "Brain Mapping/*methods",
+          "Dementia/*pathology/physiopathology",
+          "Dementia, Vascular/pathology/physiopathology",
+          "Female",
+          "Hippocampus/*pathology/physiopathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Lewy Body Disease/pathology/physiopathology",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Predictive Value of Tests",
+          "Software",
+          "*Software Validation"
+     ],
+     "EDAT": "2007/11/06 09:00",
+     "MHDA": "2009/02/28 09:00",
+     "CRDT": [
+          "2007/11/06 09:00"
+     ],
+     "PHST": [
+          "2007/11/06 09:00 [pubmed]",
+          "2009/02/28 09:00 [medline]",
+          "2007/11/06 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hbm.20480 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2008 Dec;29(12):1442-9. doi: 10.1002/hbm.20480.",
+     "term": "hippocampus"
+}

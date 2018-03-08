@@ -1,0 +1,99 @@
+{
+     "PMID": "26690808",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180209",
+     "LR": "20180209",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "145",
+     "IP": "Pt B",
+     "DP": "2017 Jan 15",
+     "TI": "Machine learning of structural magnetic resonance imaging predicts psychopathic traits in adolescent offenders.",
+     "PG": "265-273",
+     "LID": "S1053-8119(15)01126-X [pii] 10.1016/j.neuroimage.2015.12.013 [doi]",
+     "AB": "Classification models are becoming useful tools for finding patterns in neuroimaging data sets that are not observable to the naked eye. Many of these models are applied to discriminating clinical groups such as schizophrenic patients from healthy controls or from patients with bipolar disorder. A more nuanced model might be to discriminate between levels of personality traits. Here, as a proof of concept, we take an initial step toward developing prediction models to differentiate individuals based on a personality disorder: psychopathy. We included three groups of adolescent participants: incarcerated youth with elevated psychopathic traits (i.e., callous and unemotional traits and conduct disordered traits; n=71), incarcerated youth with low psychopathic traits (n=72), and non-incarcerated youth as healthy controls (n=21). Support vector machine (SVM) learning models were developed to separate these groups using an out-of-sample cross-validation method on voxel-based morphometry (VBM) data. Regions of interest from the paralimbic system, identified in an independent forensic sample, were successful in differentiating youth groups. Models seeking to classify incarcerated individuals to have high or low psychopathic traits achieved 69.23% overall accuracy. As expected, accuracy increased in models differentiating healthy controls from individuals with high psychopathic traits (82.61%) and low psychopathic traits (80.65%). Here we have laid the foundation for using neural correlates of personality traits to identify group membership within and beyond psychopathy. This is only the first step, of many, toward prediction models using neural measures as a proxy for personality traits. As these methods are improved, prediction models with neural measures of personality traits could have far-reaching impact on diagnosis, treatment, and prediction of future behavior.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Steele, Vaughn R",
+          "Rao, Vikram",
+          "Calhoun, Vince D",
+          "Kiehl, Kent A"
+     ],
+     "AU": [
+          "Steele VR",
+          "Rao V",
+          "Calhoun VD",
+          "Kiehl KA"
+     ],
+     "AD": "Intramural Research Program, Neuroimaging Research Branch, National Institute of Drug Abuse, National Institutes of Health, Baltimore, MD, USA; The Nonprofit Mind Research Network (MRN) and Lovelace Biomedical and Environmental Research Institute (LBERI), Albuquerque, NM, USA; Department of Psychology, University of New Mexico, Albuquerque, NM, USA. Electronic address: vaughn.r.steele@gmail.com. The Nonprofit Mind Research Network (MRN) and Lovelace Biomedical and Environmental Research Institute (LBERI), Albuquerque, NM, USA. The Nonprofit Mind Research Network (MRN) and Lovelace Biomedical and Environmental Research Institute (LBERI), Albuquerque, NM, USA; Department of Electrical and Computer Engineering, University of New Mexico, Albuquerque, NM, USA; Department of Psychiatry, University of New Mexico, Albuquerque, NM, USA; Department of Neurosciences, University of New Mexico, Albuquerque, NM, USA. The Nonprofit Mind Research Network (MRN) and Lovelace Biomedical and Environmental Research Institute (LBERI), Albuquerque, NM, USA; Department of Psychology, University of New Mexico, Albuquerque, NM, USA; Department of Neurosciences, University of New Mexico, Albuquerque, NM, USA. Electronic address: kkiehl@mrn.org.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB006841/EB/NIBIB NIH HHS/United States",
+          "R01 HD082257/HD/NICHD NIH HHS/United States",
+          "R01 MH071896/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20151212",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Amygdala/*diagnostic imaging",
+          "Antisocial Personality Disorder/*diagnostic imaging/physiopathology",
+          "Cerebral Cortex/*diagnostic imaging",
+          "Conduct Disorder/*diagnostic imaging/physiopathology",
+          "*Criminals",
+          "Hippocampus/*diagnostic imaging",
+          "Humans",
+          "Juvenile Delinquency",
+          "*Machine Learning",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Prisoners",
+          "*Support Vector Machine",
+          "Young Adult"
+     ],
+     "PMC": "PMC4903946",
+     "MID": [
+          "NIHMS745002"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Prediction",
+          "Psychopathy",
+          "SVM",
+          "Voxel-based morphometry"
+     ],
+     "EDAT": "2015/12/23 06:00",
+     "MHDA": "2018/02/10 06:00",
+     "CRDT": [
+          "2015/12/23 06:00"
+     ],
+     "PHST": [
+          "2015/07/15 00:00 [received]",
+          "2015/12/07 00:00 [revised]",
+          "2015/12/09 00:00 [accepted]",
+          "2015/12/23 06:00 [pubmed]",
+          "2018/02/10 06:00 [medline]",
+          "2015/12/23 06:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(15)01126-X [pii]",
+          "10.1016/j.neuroimage.2015.12.013 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2017 Jan 15;145(Pt B):265-273. doi: 10.1016/j.neuroimage.2015.12.013. Epub 2015 Dec 12.",
+     "term": "hippocampus"
+}

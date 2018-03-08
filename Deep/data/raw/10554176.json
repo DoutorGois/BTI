@@ -1,0 +1,65 @@
+{
+     "PMID": "10554176",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19991123",
+     "LR": "20031114",
+     "IS": "0196-4763 (Print) 0196-4763 (Linking)",
+     "VI": "35",
+     "IP": "1",
+     "DP": "1999 Jan 1",
+     "TI": "Segmentation of tissue architecture by distance graph matching.",
+     "PG": "11-22",
+     "AB": "BACKGROUND: Characterization of tissues can be based on the topographical relationship between the cells. Such characterization should be insensitive to distortions intrinsic to the acquisition of biological preparation. In this paper, a method for the robust segmentation of tissues based on the spatial distribution of cells is proposed. MATERIALS AND METHODS: The neighborhood of each cell in the tissue is modeled by the distances to the surrounding cells. Comparison with an example or prototype neighborhood reveals topographical similarity between tissue and prototype. Processing of all cells in the tissue extracts the regions with tissue architecture similar to the given example. RESULTS: Comparison with other topographical-segmentation methods shows that the proposed method is better suited for partitioning tissue architecture. As an example, the quantification of the structural integrity in rat hippocampi after ischemia is demonstrated. In contrast to other methods, the algorithm correlates well with expert evaluation. CONCLUSIONS: The present method reduces the nonbiological variation in the analysis of tissue sections and thus improves confidence in the result. The method can be applied to any field where regular patterns have to be detected, as long as the directional distribution of neighbors may be neglected.",
+     "FAU": [
+          "Geusebroek, J M",
+          "Smeulders, A W",
+          "Cornelissen, F",
+          "Geerts, H"
+     ],
+     "AU": [
+          "Geusebroek JM",
+          "Smeulders AW",
+          "Cornelissen F",
+          "Geerts H"
+     ],
+     "AD": "Department of Computer Science, Faculty of Science, University of Amsterdam, The Netherlands. mark@wins.uva.nl",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Cytometry",
+     "JT": "Cytometry",
+     "JID": "8102328",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Brain Ischemia/pathology",
+          "Hippocampus/blood supply/*cytology/pathology",
+          "Image Processing, Computer-Assisted/economics/*methods",
+          "Microscopy, Video/*methods",
+          "Models, Neurological",
+          "Rats",
+          "Software"
+     ],
+     "EDAT": "1999/11/30 09:00",
+     "MHDA": "2000/06/20 09:00",
+     "CRDT": [
+          "1999/11/30 09:00"
+     ],
+     "PHST": [
+          "1999/11/30 09:00 [pubmed]",
+          "2000/06/20 09:00 [medline]",
+          "1999/11/30 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/(SICI)1097-0320(19990101)35:1<11::AID-CYTO3>3.0.CO;2-X [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cytometry. 1999 Jan 1;35(1):11-22.",
+     "term": "hippocampus"
+}

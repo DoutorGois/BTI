@@ -1,0 +1,73 @@
+{
+     "PMID": "25571504",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151013",
+     "LR": "20161025",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2014",
+     "DP": "2014",
+     "TI": "Implementation of the excitatory entorhinal-dentate-CA3 topography in a large-scale computational model of the rat hippocampus.",
+     "PG": "6581-4",
+     "LID": "10.1109/EMBC.2014.6945136 [doi]",
+     "AB": "The topography, or the anatomical connectivity, of the excitatory entorhinal-dentate-CA3 circuit of the rat hippocampus has been implemented for a large-scale, biologically realistic, computational model of the rat hippocampus. The implementation thus far covers only the excitatory synapses for the principal neurons in the hippocampal subregions. Starting from layer II of the entorhinal cortex, the projection of their perforant path axons has been mapped across the full extent of the dentate gyrus as well as to the CA3. The mossy fiber axon trajectories from the dentate granule cells to the CA3 pyramidal cells have been derived, incorporating the transverse route the fibers take through the CA3c and CA3b and the septo-temporal turn in the CA3a. The extensive arborization of the CA3 pyramidal axons have been modeled using 2-D, skewed Gaussian distributions which have been parametrized to exhibit the differences that exist among the CA3a, CA3b, and CA3c auto-associational projections. Using the limited samples available from the literature, key parameters for each projection have been interpolated as a function of transverse and/or septo-temporal position in order to create a more complete representation of the topography.",
+     "FAU": [
+          "Yu, Gene",
+          "Song, Dong",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Yu G",
+          "Song D",
+          "Berger TW"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB001978/EB/NIBIB NIH HHS/United States",
+          "U01 GM104604/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Axons/physiology",
+          "CA3 Region, Hippocampal/*cytology",
+          "Dentate Gyrus/cytology",
+          "Entorhinal Cortex/physiology",
+          "*Models, Neurological",
+          "Pyramidal Cells/physiology",
+          "Rats",
+          "Synapses/physiology"
+     ],
+     "PMC": "PMC4494103",
+     "MID": [
+          "NIHMS702508"
+     ],
+     "EDAT": "2015/01/09 06:00",
+     "MHDA": "2015/10/16 06:00",
+     "CRDT": [
+          "2015/01/09 06:00"
+     ],
+     "PHST": [
+          "2015/01/09 06:00 [entrez]",
+          "2015/01/09 06:00 [pubmed]",
+          "2015/10/16 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2014.6945136 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2014;2014:6581-4. doi: 10.1109/EMBC.2014.6945136.",
+     "term": "hippocampus"
+}

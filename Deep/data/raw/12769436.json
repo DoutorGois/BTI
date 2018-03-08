@@ -1,0 +1,92 @@
+{
+     "PMID": "12769436",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030701",
+     "LR": "20111206",
+     "IS": "0018-9294 (Print) 0018-9294 (Linking)",
+     "VI": "50",
+     "IP": "5",
+     "DP": "2003 May",
+     "TI": "Epileptic seizure prediction using hybrid feature selection over multiple intracranial EEG electrode contacts: a report of four patients.",
+     "PG": "603-15",
+     "AB": "Epileptic seizure prediction has steadily evolved from its conception in the 1970s, to proof-of-principle experiments in the late 1980s and 1990s, to its current place as an area of vigorous, clinical and laboratory investigation. As a step toward practical implementation of this technology in humans, we present an individualized method for selecting electroencephalogram (EEG) features and electrode locations for seizure prediction focused on precursors that occur within ten minutes of electrographic seizure onset. This method applies an intelligent genetic search process to EEG signals simultaneously collected from multiple intracranial electrode contacts and multiple quantitative features derived from these signals. The algorithm is trained on a series of baseline and preseizure records and then validated on other, previously unseen data using split sample validation techniques. The performance of this method is demonstrated on multiday recordings obtained from four patients implanted with intracranial electrodes during evaluation for epilepsy surgery. An average probability of prediction (or block sensitivity) of 62.5% was achieved in this group, with an average block false positive (FP) rate of 0.2775 FP predictions/h, corresponding to 90.47% specificity. These findings are presented as an example of a method for training, testing and validating a seizure prediction system on data from individual patients. Given the heterogeneity of epilepsy, it is likely that methods of this type will be required to configure intelligent devices for treating epilepsy to each individual's neurophysiology prior to clinical deployment.",
+     "FAU": [
+          "D'Alessandro, Maryann",
+          "Esteller, Rosana",
+          "Vachtsevanos, George",
+          "Hinson, Arthur",
+          "Echauz, Javier",
+          "Litt, Brian"
+     ],
+     "AU": [
+          "D'Alessandro M",
+          "Esteller R",
+          "Vachtsevanos G",
+          "Hinson A",
+          "Echauz J",
+          "Litt B"
+     ],
+     "AD": "Department of Electrical and Computer En-gineering, Georgia Institute of Technology, Atlanta, GA 30332 USA. maryann0625@hotmail.com",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH-62298R01/MH/NIMH NIH HHS/United States",
+          "R01MN062298-02/MN/OMHHE CDC HHS/United States",
+          "R01NS041811-01/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Case Reports",
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "SB": "IM",
+     "EIN": [
+          "IEEE Trans Biomed Eng. 2003 Aug;50(8):1041"
+     ],
+     "MH": [
+          "Adult",
+          "*Algorithms",
+          "Brain Mapping/*methods",
+          "Computer Simulation",
+          "Electrodes, Implanted",
+          "Electroencephalography/*methods",
+          "Epilepsy/classification/diagnosis/physiopathology",
+          "False Positive Reactions",
+          "Hippocampus/physiopathology",
+          "Humans",
+          "Middle Aged",
+          "Pattern Recognition, Automated",
+          "Quality Control",
+          "Reproducibility of Results",
+          "Seizures/classification/*diagnosis/physiopathology",
+          "Sensitivity and Specificity",
+          "Signal Processing, Computer-Assisted",
+          "Temporal Lobe/physiopathology"
+     ],
+     "EDAT": "2003/05/29 05:00",
+     "MHDA": "2003/07/02 05:00",
+     "CRDT": [
+          "2003/05/29 05:00"
+     ],
+     "PHST": [
+          "2003/05/29 05:00 [pubmed]",
+          "2003/07/02 05:00 [medline]",
+          "2003/05/29 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TBME.2003.815899 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 2003 May;50(5):603-15. doi: 10.1109/TBME.2003.815899.",
+     "term": "hippocampus"
+}

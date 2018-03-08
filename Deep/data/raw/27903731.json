@@ -1,0 +1,86 @@
+{
+     "PMID": "27903731",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170818",
+     "LR": "20170818",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "36",
+     "IP": "48",
+     "DP": "2016 Nov 30",
+     "TI": "Memory Transformation Enhances Reinforcement Learning in Dynamic Environments.",
+     "PG": "12228-12242",
+     "AB": "Over the course of systems consolidation, there is a switch from a reliance on detailed episodic memories to generalized schematic memories. This switch is sometimes referred to as \"memory transformation.\" Here we demonstrate a previously unappreciated benefit of memory transformation, namely, its ability to enhance reinforcement learning in a dynamic environment. We developed a neural network that is trained to find rewards in a foraging task where reward locations are continuously changing. The network can use memories for specific locations (episodic memories) and statistical patterns of locations (schematic memories) to guide its search. We find that switching from an episodic to a schematic strategy over time leads to enhanced performance due to the tendency for the reward location to be highly correlated with itself in the short-term, but regress to a stable distribution in the long-term. We also show that the statistics of the environment determine the optimal utilization of both types of memory. Our work recasts the theoretical question of why memory transformation occurs, shifting the focus from the avoidance of memory interference toward the enhancement of reinforcement learning across multiple timescales. SIGNIFICANCE STATEMENT: As time passes, memories transform from a highly detailed state to a more gist-like state, in a process called \"memory transformation.\" Theories of memory transformation speak to its advantages in terms of reducing memory interference, increasing memory robustness, and building models of the environment. However, the role of memory transformation from the perspective of an agent that continuously acts and receives reward in its environment is not well explored. In this work, we demonstrate a view of memory transformation that defines it as a way of optimizing behavior across multiple timescales.",
+     "CI": [
+          "Copyright (c) 2016 the authors 0270-6474/16/3612228-15$15.00/0."
+     ],
+     "FAU": [
+          "Santoro, Adam",
+          "Frankland, Paul W",
+          "Richards, Blake A"
+     ],
+     "AU": [
+          "Santoro A",
+          "Frankland PW",
+          "Richards BA"
+     ],
+     "AD": "Institute of Medical Sciences, University of Toronto, Toronto, Ontario M5S 1AB, Canada. Program in Neurosciences and Mental Health, Hospital for Sick Children, Toronto, Ontario M5G 1X8, Canada. Institute of Medical Sciences, University of Toronto, Toronto, Ontario M5S 1AB, Canada, paul.frankland@sickkids.ca blake.richards@utoronto.ca. Program in Neurosciences and Mental Health, Hospital for Sick Children, Toronto, Ontario M5G 1X8, Canada. Department of Psychology, University of Toronto, Toronto, Ontario M5S 3G3, Canada. Department of Physiology, University of Toronto, Toronto, Ontario M5S 1A8, Canada. Department of Biological Sciences, University of Toronto Scarborough, Toronto, Ontario M1C 1A4, Canada, and paul.frankland@sickkids.ca blake.richards@utoronto.ca. Department of Cell and Systems Biology, University of Toronto, Toronto, Ontario M5S 3G5, Canada.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0001-9662-2151"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Adaptation, Physiological/physiology",
+          "Animals",
+          "Choice Behavior/physiology",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Memory, Episodic",
+          "Memory, Short-Term/*physiology",
+          "Mental Recall/*physiology",
+          "*Models, Neurological",
+          "*Reward"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "computational modeling",
+          "decision making",
+          "episodic memory",
+          "memory transformation",
+          "reinforcement learning",
+          "schema"
+     ],
+     "EDAT": "2016/12/03 06:00",
+     "MHDA": "2017/08/19 06:00",
+     "CRDT": [
+          "2016/12/02 06:00"
+     ],
+     "PHST": [
+          "2016/03/08 00:00 [received]",
+          "2016/08/15 00:00 [revised]",
+          "2016/09/28 00:00 [accepted]",
+          "2016/12/02 06:00 [entrez]",
+          "2016/12/03 06:00 [pubmed]",
+          "2017/08/19 06:00 [medline]"
+     ],
+     "AID": [
+          "36/48/12228 [pii]",
+          "10.1523/JNEUROSCI.0763-16.2016 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2016 Nov 30;36(48):12228-12242. doi: 10.1523/JNEUROSCI.0763-16.2016.",
+     "term": "hippocampus"
+}

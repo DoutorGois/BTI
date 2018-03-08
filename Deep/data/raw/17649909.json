@@ -1,0 +1,104 @@
+{
+     "PMID": "17649909",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070823",
+     "LR": "20170220",
+     "IS": "0278-0062 (Print) 0278-0062 (Linking)",
+     "VI": "26",
+     "IP": "7",
+     "DP": "2007 Jul",
+     "TI": "A statistical analysis of brain morphology using wild bootstrapping.",
+     "PG": "954-66",
+     "AB": "Methods for the analysis of brain morphology, including voxel-based morphology and surface-based morphometries, have been used to detect associations between brain structure and covariates of interest, such as diagnosis, severity of disease, age, IQ, and genotype. The statistical analysis of morphometric measures usually involves two statistical procedures: 1) invoking a statistical model at each voxel (or point) on the surface of the brain or brain subregion, followed by mapping test statistics (e.g., t test) or their associated p values at each of those voxels; 2) correction for the multiple statistical tests conducted across all voxels on the surface of the brain region under investigation. We propose the use of new statistical methods for each of these procedures. We first use a heteroscedastic linear model to test the associations between the morphological measures at each voxel on the surface of the specified subregion (e.g., cortical or subcortical surfaces) and the covariates of interest. Moreover, we develop a robust test procedure that is based on a resampling method, called wild bootstrapping. This procedure assesses the statistical significance of the associations between a measure of given brain structure and the covariates of interest. The value of this robust test procedure lies in its computationally simplicity and in its applicability to a wide range of imaging data, including data from both anatomical and functional magnetic resonance imaging (fMRI). Simulation studies demonstrate that this robust test procedure can accurately control the family-wise error rate. We demonstrate the application of this robust test procedure to the detection of statistically significant differences in the morphology of the hippocampus over time across gender groups in a large sample of healthy subjects.",
+     "FAU": [
+          "Zhu, Hongtu",
+          "Ibrahim, Joseph G",
+          "Tang, Niansheng",
+          "Rowe, Daniel B",
+          "Hao, Xuejun",
+          "Bansal, Ravi",
+          "Peterson, Bradley S"
+     ],
+     "AU": [
+          "Zhu H",
+          "Ibrahim JG",
+          "Tang N",
+          "Rowe DB",
+          "Hao X",
+          "Bansal R",
+          "Peterson BS"
+     ],
+     "AD": "Department of Biostatistics and Biomedical Research Imaging Center, University of North Carolina, Chapel Hill, NC 27599-7420, USA. hzhu@bios.unc.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH068318-03/MH/NIMH NIH HHS/United States",
+          "R01 DA017820/DA/NIDA NIH HHS/United States",
+          "EB000215/EB/NIBIB NIH HHS/United States",
+          "CA 74015/CA/NCI NIH HHS/United States",
+          "DA017820/DA/NIDA NIH HHS/United States",
+          "R01 DA017820-04/DA/NIDA NIH HHS/United States",
+          "R01 GM070335/GM/NIGMS NIH HHS/United States",
+          "GM 70335/GM/NIGMS NIH HHS/United States",
+          "K02-74677/PHS HHS/United States",
+          "MH068318/MH/NIMH NIH HHS/United States",
+          "K02 MH074677/MH/NIMH NIH HHS/United States",
+          "K02 MH074677-03/MH/NIMH NIH HHS/United States",
+          "R01 MH068318-04/MH/NIMH NIH HHS/United States",
+          "R01 EB000215/EB/NIBIB NIH HHS/United States",
+          "R01 MH068318/MH/NIMH NIH HHS/United States",
+          "R01 CA074015/CA/NCI NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Algorithms",
+          "Brain/*anatomy & histology",
+          "Child",
+          "Computer Simulation",
+          "Data Interpretation, Statistical",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Information Storage and Retrieval/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Biological",
+          "Models, Statistical",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC2367010",
+     "MID": [
+          "NIHMS44419"
+     ],
+     "EDAT": "2007/07/26 09:00",
+     "MHDA": "2007/08/24 09:00",
+     "CRDT": [
+          "2007/07/26 09:00"
+     ],
+     "PHST": [
+          "2007/07/26 09:00 [pubmed]",
+          "2007/08/24 09:00 [medline]",
+          "2007/07/26 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TMI.2007.897396 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2007 Jul;26(7):954-66. doi: 10.1109/TMI.2007.897396.",
+     "term": "hippocampus"
+}

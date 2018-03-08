@@ -1,0 +1,110 @@
+{
+     "PMID": "17896593",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20071113",
+     "LR": "20170220",
+     "IS": "0278-0062 (Print) 0278-0062 (Linking)",
+     "VI": "26",
+     "IP": "9",
+     "DP": "2007 Sep",
+     "TI": "A hierarchical algorithm for MR brain image parcellation.",
+     "PG": "1201-12",
+     "AB": "We introduce an algorithm for segmenting brain magnetic resonance (MR) images into anatomical compartments such as the major tissue classes and neuro-anatomical structures of the gray matter. The algorithm is guided by prior information represented within a tree structure. The tree mirrors the hierarchy of anatomical structures and the subtrees correspond to limited segmentation problems. The solution to each problem is estimated via a conventional classifier. Our algorithm can be adapted to a wide range of segmentation problems by modifying the tree structure or replacing the classifier. We evaluate the performance of our new segmentation approach by revisiting a previously published statistical group comparison between first-episode schizophrenia patients, first-episode affective psychosis patients, and comparison subjects. The original study is based on 50 MR volumes in which an expert identified the brain tissue classes as well as the superior temporal gyrus, amygdala, and hippocampus. We generate analogous segmentations using our new method and repeat the statistical group comparison. The results of our analysis are similar to the original findings, except for one structure (the left superior temporal gyrus) in which a trend-level statistical significance (p = 0.07) was observed instead of statistical significance.",
+     "FAU": [
+          "Pohl, Kilian M",
+          "Bouix, Sylvain",
+          "Nakamura, Motoaki",
+          "Rohlfing, Torsten",
+          "McCarley, Robert W",
+          "Kikinis, Ron",
+          "Grimson, W Eric L",
+          "Shenton, Martha E",
+          "Wells, William M"
+     ],
+     "AU": [
+          "Pohl KM",
+          "Bouix S",
+          "Nakamura M",
+          "Rohlfing T",
+          "McCarley RW",
+          "Kikinis R",
+          "Grimson WE",
+          "Shenton ME",
+          "Wells WM"
+     ],
+     "AD": "Surgical Planning Laboratory, Harvard Medical School and Brigham and Women's Hospital, Boston, MA 02115, USA. pohl@csail.mit.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K05 MH 01110/MH/NIMH NIH HHS/United States",
+          "U24 RR021382/RR/NCRR NIH HHS/United States",
+          "R01 AA016748-01/AA/NIAAA NIH HHS/United States",
+          "R01 AA005965/AA/NIAAA NIH HHS/United States",
+          "R01 MH040799/MH/NIMH NIH HHS/United States",
+          "U01 AA013521/AA/NIAAA NIH HHS/United States",
+          "R37 AA005965/AA/NIAAA NIH HHS/United States",
+          "P41-RR13218/RR/NCRR NIH HHS/United States",
+          "R01-NS051826/NS/NINDS NIH HHS/United States",
+          "R01 AA016748/AA/NIAAA NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States",
+          "K02 MH001110-10/MH/NIMH NIH HHS/United States",
+          "R01 NS051826/NS/NINDS NIH HHS/United States",
+          "AA05965/AA/NIAAA NIH HHS/United States",
+          "R01 MH 50747/MH/NIMH NIH HHS/United States",
+          "AA13521/AA/NIAAA NIH HHS/United States",
+          "K02 MH001110/MH/NIMH NIH HHS/United States",
+          "K02 MH 01110/MH/NIMH NIH HHS/United States",
+          "P41 RR013218/RR/NCRR NIH HHS/United States",
+          "R01 MH 40799/MH/NIMH NIH HHS/United States",
+          "U24-RR021382/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "Affective Disorders, Psychotic/*diagnosis",
+          "*Algorithms",
+          "Artificial Intelligence",
+          "Brain/*pathology",
+          "Computer Simulation",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Neurological",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Schizophrenia/*diagnosis",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC2768067",
+     "MID": [
+          "NIHMS152488"
+     ],
+     "EDAT": "2007/09/28 09:00",
+     "MHDA": "2007/11/14 09:00",
+     "CRDT": [
+          "2007/09/28 09:00"
+     ],
+     "PHST": [
+          "2007/09/28 09:00 [pubmed]",
+          "2007/11/14 09:00 [medline]",
+          "2007/09/28 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TMI.2007.901433 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2007 Sep;26(9):1201-12. doi: 10.1109/TMI.2007.901433.",
+     "term": "hippocampus"
+}

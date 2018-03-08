@@ -1,0 +1,67 @@
+{
+     "PMID": "24083132",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20131001",
+     "LR": "20170220",
+     "IS": "2228-7477 (Print) 2228-7477 (Linking)",
+     "VI": "3",
+     "IP": "1",
+     "DP": "2013 Jan",
+     "TI": "Analysis of the behavior of a seizure neural mass model using describing functions.",
+     "PG": "2-14",
+     "AB": "Neural mass models are computational nonlinear models that simulate the activity of a population of neurons as an average neuron, in such a way that different inhibitory post-synaptic potential and excitatory post-synaptic potential signals could be reproduced. These models have been developed either to simulate the recognized neural mechanisms or to predict some physiological facts that are not easy to realize naturally. The role of the excitatory and inhibitory activity variation in seizure genesis has been proved, but it is not evident how these activities influence appearance of seizure like signals. In this paper a population model is considered in which the physiological inter-relation of the pyramidal and inter-neurons of the hippocampus has been appropriately modeled. The average neurons of this model have been assumed to act as a linear filter followed by a nonlinear function. By changing the gain of excitatory and inhibitory activities that are modeled by the gain of the filters, seizure-like signals could be generated. In this paper through the analysis of this nonlinear model by means of the describing function concepts, it is theoretically shown that not only the gains of the excitatory and inhibitory activities, but also the time constants may play an efficient role in seizure genesis.",
+     "FAU": [
+          "Shayegh, Farzaneh",
+          "Bellanger, Jean-Jacques",
+          "Sadri, Saied",
+          "Amirfattahi, Rasoul",
+          "Ansari-Asl, Karim",
+          "Senhadji, Lotfi"
+     ],
+     "AU": [
+          "Shayegh F",
+          "Bellanger JJ",
+          "Sadri S",
+          "Amirfattahi R",
+          "Ansari-Asl K",
+          "Senhadji L"
+     ],
+     "AD": "Department of Electrical and Computer Engineering, Digital Signal Processing Research Lab, Isfahan University of Technology, Isfahan, Iran.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "India",
+     "TA": "J Med Signals Sens",
+     "JT": "Journal of medical signals and sensors",
+     "JID": "101577416",
+     "PMC": "PMC3785066",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Describing function",
+          "excitation",
+          "inhibition",
+          "neural mass model",
+          "seizure"
+     ],
+     "EDAT": "2013/10/02 06:00",
+     "MHDA": "2013/10/02 06:01",
+     "CRDT": [
+          "2013/10/02 06:00"
+     ],
+     "PHST": [
+          "2012/12/15 00:00 [received]",
+          "2013/01/05 00:00 [accepted]",
+          "2013/10/02 06:00 [entrez]",
+          "2013/10/02 06:00 [pubmed]",
+          "2013/10/02 06:01 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Med Signals Sens. 2013 Jan;3(1):2-14.",
+     "term": "hippocampus"
+}

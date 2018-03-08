@@ -1,0 +1,91 @@
+{
+     "PMID": "28129351",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170808",
+     "LR": "20170808",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "12",
+     "IP": "1",
+     "DP": "2017",
+     "TI": "Identification of Early-Stage Alzheimer's Disease Using Sulcal Morphology and Other Common Neuroimaging Indices.",
+     "PG": "e0170875",
+     "LID": "10.1371/journal.pone.0170875 [doi]",
+     "AB": "Identifying Alzheimer's disease (AD) at its early stage is of major interest in AD research. Previous studies have suggested that abnormalities in regional sulcal width and global sulcal index (g-SI) are characteristics of patients with early-stage AD. In this study, we investigated sulcal width and three other common neuroimaging morphological measures (cortical thickness, cortical volume, and subcortical volume) to identify early-stage AD. These measures were evaluated in 150 participants, including 75 normal controls (NC) and 75 patients with early-stage AD. The global sulcal index (g-SI) and the width of five individual sulci (the superior frontal, intra-parietal, superior temporal, central, and Sylvian fissure) were extracted from 3D T1-weighted images. The discriminative performances of the other three traditional neuroimaging morphological measures were also examined. Information Gain (IG) was used to select a subset of features to provide significant information for separating NC and early-stage AD subjects. Based on the four modalities of the individual measures, i.e., sulcal measures, cortical thickness, cortical volume, subcortical volume, and combinations of these individual measures, three types of classifiers (Naive Bayes, Logistic Regression and Support Vector Machine) were applied to compare the classification performances. We observed that sulcal measures were either superior than or equal to the other measures used for classification. Specifically, the g-SI and the width of the Sylvian fissure were two of the most sensitive sulcal measures and could be useful neuroanatomical markers for detecting early-stage AD. There were no significant differences between the three classifiers that we tested when using the same neuroanatomical features.",
+     "FAU": [
+          "Cai, Kunpeng",
+          "Xu, Hong",
+          "Guan, Hao",
+          "Zhu, Wanlin",
+          "Jiang, Jiyang",
+          "Cui, Yue",
+          "Zhang, Jicong",
+          "Liu, Tao",
+          "Wen, Wei"
+     ],
+     "AU": [
+          "Cai K",
+          "Xu H",
+          "Guan H",
+          "Zhu W",
+          "Jiang J",
+          "Cui Y",
+          "Zhang J",
+          "Liu T",
+          "Wen W"
+     ],
+     "AD": "School of Computer Science and Engineering, Beihang University, Beijing, China. International Research Institute for Multidisciplinary Science, Beihang University, Beijing, China. School of Computer Science and Engineering, Beihang University, Beijing, China. International Research Institute for Multidisciplinary Science, Beihang University, Beijing, China. School of Biological Science and Medical Engineering, Beihang University, Beijing, China. International Research Institute for Multidisciplinary Science, Beihang University, Beijing, China. Centre for Healthy Brain Ageing, School of Psychiatry, University of New South Wales, Sydney, NSW, Australia. Centre for Healthy Brain Ageing, School of Psychiatry, University of New South Wales, Sydney, NSW, Australia. Neuropsychiatric Institute, Prince of Wales Hospital, Randwick, NSW, Australia. Brainnetome Center, Institute of Automation, Chinese Academy of Sciences, Beijing, China. National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China. International Research Institute for Multidisciplinary Science, Beihang University, Beijing, China. School of Biological Science and Medical Engineering, Beihang University, Beijing, China. International Research Institute for Multidisciplinary Science, Beihang University, Beijing, China. School of Biological Science and Medical Engineering, Beihang University, Beijing, China. Beijing key laboratory of rehabilitation engineering for elderly, Beijing, China. Centre for Healthy Brain Ageing, School of Psychiatry, University of New South Wales, Sydney, NSW, Australia. Neuropsychiatric Institute, Prince of Wales Hospital, Randwick, NSW, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170127",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*diagnosis/diagnostic imaging/physiopathology",
+          "Amygdala/diagnostic imaging/physiopathology",
+          "Bayes Theorem",
+          "Cerebral Cortex/*diagnostic imaging/physiopathology",
+          "Cognitive Dysfunction/*diagnosis/diagnostic imaging/physiopathology",
+          "Female",
+          "Hippocampus/diagnostic imaging/physiopathology",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Memory/physiology",
+          "Middle Aged",
+          "Neuroimaging/*methods",
+          "Support Vector Machine"
+     ],
+     "PMC": "PMC5271367",
+     "COIS": [
+          "The authors have declared that no competing interests exist."
+     ],
+     "EDAT": "2017/01/28 06:00",
+     "MHDA": "2017/08/09 06:00",
+     "CRDT": [
+          "2017/01/28 06:00"
+     ],
+     "PHST": [
+          "2016/11/10 00:00 [received]",
+          "2017/01/11 00:00 [accepted]",
+          "2017/01/28 06:00 [entrez]",
+          "2017/01/28 06:00 [pubmed]",
+          "2017/08/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0170875 [doi]",
+          "PONE-D-16-44751 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2017 Jan 27;12(1):e0170875. doi: 10.1371/journal.pone.0170875. eCollection 2017.",
+     "term": "hippocampus"
+}

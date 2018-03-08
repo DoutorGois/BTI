@@ -1,0 +1,64 @@
+{
+     "PMID": "12076126",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20020806",
+     "LR": "20061115",
+     "IS": "0022-5193 (Print) 0022-5193 (Linking)",
+     "VI": "216",
+     "IP": "1",
+     "DP": "2002 May 7",
+     "TI": "Recurrent inhibitory dynamics: the role of state-dependent distributions of conduction delay times.",
+     "PG": "31-50",
+     "AB": "We have formulated and analysed a dynamic model for recurrent inhibition that takes into account the state dependence of the delayed feedback signal (due to the variation in threshold of fibres with their size) and the distribution of these delays (due to the distribution of fibre diameters in the feedback pathway). Using a combination of analytic and numerical tools, we have analysed the behaviour of this model. Depending on the parameter values chosen, as well as the initial preparation of the system, there may be a spectrum of post-synaptic firing dynamics ranging from stable constant values through periodic bursting (limit cycle) behaviour and chaotic firing as well as bistable behaviours. Using detailed parameter estimation for a physiologically motivated example (the CA3-basket cell-mossy fibre system in the hippocampus), we present some of these numerical behaviours. The numerical results corroborate the results of the analytic characterization of the solutions. Namely, for some parameter values the model has a single stable steady state while for the others there is a bistability in which the eventual behaviour depends on the magnitude of stimulation (the initial function).",
+     "CI": [
+          "Copyright 2002 Elsevier Science Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Eurich, Christian W",
+          "Mackey, Michael C",
+          "Schwegler, Helmut"
+     ],
+     "AU": [
+          "Eurich CW",
+          "Mackey MC",
+          "Schwegler H"
+     ],
+     "AD": "Institute of Theoretical Physics, University of Bremen, Fachbereich 1, NW 1, D-28334 Bremen, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "J Theor Biol",
+     "JT": "Journal of theoretical biology",
+     "JID": "0376342",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Feedback",
+          "*Models, Neurological",
+          "Neural Conduction",
+          "*Neural Inhibition"
+     ],
+     "EDAT": "2002/06/22 10:00",
+     "MHDA": "2002/08/07 10:01",
+     "CRDT": [
+          "2002/06/22 10:00"
+     ],
+     "PHST": [
+          "2002/06/22 10:00 [pubmed]",
+          "2002/08/07 10:01 [medline]",
+          "2002/06/22 10:00 [entrez]"
+     ],
+     "AID": [
+          "10.1006/jtbi.2002.2534 [doi]",
+          "S0022519302925348 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Theor Biol. 2002 May 7;216(1):31-50. doi: 10.1006/jtbi.2002.2534.",
+     "term": "hippocampus"
+}

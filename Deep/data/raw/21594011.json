@@ -1,0 +1,54 @@
+{
+     "PMID": "21594011",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "1945-7928 (Print) 1945-7928 (Linking)",
+     "DP": "2010 Apr 14",
+     "TI": "A UNIFIED FRAMEWORK FOR ESTIMATING DIFFUSION TENSORS OF ANY ORDER WITH SYMMETRIC POSITIVE-DEFINITE CONSTRAINTS.",
+     "PG": "1385-1388",
+     "AB": "Cartesian tensors of various orders have been employed for either modeling the diffusivity or the orientation distribution function in Diffusion-Weighted MRI datasets. In both cases, the estimated tensors have to be positive-definite since they model positive-valued functions. In this paper we present a novel unified framework for estimating positive-definite tensors of any order, in contrast to the existing methods in literature, which are either order-specific or fail to handle the positive-definite property. The proposed framework employs a homogeneous polynomial parametrization that covers the full space of any order positive-definite tensors and explicitly imposes the positive-definite constraint on the estimated tensors. We show that this parametrization leads to a linear system that is solved using the non-negative least squares technique. The framework is demonstrated using synthetic and real data from an excised rat hippocampus.",
+     "FAU": [
+          "Barmpoutis, Angelos",
+          "Vemuri, Baba C"
+     ],
+     "AU": [
+          "Barmpoutis A",
+          "Vemuri BC"
+     ],
+     "AD": "The University of Florida, Department of Computer and Information Science and Engineering, Gainesville, Florida 32611.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB007082/EB/NIBIB NIH HHS/United States",
+          "R01 EB007082-04/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Proc IEEE Int Symp Biomed Imaging",
+     "JT": "Proceedings. IEEE International Symposium on Biomedical Imaging",
+     "JID": "101492570",
+     "PMC": "PMC3095498",
+     "MID": [
+          "NIHMS202113"
+     ],
+     "EDAT": "2011/05/20 06:00",
+     "MHDA": "2011/05/20 06:00",
+     "CRDT": [
+          "2011/05/20 06:00"
+     ],
+     "PHST": [
+          "2011/05/20 06:00 [entrez]",
+          "2011/05/20 06:00 [pubmed]",
+          "2011/05/20 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/ISBI.2010.5490256 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc IEEE Int Symp Biomed Imaging. 2010 Apr 14:1385-1388. doi: 10.1109/ISBI.2010.5490256.",
+     "term": "hippocampus"
+}

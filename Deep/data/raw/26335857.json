@@ -1,0 +1,81 @@
+{
+     "PMID": "26335857",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160523",
+     "LR": "20150904",
+     "IS": "1748-3190 (Electronic) 1748-3182 (Linking)",
+     "VI": "10",
+     "IP": "5",
+     "DP": "2015 Sep 3",
+     "TI": "Slithering towards autonomy: a self-contained soft robotic snake platform with integrated curvature sensing.",
+     "PG": "055001",
+     "LID": "10.1088/1748-3190/10/5/055001 [doi]",
+     "AB": "Soft robotic snakes promise significant advantages in achieving traveling curvature waves with a reduced number of active segments as well as allowing for safe and adaptive interaction with the environment and human users. However, current soft robot platforms suffer from a lack of accurate theoretical dynamic models and proprioceptive measurements, which impede advancements toward full autonomy. To address this gap, this paper details our recent results on the design, fabrication, and experimental evaluation of a new-generation pressure-operated soft robotic snake platform we call the WPI SRS, which employs custom magnetic sensors embedded in a flexible backbone to continuously monitor the curvature of each of its four bidirectional bending segments. In addition, we present a complete and accurate dynamic undulatory locomotion model that accounts for the propagation of frictional moments to describe linear and rotational motions of the SRS. Experimental studies indicate that on-board sensory measurements provide accurate real-time curvature feedback, and numerical simulations offer a level of abstraction for lateral undulation under ideal conditions.",
+     "FAU": [
+          "Luo, Ming",
+          "Pan, Yixiao",
+          "Skorina, Erik H",
+          "Tao, Weijia",
+          "Chen, Fuchen",
+          "Ozel, Selim",
+          "Onal, Cagdas D"
+     ],
+     "AU": [
+          "Luo M",
+          "Pan Y",
+          "Skorina EH",
+          "Tao W",
+          "Chen F",
+          "Ozel S",
+          "Onal CD"
+     ],
+     "AD": "Soft Robotics Laboratory, Worcester Polytechnic Institute, Worcester, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150903",
+     "PL": "England",
+     "TA": "Bioinspir Biomim",
+     "JT": "Bioinspiration & biomimetics",
+     "JID": "101292902",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Biomimetics/*instrumentation",
+          "Computer Simulation",
+          "Computer-Aided Design",
+          "Equipment Design",
+          "Equipment Failure Analysis",
+          "Feedback, Physiological",
+          "Gait/*physiology",
+          "*Machine Learning",
+          "Models, Biological",
+          "Motion",
+          "Pressure",
+          "Robotics/*instrumentation",
+          "Sensation/*physiology",
+          "Snakes/*physiology",
+          "Spatial Navigation",
+          "Systems Integration"
+     ],
+     "EDAT": "2015/09/04 06:00",
+     "MHDA": "2016/05/24 06:00",
+     "CRDT": [
+          "2015/09/04 06:00"
+     ],
+     "PHST": [
+          "2015/09/04 06:00 [entrez]",
+          "2015/09/04 06:00 [pubmed]",
+          "2016/05/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1088/1748-3190/10/5/055001 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Bioinspir Biomim. 2015 Sep 3;10(5):055001. doi: 10.1088/1748-3190/10/5/055001.",
+     "term": "spatial navigation"
+}

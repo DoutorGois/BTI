@@ -1,0 +1,90 @@
+{
+     "PMID": "26657566",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160406",
+     "LR": "20170922",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "11",
+     "IP": "12",
+     "DP": "2015 Dec",
+     "TI": "Predicting Surgery Targets in Temporal Lobe Epilepsy through Structural Connectome Based Simulations.",
+     "PG": "e1004642",
+     "LID": "10.1371/journal.pcbi.1004642 [doi]",
+     "AB": "Temporal lobe epilepsy (TLE) is a prevalent neurological disorder resulting in disruptive seizures. In the case of drug resistant epilepsy resective surgery is often considered. This is a procedure hampered by unpredictable success rates, with many patients continuing to have seizures even after surgery. In this study we apply a computational model of epilepsy to patient specific structural connectivity derived from diffusion tensor imaging (DTI) of 22 individuals with left TLE and 39 healthy controls. We validate the model by examining patient-control differences in simulated seizure onset time and network location. We then investigate the potential of the model for surgery prediction by performing in silico surgical resections, removing nodes from patient networks and comparing seizure likelihood post-surgery to pre-surgery simulations. We find that, first, patients tend to transit from non-epileptic to epileptic states more often than controls in the model. Second, regions in the left hemisphere (particularly within temporal and subcortical regions) that are known to be involved in TLE are the most frequent starting points for seizures in patients in the model. In addition, our analysis also implicates regions in the contralateral and frontal locations which may play a role in seizure spreading or surgery resistance. Finally, the model predicts that patient-specific surgery (resection areas chosen on an individual, model-prompted, basis and not following a predefined procedure) may lead to better outcomes than the currently used routine clinical procedure. Taken together this work provides a first step towards patient specific computational modelling of epilepsy surgery in order to inform treatment strategies in individuals.",
+     "FAU": [
+          "Hutchings, Frances",
+          "Han, Cheol E",
+          "Keller, Simon S",
+          "Weber, Bernd",
+          "Taylor, Peter N",
+          "Kaiser, Marcus"
+     ],
+     "AU": [
+          "Hutchings F",
+          "Han CE",
+          "Keller SS",
+          "Weber B",
+          "Taylor PN",
+          "Kaiser M"
+     ],
+     "AD": "Interdisciplinary Computing and Complex BioSystems, School of Computing Science, Newcastle University, Newcastle upon Tyne, United Kingdom. Department of Biomedical Engineering, Korea University, Seoul, Republic of Korea. Department of Brain Cognitive Sciences, Seoul National University, Seoul, Republic of Korea. Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, United Kingdom. Center for Economics and Neuroscience, University of Bonn, Bonn, Germany. Department of Epileptology, University of Bonn, Bonn, Germany. Interdisciplinary Computing and Complex BioSystems, School of Computing Science, Newcastle University, Newcastle upon Tyne, United Kingdom. Institute of Neuroscience, Newcastle University, Newcastle upon Tyne, United Kingdom. Interdisciplinary Computing and Complex BioSystems, School of Computing Science, Newcastle University, Newcastle upon Tyne, United Kingdom. Institute of Neuroscience, Newcastle University, Newcastle upon Tyne, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MR/K023152/1/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20151210",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Computer Simulation",
+          "Connectome/*methods",
+          "Diffusion Tensor Imaging/methods",
+          "Epilepsy, Temporal Lobe/*pathology/surgery",
+          "Female",
+          "Hippocampus/*pathology/*surgery",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Models, Anatomic",
+          "Models, Neurological",
+          "Monitoring, Intraoperative/methods",
+          "Neurophysiological Monitoring/methods",
+          "*Patient-Specific Modeling",
+          "Preoperative Care/methods",
+          "Surgery, Computer-Assisted/*methods",
+          "Treatment Outcome"
+     ],
+     "PMC": "PMC4675531",
+     "EDAT": "2015/12/15 06:00",
+     "MHDA": "2016/04/07 06:00",
+     "CRDT": [
+          "2015/12/15 06:00"
+     ],
+     "PHST": [
+          "2015/06/24 00:00 [received]",
+          "2015/10/29 00:00 [accepted]",
+          "2015/12/15 06:00 [entrez]",
+          "2015/12/15 06:00 [pubmed]",
+          "2016/04/07 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1004642 [doi]",
+          "PCOMPBIOL-D-15-01015 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2015 Dec 10;11(12):e1004642. doi: 10.1371/journal.pcbi.1004642. eCollection 2015 Dec.",
+     "term": "hippocampus"
+}

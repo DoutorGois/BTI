@@ -1,0 +1,71 @@
+{
+     "PMID": "16260116",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060427",
+     "LR": "20051121",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "18",
+     "IP": "9",
+     "DP": "2005 Nov",
+     "TI": "Methods for reducing interference in the Complementary Learning Systems model: oscillating inhibition and autonomous memory rehearsal.",
+     "PG": "1212-28",
+     "AB": "The stability-plasticity problem (i.e. how the brain incorporates new information into its model of the world, while at the same time preserving existing knowledge) has been at the forefront of computational memory research for several decades. In this paper, we critically evaluate how well the Complementary Learning Systems theory of hippocampo-cortical interactions addresses the stability-plasticity problem. We identify two major challenges for the model: Finding a learning algorithm for cortex and hippocampus that enacts selective strengthening of weak memories, and selective punishment of competing memories; and preventing catastrophic forgetting in the case of non-stationary environments (i.e. when items are temporarily removed from the training set). We then discuss potential solutions to these problems: First, we describe a recently developed learning algorithm that leverages neural oscillations to find weak parts of memories (so they can be strengthened) and strong competitors (so they can be punished), and we show how this algorithm outperforms other learning algorithms (CPCA Hebbian learning and Leabra at memorizing overlapping patterns. Second, we describe how autonomous re-activation of memories (separately in cortex and hippocampus) during REM sleep, coupled with the oscillating learning algorithm, can reduce the rate of forgetting of input patterns that are no longer present in the environment. We then present a simple demonstration of how this process can prevent catastrophic interference in an AB-AC learning paradigm.",
+     "FAU": [
+          "Norman, Kenneth A",
+          "Newman, Ehren L",
+          "Perotte, Adler J"
+     ],
+     "AU": [
+          "Norman KA",
+          "Newman EL",
+          "Perotte AJ"
+     ],
+     "AD": "Department of Psychology Princeton University, Green Hall, Princeton, NJ 08544, USA. knorman@princeton.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20051102",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Hippocampus/physiology",
+          "Humans",
+          "Learning/*physiology",
+          "Memory/physiology",
+          "*Models, Neurological",
+          "*Models, Psychological",
+          "Neocortex/*physiology",
+          "Nerve Net",
+          "*Neural Networks (Computer)",
+          "Neuronal Plasticity",
+          "Recognition (Psychology)/physiology",
+          "Sleep, REM/physiology",
+          "Theta Rhythm"
+     ],
+     "EDAT": "2005/11/02 09:00",
+     "MHDA": "2006/04/28 09:00",
+     "CRDT": [
+          "2005/11/02 09:00"
+     ],
+     "PHST": [
+          "2005/11/02 09:00 [pubmed]",
+          "2006/04/28 09:00 [medline]",
+          "2005/11/02 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(05)00193-0 [pii]",
+          "10.1016/j.neunet.2005.08.010 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2005 Nov;18(9):1212-28. doi: 10.1016/j.neunet.2005.08.010. Epub 2005 Nov 2.",
+     "term": "hippocampus"
+}

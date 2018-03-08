@@ -1,0 +1,74 @@
+{
+     "PMID": "28837653",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171019",
+     "LR": "20171019",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "12",
+     "IP": "8",
+     "DP": "2017",
+     "TI": "Computational investigation of Amyloid-beta-induced location- and subunit-specific disturbances of NMDAR at hippocampal dendritic spine in Alzheimer's disease.",
+     "PG": "e0182743",
+     "LID": "10.1371/journal.pone.0182743 [doi]",
+     "AB": "In Alzheimer's disease (AD), dysregulation of intracellular Ca2+ signalling has been observed as an early event prior to the presence of clinical symptoms and is believed to be a crucial factor contributing to AD pathogenesis. Amyloid-beta oligomers (AbetaOs) disturb the N-methyl-D-aspartate receptor (NMDAR)-mediated postsynaptic Ca2+ signalling in response to presynaptic stimulation by increasing the availability of extracellular glutamate as well as directly disturbing the NMDARs. The abnormal Ca2+ response can further lead to impairments in long-term potentiation (LTP), an important process in memory formation. In this study, we develop a mathematical model of a CA1 pyramidal dendritic spine and conduct computational experiments. We use this model to mimic alterations by AbetaOs under AD conditions to investigate how they are involved in the Ca2+ dysregulation in the dendritic spine. The alterations in glutamate availability, as well as NMDAR availability and activity, are studied both individually and globally. The simulation results suggest that alterations in glutamate availability mostly affect the synaptic response and have limited effects on the extrasynaptic receptors. Moreover, overactivation of extrasynaptic NMDARs in AD is unlikely to be induced by presynaptic stimulation, but by upregulation of the resting level of glutamate, possibly resulting from these alterations. Furthermore, internalisation of synaptic NR2A-NMDAR shows greater damage to the postsynaptic Ca2+ response in comparison with the internalisation of NR2B-NMDARs; thus, the suggested neuroprotective role of the latter is very limited during synaptic transmission in AD. We integrate a CaMKII state transition model with the Ca2+ model to further study the effects of alterations of NMDARs in the CaMKII state transition, an important downstream event in the early phase of LTP. The model reveals that cooperation between NR2A- and NR2B-NMDAR is required for LTP induction. Under AD conditions, internalisation of membrane NMDARs is suggested to be the cause of the loss of synapse numbers by disrupting CaMKII-NMDAR formation.",
+     "FAU": [
+          "Liang, Jingyi",
+          "Kulasiri, Don",
+          "Samarasinghe, Sandhya"
+     ],
+     "AU": [
+          "Liang J",
+          "Kulasiri D",
+          "Samarasinghe S"
+     ],
+     "AD": "Centre for Advanced Computational Solutions (C-fACS), Lincoln University, Christchurch, New Zealand. Centre for Advanced Computational Solutions (C-fACS), Lincoln University, Christchurch, New Zealand. Centre for Advanced Computational Solutions (C-fACS), Lincoln University, Christchurch, New Zealand.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170824",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Amyloid beta-Peptides)",
+          "0 (Receptors, N-Methyl-D-Aspartate)",
+          "EC 2.7.11.17 (Calcium-Calmodulin-Dependent Protein Kinase Type 2)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*metabolism",
+          "Amyloid beta-Peptides/*metabolism",
+          "Animals",
+          "Calcium/metabolism",
+          "Calcium-Calmodulin-Dependent Protein Kinase Type 2/metabolism",
+          "Dendritic Spines/*metabolism",
+          "Hippocampus/*metabolism",
+          "Receptors, N-Methyl-D-Aspartate/*metabolism"
+     ],
+     "PMC": "PMC5570373",
+     "EDAT": "2017/08/25 06:00",
+     "MHDA": "2017/10/20 06:00",
+     "CRDT": [
+          "2017/08/25 06:00"
+     ],
+     "PHST": [
+          "2016/12/18 00:00 [received]",
+          "2017/07/24 00:00 [accepted]",
+          "2017/08/25 06:00 [entrez]",
+          "2017/08/25 06:00 [pubmed]",
+          "2017/10/20 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0182743 [doi]",
+          "PONE-D-16-48522 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2017 Aug 24;12(8):e0182743. doi: 10.1371/journal.pone.0182743. eCollection 2017.",
+     "term": "hippocampus"
+}

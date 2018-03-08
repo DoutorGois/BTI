@@ -1,0 +1,86 @@
+{
+     "PMID": "20135213",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100614",
+     "LR": "20170220",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "28",
+     "IP": "2",
+     "DP": "2010 Apr",
+     "TI": "Synchrony with shunting inhibition in a feedforward inhibitory network.",
+     "PG": "305-21",
+     "LID": "10.1007/s10827-009-0210-2 [doi]",
+     "AB": "Recent experiments have shown that GABA(A) receptor mediated inhibition in adult hippocampus is shunting rather than hyperpolarizing. Simulation studies of realistic interneuron networks with strong shunting inhibition have been demonstrated to exhibit robust gamma band (20-80 Hz) synchrony in the presence of heterogeneity in the intrinsic firing rates of individual neurons in the network. In order to begin to understand how shunting can contribute to network synchrony in the presence of heterogeneity, we develop a general theoretical framework using spike time response curves (STRC's) to study patterns of synchrony in a simple network of two unidirectionally coupled interneurons (UCI network) interacting through a shunting synapse in the presence of heterogeneity. We derive an approximate discrete map to analyze the dynamics of synchronous states in the UCI network by taking into account the nonlinear contributions of the higher order STRC terms. We show how the approximate discrete map can be used to successfully predict the domain of synchronous 1:1 phase locked state in the UCI network. The discrete map also allows us to determine the conditions under which the two interneurons can exhibit in-phase synchrony. We conclude by demonstrating how the information from the study of the discrete map for the dynamics of the UCI network can give us valuable insight into the degree of synchrony in a larger feed-forward network of heterogeneous interneurons.",
+     "FAU": [
+          "Talathi, Sachin S",
+          "Hwang, Dong-Uk",
+          "Carney, Paul R",
+          "Ditto, William L"
+     ],
+     "AU": [
+          "Talathi SS",
+          "Hwang DU",
+          "Carney PR",
+          "Ditto WL"
+     ],
+     "AD": "J Crayton Pruitt Family Department of Biomedical Engineering, University of Florida, Gainesville, FL 32611, USA. stalathi@bme.ufl.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB007082/EB/NIBIB NIH HHS/United States",
+          "R01 EB004752/EB/NIBIB NIH HHS/United States",
+          "R01 EB004752-04/EB/NIBIB NIH HHS/United States",
+          "R01EB004752/EB/NIBIB NIH HHS/United States",
+          "EB007082/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20100206",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Biological Clocks/physiology",
+          "Brain/physiology",
+          "Computer Simulation",
+          "Interneurons/physiology",
+          "Membrane Potentials/physiology",
+          "Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neural Inhibition/*physiology",
+          "Synapses/*physiology",
+          "Synaptic Transmission/physiology"
+     ],
+     "PMC": "PMC3005186",
+     "MID": [
+          "NIHMS194959"
+     ],
+     "EDAT": "2010/02/06 06:00",
+     "MHDA": "2010/06/15 06:00",
+     "CRDT": [
+          "2010/02/06 06:00"
+     ],
+     "PHST": [
+          "2009/05/15 00:00 [received]",
+          "2009/12/29 00:00 [accepted]",
+          "2009/10/29 00:00 [revised]",
+          "2010/02/06 06:00 [entrez]",
+          "2010/02/06 06:00 [pubmed]",
+          "2010/06/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10827-009-0210-2 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2010 Apr;28(2):305-21. doi: 10.1007/s10827-009-0210-2. Epub 2010 Feb 6.",
+     "term": "hippocampus"
+}

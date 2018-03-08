@@ -1,0 +1,93 @@
+{
+     "PMID": "28125731",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170810",
+     "LR": "20170810",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "12",
+     "IP": "1",
+     "DP": "2017",
+     "TI": "Correlated 5-Hydroxymethylcytosine (5hmC) and Gene Expression Profiles Underpin Gene and Organ-Specific Epigenetic Regulation in Adult Mouse Brain and Liver.",
+     "PG": "e0170779",
+     "LID": "10.1371/journal.pone.0170779 [doi]",
+     "AB": "BACKGROUND: DNA methylation is an epigenetic mechanism essential for gene regulation and vital for mammalian development. 5-hydroxymethylcytosine (5hmC) is the first oxidative product of the TET-mediated 5-methylcytosine (5mC) demethylation pathway. Aside from being a key intermediate in cytosine demethylation, 5hmC may have potential regulatory functions with emerging importance in mammalian biology. METHODS: Here, we investigate the global 5hmC enrichment in five brain structures, including cerebellum, cerebral cortex, hippocampus, hypothalamus and thalamus, as well as liver tissues from female and male adult mice by using chemical capture-based technique coupled with next-generation sequencing. At the same time, we carried out total RNA sequencing (RNA-seq) to analyze the transcriptomes of brain regions and liver tissues. RESULTS: Our results reveal preferential 5hmC enrichment in the gene bodies of expressed genes, and 5hmC levels of many protein-coding genes are positively correlated with RNA expression intensity. However, more than 75% of genes with low or no 5hmC enrichment are genes encode for mitochondrial proteins and ribosomal proteins despite being actively transcribed, implying different transcriptional regulation mechanisms of these housekeeping genes. Brain regions developed from the same embryonic structures have more similar 5hmC profiles. Also, the genic 5hmC enrichment pattern is highly tissue-specific, and 5hmC marks genes involving in tissue-specific biological processes. Sex chromosomes are mostly depleted of 5hmC, and the X inactive specific transcript (Xist) gene located on the X chromosome is the only gene to show sex-specific 5hmC enrichment. CONCLUSIONS: This is the first report of the whole-genome 5hmC methylome of five major brain structures and liver tissues in mice of both sexes. This study offers a comprehensive resource for future work of mammalian cytosine methylation dynamics. Our findings offer additional evidence that suggests 5hmC is an active epigenetic mark stably maintained after the global reprogramming event during early embryonic development.",
+     "FAU": [
+          "Lin, I-Hsuan",
+          "Chen, Yi-Fan",
+          "Hsu, Ming-Ta"
+     ],
+     "AU": [
+          "Lin IH",
+          "Chen YF",
+          "Hsu MT"
+     ],
+     "AD": "VYM Genome Research Center, National Yang-Ming University, Taipei, Taiwan. The Center of Translational Medicine, Taipei Medical University, Taipei, Taiwan. VYM Genome Research Center, National Yang-Ming University, Taipei, Taiwan. The Ph.D. Program for Translational Medicine, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan. Institute of Biomedical Informatics, National Yang-Ming University, Taipei, Taiwan. Chien-Tien Hsu Cancer Research Foundation, Taipei, Taiwan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170126",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Mitochondrial Proteins)",
+          "0 (Ribosomal Proteins)",
+          "1123-95-1 (5-hydroxymethylcytosine)",
+          "6R795CQT4H (5-Methylcytosine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "5-Methylcytosine/*analogs & derivatives/metabolism",
+          "Aging/*genetics",
+          "Animals",
+          "Cerebellum/growth & development/metabolism",
+          "Cerebral Cortex/growth & development/metabolism",
+          "DNA Methylation",
+          "Embryo, Mammalian",
+          "*Epigenesis, Genetic",
+          "Female",
+          "Gene Expression Regulation, Developmental",
+          "Genes, Essential",
+          "*Genome",
+          "Hippocampus/growth & development/metabolism",
+          "Hypothalamus/growth & development/metabolism",
+          "Liver/growth & development/metabolism",
+          "Male",
+          "Mice",
+          "Mitochondrial Proteins/genetics/metabolism",
+          "Organ Specificity",
+          "Ribosomal Proteins/genetics/metabolism",
+          "Sequence Analysis, RNA",
+          "Sex Chromosomes/chemistry/metabolism",
+          "Thalamus/growth & development/metabolism",
+          "*Transcriptome"
+     ],
+     "PMC": "PMC5268415",
+     "COIS": [
+          "The authors have declared that no competing interests exist."
+     ],
+     "EDAT": "2017/01/27 06:00",
+     "MHDA": "2017/08/11 06:00",
+     "CRDT": [
+          "2017/01/27 06:00"
+     ],
+     "PHST": [
+          "2016/10/18 00:00 [received]",
+          "2017/01/10 00:00 [accepted]",
+          "2017/01/27 06:00 [entrez]",
+          "2017/01/27 06:00 [pubmed]",
+          "2017/08/11 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0170779 [doi]",
+          "PONE-D-16-41533 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2017 Jan 26;12(1):e0170779. doi: 10.1371/journal.pone.0170779. eCollection 2017.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,102 @@
+{
+     "PMID": "28107008",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171012",
+     "LR": "20171012",
+     "IS": "1535-3907 (Electronic) 1535-3893 (Linking)",
+     "VI": "16",
+     "IP": "2",
+     "DP": "2017 Feb 3",
+     "TI": "Robust, Sensitive, and Automated Phosphopeptide Enrichment Optimized for Low Sample Amounts Applied to Primary Hippocampal Neurons.",
+     "PG": "728-737",
+     "LID": "10.1021/acs.jproteome.6b00753 [doi]",
+     "AB": "Because of the low stoichiometry of protein phosphorylation, targeted enrichment prior to LC-MS/MS analysis is still essential. The trend in phosphoproteome analysis is shifting toward an increasing number of biological replicates per experiment, ideally starting from very low sample amounts, placing new demands on enrichment protocols to make them less labor-intensive, more sensitive, and less prone to variability. Here we assessed an automated enrichment protocol using Fe(III)-IMAC cartridges on an AssayMAP Bravo platform to meet these demands. The automated Fe(III)-IMAC-based enrichment workflow proved to be more effective when compared to a TiO2-based enrichment using the same platform and a manual Ti(IV)-IMAC-based enrichment workflow. As initial samples, a dilution series of both human HeLa cell and primary rat hippocampal neuron lysates was used, going down to 0.1 mug of peptide starting material. The optimized workflow proved to be efficient, sensitive, and reproducible, identifying, localizing, and quantifying thousands of phosphosites from just micrograms of starting material. To further test the automated workflow in genuine biological applications, we monitored EGF-induced signaling in hippocampal neurons, starting with only 200000 primary cells, resulting in approximately 50 mug of protein material. This revealed a comprehensive phosphoproteome, showing regulation of multiple members of the MAPK pathway and reduced phosphorylation status of two glutamate receptors involved in synaptic plasticity.",
+     "FAU": [
+          "Post, Harm",
+          "Penning, Renske",
+          "Fitzpatrick, Martin A",
+          "Garrigues, Luc B",
+          "Wu, W",
+          "MacGillavry, Harold D",
+          "Hoogenraad, Casper C",
+          "Heck, Albert J R",
+          "Altelaar, A F Maarten"
+     ],
+     "AU": [
+          "Post H",
+          "Penning R",
+          "Fitzpatrick MA",
+          "Garrigues LB",
+          "Wu W",
+          "MacGillavry HD",
+          "Hoogenraad CC",
+          "Heck AJ",
+          "Altelaar AF"
+     ],
+     "AD": "Biomolecular Mass Spectrometry and Proteomics, Bijvoet Center for Biomolecular Research and Utrecht Institute for Pharmaceutical Sciences, Utrecht University , Padualaan 8, 3584 CH Utrecht, The Netherlands. Netherlands Proteomics Centre , Padualaan 8, 3584 CH Utrecht, The Netherlands. Biomolecular Mass Spectrometry and Proteomics, Bijvoet Center for Biomolecular Research and Utrecht Institute for Pharmaceutical Sciences, Utrecht University , Padualaan 8, 3584 CH Utrecht, The Netherlands. Netherlands Proteomics Centre , Padualaan 8, 3584 CH Utrecht, The Netherlands. Biomolecular Mass Spectrometry and Proteomics, Bijvoet Center for Biomolecular Research and Utrecht Institute for Pharmaceutical Sciences, Utrecht University , Padualaan 8, 3584 CH Utrecht, The Netherlands. Netherlands Proteomics Centre , Padualaan 8, 3584 CH Utrecht, The Netherlands. Biomolecular Mass Spectrometry and Proteomics, Bijvoet Center for Biomolecular Research and Utrecht Institute for Pharmaceutical Sciences, Utrecht University , Padualaan 8, 3584 CH Utrecht, The Netherlands. Netherlands Proteomics Centre , Padualaan 8, 3584 CH Utrecht, The Netherlands. Biomolecular Mass Spectrometry and Proteomics, Bijvoet Center for Biomolecular Research and Utrecht Institute for Pharmaceutical Sciences, Utrecht University , Padualaan 8, 3584 CH Utrecht, The Netherlands. Netherlands Proteomics Centre , Padualaan 8, 3584 CH Utrecht, The Netherlands. Cell Biology, Department of Biology, Faculty of Science, Utrecht University , 3584 CH Utrecht, The Netherlands. Cell Biology, Department of Biology, Faculty of Science, Utrecht University , 3584 CH Utrecht, The Netherlands. Biomolecular Mass Spectrometry and Proteomics, Bijvoet Center for Biomolecular Research and Utrecht Institute for Pharmaceutical Sciences, Utrecht University , Padualaan 8, 3584 CH Utrecht, The Netherlands. Netherlands Proteomics Centre , Padualaan 8, 3584 CH Utrecht, The Netherlands. Biomolecular Mass Spectrometry and Proteomics, Bijvoet Center for Biomolecular Research and Utrecht Institute for Pharmaceutical Sciences, Utrecht University , Padualaan 8, 3584 CH Utrecht, The Netherlands. Netherlands Proteomics Centre , Padualaan 8, 3584 CH Utrecht, The Netherlands.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-2405-4404",
+          "ORCID: http://orcid.org/0000-0001-5093-5945"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20161206",
+     "PL": "United States",
+     "TA": "J Proteome Res",
+     "JT": "Journal of proteome research",
+     "JID": "101128775",
+     "RN": [
+          "0 (Phosphopeptides)",
+          "0 (Proteome)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Chromatography, Liquid",
+          "HeLa Cells",
+          "Hippocampus/metabolism",
+          "Humans",
+          "Neurons/metabolism",
+          "Phosphopeptides/*genetics/isolation & purification/metabolism",
+          "Phosphorylation/genetics",
+          "Proteome/*genetics/metabolism",
+          "Rats",
+          "*Tandem Mass Spectrometry"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "BRAVO AssayMap",
+          "EGF",
+          "Fe(III)-IMAC",
+          "Ti(IV)-IMAC",
+          "TiO2",
+          "hippocampal neurons",
+          "phosphopeptide enrichment",
+          "phosphoproteomics",
+          "quantification",
+          "sensitivity"
+     ],
+     "EDAT": "2017/01/21 06:00",
+     "MHDA": "2017/10/13 06:00",
+     "CRDT": [
+          "2017/01/21 06:00"
+     ],
+     "PHST": [
+          "2017/01/21 06:00 [pubmed]",
+          "2017/10/13 06:00 [medline]",
+          "2017/01/21 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1021/acs.jproteome.6b00753 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Proteome Res. 2017 Feb 3;16(2):728-737. doi: 10.1021/acs.jproteome.6b00753. Epub 2016 Dec 6.",
+     "term": "hippocampus"
+}

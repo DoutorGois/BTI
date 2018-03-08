@@ -1,0 +1,95 @@
+{
+     "PMID": "27036964",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161024",
+     "LR": "20170220",
+     "IS": "1471-2164 (Electronic) 1471-2164 (Linking)",
+     "VI": "17",
+     "DP": "2016 Mar 31",
+     "TI": "Proton irradiation induces persistent and tissue-specific DNA methylation changes in the left ventricle and hippocampus.",
+     "PG": "273",
+     "LID": "10.1186/s12864-016-2581-x [doi]",
+     "AB": "BACKGROUND: Proton irradiation poses a potential hazard to astronauts during and following a mission, with post-mitotic cells at most risk because they cannot dilute resultant epigenetic changes via cell division. Persistent epigenetic changes that result from environmental exposures include gains or losses of DNA methylation of cytosine, which can impact gene expression. In the present study, we compared the long-term epigenetic effects of whole body proton irradiation in the mouse hippocampus and left ventricle. We used an unbiased genome-wide DNA methylation study, involving ChIP-seq with antibodies to 5-methylcytosine (5mC) and 5-hydroxymethylcytosine (5hmC) to identify DNA regions in which methylation levels have changed 22 weeks after a single exposure to proton irradiation. We used DIP-Seq to profile changes in genome-wide DNA methylation and hydroxymethylation following proton irradiation. In addition, we used published RNAseq data to assess whether differentially methylated regions were linked to changes in gene expression. RESULTS: The DNA methylation data showed tissue-dependent effects of proton irradiation and revealed significant major pathway changes in response to irradiation that are related to known pathophysiologic processes. Many regions affected in the ventricle mapped to genes involved in cardiovascular function pathways, whereas many regions affected in the hippocampus mapped to genes involved in neuronal functions. In the ventricle, increases in 5hmC were associated with decreases in 5mC. We also observed spatial overlap for regions where both epigenetic marks decreased in the ventricle. In hippocampus, increases in 5hmC were most significantly correlated (spatially) with regions that had increased 5mC, suggesting that deposition of hippocampal 5mC and 5hmC may be mechanistically coupled. CONCLUSIONS: The results demonstrate long-term changes in DNA methylation patterns following a single proton irradiation, that these changes are tissue specific, and that they map to pathways consistent with tissue specific responses to proton irradiation. Further, the results suggest novel relationships between changes in 5mC and 5hmC.",
+     "FAU": [
+          "Impey, Soren",
+          "Pelz, Carl",
+          "Tafessu, Amanuel",
+          "Marzulla, Tessa",
+          "Turker, Mitchell S",
+          "Raber, Jacob"
+     ],
+     "AU": [
+          "Impey S",
+          "Pelz C",
+          "Tafessu A",
+          "Marzulla T",
+          "Turker MS",
+          "Raber J"
+     ],
+     "AD": "Oregon Stem Cell Center and Department of Pediatrics, Oregon Health and Science University, Portland, OR, 97239, USA. impeys@ohsu.edu. Department of Cell, Developmental and Cancer Biology, Oregon Health and Science University, Portland, OR, 97239, USA. impeys@ohsu.edu. Department of Pediatric, L321, Oregon Health and Science University, 3181SW Sam Jackson Park Road, Portland, OR, 97239, USA. impeys@ohsu.edu. Oregon Stem Cell Center and Department of Pediatrics, Oregon Health and Science University, Portland, OR, 97239, USA. Oregon Stem Cell Center and Department of Pediatrics, Oregon Health and Science University, Portland, OR, 97239, USA. Department of Behavioral Neuroscience, L470, Oregon Health and Science University, 3181SW Sam Jackson Park Road, Portland, OR, 97239, USA. Oregon Institute of Occupational Health Sciences and Department of Molecular and Medical Genetics, Oregon Health and Science University, Portland, OR, 97239, USA. Department of Behavioral Neuroscience, L470, Oregon Health and Science University, 3181SW Sam Jackson Park Road, Portland, OR, 97239, USA. raberj@ohsu.edu. Departments of Neurology and Radiation Medicine, Division of Neuroscience ONPRC, Oregon Health and Science University, Portland, OR, 97239, USA. raberj@ohsu.edu. Knight Cardiovascular Institute, Oregon Health and Science University, Portland, OR, 97239, USA. raberj@ohsu.edu.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160331",
+     "PL": "England",
+     "TA": "BMC Genomics",
+     "JT": "BMC genomics",
+     "JID": "100965258",
+     "RN": [
+          "0 (Protons)",
+          "1123-95-1 (5-hydroxymethylcytosine)",
+          "6R795CQT4H (5-Methylcytosine)",
+          "8J337D1HZY (Cytosine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "5-Methylcytosine/analysis",
+          "Animals",
+          "Cytosine/analogs & derivatives/analysis",
+          "DNA Methylation/*radiation effects",
+          "*Epigenesis, Genetic",
+          "Heart Ventricles/*radiation effects",
+          "Hippocampus/*radiation effects",
+          "Male",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Protons/*adverse effects"
+     ],
+     "PMC": "PMC4815246",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "DNA methylation",
+          "Epigenetic",
+          "Hippocampus",
+          "Left ventricle",
+          "Proton irradiation",
+          "RNAseq",
+          "Ventricle"
+     ],
+     "EDAT": "2016/04/03 06:00",
+     "MHDA": "2016/10/25 06:00",
+     "CRDT": [
+          "2016/04/03 06:00"
+     ],
+     "PHST": [
+          "2015/12/14 00:00 [received]",
+          "2016/03/08 00:00 [accepted]",
+          "2016/04/03 06:00 [entrez]",
+          "2016/04/03 06:00 [pubmed]",
+          "2016/10/25 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1186/s12864-016-2581-x [doi]",
+          "10.1186/s12864-016-2581-x [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "BMC Genomics. 2016 Mar 31;17:273. doi: 10.1186/s12864-016-2581-x.",
+     "term": "hippocampus"
+}

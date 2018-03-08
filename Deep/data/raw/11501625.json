@@ -1,0 +1,81 @@
+{
+     "PMID": "11501625",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20020122",
+     "LR": "20141120",
+     "IS": "0090-6964 (Print) 0090-6964 (Linking)",
+     "VI": "29",
+     "IP": "7",
+     "DP": "2001",
+     "TI": "Deterministic chaos and noise in three in vitro hippocampal models of epilepsy.",
+     "PG": "607-18",
+     "AB": "Recent reports have suggested that chaos control techniques may be useful for electrically manipulating epileptiform bursting behavior in neuronal ensembles. Because the dynamics of spontaneous in vitro bursting had not been well determined previously, analysis of this behavior in the rat hippocampus was performed. Epileptiform bursting was induced in transverse rat hippocampal slices using three experimental methods. Slices were bathed in artificial cerebrospinal fluid containing: (1) elevated potassium ([K+]o= 10.5 mM), (2) zero magnesium, or (3) the GABAA-receptor antagonists bicuculline (20 microM) and picrotoxin (250 microM). The existence of chaos and determinism was assessed using two different analytical techniques: unstable periodic orbit (UPO) analysis and a new technique for estimating Lyapunov exponents. Significance of these results was assessed by comparing the calculations for each experiment with corresponding randomized surrogate data. UPOs of multiple periods were highly prevalent in experiments from all three epilepsy models: 73% of all experiments contained at least one statistically significant period-1 or period-2 orbit. However, the expansion rate analysis did not provide any evidence of determinism in the data. This suggests that the system may be globally stochastic but contains local pockets of determinism. Thus, manipulation of bursting behavior using chaos control algorithms may yet hold promise for reverting or preventing epileptic seizures.",
+     "FAU": [
+          "Slutzky, M W",
+          "Cvitanovic, P",
+          "Mogul, D J"
+     ],
+     "AU": [
+          "Slutzky MW",
+          "Cvitanovic P",
+          "Mogul DJ"
+     ],
+     "AD": "Department of Biomedical Engineering, Northwestern University, Evanston, IL 60208, USA. mslutzky@nwu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS31764/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Ann Biomed Eng",
+     "JT": "Annals of biomedical engineering",
+     "JID": "0361512",
+     "RN": [
+          "0 (GABA Antagonists)",
+          "124-87-8 (Picrotoxin)",
+          "I38ZP9992A (Magnesium)",
+          "RWP5GA015D (Potassium)",
+          "Y37615DVKC (Bicuculline)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Bicuculline/pharmacology",
+          "Biomedical Engineering",
+          "Computer Simulation",
+          "Electrophysiology",
+          "Epilepsy/*physiopathology/therapy",
+          "GABA Antagonists/pharmacology",
+          "Hippocampus/drug effects/*physiopathology",
+          "In Vitro Techniques",
+          "Magnesium/pharmacology",
+          "Male",
+          "*Models, Neurological",
+          "Nonlinear Dynamics",
+          "Picrotoxin/pharmacology",
+          "Potassium/pharmacology",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Stochastic Processes"
+     ],
+     "EDAT": "2001/08/15 10:00",
+     "MHDA": "2002/01/23 10:01",
+     "CRDT": [
+          "2001/08/15 10:00"
+     ],
+     "PHST": [
+          "2001/08/15 10:00 [pubmed]",
+          "2002/01/23 10:01 [medline]",
+          "2001/08/15 10:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ann Biomed Eng. 2001;29(7):607-18.",
+     "term": "hippocampus"
+}

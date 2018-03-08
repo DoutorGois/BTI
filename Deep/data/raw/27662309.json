@@ -1,0 +1,93 @@
+{
+     "PMID": "27662309",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180215",
+     "LR": "20180215",
+     "IS": "1875-8908 (Electronic) 1387-2877 (Linking)",
+     "VI": "55",
+     "IP": "1",
+     "DP": "2017",
+     "TI": "Prediction of Incipient Alzheimer's Disease Dementia in Patients with Mild Cognitive Impairment.",
+     "PG": "269-281",
+     "AB": "BACKGROUND: Mild cognitive impairment (MCI) is a transitional stage from normal aging to Alzheimer's disease (AD) dementia. It is extremely important to develop criteria that can be used to separate the MCI subjects at imminent risk of conversion to Alzheimer-type dementia from those who would remain stable. We have developed an automatic algorithm for computing a novel measure of hippocampal volumetric integrity (HVI) from structural MRI scans that may be useful for this purpose. OBJECTIVE: To determine the utility of HVI in classification between stable and progressive MCI patients using the Random Forest classification algorithm. METHODS: We used a 16-dimensional feature space including bilateral HVI obtained from baseline and one-year follow-up structural MRI, cognitive tests, and genetic and demographic information to train a Random Forest classifier in a sample of 164 MCI subjects categorized into two groups [progressive (n = 86) or stable (n = 78)] based on future conversion (or lack thereof) of their diagnosis to probable AD. RESULTS: The overall accuracy of classification was estimated to be 82.3% (86.0% sensitivity, 78.2% specificity). The accuracy in women (89.1%) was considerably higher than that in men (78.9%). The prediction accuracy achieved in women is the highest reported in any previous application of machine learning to AD diagnosis in MCI. CONCLUSION: The method presented in this paper can be used to separate stable MCI patients from those who are at early stages of AD dementia with high accuracy. There may be stronger indicators of imminent AD dementia in women with MCI as compared to men.",
+     "FAU": [
+          "Ardekani, Babak A",
+          "Bermudez, Elaine",
+          "Mubeen, Asim M",
+          "Bachman, Alvin H"
+     ],
+     "AU": [
+          "Ardekani BA",
+          "Bermudez E",
+          "Mubeen AM",
+          "Bachman AH"
+     ],
+     "AD": "The Nathan S. Kline Institute for Psychiatric Research, Orangeburg, NY, USA. Department of Psychiatry, New York University School of Medicine, New York, NY, USA. The Nathan S. Kline Institute for Psychiatric Research, Orangeburg, NY, USA. Department of Psychiatry, New York University School of Medicine, New York, NY, USA. The Nathan S. Kline Institute for Psychiatric Research, Orangeburg, NY, USA. The Nathan S. Kline Institute for Psychiatric Research, Orangeburg, NY, USA.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Alzheimers Dis",
+     "JT": "Journal of Alzheimer's disease : JAD",
+     "JID": "9814863",
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*diagnostic imaging",
+          "Cognitive Dysfunction/*classification/*diagnostic imaging",
+          "Disease Progression",
+          "Female",
+          "Follow-Up Studies",
+          "Hippocampus/*diagnostic imaging",
+          "Humans",
+          "*Image Interpretation, Computer-Assisted/methods",
+          "Imaging, Three-Dimensional",
+          "Longitudinal Studies",
+          "Machine Learning",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Neuropsychological Tests",
+          "Organ Size",
+          "Pattern Recognition, Automated",
+          "Prognosis",
+          "Sensitivity and Specificity",
+          "Sex Characteristics"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Random Forest",
+          "atrophy",
+          "hippocampus",
+          "longitudinal analysis",
+          "magnetic resonance imaging",
+          "mild cognitive impairment",
+          "prediction",
+          "sex"
+     ],
+     "EDAT": "2016/09/24 06:00",
+     "MHDA": "2018/02/16 06:00",
+     "CRDT": [
+          "2016/09/24 06:00"
+     ],
+     "PHST": [
+          "2016/09/24 06:00 [pubmed]",
+          "2018/02/16 06:00 [medline]",
+          "2016/09/24 06:00 [entrez]"
+     ],
+     "AID": [
+          "JAD160594 [pii]",
+          "10.3233/JAD-160594 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Alzheimers Dis. 2017;55(1):269-281. doi: 10.3233/JAD-160594.",
+     "term": "hippocampus"
+}

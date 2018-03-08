@@ -1,0 +1,80 @@
+{
+     "PMID": "25485393",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150108",
+     "LR": "20170601",
+     "VI": "17",
+     "IP": "Pt 2",
+     "DP": "2014",
+     "TI": "Segmenting hippocampus from infant brains by sparse patch matching with deep-learned features.",
+     "PG": "308-15",
+     "AB": "Accurate segmentation of the hippocampus from infant MR brain images is a critical step for investigating early brain development. Unfortunately, the previous tools developed for adult hippocampus segmentation are not suitable for infant brain images acquired from the first year of life, which often have poor tissue contrast and variable structural patterns of early hippocampal development. From our point of view, the main problem is lack of discriminative and robust feature representations for distinguishing the hippocampus from the surrounding brain structures. Thus, instead of directly using the predefined features as popularly used in the conventional methods, we propose to learn the latent feature representations of infant MR brain images by unsupervised deep learning. Since deep learning paradigms can learn low-level features and then successfully build up more comprehensive high-level features in a layer-by-layer manner, such hierarchical feature representations can be more competitive for distinguishing the hippocampus from entire brain images. To this end, we apply Stacked Auto Encoder (SAE) to learn the deep feature representations from both T1- and T2-weighed MR images combining their complementary information, which is important for characterizing different development stages of infant brains after birth. Then, we present a sparse patch matching method for transferring hippocampus labels from multiple atlases to the new infant brain image, by using deep-learned feature representations to measure the interpatch similarity. Experimental results on 2-week-old to 9-month-old infant brain images show the effectiveness of the proposed method, especially compared to the state-of-the-art counterpart methods.",
+     "FAU": [
+          "Guo, Yanrong",
+          "Wu, Guorong",
+          "Commander, Leah A",
+          "Szary, Stephanie",
+          "Jewells, Valerie",
+          "Lin, Weili",
+          "Shent, Dinggang"
+     ],
+     "AU": [
+          "Guo Y",
+          "Wu G",
+          "Commander LA",
+          "Szary S",
+          "Jewells V",
+          "Lin W",
+          "Shent D"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB008374/EB/NIBIB NIH HHS/United States",
+          "R01 AG041721/AG/NIA NIH HHS/United States",
+          "R01 AG042599/AG/NIA NIH HHS/United States",
+          "R01 EB009634/EB/NIBIB NIH HHS/United States",
+          "R01 MH100217/MH/NIMH NIH HHS/United States",
+          "R21 HD081467/HD/NICHD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Aging/*pathology/*physiology",
+          "*Artificial Intelligence",
+          "Hippocampus/*anatomy & histology/*growth & development",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/methods",
+          "Infant",
+          "Infant, Newborn",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC4445142",
+     "MID": [
+          "NIHMS691875"
+     ],
+     "EDAT": "2014/12/09 06:00",
+     "MHDA": "2015/01/09 06:00",
+     "CRDT": [
+          "2014/12/09 06:00"
+     ],
+     "PHST": [
+          "2014/12/09 06:00 [entrez]",
+          "2014/12/09 06:00 [pubmed]",
+          "2015/01/09 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2014;17(Pt 2):308-15.",
+     "term": "hippocampus"
+}

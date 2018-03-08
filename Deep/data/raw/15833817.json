@@ -1,0 +1,84 @@
+{
+     "PMID": "15833817",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050708",
+     "LR": "20170219",
+     "IS": "0027-8424 (Print) 0027-8424 (Linking)",
+     "VI": "102",
+     "IP": "17",
+     "DP": "2005 Apr 26",
+     "TI": "Identification of network-level coding units for real-time representation of episodic experiences in the hippocampus.",
+     "PG": "6125-30",
+     "AB": "To examine the network-level organizing principles by which the brain achieves its real-time encoding of episodic information, we have developed a 96-channel array to simultaneously record the activity patterns of as many as 260 individual neurons in the mouse hippocampus during various startling episodes. We find that the mnemonic startling episodes triggered firing changes in a set of CA1 neurons in both startle-type and environment-dependent manners. Pattern classification methods reveal that these firing changes form distinct ensemble representations in a low-dimensional encoding subspace. Application of a sliding window technique further enabled us to reliably capture not only the temporal dynamics of real-time network encoding but also postevent processing of newly formed ensemble traces. Our analyses revealed that the network-encoding power is derived from a set of functional coding units, termed neural cliques, in the CA1 network. The individual neurons within neural cliques exhibit \"collective cospiking\" dynamics that allow the neural clique to overcome the response variability of its members and to achieve real-time encoding robustness. Conversion of activation patterns of these coding unit assemblies into a set of real-time digital codes permits concise and universal representation and categorization of discrete behavioral episodes across different individual brains.",
+     "FAU": [
+          "Lin, Longnian",
+          "Osan, Remus",
+          "Shoham, Shy",
+          "Jin, Wenjun",
+          "Zuo, Wenqi",
+          "Tsien, Joe Z"
+     ],
+     "AU": [
+          "Lin L",
+          "Osan R",
+          "Shoham S",
+          "Jin W",
+          "Zuo W",
+          "Tsien JZ"
+     ],
+     "AD": "Center for Systems Neurobiology, Departments of Pharmacology and Biomedical Engineering, Boston University, Boston, MA 02118, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH062632/MH/NIMH NIH HHS/United States",
+          "R01 MH060236/MH/NIMH NIH HHS/United States",
+          "MH61925/MH/NIMH NIH HHS/United States",
+          "MH60236/MH/NIMH NIH HHS/United States",
+          "AG02022/AG/NIA NIH HHS/United States",
+          "MH62632/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "DEP": "20050415",
+     "PL": "United States",
+     "TA": "Proc Natl Acad Sci U S A",
+     "JT": "Proceedings of the National Academy of Sciences of the United States of America",
+     "JID": "7505876",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/*physiology",
+          "Mice",
+          "Mice, Inbred Strains",
+          "Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/physiology",
+          "Pyramidal Cells/physiology",
+          "Reflex, Startle/*physiology",
+          "Time Factors"
+     ],
+     "PMC": "PMC1087910",
+     "EDAT": "2005/04/19 09:00",
+     "MHDA": "2005/07/09 09:00",
+     "CRDT": [
+          "2005/04/19 09:00"
+     ],
+     "PHST": [
+          "2005/04/19 09:00 [pubmed]",
+          "2005/07/09 09:00 [medline]",
+          "2005/04/19 09:00 [entrez]"
+     ],
+     "AID": [
+          "0408233102 [pii]",
+          "10.1073/pnas.0408233102 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc Natl Acad Sci U S A. 2005 Apr 26;102(17):6125-30. doi: 10.1073/pnas.0408233102. Epub 2005 Apr 15.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,83 @@
+{
+     "PMID": "28500358",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20180124",
+     "IS": "1617-7940 (Electronic) 1617-7940 (Linking)",
+     "VI": "16",
+     "IP": "5",
+     "DP": "2017 Oct",
+     "TI": "Injury prediction and vulnerability assessment using strain and susceptibility measures of the deep white matter.",
+     "PG": "1709-1727",
+     "LID": "10.1007/s10237-017-0915-5 [doi]",
+     "AB": "Reliable prediction and diagnosis of concussion is important for its effective clinical management. Previous model-based studies largely employ peak responses from a single element in a pre-selected anatomical region of interest (ROI) and utilize a single training dataset for injury prediction. A more systematic and rigorous approach is necessary to scrutinize the entire white matter (WM) ROIs as well as ROI-constrained neural tracts. To this end, we evaluated injury prediction performances of the 50 deep WM regions using predictor variables based on strains obtained from simulating the 58 reconstructed American National Football League head impacts. To objectively evaluate performance, repeated random subsampling was employed to split the impacts into independent training and testing datasets (39 and 19 cases, respectively, with 100 trials). Univariate logistic regressions were conducted based on training datasets to compute the area under the receiver operating characteristic curve (AUC), while accuracy, sensitivity, and specificity were reported based on testing datasets. Two tract-wise injury susceptibilities were identified as the best overall via pair-wise permutation test. They had comparable AUC, accuracy, and sensitivity, with the highest values occurring in superior longitudinal fasciculus (SLF; 0.867-0.879, 84.4-85.2, and 84.1-84.6%, respectively). Using metrics based on WM fiber strain, the most vulnerable ROIs included genu of corpus callosum, cerebral peduncle, and uncinate fasciculus, while genu and main body of corpus callosum, and SLF were among the most vulnerable tracts. Even for one un-concussed athlete, injury susceptibility of the cingulum (hippocampus) right was elevated. These findings highlight the unique injury discriminatory potentials of computational models and may provide important insight into how best to incorporate WM structural anisotropy for investigation of brain injury.",
+     "FAU": [
+          "Zhao, Wei",
+          "Cai, Yunliang",
+          "Li, Zhigang",
+          "Ji, Songbai"
+     ],
+     "AU": [
+          "Zhao W",
+          "Cai Y",
+          "Li Z",
+          "Ji S"
+     ],
+     "AD": "Department of Biomedical Engineering, Worcester Polytechnic Institute, Worcester, MA, 01609, USA. Department of Biomedical Engineering, Worcester Polytechnic Institute, Worcester, MA, 01609, USA. Department of Biomedical Data Science, Geisel School of Medicine, Dartmouth College, Lebanon, NH, 03766, USA. Department of Biomedical Engineering, Worcester Polytechnic Institute, Worcester, MA, 01609, USA. sji@wpi.edu. Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester, MA, 01609, USA. sji@wpi.edu. Thayer School of Engineering, Dartmouth College, Hanover, NH, 03755, USA. sji@wpi.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS092853/NS/NINDS NIH HHS/United States",
+          "R21 NS088781/NS/NINDS NIH HHS/United States",
+          "R01 NS092853/National Institute of Neurological Disorders and Stroke/United",
+          "States",
+          "R21 NS088781/National Institute of Neurological Disorders and Stroke/United",
+          "States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170512",
+     "PL": "Germany",
+     "TA": "Biomech Model Mechanobiol",
+     "JT": "Biomechanics and modeling in mechanobiology",
+     "JID": "101135325",
+     "PMC": "PMC5682246",
+     "MID": [
+          "NIHMS876346"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Concussion",
+          "Deep white matter",
+          "Fiber strain",
+          "Injury susceptibility",
+          "Tractography"
+     ],
+     "EDAT": "2017/05/14 06:00",
+     "MHDA": "2017/05/14 06:00",
+     "CRDT": [
+          "2017/05/14 06:00"
+     ],
+     "PMCR": [
+          "2018/10/01 00:00"
+     ],
+     "PHST": [
+          "2017/01/03 00:00 [received]",
+          "2017/04/29 00:00 [accepted]",
+          "2018/10/01 00:00 [pmc-release]",
+          "2017/05/14 06:00 [pubmed]",
+          "2017/05/14 06:00 [medline]",
+          "2017/05/14 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s10237-017-0915-5 [doi]",
+          "10.1007/s10237-017-0915-5 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biomech Model Mechanobiol. 2017 Oct;16(5):1709-1727. doi: 10.1007/s10237-017-0915-5. Epub 2017 May 12.",
+     "term": "hippocampus"
+}

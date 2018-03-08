@@ -1,0 +1,71 @@
+{
+     "PMID": "16339003",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060427",
+     "LR": "20061115",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "95",
+     "IP": "3",
+     "DP": "2006 Mar",
+     "TI": "Distal gap junctions and active dendrites can tune network dynamics.",
+     "PG": "1669-82",
+     "AB": "Gap junctions allow direct electrical communication between CNS neurons. From theoretical and modeling studies, it is well known that although gap junctions can act to synchronize network output, they can also give rise to many other dynamic patterns including antiphase and other phase-locked states. The particular network pattern that arises depends on cellular, intrinsic properties that affect firing frequencies as well as the strength and location of the gap junctions. Interneurons or GABAergic neurons in hippocampus are diverse in their cellular characteristics and have been shown to have active dendrites. Furthermore, parvalbumin-positive GABAergic neurons, also known as basket cells, can contact one another via gap junctions on their distal dendrites. Using two-cell network models, we explore how distal electrical connections affect network output. We build multi-compartment models of hippocampal basket cells using NEURON and endow them with varying amounts of active dendrites. Two-cell networks of these model cells as well as reduced versions are explored. The relationship between intrinsic frequency and the level of active dendrites allows us to define three regions based on what sort of network dynamics occur with distal gap junction coupling. Weak coupling theory is used to predict the delineation of these regions as well as examination of phase response curves and distal dendritic polarization levels. We find that a nonmonotonic dependence of network dynamic characteristics (phase lags) on gap junction conductance occurs. This suggests that distal electrical coupling and active dendrite levels can control how sensitive network dynamics are to gap junction modulation. With the extended geometry, gap junctions located at more distal locations must have larger conductances for pure synchrony to occur. Furthermore, based on simulations with heterogeneous networks, it may be that one requires active dendrites if phase-locking is to occur in networks formed with distal gap junctions.",
+     "FAU": [
+          "Saraga, Fernanda",
+          "Ng, Leo",
+          "Skinner, Frances K"
+     ],
+     "AU": [
+          "Saraga F",
+          "Ng L",
+          "Skinner FK"
+     ],
+     "AD": "Div. of Cell and Molecular Biology, Toronto Western Research Institute, Toronto Western Hospital, 399 Bathurst St., MP13-317, Toronto, Ontario M5T 2S8, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20051207",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Biological Clocks/physiology",
+          "Computer Simulation",
+          "Dendrites/*physiology",
+          "Feedback/physiology",
+          "Gap Junctions/*physiology",
+          "Hippocampus/physiology",
+          "Humans",
+          "Interneurons/*physiology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neuronal Plasticity/*physiology",
+          "Synaptic Transmission/*physiology"
+     ],
+     "EDAT": "2005/12/13 09:00",
+     "MHDA": "2006/04/28 09:00",
+     "CRDT": [
+          "2005/12/13 09:00"
+     ],
+     "PHST": [
+          "2005/12/13 09:00 [pubmed]",
+          "2006/04/28 09:00 [medline]",
+          "2005/12/13 09:00 [entrez]"
+     ],
+     "AID": [
+          "00662.2005 [pii]",
+          "10.1152/jn.00662.2005 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2006 Mar;95(3):1669-82. doi: 10.1152/jn.00662.2005. Epub 2005 Dec 7.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,102 @@
+{
+     "PMID": "25373493",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151015",
+     "LR": "20170220",
+     "IS": "2045-2322 (Electronic) 2045-2322 (Linking)",
+     "VI": "4",
+     "DP": "2014 Nov 6",
+     "TI": "Profiling status epilepticus-induced changes in hippocampal RNA expression using high-throughput RNA sequencing.",
+     "PG": "6930",
+     "LID": "10.1038/srep06930 [doi]",
+     "AB": "Status epilepticus (SE) is a life-threatening condition that can give rise to a number of neurological disorders, including learning deficits, depression, and epilepsy. Many of the effects of SE appear to be mediated by alterations in gene expression. To gain deeper insight into how SE affects the transcriptome, we employed the pilocarpine SE model in mice and Illumina-based high-throughput sequencing to characterize alterations in gene expression from the induction of SE, to the development of spontaneous seizure activity. While some genes were upregulated over the entire course of the pathological progression, each of the three sequenced time points (12-hour, 10-days and 6-weeks post-SE) had a largely unique transcriptional profile. Hence, genes that regulate synaptic physiology and transcription were most prominently altered at 12-hours post-SE; at 10-days post-SE, marked changes in metabolic and homeostatic gene expression were detected; at 6-weeks, substantial changes in the expression of cell excitability and morphogenesis genes were detected. At the level of cell signaling, KEGG analysis revealed dynamic changes within the MAPK pathways, as well as in CREB-associated gene expression. Notably, the inducible expression of several noncoding transcripts was also detected. These findings offer potential new insights into the cellular events that shape SE-evoked pathology.",
+     "FAU": [
+          "Hansen, Katelin F",
+          "Sakamoto, Kensuke",
+          "Pelz, Carl",
+          "Impey, Soren",
+          "Obrietan, Karl"
+     ],
+     "AU": [
+          "Hansen KF",
+          "Sakamoto K",
+          "Pelz C",
+          "Impey S",
+          "Obrietan K"
+     ],
+     "AD": "Department of Neuroscience, Ohio State University, 4030 Graves Hall, 333 W 10th Ave, Columbus, OH, 43210 USA. Department of Neuroscience, Ohio State University, 4030 Graves Hall, 333 W 10th Ave, Columbus, OH, 43210 USA. Oregon Health and Science University, Biomedical research Building Room 707, 3181 SW Sam Jackson Park Rd., Portland, OR, USA. Oregon Health and Science University, Biomedical research Building Room 707, 3181 SW Sam Jackson Park Rd., Portland, OR, USA. Department of Neuroscience, Ohio State University, 4030 Graves Hall, 333 W 10th Ave, Columbus, OH, 43210 USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS066345/NS/NINDS NIH HHS/United States",
+          "R01 NS066345/NS/NINDS NIH HHS/United States",
+          "F31 MH096460/MH/NIMH NIH HHS/United States",
+          "F31-MH096460-01/MH/NIMH NIH HHS/United States",
+          "R01 NS067409/NS/NINDS NIH HHS/United States",
+          "NS067409/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20141106",
+     "PL": "England",
+     "TA": "Sci Rep",
+     "JT": "Scientific reports",
+     "JID": "101563288",
+     "RN": [
+          "0 (Creb1 protein, mouse)",
+          "0 (Cyclic AMP Response Element-Binding Protein)",
+          "0 (RNA, Messenger)",
+          "0 (RNA, Untranslated)",
+          "01MI4Q9DI3 (Pilocarpine)",
+          "EC 2.7.11.24 (Mitogen-Activated Protein Kinases)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Base Sequence",
+          "Cyclic AMP Response Element-Binding Protein/genetics/metabolism",
+          "Disease Models, Animal",
+          "Disease Progression",
+          "Gene Expression Profiling",
+          "High-Throughput Nucleotide Sequencing",
+          "Hippocampus/*metabolism/pathology",
+          "Humans",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Mitogen-Activated Protein Kinases/genetics/metabolism",
+          "Molecular Sequence Data",
+          "Neurons/*metabolism/pathology",
+          "Pilocarpine",
+          "RNA, Messenger/genetics/*metabolism",
+          "RNA, Untranslated/genetics/*metabolism",
+          "Status Epilepticus/chemically induced/*genetics/metabolism/pathology",
+          "Synapses/metabolism/pathology",
+          "Synaptic Transmission",
+          "*Transcriptome"
+     ],
+     "PMC": "PMC4894418",
+     "EDAT": "2014/11/07 06:00",
+     "MHDA": "2015/10/16 06:00",
+     "CRDT": [
+          "2014/11/07 06:00"
+     ],
+     "PHST": [
+          "2014/05/22 00:00 [received]",
+          "2014/10/09 00:00 [accepted]",
+          "2014/11/07 06:00 [entrez]",
+          "2014/11/07 06:00 [pubmed]",
+          "2015/10/16 06:00 [medline]"
+     ],
+     "AID": [
+          "srep06930 [pii]",
+          "10.1038/srep06930 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Sci Rep. 2014 Nov 6;4:6930. doi: 10.1038/srep06930.",
+     "term": "hippocampus"
+}

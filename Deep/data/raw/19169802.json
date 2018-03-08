@@ -1,0 +1,73 @@
+{
+     "PMID": "19169802",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090619",
+     "LR": "20171021",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "26",
+     "IP": "3",
+     "DP": "2009 Jun",
+     "TI": "Slow and fast pulses in 1-D cultures of excitatory neurons.",
+     "PG": "475-93",
+     "LID": "10.1007/s10827-008-0123-5 [doi]",
+     "AB": "We analyze the characteristics of front propagation in activity of 1-D neuronal cultures by numerical simulations, using only excitatory dynamics. Experimental results in 1-D cultures of hippocampal neurons from rats have shown the spontaneous generation of a slow, low amplitude pulse that precedes a high amplitude, fast pulse that propagates through all the system. Notably, this transition appears both with and without the presence of functioning inhibitory synapses. In accordance with previous work, we demonstrate that purely excitatory integrate and fire neurons with depression in the synapses suffice to produce fast and uniform pulses but cannot explain the appearance of slow, weak pulses. We propose to explain the slow pulses by increasing the complexity of the neuron model in a purely excitatory network with connectivity as close to the experiments as possible. This approach allows us to show that spike frequency adaptation is a fundamental ingredient for the initiation process of the pulse. The introduction of a slow variable that mimics the presence of the slow K(+) channels in the soma and produces spike frequency adaptation increases strongly the persistence of the transient activity before the emergence of the fast pulse up to temporal and spatial scales comparable with the experiments. Finally, we demonstrate that proper levels of additive white noisy currents generate such pulses spontaneously, fully reproducing the experimental results.",
+     "FAU": [
+          "Alvarez-Lacalle, E",
+          "Moses, E"
+     ],
+     "AU": [
+          "Alvarez-Lacalle E",
+          "Moses E"
+     ],
+     "AD": "Departamento de Fisica Aplicada, Universitat Politecnica de Catalunya UPC, Doctor Maranon 44-58, 08028, Barcelona, Spain. enrical@fa.upc.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090124",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "RN": [
+          "0 (Potassium Channels)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Algorithms",
+          "Animals",
+          "Cells, Cultured",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Potassium Channels/metabolism",
+          "Rats",
+          "Synaptic Transmission/*physiology",
+          "Time Factors"
+     ],
+     "EDAT": "2009/01/27 09:00",
+     "MHDA": "2009/06/20 09:00",
+     "CRDT": [
+          "2009/01/27 09:00"
+     ],
+     "PHST": [
+          "2008/05/06 00:00 [received]",
+          "2008/11/04 00:00 [accepted]",
+          "2008/09/29 00:00 [revised]",
+          "2009/01/27 09:00 [entrez]",
+          "2009/01/27 09:00 [pubmed]",
+          "2009/06/20 09:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10827-008-0123-5 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2009 Jun;26(3):475-93. doi: 10.1007/s10827-008-0123-5. Epub 2009 Jan 24.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,68 @@
+{
+     "PMID": "26207134",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20150724",
+     "LR": "20170220",
+     "IS": "1738-3684 (Print) 1738-3684 (Linking)",
+     "VI": "12",
+     "IP": "3",
+     "DP": "2015 Jul",
+     "TI": "Microarray Analysis of the Major Depressive Disorder mRNA Profile Data.",
+     "PG": "388-96",
+     "LID": "10.4306/pi.2015.12.3.388 [doi]",
+     "AB": "OBJECTIVE: Major depressive disorder (MDD) is a common mood disorder associated with several psychophysiological changes like disturbances of sleep, appetite, or sexual desire, and it affects the patients' life seriously. We aimed to explore a genetic method to investigate the mechanism of MDD. METHODS: The mRNA expression profile (GSE53987) of MDD was downloaded from Gene Expression Omnibus database, including 105 samples of three brain regions in post-mortem tissue suffered from MDD and unaffected controls. Differentially expressed genes (DEGs) in MDD were identified using the Limma package in R. Gene Ontology functions and Kyoto Enrichment of Genes and Genomes pathways of the selected DEGs were enriched using Database for Annotation, Visualization and Integrated Discovery. Protein-protein interactive network of DEGs was constructed using the Cytoscape software. RESULTS: Totally, 241 DEGs in MDD-hip group, 218 DEGs in MDD-pfc group, and 327 DEGs in MDD-str group were identified. Also, different kinds of biological processes of DEGs in each group were enriched. Besides, glycan biosynthesis of DEGs in MDD-str group, RIG-I-like receptor signaling and pyrimidine metabolism of DEGs in the MDD-hip group were enriched, respectively. Moreover, several DEGs like PTK2, TDG and CETN2 in MDD-str group, DCT, AR and GNRHR in MDD-pfc group, and AKT1 and IRAK1 in MDD-hip group were selected from PPI network. CONCLUSION: Our data suggests that the brain striatum tissue may be greatly affected by MDD, and DEGs like PTK2, GALNT2 and GALNT2 in striatum, AR in prefrontal cortex and IRAK1 and IL12A in hippocampus may provide novel therapeutic basis for MDD treatment.",
+     "FAU": [
+          "Gao, Lishu",
+          "Gao, Yue",
+          "Xu, Enping",
+          "Xie, Jian"
+     ],
+     "AU": [
+          "Gao L",
+          "Gao Y",
+          "Xu E",
+          "Xie J"
+     ],
+     "AD": "Department of Clinical Psychology, Hangzhou First People's Hospital, Hangzhou, Zhejiang, PR China. Department of Gerontology, Hangzhou First People's Hospital, Hangzhou, Zhejiang, PR China. Department of Pathology, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, PR China. Department of Clinical Psychology, Hangzhou First People's Hospital, Hangzhou, Zhejiang, PR China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150706",
+     "PL": "Korea (South)",
+     "TA": "Psychiatry Investig",
+     "JT": "Psychiatry investigation",
+     "JID": "101242994",
+     "PMC": "PMC4504923",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Differentially expressed genes",
+          "Function enrichment",
+          "Major depressive disorder",
+          "Pathway enrichment"
+     ],
+     "EDAT": "2015/07/25 06:00",
+     "MHDA": "2015/07/25 06:01",
+     "CRDT": [
+          "2015/07/25 06:00"
+     ],
+     "PHST": [
+          "2014/06/10 00:00 [received]",
+          "2014/08/22 00:00 [revised]",
+          "2014/09/19 00:00 [accepted]",
+          "2015/07/25 06:00 [entrez]",
+          "2015/07/25 06:00 [pubmed]",
+          "2015/07/25 06:01 [medline]"
+     ],
+     "AID": [
+          "10.4306/pi.2015.12.3.388 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Psychiatry Investig. 2015 Jul;12(3):388-96. doi: 10.4306/pi.2015.12.3.388. Epub 2015 Jul 6.",
+     "term": "hippocampus"
+}

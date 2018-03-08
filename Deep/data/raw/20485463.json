@@ -1,0 +1,68 @@
+{
+     "PMID": "20485463",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20110714",
+     "LR": "20170220",
+     "IS": "1662-5218 (Electronic) 1662-5218 (Linking)",
+     "VI": "4",
+     "DP": "2010",
+     "TI": "Unsupervised learning of reflexive and action-based affordances to model adaptive navigational behavior.",
+     "PG": "2",
+     "LID": "10.3389/fnbot.2010.00002 [doi]",
+     "AB": "Here we introduce a cognitive model capable to model a variety of behavioral domains and apply it to a navigational task. We used place cells as sensory representation, such that the cells' place fields divided the environment into discrete states. The robot learns knowledge of the environment by memorizing the sensory outcome of its motor actions. This is composed of a central process, learning the probability of state-to-state transitions by motor actions and a distal processing routine, learning the extent to which these state-to-state transitions are caused by sensory-driven reflex behavior (obstacle avoidance). Navigational decision making integrates central and distal learned environmental knowledge to select an action that leads to a goal state. Differentiating distal and central processing increases the behavioral accuracy of the selected actions and the ability of behavioral adaptation to a changed environment. We propose that the system can canonically be expanded to model other behaviors, using alternative definitions of states and actions. The emphasis of this paper is to test this general cognitive model on a robot in a real-world environment.",
+     "FAU": [
+          "Weiller, Daniel",
+          "Laer, Leonhard",
+          "Engel, Andreas K",
+          "Konig, Peter"
+     ],
+     "AU": [
+          "Weiller D",
+          "Laer L",
+          "Engel AK",
+          "Konig P"
+     ],
+     "AD": "Institute of Cognitive Science, Department of Neurobiopsychology, University of Osnabruck Osnabruck, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20100512",
+     "PL": "Switzerland",
+     "TA": "Front Neurorobot",
+     "JT": "Frontiers in neurorobotics",
+     "JID": "101477958",
+     "PMC": "PMC2871689",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "adaptive behavior",
+          "four-arm-maze",
+          "navigation",
+          "place cells",
+          "reflexes",
+          "unsupervised learning"
+     ],
+     "EDAT": "2010/05/21 06:00",
+     "MHDA": "2010/05/21 06:01",
+     "CRDT": [
+          "2010/05/21 06:00"
+     ],
+     "PHST": [
+          "2009/09/21 00:00 [received]",
+          "2010/02/22 00:00 [accepted]",
+          "2010/05/21 06:00 [entrez]",
+          "2010/05/21 06:00 [pubmed]",
+          "2010/05/21 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnbot.2010.00002 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neurorobot. 2010 May 12;4:2. doi: 10.3389/fnbot.2010.00002. eCollection 2010.",
+     "term": "place cells"
+}

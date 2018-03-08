@@ -1,0 +1,77 @@
+{
+     "PMID": "15703385",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050926",
+     "LR": "20140325",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "25",
+     "IP": "6",
+     "DP": "2005 Feb 9",
+     "TI": "Sequential-context-dependent hippocampal activity is not necessary to learn sequences with repeated elements.",
+     "PG": "1313-23",
+     "AB": "Learning sequences of events (e.g., a-b-c) is conceptually a simple problem that can be solved using asymmetrically linked cell assemblies [e.g., \"phase sequences\" (Hebb, 1949)], provided that the elements of the sequence are unique. When elements repeat within the sequence, however (e.g., a-b-c-d-b-e), the same element belongs to two separate \"contexts,\" and a more complex sequence encoding mechanism is required to differentiate between the two contexts. Some neural structure must form sequential-context-dependent, or \"differential,\" representations of the two contexts (i.e., b as an element of \"a-b-c\" as opposed to \"d-b-e\") to allow the correct choice to be made after the repeated element. To investigate the possible role of hippocampus in complex sequence encoding, rats were trained to remember repeated-location sequences under three conditions: (1) reward was given at each location; (2) during training, moveable barriers were placed at the entry and exit of the repeated segment to direct the rat and were removed once the sequence was learned; and (3) reward was withheld at the entry and exit of the repeated segment. In the first condition, hippocampal ensemble activity did not differentiate the sequential context of the repeated segment, indicating that complex sequences with repeated segments can be learned without differential encoding within the hippocampus. Differential hippocampal encoding was observed, however, under the latter two conditions, suggesting that long-term memory for discriminative cues present only during training, working memory of the most recently visited reinforcement sites, or anticipation of the subsequent reinforcement site can separate hippocampal activity patterns at the same location.",
+     "FAU": [
+          "Bower, Mark R",
+          "Euston, David R",
+          "McNaughton, Bruce L"
+     ],
+     "AU": [
+          "Bower MR",
+          "Euston DR",
+          "McNaughton BL"
+     ],
+     "AD": "Department of Comparative Medicine, Stanford University, Stanford, California 94305-5342, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH01565/MH/NIMH NIH HHS/United States",
+          "NS20331/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Acoustic Stimulation",
+          "Animals",
+          "Conditioning, Classical/physiology",
+          "Crosses, Genetic",
+          "Discriminant Analysis",
+          "Electric Stimulation",
+          "Hippocampus/*physiology",
+          "Male",
+          "Maze Learning/*physiology",
+          "Microelectrodes",
+          "Photic Stimulation",
+          "Rats",
+          "Rats, Inbred BN",
+          "Rats, Inbred F344",
+          "Reward"
+     ],
+     "EDAT": "2005/02/11 09:00",
+     "MHDA": "2005/09/27 09:00",
+     "CRDT": [
+          "2005/02/11 09:00"
+     ],
+     "PHST": [
+          "2005/02/11 09:00 [pubmed]",
+          "2005/09/27 09:00 [medline]",
+          "2005/02/11 09:00 [entrez]"
+     ],
+     "AID": [
+          "25/6/1313 [pii]",
+          "10.1523/JNEUROSCI.2901-04.2005 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2005 Feb 9;25(6):1313-23. doi: 10.1523/JNEUROSCI.2901-04.2005.",
+     "term": "hippocampus"
+}

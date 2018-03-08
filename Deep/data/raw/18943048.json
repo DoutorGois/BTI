@@ -1,0 +1,55 @@
+{
+     "PMID": "18943048",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20121002",
+     "LR": "20081023",
+     "IS": "0031-949X (Print) 0031-949X (Linking)",
+     "VI": "95",
+     "IP": "4",
+     "DP": "2005 Apr",
+     "TI": "Modeling Spatial Characteristics in the Biological Control of Fungi at Leaf Scale: Competitive Substrate Colonization by Botrytis cinerea and the Saprophytic Antagonist Ulocladium atrum.",
+     "PG": "439-48",
+     "LID": "10.1094/PHYTO-95-0439 [doi]",
+     "AB": "ABSTRACT A spatially explicit model describing saprophytic colonization of dead cyclamen leaf tissue by the plant-pathogenic fungus Botrytis cinerea and the saprophytic fungal antagonist Ulocladium atrum was constructed. Both fungi explore the leaf and utilize the resources it provides. Leaf tissue is represented by a two-dimensional grid of square grid cells. Fungal competition within grid cells is modeled using Lotka-Volterra equations. Spatial expansion into neighboring grid cells is assumed proportional to the mycelial density gradient between donor and receptor cell. Established fungal biomass is immobile. Radial growth rates of B. cinerea and U. atrum in dead cyclamen leaf tissue were measured to determine parameters describing the spatial dynamics of the fungi. At temperatures from 5 to 25 degrees C, B. cinerea colonies expanded twice as rapidly as U. atrum colonies. In practical biological control, the slower colonization of space by U. atrum thus needs to be compensated by a sufficiently dense and even distribution of conidia on the leaf. Simulation results confirm the importance of spatial expansion to the outcome of the competitive interaction between B. cinerea and U. atrum at leaf scale. A sensitivity analysis further emphasized the importance of a uniform high density cover of vital U. atrum conidia on target leaves.",
+     "FAU": [
+          "Kessel, G J T",
+          "Kohl, J",
+          "Powell, J A",
+          "Rabbinge, R",
+          "van der Werf, W"
+     ],
+     "AU": [
+          "Kessel GJ",
+          "Kohl J",
+          "Powell JA",
+          "Rabbinge R",
+          "van der Werf W"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Phytopathology",
+     "JT": "Phytopathology",
+     "JID": "9427222",
+     "EDAT": "2008/10/24 09:00",
+     "MHDA": "2008/10/24 09:01",
+     "CRDT": [
+          "2008/10/24 09:00"
+     ],
+     "PHST": [
+          "2008/10/24 09:00 [pubmed]",
+          "2008/10/24 09:01 [medline]",
+          "2008/10/24 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1094/PHYTO-95-0439 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phytopathology. 2005 Apr;95(4):439-48. doi: 10.1094/PHYTO-95-0439.",
+     "term": "grid cells"
+}

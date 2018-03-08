@@ -1,0 +1,73 @@
+{
+     "PMID": "29075993",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20171219",
+     "IS": "1879-5447 (Electronic) 0158-9938 (Linking)",
+     "VI": "40",
+     "IP": "4",
+     "DP": "2017 Dec",
+     "TI": "Grid mapping: a novel method of signal quality evaluation on a single lead electrocardiogram.",
+     "PG": "895-907",
+     "LID": "10.1007/s13246-017-0594-7 [doi]",
+     "AB": "Diagnosis of long-term electrocardiogram (ECG) calls for automatic and accurate methods of ECG signal quality estimation, not only to lighten the burden of the doctors but also to avoid misdiagnoses. In this paper, a novel waveform-based method of phase-space reconstruction for signal quality estimation on a single lead ECG was proposed by projecting the amplitude of the ECG and its first order difference into grid cells. The waveform of a single lead ECG was divided into non-overlapping episodes (Ts = 10, 20, 30 s), and the number of grids in both the width and the height of each map are in the range [20, 100] (NX = NY = 20, 30, 40, ... 90, 100). The blank pane ratio (BPR) and the entropy were calculated from the distribution of ECG sampling points which were projected into the grid cells. Signal Quality Indices (SQI) bSQI and eSQI were calculated according to the BPR and the entropy, respectively. The MIT-BIH Noise Stress Test Database was used to test the performance of bSQI and eSQI on ECG signal quality estimation. The signal-to-noise ratio (SNR) during the noisy segments of the ECG records in the database is 24, 18, 12, 6, 0 and - 6 dB, respectively. For the SQI quantitative analysis, the records were divided into three groups: good quality group (24, 18 dB), moderate group (12, 6 dB) and bad quality group (0, - 6 dB). The classification among good quality group, moderate quality group and bad quality group were made by linear support-vector machine with the combination of the BPR, the entropy, the bSQI and the eSQI. The classification accuracy was 82.4% and the Cohen's Kappa coefficient was 0.74 on a scale of NX = 40 and Ts = 20 s. In conclusion, the novel grid mapping offers an intuitive and simple approach to achieving signal quality estimation on a single lead ECG.",
+     "FAU": [
+          "Li, Yanjun",
+          "Tang, Xiaoying"
+     ],
+     "AU": [
+          "Li Y",
+          "Tang X"
+     ],
+     "AD": "Key Laboratory of Convergence Medical Engineering System and Healthcare Technology, The Ministry of Industry and Information Technology, School of Life Science, Beijing Institute of Technology, Beijing, 100081, China. State Key Laboratory of Space Medicine Fundamentals and Application, China Astronaut Research and Training Center, Beijing, 100094, China. Key Laboratory of Convergence Medical Engineering System and Healthcare Technology, The Ministry of Industry and Information Technology, School of Life Science, Beijing Institute of Technology, Beijing, 100081, China. xiaoying@bit.edu.cn.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "SMFA15B06/tate Key Laboratory of Space Medicine Fundamentals and Application,",
+          "China Astronaut Research and Training Center/United States",
+          "SMFA15A01/tate Key Laboratory of Space Medicine Fundamentals and Application,",
+          "China Astronaut Research and Training Center/United States",
+          "81471743/China National Natural Science Fund/United States",
+          "81271568/China National Natural Science Fund/United States",
+          "61401417/China National Natural Science Fund/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171026",
+     "PL": "Netherlands",
+     "TA": "Australas Phys Eng Sci Med",
+     "JT": "Australasian physical & engineering sciences in medicine",
+     "JID": "8208130",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "ECG signal quality",
+          "Electrocardiogram (ECG)",
+          "Grid mapping",
+          "Phase-space reconstruction (PSR)",
+          "Signal Quality Index (SQI)",
+          "The MIT-BIH Noise Stress Test Database"
+     ],
+     "EDAT": "2017/10/28 06:00",
+     "MHDA": "2017/10/28 06:00",
+     "CRDT": [
+          "2017/10/28 06:00"
+     ],
+     "PHST": [
+          "2017/02/27 00:00 [received]",
+          "2017/10/13 00:00 [accepted]",
+          "2017/10/28 06:00 [pubmed]",
+          "2017/10/28 06:00 [medline]",
+          "2017/10/28 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s13246-017-0594-7 [doi]",
+          "10.1007/s13246-017-0594-7 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Australas Phys Eng Sci Med. 2017 Dec;40(4):895-907. doi: 10.1007/s13246-017-0594-7. Epub 2017 Oct 26.",
+     "term": "grid cells"
+}

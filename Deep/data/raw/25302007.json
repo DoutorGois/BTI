@@ -1,0 +1,66 @@
+{
+     "PMID": "25302007",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "0277-786X (Print) 0277-786X (Linking)",
+     "VI": "9034",
+     "DP": "2014 Mar 21",
+     "TI": "Improved Statistical Power with a Sparse Shape Model in Detecting an Aging Effect in the Hippocampus and Amygdala.",
+     "PG": "90340Y",
+     "AB": "The sparse regression framework has been widely used in medical image processing and analysis. However, it has been rarely used in anatomical studies. We present a sparse shape modeling framework using the Laplace-Beltrami (LB) eigenfunctions of the underlying shape and show its improvement of statistical power. Traditionally, the LB-eigenfunctions are used as a basis for intrinsically representing surface shapes as a form of Fourier descriptors. To reduce high frequency noise, only the first few terms are used in the expansion and higher frequency terms are simply thrown away. However, some lower frequency terms may not necessarily contribute significantly in reconstructing the surfaces. Motivated by this idea, we present a LB-based method to filter out only the significant eigenfunctions by imposing a sparse penalty. For dense anatomical data such as deformation fields on a surface mesh, the sparse regression behaves like a smoothing process, which will reduce the error of incorrectly detecting false negatives. Hence the statistical power improves. The sparse shape model is then applied in investigating the influence of age on amygdala and hippocampus shapes in the normal population. The advantage of the LB sparse framework is demonstrated by showing the increased statistical power.",
+     "FAU": [
+          "Chung, Moo K",
+          "Kim, Seung-Goo",
+          "Schaefer, Stacey M",
+          "van Reekum, Carien M",
+          "Peschke-Schmitz, Lara",
+          "Sutterer, Matthew J",
+          "Davidson, Richard J"
+     ],
+     "AU": [
+          "Chung MK",
+          "Kim SG",
+          "Schaefer SM",
+          "van Reekum CM",
+          "Peschke-Schmitz L",
+          "Sutterer MJ",
+          "Davidson RJ"
+     ],
+     "AD": "University of Wisconsin-Madison, USA. Max Planck Institute, Germany. University of Wisconsin-Madison, USA. University of Reading, UK. University of Wisconsin-Madison, USA. University of Iowa, USA. University of Wisconsin-Madison, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P01 AG020166/AG/NIA NIH HHS/United States",
+          "P30 HD003352/HD/NICHD NIH HHS/United States",
+          "R01 MH043454/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Proc SPIE Int Soc Opt Eng",
+     "JT": "Proceedings of SPIE--the International Society for Optical Engineering",
+     "JID": "101524122",
+     "PMC": "PMC4188444",
+     "MID": [
+          "NIHMS611514"
+     ],
+     "EDAT": "2014/10/11 06:00",
+     "MHDA": "2014/10/11 06:00",
+     "CRDT": [
+          "2014/10/11 06:00"
+     ],
+     "PHST": [
+          "2014/10/11 06:00 [entrez]",
+          "2014/10/11 06:00 [pubmed]",
+          "2014/10/11 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1117/12.2036497 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc SPIE Int Soc Opt Eng. 2014 Mar 21;9034:90340Y. doi: 10.1117/12.2036497.",
+     "term": "hippocampus"
+}

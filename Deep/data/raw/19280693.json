@@ -1,0 +1,83 @@
+{
+     "PMID": "19280693",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090512",
+     "LR": "20170721",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "45",
+     "IP": "3",
+     "DP": "2009 Apr 15",
+     "TI": "Mapping functional connectivity based on synchronized CMRO2 fluctuations during the resting state.",
+     "PG": "694-701",
+     "AB": "Synchronized low-frequency fluctuations in the resting state functional MRI (fMRI) signal have been suggested to be associated with functional connectivity in brain networks. However, the underlying mechanism of this connectivity is still poorly understood, with the synchronized fluctuations could either originate from hemodynamic oscillations or represent true neuronal signaling. To better interpret the resting signal, in the current work, we examined spontaneous fluctuations at the level of cerebral metabolic rate of oxygenation (CMRO2), an index reflecting regional oxygen consumption and metabolism, and thus less sensitive to vascular dynamics. The CMRO2 signal was obtained based on a biophysical model with data acquired from simultaneous blood oxygenation level dependent (BOLD) and perfusion signals. CMRO2-based functional connectivity maps were generated in three brain networks: visual, default-mode, and hippocampus. Experiments were performed on twelve healthy participants during 'resting state' and as a comparison, with a visual task. CMRO2 signals in each of the above mentioned brain networks showed significant correlations. Functional connectivity maps from the CMRO2 signal are, in general, similar to those from BOLD and perfusion. In addition, we demonstrated that the three parameters (M, alpha and beta) in the biophysical model for calculating CMRO2 have negligible effects on the determination of the CMRO2-based connectivity strength. This study provides evidence that the spontaneous fluctuations in fMRI at rest likely originate from dynamic changes of cerebral metabolism reflecting neuronal activity.",
+     "FAU": [
+          "Wu, Changwei W",
+          "Gu, Hong",
+          "Lu, Hanbing",
+          "Stein, Elliot A",
+          "Chen, Jyh-Horng",
+          "Yang, Yihong"
+     ],
+     "AU": [
+          "Wu CW",
+          "Gu H",
+          "Lu H",
+          "Stein EA",
+          "Chen JH",
+          "Yang Y"
+     ],
+     "AD": "Neuroimaging Research Branch, National Institute on Drug Abuse, NIH, Baltimore, MD 21224, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Z01 DA000469-04/Intramural NIH HHS/United States",
+          "Z99 DA999999/Intramural NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Intramural"
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "S88TT14065 (Oxygen)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Brain/*anatomy & histology/metabolism",
+          "*Brain Mapping",
+          "Cerebrovascular Circulation/physiology",
+          "Energy Metabolism/physiology",
+          "Female",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/methods",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Models, Biological",
+          "Neural Pathways/*anatomy & histology",
+          "Oxygen/blood",
+          "Rest"
+     ],
+     "PMC": "PMC2775537",
+     "MID": [
+          "NIHMS90658"
+     ],
+     "EDAT": "2009/03/13 09:00",
+     "MHDA": "2009/05/13 09:00",
+     "CRDT": [
+          "2009/03/13 09:00"
+     ],
+     "PHST": [
+          "2009/03/13 09:00 [entrez]",
+          "2009/03/13 09:00 [pubmed]",
+          "2009/05/13 09:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2009 Apr 15;45(3):694-701.",
+     "term": "hippocampus"
+}

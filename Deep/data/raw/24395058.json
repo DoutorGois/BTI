@@ -1,0 +1,86 @@
+{
+     "PMID": "24395058",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150302",
+     "LR": "20161019",
+     "IS": "1559-0089 (Electronic) 1539-2791 (Linking)",
+     "VI": "12",
+     "IP": "3",
+     "DP": "2014 Jul",
+     "TI": "Automated template-based hippocampal segmentations from MRI: the effects of 1.5T or 3T field strength on accuracy.",
+     "PG": "405-12",
+     "LID": "10.1007/s12021-013-9217-y [doi]",
+     "AB": "Hippocampal volumetric measures may be useful for Alzheimer's disease (AD) diagnosis and disease tracking; however, manual segmentation of the hippocampus is labour-intensive. Therefore, automated techniques are necessary for large studies and to make hippocampal measures feasible for clinical use. As large studies and clinical centres are moving from using 1.5 Tesla (T) scanners to higher field strengths it is important to assess whether specific image processing techniques can be used at these field strengths. This study investigated whether an automated hippocampal segmentation technique (HMAPS: hippocampal multi-atlas propagation and segmentation) and volume change measures (BSI: boundary shift integral) were as accurate at 3T as at 1.5T. Eighteen Alzheimer's disease patients and 18 controls with 1.5T and 3T scans at baseline and 12-month follow-up were used from the Alzheimer's Disease Neuroimaging Initiative cohort. Baseline scans were segmented manually and using HMAPS and their similarity was measured by the Jaccard index. BSIs were calculated for serial image pairs. We calculated pair-wise differences between manual and HMAPS rates at 1.5T and 3T and compared the SD of these differences at each field strength. The difference in mean Jaccards (manual and HMAPS) between 1.5T and 3T was small with narrow confidence intervals (CIs) and did not appear to be segmentor dependent. The SDs of the difference between volumes from manual and automated segmentations were similar at 1.5T and 3T, with a relatively narrow CI for their ratios. The SDs of the difference between BSIs from manual and automated segmentations were also similar at 1.5T and 3T but with a wider CI for their ratios. This study supports the use of our automated hippocampal voluming methods, developed using 1.5T images, with 3T images.",
+     "FAU": [
+          "Macdonald, Kate E",
+          "Leung, Kelvin K",
+          "Bartlett, Jonathan W",
+          "Blair, Melanie",
+          "Malone, Ian B",
+          "Barnes, Josephine",
+          "Ourselin, Sebastien",
+          "Fox, Nick C"
+     ],
+     "AU": [
+          "Macdonald KE",
+          "Leung KK",
+          "Bartlett JW",
+          "Blair M",
+          "Malone IB",
+          "Barnes J",
+          "Ourselin S",
+          "Fox NC"
+     ],
+     "AD": "Dementia Research Centre, UCL Institute of Neurology, Queen Square, London, WC1N 3BG, UK, k.e.macdonald@ucl.ac.uk.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/*diagnosis",
+          "Atrophy",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "*Image Interpretation, Computer-Assisted",
+          "*Magnetic Resonance Imaging",
+          "Male"
+     ],
+     "PMC": "PMC4104163",
+     "EDAT": "2014/01/08 06:00",
+     "MHDA": "2015/03/03 06:00",
+     "CRDT": [
+          "2014/01/08 06:00"
+     ],
+     "PHST": [
+          "2014/01/08 06:00 [entrez]",
+          "2014/01/08 06:00 [pubmed]",
+          "2015/03/03 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s12021-013-9217-y [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2014 Jul;12(3):405-12. doi: 10.1007/s12021-013-9217-y.",
+     "term": "hippocampus"
+}

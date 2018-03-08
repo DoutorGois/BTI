@@ -1,0 +1,55 @@
+{
+     "PMID": "20733232",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20160603",
+     "LR": "20160205",
+     "IS": "1941-0506 (Electronic) 1077-2626 (Linking)",
+     "VI": "17",
+     "IP": "7",
+     "DP": "2011 Jul",
+     "TI": "Interactive Visual Analysis of Heterogeneous Scientific Data across an Interface.",
+     "PG": "934-46",
+     "LID": "10.1109/TVCG.2010.111 [doi]",
+     "AB": "We present a systematic approach to the interactive visual analysis of heterogeneous scientific data. The data consist of two interrelated parts given on spatial grids over time (e.g., atmosphere and ocean part from a coupled climate model). By integrating both data parts in a framework of coordinated multiple views (with linking and brushing), the joint investigation of features across the data parts is enabled. An interface is constructed between the data parts that specifies 1) which grid cells in one part are related to grid cells in the other part, and vice versa, 2) how selections (in terms of feature extraction via brushing) are transferred between the two parts, and 3) how an update mechanism keeps the feature specification in both data parts consistent during the analysis. We also propose strategies for visual analysis that result in an iterative refinement of features specified across both data parts. Our approach is demonstrated in the context of a complex simulation of fluid-structure interaction and a multirun climate simulation.",
+     "FAU": [
+          "Kehrer, Johannes",
+          "Muigg, Philipp",
+          "Doleisch, Helmut",
+          "Hauser, Helwig"
+     ],
+     "AU": [
+          "Kehrer J",
+          "Muigg P",
+          "Doleisch H",
+          "Hauser H"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100826",
+     "PL": "United States",
+     "TA": "IEEE Trans Vis Comput Graph",
+     "JT": "IEEE transactions on visualization and computer graphics",
+     "JID": "9891704",
+     "EDAT": "2010/08/25 06:00",
+     "MHDA": "2010/08/25 06:01",
+     "CRDT": [
+          "2010/08/25 06:00"
+     ],
+     "PHST": [
+          "2010/08/25 06:00 [entrez]",
+          "2010/08/25 06:00 [pubmed]",
+          "2010/08/25 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1109/TVCG.2010.111 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Vis Comput Graph. 2011 Jul;17(7):934-46. doi: 10.1109/TVCG.2010.111. Epub 2010 Aug 26.",
+     "term": "grid cells"
+}

@@ -1,0 +1,100 @@
+{
+     "PMID": "24151901",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140214",
+     "LR": "20161019",
+     "IS": "1528-1167 (Electronic) 0013-9580 (Linking)",
+     "VI": "54",
+     "IP": "12",
+     "DP": "2013 Dec",
+     "TI": "Automated hippocampal segmentation in patients with epilepsy: available free online.",
+     "PG": "2166-73",
+     "LID": "10.1111/epi.12408 [doi]",
+     "AB": "PURPOSE: Hippocampal sclerosis, a common cause of refractory focal epilepsy, requires hippocampal volumetry for accurate diagnosis and surgical planning. Manual segmentation is time-consuming and subject to interrater/intrarater variability. Automated algorithms perform poorly in patients with temporal lobe epilepsy. We validate and make freely available online a novel automated method. METHODS: Manual hippocampal segmentation was performed on 876, 3T MRI scans and 202, 1.5T scans. A template database of 400 high-quality manual segmentations was used to perform automated segmentation of all scans with a multi-atlas-based segmentation propagation method adapted to perform label fusion based on local similarity to ensure accurate segmentation regardless of pathology. Agreement between manual and automated segmentations was assessed by degree of overlap (Dice coefficient) and comparison of hippocampal volumes. KEY FINDINGS: The automated segmentation algorithm provided robust delineation of the hippocampi on 3T scans with no more variability than that seen between different human raters (Dice coefficients: interrater 0.832, manual vs. automated 0.847). In addition, the algorithm provided excellent results with the 1.5T scans (Dice coefficient 0.827), and automated segmentation remained accurate even in small sclerotic hippocampi. There was a strong correlation between manual and automated hippocampal volumes (Pearson correlation coefficient 0.929 on the left and 0.941 on the right in 3T scans). SIGNIFICANCE: We demonstrate reliable identification of hippocampal atrophy in patients with hippocampal sclerosis, which is crucial for clinical management of epilepsy, particularly if surgical treatment is being contemplated. We provide a free online Web-based service to enable hippocampal volumetry to be available globally, with consequent greatly improved evaluation of those with epilepsy.",
+     "CI": [
+          "Wiley Periodicals, Inc. (c) 2013 The Authors. Epilepsia published by Wiley",
+          "Periodicals, Inc. on behalf of International League Against Epilepsy."
+     ],
+     "FAU": [
+          "Winston, Gavin P",
+          "Cardoso, M Jorge",
+          "Williams, Elaine J",
+          "Burdett, Jane L",
+          "Bartlett, Philippa A",
+          "Espak, Miklos",
+          "Behr, Charles",
+          "Duncan, John S",
+          "Ourselin, Sebastien"
+     ],
+     "AU": [
+          "Winston GP",
+          "Cardoso MJ",
+          "Williams EJ",
+          "Burdett JL",
+          "Bartlett PA",
+          "Espak M",
+          "Behr C",
+          "Duncan JS",
+          "Ourselin S"
+     ],
+     "AD": "Epilepsy Society MRI Unit, Department of Clinical and Experimental Epilepsy, UCL Institute of Neurology, London, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0802012/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20131023",
+     "PL": "United States",
+     "TA": "Epilepsia",
+     "JT": "Epilepsia",
+     "JID": "2983306R",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Atrophy",
+          "Epilepsy/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/methods",
+          "Magnetic Resonance Imaging/methods",
+          "Male",
+          "Neuroimaging/methods",
+          "Organ Size",
+          "Sclerosis"
+     ],
+     "PMC": "PMC3995014",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Epilepsy surgery",
+          "Hippocampal sclerosis",
+          "Hippocampal segmentation",
+          "Magnetic resonance imaging"
+     ],
+     "EDAT": "2013/10/25 06:00",
+     "MHDA": "2014/02/15 06:00",
+     "CRDT": [
+          "2013/10/25 06:00"
+     ],
+     "PHST": [
+          "2013/09/08 00:00 [accepted]",
+          "2013/10/25 06:00 [entrez]",
+          "2013/10/25 06:00 [pubmed]",
+          "2014/02/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/epi.12408 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Epilepsia. 2013 Dec;54(12):2166-73. doi: 10.1111/epi.12408. Epub 2013 Oct 23.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,88 @@
+{
+     "PMID": "25945916",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160308",
+     "LR": "20170220",
+     "IS": "2050-084X (Electronic) 2050-084X (Linking)",
+     "VI": "4",
+     "DP": "2015 May 6",
+     "TI": "Computations underlying Drosophila photo-taxis, odor-taxis, and multi-sensory integration.",
+     "LID": "10.7554/eLife.06229 [doi]",
+     "AB": "To better understand how organisms make decisions on the basis of temporally varying multi-sensory input, we identified computations made by Drosophila larvae responding to visual and optogenetically induced fictive olfactory stimuli. We modeled the larva's navigational decision to initiate turns as the output of a Linear-Nonlinear-Poisson cascade. We used reverse-correlation to fit parameters to this model; the parameterized model predicted larvae's responses to novel stimulus patterns. For multi-modal inputs, we found that larvae linearly combine olfactory and visual signals upstream of the decision to turn. We verified this prediction by measuring larvae's responses to coordinated changes in odor and light. We studied other navigational decisions and found that larvae integrated odor and light according to the same rule in all cases. These results suggest that photo-taxis and odor-taxis are mediated by a shared computational pathway.",
+     "FAU": [
+          "Gepner, Ruben",
+          "Mihovilovic Skanata, Mirna",
+          "Bernat, Natalie M",
+          "Kaplow, Margarita",
+          "Gershow, Marc"
+     ],
+     "AU": [
+          "Gepner R",
+          "Mihovilovic Skanata M",
+          "Bernat NM",
+          "Kaplow M",
+          "Gershow M"
+     ],
+     "AD": "Department of Physics, New York University, New York, United States. Department of Physics, New York University, New York, United States. Department of Physics, New York University, New York, United States. Center for Neural Science, New York University, New York, United States. Department of Physics, New York University, New York, United States.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150506",
+     "PL": "England",
+     "TA": "Elife",
+     "JT": "eLife",
+     "JID": "101579614",
+     "SB": "IM",
+     "CIN": [
+          "Elife. 2015;4. doi: 10.7554/eLife.08715. PMID: 26080004"
+     ],
+     "MH": [
+          "Animals",
+          "Chemotaxis/*physiology",
+          "Drosophila/*physiology",
+          "*Light",
+          "*Models, Biological",
+          "Motor Activity/*physiology",
+          "*Odorants",
+          "Optogenetics/methods",
+          "Photic Stimulation",
+          "Spatial Navigation/*physiology",
+          "Stimulation, Chemical"
+     ],
+     "PMC": "PMC4466338",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "D. melanogaster",
+          "multi-sensory integration",
+          "neuroscience",
+          "olfaction",
+          "optogenetics",
+          "reverse-correlation",
+          "vision"
+     ],
+     "EDAT": "2015/05/07 06:00",
+     "MHDA": "2016/03/10 06:00",
+     "CRDT": [
+          "2015/05/07 06:00"
+     ],
+     "PHST": [
+          "2014/12/22 00:00 [received]",
+          "2015/05/05 00:00 [accepted]",
+          "2015/05/07 06:00 [entrez]",
+          "2015/05/07 06:00 [pubmed]",
+          "2016/03/10 06:00 [medline]"
+     ],
+     "AID": [
+          "10.7554/eLife.06229 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Elife. 2015 May 6;4. doi: 10.7554/eLife.06229.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,68 @@
+{
+     "PMID": "10706212",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20000411",
+     "LR": "20140325",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "10",
+     "IP": "1",
+     "DP": "2000",
+     "TI": "A model of hippocampally dependent navigation, using the temporal difference learning rule.",
+     "PG": "1-16",
+     "AB": "This paper presents a model of how hippocampal place cells might be used for spatial navigation in two watermaze tasks: the standard reference memory task and a delayed matching-to-place task. In the reference memory task, the escape platform occupies a single location and rats gradually learn relatively direct paths to the goal over the course of days, in each of which they perform a fixed number of trials. In the delayed matching-to-place task, the escape platform occupies a novel location on each day, and rats gradually acquire one-trial learning, i.e., direct paths on the second trial of each day. The model uses a local, incremental, and statistically efficient connectionist algorithm called temporal difference learning in two distinct components. The first is a reinforcement-based \"actor-critic\" network that is a general model of classical and instrumental conditioning. In this case, it is applied to navigation, using place cells to provide information about state. By itself, the actor-critic can learn the reference memory task, but this learning is inflexible to changes to the platform location. We argue that one-trial learning in the delayed matching-to-place task demands a goal-independent representation of space. This is provided by the second component of the model: a network that uses temporal difference learning and self-motion information to acquire consistent spatial coordinates in the environment. Each component of the model is necessary at a different stage of the task; the actor-critic provides a way of transferring control to the component that performs best. The model successfully captures gradual acquisition in both tasks, and, in particular, the ultimate development of one-trial learning in the delayed matching-to-place task. Place cells report a form of stable, allocentric information that is well-suited to the various kinds of learning in the model.",
+     "FAU": [
+          "Foster, D J",
+          "Morris, R G",
+          "Dayan, P"
+     ],
+     "AU": [
+          "Foster DJ",
+          "Morris RG",
+          "Dayan P"
+     ],
+     "AD": "Centre for Neuroscience, University of Edinburgh, Scotland, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM S",
+     "MH": [
+          "Animals",
+          "Behavior, Animal/physiology",
+          "*Computer Simulation",
+          "Conditioning (Psychology)/physiology",
+          "Hippocampus/*physiology",
+          "Locomotion/physiology",
+          "Maze Learning/physiology",
+          "Memory/physiology",
+          "*Models, Neurological",
+          "Rats",
+          "Reward",
+          "Space Perception/*physiology"
+     ],
+     "EDAT": "2000/03/08 09:00",
+     "MHDA": "2000/04/15 09:00",
+     "CRDT": [
+          "2000/03/08 09:00"
+     ],
+     "PHST": [
+          "2000/03/08 09:00 [pubmed]",
+          "2000/04/15 09:00 [medline]",
+          "2000/03/08 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/(SICI)1098-1063(2000)10:1<1::AID-HIPO1>3.0.CO;2-1 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2000;10(1):1-16. doi: 10.1002/(SICI)1098-1063(2000)10:1<1::AID-HIPO1>3.0.CO;2-1.",
+     "term": "place cells"
+}

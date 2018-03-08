@@ -1,0 +1,98 @@
+{
+     "PMID": "26971254",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171016",
+     "LR": "20180102",
+     "IS": "1863-2661 (Electronic) 1863-2653 (Linking)",
+     "VI": "222",
+     "IP": "1",
+     "DP": "2017 Jan",
+     "TI": "Mechanisms of memory storage in a model perirhinal network.",
+     "PG": "183-200",
+     "LID": "10.1007/s00429-016-1210-4 [doi]",
+     "AB": "The perirhinal cortex supports recognition and associative memory. Prior unit recording studies revealed that recognition memory involves a reduced responsiveness of perirhinal cells to familiar stimuli whereas associative memory formation is linked to increasing perirhinal responses to paired stimuli. Both effects are thought to depend on perirhinal plasticity but it is unclear how the same network could support these opposite forms of plasticity. However, a recent study showed that when neocortical inputs are repeatedly activated, depression or potentiation could develop, depending on the extent to which the stimulated neocortical activity recruited intrinsic longitudinal connections. We developed a biophysically realistic perirhinal model that reproduced these phenomena and used it to investigate perirhinal mechanisms of associative memory. These analyzes revealed that associative plasticity is critically dependent on a specific subset of neurons, termed conjunctive cells (CCs). When the model network was trained with spatially distributed but coincident neocortical inputs, CCs acquired excitatory responses to the paired inputs and conveyed them to distributed perirhinal sites via longitudinal projections. CC ablation during recall abolished expression of the associative memory. However, CC ablation during training did not prevent memory formation because new CCs emerged, revealing that competitive synaptic interactions governs the formation of CC assemblies.",
+     "FAU": [
+          "Samarth, Pranit",
+          "Ball, John M",
+          "Unal, Gunes",
+          "Pare, Denis",
+          "Nair, Satish S"
+     ],
+     "AU": [
+          "Samarth P",
+          "Ball JM",
+          "Unal G",
+          "Pare D",
+          "Nair SS"
+     ],
+     "AD": "Division of Biological Sciences and Department of Electrical and Computer Engineering, University of Missouri, Columbia, MO, 65211, USA. Division of Biological Sciences and Department of Electrical and Computer Engineering, University of Missouri, Columbia, MO, 65211, USA. Center for Molecular and Behavioral Neuroscience, Rutgers University-Newark, Newark, NJ, 07102, USA. Center for Molecular and Behavioral Neuroscience, Rutgers University-Newark, Newark, NJ, 07102, USA. Division of Biological Sciences and Department of Electrical and Computer Engineering, University of Missouri, Columbia, MO, 65211, USA. nairs@missouri.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH073610/MH/NIMH NIH HHS/United States",
+          "R01 MH087755/MH/NIMH NIH HHS/United States",
+          "R01 MH098738/MH/NIMH NIH HHS/United States",
+          "R01 MH107239/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20160312",
+     "PL": "Germany",
+     "TA": "Brain Struct Funct",
+     "JT": "Brain structure & function",
+     "JID": "101282001",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "Humans",
+          "Interneurons/physiology",
+          "Memory/*physiology",
+          "*Models, Neurological",
+          "*Neural Networks (Computer)",
+          "*Neuronal Plasticity",
+          "Neurons/*physiology",
+          "Perirhinal Cortex/*physiology"
+     ],
+     "PMC": "PMC5241391",
+     "MID": [
+          "NIHMS842409"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*Associative memory",
+          "*Computational model",
+          "*Entorhinal",
+          "*Memory retrieval",
+          "*Perirhinal",
+          "*Synaptic plasticity"
+     ],
+     "COIS": [
+          "The authors declare no competing financial interests."
+     ],
+     "EDAT": "2016/03/14 06:00",
+     "MHDA": "2017/10/17 06:00",
+     "CRDT": [
+          "2016/03/14 06:00"
+     ],
+     "PHST": [
+          "2015/11/02 00:00 [received]",
+          "2016/02/29 00:00 [accepted]",
+          "2016/03/14 06:00 [pubmed]",
+          "2017/10/17 06:00 [medline]",
+          "2016/03/14 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s00429-016-1210-4 [doi]",
+          "10.1007/s00429-016-1210-4 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Struct Funct. 2017 Jan;222(1):183-200. doi: 10.1007/s00429-016-1210-4. Epub 2016 Mar 12.",
+     "term": "conjunctive cells"
+}

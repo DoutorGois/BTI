@@ -1,0 +1,80 @@
+{
+     "PMID": "23500496",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20131114",
+     "LR": "20140325",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "43",
+     "DP": "2013 Jul",
+     "TI": "The hippocampo-cortical loop: spatio-temporal learning and goal-oriented planning in navigation.",
+     "PG": "8-21",
+     "LID": "10.1016/j.neunet.2013.01.023 [doi] S0893-6080(13)00038-5 [pii]",
+     "AB": "We present a neural network model where the spatial and temporal components of a task are merged and learned in the hippocampus as chains of associations between sensory events. The prefrontal cortex integrates this information to build a cognitive map representing the environment. The cognitive map can be used after latent learning to select optimal actions to fulfill the goals of the animal. A simulation of the architecture is made and applied to learning and solving tasks that involve both spatial and temporal knowledge. We show how this model can be used to solve the continuous place navigation task, where a rat has to navigate to an unmarked goal and wait for 2 seconds without moving to receive a reward. The results emphasize the role of the hippocampus for both spatial and timing prediction, and the prefrontal cortex in the learning of goals related to the task.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Hirel, J",
+          "Gaussier, P",
+          "Quoy, M",
+          "Banquet, J P",
+          "Save, E",
+          "Poucet, B"
+     ],
+     "AU": [
+          "Hirel J",
+          "Gaussier P",
+          "Quoy M",
+          "Banquet JP",
+          "Save E",
+          "Poucet B"
+     ],
+     "AD": "ETIS, ENSEA, Universite de Cergy-Pontoise, CNRS F-95000 Cergy-Pontoise, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130209",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Goals",
+          "Hippocampus/*physiology",
+          "Learning/*physiology",
+          "*Models, Neurological",
+          "Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Prefrontal Cortex/*physiology",
+          "Rats",
+          "Reward",
+          "Space Perception/physiology"
+     ],
+     "EDAT": "2013/03/19 06:00",
+     "MHDA": "2013/11/15 06:00",
+     "CRDT": [
+          "2013/03/19 06:00"
+     ],
+     "PHST": [
+          "2012/05/10 00:00 [received]",
+          "2013/01/30 00:00 [revised]",
+          "2013/01/31 00:00 [accepted]",
+          "2013/03/19 06:00 [entrez]",
+          "2013/03/19 06:00 [pubmed]",
+          "2013/11/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S0893-6080(13)00038-5 [pii]",
+          "10.1016/j.neunet.2013.01.023 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2013 Jul;43:8-21. doi: 10.1016/j.neunet.2013.01.023. Epub 2013 Feb 9.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,108 @@
+{
+     "PMID": "24917666",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150211",
+     "LR": "20171004",
+     "IS": "1083-351X (Electronic) 0021-9258 (Linking)",
+     "VI": "289",
+     "IP": "30",
+     "DP": "2014 Jul 25",
+     "TI": "Rapamycin and interleukin-1beta impair brain-derived neurotrophic factor-dependent neuron survival by modulating autophagy.",
+     "PG": "20615-29",
+     "AB": "The mammalian target of rapamycin (mTOR) pathway has multiple important physiological functions, including regulation of protein synthesis, cell growth, autophagy, and synaptic plasticity. Activation of mTOR is necessary for the many beneficial effects of brain-derived neurotrophic factor (BDNF), including dendritic translation and memory formation in the hippocampus. At present, however, the role of mTOR in BDNF's support of survival is not clear. We report that mTOR activation is necessary for BDNF-dependent survival of primary rat hippocampal neurons, as either mTOR inhibition by rapamycin or genetic manipulation of the downstream molecule p70S6K specifically blocked BDNF rescue. Surprisingly, however, BDNF did not promote neuron survival by up-regulating mTOR-dependent protein synthesis or through mTOR-dependent suppression of caspase-3 activation. Instead, activated mTOR was responsible for BDNF's suppression of autophagic flux. shRNA against the autophagic machinery Atg7 or Atg5 prolonged the survival of neurons co-treated with BDNF and rapamycin, suggesting that suppression of mTOR in BDNF-treated cells resulted in excessive autophagy. Finally, acting as a physiological analog of rapamycin, IL-1beta impaired BDNF signaling by way of inhibiting mTOR activation as follows: the cytokine induced caspase-independent neuronal death and accelerated autophagic flux in BDNF-treated cells. These findings reveal a novel mechanism of BDNF neuroprotection; BDNF not only prevents apoptosis through inhibiting caspase activation but also promotes neuron survival through modulation of autophagy. This protection mechanism is vulnerable under chronic inflammation, which deregulates autophagy through impairing mTOR signaling. These results may be relevant to age-related changes observed in neurodegenerative diseases.",
+     "FAU": [
+          "Smith, Erica D",
+          "Prieto, G Aleph",
+          "Tong, Liqi",
+          "Sears-Kraxberger, Ilse",
+          "Rice, Jeffrey D",
+          "Steward, Oswald",
+          "Cotman, Carl W"
+     ],
+     "AU": [
+          "Smith ED",
+          "Prieto GA",
+          "Tong L",
+          "Sears-Kraxberger I",
+          "Rice JD",
+          "Steward O",
+          "Cotman CW"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "T32 MH014599/MH/NIMH NIH HHS/United States",
+          "P01 AG000538/AG/NIA NIH HHS/United States",
+          "MH14599-29/MH/NIMH NIH HHS/United States",
+          "P01-AG000538/AG/NIA NIH HHS/United States",
+          "R01 NS073857/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "J Biol Chem",
+     "JT": "The Journal of biological chemistry",
+     "JID": "2985121R",
+     "RN": [
+          "0 (Atg5 protein, rat)",
+          "0 (Atg7 protein, rat)",
+          "0 (Autophagy-Related Protein 5)",
+          "0 (Brain-Derived Neurotrophic Factor)",
+          "0 (IL1B protein, rat)",
+          "0 (Immunosuppressive Agents)",
+          "0 (Interleukin-1beta)",
+          "0 (Proteins)",
+          "EC 2.7.1.1 (TOR Serine-Threonine Kinases)",
+          "EC 2.7.1.1 (mTOR protein, rat)",
+          "EC 3.4.22.- (Casp3 protein, rat)",
+          "EC 3.4.22.- (Caspase 3)",
+          "EC 6.2.1.45 (Autophagy-Related Protein 7)",
+          "EC 6.2.1.45 (Ubiquitin-Activating Enzymes)",
+          "W36ZG6FT64 (Sirolimus)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Autophagy/*drug effects",
+          "Autophagy-Related Protein 5",
+          "Autophagy-Related Protein 7",
+          "Brain-Derived Neurotrophic Factor/*metabolism",
+          "Caspase 3/metabolism",
+          "Cell Survival/drug effects",
+          "Cells, Cultured",
+          "Immunosuppressive Agents/*pharmacology",
+          "Interleukin-1beta/*metabolism",
+          "Male",
+          "Neurodegenerative Diseases/metabolism/pathology",
+          "Neurons/*metabolism/pathology",
+          "Proteins/metabolism",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Signal Transduction/drug effects",
+          "Sirolimus/*pharmacology",
+          "TOR Serine-Threonine Kinases/metabolism",
+          "Ubiquitin-Activating Enzymes/metabolism"
+     ],
+     "PMC": "PMC4110274",
+     "EDAT": "2014/06/12 06:00",
+     "MHDA": "2015/02/12 06:00",
+     "CRDT": [
+          "2014/06/12 06:00"
+     ],
+     "PHST": [
+          "2014/06/12 06:00 [entrez]",
+          "2014/06/12 06:00 [pubmed]",
+          "2015/02/12 06:00 [medline]"
+     ],
+     "AID": [
+          "M114.568659 [pii]",
+          "10.1074/jbc.M114.568659 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Biol Chem. 2014 Jul 25;289(30):20615-29. doi: 10.1074/jbc.M114.568659.",
+     "term": "hippocampus"
+}

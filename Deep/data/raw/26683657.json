@@ -1,0 +1,98 @@
+{
+     "PMID": "26683657",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160622",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "10",
+     "IP": "12",
+     "DP": "2015",
+     "TI": "Multi-Shell Hybrid Diffusion Imaging (HYDI) at 7 Tesla in TgF344-AD Transgenic Alzheimer Rats.",
+     "PG": "e0145205",
+     "LID": "10.1371/journal.pone.0145205 [doi]",
+     "AB": "Diffusion weighted imaging (DWI) is widely used to study microstructural characteristics of the brain. Diffusion tensor imaging (DTI) and high-angular resolution imaging (HARDI) are frequently used in radiology and neuroscience research but can be limited in describing the signal behavior in composite nerve fiber structures. Here, we developed and assessed the benefit of a comprehensive diffusion encoding scheme, known as hybrid diffusion imaging (HYDI), composed of 300 DWI volumes acquired at 7-Tesla with diffusion weightings at b = 1000, 3000, 4000, 8000 and 12000 s/mm2 and applied it in transgenic Alzheimer rats (line TgF344-AD) that model the full clinico-pathological spectrum of the human disease. We studied and visualized the effects of the multiple concentric \"shells\" when computing three distinct anisotropy maps-fractional anisotropy (FA), generalized fractional anisotropy (GFA) and normalized quantitative anisotropy (NQA). We tested the added value of the multi-shell q-space sampling scheme, when reconstructing neural pathways using mathematical frameworks from DTI and q-ball imaging (QBI). We show a range of properties of HYDI, including lower apparent anisotropy when using high b-value shells in DTI-based reconstructions, and increases in apparent anisotropy in QBI-based reconstructions. Regardless of the reconstruction scheme, HYDI improves FA-, GFA- and NQA-aided tractography. HYDI may be valuable in human connectome projects and clinical research, as well as magnetic resonance research in experimental animals.",
+     "FAU": [
+          "Daianu, Madelaine",
+          "Jacobs, Russell E",
+          "Weitz, Tara M",
+          "Town, Terrence C",
+          "Thompson, Paul M"
+     ],
+     "AU": [
+          "Daianu M",
+          "Jacobs RE",
+          "Weitz TM",
+          "Town TC",
+          "Thompson PM"
+     ],
+     "AD": "Imaging Genetics Center, Mark & Mary Stevens Neuroimaging & Informatics Institute, University of Southern California, Marina del Rey, CA, United States of America. Department of Neurology, UCLA School of Medicine, Los Angeles, CA, United States of America. Division of Biology and Biological Engineering, Beckman Institute, California Institute of Technology, Pasadena, CA, United States of America. Department of Physiology & Biophysics, Zilkha Neurogenetic Institute, University of Southern California, Los Angeles, CA, United States of America. Department of Physiology & Biophysics, Zilkha Neurogenetic Institute, University of Southern California, Los Angeles, CA, United States of America. Imaging Genetics Center, Mark & Mary Stevens Neuroimaging & Informatics Institute, University of Southern California, Marina del Rey, CA, United States of America. Department of Neurology, UCLA School of Medicine, Los Angeles, CA, United States of America. Departments of Neurology, Psychiatry, Radiology, Engineering, Pediatrics, and Ophthalmology, University of Southern California, Los Angeles, CA, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB015922/EB/NIBIB NIH HHS/United States",
+          "RF1 AG041915/AG/NIA NIH HHS/United States",
+          "R01 AG034499-05/AG/NIA NIH HHS/United States",
+          "AG016570/AG/NIA NIH HHS/United States",
+          "MH097268/MH/NIMH NIH HHS/United States",
+          "R01 AG040060/AG/NIA NIH HHS/United States",
+          "R01 LM005639/LM/NLM NIH HHS/United States",
+          "EB000993/EB/NIBIB NIH HHS/United States",
+          "R01 NS076794/NS/NINDS NIH HHS/United States",
+          "EB01651/EB/NIBIB NIH HHS/United States",
+          "R01 AG034499/AG/NIA NIH HHS/United States",
+          "R01 EB000993/EB/NIBIB NIH HHS/United States",
+          "P50 AG016570/AG/NIA NIH HHS/United States",
+          "U54 EB020403/EB/NIBIB NIH HHS/United States",
+          "R01 EB008432/EB/NIBIB NIH HHS/United States",
+          "LM05639/LM/NLM NIH HHS/United States",
+          "R01 MH097268/MH/NIMH NIH HHS/United States",
+          "R01 EB008281/EB/NIBIB NIH HHS/United States",
+          "AG040060/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20151218",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*diagnosis",
+          "Animals",
+          "Anisotropy",
+          "Corpus Callosum/pathology",
+          "Diffusion Magnetic Resonance Imaging/*methods",
+          "Gray Matter/pathology",
+          "Hippocampus/pathology",
+          "Humans",
+          "Mice",
+          "Rats, Inbred F344",
+          "Rats, Transgenic",
+          "Signal-To-Noise Ratio"
+     ],
+     "PMC": "PMC4687716",
+     "EDAT": "2015/12/20 06:00",
+     "MHDA": "2016/06/23 06:00",
+     "CRDT": [
+          "2015/12/20 06:00"
+     ],
+     "PHST": [
+          "2015/09/22 00:00 [received]",
+          "2015/12/01 00:00 [accepted]",
+          "2015/12/20 06:00 [entrez]",
+          "2015/12/20 06:00 [pubmed]",
+          "2016/06/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0145205 [doi]",
+          "PONE-D-15-41990 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2015 Dec 18;10(12):e0145205. doi: 10.1371/journal.pone.0145205. eCollection 2015.",
+     "term": "hippocampus"
+}

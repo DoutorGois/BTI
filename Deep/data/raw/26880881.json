@@ -1,0 +1,69 @@
+{
+     "PMID": "26880881",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161021",
+     "LR": "20161230",
+     "IS": "1687-5273 (Electronic)",
+     "VI": "2016",
+     "DP": "2016",
+     "TI": "The Study of Intelligent Vehicle Navigation Path Based on Behavior Coordination of Particle Swarm.",
+     "PG": "6540807",
+     "LID": "10.1155/2016/6540807 [doi]",
+     "AB": "In the behavior dynamics model, behavior competition leads to the shock problem of the intelligent vehicle navigation path, because of the simultaneous occurrence of the time-variant target behavior and obstacle avoidance behavior. Considering the safety and real-time of intelligent vehicle, the particle swarm optimization (PSO) algorithm is proposed to solve these problems for the optimization of weight coefficients of the heading angle and the path velocity. Firstly, according to the behavior dynamics model, the fitness function is defined concerning the intelligent vehicle driving characteristics, the distance between intelligent vehicle and obstacle, and distance of intelligent vehicle and target. Secondly, behavior coordination parameters that minimize the fitness function are obtained by particle swarm optimization algorithms. Finally, the simulation results show that the optimization method and its fitness function can improve the perturbations of the vehicle planning path and real-time and reliability.",
+     "FAU": [
+          "Han, Gaining",
+          "Fu, Weiping",
+          "Wang, Wen"
+     ],
+     "AU": [
+          "Han G",
+          "Fu W",
+          "Wang W"
+     ],
+     "AD": "School of Mechanical and Precision Instrument Engineering, Xi'an University of Technology, Xi'an, Shaanxi 710048, China; Information Engineering Department, Xianyang Normal University, Xianyang, Shaanxi 712000, China. School of Mechanical and Precision Instrument Engineering, Xi'an University of Technology, Xi'an, Shaanxi 710048, China. School of Mechanical and Precision Instrument Engineering, Xi'an University of Technology, Xi'an, Shaanxi 710048, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160112",
+     "PL": "United States",
+     "TA": "Comput Intell Neurosci",
+     "JT": "Computational intelligence and neuroscience",
+     "JID": "101279357",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "*Artificial Intelligence",
+          "Behavior/*physiology",
+          "Computer Simulation",
+          "Humans",
+          "Models, Theoretical",
+          "*Nonlinear Dynamics",
+          "Spatial Navigation/*physiology",
+          "Time Factors"
+     ],
+     "PMC": "PMC4737056",
+     "EDAT": "2016/02/18 06:00",
+     "MHDA": "2016/10/22 06:00",
+     "CRDT": [
+          "2016/02/17 06:00"
+     ],
+     "PHST": [
+          "2015/08/26 00:00 [received]",
+          "2015/11/23 00:00 [revised]",
+          "2015/12/15 00:00 [accepted]",
+          "2016/02/17 06:00 [entrez]",
+          "2016/02/18 06:00 [pubmed]",
+          "2016/10/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2016/6540807 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Intell Neurosci. 2016;2016:6540807. doi: 10.1155/2016/6540807. Epub 2016 Jan 12.",
+     "term": "spatial navigation"
+}

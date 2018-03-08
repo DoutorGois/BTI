@@ -1,0 +1,74 @@
+{
+     "PMID": "17584929",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070731",
+     "LR": "20170220",
+     "IS": "1471-2377 (Electronic) 1471-2377 (Linking)",
+     "VI": "7",
+     "DP": "2007 Jun 21",
+     "TI": "Neuropathological findings processed by artificial neural networks (ANNs) can perfectly distinguish Alzheimer's patients from controls in the Nun Study.",
+     "PG": "15",
+     "AB": "BACKGROUND: Many reports have described that there are fewer differences in AD brain neuropathologic lesions between AD patients and control subjects aged 80 years and older, as compared with the considerable differences between younger persons with AD and controls. In fact some investigators have suggested that since neurofibrillary tangles (NFT) can be identified in the brains of non-demented elderly subjects they should be considered as a consequence of the aging process. At present, there are no universally accepted neuropathological criteria which can mathematically differentiate AD from healthy brain in the oldest old. The aim of this study is to discover the hidden and non-linear associations among AD pathognomonic brain lesions and the clinical diagnosis of AD in participants in the Nun Study through Artificial Neural Networks (ANNs) analysis METHODS: The analyses were based on 26 clinically- and pathologically-confirmed AD cases and 36 controls who had normal cognitive function. The inputs used for the analyses were just NFT and neuritic plaques counts in neocortex and hippocampus, for which, despite substantial differences in mean lesions counts between AD cases and controls, there was a substantial overlap in the range of lesion counts. RESULTS: By taking into account the above four neuropathological features, the overall predictive capability of ANNs in sorting out AD cases from normal controls reached 100%. The corresponding accuracy obtained with Linear Discriminant Analysis was 92.30%. These results were consistently obtained in ten independent experiments. The same experiments were carried out with ANNs on a subgroup of 13 non severe AD patients and on the same 36 controls. The results obtained in terms of prediction accuracy with ANNs were exactly the same. Input relevance analysis confirmed the relative dominance of NFT in neocortex in discriminating between AD patients and controls and indicated the lesser importance played by NP in the hippocampus. CONCLUSION: The results of this study suggest that: a) cortical NFT represent the key variable in AD neuropathology; b) the neuropathologic profile of AD subjects is complex, however, c) ANNs can analyze neuropathologic features and differentiate AD cases from controls.",
+     "FAU": [
+          "Grossi, Enzo",
+          "Buscema, Massimo P",
+          "Snowdon, David",
+          "Antuono, Piero"
+     ],
+     "AU": [
+          "Grossi E",
+          "Buscema MP",
+          "Snowdon D",
+          "Antuono P"
+     ],
+     "AD": "Bracco SpA Medical Department, Milan, Italy. enzo.grossi@bracco.com",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG009862-15/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article"
+     ],
+     "DEP": "20070621",
+     "PL": "England",
+     "TA": "BMC Neurol",
+     "JT": "BMC neurology",
+     "JID": "100968555",
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*diagnosis",
+          "Brain/*pathology",
+          "Cohort Studies",
+          "Diagnosis, Computer-Assisted/*standards",
+          "Hippocampus/pathology",
+          "Humans",
+          "Neocortex/pathology",
+          "*Neural Networks (Computer)",
+          "Neurofibrillary Tangles/*pathology",
+          "Plaque, Amyloid/*pathology"
+     ],
+     "PMC": "PMC1913539",
+     "EDAT": "2007/06/23 09:00",
+     "MHDA": "2007/08/01 09:00",
+     "CRDT": [
+          "2007/06/23 09:00"
+     ],
+     "PHST": [
+          "2006/09/18 00:00 [received]",
+          "2007/06/21 00:00 [accepted]",
+          "2007/06/23 09:00 [pubmed]",
+          "2007/08/01 09:00 [medline]",
+          "2007/06/23 09:00 [entrez]"
+     ],
+     "AID": [
+          "1471-2377-7-15 [pii]",
+          "10.1186/1471-2377-7-15 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "BMC Neurol. 2007 Jun 21;7:15. doi: 10.1186/1471-2377-7-15.",
+     "term": "hippocampus"
+}

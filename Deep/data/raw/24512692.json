@@ -1,0 +1,90 @@
+{
+     "PMID": "24512692",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141125",
+     "LR": "20140317",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "226",
+     "DP": "2014 Apr 15",
+     "TI": "Artifact characterization and removal for in vivo neural recording.",
+     "PG": "110-23",
+     "LID": "10.1016/j.jneumeth.2014.01.027 [doi] S0165-0270(14)00038-7 [pii]",
+     "AB": "BACKGROUND: In vivo neural recordings are often corrupted by different artifacts, especially in a less-constrained recording environment. Due to limited understanding of the artifacts appeared in the in vivo neural data, it is more challenging to identify artifacts from neural signal components compared with other applications. The objective of this work is to analyze artifact characteristics and to develop an algorithm for automatic artifact detection and removal without distorting the signals of interest. NEW METHOD: The proposed algorithm for artifact detection and removal is based on the stationary wavelet transform with selected frequency bands of neural signals. The selection of frequency bands is based on the spectrum characteristics of in vivo neural data. Further, to make the proposed algorithm robust under different recording conditions, a modified universal-threshold value is proposed. RESULTS: Extensive simulations have been performed to evaluate the performance of the proposed algorithm in terms of both amount of artifact removal and amount of distortion to neural signals. The quantitative results reveal that the algorithm is quite robust for different artifact types and artifact-to-signal ratio. COMPARISON WITH EXISTING METHODS: Both real and synthesized data have been used for testing the proposed algorithm in comparison with other artifact removal algorithms (e.g., ICA, wICA, wCCA, EMD-ICA, and EMD-CCA) found in the literature. Comparative testing results suggest that the proposed algorithm performs better than the available algorithms. CONCLUSION: Our work is expected to be useful for future research on in vivo neural signal processing and eventually to develop a real-time neural interface for advanced neuroscience and behavioral experiments.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Islam, Md Kafiul",
+          "Rastegarnia, Amir",
+          "Nguyen, Anh Tuan",
+          "Yang, Zhi"
+     ],
+     "AU": [
+          "Islam MK",
+          "Rastegarnia A",
+          "Nguyen AT",
+          "Yang Z"
+     ],
+     "AD": "Department of Electrical and Computer Engineering, National University of Singapore, Singapore 117583, Singapore. Electronic address: kafiul_islam@nus.edu.sg. Department of Electrical and Computer Engineering, National University of Singapore, Singapore 117583, Singapore; Department of Electrical Engineering, Malayer University, Malayer 95863-65719, Iran. Department of Electrical and Computer Engineering, National University of Singapore, Singapore 117583, Singapore. Department of Electrical and Computer Engineering, National University of Singapore, Singapore 117583, Singapore.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20140207",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "*Algorithms",
+          "Animals",
+          "*Artifacts",
+          "Computer Simulation",
+          "Electrophysiology/*methods",
+          "Hippocampus/physiology",
+          "Models, Neurological",
+          "Neurons/*physiology",
+          "ROC Curve",
+          "Rats",
+          "*Signal Processing, Computer-Assisted",
+          "Time Factors",
+          "Wavelet Analysis"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Artifact characterization",
+          "In vivo neural recording",
+          "Neural signal spectra",
+          "Wavelet transform"
+     ],
+     "EDAT": "2014/02/12 06:00",
+     "MHDA": "2014/12/15 06:00",
+     "CRDT": [
+          "2014/02/12 06:00"
+     ],
+     "PHST": [
+          "2013/08/19 00:00 [received]",
+          "2014/01/22 00:00 [revised]",
+          "2014/01/23 00:00 [accepted]",
+          "2014/02/12 06:00 [entrez]",
+          "2014/02/12 06:00 [pubmed]",
+          "2014/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(14)00038-7 [pii]",
+          "10.1016/j.jneumeth.2014.01.027 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2014 Apr 15;226:110-23. doi: 10.1016/j.jneumeth.2014.01.027. Epub 2014 Feb 7.",
+     "term": "hippocampus"
+}

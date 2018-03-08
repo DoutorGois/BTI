@@ -1,0 +1,89 @@
+{
+     "PMID": "8782110",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19970227",
+     "LR": "20161019",
+     "IS": "0022-3751 (Print) 0022-3751 (Linking)",
+     "VI": "493 ( Pt 2)",
+     "DP": "1996 Jun 1",
+     "TI": "Analysis of gamma rhythms in the rat hippocampus in vitro and in vivo.",
+     "PG": "471-84",
+     "AB": "1. We have shown previously, with experimental and computer models, how a '40 Hz' (gamma) oscillation can arise in networks of hippocampal interneurones, involving mutual GABAA-mediated synaptic inhibition and a source of tonic excitatory input. Here, we explore implications of this model for some hippocampal network phenomena in the rat in vitro and in vivo. 2. A model network was constructed of 1024 CA3 pyramidal cells and 256 interneurones. AMPA (alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionic acid), NMDA (N-methyl-D-aspartate), GABAA and GABAB receptors were simulated on pyramidal cells and on interneurones. 3. In both model and experiment, the frequency of network oscillations, in the gamma range, depended upon three parameters: GABAA conductance and decay time constant in interneurone-->interneurone connections, and the driving current to the interneurones. 4. The model of gamma rhythm predicts an average zero phase lag between firing of pyramidal cells and interneurones, as observed in the rat hippocampus in vivo. The model also reproduces a gamma rhythm whose frequency changes with time, at theta frequency (about 5 Hz). This occurs when there is 5 Hz modulation of a tonic signal to chandelier and basket cells. 5. Synchronized bursts can be produced in the model by several means, including partial blockade of GABAA receptors or of AMPA receptors on interneurones, or by augmenting AMPA-mediated EPSCs. In all of these cases, the burst can be followed by a 'tail' of transiently occurring gamma waves, a phenomenon observed in the hippocampus in vivo following sharp waves. This tail occurs in the model because of delayed excitation of the interneurones by the synchronized burst. A tail of gamma activity was found after synchronized epileptiform bursts both in the hippocampal slice (CA3 region) and in vivo. 6. Our data suggest that gamma-frequency EEG activity arises in the hippocampus when pools of interneurones receive a tonic or slowly varying excitation. The frequency of the oscillation depends upon the strength of this excitation and on the parameters regulating the inhibitory coupling between the interneurones. The interneurone network output is then imposed upon pyramidal neurones in the form of rhythmic synchronized IPSPs.",
+     "FAU": [
+          "Traub, R D",
+          "Whittington, M A",
+          "Colling, S B",
+          "Buzsaki, G",
+          "Jefferys, J G"
+     ],
+     "AU": [
+          "Traub RD",
+          "Whittington MA",
+          "Colling SB",
+          "Buzsaki G",
+          "Jefferys JG"
+     ],
+     "AD": "IBM Research Division, T. J. Watson Research Center, Yorktown Heights, NY 10598, USA. R. D. Traub: traub@watson.ibm.com",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS34994/NS/NINDS NIH HHS/United States",
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "England",
+     "TA": "J Physiol",
+     "JT": "The Journal of physiology",
+     "JID": "0266262",
+     "RN": [
+          "0 (GABA-A Receptor Agonists)",
+          "0 (GABA-A Receptor Antagonists)",
+          "0 (GABA-B Receptor Agonists)",
+          "0 (GABA-B Receptor Antagonists)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/drug effects/physiology",
+          "Animals",
+          "Computer Simulation",
+          "Dendrites/drug effects/physiology",
+          "*Electroencephalography/drug effects",
+          "Female",
+          "GABA-A Receptor Agonists",
+          "GABA-A Receptor Antagonists",
+          "GABA-B Receptor Agonists",
+          "GABA-B Receptor Antagonists",
+          "Hippocampus/cytology/drug effects/*physiology",
+          "In Vitro Techniques",
+          "Interneurons/drug effects/physiology",
+          "Male",
+          "Models, Neurological",
+          "Neural Conduction/drug effects/physiology",
+          "Neural Networks (Computer)",
+          "Pyramidal Cells/drug effects/physiology",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Synapses/drug effects/physiology"
+     ],
+     "PMC": "PMC1158931",
+     "EDAT": "1996/06/01 00:00",
+     "MHDA": "1996/06/01 00:01",
+     "CRDT": [
+          "1996/06/01 00:00"
+     ],
+     "PHST": [
+          "1996/06/01 00:00 [pubmed]",
+          "1996/06/01 00:01 [medline]",
+          "1996/06/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Physiol. 1996 Jun 1;493 ( Pt 2):471-84.",
+     "term": "hippocampus"
+}

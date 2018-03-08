@@ -1,0 +1,84 @@
+{
+     "PMID": "28557041",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20180103",
+     "IS": "1097-0029 (Electronic) 1059-910X (Linking)",
+     "VI": "80",
+     "IP": "10",
+     "DP": "2017 Oct",
+     "TI": "Modified cuckoo search algorithm in microscopic image segmentation of hippocampus.",
+     "PG": "1051-1072",
+     "LID": "10.1002/jemt.22900 [doi]",
+     "AB": "Microscopic image analysis is one of the challenging tasks due to the presence of weak correlation and different segments of interest that may lead to ambiguity. It is also valuable in foremost meadows of technology and medicine. Identification and counting of cells play a vital role in features extraction to diagnose particular diseases precisely. Different segments should be identified accurately in order to identify and to count cells in a microscope image. Consequently, in the current work, a novel method for cell segmentation and identification has been proposed that incorporated marking cells. Thus, a novel method based on cuckoo search after pre-processing step is employed. The method is developed and evaluated on light microscope images of rats' hippocampus which used as a sample for the brain cells. The proposed method can be applied on the color images directly. The proposed approach incorporates the McCulloch's method for levy flight production in cuckoo search (CS) algorithm. Several objective functions, namely Otsu's method, Kapur entropy and Tsallis entropy are used for segmentation. In the cuckoo search process, the Otsu's between class variance, Kapur's entropy and Tsallis entropy are employed as the objective functions to be optimized. Experimental results are validated by different metrics, namely the peak signal to noise ratio (PSNR), mean square error, feature similarity index and CPU running time for all the test cases. The experimental results established that the Kapur's entropy segmentation method based on the modified CS required the least computational time compared to Otsu's between-class variance segmentation method and the Tsallis entropy segmentation method. Nevertheless, Tsallis entropy method with optimized multi-threshold levels achieved superior performance compared to the other two segmentation methods in terms of the PSNR.",
+     "CI": [
+          "(c) 2017 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Chakraborty, Shouvik",
+          "Chatterjee, Sankhadeep",
+          "Dey, Nilanjan",
+          "Ashour, Amira S",
+          "Ashour, Ahmed S",
+          "Shi, Fuqian",
+          "Mali, Kalyani"
+     ],
+     "AU": [
+          "Chakraborty S",
+          "Chatterjee S",
+          "Dey N",
+          "Ashour AS",
+          "Ashour AS",
+          "Shi F",
+          "Mali K"
+     ],
+     "AD": "Department of Computer Science and Engineering, University of Kalyani, Kolkata, India. Department of Computer Science and Engineering, University of Calcutta, Kolkata, India. Department of Information Technology, Techno India College of Technology, Kolkata, India. Department of Electronics and Electrical Communication Engineering, Faculty of Engineering, Tanta University, Tanta, Egypt. Department of Biomedical Dental Sciences, Faculty of Dentistry, University of Dammam, Dammam, Saudi Arabia. College of Information and Engineering, Wenzhou Medical University, Wenzhou, People's Republic of China. Department of Computer Science and Engineering, University of Kalyani, Kolkata, India.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0003-3217-6185",
+          "ORCID: http://orcid.org/0000-0003-4245-5727"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170530",
+     "PL": "United States",
+     "TA": "Microsc Res Tech",
+     "JT": "Microscopy research and technique",
+     "JID": "9203012",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Kapur's entropy segmentation",
+          "Otsu's method",
+          "Tsallis entropy",
+          "automated systems",
+          "brain cell",
+          "cuckoo search",
+          "hippocampus",
+          "meta-heuristic algorithms",
+          "microscopic image segmentation"
+     ],
+     "EDAT": "2017/05/31 06:00",
+     "MHDA": "2017/05/31 06:00",
+     "CRDT": [
+          "2017/05/31 06:00"
+     ],
+     "PHST": [
+          "2017/04/04 00:00 [received]",
+          "2017/05/05 00:00 [revised]",
+          "2017/05/09 00:00 [accepted]",
+          "2017/05/31 06:00 [pubmed]",
+          "2017/05/31 06:00 [medline]",
+          "2017/05/31 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/jemt.22900 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Microsc Res Tech. 2017 Oct;80(10):1051-1072. doi: 10.1002/jemt.22900. Epub 2017 May 30.",
+     "term": "hippocampus"
+}

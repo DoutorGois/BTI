@@ -1,0 +1,85 @@
+{
+     "PMID": "16337006",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060512",
+     "LR": "20131121",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "152",
+     "IP": "1-2",
+     "DP": "2006 Apr 15",
+     "TI": "Efficient unsupervised algorithms for the detection of seizures in continuous EEG recordings from rats after brain injury.",
+     "PG": "255-66",
+     "AB": "Long-term EEG monitoring in chronically epileptic animals produces very large EEG data files which require efficient algorithms to differentiate interictal spikes and seizures from normal brain activity, noise, and, artifact. We compared four methods for seizure detection based on (1) EEG power as computed using amplitude squared (the power method), (2) the sum of the distances between consecutive data points (the coastline method), (3) automated spike frequency and duration detection (the spike frequency method), and (4) data range autocorrelation combined with spike frequency (the autocorrelation method). These methods were used to analyze a randomly selected test set of 13 days of continuous EEG data in which 75 seizures were imbedded. The EEG recordings were from eight different rats representing two different models of chronic epilepsy (five kainate-treated and three hypoxic-ischemic). The EEG power method had a positive predictive value (PPV, or true positives divided by the sum of true positives and false positives) of 18% and a sensitivity (true positives divided by the sum of true positives and false negatives) of 95%, the coastline method had a PPV of 78% and sensitivity of 99.59, the spike frequency method had a PPV of 78% and a sensitivity of 95%, and the autocorrelation method yielded a PPV of 96% and a sensitivity of 100%. It is possible to detect seizures automatically in a prolonged EEG recording using computationally efficient unsupervised algorithms. Both the quality of the EEG and the analysis method employed affect PPV and sensitivity.",
+     "FAU": [
+          "White, Andrew M",
+          "Williams, Philip A",
+          "Ferraro, Damien J",
+          "Clark, Suzanne",
+          "Kadam, Shilpa D",
+          "Dudek, F Edward",
+          "Staley, Kevin J"
+     ],
+     "AU": [
+          "White AM",
+          "Williams PA",
+          "Ferraro DJ",
+          "Clark S",
+          "Kadam SD",
+          "Dudek FE",
+          "Staley KJ"
+     ],
+     "AD": "Department of Neurology, University of Colorado Health Sciences Center, 4200 E. 9th Avenue, Denver, CO 80262, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS34360/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20051205",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "SIV03811UC (Kainic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Artifacts",
+          "Brain Injuries/complications/*physiopathology",
+          "*Electroencephalography",
+          "Hippocampus/physiopathology",
+          "Kainic Acid",
+          "Models, Statistical",
+          "Predictive Value of Tests",
+          "Rats",
+          "Seizures/*diagnosis/etiology",
+          "Telemetry"
+     ],
+     "EDAT": "2005/12/13 09:00",
+     "MHDA": "2006/05/13 09:00",
+     "CRDT": [
+          "2005/12/13 09:00"
+     ],
+     "PHST": [
+          "2005/03/02 00:00 [received]",
+          "2005/09/15 00:00 [accepted]",
+          "2005/12/13 09:00 [pubmed]",
+          "2006/05/13 09:00 [medline]",
+          "2005/12/13 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(05)00323-7 [pii]",
+          "10.1016/j.jneumeth.2005.09.014 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2006 Apr 15;152(1-2):255-66. doi: 10.1016/j.jneumeth.2005.09.014. Epub 2005 Dec 5.",
+     "term": "hippocampus"
+}

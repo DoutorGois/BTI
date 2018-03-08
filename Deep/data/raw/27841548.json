@@ -1,0 +1,50 @@
+{
+     "PMID": "27841548",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20161115",
+     "IS": "2470-0053 (Electronic) 2470-0045 (Linking)",
+     "VI": "94",
+     "IP": "4-1",
+     "DP": "2016 Oct",
+     "TI": "Numerical simulation of particulate flows using a hybrid of finite difference and boundary integral methods.",
+     "PG": "043309",
+     "AB": "A combination of finite difference (FD) and boundary integral (BI) methods is used to formulate an efficient solver for simulating unsteady Stokes flow around particles. The two-dimensional (2D) unsteady Stokes equation is being solved on a Cartesian grid using a second order FD method, while the 2D steady Stokes equation is being solved near the particle using BI method. The two methods are coupled within the viscous boundary layer, a few FD grid cells away from the particle, where solutions from both FD and BI methods are valid. We demonstrate that this hybrid method can be used to accurately solve for the flow around particles with irregular shapes, even though radius of curvature of the particle surface is not resolved by the FD grid. For dilute particle concentrations, we construct a virtual envelope around each particle and solve the BI problem for the flow field located between the envelope and the particle. The BI solver provides velocity boundary condition to the FD solver at \"boundary\" nodes located on the FD grid, adjacent to the particles, while the FD solver provides the velocity boundary condition to the BI solver at points located on the envelope. The coupling between FD method and BI method is implicit at every time step. This method allows us to formulate an O(N) scheme for dilute suspensions, where N is the number of particles. For semidilute suspensions, where particles may cluster, an envelope formation method has been formulated and implemented, which enables solving the BI problem for each individual particle cluster, allowing efficient simulation of hydrodynamic interaction between particles even when they are in close proximity. The method has been validated against analytical results for flow around a periodic array of cylinders and for Jeffrey orbit of a moving ellipse in shear flow. Simulation of multiple force-free irregular shaped particles in the presence of shear in a 2D slit flow has been conducted to demonstrate the robustness of the FD-BI scheme. This method can also be used to solve the full Navier-Stokes equations around particles. In this case, it is shown that, below a threshold particle Reynolds number, which in turn depends on the required resolution of the particle surface, the FD-BI scheme will be more computationally efficient than a pure FD scheme solved on a multiblock grid.",
+     "FAU": [
+          "Bhattacharya, Amitabh",
+          "Kesarkar, Tejas"
+     ],
+     "AU": [
+          "Bhattacharya A",
+          "Kesarkar T"
+     ],
+     "AD": "Department of Mechanical Engineering, Indian Institute of Technology Bombay, Powai, Mumbai 400076, India. Department of Mechanical Engineering, Indian Institute of Technology Bombay, Powai, Mumbai 400076, India.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20161017",
+     "PL": "United States",
+     "TA": "Phys Rev E",
+     "JT": "Physical review. E",
+     "JID": "101676019",
+     "EDAT": "2016/11/15 06:00",
+     "MHDA": "2016/11/15 06:00",
+     "CRDT": [
+          "2016/11/15 06:00"
+     ],
+     "PHST": [
+          "2016/06/19 00:00 [received]",
+          "2016/11/15 06:00 [entrez]",
+          "2016/11/15 06:00 [pubmed]",
+          "2016/11/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1103/PhysRevE.94.043309 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phys Rev E. 2016 Oct;94(4-1):043309. doi: 10.1103/PhysRevE.94.043309. Epub 2016 Oct 17.",
+     "term": "grid cells"
+}

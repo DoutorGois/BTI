@@ -1,0 +1,72 @@
+{
+     "PMID": "8841826",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19961230",
+     "LR": "20071114",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "6",
+     "IP": "3",
+     "DP": "1996",
+     "TI": "Population dynamics and theta rhythm phase precession of hippocampal place cell firing: a spiking neuron model.",
+     "PG": "271-80",
+     "AB": "O'Keefe and Recce ([1993] Hippocampus 68:317-330) have observed that the spatially selective firing of pyramidal cells in the CA1 field of the rat hippocampus tends to advance to earlier phases of the electroencephalogram theta rhythm as a rat passes through the place field of a cell. We present here a neural network model based on integrate- and-fire neurons that accounts for this effect. In this model, place selectivity in the hippocampus is a consequence of synaptic interactions between pyramidal neurons together with weakly selective external input. The phase shift of neuronal spiking arises in the model as result of asymmetric spread of activation through the network, caused by asymmetry in the synaptic interactions. Several experimentally observed properties of the phase shift effect follow naturally from the model, including 1) the observation that the first spikes a cell fires appear near the theta phase corresponding to minimal population activity, 2) the overall advance is less than 360 degrees, and 3) the location of the rat within the place field of the cell is the primary correlate of the firing phase, not the time the rat has been in the field. The model makes several predictions concerning the emergence of place fields during the earliest stages of exploration in a novel environment. It also suggests new experiments that could provide further constraints on a possible explanation of the phase precession effect.",
+     "FAU": [
+          "Tsodyks, M V",
+          "Skaggs, W E",
+          "Sejnowski, T J",
+          "McNaughton, B L"
+     ],
+     "AU": [
+          "Tsodyks MV",
+          "Skaggs WE",
+          "Sejnowski TJ",
+          "McNaughton BL"
+     ],
+     "AD": "Division of Neural Systems, Memory and Aging, University of Arizona, Tucson, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS20331/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Electrophysiology",
+          "Hippocampus/cytology/*physiology",
+          "*Models, Neurological",
+          "Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Orientation/*physiology",
+          "Population Dynamics",
+          "Rats",
+          "*Theta Rhythm"
+     ],
+     "EDAT": "1996/01/01 00:00",
+     "MHDA": "1996/01/01 00:01",
+     "CRDT": [
+          "1996/01/01 00:00"
+     ],
+     "PHST": [
+          "1996/01/01 00:00 [pubmed]",
+          "1996/01/01 00:01 [medline]",
+          "1996/01/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/(SICI)1098-1063(1996)6:3&lt;271::AID-HIPO5&gt;3.0.CO;2-Q [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 1996;6(3):271-80. doi: 10.1002/(SICI)1098-1063(1996)6:3&lt;271::AID-HIPO5&gt;3.0.CO;2-Q.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,84 @@
+{
+     "PMID": "26788126",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20160120",
+     "LR": "20170311",
+     "IS": "1756-0381 (Print) 1756-0381 (Linking)",
+     "VI": "9",
+     "DP": "2016",
+     "TI": "Network-based analysis of genetic variants associated with hippocampal volume in Alzheimer's disease: a study of ADNI cohorts.",
+     "PG": "3",
+     "LID": "10.1186/s13040-016-0082-8 [doi]",
+     "AB": "BACKGROUND: Alzheimer's disease (AD) is a neurodegenerative disease that causes dementia. While molecular basis of AD is not fully understood, genetic factors are expected to participate in the development and progression of the disease. Our goal was to uncover novel genetic underpinnings of Alzheimer's disease with a bioinformatics approach that accounts for tissue specificity. FINDINGS: We performed genome-wide association studies (GWAS) for hippocampal volume in two Alzheimer's Disease Neuroimaging Initiative (ADNI) cohorts. We used these GWAS in a subsequent tissue-specific network-wide association study (NetWAS), which applied nominally significant associations in the initial GWAS to identify disease relevant patterns in a functional network for the hippocampus. We compared prioritized gene lists from NetWAS and GWAS with literature curated AD-associated genes from the Online Mendelian Inheritance in Man (OMIM) database. In the ADNI-1 GWAS, where we also observed an enrichment of low p-values, NetWAS prioritized disease-gene associations in accordance with OMIM annotations. This was not observed in the ADNI-2 dataset. We provide source code to replicate these analyses as well as complete results under permissive licenses. CONCLUSIONS: We performed the first analysis of hippocampal volume using NetWAS, which uses machine learning algorithms applied to tissue-specific functional interaction network to prioritize GWAS results. Our findings support the idea that tissue-specific networks may provide helpful context for understanding the etiology of common human diseases and reveal challenges that network-based approaches encounter in some datasets. Our source code and intermediate results files can facilitate the development of methods to address these challenges.",
+     "FAU": [
+          "Song, Ailin",
+          "Yan, Jingwen",
+          "Kim, Sungeun",
+          "Risacher, Shannon Leigh",
+          "Wong, Aaron K",
+          "Saykin, Andrew J",
+          "Shen, Li",
+          "Greene, Casey S"
+     ],
+     "AU": [
+          "Song A",
+          "Yan J",
+          "Kim S",
+          "Risacher SL",
+          "Wong AK",
+          "Saykin AJ",
+          "Shen L",
+          "Greene CS"
+     ],
+     "AD": "Department of Genetics, Geisel School of Medicine at Dartmouth, Hanover, New Hampshire USA ; Dartmouth-Hitchcock Norris Cotton Cancer Center, Lebanon, New Hampshire USA ; Institute for Quantitative Biomedical Sciences, Dartmouth College, Hanover, New Hampshire USA. Center for Neuroimaging, Department of Radiology and Imaging Sciences, Indiana University School of Medicine, Indianapolis, Indiana USA ; Center for Computational Biology and Bioinformatics, Indiana University School of Medicine, Indianapolis, Indiana USA ; School of Informatics and Computing, Indiana University Indianapolis, Indianapolis, Indiana USA. Center for Neuroimaging, Department of Radiology and Imaging Sciences, Indiana University School of Medicine, Indianapolis, Indiana USA ; Center for Computational Biology and Bioinformatics, Indiana University School of Medicine, Indianapolis, Indiana USA ; Indiana Alzheimer Disease Center, Indiana University School of Medicine, Indianapolis, Indiana USA. Center for Neuroimaging, Department of Radiology and Imaging Sciences, Indiana University School of Medicine, Indianapolis, Indiana USA ; Indiana Alzheimer Disease Center, Indiana University School of Medicine, Indianapolis, Indiana USA. Simons Center for Data Analysis, Simons Foundation, New York, NY USA. Center for Neuroimaging, Department of Radiology and Imaging Sciences, Indiana University School of Medicine, Indianapolis, Indiana USA ; Indiana Alzheimer Disease Center, Indiana University School of Medicine, Indianapolis, Indiana USA. Center for Neuroimaging, Department of Radiology and Imaging Sciences, Indiana University School of Medicine, Indianapolis, Indiana USA ; Center for Computational Biology and Bioinformatics, Indiana University School of Medicine, Indianapolis, Indiana USA ; School of Informatics and Computing, Indiana University Indianapolis, Indianapolis, Indiana USA ; Indiana Alzheimer Disease Center, Indiana University School of Medicine, Indianapolis, Indiana USA. Department of Genetics, Geisel School of Medicine at Dartmouth, Hanover, New Hampshire USA ; Dartmouth-Hitchcock Norris Cotton Cancer Center, Lebanon, New Hampshire USA ; Institute for Quantitative Biomedical Sciences, Dartmouth College, Hanover, New Hampshire USA ; Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvnia USA.",
+     "AUID": [
+          "ORCID: 0000-0001-8713-9213"
+     ],
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P20 GM103534/GM/NIGMS NIH HHS/United States",
+          "R01 AG019771/AG/NIA NIH HHS/United States",
+          "P30 AG010133/AG/NIA NIH HHS/United States",
+          "U24 AG021886/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "RC2 AG036535/AG/NIA NIH HHS/United States",
+          "UL1 TR001108/TR/NCATS NIH HHS/United States",
+          "R01 LM011360/LM/NLM NIH HHS/United States",
+          "R03 AG050856/AG/NIA NIH HHS/United States",
+          "R01 LM010098/LM/NLM NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160119",
+     "PL": "England",
+     "TA": "BioData Min",
+     "JT": "BioData mining",
+     "JID": "101319161",
+     "PMC": "PMC4717572",
+     "EDAT": "2016/01/21 06:00",
+     "MHDA": "2016/01/21 06:01",
+     "CRDT": [
+          "2016/01/21 06:00"
+     ],
+     "PHST": [
+          "2015/07/07 00:00 [received]",
+          "2016/01/14 00:00 [accepted]",
+          "2016/01/21 06:00 [entrez]",
+          "2016/01/21 06:00 [pubmed]",
+          "2016/01/21 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1186/s13040-016-0082-8 [doi]",
+          "82 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "BioData Min. 2016 Jan 19;9:3. doi: 10.1186/s13040-016-0082-8. eCollection 2016.",
+     "term": "hippocampus"
+}

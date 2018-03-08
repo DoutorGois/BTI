@@ -1,0 +1,67 @@
+{
+     "PMID": "17167991",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070222",
+     "LR": "20071203",
+     "IS": "0278-0062 (Print) 0278-0062 (Linking)",
+     "VI": "25",
+     "IP": "12",
+     "DP": "2006 Dec",
+     "TI": "Continuous medial representation for anatomical structures.",
+     "PG": "1547-64",
+     "AB": "The m-rep approach pioneered by Pizer et al. (2003) is a powerful morphological tool that makes it possible to employ features derived from medial loci (skeletons) in shape analysis. This paper extends the medial representation paradigm into the continuous realm, modeling skeletons and boundaries of three-dimensional objects as continuous parametric manifolds, while also maintaining the proper geometric relationship between these manifolds. The parametric representation of the boundary-medial relationship makes it possible to fit shape-based coordinate systems to the interiors of objects, providing a framework for combined statistical analysis of shape and appearance. Our approach leverages the idea of inverse skeletonization, where the skeleton of an object is defined first and the object's boundary is derived analytically from the skeleton. This paper derives a set of sufficient conditions ensuring that inverse skeletonization is well-posed for single-manifold skeletons and formulates a partial differential equation whose solutions satisfy the sufficient conditions. An efficient variational algorithm for deformable template modeling using the continuous medial representation is described and used to fit a template to the hippocampus in 87 subjects from a schizophrenia study with sub-voxel accuracy and 95% mean overlap.",
+     "FAU": [
+          "Yushkevich, Paul A",
+          "Zhang, Hui",
+          "Gee, James C"
+     ],
+     "AU": [
+          "Yushkevich PA",
+          "Zhang H",
+          "Gee JC"
+     ],
+     "AD": "Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104, USA. pauly2@grasp.upenn.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS045839/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Computer Simulation",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Information Storage and Retrieval/methods",
+          "*Models, Anatomic",
+          "*Models, Biological",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2006/12/16 09:00",
+     "MHDA": "2007/02/23 09:00",
+     "CRDT": [
+          "2006/12/16 09:00"
+     ],
+     "PHST": [
+          "2006/12/16 09:00 [pubmed]",
+          "2007/02/23 09:00 [medline]",
+          "2006/12/16 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2006 Dec;25(12):1547-64.",
+     "term": "hippocampus"
+}

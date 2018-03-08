@@ -1,0 +1,82 @@
+{
+     "PMID": "25393874",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151113",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "10",
+     "IP": "11",
+     "DP": "2014 Nov",
+     "TI": "A statistical method of identifying interactions in neuron-glia systems based on functional multicell Ca2+ imaging.",
+     "PG": "e1003949",
+     "LID": "10.1371/journal.pcbi.1003949 [doi]",
+     "AB": "Crosstalk between neurons and glia may constitute a significant part of information processing in the brain. We present a novel method of statistically identifying interactions in a neuron-glia network. We attempted to identify neuron-glia interactions from neuronal and glial activities via maximum-a-posteriori (MAP)-based parameter estimation by developing a generalized linear model (GLM) of a neuron-glia network. The interactions in our interest included functional connectivity and response functions. We evaluated the cross-validated likelihood of GLMs that resulted from the addition or removal of connections to confirm the existence of specific neuron-to-glia or glia-to-neuron connections. We only accepted addition or removal when the modification improved the cross-validated likelihood. We applied the method to a high-throughput, multicellular in vitro Ca2+ imaging dataset obtained from the CA3 region of a rat hippocampus, and then evaluated the reliability of connectivity estimates using a statistical test based on a surrogate method. Our findings based on the estimated connectivity were in good agreement with currently available physiological knowledge, suggesting our method can elucidate undiscovered functions of neuron-glia systems.",
+     "FAU": [
+          "Nakae, Ken",
+          "Ikegaya, Yuji",
+          "Ishikawa, Tomoe",
+          "Oba, Shigeyuki",
+          "Urakubo, Hidetoshi",
+          "Koyama, Masanori",
+          "Ishii, Shin"
+     ],
+     "AU": [
+          "Nakae K",
+          "Ikegaya Y",
+          "Ishikawa T",
+          "Oba S",
+          "Urakubo H",
+          "Koyama M",
+          "Ishii S"
+     ],
+     "AD": "Integrated Systems Biology Laboratory, Graduate School of Informatics, Kyoto University, Sakyo-ku, Kyoto, Japan. Laboratory of Chemical Pharmacology, Graduate School of Pharmaceutical Sciences, The University of Tokyo, Bunkyo-ku, Tokyo, Japan; Center for Information and Neural Networks, Suita City, Osaka, Japan. Laboratory of Chemical Pharmacology, Graduate School of Pharmaceutical Sciences, The University of Tokyo, Bunkyo-ku, Tokyo, Japan. Integrated Systems Biology Laboratory, Graduate School of Informatics, Kyoto University, Sakyo-ku, Kyoto, Japan. Integrated Systems Biology Laboratory, Graduate School of Informatics, Kyoto University, Sakyo-ku, Kyoto, Japan. Integrated Systems Biology Laboratory, Graduate School of Informatics, Kyoto University, Sakyo-ku, Kyoto, Japan. Integrated Systems Biology Laboratory, Graduate School of Informatics, Kyoto University, Sakyo-ku, Kyoto, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20141113",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "CA3 Region, Hippocampal/*cytology/metabolism",
+          "Calcium/*metabolism",
+          "Computational Biology/*methods",
+          "Models, Neurological",
+          "Models, Statistical",
+          "Neuroglia/*metabolism",
+          "Neurons/*metabolism",
+          "Rats",
+          "Rats, Wistar"
+     ],
+     "PMC": "PMC4230777",
+     "EDAT": "2014/11/14 06:00",
+     "MHDA": "2015/11/14 06:00",
+     "CRDT": [
+          "2014/11/14 06:00"
+     ],
+     "PHST": [
+          "2013/12/04 00:00 [received]",
+          "2014/09/29 00:00 [accepted]",
+          "2014/11/14 06:00 [entrez]",
+          "2014/11/14 06:00 [pubmed]",
+          "2015/11/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1003949 [doi]",
+          "PCOMPBIOL-D-13-02125 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2014 Nov 13;10(11):e1003949. doi: 10.1371/journal.pcbi.1003949. eCollection 2014 Nov.",
+     "term": "hippocampus"
+}

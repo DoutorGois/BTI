@@ -1,0 +1,76 @@
+{
+     "PMID": "21437238",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110711",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "7",
+     "IP": "3",
+     "DP": "2011 Mar",
+     "TI": "Context-dependent encoding of fear and extinction memories in a large-scale network model of the basal amygdala.",
+     "PG": "e1001104",
+     "LID": "10.1371/journal.pcbi.1001104 [doi]",
+     "AB": "The basal nucleus of the amygdala (BA) is involved in the formation of context-dependent conditioned fear and extinction memories. To understand the underlying neural mechanisms we developed a large-scale neuron network model of the BA, composed of excitatory and inhibitory leaky-integrate-and-fire neurons. Excitatory BA neurons received conditioned stimulus (CS)-related input from the adjacent lateral nucleus (LA) and contextual input from the hippocampus or medial prefrontal cortex (mPFC). We implemented a plasticity mechanism according to which CS and contextual synapses were potentiated if CS and contextual inputs temporally coincided on the afferents of the excitatory neurons. Our simulations revealed a differential recruitment of two distinct subpopulations of BA neurons during conditioning and extinction, mimicking the activation of experimentally observed cell populations. We propose that these two subgroups encode contextual specificity of fear and extinction memories, respectively. Mutual competition between them, mediated by feedback inhibition and driven by contextual inputs, regulates the activity in the central amygdala (CEA) thereby controlling amygdala output and fear behavior. The model makes multiple testable predictions that may advance our understanding of fear and extinction memories.",
+     "FAU": [
+          "Vlachos, Ioannis",
+          "Herry, Cyril",
+          "Luthi, Andreas",
+          "Aertsen, Ad",
+          "Kumar, Arvind"
+     ],
+     "AU": [
+          "Vlachos I",
+          "Herry C",
+          "Luthi A",
+          "Aertsen A",
+          "Kumar A"
+     ],
+     "AD": "Bernstein Center for Computational Neuroscience Frieburg, Freiburg, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110317",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Amygdala/cytology/*physiology",
+          "Animals",
+          "Computational Biology",
+          "Extinction, Psychological/*physiology",
+          "Fear/*physiology",
+          "Memory",
+          "*Models, Neurological",
+          "Neuronal Plasticity",
+          "Neurons/physiology",
+          "Rodentia",
+          "Synapses/physiology"
+     ],
+     "PMC": "PMC3060104",
+     "EDAT": "2011/03/26 06:00",
+     "MHDA": "2011/07/12 06:00",
+     "CRDT": [
+          "2011/03/26 06:00"
+     ],
+     "PHST": [
+          "2010/09/22 00:00 [received]",
+          "2011/02/07 00:00 [accepted]",
+          "2011/03/26 06:00 [entrez]",
+          "2011/03/26 06:00 [pubmed]",
+          "2011/07/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1001104 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2011 Mar;7(3):e1001104. doi: 10.1371/journal.pcbi.1001104. Epub 2011 Mar 17.",
+     "term": "hippocampus"
+}

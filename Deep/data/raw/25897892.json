@@ -1,0 +1,83 @@
+{
+     "PMID": "25897892",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160429",
+     "LR": "20170220",
+     "IS": "2045-2322 (Electronic) 2045-2322 (Linking)",
+     "VI": "4",
+     "DP": "2015 Apr 21",
+     "TI": "Conceptualization and validation of an open-source closed-loop deep brain stimulation system in rat.",
+     "PG": "9921",
+     "LID": "10.1038/srep09921 [doi]",
+     "AB": "Conventional deep brain stimulation (DBS) applies constant electrical stimulation to specific brain regions to treat neurological disorders. Closed-loop DBS with real-time feedback is gaining attention in recent years, after proved more effective than conventional DBS in terms of pathological symptom control clinically. Here we demonstrate the conceptualization and validation of a closed-loop DBS system using open-source hardware. We used hippocampal theta oscillations as system input, and electrical stimulation in the mesencephalic reticular formation (mRt) as controller output. It is well documented that hippocampal theta oscillations are highly related to locomotion, while electrical stimulation in the mRt induces freezing. We used an Arduino open-source microcontroller between input and output sources. This allowed us to use hippocampal local field potentials (LFPs) to steer electrical stimulation in the mRt. Our results showed that closed-loop DBS significantly suppressed locomotion compared to no stimulation, and required on average only 56% of the stimulation used in open-loop DBS to reach similar effects. The main advantages of open-source hardware include wide selection and availability, high customizability, and affordability. Our open-source closed-loop DBS system is effective, and warrants further research using open-source hardware for closed-loop neuromodulation.",
+     "FAU": [
+          "Wu, Hemmings",
+          "Ghekiere, Hartwin",
+          "Beeckmans, Dorien",
+          "Tambuyzer, Tim",
+          "van Kuyck, Kris",
+          "Aerts, Jean-Marie",
+          "Nuttin, Bart"
+     ],
+     "AU": [
+          "Wu H",
+          "Ghekiere H",
+          "Beeckmans D",
+          "Tambuyzer T",
+          "van Kuyck K",
+          "Aerts JM",
+          "Nuttin B"
+     ],
+     "AD": "Research Group Experimental Neurosurgery and Neuroanatomy, KU Leuven, Leuven, Belgium. M3-BIORES: Measure, Model &Manage Bioresponses, Department of Biosystems, KU Leuven, Leuven, Belgium. Research Group Experimental Neurosurgery and Neuroanatomy, KU Leuven, Leuven, Belgium. M3-BIORES: Measure, Model &Manage Bioresponses, Department of Biosystems, KU Leuven, Leuven, Belgium. Research Group Experimental Neurosurgery and Neuroanatomy, KU Leuven, Leuven, Belgium. M3-BIORES: Measure, Model &Manage Bioresponses, Department of Biosystems, KU Leuven, Leuven, Belgium. 1] Research Group Experimental Neurosurgery and Neuroanatomy, KU Leuven, Leuven, Belgium [2] Department of Neurosurgery, University Hospitals Leuven, Leuven, Belgium.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150421",
+     "PL": "England",
+     "TA": "Sci Rep",
+     "JT": "Scientific reports",
+     "JID": "101563288",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Deep Brain Stimulation",
+          "Electric Stimulation",
+          "Electrodes, Implanted",
+          "Feedback, Sensory/*physiology",
+          "Freezing Reaction, Cataleptic/physiology",
+          "Hippocampus/anatomy & histology/*physiology",
+          "Locomotion/physiology",
+          "Male",
+          "Midbrain Reticular Formation/anatomy & histology/*physiology",
+          "Neurons/cytology/*physiology",
+          "Rats",
+          "Rats, Wistar",
+          "Stereotaxic Techniques",
+          "Theta Rhythm/*physiology"
+     ],
+     "PMC": "PMC4404680",
+     "EDAT": "2015/04/22 06:00",
+     "MHDA": "2016/04/30 06:00",
+     "CRDT": [
+          "2015/04/22 06:00"
+     ],
+     "PHST": [
+          "2014/09/24 00:00 [received]",
+          "2015/03/20 00:00 [accepted]",
+          "2015/04/22 06:00 [entrez]",
+          "2015/04/22 06:00 [pubmed]",
+          "2016/04/30 06:00 [medline]"
+     ],
+     "AID": [
+          "srep09921 [pii]",
+          "10.1038/srep09921 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Sci Rep. 2015 Apr 21;4:9921. doi: 10.1038/srep09921.",
+     "term": "hippocampus"
+}

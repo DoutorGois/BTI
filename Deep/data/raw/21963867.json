@@ -1,0 +1,82 @@
+{
+     "PMID": "21963867",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120227",
+     "LR": "20170220",
+     "IS": "1873-7544 (Electronic) 0306-4522 (Linking)",
+     "VI": "197",
+     "DP": "2011 Dec 1",
+     "TI": "The structure of networks that produce the transformation from grid cells to place cells.",
+     "PG": "293-306",
+     "LID": "10.1016/j.neuroscience.2011.09.002 [doi]",
+     "AB": "Since grid cells were discovered in the medial entorhinal cortex, several models have been proposed for the transformation from periodic grids to the punctate place fields of hippocampal place cells. These prior studies have each focused primarily on a particular model structure. By contrast, the goal of this study is to understand the general nature of the solutions that generate the grids-to-places transformation, and to exploit this insight to solve problems that were previously unsolved. First, we derive a family of feedforward networks that generate the grids-to-places transformations. These networks have in common an inverse relationship between the synaptic weights and a grid property that we call the normalized offset. Second, we analyze the solutions of prior models in terms of this novel measure and found to our surprise that almost all prior models yield solutions that can be described by this family of networks. The one exception is a model that is unrealistically sensitive to noise. Third, with this insight into the structure of the solutions, we then construct explicitly solutions for the grids-to-places transformation with multiple spatial maps, that is, with place fields in arbitrary locations either within the same (multiple place fields) or in different (global remapping) enclosures. These multiple maps are possible because the weights are learned or assigned in such a way that a group of weights contributes to spatial specificity in one context but remains spatially unstructured in another context. Fourth, we find parameters such that global remapping solutions can be found by synaptic learning in spiking neurons, despite previous suggestions that this might not be possible. In conclusion, our results demonstrate the power of understanding the structure of the solutions and suggest that we may have identified the structure that is common to all robust solutions of the grids-to-places transformation.",
+     "CI": [
+          "Copyright A(c) 2011 IBRO. Published by Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Cheng, S",
+          "Frank, L M"
+     ],
+     "AU": [
+          "Cheng S",
+          "Frank LM"
+     ],
+     "AD": "Sloan-Swartz Center for Theoretical Neurobiology, W.M. Keck Center for Integrative Neuroscience and Department of Physiology, University of California, San Francisco, CA 94143-0444, USA. sen.cheng@rub.de",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH080283/MH/NIMH NIH HHS/United States",
+          "R01 MH080283-04/MH/NIMH NIH HHS/United States",
+          "MH080283/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110912",
+     "PL": "United States",
+     "TA": "Neuroscience",
+     "JT": "Neuroscience",
+     "JID": "7605074",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Entorhinal Cortex/cytology/*physiology",
+          "Hippocampus/cytology/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Models, Theoretical",
+          "Nerve Net/cytology/*physiology",
+          "Neural Networks (Computer)",
+          "Neurons/cytology/*physiology",
+          "Space Perception/*physiology"
+     ],
+     "PMC": "PMC3210383",
+     "MID": [
+          "NIHMS325366"
+     ],
+     "EDAT": "2011/10/04 06:00",
+     "MHDA": "2012/03/01 06:00",
+     "CRDT": [
+          "2011/10/04 06:00"
+     ],
+     "PHST": [
+          "2011/08/05 00:00 [received]",
+          "2011/09/02 00:00 [revised]",
+          "2011/09/02 00:00 [accepted]",
+          "2011/10/04 06:00 [entrez]",
+          "2011/10/04 06:00 [pubmed]",
+          "2012/03/01 06:00 [medline]"
+     ],
+     "AID": [
+          "S0306-4522(11)01047-5 [pii]",
+          "10.1016/j.neuroscience.2011.09.002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroscience. 2011 Dec 1;197:293-306. doi: 10.1016/j.neuroscience.2011.09.002. Epub 2011 Sep 12.",
+     "term": "place cells"
+}

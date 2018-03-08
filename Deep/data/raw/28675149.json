@@ -1,0 +1,66 @@
+{
+     "PMID": "28675149",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180202",
+     "LR": "20180208",
+     "IS": "1748-3190 (Electronic) 1748-3182 (Linking)",
+     "VI": "12",
+     "IP": "5",
+     "DP": "2017 Sep 21",
+     "TI": "UAS stealth: target pursuit at constant distance using a bio-inspired motion camouflage guidance law.",
+     "PG": "055002",
+     "LID": "10.1088/1748-3190/aa7d65 [doi]",
+     "AB": "The aim of this study is to derive a guidance law by which an unmanned aerial system(s) (UAS) can pursue a moving target at a constant distance, while concealing its own motion. We derive a closed-form solution for the trajectory of the UAS by imposing two key constraints: (1) the shadower moves in such a way as to be perceived as a stationary object by the shadowee, and (2) the distance between the shadower and shadowee is kept constant. Additionally, the theory presented in this paper considers constraints on the maximum achievable speed and acceleration of the shadower. Our theory is tested through Matlab simulations, which validate the camouflage strategy for both 2D and 3D conditions. Furthermore, experiments using a realistic vision-based implementation are conducted in a virtual environment, where the results demonstrate that even with noisy state information it is possible to remain well camouflaged using the constant distance motion camouflage technique.",
+     "FAU": [
+          "Strydom, Reuben",
+          "Srinivasan, Mandyam V"
+     ],
+     "AU": [
+          "Strydom R",
+          "Srinivasan MV"
+     ],
+     "AD": "The Queensland Brain Institute and the School of Information Technology and Electrical Engineering at The University of Queensland, Brisbane, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20170921",
+     "PL": "England",
+     "TA": "Bioinspir Biomim",
+     "JT": "Bioinspiration & biomimetics",
+     "JID": "101292902",
+     "SB": "IM",
+     "MH": [
+          "Acceleration",
+          "*Algorithms",
+          "Animals",
+          "Aviation/*instrumentation",
+          "Biological Mimicry",
+          "Biomimetics/instrumentation/*methods",
+          "*Motion",
+          "*Motion Perception",
+          "Physical Phenomena",
+          "Robotics/*instrumentation",
+          "*Spatial Navigation"
+     ],
+     "EDAT": "2017/07/05 06:00",
+     "MHDA": "2018/02/03 06:00",
+     "CRDT": [
+          "2017/07/05 06:00"
+     ],
+     "PHST": [
+          "2017/07/05 06:00 [pubmed]",
+          "2018/02/03 06:00 [medline]",
+          "2017/07/05 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1088/1748-3190/aa7d65 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Bioinspir Biomim. 2017 Sep 21;12(5):055002. doi: 10.1088/1748-3190/aa7d65.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,94 @@
+{
+     "PMID": "24270731",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141201",
+     "LR": "20180209",
+     "IS": "1740-634X (Electronic) 0893-133X (Linking)",
+     "VI": "39",
+     "IP": "5",
+     "DP": "2014 Apr",
+     "TI": "Single-subject anxiety treatment outcome prediction using functional neuroimaging.",
+     "PG": "1254-61",
+     "LID": "10.1038/npp.2013.328 [doi]",
+     "AB": "The possibility of individualized treatment prediction has profound implications for the development of personalized interventions for patients with anxiety disorders. Here we utilize random forest classification and pre-treatment functional magnetic resonance imaging (fMRI) data from individuals with generalized anxiety disorder (GAD) and panic disorder (PD) to generate individual subject treatment outcome predictions. Before cognitive behavioral therapy (CBT), 48 adults (25 GAD and 23 PD) reduced (via cognitive reappraisal) or maintained their emotional responses to negative images during fMRI scanning. CBT responder status was predicted using activations from 70 anatomically defined regions. The final random forest model included 10 predictors contributing most to classification accuracy. A similar analysis was conducted using the clinical and demographic variables. Activations in the hippocampus during maintenance and anterior insula, superior temporal, supramarginal, and superior frontal gyri during reappraisal were among the best predictors, with greater activation in responders than non-responders. The final fMRI-based model yielded 79% accuracy, with good sensitivity (0.86), specificity (0.68), and positive and negative likelihood ratios (2.73, 0.20). Clinical and demographic variables yielded poorer accuracy (69%), sensitivity (0.79), specificity (0.53), and likelihood ratios (1.67, 0.39). This is the first use of random forest models to predict treatment outcome from pre-treatment neuroimaging data in psychiatry. Together, random forest models and fMRI can provide single-subject predictions with good test characteristics. Moreover, activation patterns are consistent with the notion that greater activation in cortico-limbic circuitry predicts better CBT response in GAD and PD.",
+     "FAU": [
+          "Ball, Tali M",
+          "Stein, Murray B",
+          "Ramsawh, Holly J",
+          "Campbell-Sills, Laura",
+          "Paulus, Martin P"
+     ],
+     "AU": [
+          "Ball TM",
+          "Stein MB",
+          "Ramsawh HJ",
+          "Campbell-Sills L",
+          "Paulus MP"
+     ],
+     "AD": "1] Department of Psychiatry, University of California San Diego, La Jolla, CA, USA [2] San Diego State University/University of California San Diego Joint Doctoral Program in Clinical Psychology, San Diego, CA, USA. 1] Department of Psychiatry, University of California San Diego, La Jolla, CA, USA [2] Psychiatry Service, Veterans Affairs San Diego Healthcare System, San Diego, CA, USA [3] Department of Family and Preventive Medicine, University of California San Diego, La Jolla, CA, USA. Department of Psychiatry, Uniformed Services University of the Health Sciences, Bethesda, MD, USA. Department of Psychiatry, University of California San Diego, La Jolla, CA, USA. 1] Department of Psychiatry, University of California San Diego, La Jolla, CA, USA [2] Psychiatry Service, Veterans Affairs San Diego Healthcare System, San Diego, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH065413/MH/NIMH NIH HHS/United States",
+          "MH64122/MH/NIMH NIH HHS/United States",
+          "MH65413/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20131125",
+     "PL": "England",
+     "TA": "Neuropsychopharmacology",
+     "JT": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+     "JID": "8904907",
+     "SB": "IM",
+     "EIN": [
+          "Neuropsychopharmacology. 2018 Mar;43(4):926. PMID: 29422499"
+     ],
+     "MH": [
+          "Adult",
+          "Anxiety Disorders/diagnosis/physiopathology/*therapy",
+          "Brain/*physiopathology",
+          "Brain Mapping/methods",
+          "*Cognitive Therapy",
+          "Emotions/physiology",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted/methods",
+          "Likelihood Functions",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Models, Neurological",
+          "Neuropsychological Tests",
+          "Panic Disorder/diagnosis/physiopathology/*therapy",
+          "Photic Stimulation",
+          "Prognosis",
+          "Sensitivity and Specificity",
+          "Treatment Outcome",
+          "Visual Perception/physiology"
+     ],
+     "PMC": "PMC3957121",
+     "EDAT": "2013/11/26 06:00",
+     "MHDA": "2014/12/15 06:00",
+     "CRDT": [
+          "2013/11/26 06:00"
+     ],
+     "PHST": [
+          "2013/08/10 00:00 [received]",
+          "2013/10/24 00:00 [revised]",
+          "2013/11/12 00:00 [accepted]",
+          "2013/11/26 06:00 [entrez]",
+          "2013/11/26 06:00 [pubmed]",
+          "2014/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "npp2013328 [pii]",
+          "10.1038/npp.2013.328 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuropsychopharmacology. 2014 Apr;39(5):1254-61. doi: 10.1038/npp.2013.328. Epub 2013 Nov 25.",
+     "term": "hippocampus"
+}

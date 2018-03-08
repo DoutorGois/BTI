@@ -1,0 +1,61 @@
+{
+     "PMID": "1623974",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19920807",
+     "LR": "20180301",
+     "IS": "0014-4819 (Print) 0014-4819 (Linking)",
+     "VI": "89",
+     "IP": "2",
+     "DP": "1992",
+     "TI": "Analysis of fluctuations of \"minimal\" excitatory postsynaptic potentials during long-term potentiation in guinea pig hippocampal slices.",
+     "PG": "288-99",
+     "AB": "In previous studies, quantal analysis assuming a simple binomial model has shown that long-term potentiation (LTP) is accompanied by an increase in both mean quantal content (m) and quantal size (v), whereby the increase in m predominates. In the present study, \"compound\" binomial distributions with variable probabilities were convolved with Gaussian distributions in computer experiments to simulate amplitude histograms of intracellular excitatory postsynaptic potentials (EPSPs). A deconvolution procedure assuming equal \"quantal\" separation (v) between discrete components, but without assuming binomial statistics, was applied to the simulated distributions to determine v. It was found that with a small ratio of standard deviation of noise to v (Sn/v less than 0.4), a reliable estimate of v can be obtained even for small samples (N = 100). When Sn/v was larger (0.4-0.6), approximate v estimates (within +/- 10-20% of the simulated v) could be obtained by averaging estimates from about 10 small samples (N = 100). \"Minimal\" EPSPs were recorded in area CA1 of guinea pig hippocampal slices. 37 EPSP amplitude samples of 9 neurones were measured before and up to 55 min after 10 tetanizations of stratum radiatum. In accordance with the previous data, the increase in v accounted for only about 10% of the average post-tetanic increase in EPSP amplitude and was not correlated with the latter. However, for an EPSP subset with small LTP magnitude, the increase in v accounted for an essential part of the LTP magnitude while the increase in m did not correlate with it. The results are in agreement with previous data obtained in the context of the simple binomial model and are interpreted as indicating primarily a presynaptic mechanism of LTP maintenance. The results suggest two types of synaptic mechanism of LTP maintenance related to the increases in m and v, respectively. The latter mechanism is saturated at about 10 to 30% increase in post-tetanic amplitude above the pre-tetanic EPSP amplitude.",
+     "FAU": [
+          "Voronin, L L",
+          "Kuhnt, U",
+          "Gusev, A G"
+     ],
+     "AU": [
+          "Voronin LL",
+          "Kuhnt U",
+          "Gusev AG"
+     ],
+     "AD": "Max-Planck-Institute for Biophysical Chemistry, Department of Neurobiology, Gottingen, Federal Republic of Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Germany",
+     "TA": "Exp Brain Res",
+     "JT": "Experimental brain research",
+     "JID": "0043312",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Electric Stimulation",
+          "Evoked Potentials, Somatosensory/*physiology",
+          "Guinea Pigs",
+          "Hippocampus/cytology/*physiology",
+          "In Vitro Techniques",
+          "Models, Neurological",
+          "Monte Carlo Method",
+          "Synapses/*physiology"
+     ],
+     "EDAT": "1992/01/01 00:00",
+     "MHDA": "1992/01/01 00:01",
+     "CRDT": [
+          "1992/01/01 00:00"
+     ],
+     "PHST": [
+          "1992/01/01 00:00 [pubmed]",
+          "1992/01/01 00:01 [medline]",
+          "1992/01/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Exp Brain Res. 1992;89(2):288-99.",
+     "term": "hippocampus"
+}

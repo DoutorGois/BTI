@@ -1,0 +1,97 @@
+{
+     "PMID": "26020963",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160418",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "11",
+     "IP": "5",
+     "DP": "2015 May",
+     "TI": "Synaptic Homeostasis and Restructuring across the Sleep-Wake Cycle.",
+     "PG": "e1004241",
+     "LID": "10.1371/journal.pcbi.1004241 [doi]",
+     "AB": "Sleep is critical for hippocampus-dependent memory consolidation. However, the underlying mechanisms of synaptic plasticity are poorly understood. The central controversy is on whether long-term potentiation (LTP) takes a role during sleep and which would be its specific effect on memory. To address this question, we used immunohistochemistry to measure phosphorylation of Ca2+/calmodulin-dependent protein kinase II (pCaMKIIalpha) in the rat hippocampus immediately after specific sleep-wake states were interrupted. Control animals not exposed to novel objects during waking (WK) showed stable pCaMKIIalpha levels across the sleep-wake cycle, but animals exposed to novel objects showed a decrease during subsequent slow-wave sleep (SWS) followed by a rebound during rapid-eye-movement sleep (REM). The levels of pCaMKIIalpha during REM were proportional to cortical spindles near SWS/REM transitions. Based on these results, we modeled sleep-dependent LTP on a network of fully connected excitatory neurons fed with spikes recorded from the rat hippocampus across WK, SWS and REM. Sleep without LTP orderly rescaled synaptic weights to a narrow range of intermediate values. In contrast, LTP triggered near the SWS/REM transition led to marked swaps in synaptic weight ranking. To better understand the interaction between rescaling and restructuring during sleep, we implemented synaptic homeostasis and embossing in a detailed hippocampal-cortical model with both excitatory and inhibitory neurons. Synaptic homeostasis was implemented by weakening potentiation and strengthening depression, while synaptic embossing was simulated by evoking LTP on selected synapses. We observed that synaptic homeostasis facilitates controlled synaptic restructuring. The results imply a mechanism for a cognitive synergy between SWS and REM, and suggest that LTP at the SWS/REM transition critically influences the effect of sleep: Its lack determines synaptic homeostasis, its presence causes synaptic restructuring.",
+     "FAU": [
+          "Blanco, Wilfredo",
+          "Pereira, Catia M",
+          "Cota, Vinicius R",
+          "Souza, Annie C",
+          "Renno-Costa, Cesar",
+          "Santos, Sharlene",
+          "Dias, Gabriella",
+          "Guerreiro, Ana M G",
+          "Tort, Adriano B L",
+          "Neto, Adriao D",
+          "Ribeiro, Sidarta"
+     ],
+     "AU": [
+          "Blanco W",
+          "Pereira CM",
+          "Cota VR",
+          "Souza AC",
+          "Renno-Costa C",
+          "Santos S",
+          "Dias G",
+          "Guerreiro AM",
+          "Tort AB",
+          "Neto AD",
+          "Ribeiro S"
+     ],
+     "AD": "Brain Institute, Federal University of Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil; Department of Computer and Automation, Federal University of Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil; Department of Computer Science, State University of Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil. Edmond and Lily Safra International Institute of Neuroscience of Natal (ELS-IINN), Natal, Rio Grande do Norte, Brazil. Brain Institute, Federal University of Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil; Laboratory of Neuroengineerging and Neuroscience, Federal University of Sao Joao Del-Rei, Sao Joao Del-Rei, Minas Gerais, Brazil. Brain Institute, Federal University of Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil. Brain Institute, Federal University of Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil. Brain Institute, Federal University of Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil. Brain Institute, Federal University of Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil. Department of Biomedical Engineering, Federal University of Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil. Brain Institute, Federal University of Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil. Department of Computer and Automation, Federal University of Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil. Brain Institute, Federal University of Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150528",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "RN": [
+          "EC 2.7.11.17 (Calcium-Calmodulin-Dependent Protein Kinase Type 2)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "Calcium-Calmodulin-Dependent Protein Kinase Type 2/metabolism",
+          "Electrophysiological Phenomena",
+          "Hippocampus/physiology",
+          "Homeostasis",
+          "Long-Term Potentiation/physiology",
+          "Male",
+          "Memory Consolidation/physiology",
+          "*Models, Neurological",
+          "Models, Psychological",
+          "Neuronal Plasticity/*physiology",
+          "Rats",
+          "Rats, Wistar",
+          "Sleep/*physiology",
+          "Sleep, REM/physiology",
+          "Wakefulness/physiology"
+     ],
+     "PMC": "PMC4447375",
+     "EDAT": "2015/05/29 06:00",
+     "MHDA": "2016/04/19 06:00",
+     "CRDT": [
+          "2015/05/29 06:00"
+     ],
+     "PHST": [
+          "2014/10/22 00:00 [received]",
+          "2015/03/14 00:00 [accepted]",
+          "2015/05/29 06:00 [entrez]",
+          "2015/05/29 06:00 [pubmed]",
+          "2016/04/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1004241 [doi]",
+          "PCOMPBIOL-D-14-01923 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2015 May 28;11(5):e1004241. doi: 10.1371/journal.pcbi.1004241. eCollection 2015 May.",
+     "term": "hippocampus"
+}

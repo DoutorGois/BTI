@@ -1,0 +1,72 @@
+{
+     "PMID": "15990275",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060908",
+     "LR": "20061115",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "19",
+     "IP": "5",
+     "DP": "2006 Jun",
+     "TI": "Modelling brain emergent behaviours through coevolution of neural agents.",
+     "PG": "705-20",
+     "AB": "Recently, many research efforts focus on modelling partial brain areas with the long-term goal to support cognitive abilities of artificial organisms. Existing models usually suffer from heterogeneity, which constitutes their integration very difficult. The present work introduces a computational framework to address brain modelling tasks, emphasizing on the integrative performance of substructures. Moreover, implemented models are embedded in a robotic platform to support its behavioural capabilities. We follow an agent-based approach in the design of substructures to support the autonomy of partial brain structures. Agents are formulated to allow the emergence of a desired behaviour after a certain amount of interaction with the environment. An appropriate collaborative coevolutionary algorithm, able to emphasize both the speciality of brain areas and their cooperative performance, is employed to support design specification of agent structures. The effectiveness of the proposed approach is illustrated through the implementation of computational models for motor cortex and hippocampus, which are successfully tested on a simulated mobile robot.",
+     "FAU": [
+          "Maniadakis, Michail",
+          "Trahanias, Panos"
+     ],
+     "AU": [
+          "Maniadakis M",
+          "Trahanias P"
+     ],
+     "AD": "Institute of Computer Science, Foundation for Research and Technology-Hellas (FORTH), P.O. Box 1385, Heraklion, 711 10 Crete, Greece. mmaniada@ics.forth.gr",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "DEP": "20050629",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Artificial Intelligence",
+          "Behavior/*physiology",
+          "Brain/*cytology/physiology",
+          "Computer Simulation",
+          "Hippocampus/physiology",
+          "Humans",
+          "Learning/*physiology",
+          "Models, Neurological",
+          "Motivation",
+          "Motor Cortex/physiology",
+          "Neural Inhibition/physiology",
+          "*Neural Networks (Computer)",
+          "Neural Pathways/physiology",
+          "Neurons/*physiology"
+     ],
+     "EDAT": "2005/07/02 09:00",
+     "MHDA": "2006/09/09 09:00",
+     "CRDT": [
+          "2005/07/02 09:00"
+     ],
+     "PHST": [
+          "2004/04/13 00:00 [received]",
+          "2005/02/25 00:00 [accepted]",
+          "2005/07/02 09:00 [pubmed]",
+          "2006/09/09 09:00 [medline]",
+          "2005/07/02 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(05)00058-4 [pii]",
+          "10.1016/j.neunet.2005.02.007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2006 Jun;19(5):705-20. doi: 10.1016/j.neunet.2005.02.007. Epub 2005 Jun 29.",
+     "term": "hippocampus"
+}

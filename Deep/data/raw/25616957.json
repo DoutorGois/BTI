@@ -1,0 +1,128 @@
+{
+     "PMID": "25616957",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151123",
+     "LR": "20161125",
+     "IS": "1552-5279 (Electronic) 1552-5260 (Linking)",
+     "VI": "11",
+     "IP": "2",
+     "DP": "2015 Feb",
+     "TI": "Training labels for hippocampal segmentation based on the EADC-ADNI harmonized hippocampal protocol.",
+     "PG": "175-83",
+     "LID": "10.1016/j.jalz.2014.12.002 [doi] S1552-5260(14)02891-X [pii]",
+     "AB": "BACKGROUND: The European Alzheimer's Disease Consortium and Alzheimer's Disease Neuroimaging Initiative (ADNI) Harmonized Protocol (HarP) is a Delphi definition of manual hippocampal segmentation from magnetic resonance imaging (MRI) that can be used as the standard of truth to train new tracers, and to validate automated segmentation algorithms. Training requires large and representative data sets of segmented hippocampi. This work aims to produce a set of HarP labels for the proper training and certification of tracers and algorithms. METHODS: Sixty-eight 1.5 T and 67 3 T volumetric structural ADNI scans from different subjects, balanced by age, medial temporal atrophy, and scanner manufacturer, were segmented by five qualified HarP tracers whose absolute interrater intraclass correlation coefficients were 0.953 and 0.975 (left and right). Labels were validated as HarP compliant through centralized quality check and correction. RESULTS: Hippocampal volumes (mm(3)) were as follows: controls: left = 3060 (standard deviation [SD], 502), right = 3120 (SD, 897); mild cognitive impairment (MCI): left = 2596 (SD, 447), right = 2686 (SD, 473); and Alzheimer's disease (AD): left = 2301 (SD, 492), right = 2445 (SD, 525). Volumes significantly correlated with atrophy severity at Scheltens' scale (Spearman's rho = <-0.468, P = <.0005). Cerebrospinal fluid spaces (mm(3)) were as follows: controls: left = 23 (32), right = 25 (25); MCI: left = 15 (13), right = 22 (16); and AD: left = 11 (13), right = 20 (25). Five subjects (3.7%) presented with unusual anatomy. CONCLUSIONS: This work provides reference hippocampal labels for the training and certification of automated segmentation algorithms. The publicly released labels will allow the widespread implementation of the standard segmentation protocol.",
+     "CI": [
+          "Copyright (c) 2015 The Alzheimer's Association. Published by Elsevier Inc. All",
+          "rights reserved."
+     ],
+     "FAU": [
+          "Boccardi, Marina",
+          "Bocchetta, Martina",
+          "Morency, Felix C",
+          "Collins, D Louis",
+          "Nishikawa, Masami",
+          "Ganzola, Rossana",
+          "Grothe, Michel J",
+          "Wolf, Dominik",
+          "Redolfi, Alberto",
+          "Pievani, Michela",
+          "Antelmi, Luigi",
+          "Fellgiebel, Andreas",
+          "Matsuda, Hiroshi",
+          "Teipel, Stefan",
+          "Duchesne, Simon",
+          "Jack, Clifford R Jr",
+          "Frisoni, Giovanni B"
+     ],
+     "AU": [
+          "Boccardi M",
+          "Bocchetta M",
+          "Morency FC",
+          "Collins DL",
+          "Nishikawa M",
+          "Ganzola R",
+          "Grothe MJ",
+          "Wolf D",
+          "Redolfi A",
+          "Pievani M",
+          "Antelmi L",
+          "Fellgiebel A",
+          "Matsuda H",
+          "Teipel S",
+          "Duchesne S",
+          "Jack CR Jr",
+          "Frisoni GB"
+     ],
+     "AD": "LENITEM (Laboratory of Epidemiology, Neuroimaging and Telemedicine) IRCCS - Centro S. Giovanni di Dio - Fatebenefratelli, Brescia, Italy. Electronic address: mboccardifbf@gmail.com. LENITEM (Laboratory of Epidemiology, Neuroimaging and Telemedicine) IRCCS - Centro S. Giovanni di Dio - Fatebenefratelli, Brescia, Italy; Department of Molecular and Translational Medicine, University of Brescia, Brescia, Italy. Department of Radiology, Universite Laval and Centre de Recherche de l'Institut universitaire de sante mentale de Quebec, Quebec City, Canada; Imeka, Sherbrooke, Quebec, Canada. McConnell Brain Imaging Center, Montreal Neurological Institute, McGill University, Montreal, Canada. Kawamura Gakuen Woman's University, Abiko-city, Japan. Department of Radiology, Universite Laval and Centre de Recherche de l'Institut universitaire de sante mentale de Quebec, Quebec City, Canada. German Center for Neurodegenerative Diseases (DZNE), Rostock, Germany. Klinik fur Psychiatrie und Psychotherapie, Johannes Gutenberg-Universitat, Mainz, Germany. LENITEM (Laboratory of Epidemiology, Neuroimaging and Telemedicine) IRCCS - Centro S. Giovanni di Dio - Fatebenefratelli, Brescia, Italy. LENITEM (Laboratory of Epidemiology, Neuroimaging and Telemedicine) IRCCS - Centro S. Giovanni di Dio - Fatebenefratelli, Brescia, Italy. LENITEM (Laboratory of Epidemiology, Neuroimaging and Telemedicine) IRCCS - Centro S. Giovanni di Dio - Fatebenefratelli, Brescia, Italy; Laboratory of Neuroimaging of Aging, Department of Psychiatry, HUG Belle-Idee, Geneva, Switzerland. Klinik fur Psychiatrie und Psychotherapie, Johannes Gutenberg-Universitat, Mainz, Germany. Integrative Brain Imaging Center, National Center of Neurology and Psychiatry, Tokyo, Japan. German Center for Neurodegenerative Diseases (DZNE), Rostock, Germany; Integrative Brain Imaging Center, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Radiology, Universite Laval and Centre de Recherche de l'Institut universitaire de sante mentale de Quebec, Quebec City, Canada. Department of Diagnostic Radiology, Mayo Clinic and Foundation, Rochester, MN, USA. LENITEM (Laboratory of Epidemiology, Neuroimaging and Telemedicine) IRCCS - Centro S. Giovanni di Dio - Fatebenefratelli, Brescia, Italy; Laboratory of Neuroimaging of Aging, Department of Psychiatry, HUG Belle-Idee, Geneva, Switzerland; University of Geneva, Faculty of Medicine, Geneva, Switzerland.",
+     "CN": [
+          "EADC-ADNI Working Group on The Harmonized Protocol for Manual Hippocampal",
+          "Segmentation and for the Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150120",
+     "PL": "United States",
+     "TA": "Alzheimers Dement",
+     "JT": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+     "JID": "101231978",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "*Algorithms",
+          "Alzheimer Disease/pathology",
+          "Atrophy",
+          "Cognitive Dysfunction/pathology",
+          "Female",
+          "Functional Laterality",
+          "Hippocampus/anatomy & histology/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/methods",
+          "Magnetic Resonance Imaging/instrumentation/*methods",
+          "Male",
+          "Middle Aged",
+          "Neuroimaging/*methods",
+          "Organ Size",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Temporal Lobe/pathology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Algorithm training",
+          "Automated segmentation algorithms",
+          "Benchmark images",
+          "Harmonized protocol",
+          "Hippocampal segmentation",
+          "Hippocampus",
+          "MRI"
+     ],
+     "EDAT": "2015/01/27 06:00",
+     "MHDA": "2015/12/15 06:00",
+     "CRDT": [
+          "2015/01/25 06:00"
+     ],
+     "PHST": [
+          "2013/11/07 00:00 [received]",
+          "2014/03/25 00:00 [revised]",
+          "2014/12/12 00:00 [accepted]",
+          "2015/01/25 06:00 [entrez]",
+          "2015/01/27 06:00 [pubmed]",
+          "2015/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S1552-5260(14)02891-X [pii]",
+          "10.1016/j.jalz.2014.12.002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Alzheimers Dement. 2015 Feb;11(2):175-83. doi: 10.1016/j.jalz.2014.12.002. Epub 2015 Jan 20.",
+     "term": "hippocampus"
+}

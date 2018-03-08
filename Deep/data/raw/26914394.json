@@ -1,0 +1,76 @@
+{
+     "PMID": "26914394",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20170726",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "77",
+     "DP": "2016 May",
+     "TI": "Neuromorphic VLSI realization of the hippocampal formation.",
+     "PG": "29-40",
+     "LID": "S0893-6080(16)00012-5 [pii] 10.1016/j.neunet.2016.01.011 [doi]",
+     "AB": "The medial entorhinal cortex grid cells, aided by the subicular head direction cells, are thought to provide a matrix which is utilized by the hippocampal place cells for calculation of position of an animal during spatial navigation. The place cells are thought to function as an internal GPS for the brain and provide a spatiotemporal stamp on episodic memories. Several computational neuroscience models have been proposed to explain the place specific firing patterns of the cells of the hippocampal formation - including the GRIDSmap model for grid cells and Bayesian integration for place cells. In this work, we present design and measurement results from a first ever system of silicon circuits which successfully realize the function of the hippocampal formation of brain based on these models.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Aggarwal, Anu"
+     ],
+     "AU": [
+          "Aggarwal A"
+     ],
+     "AD": "University of Maryland, College Park, MD, USA. Electronic address: aaagganu@gmail.com.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160204",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Entorhinal Cortex/cytology/physiology",
+          "Hippocampus/cytology/*physiology",
+          "*Models, Neurological",
+          "Neurons/physiology",
+          "*Space Perception"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Bayesian integration synapse",
+          "GRIDSmap model",
+          "Grid cells",
+          "Place cells",
+          "Silicon hippocampal formation",
+          "Stripe cells"
+     ],
+     "EDAT": "2016/02/26 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2016/02/26 06:00"
+     ],
+     "PHST": [
+          "2015/09/11 00:00 [received]",
+          "2016/01/13 00:00 [revised]",
+          "2016/01/27 00:00 [accepted]",
+          "2016/02/26 06:00 [entrez]",
+          "2016/02/26 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S0893-6080(16)00012-5 [pii]",
+          "10.1016/j.neunet.2016.01.011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2016 May;77:29-40. doi: 10.1016/j.neunet.2016.01.011. Epub 2016 Feb 4.",
+     "term": "place cells"
+}

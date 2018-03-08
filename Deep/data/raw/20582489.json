@@ -1,0 +1,96 @@
+{
+     "PMID": "20582489",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110801",
+     "LR": "20170614",
+     "IS": "1559-0089 (Electronic) 1539-2791 (Linking)",
+     "VI": "8",
+     "IP": "3",
+     "DP": "2010 Oct",
+     "TI": "Anatomical global spatial normalization.",
+     "PG": "171-82",
+     "LID": "10.1007/s12021-010-9074-x [doi]",
+     "AB": "Anatomical global spatial normalization (aGSN) is presented as a method to scale high-resolution brain images to control for variability in brain size without altering the mean size of other brain structures. Two types of mean preserving scaling methods were investigated, \"shape preserving\" and \"shape standardizing\". aGSN was tested by examining 56 brain structures from an adult brain atlas of 40 individuals (LPBA40) before and after normalization, with detailed analyses of cerebral hemispheres, all gyri collectively, cerebellum, brainstem, and left and right caudate, putamen, and hippocampus. Mean sizes of brain structures as measured by volume, distance, and area were preserved and variance reduced for both types of scale factors. An interesting finding was that scale factors derived from each of the ten brain structures were also mean preserving. However, variance was best reduced using whole brain hemispheres as the reference structure, and this reduction was related to its high average correlation with other brain structures. The fractional reduction in variance of structure volumes was directly related to rho (2), the square of the reference-to-structure correlation coefficient. The average reduction in variance in volumes by aGSN with whole brain hemispheres as the reference structure was approximately 32%. An analytical method was provided to directly convert between conventional and aGSN scale factors to support adaptation of aGSN to popular spatial normalization software packages.",
+     "FAU": [
+          "Lancaster, Jack L",
+          "Cykowski, Matthew D",
+          "McKay, David Reese",
+          "Kochunov, Peter V",
+          "Fox, Peter T",
+          "Rogers, William",
+          "Toga, Arthur W",
+          "Zilles, Karl",
+          "Amunts, Katrin",
+          "Mazziotta, John"
+     ],
+     "AU": [
+          "Lancaster JL",
+          "Cykowski MD",
+          "McKay DR",
+          "Kochunov PV",
+          "Fox PT",
+          "Rogers W",
+          "Toga AW",
+          "Zilles K",
+          "Amunts K",
+          "Mazziotta J"
+     ],
+     "AD": "Research Imaging Center, University of Texas Health Science Center at San Antonio, 8403 Floyd Curl Drive, San Antonio, TX 78229-3900, USA. jlancaster@uthscsa.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "L30 DC009785/DC/NIDCD NIH HHS/United States",
+          "F32-DC009116/DC/NIDCD NIH HHS/United States",
+          "K01 EB006395/EB/NIBIB NIH HHS/United States",
+          "F32 DC009116/DC/NIDCD NIH HHS/United States",
+          "P41 RR013642/RR/NCRR NIH HHS/United States",
+          "P20 MH/DA52176/DA/NIDA NIH HHS/United States",
+          "U54 RR021813/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Algorithms",
+          "Brain/*anatomy & histology/physiology",
+          "Brain Mapping/*methods",
+          "Cerebellum/anatomy & histology/physiology",
+          "Cerebral Cortex/anatomy & histology/physiology",
+          "Computer Simulation/standards",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Models, Statistical",
+          "Organ Size/physiology",
+          "Young Adult"
+     ],
+     "PMC": "PMC2945458",
+     "EDAT": "2010/06/29 06:00",
+     "MHDA": "2011/08/02 06:00",
+     "CRDT": [
+          "2010/06/29 06:00"
+     ],
+     "PHST": [
+          "2010/06/29 06:00 [entrez]",
+          "2010/06/29 06:00 [pubmed]",
+          "2011/08/02 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s12021-010-9074-x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2010 Oct;8(3):171-82. doi: 10.1007/s12021-010-9074-x.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,65 @@
+{
+     "PMID": "23864671",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130927",
+     "LR": "20170220",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "33",
+     "IP": "29",
+     "DP": "2013 Jul 17",
+     "TI": "Effect of prestimulus alpha power, phase, and synchronization on stimulus detection rates in a biophysical attractor network model.",
+     "PG": "11817-24",
+     "LID": "10.1523/JNEUROSCI.5155-12.2013 [doi]",
+     "AB": "Spontaneous oscillations measured by local field potentials, electroencephalograms and magnetoencephalograms exhibit a pronounced peak in the alpha band (8-12 Hz) in humans and primates. Both instantaneous power and phase of these ongoing oscillations have commonly been observed to correlate with psychophysical performance in stimulus detection tasks. We use a novel model-based approach to study the effect of prestimulus oscillations on detection rate. A previously developed biophysically detailed attractor network exhibits spontaneous oscillations in the alpha range before a stimulus is presented and transiently switches to gamma-like oscillations on successful detection. We demonstrate that both phase and power of the ongoing alpha oscillations modulate the probability of such state transitions. The power can either positively or negatively correlate with the detection rate, in agreement with experimental findings, depending on the underlying neural mechanism modulating the oscillatory power. Furthermore, the spatially distributed alpha oscillators of the network can be synchronized by global nonspecific weak excitatory signals. These synchronization events lead to transient increases in alpha-band power and render the network sensitive to the exact timing of target stimuli, making the alpha cycle function as a temporal mask in line with recent experimental observations. Our results are relevant to several studies that attribute a modulatory role to prestimulus alpha dynamics.",
+     "FAU": [
+          "Lundqvist, Mikael",
+          "Herman, Pawel",
+          "Lansner, Anders"
+     ],
+     "AU": [
+          "Lundqvist M",
+          "Herman P",
+          "Lansner A"
+     ],
+     "AD": "Department of Computational Biology, Royal Institute of Technology-KTH and Stockholm University, 11421 Stockholm, Sweden. lundqvis@csc.kth.se",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Alpha Rhythm/*physiology",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Synapses/*physiology"
+     ],
+     "PMC": "PMC3722510",
+     "EDAT": "2013/07/19 06:00",
+     "MHDA": "2013/09/28 06:00",
+     "CRDT": [
+          "2013/07/19 06:00"
+     ],
+     "PHST": [
+          "2013/07/19 06:00 [entrez]",
+          "2013/07/19 06:00 [pubmed]",
+          "2013/09/28 06:00 [medline]"
+     ],
+     "AID": [
+          "33/29/11817 [pii]",
+          "10.1523/JNEUROSCI.5155-12.2013 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2013 Jul 17;33(29):11817-24. doi: 10.1523/JNEUROSCI.5155-12.2013.",
+     "term": "hippocampus"
+}

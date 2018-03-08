@@ -1,0 +1,77 @@
+{
+     "PMID": "18471891",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080924",
+     "LR": "20141120",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "171",
+     "IP": "2",
+     "DP": "2008 Jun 30",
+     "TI": "Counting contacts between neurons in 3D in confocal laser scanning images.",
+     "PG": "296-308",
+     "LID": "10.1016/j.jneumeth.2008.03.014 [doi]",
+     "AB": "Study of neuronal networks requires an inventory of the neurons, knowledge of fiber in- and output, and qualitative and quantitative data on the intrinsic connectivity. For this purpose we combined in rat hippocampus fluorescence neuroanatomical tracing and intracellular fluorochrome injection of neurons. Multichannel confocal laser scanning microscopy was followed by computer assisted 3D object- and contact recognition. We describe the factors involved in scanning ('from biological object to voxel') and we compare operator-mediated manual recognition of small 3D objects and contacts with 'objective' processing through software. As in all digital object recognition, thresholding is pivotal. We obtained reproducible, 'objective' thresholds via 3D object-threshold analysis with ImageJ. Objective thresholds were subsequently used in SCIL_Image scripts to identify 3D objects, and to identify and count contacts between labeled fibers and intracellularly injected target neurons. At the extreme magnification necessary to distinguish contacts, Abbe diffraction causes voxels that belong to the pre-contact structure to overlap voxels belonging to the post-contact structure. We call this overlap the 'footprint' and we introduce such footprints and their size as criteria to recognize contacts. Automated contact recognition, applying footprints of 100 voxels (involved structures imaged in their specific channel) gave the highest correlation with findings using the manual approach. We conclude that computer identification and counting of contacts is the method of choice, since it combines reduced human bias with good reproducibility of results and saving of time. Of major importance is that threshold selection is not dependent on the human computer operator.",
+     "FAU": [
+          "Wouterlood, Floris G",
+          "Boekel, Amber J",
+          "Kajiwara, Riichi",
+          "Belien, Jeroen A M"
+     ],
+     "AU": [
+          "Wouterlood FG",
+          "Boekel AJ",
+          "Kajiwara R",
+          "Belien JA"
+     ],
+     "AD": "Department of Anatomy and Neurosciences, VU University Medical Center, Amsterdam, The Netherlands. fg.wouterlood@vumc.nl",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20080401",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Phytohemagglutinins)",
+          "0 (leukoagglutinins, plants)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/cytology",
+          "*Imaging, Three-Dimensional",
+          "In Vitro Techniques",
+          "Microscopy, Confocal/*methods",
+          "Pattern Recognition, Automated",
+          "Phytohemagglutinins/metabolism",
+          "*Presynaptic Terminals/metabolism/ultrastructure",
+          "Pyramidal Cells/*cytology",
+          "Rats"
+     ],
+     "EDAT": "2008/05/13 09:00",
+     "MHDA": "2008/09/25 09:00",
+     "CRDT": [
+          "2008/05/13 09:00"
+     ],
+     "PHST": [
+          "2007/12/18 00:00 [received]",
+          "2008/02/18 00:00 [revised]",
+          "2008/03/13 00:00 [accepted]",
+          "2008/05/13 09:00 [pubmed]",
+          "2008/09/25 09:00 [medline]",
+          "2008/05/13 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(08)00170-2 [pii]",
+          "10.1016/j.jneumeth.2008.03.014 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2008 Jun 30;171(2):296-308. doi: 10.1016/j.jneumeth.2008.03.014. Epub 2008 Apr 1.",
+     "term": "hippocampus"
+}

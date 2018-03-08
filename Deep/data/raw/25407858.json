@@ -1,0 +1,78 @@
+{
+     "PMID": "25407858",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150729",
+     "LR": "20160519",
+     "IS": "1879-8519 (Electronic) 1879-8500 (Linking)",
+     "VI": "4",
+     "IP": "6",
+     "DP": "2014 Nov-Dec",
+     "TI": "Optimizing patient positioning for intensity modulated radiation therapy in hippocampal-sparing whole brain radiation therapy.",
+     "PG": "378-83",
+     "LID": "10.1016/j.prro.2013.11.008 [doi] S1879-8500(13)00402-5 [pii]",
+     "AB": "PURPOSE: Sparing the hippocampus during whole brain radiation therapy (WBRT) offers potential neurocognitive benefits. However, previously reported intensity modulated radiation therapy (IMRT) plans use multiple noncoplanar beams for treatment delivery. An optimized coplanar IMRT template for hippocampal-sparing WBRT would assist in clinical workflow and minimize resource utilization. In this study, we sought to determine the optimal patient position to facilitate coplanar treatment planning and delivery of hippocampal-sparing WBRT using IMRT. METHODS AND MATERIALS: A variable angle, inclined board was utilized for patient positioning. An anthropomorphic phantom underwent computed tomography simulation at various head angles. The IMRT goals were designed to achieve target coverage of the brain while maintaining hippocampal dose-volume constraints designed to conform to the Radiation Therapy Oncology Group 0933 protocol. Optimal head angle was then verified using data from 8 patients comparing coplanar and noncoplanar WBRT IMRT plans. RESULTS: Hippocampal, hippocampal avoidance region, and whole brain mean volumes were 1.1 cm(3), 12.5 cm(3), and 1185.1 cm(3), respectively. The hippocampal avoidance region occupied 1.1% of the whole brain planning volume. For the 30-degree head angle, a 7-field coplanar IMRT plan was generated, sparing the hippocampus to a maximum dose of 14.7 Gy; D100% of the hippocampus was 7.4 Gy and mean hippocampal dose was 9.3 Gy. In comparison, for flat head positioning the hippocampal Dmax was 22.9 Gy with a D100% of 9.2 Gy and mean dose of 11.7 Gy. Target coverage and dose homogeneity was comparable with previously published noncoplanar IMRT plans. CONCLUSIONS: Compared with conventional supine positioning, an inclined head board at 30 degrees optimizes coplanar whole brain IMRT treatment planning. Clinically acceptable hippocampal-sparing WBRT dosimetry can be obtained using a simplified coplanar plan at a 30-degree head angle, thus obviating the need for complex and time consuming noncoplanar IMRT plans.",
+     "FAU": [
+          "Siglin, Joshua",
+          "Champ, Colin E",
+          "Vakhnenko, Yelena",
+          "Witek, Matthew E",
+          "Peng, Cheng",
+          "Zaorsky, Nicholas G",
+          "Harrison, Amy S",
+          "Shi, Wenyin"
+     ],
+     "AU": [
+          "Siglin J",
+          "Champ CE",
+          "Vakhnenko Y",
+          "Witek ME",
+          "Peng C",
+          "Zaorsky NG",
+          "Harrison AS",
+          "Shi W"
+     ],
+     "AD": "Department of Radiation Oncology, Jefferson Medical College of Thomas Jefferson University, Philadelphia, Pennsylvania. Electronic address: Joshua.Siglin@jeffersonhospital.org. Department of Radiation Oncology, Jefferson Medical College of Thomas Jefferson University, Philadelphia, Pennsylvania. Department of Radiation Oncology, Jefferson Medical College of Thomas Jefferson University, Philadelphia, Pennsylvania. Department of Radiation Oncology, Jefferson Medical College of Thomas Jefferson University, Philadelphia, Pennsylvania. Department of Radiation Oncology, Jefferson Medical College of Thomas Jefferson University, Philadelphia, Pennsylvania. Department of Radiation Oncology, Jefferson Medical College of Thomas Jefferson University, Philadelphia, Pennsylvania. Department of Radiation Oncology, Jefferson Medical College of Thomas Jefferson University, Philadelphia, Pennsylvania. Department of Radiation Oncology, Jefferson Medical College of Thomas Jefferson University, Philadelphia, Pennsylvania.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140110",
+     "PL": "United States",
+     "TA": "Pract Radiat Oncol",
+     "JT": "Practical radiation oncology",
+     "JID": "101558279",
+     "SB": "IM",
+     "MH": [
+          "Brain/*anatomy & histology",
+          "Brain Neoplasms/*radiotherapy",
+          "Hippocampus/*anatomy & histology/*radiation effects",
+          "Humans",
+          "Patient Positioning/*methods",
+          "Radiotherapy Dosage",
+          "Radiotherapy Planning, Computer-Assisted/*methods",
+          "Radiotherapy, Intensity-Modulated/methods"
+     ],
+     "EDAT": "2014/11/20 06:00",
+     "MHDA": "2015/07/30 06:00",
+     "CRDT": [
+          "2014/11/20 06:00"
+     ],
+     "PHST": [
+          "2013/08/09 00:00 [received]",
+          "2013/10/31 00:00 [revised]",
+          "2013/11/10 00:00 [accepted]",
+          "2014/11/20 06:00 [entrez]",
+          "2014/11/20 06:00 [pubmed]",
+          "2015/07/30 06:00 [medline]"
+     ],
+     "AID": [
+          "S1879-8500(13)00402-5 [pii]",
+          "10.1016/j.prro.2013.11.008 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Pract Radiat Oncol. 2014 Nov-Dec;4(6):378-83. doi: 10.1016/j.prro.2013.11.008. Epub 2014 Jan 10.",
+     "term": "hippocampus"
+}

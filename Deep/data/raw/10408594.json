@@ -1,0 +1,69 @@
+{
+     "PMID": "10408594",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19990917",
+     "LR": "20090929",
+     "IS": "0306-4522 (Print) 0306-4522 (Linking)",
+     "VI": "92",
+     "IP": "2",
+     "DP": "1999",
+     "TI": "High-frequency population oscillations are predicted to occur in hippocampal pyramidal neuronal networks interconnected by axoaxonal gap junctions.",
+     "PG": "407-26",
+     "AB": "In hippocampal slices, high-frequency (125-333 Hz) synchronized oscillations have been shown to occur amongst populations of pyramidal neurons, in a manner that is independent of chemical synaptic transmission, but which is dependent upon gap junctions. At the intracellular level, high-frequency oscillations are associated with full-sized action potentials and with fast prepotentials. Using simulations of two pyramidal neurons, we previously argued that the submillisecond synchrony, and the rapid time-course of fast prepotentials, could be explained, in principle, if the requisite gap junctions were located between pyramidal cell axons. Here, we use network simulations (3072 pyramidal cells) to explore further the hypothesis that gap junctions occur between axons and could explain high-frequency oscillations. We show that, in randomly connected networks with an average of two gap junctions per cell, or less, synchronized network bursts can arise without chemical synapses, with frequencies in the experimentally observed range (spectral peaks 125-182 Hz). These bursts are associated with fast prepotentials (or partial spikes and spikelets) as observed in physiological recordings. The critical assumptions we must make for the oscillations to occur are: (i) there is a background of ectopic axonal spikes, which can occur at low frequency (one event per 25 s per axon); (ii) the gap junction resistance is small enough that a spike in one axon can induce a spike in the coupled axon at short latency (in the model, a resistance of 273 M omega works, with an associated latency of 0.25 ms). We predict that axoaxonal gap junctions, in combination with recurrent excitatory synapses, can induce the occurrence of high-frequency population spikes superimposed on epileptiform field potentials.",
+     "FAU": [
+          "Traub, R D",
+          "Schmitz, D",
+          "Jefferys, J G",
+          "Draguhn, A"
+     ],
+     "AU": [
+          "Traub RD",
+          "Schmitz D",
+          "Jefferys JG",
+          "Draguhn A"
+     ],
+     "AD": "Division of Neuroscience, University of Birmingham School of Medicine, Edgbaston, UK.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuroscience",
+     "JT": "Neuroscience",
+     "JID": "7605074",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Gap Junctions/*physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Presynaptic Terminals/*physiology",
+          "Pyramidal Cells/physiology"
+     ],
+     "EDAT": "1999/07/17 00:00",
+     "MHDA": "1999/07/17 00:01",
+     "CRDT": [
+          "1999/07/17 00:00"
+     ],
+     "PHST": [
+          "1999/07/17 00:00 [pubmed]",
+          "1999/07/17 00:01 [medline]",
+          "1999/07/17 00:00 [entrez]"
+     ],
+     "AID": [
+          "S0306-4522(98)00755-6 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroscience. 1999;92(2):407-26.",
+     "term": "hippocampus"
+}

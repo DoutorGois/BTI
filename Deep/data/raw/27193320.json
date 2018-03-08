@@ -1,0 +1,86 @@
+{
+     "PMID": "27193320",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170907",
+     "LR": "20170914",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "116",
+     "IP": "2",
+     "DP": "2016 Aug 1",
+     "TI": "Megamap: flexible representation of a large space embedded with nonspatial information by a hippocampal attractor network.",
+     "PG": "868-91",
+     "LID": "10.1152/jn.00856.2015 [doi]",
+     "AB": "The problem of how the hippocampus encodes both spatial and nonspatial information at the cellular network level remains largely unresolved. Spatial memory is widely modeled through the theoretical framework of attractor networks, but standard computational models can only represent spaces that are much smaller than the natural habitat of an animal. We propose that hippocampal networks are built on a basic unit called a \"megamap,\" or a cognitive attractor map in which place cells are flexibly recombined to represent a large space. Its inherent flexibility gives the megamap a huge representational capacity and enables the hippocampus to simultaneously represent multiple learned memories and naturally carry nonspatial information at no additional cost. On the other hand, the megamap is dynamically stable, because the underlying network of place cells robustly encodes any location in a large environment given a weak or incomplete input signal from the upstream entorhinal cortex. Our results suggest a general computational strategy by which a hippocampal network enjoys the stability of attractor dynamics without sacrificing the flexibility needed to represent a complex, changing world.",
+     "CI": [
+          "Copyright (c) 2016 the American Physiological Society."
+     ],
+     "FAU": [
+          "Hedrick, Kathryn R",
+          "Zhang, Kechen"
+     ],
+     "AU": [
+          "Hedrick KR",
+          "Zhang K"
+     ],
+     "AD": "Biomedical Engineering; Johns Hopkins University; Baltimore, Maryland khedrick@smu.edu. Biomedical Engineering; Johns Hopkins University; Baltimore, Maryland.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH079511/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160518",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Brain Mapping",
+          "Computer Simulation",
+          "Conditioning, Operant",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Memory/physiology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neural Pathways/physiology",
+          "Neurons/*physiology",
+          "Spatial Behavior/*physiology"
+     ],
+     "PMC": "PMC5002439",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "CA3",
+          "Poisson",
+          "activity bump",
+          "combinatorial mode",
+          "continuous attractor"
+     ],
+     "EDAT": "2016/05/20 06:00",
+     "MHDA": "2017/09/08 06:00",
+     "CRDT": [
+          "2016/05/20 06:00"
+     ],
+     "PHST": [
+          "2015/09/08 00:00 [received]",
+          "2016/05/09 00:00 [accepted]",
+          "2016/05/20 06:00 [entrez]",
+          "2016/05/20 06:00 [pubmed]",
+          "2017/09/08 06:00 [medline]"
+     ],
+     "AID": [
+          "jn.00856.2015 [pii]",
+          "10.1152/jn.00856.2015 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2016 Aug 1;116(2):868-91. doi: 10.1152/jn.00856.2015. Epub 2016 May 18.",
+     "term": "place cells"
+}

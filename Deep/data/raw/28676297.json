@@ -1,0 +1,68 @@
+{
+     "PMID": "28676297",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20170926",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "158",
+     "DP": "2017 Sep",
+     "TI": "Inferring synaptic excitation/inhibition balance from field potentials.",
+     "PG": "70-78",
+     "LID": "S1053-8119(17)30562-1 [pii] 10.1016/j.neuroimage.2017.06.078 [doi]",
+     "AB": "Neural circuits sit in a dynamic balance between excitation (E) and inhibition (I). Fluctuations in E:I balance have been shown to influence neural computation, working memory, and information flow, while more drastic shifts and aberrant E:I patterns are implicated in numerous neurological and psychiatric disorders. Current methods for measuring E:I dynamics require invasive procedures that are difficult to perform in behaving animals, and nearly impossible in humans. This has limited the ability to examine the full impact that E:I shifts have in cognition and disease. In this study, we develop a computational model to show that E:I changes can be estimated from the power law exponent (slope) of the electrophysiological power spectrum. Predictions from the model are validated in published data from two species (rats and macaques). We find that reducing E:I ratio via the administration of general anesthetic in macaques results in steeper power spectra, tracking conscious state over time. This causal result is supported by inference from known anatomical E:I changes across the depth of rat hippocampus, as well as oscillatory theta-modulated dynamic shifts in E:I. Our results provide evidence that E:I ratio may be inferred from electrophysiological recordings at many spatial scales, ranging from the local field potential to surface electrocorticography. This simple method for estimating E:I ratio-one that can be applied retrospectively to existing data-removes a major hurdle in understanding a currently difficult to measure, yet fundamental, aspect of neural computation.",
+     "CI": [
+          "Copyright (c) 2017 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Gao, Richard",
+          "Peterson, Erik J",
+          "Voytek, Bradley"
+     ],
+     "AU": [
+          "Gao R",
+          "Peterson EJ",
+          "Voytek B"
+     ],
+     "AD": "Department of Cognitive Science, University of California, San Diego, La Jolla, CA, USA. Electronic address: rigao@ucsd.edu. Department of Cognitive Science, University of California, San Diego, La Jolla, CA, USA. Department of Cognitive Science, University of California, San Diego, La Jolla, CA, USA; Neurosciences Graduate Program, University of California, San Diego, La Jolla, CA, USA; Institute for Neural Computation, University of California, San Diego, La Jolla, CA, USA; Kavli Institute for Brain and Mind, University of California, San Diego, La Jolla, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170701",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Electrocorticography",
+          "Excitation-inhibition balance",
+          "Local field potential",
+          "Power law",
+          "Power spectral density"
+     ],
+     "EDAT": "2017/07/06 06:00",
+     "MHDA": "2017/07/06 06:00",
+     "CRDT": [
+          "2017/07/06 06:00"
+     ],
+     "PHST": [
+          "2017/03/31 00:00 [received]",
+          "2017/05/26 00:00 [revised]",
+          "2017/06/29 00:00 [accepted]",
+          "2017/07/06 06:00 [pubmed]",
+          "2017/07/06 06:00 [medline]",
+          "2017/07/06 06:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(17)30562-1 [pii]",
+          "10.1016/j.neuroimage.2017.06.078 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2017 Sep;158:70-78. doi: 10.1016/j.neuroimage.2017.06.078. Epub 2017 Jul 1.",
+     "term": "hippocampus"
+}

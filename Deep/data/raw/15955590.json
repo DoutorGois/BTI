@@ -1,0 +1,68 @@
+{
+     "PMID": "15955590",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060123",
+     "LR": "20161124",
+     "IS": "0169-2607 (Print) 0169-2607 (Linking)",
+     "VI": "79",
+     "IP": "3",
+     "DP": "2005 Sep",
+     "TI": "Content-based image database system for epilepsy.",
+     "PG": "209-26",
+     "AB": "We have designed and implemented a human brain multi-modality database system with content-based image management, navigation and retrieval support for epilepsy. The system consists of several modules including a database backbone, brain structure identification and localization, segmentation, registration, visual feature extraction, clustering/classification and query modules. Our newly developed anatomical landmark localization and brain structure identification method facilitates navigation through an image data and extracts useful information for segmentation, registration and query modules. The database stores T1-, T2-weighted and FLAIR MRI and ictal/interictal SPECT modalities with associated clinical data. We confine the visual feature extractors within anatomical structures to support semantically rich content-based procedures. The proposed system serves as a research tool to evaluate a vast number of hypotheses regarding the condition such as resection of the hippocampus with a relatively small volume and high average signal intensity on FLAIR. Once the database is populated, using data mining tools, partially invisible correlations between different modalities of data, modeled in database schema, can be discovered. The design and implementation aspects of the proposed system are the main focus of this paper.",
+     "FAU": [
+          "Siadat, Mohammad-Reza",
+          "Soltanian-Zadeh, Hamid",
+          "Fotouhi, Farshad",
+          "Elisevich, Kost"
+     ],
+     "AU": [
+          "Siadat MR",
+          "Soltanian-Zadeh H",
+          "Fotouhi F",
+          "Elisevich K"
+     ],
+     "AD": "Radiology Image Analysis Laboratory, Department of Diagnostic Radiology, Henry Ford Health System, Detroit, MI 48202, USA. siadat@rad.hfh.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Ireland",
+     "TA": "Comput Methods Programs Biomed",
+     "JT": "Computer methods and programs in biomedicine",
+     "JID": "8506513",
+     "SB": "IM",
+     "MH": [
+          "Brain/diagnostic imaging/pathology",
+          "Cluster Analysis",
+          "*Database Management Systems",
+          "*Epilepsy/diagnostic imaging/pathology",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "*Radiology Information Systems",
+          "Tomography, Emission-Computed, Single-Photon"
+     ],
+     "EDAT": "2005/06/16 09:00",
+     "MHDA": "2006/01/24 09:00",
+     "CRDT": [
+          "2005/06/16 09:00"
+     ],
+     "PHST": [
+          "2004/04/25 00:00 [received]",
+          "2005/01/02 00:00 [revised]",
+          "2005/03/28 00:00 [accepted]",
+          "2005/06/16 09:00 [pubmed]",
+          "2006/01/24 09:00 [medline]",
+          "2005/06/16 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0169-2607(05)00088-X [pii]",
+          "10.1016/j.cmpb.2005.03.012 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Methods Programs Biomed. 2005 Sep;79(3):209-26. doi: 10.1016/j.cmpb.2005.03.012.",
+     "term": "hippocampus"
+}

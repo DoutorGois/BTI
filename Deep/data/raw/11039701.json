@@ -1,0 +1,67 @@
+{
+     "PMID": "11039701",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20010215",
+     "LR": "20041117",
+     "IS": "0340-1200 (Print) 0340-1200 (Linking)",
+     "VI": "83",
+     "IP": "4",
+     "DP": "2000 Oct",
+     "TI": "Relevance of nonlinear lumped-parameter models in the analysis of depth-EEG epileptic signals.",
+     "PG": "367-78",
+     "AB": "In the field of epilepsy, the analysis of stereoelectroencephalographic (SEEG, intra-cerebral recording) signals with signal processing methods can help to better identify the epileptogenic zone, the area of the brain responsible for triggering seizures, and to better understand its organization. In order to evaluate these methods and to physiologically interpret the results they provide, we developed a model able to produce EEG signals from \"organized\" networks of neural populations. Starting from a neurophysiologically relevant model initially proposed by Lopes Da Silva et al. [Lopes da Silva FH, Hoek A, Smith H, Zetterberg LH (1974) Kybernetic 15: 27-37] and recently re-designed by Jansen et al. [Jansen BH, Zouridakis G, Brandt ME (1993) Biol Cybern 68: 275 283] the present study demonstrates that this model can be extended to generate spontaneous EEG signals from multiple coupled neural populations. Model parameters related to excitation, inhibition and coupling are then altered to produce epileptiform EEG signals. Results show that the qualitative behavior of the model is realistic; simulated signals resemble those recorded from different brain structures for both interictal and ictal activities. Possible exploitation of simulations in signal processing is illustrated through one example; statistical couplings between both simulated signals and real SEEG signals are estimated using nonlinear regression. Results are compared and show that, through the model, real SEEG signals can be interpreted with the aid of signal processing methods.",
+     "FAU": [
+          "Wendling, F",
+          "Bellanger, J J",
+          "Bartolomei, F",
+          "Chauvel, P"
+     ],
+     "AU": [
+          "Wendling F",
+          "Bellanger JJ",
+          "Bartolomei F",
+          "Chauvel P"
+     ],
+     "AD": "Laboratoire Traitement du Signal et de L'Image, INSERM Universite de Rennes 1, France. fabrice.wendling@univ-rennes1.fr",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "SB": "IM",
+     "MH": [
+          "Cybernetics",
+          "*Electroencephalography",
+          "Epilepsy/*physiopathology",
+          "Hippocampus/cytology/physiopathology",
+          "Humans",
+          "*Models, Neurological",
+          "Neocortex/cytology/physiopathology",
+          "Neural Inhibition/physiology",
+          "Neurons/*physiology",
+          "*Nonlinear Dynamics",
+          "Seizures/physiopathology"
+     ],
+     "EDAT": "2000/10/20 11:00",
+     "MHDA": "2001/03/03 10:01",
+     "CRDT": [
+          "2000/10/20 11:00"
+     ],
+     "PHST": [
+          "2000/10/20 11:00 [pubmed]",
+          "2001/03/03 10:01 [medline]",
+          "2000/10/20 11:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s004220000160 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Cybern. 2000 Oct;83(4):367-78. doi: 10.1007/s004220000160.",
+     "term": "hippocampus"
+}

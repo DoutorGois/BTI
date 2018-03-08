@@ -1,0 +1,84 @@
+{
+     "PMID": "16003890",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050801",
+     "LR": "20161019",
+     "IS": "1534-4320 (Print) 1534-4320 (Linking)",
+     "VI": "13",
+     "IP": "2",
+     "DP": "2005 Jun",
+     "TI": "An analysis of hippocampal spatio-temporal representations using a Bayesian algorithm for neural spike train decoding.",
+     "PG": "131-6",
+     "AB": "Neural spike train decoding algorithms are important tools for characterizing how ensembles of neurons represent biological signals. We present a Bayesian neural spike train decoding algorithm based on a point process model of individual neurons, a linear stochastic state-space model of the biological signal, and a temporal latency parameter. The latency parameter represents the temporal lead or lag between the biological signal and the ensemble spiking activity. We use the algorithm to study whether the representation of position by the ensemble spiking activity of pyramidal neurons in the CA1 region of the rat hippocampus is more consistent with prospective coding, i.e., future position, or retrospective coding, past position. Using 44 simultaneously recorded neurons and an ensemble delay latency of 400 ms, the median decoding error was 5.1 cm during 10 min of foraging in an open circular environment. The true coverage probability for the algorithm's 0.95 confidence regions was 0.71. These results illustrate how the Bayesian neural spike train decoding paradigm may be used to investigate spatio-temporal representations of position by an ensemble of hippocampal neurons.",
+     "FAU": [
+          "Barbieri, Riccardo",
+          "Wilson, Matthew A",
+          "Frank, Loren M",
+          "Brown, Emery N"
+     ],
+     "AU": [
+          "Barbieri R",
+          "Wilson MA",
+          "Frank LM",
+          "Brown EN"
+     ],
+     "AD": "Neuroscience Statistics Research Laboratory, Department of Anesthesia and Critical Care, Massachusetts General Hospital, Boston, MA 02114-2696, USA. barbieri@neurostat.mgh.harvard.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 DA015644/DA/NIDA NIH HHS/United States",
+          "F32 MH065108/MH/NIMH NIH HHS/United States",
+          "K02 MH061637/MH/NIMH NIH HHS/United States",
+          "MH65018/MH/NIMH NIH HHS/United States",
+          "MH59733/MH/NIMH NIH HHS/United States",
+          "R01 MH059733/MH/NIMH NIH HHS/United States",
+          "DA015644/DA/NIDA NIH HHS/United States",
+          "MH61637/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Syst Rehabil Eng",
+     "JT": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "101097023",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Bayes Theorem",
+          "Computer Simulation",
+          "Electroencephalography/*methods",
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "Models, Statistical",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "Rats, Long-Evans",
+          "Space Perception/*physiology"
+     ],
+     "EDAT": "2005/07/12 09:00",
+     "MHDA": "2005/08/02 09:00",
+     "CRDT": [
+          "2005/07/12 09:00"
+     ],
+     "PHST": [
+          "2005/07/12 09:00 [pubmed]",
+          "2005/08/02 09:00 [medline]",
+          "2005/07/12 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TNSRE.2005.847368 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Syst Rehabil Eng. 2005 Jun;13(2):131-6. doi: 10.1109/TNSRE.2005.847368.",
+     "term": "hippocampus"
+}

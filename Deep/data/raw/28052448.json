@@ -1,0 +1,96 @@
+{
+     "PMID": "28052448",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180110",
+     "LR": "20180110",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "27",
+     "IP": "4",
+     "DP": "2017 Apr",
+     "TI": "The CAN-In network: A biologically inspired model for self-sustained theta oscillations and memory maintenance in the hippocampus.",
+     "PG": "450-463",
+     "LID": "10.1002/hipo.22704 [doi]",
+     "AB": "During working memory tasks, the hippocampus exhibits synchronous theta-band activity, which is thought to be correlated with the short-term memory maintenance of salient stimuli. Recent studies indicate that the hippocampus contains the necessary circuitry allowing it to generate and sustain theta oscillations without the need of extrinsic drive. However, the cellular and network mechanisms supporting synchronous rhythmic activity are far from being fully understood. Based on electrophysiological recordings from hippocampal pyramidal CA1 cells, we present a possible mechanism for the maintenance of such rhythmic theta-band activity in the isolated hippocampus. Our model network, based on the Hodgkin-Huxley formalism, comprising pyramidal neurons equipped with calcium-activated nonspecific cationic (CAN) ion channels, is able to generate and sustain synchronized theta oscillations (4-12 Hz), following a transient stimulation. The synchronous network activity is maintained by an intrinsic CAN current (ICAN ), in the absence of constant external input. When connecting the pyramidal-CAN network to fast-spiking inhibitory interneurons, the dynamics of the model reveal that feedback inhibition improves the robustness of fast theta oscillations, by tightening the synchronization of the pyramidal CAN neurons. The frequency and power of the theta oscillations are both modulated by the intensity of the ICAN , which allows for a wide range of oscillation rates within the theta band. This biologically plausible mechanism for the maintenance of synchronous theta oscillations in the hippocampus aims at extending the traditional models of septum-driven hippocampal rhythmic activity. (c) 2017 Wiley Periodicals, Inc.",
+     "CI": [
+          "(c) 2017 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Giovannini, Francesco",
+          "Knauer, Beate",
+          "Yoshida, Motoharu",
+          "Buhry, Laure"
+     ],
+     "AU": [
+          "Giovannini F",
+          "Knauer B",
+          "Yoshida M",
+          "Buhry L"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-1435-0314"
+     ],
+     "AD": "Neurosys Team, INRIA CR Nancy Grand Est, Villers-les-Nancy, France. Neurosys Team, CNRS, LORIA UMR 7503, Vandoeuvre-les-Nancy, France. Universite de Lorraine, LORIA UMR 7503, Vandoeuvre-les-Nancy, France. Research School, Ruhr University Bochum, Bochum, Germany. Department of Physiology, Monash University, Clayton, VIC, Australia. Leibniz Institute for Neurobiology (LIN) and German Center for Neurodegenerative Diseases (DZNE), Magdeburg, Germany. Neurosys Team, INRIA CR Nancy Grand Est, Villers-les-Nancy, France. Neurosys Team, CNRS, LORIA UMR 7503, Vandoeuvre-les-Nancy, France. Universite de Lorraine, LORIA UMR 7503, Vandoeuvre-les-Nancy, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170123",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "RN": [
+          "0 (Cations)",
+          "0 (Ion Channels)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Cations/metabolism",
+          "Computer Simulation",
+          "Feedback, Physiological/physiology",
+          "Female",
+          "Gamma Rhythm/physiology",
+          "Hippocampus/*physiology",
+          "Interneurons/physiology",
+          "Ion Channels/metabolism",
+          "Male",
+          "*Models, Neurological",
+          "Neural Inhibition/physiology",
+          "Pyramidal Cells/physiology",
+          "Rats, Long-Evans",
+          "Synapses/physiology",
+          "Theta Rhythm/*physiology",
+          "Tissue Culture Techniques"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "hippocampus",
+          "intrinsic persistent firing",
+          "memory",
+          "theta oscillations"
+     ],
+     "EDAT": "2017/01/05 06:00",
+     "MHDA": "2018/01/11 06:00",
+     "CRDT": [
+          "2017/01/05 06:00"
+     ],
+     "PHST": [
+          "2016/12/29 00:00 [accepted]",
+          "2017/01/05 06:00 [pubmed]",
+          "2018/01/11 06:00 [medline]",
+          "2017/01/05 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.22704 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2017 Apr;27(4):450-463. doi: 10.1002/hipo.22704. Epub 2017 Jan 23.",
+     "term": "hippocampus"
+}

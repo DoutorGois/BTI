@@ -1,0 +1,86 @@
+{
+     "PMID": "18467131",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080829",
+     "LR": "20080616",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "41",
+     "IP": "4",
+     "DP": "2008 Jul 15",
+     "TI": "Selection of the control group for VBM analysis: influence of covariates, matching and sample size.",
+     "PG": "1324-35",
+     "LID": "10.1016/j.neuroimage.2008.02.050 [doi]",
+     "AB": "Variability in the control group plays a crucial role in voxel-based morphometry (VBM) detection of structural abnormalities. Two common methods of minimising this variance are inclusion of covariates and matching of control and patient groups. We address two major questions: What are the optimal covariates in the VBM design? When a large pool of controls are available, is it better to choose a subset of matched control subjects at the expense of numbers, or include all available controls? We used regression analysis in a group of 176 controls to determine the contribution of gender, age, and total intracranial volume (TIV) to volume variation. We then used different matching and covariate strategies to determine the optimal design for VBM detection of abnormality in epilepsy patients with hippocampal sclerosis. In the regression analysis, focal gender effects disappeared with inclusion of TIV as an additional regressor. Age had a small but unique contribution to focal volume changes. In the VBM analysis of HS patients, detection of abnormalities was strongly influenced by choice of covariates. The optimal combination was different for grey and white matter (for grey matter: TIV; for temporal lobe white matter: TIV, age and gender). A control group size of 70-90 subjects allowed optimal detection of volume loss in the hippocampus and thalamus. At these group sizes, matched control groups did not consistently prove superior to deliberately \"unmatched\" groups of the same size. The optimal detection of volume loss was obtained with all available control subjects.",
+     "FAU": [
+          "Pell, Gaby S",
+          "Briellmann, Regula S",
+          "Chan, Chow Huat Patrick",
+          "Pardoe, Heath",
+          "Abbott, David F",
+          "Jackson, Graeme D"
+     ],
+     "AU": [
+          "Pell GS",
+          "Briellmann RS",
+          "Chan CH",
+          "Pardoe H",
+          "Abbott DF",
+          "Jackson GD"
+     ],
+     "AD": "Brain Research Institute, Neuroscience Building, Austin Health, Victoria, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20080307",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aging/physiology",
+          "Analysis of Variance",
+          "Brain/anatomy & histology/physiology",
+          "Data Interpretation, Statistical",
+          "Epilepsy/genetics/pathology/physiopathology",
+          "Female",
+          "Hippocampus/pathology/physiopathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Regression Analysis",
+          "Sample Size",
+          "Sclerosis",
+          "Sex Characteristics"
+     ],
+     "EDAT": "2008/05/10 09:00",
+     "MHDA": "2008/08/30 09:00",
+     "CRDT": [
+          "2008/05/10 09:00"
+     ],
+     "PHST": [
+          "2007/11/20 00:00 [received]",
+          "2008/01/25 00:00 [revised]",
+          "2008/02/26 00:00 [accepted]",
+          "2008/05/10 09:00 [pubmed]",
+          "2008/08/30 09:00 [medline]",
+          "2008/05/10 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(08)00193-6 [pii]",
+          "10.1016/j.neuroimage.2008.02.050 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2008 Jul 15;41(4):1324-35. doi: 10.1016/j.neuroimage.2008.02.050. Epub 2008 Mar 7.",
+     "term": "hippocampus"
+}

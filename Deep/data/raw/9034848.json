@@ -1,0 +1,68 @@
+{
+     "PMID": "9034848",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19970428",
+     "LR": "20071114",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "6",
+     "IP": "6",
+     "DP": "1996",
+     "TI": "Dynamic synapse: a new concept of neural representation and computation.",
+     "PG": "591-600",
+     "AB": "Presynaptic mechanisms influencing the probability of neurotransmitter release from an axon terminal, such as facilitation, augmentation, and presynaptic feedback inhibition, are fundamental features of biological neurons and are cardinal physiological properties of synaptic connections in the hippocampus. The consequence of these presynaptic mechanisms is that the probability of release becomes a function of the temporal pattern of action potential occurrence, and hence, the strength of a given synapse varies upon the arrival of each action potential invading the terminal region. From the perspective of neural information processing, the capability of dynamically tuning the synaptic strength as a function of the level of neuronal activation gives rise to a significant representational and processing power of temporal spike patterns at the synaptic level. Furthermore, there is an exponential growth in such computational power when the specific dynamics of presynaptic mechanisms varies quantitatively across axon terminals of a single neuron, a recently established characteristic of hippocampal synapses. During learning, alterations in the presynaptic mechanisms lead to different pattern transformation functions, whereas changes in the postsynaptic mechanisms determine how the synaptic signals are to be combined. We demonstrate the computational capability of dynamic synapses by performing speech recognition from unprocessed, noisy raw waveforms of words spoken by multiple speakers with a simple neural network consisting of a small number of neurons connected with synapses incorporating dynamically determined probability of release. The dynamics included in the model are consistent with available experimental data on hippocampal neurons in that parameter values were chosen so as to be consistent with time constants of facilitative and inhibitory processes governing the dynamics of hippocampal synaptic transmission studied using nonlinear systems analytic procedures.",
+     "FAU": [
+          "Liaw, J S",
+          "Berger, T W"
+     ],
+     "AU": [
+          "Liaw JS",
+          "Berger TW"
+     ],
+     "AD": "Department of Biomedical Engineering, University of Southern California, Los Angeles 90089-1451, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH51722/MH/NIMH NIH HHS/United States",
+          "MH52194/MH/NIMH NIH HHS/United States",
+          "P41 RR01861/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Acoustic Stimulation",
+          "Animals",
+          "Auditory Perception/physiology",
+          "Electrophysiology",
+          "Hippocampus/physiology",
+          "*Models, Neurological",
+          "Speech",
+          "Synapses/*physiology"
+     ],
+     "EDAT": "1996/01/01 00:00",
+     "MHDA": "1996/01/01 00:01",
+     "CRDT": [
+          "1996/01/01 00:00"
+     ],
+     "PHST": [
+          "1996/01/01 00:00 [pubmed]",
+          "1996/01/01 00:01 [medline]",
+          "1996/01/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/(SICI)1098-1063(1996)6:6&lt;591::AID-HIPO4&gt;3.0.CO;2-K [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 1996;6(6):591-600. doi: 10.1002/(SICI)1098-1063(1996)6:6&lt;591::AID-HIPO4&gt;3.0.CO;2-K.",
+     "term": "hippocampus"
+}

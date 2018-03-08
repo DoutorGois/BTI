@@ -1,0 +1,110 @@
+{
+     "PMID": "24091139",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140813",
+     "LR": "20131209",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "221",
+     "DP": "2014 Jan 15",
+     "TI": "Comparison of manual and semi-automated segmentation methods to evaluate hippocampus volume in APP and PS1 transgenic mice obtained via in vivo magnetic resonance imaging.",
+     "PG": "103-11",
+     "LID": "10.1016/j.jneumeth.2013.09.014 [doi] S0165-0270(13)00325-7 [pii]",
+     "AB": "BACKGROUND: Magnetic resonance imaging (MRI) of transgenic mouse models of Alzheimer's disease is valuable to understand better the structural changes that occur in the brain and could provide a means to test drug treatments. A hallmark pathological feature of Alzheimer's disease is atrophy of the hippocampus, which is an early biomarker of the disease. MRI can be used to detect and monitor this biomarker. METHOD: Repeated measurements using in vivo 3D T2-weighted imaging of mice were used to assess the methods. Each mouse was imaged twice in one week and twice the following week and no changes in volume were expected. The hippocampus was segmented both manually and semi-automatically. Registration was done to gain information on shape changes. The volumes from each mouse were compared intra-mouse, between mice and to hippocampus volume values in the literature. RESULTS: A reliable method was developed which was able to detect difference in volumes of hippocampus between mice when performed by a single individual. The semi-automated segmentation was unable to detect the same level of differences. The semi-automated segmentation method gave larger hippocampus volumes, with 78-87% reliability between the manual and semi-automated segmentation. Although more accurate, the manual segmentation is laborious and suffers from inter- and intra-variability. CONCLUSION: These results suggest that manual segmentation is still considered the most reliable segmentation method for small structures. However, if performing longitudinal studies, where there is at least one year between imaging sessions, the segmentation should be done all at once at the end of all the imaging sessions. If segmentation is done after each imaging session, with at least a year passing between segmentations, very small variations in volumes can be missed. This method provides a means to quantify the volume of the hippocampus in a live mouse using manual segmentation, which is the first step toward studying hippocampus atrophy in a mouse model of Alzheimer's disease.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Hayes, Kerrie",
+          "Buist, Richard",
+          "Vincent, Trevor J",
+          "Thiessen, Jonathan D",
+          "Zhang, Yanbo",
+          "Zhang, Handi",
+          "Wang, Junhui",
+          "Summers, Arthur R",
+          "Kong, Jiming",
+          "Li, Xin-Min",
+          "Martin, Melanie"
+     ],
+     "AU": [
+          "Hayes K",
+          "Buist R",
+          "Vincent TJ",
+          "Thiessen JD",
+          "Zhang Y",
+          "Zhang H",
+          "Wang J",
+          "Summers AR",
+          "Kong J",
+          "Li XM",
+          "Martin M"
+     ],
+     "AD": "Department of Biology, University of Winnipeg, 515 Portage Avenue, Winnipeg, MB, Canada R3B 2E9. Electronic address: hayeskn@gmail.com.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20131001",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Amyloid beta-Peptides)",
+          "0 (Presenilin-1)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*pathology",
+          "Amyloid beta-Peptides/genetics",
+          "Animals",
+          "Disease Models, Animal",
+          "Hippocampus/*pathology",
+          "Image Processing, Computer-Assisted/*methods",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Mice",
+          "Mice, Transgenic",
+          "Presenilin-1/genetics",
+          "Reproducibility of Results"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Hippocampus",
+          "MRI",
+          "Segmentation",
+          "Transgenic mouse models",
+          "Volume"
+     ],
+     "EDAT": "2013/10/05 06:00",
+     "MHDA": "2014/08/15 06:00",
+     "CRDT": [
+          "2013/10/05 06:00"
+     ],
+     "PHST": [
+          "2013/07/17 00:00 [received]",
+          "2013/08/23 00:00 [revised]",
+          "2013/09/21 00:00 [accepted]",
+          "2013/10/05 06:00 [entrez]",
+          "2013/10/05 06:00 [pubmed]",
+          "2014/08/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(13)00325-7 [pii]",
+          "10.1016/j.jneumeth.2013.09.014 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2014 Jan 15;221:103-11. doi: 10.1016/j.jneumeth.2013.09.014. Epub 2013 Oct 1.",
+     "term": "hippocampus"
+}

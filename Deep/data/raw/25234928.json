@@ -1,0 +1,91 @@
+{
+     "PMID": "25234928",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150219",
+     "LR": "20170220",
+     "IS": "1469-9001 (Electronic) 1355-8382 (Linking)",
+     "VI": "20",
+     "IP": "11",
+     "DP": "2014 Nov",
+     "TI": "NoFold: RNA structure clustering without folding or alignment.",
+     "PG": "1671-83",
+     "LID": "10.1261/rna.041913.113 [doi]",
+     "AB": "Structures that recur across multiple different transcripts, called structure motifs, often perform a similar function-for example, recruiting a specific RNA-binding protein that then regulates translation, splicing, or subcellular localization. Identifying common motifs between coregulated transcripts may therefore yield significant insight into their binding partners and mechanism of regulation. However, as most methods for clustering structures are based on folding individual sequences or doing many pairwise alignments, this results in a tradeoff between speed and accuracy that can be problematic for large-scale data sets. Here we describe a novel method for comparing and characterizing RNA secondary structures that does not require folding or pairwise alignment of the input sequences. Our method uses the idea of constructing a distance function between two objects by their respective distances to a collection of empirical examples or models, which in our case consists of 1973 Rfam family covariance models. Using this as a basis for measuring structural similarity, we developed a clustering pipeline called NoFold to automatically identify and annotate structure motifs within large sequence data sets. We demonstrate that NoFold can simultaneously identify multiple structure motifs with an average sensitivity of 0.80 and precision of 0.98 and generally exceeds the performance of existing methods. We also perform a cross-validation analysis of the entire set of Rfam families, achieving an average sensitivity of 0.57. We apply NoFold to identify motifs enriched in dendritically localized transcripts and report 213 enriched motifs, including both known and novel structures.",
+     "CI": [
+          "(c) 2014 Middleton and Kim; Published by Cold Spring Harbor Laboratory Press for",
+          "the RNA Society."
+     ],
+     "FAU": [
+          "Middleton, Sarah A",
+          "Kim, Junhyong"
+     ],
+     "AU": [
+          "Middleton SA",
+          "Kim J"
+     ],
+     "AD": "Genomics and Computational Biology Graduate Program, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA. Genomics and Computational Biology Graduate Program, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA Department of Biology, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA junhyong@sas.upenn.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH088849/MH/NIMH NIH HHS/United States",
+          "5R01MH088849/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20140918",
+     "PL": "United States",
+     "TA": "RNA",
+     "JT": "RNA (New York, N.Y.)",
+     "JID": "9509184",
+     "RN": [
+          "63231-63-0 (RNA)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Cluster Analysis",
+          "Computational Biology/*methods",
+          "Dendrites/genetics",
+          "Hippocampus/cytology/metabolism",
+          "*Nucleic Acid Conformation",
+          "RNA/*chemistry",
+          "RNA Folding",
+          "Rats",
+          "Reproducibility of Results",
+          "Sequence Alignment",
+          "Sequence Analysis, RNA/*methods"
+     ],
+     "PMC": "PMC4201820",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "RNA secondary structure",
+          "RNA structure clustering",
+          "RNA structure motifs",
+          "dendritic localization"
+     ],
+     "EDAT": "2014/09/23 06:00",
+     "MHDA": "2015/02/20 06:00",
+     "CRDT": [
+          "2014/09/20 06:00"
+     ],
+     "PHST": [
+          "2014/09/20 06:00 [entrez]",
+          "2014/09/23 06:00 [pubmed]",
+          "2015/02/20 06:00 [medline]"
+     ],
+     "AID": [
+          "rna.041913.113 [pii]",
+          "10.1261/rna.041913.113 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "RNA. 2014 Nov;20(11):1671-83. doi: 10.1261/rna.041913.113. Epub 2014 Sep 18.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,61 @@
+{
+     "PMID": "23024573",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "0277-786X (Print) 0277-786X (Linking)",
+     "VI": "8314",
+     "DP": "2012 Feb 23",
+     "TI": "A Comparison of Distributional Considerations with Statistical Analysis of Resting State fMRI at 3T and 7T.",
+     "LID": "831416 [pii]",
+     "AB": "Ultra-high field 7T magnetic resonance imaging (MRI) offers potentially unprecedented spatial resolution of functional activity within the human brain through increased signal and contrast to noise ratios over traditional 1.5T and 3T MRI scanners. However, the effects physiological and imaging artifacts are also greatly increased. Traditional statistical parametric mapping theories based on distributional properties representative of data acquired at lower fields may be inadequate for new 7T data. Herein, we investigate the model fitting residuals based on two 7T and one 3T protocols. We find that model residuals are substantively more non-Gaussian at 7T relative to 3T. Imaging slices that passed through regions with peak inhomogeneity problems (e.g., mid-brain acquisitions for the 7T hippocampus) exhibited visually higher degrees of distortion along with spatially correlated and extreme values of kurtosis (a measure of non-Gaussianity). The impacts of artifacts have been previously addressed for 3T data by estimating the covariance matrix of the regression errors. We further extend the robust estimation approach for autoregressive models and evaluate the qualitative impacts of this technique relative to traditional inference. Clear differences in statistical significance are shown between inferences based on classical versus robust assumptions, which suggest that inferences based on Gaussian assumptions are subject to practical (as well as theoretical) concerns regarding their power and validity. Hence, modern statistical approaches, such as the robust autoregressive model posed herein, are appropriate and suitable for inference with ultra-high field functional magnetic resonance imaging.",
+     "FAU": [
+          "Yang, Xue",
+          "Holmes, Martha J",
+          "Newton, Allen T",
+          "Morgan, Victoria L",
+          "Landman, Bennett A"
+     ],
+     "AU": [
+          "Yang X",
+          "Holmes MJ",
+          "Newton AT",
+          "Morgan VL",
+          "Landman BA"
+     ],
+     "AD": "Electrical Engineering, Vanderbilt University, Nashville, TN, USA 37235.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "N01 AG032124/AG/NIA NIH HHS/United States",
+          "T32 EB001628/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Proc SPIE Int Soc Opt Eng",
+     "JT": "Proceedings of SPIE--the International Society for Optical Engineering",
+     "JID": "101524122",
+     "PMC": "PMC3460373",
+     "MID": [
+          "NIHMS341654"
+     ],
+     "EDAT": "2012/10/02 06:00",
+     "MHDA": "2012/10/02 06:00",
+     "CRDT": [
+          "2012/10/02 06:00"
+     ],
+     "PHST": [
+          "2012/10/02 06:00 [entrez]",
+          "2012/10/02 06:00 [pubmed]",
+          "2012/10/02 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1117/12.911307 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc SPIE Int Soc Opt Eng. 2012 Feb 23;8314. doi: 10.1117/12.911307.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,84 @@
+{
+     "PMID": "15050596",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040806",
+     "LR": "20131121",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "21",
+     "IP": "4",
+     "DP": "2004 Apr",
+     "TI": "Glutamate concentrations in human brain using single voxel proton magnetic resonance spectroscopy at 3 Tesla.",
+     "PG": "1762-71",
+     "AB": "A method for quantitative determination of the glutamate (Glu) concentration in human brain using PRESS-based single voxel MR spectroscopy (MRS) at 3 T has been developed and validated by repeatedly analyzing voxels comprising the anterior cingulate cortex (acc) and the left hippocampus (hc) in 40 healthy volunteer brains. At an optimum echo time of 80 ms, the C4 resonance of Glu appears well resolved and separated from major interferents, that is, glutamine and N-acetylaspartate. As a complementary method, a multiple quantum coherence filter sequence for Glu was employed. For quantification of Glu and the principal MRS-visible metabolites as well as for an estimate of the glutamine level, analysis of both types of in vivo spectra was carried out by a time domain-frequency domain method involving prior knowledge obtained from phantom spectra. Using PRESS, coefficients of variation (CV) for Glu concentration were of the order of 10%. When the concentrations were corrected by individual cerebrospinal fluid fractions obtained by segmentation using spm, CVs tended to increase and the correlation coefficients for the two MRS sessions tended to decrease, indicating that this type of correction adds uncertainty to the data. The concentrations of Glu in the two voxels studied were found to be significantly different (11.6 mmol/l in acc, 10.9 mmol/l in hc, P = 0.023) and decrease with age (P < 0.04). These concentrations agreed well with those determined using the quantum coherence filter method although the uncertainty of the latter limits reliable analysis.",
+     "FAU": [
+          "Schubert, Florian",
+          "Gallinat, Jurgen",
+          "Seifert, Frank",
+          "Rinneberg, Herbert"
+     ],
+     "AU": [
+          "Schubert F",
+          "Gallinat J",
+          "Seifert F",
+          "Rinneberg H"
+     ],
+     "AD": "Laboratory of Biomedical Optics and NMR-Measuring Techniques, Division of Medical Physics and Metrological Information Technology, D-10587 Berlin, Germany. florian.schubert@ptb.de",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "0RH81L854J (Glutamine)",
+          "30KYC7MIAI (Aspartic Acid)",
+          "3KX376GY7L (Glutamic Acid)",
+          "997-55-7 (N-acetylaspartate)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aspartic Acid/*analogs & derivatives/metabolism",
+          "Brain/*metabolism",
+          "Brain Mapping",
+          "Female",
+          "Fourier Analysis",
+          "Glutamic Acid/*metabolism",
+          "Glutamine/metabolism",
+          "Gyrus Cinguli/metabolism",
+          "Hippocampus/metabolism",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Magnetic Resonance Spectroscopy/*methods",
+          "Male",
+          "Middle Aged",
+          "Reference Values",
+          "Statistics as Topic"
+     ],
+     "EDAT": "2004/03/31 05:00",
+     "MHDA": "2004/08/07 05:00",
+     "CRDT": [
+          "2004/03/31 05:00"
+     ],
+     "PHST": [
+          "2003/09/09 00:00 [received]",
+          "2003/11/03 00:00 [revised]",
+          "2003/11/04 00:00 [accepted]",
+          "2004/03/31 05:00 [pubmed]",
+          "2004/08/07 05:00 [medline]",
+          "2004/03/31 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1016/j.neuroimage.2003.11.014 [doi]",
+          "S1053811903007353 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2004 Apr;21(4):1762-71. doi: 10.1016/j.neuroimage.2003.11.014.",
+     "term": "hippocampus"
+}

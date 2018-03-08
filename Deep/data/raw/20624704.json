@@ -1,0 +1,81 @@
+{
+     "PMID": "20624704",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110329",
+     "LR": "20170220",
+     "IS": "1558-254X (Electronic) 0278-0062 (Linking)",
+     "VI": "29",
+     "IP": "12",
+     "DP": "2010 Dec",
+     "TI": "Robust surface reconstruction via Laplace-Beltrami eigen-projection and boundary deformation.",
+     "PG": "2009-22",
+     "LID": "10.1109/TMI.2010.2057441 [doi]",
+     "AB": "In medical shape analysis, a critical problem is reconstructing a smooth surface of correct topology from a binary mask that typically has spurious features due to segmentation artifacts. The challenge is the robust removal of these outliers without affecting the accuracy of other parts of the boundary. In this paper, we propose a novel approach for this problem based on the Laplace-Beltrami (LB) eigen-projection and properly designed boundary deformations. Using the metric distortion during the LB eigen-projection, our method automatically detects the location of outliers and feeds this information to a well-composed and topology-preserving deformation. By iterating between these two steps of outlier detection and boundary deformation, we can robustly filter out the outliers without moving the smooth part of the boundary. The final surface is the eigen-projection of the filtered mask boundary that has the correct topology, desired accuracy and smoothness. In our experiments, we illustrate the robustness of our method on different input masks of the same structure, and compare with the popular SPHARM tool and the topology preserving level set method to show that our method can reconstruct accurate surface representations without introducing artificial oscillations. We also successfully validate our method on a large data set of more than 900 hippocampal masks and demonstrate that the reconstructed surfaces retain volume information accurately.",
+     "FAU": [
+          "Shi, Yonggang",
+          "Lai, Rongjie",
+          "Morra, Jonathan H",
+          "Dinov, Ivo",
+          "Thompson, Paul M",
+          "Toga, Arthur W"
+     ],
+     "AU": [
+          "Shi Y",
+          "Lai R",
+          "Morra JH",
+          "Dinov I",
+          "Thompson PM",
+          "Toga AW"
+     ],
+     "AD": "Laboratory of Neuro Imaging, Department of Neurology, University of California-Los Angeles, School of Medicine, Los Angeles, CA 90095, USA. yshi@loni.ucla.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U54 RR021813/RR/NCRR NIH HHS/United States",
+          "U54 RR021813-05/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20100712",
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Alzheimer Disease/pathology",
+          "Caudate Nucleus/anatomy & histology",
+          "Hippocampus/anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/methods",
+          "Putamen/anatomy & histology",
+          "Reproducibility of Results",
+          "Surface Properties"
+     ],
+     "PMC": "PMC2995840",
+     "MID": [
+          "NIHMS242526"
+     ],
+     "EDAT": "2010/07/14 06:00",
+     "MHDA": "2011/03/30 06:00",
+     "CRDT": [
+          "2010/07/14 06:00"
+     ],
+     "PHST": [
+          "2010/07/14 06:00 [entrez]",
+          "2010/07/14 06:00 [pubmed]",
+          "2011/03/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TMI.2010.2057441 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2010 Dec;29(12):2009-22. doi: 10.1109/TMI.2010.2057441. Epub 2010 Jul 12.",
+     "term": "hippocampus"
+}

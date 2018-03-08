@@ -1,0 +1,92 @@
+{
+     "PMID": "21731767",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111102",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "6",
+     "IP": "6",
+     "DP": "2011",
+     "TI": "MicroRNA expression profiling reveals miRNA families regulating specific biological pathways in mouse frontal cortex and hippocampus.",
+     "PG": "e21495",
+     "LID": "10.1371/journal.pone.0021495 [doi]",
+     "AB": "MicroRNAs (miRNAs) are small regulatory molecules that cause post-transcriptional gene silencing. Although some miRNAs are known to have region-specific expression patterns in the adult brain, the functional consequences of the region-specificity to the gene regulatory networks of the brain nuclei are not clear. Therefore, we studied miRNA expression patterns by miRNA-Seq and microarrays in two brain regions, frontal cortex (FCx) and hippocampus (HP), which have separate biological functions. We identified 354 miRNAs from FCx and 408 from HP using miRNA-Seq, and 245 from FCx and 238 from HP with microarrays. Several miRNA families and clusters were differentially expressed between FCx and HP, including the miR-8 family, miR-182|miR-96|miR-183 cluster, and miR-212|miR-312 cluster overexpressed in FCx and miR-34 family overexpressed in HP. To visualize the clusters, we developed support for viewing genomic alignments of miRNA-Seq reads in the Chipster genome browser. We carried out pathway analysis of the predicted target genes of differentially expressed miRNA families and clusters to assess their putative biological functions. Interestingly, several miRNAs from the same family/cluster were predicted to regulate specific biological pathways. We have developed a miRNA-Seq approach with a bioinformatic analysis workflow that is suitable for studying miRNA expression patterns from specific brain nuclei. FCx and HP were shown to have distinct miRNA expression patterns which were reflected in the predicted gene regulatory pathways. This methodology can be applied for the identification of brain region-specific and phenotype-specific miRNA-mRNA-regulatory networks from the adult and developing rodent brain.",
+     "FAU": [
+          "Juhila, Juuso",
+          "Sipila, Tessa",
+          "Icay, Katherine",
+          "Nicorici, Daniel",
+          "Ellonen, Pekka",
+          "Kallio, Aleksi",
+          "Korpelainen, Eija",
+          "Greco, Dario",
+          "Hovatta, Iiris"
+     ],
+     "AU": [
+          "Juhila J",
+          "Sipila T",
+          "Icay K",
+          "Nicorici D",
+          "Ellonen P",
+          "Kallio A",
+          "Korpelainen E",
+          "Greco D",
+          "Hovatta I"
+     ],
+     "AD": "Institute of Molecular Medicine Finland (FIMM), University of Helsinki, Helsinki, Finland.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110622",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (MicroRNAs)",
+          "0 (RNA, Messenger)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cluster Analysis",
+          "Computational Biology",
+          "Frontal Lobe/*metabolism",
+          "*Gene Expression Profiling",
+          "Gene Expression Regulation",
+          "Genome/genetics",
+          "Hippocampus/*metabolism",
+          "Mice",
+          "MicroRNAs/*genetics/metabolism",
+          "Oligonucleotide Array Sequence Analysis",
+          "Organ Specificity/genetics",
+          "RNA, Messenger/genetics/metabolism",
+          "Sequence Analysis, RNA",
+          "Signal Transduction/*genetics"
+     ],
+     "PMC": "PMC3120887",
+     "EDAT": "2011/07/07 06:00",
+     "MHDA": "2011/11/04 06:00",
+     "CRDT": [
+          "2011/07/07 06:00"
+     ],
+     "PHST": [
+          "2011/04/27 00:00 [received]",
+          "2011/05/29 00:00 [accepted]",
+          "2011/07/07 06:00 [entrez]",
+          "2011/07/07 06:00 [pubmed]",
+          "2011/11/04 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0021495 [doi]",
+          "PONE-D-11-07490 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2011;6(6):e21495. doi: 10.1371/journal.pone.0021495. Epub 2011 Jun 22.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,68 @@
+{
+     "PMID": "23365647",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130708",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "1",
+     "DP": "2013",
+     "TI": "BatSLAM: Simultaneous localization and mapping using biomimetic sonar.",
+     "PG": "e54076",
+     "LID": "10.1371/journal.pone.0054076 [doi]",
+     "AB": "We propose to combine a biomimetic navigation model which solves a simultaneous localization and mapping task with a biomimetic sonar mounted on a mobile robot to address two related questions. First, can robotic sonar sensing lead to intelligent interactions with complex environments? Second, can we model sonar based spatial orientation and the construction of spatial maps by bats? To address these questions we adapt the mapping module of RatSLAM, a previously published navigation system based on computational models of the rodent hippocampus. We analyze the performance of the proposed robotic implementation operating in the real world. We conclude that the biomimetic navigation model operating on the information from the biomimetic sonar allows an autonomous agent to map unmodified (office) environments efficiently and consistently. Furthermore, these results also show that successful navigation does not require the readings of the biomimetic sonar to be interpreted in terms of individual objects/landmarks in the environment. We argue that the system has applications in robotics as well as in the field of biology as a simple, first order, model for sonar based spatial orientation and map building.",
+     "FAU": [
+          "Steckel, Jan",
+          "Peremans, Herbert"
+     ],
+     "AU": [
+          "Steckel J",
+          "Peremans H"
+     ],
+     "AD": "Active Perception Lab, Faculty of Applied Economics, University of Antwerp, Antwerp, Belgium. jan.steckel@ua.ac.be",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130124",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "*Biomimetic Materials",
+          "Chiroptera/*physiology",
+          "*Geographic Mapping",
+          "Humans",
+          "Rats",
+          "Robotics/*instrumentation/methods",
+          "Sound"
+     ],
+     "PMC": "PMC3554696",
+     "EDAT": "2013/02/01 06:00",
+     "MHDA": "2013/07/09 06:00",
+     "CRDT": [
+          "2013/02/01 06:00"
+     ],
+     "PHST": [
+          "2012/05/15 00:00 [received]",
+          "2012/12/06 00:00 [accepted]",
+          "2013/02/01 06:00 [entrez]",
+          "2013/02/01 06:00 [pubmed]",
+          "2013/07/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0054076 [doi]",
+          "PONE-D-12-14026 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2013;8(1):e54076. doi: 10.1371/journal.pone.0054076. Epub 2013 Jan 24.",
+     "term": "hippocampus"
+}

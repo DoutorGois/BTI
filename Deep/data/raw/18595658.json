@@ -1,0 +1,89 @@
+{
+     "PMID": "18595658",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090409",
+     "LR": "20161122",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "21",
+     "IP": "8",
+     "DP": "2008 Oct",
+     "TI": "Self-sustaining non-repetitive activity in a large scale neuronal-level model of the hippocampal circuit.",
+     "PG": "1153-63",
+     "LID": "10.1016/j.neunet.2008.05.006 [doi]",
+     "AB": "The mammalian hippocampus is involved in spatial representation and memory storage and retrieval, and much research is ongoing to elucidate the cellular and system-level mechanisms underlying these cognitive functions. Modeling may be useful to link network-level activity patterns to the relevant features of hippocampal anatomy and electrophysiology. Investigating the effects of circuit connectivity requires simulations of a number of neurons close to real scale. To this end, we construct a model of the hippocampus with 16 distinct neuronal classes (including both local and projection cells) and 200,000 individual neurons. The number of neurons in each class and their interconnectivity are drawn from rat anatomy. Here we analyze the emergent network activity and how it is affected by reducing either the size or the connectivity diversity of the model. When the model is run with a simple variation of the McCulloch-Pitts formalism, self-sustaining non-repetitive activity patterns consistently emerge. Specific firing threshold values are narrowly constrained for each cell class upon multiple runs with different stochastic wiring and initial conditions, yet these values do not directly affect network stability. Analysis of the model at different network sizes demonstrates that a scale reduction of one order of magnitude drastically alters network dynamics, including the variability of the output range, the distribution of firing frequencies, and the duration of self-sustained activity. Moreover, comparing the model to a control condition with an equivalent number of (excitatory/inhibitory balanced) synapses, but removing all class-specific information (i.e. collapsing the network to homogeneous random connectivity) has surprisingly similar effects to downsizing the total number of neurons. The reduced-scale model is also compared directly with integrate-and-fire simulations, which capture considerably more physiological detail at the single-cell level, but still fail to reproduce the full behavioral complexity of the large-scale model. Thus network size, cell class diversity, and connectivity details may all be critical to generate self-sustained non-repetitive activity patterns.",
+     "FAU": [
+          "Scorcioni, Ruggero",
+          "Hamilton, David J",
+          "Ascoli, Giorgio A"
+     ],
+     "AU": [
+          "Scorcioni R",
+          "Hamilton DJ",
+          "Ascoli GA"
+     ],
+     "AD": "Center for Neural Informatics, Structure, and Plasticity (CN3), Krasnow Institute for Advanced Study, George Mason University, Mail Stop 2A1, Fairfax, VA 22030-4444, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R21 NS058816/NS/NINDS NIH HHS/United States",
+          "R01 NS039600-09/NS/NINDS NIH HHS/United States",
+          "NS39600/NS/NINDS NIH HHS/United States",
+          "R01 AG025633/AG/NIA NIH HHS/United States",
+          "AG025633/AG/NIA NIH HHS/United States",
+          "R21 NS058816-01A2/NS/NINDS NIH HHS/United States",
+          "R01 NS039600/NS/NINDS NIH HHS/United States",
+          "R01 AG025633-05/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20080604",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/*cytology",
+          "Memory/*physiology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Nonlinear Dynamics",
+          "Rats",
+          "Sensory Thresholds/physiology",
+          "Synapses/physiology"
+     ],
+     "PMC": "PMC2584784",
+     "MID": [
+          "NIHMS78346"
+     ],
+     "EDAT": "2008/07/04 09:00",
+     "MHDA": "2009/04/10 09:00",
+     "CRDT": [
+          "2008/07/04 09:00"
+     ],
+     "PHST": [
+          "2007/12/12 00:00 [received]",
+          "2008/04/30 00:00 [revised]",
+          "2008/05/28 00:00 [accepted]",
+          "2008/07/04 09:00 [pubmed]",
+          "2009/04/10 09:00 [medline]",
+          "2008/07/04 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(08)00101-9 [pii]",
+          "10.1016/j.neunet.2008.05.006 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2008 Oct;21(8):1153-63. doi: 10.1016/j.neunet.2008.05.006. Epub 2008 Jun 4.",
+     "term": "hippocampus"
+}

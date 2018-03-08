@@ -1,0 +1,87 @@
+{
+     "PMID": "22194186",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120716",
+     "LR": "20161025",
+     "IS": "1559-0089 (Electronic) 1539-2791 (Linking)",
+     "VI": "10",
+     "IP": "2",
+     "DP": "2012 Apr",
+     "TI": "Optimizing hippocampal segmentation in infants utilizing MRI post-acquisition processing.",
+     "PG": "173-80",
+     "LID": "10.1007/s12021-011-9137-7 [doi]",
+     "AB": "This study aims to determine the most reliable method for infant hippocampal segmentation by comparing magnetic resonance (MR) imaging post-acquisition processing techniques: contrast to noise ratio (CNR) enhancement, or reformatting to standard orientation. MR scans were performed with a 1.5 T GE scanner to obtain dual echo T2 and proton density (PD) images at term equivalent (38-42 weeks' gestational age). 15 hippocampi were manually traced four times on ten infant images by 2 independent raters on the original T2 image, as well as images processed by: a) combining T2 and PD images (T2-PD) to enhance CNR; then b) reformatting T2-PD images perpendicular to the long axis of the left hippocampus. CNRs and intraclass correlation coefficients (ICC) were calculated. T2-PD images had 17% higher CNR (15.2) than T2 images (12.6). Original T2 volumes' ICC was 0.87 for rater 1 and 0.84 for rater 2, whereas T2-PD images' ICC was 0.95 for rater 1 and 0.87 for rater 2. Reliability of hippocampal segmentation on T2-PD images was not improved by reformatting images (rater 1 ICC = 0.88, rater 2 ICC = 0.66). Post-acquisition processing can improve CNR and hence reliability of hippocampal segmentation in neonate MR scans when tissue contrast is poor. These findings may be applied to enhance boundary definition in infant segmentation for various brain structures or in any volumetric study where image contrast is sub-optimal, enabling hippocampal structure-function relationships to be explored.",
+     "FAU": [
+          "Thompson, Deanne K",
+          "Ahmadzai, Zohra M",
+          "Wood, Stephen J",
+          "Inder, Terrie E",
+          "Warfield, Simon K",
+          "Doyle, Lex W",
+          "Egan, Gary F"
+     ],
+     "AU": [
+          "Thompson DK",
+          "Ahmadzai ZM",
+          "Wood SJ",
+          "Inder TE",
+          "Warfield SK",
+          "Doyle LW",
+          "Egan GF"
+     ],
+     "AD": "Critical Care and Neurosciences, Murdoch Childrens Research Institute, Royal Children's Hospital, Melbourne, Australia. deanne.thompson@mcri.edu.au",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P30 HD018655/HD/NICHD NIH HHS/United States",
+          "R01 EB008015/EB/NIBIB NIH HHS/United States",
+          "R01 GM074068/GM/NIGMS NIH HHS/United States",
+          "R01 RR021885/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Cohort Studies",
+          "Hippocampus/*anatomy & histology/growth & development",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional",
+          "Infant",
+          "Infant, Newborn",
+          "Infant, Premature",
+          "Magnetic Resonance Imaging/*methods",
+          "Reproducibility of Results",
+          "Signal-To-Noise Ratio"
+     ],
+     "PMC": "PMC3717374",
+     "MID": [
+          "NIHMS477897"
+     ],
+     "EDAT": "2011/12/24 06:00",
+     "MHDA": "2012/07/17 06:00",
+     "CRDT": [
+          "2011/12/24 06:00"
+     ],
+     "PHST": [
+          "2011/12/24 06:00 [entrez]",
+          "2011/12/24 06:00 [pubmed]",
+          "2012/07/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s12021-011-9137-7 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2012 Apr;10(2):173-80. doi: 10.1007/s12021-011-9137-7.",
+     "term": "hippocampus"
+}

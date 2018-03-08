@@ -1,0 +1,71 @@
+{
+     "PMID": "20925940",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110215",
+     "LR": "20170220",
+     "IS": "1752-0509 (Electronic) 1752-0509 (Linking)",
+     "VI": "4",
+     "DP": "2010 Oct 6",
+     "TI": "Analysis of Alzheimer's disease severity across brain regions by topological analysis of gene co-expression networks.",
+     "PG": "136",
+     "LID": "10.1186/1752-0509-4-136 [doi]",
+     "AB": "BACKGROUND: Alzheimer's disease (AD) is a progressive neurodegenerative disorder involving variations in the transcriptome of many genes. AD does not affect all brain regions simultaneously. Identifying the differences among the affected regions may shed more light onto the disease progression. We developed a novel method involving the differential topology of gene coexpression networks to understand the association among affected regions and disease severity. METHODS: We analysed microarray data of four regions--entorhinal cortex (EC), hippocampus (HIP), posterior cingulate cortex (PCC) and middle temporal gyrus (MTG) from AD affected and normal subjects. A coexpression network was built for each region and the topological overlap between them was examined. Genes with zero topological overlap between two region-specific networks were used to characterise the differences between the two regions. RESULTS AND CONCLUSION: Results indicate that MTG shows early AD pathology compared to the other regions. We postulate that if the MTG gets affected later in the disease, post-mortem analyses of individuals with end-stage AD will show signs of early AD in the MTG, while the EC, HIP and PCC will have severe pathology. Such knowledge is useful for data collection in clinical studies where sample selection is a limiting factor as well as highlighting the underlying biology of disease progression.",
+     "FAU": [
+          "Ray, Monika",
+          "Zhang, Weixiong"
+     ],
+     "AU": [
+          "Ray M",
+          "Zhang W"
+     ],
+     "AD": "Washington University School of Engineering, Dept of Computer Science and Engineering, Saint Louis, MO 63130, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "AR058681/AR/NIAMS NIH HHS/United States",
+          "R01GM086412/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20101006",
+     "PL": "England",
+     "TA": "BMC Syst Biol",
+     "JT": "BMC systems biology",
+     "JID": "101301827",
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*genetics/*pathology",
+          "Brain/*metabolism/*pathology",
+          "*Gene Expression Profiling",
+          "*Gene Regulatory Networks",
+          "Humans",
+          "Oligonucleotide Array Sequence Analysis",
+          "Organ Specificity"
+     ],
+     "PMC": "PMC2976747",
+     "EDAT": "2010/10/12 06:00",
+     "MHDA": "2011/02/16 06:00",
+     "CRDT": [
+          "2010/10/08 06:00"
+     ],
+     "PHST": [
+          "2010/06/24 00:00 [received]",
+          "2010/10/06 00:00 [accepted]",
+          "2010/10/08 06:00 [entrez]",
+          "2010/10/12 06:00 [pubmed]",
+          "2011/02/16 06:00 [medline]"
+     ],
+     "AID": [
+          "1752-0509-4-136 [pii]",
+          "10.1186/1752-0509-4-136 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "BMC Syst Biol. 2010 Oct 6;4:136. doi: 10.1186/1752-0509-4-136.",
+     "term": "hippocampus"
+}

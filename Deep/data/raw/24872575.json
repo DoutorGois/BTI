@@ -1,0 +1,76 @@
+{
+     "PMID": "24872575",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140805",
+     "LR": "20140529",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "34",
+     "IP": "22",
+     "DP": "2014 May 28",
+     "TI": "Modeling inheritance of phase precession in the hippocampal formation.",
+     "PG": "7715-31",
+     "LID": "10.1523/JNEUROSCI.5136-13.2014 [doi]",
+     "AB": "Spatial information about the environment is encoded by the activity of place and grid cells in the hippocampal formation. As an animal traverses a cell's firing field, action potentials progressively shift to earlier phases of the theta oscillation (6-10 Hz). This \"phase precession\" is observed also in the prefrontal cortex and the ventral striatum, but mechanisms for its generation are unknown. However, once phase precession exists in one region, it might also propagate to downstream regions. Using a computational model, we analyze such inheritance of phase precession, for example, from the entorhinal cortex to CA1 and from CA3 to CA1. We find that distinctive subthreshold and suprathreshold features of the membrane potential of CA1 pyramidal cells (Harvey et al., 2009; Mizuseki et al., 2012; Royer et al., 2012) can be explained by inheritance and that excitatory input is essential. The model explains how inhibition modulates the slope and range of phase precession and provides two main testable predictions. First, theta-modulated inhibitory input to a CA1 pyramidal cell is not necessary for phase precession. Second, theta-modulated inhibitory input on its own generates membrane potential peaks that are in phase with peaks of the extracellular field. Furthermore, we suggest that the spatial distribution of field centers of a population of phase-precessing input cells determines, not only the place selectivity, but also the characteristics of phase precession of the targeted output cell. The inheritance model thus can explain why phase precession is observed throughout the hippocampal formation and other areas of the brain.",
+     "CI": [
+          "Copyright (c) 2014 the authors 0270-6474/14/347715-17$15.00/0."
+     ],
+     "FAU": [
+          "Jaramillo, Jorge",
+          "Schmidt, Robert",
+          "Kempter, Richard"
+     ],
+     "AU": [
+          "Jaramillo J",
+          "Schmidt R",
+          "Kempter R"
+     ],
+     "AD": "Department of Biology, Institute for Theoretical Biology, Humboldt-Universitat zu Berlin, 10115 Berlin, Germany, Bernstein Center for Computational Neuroscience Berlin, 10115 Berlin, Germany, and Charite-Universitatsmedizin Berlin, Neuroscience Research Center, 10117 Berlin, Germany. Department of Biology, Institute for Theoretical Biology, Humboldt-Universitat zu Berlin, 10115 Berlin, Germany, Bernstein Center for Computational Neuroscience Berlin, 10115 Berlin, Germany, and. Department of Biology, Institute for Theoretical Biology, Humboldt-Universitat zu Berlin, 10115 Berlin, Germany, Bernstein Center for Computational Neuroscience Berlin, 10115 Berlin, Germany, and r.kempter@biologie.hu-berlin.de.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Hippocampus/*physiology",
+          "Membrane Potentials/physiology",
+          "*Models, Neurological",
+          "Prefrontal Cortex/physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "CA1",
+          "entorhinal cortex",
+          "hippocampus",
+          "inheritance",
+          "phase precession",
+          "theta oscillations"
+     ],
+     "EDAT": "2014/05/30 06:00",
+     "MHDA": "2014/08/06 06:00",
+     "CRDT": [
+          "2014/05/30 06:00"
+     ],
+     "PHST": [
+          "2014/05/30 06:00 [entrez]",
+          "2014/05/30 06:00 [pubmed]",
+          "2014/08/06 06:00 [medline]"
+     ],
+     "AID": [
+          "34/22/7715 [pii]",
+          "10.1523/JNEUROSCI.5136-13.2014 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2014 May 28;34(22):7715-31. doi: 10.1523/JNEUROSCI.5136-13.2014.",
+     "term": "grid cells"
+}

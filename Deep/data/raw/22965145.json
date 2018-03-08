@@ -1,0 +1,93 @@
+{
+     "PMID": "22965145",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130123",
+     "LR": "20120920",
+     "IS": "1423-0062 (Electronic) 0001-5652 (Linking)",
+     "VI": "73",
+     "IP": "4",
+     "DP": "2012",
+     "TI": "GLIDE: GPU-based linear regression for detection of epistasis.",
+     "PG": "220-36",
+     "AB": "Due to recent advances in genotyping technologies, mapping phenotypes to single loci in the genome has become a standard technique in statistical genetics. However, one-locus mapping fails to explain much of the phenotypic variance in complex traits. Here, we present GLIDE, which maps phenotypes to pairs of genetic loci and systematically searches for the epistatic interactions expected to reveal part of this missing heritability. GLIDE makes use of the computational power of consumer-grade graphics cards to detect such interactions via linear regression. This enabled us to conduct a systematic two-locus mapping study on seven disease data sets from the Wellcome Trust Case Control Consortium and on in-house hippocampal volume data in 6 h per data set, while current single CPU-based approaches require more than a year's time to complete the same task.",
+     "CI": [
+          "Copyright (c) 2012 S. Karger AG, Basel."
+     ],
+     "FAU": [
+          "Kam-Thong, Tony",
+          "Azencott, Chloe-Agathe",
+          "Cayton, Lawrence",
+          "Putz, Benno",
+          "Altmann, Andre",
+          "Karbalai, Nazanin",
+          "Samann, Philipp G",
+          "Scholkopf, Bernhard",
+          "Muller-Myhsok, Bertram",
+          "Borgwardt, Karsten M"
+     ],
+     "AU": [
+          "Kam-Thong T",
+          "Azencott CA",
+          "Cayton L",
+          "Putz B",
+          "Altmann A",
+          "Karbalai N",
+          "Samann PG",
+          "Scholkopf B",
+          "Muller-Myhsok B",
+          "Borgwardt KM"
+     ],
+     "AD": "Machine Learning and Computational Biology Research Group, Max Planck Institutes Tubingen, Tubingen, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120904",
+     "PL": "Switzerland",
+     "TA": "Hum Hered",
+     "JT": "Human heredity",
+     "JID": "0200525",
+     "SB": "IM",
+     "MH": [
+          "Bipolar Disorder/diagnosis/epidemiology/genetics",
+          "Chromosome Mapping/*methods",
+          "Computational Biology/*methods",
+          "Databases, Factual",
+          "*Epistasis, Genetic",
+          "Genetic Loci",
+          "*Genetic Predisposition to Disease",
+          "Genetics, Population/methods",
+          "Genome-Wide Association Study",
+          "Hippocampus/anatomy & histology",
+          "Humans",
+          "Linear Models",
+          "Organ Size",
+          "Phenotype",
+          "Polymorphism, Single Nucleotide",
+          "Reproducibility of Results",
+          "Time Factors"
+     ],
+     "EDAT": "2012/09/12 06:00",
+     "MHDA": "2013/01/24 06:00",
+     "CRDT": [
+          "2012/09/12 06:00"
+     ],
+     "PHST": [
+          "2012/01/14 00:00 [received]",
+          "2012/07/13 00:00 [accepted]",
+          "2012/09/12 06:00 [entrez]",
+          "2012/09/12 06:00 [pubmed]",
+          "2013/01/24 06:00 [medline]"
+     ],
+     "AID": [
+          "000341885 [pii]",
+          "10.1159/000341885 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Hered. 2012;73(4):220-36. doi: 10.1159/000341885. Epub 2012 Sep 4.",
+     "term": "hippocampus"
+}

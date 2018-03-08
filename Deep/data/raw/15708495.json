@@ -1,0 +1,71 @@
+{
+     "PMID": "15708495",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050503",
+     "LR": "20061115",
+     "IS": "0306-4522 (Print) 0306-4522 (Linking)",
+     "VI": "131",
+     "IP": "2",
+     "DP": "2005",
+     "TI": "Long-range temporal correlations in the spontaneous spiking of neurons in the hippocampal-amygdala complex of humans.",
+     "PG": "547-55",
+     "AB": "The spontaneous or background discharge patterns of in vivo single neuron is mostly considered as neuronal noise, which is assumed to be devoid of any correlation between successive inter-spike-intervals (ISI). Such random fluctuations are modeled only statistically by stochastic point process, lacking any temporal correlation. In this study, we have investigated the nature of spontaneous irregular fluctuations of single neurons from human hippocampus-amygdala complex by three different methods: (i) detrended fluctuation analysis (DFA), (ii) multiscale entropy (MSE), (iii) rate estimate convergence. Both the DFA and MSE analysis showed the presence of long-range power-law correlation over time in the ISI sequences. Moreover, we observed that the individual spike trains presented non-random structure on longer time-scales and showed slow convergence of rate estimates with increasing counting time. This power-law correlation and the slow convergence of statistical moments were eliminated by randomly shuffling the ISIs even though the distributions of ISIs were preserved. Thus the power-law relationship arose from long-term correlations among ISIs that were destroyed by shuffling the data. Further, we found that neurons which showed long-range correlations also showed statistically significant correlated firing as measured by correlation coefficient or mutual information function. The presence of long-range correlations indicates the history-effect or memory in the firing pattern by the associative formation of a neuronal assembly.",
+     "FAU": [
+          "Bhattacharya, J",
+          "Edwards, J",
+          "Mamelak, A N",
+          "Schuman, E M"
+     ],
+     "AU": [
+          "Bhattacharya J",
+          "Edwards J",
+          "Mamelak AN",
+          "Schuman EM"
+     ],
+     "AD": "Commission for Scientific Visualization, Austrian Academy of Sciences, Tech-Gate, Donau City Strasse 1, A-1220 Vienna, Austria. joydeep@oeaw.ac.at",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuroscience",
+     "JT": "Neuroscience",
+     "JID": "7605074",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Adult",
+          "Amygdala/*physiology",
+          "Female",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Least-Squares Analysis",
+          "Male",
+          "Middle Aged",
+          "Neurons/*physiology",
+          "Normal Distribution",
+          "Time Factors"
+     ],
+     "EDAT": "2005/02/15 09:00",
+     "MHDA": "2005/05/04 09:00",
+     "CRDT": [
+          "2005/02/15 09:00"
+     ],
+     "PHST": [
+          "2004/11/10 00:00 [accepted]",
+          "2005/02/15 09:00 [pubmed]",
+          "2005/05/04 09:00 [medline]",
+          "2005/02/15 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0306-4522(04)01089-9 [pii]",
+          "10.1016/j.neuroscience.2004.11.013 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroscience. 2005;131(2):547-55. doi: 10.1016/j.neuroscience.2004.11.013.",
+     "term": "hippocampus"
+}

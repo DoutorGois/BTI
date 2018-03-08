@@ -1,0 +1,96 @@
+{
+     "PMID": "27896314",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171024",
+     "LR": "20180109",
+     "IS": "2373-2822 (Electronic) 2373-2822 (Linking)",
+     "VI": "3",
+     "IP": "6",
+     "DP": "2016 Nov-Dec",
+     "TI": "Graph Theoretic and Motif Analyses of the Hippocampal Neuron Type Potential Connectome.",
+     "LID": "ENEURO.0205-16.2016 [pii]",
+     "AB": "We computed the potential connectivity map of all known neuron types in the rodent hippocampal formation by supplementing scantly available synaptic data with spatial distributions of axons and dendrites from the open-access knowledge base Hippocampome.org. The network that results from this endeavor, the broadest and most complete for a mammalian cortical region at the neuron-type level to date, contains more than 3200 connections among 122 neuron types across six subregions. Analyses of these data using graph theory metrics unveil the fundamental architectural principles of the hippocampal circuit. Globally, we identify a highly specialized topology minimizing communication cost; a modular structure underscoring the prominence of the trisynaptic loop; a core set of neuron types serving as information-processing hubs as well as a distinct group of particular antihub neurons; a nested, two-tier rich club managing much of the network traffic; and an innate resilience to random perturbations. At the local level, we uncover the basic building blocks, or connectivity patterns, that combine to produce complex global functionality, and we benchmark their utilization in the circuit relative to random networks. Taken together, these results provide a comprehensive connectivity profile of the hippocampus, yielding novel insights on its functional operations at the computationally crucial level of neuron types.",
+     "FAU": [
+          "Rees, Christopher L",
+          "Wheeler, Diek W",
+          "Hamilton, David J",
+          "White, Charise M",
+          "Komendantov, Alexander O",
+          "Ascoli, Giorgio A"
+     ],
+     "AU": [
+          "Rees CL",
+          "Wheeler DW",
+          "Hamilton DJ",
+          "White CM",
+          "Komendantov AO",
+          "Ascoli GA"
+     ],
+     "AUID": [
+          "ORCID: 0000-0001-6568-7120",
+          "ORCID: 0000-0001-8635-0033",
+          "ORCID: 0000-0001-6265-9917"
+     ],
+     "AD": "Krasnow Institute for Advanced Study, George Mason University , Fairfax, VA 22030. Krasnow Institute for Advanced Study, George Mason University , Fairfax, VA 22030. Krasnow Institute for Advanced Study, George Mason University , Fairfax, VA 22030. Krasnow Institute for Advanced Study, George Mason University , Fairfax, VA 22030. Krasnow Institute for Advanced Study, George Mason University , Fairfax, VA 22030. Krasnow Institute for Advanced Study, George Mason University , Fairfax, VA 22030.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20161118",
+     "PL": "United States",
+     "TA": "eNeuro",
+     "JT": "eNeuro",
+     "JID": "101647362",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Connectome/methods",
+          "Hippocampus/cytology/*physiology",
+          "Internet",
+          "Mice",
+          "Neural Pathways/cytology/physiology",
+          "Neurons/cytology/*physiology",
+          "Rats"
+     ],
+     "PMC": "PMC5114701",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*connectomics",
+          "*graph theory",
+          "*hippocampal neurons",
+          "*motifs",
+          "*network",
+          "*neuroinformatics"
+     ],
+     "COIS": [
+          "Authors report no conflict of interest."
+     ],
+     "EDAT": "2016/11/30 06:00",
+     "MHDA": "2017/10/25 06:00",
+     "CRDT": [
+          "2016/11/30 06:00"
+     ],
+     "PHST": [
+          "2016/07/13 00:00 [received]",
+          "2016/10/21 00:00 [revised]",
+          "2016/10/25 00:00 [accepted]",
+          "2016/11/30 06:00 [entrez]",
+          "2016/11/30 06:00 [pubmed]",
+          "2017/10/25 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1523/ENEURO.0205-16.2016 [doi]",
+          "eN-NWR-0205-16 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "eNeuro. 2016 Nov 18;3(6). pii: eN-NWR-0205-16. doi: 10.1523/ENEURO.0205-16.2016. eCollection 2016 Nov-Dec.",
+     "term": "hippocampus"
+}

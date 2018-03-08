@@ -1,0 +1,60 @@
+{
+     "PMID": "29156419",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20171129",
+     "IS": "1361-8423 (Electronic) 1361-8415 (Linking)",
+     "VI": "43",
+     "DP": "2018 Jan",
+     "TI": "Segmentation of the hippocampus by transferring algorithmic knowledge for large cohort processing.",
+     "PG": "214-228",
+     "LID": "S1361-8415(17)30159-7 [pii] 10.1016/j.media.2017.11.004 [doi]",
+     "AB": "The hippocampus is a particularly interesting target for neuroscience research studies due to its essential role within the human brain. In large human cohort studies, bilateral hippocampal structures are frequently identified and measured to gain insight into human behaviour or genomic variability in neuropsychiatric disorders of interest. Automatic segmentation is performed using various algorithms, with FreeSurfer being a popular option. In this manuscript, we present a method to segment the bilateral hippocampus using a deep-learned appearance model. Deep convolutional neural networks (ConvNets) have shown great success in recent years, due to their ability to learn meaningful features from a mass of training data. Our method relies on the following key novelties: (i) we use a wide and variable training set coming from multiple cohorts (ii) our training labels come in part from the output of the FreeSurfer algorithm, and (iii) we include synthetic data and use a powerful data augmentation scheme. Our method proves to be robust, and it has fast inference (<30s total per subject), with trained model available online (https://github.com/bthyreau/hippodeep). We depict illustrative results and show extensive qualitative and quantitative cohort-wide comparisons with FreeSurfer. Our work demonstrates that deep neural-network methods can easily encode, and even improve, existing anatomical knowledge, even when this knowledge exists in algorithmic form.",
+     "CI": [
+          "Copyright (c) 2017 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Thyreau, Benjamin",
+          "Sato, Kazunori",
+          "Fukuda, Hiroshi",
+          "Taki, Yasuyuki"
+     ],
+     "AU": [
+          "Thyreau B",
+          "Sato K",
+          "Fukuda H",
+          "Taki Y"
+     ],
+     "AD": "Tohoku Medical Megabank Organization, Tohoku University, Japan; Institute of Development, Aging and Cancer, Tohoku University, Japan. Electronic address: benjamin.thyreau.a5@tohoku.ac.jp. Institute of Development, Aging and Cancer, Tohoku University, Japan. Tohoku Pharmaceutical University, Japan. Tohoku Medical Megabank Organization, Tohoku University, Japan; Institute of Development, Aging and Cancer, Tohoku University, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171110",
+     "PL": "Netherlands",
+     "TA": "Med Image Anal",
+     "JT": "Medical image analysis",
+     "JID": "9713490",
+     "EDAT": "2017/11/21 06:00",
+     "MHDA": "2017/11/21 06:00",
+     "CRDT": [
+          "2017/11/21 06:00"
+     ],
+     "PHST": [
+          "2017/06/02 00:00 [received]",
+          "2017/09/14 00:00 [revised]",
+          "2017/11/06 00:00 [accepted]",
+          "2017/11/21 06:00 [pubmed]",
+          "2017/11/21 06:00 [medline]",
+          "2017/11/21 06:00 [entrez]"
+     ],
+     "AID": [
+          "S1361-8415(17)30159-7 [pii]",
+          "10.1016/j.media.2017.11.004 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Anal. 2018 Jan;43:214-228. doi: 10.1016/j.media.2017.11.004. Epub 2017 Nov 10.",
+     "term": "hippocampus"
+}

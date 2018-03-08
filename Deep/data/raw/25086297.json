@@ -1,0 +1,113 @@
+{
+     "PMID": "25086297",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151223",
+     "LR": "20170220",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "244",
+     "DP": "2015 Apr 15",
+     "TI": "Multifractal analysis of information processing in hippocampal neural ensembles during working memory under Delta(9)-tetrahydrocannabinol administration.",
+     "PG": "136-53",
+     "LID": "10.1016/j.jneumeth.2014.07.013 [doi] S0165-0270(14)00264-7 [pii]",
+     "AB": "BACKGROUND: Multifractal analysis quantifies the time-scale-invariant properties in data by describing the structure of variability over time. By applying this analysis to hippocampal interspike interval sequences recorded during performance of a working memory task, a measure of long-range temporal correlations and multifractal dynamics can reveal single neuron correlates of information processing. NEW METHOD: Wavelet leaders-based multifractal analysis (WLMA) was applied to hippocampal interspike intervals recorded during a working memory task. WLMA can be used to identify neurons likely to exhibit information processing relevant to operation of brain-computer interfaces and nonlinear neuronal models. RESULTS: Neurons involved in memory processing (\"Functional Cell Types\" or FCTs) showed a greater degree of multifractal firing properties than neurons without task-relevant firing characteristics. In addition, previously unidentified FCTs were revealed because multifractal analysis suggested further functional classification. The cannabinoid type-1 receptor (CB1R) partial agonist, tetrahydrocannabinol (THC), selectively reduced multifractal dynamics in FCT neurons compared to non-FCT neurons. COMPARISON WITH EXISTING METHODS: WLMA is an objective tool for quantifying the memory-correlated complexity represented by FCTs that reveals additional information compared to classification of FCTs using traditional z-scores to identify neuronal correlates of behavioral events. CONCLUSION: z-Score-based FCT classification provides limited information about the dynamical range of neuronal activity characterized by WLMA. Increased complexity, as measured with multifractal analysis, may be a marker of functional involvement in memory processing. The level of multifractal attributes can be used to differentially emphasize neural signals to improve computational models and algorithms underlying brain-computer interfaces.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Fetterhoff, Dustin",
+          "Opris, Ioan",
+          "Simpson, Sean L",
+          "Deadwyler, Sam A",
+          "Hampson, Robert E",
+          "Kraft, Robert A"
+     ],
+     "AU": [
+          "Fetterhoff D",
+          "Opris I",
+          "Simpson SL",
+          "Deadwyler SA",
+          "Hampson RE",
+          "Kraft RA"
+     ],
+     "AD": "Neuroscience Program, Wake Forest School of Medicine, Winston-Salem, NC, USA; Dept. of Physiology & Pharmacology, Wake Forest School of Medicine, Winston-Salem, NC, USA. Electronic address: dfetterh@wakehealth.edu. Dept. of Physiology & Pharmacology, Wake Forest School of Medicine, Winston-Salem, NC, USA. Dept. of Biostatistical Sciences, Wake Forest School of Medicine, Winston-Salem, NC, USA. Dept. of Physiology & Pharmacology, Wake Forest School of Medicine, Winston-Salem, NC, USA. Dept. of Physiology & Pharmacology, Wake Forest School of Medicine, Winston-Salem, NC, USA. Dept. of Biomedical Engineering, Wake Forest School of Medicine, Winston-Salem, NC, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "DA006634/DA/NIDA NIH HHS/United States",
+          "K25 EB012236-01A1/EB/NIBIB NIH HHS/United States",
+          "R01 DA007625/DA/NIDA NIH HHS/United States",
+          "P50 DA006634/DA/NIDA NIH HHS/United States",
+          "K25 EB012236/EB/NIBIB NIH HHS/United States",
+          "DA07625/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20140730",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Psychotropic Drugs)",
+          "7J8897W37S (Dronabinol)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/drug effects",
+          "Algorithms",
+          "Analysis of Variance",
+          "Animals",
+          "*Automatic Data Processing",
+          "Computer Simulation",
+          "Dose-Response Relationship, Drug",
+          "Dronabinol/*administration & dosage",
+          "Hippocampus/*cytology",
+          "Memory, Short-Term/*drug effects",
+          "Models, Neurological",
+          "Neurons/cytology/*drug effects",
+          "Nonlinear Dynamics",
+          "Psychotropic Drugs/*administration & dosage",
+          "Rats",
+          "Rats, Long-Evans"
+     ],
+     "PMC": "PMC4312266",
+     "MID": [
+          "NIHMS618035"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Cannabinoid",
+          "Cognition",
+          "Delayed non-match to sample",
+          "Electrophysiology",
+          "Wavelet leaders",
+          "Working memory"
+     ],
+     "EDAT": "2014/08/03 06:00",
+     "MHDA": "2015/12/24 06:00",
+     "CRDT": [
+          "2014/08/03 06:00"
+     ],
+     "PHST": [
+          "2014/01/31 00:00 [received]",
+          "2014/06/06 00:00 [revised]",
+          "2014/07/16 00:00 [accepted]",
+          "2014/08/03 06:00 [entrez]",
+          "2014/08/03 06:00 [pubmed]",
+          "2015/12/24 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(14)00264-7 [pii]",
+          "10.1016/j.jneumeth.2014.07.013 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2015 Apr 15;244:136-53. doi: 10.1016/j.jneumeth.2014.07.013. Epub 2014 Jul 30.",
+     "term": "hippocampus"
+}

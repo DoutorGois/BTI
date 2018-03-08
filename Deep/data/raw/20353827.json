@@ -1,0 +1,85 @@
+{
+     "PMID": "20353827",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110429",
+     "LR": "20161122",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "54 Suppl 1",
+     "DP": "2011 Jan",
+     "TI": "Hippocampal volumetry for lateralization of temporal lobe epilepsy: automated versus manual methods.",
+     "PG": "S218-26",
+     "LID": "10.1016/j.neuroimage.2010.03.066 [doi]",
+     "AB": "The hippocampus has been the primary region of interest in the preoperative imaging investigations of mesial temporal lobe epilepsy (mTLE). Hippocampal imaging and electroencephalographic features may be sufficient in several cases to declare the epileptogenic focus. In particular, hippocampal atrophy, as appreciated on T1-weighted (T1W) magnetic resonance (MR) images, may suggest a mesial temporal sclerosis. Qualitative visual assessment of hippocampal volume, however, is influenced by head position in the magnet and the amount of atrophy in different parts of the hippocampus. An entropy-based segmentation algorithm for subcortical brain structures (LocalInfo) was developed and supplemented by both a new multiple atlas strategy and a free-form deformation step to capture structural variability. Manually segmented T1-weighted magnetic resonance (MR) images of 10 non-epileptic subjects were used as atlases for the proposed automatic segmentation protocol which was applied to a cohort of 46 mTLE patients. The segmentation and lateralization accuracies of the proposed technique were compared with those of two other available programs, HAMMER and FreeSurfer, in addition to the manual method. The Dice coefficient for the proposed method was 11% (p<10(-5)) and 14% (p<10(-4)) higher in comparison with the HAMMER and FreeSurfer, respectively. Mean and Hausdorff distances in the proposed method were also 14% (p<0.2) and 26% (p<10(-3)) lower in comparison with HAMMER and 8% (p<0.8) and 48% (p<10(-5)) lower in comparison with FreeSurfer, respectively. LocalInfo proved to have higher concordance (87%) with the manual segmentation method than either HAMMER (85%) or FreeSurfer (83%). The accuracy of lateralization by volumetry in this study with LocalInfo was 74% compared to 78% with the manual segmentation method. LocalInfo yields a closer approximation to that of manual segmentation and may therefore prove to be more reliable than currently published automatic segmentation algorithms.",
+     "CI": [
+          "Copyright A(c) 2010 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Akhondi-Asl, Alireza",
+          "Jafari-Khouzani, Kourosh",
+          "Elisevich, Kost",
+          "Soltanian-Zadeh, Hamid"
+     ],
+     "AU": [
+          "Akhondi-Asl A",
+          "Jafari-Khouzani K",
+          "Elisevich K",
+          "Soltanian-Zadeh H"
+     ],
+     "AD": "Control and Intelligent Processing Center of Excellence, School of Electrical and Computer Engineering, University of Tehran, Tehran, Iran.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB002450/EB/NIBIB NIH HHS/United States",
+          "R01 EB002450-04/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20100329",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "*Algorithms",
+          "Epilepsy, Temporal Lobe/*pathology",
+          "Female",
+          "Functional Laterality",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Young Adult"
+     ],
+     "PMC": "PMC2978802",
+     "MID": [
+          "NIHMS193340"
+     ],
+     "EDAT": "2010/04/01 06:00",
+     "MHDA": "2011/04/30 06:00",
+     "CRDT": [
+          "2010/04/01 06:00"
+     ],
+     "PHST": [
+          "2009/12/16 00:00 [received]",
+          "2010/03/18 00:00 [revised]",
+          "2010/03/23 00:00 [accepted]",
+          "2010/04/01 06:00 [entrez]",
+          "2010/04/01 06:00 [pubmed]",
+          "2011/04/30 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(10)00353-8 [pii]",
+          "10.1016/j.neuroimage.2010.03.066 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 Jan;54 Suppl 1:S218-26. doi: 10.1016/j.neuroimage.2010.03.066. Epub 2010 Mar 29.",
+     "term": "hippocampus"
+}

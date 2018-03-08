@@ -1,0 +1,110 @@
+{
+     "PMID": "18524629",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081208",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "42",
+     "IP": "1",
+     "DP": "2008 Aug 1",
+     "TI": "Brain correlates of autonomic modulation: combining heart rate variability with fMRI.",
+     "PG": "169-77",
+     "LID": "10.1016/j.neuroimage.2008.04.238 [doi]",
+     "AB": "The central autonomic network (CAN) has been described in animal models but has been difficult to elucidate in humans. Potential confounds include physiological noise artifacts affecting brainstem neuroimaging data, and difficulty in deriving non-invasive continuous assessments of autonomic modulation. We have developed and implemented a new method which relates cardiac-gated fMRI timeseries with continuous-time heart rate variability (HRV) to estimate central autonomic processing. As many autonomic structures of interest are in brain regions strongly affected by cardiogenic pulsatility, we chose to cardiac-gate our fMRI acquisition to increase sensitivity. Cardiac-gating introduces T1-variability, which was corrected by transforming fMRI data to a fixed TR using a previously published method [Guimaraes, A.R., Melcher, J.R., et al., 1998. Imaging subcortical auditory activity in humans. Hum. Brain Mapp. 6(1), 33-41]. The electrocardiogram was analyzed with a novel point process adaptive-filter algorithm for computation of the high-frequency (HF) index, reflecting the time-varying dynamics of efferent cardiovagal modulation. Central command of cardiovagal outflow was inferred by using the resample HF timeseries as a regressor to the fMRI data. A grip task was used to perturb the autonomic nervous system. Our combined HRV-fMRI approach demonstrated HF correlation with fMRI activity in the hypothalamus, cerebellum, parabrachial nucleus/locus ceruleus, periaqueductal gray, amygdala, hippocampus, thalamus, and dorsomedial/dorsolateral prefrontal, posterior insular, and middle temporal cortices. While some regions consistent with central cardiovagal control in animal models gave corroborative evidence for our methodology, other mostly higher cortical or limbic-related brain regions may be unique to humans. Our approach should be optimized and applied to study the human brain correlates of autonomic modulation for various stimuli in both physiological and pathological states.",
+     "FAU": [
+          "Napadow, Vitaly",
+          "Dhond, Rupali",
+          "Conti, Giulia",
+          "Makris, Nikos",
+          "Brown, Emery N",
+          "Barbieri, Riccardo"
+     ],
+     "AU": [
+          "Napadow V",
+          "Dhond R",
+          "Conti G",
+          "Makris N",
+          "Brown EN",
+          "Barbieri R"
+     ],
+     "AD": "MGH/MIT/HMS Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital, Charlestown, MA 02119, USA. vitaly@nmr.mgh.harvard.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB006385/EB/NIBIB NIH HHS/United States",
+          "R01 DA015644/DA/NIDA NIH HHS/United States",
+          "DP1 OD003646/OD/NIH HHS/United States",
+          "P01-AT002048/AT/NCCIH NIH HHS/United States",
+          "K01 AT002166-02/AT/NCCIH NIH HHS/United States",
+          "R01 EB000522-03/EB/NIBIB NIH HHS/United States",
+          "K01 AT002166/AT/NCCIH NIH HHS/United States",
+          "P01 AT002048/AT/NCCIH NIH HHS/United States",
+          "R01 HL084502-01A1/HL/NHLBI NIH HHS/United States",
+          "R01 EB006385-01A1/EB/NIBIB NIH HHS/United States",
+          "R01 HL084502-02/HL/NHLBI NIH HHS/United States",
+          "P41 RR014075/RR/NCRR NIH HHS/United States",
+          "R01-DA015644/DA/NIDA NIH HHS/United States",
+          "R01 HL084502/HL/NHLBI NIH HHS/United States",
+          "K01 AT002166-05/AT/NCCIH NIH HHS/United States",
+          "DP1 OD003646-01/OD/NIH HHS/United States",
+          "R01 EB000522/EB/NIBIB NIH HHS/United States",
+          "P41 RR014075-08/RR/NCRR NIH HHS/United States",
+          "K01 AT002166-04/AT/NCCIH NIH HHS/United States",
+          "K01 AT004481/AT/NCCIH NIH HHS/United States",
+          "R01-HL084502/HL/NHLBI NIH HHS/United States",
+          "P41RR14075/RR/NCRR NIH HHS/United States",
+          "K01 AT002166-03/AT/NCCIH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20080430",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Autonomic Nervous System/*physiology",
+          "Brain/*physiology",
+          "Brain Mapping/methods",
+          "Feedback/physiology",
+          "Female",
+          "Hand Strength/*physiology",
+          "Heart Rate/*physiology",
+          "Humans",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Statistics as Topic",
+          "Young Adult"
+     ],
+     "PMC": "PMC2603289",
+     "MID": [
+          "NIHMS63381"
+     ],
+     "EDAT": "2008/06/06 09:00",
+     "MHDA": "2008/12/17 09:00",
+     "CRDT": [
+          "2008/06/06 09:00"
+     ],
+     "PHST": [
+          "2007/11/25 00:00 [received]",
+          "2008/02/29 00:00 [revised]",
+          "2008/04/14 00:00 [accepted]",
+          "2008/06/06 09:00 [pubmed]",
+          "2008/12/17 09:00 [medline]",
+          "2008/06/06 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(08)00509-0 [pii]",
+          "10.1016/j.neuroimage.2008.04.238 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2008 Aug 1;42(1):169-77. doi: 10.1016/j.neuroimage.2008.04.238. Epub 2008 Apr 30.",
+     "term": "hippocampus"
+}

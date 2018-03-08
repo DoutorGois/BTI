@@ -1,0 +1,115 @@
+{
+     "PMID": "26846925",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171120",
+     "LR": "20171128",
+     "IS": "1936-959X (Electronic) 0195-6108 (Linking)",
+     "VI": "37",
+     "IP": "6",
+     "DP": "2016 Jun",
+     "TI": "Automated Hippocampal Subfield Segmentation at 7T MRI.",
+     "PG": "1050-7",
+     "LID": "10.3174/ajnr.A4659 [doi]",
+     "AB": "BACKGROUND AND PURPOSE: High resolution 7T MRI is increasingly used to investigate hippocampal subfields in vivo, but most studies rely on manual segmentation which is labor intensive. We aimed to evaluate an automated technique to segment hippocampal subfields and the entorhinal cortex at 7T MRI. MATERIALS AND METHODS: The cornu ammonis (CA)1, CA2, CA3, dentate gyrus, subiculum, and entorhinal cortex were manually segmented, covering most of the long axis of the hippocampus on 0.70-mm(3) T2-weighted 7T images of 26 participants (59 +/- 9 years, 46% men). The automated segmentation of hippocampal subfields approach was applied and evaluated by using leave-one-out cross-validation. RESULTS: Comparison of automated segmentations with corresponding manual segmentations yielded a Dice similarity coefficient of >0.75 for CA1, the dentate gyrus, subiculum, and entorhinal cortex and >0.54 for CA2 and CA3. Intraclass correlation coefficients were >0.74 for CA1, the dentate gyrus, and subiculum; and >0.43 for CA2, CA3, and the entorhinal cortex. Restricting the comparison of the entorhinal cortex segmentation to a smaller range along the anteroposterior axis improved both intraclass correlation coefficients (left: 0.71; right: 0.82) and Dice similarity coefficients (left: 0.78; right: 0.77). The accuracy of the automated segmentation versus a manual rater was lower, though only slightly for most subfields, than the intrarater reliability of an expert manual rater, but it was similar to or slightly higher than the accuracy of an expert-versus-manual rater with approximately 170 hours of training for almost all subfields. CONCLUSIONS: This work demonstrates the feasibility of using a computational technique to automatically label hippocampal subfields and the entorhinal cortex at 7T MRI, with a high accuracy for most subfields that is competitive with the labor-intensive manual segmentation. The software and atlas are publicly available: http://www.nitrc.org/projects/ashs/.",
+     "CI": [
+          "(c) 2016 by American Journal of Neuroradiology."
+     ],
+     "FAU": [
+          "Wisse, L E M",
+          "Kuijf, H J",
+          "Honingh, A M",
+          "Wang, H",
+          "Pluta, J B",
+          "Das, S R",
+          "Wolk, D A",
+          "Zwanenburg, J J M",
+          "Yushkevich, P A",
+          "Geerlings, M I"
+     ],
+     "AU": [
+          "Wisse LE",
+          "Kuijf HJ",
+          "Honingh AM",
+          "Wang H",
+          "Pluta JB",
+          "Das SR",
+          "Wolk DA",
+          "Zwanenburg JJ",
+          "Yushkevich PA",
+          "Geerlings MI"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0001-7504-3943",
+          "ORCID: http://orcid.org/0000-0001-6997-9059",
+          "ORCID: http://orcid.org/0000-0003-4047-1520",
+          "ORCID: http://orcid.org/0000-0001-8299-1247",
+          "ORCID: http://orcid.org/0000-0002-8941-6242",
+          "ORCID: http://orcid.org/0000-0003-0530-2887",
+          "ORCID: http://orcid.org/0000-0002-3554-3481",
+          "ORCID: http://orcid.org/0000-0002-4282-5719",
+          "ORCID: http://orcid.org/0000-0001-8543-4016",
+          "ORCID: http://orcid.org/0000-0002-4037-036X"
+     ],
+     "AD": "From the Penn Image Computing and Science Laboratory, Department of Radiology (L.E.M.W., J.B.P., S.R.D., P.A.Y.) Laura.Wisse@uphs.upenn.edu. Image Sciences Institute (H.J.K.). Julius Center for Health Sciences and Primary Care (A.M.H., M.I.G.). Almaden Research Center (H.W.), IBM Research, Almaden, California. From the Penn Image Computing and Science Laboratory, Department of Radiology (L.E.M.W., J.B.P., S.R.D., P.A.Y.) Penn Memory Center, Department of Neurology (J.B.P., D.A.W.), University of Pennsylvania, Philadelphia, Pennsylvania. From the Penn Image Computing and Science Laboratory, Department of Radiology (L.E.M.W., J.B.P., S.R.D., P.A.Y.). Penn Memory Center, Department of Neurology (J.B.P., D.A.W.), University of Pennsylvania, Philadelphia, Pennsylvania. Department of Radiology (J.J.M.Z.), UMC Utrecht, Utrecht, the Netherlands. From the Penn Image Computing and Science Laboratory, Department of Radiology (L.E.M.W., J.B.P., S.R.D., P.A.Y.). Julius Center for Health Sciences and Primary Care (A.M.H., M.I.G.).",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P30 AG010124/AG/NIA NIH HHS/United States",
+          "R01 EB017255/EB/NIBIB NIH HHS/United States",
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "R01 EB014346/EB/NIBIB NIH HHS/United States",
+          "K23 AG028018/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160204",
+     "PL": "United States",
+     "TA": "AJNR Am J Neuroradiol",
+     "JT": "AJNR. American journal of neuroradiology",
+     "JID": "8003708",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Automation",
+          "CA1 Region, Hippocampal/diagnostic imaging",
+          "CA2 Region, Hippocampal/diagnostic imaging",
+          "CA3 Region, Hippocampal/diagnostic imaging",
+          "Dentate Gyrus/diagnostic imaging",
+          "Entorhinal Cortex/diagnostic imaging",
+          "Female",
+          "Hippocampus/*diagnostic imaging",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Observer Variation",
+          "Reproducibility of Results"
+     ],
+     "PMC": "PMC4907820",
+     "MID": [
+          "NIHMS740367"
+     ],
+     "EDAT": "2016/02/06 06:00",
+     "MHDA": "2017/11/29 06:00",
+     "CRDT": [
+          "2016/02/06 06:00"
+     ],
+     "PHST": [
+          "2015/07/31 00:00 [received]",
+          "2015/11/19 00:00 [accepted]",
+          "2016/02/06 06:00 [entrez]",
+          "2016/02/06 06:00 [pubmed]",
+          "2017/11/29 06:00 [medline]"
+     ],
+     "AID": [
+          "ajnr.A4659 [pii]",
+          "10.3174/ajnr.A4659 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "AJNR Am J Neuroradiol. 2016 Jun;37(6):1050-7. doi: 10.3174/ajnr.A4659. Epub 2016 Feb 4.",
+     "term": "hippocampus"
+}

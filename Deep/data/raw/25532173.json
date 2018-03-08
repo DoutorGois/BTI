@@ -1,0 +1,72 @@
+{
+     "PMID": "25532173",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160328",
+     "LR": "20150814",
+     "IS": "1558-254X (Electronic) 0278-0062 (Linking)",
+     "VI": "34",
+     "IP": "6",
+     "DP": "2015 Jun",
+     "TI": "Hippocampal Shape Modeling Based on a Progressive Template Surface Deformation and its Verification.",
+     "PG": "1242-61",
+     "LID": "10.1109/TMI.2014.2382581 [doi]",
+     "AB": "Accurately recovering the hippocampal shapes against rough and noisy segmentations is as challenging as achieving good anatomical correspondence between the individual shapes. To address these issues, we propose a mesh-to-volume registration approach, characterized by a progressive model deformation. Our model implements flexible weighting scheme for model rigidity under a multi-level neighborhood for vertex connectivity. This method induces a large-to-small scale deformation of a template surface to build the pairwise correspondence by minimizing geometric distortion while robustly restoring the individuals' shape characteristics. We evaluated the proposed method's (1) accuracy and robustness in smooth surface reconstruction, (2) sensitivity in detecting significant shape differences between healthy control and disease groups (mild cognitive impairment and Alzheimer's disease), (3) robustness in constructing the anatomical correspondence between individual shape models, and (4) applicability in identifying subtle shape changes in relation to cognitive abilities in a healthy population. We compared the performance of the proposed method with other well-known methods--SPHARM-PDM, ShapeWorks and LDDMM volume registration with template injection--using various metrics of shape similarity, surface roughness, volume, and shape deformity. The experimental results showed that the proposed method generated smooth surfaces with less volume differences and better shape similarity to input volumes than others. The statistical analyses with clinical variables also showed that it was sensitive in detecting subtle shape changes of hippocampus.",
+     "FAU": [
+          "Kim, Jaeil",
+          "Valdes-Hernandez, Maria Del C",
+          "Royle, Natalie A",
+          "Park, Jinah"
+     ],
+     "AU": [
+          "Kim J",
+          "Valdes-Hernandez Mdel C",
+          "Royle NA",
+          "Park J"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20141218",
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aging",
+          "Algorithms",
+          "Female",
+          "Hippocampus/*anatomy & histology/physiology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male"
+     ],
+     "EDAT": "2014/12/23 06:00",
+     "MHDA": "2016/03/29 06:00",
+     "CRDT": [
+          "2014/12/23 06:00"
+     ],
+     "PHST": [
+          "2014/12/23 06:00 [entrez]",
+          "2014/12/23 06:00 [pubmed]",
+          "2016/03/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TMI.2014.2382581 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2015 Jun;34(6):1242-61. doi: 10.1109/TMI.2014.2382581. Epub 2014 Dec 18.",
+     "term": "hippocampus"
+}

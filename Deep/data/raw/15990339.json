@@ -1,0 +1,116 @@
+{
+     "PMID": "15990339",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20051109",
+     "LR": "20161122",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "27",
+     "IP": "4",
+     "DP": "2005 Oct 1",
+     "TI": "Atlas-based hippocampus segmentation in Alzheimer's disease and mild cognitive impairment.",
+     "PG": "979-90",
+     "AB": "This study assesses the performance of public-domain automated methodologies for MRI-based segmentation of the hippocampus in elderly subjects with Alzheimer's disease (AD) and mild cognitive impairment (MCI). Structural MR images of 54 age- and gender-matched healthy elderly individuals, subjects with probable AD, and subjects with MCI were collected at the University of Pittsburgh Alzheimer's Disease Research Center. Hippocampi in subject images were automatically segmented by using AIR, SPM, FLIRT, and the fully deformable method of Chen to align the images to the Harvard atlas, MNI atlas, and randomly selected, manually labeled subject images (\"cohort atlases\"). Mixed-effects statistical models analyzed the effects of side of the brain, disease state, registration method, choice of atlas, and manual tracing protocol on the spatial overlap between automated segmentations and expert manual segmentations. Registration methods that produced higher degrees of geometric deformation produced automated segmentations with higher agreement with manual segmentations. Side of the brain, presence of AD, choice of reference image, and manual tracing protocol were also significant factors contributing to automated segmentation performance. Fully automated techniques can be competitive with human raters on this difficult segmentation task, but a rigorous statistical analysis shows that a variety of methodological factors must be carefully considered to insure that automated methods perform well in practice. The use of fully deformable registration methods, cohort atlases, and user-defined manual tracings are recommended for highest performance in fully automated hippocampus segmentation.",
+     "FAU": [
+          "Carmichael, Owen T",
+          "Aizenstein, Howard A",
+          "Davis, Simon W",
+          "Becker, James T",
+          "Thompson, Paul M",
+          "Meltzer, Carolyn Cidis",
+          "Liu, Yanxi"
+     ],
+     "AU": [
+          "Carmichael OT",
+          "Aizenstein HA",
+          "Davis SW",
+          "Becker JT",
+          "Thompson PM",
+          "Meltzer CC",
+          "Liu Y"
+     ],
+     "AD": "Radiology Department, University of Pittsburgh, B-938 PUH, 200 Lothrop Street, Pittsburgh, PA 15213, USA. otc@andrew.cmu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "R21 EB001561/EB/NIBIB NIH HHS/United States",
+          "T32 NS007391/NS/NINDS NIH HHS/United States",
+          "P41 RR013642-080062/RR/NCRR NIH HHS/United States",
+          "P41 RR013642-070061/RR/NCRR NIH HHS/United States",
+          "K07 MH001410-05/MH/NIMH NIH HHS/United States",
+          "P50 AG005133-249006/AG/NIA NIH HHS/United States",
+          "AG016570/AG/NIA NIH HHS/United States",
+          "R21 RR019771/RR/NCRR NIH HHS/United States",
+          "K07 MH001410/MH/NIMH NIH HHS/United States",
+          "MH01077/MH/NIMH NIH HHS/United States",
+          "K07 MH001410-04/MH/NIMH NIH HHS/United States",
+          "K24 MH064625/MH/NIMH NIH HHS/United States",
+          "K01 AG030514-01A1/AG/NIA NIH HHS/United States",
+          "P50 AG005133-229006/AG/NIA NIH HHS/United States",
+          "RR019771/RR/NCRR NIH HHS/United States",
+          "P50 AG016570/AG/NIA NIH HHS/United States",
+          "AG05133/AG/NIA NIH HHS/United States",
+          "P50 AG005133-239006/AG/NIA NIH HHS/United States",
+          "P50 AG005133/AG/NIA NIH HHS/United States",
+          "P41 RR013642/RR/NCRR NIH HHS/United States",
+          "U54 RR021813/RR/NCRR NIH HHS/United States",
+          "P50 AG005133-259006/AG/NIA NIH HHS/United States",
+          "RR021813/RR/NCRR NIH HHS/United States",
+          "EB001561/EB/NIBIB NIH HHS/United States",
+          "P41 RR013642-070062/RR/NCRR NIH HHS/United States",
+          "DA01590001/DA/NIDA NIH HHS/United States",
+          "MH064625/MH/NIMH NIH HHS/United States",
+          "NS07391/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Algorithms",
+          "Alzheimer Disease/*pathology/*psychology",
+          "Atrophy",
+          "Cognition Disorders/*pathology/*psychology",
+          "Female",
+          "Functional Laterality/physiology",
+          "Hippocampus/*pathology",
+          "Humans",
+          "*Image Processing, Computer-Assisted",
+          "Male",
+          "Models, Statistical",
+          "Software"
+     ],
+     "PMC": "PMC2862692",
+     "MID": [
+          "NIHMS48436"
+     ],
+     "EDAT": "2005/07/02 09:00",
+     "MHDA": "2005/11/10 09:00",
+     "CRDT": [
+          "2005/07/02 09:00"
+     ],
+     "PHST": [
+          "2005/01/26 00:00 [received]",
+          "2005/03/13 00:00 [revised]",
+          "2005/05/03 00:00 [accepted]",
+          "2005/07/02 09:00 [pubmed]",
+          "2005/11/10 09:00 [medline]",
+          "2005/07/02 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(05)00316-2 [pii]",
+          "10.1016/j.neuroimage.2005.05.005 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2005 Oct 1;27(4):979-90. doi: 10.1016/j.neuroimage.2005.05.005.",
+     "term": "hippocampus"
+}

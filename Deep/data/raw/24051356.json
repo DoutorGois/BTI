@@ -1,0 +1,124 @@
+{
+     "PMID": "24051356",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141218",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "84",
+     "DP": "2014 Jan 1",
+     "TI": "Evaluation of group-specific, whole-brain atlas generation using Volume-based Template Estimation (VTE): application to normal and Alzheimer's populations.",
+     "PG": "406-19",
+     "LID": "10.1016/j.neuroimage.2013.09.011 [doi] S1053-8119(13)00947-6 [pii]",
+     "AB": "MRI-based human brain atlases, which serve as a common coordinate system for image analysis, play an increasingly important role in our understanding of brain anatomy, image registration, and segmentation. Study-specific brain atlases are often obtained from one of the subjects in a study or by averaging the images of all participants after linear or non-linear registration. The latter approach has the advantage of providing an unbiased anatomical representation of the study population. But, the image contrast is influenced by both inherent MR contrasts and residual anatomical variability after the registration; in addition, the topology of the brain structures cannot reliably be preserved. In this study, we demonstrated a population-based template-creation approach, which is based on Bayesian template estimation on a diffeomorphic random orbit model. This approach attempts to define a population-representative template without the cross-subject intensity averaging; thus, the topology of the brain structures is preserved. It has been tested for segmented brain structures, such as the hippocampus, but its validity on whole-brain MR images has not been examined. This paper validates and evaluates this atlas generation approach, i.e., Volume-based Template Estimation (VTE). Using datasets from normal subjects and Alzheimer's patients, quantitative measurements of sub-cortical structural volumes, metric distance, displacement vector, and Jacobian were examined to validate the group-averaged shape features of the VTE. In addition to the volume-based quantitative analysis, the preserved brain topology of the VTE allows surface-based analysis within the same atlas framework. This property was demonstrated by analyzing the registration accuracy of the pre- and post-central gyri. The proposed method achieved registration accuracy within 1mm for these population-preserved cortical structures in an elderly population.",
+     "CI": [
+          "Published by Elsevier Inc."
+     ],
+     "FAU": [
+          "Zhang, Yajing",
+          "Zhang, Jiangyang",
+          "Hsu, Johnny",
+          "Oishi, Kenichi",
+          "Faria, Andreia V",
+          "Albert, Marilyn",
+          "Miller, Michael I",
+          "Mori, Susumu"
+     ],
+     "AU": [
+          "Zhang Y",
+          "Zhang J",
+          "Hsu J",
+          "Oishi K",
+          "Faria AV",
+          "Albert M",
+          "Miller MI",
+          "Mori S"
+     ],
+     "AD": "Department of Biomedical Engineering, Johns Hopkins University School of Medicine, Baltimore, MD, USA; The Russell H. Morgan Department of Radiology and Radiological Science, Johns Hopkins University School of Medicine, Baltimore, MD, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01HD065955/HD/NICHD NIH HHS/United States",
+          "P50 AG005146/AG/NIA NIH HHS/United States",
+          "R01 AG020012/AG/NIA NIH HHS/United States",
+          "R01EB000975/EB/NIBIB NIH HHS/United States",
+          "R21AG033774/AG/NIA NIH HHS/United States",
+          "R01 NS084957/NS/NINDS NIH HHS/United States",
+          "R01 NS058299/NS/NINDS NIH HHS/United States",
+          "R01AG020012/AG/NIA NIH HHS/United States",
+          "R01 EB000975/EB/NIBIB NIH HHS/United States",
+          "R21 AG033774/AG/NIA NIH HHS/United States",
+          "P41EB015909/EB/NIBIB NIH HHS/United States",
+          "R01 HD065955/HD/NICHD NIH HHS/United States",
+          "P41 EB015909/EB/NIBIB NIH HHS/United States",
+          "R01 EB017638/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20130916",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Bayes Theorem",
+          "Brain/*pathology",
+          "Computer Simulation",
+          "Diagnosis, Differential",
+          "Female",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Male",
+          "*Models, Anatomic",
+          "*Models, Neurological",
+          "Organ Size",
+          "Pattern Recognition, Automated/*methods",
+          "Reference Values",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "PMC": "PMC3860098",
+     "MID": [
+          "NIHMS525574"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "MRI",
+          "Study-specific atlas",
+          "Volume-based Template Estimation (VTE)",
+          "Volume-surface analysis"
+     ],
+     "EDAT": "2013/09/21 06:00",
+     "MHDA": "2014/12/19 06:00",
+     "CRDT": [
+          "2013/09/21 06:00"
+     ],
+     "PHST": [
+          "2012/11/19 00:00 [received]",
+          "2013/08/03 00:00 [revised]",
+          "2013/09/05 00:00 [accepted]",
+          "2013/09/21 06:00 [entrez]",
+          "2013/09/21 06:00 [pubmed]",
+          "2014/12/19 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(13)00947-6 [pii]",
+          "10.1016/j.neuroimage.2013.09.011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2014 Jan 1;84:406-19. doi: 10.1016/j.neuroimage.2013.09.011. Epub 2013 Sep 16.",
+     "term": "hippocampus"
+}

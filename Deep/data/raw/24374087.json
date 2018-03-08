@@ -1,0 +1,104 @@
+{
+     "PMID": "24374087",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140605",
+     "LR": "20161019",
+     "IS": "1872-8952 (Electronic) 1388-2457 (Linking)",
+     "VI": "125",
+     "IP": "5",
+     "DP": "2014 May",
+     "TI": "Seizure prediction in hippocampal and neocortical epilepsy using a model-based approach.",
+     "PG": "930-40",
+     "LID": "10.1016/j.clinph.2013.10.051 [doi] S1388-2457(13)01194-2 [pii]",
+     "AB": "OBJECTIVES: The aim of this study is to develop a model based seizure prediction method. METHODS: A neural mass model was used to simulate the macro-scale dynamics of intracranial EEG data. The model was composed of pyramidal cells, excitatory and inhibitory interneurons described through state equations. Twelve model's parameters were estimated by fitting the model to the power spectral density of intracranial EEG signals and then integrated based on information obtained by investigating changes in the parameters prior to seizures. Twenty-one patients with medically intractable hippocampal and neocortical focal epilepsy were studied. RESULTS: Tuned to obtain maximum sensitivity, an average sensitivity of 87.07% and 92.6% with an average false prediction rate of 0.2 and 0.15/h were achieved using maximum seizure occurrence periods of 30 and 50 min and a minimum seizure prediction horizon of 10s, respectively. Under maximum specificity conditions, the system sensitivity decreased to 82.9% and 90.05% and the false prediction rates were reduced to 0.16 and 0.12/h using maximum seizure occurrence periods of 30 and 50 min, respectively. CONCLUSIONS: The spatio-temporal changes in the parameters demonstrated patient-specific preictal signatures that could be used for seizure prediction. SIGNIFICANCE: The present findings suggest that the model-based approach may aid prediction of seizures.",
+     "CI": [
+          "Copyright (c) 2013 International Federation of Clinical Neurophysiology.",
+          "Published by Elsevier Ireland Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Aarabi, Ardalan",
+          "He, Bin"
+     ],
+     "AU": [
+          "Aarabi A",
+          "He B"
+     ],
+     "AD": "University of Minnesota, Minneapolis, MN 55455, USA; University of Picardie-Jules Verne, France. University of Minnesota, Minneapolis, MN 55455, USA. Electronic address: binhe@umn.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P30 EY011374/EY/NEI NIH HHS/United States",
+          "R01EB007920/EB/NIBIB NIH HHS/United States",
+          "R01EB006433/EB/NIBIB NIH HHS/United States",
+          "R01 EB006433/EB/NIBIB NIH HHS/United States",
+          "R01 EB007920/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20131128",
+     "PL": "Netherlands",
+     "TA": "Clin Neurophysiol",
+     "JT": "Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology",
+     "JID": "100883319",
+     "SB": "IM",
+     "CIN": [
+          "Clin Neurophysiol. 2014 May;125(5):867-8. PMID: 24326320"
+     ],
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Child",
+          "Electroencephalography/*methods",
+          "Epilepsies, Partial/complications/diagnosis/*physiopathology",
+          "Female",
+          "Hippocampus/*physiopathology",
+          "Humans",
+          "Male",
+          "*Models, Neurological",
+          "Neocortex/*physiopathology",
+          "Pyramidal Cells/physiopathology",
+          "Seizures/*diagnosis/etiology/*physiopathology",
+          "Sensitivity and Specificity",
+          "Young Adult"
+     ],
+     "PMC": "PMC3994166",
+     "MID": [
+          "NIHMS552816"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Excitatory and inhibitory interaction",
+          "Focal epilepsy",
+          "Intracranial EEG",
+          "Neural mass model",
+          "Seizure prediction"
+     ],
+     "EDAT": "2014/01/01 06:00",
+     "MHDA": "2014/06/06 06:00",
+     "CRDT": [
+          "2013/12/31 06:00"
+     ],
+     "PHST": [
+          "2012/09/29 00:00 [received]",
+          "2013/10/18 00:00 [revised]",
+          "2013/10/20 00:00 [accepted]",
+          "2013/12/31 06:00 [entrez]",
+          "2014/01/01 06:00 [pubmed]",
+          "2014/06/06 06:00 [medline]"
+     ],
+     "AID": [
+          "S1388-2457(13)01194-2 [pii]",
+          "10.1016/j.clinph.2013.10.051 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Clin Neurophysiol. 2014 May;125(5):930-40. doi: 10.1016/j.clinph.2013.10.051. Epub 2013 Nov 28.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,87 @@
+{
+     "PMID": "21451815",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110907",
+     "LR": "20161019",
+     "IS": "1742-2051 (Electronic) 1742-2051 (Linking)",
+     "VI": "7",
+     "IP": "6",
+     "DP": "2011 Jun",
+     "TI": "Modeling cholesterol metabolism by gene expression profiling in the hippocampus.",
+     "PG": "1891-901",
+     "LID": "10.1039/c0mb00282h [doi]",
+     "AB": "An important part of the challenge of building models of biochemical reactions is determining reaction rate constants that transform substrates into products. We present a method to derive enzymatic kinetic values from mRNA expression levels for modeling biological networks without requiring further tuning. The core metabolic reactions of cholesterol in the brain, particularly in the hippocampus, were simulated. To build the model the baseline mRNA expression levels of genes involved in cholesterol metabolism were obtained from the Allen Mouse Brain Atlas. The model is capable of replicating the trends of relative cholesterol levels in Alzheimer's and Huntington's diseases; and reliably simulated SLOS, desmosterolosis, and Dhcr14/Lbr knockout studies. A sensitivity analysis correctly uncovers the Hmgcr, Idi2 and Fdft1 sites that regulate cholesterol homeostasis. Overall, our model and methodology can be used to pinpoint key reactions, which, upon manipulation, may predict altered cholesterol levels and reveal insights into potential drug therapy targets under diseased conditions.",
+     "FAU": [
+          "Valdez, Christopher M",
+          "Phelix, Clyde F",
+          "Smith, Mark A",
+          "Perry, George",
+          "Santamaria, Fidel"
+     ],
+     "AU": [
+          "Valdez CM",
+          "Phelix CF",
+          "Smith MA",
+          "Perry G",
+          "Santamaria F"
+     ],
+     "AD": "Biology Department, The University of Texas at San Antonio, One UTSA circle, San Antonio, TX 78249, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G12 MD007591/MD/NIMHD NIH HHS/United States",
+          "T34 GM007717/GM/NIGMS NIH HHS/United States",
+          "T34GM007717/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20110330",
+     "PL": "England",
+     "TA": "Mol Biosyst",
+     "JT": "Molecular bioSystems",
+     "JID": "101251620",
+     "RN": [
+          "97C5T2UQ7J (Cholesterol)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Alzheimer Disease/genetics/metabolism",
+          "Animals",
+          "Cholesterol/biosynthesis/genetics/*metabolism",
+          "Computer Simulation",
+          "*Gene Expression Profiling",
+          "Hippocampus/*metabolism",
+          "Humans",
+          "Huntington Disease/genetics/metabolism",
+          "Mice",
+          "Models, Biological",
+          "Transcription, Genetic"
+     ],
+     "PMC": "PMC4105148",
+     "MID": [
+          "NIHMS592662"
+     ],
+     "EDAT": "2011/04/01 06:00",
+     "MHDA": "2011/09/08 06:00",
+     "CRDT": [
+          "2011/04/01 06:00"
+     ],
+     "PHST": [
+          "2011/04/01 06:00 [entrez]",
+          "2011/04/01 06:00 [pubmed]",
+          "2011/09/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1039/c0mb00282h [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Mol Biosyst. 2011 Jun;7(6):1891-901. doi: 10.1039/c0mb00282h. Epub 2011 Mar 30.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,83 @@
+{
+     "PMID": "19021259",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090227",
+     "LR": "20161122",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "18",
+     "IP": "12",
+     "DP": "2008",
+     "TI": "Conversion of a phase- to a rate-coded position signal by a three-stage model of theta cells, grid cells, and place cells.",
+     "PG": "1239-55",
+     "LID": "10.1002/hipo.20509 [doi]",
+     "AB": "As a rat navigates through a familiar environment, its position in space is encoded by firing rates of place cells and grid cells. Oscillatory interference models propose that this positional firing rate code is derived from a phase code, which stores the rat's position as a pattern of phase angles between velocity-modulated theta oscillations. Here we describe a three-stage network model, which formalizes the computational steps that are necessary for converting phase-coded position signals (represented by theta oscillations) into rate-coded position signals (represented by grid cells and place cells). The first stage of the model proposes that the phase-coded position signal is stored and updated by a bank of ring attractors, like those that have previously been hypothesized to perform angular path integration in the head-direction cell system. We show analytically how ring attractors can serve as central pattern generators for producing velocity-modulated theta oscillations, and we propose that such ring attractors may reside in subcortical areas where hippocampal theta rhythm is known to originate. In the second stage of the model, grid fields are formed by oscillatory interference between theta cells residing in different (but not the same) ring attractors. The model's third stage assumes that hippocampal neurons generate Gaussian place fields by computing weighted sums of inputs from a basis set of many grid fields. Here we show that under this assumption, the spatial frequency spectrum of the Gaussian place field defines the vertex spacings of grid cells that must provide input to the place cell. This analysis generates a testable prediction that grid cells with large vertex spacings should send projections to the entire hippocampus, whereas grid cells with smaller vertex spacings may project more selectively to the dorsal hippocampus, where place fields are smallest.",
+     "CI": [
+          "Copyright 2008 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Blair, Hugh T",
+          "Gupta, Kishan",
+          "Zhang, Kechen"
+     ],
+     "AU": [
+          "Blair HT",
+          "Gupta K",
+          "Zhang K"
+     ],
+     "AD": "Psychology Department, University of California, Los Angeles, California 90095-1563, USA. blair@psych.ucla.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH079511/MH/NIMH NIH HHS/United States",
+          "R01 MH079511-02/MH/NIMH NIH HHS/United States",
+          "R01MH079511/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Biological Clocks/*physiology",
+          "Computer Simulation",
+          "Entorhinal Cortex/cytology/*physiology",
+          "Hippocampus/cytology/physiology",
+          "Nerve Net/cytology/*physiology",
+          "Neural Pathways/cytology/physiology",
+          "Neurons/*physiology",
+          "Normal Distribution",
+          "Rats",
+          "Space Perception/physiology",
+          "Synaptic Transmission/physiology",
+          "*Theta Rhythm"
+     ],
+     "PMC": "PMC2814603",
+     "MID": [
+          "NIHMS77821"
+     ],
+     "EDAT": "2008/11/21 09:00",
+     "MHDA": "2009/02/28 09:00",
+     "CRDT": [
+          "2008/11/21 09:00"
+     ],
+     "PHST": [
+          "2008/11/21 09:00 [pubmed]",
+          "2009/02/28 09:00 [medline]",
+          "2008/11/21 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.20509 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2008;18(12):1239-55. doi: 10.1002/hipo.20509.",
+     "term": "place cells"
+}

@@ -1,0 +1,86 @@
+{
+     "PMID": "22519468",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120919",
+     "LR": "20161019",
+     "IS": "1520-6882 (Electronic) 0003-2700 (Linking)",
+     "VI": "84",
+     "IP": "10",
+     "DP": "2012 May 15",
+     "TI": "IsoQuant: a software tool for stable isotope labeling by amino acids in cell culture-based mass spectrometry quantitation.",
+     "PG": "4535-43",
+     "LID": "10.1021/ac300510t [doi]",
+     "AB": "Accurate protein identification and quantitation are critical when interpreting the biological relevance of large-scale shotgun proteomics data sets. Although significant technical advances in peptide and protein identification have been made, accurate quantitation of high-throughput data sets remains a key challenge in mass spectrometry data analysis and is a labor intensive process for many proteomics laboratories. Here, we report a new SILAC-based proteomics quantitation software tool, named IsoQuant, which is used to process high mass accuracy mass spectrometry data. IsoQuant offers a convenient quantitation framework to calculate peptide/protein relative abundance ratios. At the same time, it also includes a visualization platform that permits users to validate the quality of SILAC peptide and protein ratios. The program is written in the C# programming language under the Microsoft .NET framework version 4.0 and has been tested to be compatible with both 32-bit and 64-bit Windows 7. It is freely available to noncommercial users at http://www.proteomeumb.org/MZw.html .",
+     "FAU": [
+          "Liao, Zhongping",
+          "Wan, Yunhu",
+          "Thomas, Stefani N",
+          "Yang, Austin J"
+     ],
+     "AU": [
+          "Liao Z",
+          "Wan Y",
+          "Thomas SN",
+          "Yang AJ"
+     ],
+     "AD": "Greenebaum Cancer Center, University of Maryland, Baltimore, Maryland 21201, United States.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P30 CA134274/CA/NCI NIH HHS/United States",
+          "R01 AG025323/AG/NIA NIH HHS/United States",
+          "P30CA134274/CA/NCI NIH HHS/United States",
+          "R01AG25323/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120503",
+     "PL": "United States",
+     "TA": "Anal Chem",
+     "JT": "Analytical chemistry",
+     "JID": "0370536",
+     "RN": [
+          "0 (Amino Acids)",
+          "0 (Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Amino Acids/*chemistry",
+          "Animals",
+          "Cells, Cultured",
+          "Chromatography, High Pressure Liquid",
+          "Databases, Protein",
+          "Hippocampus/metabolism",
+          "Isotope Labeling",
+          "Proteins/*analysis",
+          "Proteomics",
+          "Rats",
+          "*Software",
+          "*Tandem Mass Spectrometry"
+     ],
+     "PMC": "PMC3583527",
+     "MID": [
+          "NIHMS375176"
+     ],
+     "EDAT": "2012/04/24 06:00",
+     "MHDA": "2012/09/20 06:00",
+     "CRDT": [
+          "2012/04/24 06:00"
+     ],
+     "PHST": [
+          "2012/04/24 06:00 [entrez]",
+          "2012/04/24 06:00 [pubmed]",
+          "2012/09/20 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1021/ac300510t [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Anal Chem. 2012 May 15;84(10):4535-43. doi: 10.1021/ac300510t. Epub 2012 May 3.",
+     "term": "hippocampus"
+}

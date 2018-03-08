@@ -1,0 +1,101 @@
+{
+     "PMID": "17570683",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20071012",
+     "LR": "20170220",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "37",
+     "IP": "1",
+     "DP": "2007 Aug 1",
+     "TI": "A novel tensor distribution model for the diffusion-weighted MR signal.",
+     "PG": "164-76",
+     "AB": "Diffusion MRI is a non-invasive imaging technique that allows the measurement of water molecule diffusion through tissue in vivo. The directional features of water diffusion allow one to infer the connectivity patterns prevalent in tissue and possibly track changes in this connectivity over time for various clinical applications. In this paper, we present a novel statistical model for diffusion-weighted MR signal attenuation which postulates that the water molecule diffusion can be characterized by a continuous mixture of diffusion tensors. An interesting observation is that this continuous mixture and the MR signal attenuation are related through the Laplace transform of a probability distribution over symmetric positive definite matrices. We then show that when the mixing distribution is a Wishart distribution, the resulting closed form of the Laplace transform leads to a Rigaut-type asymptotic fractal expression, which has been phenomenologically used in the past to explain the MR signal decay but never with a rigorous mathematical justification until now. Our model not only includes the traditional diffusion tensor model as a special instance in the limiting case, but also can be adjusted to describe complex tissue structure involving multiple fiber populations. Using this new model in conjunction with a spherical deconvolution approach, we present an efficient scheme for estimating the water molecule displacement probability functions on a voxel-by-voxel basis. Experimental results on both simulations and real data are presented to demonstrate the robustness and accuracy of the proposed algorithms.",
+     "FAU": [
+          "Jian, Bing",
+          "Vemuri, Baba C",
+          "Ozarslan, Evren",
+          "Carney, Paul R",
+          "Mareci, Thomas H"
+     ],
+     "AU": [
+          "Jian B",
+          "Vemuri BC",
+          "Ozarslan E",
+          "Carney PR",
+          "Mareci TH"
+     ],
+     "AD": "Department of Computer and Information Science and Engineering, University of Florida, P.O. Box 116120, Gainesville, FL 32611, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "EB004752/EB/NIBIB NIH HHS/United States",
+          "R01 EB007082-03/EB/NIBIB NIH HHS/United States",
+          "R01 EB007082/EB/NIBIB NIH HHS/United States",
+          "R01 EB004752/EB/NIBIB NIH HHS/United States",
+          "Intramural NIH HHS/United States",
+          "R01 NS042075/NS/NINDS NIH HHS/United States",
+          "R01 NS042075-04/NS/NINDS NIH HHS/United States",
+          "NS42075/NS/NINDS NIH HHS/United States",
+          "EB007082/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, N.I.H., Intramural"
+     ],
+     "DEP": "20070503",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "EIN": [
+          "Neuroimage. 2008 Aug 15;42(2):1045-6"
+     ],
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Anisotropy",
+          "Artifacts",
+          "Brain/pathology/*physiopathology",
+          "Brain Mapping",
+          "Computer Simulation",
+          "Diffusion Magnetic Resonance Imaging/*methods",
+          "Entorhinal Cortex/pathology/physiopathology",
+          "Epilepsy/pathology/physiopathology",
+          "Fractals",
+          "Hippocampus/pathology/physiopathology",
+          "Image Processing, Computer-Assisted/*methods",
+          "*Models, Statistical",
+          "Nerve Fibers/pathology/physiology",
+          "Normal Distribution",
+          "Rats",
+          "Software"
+     ],
+     "PMC": "PMC2576290",
+     "MID": [
+          "NIHMS73484"
+     ],
+     "EDAT": "2007/06/16 09:00",
+     "MHDA": "2007/10/13 09:00",
+     "CRDT": [
+          "2007/06/16 09:00"
+     ],
+     "PHST": [
+          "2006/10/03 00:00 [received]",
+          "2007/03/21 00:00 [revised]",
+          "2007/03/26 00:00 [accepted]",
+          "2007/06/16 09:00 [pubmed]",
+          "2007/10/13 09:00 [medline]",
+          "2007/06/16 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(07)00273-X [pii]",
+          "10.1016/j.neuroimage.2007.03.074 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2007 Aug 1;37(1):164-76. doi: 10.1016/j.neuroimage.2007.03.074. Epub 2007 May 3.",
+     "term": "hippocampus"
+}

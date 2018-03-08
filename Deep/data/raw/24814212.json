@@ -1,0 +1,101 @@
+{
+     "PMID": "24814212",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150512",
+     "LR": "20140818",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "100",
+     "DP": "2014 Oct 15",
+     "TI": "Structural connectivity differences in left and right temporal lobe epilepsy.",
+     "PG": "135-44",
+     "LID": "10.1016/j.neuroimage.2014.04.071 [doi] S1053-8119(14)00351-6 [pii]",
+     "AB": "Our knowledge on temporal lobe epilepsy (TLE) with hippocampal sclerosis has evolved towards the view that this syndrome affects widespread brain networks. Diffusion weighted imaging studies have shown alterations of large white matter tracts, most notably in left temporal lobe epilepsy, but the degree of altered connections between cortical and subcortical structures remains to be clarified. We performed a whole brain connectome analysis in 39 patients with refractory temporal lobe epilepsy and unilateral hippocampal sclerosis (20 right and 19 left) and 28 healthy subjects. We performed whole-brain probabilistic fiber tracking using MRtrix and segmented 164 cortical and subcortical structures with Freesurfer. Individual structural connectivity graphs based on these 164 nodes were computed by mapping the mean fractional anisotropy (FA) onto each tract. Connectomes were then compared using two complementary methods: permutation tests for pair-wise connections and Network Based Statistics to probe for differences in large network components. Comparison of pair-wise connections revealed a marked reduction of connectivity between left TLE patients and controls, which was strongly lateralized to the ipsilateral temporal lobe. Specifically, infero-lateral cortex and temporal pole were strongly affected, and so was the perisylvian cortex. In contrast, for right TLE, focal connectivity loss was much less pronounced and restricted to bilateral limbic structures and right temporal cortex. Analysis of large network components revealed furthermore that both left and right hippocampal sclerosis affected diffuse global and interhemispheric connectivity. Thus, left temporal lobe epilepsy was associated with a much more pronounced pattern of reduced FA, that included major landmarks of perisylvian language circuitry. These distinct patterns of connectivity associated with unilateral hippocampal sclerosis show how a focal pathology influences global network architecture, and how left or right-sided lesions may have differential and specific impacts on cerebral connectivity.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Besson, Pierre",
+          "Dinkelacker, Vera",
+          "Valabregue, Romain",
+          "Thivard, Lionel",
+          "Leclerc, Xavier",
+          "Baulac, Michel",
+          "Sammler, Daniela",
+          "Colliot, Olivier",
+          "Lehericy, Stephane",
+          "Samson, Severine",
+          "Dupont, Sophie"
+     ],
+     "AU": [
+          "Besson P",
+          "Dinkelacker V",
+          "Valabregue R",
+          "Thivard L",
+          "Leclerc X",
+          "Baulac M",
+          "Sammler D",
+          "Colliot O",
+          "Lehericy S",
+          "Samson S",
+          "Dupont S"
+     ],
+     "AD": "Department of clinical neurophysiology EA 1048, Lille University Hospital, France; In-vivo Imaging Platform, IMPRT, Lille University Hospital, France. Epilepsy Unit, Hopital de la Pitie-Salpetriere, APHP, Paris, France; Centre de Neuroimagerie de Recherche (CENIR), Paris, France; Inserm U 1127, CNRS UMR 7225, Sorbonne Universites, UPMC Univ Paris 06 UMR S 1127, Institut du Cerveau et de la Moelle epiniere, ICM, F-75013, Paris, France. Electronic address: v.dinkelacker@gmail.com. Centre de Neuroimagerie de Recherche (CENIR), Paris, France; Inserm U 1127, CNRS UMR 7225, Sorbonne Universites, UPMC Univ Paris 06 UMR S 1127, Institut du Cerveau et de la Moelle epiniere, ICM, F-75013, Paris, France. Inserm U 1127, CNRS UMR 7225, Sorbonne Universites, UPMC Univ Paris 06 UMR S 1127, Institut du Cerveau et de la Moelle epiniere, ICM, F-75013, Paris, France. In-vivo Imaging Platform, IMPRT, Lille University Hospital, France. Epilepsy Unit, Hopital de la Pitie-Salpetriere, APHP, Paris, France; Inserm U 1127, CNRS UMR 7225, Sorbonne Universites, UPMC Univ Paris 06 UMR S 1127, Institut du Cerveau et de la Moelle epiniere, ICM, F-75013, Paris, France. Centre de Neuroimagerie de Recherche (CENIR), Paris, France; Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. Inserm U 1127, CNRS UMR 7225, Sorbonne Universites, UPMC Univ Paris 06 UMR S 1127, Institut du Cerveau et de la Moelle epiniere, ICM, F-75013, Paris, France; INRIA, Aramis Team, Centre de Recherche Paris-Rocquencourt, France. Centre de Neuroimagerie de Recherche (CENIR), Paris, France; Inserm U 1127, CNRS UMR 7225, Sorbonne Universites, UPMC Univ Paris 06 UMR S 1127, Institut du Cerveau et de la Moelle epiniere, ICM, F-75013, Paris, France. Epilepsy Unit, Hopital de la Pitie-Salpetriere, APHP, Paris, France; Laboratoire de Neurosciences Fonctionnelles et Pathologies (EA 4559), Universite Lille-Nord de France, France. Epilepsy Unit, Hopital de la Pitie-Salpetriere, APHP, Paris, France; Centre de Neuroimagerie de Recherche (CENIR), Paris, France; Inserm U 1127, CNRS UMR 7225, Sorbonne Universites, UPMC Univ Paris 06 UMR S 1127, Institut du Cerveau et de la Moelle epiniere, ICM, F-75013, Paris, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140509",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Connectome/*methods",
+          "Epilepsy, Temporal Lobe/etiology/*physiopathology",
+          "Female",
+          "Functional Laterality/*physiology",
+          "Hippocampus/pathology",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Nerve Net/*physiopathology",
+          "Sclerosis/complications/pathology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Connectivity",
+          "Connectome",
+          "Hippocampal sclerosis",
+          "Network based statistics",
+          "Temporal lobe epilepsy"
+     ],
+     "EDAT": "2014/05/13 06:00",
+     "MHDA": "2015/05/13 06:00",
+     "CRDT": [
+          "2014/05/13 06:00"
+     ],
+     "PHST": [
+          "2014/01/10 00:00 [received]",
+          "2014/04/16 00:00 [revised]",
+          "2014/04/28 00:00 [accepted]",
+          "2014/05/13 06:00 [entrez]",
+          "2014/05/13 06:00 [pubmed]",
+          "2015/05/13 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(14)00351-6 [pii]",
+          "10.1016/j.neuroimage.2014.04.071 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2014 Oct 15;100:135-44. doi: 10.1016/j.neuroimage.2014.04.071. Epub 2014 May 9.",
+     "term": "hippocampus"
+}

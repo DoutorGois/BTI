@@ -1,0 +1,94 @@
+{
+     "PMID": "25086961",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150331",
+     "LR": "20170220",
+     "IS": "1471-2164 (Electronic) 1471-2164 (Linking)",
+     "VI": "15",
+     "DP": "2014 Aug 3",
+     "TI": "Prediction of miRNA-mRNA associations in Alzheimer's disease mice using network topology.",
+     "PG": "644",
+     "LID": "10.1186/1471-2164-15-644 [doi]",
+     "AB": "BACKGROUND: Little is known about the relationship between miRNA and mRNA expression in Alzheimer's disease (AD) at early- or late-symptomatic stages. Sequence-based target prediction algorithms and anti-correlation profiles have been applied to predict miRNA targets using omics data, but this approach often leads to false positive predictions. Here, we applied the joint profiling analysis of mRNA and miRNA expression levels to Tg6799 AD model mice at 4 and 8 months of age using a network topology-based method. We constructed gene regulatory networks and used the PageRank algorithm to predict significant interactions between miRNA and mRNA. RESULTS: In total, 8 cluster modules were predicted by the transcriptome data for co-expression networks of AD pathology. In total, 54 miRNAs were identified as being differentially expressed in AD. Among these, 50 significant miRNA-mRNA interactions were predicted by integrating sequence target prediction, expression analysis, and the PageRank algorithm. We identified a set of miRNA-mRNA interactions that were changed in the hippocampus of Tg6799 AD model mice. We determined the expression levels of several candidate genes and miRNA. For functional validation in primary cultured neurons from Tg6799 mice (MT) and littermate (LM) controls, the overexpression of ARRDC3 enhanced PPP1R3C expression. ARRDC3 overexpression showed the tendency to decrease the expression of miR139-5p and miR3470a in both LM and MT primary cells. Pathological environment created by Abeta treatment increased the gene expression of PPP1R3C and Sfpq but did not significantly alter the expression of miR139-5p or miR3470a. Abeta treatment increased the promoter activity of ARRDC3 gene in LM primary cells but not in MT primary cells. CONCLUSIONS: Our results demonstrate AD-specific changes in the miRNA regulatory system as well as the relationship between the expression levels of miRNAs and their targets in the hippocampus of Tg6799 mice. These data help further our understanding of the function and mechanism of various miRNAs and their target genes in the molecular pathology of AD.",
+     "FAU": [
+          "Noh, Haneul",
+          "Park, Charny",
+          "Park, Soojun",
+          "Lee, Young Seek",
+          "Cho, Soo Young",
+          "Seo, Hyemyung"
+     ],
+     "AU": [
+          "Noh H",
+          "Park C",
+          "Park S",
+          "Lee YS",
+          "Cho SY",
+          "Seo H"
+     ],
+     "AD": "Department of Molecular & Life Sciences, Hanyang University, 1271 Sa-dong, Sangrok-gu, Ansan, Gyeonggi-do, South Korea. singylu@hanmail.net.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140803",
+     "PL": "England",
+     "TA": "BMC Genomics",
+     "JT": "BMC genomics",
+     "JID": "100965258",
+     "RN": [
+          "0 (ARRDC3 protein, mouse)",
+          "0 (Amyloid beta-Peptides)",
+          "0 (Arrestins)",
+          "0 (Intracellular Signaling Peptides and Proteins)",
+          "0 (MicroRNAs)",
+          "0 (PTB-Associated Splicing Factor)",
+          "0 (Ppp1r3c protein, mouse)",
+          "0 (RNA, Messenger)",
+          "0 (RNA-Binding Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Alzheimer Disease/*genetics/*metabolism",
+          "Amyloid beta-Peptides/metabolism",
+          "Animals",
+          "Arrestins/genetics",
+          "*Gene Regulatory Networks",
+          "Genomics/*methods",
+          "Intracellular Signaling Peptides and Proteins/genetics",
+          "Mice",
+          "Mice, Transgenic",
+          "MicroRNAs/*genetics/*metabolism",
+          "Mutation",
+          "PTB-Associated Splicing Factor",
+          "Phenotype",
+          "RNA, Messenger/genetics/metabolism",
+          "RNA-Binding Proteins/genetics",
+          "Transcriptome"
+     ],
+     "PMC": "PMC4132902",
+     "EDAT": "2014/08/05 06:00",
+     "MHDA": "2015/04/01 06:00",
+     "CRDT": [
+          "2014/08/04 06:00"
+     ],
+     "PHST": [
+          "2014/01/23 00:00 [received]",
+          "2014/07/08 00:00 [accepted]",
+          "2014/08/04 06:00 [entrez]",
+          "2014/08/05 06:00 [pubmed]",
+          "2015/04/01 06:00 [medline]"
+     ],
+     "AID": [
+          "1471-2164-15-644 [pii]",
+          "10.1186/1471-2164-15-644 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "BMC Genomics. 2014 Aug 3;15:644. doi: 10.1186/1471-2164-15-644.",
+     "term": "hippocampus"
+}

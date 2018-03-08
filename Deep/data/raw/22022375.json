@@ -1,0 +1,91 @@
+{
+     "PMID": "22022375",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120217",
+     "LR": "20161208",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "6",
+     "IP": "10",
+     "DP": "2011",
+     "TI": "An MRI-derived definition of MCI-to-AD conversion for long-term, automatic prognosis of MCI patients.",
+     "PG": "e25074",
+     "LID": "10.1371/journal.pone.0025074 [doi]",
+     "AB": "Alzheimer's disease (AD) and mild cognitive impairment (MCI) are of great current research interest. While there is no consensus on whether MCIs actually \"convert\" to AD, this concept is widely applied. Thus, the more important question is not whether MCIs convert, but what is the best such definition. We focus on automatic prognostication, nominally using only a baseline brain image, of whether an MCI will convert within a multi-year period following the initial clinical visit. This is not a traditional supervised learning problem since, in ADNI, there are no definitive labeled conversion examples. It is not unsupervised, either, since there are (labeled) ADs and Controls, as well as cognitive scores for MCIs. Prior works have defined MCI subclasses based on whether or not clinical scores significantly change from baseline. There are concerns with these definitions, however, since, e.g., most MCIs (and ADs) do not change from a baseline CDR = 0.5 at any subsequent visit in ADNI, even while physiological changes may be occurring. These works ignore rich phenotypical information in an MCI patient's brain scan and labeled AD and Control examples, in defining conversion. We propose an innovative definition, wherein an MCI is a converter if any of the patient's brain scans are classified \"AD\" by a Control-AD classifier. This definition bootstraps design of a second classifier, specifically trained to predict whether or not MCIs will convert. We thus predict whether an AD-Control classifier will predict that a patient has AD. Our results demonstrate that this definition leads not only to much higher prognostic accuracy than by-CDR conversion, but also to subpopulations more consistent with known AD biomarkers (including CSF markers). We also identify key prognostic brain region biomarkers.",
+     "FAU": [
+          "Aksu, Yaman",
+          "Miller, David J",
+          "Kesidis, George",
+          "Bigler, Don C",
+          "Yang, Qing X"
+     ],
+     "AU": [
+          "Aksu Y",
+          "Miller DJ",
+          "Kesidis G",
+          "Bigler DC",
+          "Yang QX"
+     ],
+     "AD": "Center for NMR Research, Department of Radiology, Penn State University College of Medicine, Hershey, Pennsylvania, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "U19 AG010483/AG/NIA NIH HHS/United States",
+          "R01 AG02771/AG/NIA NIH HHS/United States",
+          "AG030514/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "DEP": "20111012",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Biomarkers)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*diagnosis/pathology",
+          "Biomarkers/metabolism",
+          "Cognitive Dysfunction/*diagnosis/pathology",
+          "Hippocampus/pathology",
+          "Humans",
+          "Magnetic Resonance Imaging/*methods",
+          "Middle Aged",
+          "Prognosis",
+          "Reproducibility of Results",
+          "Support Vector Machine",
+          "Time Factors"
+     ],
+     "PMC": "PMC3192038",
+     "EDAT": "2011/10/25 06:00",
+     "MHDA": "2012/02/18 06:00",
+     "CRDT": [
+          "2011/10/25 06:00"
+     ],
+     "PHST": [
+          "2011/05/10 00:00 [received]",
+          "2011/08/25 00:00 [accepted]",
+          "2011/10/25 06:00 [entrez]",
+          "2011/10/25 06:00 [pubmed]",
+          "2012/02/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0025074 [doi]",
+          "PONE-D-11-09558 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2011;6(10):e25074. doi: 10.1371/journal.pone.0025074. Epub 2011 Oct 12.",
+     "term": "hippocampus"
+}

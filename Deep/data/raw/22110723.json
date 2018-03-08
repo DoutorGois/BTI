@@ -1,0 +1,94 @@
+{
+     "PMID": "22110723",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120326",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "6",
+     "IP": "11",
+     "DP": "2011",
+     "TI": "Optogenetic release of ACh induces rhythmic bursts of perisomatic IPSCs in hippocampus.",
+     "PG": "e27691",
+     "LID": "10.1371/journal.pone.0027691 [doi]",
+     "AB": "Acetylcholine (ACh) influences a vast array of phenomena in cortical systems. It alters many ionic conductances and neuronal firing behavior, often by regulating membrane potential oscillations in populations of cells. Synaptic inhibition has crucial roles in many forms of oscillation, and cholinergic mechanisms regulate both oscillations and synaptic inhibition. In vitro investigations using bath-application of cholinergic receptor agonists, or bulk tissue electrical stimulation to release endogenous ACh, have led to insights into cholinergic function, but questions remain because of the relative lack of selectivity of these forms of stimulation. To investigate the effects of selective release of ACh on interneurons and oscillations, we used an optogenetic approach in which the light-sensitive non-selective cation channel, Channelrhodopsin2 (ChR2), was virally delivered to cholinergic projection neurons in the medial septum/diagonal band of Broca (MS/DBB) of adult mice expressing Cre-recombinase under the control of the choline-acetyltransferase (ChAT) promoter. Acute hippocampal slices obtained from these animals weeks later revealed ChR2 expression in cholinergic axons. Brief trains of blue light pulses delivered to untreated slices initiated bursts of ACh-evoked, inhibitory post-synaptic currents (L-IPSCs) in CA1 pyramidal cells that lasted for 10's of seconds after the light stimulation ceased. L-IPSC occurred more reliably in slices treated with eserine and a very low concentration of 4-AP, which were therefore used in most experiments. The rhythmic, L-IPSCs were driven primarily by muscarinic ACh receptors (mAChRs), and could be suppressed by endocannabinoid release from pyramidal cells. Finally, low-frequency oscillations (LFOs) of local field potentials (LFPs) were significantly cross-correlated with the L-IPSCs, and reversal of the LFPs near s. pyramidale confirmed that the LFPs were driven by perisomatic inhibition. This optogenetic approach may be a useful complementary technique in future investigations of endogenous ACh effects.",
+     "FAU": [
+          "Nagode, Daniel A",
+          "Tang, Ai-Hui",
+          "Karson, Miranda A",
+          "Klugmann, Matthias",
+          "Alger, Bradley E"
+     ],
+     "AU": [
+          "Nagode DA",
+          "Tang AH",
+          "Karson MA",
+          "Klugmann M",
+          "Alger BE"
+     ],
+     "AD": "Department of Physiology, University of Maryland School of Medicine, Baltimore, Maryland, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "F31 NS074880/NS/NINDS NIH HHS/United States",
+          "R01 DA014625/DA/NIDA NIH HHS/United States",
+          "R01 MH077277/MH/NIMH NIH HHS/United States",
+          "1 F31 NS074880-01/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20111116",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (GABA-A Receptor Antagonists)",
+          "0 (Muscarinic Antagonists)",
+          "0 (Receptor, Cannabinoid, CB1)",
+          "9009-81-8 (Rhodopsin)",
+          "N9YNS0M02X (Acetylcholine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Acetylcholine/*secretion",
+          "Animals",
+          "CA1 Region, Hippocampal/drug effects/metabolism/physiology/radiation effects",
+          "Cholinergic Fibers/drug effects/metabolism/radiation effects",
+          "GABA-A Receptor Antagonists/pharmacology",
+          "Genetic Vectors/genetics",
+          "Hippocampus/drug effects/metabolism/*physiology/radiation effects",
+          "In Vitro Techniques",
+          "Inhibitory Postsynaptic Potentials/drug effects/*genetics/*radiation effects",
+          "*Light",
+          "Mice",
+          "Muscarinic Antagonists/pharmacology",
+          "*Periodicity",
+          "Pyramidal Cells/drug effects/metabolism/physiology/radiation effects",
+          "Receptor, Cannabinoid, CB1/metabolism",
+          "Rhodopsin/genetics"
+     ],
+     "PMC": "PMC3218010",
+     "EDAT": "2011/11/24 06:00",
+     "MHDA": "2012/03/27 06:00",
+     "CRDT": [
+          "2011/11/24 06:00"
+     ],
+     "PHST": [
+          "2011/07/18 00:00 [received]",
+          "2011/10/23 00:00 [accepted]",
+          "2011/11/24 06:00 [entrez]",
+          "2011/11/24 06:00 [pubmed]",
+          "2012/03/27 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0027691 [doi]",
+          "PONE-D-11-13732 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2011;6(11):e27691. doi: 10.1371/journal.pone.0027691. Epub 2011 Nov 16.",
+     "term": "hippocampus"
+}

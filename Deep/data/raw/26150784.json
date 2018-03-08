@@ -1,0 +1,71 @@
+{
+     "PMID": "26150784",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20150707",
+     "LR": "20170220",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "9",
+     "DP": "2015",
+     "TI": "Effects of homeostatic constraints on associative memory storage and synaptic connectivity of cortical circuits.",
+     "PG": "74",
+     "LID": "10.3389/fncom.2015.00074 [doi]",
+     "AB": "The impact of learning and long-term memory storage on synaptic connectivity is not completely understood. In this study, we examine the effects of associative learning on synaptic connectivity in adult cortical circuits by hypothesizing that these circuits function in a steady-state, in which the memory capacity of a circuit is maximal and learning must be accompanied by forgetting. Steady-state circuits should be characterized by unique connectivity features. To uncover such features we developed a biologically constrained, exactly solvable model of associative memory storage. The model is applicable to networks of multiple excitatory and inhibitory neuron classes and can account for homeostatic constraints on the number and the overall weight of functional connections received by each neuron. The results show that in spite of a large number of neuron classes, functional connections between potentially connected cells are realized with less than 50% probability if the presynaptic cell is excitatory and generally a much greater probability if it is inhibitory. We also find that constraining the overall weight of presynaptic connections leads to Gaussian connection weight distributions that are truncated at zero. In contrast, constraining the total number of functional presynaptic connections leads to non-Gaussian distributions, in which weak connections are absent. These theoretical predictions are compared with a large dataset of published experimental studies reporting amplitudes of unitary postsynaptic potentials and probabilities of connections between various classes of excitatory and inhibitory neurons in the cerebellum, neocortex, and hippocampus.",
+     "FAU": [
+          "Chapeton, Julio",
+          "Gala, Rohan",
+          "Stepanyants, Armen"
+     ],
+     "AU": [
+          "Chapeton J",
+          "Gala R",
+          "Stepanyants A"
+     ],
+     "AD": "Department of Physics and Center for Interdisciplinary Research on Complex Systems, Northeastern University Boston, MA, USA. Department of Physics and Center for Interdisciplinary Research on Complex Systems, Northeastern University Boston, MA, USA. Department of Physics and Center for Interdisciplinary Research on Complex Systems, Northeastern University Boston, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS063494/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150618",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC4471370",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "associative memory",
+          "connection probability",
+          "critical capacity",
+          "inhibitory",
+          "l0 norm",
+          "l1 norm",
+          "perceptron",
+          "synaptic weight"
+     ],
+     "EDAT": "2015/07/08 06:00",
+     "MHDA": "2015/07/08 06:01",
+     "CRDT": [
+          "2015/07/08 06:00"
+     ],
+     "PHST": [
+          "2015/03/25 00:00 [received]",
+          "2015/05/28 00:00 [accepted]",
+          "2015/07/08 06:00 [entrez]",
+          "2015/07/08 06:00 [pubmed]",
+          "2015/07/08 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2015.00074 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2015 Jun 18;9:74. doi: 10.3389/fncom.2015.00074. eCollection 2015.",
+     "term": "hippocampus"
+}

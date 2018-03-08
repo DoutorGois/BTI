@@ -1,0 +1,82 @@
+{
+     "PMID": "24443672",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "1945-7928 (Print) 1945-7928 (Linking)",
+     "VI": "2012",
+     "DP": "2012 Dec 31",
+     "TI": "RECONSTRUCTION OF THE HUMAN HIPPOCAMPUS IN 3D FROM HISTOLOGY AND HIGH-RESOLUTION EX-VIVO MRI.",
+     "PG": "294-297",
+     "AB": "In this paper, we present methods for the reconstruction of 3D histological volumes of the human hippocampal formation from histology slices. Inter-slice alignment is guided by a graph-theoretic approach that minimizes the impact of badly distorted slices. The reconstruction is refined by iterative affine and deformable co-registration with a high-resolution MRI of the postmortem tissue sample. We present an evaluation of reconstruction accuracy that is based on measures of similarity between boundaries drawn on both histology and MRI. Our methodology is currently being applied to an MRI atlas of the human hippocampal formation, in which atlas anatomical labels are derived from segmentation of reconstructed histology.",
+     "FAU": [
+          "Adler, Daniel H",
+          "Liu, Alex Yang",
+          "Pluta, John",
+          "Kadivar, Salmon",
+          "Orozco, Sylvia",
+          "Wang, Hongzhi",
+          "Gee, James C",
+          "Avants, Brian B",
+          "Yushkevich, Paul A"
+     ],
+     "AU": [
+          "Adler DH",
+          "Liu AY",
+          "Pluta J",
+          "Kadivar S",
+          "Orozco S",
+          "Wang H",
+          "Gee JC",
+          "Avants BB",
+          "Yushkevich PA"
+     ],
+     "AD": "Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA. Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "R01 AG037376-03/AG/NIA NIH HHS/United States",
+          "R01 AG037376-02/AG/NIA NIH HHS/United States",
+          "R01 AG037376-01/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Proc IEEE Int Symp Biomed Imaging",
+     "JT": "Proceedings. IEEE International Symposium on Biomedical Imaging",
+     "JID": "101492570",
+     "PMC": "PMC3892900",
+     "MID": [
+          "NIHMS367583"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Hippocampus",
+          "histology",
+          "reconstruction",
+          "registration",
+          "segmentation"
+     ],
+     "EDAT": "2014/01/21 06:00",
+     "MHDA": "2014/01/21 06:00",
+     "CRDT": [
+          "2014/01/21 06:00"
+     ],
+     "PHST": [
+          "2014/01/21 06:00 [entrez]",
+          "2014/01/21 06:00 [pubmed]",
+          "2014/01/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/ISBI.2012.6235542 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc IEEE Int Symp Biomed Imaging. 2012 Dec 31;2012:294-297. doi: 10.1109/ISBI.2012.6235542.",
+     "term": "hippocampus"
+}

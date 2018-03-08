@@ -1,0 +1,67 @@
+{
+     "PMID": "19379717",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090825",
+     "LR": "20090608",
+     "IS": "1872-6240 (Electronic) 0006-8993 (Linking)",
+     "VI": "1276",
+     "DP": "2009 Jun 18",
+     "TI": "A neurocomputational model of classical conditioning phenomena: a putative role for the hippocampal region in associative learning.",
+     "PG": "180-95",
+     "LID": "10.1016/j.brainres.2009.04.020 [doi]",
+     "AB": "Some existing models of hippocampal function simulate performance in classical conditioning tasks using the error backpropagation algorithm to guide learning (Gluck, M.A., and Myers, C.E., (1993). Hippocampal mediation of stimulus representation: a computational theory. Hippocampus, 3(4), 491-516.). This algorithm is not biologically plausible because it requires information to be passed backward through layers of nodes and assumes that the environment provides information to the brain about what correct outputs should be. Here, we show that the same information-processing function proposed for the hippocampal region in the Gluck and Myers (1993) model can also be implemented in a network without using the backpropagation algorithm. Instead, our newer instantiation of the theory uses only (a) Hebbian learning methods which match more closely with synaptic and associative learning mechanisms ascribed to the hippocampal region and (b) a more plausible representation of input stimuli. We demonstrate here that this new more biologically plausible model is able to simulate various behavioral effects, including latent inhibition, acquired equivalence, sensory preconditioning, negative patterning, and context shift effects. In addition, the newer model is able to address some new phenomena including the effect of the number of training trials on blocking and overshadowing.",
+     "FAU": [
+          "Moustafa, Ahmed A",
+          "Myers, Catherine E",
+          "Gluck, Mark A"
+     ],
+     "AU": [
+          "Moustafa AA",
+          "Myers CE",
+          "Gluck MA"
+     ],
+     "AD": "Memory Disorders Project and Center for Molecular and Behavioral Neuroscience, Rutgers University-Newark, 197 University Avenue, Newark, NJ 07102, USA. ahmedhalimo@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20090418",
+     "PL": "Netherlands",
+     "TA": "Brain Res",
+     "JT": "Brain research",
+     "JID": "0045503",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Association Learning/*physiology",
+          "Computer Simulation",
+          "Conditioning, Classical/*physiology",
+          "Hippocampus/injuries/*physiology",
+          "*Models, Neurological",
+          "Neurons/physiology",
+          "Synaptic Transmission/physiology"
+     ],
+     "EDAT": "2009/04/22 09:00",
+     "MHDA": "2009/08/26 09:00",
+     "CRDT": [
+          "2009/04/22 09:00"
+     ],
+     "PHST": [
+          "2008/10/23 00:00 [received]",
+          "2009/03/31 00:00 [revised]",
+          "2009/04/09 00:00 [accepted]",
+          "2009/04/22 09:00 [entrez]",
+          "2009/04/22 09:00 [pubmed]",
+          "2009/08/26 09:00 [medline]"
+     ],
+     "AID": [
+          "S0006-8993(09)00782-3 [pii]",
+          "10.1016/j.brainres.2009.04.020 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Res. 2009 Jun 18;1276:180-95. doi: 10.1016/j.brainres.2009.04.020. Epub 2009 Apr 18.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,61 @@
+{
+     "PMID": "8815919",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19961127",
+     "LR": "20071114",
+     "IS": "0270-6474 (Print) 0270-6474 (Linking)",
+     "VI": "16",
+     "IP": "20",
+     "DP": "1996 Oct 15",
+     "TI": "Gamma oscillation by synaptic inhibition in a hippocampal interneuronal network model.",
+     "PG": "6402-13",
+     "AB": "Fast neuronal oscillations (gamma, 20-80 Hz) have been observed in the neocortex and hippocampus during behavioral arousal. Using computer simulations, we investigated the hypothesis that such rhythmic activity can emerge in a random network of interconnected GABAergic fast-spiking interneurons. Specific conditions for the population synchronization, on properties of single cells and the circuit, were identified. These include the following: (1) that the amplitude of spike afterhyperpolarization be above the GABAA synaptic reversal potential; (2) that the ratio between the synaptic decay time constant and the oscillation period be sufficiently large; (3) that the effects of heterogeneities be modest because of a steep frequency-current relationship of fast-spiking neurons. Furthermore, using a population coherence measure, based on coincident firings of neural pairs, it is demonstrated that large-scale network synchronization requires a critical (minimal) average number of synaptic contacts per cell, which is not sensitive to the network size. By changing the GABAA synaptic maximal conductance, synaptic decay time constant, or the mean external excitatory drive to the network, the neuronal firing frequencies were gradually and monotonically varied. By contrast, the network synchronization was found to be high only within a frequency band coinciding with the gamma (20-80 Hz) range. We conclude that the GABAA synaptic transmission provides a suitable mechanism for synchronized gamma oscillations in a sparsely connected network of fast-spiking interneurons. In turn, the interneuronal network can presumably maintain subthreshold oscillations in principal cell populations and serve to synchronize discharges of spatially distributed neurons.",
+     "FAU": [
+          "Wang, X J",
+          "Buzsaki, G"
+     ],
+     "AU": [
+          "Wang XJ",
+          "Buzsaki G"
+     ],
+     "AD": "Physics Department, Brandeis University, Waltham, Massachusetts 02254, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH53717-01/MH/NIMH NIH HHS/United States",
+          "NS34994/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/*physiology",
+          "Interneurons/*physiology",
+          "*Neural Networks (Computer)",
+          "Presynaptic Terminals/*physiology",
+          "Time Factors"
+     ],
+     "EDAT": "1996/10/15 00:00",
+     "MHDA": "1996/10/15 00:01",
+     "CRDT": [
+          "1996/10/15 00:00"
+     ],
+     "PHST": [
+          "1996/10/15 00:00 [pubmed]",
+          "1996/10/15 00:01 [medline]",
+          "1996/10/15 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 1996 Oct 15;16(20):6402-13.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,75 @@
+{
+     "PMID": "21538141",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120821",
+     "LR": "20171021",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "31",
+     "IP": "3",
+     "DP": "2011 Nov",
+     "TI": "Stochastic amplification of calcium-activated potassium currents in Ca2+ microdomains.",
+     "PG": "647-66",
+     "LID": "10.1007/s10827-011-0328-x [doi]",
+     "AB": "Small conductance (SK) calcium-activated potassium channels are found in many tissues throughout the body and open in response to elevations in intracellular calcium. In hippocampal neurons, SK channels are spatially co-localized with L-Type calcium channels. Due to the restriction of calcium transients into microdomains, only a limited number of L-Type Ca(2+) channels can activate SK and, thus, stochastic gating becomes relevant. Using a stochastic model with calcium microdomains, we predict that intracellular Ca(2+) fluctuations resulting from Ca(2+) channel gating can increase SK2 subthreshold activity by 1-2 orders of magnitude. This effectively reduces the value of the Hill coefficient. To explain the underlying mechanism, we show how short, high-amplitude calcium pulses associated with stochastic gating of calcium channels are much more effective at activating SK2 channels than the steady calcium signal produced by a deterministic simulation. This stochastic amplification results from two factors: first, a supralinear rise in the SK2 channel's steady-state activation curve at low calcium levels and, second, a momentary reduction in the channel's time constant during the calcium pulse, causing the channel to approach its steady-state activation value much faster than it decays. Stochastic amplification can potentially explain subthreshold SK2 activation in unified models of both sub- and suprathreshold regimes. Furthermore, we expect it to be a general phenomenon relevant to many proteins that are activated nonlinearly by stochastic ligand release.",
+     "FAU": [
+          "Stanley, David Arthur",
+          "Bardakjian, Berj L",
+          "Spano, Mark L",
+          "Ditto, William L"
+     ],
+     "AU": [
+          "Stanley DA",
+          "Bardakjian BL",
+          "Spano ML",
+          "Ditto WL"
+     ],
+     "AD": "School of Biological and Health Systems Engineering, Arizona State University, Tempe, AZ 85287, USA. davearthur.stanley@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110503",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "RN": [
+          "0 (Small-Conductance Calcium-Activated Potassium Channels)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Calcium Signaling/*physiology",
+          "Hippocampus/physiology",
+          "Humans",
+          "Ion Channel Gating/physiology",
+          "Membrane Microdomains/*physiology",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Small-Conductance Calcium-Activated Potassium Channels/*physiology",
+          "Stochastic Processes"
+     ],
+     "EDAT": "2011/05/04 06:00",
+     "MHDA": "2012/08/22 06:00",
+     "CRDT": [
+          "2011/05/04 06:00"
+     ],
+     "PHST": [
+          "2011/01/07 00:00 [received]",
+          "2011/03/30 00:00 [accepted]",
+          "2011/03/04 00:00 [revised]",
+          "2011/05/04 06:00 [entrez]",
+          "2011/05/04 06:00 [pubmed]",
+          "2012/08/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10827-011-0328-x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2011 Nov;31(3):647-66. doi: 10.1007/s10827-011-0328-x. Epub 2011 May 3.",
+     "term": "hippocampus"
+}

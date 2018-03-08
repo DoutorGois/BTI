@@ -1,0 +1,83 @@
+{
+     "PMID": "28191031",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170907",
+     "LR": "20170907",
+     "IS": "1748-6718 (Electronic) 1748-670X (Linking)",
+     "VI": "2017",
+     "DP": "2017",
+     "TI": "Level Set Based Hippocampus Segmentation in MR Images with Improved Initialization Using Region Growing.",
+     "PG": "5256346",
+     "LID": "10.1155/2017/5256346 [doi]",
+     "AB": "The hippocampus has been known as one of the most important structures referred to as Alzheimer's disease and other neurological disorders. However, segmentation of the hippocampus from MR images is still a challenging task due to its small size, complex shape, low contrast, and discontinuous boundaries. For the accurate and efficient detection of the hippocampus, a new image segmentation method based on adaptive region growing and level set algorithm is proposed. Firstly, adaptive region growing and morphological operations are performed in the target regions and its output is used for the initial contour of level set evolution method. Then, an improved edge-based level set method utilizing global Gaussian distributions with different means and variances is developed to implement the accurate segmentation. Finally, gradient descent method is adopted to get the minimization of the energy equation. As proved by experiment results, the proposed method can ideally extract the contours of the hippocampus that are very close to manual segmentation drawn by specialists.",
+     "FAU": [
+          "Jiang, Xiaoliang",
+          "Zhou, Zhaozhong",
+          "Ding, Xiaokang",
+          "Deng, Xiaolei",
+          "Zou, Ling",
+          "Li, Bailin"
+     ],
+     "AU": [
+          "Jiang X",
+          "Zhou Z",
+          "Ding X",
+          "Deng X",
+          "Zou L",
+          "Li B"
+     ],
+     "AUID": [
+          "ORCID: 0000-0003-2695-8586"
+     ],
+     "AD": "College of Mechanical Engineering, Quzhou University, Quzhou, Zhejiang 324000, China; College of Mechanical Engineering, Southwest Jiaotong University, Chengdu, Sichuan 610031, China. College of Mechanical Engineering, Quzhou University, Quzhou, Zhejiang 324000, China. College of Mechanical Engineering, Quzhou University, Quzhou, Zhejiang 324000, China. College of Mechanical Engineering, Quzhou University, Quzhou, Zhejiang 324000, China. Department of Radiology, West China Hospital, Sichuan University, Chengdu, Sichuan 610031, China. College of Mechanical Engineering, Southwest Jiaotong University, Chengdu, Sichuan 610031, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170115",
+     "PL": "United States",
+     "TA": "Comput Math Methods Med",
+     "JT": "Computational and mathematical methods in medicine",
+     "JID": "101277751",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Alzheimer Disease/diagnostic imaging/physiopathology",
+          "Brain Mapping/*methods",
+          "Hippocampus/*diagnostic imaging/physiology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "*Magnetic Resonance Imaging",
+          "Medical Informatics",
+          "Models, Statistical",
+          "Normal Distribution",
+          "Software"
+     ],
+     "PMC": "PMC5274694",
+     "COIS": [
+          "The authors declare that there is no conflict of interests regarding the",
+          "publication of this article."
+     ],
+     "EDAT": "2017/02/14 06:00",
+     "MHDA": "2017/09/08 06:00",
+     "CRDT": [
+          "2017/02/14 06:00"
+     ],
+     "PHST": [
+          "2016/10/26 00:00 [received]",
+          "2016/12/10 00:00 [revised]",
+          "2016/12/22 00:00 [accepted]",
+          "2017/02/14 06:00 [entrez]",
+          "2017/02/14 06:00 [pubmed]",
+          "2017/09/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2017/5256346 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Math Methods Med. 2017;2017:5256346. doi: 10.1155/2017/5256346. Epub 2017 Jan 15.",
+     "term": "hippocampus"
+}

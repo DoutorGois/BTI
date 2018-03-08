@@ -1,0 +1,69 @@
+{
+     "PMID": "29071065",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20171219",
+     "IS": "2046-1402 (Print) 2046-1402 (Linking)",
+     "VI": "6",
+     "DP": "2017",
+     "TI": "Logarithmic distributions prove that intrinsic learning is Hebbian.",
+     "PG": "1222",
+     "LID": "10.12688/f1000research.12130.2 [doi]",
+     "AB": "In this paper, we present data for the lognormal distributions of spike rates, synaptic weights and intrinsic excitability (gain) for neurons in various brain areas, such as auditory or visual cortex, hippocampus, cerebellum, striatum, midbrain nuclei. We find a remarkable consistency of heavy-tailed, specifically lognormal, distributions for rates, weights and gains in all brain areas examined. The difference between strongly recurrent and feed-forward connectivity (cortex vs. striatum and cerebellum), neurotransmitter (GABA (striatum) or glutamate (cortex)) or the level of activation (low in cortex, high in Purkinje cells and midbrain nuclei) turns out to be irrelevant for this feature. Logarithmic scale distribution of weights and gains appears to be a general, functional property in all cases analyzed. We then created a generic neural model to investigate adaptive learning rules that create and maintain lognormal distributions. We conclusively demonstrate that not only weights, but also intrinsic gains, need to have strong Hebbian learning in order to produce and maintain the experimentally attested distributions. This provides a solution to the long-standing question about the type of plasticity exhibited by intrinsic excitability.",
+     "FAU": [
+          "Scheler, Gabriele"
+     ],
+     "AU": [
+          "Scheler G"
+     ],
+     "AUID": [
+          "ORCID: https://orcid.org/0000-0002-7425-4404"
+     ],
+     "AD": "Carl Correns Foundation for Mathematical Biology, Mountain View, CA, 94040, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170725",
+     "PL": "England",
+     "TA": "F1000Res",
+     "JT": "F1000Research",
+     "JID": "101594320",
+     "PMC": "PMC5639933",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Hebbian learning",
+          "intrinsic excitability",
+          "lognormal distributions.",
+          "neural circuits",
+          "neural coding",
+          "neural networks",
+          "rate coding",
+          "spike frequency",
+          "synaptic weights"
+     ],
+     "COIS": [
+          "Competing interests: No competing interests were disclosed."
+     ],
+     "EDAT": "2017/10/31 06:00",
+     "MHDA": "2017/10/31 06:01",
+     "CRDT": [
+          "2017/10/31 06:00"
+     ],
+     "PHST": [
+          "2017/10/13 00:00 [accepted]",
+          "2017/10/31 06:00 [entrez]",
+          "2017/10/31 06:00 [pubmed]",
+          "2017/10/31 06:01 [medline]"
+     ],
+     "AID": [
+          "10.12688/f1000research.12130.2 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "F1000Res. 2017 Jul 25;6:1222. doi: 10.12688/f1000research.12130.2. eCollection 2017.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,114 @@
+{
+     "PMID": "24333471",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140909",
+     "LR": "20141113",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "223",
+     "DP": "2014 Feb 15",
+     "TI": "Evaluation of the effectiveness of Gaussian filtering in distinguishing punctate synaptic signals from background noise during image analysis.",
+     "PG": "92-113",
+     "LID": "10.1016/j.jneumeth.2013.12.003 [doi] S0165-0270(13)00420-2 [pii]",
+     "AB": "BACKGROUND: Images in biomedical imaging research are often affected by non-specific background noise. This poses a serious problem when the noise overlaps with specific signals to be quantified, e.g. for their number and intensity. A simple and effective means of removing background noise is to prepare a filtered image that closely reflects background noise and to subtract it from the original unfiltered image. This approach is in common use, but its effectiveness in identifying and quantifying synaptic puncta has not been characterized in detail. NEW ANALYSIS: We report on our assessment of the effectiveness of isolating punctate signals from diffusely distributed background noise using one variant of this approach, \"Difference of Gaussian(s) (DoG)\" which is based on a Gaussian filter. RESULTS: We evaluated immunocytochemically stained, cultured mouse hippocampal neurons as an example, and provided the rationale for choosing specific parameter values for individual steps in detecting glutamatergic nerve terminals. The intensity and width of the detected puncta were proportional to those obtained by manual fitting of two-dimensional Gaussian functions to the local information in the original image. COMPARISON WITH EXISTING METHODS: DoG was compared with the rolling-ball method, using biological data and numerical simulations. Both methods removed background noise, but differed slightly with respect to their efficiency in discriminating neighboring peaks, as well as their susceptibility to high-frequency noise and variability in object size. CONCLUSIONS: DoG will be useful in detecting punctate signals, once its characteristics are examined quantitatively by experimenters.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Iwabuchi, Sadahiro",
+          "Kakazu, Yasuhiro",
+          "Koh, Jin-Young",
+          "Harata, N Charles"
+     ],
+     "AU": [
+          "Iwabuchi S",
+          "Kakazu Y",
+          "Koh JY",
+          "Harata NC"
+     ],
+     "AD": "Department of Molecular Physiology and Biophysics, University of Iowa, Carver College of Medicine, Iowa City, IA, USA. Department of Molecular Physiology and Biophysics, University of Iowa, Carver College of Medicine, Iowa City, IA, USA. Department of Molecular Physiology and Biophysics, University of Iowa, Carver College of Medicine, Iowa City, IA, USA. Department of Molecular Physiology and Biophysics, University of Iowa, Carver College of Medicine, Iowa City, IA, USA. Electronic address: charles-harata@uiowa.edu.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20131212",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Microtubule-Associated Proteins)",
+          "0 (Mtap2 protein, mouse)",
+          "0 (Slc17a7 protein, mouse)",
+          "0 (Vesicular Glutamate Transport Protein 1)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Animals, Newborn",
+          "Cells, Cultured",
+          "*Fluorescent Antibody Technique",
+          "Hippocampus/cytology",
+          "*Image Interpretation, Computer-Assisted",
+          "Mice",
+          "Microscopy, Confocal",
+          "Microtubule-Associated Proteins/metabolism",
+          "Neurons/*cytology/metabolism",
+          "*Normal Distribution",
+          "Synapses/*metabolism",
+          "Vesicular Glutamate Transport Protein 1/metabolism"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Background subtraction",
+          "DIC",
+          "DoG",
+          "FWHM",
+          "GB",
+          "Gaussian filter",
+          "Gaussian-blurring",
+          "Immunocytochemistry",
+          "LED",
+          "MAP2",
+          "Neuron",
+          "PBS",
+          "ROI",
+          "Synapse",
+          "VGLUT1",
+          "Vesicular glutamate transporter 1 (VGLUT1)",
+          "difference of Gaussian(s)",
+          "differential interference contrast",
+          "full-width at half maximum",
+          "light-emitting diode",
+          "microtubule-associated protein 2",
+          "phosphate-buffered saline",
+          "region-of-interest",
+          "vesicular glutamate transporter 1"
+     ],
+     "EDAT": "2013/12/18 06:00",
+     "MHDA": "2014/09/10 06:00",
+     "CRDT": [
+          "2013/12/17 06:00"
+     ],
+     "PHST": [
+          "2013/11/01 00:00 [received]",
+          "2013/11/28 00:00 [revised]",
+          "2013/12/03 00:00 [accepted]",
+          "2013/12/17 06:00 [entrez]",
+          "2013/12/18 06:00 [pubmed]",
+          "2014/09/10 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(13)00420-2 [pii]",
+          "10.1016/j.jneumeth.2013.12.003 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2014 Feb 15;223:92-113. doi: 10.1016/j.jneumeth.2013.12.003. Epub 2013 Dec 12.",
+     "term": "hippocampus"
+}

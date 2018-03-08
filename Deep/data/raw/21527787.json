@@ -1,0 +1,88 @@
+{
+     "PMID": "21527787",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120222",
+     "LR": "20170220",
+     "IS": "1460-2199 (Electronic) 1047-3211 (Linking)",
+     "VI": "21",
+     "IP": "12",
+     "DP": "2011 Dec",
+     "TI": "Automated analysis of spines from confocal laser microscopy images: application to the discrimination of androgen and estrogen effects on spinogenesis.",
+     "PG": "2704-11",
+     "LID": "10.1093/cercor/bhr059 [doi]",
+     "AB": "Accurate 3D determination of postsynaptic structures is essential to our understanding memory-related function and pathology in neurons. However, current methods of spine analysis require time-consuming and labor-intensive manual spine identification in large image data sets. Therefore, a realistic implementation of algorithm is necessary to replace manual identification. Here, we describe a new method for the automated detection of spines and dendrites based on analysis of geometrical features. Our \"Spiso-3D\" software carries out automated dendrite reconstruction and spine detection using both eigenvalue images and information of brightness, avoiding detection of pseudo-spines. To demonstrate the potential application of Spiso-3D automated analysis, we distinguished the rapid effects of androgen and estrogen on rapid modulation of spine head diameter in the hippocampus. These findings advance our understanding of neurotrophic function of brain sex steroids. Our method is expected to be valuable to analyze vast amounts of dendritic spines in neurons in the mammalian cerebral cortex.",
+     "FAU": [
+          "Mukai, Hideo",
+          "Hatanaka, Yusuke",
+          "Mitsuhashi, Kenji",
+          "Hojo, Yasushi",
+          "Komatsuzaki, Yoshimasa",
+          "Sato, Rei",
+          "Murakami, Gen",
+          "Kimoto, Tetsuya",
+          "Kawato, Suguru"
+     ],
+     "AU": [
+          "Mukai H",
+          "Hatanaka Y",
+          "Mitsuhashi K",
+          "Hojo Y",
+          "Komatsuzaki Y",
+          "Sato R",
+          "Murakami G",
+          "Kimoto T",
+          "Kawato S"
+     ],
+     "AD": "Department of Biophysics and Life Sciences, Graduate School of Arts and Sciences, The University of Tokyo, Meguro, Tokyo 153-8902, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20110428",
+     "PL": "United States",
+     "TA": "Cereb Cortex",
+     "JT": "Cerebral cortex (New York, N.Y. : 1991)",
+     "JID": "9110718",
+     "RN": [
+          "0 (Androgens)",
+          "0 (Estrogens)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Androgens/pharmacology",
+          "Animals",
+          "Automation, Laboratory/*methods",
+          "*Dendritic Spines/drug effects",
+          "Estrogens/pharmacology",
+          "Hippocampus/cytology/drug effects",
+          "Image Processing, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Male",
+          "Microscopy, Confocal",
+          "Rats",
+          "Rats, Wistar",
+          "*Software"
+     ],
+     "PMC": "PMC3209797",
+     "EDAT": "2011/04/30 06:00",
+     "MHDA": "2012/02/23 06:00",
+     "CRDT": [
+          "2011/04/30 06:00"
+     ],
+     "PHST": [
+          "2011/04/30 06:00 [entrez]",
+          "2011/04/30 06:00 [pubmed]",
+          "2012/02/23 06:00 [medline]"
+     ],
+     "AID": [
+          "bhr059 [pii]",
+          "10.1093/cercor/bhr059 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cereb Cortex. 2011 Dec;21(12):2704-11. doi: 10.1093/cercor/bhr059. Epub 2011 Apr 28.",
+     "term": "hippocampus"
+}

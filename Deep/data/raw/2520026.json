@@ -1,0 +1,63 @@
+{
+     "PMID": "2520026",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19920407",
+     "LR": "20091111",
+     "IS": "0025-5564 (Print) 0025-5564 (Linking)",
+     "VI": "93",
+     "IP": "1",
+     "DP": "1989 Mar",
+     "TI": "Analysis of fractal ion channel gating kinetics: kinetic rates, energy levels, and activation energies.",
+     "PG": "97-115",
+     "AB": "Ion channels in the cell membranes of the corneal endothelium, hippocampal neurons, and fibroblasts, and gramicidin channels in lipid bilayers have open and closed times that can be fit, in whole or part, by power law distributions. That is, the gating is self-similar when viewed at different time scales. Hence, kinetic processes at slow and fast time scales are not independent but rather are interrelated. To study how such a relationship can arise we analyze a closed in equilibrium open channel with the fractal dimension for leaving the closed state DCO approximately 2 and the fractal dimension for leaving the open state DOC approximately 1. This special case can be analyzed because it can be represented by equivalent Markov processes. We show that it is equivalent to Markov chains with forward and backward kinetic rate constants approximately equal at each stage, and forming an approximate geometric progression along the different stages. These kinetic rates determine the energy levels and activation energy barriers separating those levels. We find that there are many conformational states (substates) separated by high activation energy barriers. This is similar to the energy structure found for globular proteins such as myoglobin. However, the novel feature reported here is that the activation energy barriers are not independent but are interrelated and form an arithmetic progression. Because of this relationship the fast processes across the low activation energy barriers are linked to slow processes across the high activation energy barriers.",
+     "FAU": [
+          "Liebovitch, L S"
+     ],
+     "AU": [
+          "Liebovitch LS"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "EY6178/EY/NEI NIH HHS/United States",
+          "EY6234/EY/NEI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Math Biosci",
+     "JT": "Mathematical biosciences",
+     "JID": "0103146",
+     "SB": "IM",
+     "MH": [
+          "Endothelium, Corneal/physiology",
+          "Fibroblasts/physiology",
+          "Hippocampus",
+          "Ion Channel Gating/*physiology",
+          "Kinetics",
+          "*Markov Chains",
+          "Models, Biological",
+          "Neurons/physiology"
+     ],
+     "EDAT": "1989/03/01 00:00",
+     "MHDA": "1989/03/01 00:01",
+     "CRDT": [
+          "1989/03/01 00:00"
+     ],
+     "PHST": [
+          "1989/03/01 00:00 [pubmed]",
+          "1989/03/01 00:01 [medline]",
+          "1989/03/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "0025-5564(89)90015-1 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Math Biosci. 1989 Mar;93(1):97-115.",
+     "term": "hippocampus"
+}

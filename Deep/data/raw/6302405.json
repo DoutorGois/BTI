@@ -1,0 +1,70 @@
+{
+     "PMID": "6302405",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19830617",
+     "LR": "20071114",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "7",
+     "IP": "3",
+     "DP": "1983 Mar",
+     "TI": "Estimation of thresholds for evoked potentials using a laboratory computer.",
+     "PG": "253-60",
+     "AB": "To study drug effects on bioelectric activity evoked by near-threshold stimulation, we have developed a computerized threshold estimation technique. The procedure utilizes a laboratory computer (PDP 11/34) equipped with a standard laboratory interface with A/D and D/A capabilities. Program-controlled voltage pulses, delivered via D/A, are interfaced through a constant current stimulus isolation unit for electrical stimulation. One channel of activity is digitized at a user-defined rate and the signal is searched for a response. Responses were generally defined by a feature of the signal which was greater than a multiple of its standard deviation in the subthreshold signal. Using some a priori knowledge of the expected response and user-defined processing options, the program determines threshold on-line without pretrial test data. Program operation is illustrated with sensory evoked potentials in acutely prepared cats and hippocampal evoked potentials in chronically implanted rats.",
+     "FAU": [
+          "Wilkison, D M"
+     ],
+     "AU": [
+          "Wilkison DM"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "DA 01754/DA/NIDA NIH HHS/United States",
+          "R01 DA 00124/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cats",
+          "*Computers",
+          "Electric Stimulation",
+          "Evoked Potentials, Somatosensory",
+          "Evoked Potentials, Visual",
+          "Hippocampus/*physiology",
+          "Neural Pathways/physiology",
+          "Neurophysiology/*instrumentation",
+          "Optic Chiasm/*physiology",
+          "Radial Nerve/physiology",
+          "Sensory Thresholds",
+          "Software",
+          "Somatosensory Cortex/*physiology",
+          "*Synaptic Transmission"
+     ],
+     "EDAT": "1983/03/01 00:00",
+     "MHDA": "1983/03/01 00:01",
+     "CRDT": [
+          "1983/03/01 00:00"
+     ],
+     "PHST": [
+          "1983/03/01 00:00 [pubmed]",
+          "1983/03/01 00:01 [medline]",
+          "1983/03/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "0165-0270(83)90007-9 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 1983 Mar;7(3):253-60.",
+     "term": "hippocampus"
+}

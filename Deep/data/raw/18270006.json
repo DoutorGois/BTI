@@ -1,0 +1,80 @@
+{
+     "PMID": "18270006",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080314",
+     "LR": "20161122",
+     "IS": "1558-2531 (Electronic) 0018-9294 (Linking)",
+     "VI": "55",
+     "IP": "2 Pt 1",
+     "DP": "2008 Feb",
+     "TI": "Modeling the nonlinear properties of the in vitro hippocampal perforant path-dentate system using multielectrode array technology.",
+     "PG": "693-702",
+     "LID": "10.1109/TBME.2007.908075 [doi]",
+     "AB": "A modeling approach to characterize the nonlinear dynamic transformations of the dentate gyrus of the hippocampus is presented and experimentally validated. The dentate gyrus is the first region of the hippocampus which receives and integrates sensory information via the perforant path. The perforant path is composed of two distinct pathways: 1) the lateral path and 2) the medial perforant path. The proposed approach examines and captures the short-term dynamic characteristics of these two pathways using a nonparametric, third-order Poisson-Volterra model. The nonlinear characteristics of the two pathways are represented by Poisson-Volterra kernels, which are quantitative descriptors of the nonlinear dynamic transformations. The kernels were computed with experimental data from in vitro hippocampal slices. The electrophysiological activity was measured with custom-made multielectrode arrays, which allowed selective stimulation with random impulse trains and simultaneous recordings of extracellular field potential activity. The results demonstrate that this mathematically rigorous approach is suitable for the multipathway complexity of the hippocampus and yields interpretable models that have excellent predictive capabilities. The resulting models not only accurately predict previously reported electrophysiological descriptors, such as paired pulses, but more important, can be used to predict the electrophysiological activity of dentate granule cells to arbitrary stimulation patterns at the perforant path.",
+     "FAU": [
+          "Dimoka, Angelika",
+          "Courellis, Spiros H",
+          "Gholmieh, Ghassan I",
+          "Marmarelis, Vasilis Z",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Dimoka A",
+          "Courellis SH",
+          "Gholmieh GI",
+          "Marmarelis VZ",
+          "Berger TW"
+     ],
+     "AD": "Department of Bioengineering, Bourns A#237, Bourns School of Engineering, University of California, Riverside, CA 92521, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB001978/EB/NIBIB NIH HHS/United States",
+          "P41 EB001978-24/EB/NIBIB NIH HHS/United States",
+          "P41 EB001978-245378/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Cerebellar Nuclei/*physiology",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "*Microelectrodes",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Nonlinear Dynamics",
+          "Perforant Pathway/*physiology"
+     ],
+     "PMC": "PMC2749727",
+     "MID": [
+          "NIHMS140639"
+     ],
+     "EDAT": "2008/02/14 09:00",
+     "MHDA": "2008/03/15 09:00",
+     "CRDT": [
+          "2008/02/14 09:00"
+     ],
+     "PHST": [
+          "2008/02/14 09:00 [pubmed]",
+          "2008/03/15 09:00 [medline]",
+          "2008/02/14 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TBME.2007.908075 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 2008 Feb;55(2 Pt 1):693-702. doi: 10.1109/TBME.2007.908075.",
+     "term": "hippocampus"
+}

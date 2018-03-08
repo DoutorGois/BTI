@@ -1,0 +1,50 @@
+{
+     "PMID": "27586717",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20160902",
+     "IS": "1520-8524 (Electronic) 0001-4966 (Linking)",
+     "VI": "140",
+     "IP": "2",
+     "DP": "2016 Aug",
+     "TI": "Incorporating directivity in the Fourier pseudospectral time-domain method using spherical harmonics.",
+     "PG": "855",
+     "LID": "10.1121/1.4960467 [doi]",
+     "AB": "The pseudospectral time-domain method (PSTD) provides an efficient way to solve the linear acoustics equations. With regards to acoustic modeling and auralization, source directivity as well as head-related directivity have a clear influence on the perceived sound field and have to be included in computations. In this paper directive sources are implemented in the time-domain method PSTD. First, a given frequency dependent source directivity is decomposed onto spherical harmonic functions. The directive source is then implemented through spatial distributions in PSTD that relate to the spherical harmonic functions, and time-dependent functions are assigned to the spatial distributions in order to obtain the frequency content of the directivity. Since any directivity function can be expressed as a summation of series of spherical harmonics, the approach can be used to model any type of directive source. For the evaluation of the method, a directivity function was designed analytically and then modeled in PSTD. Octave band analysis was performed and results show a good agreement between the analytical and simulated directivity. A distance related error was observed. However, for distances above 17.5 grid cells from the source center the average error was small (<0.9 dB) at all octave-bands.",
+     "FAU": [
+          "Georgiou, Fotis",
+          "Hornikx, Maarten"
+     ],
+     "AU": [
+          "Georgiou F",
+          "Hornikx M"
+     ],
+     "AD": "Department of the Built Environment, Eindhoven University of Technology, Eindhoven 5600MB, the Netherlands. Department of the Built Environment, Eindhoven University of Technology, Eindhoven 5600MB, the Netherlands.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "J Acoust Soc Am",
+     "JT": "The Journal of the Acoustical Society of America",
+     "JID": "7503051",
+     "SB": "IM",
+     "EDAT": "2016/09/03 06:00",
+     "MHDA": "2016/09/03 06:00",
+     "CRDT": [
+          "2016/09/03 06:00"
+     ],
+     "PHST": [
+          "2016/09/03 06:00 [entrez]",
+          "2016/09/03 06:00 [pubmed]",
+          "2016/09/03 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1121/1.4960467 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Acoust Soc Am. 2016 Aug;140(2):855. doi: 10.1121/1.4960467.",
+     "term": "grid cells"
+}

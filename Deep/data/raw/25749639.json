@@ -1,0 +1,70 @@
+{
+     "PMID": "25749639",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160202",
+     "LR": "20150309",
+     "IS": "1572-8781 (Electronic) 1387-2176 (Linking)",
+     "VI": "17",
+     "IP": "2",
+     "DP": "2015 Apr",
+     "TI": "Development and characterization of hollow microprobe array as a potential tool for versatile and massively parallel manipulation of single cells.",
+     "PG": "41",
+     "LID": "10.1007/s10544-015-9943-z [doi]",
+     "AB": "Parallel manipulation of single cells is important for reconstructing in vivo cellular microenvironments and studying cell functions. To manipulate single cells and reconstruct their environments, development of a versatile manipulation tool is necessary. In this study, we developed an array of hollow probes using microelectromechanical systems fabrication technology and demonstrated the manipulation of single cells. We conducted a cell aspiration experiment with a glass pipette and modeled a cell using a standard linear solid model, which provided information for designing hollow stepped probes for minimally invasive single-cell manipulation. We etched a silicon wafer on both sides and formed through holes with stepped structures. The inner diameters of the holes were reduced by SiO2 deposition of plasma-enhanced chemical vapor deposition to trap cells on the tips. This fabrication process makes it possible to control the wall thickness, inner diameter, and outer diameter of the probes. With the fabricated probes, single cells were manipulated and placed in microwells at a single-cell level in a parallel manner. We studied the capture, release, and survival rates of cells at different suction and release pressures and found that the cell trapping rate was directly proportional to the suction pressure, whereas the release rate and viability decreased with increasing the suction pressure. The proposed manipulation system makes it possible to place cells in a well array and observe the adherence, spreading, culture, and death of the cells. This system has potential as a tool for massively parallel manipulation and for three-dimensional hetero cellular assays.",
+     "FAU": [
+          "Nagai, Moeto",
+          "Oohara, Kiyotaka",
+          "Kato, Keita",
+          "Kawashima, Takahiro",
+          "Shibata, Takayuki"
+     ],
+     "AU": [
+          "Nagai M",
+          "Oohara K",
+          "Kato K",
+          "Kawashima T",
+          "Shibata T"
+     ],
+     "AD": "Department of Mechanical Engineering, Toyohashi University of Technology, 1-1 Hibarigaoka, Tenpaku, Toyohashi, Aichi, 441-8580, Japan, nagai@me.tut.ac.jp.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Biomed Microdevices",
+     "JT": "Biomedical microdevices",
+     "JID": "100887374",
+     "RN": [
+          "7631-86-9 (Silicon Dioxide)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Biomedical Engineering/*methods",
+          "Cell Survival",
+          "Equipment Design",
+          "HeLa Cells",
+          "Humans",
+          "Silicon Dioxide/chemistry",
+          "Single-Cell Analysis/*instrumentation/methods"
+     ],
+     "EDAT": "2015/03/10 06:00",
+     "MHDA": "2016/02/03 06:00",
+     "CRDT": [
+          "2015/03/10 06:00"
+     ],
+     "PHST": [
+          "2015/03/10 06:00 [entrez]",
+          "2015/03/10 06:00 [pubmed]",
+          "2016/02/03 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10544-015-9943-z [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biomed Microdevices. 2015 Apr;17(2):41. doi: 10.1007/s10544-015-9943-z.",
+     "term": "place cells"
+}

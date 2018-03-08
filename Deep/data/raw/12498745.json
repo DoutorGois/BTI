@@ -1,0 +1,108 @@
+{
+     "PMID": "12498745",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030303",
+     "LR": "20170219",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "17",
+     "IP": "4",
+     "DP": "2002 Dec",
+     "TI": "Voxel-based morphometric analysis of gray matter in first episode schizophrenia.",
+     "PG": "1711-9",
+     "AB": "Voxel-based morphometry (VBM) may afford a more rapid and extensive survey of gray matter abnormalities in schizophrenia than manually drawn region of interest (ROI) analysis, the current gold standard in structural MRI. Unfortunately, VBM has not been validated by comparison with ROI analyses, nor used in first-episode patients with schizophrenia or affective psychosis, who lack structural changes associated with chronicity. An SPM99-based implementation of VBM was used to compare a group of 16 patients with first-episode schizophrenia and a group of 18 normal controls and, as a further comparison, 16 first-episode patients with affective psychosis. All groups were matched for age and handedness. High spatial resolution structural images were normalized to the SPM99 template and then segmented, smoothed, and subjected to an ANCOVA. Schizophrenia vs control group comparisons: Voxel-by-voxel comparison of gray matter densities showed that only the left STG region was significantly different when corrected for multiple comparisons (P <.05), consistent with our previously reported manual ROI results. Analysis of the extent of voxel clusters, replicated with permutation analyses, revealed group differences in bilateral anterior cingulate gyri and insula (not previously examined by us with manually drawn ROI) and unilateral parietal lobe, but not in medial temporal lobe (where our ROI analysis had shown differences). However, use of a smaller smoothing kernel and a small volume correction revealed left-sided hippocampal group differences. Affective psychosis comparisons: When the same statistical thresholding criteria were used, no significant differences between affective psychosis patients and controls were noted. Since a major interest was whether patients with affective psychosis shared some anatomical abnormalities with schizophrenia, we applied a small volume correction and searched within the regions that were significantly less dense in schizophrenia compared to control subjects. With this statistical correction, the insula showed, bilaterally, the same pattern of differences in affective disorder subjects as that in schizophrenic subjects, whereas both left STG and left hippocampus showed statistical differences between affectives and schizophrenics, indicating the abnormalities specific to first-episode schizophrenia. These findings suggest both the promise and utility of VBM in evaluating gray matter abnormalities. They further suggest the importance of comparing VBM findings with more traditional ROI analyses until the reasons for the differences between methods are determined.",
+     "FAU": [
+          "Kubicki, M",
+          "Shenton, M E",
+          "Salisbury, D F",
+          "Hirayasu, Y",
+          "Kasai, K",
+          "Kikinis, R",
+          "Jolesz, F A",
+          "McCarley, R W"
+     ],
+     "AU": [
+          "Kubicki M",
+          "Shenton ME",
+          "Salisbury DF",
+          "Hirayasu Y",
+          "Kasai K",
+          "Kikinis R",
+          "Jolesz FA",
+          "McCarley RW"
+     ],
+     "AD": "Clinical Neuroscience Division, Laboratory of Neuroscience, Boston VA Healthcare System-Brockton Division, Department of Psychiatry, Massachusetts, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH040799/MH/NIMH NIH HHS/United States",
+          "R01 MH040799-16/MH/NIMH NIH HHS/United States",
+          "R01 MH050740/MH/NIMH NIH HHS/United States",
+          "R01 RR011747-02/RR/NCRR NIH HHS/United States",
+          "R01 RR011747/RR/NCRR NIH HHS/United States",
+          "K02 MH001110-10/MH/NIMH NIH HHS/United States",
+          "P41 RR013218-02/RR/NCRR NIH HHS/United States",
+          "11747/PHS HHS/United States",
+          "R01 MH 50747/MH/NIMH NIH HHS/United States",
+          "K02 MH001110/MH/NIMH NIH HHS/United States",
+          "R01 MH050740-09/MH/NIMH NIH HHS/United States",
+          "K02 MH 01110/MH/NIMH NIH HHS/United States",
+          "P41 1321/PHS HHS/United States",
+          "P41 RR013218/RR/NCRR NIH HHS/United States",
+          "R01 MH 40799/MH/NIMH NIH HHS/United States",
+          "MH 52807/MH/NIMH NIH HHS/United States",
+          "R01 MH052807/MH/NIMH NIH HHS/United States",
+          "R01 MH052807-06/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Affective Disorders, Psychotic/diagnosis/pathology",
+          "Brain Mapping/*methods",
+          "Cerebral Cortex/*pathology",
+          "Dominance, Cerebral/physiology",
+          "Female",
+          "Gyrus Cinguli/pathology",
+          "Hippocampus/pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Psychiatric Status Rating Scales",
+          "Reference Values",
+          "Schizophrenia/*diagnosis/pathology",
+          "*Schizophrenic Psychology"
+     ],
+     "PMC": "PMC2845166",
+     "MID": [
+          "NIHMS186496"
+     ],
+     "EDAT": "2002/12/25 04:00",
+     "MHDA": "2003/03/04 04:00",
+     "CRDT": [
+          "2002/12/25 04:00"
+     ],
+     "PHST": [
+          "2002/12/25 04:00 [pubmed]",
+          "2003/03/04 04:00 [medline]",
+          "2002/12/25 04:00 [entrez]"
+     ],
+     "AID": [
+          "S1053811902912966 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2002 Dec;17(4):1711-9.",
+     "term": "hippocampus"
+}

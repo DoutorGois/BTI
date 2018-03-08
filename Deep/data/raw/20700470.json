@@ -1,0 +1,62 @@
+{
+     "PMID": "20700470",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "0018-9219 (Print) 0018-9219 (Linking)",
+     "VI": "98",
+     "IP": "3",
+     "DP": "2010 Mar 4",
+     "TI": "The Neurobiological Basis of Cognition: Identification by Multi-Input, Multioutput Nonlinear Dynamic Modeling: A method is proposed for measuring and modeling human long-term memory formation by mathematical analysis and computer simulation of nerve-cell dynamics.",
+     "PG": "356-374",
+     "AB": "The successful development of neural prostheses requires an understanding of the neurobiological bases of cognitive processes, i.e., how the collective activity of populations of neurons results in a higher level process not predictable based on knowledge of the individual neurons and/or synapses alone. We have been studying and applying novel methods for representing nonlinear transformations of multiple spike train inputs (multiple time series of pulse train inputs) produced by synaptic and field interactions among multiple subclasses of neurons arrayed in multiple layers of incompletely connected units. We have been applying our methods to study of the hippocampus, a cortical brain structure that has been demonstrated, in humans and in animals, to perform the cognitive function of encoding new long-term (declarative) memories. Without their hippocampi, animals and humans retain a short-term memory (memory lasting approximately 1 min), and long-term memory for information learned prior to loss of hippocampal function. Results of more than 20 years of studies have demonstrated that both individual hippocampal neurons, and populations of hippocampal cells, e.g., the neurons comprising one of the three principal subsystems of the hippocampus, induce strong, higher order, nonlinear transformations of hippocampal inputs into hippocampal outputs. For one synaptic input or for a population of synchronously active synaptic inputs, such a transformation is represented by a sequence of action potential inputs being changed into a different sequence of action potential outputs. In other words, an incoming temporal pattern is transformed into a different, outgoing temporal pattern. For multiple, asynchronous synaptic inputs, such a transformation is represented by a spatiotemporal pattern of action potential inputs being changed into a different spatiotemporal pattern of action potential outputs. Our primary thesis is that the encoding of short-term memories into new, long-term memories represents the collective set of nonlinearities induced by the three or four principal subsystems of the hippocampus, i.e., entorhinal cortex-to-dentate gyrus, dentate gyrus-to-CA3 pyramidal cell region, CA3-to-CA1 pyramidal cell region, and CA1-to-subicular cortex. This hypothesis will be supported by studies using in vivo hippocampal multineuron recordings from animals performing memory tasks that require hippocampal function. The implications for this hypothesis will be discussed in the context of \"cognitive prostheses\"-neural prostheses for cortical brain regions believed to support cognitive functions, and that often are subject to damage due to stroke, epilepsy, dementia, and closed head trauma.",
+     "FAU": [
+          "Berger, Theodore W",
+          "Song, Dong",
+          "Chan, Rosa H M",
+          "Marmarelis, Vasilis Z"
+     ],
+     "AU": [
+          "Berger TW",
+          "Song D",
+          "Chan RH",
+          "Marmarelis VZ"
+     ],
+     "AD": "Center for Neural Engineering, USC Biomedical Simulations Resource, Department of Biomedical Engineering, University of Southern California, Los Angeles, CA 90089-1111 USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB001978/EB/NIBIB NIH HHS/United States",
+          "P41 EB001978-245378/EB/NIBIB NIH HHS/United States",
+          "P41 EB001978-245381/EB/NIBIB NIH HHS/United States",
+          "P41 EB001978-25/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Proc IEEE Inst Electr Electron Eng",
+     "JT": "Proceedings of the IEEE. Institute of Electrical and Electronics Engineers",
+     "JID": "9879073",
+     "PMC": "PMC2917774",
+     "MID": [
+          "NIHMS215109"
+     ],
+     "EDAT": "2010/08/12 06:00",
+     "MHDA": "2010/08/12 06:00",
+     "CRDT": [
+          "2010/08/12 06:00"
+     ],
+     "PHST": [
+          "2010/08/12 06:00 [entrez]",
+          "2010/08/12 06:00 [pubmed]",
+          "2010/08/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/JPROC.2009.2038804 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc IEEE Inst Electr Electron Eng. 2010 Mar 4;98(3):356-374. doi: 10.1109/JPROC.2009.2038804.",
+     "term": "hippocampus"
+}

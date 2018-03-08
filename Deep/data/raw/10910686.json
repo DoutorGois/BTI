@@ -1,0 +1,69 @@
+{
+     "PMID": "10910686",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20000915",
+     "LR": "20041117",
+     "IS": "1090-7807 (Print) 1090-7807 (Linking)",
+     "VI": "145",
+     "IP": "2",
+     "DP": "2000 Aug",
+     "TI": "Reducing inhomogeneity artifacts in functional MRI of human brain activation-thin sections vs gradient compensation.",
+     "PG": "184-91",
+     "AB": "We evaluated two methods for correcting inhomogeneity-induced signal losses in magnetic resonance gradient-echo imaging that either use gradient compensation or simply acquire thin sections. The strategies were tested in the human brain in terms of achievable quality of T2*-weighted images at the level of the hippocampus and of functional activation maps of the visual cortex. Experiments were performed at 2.0 T and based on single-shot echo-planar imaging at 2. 0 x 2.0 mm(2) resolution, 4 mm section thickness, and 2.0 s temporal resolution. Gradient compensation involved a sequential 16-step variation of the refocusing lobe of the slice-selection gradient (TR/TE = 125/53 ms, flip angle 15 degrees ), whereas thin sections divided the 4-mm target plane into either four 1-mm or eight 0.5-mm interleaved multislice acquisitions (TR/TE = 2000/54 ms, flip angle 70 degrees ). Both approaches were capable of alleviating the inhomogeneity problem for structures in the base of the brain. When compared to standard 4-mm EPI, functional mapping in the visual cortex was partially compromised because of a lower signal-to-noise ratio of inhomogeneity-corrected images by either method. Relative to each other, consistently better results were obtained with the use of contiguous thin sections, in particular for a thickness of 1 mm. Multislice acquisitions of thin sections require minimal technical adjustments.",
+     "CI": [
+          "Copyright 2000 Academic Press."
+     ],
+     "FAU": [
+          "Merboldt, K D",
+          "Finsterbusch, J",
+          "Frahm, J"
+     ],
+     "AU": [
+          "Merboldt KD",
+          "Finsterbusch J",
+          "Frahm J"
+     ],
+     "AD": "Biomedizinische NMR Forschungs GmbH am Max-Planck-Institut fur biophysikalische Chemie, Gottingen, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Clinical Trial",
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "J Magn Reson",
+     "JT": "Journal of magnetic resonance (San Diego, Calif. : 1997)",
+     "JID": "9707935",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Artifacts",
+          "Brain/*physiology",
+          "Brain Mapping",
+          "Cerebrovascular Circulation/physiology",
+          "Fourier Analysis",
+          "Hippocampus/physiology",
+          "Humans",
+          "Magnetic Resonance Imaging/*methods",
+          "Photic Stimulation"
+     ],
+     "EDAT": "2000/07/27 11:00",
+     "MHDA": "2000/09/23 11:01",
+     "CRDT": [
+          "2000/07/27 11:00"
+     ],
+     "PHST": [
+          "2000/07/27 11:00 [pubmed]",
+          "2000/09/23 11:01 [medline]",
+          "2000/07/27 11:00 [entrez]"
+     ],
+     "AID": [
+          "10.1006/jmre.2000.2105 [doi]",
+          "S1090-7807(00)92105-0 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Magn Reson. 2000 Aug;145(2):184-91. doi: 10.1006/jmre.2000.2105.",
+     "term": "hippocampus"
+}

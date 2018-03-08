@@ -1,0 +1,92 @@
+{
+     "PMID": "26787291",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161219",
+     "LR": "20161230",
+     "IS": "1875-5828 (Electronic) 1567-2050 (Linking)",
+     "VI": "13",
+     "IP": "5",
+     "DP": "2016",
+     "TI": "Hippocampal Subfield Atrophies in Converted and Not-Converted Mild Cognitive Impairments Patients by a Markov Random Fields Algorithm.",
+     "PG": "566-74",
+     "AB": "Although measurement of total hippocampal volume is considered as an important hallmark of Alzheimer's disease (AD), recent evidence demonstrated that atrophies of hippocampal subregions might be more sensitive in predicting this neurodegenerative disease. The vast majority of neuroimaging papers investigating this topic are focused on the difference between AD and patients with mild cognitive impairment (MCI), not considering the impact of MCI patients who will or not convert in AD. For this reason, the aim of this study was to determine if measurements of hippocampal subfields provide advantages over total hippocampal volume for discriminating these groups. Hippocampal subfields volumetry was extracted in 55 AD, 32 converted and 89 not-converted MCI (c/nc-MCI) and 47 healthy controls, using an atlas-based automatic algorithm based on Markov random fields embedded in the Freesurfer framework. To evaluate the impact of hippocampal atrophy in discriminating the insurgence of AD-like phenotypes we used three classification methods: Support Vector Machine, Naive Bayesian Classifier and Neural Networks Classifier. Taking into account only the total hippocampal volume, all classification models, reached a sensitivity of about 66% in discriminating between c-MCI and nc-MCI. Otherwise, classification analysis considering all segmenting subfields increased accuracy to diagnose c-MCI from 68% to 72%. This effect resulted to be strongly dependent upon atrophies of the subiculum and presubiculum. Our multivariate analysis revealed that the magnitude of the difference considering hippocampal subfield volumetry, as segmented by the considered atlas-based automatic algorithm, offers an advantage over hippocampal volume in distinguishing early AD from nc-MCI.",
+     "FAU": [
+          "Vasta, Roberta",
+          "Augimeri, Antonio",
+          "Cerasa, Antonio",
+          "Nigro, Salvatore",
+          "Gramigna, Vera",
+          "Nonnis, Matteo",
+          "Rocca, Federico",
+          "Zito, Giancarlo",
+          "Quattrone, Aldo",
+          "For The Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "AU": [
+          "Vasta R",
+          "Augimeri A",
+          "Cerasa A",
+          "Nigro S",
+          "Gramigna V",
+          "Nonnis M",
+          "Rocca F",
+          "Zito G",
+          "Quattrone A",
+          "For The Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "AD": "IBFM-CNR, Viale Europa, 88100 Germaneto (CZ), Italy. a.cerasa@unicz.it.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United Arab Emirates",
+     "TA": "Curr Alzheimer Res",
+     "JT": "Current Alzheimer research",
+     "JID": "101208441",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/diagnostic imaging/*pathology",
+          "Analysis of Variance",
+          "Atrophy/diagnostic imaging",
+          "Cognitive Dysfunction/diagnostic imaging/*pathology",
+          "Discriminant Analysis",
+          "Female",
+          "Functional Laterality",
+          "Hippocampus/*diagnostic imaging/pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "*Markov Chains",
+          "ROC Curve"
+     ],
+     "EDAT": "2016/01/21 06:00",
+     "MHDA": "2016/12/20 06:00",
+     "CRDT": [
+          "2016/01/21 06:00"
+     ],
+     "PHST": [
+          "2015/11/13 00:00 [received]",
+          "2016/01/14 00:00 [accepted]",
+          "2016/01/21 06:00 [entrez]",
+          "2016/01/21 06:00 [pubmed]",
+          "2016/12/20 06:00 [medline]"
+     ],
+     "AID": [
+          "CAR-EPUB-73140 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Curr Alzheimer Res. 2016;13(5):566-74.",
+     "term": "hippocampus"
+}

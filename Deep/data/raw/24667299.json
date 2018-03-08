@@ -1,0 +1,110 @@
+{
+     "PMID": "24667299",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141205",
+     "LR": "20180303",
+     "IS": "1361-8423 (Electronic) 1361-8415 (Linking)",
+     "VI": "18",
+     "IP": "3",
+     "DP": "2014 Apr",
+     "TI": "Quantifying anatomical shape variations in neurological disorders.",
+     "PG": "616-33",
+     "LID": "10.1016/j.media.2014.01.001 [doi] S1361-8415(14)00003-6 [pii]",
+     "AB": "We develop a multivariate analysis of brain anatomy to identify the relevant shape deformation patterns and quantify the shape changes that explain corresponding variations in clinical neuropsychological measures. We use kernel Partial Least Squares (PLS) and formulate a regression model in the tangent space of the manifold of diffeomorphisms characterized by deformation momenta. The scalar deformation momenta completely encode the diffeomorphic changes in anatomical shape. In this model, the clinical measures are the response variables, while the anatomical variability is treated as the independent variable. To better understand the \"shape-clinical response\" relationship, we also control for demographic confounders, such as age, gender, and years of education in our regression model. We evaluate the proposed methodology on the Alzheimer's Disease Neuroimaging Initiative (ADNI) database using baseline structural MR imaging data and neuropsychological evaluation test scores. We demonstrate the ability of our model to quantify the anatomical deformations in units of clinical response. Our results also demonstrate that the proposed method is generic and generates reliable shape deformations both in terms of the extracted patterns and the amount of shape changes. We found that while the hippocampus and amygdala emerge as mainly responsible for changes in test scores for global measures of dementia and memory function, they are not a determinant factor for executive function. Another critical finding was the appearance of thalamus and putamen as most important regions that relate to executive function. These resulting anatomical regions were consistent with very high confidence irrespective of the size of the population used in the study. This data-driven global analysis of brain anatomy was able to reach similar conclusions as other studies in Alzheimer's disease based on predefined ROIs, together with the identification of other new patterns of deformation. The proposed methodology thus holds promise for discovering new patterns of shape changes in the human brain that could add to our understanding of disease progression in neurological disorders.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Singh, Nikhil",
+          "Fletcher, P Thomas",
+          "Preston, J Samuel",
+          "King, Richard D",
+          "Marron, J S",
+          "Weiner, Michael W",
+          "Joshi, Sarang"
+     ],
+     "AU": [
+          "Singh N",
+          "Fletcher PT",
+          "Preston JS",
+          "King RD",
+          "Marron JS",
+          "Weiner MW",
+          "Joshi S"
+     ],
+     "AD": "University of Utah, UT, United States. Electronic address: nikhil@cs.utah.edu. University of Utah, UT, United States. University of Utah, UT, United States. University of Utah, UT, United States. University of North Carolina at Chapel Hill, Chapel Hill, NC, United States. University of California, San Francisco, CA, United States. University of Utah, UT, United States.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative (ADNI)"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB007688/EB/NIBIB NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "K23 AG038356/AG/NIA NIH HHS/United States",
+          "P41 RR023953/RR/NCRR NIH HHS/United States",
+          "5R01EB007688/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20140211",
+     "PL": "Netherlands",
+     "TA": "Med Image Anal",
+     "JT": "Medical image analysis",
+     "JID": "9713490",
+     "SB": "IM",
+     "MH": [
+          "Aging/*pathology",
+          "Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Artificial Intelligence",
+          "Brain/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC5832361",
+     "MID": [
+          "NIHMS569583"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Computational anatomy",
+          "Deformation momenta",
+          "Kernel Partial Least Squares (PLS)",
+          "Prediction"
+     ],
+     "EDAT": "2014/03/29 06:00",
+     "MHDA": "2014/12/15 06:00",
+     "CRDT": [
+          "2014/03/27 06:00"
+     ],
+     "PHST": [
+          "2013/02/10 00:00 [received]",
+          "2013/12/23 00:00 [revised]",
+          "2014/01/10 00:00 [accepted]",
+          "2014/03/27 06:00 [entrez]",
+          "2014/03/29 06:00 [pubmed]",
+          "2014/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S1361-8415(14)00003-6 [pii]",
+          "10.1016/j.media.2014.01.001 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Anal. 2014 Apr;18(3):616-33. doi: 10.1016/j.media.2014.01.001. Epub 2014 Feb 11.",
+     "term": "hippocampus"
+}

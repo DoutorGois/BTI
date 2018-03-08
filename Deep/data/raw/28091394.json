@@ -1,0 +1,67 @@
+{
+     "PMID": "28091394",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180130",
+     "LR": "20180208",
+     "IS": "1748-3190 (Electronic) 1748-3182 (Linking)",
+     "VI": "12",
+     "IP": "2",
+     "DP": "2017 Feb 15",
+     "TI": "Simplified bionic solutions: a simple bio-inspired vehicle collision detection system.",
+     "PG": "026007",
+     "LID": "10.1088/1748-3190/aa5993 [doi]",
+     "AB": "Modern cars are equipped with both active and passive sensor systems that can detect potential collisions. In contrast, locusts avoid collisions solely by responding to certain visual cues that are associated with object looming. In neurophysiological experiments, I investigated the possibility that the 'collision-detector neurons' of locusts respond to impending collisions in films recorded with dashboard cameras of fast driving cars. In a complementary modelling approach, I developed a simple algorithm to reproduce the neuronal response that was recorded during object approach. Instead of applying elaborate algorithms that factored in object recognition and optic flow discrimination, I tested the hypothesis that motion detection restricted to a 'danger zone', in which frontal collisions on the motorways are most likely, is sufficient to estimate the risk of a collision. Furthermore, I investigated whether local motion vectors, obtained from the differential excitation of simulated direction-selective networks, could be used to predict evasive steering maneuvers and prevent undesired responses to motion artifacts. The results of the study demonstrate that the risk of impending collisions in real traffic scenes is mirrored in the excitation of the collision-detecting neuron (DCMD) of locusts. The modelling approach was able to reproduce this neuronal response even when the vehicle was driving at high speeds and image resolution was low (about 200 x 100 pixels). Furthermore, evasive maneuvers that involved changing the steering direction and steering force could be planned by comparing the differences in the overall excitation levels of the simulated right and left direction-selective networks. Additionally, it was possible to suppress undesired responses of the algorithm to translatory movements, camera shake and ground shadows by evaluating local motion vectors. These estimated collision risk values and evasive steering vectors could be used as input for a driving assistant, converting the first into braking force and the latter into steering responses to avoid collisions. Since many processing steps were computed on the level of pixels and involved elements of direction-selective networks, this algorithm can be implemented in hardware so that parallel computations enhance the processing speed significantly.",
+     "FAU": [
+          "Hartbauer, Manfred"
+     ],
+     "AU": [
+          "Hartbauer M"
+     ],
+     "AD": "Institute of Zoology, University of Graz, Universitatsplatz 2, 8010, Austria.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20170215",
+     "PL": "England",
+     "TA": "Bioinspir Biomim",
+     "JT": "Bioinspiration & biomimetics",
+     "JID": "101292902",
+     "SB": "IM",
+     "MH": [
+          "Accidents, Traffic/*prevention & control",
+          "*Algorithms",
+          "Animals",
+          "Automobile Driving",
+          "*Biomimetics",
+          "Bionics/methods",
+          "Electrodes, Implanted",
+          "Flight, Animal/physiology",
+          "Grasshoppers/*physiology",
+          "Motion Perception/*physiology",
+          "Motion Pictures",
+          "Neurons/*physiology",
+          "Spatial Navigation/physiology",
+          "Visual Perception"
+     ],
+     "EDAT": "2017/01/17 06:00",
+     "MHDA": "2018/01/31 06:00",
+     "CRDT": [
+          "2017/01/17 06:00"
+     ],
+     "PHST": [
+          "2017/01/17 06:00 [pubmed]",
+          "2018/01/31 06:00 [medline]",
+          "2017/01/17 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1088/1748-3190/aa5993 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Bioinspir Biomim. 2017 Feb 15;12(2):026007. doi: 10.1088/1748-3190/aa5993.",
+     "term": "spatial navigation"
+}

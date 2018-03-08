@@ -1,0 +1,74 @@
+{
+     "PMID": "18982600",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081230",
+     "LR": "20170220",
+     "VI": "11",
+     "IP": "Pt 2",
+     "DP": "2008",
+     "TI": "Harmonic surface mapping with Laplace-Beltrami eigenmaps.",
+     "PG": "147-54",
+     "AB": "In this paper we propose a novel approach for the mapping of 3D surfaces. With the Reeb graph of Laplace-Beltrami eigenmaps, our method automatically detects stable landmark features intrinsic to the surface geometry and use them as boundary conditions to compute harmonic maps to the unit sphere. The resulting maps are diffeomorphic, robust to natural pose variations, and establish correspondences for geometric features shared across population. In the experiments, we demonstrate our method on three subcortical structures: the hippocampus, putamen, and caudate nucleus. A group study is also performed to generate a statistically significant map of local volume losses in the hippocampus of patients with secondary progressive multiple sclerosis.",
+     "FAU": [
+          "Shi, Yonggang",
+          "Lai, Rongjie",
+          "Kern, Kyle",
+          "Sicotte, Nancy",
+          "Dinov, Ivo",
+          "Toga, Arthur W"
+     ],
+     "AU": [
+          "Shi Y",
+          "Lai R",
+          "Kern K",
+          "Sicotte N",
+          "Dinov I",
+          "Toga AW"
+     ],
+     "AD": "Lab of Neuro Imaging, UCLA School of Medicine, Los Angeles, CA, USA. yshi@loni.ucla.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U54 RR021813/RR/NCRR NIH HHS/United States",
+          "U54 RR021813-04/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "*Artificial Intelligence",
+          "Hippocampus/*anatomy & histology",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC2970519",
+     "MID": [
+          "NIHMS242529"
+     ],
+     "EDAT": "2008/11/06 09:00",
+     "MHDA": "2008/12/31 09:00",
+     "CRDT": [
+          "2008/11/06 09:00"
+     ],
+     "PHST": [
+          "2008/11/06 09:00 [pubmed]",
+          "2008/12/31 09:00 [medline]",
+          "2008/11/06 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2008;11(Pt 2):147-54.",
+     "term": "hippocampus"
+}

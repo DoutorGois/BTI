@@ -1,0 +1,76 @@
+{
+     "PMID": "22255576",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120618",
+     "LR": "20161019",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2011",
+     "DP": "2011",
+     "TI": "Influence of white matter conductivity anisotropy on electric field strength induced by electroconvulsive therapy.",
+     "PG": "5473-6",
+     "LID": "10.1109/IEMBS.2011.6091396 [doi]",
+     "AB": "The goal of this study is to investigate the influence of white matter conductivity anisotropy on the electric field strength induced by electroconvulsive therapy (ECT). We created an anatomically-realistic finite element human head model incorporating tissue heterogeneity and white matter conductivity anisotropy using structural magnetic resonance imaging (MRI) and diffusion tensor MRI data. The electric field spatial distributions of three conventional ECT electrode placements (bilateral, bifrontal, and right unilateral) and an experimental electrode configuration, focal electrically administered seizure therapy (FEAST), were computed. A quantitative comparison of the electric field strength was subsequently performed in specific brain regions of interest thought to be associated with side effects of ECT (e.g., hippocampus and in-sula). The results show that neglecting white matter conductivity anisotropy yields a difference up to 19%, 25% and 34% in electric field strength in the whole brain, hippocampus, and insula, respectively. This study suggests that white matter conductivity anisotropy should be taken into account in ECT electric field models.",
+     "FAU": [
+          "Lee, Won Hee",
+          "Deng, Zhi-De",
+          "Laine, Andrew F",
+          "Lisanby, Sarah H",
+          "Peterchev, Angel V"
+     ],
+     "AU": [
+          "Lee WH",
+          "Deng ZD",
+          "Laine AF",
+          "Lisanby SH",
+          "Peterchev AV"
+     ],
+     "AD": "Department of Biomedical Engineering, Columbia University, New York, NY 10027, USA. wl2324@columbia.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH091083/MH/NIMH NIH HHS/United States",
+          "R01MH091083/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Anisotropy",
+          "Brain/*physiology",
+          "Computer Simulation",
+          "Electric Conductivity",
+          "Electroconvulsive Therapy/*methods",
+          "Electromagnetic Fields",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Fibers, Myelinated/*physiology",
+          "Radiation Dosage",
+          "Radiometry/*methods",
+          "Therapy, Computer-Assisted/*methods"
+     ],
+     "EDAT": "2012/01/19 06:00",
+     "MHDA": "2012/06/19 06:00",
+     "CRDT": [
+          "2012/01/19 06:00"
+     ],
+     "PHST": [
+          "2012/01/19 06:00 [entrez]",
+          "2012/01/19 06:00 [pubmed]",
+          "2012/06/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2011.6091396 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2011;2011:5473-6. doi: 10.1109/IEMBS.2011.6091396.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,83 @@
+{
+     "PMID": "26722711",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170118",
+     "LR": "20170118",
+     "IS": "1873-7838 (Electronic) 0010-0277 (Linking)",
+     "VI": "148",
+     "DP": "2016 Mar",
+     "TI": "Why do some neurons in cortex respond to information in a selective manner? Insights from artificial neural networks.",
+     "PG": "47-63",
+     "LID": "10.1016/j.cognition.2015.12.009 [doi] S0010-0277(15)30123-2 [pii]",
+     "AB": "Why do some neurons in hippocampus and cortex respond to information in a highly selective manner? It has been hypothesized that neurons in hippocampus encode information in a highly selective manner in order to support fast learning without catastrophic interference, and that neurons in cortex encode information in a highly selective manner in order to co-activate multiple items in short-term memory (STM) without suffering a superposition catastrophe. However, the latter hypothesis is at odds with the widespread view that neural coding in the cortex is highly distributed in order to support generalization. We report a series of simulations that characterize the conditions in which recurrent Parallel Distributed Processing (PDP) models of immediate serial can recall novel words. We found that these models learned localist codes when they succeeded in generalizing to novel words. That is, just as fast learning may explain selective coding in hippocampus, STM and generalization may help explain the existence of selective codes in cortex.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Bowers, Jeffrey S",
+          "Vankov, Ivan I",
+          "Damian, Markus F",
+          "Davis, Colin J"
+     ],
+     "AU": [
+          "Bowers JS",
+          "Vankov II",
+          "Damian MF",
+          "Davis CJ"
+     ],
+     "AD": "University of Bristol, United Kingdom. Electronic address: j.bowers@bristol.ac.uk. University of Bristol, United Kingdom. University of Bristol, United Kingdom. University of Bristol, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20151224",
+     "PL": "Netherlands",
+     "TA": "Cognition",
+     "JT": "Cognition",
+     "JID": "0367541",
+     "SB": "IM",
+     "MH": [
+          "Cerebral Cortex/cytology/*physiology",
+          "Computer Simulation",
+          "Hippocampus/cytology/*physiology",
+          "Humans",
+          "Learning/*physiology",
+          "*Neural Networks (Computer)",
+          "Neurons/cytology/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Distributed representations",
+          "Generalization",
+          "Grandmother cells",
+          "Localist representations",
+          "Short-term memory",
+          "Superposition catastrophe"
+     ],
+     "EDAT": "2016/01/02 06:00",
+     "MHDA": "2017/01/19 06:00",
+     "CRDT": [
+          "2016/01/02 06:00"
+     ],
+     "PHST": [
+          "2014/05/07 00:00 [received]",
+          "2015/11/26 00:00 [revised]",
+          "2015/12/12 00:00 [accepted]",
+          "2016/01/02 06:00 [entrez]",
+          "2016/01/02 06:00 [pubmed]",
+          "2017/01/19 06:00 [medline]"
+     ],
+     "AID": [
+          "S0010-0277(15)30123-2 [pii]",
+          "10.1016/j.cognition.2015.12.009 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cognition. 2016 Mar;148:47-63. doi: 10.1016/j.cognition.2015.12.009. Epub 2015 Dec 24.",
+     "term": "hippocampus"
+}

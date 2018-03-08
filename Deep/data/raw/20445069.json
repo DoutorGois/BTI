@@ -1,0 +1,102 @@
+{
+     "PMID": "20445069",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100602",
+     "LR": "20170220",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "30",
+     "IP": "18",
+     "DP": "2010 May 5",
+     "TI": "Local control of postinhibitory rebound spiking in CA1 pyramidal neuron dendrites.",
+     "PG": "6434-42",
+     "LID": "10.1523/JNEUROSCI.4066-09.2010 [doi]",
+     "AB": "Postinhibitory rebound spiking is characteristic of several neuron types and brain regions, where it sustains spontaneous activity and central pattern generation. However, rebound spikes are rarely observed in the principal cells of the hippocampus under physiological conditions. We report that CA1 pyramidal neurons support rebound spikes mediated by hyperpolarization-activated inward current (I(h)), and normally masked by A-type potassium channels (K(A)). In both experiments and computational models, K(A) blockage or reduction consistently resulted in a somatic action potential upon release from hyperpolarizing injections in the soma or main apical dendrite. Rebound spiking was systematically abolished by the additional blockage or reduction of I(h). Since the density of both K(A) and I(h) increases in these cells with the distance from the soma, such \"latent\" mechanism may be most effective in the distal dendrites, which are targeted by a variety of GABAergic interneurons. Detailed computer simulations, validated against the experimental data, demonstrate that rebound spiking can result from activation of distal inhibitory synapses. In particular, partial K(A) reduction confined to one or few branches of the apical tuft may be sufficient to elicit a local spike following a train of synaptic inhibition. Moreover, the spatial extent and amount of K(A) reduction determines whether the dendritic spike propagates to the soma. These data suggest that the plastic regulation of K(A) can provide a dynamic switch to unmask postinhibitory spiking in CA1 pyramidal neurons. This newly discovered local modulation of postinhibitory spiking further increases the signal processing power of the CA1 synaptic microcircuitry.",
+     "FAU": [
+          "Ascoli, Giorgio A",
+          "Gasparini, Sonia",
+          "Medinilla, Virginia",
+          "Migliore, Michele"
+     ],
+     "AU": [
+          "Ascoli GA",
+          "Gasparini S",
+          "Medinilla V",
+          "Migliore M"
+     ],
+     "AD": "Center for Neural Informatics, Structures, and Plasticity, Krasnow Institute for Advanced Study, George Mason University, Fairfax, Virginia 22030-4444, USA. ascoli@gmu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS035865-10/NS/NINDS NIH HHS/United States",
+          "NS39600/NS/NINDS NIH HHS/United States",
+          "R01 AG025633/AG/NIA NIH HHS/United States",
+          "AG25633/AG/NIA NIH HHS/United States",
+          "R29 NS035865/NS/NINDS NIH HHS/United States",
+          "NS035865/NS/NINDS NIH HHS/United States",
+          "R01 NS039600/NS/NINDS NIH HHS/United States",
+          "R01 NS035865/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "RN": [
+          "0 (Barium Compounds)",
+          "0 (Cyclic Nucleotide-Gated Cation Channels)",
+          "0 (Hyperpolarization-Activated Cyclic Nucleotide-Gated Channels)",
+          "0 (Potassium Channel Blockers)",
+          "0 (Potassium Channels)",
+          "0 (Potassium Channels, Voltage-Gated)",
+          "56-12-2 (gamma-Aminobutyric Acid)",
+          "BH3B64OKL9 (4-Aminopyridine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "4-Aminopyridine/pharmacology",
+          "Action Potentials/drug effects/physiology",
+          "Animals",
+          "Barium Compounds/pharmacology",
+          "CA1 Region, Hippocampal/metabolism/*physiology",
+          "Computer Simulation",
+          "Cyclic Nucleotide-Gated Cation Channels/antagonists & inhibitors/physiology",
+          "Dendrites/metabolism/*physiology",
+          "Hyperpolarization-Activated Cyclic Nucleotide-Gated Channels",
+          "In Vitro Techniques",
+          "Models, Neurological",
+          "Neural Inhibition/drug effects/*physiology",
+          "Potassium Channel Blockers/pharmacology",
+          "Potassium Channels/physiology",
+          "Potassium Channels, Voltage-Gated/drug effects/physiology",
+          "Pyramidal Cells/metabolism/*physiology",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "gamma-Aminobutyric Acid/physiology"
+     ],
+     "PMC": "PMC3319664",
+     "MID": [
+          "NIHMS201697"
+     ],
+     "EDAT": "2010/05/07 06:00",
+     "MHDA": "2010/06/03 06:00",
+     "CRDT": [
+          "2010/05/07 06:00"
+     ],
+     "PHST": [
+          "2010/05/07 06:00 [entrez]",
+          "2010/05/07 06:00 [pubmed]",
+          "2010/06/03 06:00 [medline]"
+     ],
+     "AID": [
+          "30/18/6434 [pii]",
+          "10.1523/JNEUROSCI.4066-09.2010 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2010 May 5;30(18):6434-42. doi: 10.1523/JNEUROSCI.4066-09.2010.",
+     "term": "hippocampus"
+}

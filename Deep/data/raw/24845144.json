@@ -1,0 +1,67 @@
+{
+     "PMID": "24845144",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150115",
+     "LR": "20140620",
+     "IS": "1361-6579 (Electronic) 0967-3334 (Linking)",
+     "VI": "35",
+     "IP": "6",
+     "DP": "2014 Jun",
+     "TI": "A method for reconstructing tomographic images of evoked neural activity with electrical impedance tomography using intracranial planar arrays.",
+     "PG": "1095-109",
+     "LID": "10.1088/0967-3334/35/6/1095 [doi]",
+     "AB": "A method is presented for reconstructing images of fast neural evoked activity in rat cerebral cortex recorded with electrical impedance tomography (EIT) and a 6 x 5 mm(2) epicortical planar 30 electrode array. A finite element model of the rat brain and inverse solution with Tikhonov regularization were optimized in order to improve spatial resolution and accuracy. The optimized FEM mesh had 7 M tetrahedral elements, with finer resolution (0.05 mm) near the electrodes. A novel noise-based image processing technique based on t-test significance improved depth localization accuracy from 0.5 to 0.1 mm. With the improvements, a simulated perturbation 0.5 mm in diameter could be localized in a region 4 x 5 mm(2) under the centre of the array to a depth of 1.4 mm, thus covering all six layers of the cerebral cortex with an accuracy of <0.1 mm. Simulated deep brain hippocampal or thalamic activity could be localized with an accuracy of 0.5 mm with a 256 electrode array covering the brain. Parallel studies have achieved a temporal resolution of 2 ms for imaging fast neural activity by EIT during evoked activity; this encourages the view that fast neural EIT can now resolve the propagation of depolarization-related fast impedance changes in cerebral cortex and deeper in the brain with a resolution equal or greater to the dimension of a cortical column.",
+     "FAU": [
+          "Aristovich, Kirill Y",
+          "dos Santos, Gustavo Sato",
+          "Packham, Brett C",
+          "Holder, David S"
+     ],
+     "AU": [
+          "Aristovich KY",
+          "dos Santos GS",
+          "Packham BC",
+          "Holder DS"
+     ],
+     "AD": "Department of Medical Physics and Bioengineering, University College London, Malet Place Engineering Building, Gower Street, London WC1E 6BT, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140520",
+     "PL": "England",
+     "TA": "Physiol Meas",
+     "JT": "Physiological measurement",
+     "JID": "9306921",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain Mapping",
+          "Computer Simulation",
+          "Electric Impedance",
+          "Electrodes",
+          "Hippocampus/anatomy & histology/*physiology",
+          "*Image Processing, Computer-Assisted",
+          "Rats",
+          "Tomography/*instrumentation/*methods"
+     ],
+     "EDAT": "2014/05/23 06:00",
+     "MHDA": "2015/01/16 06:00",
+     "CRDT": [
+          "2014/05/22 06:00"
+     ],
+     "PHST": [
+          "2014/05/22 06:00 [entrez]",
+          "2014/05/23 06:00 [pubmed]",
+          "2015/01/16 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1088/0967-3334/35/6/1095 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Physiol Meas. 2014 Jun;35(6):1095-109. doi: 10.1088/0967-3334/35/6/1095. Epub 2014 May 20.",
+     "term": "hippocampus"
+}

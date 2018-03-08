@@ -1,0 +1,79 @@
+{
+     "PMID": "27221619",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170825",
+     "LR": "20170825",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "41",
+     "IP": "1",
+     "DP": "2016 Aug",
+     "TI": "Bifurcation analysis of a two-compartment hippocampal pyramidal cell model.",
+     "PG": "91-106",
+     "LID": "10.1007/s10827-016-0606-8 [doi]",
+     "AB": "The Pinsky-Rinzel model is a non-smooth 2-compartmental CA3 pyramidal cell model that has been used widely within the field of neuroscience. Here we propose a modified (smooth) system that captures the qualitative behaviour of the original model, while allowing the use of available, numerical continuation methods to perform full-system bifurcation and fast-slow analysis. We study the bifurcation structure of the full system as a function of the applied current and the maximal calcium conductance. We identify the bifurcations that shape the transitions between resting, bursting and spiking behaviours, and which lead to the disappearance of bursting when the calcium conductance is reduced. Insights gained from this analysis, are then used to firstly illustrate how the irregular spiking activity found between bursting and stable spiking states, can be influenced by phase differences in the calcium and dendritic voltage, which lead to corresponding changes in the calcium-sensitive potassium current. Furthermore, we use fast-slow analysis to investigate the mechanisms of bursting and show that bursting in the model is dependent on the intermediately slow variable, calcium, while the other slow variable, the activation gate of the afterhyperpolarisation current, does not contribute to setting the intraburst dynamics but participates in setting the interburst interval. Finally, we discuss how some of the described bifurcations affect spiking behaviour, during sharp-wave ripples, in a larger network of Pinsky-Rinzel cells.",
+     "FAU": [
+          "Atherton, Laura A",
+          "Prince, Luke Y",
+          "Tsaneva-Atanasova, Krasimira"
+     ],
+     "AU": [
+          "Atherton LA",
+          "Prince LY",
+          "Tsaneva-Atanasova K"
+     ],
+     "AD": "Engineering Mathematics, and Physiology, Pharmacology & Neuroscience, University of Bristol, Bristol, England, UK. Physiology, Pharmacology & Neuroscience, University of Bristol, Bristol, England, UK. Department of Mathematics, College of Engineering, Mathematics and Physical Sciences, & EPSRC Centre for Predictive Modelling in Healthcare, University of Exeter, Exeter, Devon, EX4 4QF, UK. K.Tsaneva-Atanasova@exeter.ac.uk.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160525",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Dendrites/physiology",
+          "Hippocampus/*cytology",
+          "*Models, Neurological",
+          "Neural Conduction",
+          "Pyramidal Cells/cytology/*physiology"
+     ],
+     "PMC": "PMC4927618",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*Bifurcation analysis",
+          "*Bursting and spiking",
+          "*Dynamical system",
+          "*Numerical continuation",
+          "*Parameter dependence"
+     ],
+     "EDAT": "2016/05/26 06:00",
+     "MHDA": "2017/08/26 06:00",
+     "CRDT": [
+          "2016/05/26 06:00"
+     ],
+     "PHST": [
+          "2015/10/16 00:00 [received]",
+          "2016/04/25 00:00 [accepted]",
+          "2016/04/19 00:00 [revised]",
+          "2016/05/26 06:00 [entrez]",
+          "2016/05/26 06:00 [pubmed]",
+          "2017/08/26 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10827-016-0606-8 [doi]",
+          "10.1007/s10827-016-0606-8 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2016 Aug;41(1):91-106. doi: 10.1007/s10827-016-0606-8. Epub 2016 May 25.",
+     "term": "hippocampus"
+}

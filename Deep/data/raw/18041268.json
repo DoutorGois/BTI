@@ -1,0 +1,84 @@
+{
+     "PMID": "18041268",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080122",
+     "LR": "20170220",
+     "IS": "0278-0062 (Print) 0278-0062 (Linking)",
+     "VI": "26",
+     "IP": "11",
+     "DP": "2007 Nov",
+     "TI": "Tensor splines for interpolation and approximation of DT-MRI with applications to segmentation of isolated rat hippocampi.",
+     "PG": "1537-46",
+     "AB": "In this paper, we present novel algorithms for statistically robust interpolation and approximation of diffusion tensors-which are symmetric positive definite (SPD) matrices-and use them in developing a significant extension to an existing probabilistic algorithm for scalar field segmentation, in order to segment diffusion tensor magnetic resonance imaging (DT-MRI) datasets. Using the Riemannian metric on the space of SPD matrices, we present a novel and robust higher order (cubic) continuous tensor product of B-splines algorithm to approximate the SPD diffusion tensor fields. The resulting approximations are appropriately dubbed tensor splines. Next, we segment the diffusion tensor field by jointly estimating the label (assigned to each voxel) field, which is modeled by a Gauss Markov measure field (GMMF) and the parameters of each smooth tensor spline model representing the labeled regions. Results of interpolation, approximation, and segmentation are presented for synthetic data and real diffusion tensor fields from an isolated rat hippocampus, along with validation. We also present comparisons of our algorithms with existing methods and show significantly improved results in the presence of noise as well as outliers.",
+     "FAU": [
+          "Barmpoutis, Angelos",
+          "Vemuri, Baba C",
+          "Shepherd, Timothy M",
+          "Forder, John R"
+     ],
+     "AU": [
+          "Barmpoutis A",
+          "Vemuri BC",
+          "Shepherd TM",
+          "Forder JR"
+     ],
+     "AD": "Department of Computer and Information Science and Engineering (CISE), University of Florida, Gainesville, FL 32611, USA. abarmpou@cise.ufl.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB007082-03/EB/NIBIB NIH HHS/United States",
+          "R01 EB007082/EB/NIBIB NIH HHS/United States",
+          "R01 NS042075-03/NS/NINDS NIH HHS/United States",
+          "R01 NS042075/NS/NINDS NIH HHS/United States",
+          "NS42075/NS/NINDS NIH HHS/United States",
+          "EB007082/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Artificial Intelligence",
+          "Diffusion Magnetic Resonance Imaging/*methods",
+          "Hippocampus/*anatomy & histology",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "In Vitro Techniques",
+          "Numerical Analysis, Computer-Assisted",
+          "Pattern Recognition, Automated/*methods",
+          "Rats",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC2759271",
+     "MID": [
+          "NIHMS144131"
+     ],
+     "EDAT": "2007/11/29 09:00",
+     "MHDA": "2008/01/23 09:00",
+     "CRDT": [
+          "2007/11/29 09:00"
+     ],
+     "PHST": [
+          "2007/11/29 09:00 [pubmed]",
+          "2008/01/23 09:00 [medline]",
+          "2007/11/29 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TMI.2007.903195 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2007 Nov;26(11):1537-46. doi: 10.1109/TMI.2007.903195.",
+     "term": "hippocampus"
+}

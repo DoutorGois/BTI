@@ -1,0 +1,74 @@
+{
+     "PMID": "25121111",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150420",
+     "LR": "20150805",
+     "IS": "1537-744X (Electronic) 1537-744X (Linking)",
+     "VI": "2014",
+     "DP": "2014",
+     "TI": "Integrated navigation fusion strategy of INS/UWB for indoor carrier attitude angle and position synchronous tracking.",
+     "PG": "215303",
+     "LID": "10.1155/2014/215303 [doi]",
+     "AB": "In some GPS failure conditions, positioning for mobile target is difficult. This paper proposed a new method based on INS/UWB for attitude angle and position synchronous tracking of indoor carrier. Firstly, error model of INS/UWB integrated system is built, including error equation of INS and UWB. And combined filtering model of INS/UWB is researched. Simulation results show that the two subsystems are complementary. Secondly, integrated navigation data fusion strategy of INS/UWB based on Kalman filtering theory is proposed. Simulation results show that FAKF method is better than the conventional Kalman filtering. Finally, an indoor experiment platform is established to verify the integrated navigation theory of INS/UWB, which is geared to the needs of coal mine working environment. Static and dynamic positioning results show that the INS/UWB integrated navigation system is stable and real-time, positioning precision meets the requirements of working condition and is better than any independent subsystem.",
+     "FAU": [
+          "Fan, Qigao",
+          "Wu, Yaheng",
+          "Hui, Jing",
+          "Wu, Lei",
+          "Yu, Zhenzhong",
+          "Zhou, Lijuan"
+     ],
+     "AU": [
+          "Fan Q",
+          "Wu Y",
+          "Hui J",
+          "Wu L",
+          "Yu Z",
+          "Zhou L"
+     ],
+     "AUID": [
+          "ORCID: 0000-0002-2970-1973",
+          "ORCID: 0000-0001-7504-1155"
+     ],
+     "AD": "Key Laboratory of Advanced Process Control for Light Industry, Ministry of Education, Jiangnan University, Wuxi 214122, China. Key Laboratory of Advanced Process Control for Light Industry, Ministry of Education, Jiangnan University, Wuxi 214122, China. Key Laboratory of Advanced Process Control for Light Industry, Ministry of Education, Jiangnan University, Wuxi 214122, China. Key Laboratory of Advanced Process Control for Light Industry, Ministry of Education, Jiangnan University, Wuxi 214122, China. Key Laboratory of Advanced Process Control for Light Industry, Ministry of Education, Jiangnan University, Wuxi 214122, China. Avlc Radar and Avionics Institute, Wuxi 214122, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140708",
+     "PL": "United States",
+     "TA": "ScientificWorldJournal",
+     "JT": "TheScientificWorldJournal",
+     "JID": "101131163",
+     "SB": "IM",
+     "MH": [
+          "Geographic Information Systems",
+          "*Geography",
+          "*Models, Theoretical",
+          "*Research Design",
+          "*Spatial Navigation"
+     ],
+     "PMC": "PMC4121039",
+     "EDAT": "2014/08/15 06:00",
+     "MHDA": "2015/04/22 06:00",
+     "CRDT": [
+          "2014/08/15 06:00"
+     ],
+     "PHST": [
+          "2014/03/12 00:00 [received]",
+          "2014/06/16 00:00 [accepted]",
+          "2014/08/15 06:00 [entrez]",
+          "2014/08/15 06:00 [pubmed]",
+          "2015/04/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2014/215303 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "ScientificWorldJournal. 2014;2014:215303. doi: 10.1155/2014/215303. Epub 2014 Jul 8.",
+     "term": "spatial navigation"
+}

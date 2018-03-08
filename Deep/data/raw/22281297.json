@@ -1,0 +1,84 @@
+{
+     "PMID": "22281297",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120718",
+     "LR": "20161019",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "205",
+     "IP": "2",
+     "DP": "2012 Apr 15",
+     "TI": "The statistical analysis of partially confounded covariates important to neural spiking.",
+     "PG": "295-304",
+     "LID": "10.1016/j.jneumeth.2011.12.021 [doi]",
+     "AB": "A method is presented capable of disambiguating the relative influence of statistical covariates upon neural spiking activity. The method, an extension of the generalized linear model (GLM) methodology introduced in Truccolo et al. (2005) to analyze neural spiking data, exploits projection operations motivated by a geometry present in the Fisher information of the GLM maximum likelihood parameter estimator. By exploiting these projections, neural activity can be divided into three categories. These three categories, neural activity due solely to a set of covariates of interest, neural activity due solely to a set of uninteresting, or nuisance, covariates, and neural activity that cannot be unequivocally assigned to either set of covariates, can be associated with physical variables such as time, position, head-direction and velocity. This association allows the analysis of neural activity that can, for example, be due solely to temporal influence, irrespective of other, identified, influences. The method is applied in simulation to a rat exploring a temporally modulated place field. A portion of the analysis reported in MacDonald et al. (2011), using the methodology described herein, is reproduced. This analysis demonstrates the temporal bridging of a delay period in a sequential memory task by firing activity of cells present in the rodent hippocampus that cannot be explained by rodent position, head direction or velocity.",
+     "CI": [
+          "Copyright A(c) 2012 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Lepage, Kyle Q",
+          "Macdonald, Christopher J",
+          "Eichenbaum, Howard",
+          "Eden, Uri T"
+     ],
+     "AU": [
+          "Lepage KQ",
+          "Macdonald CJ",
+          "Eichenbaum H",
+          "Eden UT"
+     ],
+     "AD": "Department of Mathematics and Statistics, Boston University, Boston, MA, USA. lepage@math.bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 MH071702/MH/NIMH NIH HHS/United States",
+          "R01 NS073118/NS/NINDS NIH HHS/United States",
+          "MH096297/MH/NIMH NIH HHS/United States",
+          "MH71702/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20120117",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Data Interpretation, Statistical",
+          "*Models, Neurological",
+          "*Models, Theoretical",
+          "Neurons/*physiology",
+          "Rats"
+     ],
+     "PMC": "PMC3976545",
+     "MID": [
+          "NIHMS360200"
+     ],
+     "EDAT": "2012/01/28 06:00",
+     "MHDA": "2012/07/19 06:00",
+     "CRDT": [
+          "2012/01/28 06:00"
+     ],
+     "PHST": [
+          "2011/09/06 00:00 [received]",
+          "2011/12/05 00:00 [revised]",
+          "2011/12/26 00:00 [accepted]",
+          "2012/01/28 06:00 [entrez]",
+          "2012/01/28 06:00 [pubmed]",
+          "2012/07/19 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(11)00758-8 [pii]",
+          "10.1016/j.jneumeth.2011.12.021 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2012 Apr 15;205(2):295-304. doi: 10.1016/j.jneumeth.2011.12.021. Epub 2012 Jan 17.",
+     "term": "hippocampus"
+}

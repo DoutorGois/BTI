@@ -1,0 +1,79 @@
+{
+     "PMID": "21452258",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120814",
+     "LR": "20170922",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "22",
+     "IP": "5",
+     "DP": "2012 May",
+     "TI": "Modeling sharp wave-ripple complexes through a CA3-CA1 network model with chemical synapses.",
+     "PG": "995-1017",
+     "LID": "10.1002/hipo.20930 [doi]",
+     "AB": "The hippocampus, and particularly the CA3 and CA1 areas, exhibit a variety of oscillatory rhythms that span frequencies from the slow theta range (4-10 Hz) up to fast ripples (200 Hz). Various computational models of different complexities have been developed in an effort to simulate such population oscillations. Nevertheless the mechanism that underlies the so called Sharp Wave-Ripple complex (SPWR), observed in extracellular recordings in CA1, still remains elusive. We present here, the combination of two simple but realistic models of the rat CA3 and CA1 areas, connected together in a feedforward scheme mimicking Schaffer collaterals. Both network models are computationally simple one-dimensional arrays of excitatory and inhibitory populations interacting only via fast chemical synapses. Connectivity schemes and postsynaptic potentials are based on physiological data, yielding a realistic network topology. The CA3 model exhibits quasi-synchronous population bursts, which give rise to sharp wave-like deep depolarizations in the CA1 dendritic layer accompanied by transient field oscillations at approximately 150-200 Hz in the somatic layer. The frequency and synchrony of these oscillations is based on interneuronal activity and fast-decaying recurrent inhibition in CA1. Pyramidal cell spikes are sparse and come from a subset of cells receiving stronger than average excitatory input from CA3. The model is shown to accurately reproduce a large number of basic characteristics of SPWRs and yields a new mechanism for the generation of ripples, offering an interpretation to a range of neurophysiological observations, such as the ripple disruption by halothane and the selective firing of pyramidal cells during ripples, which may have implications for memory consolidation during SPWRs.",
+     "CI": [
+          "Copyright (c) 2011 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Taxidis, Jiannis",
+          "Coombes, Stephen",
+          "Mason, Robert",
+          "Owen, Markus R"
+     ],
+     "AU": [
+          "Taxidis J",
+          "Coombes S",
+          "Mason R",
+          "Owen MR"
+     ],
+     "AD": "Division of Applied Mathematics, University of Nottingham, Nottingham, United Kingdom. pmxit@nottingham.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0401458/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110330",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain Waves/*physiology",
+          "CA1 Region, Hippocampal/*physiology",
+          "CA3 Region, Hippocampal/*physiology",
+          "Electrophysiology",
+          "Interneurons/physiology",
+          "Memory/physiology",
+          "Mice",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Pyramidal Cells/physiology",
+          "Rats",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2011/04/01 06:00",
+     "MHDA": "2012/08/15 06:00",
+     "CRDT": [
+          "2011/04/01 06:00"
+     ],
+     "PHST": [
+          "2010/12/29 00:00 [accepted]",
+          "2011/04/01 06:00 [entrez]",
+          "2011/04/01 06:00 [pubmed]",
+          "2012/08/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.20930 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2012 May;22(5):995-1017. doi: 10.1002/hipo.20930. Epub 2011 Mar 30.",
+     "term": "hippocampus"
+}

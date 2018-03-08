@@ -1,0 +1,67 @@
+{
+     "PMID": "28174616",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20170816",
+     "IS": "1871-4080 (Print) 1871-4080 (Linking)",
+     "VI": "11",
+     "IP": "1",
+     "DP": "2017 Feb",
+     "TI": "Optimal path-finding through mental exploration based on neural energy field gradients.",
+     "PG": "99-111",
+     "LID": "10.1007/s11571-016-9412-2 [doi]",
+     "AB": "Rodent animal can accomplish self-locating and path-finding task by forming a cognitive map in the hippocampus representing the environment. In the classical model of the cognitive map, the system (artificial animal) needs large amounts of physical exploration to study spatial environment to solve path-finding problems, which costs too much time and energy. Although Hopfield's mental exploration model makes up for the deficiency mentioned above, the path is still not efficient enough. Moreover, his model mainly focused on the artificial neural network, and clear physiological meanings has not been addressed. In this work, based on the concept of mental exploration, neural energy coding theory has been applied to the novel calculation model to solve the path-finding problem. Energy field is constructed on the basis of the firing power of place cell clusters, and the energy field gradient can be used in mental exploration to solve path-finding problems. The study shows that the new mental exploration model can efficiently find the optimal path, and present the learning process with biophysical meaning as well. We also analyzed the parameters of the model which affect the path efficiency. This new idea verifies the importance of place cell and synapse in spatial memory and proves that energy coding is effective to study cognitive activities. This may provide the theoretical basis for the neural dynamics mechanism of spatial memory.",
+     "FAU": [
+          "Wang, Yihong",
+          "Wang, Rubin",
+          "Zhu, Yating"
+     ],
+     "AU": [
+          "Wang Y",
+          "Wang R",
+          "Zhu Y"
+     ],
+     "AD": "East China University of Science and Technology, Shanghai, 200237 China.0000 0001 2163 4895grid.28056.39 East China University of Science and Technology, Shanghai, 200237 China.0000 0001 2163 4895grid.28056.39 East China University of Science and Technology, Shanghai, 200237 China.0000 0001 2163 4895grid.28056.39",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160930",
+     "PL": "Netherlands",
+     "TA": "Cogn Neurodyn",
+     "JT": "Cognitive neurodynamics",
+     "JID": "101306907",
+     "PMC": "PMC5264755",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Cognitive map",
+          "Energy coding",
+          "Energy field",
+          "Energy field gradient",
+          "Mental exploration"
+     ],
+     "EDAT": "2017/02/09 06:00",
+     "MHDA": "2017/02/09 06:01",
+     "CRDT": [
+          "2017/02/09 06:00"
+     ],
+     "PHST": [
+          "2016/05/18 00:00 [received]",
+          "2016/09/08 00:00 [revised]",
+          "2016/09/17 00:00 [accepted]",
+          "2017/02/09 06:00 [entrez]",
+          "2017/02/09 06:00 [pubmed]",
+          "2017/02/09 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1007/s11571-016-9412-2 [doi]",
+          "9412 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cogn Neurodyn. 2017 Feb;11(1):99-111. doi: 10.1007/s11571-016-9412-2. Epub 2016 Sep 30.",
+     "term": "hippocampus"
+}

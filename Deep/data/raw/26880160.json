@@ -1,0 +1,94 @@
+{
+     "PMID": "26880160",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170117",
+     "LR": "20170117",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "264",
+     "DP": "2016 May 1",
+     "TI": "Microelectrode array analysis of hippocampal network dynamics following theta-burst stimulation via current source density reconstruction by Gaussian interpolation.",
+     "PG": "1-10",
+     "LID": "10.1016/j.jneumeth.2016.02.011 [doi] S0165-0270(16)00063-7 [pii]",
+     "AB": "BACKGROUND: Multielectrode arrays (MEAs) have been used to understand electrophysiological network dynamics by recording real-time activity in groups of cells. The extent to which the collection of such data enables hypothesis testing on the level of circuits and networks depends largely on the sophistication of the analyses applied. NEW METHOD: We studied the systemic temporal variations of endogenous signaling within an organotypic hippocampal network following theta-burst stimulation (TBS) to the Schaffer collateral-commissural pathways. The recovered current source density (CSD) information from the raw grid of extracellular potentials by using a Gaussian interpolation method increases spatial resolution and avoids border artifacts by numerical differentials. RESULTS: We compared total sink and source currents in DG, CA3, and CA1; calculated accumulated correlation coefficients to compare pre- with post-stimulation CSD dynamics in each region; and reconstructed functional connectivity maps for regional cross-correlations with respect to temporal CSD variations. The functional connectivity maps for potential correlations pre- and post-TBS were compared to investigate the neural network as a whole, revealing differences post-TBS. COMPARISON WITH EXISTING METHOD(S): Previous MEA work on plasticity in hippocampal evoked potentials has focused on synchronicity across the hippocampus within isolated subregions. Such analyses ignore the complex relationships among diverse components of the hippocampal circuitry, thus failing to capture network-level behaviors integral to understanding hippocampal function. CONCLUSIONS: The proposed method of recovering current source density to examine whole-hippocampal function is sensitive to experimental manipulation and is worth further examination in the context of network-level analyses of neural signaling.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Kim, Hyun-Bum",
+          "Oh, Tong-In",
+          "Swanberg, Kelley M",
+          "Lee, Mun-Bae",
+          "Kim, Tae-Woo",
+          "Woo, Eung-Je",
+          "Park, Ji-Ho",
+          "Kwon, Oh-In"
+     ],
+     "AU": [
+          "Kim HB",
+          "Oh TI",
+          "Swanberg KM",
+          "Lee MB",
+          "Kim TW",
+          "Woo EJ",
+          "Park JH",
+          "Kwon OI"
+     ],
+     "AD": "Department of East-West Medical Science, Graduate School of East-West Medical Science, Kyung Hee University, Deogyeong-daero, Giheung-gu, Yongin 446-701, Republic of Korea. Department of Biomedical Engineering, Engineering, College of Medicine, Kyung Hee University, 26 Kyungheedae-ro, Dongdaemun-gu, Seoul 130-701, Republic of Korea. Department of East-West Medicine, Graduate School of East-West Medical Science, Kyung Hee University, Deogyeong-daero, Giheung-gu, Yongin 446-701, Republic of Korea. Department of Mathematics, Konkuk University, Neungdong-ro, Gwangjin-gu, Seoul 143-701, Republic of Korea. Department of East-West Medical Science, Graduate School of East-West Medical Science, Kyung Hee University, Deogyeong-daero, Giheung-gu, Yongin 446-701, Republic of Korea. Department of Biomedical Engineering, Engineering, College of Medicine, Kyung Hee University, 26 Kyungheedae-ro, Dongdaemun-gu, Seoul 130-701, Republic of Korea. Department of East-West Medicine, Graduate School of East-West Medical Science, Kyung Hee University, Deogyeong-daero, Giheung-gu, Yongin 446-701, Republic of Korea. Department of Mathematics, Konkuk University, Neungdong-ro, Gwangjin-gu, Seoul 143-701, Republic of Korea. Electronic address: oikwon@konkuk.ac.kr.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160212",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Data Interpretation, Statistical",
+          "*Electrophysiological Phenomena",
+          "Evoked Potentials/*physiology",
+          "Hippocampus/*physiology",
+          "Microelectrodes",
+          "Nerve Net/*physiology",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Transcranial Magnetic Stimulation/*methods"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Current source density (CSD)",
+          "Functional connectivity",
+          "Hippocampus",
+          "Long-term potentiation (LTP)",
+          "Multielectrode array (MEA)",
+          "Neural circuit"
+     ],
+     "EDAT": "2016/02/18 06:00",
+     "MHDA": "2017/01/18 06:00",
+     "CRDT": [
+          "2016/02/17 06:00"
+     ],
+     "PHST": [
+          "2015/12/10 00:00 [received]",
+          "2016/02/05 00:00 [revised]",
+          "2016/02/06 00:00 [accepted]",
+          "2016/02/17 06:00 [entrez]",
+          "2016/02/18 06:00 [pubmed]",
+          "2017/01/18 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(16)00063-7 [pii]",
+          "10.1016/j.jneumeth.2016.02.011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2016 May 1;264:1-10. doi: 10.1016/j.jneumeth.2016.02.011. Epub 2016 Feb 12.",
+     "term": "hippocampus"
+}

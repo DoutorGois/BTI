@@ -1,0 +1,109 @@
+{
+     "PMID": "23587689",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140106",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "78",
+     "DP": "2013 Sep",
+     "TI": "Surface fluid registration of conformal representation: application to detect disease burden and genetic influence on hippocampus.",
+     "PG": "111-34",
+     "LID": "10.1016/j.neuroimage.2013.04.018 [doi] S1053-8119(13)00345-5 [pii]",
+     "AB": "In this paper, we develop a new automated surface registration system based on surface conformal parameterization by holomorphic 1-forms, inverse consistent surface fluid registration, and multivariate tensor-based morphometry (mTBM). First, we conformally map a surface onto a planar rectangle space with holomorphic 1-forms. Second, we compute surface conformal representation by combining its local conformal factor and mean curvature and linearly scale the dynamic range of the conformal representation to form the feature image of the surface. Third, we align the feature image with a chosen template image via the fluid image registration algorithm, which has been extended into the curvilinear coordinates to adjust for the distortion introduced by surface parameterization. The inverse consistent image registration algorithm is also incorporated in the system to jointly estimate the forward and inverse transformations between the study and template images. This alignment induces a corresponding deformation on the surface. We tested the system on Alzheimer's Disease Neuroimaging Initiative (ADNI) baseline dataset to study AD symptoms on hippocampus. In our system, by modeling a hippocampus as a 3D parametric surface, we nonlinearly registered each surface with a selected template surface. Then we used mTBM to analyze the morphometry difference between diagnostic groups. Experimental results show that the new system has better performance than two publicly available subcortical surface registration tools: FIRST and SPHARM. We also analyzed the genetic influence of the Apolipoprotein E[element of]4 allele (ApoE4), which is considered as the most prevalent risk factor for AD. Our work successfully detected statistically significant difference between ApoE4 carriers and non-carriers in both patients of mild cognitive impairment (MCI) and healthy control subjects. The results show evidence that the ApoE genotype may be associated with accelerated brain atrophy so that our work provides a new MRI analysis tool that may help presymptomatic AD research.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Shi, Jie",
+          "Thompson, Paul M",
+          "Gutman, Boris",
+          "Wang, Yalin"
+     ],
+     "AU": [
+          "Shi J",
+          "Thompson PM",
+          "Gutman B",
+          "Wang Y"
+     ],
+     "AD": "School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, Tempe, AZ 85287, USA.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "AG016570/AG/NIA NIH HHS/United States",
+          "R01 AG040060/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "U19 AG010483/AG/NIA NIH HHS/United States",
+          "EB01651/EB/NIBIB NIH HHS/United States",
+          "RR019771/RR/NCRR NIH HHS/United States",
+          "P50 AG016570/AG/NIA NIH HHS/United States",
+          "Canadian Institutes of Health Research/Canada",
+          "LM05639/LM/NLM NIH HHS/United States",
+          "R01 NS080655/NS/NINDS NIH HHS/United States",
+          "R01 MH097268/MH/NIMH NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "R01 EB008281/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130413",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "0 (Apolipoprotein E4)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Alzheimer Disease/genetics/pathology",
+          "Apolipoprotein E4/*genetics",
+          "Brain Mapping/*methods",
+          "Cognitive Dysfunction/*genetics/pathology",
+          "Databases, Factual",
+          "Diffusion Tensor Imaging",
+          "Female",
+          "Genetic Predisposition to Disease/genetics",
+          "Genotype",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Male",
+          "Middle Aged"
+     ],
+     "PMC": "PMC3683848",
+     "MID": [
+          "NIHMS475051"
+     ],
+     "EDAT": "2013/04/17 06:00",
+     "MHDA": "2014/01/07 06:00",
+     "CRDT": [
+          "2013/04/17 06:00"
+     ],
+     "PHST": [
+          "2012/12/08 00:00 [received]",
+          "2013/03/06 00:00 [revised]",
+          "2013/04/05 00:00 [accepted]",
+          "2013/04/17 06:00 [entrez]",
+          "2013/04/17 06:00 [pubmed]",
+          "2014/01/07 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(13)00345-5 [pii]",
+          "10.1016/j.neuroimage.2013.04.018 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2013 Sep;78:111-34. doi: 10.1016/j.neuroimage.2013.04.018. Epub 2013 Apr 13.",
+     "term": "hippocampus"
+}

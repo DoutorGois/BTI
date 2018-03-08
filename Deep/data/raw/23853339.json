@@ -1,0 +1,55 @@
+{
+     "PMID": "23853339",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130716",
+     "LR": "20130715",
+     "IS": "1932-4545 (Print) 1932-4545 (Linking)",
+     "VI": "4",
+     "IP": "3",
+     "DP": "2010 Jun",
+     "TI": "The 128-channel fully differential digital integrated neural recording and stimulation interface.",
+     "PG": "149-61",
+     "LID": "10.1109/TBCAS.2010.2041350 [doi]",
+     "AB": "We present a fully differential 128-channel integrated neural interface. It consists of an array of 8 X 16 low-power low-noise signal-recording and generation circuits for electrical neural activity monitoring and stimulation, respectively. The recording channel has two stages of signal amplification and conditioning with and a fully differential 8-b column-parallel successive approximation (SAR) analog-to-digital converter (ADC). The total measured power consumption of each recording channel, including the SAR ADC, is 15.5 inverted question markW. The measured input-referred noise is 6.08 inverted question mark Vrms over a 5-kHz bandwidth, resulting in a noise efficiency factor of 5.6. The stimulation channel performs monophasic or biphasic voltage-mode stimulation, with a maximum stimulation current of 5 mA and a quiescent power dissipation of 51.5 inverted question markW. The design is implemented in 0.35- inverted question markm complementary metal-oxide semiconductor technology with the channel pitch of 200 inverted question markm for a total die size of 3.4 mm x 2.5 mm and a total power consumption of 9.33 mW. The neural interface was validated in in vitro recording of a low-Mg(2+)/high-K(+) epileptic seizure model in an intact hippocampus of a mouse.",
+     "FAU": [
+          "Shahrokhi, Farzaneh",
+          "Abdelhalim, Karim",
+          "Serletis, Demitre",
+          "Carlen, Peter L",
+          "Genov, Roman"
+     ],
+     "AU": [
+          "Shahrokhi F",
+          "Abdelhalim K",
+          "Serletis D",
+          "Carlen PL",
+          "Genov R"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Circuits Syst",
+     "JT": "IEEE transactions on biomedical circuits and systems",
+     "JID": "101312520",
+     "EDAT": "2010/06/01 00:00",
+     "MHDA": "2010/06/01 00:01",
+     "CRDT": [
+          "2013/07/16 06:00"
+     ],
+     "PHST": [
+          "2013/07/16 06:00 [entrez]",
+          "2010/06/01 00:00 [pubmed]",
+          "2010/06/01 00:01 [medline]"
+     ],
+     "AID": [
+          "10.1109/TBCAS.2010.2041350 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Circuits Syst. 2010 Jun;4(3):149-61. doi: 10.1109/TBCAS.2010.2041350.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,62 @@
+{
+     "PMID": "21887143",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20111110",
+     "LR": "20170220",
+     "IS": "1662-5188 (Electronic) 1662-5188 (Linking)",
+     "VI": "5",
+     "DP": "2011",
+     "TI": "The construction of semantic memory: grammar-based representations learned from relational episodic information.",
+     "PG": "36",
+     "LID": "10.3389/fncom.2011.00036 [doi]",
+     "AB": "After acquisition, memories underlie a process of consolidation, making them more resistant to interference and brain injury. Memory consolidation involves systems-level interactions, most importantly between the hippocampus and associated structures, which takes part in the initial encoding of memory, and the neocortex, which supports long-term storage. This dichotomy parallels the contrast between episodic memory (tied to the hippocampal formation), collecting an autobiographical stream of experiences, and semantic memory, a repertoire of facts and statistical regularities about the world, involving the neocortex at large. Experimental evidence points to a gradual transformation of memories, following encoding, from an episodic to a semantic character. This may require an exchange of information between different memory modules during inactive periods. We propose a theory for such interactions and for the formation of semantic memory, in which episodic memory is encoded as relational data. Semantic memory is modeled as a modified stochastic grammar, which learns to parse episodic configurations expressed as an association matrix. The grammar produces tree-like representations of episodes, describing the relationships between its main constituents at multiple levels of categorization, based on its current knowledge of world regularities. These regularities are learned by the grammar from episodic memory information, through an expectation-maximization procedure, analogous to the inside-outside algorithm for stochastic context-free grammars. We propose that a Monte-Carlo sampling version of this algorithm can be mapped on the dynamics of \"sleep replay\" of previously acquired information in the hippocampus and neocortex. We propose that the model can reproduce several properties of semantic memory such as decontextualization, top-down processing, and creation of schemata.",
+     "FAU": [
+          "Battaglia, Francesco P",
+          "Pennartz, Cyriel M A"
+     ],
+     "AU": [
+          "Battaglia FP",
+          "Pennartz CM"
+     ],
+     "AD": "Center for Neuroscience, Swammerdam Institute for Life Sciences, Universiteit van Amsterdam Amsterdam, Netherlands.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20110818",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC3157741",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "episodic memory",
+          "memory consolidation",
+          "sleep replay",
+          "stochastic grammars"
+     ],
+     "EDAT": "2011/09/03 06:00",
+     "MHDA": "2011/09/03 06:01",
+     "CRDT": [
+          "2011/09/03 06:00"
+     ],
+     "PHST": [
+          "2010/02/23 00:00 [received]",
+          "2011/07/29 00:00 [accepted]",
+          "2011/09/03 06:00 [entrez]",
+          "2011/09/03 06:00 [pubmed]",
+          "2011/09/03 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2011.00036 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2011 Aug 18;5:36. doi: 10.3389/fncom.2011.00036. eCollection 2011.",
+     "term": "hippocampus"
+}

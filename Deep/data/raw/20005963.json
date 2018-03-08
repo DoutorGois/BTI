@@ -1,0 +1,92 @@
+{
+     "PMID": "20005963",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100511",
+     "LR": "20171116",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "50",
+     "IP": "2",
+     "DP": "2010 Apr 1",
+     "TI": "Bias in estimation of hippocampal atrophy using deformation-based morphometry arises from asymmetric global normalization: an illustration in ADNI 3 T MRI data.",
+     "PG": "434-45",
+     "LID": "10.1016/j.neuroimage.2009.12.007 [doi]",
+     "AB": "Measurement of brain change due to neurodegenerative disease and treatment is one of the fundamental tasks of neuroimaging. Deformation-based morphometry (DBM) has been long recognized as an effective and sensitive tool for estimating the change in the volume of brain regions over time. This paper demonstrates that a straightforward application of DBM to estimate the change in the volume of the hippocampus can result in substantial bias, i.e., an overestimation of the rate of change in hippocampal volume. In ADNI data, this bias is manifested as a non-zero intercept of the regression line fitted to the 6 and 12 month rates of hippocampal atrophy. The bias is further confirmed by applying DBM to repeat scans of subjects acquired on the same day. This bias appears to be the result of asymmetry in the interpolation of baseline and followup images during longitudinal image registration. Correcting this asymmetry leads to bias-free atrophy estimation.",
+     "CI": [
+          "Copyright 2009 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Yushkevich, Paul A",
+          "Avants, Brian B",
+          "Das, Sandhitsu R",
+          "Pluta, John",
+          "Altinay, Murat",
+          "Craige, Caryne"
+     ],
+     "AU": [
+          "Yushkevich PA",
+          "Avants BB",
+          "Das SR",
+          "Pluta J",
+          "Altinay M",
+          "Craige C"
+     ],
+     "AD": "Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104, USA. pauly2@mail.med.upenn.edu",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "K25 AG027785-03/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "U19 AG010483/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20091231",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/epidemiology/*pathology",
+          "Atrophy/pathology",
+          "Bias",
+          "Brain Mapping/*methods",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "*Magnetic Resonance Imaging"
+     ],
+     "PMC": "PMC2823935",
+     "MID": [
+          "NIHMS164854"
+     ],
+     "EDAT": "2009/12/17 06:00",
+     "MHDA": "2010/05/12 06:00",
+     "CRDT": [
+          "2009/12/17 06:00"
+     ],
+     "PHST": [
+          "2009/10/16 00:00 [received]",
+          "2009/11/26 00:00 [revised]",
+          "2009/12/01 00:00 [accepted]",
+          "2009/12/17 06:00 [entrez]",
+          "2009/12/17 06:00 [pubmed]",
+          "2010/05/12 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(09)01294-4 [pii]",
+          "10.1016/j.neuroimage.2009.12.007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2010 Apr 1;50(2):434-45. doi: 10.1016/j.neuroimage.2009.12.007. Epub 2009 Dec 31.",
+     "term": "hippocampus"
+}

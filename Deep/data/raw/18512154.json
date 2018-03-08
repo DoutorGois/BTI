@@ -1,0 +1,92 @@
+{
+     "PMID": "18512154",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090204",
+     "LR": "20161122",
+     "IS": "1559-7113 (Electronic) 1559-7105 (Linking)",
+     "VI": "36",
+     "IP": "1-4",
+     "DP": "2008 Aug",
+     "TI": "Highly sensitive and quantitative FRET-FLIM imaging in single dendritic spines using improved non-radiative YFP.",
+     "PG": "31-42",
+     "LID": "10.1007/s11068-008-9024-9 [doi]",
+     "AB": "Two-photon fluorescence lifetime imaging microscopy (TPFLIM) enables the quantitative measurements of fluorescence resonance energy transfer (FRET) in small subcellular compartments in light scattering tissue. We evaluated and optimized the FRET pair of mEGFP (monomeric EGFP with the A206K mutation) and REACh (non-radiative YFP variants) for TPFLIM. We characterized several mutants of REACh in terms of their \"darkness,\" and their ability to act as a FRET acceptor for mEGFP in HeLa cells and hippocampal neurons. Since the commonly used monomeric mutation A206K increases the brightness of REACh, we introduced a different monomeric mutation (F223R) which does not affect the brightness. Also, we found that the folding efficiency of original REACh, as measured by the fluorescence lifetime of a mEGFP-REACh tandem dimer, was low and variable from cell to cell. Introducing two folding mutations (F46L, Q69M) into REACh increased the folding efficiency by approximately 50%, and reduced the variability of FRET signal. Pairing mEGFP with the new REACh (super-REACh, or sREACh) improved the signal-to-noise ratio compared to the mEGFP-mRFP or mEGFP-original REACh pair by approximately 50%. Using this new pair, we demonstrated that the fraction of actin monomers in filamentous and globular forms in single dendritic spines can be quantitatively measured with high sensitivity. Thus, the mEGFP-sREACh pair is suited for quantitative FRET measurement by TPFLIM, and enables us to measure protein-protein interactions in individual dendritic spines in brain slices with high sensitivity.",
+     "FAU": [
+          "Murakoshi, Hideji",
+          "Lee, Seok-Jin",
+          "Yasuda, Ryohei"
+     ],
+     "AU": [
+          "Murakoshi H",
+          "Lee SJ",
+          "Yasuda R"
+     ],
+     "AD": "Department of Neurobiology, Duke University Medical Center, Durham, NC 27710, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH080047/MH/NIMH NIH HHS/United States",
+          "R01 MH080047-01/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20080530",
+     "PL": "United States",
+     "TA": "Brain Cell Biol",
+     "JT": "Brain cell biology",
+     "JID": "101272887",
+     "RN": [
+          "0 (Actins)",
+          "0 (Luminescent Proteins)",
+          "0 (enhanced green fluorescent protein)",
+          "147336-22-9 (Green Fluorescent Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Actins/genetics/metabolism",
+          "Algorithms",
+          "Animals",
+          "Dendritic Spines/*metabolism",
+          "Fluorescence Resonance Energy Transfer/*methods",
+          "Green Fluorescent Proteins/genetics/metabolism",
+          "HeLa Cells",
+          "Hippocampus/cytology",
+          "Humans",
+          "Luminescent Proteins/genetics/*metabolism",
+          "Microscopy, Fluorescence, Multiphoton/*methods",
+          "Models, Biological",
+          "Mutation",
+          "Neurons/cytology/metabolism",
+          "Rats",
+          "Signal Transduction/*physiology",
+          "Transfection"
+     ],
+     "PMC": "PMC2673728",
+     "MID": [
+          "NIHMS103052"
+     ],
+     "EDAT": "2008/05/31 09:00",
+     "MHDA": "2009/02/05 09:00",
+     "CRDT": [
+          "2008/05/31 09:00"
+     ],
+     "PHST": [
+          "2008/03/28 00:00 [received]",
+          "2008/04/28 00:00 [accepted]",
+          "2008/05/31 09:00 [pubmed]",
+          "2009/02/05 09:00 [medline]",
+          "2008/05/31 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s11068-008-9024-9 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Cell Biol. 2008 Aug;36(1-4):31-42. doi: 10.1007/s11068-008-9024-9. Epub 2008 May 30.",
+     "term": "hippocampus"
+}

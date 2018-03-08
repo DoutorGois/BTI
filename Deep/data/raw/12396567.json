@@ -1,0 +1,65 @@
+{
+     "PMID": "12396567",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20021126",
+     "LR": "20021024",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "14",
+     "IP": "10",
+     "DP": "2002 Oct",
+     "TI": "Hebbian imprinting and retrieval in oscillatory neural networks.",
+     "PG": "2371-96",
+     "AB": "We introduce a model of generalized Hebbian learning and retrieval in oscillatory neural networks modeling cortical areas such as hippocampus and olfactory cortex. Recent experiments have shown that synaptic plasticity depends on spike timing, especially on synapses from excitatory pyramidal cells, in hippocampus, and in sensory and cerebellar cortex. Here we study how such plasticity can be used to form memories and input representations when the neural dynamics are oscillatory, as is common in the brain (particularly in the hippocampus and olfactory cortex). Learning is assumed to occur in a phase of neural plasticity, in which the network is clamped to external teaching signals. By suitable manipulation of the nonlinearity of the neurons or the oscillation frequencies during learning, the model can be made, in a retrieval phase, either to categorize new inputs or to map them, in a continuous fashion, onto the space spanned by the imprinted patterns. We identify the first of these possibilities with the function of olfactory cortex and the second with the observed response characteristics of place cells in hippocampus. We investigate both kinds of networks analytically and by computer simulations, and we link the models with experimental findings, exploring, in particular, how the spike timing dependence of the synaptic plasticity constrains the computational function of the network and vice versa.",
+     "FAU": [
+          "Scarpetta, Silvia",
+          "Zhaoping, L",
+          "Hertz, John"
+     ],
+     "AU": [
+          "Scarpetta S",
+          "Zhaoping L",
+          "Hertz J"
+     ],
+     "AD": "Department of Physics E. R. Caianiello, Salerno University, Baronissi, Italy. silvia@sa.infn.it",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Hippocampus/physiology",
+          "*Imprinting (Psychology)",
+          "Mental Recall/physiology",
+          "*Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Neuronal Plasticity/physiology",
+          "Nonlinear Dynamics",
+          "Olfactory Pathways/physiology",
+          "*Periodicity",
+          "Pyramidal Cells/physiology",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2002/10/25 04:00",
+     "MHDA": "2002/11/28 04:00",
+     "CRDT": [
+          "2002/10/25 04:00"
+     ],
+     "PHST": [
+          "2002/10/25 04:00 [pubmed]",
+          "2002/11/28 04:00 [medline]",
+          "2002/10/25 04:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/08997660260293265 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2002 Oct;14(10):2371-96. doi: 10.1162/08997660260293265.",
+     "term": "place cells"
+}

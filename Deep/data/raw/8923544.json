@@ -1,0 +1,65 @@
+{
+     "PMID": "8923544",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19970325",
+     "LR": "20131121",
+     "IS": "0306-4522 (Print) 0306-4522 (Linking)",
+     "VI": "75",
+     "IP": "1",
+     "DP": "1996 Nov",
+     "TI": "Branching of active dendritic spines as a mechanism for controlling synaptic efficacy.",
+     "PG": "315-23",
+     "AB": "Recent experimental findings (Yuste R. and Denk W. (1995) Nature 375, 682-684) suggest that dendritic spines possess excitable membranes. Theoretically, it was shown earlier that the shape of active spines can significantly affect somatopetal synaptic signal transfer. Studies of long-term potentiation in the hippocampus have related the increased synaptic efficacy to a number of structural modifications of spines, including an increased number of branched spines [Trommald M. et al. (1990) In Neurotoxicity of Excitatory Amino Acids, pp. 163-174. Raven Press, New York] and a strengthened capability for spines to alter their spatial positions [Hosokawa T. et al. (1995) J. Neurosci. 15, 5560-5573]. In the present simulation study, the potential physiological impact of several types of spine changes was examined in a compartmental neuron model built using the neuromodelling software NEURON [Hines M. (1993) In Neural Systems: Analysis and Modeling, pp. 127-136. Kluwer Academic, Norwell, MA]. The model included 30 complex spines, with dual component synaptic currents and mechanisms of Ca2+ uptake, diffusion, binding and extrusion within spine heads. The results show that local clustering properties of spine distributions along dendrites are unlikely to affect synaptic efficacy. However, partial fusion of active spines, which results in formation of spine branches, or subtle changes in spine branch positions, could alone significantly increase synaptic signal transfer. These data illustrate possible mechanisms whereby subtle morphological changes in dendritic spines (compatible with changes reported in the literature) may be linked to the cellular mechanisms of learning and memory.",
+     "FAU": [
+          "Rusakov, D A",
+          "Stewart, M G",
+          "Korogod, S M"
+     ],
+     "AU": [
+          "Rusakov DA",
+          "Stewart MG",
+          "Korogod SM"
+     ],
+     "AD": "Department of Biology, Open University, Milton Keynes, U.K.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuroscience",
+     "JT": "Neuroscience",
+     "JID": "7605074",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Calcium/metabolism",
+          "*Computer Simulation",
+          "Dendrites/physiology/*ultrastructure",
+          "Learning/physiology",
+          "Long-Term Potentiation/physiology",
+          "*Models, Neurological",
+          "Synapses/*physiology"
+     ],
+     "EDAT": "1996/11/01 00:00",
+     "MHDA": "1996/11/01 00:01",
+     "CRDT": [
+          "1996/11/01 00:00"
+     ],
+     "PHST": [
+          "1996/11/01 00:00 [pubmed]",
+          "1996/11/01 00:01 [medline]",
+          "1996/11/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "0306452296002539 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroscience. 1996 Nov;75(1):315-23.",
+     "term": "hippocampus"
+}

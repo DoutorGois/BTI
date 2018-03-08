@@ -1,0 +1,100 @@
+{
+     "PMID": "25980389",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160513",
+     "LR": "20170220",
+     "IS": "1361-8423 (Electronic) 1361-8415 (Linking)",
+     "VI": "25",
+     "IP": "1",
+     "DP": "2015 Oct",
+     "TI": "Shape analysis based on depth-ordering.",
+     "PG": "2-10",
+     "LID": "10.1016/j.media.2015.04.004 [doi] S1361-8415(15)00054-7 [pii]",
+     "AB": "In this paper we propose a new method for shape analysis based on the ordering of shapes using band-depth. We use this band-depth to non-parametrically define a global depth for a shape with respect to a reference population, typically consisting of normal control subjects. This allows us to globally quantify differences with respect to \"normality\". Using the depth-ordering of shapes also allows the detection of localized shape differences by using alpha-central values of shapes. We propose permutation tests to statistically assess global and local shape differences. We further determine the directionality of shape differences (local inflation versus deflation). The method is evaluated on a synthetically generated striatum dataset, and applied to detect shape differences in the hippocampus between subjects with first-episode schizophrenia and normal controls.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Hong, Yi",
+          "Gao, Yi",
+          "Niethammer, Marc",
+          "Bouix, Sylvain"
+     ],
+     "AU": [
+          "Hong Y",
+          "Gao Y",
+          "Niethammer M",
+          "Bouix S"
+     ],
+     "AD": "Department of Computer Science, University of North Carolina (UNC) at Chapel Hill, NC, USA. Electronic address: yihong@cs.unc.edu. Department of Biomedical Informatics, Stony Brook University, Stony Brook, NY, USA. Department of Computer Science, University of North Carolina (UNC) at Chapel Hill, NC, USA; Biomedical Research Imaging Center, UNC-Chapel Hill, NC, USA. Psychiatry Neuroimaging Laboratory, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01-HL105241/HL/NHLBI NIH HHS/United States",
+          "P41 EB002025/EB/NIBIB NIH HHS/United States",
+          "R01-MH082918/MH/NIMH NIH HHS/United States",
+          "R01 MH082918/MH/NIMH NIH HHS/United States",
+          "R01 HL105241/HL/NHLBI NIH HHS/United States",
+          "P41EB002025/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20150416",
+     "PL": "Netherlands",
+     "TA": "Med Image Anal",
+     "JT": "Medical image analysis",
+     "JID": "9713490",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Brain/*pathology",
+          "Case-Control Studies",
+          "Female",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Neuroimaging/*methods",
+          "Reproducibility of Results",
+          "Schizophrenia/*pathology",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC4540634",
+     "MID": [
+          "NIHMS681956"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Depth-ordering of shape",
+          "Global analysis",
+          "Local analysis",
+          "Shape analysis"
+     ],
+     "EDAT": "2015/05/20 06:00",
+     "MHDA": "2016/05/14 06:00",
+     "CRDT": [
+          "2015/05/19 06:00"
+     ],
+     "PHST": [
+          "2014/11/15 00:00 [received]",
+          "2015/04/08 00:00 [revised]",
+          "2015/04/09 00:00 [accepted]",
+          "2015/05/19 06:00 [entrez]",
+          "2015/05/20 06:00 [pubmed]",
+          "2016/05/14 06:00 [medline]"
+     ],
+     "AID": [
+          "S1361-8415(15)00054-7 [pii]",
+          "10.1016/j.media.2015.04.004 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Anal. 2015 Oct;25(1):2-10. doi: 10.1016/j.media.2015.04.004. Epub 2015 Apr 16.",
+     "term": "hippocampus"
+}

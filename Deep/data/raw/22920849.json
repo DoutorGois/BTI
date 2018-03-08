@@ -1,0 +1,62 @@
+{
+     "PMID": "22920849",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130314",
+     "LR": "20121003",
+     "IS": "1530-888X (Electronic) 0899-7667 (Linking)",
+     "VI": "24",
+     "IP": "11",
+     "DP": "2012 Nov",
+     "TI": "The hippocampus as a stable memory allocator for cortex.",
+     "PG": "2873-99",
+     "LID": "10.1162/NECO_a_00357 [doi]",
+     "AB": "It is suggested here that mammalian hippocampus serves as an allocator of neurons in cortex for memorizing new items. A construction of a shallow feedforward network with biologically plausible parameters is given that possesses the characteristics needed for such an allocator. In particular, the construction is stabilizing in that for inputs within a range of activity levels spanning more than an order of magnitude, the output will have activity levels differing as little as 1%. It is also noise tolerant in that pairs of input patterns that differ little will generate output patterns that differ little. Further, pairs of inputs that differ by much will be mapped to outputs that also differ sufficiently that they can be treated by cortex as distinct.",
+     "FAU": [
+          "Valiant, Leslie G"
+     ],
+     "AU": [
+          "Valiant LG"
+     ],
+     "AD": "School of Engineering and Applied Sciences, Harvard University, Cambridge, MA 02138, USA. valiant@seas.harvard.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20120824",
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Cerebral Cortex/*physiology",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Learning/physiology",
+          "Memory/*physiology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/physiology"
+     ],
+     "EDAT": "2012/08/28 06:00",
+     "MHDA": "2013/03/15 06:00",
+     "CRDT": [
+          "2012/08/28 06:00"
+     ],
+     "PHST": [
+          "2012/08/28 06:00 [entrez]",
+          "2012/08/28 06:00 [pubmed]",
+          "2013/03/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1162/NECO_a_00357 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2012 Nov;24(11):2873-99. doi: 10.1162/NECO_a_00357. Epub 2012 Aug 24.",
+     "term": "hippocampus"
+}

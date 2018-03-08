@@ -1,0 +1,63 @@
+{
+     "PMID": "25754305",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161006",
+     "LR": "20161230",
+     "IS": "1745-6584 (Electronic) 0017-467X (Linking)",
+     "VI": "54",
+     "IP": "1",
+     "DP": "2016 Jan",
+     "TI": "Extending the MODPATH Algorithm to Rectangular Unstructured Grids.",
+     "PG": "121-5",
+     "LID": "10.1111/gwat.12328 [doi]",
+     "AB": "The recent release of MODFLOW-USG, which allows model grids to have irregular, unstructured connections, requires a modification of the particle-tracking algorithm used by MODPATH. This paper describes a modification of the semi-analytical particle-tracking algorithm used by MODPATH that allows it to be extended to rectangular-based unstructured grids by dividing grid cells with multi-cell face connections into sub-cells. The new method will be incorporated in the next version of MODPATH which is currently under development.",
+     "CI": [
+          "Published 2015. This article is a U.S. Government work and is in the public",
+          "domain in the USA."
+     ],
+     "FAU": [
+          "Pollock, David W"
+     ],
+     "AU": [
+          "Pollock DW"
+     ],
+     "AD": "U.S. Geological Survey, 411 National Center, Reston, VA 20192. dwpolloc@usgs.gov.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150305",
+     "PL": "United States",
+     "TA": "Ground Water",
+     "JT": "Ground water",
+     "JID": "9882886",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Computer Simulation",
+          "*Groundwater",
+          "Hydrology",
+          "*Water Movements"
+     ],
+     "EDAT": "2015/03/11 06:00",
+     "MHDA": "2016/10/08 06:00",
+     "CRDT": [
+          "2015/03/11 06:00"
+     ],
+     "PHST": [
+          "2014/07/28 00:00 [received]",
+          "2015/02/05 00:00 [accepted]",
+          "2015/03/11 06:00 [entrez]",
+          "2015/03/11 06:00 [pubmed]",
+          "2016/10/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/gwat.12328 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ground Water. 2016 Jan;54(1):121-5. doi: 10.1111/gwat.12328. Epub 2015 Mar 5.",
+     "term": "grid cells"
+}

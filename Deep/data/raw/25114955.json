@@ -1,0 +1,68 @@
+{
+     "PMID": "25114955",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150410",
+     "LR": "20150805",
+     "IS": "1537-744X (Electronic) 1537-744X (Linking)",
+     "VI": "2014",
+     "DP": "2014",
+     "TI": "Moving object localization using optical flow for pedestrian detection from a moving vehicle.",
+     "PG": "196415",
+     "LID": "10.1155/2014/196415 [doi]",
+     "AB": "This paper presents a pedestrian detection method from a moving vehicle using optical flows and histogram of oriented gradients (HOG). A moving object is extracted from the relative motion by segmenting the region representing the same optical flows after compensating the egomotion of the camera. To obtain the optical flow, two consecutive images are divided into grid cells 14 x 14 pixels; then each cell is tracked in the current frame to find corresponding cell in the next frame. Using at least three corresponding cells, affine transformation is performed according to each corresponding cell in the consecutive images, so that conformed optical flows are extracted. The regions of moving object are detected as transformed objects, which are different from the previously registered background. Morphological process is applied to get the candidate human regions. In order to recognize the object, the HOG features are extracted on the candidate region and classified using linear support vector machine (SVM). The HOG feature vectors are used as input of linear SVM to classify the given input into pedestrian/nonpedestrian. The proposed method was tested in a moving vehicle and also confirmed through experiments using pedestrian dataset. It shows a significant improvement compared with original HOG using ETHZ pedestrian dataset.",
+     "FAU": [
+          "Hariyono, Joko",
+          "Hoang, Van-Dung",
+          "Jo, Kang-Hyun"
+     ],
+     "AU": [
+          "Hariyono J",
+          "Hoang VD",
+          "Jo KH"
+     ],
+     "AUID": [
+          "ORCID: 0000-0003-2232-2580"
+     ],
+     "AD": "Graduate School of Electrical Engineering, University of Ulsan, Ulsan 680-749, Republic of Korea. Graduate School of Electrical Engineering, University of Ulsan, Ulsan 680-749, Republic of Korea. Graduate School of Electrical Engineering, University of Ulsan, Ulsan 680-749, Republic of Korea.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140710",
+     "PL": "United States",
+     "TA": "ScientificWorldJournal",
+     "JT": "TheScientificWorldJournal",
+     "JID": "101131163",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Humans",
+          "Models, Theoretical",
+          "*Motion",
+          "*Motor Vehicles"
+     ],
+     "PMC": "PMC4121190",
+     "EDAT": "2014/08/13 06:00",
+     "MHDA": "2015/04/11 06:00",
+     "CRDT": [
+          "2014/08/13 06:00"
+     ],
+     "PHST": [
+          "2014/04/09 00:00 [received]",
+          "2014/06/07 00:00 [revised]",
+          "2014/06/08 00:00 [accepted]",
+          "2014/08/13 06:00 [entrez]",
+          "2014/08/13 06:00 [pubmed]",
+          "2015/04/11 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2014/196415 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "ScientificWorldJournal. 2014;2014:196415. doi: 10.1155/2014/196415. Epub 2014 Jul 10.",
+     "term": "grid cells"
+}

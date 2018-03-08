@@ -1,0 +1,90 @@
+{
+     "PMID": "17112749",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070213",
+     "LR": "20161124",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "34",
+     "IP": "2",
+     "DP": "2007 Jan 15",
+     "TI": "Automated template-based PET region of interest analyses in the aging brain.",
+     "PG": "608-17",
+     "AB": "The definition of regions of interest for PET data analysis poses a number of complex problems. While studies have shown that regions drawn on a template can be appropriate for extracting data for normal healthy subjects, it is unclear how these results can be applied to different populations. In this study, we focused on the aging population and examined how different parameters in the template data-extraction process may affect the accuracy of the results. We first present an automated method for extracting PET counts using a region-of-interest approach within a template framework. Then, we discuss two studies in which we measure the effects of varying specific parameters in this process. In study 1 we examined three parameters that may influence this process: choice of template, region, and threshold. In study 2 we focused on the hippocampus. We considered 6 different templates, and examined how well the subject-specific hippocampal masks overlapped with each other and with the template hippocampal masks after normalization. While the data in the older cohort are more variable than the normal population, the results suggest that using an appropriate template and selecting the correct parameters for the template-based ROI method can provide template-extracted counts that are highly correlated to counts extracted using subject-specific ROIs.",
+     "FAU": [
+          "Sun, Felice T",
+          "Schriber, Roberta A",
+          "Greenia, Joel M",
+          "He, Jiawei",
+          "Gitcho, Amy",
+          "Jagust, William J"
+     ],
+     "AU": [
+          "Sun FT",
+          "Schriber RA",
+          "Greenia JM",
+          "He J",
+          "Gitcho A",
+          "Jagust WJ"
+     ],
+     "AD": "Helen Wills Neuroscience Institute, School of Public Health, University of California, 118 Barker Hall, Berkeley, CA 94720, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 DK060753/DK/NIDDK NIH HHS/United States",
+          "AG12975/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "U01AG024904/AG/NIA NIH HHS/United States",
+          "DK60753/DK/NIDDK NIH HHS/United States",
+          "R03 AG033751/AG/NIA NIH HHS/United States",
+          "R01 AG012975/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20061116",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "*Aging",
+          "Brain/*diagnostic imaging",
+          "Brain Mapping/*methods",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Positron-Emission Tomography",
+          "Software"
+     ],
+     "PMC": "PMC1828371",
+     "MID": [
+          "NIHMS15208"
+     ],
+     "EDAT": "2006/11/23 09:00",
+     "MHDA": "2007/02/14 09:00",
+     "CRDT": [
+          "2006/11/23 09:00"
+     ],
+     "PHST": [
+          "2005/11/23 00:00 [received]",
+          "2006/09/14 00:00 [revised]",
+          "2006/09/20 00:00 [accepted]",
+          "2006/11/23 09:00 [pubmed]",
+          "2007/02/14 09:00 [medline]",
+          "2006/11/23 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(06)00971-2 [pii]",
+          "10.1016/j.neuroimage.2006.09.022 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2007 Jan 15;34(2):608-17. doi: 10.1016/j.neuroimage.2006.09.022. Epub 2006 Nov 16.",
+     "term": "hippocampus"
+}

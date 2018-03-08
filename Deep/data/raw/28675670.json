@@ -1,0 +1,70 @@
+{
+     "PMID": "28675670",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20171002",
+     "IS": "1051-0761 (Print) 1051-0761 (Linking)",
+     "VI": "27",
+     "IP": "7",
+     "DP": "2017 Oct",
+     "TI": "Predicting the abundance of forest types across the eastern United States through inverse modelling of tree demography.",
+     "PG": "2128-2141",
+     "LID": "10.1002/eap.1596 [doi]",
+     "AB": "Global environmental change is expected to induce widespread changes in the geographic distribution and biomass of forest communities. Impacts have been projected from both empirical (statistical) and mechanistic (physiology-based) modelling approaches, but there remains an important gap in accurately predicting abundance across species' ranges from spatial variation in individual-level demographic processes. We address this issue by using a cohort-based forest dynamics model (CAIN) to predict spatial variation in the abundance of six plant functional types (PFTs) across the eastern United States. The model simulates tree-level growth, mortality, and recruitment, which we parameterized from data on both individual-level demographic rates and population-level abundance using Bayesian inverse modelling. Across a set of 1 degrees grid cells, we calibrated local growth, mortality, and recruitment rates for each PFT to obtain a close match between predicted age-specific PFT basal area in forest stands and that observed in 46,603 Forest Inventory and Analysis plots. The resulting models produced a strong fit to PFT basal area across the region (R(2) = 0.66-0.87), captured successional changes in PFT composition with stand age, and predicted the overall stem diameter distribution well. The mortality rates needed to accurately predict basal area were consistently higher than observed mortality, possibly because sampling effects led to biased individual-level mortality estimates across spatially heterogeneous plots. Growth and recruitment rates did not show consistent directional changes from observed values. Relative basal area was most strongly influenced by recruitment processes, but the effects of growth and mortality tended to increase as stands matured. Our study illustrates how both top-down (population-level) and bottom-up (individual-level) data can be combined to predict variation in abundance from size, environmental, and competitive effects on tree demography. Evidence for how demographic processes influence variation in abundance, as provided by our model, can help in understanding how these forests may respond to future environmental change.",
+     "CI": [
+          "(c) 2017 by the Ecological Society of America."
+     ],
+     "FAU": [
+          "Vanderwel, Mark C",
+          "Rozendaal, Danae M A",
+          "Evans, Margaret E K"
+     ],
+     "AU": [
+          "Vanderwel MC",
+          "Rozendaal DMA",
+          "Evans MEK"
+     ],
+     "AD": "Department of Biology, University of Regina, 3737 Wascana Parkway, Regina, Saskatchewan, S4S 0A2, Canada. Department of Biology, University of Regina, 3737 Wascana Parkway, Regina, Saskatchewan, S4S 0A2, Canada. Laboratory of Geo-Information Science and Remote Sensing, Wageningen University, P.O. Box 47, 6700 AA, Wageningen, The Netherlands. Laboratory of Tree-Ring Research and Department of Ecology and Evolutionary Biology, University of Arizona, Tucson, Arizona, 85721, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170906",
+     "PL": "United States",
+     "TA": "Ecol Appl",
+     "JT": "Ecological applications : a publication of the Ecological Society of America",
+     "JID": "9889808",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "CAIN",
+          "demography",
+          "forest dynamics",
+          "global change",
+          "inverse modelling",
+          "range modelling",
+          "species distribution"
+     ],
+     "EDAT": "2017/07/05 06:00",
+     "MHDA": "2017/07/05 06:00",
+     "CRDT": [
+          "2017/07/05 06:00"
+     ],
+     "PHST": [
+          "2016/12/18 00:00 [received]",
+          "2017/05/23 00:00 [revised]",
+          "2017/06/13 00:00 [accepted]",
+          "2017/07/05 06:00 [pubmed]",
+          "2017/07/05 06:00 [medline]",
+          "2017/07/05 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/eap.1596 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ecol Appl. 2017 Oct;27(7):2128-2141. doi: 10.1002/eap.1596. Epub 2017 Sep 6.",
+     "term": "grid cells"
+}

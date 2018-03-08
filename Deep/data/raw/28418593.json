@@ -1,0 +1,71 @@
+{
+     "PMID": "28418593",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20170418",
+     "IS": "1539-6924 (Electronic) 0272-4332 (Linking)",
+     "VI": "37",
+     "IP": "3",
+     "DP": "2017 Mar",
+     "TI": "Nonparametric Tree-Based Predictive Modeling of Storm Outages on an Electric Distribution Network.",
+     "PG": "441-458",
+     "LID": "10.1111/risa.12652 [doi]",
+     "AB": "This article compares two nonparametric tree-based models, quantile regression forests (QRF) and Bayesian additive regression trees (BART), for predicting storm outages on an electric distribution network in Connecticut, USA. We evaluated point estimates and prediction intervals of outage predictions for both models using high-resolution weather, infrastructure, and land use data for 89 storm events (including hurricanes, blizzards, and thunderstorms). We found that spatially BART predicted more accurate point estimates than QRF. However, QRF produced better prediction intervals for high spatial resolutions (2-km grid cells and towns), while BART predictions aggregated to coarser resolutions (divisions and service territory) more effectively. We also found that the predictive accuracy was dependent on the season (e.g., tree-leaf condition, storm characteristics), and that the predictions were most accurate for winter storms. Given the merits of each individual model, we suggest that BART and QRF be implemented together to show the complete picture of a storm's potential impact on the electric distribution network, which would allow for a utility to make better decisions about allocating prestorm resources.",
+     "CI": [
+          "(c) 2016 Society for Risk Analysis."
+     ],
+     "FAU": [
+          "He, Jichao",
+          "Wanik, David W",
+          "Hartman, Brian M",
+          "Anagnostou, Emmanouil N",
+          "Astitha, Marina",
+          "Frediani, Maria E B"
+     ],
+     "AU": [
+          "He J",
+          "Wanik DW",
+          "Hartman BM",
+          "Anagnostou EN",
+          "Astitha M",
+          "Frediani MEB"
+     ],
+     "AD": "Department of Mathematics, University of Connecticut, Storrs, CT, USA. Department of Civil and Environmental Engineering, University of Connecticut, Storrs, CT, USA. Department of Statistics, Brigham Young University, Provo, UT, USA. Department of Civil and Environmental Engineering, University of Connecticut, Storrs, CT, USA. Department of Civil and Environmental Engineering, University of Connecticut, Storrs, CT, USA. Department of Civil and Environmental Engineering, University of Connecticut, Storrs, CT, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160620",
+     "PL": "United States",
+     "TA": "Risk Anal",
+     "JT": "Risk analysis : an official publication of the Society for Risk Analysis",
+     "JID": "8109978",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Bayesian additive regression trees",
+          "critical infrastructure outage modeling",
+          "electric distribution network",
+          "quantile regression forests",
+          "weather hazards"
+     ],
+     "EDAT": "2017/04/19 06:00",
+     "MHDA": "2017/04/19 06:00",
+     "CRDT": [
+          "2017/04/19 06:00"
+     ],
+     "PHST": [
+          "2017/04/19 06:00 [entrez]",
+          "2017/04/19 06:00 [pubmed]",
+          "2017/04/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/risa.12652 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Risk Anal. 2017 Mar;37(3):441-458. doi: 10.1111/risa.12652. Epub 2016 Jun 20.",
+     "term": "grid cells"
+}

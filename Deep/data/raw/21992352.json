@@ -1,0 +1,76 @@
+{
+     "PMID": "21992352",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111213",
+     "LR": "20170214",
+     "IS": "0094-2405 (Print) 0094-2405 (Linking)",
+     "VI": "38",
+     "IP": "10",
+     "DP": "2011 Oct",
+     "TI": "Physics strategies for sparing neural stem cells during whole-brain radiation treatments.",
+     "PG": "5338-44",
+     "LID": "10.1118/1.3633946 [doi]",
+     "AB": "PURPOSE: Currently, there are no successful long-term treatments or preventive strategies for radiation-induced cognitive impairments, and only a few possibilities have been suggested. One such approach involves reducing the dose to neural stem cell compartments (within and outside of the hippocampus) during whole-brain radiation treatments for brain metastases. This study investigates the fundamental physics issues associated with the sparing of neural stem cells during photon radiotherapy for brain metastases. METHODS: Several factors influence the stem cell dose: intracranial scattering, collimator leakage, beam energy, and total number of beams. The relative importance of these factors is investigated through a set of radiation therapy plans, which are all variations of an initial 6 MV intensity-modulated radiation therapy (IMRT) plan designed to simultaneously deliver a whole-brain dose of 30 Gy and maximally reduce stem cell compartment dose. Additionally, an in-house leaf segmentation algorithm was developed that utilizes jaw motion to minimize the collimator leakage. RESULTS: The plans are all normalized such that 50% of the PTV receives 30 Gy. For the initial 6 MV IMRT plan, 50% of the stem cells receive a dose greater than 6.3 Gy. Calculations indicate that 3.6 Gy of this dose originates from intracranial scattering. The jaw-tracking segmentation algorithm, used in conjunction with direct machine parameter optimization, reduces the 50% stem cell dose to 4.3 and 3.7 Gy for 6 and 10 MV treatment beams, respectively. CONCLUSIONS: Intracranial scattering alone is responsible for a large dose contribution to the stem cell compartment. It is, therefore, important to minimize other contributing factors, particularly the collimator leakage, to maximally reduce dose to these critical structures. The use of collimator jaw tracking in conjunction with modern collimators can minimize this leakage.",
+     "FAU": [
+          "Kirby, Neil",
+          "Chuang, Cynthia",
+          "Pouliot, Jean",
+          "Hwang, Andrew",
+          "Barani, Igor J"
+     ],
+     "AU": [
+          "Kirby N",
+          "Chuang C",
+          "Pouliot J",
+          "Hwang A",
+          "Barani IJ"
+     ],
+     "AD": "Department of Radiation Oncology, University of California, San Francisco, CA 94143-1708, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Med Phys",
+     "JT": "Medical physics",
+     "JID": "0425746",
+     "SB": "IM",
+     "CIN": [
+          "Med Phys. 2012 Mar;39(3):1677-8; author reply 1679. PMID: 22380400"
+     ],
+     "MH": [
+          "Algorithms",
+          "Brain/pathology/*radiation effects",
+          "Brain Neoplasms/*radiotherapy",
+          "Hippocampus/radiation effects",
+          "Humans",
+          "Medical Oncology/methods",
+          "Neoplasm Metastasis",
+          "Neural Stem Cells/*radiation effects",
+          "Physics/methods",
+          "Radiation Protection/methods",
+          "Radiotherapy Dosage",
+          "Radiotherapy Planning, Computer-Assisted/*methods",
+          "Radiotherapy, Intensity-Modulated/*methods",
+          "Scattering, Radiation"
+     ],
+     "EDAT": "2011/10/14 06:00",
+     "MHDA": "2011/12/14 06:00",
+     "CRDT": [
+          "2011/10/14 06:00"
+     ],
+     "PHST": [
+          "2011/10/14 06:00 [entrez]",
+          "2011/10/14 06:00 [pubmed]",
+          "2011/12/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1118/1.3633946 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Phys. 2011 Oct;38(10):5338-44. doi: 10.1118/1.3633946.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,91 @@
+{
+     "PMID": "25781983",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160208",
+     "LR": "20161125",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "10",
+     "IP": "3",
+     "DP": "2015",
+     "TI": "Head-to-head comparison of two popular cortical thickness extraction algorithms: a cross-sectional and longitudinal study.",
+     "PG": "e0117692",
+     "LID": "10.1371/journal.pone.0117692 [doi]",
+     "AB": "BACKGROUND AND PURPOSE: The measurement of cortical shrinkage is a candidate marker of disease progression in Alzheimer's. This study evaluated the performance of two pipelines: Civet-CLASP (v1.1.9) and Freesurfer (v5.3.0). METHODS: Images from 185 ADNI1 cases (69 elderly controls (CTR), 37 stable MCI (sMCI), 27 progressive MCI (pMCI), and 52 Alzheimer (AD) patients) scanned at baseline, month 12, and month 24 were processed using the two pipelines and two interconnected e-infrastructures: neuGRID (https://neugrid4you.eu) and VIP (http://vip.creatis.insa-lyon.fr). The vertex-by-vertex cross-algorithm comparison was made possible applying the 3D gradient vector flow (GVF) and closest point search (CPS) techniques. RESULTS: The cortical thickness measured with Freesurfer was systematically lower by one third if compared to Civet's. Cross-sectionally, Freesurfer's effect size was significantly different in the posterior division of the temporal fusiform cortex. Both pipelines were weakly or mildly correlated with the Mini Mental State Examination score (MMSE) and the hippocampal volumetry. Civet differed significantly from Freesurfer in large frontal, parietal, temporal and occipital regions (p<0.05). In a discriminant analysis with cortical ROIs having effect size larger than 0.8, both pipelines gave no significant differences in area under the curve (AUC). Longitudinally, effect sizes were not significantly different in any of the 28 ROIs tested. Both pipelines weakly correlated with MMSE decay, showing no significant differences. Freesurfer mildly correlated with hippocampal thinning rate and differed in the supramarginal gyrus, temporal gyrus, and in the lateral occipital cortex compared to Civet (p<0.05). In a discriminant analysis with ROIs having effect size larger than 0.6, both pipelines yielded no significant differences in the AUC. CONCLUSIONS: Civet appears slightly more sensitive to the typical AD atrophic pattern at the MCI stage, but both pipelines can accurately characterize the topography of cortical thinning at the dementia stage.",
+     "FAU": [
+          "Redolfi, Alberto",
+          "Manset, David",
+          "Barkhof, Frederik",
+          "Wahlund, Lars-Olof",
+          "Glatard, Tristan",
+          "Mangin, Jean-Francois",
+          "Frisoni, Giovanni B"
+     ],
+     "AU": [
+          "Redolfi A",
+          "Manset D",
+          "Barkhof F",
+          "Wahlund LO",
+          "Glatard T",
+          "Mangin JF",
+          "Frisoni GB"
+     ],
+     "AD": "Laboratory of Epidemiology & Neuroimaging, IRCCS San Giovanni di Dio Fatebenefratelli, Brescia, Italy. Gnubila France, Imp Pres d'en Bas, Argonay, France. Department of Radiology, VU University Medical Center, Amsterdam, The Netherlands. Department of Neurobiology, Caring Sciences & Society, Division of Clinical Geriatrics Novum, Karolinska Institutet, Stockholm, Stockholm, Sweden. CREATIS, CNRS, INSERM, University of Lyon, Lyon, France; McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Canada. CATI, Neurospin, CEA, GIF/YVETTE, France. Laboratory of Epidemiology & Neuroimaging, IRCCS San Giovanni di Dio Fatebenefratelli, Brescia, Italy; Laboratory of Neuroimaging of Aging, Memory Clinic and LANVIE, University Hospitals and University of Geneva, Geneva, Switzerland.",
+     "CN": [
+          "neuGRID Consortium, for the Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150317",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "*Algorithms",
+          "Alzheimer Disease/diagnosis/pathology/physiopathology",
+          "Brain/*pathology/physiopathology",
+          "Cognitive Dysfunction/diagnosis/pathology/physiopathology",
+          "Cross-Sectional Studies",
+          "Female",
+          "Hippocampus/pathology/physiopathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Longitudinal Studies",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "ROC Curve",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC4364123",
+     "EDAT": "2015/03/18 06:00",
+     "MHDA": "2016/02/09 06:00",
+     "CRDT": [
+          "2015/03/18 06:00"
+     ],
+     "PHST": [
+          "2014/05/30 00:00 [received]",
+          "2014/12/29 00:00 [accepted]",
+          "2015/03/18 06:00 [entrez]",
+          "2015/03/18 06:00 [pubmed]",
+          "2016/02/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0117692 [doi]",
+          "PONE-D-14-23743 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2015 Mar 17;10(3):e0117692. doi: 10.1371/journal.pone.0117692. eCollection 2015.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,73 @@
+{
+     "PMID": "17046699",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070105",
+     "LR": "20061018",
+     "IS": "0896-6273 (Print) 0896-6273 (Linking)",
+     "VI": "52",
+     "IP": "2",
+     "DP": "2006 Oct 19",
+     "TI": "Dynamics of memory representations in networks with novelty-facilitated synaptic plasticity.",
+     "PG": "383-94",
+     "AB": "The ability to associate some stimuli while differentiating between others is an essential characteristic of biological memory. Theoretical models identify memories as attractors of neural network activity, with learning based on Hebb-like synaptic modifications. Our analysis shows that when network inputs are correlated, this mechanism results in overassociations, even up to several memories \"merging\" into one. To counteract this tendency, we introduce a learning mechanism that involves novelty-facilitated modifications, accentuating synaptic changes proportionally to the difference between network input and stored memories. This mechanism introduces a dependency of synaptic modifications on previously acquired memories, enabling a wide spectrum of memory associations, ranging from absolute discrimination to complete merging. The model predicts that memory representations should be sensitive to learning order, consistent with recent psychophysical studies of face recognition and electrophysiological experiments on hippocampal place cells. The proposed mechanism is compatible with a recent biological model of novelty-facilitated learning in hippocampal circuitry.",
+     "FAU": [
+          "Blumenfeld, Barak",
+          "Preminger, Son",
+          "Sagi, Dov",
+          "Tsodyks, Misha"
+     ],
+     "AU": [
+          "Blumenfeld B",
+          "Preminger S",
+          "Sagi D",
+          "Tsodyks M"
+     ],
+     "AD": "Department of Neurobiology, The Weizmann Institute of Science, Rehovot 76100, Israel.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuron",
+     "JT": "Neuron",
+     "JID": "8809320",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Discrimination Learning/physiology",
+          "Exploratory Behavior/*physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Memory/*physiology",
+          "Neural Networks (Computer)",
+          "Neural Pathways/*physiology",
+          "Neuronal Plasticity/*physiology",
+          "Recognition (Psychology)/physiology",
+          "Synapses/physiology",
+          "Synaptic Transmission/*physiology"
+     ],
+     "EDAT": "2006/10/19 09:00",
+     "MHDA": "2007/01/06 09:00",
+     "CRDT": [
+          "2006/10/19 09:00"
+     ],
+     "PHST": [
+          "2006/01/24 00:00 [received]",
+          "2006/06/28 00:00 [revised]",
+          "2006/08/14 00:00 [accepted]",
+          "2006/10/19 09:00 [pubmed]",
+          "2007/01/06 09:00 [medline]",
+          "2006/10/19 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0896-6273(06)00638-6 [pii]",
+          "10.1016/j.neuron.2006.08.016 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuron. 2006 Oct 19;52(2):383-94. doi: 10.1016/j.neuron.2006.08.016.",
+     "term": "place cells"
+}

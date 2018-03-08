@@ -1,0 +1,94 @@
+{
+     "PMID": "22536416",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120831",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "7",
+     "IP": "4",
+     "DP": "2012",
+     "TI": "High-throughput single-cell manipulation in brain tissue.",
+     "PG": "e35603",
+     "LID": "10.1371/journal.pone.0035603 [doi]",
+     "AB": "The complexity of neurons and neuronal circuits in brain tissue requires the genetic manipulation, labeling, and tracking of single cells. However, current methods for manipulating cells in brain tissue are limited to either bulk techniques, lacking single-cell accuracy, or manual methods that provide single-cell accuracy but at significantly lower throughputs and repeatability. Here, we demonstrate high-throughput, efficient, reliable, and combinatorial delivery of multiple genetic vectors and reagents into targeted cells within the same tissue sample with single-cell accuracy. Our system automatically loads nanoliter-scale volumes of reagents into a micropipette from multiwell plates, targets and transfects single cells in brain tissues using a robust electroporation technique, and finally preps the micropipette by automated cleaning for repeating the transfection cycle. We demonstrate multi-colored labeling of adjacent cells, both in organotypic and acute slices, and transfection of plasmids encoding different protein isoforms into neurons within the same brain tissue for analysis of their effects on linear dendritic spine density. Our platform could also be used to rapidly deliver, both ex vivo and in vivo, a variety of genetic vectors, including optogenetic and cell-type specific agents, as well as fast-acting reagents such as labeling dyes, calcium sensors, and voltage sensors to manipulate and track neuronal circuit activity at single-cell resolution.",
+     "FAU": [
+          "Steinmeyer, Joseph D",
+          "Yanik, Mehmet Fatih"
+     ],
+     "AU": [
+          "Steinmeyer JD",
+          "Yanik MF"
+     ],
+     "AD": "Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, Massachusetts, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS066352/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20120420",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Bacterial Proteins)",
+          "0 (Guanine Nucleotide Exchange Factors)",
+          "0 (Hapip protein, rat)",
+          "0 (Luminescent Proteins)",
+          "0 (Protein Isoforms)",
+          "0 (Recombinant Proteins)",
+          "0 (enhanced green fluorescent protein)",
+          "0 (yellow fluorescent protein, Bacteria)",
+          "147336-22-9 (Green Fluorescent Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Automation, Laboratory/instrumentation",
+          "Bacterial Proteins/biosynthesis/genetics",
+          "Dendritic Spines/metabolism",
+          "Electroporation/instrumentation/methods",
+          "Gene Expression",
+          "Green Fluorescent Proteins/biosynthesis/genetics",
+          "Guanine Nucleotide Exchange Factors/biosynthesis/genetics",
+          "Hippocampus/*cytology",
+          "Luminescent Proteins/biosynthesis/genetics",
+          "Microscopy, Fluorescence",
+          "Protein Isoforms/biosynthesis/genetics",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Recombinant Proteins/biosynthesis/genetics",
+          "Single-Cell Analysis/*methods",
+          "Software",
+          "Tissue Culture Techniques",
+          "Transfection/methods"
+     ],
+     "PMC": "PMC3334978",
+     "EDAT": "2012/04/27 06:00",
+     "MHDA": "2012/09/01 06:00",
+     "CRDT": [
+          "2012/04/27 06:00"
+     ],
+     "PHST": [
+          "2011/09/07 00:00 [received]",
+          "2012/03/19 00:00 [accepted]",
+          "2012/04/27 06:00 [entrez]",
+          "2012/04/27 06:00 [pubmed]",
+          "2012/09/01 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0035603 [doi]",
+          "PONE-D-11-17541 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2012;7(4):e35603. doi: 10.1371/journal.pone.0035603. Epub 2012 Apr 20.",
+     "term": "hippocampus"
+}

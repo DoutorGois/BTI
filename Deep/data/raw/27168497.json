@@ -1,0 +1,97 @@
+{
+     "PMID": "27168497",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171113",
+     "LR": "20171127",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "268",
+     "DP": "2016 Aug 1",
+     "TI": "Non-parametric directionality analysis - Extension for removal of a single common predictor and application to time series.",
+     "PG": "87-97",
+     "LID": "10.1016/j.jneumeth.2016.05.008 [doi] S0165-0270(16)30086-3 [pii]",
+     "AB": "BACKGROUND: The ability to infer network structure from multivariate neuronal signals is central to computational neuroscience. Directed network analyses typically use parametric approaches based on auto-regressive (AR) models, where networks are constructed from estimates of AR model parameters. However, the validity of using low order AR models for neurophysiological signals has been questioned. A recent article introduced a non-parametric approach to estimate directionality in bivariate data, non-parametric approaches are free from concerns over model validity. NEW METHOD: We extend the non-parametric framework to include measures of directed conditional independence, using scalar measures that decompose the overall partial correlation coefficient summatively by direction, and a set of functions that decompose the partial coherence summatively by direction. A time domain partial correlation function allows both time and frequency views of the data to be constructed. The conditional independence estimates are conditioned on a single predictor. RESULTS: The framework is applied to simulated cortical neuron networks and mixtures of Gaussian time series data with known interactions. It is applied to experimental data consisting of local field potential recordings from bilateral hippocampus in anaesthetised rats. COMPARISON WITH EXISTING METHOD(S): The framework offers a non-parametric approach to estimation of directed interactions in multivariate neuronal recordings, and increased flexibility in dealing with both spike train and time series data. CONCLUSIONS: The framework offers a novel alternative non-parametric approach to estimate directed interactions in multivariate neuronal recordings, and is applicable to spike train and time series data.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Halliday, David M",
+          "Senik, Mohd Harizal",
+          "Stevenson, Carl W",
+          "Mason, Rob"
+     ],
+     "AU": [
+          "Halliday DM",
+          "Senik MH",
+          "Stevenson CW",
+          "Mason R"
+     ],
+     "AD": "Department of Electronics, University of York, York YO10 5DD, UK. Electronic address: david.halliday@york.ac.uk. School of Life Sciences, University of Nottingham, Nottingham NG7 2UH, UK. School of Biosciences, University of Nottingham, Loughborough LE12 5RD, UK. School of Life Sciences, University of Nottingham, Nottingham NG7 2UH, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160507",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "SIV03811UC (Kainic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Algorithms",
+          "Animals",
+          "Cerebral Cortex/physiology/physiopathology",
+          "Computer Simulation",
+          "Data Interpretation, Statistical",
+          "Disease Models, Animal",
+          "Epilepsy, Temporal Lobe/physiopathology",
+          "Hippocampus/physiology/physiopathology",
+          "Kainic Acid",
+          "Models, Neurological",
+          "Multivariate Analysis",
+          "Neurons/physiology",
+          "Rats",
+          "*Signal Processing, Computer-Assisted",
+          "Software",
+          "Time Factors"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*Conditional independence",
+          "*Directionality",
+          "*Granger causality",
+          "*Non-parametric",
+          "*Partial coherence",
+          "*Point process",
+          "*Time series"
+     ],
+     "EDAT": "2016/05/12 06:00",
+     "MHDA": "2017/11/14 06:00",
+     "CRDT": [
+          "2016/05/12 06:00"
+     ],
+     "PHST": [
+          "2015/12/16 00:00 [received]",
+          "2016/03/18 00:00 [revised]",
+          "2016/05/04 00:00 [accepted]",
+          "2016/05/12 06:00 [entrez]",
+          "2016/05/12 06:00 [pubmed]",
+          "2017/11/14 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(16)30086-3 [pii]",
+          "10.1016/j.jneumeth.2016.05.008 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2016 Aug 1;268:87-97. doi: 10.1016/j.jneumeth.2016.05.008. Epub 2016 May 7.",
+     "term": "hippocampus"
+}

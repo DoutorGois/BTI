@@ -1,0 +1,73 @@
+{
+     "PMID": "19059348",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090512",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "45",
+     "IP": "1 Suppl",
+     "DP": "2009 Mar",
+     "TI": "Continuous medial representation of brain structures using the biharmonic PDE.",
+     "PG": "S99-110",
+     "LID": "10.1016/j.neuroimage.2008.10.051 [doi]",
+     "AB": "A new approach for constructing deformable continuous medial models for anatomical structures is presented. Medial models describe geometrical objects by first specifying the skeleton of the object and then deriving the boundary surface corresponding to the skeleton. However, an arbitrary specification of a skeleton will not be \"valid\" unless a certain set of sufficient conditions is satisfied. The most challenging of these is the non-linear equality constraint that must hold along the boundaries of the manifolds forming the skeleton. The main contribution of this paper is to leverage the biharmonic partial differential equation as a mapping from a codimension-0 subset of Euclidean space to the space of skeletons that satisfy the equality constraint. The PDE supports robust numerical solution on freeform triangular meshes, providing additional flexibility for shape modeling. The approach is evaluated by generating continuous medial models for a large dataset of hippocampus shapes. Generalizations to modeling more complex shapes and to representing branching skeletons are demonstrated.",
+     "FAU": [
+          "Yushkevich, Paul A"
+     ],
+     "AU": [
+          "Yushkevich PA"
+     ],
+     "AD": "Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, 3600 Market St., Ste 370, Philadelphia, PA 19104, USA. pauly2@mail.med.upenn.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS061111/NS/NINDS NIH HHS/United States",
+          "R21 NS061111-02/NS/NINDS NIH HHS/United States",
+          "K25 AG027785-02/AG/NIA NIH HHS/United States",
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "AG027785/AG/NIA NIH HHS/United States",
+          "R21 NS061111/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20081112",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Anatomy/*methods",
+          "Brain/*anatomy & histology",
+          "Computational Biology/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "*Models, Theoretical"
+     ],
+     "PMC": "PMC2680440",
+     "MID": [
+          "NIHMS100786"
+     ],
+     "EDAT": "2008/12/09 09:00",
+     "MHDA": "2009/05/13 09:00",
+     "CRDT": [
+          "2008/12/09 09:00"
+     ],
+     "PHST": [
+          "2008/10/15 00:00 [received]",
+          "2008/10/15 00:00 [accepted]",
+          "2008/12/09 09:00 [pubmed]",
+          "2009/05/13 09:00 [medline]",
+          "2008/12/09 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(08)01174-9 [pii]",
+          "10.1016/j.neuroimage.2008.10.051 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2009 Mar;45(1 Suppl):S99-110. doi: 10.1016/j.neuroimage.2008.10.051. Epub 2008 Nov 12.",
+     "term": "hippocampus"
+}

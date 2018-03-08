@@ -1,0 +1,65 @@
+{
+     "PMID": "25136314",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20140819",
+     "LR": "20170220",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "8",
+     "DP": "2014",
+     "TI": "Depth information in natural environments derived from optic flow by insect motion detection system: a model analysis.",
+     "PG": "83",
+     "LID": "10.3389/fncom.2014.00083 [doi]",
+     "AB": "Knowing the depth structure of the environment is crucial for moving animals in many behavioral contexts, such as collision avoidance, targeting objects, or spatial navigation. An important source of depth information is motion parallax. This powerful cue is generated on the eyes during translatory self-motion with the retinal images of nearby objects moving faster than those of distant ones. To investigate how the visual motion pathway represents motion-based depth information we analyzed its responses to image sequences recorded in natural cluttered environments with a wide range of depth structures. The analysis was done on the basis of an experimentally validated model of the visual motion pathway of insects, with its core elements being correlation-type elementary motion detectors (EMDs). It is the key result of our analysis that the absolute EMD responses, i.e., the motion energy profile, represent the contrast-weighted nearness of environmental structures during translatory self-motion at a roughly constant velocity. In other words, the output of the EMD array highlights contours of nearby objects. This conclusion is largely independent of the scale over which EMDs are spatially pooled and was corroborated by scrutinizing the motion energy profile after eliminating the depth structure from the natural image sequences. Hence, the well-established dependence of correlation-type EMDs on both velocity and textural properties of motion stimuli appears to be advantageous for representing behaviorally relevant information about the environment in a computationally parsimonious way.",
+     "FAU": [
+          "Schwegmann, Alexander",
+          "Lindemann, Jens P",
+          "Egelhaaf, Martin"
+     ],
+     "AU": [
+          "Schwegmann A",
+          "Lindemann JP",
+          "Egelhaaf M"
+     ],
+     "AD": "Department of Neurobiology and Center of Excellence Cognitive Interaction Technology, Bielefeld University Bielefeld, Germany. Department of Neurobiology and Center of Excellence Cognitive Interaction Technology, Bielefeld University Bielefeld, Germany. Department of Neurobiology and Center of Excellence Cognitive Interaction Technology, Bielefeld University Bielefeld, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140801",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC4118023",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "computational modeling",
+          "fly",
+          "natural environments",
+          "optic flow",
+          "spatial vision"
+     ],
+     "EDAT": "2014/08/20 06:00",
+     "MHDA": "2014/08/20 06:01",
+     "CRDT": [
+          "2014/08/20 06:00"
+     ],
+     "PHST": [
+          "2014/03/11 00:00 [received]",
+          "2014/07/14 00:00 [accepted]",
+          "2014/08/20 06:00 [entrez]",
+          "2014/08/20 06:00 [pubmed]",
+          "2014/08/20 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2014.00083 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2014 Aug 1;8:83. doi: 10.3389/fncom.2014.00083. eCollection 2014.",
+     "term": "spatial navigation"
+}

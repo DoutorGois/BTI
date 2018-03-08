@@ -1,0 +1,76 @@
+{
+     "PMID": "18303807",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080331",
+     "LR": "20080228",
+     "IS": "1534-4320 (Print) 1534-4320 (Linking)",
+     "VI": "16",
+     "IP": "1",
+     "DP": "2008 Feb",
+     "TI": "Neuronal desynchronization as a trigger for seizure generation.",
+     "PG": "62-73",
+     "LID": "10.1109/TNSRE.2007.911084 [doi]",
+     "AB": "Experimental reports have appeared which challenge the dogma that epileptic seizures arise as a consequence of neuronal hypersynchronization. We sought to explore what mechanisms that desynchronize neuronal firing could induce epileptic seizures. A computer model of connections in a mammalian hippocampal slice preparation was constructed including two recently-reported distinct inhibitory feedback circuits. When inhibition by interneurons that synapse on pyramidal dendrites was decreased, highly localized seizure-like bursting was observed in the CA3 region similar to that which occurs experimentally under GABAergic blockade. In contrast, when inhibition by interneurons that synapse in the axosomatic region was similarly decreased, no such bursting was observed. However, when this transient inhibition was increased, normal coordinated spread of excitation was interrupted by high-frequency localized seizure-like bursting. The increase of this inhibitory input resulted in decreased cell coupling of pyramidal neurons. A decrease in phase coherence was initially observed until seizure-like activity initiated causing a net increase in coherence as has been observed in epileptic patients. These results provide a possible pathway in which a decrease in synchronization could provide the trigger for inducing epileptiform activity.",
+     "FAU": [
+          "Li, Yue",
+          "Fleming, Ioana Nicolaescu",
+          "Colpan, Mustafa Efkan",
+          "Mogul, David J"
+     ],
+     "AU": [
+          "Li Y",
+          "Fleming IN",
+          "Colpan ME",
+          "Mogul DJ"
+     ],
+     "AD": "Department of Biomedical Engineering, Illinois Institute of Technology, Chicago, IL 60616, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS046375/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Syst Rehabil Eng",
+     "JT": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "101097023",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Brain/physiology",
+          "*Cortical Synchronization",
+          "Electrodes",
+          "Electrophysiology",
+          "Epilepsy/physiopathology",
+          "Hippocampus/cytology/physiology",
+          "Humans",
+          "Interneurons/*physiology",
+          "Kinetics",
+          "Models, Neurological",
+          "Models, Statistical",
+          "Neural Networks (Computer)",
+          "Neurons/physiology",
+          "Seizures/*physiopathology"
+     ],
+     "EDAT": "2008/02/29 09:00",
+     "MHDA": "2008/04/01 09:00",
+     "CRDT": [
+          "2008/02/29 09:00"
+     ],
+     "PHST": [
+          "2008/02/29 09:00 [pubmed]",
+          "2008/04/01 09:00 [medline]",
+          "2008/02/29 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TNSRE.2007.911084 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Syst Rehabil Eng. 2008 Feb;16(1):62-73. doi: 10.1109/TNSRE.2007.911084.",
+     "term": "hippocampus"
+}

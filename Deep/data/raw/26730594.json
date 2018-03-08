@@ -1,0 +1,102 @@
+{
+     "PMID": "26730594",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160810",
+     "LR": "20171118",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "11",
+     "IP": "1",
+     "DP": "2016",
+     "TI": "Time-Course Analysis of Brain Regional Expression Network Responses to Chronic Intermittent Ethanol and Withdrawal: Implications for Mechanisms Underlying Excessive Ethanol Consumption.",
+     "PG": "e0146257",
+     "LID": "10.1371/journal.pone.0146257 [doi]",
+     "AB": "Long lasting abusive consumption, dependence, and withdrawal are characteristic features of alcohol use disorders (AUD). Mechanistically, persistent changes in gene expression are hypothesized to contribute to brain adaptations leading to ethanol toxicity and AUD. We employed repeated chronic intermittent ethanol (CIE) exposure by vapor chamber as a mouse model to simulate the cycles of ethanol exposure and withdrawal commonly seen with AUD. This model has been shown to induce progressive ethanol consumption in rodents. Brain CIE-responsive expression networks were identified by microarray analysis across five regions of the mesolimbic dopamine system and extended amygdala with tissue harvested from 0-hours to 7-days following CIE. Weighted Gene Correlated Network Analysis (WGCNA) was used to identify gene networks over-represented for CIE-induced temporal expression changes across brain regions. Differential gene expression analysis showed that long-lasting gene regulation occurred 7-days after the final cycle of ethanol exposure only in prefrontal cortex (PFC) and hippocampus. Across all brain regions, however, ethanol-responsive expression changes occurred mainly within the first 8-hours after removal from ethanol. Bioinformatics analysis showed that neuroinflammatory responses were seen across multiple brain regions at early time-points, whereas co-expression modules related to neuroplasticity, chromatin remodeling, and neurodevelopment were seen at later time-points and in specific brain regions (PFC or HPC). In PFC a module containing Bdnf was identified as highly CIE responsive in a biphasic manner, with peak changes at 0 hours and 5 days following CIE, suggesting a possible role in mechanisms underlying long-term molecular and behavioral response to CIE. Bioinformatics analysis of this network and several other modules identified Let-7 family microRNAs as potential regulators of gene expression changes induced by CIE. Our results suggest a complex temporal and regional pattern of widespread gene network responses involving neuroinflammatory and neuroplasticity related genes as contributing to physiological and behavioral responses to chronic ethanol.",
+     "FAU": [
+          "Smith, Maren L",
+          "Lopez, Marcelo F",
+          "Archer, Kellie J",
+          "Wolen, Aaron R",
+          "Becker, Howard C",
+          "Miles, Michael F"
+     ],
+     "AU": [
+          "Smith ML",
+          "Lopez MF",
+          "Archer KJ",
+          "Wolen AR",
+          "Becker HC",
+          "Miles MF"
+     ],
+     "AD": "Department of Human and Molecular Genetics, Virginia Commonwealth University, Richmond, Virginia, United States of America. Department of Psychiatry and Behavioral Sciences, Medical University of South Carolina, Charleston, South Carolina, United States of America. Department of Biostatistics, Virginia Commonwealth University, Richmond, Virginia, United States of America. Department of Pharmacology and Toxicology, Virginia Commonwealth University, Richmond, Virginia, United States of America. Department of Psychiatry and Behavioral Sciences, Medical University of South Carolina, Charleston, South Carolina, United States of America. Department of Neuroscience, Medical University of South Carolina, Charleston, South Carolina, United States of America. RHJ Department of Veterans Affairs Medical Center, Charleston, South Carolina, United States of America. Department of Pharmacology and Toxicology, Virginia Commonwealth University, Richmond, Virginia, United States of America. Department of Human and Molecular Genetics, Virginia Commonwealth University, Richmond, Virginia, United States of America. VCU Alcohol Research Center, Virginia Commonwealth University, Richmond, Virginia, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "F31AA023134/AA/NIAAA NIH HHS/United States",
+          "P20 AA017828/AA/NIAAA NIH HHS/United States",
+          "U01 AA016667/AA/NIAAA NIH HHS/United States",
+          "RC1 AA019138/AA/NIAAA NIH HHS/United States",
+          "U01 AA014095/AA/NIAAA NIH HHS/United States",
+          "P50 AA010761/AA/NIAAA NIH HHS/United States",
+          "R01 AA020634/AA/NIAAA NIH HHS/United States",
+          "F31 AA023134/AA/NIAAA NIH HHS/United States",
+          "I01 BX000813/BX/BLRD VA/United States",
+          "P50 AA022537/AA/NIAAA NIH HHS/United States",
+          "U01 AA020929/AA/NIAAA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20160105",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Central Nervous System Depressants)",
+          "3K9958V90M (Ethanol)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Alcohol Drinking/genetics",
+          "Animals",
+          "Base Sequence",
+          "Brain/*metabolism",
+          "Central Nervous System Depressants/pharmacology",
+          "Computational Biology",
+          "Ethanol/*pharmacology",
+          "Gene Expression Profiling",
+          "Gene Expression Regulation/*drug effects",
+          "Gene Regulatory Networks/*drug effects",
+          "Linear Models",
+          "Male",
+          "Mice, Inbred C57BL",
+          "Models, Genetic",
+          "Oligonucleotide Array Sequence Analysis",
+          "Substance Withdrawal Syndrome/*genetics",
+          "Time Factors"
+     ],
+     "PMC": "PMC4701666",
+     "EDAT": "2016/01/06 06:00",
+     "MHDA": "2016/08/11 06:00",
+     "CRDT": [
+          "2016/01/06 06:00"
+     ],
+     "PHST": [
+          "2015/09/10 00:00 [received]",
+          "2015/12/15 00:00 [accepted]",
+          "2016/01/06 06:00 [entrez]",
+          "2016/01/06 06:00 [pubmed]",
+          "2016/08/11 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0146257 [doi]",
+          "PONE-D-15-40052 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2016 Jan 5;11(1):e0146257. doi: 10.1371/journal.pone.0146257. eCollection 2016.",
+     "term": "hippocampus"
+}

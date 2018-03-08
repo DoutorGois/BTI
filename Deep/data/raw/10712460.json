@@ -1,0 +1,88 @@
+{
+     "PMID": "10712460",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20000411",
+     "LR": "20171213",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "83",
+     "IP": "3",
+     "DP": "2000 Mar",
+     "TI": "Dendritic spikes and their influence on extracellular calcium signaling.",
+     "PG": "1329-37",
+     "AB": "Extracellular calcium is critical for many neural functions, including neurotransmission, cell adhesion, and neural plasticity. Experiments have shown that normal neural activity is associated with changes in extracellular calcium, which has motivated recent computational work that employs such fluctuations in an information-bearing role. This possibility suggests that a new style of computing is taking place in the mammalian brain in addition to current 'circuit' models that use only neurons and connections. Previous computational models of rapid external calcium changes used only rough approximations of calcium channel dynamics to compute the expected calcium decrements in the extracellular space. Using realistic calcium channel models, experimentally measured back-propagating action potentials, and a model of the extracellular space, we computed the fluctuations in external calcium that accrue during neural activity. In this realistic setting, we showed that rapid, significant changes in local external calcium can occur when dendrites are invaded by back-propagating spikes, even in the presence of an extracellular calcium buffer. We further showed how different geometric arrangements of calcium channels or dendrites prolong or amplify these fluctuations. Finally, we computed the influence of experimentally measured synaptic input on peridendritic calcium fluctuations. Remarkably, appropriately timed synaptic input can amplify significantly the decrement in external calcium. The model shows that the extracellular space and the calcium channels that access it provide a medium that naturally integrates coincident spike activity from different dendrites that intersect the same tissue volume.",
+     "FAU": [
+          "Wiest, M C",
+          "Eagleman, D M",
+          "King, R D",
+          "Montague, P R"
+     ],
+     "AU": [
+          "Wiest MC",
+          "Eagleman DM",
+          "King RD",
+          "Montague PR"
+     ],
+     "AD": "Division of Neuroscience, Center for Theoretical Neuroscience, Baylor College of Medicine, Houston, Texas 77030, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "DA-11723/DA/NIDA NIH HHS/United States",
+          "MH-19547/MH/NIMH NIH HHS/United States",
+          "MH-52797/MH/NIMH NIH HHS/United States",
+          "etc."
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "0 (Calcium Channels, L-Type)",
+          "0 (Calcium Channels, N-Type)",
+          "0 (Calcium Channels, T-Type)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Calcium/metabolism",
+          "Calcium Channels, L-Type/physiology",
+          "Calcium Channels, N-Type/physiology",
+          "Calcium Channels, T-Type/physiology",
+          "Calcium Signaling/*physiology",
+          "Dendrites/*physiology",
+          "Electrophysiology",
+          "Extracellular Space/physiology",
+          "Hippocampus/cytology/physiology",
+          "Kinetics",
+          "Models, Neurological",
+          "Patch-Clamp Techniques",
+          "Pyramidal Cells/physiology",
+          "Rats",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2000/03/11 09:00",
+     "MHDA": "2000/04/15 09:00",
+     "CRDT": [
+          "2000/03/11 09:00"
+     ],
+     "PHST": [
+          "2000/03/11 09:00 [pubmed]",
+          "2000/04/15 09:00 [medline]",
+          "2000/03/11 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1152/jn.2000.83.3.1329 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2000 Mar;83(3):1329-37. doi: 10.1152/jn.2000.83.3.1329.",
+     "term": "hippocampus"
+}

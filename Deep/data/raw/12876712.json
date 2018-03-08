@@ -1,0 +1,66 @@
+{
+     "PMID": "12876712",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20031117",
+     "LR": "20150525",
+     "IS": "0740-3194 (Print) 0740-3194 (Linking)",
+     "VI": "50",
+     "IP": "2",
+     "DP": "2003 Aug",
+     "TI": "Novel nonparametric approach to canonical correlation analysis with applications to low CNR functional MRI data.",
+     "PG": "354-65",
+     "AB": "Detection of activation in functional MRI (fMRI) is often complicated by the low contrast-to-noise ratio (CNR) in the data. The primary source of the difficulty is the fact that for activities that are subtle the signal can be hidden inside the inherent noise in the data. Classical univariate methods based on t-test or F-test are susceptible to noise, as they fail to harness systematic correlations in evoked responses within neighboring voxels. Here the power of a multivariate statistical analysis tool known as canonical correlation analysis (CCA) in fMRI studies is demonstrated where the CNR is low. As a further illustration of the power of the method, a comparative study of CCA and ordinary correlation analysis using simulated data under various noise levels is also performed. A novel nonparametric approach is introduced to calculate the P-values from the distribution of the complicated test statistic. The circumstances under which CCA is a better performer as well as when it is not the case are discussed. As an example, this method is applied to detect hippocampal activation from memory-related tasks.",
+     "CI": [
+          "Copyright 2003 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Nandy, Rajesh R",
+          "Cordes, Dietmar"
+     ],
+     "AU": [
+          "Nandy RR",
+          "Cordes D"
+     ],
+     "AD": "Department of Radiology, University of Washington, Seattle, Washington 98195, USA. nandy@u.washington.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Magn Reson Med",
+     "JT": "Magnetic resonance in medicine",
+     "JID": "8505245",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Brain Mapping",
+          "Hippocampus/physiology",
+          "Humans",
+          "Image Processing, Computer-Assisted/methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Memory",
+          "Phantoms, Imaging",
+          "ROC Curve",
+          "Statistics, Nonparametric",
+          "Temporal Lobe/physiology"
+     ],
+     "EDAT": "2003/07/24 05:00",
+     "MHDA": "2003/12/03 05:00",
+     "CRDT": [
+          "2003/07/24 05:00"
+     ],
+     "PHST": [
+          "2003/07/24 05:00 [pubmed]",
+          "2003/12/03 05:00 [medline]",
+          "2003/07/24 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/mrm.10537 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Magn Reson Med. 2003 Aug;50(2):354-65. doi: 10.1002/mrm.10537.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,51 @@
+{
+     "PMID": "23972093",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130827",
+     "LR": "20130826",
+     "IS": "0898-929X (Print) 0898-929X (Linking)",
+     "VI": "3",
+     "IP": "2",
+     "DP": "1991 Spring",
+     "TI": "\"Dead reckoning,\" landmark learning, and the sense of direction: a neurophysiological and computational hypothesis.",
+     "PG": "190-202",
+     "LID": "10.1162/jocn.1991.3.2.190 [doi]",
+     "AB": "Behavioral and neurophysiological evidence strongly suggests that, within certain limits, rodents and humans can keep track of their directional heading relative to an inertial, and hence allocentric coordinate system. This \"sense of direction\" appears to involve the integration of angular velocity signals that arise primarily in the vestibular system. A hypothesis is proposed in which the integration process, an operation that may be difficult for neurons to implement, is replaced by a linear associative mapping, an operation that is at least theoretically easy to implement with neurons. The proposed system makes use of a set of linearly independent vectors representing the combination of the current head direction, and head angular velocity representations to \"recall\" the resulting head direction. It is then proposed that visual landmarks become incorporated into the directional system, enabling both the correction of cumulative error and, ultimately, the computation of novel, optimal trajectories between locations. According to the hypothesis, this occurs through the association of hippo-campal \"local-view\" cells (i.e., direction selective \"place cells\") with \"head-direction\" cells located downstream in the dorsal presubiculum. The possible neurophysiological and neuroan-atomical bases for the proposed system are discussed.",
+     "FAU": [
+          "McNaughton, B L",
+          "Chen, L L",
+          "Markus, E J"
+     ],
+     "AU": [
+          "McNaughton BL",
+          "Chen LL",
+          "Markus EJ"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "J Cogn Neurosci",
+     "JT": "Journal of cognitive neuroscience",
+     "JID": "8910747",
+     "EDAT": "1991/04/01 00:00",
+     "MHDA": "1991/04/01 00:01",
+     "CRDT": [
+          "2013/08/27 06:00"
+     ],
+     "PHST": [
+          "2013/08/27 06:00 [entrez]",
+          "1991/04/01 00:00 [pubmed]",
+          "1991/04/01 00:01 [medline]"
+     ],
+     "AID": [
+          "10.1162/jocn.1991.3.2.190 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Cogn Neurosci. 1991 Spring;3(2):190-202. doi: 10.1162/jocn.1991.3.2.190.",
+     "term": "place cells"
+}

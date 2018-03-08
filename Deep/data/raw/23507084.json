@@ -1,0 +1,82 @@
+{
+     "PMID": "23507084",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20131216",
+     "LR": "20130513",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "215",
+     "IP": "2",
+     "DP": "2013 May 15",
+     "TI": "A Navigation Analysis Tool (NAT) to assess spatial behavior in open-field and structured mazes.",
+     "PG": "196-209",
+     "LID": "10.1016/j.jneumeth.2013.02.018 [doi] S0165-0270(13)00092-7 [pii]",
+     "AB": "Spatial navigation calls upon mnemonic capabilities (e.g. remembering the location of a rewarding site) as well as adaptive motor control (e.g. fine tuning of the trajectory according to the ongoing sensory context). To study this complex process by means of behavioral measurements it is necessary to quantify a large set of meaningful parameters on multiple time scales (from milliseconds to several minutes), and to compare them across different paradigms. Moreover, the issue of automating the behavioral analysis is critical to cope with the consequent computational load and the sophistication of the measurements. We developed a general purpose Navigation Analysis Tool (NAT) that provides an integrated architecture consisting of a data management system (implemented in MySQL), a core analysis toolbox (in MATLAB), and a graphical user interface (in JAVA). Its extensive characterization of trajectories over time, from exploratory behavior to goal-oriented navigation with decision points using a wide range of parameters, makes NAT a powerful analysis tool. In particular, NAT supplies a new set of specific measurements assessing performances in multiple intersection mazes and allowing navigation strategies to be discriminated (e.g. in the starmaze). Its user interface enables easy use while its modular organization provides many opportunities of extension and customization. Importantly, the portability of NAT to any type of maze and environment extends its exploitation far beyond the field of spatial navigation.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Jarlier, Frederic",
+          "Arleo, Angelo",
+          "Petit, Geraldine H",
+          "Lefort, Julie M",
+          "Fouquet, Celine",
+          "Burguiere, Eric",
+          "Rondi-Reig, Laure"
+     ],
+     "AU": [
+          "Jarlier F",
+          "Arleo A",
+          "Petit GH",
+          "Lefort JM",
+          "Fouquet C",
+          "Burguiere E",
+          "Rondi-Reig L"
+     ],
+     "AD": "CNRS - University Pierre and Marie Curie-P6, Unit of Neurobiology of Adaptive Processes, UMR 7102, F-75005 Paris, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130316",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Database Management Systems",
+          "Exploratory Behavior/*physiology",
+          "Goals",
+          "Humans",
+          "Maze Learning/*physiology",
+          "Software",
+          "Space Perception/*physiology",
+          "Spatial Behavior/*physiology",
+          "Time Factors"
+     ],
+     "EDAT": "2013/03/20 06:00",
+     "MHDA": "2013/12/18 06:00",
+     "CRDT": [
+          "2013/03/20 06:00"
+     ],
+     "PHST": [
+          "2012/11/19 00:00 [received]",
+          "2013/02/26 00:00 [revised]",
+          "2013/02/27 00:00 [accepted]",
+          "2013/03/20 06:00 [entrez]",
+          "2013/03/20 06:00 [pubmed]",
+          "2013/12/18 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(13)00092-7 [pii]",
+          "10.1016/j.jneumeth.2013.02.018 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2013 May 15;215(2):196-209. doi: 10.1016/j.jneumeth.2013.02.018. Epub 2013 Mar 16.",
+     "term": "spatial navigation"
+}

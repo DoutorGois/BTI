@@ -1,0 +1,70 @@
+{
+     "PMID": "22562785",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20171219",
+     "IS": "2160-7508 (Print) 2160-7508 (Linking)",
+     "DP": "2011 Jun 20",
+     "TI": "Regression-Based Label Fusion for Multi-Atlas Segmentation.",
+     "PG": "1113-1120",
+     "AB": "Automatic segmentation using multi-atlas label fusion has been widely applied in medical image analysis. To simplify the label fusion problem, most methods implicitly make a strong assumption that the segmentation errors produced by different atlases are uncorrelated. We show that violating this assumption significantly reduces the efficiency of multi-atlas segmentation. To address this problem, we propose a regression-based approach for label fusion. Our experiments on segmenting the hippocampus in magnetic resonance images (MRI) show significant improvement over previous label fusion techniques.",
+     "FAU": [
+          "Wang, Hongzhi",
+          "Suh, Jung Wook",
+          "Das, Sandhitsu",
+          "Pluta, John",
+          "Altinay, Murat",
+          "Yushkevich, Paul"
+     ],
+     "AU": [
+          "Wang H",
+          "Suh JW",
+          "Das S",
+          "Pluta J",
+          "Altinay M",
+          "Yushkevich P"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "K25 AG027785-05/AG/NIA NIH HHS/United States",
+          "K25 AG027785-02/AG/NIA NIH HHS/United States",
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "R01 AG037376-03/AG/NIA NIH HHS/United States",
+          "K25 AG027785-03/AG/NIA NIH HHS/United States",
+          "K25 AG027785-03S1/AG/NIA NIH HHS/United States",
+          "R01 AG037376-02/AG/NIA NIH HHS/United States",
+          "K25 AG027785-01A1/AG/NIA NIH HHS/United States",
+          "K25 AG027785-04/AG/NIA NIH HHS/United States",
+          "R01 AG037376-01/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Comput Vis Pattern Recognit Workshops",
+     "JT": "Conference on Computer Vision and Pattern Recognition Workshops. IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Workshops",
+     "JID": "101554644",
+     "PMC": "PMC3343877",
+     "MID": [
+          "NIHMS366473"
+     ],
+     "EDAT": "2012/05/09 06:00",
+     "MHDA": "2012/05/09 06:01",
+     "CRDT": [
+          "2012/05/08 06:00"
+     ],
+     "PHST": [
+          "2012/05/08 06:00 [entrez]",
+          "2012/05/09 06:00 [pubmed]",
+          "2012/05/09 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1109/CVPR.2011.5995382 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Comput Vis Pattern Recognit Workshops. 2011 Jun 20:1113-1120. doi: 10.1109/CVPR.2011.5995382.",
+     "term": "hippocampus"
+}

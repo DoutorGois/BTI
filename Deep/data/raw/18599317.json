@@ -1,0 +1,92 @@
+{
+     "PMID": "18599317",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081208",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "42",
+     "IP": "2",
+     "DP": "2008 Aug 15",
+     "TI": "Effects of spatial transformation on regional brain volume estimates.",
+     "PG": "535-47",
+     "LID": "10.1016/j.neuroimage.2008.05.047 [doi]",
+     "AB": "Spatial transformation of MR brain images is a standard tool used in automated anatomical parcellation and other quantitative and qualitative methods to assess brain tissue volume, composition, and distribution. Despite widespread use, the quantitative effects of spatial transformation on regional brain volume estimates have been little studied. We report on the effects of transformation on regional brain volumes of 38 (17M, 21F) manually parcellated brains. After tracing in native space, regions of interest were transformed using a classic piecewise-linear Talairach transformation (Tal) or a nonlinear registration (AIR 5th order nonlinear algorithm, 158 parameters) to one of three Talairach-based templates: 1) Tal50, constructed from 50 Talairach-transformed normal brains, 2) the MNI 305 atlas, 3) IA38, constructed from MNI305-transformed scans of the 38 subjects used in this study. Native volumes were compared to the transformed volumes. We found that: 1) significant group-level differences can be obtained in transformed data sets that are in the opposite direction of effects obtained in native space; 2) the effects of transformation are heterogeneous across brain regions, even after covarying for total brain volume and age; 3) volumetric intra-class correlations between native and transformed brains differ by registration method and template choice, region, and tissue type; and 4) transformed brains produced hippocampus and corpus callosum volume proportions that were significantly different from those obtained in native space. Our results suggest that region-based volumetric differences uncovered by spatial-transformation-based methods should be replicated in native-space brains, and that meta-analyses should take into account whether volumes are determined using spatially-transformed images and/or specific automated methods.",
+     "FAU": [
+          "Allen, John S",
+          "Bruss, Joel",
+          "Mehta, Sonya",
+          "Grabowski, Thomas",
+          "Brown, C Kice",
+          "Damasio, Hanna"
+     ],
+     "AU": [
+          "Allen JS",
+          "Bruss J",
+          "Mehta S",
+          "Grabowski T",
+          "Brown CK",
+          "Damasio H"
+     ],
+     "AD": "Dornsife Cognitive Neuroscience Imaging Center, University of Southern California, Los Angeles, CA 90089-2520, USA. jsallen38@aol.com",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P01 NS019632/NS/NINDS NIH HHS/United States",
+          "P01 NS019632-19/NS/NINDS NIH HHS/United States",
+          "P01 NS019632-199003/NS/NINDS NIH HHS/United States",
+          "NS 19632/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20080603",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Algorithms",
+          "Brain/*anatomy & histology",
+          "Female",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Organ Size",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Young Adult"
+     ],
+     "PMC": "PMC2581899",
+     "MID": [
+          "NIHMS67438"
+     ],
+     "EDAT": "2008/07/05 09:00",
+     "MHDA": "2008/12/17 09:00",
+     "CRDT": [
+          "2008/07/05 09:00"
+     ],
+     "PHST": [
+          "2007/01/26 00:00 [received]",
+          "2008/05/22 00:00 [revised]",
+          "2008/05/26 00:00 [accepted]",
+          "2008/07/05 09:00 [pubmed]",
+          "2008/12/17 09:00 [medline]",
+          "2008/07/05 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(08)00693-9 [pii]",
+          "10.1016/j.neuroimage.2008.05.047 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2008 Aug 15;42(2):535-47. doi: 10.1016/j.neuroimage.2008.05.047. Epub 2008 Jun 3.",
+     "term": "hippocampus"
+}

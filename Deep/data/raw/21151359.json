@@ -1,0 +1,69 @@
+{
+     "PMID": "21151359",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20110714",
+     "LR": "20170220",
+     "IS": "1662-5110 (Electronic) 1662-5110 (Linking)",
+     "VI": "4",
+     "DP": "2010",
+     "TI": "A circuit-level model of hippocampal place field dynamics modulated by entorhinal grid and suppression-generating cells.",
+     "PG": "122",
+     "LID": "10.3389/fncir.2010.00122 [doi]",
+     "AB": "Hippocampal \"place cells\" and the precession of their extracellularly recorded spiking during traversal of a \"place field\" are well-established phenomena. More recent experiments describe associated entorhinal \"grid cell\" firing, but to date only conceptual models have been offered to explain the potential interactions among entorhinal cortex (EC) and hippocampus. To better understand not only spatial navigation, but mechanisms of episodic and semantic memory consolidation and reconsolidation, more detailed physiological models are needed to guide confirmatory experiments. Here, we report the results of a putative entorhinal-hippocampal circuit level model that incorporates recurrent asynchronous-irregular non-linear (RAIN) dynamics, in the context of recent in vivo findings showing specific intracellular-extracellular precession disparities and place field destabilization by entorhinal lesioning. In particular, during computer-simulated rodent maze navigation, our model demonstrate asymmetric ramp-like depolarization, increased theta power, and frequency (that can explain the phase precession disparity), and a role for STDP and K(AHP) channels. Additionally, we propose distinct roles for two entorhinal cell populations projecting to hippocampus. Grid cell populations transiently trigger place field activity, while tonic \"suppression-generating cell\" populations minimize aberrant place cell activation, and limit the number of active place cells during traversal of a given field. Applied to place-cell RAIN networks, this tonic suppression explains an otherwise seemingly discordant association with overall increased firing. The findings of this circuit level model suggest in vivo and in vitro experiments that could refute or support the proposed mechanisms of place cell dynamics and modulating influences of EC.",
+     "FAU": [
+          "Jayet Bray, Laurence C",
+          "Quoy, Mathias",
+          "Harris, Frederick C",
+          "Goodman, Philip H"
+     ],
+     "AU": [
+          "Jayet Bray LC",
+          "Quoy M",
+          "Harris FC",
+          "Goodman PH"
+     ],
+     "AD": "Brain Computation Laboratory, Program in Biomedical Engineering, University of Nevada Reno, NV, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20101118",
+     "PL": "Switzerland",
+     "TA": "Front Neural Circuits",
+     "JT": "Frontiers in neural circuits",
+     "JID": "101477940",
+     "PMC": "PMC2995489",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "KAHP channels",
+          "STDP",
+          "grid cell",
+          "place cell",
+          "spatial navigation and memory",
+          "suppression-generating cell",
+          "theta oscillation"
+     ],
+     "EDAT": "2010/12/15 06:00",
+     "MHDA": "2010/12/15 06:01",
+     "CRDT": [
+          "2010/12/15 06:00"
+     ],
+     "PHST": [
+          "2010/05/25 00:00 [received]",
+          "2010/10/15 00:00 [accepted]",
+          "2010/12/15 06:00 [entrez]",
+          "2010/12/15 06:00 [pubmed]",
+          "2010/12/15 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncir.2010.00122 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neural Circuits. 2010 Nov 18;4:122. doi: 10.3389/fncir.2010.00122. eCollection 2010.",
+     "term": "place cells"
+}

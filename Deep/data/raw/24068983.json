@@ -1,0 +1,80 @@
+{
+     "PMID": "24068983",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130926",
+     "LR": "20170922",
+     "IS": "1662-5099 (Print) 1662-5099 (Linking)",
+     "VI": "6",
+     "DP": "2013",
+     "TI": "Improved genetically-encoded, FlincG-type fluorescent biosensors for neural cGMP imaging.",
+     "PG": "26",
+     "LID": "10.3389/fnmol.2013.00026 [doi]",
+     "AB": "Genetically-encoded biosensors are powerful tools for understanding cellular signal transduction mechanisms. In aiming to investigate cGMP signaling in neurones using the EGFP-based fluorescent biosensor, FlincG (fluorescent indicator for cGMP), we encountered weak or non-existent fluorescence after attempted transfection with plasmid DNA, even in HEK293T cells. Adenoviral infection of HEK293T cells with FlincG, however, had previously proved successful. Both constructs were found to harbor a mutation in the EGFP domain and had a tail of 17 amino acids at the C-terminus that differed from the published sequence. These discrepancies were systematically examined, together with mutations found beneficial for the related GCaMP family of Ca(2+) biosensors, in a HEK293T cell line stably expressing both nitric oxide (NO)-activated guanylyl cyclase and phosphodiesterase-5. Restoring the mutated amino acid improved basal fluorescence whereas additional restoration of the correct C-terminal tail resulted in poor cGMP sensing as assessed by superfusion of either 8-bromo-cGMP or NO. Ultimately, two improved FlincGs were identified: one (FlincG2) had the divergent tail and gave moderate basal fluorescence and cGMP response amplitude and the other (FlincG3) had the correct tail, a GCaMP-like mutation in the EGFP region and an N-terminal tag, and was superior in both respects. All variants tested were strongly influenced by pH over the physiological range, in common with other EGFP-based biosensors. Purified FlincG3 protein exhibited a lower cGMP affinity (0.89 muM) than reported for the original FlincG (0.17 muM) but retained rapid kinetics and a 230-fold selectivity over cAMP. Successful expression of FlincG2 or FlincG3 in differentiated N1E-115 neuroblastoma cells and in primary cultures of hippocampal and dorsal root ganglion cells commends them for real-time imaging of cGMP dynamics in neural (and other) cells, and in their subcellular specializations.",
+     "FAU": [
+          "Bhargava, Yogesh",
+          "Hampden-Smith, Kathryn",
+          "Chachlaki, Konstantina",
+          "Wood, Katherine C",
+          "Vernon, Jeffrey",
+          "Allerston, Charles K",
+          "Batchelor, Andrew M",
+          "Garthwaite, John"
+     ],
+     "AU": [
+          "Bhargava Y",
+          "Hampden-Smith K",
+          "Chachlaki K",
+          "Wood KC",
+          "Vernon J",
+          "Allerston CK",
+          "Batchelor AM",
+          "Garthwaite J"
+     ],
+     "AD": "Wolfson Institute for Biomedical Research, University College London London, UK.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "092809/Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130924",
+     "PL": "Switzerland",
+     "TA": "Front Mol Neurosci",
+     "JT": "Frontiers in molecular neuroscience",
+     "JID": "101477914",
+     "PMC": "PMC3781335",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "C-type natriuretic peptide",
+          "cGMP",
+          "dorsal root ganglion",
+          "genetically-encoded biosensor",
+          "hippocampus",
+          "neuroblastoma",
+          "nitric oxide"
+     ],
+     "EDAT": "2013/09/27 06:00",
+     "MHDA": "2013/09/27 06:01",
+     "CRDT": [
+          "2013/09/27 06:00"
+     ],
+     "PHST": [
+          "2013/05/29 00:00 [received]",
+          "2013/08/14 00:00 [accepted]",
+          "2013/09/27 06:00 [entrez]",
+          "2013/09/27 06:00 [pubmed]",
+          "2013/09/27 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnmol.2013.00026 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Mol Neurosci. 2013 Sep 24;6:26. doi: 10.3389/fnmol.2013.00026. eCollection 2013.",
+     "term": "hippocampus"
+}

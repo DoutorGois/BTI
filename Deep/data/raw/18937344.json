@@ -1,0 +1,97 @@
+{
+     "PMID": "18937344",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090626",
+     "LR": "20171116",
+     "IS": "1552-4930 (Electronic) 1552-4922 (Linking)",
+     "VI": "75",
+     "IP": "4",
+     "DP": "2009 Apr",
+     "TI": "Automated analysis of NeuronJ tracing data.",
+     "PG": "371-6",
+     "LID": "10.1002/cyto.a.20660 [doi]",
+     "AB": "Studies of neuronal differentiation in vitro often involve tracing and analysis of neurites. NeuronJ (Meijering et al., Cytometry Part A 2004;58A:167-176; http://www.imagescience.org/meijering/software/neuronj/) is a program that can be used for semiautomated tracing of individual neurons; when tracing is completed, a text file containing neurite length measurements is generated. Using cultured hippocampal neurons, we have found that to reach statistical significance it is generally necessary to trace about 100 neurons in each treatment group. Posttracing data analysis requires importing each text file into a statistics program. Analysis of distinct parameters, such as effects of a treatment on axonal versus dendritic branching, requires a great deal of time consuming posttracing data manipulation. We have developed XL_Calculations, a Java-based program that performs batch analysis on NeuronJ measurement files and automatically makes multiple calculations, including the number, length, and total output (sum length) of primary, secondary, and tertiary neurites on axons and dendrites, and writes the calculations into an Excel worksheet. Batch processing of NeuronJ measurement files dramatically reduces the time required to analyze neuronal morphology. In addition, our program performs more than 45 distinct calculations, enabling detailed determination of treatment effects on neuronal differentiation. Using this program to analyze NeuronJ tracing data, we demonstrate that continuous exposure of differentiating hippocampal neurons to Netrin 1 increases the number of secondary branches on both axons and dendrites, without significantly altering the length of the axon, dendrites, or branches. Similar results were obtained when neurons were grown on poly-D-lysine or laminin.",
+     "CI": [
+          "(c) 2008 International Society for Advancement of Cytometry."
+     ],
+     "FAU": [
+          "Popko, Jonathan",
+          "Fernandes, Adelaide",
+          "Brites, Dora",
+          "Lanier, Lorene M"
+     ],
+     "AU": [
+          "Popko J",
+          "Fernandes A",
+          "Brites D",
+          "Lanier LM"
+     ],
+     "AD": "Department of Neuroscience, University of Minnesota, Minneapolis, Minnesota 55455, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS049178/NS/NINDS NIH HHS/United States",
+          "R01 NS049178-05/NS/NINDS NIH HHS/United States",
+          "R01NS049178/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "Cytometry A",
+     "JT": "Cytometry. Part A : the journal of the International Society for Analytical Cytology",
+     "JID": "101235694",
+     "RN": [
+          "0 (Nerve Growth Factors)",
+          "0 (Ntn1 protein, mouse)",
+          "0 (Tumor Suppressor Proteins)",
+          "158651-98-0 (Netrin-1)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Automatic Data Processing/*methods",
+          "Axons/drug effects/metabolism/ultrastructure",
+          "Cell Differentiation/drug effects/physiology",
+          "Cell Shape/physiology",
+          "Dendrites/drug effects/metabolism/ultrastructure",
+          "Hippocampus/cytology/physiology",
+          "Image Cytometry/instrumentation/*methods",
+          "Mice",
+          "Microscopy/instrumentation/*methods",
+          "Nerve Growth Factors/metabolism/pharmacology",
+          "Netrin-1",
+          "Neurogenesis/drug effects/physiology",
+          "Neurons/*cytology/drug effects/metabolism",
+          "Organ Culture Techniques",
+          "Software/*trends",
+          "Software Validation",
+          "Tumor Suppressor Proteins/metabolism/pharmacology"
+     ],
+     "PMC": "PMC2661008",
+     "MID": [
+          "NIHMS76355"
+     ],
+     "EDAT": "2008/10/22 09:00",
+     "MHDA": "2009/06/27 09:00",
+     "CRDT": [
+          "2008/10/22 09:00"
+     ],
+     "PHST": [
+          "2008/10/22 09:00 [pubmed]",
+          "2009/06/27 09:00 [medline]",
+          "2008/10/22 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/cyto.a.20660 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cytometry A. 2009 Apr;75(4):371-6. doi: 10.1002/cyto.a.20660.",
+     "term": "hippocampus"
+}

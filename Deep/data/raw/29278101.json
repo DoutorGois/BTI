@@ -1,0 +1,66 @@
+{
+     "PMID": "29278101",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20171226",
+     "IS": "1477-0334 (Electronic) 0962-2802 (Linking)",
+     "DP": "2017 Jan 1",
+     "TI": "Bayesian hidden Markov models for delineating the pathology of Alzheimer's disease.",
+     "PG": "962280217748675",
+     "LID": "10.1177/0962280217748675 [doi]",
+     "AB": "Alzheimer's disease is a firmly incurable and progressive disease. The pathology of Alzheimer's disease usually evolves from cognitive normal, to mild cognitive impairment, to Alzheimer's disease. The aim of this paper is to develop a Bayesian hidden Markov model to characterize disease pathology, identify hidden states corresponding to the diagnosed stages of cognitive decline, and examine the dynamic changes of potential risk factors associated with the cognitive normal-mild cognitive impairment-Alzheimer's disease transition. The hidden Markov model framework consists of two major components. The first one is a state-dependent semiparametric regression for delineating the complex associations between clinical outcomes of interest and a set of prognostic biomarkers across neurodegenerative states. The second one is a parametric transition model, while accounting for potential covariate effects on the cross-state transition. The inter-individual and inter-process differences are taken into account via correlated random effects in both components. Based on the Alzheimer's Disease Neuroimaging Initiative data set, we are able to identify four states of Alzheimer's disease pathology, corresponding to common diagnosed cognitive decline stages, including cognitive normal, early mild cognitive impairment, late mild cognitive impairment, and Alzheimer's disease and examine the effects of hippocampus, age, gender, and APOE-[Formula: see text] on degeneration of cognitive function across the four cognitive states.",
+     "FAU": [
+          "Kang, Kai",
+          "Cai, Jingheng",
+          "Song, Xinyuan",
+          "Zhu, Hongtu"
+     ],
+     "AU": [
+          "Kang K",
+          "Cai J",
+          "Song X",
+          "Zhu H"
+     ],
+     "AD": "1 Department of Statistics, Chinese University of Hong Kong, Hong Kong, China. 2 Department of Statistics, Sun Yat-sen University, Guangzhou, China. 1 Department of Statistics, Chinese University of Hong Kong, Hong Kong, China. 3 Shenzhen Research Institute, Chinese University of Hong Kong, Hong Kong, China. 4 MD Anderson Cancer Center, University of Texas, Houston, USA.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0001-8267-3361",
+          "ORCID: http://orcid.org/0000-0002-4877-3200"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170101",
+     "PL": "England",
+     "TA": "Stat Methods Med Res",
+     "JT": "Statistical methods in medical research",
+     "JID": "9212457",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Bayesian P-splines",
+          "MCMC methods",
+          "correlated random effects",
+          "hidden Markov models",
+          "semiparametric models"
+     ],
+     "EDAT": "2017/12/27 06:00",
+     "MHDA": "2017/12/27 06:00",
+     "CRDT": [
+          "2017/12/27 06:00"
+     ],
+     "PHST": [
+          "2017/12/27 06:00 [entrez]",
+          "2017/12/27 06:00 [pubmed]",
+          "2017/12/27 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1177/0962280217748675 [doi]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "Stat Methods Med Res. 2017 Jan 1:962280217748675. doi: 10.1177/0962280217748675.",
+     "term": "hippocampus"
+}

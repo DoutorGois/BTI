@@ -1,0 +1,67 @@
+{
+     "PMID": "11423162",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20020103",
+     "LR": "20140325",
+     "IS": "0166-4328 (Print) 0166-4328 (Linking)",
+     "VI": "124",
+     "IP": "1",
+     "DP": "2001 Sep 28",
+     "TI": "Locomotion towards a goal alters the synchronous firing of neurons recorded simultaneously in the subiculum and nucleus accumbens of rats.",
+     "PG": "19-28",
+     "AB": "Rats were implanted with recording electrodes aimed at the subiculum and nucleus accumbens. They were subsequently placed in a cylindrical environment, where they searched for locations where they would receive rewarding medial forebrain bundle stimulation. At times a tone was sounded, indicating that the reward location was in the center of the environment. Animals quickly learned to switch from random running to goal directed locomotion when the tone was on. To quantify the synchronous firing between simultaneously recorded neurons in the subiculum and nucleus accumbens, a gravitational clustering algorithm was employed. Individual neurons were modeled as particles in N dimensional space. Every spike discharge of the neuron augmented the 'gravitational charge' on its model particle. Synchronous firing between two cells caused their corresponding particles to draw together over time, due to the concurrent appearance of gravitational charge. All pair-wise combinations of cells isolated in subiculum and nucleus accumbens were examined using this algorithm. The firing of nine out of 52 subicular-accumbens cell pairings was significantly more synchronous when the tone was on, and the rat was running towards the central goal. This was also seen for 15 out of 22 subicular-subicular cell pairings. Conversely, only two out of 51 accumbens-accumbens pairings displayed significant tone dependent changes in synchronous firing. Thus, synchronous interactions between subiculum and nucleus accumbens occur preferentially when the animal is required to locate a fixed goal in space, i.e., the functional connectivity is altered by the navigational demands of the spatial reward task.",
+     "FAU": [
+          "Martin, P D"
+     ],
+     "AU": [
+          "Martin PD"
+     ],
+     "AD": "Laboratoire de Physiologie de la Perception et de l'Action, CNRS-College de France, 11 place Marcelin Berthelot, 75231 Paris Cedex 05, France. patrick.martin@bristol.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Netherlands",
+     "TA": "Behav Brain Res",
+     "JT": "Behavioural brain research",
+     "JID": "8004872",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Brain Mapping",
+          "Hippocampus/*physiology",
+          "Locomotion/*physiology",
+          "Male",
+          "Medial Forebrain Bundle/*physiology",
+          "*Motivation",
+          "Neurons/physiology",
+          "Nucleus Accumbens/*physiology",
+          "Orientation/*physiology",
+          "Rats",
+          "Rats, Wistar",
+          "Reward",
+          "Self Stimulation/*physiology",
+          "Social Environment"
+     ],
+     "EDAT": "2001/06/26 10:00",
+     "MHDA": "2002/01/05 10:01",
+     "CRDT": [
+          "2001/06/26 10:00"
+     ],
+     "PHST": [
+          "2001/06/26 10:00 [pubmed]",
+          "2002/01/05 10:01 [medline]",
+          "2001/06/26 10:00 [entrez]"
+     ],
+     "AID": [
+          "S0166-4328(01)00209-1 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Behav Brain Res. 2001 Sep 28;124(1):19-28.",
+     "term": "hippocampus"
+}

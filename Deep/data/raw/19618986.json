@@ -1,0 +1,82 @@
+{
+     "PMID": "19618986",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090928",
+     "LR": "20090721",
+     "IS": "0033-295X (Print) 0033-295X (Linking)",
+     "VI": "116",
+     "IP": "3",
+     "DP": "2009 Jul",
+     "TI": "Is there a geometric module for spatial orientation? Insights from a rodent navigation model.",
+     "PG": "540-66",
+     "LID": "10.1037/a0016170 [doi]",
+     "AB": "Modern psychological theories of spatial cognition postulate the existence of a geometric module for reorientation. This concept is derived from experimental data showing that in rectangular arenas with distinct landmarks in the corners, disoriented rats often make diagonal errors, suggesting their preference for the geometric (arena shape) over the nongeometric (landmarks) cues. Moreover, sensitivity of hippocampal cell firing to changes in the environment layout was taken in support of the geometric module hypothesis. Using a computational model of rat navigation, the authors proposed and tested the alternative hypothesis that the influence of spatial geometry on both behavioral and neuronal levels can be explained by the properties of visual features that constitute local views of the environment. Their modeling results suggest that the pattern of diagonal errors observed in reorientation tasks can be understood by the analysis of sensory information processing that underlies the navigation strategy employed to solve the task. In particular, 2 navigation strategies were considered: (a) a place-based locale strategy that relies on a model of grid and place cells and (b) a stimulus-response taxon strategy that involves direct association of local views with action choices. The authors showed that the application of the 2 strategies in the reorientation tasks results in different patterns of diagonal errors, consistent with behavioral data. These results argue against the geometric module hypothesis by providing a simpler and biologically more plausible explanation for the related experimental data. Moreover, the same model also describes behavioral results in different types of water-maze tasks.",
+     "CI": [
+          "Copyright (c) 2009 APA, all rights reserved."
+     ],
+     "FAU": [
+          "Sheynikhovich, Denis",
+          "Chavarriaga, Ricardo",
+          "Strosslin, Thomas",
+          "Arleo, Angelo",
+          "Gerstner, Wulfram"
+     ],
+     "AU": [
+          "Sheynikhovich D",
+          "Chavarriaga R",
+          "Strosslin T",
+          "Arleo A",
+          "Gerstner W"
+     ],
+     "AD": "Laboratory of Computational Neuroscience, Brain Mind Institute, Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Psychol Rev",
+     "JT": "Psychological review",
+     "JID": "0376476",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Association Learning/physiology",
+          "Brain/physiology",
+          "*Cues",
+          "Discrimination (Psychology)/physiology",
+          "Escape Reaction/physiology",
+          "Goals",
+          "Maze Learning/physiology",
+          "Mental Recall/*physiology",
+          "*Models, Psychological",
+          "Motor Activity/physiology",
+          "*Neural Networks (Computer)",
+          "Neural Pathways/physiology",
+          "Neurons/physiology",
+          "Orientation/*physiology",
+          "Pattern Recognition, Visual/physiology",
+          "Rats",
+          "*Social Environment",
+          "Space Perception/*physiology"
+     ],
+     "EDAT": "2009/07/22 09:00",
+     "MHDA": "2009/09/29 06:00",
+     "CRDT": [
+          "2009/07/22 09:00"
+     ],
+     "PHST": [
+          "2009/07/22 09:00 [entrez]",
+          "2009/07/22 09:00 [pubmed]",
+          "2009/09/29 06:00 [medline]"
+     ],
+     "AID": [
+          "2009-10379-005 [pii]",
+          "10.1037/a0016170 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Psychol Rev. 2009 Jul;116(3):540-66. doi: 10.1037/a0016170.",
+     "term": "place cells"
+}

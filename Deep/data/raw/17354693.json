@@ -1,0 +1,64 @@
+{
+     "PMID": "17354693",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070406",
+     "LR": "20071203",
+     "IS": "1011-2499 (Print) 1011-2499 (Linking)",
+     "VI": "19",
+     "DP": "2005",
+     "TI": "Parametric medial shape representation in 3-D via the Poisson partial differential equation with non-linear boundary conditions.",
+     "PG": "162-73",
+     "AB": "This paper presents a new shape representation for a special class of 3-D objects. In a generative approach to object modeling inspired by m-reps, skeletons of objects are explicitly defined as continuous manifolds and boundaries are derived from the skeleton by a process that involves solving a Poisson PDE with a non-linear boundary condition. This formulation helps satisfy the equality constraints that are imposed on the parameters of the representation by rules of medial geometry. One benefit of the new approach is the ability to represent different instances of an anatomical structure using a common parametrization domain, simplifying the problem of computing correspondences between instances. Another benefit is the ability to continuously parameterize the volumetric region enclosed by the representation's boundary in a one-to-one and onto manner, in a way that preserves two of the three coordinates of the parametrization along vectors normal to the boundary. These two features make the new representation an attractive candidate for statistical analysis of shape and appearance. In this paper, the representation is carefully defined and the results of fitting the hippocampus in a deformable templates framework are presented.",
+     "FAU": [
+          "Yushkevich, Paul A",
+          "Zhang, Hui",
+          "Gee, James C"
+     ],
+     "AU": [
+          "Yushkevich PA",
+          "Zhang H",
+          "Gee JC"
+     ],
+     "AD": "Department of Radiology, University of Pennsylvania, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS045839/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "Germany",
+     "TA": "Inf Process Med Imaging",
+     "JT": "Information processing in medical imaging : proceedings of the ... conference",
+     "JID": "9216871",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Computer Simulation",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "*Models, Biological",
+          "Nonlinear Dynamics",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2007/03/16 09:00",
+     "MHDA": "2007/04/07 09:00",
+     "CRDT": [
+          "2007/03/16 09:00"
+     ],
+     "PHST": [
+          "2007/03/16 09:00 [pubmed]",
+          "2007/04/07 09:00 [medline]",
+          "2007/03/16 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Inf Process Med Imaging. 2005;19:162-73.",
+     "term": "hippocampus"
+}

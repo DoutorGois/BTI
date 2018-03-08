@@ -1,0 +1,55 @@
+{
+     "PMID": "28891818",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20171122",
+     "IS": "1546-4156 (Electronic) 0893-0341 (Linking)",
+     "VI": "31",
+     "IP": "4",
+     "DP": "2017 Oct-Dec",
+     "TI": "Machine-learning Support to Individual Diagnosis of Mild Cognitive Impairment Using Multimodal MRI and Cognitive Assessments.",
+     "PG": "278-286",
+     "LID": "10.1097/WAD.0000000000000208 [doi]",
+     "AB": "BACKGROUND: Understanding whether the cognitive profile of a patient indicates mild cognitive impairment (MCI) or performance levels within normality is often a clinical challenge. The use of resting-state functional magnetic resonance imaging (RS-fMRI) and machine learning may represent valid aids in clinical settings for the identification of MCI patients. METHODS: Machine-learning models were computed to test the classificatory accuracy of cognitive, volumetric [structural magnetic resonance imaging (sMRI)] and blood oxygen level dependent-connectivity (extracted from RS-fMRI) features, in single-modality and mixed classifiers. RESULTS: The best and most significant classifier was the RS-fMRI+Cognitive mixed classifier (94% accuracy), whereas the worst performing was the sMRI classifier ( approximately 80%). The mixed global (sMRI+RS-fMRI+Cognitive) had a slightly lower accuracy ( approximately 90%), although not statistically different from the mixed RS-fMRI+Cognitive classifier. The most important cognitive features were indices of declarative memory and semantic processing. The crucial volumetric feature was the hippocampus. The RS-fMRI features selected by the algorithms were heavily based on the connectivity of mediotemporal, left temporal, and other neocortical regions. CONCLUSION: Feature selection was profoundly driven by statistical independence. Some features showed no between-group differences, or showed a trend in either direction. This indicates that clinically relevant brain alterations typical of MCI might be subtle and not inferable from group analysis.",
+     "FAU": [
+          "De Marco, Matteo",
+          "Beltrachini, Leandro",
+          "Biancardi, Alberto",
+          "Frangi, Alejandro F",
+          "Venneri, Annalena"
+     ],
+     "AU": [
+          "De Marco M",
+          "Beltrachini L",
+          "Biancardi A",
+          "Frangi AF",
+          "Venneri A"
+     ],
+     "AD": "Departments of Neuroscience. Electronic and Electrical Engineering, Centre for Computational Imaging and Simulation Technologies in Biomedicine (CISTIB). School of Physics and Astronomy. School of Psychology, Cardiff University Brain Research Imaging Centre (CUBRIC), Cardiff University, Cardiff, UK. Cardiovascular Science, University of Sheffield, Sheffield. Electronic and Electrical Engineering, Centre for Computational Imaging and Simulation Technologies in Biomedicine (CISTIB). Departments of Neuroscience. Electronic and Electrical Engineering, Centre for Computational Imaging and Simulation Technologies in Biomedicine (CISTIB).",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Alzheimer Dis Assoc Disord",
+     "JT": "Alzheimer disease and associated disorders",
+     "JID": "8704771",
+     "EDAT": "2017/09/12 06:00",
+     "MHDA": "2017/09/12 06:00",
+     "CRDT": [
+          "2017/09/12 06:00"
+     ],
+     "PHST": [
+          "2017/09/12 06:00 [pubmed]",
+          "2017/09/12 06:00 [medline]",
+          "2017/09/12 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1097/WAD.0000000000000208 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Alzheimer Dis Assoc Disord. 2017 Oct-Dec;31(4):278-286. doi: 10.1097/WAD.0000000000000208.",
+     "term": "hippocampus"
+}

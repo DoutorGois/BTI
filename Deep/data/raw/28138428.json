@@ -1,0 +1,79 @@
+{
+     "PMID": "28138428",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171107",
+     "LR": "20171107",
+     "IS": "2213-1582 (Electronic) 2213-1582 (Linking)",
+     "VI": "14",
+     "DP": "2017",
+     "TI": "Automated tractography in patients with temporal lobe epilepsy using TRActs Constrained by UnderLying Anatomy (TRACULA).",
+     "PG": "67-76",
+     "LID": "10.1016/j.nicl.2017.01.003 [doi]",
+     "AB": "PURPOSE: A detailed understanding of white matter tract alterations in patients with temporal lobe epilepsy (TLE) is important as it may provide useful information for likely side of seizure onset, cognitive impairment and postoperative prognosis. However, most diffusion-tensor imaging (DTI) studies have relied on manual reconstruction of tract bundles, despite the recent development of automated techniques. In the present study, we used an automated white matter tractography analysis approach to quantify temporal lobe white matter tract alterations in TLE and determine the relationships between tract alterations, the extent of hippocampal atrophy and the chronicity and severity of the disorder. METHODS: We acquired preoperative T1-weighted and DTI data in 64 patients with well-characterized TLE, with imaging and histopathological evidence of hippocampal sclerosis. Identical acquisitions were collected for 44 age- and sex-matched healthy controls. We employed automatic probabilistic tractography DTI analysis using TRActs Constrained by UnderLying Anatomy (TRACULA) available in context of Freesurfer software for the reconstruction of major temporal lobe tract bundles. We determined the factors influencing probabilistic tract reconstruction and investigated alterations of DTI scalar metrics along white matter tracts with respect to hippocampal volume, which was automatically estimated using Freesurfer's morphometric pipelines. We also explored the relationships between white matter tract alterations and duration of epilepsy, age of onset of epilepsy and seizure burden (defined as a function of seizure frequency and duration of epilepsy). RESULTS: Whole-tract diffusion characteristics of patients with TLE differed according to side of epilepsy and were significantly different between patients and controls. Waypoint comparisons along each tract revealed that patients had significantly altered tissue characteristics of the ipsilateral inferior-longitudinal, uncinate fasciculus, superior longitudinal fasciculus and cingulum relative to controls. Changes were more widespread (ipsilaterally and contralaterally) in patients with left TLE while patients with right TLE showed changes that remained spatially confined in ipsilateral tract regions. We found no relationship between DTI alterations and volume of the epileptogenic hippocampus. DTI alterations of anterior ipsilateral uncinate and inferior-longitudinal fasciculus correlated with duration of epilepsy (over and above effects of age) and age at onset of epilepsy. Seizure burden correlated with tissue characteristics of the uncinate fasciculus. CONCLUSION: This study shows that TRACULA permits the detection of alterations of DTI tract scalar metrics in patients with TLE. It also provides the opportunity to explore relationships with structural volume measurements and clinical variables along white matter tracts. Our data suggests that the anterior temporal lobe portions of the uncinate and inferior-longitudinal fasciculus may be particularly vulnerable to pathological alterations in patients with TLE. These alterations are unrelated to the extent of hippocampal atrophy (and therefore potentially mediated by independent mechanisms) but influenced by chronicity and severity of the disorder.",
+     "FAU": [
+          "Kreilkamp, Barbara A K",
+          "Weber, Bernd",
+          "Richardson, Mark P",
+          "Keller, Simon S"
+     ],
+     "AU": [
+          "Kreilkamp BA",
+          "Weber B",
+          "Richardson MP",
+          "Keller SS"
+     ],
+     "AD": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, UK; Department of Neuroradiology, The Walton Centre NHS Foundation Trust, Liverpool, UK. Department of Epileptology, University of Bonn, Germany; Department of NeuroCognition/Imaging, Life&Brain Research Center, Bonn, Germany. Department of Basic and Clinical Neuroscience, Institute of Psychiatry, Psychology and Neuroscience, King's College London, UK. Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, UK; Department of Neuroradiology, The Walton Centre NHS Foundation Trust, Liverpool, UK; Department of Basic and Clinical Neuroscience, Institute of Psychiatry, Psychology and Neuroscience, King's College London, UK.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MR/K023152/1/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170105",
+     "PL": "Netherlands",
+     "TA": "Neuroimage Clin",
+     "JT": "NeuroImage. Clinical",
+     "JID": "101597070",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Atrophy",
+          "Brain Mapping",
+          "Diffusion Tensor Imaging",
+          "Epilepsy, Temporal Lobe/*diagnostic imaging/pathology",
+          "Female",
+          "Humans",
+          "*Image Interpretation, Computer-Assisted",
+          "Male",
+          "Middle Aged",
+          "Nerve Fibers, Myelinated/*physiology",
+          "Neural Pathways/*diagnostic imaging",
+          "Statistics, Nonparametric",
+          "White Matter/*diagnostic imaging"
+     ],
+     "PMC": "PMC5257189",
+     "EDAT": "2017/02/01 06:00",
+     "MHDA": "2017/11/08 06:00",
+     "CRDT": [
+          "2017/02/01 06:00"
+     ],
+     "PHST": [
+          "2016/10/17 00:00 [received]",
+          "2016/12/06 00:00 [revised]",
+          "2017/01/04 00:00 [accepted]",
+          "2017/02/01 06:00 [entrez]",
+          "2017/02/01 06:00 [pubmed]",
+          "2017/11/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1016/j.nicl.2017.01.003 [doi]",
+          "S2213-1582(17)30003-7 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Neuroimage Clin. 2017 Jan 5;14:67-76. doi: 10.1016/j.nicl.2017.01.003. eCollection 2017.",
+     "term": "hippocampus"
+}

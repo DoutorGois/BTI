@@ -1,0 +1,72 @@
+{
+     "PMID": "25474350",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160105",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "10",
+     "IP": "12",
+     "DP": "2014 Dec",
+     "TI": "A network convergence zone in the hippocampus.",
+     "PG": "e1003982",
+     "LID": "10.1371/journal.pcbi.1003982 [doi]",
+     "AB": "The hippocampal formation is a key structure for memory function in the brain. The functional anatomy of the brain suggests that the hippocampus may be a convergence zone, as it receives polysensory input from distributed association areas throughout the neocortex. However, recent quantitative graph-theoretic analyses of the static large-scale connectome have failed to demonstrate the centrality of the hippocampus; in the context of the whole brain, the hippocampus is not among the most connected or reachable nodes. Here we show that when communication dynamics are taken into account, the hippocampus is a key hub in the connectome. Using a novel computational model, we demonstrate that large-scale brain network topology is organized to funnel and concentrate information flow in the hippocampus, supporting the long-standing hypothesis that this region acts as a critical convergence zone. Our results indicate that the functional capacity of the hippocampus is shaped by its embedding in the large-scale connectome.",
+     "FAU": [
+          "Misic, Bratislav",
+          "Goni, Joaquin",
+          "Betzel, Richard F",
+          "Sporns, Olaf",
+          "McIntosh, Anthony R"
+     ],
+     "AU": [
+          "Misic B",
+          "Goni J",
+          "Betzel RF",
+          "Sporns O",
+          "McIntosh AR"
+     ],
+     "AD": "Rotman Research Institute, Baycrest Centre, Toronto, Canada; Department of Psychology, University of Toronto, Toronto, Canada; Department of Psychological and Brain Sciences, Indiana University, Bloomington, Indiana, United States of America. Department of Psychological and Brain Sciences, Indiana University, Bloomington, Indiana, United States of America. Department of Psychological and Brain Sciences, Indiana University, Bloomington, Indiana, United States of America. Department of Psychological and Brain Sciences, Indiana University, Bloomington, Indiana, United States of America. Rotman Research Institute, Baycrest Centre, Toronto, Canada; Department of Psychology, University of Toronto, Toronto, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20141204",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computational Biology",
+          "*Connectome",
+          "Databases, Factual",
+          "Hippocampus/*physiology",
+          "Macaca",
+          "*Models, Neurological",
+          "Neural Pathways/*physiology"
+     ],
+     "PMC": "PMC4256084",
+     "EDAT": "2014/12/05 06:00",
+     "MHDA": "2016/01/06 06:00",
+     "CRDT": [
+          "2014/12/05 06:00"
+     ],
+     "PHST": [
+          "2014/06/03 00:00 [received]",
+          "2014/10/10 00:00 [accepted]",
+          "2014/12/05 06:00 [entrez]",
+          "2014/12/05 06:00 [pubmed]",
+          "2016/01/06 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1003982 [doi]",
+          "PCOMPBIOL-D-14-00988 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2014 Dec 4;10(12):e1003982. doi: 10.1371/journal.pcbi.1003982. eCollection 2014 Dec.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,61 @@
+{
+     "PMID": "28268633",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170807",
+     "LR": "20171119",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2016",
+     "DP": "2016 Aug",
+     "TI": "Analyzing the feasibility of time correlated spectral entropy for the assessment of neuronal synchrony.",
+     "PG": "1595-1598",
+     "LID": "10.1109/EMBC.2016.7591017 [doi]",
+     "AB": "In this paper, we study neuronal network analysis based on microelectrode measurements. We search for potential relations between time correlated changes in spectral distributions and synchrony for neuronal network activity. Spectral distribution is quantified by spectral entropy as a measure of uniformity/complexity and this measure is calculated as a function of time for the recorded neuronal signals, i.e., time variant spectral entropy. Time variant correlations in the spectral distributions between different parts of a neuronal network, i.e., of concurrent measurements via different microelectrodes, are calculated to express the relation with a single scalar. We demonstrate these relations with in vivo rat hippocampal recordings, and observe the time courses of the correlations between different regions of hippocampus in three sequential recordings. Additionally, we evaluate the results with a commonly employed causality analysis method to assess the possible correlated findings. Results show that time correlated spectral entropy reveals different levels of interrelations in neuronal networks, which can be interpreted as different levels of neuronal network synchrony.",
+     "FAU": [
+          "Kapucu, Fikret E",
+          "Mikkonen, Jarno E",
+          "Tanskanen, Jarno M A",
+          "Hyttinen, Jari A K"
+     ],
+     "AU": [
+          "Kapucu FE",
+          "Mikkonen JE",
+          "Tanskanen JM",
+          "Hyttinen JA"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Entropy",
+          "Hippocampus",
+          "Microelectrodes",
+          "Rats"
+     ],
+     "EDAT": "2017/03/09 06:00",
+     "MHDA": "2017/08/08 06:00",
+     "CRDT": [
+          "2017/03/09 06:00"
+     ],
+     "PHST": [
+          "2017/03/09 06:00 [entrez]",
+          "2017/03/09 06:00 [pubmed]",
+          "2017/08/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2016.7591017 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2016 Aug;2016:1595-1598. doi: 10.1109/EMBC.2016.7591017.",
+     "term": "hippocampus"
+}

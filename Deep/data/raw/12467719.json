@@ -1,0 +1,71 @@
+{
+     "PMID": "12467719",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030428",
+     "LR": "20071114",
+     "IS": "1361-8415 (Print) 1361-8415 (Linking)",
+     "VI": "7",
+     "IP": "1",
+     "DP": "2003 Mar",
+     "TI": "Image registration via level-set motion: applications to atlas-based segmentation.",
+     "PG": "1-20",
+     "AB": "Image registration is an often encountered problem in various fields including medical imaging, computer vision and image processing. Numerous algorithms for registering image data have been reported in these areas. In this paper, we present a novel curve evolution approach expressed in a level-set framework to achieve image intensity morphing and a simple non-linear PDE for the corresponding coordinate registration. The key features of the intensity morphing model are that (a) it is very fast and (b) existence and uniqueness of the solution for the evolution model are established in a Sobolev space as opposed to using viscosity methods. The salient features of the coordinate registration model are its simplicity and computational efficiency. The intensity morph is easily achieved via evolving level-sets of one image into the level-sets of the other. To explicitly estimate the coordinate transformation between the images, we derive a non-linear PDE-based motion model which can be solved very efficiently. We demonstrate the performance of our algorithm on a variety of images including synthetic and real data. As an application of the PDE-based motion model, atlas based segmentation of hippocampal shape from several MR brain scans is depicted. In each of these experiments, automated hippocampal shape recovery results are validated via manual \"expert\" segmentations.",
+     "FAU": [
+          "Vemuri, B C",
+          "Ye, J",
+          "Chen, Y",
+          "Leonard, C M"
+     ],
+     "AU": [
+          "Vemuri BC",
+          "Ye J",
+          "Chen Y",
+          "Leonard CM"
+     ],
+     "AD": "Department of CISE, University of Florida, Gainesville, FL 32611, USA. vemuri@cise.ufl.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "RF01 RR 13197/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "Netherlands",
+     "TA": "Med Image Anal",
+     "JT": "Medical image analysis",
+     "JID": "9713490",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Algorithms",
+          "Brain/anatomy & histology",
+          "Female",
+          "Hippocampus/anatomy & histology",
+          "Humans",
+          "*Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged"
+     ],
+     "EDAT": "2002/12/07 04:00",
+     "MHDA": "2003/04/29 05:00",
+     "CRDT": [
+          "2002/12/07 04:00"
+     ],
+     "PHST": [
+          "2002/12/07 04:00 [pubmed]",
+          "2003/04/29 05:00 [medline]",
+          "2002/12/07 04:00 [entrez]"
+     ],
+     "AID": [
+          "S1361841502000634 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Anal. 2003 Mar;7(1):1-20.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,72 @@
+{
+     "PMID": "7704110",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19950510",
+     "LR": "20071114",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "4",
+     "IP": "6",
+     "DP": "1994 Dec",
+     "TI": "Hippocampal conjunctive encoding, storage, and recall: avoiding a trade-off.",
+     "PG": "661-82",
+     "AB": "The hippocampus and related structures are thought to be capable of 1) representing cortical activity in a way that minimizes overlap of the representations assigned to different cortical patterns (pattern separation); and 2) modifying synaptic connections so that these representations can later be reinstated from partial or noisy versions of the cortical activity pattern that was present at the time of storage (pattern completion). We point out that there is a trade-off between pattern separation and completion and propose that the unique anatomical and physiological properties of the hippocampus might serve to minimize this trade-off. We use analytical methods to determine quantitative estimates of both separation and completion for specified parameterized models of the hippocampus. These estimates are then used to evaluate the role of various properties and of the hippocampus, such as the activity levels seen in different hippocampal regions, synaptic potentiation and depression, the multi-layer connectivity of the system, and the relatively focused and strong mossy fiber projections. This analysis is focused on the feedforward pathways from the entorhinal cortex (EC) to the dentate gyrus (DG) and region CA3. Among our results are the following: 1) Hebbian synaptic modification (LTP) facilitates completion but reduces separation, unless the strengths of synapses from inactive presynaptic units to active postsynaptic units are reduced (LTD). 2) Multiple layers, as in EC to DG to CA3, allow the compounding of pattern separation, but not pattern completion. 3) The variance of the input signal carried by the mossy fibers is important for separation, not the raw strength, which may explain why the mossy fiber inputs are few and relatively strong, rather than many and relatively weak like the other hippocampal pathways. 4) The EC projects to CA3 both directly and indirectly via the DG, which suggests that the two-stage pathway may dominate during pattern separation and the one-stage pathway may dominate during completion; methods the hippocampus may use to enhance this effect are discussed.",
+     "FAU": [
+          "O'Reilly, R C",
+          "McClelland, J L"
+     ],
+     "AU": [
+          "O'Reilly RC",
+          "McClelland JL"
+     ],
+     "AD": "Department of Psychology, Carnegie-Mellon University, Pittsburgh, Pennsylvania 15208.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH00385/MH/NIMH NIH HHS/United States",
+          "MH47566/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/anatomy & histology/cytology/*physiology",
+          "Learning/physiology",
+          "Memory/*physiology",
+          "Mental Recall/*physiology",
+          "Models, Neurological",
+          "Nerve Fibers/physiology",
+          "Neural Networks (Computer)",
+          "Probability",
+          "Rats",
+          "Synapses/physiology"
+     ],
+     "EDAT": "1994/12/01 00:00",
+     "MHDA": "1994/12/01 00:01",
+     "CRDT": [
+          "1994/12/01 00:00"
+     ],
+     "PHST": [
+          "1994/12/01 00:00 [pubmed]",
+          "1994/12/01 00:01 [medline]",
+          "1994/12/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.450040605 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 1994 Dec;4(6):661-82. doi: 10.1002/hipo.450040605.",
+     "term": "hippocampus"
+}

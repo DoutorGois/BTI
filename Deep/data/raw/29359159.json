@@ -1,0 +1,69 @@
+{
+     "PMID": "29359159",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20180125",
+     "IS": "2314-6141 (Electronic)",
+     "VI": "2017",
+     "DP": "2017",
+     "TI": "The Bioinformatic Analysis of the Dysregulated Genes and MicroRNAs in Entorhinal Cortex, Hippocampus, and Blood for Alzheimer's Disease.",
+     "PG": "9084507",
+     "LID": "10.1155/2017/9084507 [doi]",
+     "AB": "Aim: The incidence of Alzheimer's disease (AD) has been increasing in recent years, but there exists no cure and the pathological mechanisms are not fully understood. This study aimed to find out the pathogenesis of learning and memory impairment, new biomarkers, potential therapeutic targets, and drugs for AD. Methods: We downloaded the microarray data of entorhinal cortex (EC) and hippocampus (HIP) of AD and controls from Gene Expression Omnibus (GEO) database, and then the differentially expressed genes (DEGs) in EC and HIP regions were analyzed for functional and pathway enrichment. Furthermore, we utilized the DEGs to construct coexpression networks to identify hub genes and discover the small molecules which were capable of reversing the gene expression profile of AD. Finally, we also analyzed microarray and RNA-seq dataset of blood samples to find the biomarkers related to gene expression in brain. Results: We found some functional hub genes, such as ErbB2, ErbB4, OCT3, MIF, CDK13, and GPI. According to GO and KEGG pathway enrichment, several pathways were significantly dysregulated in EC and HIP. CTSD and VCAM1 were dysregulated significantly in blood, EC, and HIP, which were potential biomarkers for AD. Target genes of four microRNAs had similar GO_terms distribution with DEGs in EC and HIP. In addtion, small molecules were screened out for AD treatment. Conclusion: These biological pathways and DEGs or hub genes will be useful to elucidate AD pathogenesis and identify novel biomarkers or drug targets for developing improved diagnostics and therapeutics against AD.",
+     "FAU": [
+          "Pang, Xiaocong",
+          "Zhao, Ying",
+          "Wang, Jinhua",
+          "Zhou, Qimeng",
+          "Xu, Lvjie",
+          "Kang, De",
+          "Liu, Ai-Lin",
+          "Du, Guan-Hua"
+     ],
+     "AU": [
+          "Pang X",
+          "Zhao Y",
+          "Wang J",
+          "Zhou Q",
+          "Xu L",
+          "Kang",
+          "Liu AL",
+          "Du GH"
+     ],
+     "AD": "State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100050, China. State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100050, China. State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100050, China. Beijing Key Laboratory of Drug Target and Screening Research, Beijing 100050, China. State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100050, China. State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100050, China. State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100050, China. State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100050, China. Beijing Key Laboratory of Drug Target and Screening Research, Beijing 100050, China. State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100050, China. Beijing Key Laboratory of Drug Target and Screening Research, Beijing 100050, China.",
+     "AUID": [
+          "ORCID: 0000-0002-1989-103X",
+          "ORCID: 0000-0002-6896-0847"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171121",
+     "PL": "United States",
+     "TA": "Biomed Res Int",
+     "JT": "BioMed research international",
+     "JID": "101600173",
+     "PMC": "PMC5735586",
+     "EDAT": "2018/01/24 06:00",
+     "MHDA": "2018/01/24 06:00",
+     "CRDT": [
+          "2018/01/24 06:00"
+     ],
+     "PHST": [
+          "2017/05/25 00:00 [received]",
+          "2017/08/15 00:00 [revised]",
+          "2017/08/29 00:00 [accepted]",
+          "2018/01/24 06:00 [entrez]",
+          "2018/01/24 06:00 [pubmed]",
+          "2018/01/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2017/9084507 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biomed Res Int. 2017;2017:9084507. doi: 10.1155/2017/9084507. Epub 2017 Nov 21.",
+     "term": "hippocampus"
+}

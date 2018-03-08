@@ -1,0 +1,89 @@
+{
+     "PMID": "22759716",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130128",
+     "LR": "20131121",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "209",
+     "IP": "2",
+     "DP": "2012 Aug 15",
+     "TI": "Building virtual reality fMRI paradigms: a framework for presenting immersive virtual environments.",
+     "PG": "290-8",
+     "LID": "10.1016/j.jneumeth.2012.06.025 [doi]",
+     "AB": "The advantage of using a virtual reality (VR) paradigm in fMRI is the possibility to interact with highly realistic environments. This extends the functions of standard fMRI paradigms, where the volunteer usually has a passive role, for example, watching a simple movie paradigm without any stimulus interactions. From that point of view the combined usage of VR and real-time fMRI offers great potential to identify underlying cognitive mechanisms such as spatial navigation, attention, semantic and episodic memory, as well as neurofeedback paradigms. However, the design and the implementation of a VR stimulus paradigm as well as the integration into an existing MR scanner framework are very complex processes. To support the modeling and usage of VR stimuli we developed and implemented a VR stimulus application based on C++. This software allows the fast and easy presentation of VR environments for fMRI studies without any additional expert knowledge. Furthermore, it provides for the reception of real-time data analysis values a bidirectional communication interface. In addition, the internal plugin interface enables users to extend the functionality of the software with custom programmed C++ plugins. The VR stimulus framework was tested in several performance tests and a spatial navigation study. According to the post-experimental interview, all subjects described immersive experiences and a high attentional load inside the artifical environment. Results from other VR spatial memory studies confirm the neuronal activation that was detected in parahippocampal areas, cuneus, and occipital regions.",
+     "CI": [
+          "Copyright (c) 2012 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Mueller, Charles",
+          "Luehrs, Michael",
+          "Baecke, Sebastian",
+          "Adolf, Daniela",
+          "Luetzkendorf, Ralf",
+          "Luchtmann, Michael",
+          "Bernarding, Johannes"
+     ],
+     "AU": [
+          "Mueller C",
+          "Luehrs M",
+          "Baecke S",
+          "Adolf D",
+          "Luetzkendorf R",
+          "Luchtmann M",
+          "Bernarding J"
+     ],
+     "AD": "Department for Biometrics and Medical Informatics (IBMI), Otto-von-Guericke-University, Medical Faculty, Leipziger Strasse 44, Magdeburg, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120701",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "S88TT14065 (Oxygen)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Brain/*blood supply",
+          "Computer Simulation",
+          "*Environment",
+          "Female",
+          "Humans",
+          "*Image Processing, Computer-Assisted",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Oxygen/blood",
+          "Pattern Recognition, Visual",
+          "Photic Stimulation",
+          "*User-Computer Interface",
+          "Young Adult"
+     ],
+     "EDAT": "2012/07/05 06:00",
+     "MHDA": "2013/01/29 06:00",
+     "CRDT": [
+          "2012/07/05 06:00"
+     ],
+     "PHST": [
+          "2012/02/12 00:00 [received]",
+          "2012/05/18 00:00 [revised]",
+          "2012/06/23 00:00 [accepted]",
+          "2012/07/05 06:00 [entrez]",
+          "2012/07/05 06:00 [pubmed]",
+          "2013/01/29 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(12)00250-6 [pii]",
+          "10.1016/j.jneumeth.2012.06.025 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2012 Aug 15;209(2):290-8. doi: 10.1016/j.jneumeth.2012.06.025. Epub 2012 Jul 1.",
+     "term": "spatial navigation"
+}

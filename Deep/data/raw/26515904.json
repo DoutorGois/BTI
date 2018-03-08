@@ -1,0 +1,117 @@
+{
+     "PMID": "26515904",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161005",
+     "LR": "20170812",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "125",
+     "DP": "2016 Jan 15",
+     "TI": "Integrating longitudinal information in hippocampal volume measurements for the early detection of Alzheimer's disease.",
+     "PG": "834-847",
+     "LID": "S1053-8119(15)00981-7 [pii] 10.1016/j.neuroimage.2015.10.065 [doi]",
+     "AB": "BACKGROUND: Structural MRI measures for monitoring Alzheimer's Disease (AD) progression are becoming instrumental in the clinical practice, and more so in the context of longitudinal studies. This investigation addresses the impact of four image analysis approaches on the longitudinal performance of the hippocampal volume. METHODS: We present a hippocampal segmentation algorithm and validate it on a gold-standard manual tracing database. We segmented 460 subjects from ADNI, each subject having been scanned twice at baseline, 12-month and 24month follow-up scan (1.5T, T1 MRI). We used the bilateral hippocampal volume v and its variation, measured as the annualized volume change Lambda=deltav/year(mm(3)/y). Four processing approaches with different complexity are compared to maximize the longitudinal information, and they are tested for cohort discrimination ability. Reference cohorts are Controls vs. Alzheimer's Disease (CTRL/AD) and CTRL vs. Mild Cognitive Impairment who subsequently progressed to AD dementia (CTRL/MCI-co). We discuss the conditions on v and the added value of Lambda in discriminating subjects. RESULTS: The age-corrected bilateral annualized atrophy rate (%/year) were: -1.6 (0.6) for CTRL, -2.2 (1.0) for MCI-nc, -3.2 (1.2) for MCI-co and -4.0 (1.5) for AD. Combined (v, Lambda) discrimination ability gave an Area under the ROC curve (auc)=0.93 for CTRL vs AD and auc=0.88 for CTRL vs MCI-co. CONCLUSIONS: Longitudinal volume measurements can provide meaningful clinical insight and added value with respect to the baseline provided the analysis procedure embeds the longitudinal information.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Chincarini, Andrea",
+          "Sensi, Francesco",
+          "Rei, Luca",
+          "Gemme, Gianluca",
+          "Squarcia, Sandro",
+          "Longo, Renata",
+          "Brun, Francesco",
+          "Tangaro, Sabina",
+          "Bellotti, Roberto",
+          "Amoroso, Nicola",
+          "Bocchetta, Martina",
+          "Redolfi, Alberto",
+          "Bosco, Paolo",
+          "Boccardi, Marina",
+          "Frisoni, Giovanni B",
+          "Nobili, Flavio"
+     ],
+     "AU": [
+          "Chincarini A",
+          "Sensi F",
+          "Rei L",
+          "Gemme G",
+          "Squarcia S",
+          "Longo R",
+          "Brun F",
+          "Tangaro S",
+          "Bellotti R",
+          "Amoroso N",
+          "Bocchetta M",
+          "Redolfi A",
+          "Bosco P",
+          "Boccardi M",
+          "Frisoni GB",
+          "Nobili F"
+     ],
+     "AD": "Istituto Nazionale di Fisica Nucleare, Sezione di Genova, I-16146 Genova, Italy. Electronic address: andrea.chincarini@ge.infn.it. Istituto Nazionale di Fisica Nucleare, Sezione di Genova, I-16146 Genova, Italy. Istituto Nazionale di Fisica Nucleare, Sezione di Genova, I-16146 Genova, Italy; Dipartimento di Fisica, Universita degli Studi di Genova, I-16146 Genova, Italy. Istituto Nazionale di Fisica Nucleare, Sezione di Genova, I-16146 Genova, Italy. Istituto Nazionale di Fisica Nucleare, Sezione di Genova, I-16146 Genova, Italy; Dipartimento di Fisica, Universita degli Studi di Genova, I-16146 Genova, Italy. Dipartimento di Fisica, Universita degli Studi di Trieste, Italy; Istituto Nazionale di Fisica Nucleare, Sezione di Trieste, Italy. Dipartimento di Ingegneria e Architettura, Universita degli Studi di Trieste, Italy; Istituto Nazionale di Fisica Nucleare, Sezione di Trieste, Italy. Istituto Nazionale di Fisica Nucleare, Sezione di Bari, Italy. Dipartimento Interateneo di Fisica, Universita degli Studi di Bari, Italy; Istituto Nazionale di Fisica Nucleare, Sezione di Bari, Italy. Dipartimento Interateneo di Fisica, Universita degli Studi di Bari, Italy; Istituto Nazionale di Fisica Nucleare, Sezione di Bari, Italy. IRCCS Centro San Giovanni di Dio Fatebenefratelli, I-25125 Brescia, Italy; Department of Molecular and Translational Medicine, University of Brescia, Brescia, Italy. IRCCS Centro San Giovanni di Dio Fatebenefratelli, I-25125 Brescia, Italy. IRCCS Centro San Giovanni di Dio Fatebenefratelli, I-25125 Brescia, Italy. IRCCS Centro San Giovanni di Dio Fatebenefratelli, I-25125 Brescia, Italy. University Hospitals and University of Geneva, Geneva, Switzerland; IRCCS Centro San Giovanni di Dio Fatebenefratelli, I-25125 Brescia, Italy. Neurofisiologia Clinica, Dipartimento di Neuroscienze, Oftalmologia e Genetica, Azienda Ospedale-Universita S. Martino, Genova I-16132, Italy.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20151026",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Alzheimer Disease/*diagnosis",
+          "Early Diagnosis",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Hippocampus",
+          "Image analysis",
+          "Longitudinal measure",
+          "MRI"
+     ],
+     "EDAT": "2015/11/01 06:00",
+     "MHDA": "2016/10/07 06:00",
+     "CRDT": [
+          "2015/10/31 06:00"
+     ],
+     "PHST": [
+          "2015/06/04 00:00 [received]",
+          "2015/09/28 00:00 [revised]",
+          "2015/10/01 00:00 [accepted]",
+          "2015/10/31 06:00 [entrez]",
+          "2015/11/01 06:00 [pubmed]",
+          "2016/10/07 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(15)00981-7 [pii]",
+          "10.1016/j.neuroimage.2015.10.065 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2016 Jan 15;125:834-847. doi: 10.1016/j.neuroimage.2015.10.065. Epub 2015 Oct 26.",
+     "term": "hippocampus"
+}

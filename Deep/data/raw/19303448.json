@@ -1,0 +1,96 @@
+{
+     "PMID": "19303448",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090824",
+     "LR": "20161122",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "47",
+     "IP": "1",
+     "DP": "2009 Aug 1",
+     "TI": "Advances in high-resolution imaging and computational unfolding of the human hippocampus.",
+     "PG": "42-9",
+     "LID": "10.1016/j.neuroimage.2009.03.017 [doi]",
+     "AB": "The hippocampus is often a difficult structure to visualize with magnetic resonance imaging (MRI) and functional MRI (fMRI) due to its convoluted nature and susceptibility to signal dropout. Improving our ability to pinpoint changes in neural activity using fMRI in this structure remains an important challenge. Current fMRI/MRI methods typically do not permit visualization of the hippocampus and surrounding cortex at a resolution less than 1 mm. We present here improvements to our previous methods for obtaining structural MR images of the hippocampus, which provided an in-plane resolution of 0.4 mm(2) mm and two-dimensional \"flat\" maps of the hippocampus with an interpolated isotropic resolution of 0.4 mm(3) (Engel, S.A., Glover, G.H., and Wandell, B.A., (1997). Retinotopic organization in human visual cortex and the spatial precision of functional MRI. Cereb. Cortex 7, 181-192.; Zeineh, M.M., Engel, S.A., and Bookheimer, S.Y., (2000). Application of cortical unfolding techniques to functional MRI of the human hippocampal region. NeuroImage 11, 668-683.). We present changes to existing structural imaging sequences that now augment the resolution of previous scans, permitting visualization of the anterior portion of CA1, parts of the dentate gyrus, and CA23. These imaging improvements are of relevance generally to the field of imaging because they permit higher overall resolution imaging of the hippocampus than previously possible (at 3 T). We also introduce a novel application of a computational interpolation method that improves our ability to capture the convoluted three-dimensional shape of the hippocampus. Furthermore, we have developed a quantitative method for obtaining group activation patterns based on producing averaged flat maps using vector field warping techniques, allowing localization of activations to specific hippocampal subregions across groups of subjects. Together, these methods provide a means to improve imaging of neural activity in the human hippocampus and surrounding cortex during cognitive tasks.",
+     "FAU": [
+          "Ekstrom, Arne D",
+          "Bazih, Adam J",
+          "Suthana, Nanthia A",
+          "Al-Hakim, Ramsey",
+          "Ogura, Kenji",
+          "Zeineh, Michael",
+          "Burggren, Alison C",
+          "Bookheimer, Susan Y"
+     ],
+     "AU": [
+          "Ekstrom AD",
+          "Bazih AJ",
+          "Suthana NA",
+          "Al-Hakim R",
+          "Ogura K",
+          "Zeineh M",
+          "Burggren AC",
+          "Bookheimer SY"
+     ],
+     "AD": "Center for Cognitive Neuroscience, Semel Institute, Department of Psychiatry and Biobehavioral Sciences, University of California, Los Angeles, CA 90095-7039, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "F32 NS50067/NS/NINDS NIH HHS/United States",
+          "R01 AG013308/AG/NIA NIH HHS/United States",
+          "F32 NS050067/NS/NINDS NIH HHS/United States",
+          "F32 NS050067-03/NS/NINDS NIH HHS/United States",
+          "P01 AG025831-040003/AG/NIA NIH HHS/United States",
+          "R01 AG013308-12/AG/NIA NIH HHS/United States",
+          "P01 AG025831/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090319",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Cerebral Cortex/anatomy & histology",
+          "Female",
+          "Hippocampus/*anatomy & histology/*physiology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Young Adult"
+     ],
+     "PMC": "PMC2689320",
+     "MID": [
+          "NIHMS103731"
+     ],
+     "EDAT": "2009/03/24 09:00",
+     "MHDA": "2009/08/25 09:00",
+     "CRDT": [
+          "2009/03/24 09:00"
+     ],
+     "PHST": [
+          "2008/09/27 00:00 [received]",
+          "2009/02/09 00:00 [revised]",
+          "2009/03/04 00:00 [accepted]",
+          "2009/03/24 09:00 [entrez]",
+          "2009/03/24 09:00 [pubmed]",
+          "2009/08/25 09:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(09)00239-0 [pii]",
+          "10.1016/j.neuroimage.2009.03.017 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2009 Aug 1;47(1):42-9. doi: 10.1016/j.neuroimage.2009.03.017. Epub 2009 Mar 19.",
+     "term": "hippocampus"
+}

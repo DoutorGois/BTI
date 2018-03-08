@@ -1,0 +1,74 @@
+{
+     "PMID": "18958849",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090515",
+     "LR": "20161025",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "19",
+     "IP": "4",
+     "DP": "2009 Apr",
+     "TI": "A role for hilar cells in pattern separation in the dentate gyrus: a computational approach.",
+     "PG": "321-37",
+     "LID": "10.1002/hipo.20516 [doi]",
+     "AB": "We present a simple computational model of the dentate gyrus to evaluate the hypothesis that pattern separation, defined as the ability to transform a set of similar input patterns into a less-similar set of output patterns, is dynamically regulated by hilar neurons. Prior models of the dentate gyrus have generally fallen into two categories: simplified models that have focused on a single granule cell layer and its ability to perform pattern separation, and large-scale and biophysically realistic models of dentate gyrus, which include hilar cells, but which have not specifically addressed pattern separation. The present model begins to bridge this gap. The model includes two of the major subtypes of hilar cells: excitatory hilar mossy cells and inhibitory hilar interneurons that receive input from and project to the perforant path terminal zone (HIPP cells). In the model, mossy cells and HIPP cells provide a mechanism for dynamic regulation of pattern separation, allowing the system to upregulate and downregulate pattern separation in response to environmental and task demands. Specifically, pattern separation in the model can be strongly decreased by decreasing mossy cell function and/or by increasing HIPP cell function; pattern separation can be increased by the opposite manipulations. We propose that hilar cells may similarly mediate dynamic regulation of pattern separation in the dentate gyrus in vivo, not only because of their connectivity within the dentate gyrus, but also because of their modulation by brainstem inputs and by the axons that \"backproject\" from area CA3 pyramidal cells.",
+     "FAU": [
+          "Myers, Catherine E",
+          "Scharfman, Helen E"
+     ],
+     "AU": [
+          "Myers CE",
+          "Scharfman HE"
+     ],
+     "AD": "Department of Psychology, Rutgers University-Newark, Newark, New Jersey, USA. myers@pavlov.rutgers.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AA018737/AA/NIAAA NIH HHS/United States",
+          "R01 NS038285/NS/NINDS NIH HHS/United States",
+          "R01 NS038285-04/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "Computer Simulation",
+          "Dentate Gyrus/anatomy & histology/*cytology/*physiology",
+          "Interneurons/physiology",
+          "Memory/*physiology",
+          "*Models, Neurological",
+          "Mossy Fibers, Hippocampal/physiology",
+          "Neurons/*physiology",
+          "Perforant Pathway/physiology",
+          "Rats",
+          "Synaptic Transmission"
+     ],
+     "PMC": "PMC2723776",
+     "MID": [
+          "NIHMS126019"
+     ],
+     "EDAT": "2008/10/30 09:00",
+     "MHDA": "2009/05/16 09:00",
+     "CRDT": [
+          "2008/10/30 09:00"
+     ],
+     "PHST": [
+          "2008/10/30 09:00 [pubmed]",
+          "2009/05/16 09:00 [medline]",
+          "2008/10/30 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.20516 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2009 Apr;19(4):321-37. doi: 10.1002/hipo.20516.",
+     "term": "hippocampus"
+}

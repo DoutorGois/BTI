@@ -1,0 +1,76 @@
+{
+     "PMID": "21222524",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120116",
+     "LR": "20170323",
+     "IS": "1530-888X (Electronic) 0899-7667 (Linking)",
+     "VI": "23",
+     "IP": "4",
+     "DP": "2011 Apr",
+     "TI": "Synaptic scaling stabilizes persistent activity driven by asynchronous neurotransmitter release.",
+     "PG": "927-57",
+     "LID": "10.1162/NECO_a_00098 [doi]",
+     "AB": "Small networks of cultured hippocampal neurons respond to transient stimulation with rhythmic network activity (reverberation) that persists for several seconds, constituting an in vitro model of synchrony, working memory, and seizure. This mode of activity has been shown theoretically and experimentally to depend on asynchronous neurotransmitter release (an essential feature of the developing hippocampus) and is supported by a variety of developing neuronal networks despite variability in the size of populations (10-200 neurons) and in patterns of synaptic connectivity. It has previously been reported in computational models that \"small-world\" connection topology is ideal for the propagation of similar modes of network activity, although this has been shown only for neurons utilizing synchronous (phasic) synaptic transmission. We investigated how topological constraints on synaptic connectivity could shape the stability of reverberations in small networks that also use asynchronous synaptic transmission. We found that reverberation duration in such networks was resistant to changes in topology and scaled poorly with network size. However, normalization of synaptic drive, by reducing the variance of synaptic input across neurons, stabilized reverberation in such networks. Our results thus suggest that the stability of both normal and pathological states in developing networks might be shaped by variance-normalizing constraints on synaptic drive. We offer an experimental prediction for the consequences of such regulation on the behavior of small networks.",
+     "FAU": [
+          "Volman, Vladislav",
+          "Gerkin, Richard C"
+     ],
+     "AU": [
+          "Volman V",
+          "Gerkin RC"
+     ],
+     "AD": "Center for Theoretical Biological Physics, University of California at San Diego, La Jolla, CA 92093, USA. volman@salk.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "F32 DC010535/DC/NIDCD NIH HHS/United States",
+          "F32 DC010535-01A1/DC/NIDCD NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20110111",
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "RN": [
+          "0 (Neurotransmitter Agents)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cells, Cultured",
+          "*Neural Networks (Computer)",
+          "Neurons/physiology",
+          "Neurotransmitter Agents/*secretion",
+          "Random Allocation",
+          "Rats",
+          "*Synapses/physiology",
+          "*Synaptic Transmission/physiology"
+     ],
+     "PMC": "PMC3113703",
+     "MID": [
+          "NIHMS299862"
+     ],
+     "EDAT": "2011/01/13 06:00",
+     "MHDA": "2012/01/17 06:00",
+     "CRDT": [
+          "2011/01/13 06:00"
+     ],
+     "PHST": [
+          "2011/01/13 06:00 [entrez]",
+          "2011/01/13 06:00 [pubmed]",
+          "2012/01/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1162/NECO_a_00098 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2011 Apr;23(4):927-57. doi: 10.1162/NECO_a_00098. Epub 2011 Jan 11.",
+     "term": "hippocampus"
+}

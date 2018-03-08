@@ -1,0 +1,104 @@
+{
+     "PMID": "29439686",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20180218",
+     "IS": "1472-6750 (Electronic) 1472-6750 (Linking)",
+     "VI": "18",
+     "IP": "1",
+     "DP": "2018 Feb 13",
+     "TI": "Genetically encoded calcium indicator with NTnC-like design and enhanced fluorescence contrast and kinetics.",
+     "PG": "10",
+     "LID": "10.1186/s12896-018-0417-2 [doi]",
+     "AB": "BACKGROUND: The recently developed genetically encoded calcium indicator (GECI), called NTnC, has a novel design with reduced size due to utilization of the troponin C (TnC) as a Ca(2+)-binding moiety inserted into the mNeonGreen fluorescent protein. NTnC binds two times less Ca(2+) ions while maintaining a higher fluorescence brightness at the basal level of Ca(2+) in neurons as compared with the calmodulin-based GECIs, such as GCaMPs. In spite of NTnC's high brightness, pH-stability, and high sensitivity to single action potentials, it has a limited fluorescence contrast (F(-Ca2+)/F(+Ca2+)) and slow Ca(2+) dissociation kinetics. RESULTS: Herein, we developed a new NTnC-like GECI with enhanced fluorescence contrast and kinetics by replacing the mNeonGreen fluorescent subunit of the NTnC indicator with EYFP. Similar to NTnC, the developed indicator, named iYTnC2, has an inverted fluorescence response to Ca(2+) (i.e. becoming dimmer with an increase of Ca(2+) concentration). In the presence of Mg(2+) ions, iYTnC2 demonstrated a 2.8-fold improved fluorescence contrast in vitro as compared with NTnC. The iYTnC2 indicator has lower brightness and pH-stability, but similar photostability as compared with NTnC in vitro. Stopped-flow fluorimetry studies revealed that iYTnC2 has 5-fold faster Ca(2+) dissociation kinetics than NTnC. When compared with GCaMP6f GECI, iYTnC2 has up to 5.6-fold faster Ca(2+) association kinetics and 1.7-fold slower dissociation kinetics. During calcium transients in cultured mammalian cells, iYTnC2 demonstrated a 2.7-fold higher fluorescence contrast as compared with that for the NTnC. iYTnC2 demonstrated a 4-fold larger response to Ca(2+) transients in neuronal cultures than responses of NTnC. iYTnC2 response in neurons was additionally characterized using whole-cell patch clamp. Finally, we demonstrated that iYTnC2 can visualize neuronal activity in vivo in the hippocampus of freely moving mice using a nVista miniscope. CONCLUSIONS: We demonstrate that expanding the family of NTnC-like calcium indicators is a promising strategy for the development of the next generation of GECIs with smaller molecule size and lower Ca(2+) ions buffering capacity as compared with commonly used GECIs.",
+     "FAU": [
+          "Doronin, D A",
+          "Barykina, N V",
+          "Subach, O M",
+          "Sotskov, V P",
+          "Plusnin, V V",
+          "Ivleva, O A",
+          "Isaakova, E A",
+          "Varizhuk, A M",
+          "Pozmogova, G E",
+          "Malyshev, A Y",
+          "Smirnov, I V",
+          "Piatkevich, K D",
+          "Anokhin, K V",
+          "Enikolopov, G N",
+          "Subach, F V"
+     ],
+     "AU": [
+          "Doronin DA",
+          "Barykina NV",
+          "Subach OM",
+          "Sotskov VP",
+          "Plusnin VV",
+          "Ivleva OA",
+          "Isaakova EA",
+          "Varizhuk AM",
+          "Pozmogova GE",
+          "Malyshev AY",
+          "Smirnov IV",
+          "Piatkevich KD",
+          "Anokhin KV",
+          "Enikolopov GN",
+          "Subach FV"
+     ],
+     "AD": "Moscow Institute of Physics and Technology, Moscow, 123182, Russia. Moscow Institute of Physics and Technology, Moscow, 123182, Russia. P.K. Anokhin Institute of Normal Physiology, Moscow, 125315, Russia. Moscow Institute of Physics and Technology, Moscow, 123182, Russia. National Research Center \"Kurchatov Institute\", Moscow, 123182, Russia. Moscow Institute of Physics and Technology, Moscow, 123182, Russia. Moscow Institute of Physics and Technology, Moscow, 123182, Russia. Moscow Institute of Physics and Technology, Moscow, 123182, Russia. Lomonosov Moscow State University, Moscow, 119991, Russia. Moscow Institute of Physics and Technology, Moscow, 123182, Russia. Federal Research and Clinical Center of Physical-Chemical Medicine of Federal Medical Biological Agency, Moscow, 119435, Russia. Federal Research and Clinical Center of Physical-Chemical Medicine of Federal Medical Biological Agency, Moscow, 119435, Russia. Engelhardt Institute of Molecular Biology RAS, Moscow, 119991, Russia. Federal Research and Clinical Center of Physical-Chemical Medicine of Federal Medical Biological Agency, Moscow, 119435, Russia. Institute of Higher Nervous Activity and Neurophysiology of RAS, Moscow, 117485, Russia. Institute of Higher Nervous Activity and Neurophysiology of RAS, Moscow, 117485, Russia. MIT Media Lab, Massachusetts Institute of Technology, Cambridge, MA, USA. P.K. Anokhin Institute of Normal Physiology, Moscow, 125315, Russia. National Research Center \"Kurchatov Institute\", Moscow, 123182, Russia. Lomonosov Moscow State University, Moscow, 119991, Russia. Moscow Institute of Physics and Technology, Moscow, 123182, Russia. grigori.enikolopov@stonybrookmedicine.edu. Department of Anesthesiology, Stony Brook University Medical Center, Stony Brook, NY, 11794, USA. grigori.enikolopov@stonybrookmedicine.edu. Center for Developmental Genetics, Stony Brook University, Stony Brook, NY, 11794, USA. grigori.enikolopov@stonybrookmedicine.edu. Moscow Institute of Physics and Technology, Moscow, 123182, Russia. subach.fv@mipt.ru. National Research Center \"Kurchatov Institute\", Moscow, 123182, Russia. subach.fv@mipt.ru.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0003-2720-7821"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "16-15-10323/Russian Science Foundation/United States",
+          "14-25-00013/Russian Science Foundation/United States",
+          "14-15-00685/Russian Science Foundation/United States",
+          "16-15-00294/Russian Science Foundation/United States",
+          "16-15-00291/Russian Science Foundation/United States",
+          "15-04-03383/Russian Foundation for Basic Research/United States",
+          "17-29-01037/Russian Foundation for Basic Research/United States",
+          "11.G34.31.0071/Ministry of Education and Science of the Russian Federation/United",
+          "States",
+          "R01AG040209/the National Institute of Aging/United States",
+          "C029569/New York State Stem Cell Science/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20180213",
+     "PL": "England",
+     "TA": "BMC Biotechnol",
+     "JT": "BMC biotechnology",
+     "JID": "101088663",
+     "PMC": "PMC5812234",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Calcium imaging",
+          "Genetically encoded calcium indicator",
+          "Protein engineering"
+     ],
+     "EDAT": "2018/02/15 06:00",
+     "MHDA": "2018/02/15 06:00",
+     "CRDT": [
+          "2018/02/15 06:00"
+     ],
+     "PHST": [
+          "2017/08/08 00:00 [received]",
+          "2018/01/17 00:00 [accepted]",
+          "2018/02/15 06:00 [entrez]",
+          "2018/02/15 06:00 [pubmed]",
+          "2018/02/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1186/s12896-018-0417-2 [doi]",
+          "10.1186/s12896-018-0417-2 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "BMC Biotechnol. 2018 Feb 13;18(1):10. doi: 10.1186/s12896-018-0417-2.",
+     "term": "hippocampus"
+}

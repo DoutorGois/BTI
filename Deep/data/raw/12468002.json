@@ -1,0 +1,76 @@
+{
+     "PMID": "12468002",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030409",
+     "LR": "20141120",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "121",
+     "IP": "2",
+     "DP": "2002 Dec 15",
+     "TI": "An efficient method for studying short-term plasticity with random impulse train stimuli.",
+     "PG": "111-27",
+     "AB": "In this article, we introduce an efficient method that models quantitatively nonlinear dynamics associated with short-term plasticity (STP) in biological neural systems. It is based on the Voterra-Wiener modeling approach adapted for special stimulus/response datasets. The stimuli are random impulse trains (RITs) of fixed amplitude and Poisson distributed, variable interimpulse intervals. The class of stimuli, we use can be viewed as a hybrid between the paired impulse approach (variable interimpulse interval between two input impulses) and the fixed frequency approach (impulses repeated at fixed intervals, varying in frequency from one stimulus dataset to the next). The responses are sequences of population spike amplitudes of variable size and are assumed to be contemporaneous with the corresponding impulses in the RITs they are evoked by. The nonlinear dynamics of the mechanisms underlying STP are captured by kernels used to create compact STP models with predictive capabilities. Compared to similar methods in the literature, the method presented in this article provides a comprehensive model of STP with considerable improvement in prediction accuracy and requires shorter experimental data collection time.",
+     "FAU": [
+          "Gholmieh, Ghassan",
+          "Courellis, Spiros",
+          "Marmarelis, Vasilis",
+          "Berger, Theodore"
+     ],
+     "AU": [
+          "Gholmieh G",
+          "Courellis S",
+          "Marmarelis V",
+          "Berger T"
+     ],
+     "AD": "Department of Biomedical Engineering, OHE-500, mc-1451, University of Southern California, Los Angeles, CA 90089-1451, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "RR-01861/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "Electric Stimulation/*methods",
+          "Hippocampus/cytology/*physiology",
+          "In Vitro Techniques",
+          "*Models, Neurological",
+          "Neuronal Plasticity/*physiology",
+          "Nonlinear Dynamics",
+          "Poisson Distribution",
+          "Rats",
+          "Reproducibility of Results",
+          "Stochastic Processes",
+          "Systems Analysis",
+          "Time Factors"
+     ],
+     "EDAT": "2002/12/07 04:00",
+     "MHDA": "2003/04/10 05:00",
+     "CRDT": [
+          "2002/12/07 04:00"
+     ],
+     "PHST": [
+          "2002/12/07 04:00 [pubmed]",
+          "2003/04/10 05:00 [medline]",
+          "2002/12/07 04:00 [entrez]"
+     ],
+     "AID": [
+          "S0165027002001644 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2002 Dec 15;121(2):111-27.",
+     "term": "hippocampus"
+}

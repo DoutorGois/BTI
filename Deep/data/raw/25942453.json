@@ -1,0 +1,100 @@
+{
+     "PMID": "25942453",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160308",
+     "LR": "20170220",
+     "IS": "2050-084X (Electronic) 2050-084X (Linking)",
+     "VI": "4",
+     "DP": "2015 May 5",
+     "TI": "Reverse-correlation analysis of navigation dynamics in Drosophila larva using optogenetics.",
+     "LID": "10.7554/eLife.06225 [doi]",
+     "AB": "Neural circuits for behavior transform sensory inputs into motor outputs in patterns with strategic value. Determining how neurons along a sensorimotor circuit contribute to this transformation is central to understanding behavior. To do this, a quantitative framework to describe behavioral dynamics is needed. In this study, we built a high-throughput optogenetic system for Drosophila larva to quantify the sensorimotor transformations underlying navigational behavior. We express CsChrimson, a red-shifted variant of channelrhodopsin, in specific chemosensory neurons and expose large numbers of freely moving animals to random optogenetic activation patterns. We quantify their behavioral responses and use reverse-correlation analysis to uncover the linear and static nonlinear components of navigation dynamics as functions of optogenetic activation patterns of specific sensory neurons. We find that linear-nonlinear models accurately predict navigational decision-making for different optogenetic activation waveforms. We use our method to establish the valence and dynamics of navigation driven by optogenetic activation of different combinations of bitter-sensing gustatory neurons. Our method captures the dynamics of optogenetically induced behavior in compact, quantitative transformations that can be used to characterize circuits for sensorimotor processing and their contribution to navigational decision making.",
+     "FAU": [
+          "Hernandez-Nunez, Luis",
+          "Belina, Jonas",
+          "Klein, Mason",
+          "Si, Guangwei",
+          "Claus, Lindsey",
+          "Carlson, John R",
+          "Samuel, Aravinthan Dt"
+     ],
+     "AU": [
+          "Hernandez-Nunez L",
+          "Belina J",
+          "Klein M",
+          "Si G",
+          "Claus L",
+          "Carlson JR",
+          "Samuel AD"
+     ],
+     "AD": "Center for Systems Biology, Harvard University, Cambridge, United States. Department of Molecular, Cellular, and Developmental Biology, Yale University, New Haven, United States. Department of Physics and Center for Brain Science, Harvard University, Cambridge, United States. Department of Physics and Center for Brain Science, Harvard University, Cambridge, United States. Department of Physics and Center for Brain Science, Harvard University, Cambridge, United States. Department of Molecular, Cellular, and Developmental Biology, Yale University, New Haven, United States. Department of Physics and Center for Brain Science, Harvard University, Cambridge, United States.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "1P01GM103770/GM/NIGMS NIH HHS/United States",
+          "8DP1GM105383-05/DP/NCCDPHP CDC HHS/United States",
+          "DP1 GM105383/GM/NIGMS NIH HHS/United States",
+          "P01 GM103770/GM/NIGMS NIH HHS/United States",
+          "R01 DC002174/DC/NIDCD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20150505",
+     "PL": "England",
+     "TA": "Elife",
+     "JT": "eLife",
+     "JID": "101579614",
+     "RN": [
+          "9009-81-8 (Rhodopsin)"
+     ],
+     "SB": "IM",
+     "CIN": [
+          "Elife. 2015;4. doi: 10.7554/eLife.08715. PMID: 26080004"
+     ],
+     "MH": [
+          "Animals",
+          "Chemotaxis/*physiology",
+          "Drosophila/*physiology",
+          "Larva/physiology",
+          "*Models, Biological",
+          "Neural Pathways/*physiology",
+          "Optogenetics/*methods",
+          "Rhodopsin/metabolism",
+          "Spatial Navigation/*physiology",
+          "Taste Perception/physiology"
+     ],
+     "PMC": "PMC4466337",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "D. melanogaster",
+          "chemotaxis",
+          "gustation",
+          "neuroscience",
+          "olfaction",
+          "optogenetics"
+     ],
+     "EDAT": "2015/05/06 06:00",
+     "MHDA": "2016/03/10 06:00",
+     "CRDT": [
+          "2015/05/06 06:00"
+     ],
+     "PHST": [
+          "2014/12/22 00:00 [received]",
+          "2015/05/01 00:00 [accepted]",
+          "2015/05/06 06:00 [entrez]",
+          "2015/05/06 06:00 [pubmed]",
+          "2016/03/10 06:00 [medline]"
+     ],
+     "AID": [
+          "10.7554/eLife.06225 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Elife. 2015 May 5;4. doi: 10.7554/eLife.06225.",
+     "term": "spatial navigation"
+}

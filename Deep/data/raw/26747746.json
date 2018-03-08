@@ -1,0 +1,131 @@
+{
+     "PMID": "26747746",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20170924",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "128",
+     "DP": "2016 Mar",
+     "TI": "Heritability and reliability of automatically segmented human hippocampal formation subregions.",
+     "PG": "125-137",
+     "LID": "S1053-8119(15)01152-0 [pii] 10.1016/j.neuroimage.2015.12.039 [doi]",
+     "AB": "The human hippocampal formation can be divided into a set of cytoarchitecturally and functionally distinct subregions, involved in different aspects of memory formation. Neuroanatomical disruptions within these subregions are associated with several debilitating brain disorders including Alzheimer's disease, major depression, schizophrenia, and bipolar disorder. Multi-center brain imaging consortia, such as the Enhancing Neuro Imaging Genetics through Meta-Analysis (ENIGMA) consortium, are interested in studying disease effects on these subregions, and in the genetic factors that affect them. For large-scale studies, automated extraction and subsequent genomic association studies of these hippocampal subregion measures may provide additional insight. Here, we evaluated the test-retest reliability and transplatform reliability (1.5T versus 3T) of the subregion segmentation module in the FreeSurfer software package using three independent cohorts of healthy adults, one young (Queensland Twins Imaging Study, N=39), another elderly (Alzheimer's Disease Neuroimaging Initiative, ADNI-2, N=163) and another mixed cohort of healthy and depressed participants (Max Planck Institute, MPIP, N=598). We also investigated agreement between the most recent version of this algorithm (v6.0) and an older version (v5.3), again using the ADNI-2 and MPIP cohorts in addition to a sample from the Netherlands Study for Depression and Anxiety (NESDA) (N=221). Finally, we estimated the heritability (h(2)) of the segmented subregion volumes using the full sample of young, healthy QTIM twins (N=728). Test-retest reliability was high for all twelve subregions in the 3T ADNI-2 sample (intraclass correlation coefficient (ICC)=0.70-0.97) and moderate-to-high in the 4T QTIM sample (ICC=0.5-0.89). Transplatform reliability was strong for eleven of the twelve subregions (ICC=0.66-0.96); however, the hippocampal fissure was not consistently reconstructed across 1.5T and 3T field strengths (ICC=0.47-0.57). Between-version agreement was moderate for the hippocampal tail, subiculum and presubiculum (ICC=0.78-0.84; Dice Similarity Coefficient (DSC)=0.55-0.70), and poor for all other subregions (ICC=0.34-0.81; DSC=0.28-0.51). All hippocampal subregion volumes were highly heritable (h(2)=0.67-0.91). Our findings indicate that eleven of the twelve human hippocampal subregions segmented using FreeSurfer version 6.0 may serve as reliable and informative quantitative phenotypes for future multi-site imaging genetics initiatives such as those of the ENIGMA consortium.",
+     "CI": [
+          "Copyright (c) 2016 The Authors. Published by Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Whelan, Christopher D",
+          "Hibar, Derrek P",
+          "van Velzen, Laura S",
+          "Zannas, Anthony S",
+          "Carrillo-Roa, Tania",
+          "McMahon, Katie",
+          "Prasad, Gautam",
+          "Kelly, Sinead",
+          "Faskowitz, Joshua",
+          "deZubiracay, Greig",
+          "Iglesias, Juan E",
+          "van Erp, Theo G M",
+          "Frodl, Thomas",
+          "Martin, Nicholas G",
+          "Wright, Margaret J",
+          "Jahanshad, Neda",
+          "Schmaal, Lianne",
+          "Samann, Philipp G",
+          "Thompson, Paul M"
+     ],
+     "AU": [
+          "Whelan CD",
+          "Hibar DP",
+          "van Velzen LS",
+          "Zannas AS",
+          "Carrillo-Roa T",
+          "McMahon K",
+          "Prasad G",
+          "Kelly S",
+          "Faskowitz J",
+          "deZubiracay G",
+          "Iglesias JE",
+          "van Erp TGM",
+          "Frodl T",
+          "Martin NG",
+          "Wright MJ",
+          "Jahanshad N",
+          "Schmaal L",
+          "Samann PG",
+          "Thompson PM"
+     ],
+     "AD": "Imaging Genetics Center, University of Southern California, Marina del Rey, CA, USA. Imaging Genetics Center, University of Southern California, Marina del Rey, CA, USA. Department of Psychiatry and Neuroscience Campus Amsterdam, VU University Medical Center and GGZ inGeest, Amsterdam, The Netherlands. Department of Translational Research in Psychiatry, Max Planck Institute of Psychiatry, Munich, Germany; Department of Psychiatry and Behavioral Sciences, Duke University Medical Center, Durham, NC, USA. Department of Translational Research in Psychiatry, Max Planck Institute of Psychiatry, Munich, Germany. Centre for Advanced Imaging, University of Queensland, Brisbane, Australia. Imaging Genetics Center, University of Southern California, Marina del Rey, CA, USA. Imaging Genetics Center, University of Southern California, Marina del Rey, CA, USA. Imaging Genetics Center, University of Southern California, Marina del Rey, CA, USA. Faculty of Health, Queensland University of Technology, Brisbane, Australia. Basque Center on Cognition, Brain and Language, Donostia, Gipuzkoa, Spain. Department of Psychiatry and Human Behavior, University of California, Irvine, USA. Department of Psychiatry, Otto-von Guericke-University of Magdeburg, Germany. QIMR Berghofer Medical Research Institute, Brisbane, Queensland, Australia. Queensland Brain Institute, University of Queensland, Brisbane, Australia. Imaging Genetics Center, University of Southern California, Marina del Rey, CA, USA. Department of Psychiatry and Neuroscience Campus Amsterdam, VU University Medical Center and GGZ inGeest, Amsterdam, The Netherlands. Department of Translational Research in Psychiatry, Max Planck Institute of Psychiatry, Munich, Germany. Imaging Genetics Center, University of Southern California, Marina del Rey, CA, USA. Electronic address: pthomp@usc.edu.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG040060/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "U54 EB020403/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Twin Study"
+     ],
+     "DEP": "20151230",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Alzheimer Disease/genetics/pathology",
+          "Anxiety Disorders/genetics/pathology",
+          "Depressive Disorder/genetics/pathology",
+          "Female",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Neuroimaging/*methods",
+          "Phenotype",
+          "Software"
+     ],
+     "PMC": "PMC4883013",
+     "MID": [
+          "NIHMS770612"
+     ],
+     "EDAT": "2016/01/10 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2016/01/10 06:00"
+     ],
+     "PMCR": [
+          "2017/03/01 00:00"
+     ],
+     "PHST": [
+          "2015/07/29 00:00 [received]",
+          "2015/11/28 00:00 [revised]",
+          "2015/12/23 00:00 [accepted]",
+          "2017/03/01 00:00 [pmc-release]",
+          "2016/01/10 06:00 [entrez]",
+          "2016/01/10 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(15)01152-0 [pii]",
+          "10.1016/j.neuroimage.2015.12.039 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2016 Mar;128:125-137. doi: 10.1016/j.neuroimage.2015.12.039. Epub 2015 Dec 30.",
+     "term": "hippocampus"
+}

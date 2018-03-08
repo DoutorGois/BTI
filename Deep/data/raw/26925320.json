@@ -1,0 +1,72 @@
+{
+     "PMID": "26925320",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20160229",
+     "LR": "20170720",
+     "IS": "2167-8359 (Print)",
+     "VI": "4",
+     "DP": "2016",
+     "TI": "Comparison of miRNA expression profiles in pituitary-adrenal axis between Beagle and Chinese Field dogs after chronic stress exposure.",
+     "PG": "e1682",
+     "LID": "10.7717/peerj.1682 [doi]",
+     "AB": "MicoRNAs (miRNAs), usually as gene regulators, participate in various biological processes, including stress responses. The hypothalamus-pituitary-adrenal axis (HPA axis) is an important pathway in regulating stress response. Although the mechanism that HPA axis regulates stress response has been basically revealed, the knowledge that miRNAs regulate stress response within HPA axis, still remains poor. The object of this study was to investigate the miRNAs in the pituitary and adrenal cortex that regulate chronic stress response with high-throughput sequencing. The pituitary and adrenal cortex of beagles and Chinese Field dogs (CFD) from a stress exposure group (including beagle pituitary 1 (BP1), CFD pituitary 1 (CFDP1), beagle adrenal cortex 1 (BAC1), CFD adrenal cortex 1 (CFDAC1)) and a control group (including beagle pituitary 2 (BP2), CFD pituitary 2 (CFDP2), beagle adrenal cortex 2 (BAC2), CFD adrenal cortex 2 (CFDAC2)), were selected for miRNA-seq comparisons. Comparisons, that were made in pituitary (including BP1 vs. BP2, CFDP1 vs. CFDP2, BP1 vs. CFDP1 and BP2 vs. CFDP2) and adrenal cortex (including BAC1 vs. BAC2, CFDAC1 vs. CFDAC2, BAC1 vs. CFDAC1 and BAC2 vs. CFDAC2), showed that a total of 39 and 18 common differentially expressed miRNAs (DE-miRNAs) (Total read counts > 1,000, Fold change > 2 & p-value < 0.001), that shared in at least two pituitary comparisons and at least two adrenal cortex comparisons, were detected separately. These identified DE-miRNAs were predicted for target genes, thus resulting in 3,959 and 4,010 target genes in pituitary and adrenal cortex, respectively. Further, 105 and 10 differentially expressed genes (DEGs) (Fold change > 2 & p-value < 0.05) from those target genes in pituitary and adrenal cortex were obtained separately, in combination with our previous corresponding transcriptome study. Meanwhile, in line with that miRNAs usually negatively regulated their target genes and the dual luciferase reporter assay, we finally identified cfa-miR-205 might play an important role by upregulating MMD in pituitary and hippocampus, thus enhancing the immune response, under chronic stress exposure. Our results shed light on the miRNA expression profiles in the pituitary and adrenal cortex with and without chronic stress exposure, and provide a new insight into miR-205 with its feasible role in regulating chronic stress in the pituitary and hippocampus through targeting MMD.",
+     "FAU": [
+          "Luo, Wei",
+          "Fang, Meixia",
+          "Xu, Haiping",
+          "Xing, Huijie",
+          "Fu, Jiangnan",
+          "Nie, Qinghua"
+     ],
+     "AU": [
+          "Luo W",
+          "Fang M",
+          "Xu H",
+          "Xing H",
+          "Fu J",
+          "Nie Q"
+     ],
+     "AD": "Department of Animal Genetics, Breeding and Reproduction, College of Animal Science, South China Agricultural University, Guangzhou, Guangdong, China. Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding and National-Local Joint Engineering Research Center for Livestock Breeding, South China Agricultural University & Guangdong Wens Food Corporation, Guangzhou, Guangdong, China. Institute of Laboratory Animals, Jinan University, Guangzhou, Guangdong, China. Department of Animal Genetics, Breeding and Reproduction, College of Animal Science, South China Agricultural University, Guangzhou, Guangdong, China. Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding and National-Local Joint Engineering Research Center for Livestock Breeding, South China Agricultural University & Guangdong Wens Food Corporation, Guangzhou, Guangdong, China. Institute of Laboratory Animals, Jinan University, Guangzhou, Guangdong, China. Institute of Laboratory Animals, Jinan University, Guangzhou, Guangdong, China. Department of Animal Genetics, Breeding and Reproduction, College of Animal Science, South China Agricultural University, Guangzhou, Guangdong, China. Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding and National-Local Joint Engineering Research Center for Livestock Breeding, South China Agricultural University & Guangdong Wens Food Corporation, Guangzhou, Guangdong, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160218",
+     "PL": "United States",
+     "TA": "PeerJ",
+     "JT": "PeerJ",
+     "JID": "101603425",
+     "PMC": "PMC4768678",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Chronic stress exposure",
+          "Dog",
+          "HPA axis",
+          "cfa-miR-205",
+          "miRNA-seq"
+     ],
+     "EDAT": "2016/03/01 06:00",
+     "MHDA": "2016/03/01 06:01",
+     "CRDT": [
+          "2016/03/01 06:00"
+     ],
+     "PHST": [
+          "2015/07/10 00:00 [received]",
+          "2016/01/21 00:00 [accepted]",
+          "2016/03/01 06:00 [entrez]",
+          "2016/03/01 06:00 [pubmed]",
+          "2016/03/01 06:01 [medline]"
+     ],
+     "AID": [
+          "10.7717/peerj.1682 [doi]",
+          "1682 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PeerJ. 2016 Feb 18;4:e1682. doi: 10.7717/peerj.1682. eCollection 2016.",
+     "term": "hippocampus"
+}

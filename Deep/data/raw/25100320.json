@@ -1,0 +1,88 @@
+{
+     "PMID": "25100320",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151015",
+     "LR": "20170220",
+     "IS": "1742-5662 (Electronic) 1742-5662 (Linking)",
+     "VI": "11",
+     "IP": "99",
+     "DP": "2014 Oct 6",
+     "TI": "M-type potassium conductance controls the emergence of neural phase codes: a combined experimental and neuron modelling study.",
+     "LID": "10.1098/rsif.2014.0604 [doi] 20140604 [pii]",
+     "AB": "Rate and phase codes are believed to be important in neural information processing. Hippocampal place cells provide a good example where both coding schemes coexist during spatial information processing. Spike rate increases in the place field, whereas spike phase precesses relative to the ongoing theta oscillation. However, what intrinsic mechanism allows for a single neuron to generate spike output patterns that contain both neural codes is unknown. Using dynamic clamp, we simulate an in vivo-like subthreshold dynamics of place cells to in vitro CA1 pyramidal neurons to establish an in vitro model of spike phase precession. Using this in vitro model, we show that membrane potential oscillation (MPO) dynamics is important in the emergence of spike phase codes: blocking the slowly activating, non-inactivating K+ current (IM), which is known to control subthreshold MPO, disrupts MPO and abolishes spike phase precession. We verify the importance of adaptive IM in the generation of phase codes using both an adaptive integrate-and-fire and a Hodgkin-Huxley (HH) neuron model. Especially, using the HH model, we further show that it is the perisomatically located IM with slow activation kinetics that is crucial for the generation of phase codes. These results suggest an important functional role of IM in single neuron computation, where IM serves as an intrinsic mechanism allowing for dual rate and phase coding in single neurons.",
+     "CI": [
+          "(c) 2014 The Author(s) Published by the Royal Society. All rights reserved."
+     ],
+     "FAU": [
+          "Kwag, Jeehyun",
+          "Jang, Hyun Jae",
+          "Kim, Mincheol",
+          "Lee, Sujeong"
+     ],
+     "AU": [
+          "Kwag J",
+          "Jang HJ",
+          "Kim M",
+          "Lee S"
+     ],
+     "AD": "Neural Computation Laboratory, Department of Brain and Cognitive Engineering, Korea University, Seoul, Korea jkwag@korea.ac.kr. Neural Computation Laboratory, Department of Brain and Cognitive Engineering, Korea University, Seoul, Korea. Neural Computation Laboratory, Department of Brain and Cognitive Engineering, Korea University, Seoul, Korea. Neural Computation Laboratory, Department of Brain and Cognitive Engineering, Korea University, Seoul, Korea.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "J R Soc Interface",
+     "JT": "Journal of the Royal Society, Interface",
+     "JID": "101217269",
+     "RN": [
+          "RWP5GA015D (Potassium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Analysis of Variance",
+          "Animals",
+          "Hippocampus/*cytology",
+          "In Vitro Techniques",
+          "Kinetics",
+          "Mental Processes/*physiology",
+          "*Models, Neurological",
+          "Neural Conduction/*physiology",
+          "Neurons/*physiology",
+          "Patch-Clamp Techniques",
+          "Potassium/*metabolism",
+          "Rats",
+          "Rats, Sprague-Dawley"
+     ],
+     "PMC": "PMC4233740",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "hippocampus",
+          "neural codes",
+          "oscillation",
+          "potassium channel"
+     ],
+     "EDAT": "2014/08/08 06:00",
+     "MHDA": "2015/10/16 06:00",
+     "CRDT": [
+          "2014/08/08 06:00"
+     ],
+     "PHST": [
+          "2014/08/08 06:00 [entrez]",
+          "2014/08/08 06:00 [pubmed]",
+          "2015/10/16 06:00 [medline]"
+     ],
+     "AID": [
+          "rsif.2014.0604 [pii]",
+          "10.1098/rsif.2014.0604 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J R Soc Interface. 2014 Oct 6;11(99). pii: rsif.2014.0604. doi: 10.1098/rsif.2014.0604.",
+     "term": "place cells"
+}

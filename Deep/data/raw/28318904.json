@@ -1,0 +1,85 @@
+{
+     "PMID": "28318904",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180131",
+     "LR": "20180131",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "92",
+     "DP": "2017 Aug",
+     "TI": "Dual-memory neural networks for modeling cognitive activities of humans via wearable sensors.",
+     "PG": "17-28",
+     "LID": "S0893-6080(17)30037-0 [pii] 10.1016/j.neunet.2017.02.008 [doi]",
+     "AB": "Wearable devices, such as smart glasses and watches, allow for continuous recording of everyday life in a real world over an extended period of time or lifelong. This possibility helps better understand the cognitive behavior of humans in real life as well as build human-aware intelligent agents for practical purposes. However, modeling the human cognitive activity from wearable-sensor data stream is challenging because learning new information often results in loss of previously acquired information, causing a problem known as catastrophic forgetting. Here we propose a deep-learning neural network architecture that resolves the catastrophic forgetting problem. Based on the neurocognitive theory of the complementary learning systems of the neocortex and hippocampus, we introduce a dual memory architecture (DMA) that, on one hand, slowly acquires the structured knowledge representations and, on the other hand, rapidly learns the specifics of individual experiences. The DMA system learns continuously through incremental feature adaptation and weight transfer. We evaluate the performance on two real-life datasets, the CIFAR-10 image-stream dataset and the 46-day Lifelog dataset collected from Google Glass, showing that the proposed model outperforms other online learning methods.",
+     "CI": [
+          "Copyright (c) 2017 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Lee, Sang-Woo",
+          "Lee, Chung-Yeon",
+          "Kwak, Dong-Hyun",
+          "Ha, Jung-Woo",
+          "Kim, Jeonghee",
+          "Zhang, Byoung-Tak"
+     ],
+     "AU": [
+          "Lee SW",
+          "Lee CY",
+          "Kwak DH",
+          "Ha JW",
+          "Kim J",
+          "Zhang BT"
+     ],
+     "AD": "School of Computer Science and Engineering, Seoul National University, Seoul 08826, South Korea. School of Computer Science and Engineering, Seoul National University, Seoul 08826, South Korea. Interdisciplinary Program in Neuroscience, Seoul National University, Seoul 08826, South Korea. NAVER LABS, NAVER Corp., Bundang 13561, South Korea. NAVER LABS, NAVER Corp., Bundang 13561, South Korea. School of Computer Science and Engineering, Seoul National University, Seoul 08826, South Korea; Interdisciplinary Program in Neuroscience, Seoul National University, Seoul 08826, South Korea; Surromind Robotics, 1 Gwanak-ro Gwanak-gu, Seoul 08826, South Korea. Electronic address: btzhang@bi.snu.ac.kr.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170220",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Brain/physiology",
+          "*Cognition",
+          "Humans",
+          "*Microcomputers",
+          "*Models, Neurological",
+          "*Neural Networks (Computer)"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Complementary learning systems",
+          "Deep neural networks",
+          "Dual memory architecture",
+          "Hypernetworks",
+          "Lifelog dataset",
+          "Online learning"
+     ],
+     "EDAT": "2017/03/21 06:00",
+     "MHDA": "2018/02/01 06:00",
+     "CRDT": [
+          "2017/03/21 06:00"
+     ],
+     "PHST": [
+          "2016/08/31 00:00 [received]",
+          "2017/02/13 00:00 [revised]",
+          "2017/02/14 00:00 [accepted]",
+          "2017/03/21 06:00 [pubmed]",
+          "2018/02/01 06:00 [medline]",
+          "2017/03/21 06:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(17)30037-0 [pii]",
+          "10.1016/j.neunet.2017.02.008 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2017 Aug;92:17-28. doi: 10.1016/j.neunet.2017.02.008. Epub 2017 Feb 20.",
+     "term": "hippocampus"
+}

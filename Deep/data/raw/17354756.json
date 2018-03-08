@@ -1,0 +1,74 @@
+{
+     "PMID": "17354756",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070406",
+     "LR": "20091211",
+     "VI": "9",
+     "IP": "Pt 2",
+     "DP": "2006",
+     "TI": "Symmetric atlasing and model based segmentation: an application to the hippocampus in older adults.",
+     "PG": "58-66",
+     "AB": "In model-based segmentation, automated region identification is achieved via registration of novel data to a pre-determined model. The desired structure is typically generated via manual tracing within this model. When model-based segmentation is applied to human cortical data, problems arise if left-right comparisons are desired. The asymmetry of the human cortex requires that both left and right models of a structure be composed in order to effectively segment the desired structures. Paradoxically, defining a model in both hemi-spheres carries a likelihood of introducing bias to one of the structures. This paper describes a novel technique for creating a symmetric average model in which both hemispheres are equally represented and thus left-right comparison is possible. This work is an extension of that proposed by Guimond et al. Hippocampal segmentation is used as a test-case in a cohort of 118 normal eld-erly subjects and results are compared with expert manual tracing.",
+     "FAU": [
+          "Grabner, Gunther",
+          "Janke, Andrew L",
+          "Budge, Marc M",
+          "Smith, David",
+          "Pruessner, Jens",
+          "Collins, D Louis"
+     ],
+     "AU": [
+          "Grabner G",
+          "Janke AL",
+          "Budge MM",
+          "Smith D",
+          "Pruessner J",
+          "Collins DL"
+     ],
+     "AD": "McConnell Brain Imaging Centre, Montreal Neurological Institute, Quebec, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "*Algorithms",
+          "Anatomy, Artistic/methods",
+          "*Artificial Intelligence",
+          "Computer Simulation",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Medical Illustration",
+          "Middle Aged",
+          "Models, Neurological",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2007/03/16 09:00",
+     "MHDA": "2007/04/07 09:00",
+     "CRDT": [
+          "2007/03/16 09:00"
+     ],
+     "PHST": [
+          "2007/03/16 09:00 [pubmed]",
+          "2007/04/07 09:00 [medline]",
+          "2007/03/16 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2006;9(Pt 2):58-66.",
+     "term": "hippocampus"
+}

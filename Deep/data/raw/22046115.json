@@ -1,0 +1,75 @@
+{
+     "PMID": "22046115",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120217",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "7",
+     "IP": "10",
+     "DP": "2011 Oct",
+     "TI": "Grid cells, place cells, and geodesic generalization for spatial reinforcement learning.",
+     "PG": "e1002235",
+     "LID": "10.1371/journal.pcbi.1002235 [doi]",
+     "AB": "Reinforcement learning (RL) provides an influential characterization of the brain's mechanisms for learning to make advantageous choices. An important problem, though, is how complex tasks can be represented in a way that enables efficient learning. We consider this problem through the lens of spatial navigation, examining how two of the brain's location representations--hippocampal place cells and entorhinal grid cells--are adapted to serve as basis functions for approximating value over space for RL. Although much previous work has focused on these systems' roles in combining upstream sensory cues to track location, revisiting these representations with a focus on how they support this downstream decision function offers complementary insights into their characteristics. Rather than localization, the key problem in learning is generalization between past and present situations, which may not match perfectly. Accordingly, although neural populations collectively offer a precise representation of position, our simulations of navigational tasks verify the suggestion that RL gains efficiency from the more diffuse tuning of individual neurons, which allows learning about rewards to generalize over longer distances given fewer training experiences. However, work on generalization in RL suggests the underlying representation should respect the environment's layout. In particular, although it is often assumed that neurons track location in Euclidean coordinates (that a place cell's activity declines \"as the crow flies\" away from its peak), the relevant metric for value is geodesic: the distance along a path, around any obstacles. We formalize this intuition and present simulations showing how Euclidean, but not geodesic, representations can interfere with RL by generalizing inappropriately across barriers. Our proposal that place and grid responses should be modulated by geodesic distances suggests novel predictions about how obstacles should affect spatial firing fields, which provides a new viewpoint on data concerning both spatial codes.",
+     "FAU": [
+          "Gustafson, Nicholas J",
+          "Daw, Nathaniel D"
+     ],
+     "AU": [
+          "Gustafson NJ",
+          "Daw ND"
+     ],
+     "AD": "Center for Neural Science, New York University, New York, New York, United States of America. njg245@nyu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH087882/MH/NIMH NIH HHS/United States",
+          "R01 MH087882-03/MH/NIMH NIH HHS/United States",
+          "MH087882/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20111027",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Entorhinal Cortex/cytology/*physiology",
+          "Hippocampus/cytology/*physiology",
+          "Maze Learning/*physiology",
+          "*Models, Neurological",
+          "Neurons/physiology",
+          "Rats",
+          "*Reinforcement (Psychology)",
+          "Spatial Behavior"
+     ],
+     "PMC": "PMC3203050",
+     "EDAT": "2011/11/03 06:00",
+     "MHDA": "2012/02/18 06:00",
+     "CRDT": [
+          "2011/11/03 06:00"
+     ],
+     "PHST": [
+          "2011/03/02 00:00 [received]",
+          "2011/09/02 00:00 [accepted]",
+          "2011/11/03 06:00 [entrez]",
+          "2011/11/03 06:00 [pubmed]",
+          "2012/02/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1002235 [doi]",
+          "PCOMPBIOL-D-11-00287 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2011 Oct;7(10):e1002235. doi: 10.1371/journal.pcbi.1002235. Epub 2011 Oct 27.",
+     "term": "place cells"
+}

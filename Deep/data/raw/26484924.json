@@ -1,0 +1,97 @@
+{
+     "PMID": "26484924",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161101",
+     "LR": "20170220",
+     "IS": "1875-8908 (Electronic) 1387-2877 (Linking)",
+     "VI": "49",
+     "IP": "3",
+     "DP": "2016",
+     "TI": "Quantitative Neuroimaging Software for Clinical Assessment of Hippocampal Volumes on MR Imaging.",
+     "PG": "723-32",
+     "LID": "10.3233/JAD-150559 [doi]",
+     "AB": "BACKGROUND: Multiple neurological disorders including Alzheimer's disease (AD), mesial temporal sclerosis, and mild traumatic brain injury manifest with volume loss on brain MRI. Subtle volume loss is particularly seen early in AD. While prior research has demonstrated the value of this additional information from quantitative neuroimaging, very few applications have been approved for clinical use. Here we describe a US FDA cleared software program, NeuroreaderTM, for assessment of clinical hippocampal volume on brain MRI. OBJECTIVE: To present the validation of hippocampal volumetrics on a clinical software program. METHOD: Subjects were drawn (n = 99) from the Alzheimer Disease Neuroimaging Initiative study. Volumetric brain MR imaging was acquired in both 1.5 T (n = 59) and 3.0 T (n = 40) scanners in participants with manual hippocampal segmentation. Fully automated hippocampal segmentation and measurement was done using a multiple atlas approach. The Dice Similarity Coefficient (DSC) measured the level of spatial overlap between NeuroreaderTM and gold standard manual segmentation from 0 to 1 with 0 denoting no overlap and 1 representing complete agreement. DSC comparisons between 1.5 T and 3.0 T scanners were done using standard independent samples T-tests. RESULTS: In the bilateral hippocampus, mean DSC was 0.87 with a range of 0.78-0.91 (right hippocampus) and 0.76-0.91 (left hippocampus). Automated segmentation agreement with manual segmentation was essentially equivalent at 1.5 T (DSC = 0.879) versus 3.0 T (DSC = 0.872). CONCLUSION: This work provides a description and validation of a software program that can be applied in measuring hippocampal volume, a biomarker that is frequently abnormal in AD and other neurological disorders.",
+     "FAU": [
+          "Ahdidan, Jamila",
+          "Raji, Cyrus A",
+          "DeYoe, Edgar A",
+          "Mathis, Jedidiah",
+          "Noe, Karsten O",
+          "Rimestad, Jens",
+          "Kjeldsen, Thomas K",
+          "Mosegaard, Jesper",
+          "Becker, James T",
+          "Lopez, Oscar"
+     ],
+     "AU": [
+          "Ahdidan J",
+          "Raji CA",
+          "DeYoe EA",
+          "Mathis J",
+          "Noe KO",
+          "Rimestad J",
+          "Kjeldsen TK",
+          "Mosegaard J",
+          "Becker JT",
+          "Lopez O"
+     ],
+     "AD": "Brainreader, Horsens, Denmark. UCLA Medical Center, Los Angeles, CA, USA. Department of Radiology, Medical College of Wisconsin, Milwaukee, WI, USA. Department of Radiology, Medical College of Wisconsin, Milwaukee, WI, USA. The Alexandra Institute, Aarhus, Denmark. The Alexandra Institute, Aarhus, Denmark. The Alexandra Institute, Aarhus, Denmark. The Alexandra Institute, Aarhus, Denmark. Departments of Psychology, Psychiatry, and Neurology, University of Pittsburgh, Pittsburgh, PA, USA. Department of Neurology, University of Pittsburgh, Pittsburgh, PA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 AG005133/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Alzheimers Dis",
+     "JT": "Journal of Alzheimer's disease : JAD",
+     "JID": "9814863",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*diagnosis",
+          "Cognitive Dysfunction/pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*instrumentation",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "*Software"
+     ],
+     "PMC": "PMC4718601",
+     "MID": [
+          "NIHMS749776"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Hippocampus",
+          "magnetic resonance imaging",
+          "quantification"
+     ],
+     "EDAT": "2015/10/21 06:00",
+     "MHDA": "2016/11/02 06:00",
+     "CRDT": [
+          "2015/10/21 06:00"
+     ],
+     "PHST": [
+          "2015/10/21 06:00 [entrez]",
+          "2015/10/21 06:00 [pubmed]",
+          "2016/11/02 06:00 [medline]"
+     ],
+     "AID": [
+          "JAD150559 [pii]",
+          "10.3233/JAD-150559 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Alzheimers Dis. 2016;49(3):723-32. doi: 10.3233/JAD-150559.",
+     "term": "hippocampus"
+}

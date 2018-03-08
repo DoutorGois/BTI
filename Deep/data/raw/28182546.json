@@ -1,0 +1,63 @@
+{
+     "PMID": "28182546",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171002",
+     "LR": "20171217",
+     "IS": "1557-9964 (Electronic) 1545-5963 (Linking)",
+     "VI": "14",
+     "IP": "1",
+     "DP": "2017 Jan-Feb",
+     "TI": "Three-Dimensional Path Planning for Uninhabited Combat Aerial Vehicle Based on Predator-Prey Pigeon-Inspired Optimization in Dynamic Environment.",
+     "PG": "97-107",
+     "LID": "10.1109/TCBB.2015.2443789 [doi]",
+     "AB": "Three-dimension path planning of uninhabited combat aerial vehicle (UCAV) is a complicated optimal problem, which mainly focused on optimizing the flight route considering the different types of constrains under complex combating environment. A novel predator-prey pigeon-inspired optimization (PPPIO) is proposed to solve the UCAV three-dimension path planning problem in dynamic environment. Pigeon-inspired optimization (PIO) is a new bio-inspired optimization algorithm. In this algorithm, map and compass operator model and landmark operator model are used to search the best result of a function. The prey-predator concept is adopted to improve global best properties and enhance the convergence speed. The characteristics of the optimal path are presented in the form of a cost function. The comparative simulation results show that our proposed PPPIO algorithm is more efficient than the basic PIO, particle swarm optimization (PSO), and different evolution (DE) in solving UCAV three-dimensional path planning problems.",
+     "FAU": [
+          "Zhang, Bo",
+          "Duan, Haibin"
+     ],
+     "AU": [
+          "Zhang B",
+          "Duan H"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "IEEE/ACM Trans Comput Biol Bioinform",
+     "JT": "IEEE/ACM transactions on computational biology and bioinformatics",
+     "JID": "101196755",
+     "SB": "IM",
+     "MH": [
+          "*Aircraft",
+          "Algorithms",
+          "Animals",
+          "*Artificial Intelligence",
+          "Computer Simulation",
+          "Flight, Animal/*physiology",
+          "Models, Biological",
+          "Predatory Behavior/*physiology",
+          "Raptors/*physiology",
+          "Spatial Navigation/*physiology"
+     ],
+     "EDAT": "2017/02/10 06:00",
+     "MHDA": "2017/10/03 06:00",
+     "CRDT": [
+          "2017/02/10 06:00"
+     ],
+     "PHST": [
+          "2017/02/10 06:00 [entrez]",
+          "2017/02/10 06:00 [pubmed]",
+          "2017/10/03 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TCBB.2015.2443789 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE/ACM Trans Comput Biol Bioinform. 2017 Jan-Feb;14(1):97-107. doi: 10.1109/TCBB.2015.2443789.",
+     "term": "spatial navigation"
+}

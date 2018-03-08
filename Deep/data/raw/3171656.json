@@ -1,0 +1,68 @@
+{
+     "PMID": "3171656",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19881121",
+     "LR": "20171213",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "60",
+     "IP": "3",
+     "DP": "1988 Sep",
+     "TI": "Nonlinear systems analysis of the hippocampal perforant path-dentate projection. I. Theoretical and interpretational considerations.",
+     "PG": "1066-76",
+     "AB": "1. Nonlinear systems analytic procedures, based on an orthogonalized functional power series approach, were developed for study of the transformational properties of the hippocampal formation. As a testing stimulus, the procedures utilize a train of electrical impulses with randomly varying interimpulse intervals. The specific case was considered of applying such a stimulus to the perforant path, a major afferent to the hippocampal dentate gyrus that arises from the entorhinal cortex. Resulting field potentials evoked within the dentate gyrus are recorded to all impulses in the train. Computational algorithms based on cross-correlations determine the relationship between the interimpulse interval within the random train and amplitude of the evoked dentate potentials. The calculations, which reduce to averaging procedures, were derived for first- and second-order terms, or kernels, of the orthogonalized functional power series. 2. It is proposed that such an approach can be applied to a single component of the complex field potential evoked in the dentate gyrus. This component, the population spike, reflects the action potential discharge of dentate granule cells. Thus, a field potential component for which the underlying neuronal generator is well-known can be analyzed with respect to the transformational characteristics of the network of neurons that influence that generator. Other components of the complex field potential produced by other generators can be ignored. It is shown that this adaptation has the effect of greatly simplifying both the computation and presentation of kernels. 3. As a further consequence of this adaptation, the resulting first- and second-order kernels were shown to have specific interpretations. The first-order kernel represents the average response of the orthodromically driven granule cells to the set of stimuli comprising the random impulse train. The second-order kernel quantitatively characterizes the nonlinearity of the granule cell response, and may be interpreted as a generalized recovery function; i.e., the first input of any pair of stimuli in the train activates the newtork, and the second input tests the modulatory influence of the network excited by the initial input. 4. Most past investigations of nonlinearities of the perforant path-dentate projection have utilized pairs of stimulus impulses. We show here that, for a second-order system, the expected results from paired impulse experiments may be predicted from second-order kernels. Disagreement between the measured and predicted results reflects interactions of a higher order, and thus, greater system complexity.(ABSTRACT TRUNCATED AT 400 WORDS)",
+     "FAU": [
+          "Sclabassi, R J",
+          "Eriksson, J L",
+          "Port, R L",
+          "Robinson, G B",
+          "Berger, T W"
+     ],
+     "AU": [
+          "Sclabassi RJ",
+          "Eriksson JL",
+          "Port RL",
+          "Robinson GB",
+          "Berger TW"
+     ],
+     "AD": "Department of Behavioral Neuroscience, University of Pittsburgh, Pennsylvania 15260.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH-00343/MH/NIMH NIH HHS/United States",
+          "MH-30915/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/*physiology",
+          "Systems Analysis"
+     ],
+     "EDAT": "1988/09/01 00:00",
+     "MHDA": "1988/09/01 00:01",
+     "CRDT": [
+          "1988/09/01 00:00"
+     ],
+     "PHST": [
+          "1988/09/01 00:00 [pubmed]",
+          "1988/09/01 00:01 [medline]",
+          "1988/09/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1152/jn.1988.60.3.1066 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 1988 Sep;60(3):1066-76. doi: 10.1152/jn.1988.60.3.1066.",
+     "term": "hippocampus"
+}

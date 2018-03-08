@@ -1,0 +1,75 @@
+{
+     "PMID": "19174358",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090908",
+     "LR": "20090508",
+     "IS": "1558-0032 (Electronic) 1089-7771 (Linking)",
+     "VI": "13",
+     "IP": "3",
+     "DP": "2009 May",
+     "TI": "Characterizing the complexity of spontaneous electrical signals in cultured neuronal networks using approximate entropy.",
+     "PG": "405-10",
+     "LID": "10.1109/TITB.2008.2012164 [doi]",
+     "AB": "In this paper, neurons were cultured on a substrate above a multielectrode array, so the changes of electrophysiological activity patterns during development of the neuronal network or in response to environmental perturbations were monitored. But the complexity of these spontaneous activity patterns is not well understood. In order to solve the problem, a comprehensive method (approximate entropy (ApEn) in combination with a \"sliding window\" over the data) is introduced to quantify the complexity of four spontaneous activity patterns (sporadic spikes, tonic spikes, pseudobursts, and typical bursts) in cultured hippocampal neuronal networks. The results show that the dynamic curves of ApEn illustrate vivid differences between the four patterns and the values of ApEn fall into different ranges. Among these patterns, the complexity of tonic spikes is the highest while that of pseudobursts is the lowest. This suggests that the proposed method is a valid procedure for tracking the dynamic variation in neuronal signals and can distinguish the different firing patterns of neuronal networks in terms of their complexity.",
+     "FAU": [
+          "Chen, Lin",
+          "Luo, Weihua",
+          "Deng, Yong",
+          "Wang, Zhen",
+          "Zeng, Shaoqun"
+     ],
+     "AU": [
+          "Chen L",
+          "Luo W",
+          "Deng Y",
+          "Wang Z",
+          "Zeng S"
+     ],
+     "AD": "BrittonChanceCenter forBiomedical Photonics,HuazhongUniversity of Science and Technology, Wuhan 430074, China. hustchlin@163.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090123",
+     "PL": "United States",
+     "TA": "IEEE Trans Inf Technol Biomed",
+     "JT": "IEEE transactions on information technology in biomedicine : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "9712259",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Cell Culture Techniques",
+          "Cells, Cultured",
+          "Electrodes",
+          "Electrophysiological Phenomena/*physiology",
+          "Embryo, Mammalian",
+          "Hippocampus/cytology",
+          "Models, Neurological",
+          "Nerve Net/cytology/*physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "*Signal Processing, Computer-Assisted",
+          "Thermodynamics"
+     ],
+     "EDAT": "2009/01/29 09:00",
+     "MHDA": "2009/09/09 06:00",
+     "CRDT": [
+          "2009/01/29 09:00"
+     ],
+     "PHST": [
+          "2009/01/29 09:00 [entrez]",
+          "2009/01/29 09:00 [pubmed]",
+          "2009/09/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TITB.2008.2012164 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Inf Technol Biomed. 2009 May;13(3):405-10. doi: 10.1109/TITB.2008.2012164. Epub 2009 Jan 23.",
+     "term": "hippocampus"
+}

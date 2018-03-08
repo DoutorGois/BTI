@@ -1,0 +1,68 @@
+{
+     "PMID": "20454678",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100707",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "6",
+     "IP": "4",
+     "DP": "2010 Apr 29",
+     "TI": "How informative are spatial CA3 representations established by the dentate gyrus?",
+     "PG": "e1000759",
+     "LID": "10.1371/journal.pcbi.1000759 [doi]",
+     "AB": "In the mammalian hippocampus, the dentate gyrus (DG) is characterized by sparse and powerful unidirectional projections to CA3 pyramidal cells, the so-called mossy fibers. Mossy fiber synapses appear to duplicate, in terms of the information they convey, what CA3 cells already receive from entorhinal cortex layer II cells, which project both to the dentate gyrus and to CA3. Computational models of episodic memory have hypothesized that the function of the mossy fibers is to enforce a new, well-separated pattern of activity onto CA3 cells, to represent a new memory, prevailing over the interference produced by the traces of older memories already stored on CA3 recurrent collateral connections. Can this hypothesis apply also to spatial representations, as described by recent neurophysiological recordings in rats? To address this issue quantitatively, we estimate the amount of information DG can impart on a new CA3 pattern of spatial activity, using both mathematical analysis and computer simulations of a simplified model. We confirm that, also in the spatial case, the observed sparse connectivity and level of activity are most appropriate for driving memory storage-and not to initiate retrieval. Surprisingly, the model also indicates that even when DG codes just for space, much of the information it passes on to CA3 acquires a non-spatial and episodic character, akin to that of a random number generator. It is suggested that further hippocampal processing is required to make full spatial use of DG inputs.",
+     "FAU": [
+          "Cerasti, Erika",
+          "Treves, Alessandro"
+     ],
+     "AU": [
+          "Cerasti E",
+          "Treves A"
+     ],
+     "AD": "SISSA, Cognitive Neuroscience Sector, Trieste, Italy. cerasti@sissa.it",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100429",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "CA3 Region, Hippocampal/*cytology",
+          "Computer Simulation",
+          "Dentate Gyrus/*cytology",
+          "Learning",
+          "Memory",
+          "*Models, Neurological",
+          "Mossy Fibers, Hippocampal",
+          "Neuronal Plasticity",
+          "Rats"
+     ],
+     "PMC": "PMC2861628",
+     "EDAT": "2010/05/11 06:00",
+     "MHDA": "2010/07/08 06:00",
+     "CRDT": [
+          "2010/05/11 06:00"
+     ],
+     "PHST": [
+          "2009/07/14 00:00 [received]",
+          "2010/03/24 00:00 [accepted]",
+          "2010/05/11 06:00 [entrez]",
+          "2010/05/11 06:00 [pubmed]",
+          "2010/07/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1000759 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2010 Apr 29;6(4):e1000759. doi: 10.1371/journal.pcbi.1000759.",
+     "term": "hippocampus"
+}

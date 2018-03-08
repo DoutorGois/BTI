@@ -1,0 +1,67 @@
+{
+     "PMID": "26943452",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160805",
+     "LR": "20160325",
+     "IS": "1938-5404 (Electronic) 0033-7587 (Linking)",
+     "VI": "185",
+     "IP": "3",
+     "DP": "2016 Mar",
+     "TI": "Modeling Impaired Hippocampal Neurogenesis after Radiation Exposure.",
+     "PG": "319-31",
+     "LID": "10.1667/RR14289.S1 [doi]",
+     "AB": "Radiation impairment of neurogenesis in the hippocampal dentate gyrus is one of several factors associated with cognitive detriments after treatment of brain cancers in children and adults with radiation therapy. Mouse models have been used to study radiation-induced changes in neurogenesis, however the models are limited in the number of doses, dose fractions, age and time after exposure conditions that have been studied. The purpose of this study is to develop a novel predictive mathematical model of radiation-induced changes to neurogenesis using a system of nonlinear ordinary differential equations (ODEs) to represent the time, age and dose-dependent changes to several cell populations participating in neurogenesis as reported in mouse experiments exposed to low-LET radiation. We considered four compartments to model hippocampal neurogenesis and, consequently, the effects of radiation treatment in altering neurogenesis: (1) neural stem cells (NSCs), (2) neuronal progenitor cells or neuroblasts (NB), (3) immature neurons (ImN) and (4) glioblasts (GB). Because neurogenesis is decreasing with increasing mouse age, a description of the age-related dynamics of hippocampal neurogenesis is considered in the model, which is shown to be an important factor in comparisons to experimental data. A key feature of the model is the description of negative feedback regulation on early and late neuronal proliferation after radiation exposure. The model is augmented with parametric descriptions of the dose and time after irradiation dependences of activation of microglial cells and a possible shift of NSC proliferation from neurogenesis to gliogenesis reported at higher doses ( approximately 10 Gy). Predictions for dose-fractionation regimes and for different mouse ages, and prospects for future work are then discussed.",
+     "FAU": [
+          "Cacao, Eliedonna",
+          "Cucinotta, Francis A"
+     ],
+     "AU": [
+          "Cacao E",
+          "Cucinotta FA"
+     ],
+     "AD": "Department of Health Physics and Diagnostic Sciences, University of Nevada, Las Vegas, Nevada. Department of Health Physics and Diagnostic Sciences, University of Nevada, Las Vegas, Nevada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160304",
+     "PL": "United States",
+     "TA": "Radiat Res",
+     "JT": "Radiation research",
+     "JID": "0401245",
+     "SB": "IM S",
+     "MH": [
+          "Animals",
+          "Cell Proliferation/radiation effects",
+          "Cranial Irradiation",
+          "Dentate Gyrus/pathology/*radiation effects",
+          "Hippocampus/pathology/*radiation effects",
+          "Humans",
+          "Mice",
+          "Microglia/pathology/radiation effects",
+          "Neural Stem Cells/pathology/radiation effects",
+          "Neurogenesis/*radiation effects",
+          "Neurons/pathology/radiation effects",
+          "*Radiation Exposure"
+     ],
+     "EDAT": "2016/03/05 06:00",
+     "MHDA": "2016/08/06 06:00",
+     "CRDT": [
+          "2016/03/05 06:00"
+     ],
+     "PHST": [
+          "2016/03/05 06:00 [entrez]",
+          "2016/03/05 06:00 [pubmed]",
+          "2016/08/06 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1667/RR14289.S1 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Radiat Res. 2016 Mar;185(3):319-31. doi: 10.1667/RR14289.S1. Epub 2016 Mar 4.",
+     "term": "hippocampus"
+}

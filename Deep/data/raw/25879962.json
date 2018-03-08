@@ -1,0 +1,72 @@
+{
+     "PMID": "25879962",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170106",
+     "LR": "20170107",
+     "IS": "1558-0210 (Electronic) 1534-4320 (Linking)",
+     "VI": "24",
+     "IP": "4",
+     "DP": "2016 Apr",
+     "TI": "Development of an Environment-Aware Locomotion Mode Recognition System for Powered Lower Limb Prostheses.",
+     "PG": "434-43",
+     "LID": "10.1109/TNSRE.2015.2420539 [doi]",
+     "AB": "This paper aimed to develop and evaluate an environment-aware locomotion mode recognition system for volitional control of powered artificial legs. A portable terrain recognition (TR) module, consisting of an inertia measurement unit and a laser distance meter, was built to identify the type of terrain in front of the wearer while walking. A decision tree was used to classify the terrain types and provide either coarse or refined information about the walking environment. Then, the obtained environmental information was modeled as a priori probability and was integrated with a neuromuscular-mechanical-fusion-based locomotion mode (LM) recognition system. The designed TR module and environmental-aware LM recognition system was evaluated separately on able-bodied subjects and a transfemoral amputee online. The results showed that the TR module provided high quality environmental information: TR accuracy is above 98% and terrain transitions are detected over 500 ms before the time required to switch the prosthesis control mode. This enabled smooth locomotion mode transitions for the wearers. The obtained environmental information further improved the performance of LM recognition system, regardless of whether coarse or refined information was used. In addition, the environment-aware LM recognition system produced reliable online performance when the TR output was relatively noisy, which indicated the potential of this system to operate in unconstructed environment. This paper demonstrated that environmental information should be considered for operating wearable lower limb robotic devices, such as prosthetics and orthotics.",
+     "FAU": [
+          "Liu, Ming",
+          "Wang, Ding",
+          "Helen Huang, He"
+     ],
+     "AU": [
+          "Liu M",
+          "Wang D",
+          "Helen Huang H"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20150414",
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Syst Rehabil Eng",
+     "JT": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "101097023",
+     "SB": "IM",
+     "MH": [
+          "Accelerometry/instrumentation",
+          "Adult",
+          "Amputees/*rehabilitation",
+          "*Artificial Limbs",
+          "Ecosystem",
+          "Electric Power Supplies",
+          "Equipment Design",
+          "Equipment Failure Analysis",
+          "Exoskeleton Device",
+          "Female",
+          "Humans",
+          "Locomotion/*physiology",
+          "Male",
+          "Monitoring, Ambulatory/*instrumentation",
+          "Pattern Recognition, Automated/*methods",
+          "*Spatial Navigation/physiology"
+     ],
+     "EDAT": "2015/04/17 06:00",
+     "MHDA": "2017/01/07 06:00",
+     "CRDT": [
+          "2015/04/17 06:00"
+     ],
+     "PHST": [
+          "2015/04/17 06:00 [entrez]",
+          "2015/04/17 06:00 [pubmed]",
+          "2017/01/07 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TNSRE.2015.2420539 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Syst Rehabil Eng. 2016 Apr;24(4):434-43. doi: 10.1109/TNSRE.2015.2420539. Epub 2015 Apr 14.",
+     "term": "spatial navigation"
+}

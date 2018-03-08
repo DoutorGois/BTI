@@ -1,0 +1,101 @@
+{
+     "PMID": "26854398",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161214",
+     "LR": "20170403",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "263",
+     "DP": "2016 Apr 1",
+     "TI": "A Bayesian nonparametric approach for uncovering rat hippocampal population codes during spatial navigation.",
+     "PG": "36-47",
+     "LID": "10.1016/j.jneumeth.2016.01.022 [doi] S0165-0270(16)00041-8 [pii]",
+     "AB": "BACKGROUND: Rodent hippocampal population codes represent important spatial information about the environment during navigation. Computational methods have been developed to uncover the neural representation of spatial topology embedded in rodent hippocampal ensemble spike activity. NEW METHOD: We extend our previous work and propose a novel Bayesian nonparametric approach to infer rat hippocampal population codes during spatial navigation. To tackle the model selection problem, we leverage a Bayesian nonparametric model. Specifically, we apply a hierarchical Dirichlet process-hidden Markov model (HDP-HMM) using two Bayesian inference methods, one based on Markov chain Monte Carlo (MCMC) and the other based on variational Bayes (VB). RESULTS: The effectiveness of our Bayesian approaches is demonstrated on recordings from a freely behaving rat navigating in an open field environment. COMPARISON WITH EXISTING METHODS: The HDP-HMM outperforms the finite-state HMM in both simulated and experimental data. For HPD-HMM, the MCMC-based inference with Hamiltonian Monte Carlo (HMC) hyperparameter sampling is flexible and efficient, and outperforms VB and MCMC approaches with hyperparameters set by empirical Bayes. CONCLUSION: The Bayesian nonparametric HDP-HMM method can efficiently perform model selection and identify model parameters, which can used for modeling latent-state neuronal population dynamics.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Linderman, Scott W",
+          "Johnson, Matthew J",
+          "Wilson, Matthew A",
+          "Chen, Zhe"
+     ],
+     "AU": [
+          "Linderman SW",
+          "Johnson MJ",
+          "Wilson MA",
+          "Chen Z"
+     ],
+     "AD": "Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA 02138, USA. Electronic address: slinderman@seas.harvard.edu. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA 02138, USA; Department of Neurobiology, Harvard Medical School, Boston, MA 02115, USA. Electronic address: mattjj@csail.mit.edu. Picower Institute for Learning and Memory, Massachusetts Institute of Technology, Cambridge, MA 02139, USA. Electronic address: mwilson@mit.edu. Department of Psychiatry, Department of Neuroscience and Physiology, New York University School of Medicine, New York, NY 10016, USA. Electronic address: Zhe.Chen3@nyumc.org.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 GM104948/GM/NIGMS NIH HHS/United States",
+          "R01 MH061976/MH/NIMH NIH HHS/United States",
+          "R01-MH06197/MH/NIMH NIH HHS/United States",
+          "TR01-GM10498/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20160205",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Algorithms",
+          "Animals",
+          "*Bayes Theorem",
+          "Hippocampus/*cytology",
+          "Models, Neurological",
+          "Neurons/*physiology",
+          "Nonlinear Dynamics",
+          "Rats",
+          "Spatial Navigation/*physiology"
+     ],
+     "PMC": "PMC4801699",
+     "MID": [
+          "NIHMS759836"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Bayesian nonparametric inference",
+          "Gibbs sampler",
+          "Hamiltonian Monte Carlo",
+          "Hidden Markov model",
+          "Hierarchical Dirichlet process",
+          "Markov chain Monte Carlo",
+          "Population codes",
+          "Stick-breaking process",
+          "Variational Bayes"
+     ],
+     "EDAT": "2016/02/09 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2016/02/09 06:00"
+     ],
+     "PHST": [
+          "2015/09/06 00:00 [received]",
+          "2016/01/25 00:00 [revised]",
+          "2016/01/25 00:00 [accepted]",
+          "2016/02/09 06:00 [entrez]",
+          "2016/02/09 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(16)00041-8 [pii]",
+          "10.1016/j.jneumeth.2016.01.022 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2016 Apr 1;263:36-47. doi: 10.1016/j.jneumeth.2016.01.022. Epub 2016 Feb 5.",
+     "term": "spatial navigation"
+}

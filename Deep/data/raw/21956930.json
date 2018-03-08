@@ -1,0 +1,80 @@
+{
+     "PMID": "21956930",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120123",
+     "LR": "20131121",
+     "IS": "0129-0657 (Print) 0129-0657 (Linking)",
+     "VI": "21",
+     "IP": "5",
+     "DP": "2011 Oct",
+     "TI": "Responsive neuromodulators based on artificial neural networks used to control seizure-like events in a computational model of epilepsy.",
+     "PG": "367-83",
+     "AB": "Deep brain stimulation (DBS) has been noted for its potential to suppress epileptic seizures. To date, DBS has achieved mixed results as a therapeutic approach to seizure control. Using a computational model, we demonstrate that high-complexity, biologically-inspired responsive neuromodulation is superior to periodic forms of neuromodulation (responsive and non-responsive) such as those implemented in DBS, as well as neuromodulation using random and random repetitive-interval stimulation. We configured radial basis function (RBF) networks to generate outputs modeling interictal time series recorded from rodent hippocampal slices that were perfused with low Mg(2)(+)/high K(+) solution. We then compared the performance of RBF-based interictal modulation, periodic biphasic-pulse modulation, random modulation and random repetitive modulation on a cognitive rhythm generator (CRG) model of spontaneous seizure-like events (SLEs), testing efficacy of SLE control. A statistically significant improvement in SLE mitigation for the RBF interictal modulation case versus the periodic and random cases was observed, suggesting that the use of biologically-inspired neuromodulators may achieve better results for the purpose of electrical control of seizures in a clinical setting.",
+     "FAU": [
+          "Colic, Sinisa",
+          "Zalay, Osbert C",
+          "Bardakjian, Berj L"
+     ],
+     "AU": [
+          "Colic S",
+          "Zalay OC",
+          "Bardakjian BL"
+     ],
+     "AD": "Edwards S. Rogers Sr. Department of Electrical and Computer Engineering, University of Toronto, Toronto, ON M5S3G4, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Singapore",
+     "TA": "Int J Neural Syst",
+     "JT": "International journal of neural systems",
+     "JID": "9100527",
+     "RN": [
+          "0 (Neurotransmitter Agents)",
+          "I38ZP9992A (Magnesium)",
+          "RWP5GA015D (Potassium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "*Computer Simulation",
+          "Deep Brain Stimulation",
+          "Epilepsy/*physiopathology",
+          "Hippocampus/physiology/physiopathology",
+          "Humans",
+          "Magnesium/metabolism",
+          "Male",
+          "*Neural Networks (Computer)",
+          "*Neurotransmitter Agents",
+          "Potassium/metabolism",
+          "ROC Curve",
+          "Rats",
+          "Rats, Wistar",
+          "Seizures/*physiopathology"
+     ],
+     "EDAT": "2011/10/01 06:00",
+     "MHDA": "2012/01/24 06:00",
+     "CRDT": [
+          "2011/09/30 06:00"
+     ],
+     "PHST": [
+          "2011/09/30 06:00 [entrez]",
+          "2011/10/01 06:00 [pubmed]",
+          "2012/01/24 06:00 [medline]"
+     ],
+     "AID": [
+          "S0129065711002894 [pii]",
+          "10.1142/S0129065711002894 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Int J Neural Syst. 2011 Oct;21(5):367-83. doi: 10.1142/S0129065711002894.",
+     "term": "hippocampus"
+}

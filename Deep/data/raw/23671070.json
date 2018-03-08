@@ -1,0 +1,131 @@
+{
+     "PMID": "23671070",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130823",
+     "LR": "20161019",
+     "IS": "1091-6490 (Electronic) 0027-8424 (Linking)",
+     "VI": "110",
+     "IP": "24",
+     "DP": "2013 Jun 11",
+     "TI": "Circadian patterns of gene expression in the human brain and disruption in major depressive disorder.",
+     "PG": "9950-5",
+     "LID": "10.1073/pnas.1305814110 [doi]",
+     "AB": "A cardinal symptom of major depressive disorder (MDD) is the disruption of circadian patterns. However, to date, there is no direct evidence of circadian clock dysregulation in the brains of patients who have MDD. Circadian rhythmicity of gene expression has been observed in animals and peripheral human tissues, but its presence and variability in the human brain were difficult to characterize. Here, we applied time-of-death analysis to gene expression data from high-quality postmortem brains, examining 24-h cyclic patterns in six cortical and limbic regions of 55 subjects with no history of psychiatric or neurological illnesses (\"controls\") and 34 patients with MDD. Our dataset covered ~12,000 transcripts in the dorsolateral prefrontal cortex, anterior cingulate cortex, hippocampus, amygdala, nucleus accumbens, and cerebellum. Several hundred transcripts in each region showed 24-h cyclic patterns in controls, and >100 transcripts exhibited consistent rhythmicity and phase synchrony across regions. Among the top-ranked rhythmic genes were the canonical clock genes BMAL1(ARNTL), PER1-2-3, NR1D1(REV-ERBa), DBP, BHLHE40 (DEC1), and BHLHE41(DEC2). The phasing of known circadian genes was consistent with data derived from other diurnal mammals. Cyclic patterns were much weaker in the brains of patients with MDD due to shifted peak timing and potentially disrupted phase relationships between individual circadian genes. This transcriptome-wide analysis of the human brain demonstrates a rhythmic rise and fall of gene expression in regions outside of the suprachiasmatic nucleus in control subjects. The description of its breakdown in MDD suggests potentially important molecular targets for treatment of mood disorders.",
+     "FAU": [
+          "Li, Jun Z",
+          "Bunney, Blynn G",
+          "Meng, Fan",
+          "Hagenauer, Megan H",
+          "Walsh, David M",
+          "Vawter, Marquis P",
+          "Evans, Simon J",
+          "Choudary, Prabhakara V",
+          "Cartagena, Preston",
+          "Barchas, Jack D",
+          "Schatzberg, Alan F",
+          "Jones, Edward G",
+          "Myers, Richard M",
+          "Watson, Stanley J Jr",
+          "Akil, Huda",
+          "Bunney, William E"
+     ],
+     "AU": [
+          "Li JZ",
+          "Bunney BG",
+          "Meng F",
+          "Hagenauer MH",
+          "Walsh DM",
+          "Vawter MP",
+          "Evans SJ",
+          "Choudary PV",
+          "Cartagena P",
+          "Barchas JD",
+          "Schatzberg AF",
+          "Jones EG",
+          "Myers RM",
+          "Watson SJ Jr",
+          "Akil H",
+          "Bunney WE"
+     ],
+     "AD": "Department of Human Genetics, University of Michigan, Ann Arbor, MI 48109, USA. junzli@med.umich.edu",
+     "LA": [
+          "eng"
+     ],
+     "SI": [
+          "GEO/GSE45642"
+     ],
+     "GR": [
+          "P50 MH060398/MH/NIMH NIH HHS/United States",
+          "R01 MH085801/MH/NIMH NIH HHS/United States",
+          "NIMH R01MH085801/PHS HHS/United States",
+          "P50MH60398/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20130513",
+     "PL": "United States",
+     "TA": "Proc Natl Acad Sci U S A",
+     "JT": "Proceedings of the National Academy of Sciences of the United States of America",
+     "JID": "7505876",
+     "RN": [
+          "0 (ARNTL Transcription Factors)",
+          "0 (BHLHE40 protein, human)",
+          "0 (BHLHE41 protein, human)",
+          "0 (Basic Helix-Loop-Helix Transcription Factors)",
+          "0 (Homeodomain Proteins)",
+          "0 (NR1D1 protein, human)",
+          "0 (Nuclear Receptor Subfamily 1, Group D, Member 1)",
+          "0 (Period Circadian Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "ARNTL Transcription Factors",
+          "Adult",
+          "Aged",
+          "Autopsy",
+          "Basic Helix-Loop-Helix Transcription Factors/genetics",
+          "Brain/*metabolism",
+          "Circadian Clocks/genetics",
+          "Circadian Rhythm/*genetics",
+          "Depressive Disorder, Major/*genetics",
+          "Female",
+          "*Gene Expression Profiling",
+          "Homeodomain Proteins/genetics",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Nuclear Receptor Subfamily 1, Group D, Member 1/genetics",
+          "Oligonucleotide Array Sequence Analysis",
+          "Period Circadian Proteins/genetics"
+     ],
+     "PMC": "PMC3683716",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "circadian rhythms",
+          "depression",
+          "microarray"
+     ],
+     "EDAT": "2013/05/15 06:00",
+     "MHDA": "2013/08/24 06:00",
+     "CRDT": [
+          "2013/05/15 06:00"
+     ],
+     "PHST": [
+          "2013/05/15 06:00 [entrez]",
+          "2013/05/15 06:00 [pubmed]",
+          "2013/08/24 06:00 [medline]"
+     ],
+     "AID": [
+          "1305814110 [pii]",
+          "10.1073/pnas.1305814110 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc Natl Acad Sci U S A. 2013 Jun 11;110(24):9950-5. doi: 10.1073/pnas.1305814110. Epub 2013 May 13.",
+     "term": "hippocampus"
+}

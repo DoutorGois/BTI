@@ -1,0 +1,106 @@
+{
+     "PMID": "26481815",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160930",
+     "LR": "20171017",
+     "IS": "1724-191X (Electronic) 1120-1797 (Linking)",
+     "VI": "31",
+     "IP": "8",
+     "DP": "2015 Dec",
+     "TI": "Multiple RF classifier for the hippocampus segmentation: Method and validation on EADC-ADNI Harmonized Hippocampal Protocol.",
+     "PG": "1085-1091",
+     "LID": "S1120-1797(15)00325-7 [pii] 10.1016/j.ejmp.2015.08.003 [doi]",
+     "AB": "The hippocampus has a key role in a number of neurodegenerative diseases, such as Alzheimer's Disease. Here we present a novel method for the automated segmentation of the hippocampus from structural magnetic resonance images (MRI), based on a combination of multiple classifiers. The method is validated on a cohort of 50 T1 MRI scans, comprehending healthy control, mild cognitive impairment, and Alzheimer's Disease subjects. The preliminary release of the EADC-ADNI Harmonized Protocol training labels is used as gold standard. The fully automated pipeline consists of a registration using an affine transformation, the extraction of a local bounding box, and the classification of each voxel in two classes (background and hippocampus). The classification is performed slice-by-slice along each of the three orthogonal directions of the 3D-MRI using a Random Forest (RF) classifier, followed by a fusion of the three full segmentations. Dice coefficients obtained by multiple RF (0.87 +/- 0.03) are larger than those obtained by a single monolithic RF applied to the entire bounding box, and are comparable to state-of-the-art. A test on an external cohort of 50 T1 MRI scans shows that the presented method is robust and reliable. Additionally, a comparison of local changes in the morphology of the hippocampi between the three subject groups is performed. Our work showed that a multiple classification approach can be implemented for the segmentation for the measurement of volume and shape changes of the hippocampus with diagnostic purposes.",
+     "CI": [
+          "Copyright (c) 2015 Associazione Italiana di Fisica Medica. All rights reserved."
+     ],
+     "FAU": [
+          "Inglese, P",
+          "Amoroso, N",
+          "Boccardi, M",
+          "Bocchetta, M",
+          "Bruno, S",
+          "Chincarini, A",
+          "Errico, R",
+          "Frisoni, G B",
+          "Maglietta, R",
+          "Redolfi, A",
+          "Sensi, F",
+          "Tangaro, S",
+          "Tateo, A",
+          "Bellotti, R"
+     ],
+     "AU": [
+          "Inglese P",
+          "Amoroso N",
+          "Boccardi M",
+          "Bocchetta M",
+          "Bruno S",
+          "Chincarini A",
+          "Errico R",
+          "Frisoni GB",
+          "Maglietta R",
+          "Redolfi A",
+          "Sensi F",
+          "Tangaro S",
+          "Tateo A",
+          "Bellotti R"
+     ],
+     "AD": "Istituto Nazionale di Fisica Nucleare, Sezione di Bari, Italy; Universita degli Studi di Bari, Bari, Italy. Istituto Nazionale di Fisica Nucleare, Sezione di Bari, Italy; Universita degli Studi di Bari, Bari, Italy. LENITEM Laboratory of Epidemiology, Neuroimaging & Telemedicine, IRCSS Istituto Centro San Giovanni di Dio - Fatebenefratelli, Brescia, Italy. LENITEM Laboratory of Epidemiology, Neuroimaging & Telemedicine, IRCSS Istituto Centro San Giovanni di Dio - Fatebenefratelli, Brescia, Italy; Department of Molecular and Translational Medicine, University of Brescia, Brescia, Italy. Overdale Hospital, St Helier, Jersey, UK. Istituto Nazionale di Fisica Nucleare, Sezione di Genova, Italy. Universita degli Studi di Bari, Bari, Italy; Istituto Nazionale di Fisica Nucleare, Sezione di Genova, Italy; Universita degli Studi di Genova, Genova, Italy. LENITEM Laboratory of Epidemiology, Neuroimaging & Telemedicine, IRCSS Istituto Centro San Giovanni di Dio - Fatebenefratelli, Brescia, Italy; aFaR Associazione FateBeneFratelli per la Ricerca, Rome, Italy; Psychogeriatric Ward, IRCSS S. Giovanni di Dio - FBF, Brescia, Italy. Istituto di Studi sui Sistemi Intelligenti per l'Automazione, Consiglio Nazionale delle Ricerche, Bari, Italy. LENITEM Laboratory of Epidemiology, Neuroimaging & Telemedicine, IRCSS Istituto Centro San Giovanni di Dio - Fatebenefratelli, Brescia, Italy. Istituto Nazionale di Fisica Nucleare, Sezione di Genova, Italy. Istituto Nazionale di Fisica Nucleare, Sezione di Bari, Italy. Electronic address: sonia.tangaro@ba.infn.it. Istituto Nazionale di Fisica Nucleare, Sezione di Bari, Italy; Universita degli Studi di Bari, Bari, Italy. Istituto Nazionale di Fisica Nucleare, Sezione di Bari, Italy; Universita degli Studi di Bari, Bari, Italy.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Validation Studies"
+     ],
+     "DEP": "20151021",
+     "PL": "Italy",
+     "TA": "Phys Med",
+     "JT": "Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB)",
+     "JID": "9302888",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "*Hippocampus",
+          "Imaging, Three-Dimensional/*methods",
+          "*Magnetic Resonance Imaging"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Hippocampus segmentation",
+          "Random forest classifier"
+     ],
+     "EDAT": "2015/10/21 06:00",
+     "MHDA": "2016/10/01 06:00",
+     "CRDT": [
+          "2015/10/21 06:00"
+     ],
+     "PHST": [
+          "2015/02/25 00:00 [received]",
+          "2015/07/16 00:00 [revised]",
+          "2015/08/12 00:00 [accepted]",
+          "2015/10/21 06:00 [entrez]",
+          "2015/10/21 06:00 [pubmed]",
+          "2016/10/01 06:00 [medline]"
+     ],
+     "AID": [
+          "S1120-1797(15)00325-7 [pii]",
+          "10.1016/j.ejmp.2015.08.003 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phys Med. 2015 Dec;31(8):1085-1091. doi: 10.1016/j.ejmp.2015.08.003. Epub 2015 Oct 21.",
+     "term": "hippocampus"
+}

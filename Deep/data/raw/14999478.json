@@ -1,0 +1,73 @@
+{
+     "PMID": "14999478",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040510",
+     "LR": "20071115",
+     "IS": "0340-1200 (Print) 0340-1200 (Linking)",
+     "VI": "90",
+     "IP": "2",
+     "DP": "2004 Feb",
+     "TI": "Input-dependent learning rule for the memory of spatiotemporal sequences in hippocampal network with theta phase precession.",
+     "PG": "113-24",
+     "AB": "Theta phase precession in rat hippocampal place cells is hypothesized to contribute to memory encoding of running experience in the sense that it provides the ideal timing for synaptic plasticity and enables the asymmetric associative connections under the Hebbian learning rule with asymmetric time window (Yamaguchi 2003). When the sequence of place fields is considered as the episodic memory of running experience, a given spatial route should be accurately stored in spite of differing overlap extent among place fields and varying running velocity. Using a hippocampal network model with phase precession and the Hebbian learning rule with asymmetric time window, we investigate the memory encoding of place field sequences in a single traversal experience. Computer experiments show that place fields cannot be stored correctly until an input-dependent feature is introduced into the learning rule. These experiments further indicate that there exists an optimum value for the saturation level of synaptic plasticity and the speed of synaptic plasticity in the learning rule, which are correlated with, respectively, the overlap extent of place field sequence and the running velocity of animal during traversal. A comparison of these results with biological evidences shows good agreement and suggests that behavior-dependent regulation of the learning rule is necessary for memory encoding.",
+     "FAU": [
+          "Wu, Zhihua",
+          "Yamaguchi, Yoko"
+     ],
+     "AU": [
+          "Wu Z",
+          "Yamaguchi Y"
+     ],
+     "AD": "Dynamics of Emergent Intelligence Lab, RIKEN Brain Science Institute, 2-1 Hirosawa Wako Saitama, 351-0198 Japan. wuzh@brain.riken.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "DEP": "20040218",
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "SB": "IM",
+     "EIN": [
+          "Biol Cybern. 2004 Apr;90(4):310"
+     ],
+     "MH": [
+          "Computer Simulation",
+          "Hippocampus/cytology/*physiology",
+          "Humans",
+          "Learning/*physiology",
+          "Mental Recall/physiology",
+          "*Neural Networks (Computer)",
+          "Neuronal Plasticity/physiology",
+          "Neurons/*physiology",
+          "Space Perception/*physiology",
+          "Statistics as Topic",
+          "Synapses/physiology",
+          "Synaptic Transmission/physiology",
+          "*Theta Rhythm",
+          "Time Factors"
+     ],
+     "EDAT": "2004/03/05 05:00",
+     "MHDA": "2004/05/11 05:00",
+     "CRDT": [
+          "2004/03/05 05:00"
+     ],
+     "PHST": [
+          "2003/10/02 00:00 [received]",
+          "2003/11/03 00:00 [accepted]",
+          "2004/03/05 05:00 [pubmed]",
+          "2004/05/11 05:00 [medline]",
+          "2004/03/05 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s00422-003-0454-2 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Cybern. 2004 Feb;90(2):113-24. doi: 10.1007/s00422-003-0454-2. Epub 2004 Feb 18.",
+     "term": "place cells"
+}

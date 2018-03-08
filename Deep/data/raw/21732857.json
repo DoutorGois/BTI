@@ -1,0 +1,63 @@
+{
+     "PMID": "21732857",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120123",
+     "LR": "20110902",
+     "IS": "1530-888X (Electronic) 0899-7667 (Linking)",
+     "VI": "23",
+     "IP": "10",
+     "DP": "2011 Oct",
+     "TI": "Learning a sparse code for temporal sequences using STDP and sequence compression.",
+     "PG": "2567-98",
+     "LID": "10.1162/NECO_a_00184 [doi]",
+     "AB": "A spiking neural network that learns temporal sequences is described. A sparse code in which individual neurons represent sequences and subsequences enables multiple sequences to be stored without interference. The network is founded on a model of sequence compression in the hippocampus that is robust to variation in sequence element duration and well suited to learn sequences through spike-timing dependent plasticity (STDP). Three additions to the sequence compression model underlie the sparse representation: synapses connecting the neurons of the network that are subject to STDP, a competitive plasticity rule so that neurons specialize to individual sequences, and neural depolarization after spiking so that neurons have a memory. The response to new sequence elements is determined by the neurons that have responded to the previous subsequence, according to the competitively learned synaptic connections. Numerical simulations show that the model can learn sets of intersecting sequences, presented with widely differing frequencies, with elements of varying duration.",
+     "FAU": [
+          "Byrnes, Sean",
+          "Burkitt, Anthony N",
+          "Grayden, David B",
+          "Meffin, Hamish"
+     ],
+     "AU": [
+          "Byrnes S",
+          "Burkitt AN",
+          "Grayden DB",
+          "Meffin H"
+     ],
+     "AD": "Bionic Ear Institute, East Melbourne, Victoria 3002, Australia. smbyrnes@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110706",
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Neurons/*physiology"
+     ],
+     "EDAT": "2011/07/08 06:00",
+     "MHDA": "2012/01/24 06:00",
+     "CRDT": [
+          "2011/07/08 06:00"
+     ],
+     "PHST": [
+          "2011/07/08 06:00 [entrez]",
+          "2011/07/08 06:00 [pubmed]",
+          "2012/01/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1162/NECO_a_00184 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2011 Oct;23(10):2567-98. doi: 10.1162/NECO_a_00184. Epub 2011 Jul 6.",
+     "term": "hippocampus"
+}

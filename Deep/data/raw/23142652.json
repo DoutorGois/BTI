@@ -1,0 +1,103 @@
+{
+     "PMID": "23142652",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150806",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "66",
+     "DP": "2013 Feb 1",
+     "TI": "A direct morphometric comparison of five labeling protocols for multi-atlas driven automatic segmentation of the hippocampus in Alzheimer's disease.",
+     "PG": "50-70",
+     "LID": "10.1016/j.neuroimage.2012.10.081 [doi] S1053-8119(12)01085-3 [pii]",
+     "AB": "Hippocampal volumetry derived from structural MRI is increasingly used to delineate regions of interest for functional measurements, assess efficacy in therapeutic trials of Alzheimer's disease (AD) and has been endorsed by the new AD diagnostic guidelines as a radiological marker of disease progression. Unfortunately, morphological heterogeneity in AD can prevent accurate demarcation of the hippocampus. Recent developments in automated volumetry commonly use multi-template fusion driven by expert manual labels, enabling highly accurate and reproducible segmentation in disease and healthy subjects. However, there are several protocols to define the hippocampus anatomically in vivo, and the method used to generate atlases may impact automatic accuracy and sensitivity - particularly in pathologically heterogeneous samples. Here we report a fully automated segmentation technique that provides a robust platform to directly evaluate both technical and biomarker performance in AD among anatomically unique labeling protocols. For the first time we test head-to-head the performance of five common hippocampal labeling protocols for multi-atlas based segmentation, using both the Sunnybrook Longitudinal Dementia Study and the entire Alzheimer's Disease Neuroimaging Initiative 1 (ADNI-1) baseline and 24-month dataset. We based these atlas libraries on the protocols of (Haller et al., 1997; Killiany et al., 1993; Malykhin et al., 2007; Pantel et al., 2000; Pruessner et al., 2000), and a single operator performed all manual tracings to generate de facto \"ground truth\" labels. All methods distinguished between normal elders, mild cognitive impairment (MCI), and AD in the expected directions, and showed comparable correlations with measures of episodic memory performance. Only more inclusive protocols distinguished between stable MCI and MCI-to-AD converters, and had slightly better associations with episodic memory. Moreover, we demonstrate that protocols including more posterior anatomy and dorsal white matter compartments furnish the best voxel-overlap accuracies (Dice Similarity Coefficient=0.87-0.89), compared to expert manual tracings, and achieve the smallest sample sizes required to power clinical trials in MCI and AD. The greatest distribution of errors was localized to the caudal hippocampus and the alveus-fimbria compartment when these regions were excluded. The definition of the medial body did not significantly alter accuracy among more comprehensive protocols. Voxel-overlap accuracies between automatic and manual labels were lower for the more pathologically heterogeneous Sunnybrook study in comparison to the ADNI-1 sample. Finally, accuracy among protocols appears to significantly differ the most in AD subjects compared to MCI and normal elders. Together, these results suggest that selection of a candidate protocol for fully automatic multi-template based segmentation in AD can influence both segmentation accuracy when compared to expert manual labels and performance as a biomarker in MCI and AD.",
+     "CI": [
+          "Copyright (c) 2012 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Nestor, Sean M",
+          "Gibson, Erin",
+          "Gao, Fu-Qiang",
+          "Kiss, Alex",
+          "Black, Sandra E"
+     ],
+     "AU": [
+          "Nestor SM",
+          "Gibson E",
+          "Gao FQ",
+          "Kiss A",
+          "Black SE"
+     ],
+     "AD": "LC Campbell Cognitive Neurology Research Unit, University of Toronto, Canada; Heart and Stroke Foundation Centre for Stroke Recovery, University of Toronto, Canada; Brain Sciences Research Program, Sunnybrook Research Institute, University of Toronto, Canada; University of Toronto, Institute of Medical Sciences, University of Toronto, University of Toronto, Canada; MD/PhD Program, Faculty of Medicine, University of Toronto, University of Toronto, Canada. Electronic address: sean.nestor@mail.utoronto.ca. LC Campbell Cognitive Neurology Research Unit, University of Toronto, Canada; Heart and Stroke Foundation Centre for Stroke Recovery, University of Toronto, Canada; Brain Sciences Research Program, Sunnybrook Research Institute, University of Toronto, Canada; University of Toronto, Institute of Medical Sciences, University of Toronto, University of Toronto, Canada. LC Campbell Cognitive Neurology Research Unit, University of Toronto, Canada; Heart and Stroke Foundation Centre for Stroke Recovery, University of Toronto, Canada; Brain Sciences Research Program, Sunnybrook Research Institute, University of Toronto, Canada. Department of Research Design and Biostatistics, Sunnybrook Research Institute, University of Toronto, Canada. LC Campbell Cognitive Neurology Research Unit, University of Toronto, Canada; Heart and Stroke Foundation Centre for Stroke Recovery, University of Toronto, Canada; Brain Sciences Research Program, Sunnybrook Research Institute, University of Toronto, Canada; University of Toronto, Institute of Medical Sciences, University of Toronto, University of Toronto, Canada; Department of Medicine, Neurology, Sunnybrook Health Sciences Centre, University of Toronto, Canada.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "13129/Canadian Institutes of Health Research/Canada",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "U19 AG010483/AG/NIA NIH HHS/United States",
+          "MT#13129/Canadian Institutes of Health Research/Canada",
+          "P30 AG010129/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20121107",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/*pathology",
+          "Databases, Factual",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged"
+     ],
+     "PMC": "PMC3606906",
+     "MID": [
+          "NIHMS419985"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Automatic hippocampal segmentation",
+          "Hippocampal tracing protocol",
+          "Multi-atlas"
+     ],
+     "EDAT": "2012/11/13 06:00",
+     "MHDA": "2015/08/08 06:00",
+     "CRDT": [
+          "2012/11/13 06:00"
+     ],
+     "PHST": [
+          "2012/07/02 00:00 [received]",
+          "2012/10/06 00:00 [revised]",
+          "2012/10/30 00:00 [accepted]",
+          "2012/11/13 06:00 [entrez]",
+          "2012/11/13 06:00 [pubmed]",
+          "2015/08/08 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(12)01085-3 [pii]",
+          "10.1016/j.neuroimage.2012.10.081 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2013 Feb 1;66:50-70. doi: 10.1016/j.neuroimage.2012.10.081. Epub 2012 Nov 7.",
+     "term": "hippocampus"
+}

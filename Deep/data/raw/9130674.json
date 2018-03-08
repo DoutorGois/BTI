@@ -1,0 +1,65 @@
+{
+     "PMID": "9130674",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19970718",
+     "LR": "20031114",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "73",
+     "IP": "1",
+     "DP": "1997 Apr 25",
+     "TI": "Noise deconvolution based on the L1-metric and decomposition of discrete distributions of postsynaptic responses.",
+     "PG": "17-27",
+     "AB": "A statistical approach to analysis of amplitude fluctuations of postsynaptic responses is described. This includes (1) using a L1-metric in the space of distribution functions for minimisation with application of linear programming methods to decompose amplitude distributions into a convolution of Gaussian and discrete distributions; (2) deconvolution of the resulting discrete distribution with determination of the release probabilities and the quantal amplitude for cases with a small number (< 5) of discrete components. The methods were tested against simulated data over a range of sample sizes and signal-to-noise ratios which mimicked those observed in physiological experiments. In computer simulation experiments, comparisons were made with other methods of 'unconstrained' (generalized) and constrained reconstruction of discrete components from convolutions. The simulation results provided additional criteria for improving the solutions to overcome 'over-fitting phenomena' and to constrain the number of components with small probabilities. Application of the programme to recordings from hippocampal neurones demonstrated its usefulness for the analysis of amplitude distributions of postsynaptic responses.",
+     "FAU": [
+          "Astrelin, A V",
+          "Sokolov, M V",
+          "Behnisch, T",
+          "Reymann, K G",
+          "Voronin, L L"
+     ],
+     "AU": [
+          "Astrelin AV",
+          "Sokolov MV",
+          "Behnisch T",
+          "Reymann KG",
+          "Voronin LL"
+     ],
+     "AD": "Department of Mathematics and Mechanics, Moscow State University, Vorobiovy Gory, Russia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/*physiology",
+          "Male",
+          "*Noise",
+          "Rats",
+          "Rats, Wistar",
+          "Synaptic Transmission/*physiology"
+     ],
+     "EDAT": "1997/04/25 00:00",
+     "MHDA": "1997/04/25 00:01",
+     "CRDT": [
+          "1997/04/25 00:00"
+     ],
+     "PHST": [
+          "1997/04/25 00:00 [pubmed]",
+          "1997/04/25 00:01 [medline]",
+          "1997/04/25 00:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(96)02206-6 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 1997 Apr 25;73(1):17-27.",
+     "term": "hippocampus"
+}

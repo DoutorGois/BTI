@@ -1,0 +1,120 @@
+{
+     "PMID": "21924361",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120517",
+     "LR": "20161118",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "59",
+     "IP": "3",
+     "DP": "2012 Feb 1",
+     "TI": "Reliable non-invasive measurement of human neurochemistry using proton spectroscopy with an anatomically defined amygdala-specific voxel.",
+     "PG": "2548-59",
+     "LID": "10.1016/j.neuroimage.2011.08.090 [doi]",
+     "AB": "Given the central role of the amygdala in fear perception and expression and its likely abnormality in affective disorders and autism, there is great demand for a technique to measure differences in neurochemistry of the human amygdala. Unfortunately, it is also a technically complex target for magnetic resonance spectroscopy (MRS) due to a small volume, high field inhomogeneity and a shared boundary with hippocampus, which can undergo opposite changes in response to stress. We attempted to achieve reliable PRESS-localized single-voxel MRS at 3T of the isolated human amygdala by using anatomy to guide voxel size and location. We present data from 106 amygdala-MRS sessions from 58 volunteers aged 10 to 52 years, including two tests of one-week stability and a feasibility study in an adolescent sample. Our main outcomes were indices of spectral quality, repeated measurement variability (within- and between-subject standard deviations), and sensitivity to stable individual differences measured by intra-class correlation (ICC). We present metrics of amygdala-MRS reliability for n-acetyl-aspartate, creatine, choline, myo-Inositol, and glutamate+glutamine (Glx). We found that scan quality suffers an age-related difference in field homogeneity and modified our protocol to compensate. We further identified an effect of anatomical inclusion near the endorhinal sulcus, a region of high synaptic density, that contributes up to 29% of within-subject variability across 4 sessions (n=14). Remaining variability in line width but not signal-to-noise also detracts from reliability. Statistical correction for partial inclusion of these strong neurochemical gradients decreases n-acetyl-aspartate reliability from an intraclass correlation of 0.84 to 0.56 for 7-minute acquisitions. This suggests that systematic differences in anatomical inclusion can contribute greatly to apparent neurochemical concentrations and could produce false group differences in experimental studies. Precise, anatomically-based prescriptions that avoid age-related sources of inhomogeneity and use longer scan times may permit study of individual differences in neurochemistry throughout development in this late-maturing structure.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Nacewicz, Brendon M",
+          "Angelos, Lisa",
+          "Dalton, Kim M",
+          "Fischer, Ron",
+          "Anderle, Michael J",
+          "Alexander, Andrew L",
+          "Davidson, Richard J"
+     ],
+     "AU": [
+          "Nacewicz BM",
+          "Angelos L",
+          "Dalton KM",
+          "Fischer R",
+          "Anderle MJ",
+          "Alexander AL",
+          "Davidson RJ"
+     ],
+     "AD": "Waisman Laboratory for Brain Imaging and Behavior, Room T-225 Waisman Center, 1500 Highland Ave, University of Wisconsin-Madison, WI 53705, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50-MH084051PI/MH/NIMH NIH HHS/United States",
+          "P30 HD003352/HD/NICHD NIH HHS/United States",
+          "P50 MH084051-02/MH/NIMH NIH HHS/United States",
+          "F30 MH081467-03/MH/NIMH NIH HHS/United States",
+          "MH082267/MH/NIMH NIH HHS/United States",
+          "P50 MH084051-04/MH/NIMH NIH HHS/United States",
+          "P50 MH084051/MH/NIMH NIH HHS/United States",
+          "R03 MH082267-01/MH/NIMH NIH HHS/United States",
+          "R03 MH082267-02/MH/NIMH NIH HHS/United States",
+          "F30 MH081467-01A1/MH/NIMH NIH HHS/United States",
+          "R03 MH082267/MH/NIMH NIH HHS/United States",
+          "F30 MH081467/MH/NIMH NIH HHS/United States",
+          "P30 HD003352-44/HD/NICHD NIH HHS/United States",
+          "F30 MH081467-02/MH/NIMH NIH HHS/United States",
+          "P30 HD003352-43/HD/NICHD NIH HHS/United States",
+          "P30 HD03352/HD/NICHD NIH HHS/United States",
+          "MH081467/MH/NIMH NIH HHS/United States",
+          "P50 MH084051-03/MH/NIMH NIH HHS/United States",
+          "P30 HD003352-42/HD/NICHD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20110905",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "0 (Protons)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Aging/physiology",
+          "Amygdala/*anatomy & histology/*chemistry/growth & development",
+          "Brain Chemistry/*physiology",
+          "Child",
+          "Entorhinal Cortex/chemistry/metabolism/physiology",
+          "Feasibility Studies",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Spectroscopy",
+          "Male",
+          "Middle Aged",
+          "Neurochemistry/methods",
+          "Protons",
+          "Reproducibility of Results",
+          "Signal-To-Noise Ratio",
+          "Spectrum Analysis",
+          "Young Adult"
+     ],
+     "PMC": "PMC3254833",
+     "MID": [
+          "NIHMS324354"
+     ],
+     "EDAT": "2011/09/20 06:00",
+     "MHDA": "2012/05/18 06:00",
+     "CRDT": [
+          "2011/09/20 06:00"
+     ],
+     "PHST": [
+          "2011/03/04 00:00 [received]",
+          "2011/08/06 00:00 [revised]",
+          "2011/08/29 00:00 [accepted]",
+          "2011/09/20 06:00 [entrez]",
+          "2011/09/20 06:00 [pubmed]",
+          "2012/05/18 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)01022-6 [pii]",
+          "10.1016/j.neuroimage.2011.08.090 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2012 Feb 1;59(3):2548-59. doi: 10.1016/j.neuroimage.2011.08.090. Epub 2011 Sep 5.",
+     "term": "hippocampus"
+}

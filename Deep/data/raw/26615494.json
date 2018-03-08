@@ -1,0 +1,84 @@
+{
+     "PMID": "26615494",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160815",
+     "LR": "20160110",
+     "IS": "1879-2057 (Electronic) 0001-4575 (Linking)",
+     "VI": "87",
+     "DP": "2016 Feb",
+     "TI": "A multivariate spatial crash frequency model for identifying sites with promise based on crash types.",
+     "PG": "8-16",
+     "LID": "10.1016/j.aap.2015.11.006 [doi] S0001-4575(15)30121-4 [pii]",
+     "AB": "Many studies have proposed the use of a systemic approach to identify sites with promise (SWiPs). Proponents of the systemic approach to road safety management suggest that it is more effective in reducing crash frequency than the traditional hot spot approach. The systemic approach aims to identify SWiPs by crash type(s) and, therefore, effectively connects crashes to their corresponding countermeasures. Nevertheless, a major challenge to implementing this approach is the low precision of crash frequency models, which results from the systemic approach considering subsets (crash types) of total crashes leading to higher variability in modeling outcomes. This study responds to the need for more precise statistical output and proposes a multivariate spatial model for simultaneously modeling crash frequencies for different crash types. The multivariate spatial model not only induces a multivariate correlation structure between crash types at the same site, but also spatial correlation among adjacent sites to enhance model precision. This study utilized crash, traffic, and roadway inventory data on rural two-lane highways in Pennsylvania to construct and test the multivariate spatial model. Four models with and without the multivariate and spatial correlations were tested and compared. The results show that the model that considers both multivariate and spatial correlation has the best fit. Moreover, it was found that the multivariate correlation plays a stronger role than the spatial correlation when modeling crash frequencies in terms of different crash types.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Jonathan, Aguero-Valverde",
+          "Wu, Kun-Feng Ken",
+          "Donnell, Eric T"
+     ],
+     "AU": [
+          "Jonathan AV",
+          "Wu KF",
+          "Donnell ET"
+     ],
+     "AD": "Department of Civil Engineering, University of Costa Rica, Costa Rica. Electronic address: jonathan.aguero@ucr.ac.cr. Department of Transportation and Logistics Management, National Chiao Tung University, Taiwan, ROC. Electronic address: kfwu@nctu.edu.tw. Department of Civil and Environmental Engineering, The Pennsylvania State University, United States. Electronic address: edonnell@engr.psu.edu.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20151127",
+     "PL": "England",
+     "TA": "Accid Anal Prev",
+     "JT": "Accident; analysis and prevention",
+     "JID": "1254476",
+     "SB": "IM",
+     "MH": [
+          "Accidents, Traffic/classification/mortality/*statistics & numerical data",
+          "Bayes Theorem",
+          "Cross-Sectional Studies",
+          "*Environment Design",
+          "Humans",
+          "*Models, Statistical",
+          "Multivariate Analysis",
+          "Pennsylvania",
+          "Risk Assessment/statistics & numerical data",
+          "Safety",
+          "*Spatial Navigation",
+          "Statistics as Topic"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Multivariate Poisson-lognormal model",
+          "Sites with promise",
+          "Spatial correlation",
+          "The systemic approach"
+     ],
+     "EDAT": "2015/11/30 06:00",
+     "MHDA": "2016/08/16 06:00",
+     "CRDT": [
+          "2015/11/30 06:00"
+     ],
+     "PHST": [
+          "2015/07/16 00:00 [received]",
+          "2015/10/14 00:00 [revised]",
+          "2015/11/05 00:00 [accepted]",
+          "2015/11/30 06:00 [entrez]",
+          "2015/11/30 06:00 [pubmed]",
+          "2016/08/16 06:00 [medline]"
+     ],
+     "AID": [
+          "S0001-4575(15)30121-4 [pii]",
+          "10.1016/j.aap.2015.11.006 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Accid Anal Prev. 2016 Feb;87:8-16. doi: 10.1016/j.aap.2015.11.006. Epub 2015 Nov 27.",
+     "term": "spatial navigation"
+}

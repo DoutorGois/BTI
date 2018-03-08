@@ -1,0 +1,71 @@
+{
+     "PMID": "25774132",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20150316",
+     "LR": "20170220",
+     "IS": "1663-3563 (Print) 1663-3563 (Linking)",
+     "VI": "7",
+     "DP": "2015",
+     "TI": "Dendritic distributions of I h channels in experimentally-derived multi-compartment models of oriens-lacunosum/moleculare (O-LM) hippocampal interneurons.",
+     "PG": "2",
+     "LID": "10.3389/fnsyn.2015.00002 [doi]",
+     "AB": "The O-LM cell type mediates feedback inhibition onto hippocampal pyramidal cells and gates information flow in the CA1. Its functions depend on the presence of voltage-gated channels (VGCs), which affect its integrative properties and response to synaptic input. Given the challenges associated with determining densities and distributions of VGCs on interneuron dendrites, we take advantage of computational modeling to consider different possibilities. In this work, we focus on hyperpolarization-activated channels (h-channels) in O-LM cells. While h-channels are known to be present in O-LM cells, it is unknown whether they are present on their dendrites. In previous work, we used ensemble modeling techniques with experimental data to obtain insights into potentially important conductance balances. We found that the best O-LM models that included uniformly distributed h-channels in the dendrites could not fully capture the \"sag\" response. This led us to examine activation kinetics and non-uniform distributions of h-channels in the present work. In tuning our models, we found that different kinetics and non-uniform distributions could better reproduce experimental O-LM cell responses. In contrast to CA1 pyramidal cells where higher conductance densities of h-channels occur in more distal dendrites, decreasing conductance densities of h-channels away from the soma were observed in O-LM models. Via an illustrative scenario, we showed that having dendritic h-channels clearly speeds up back-propagating action potentials in O-LM cells, unlike when h-channels are present only in the soma. Although the present results were morphology-dependent, our work shows that it should be possible to determine the distributions and characteristics of O-LM cells with recordings and morphologies from the same cell. We hypothesize that h-channels are distributed in O-LM cell dendrites and endow them with particular synaptic integration properties that shape information flow in hippocampus.",
+     "FAU": [
+          "Sekulic, Vladislav",
+          "Chen, Tse-Chiang",
+          "Lawrence, J Josh",
+          "Skinner, Frances K"
+     ],
+     "AU": [
+          "Sekulic V",
+          "Chen TC",
+          "Lawrence JJ",
+          "Skinner FK"
+     ],
+     "AD": "Department of Fundamental Neurobiology, Toronto Western Research Institute, University Health Network Toronto, ON, Canada ; Department of Physiology, University of Toronto Toronto, ON, Canada. Department of Fundamental Neurobiology, Toronto Western Research Institute, University Health Network Toronto, ON, Canada. Center for Structural and Functional Neuroscience, University of Montana Missoula, MT, USA ; Department of Biomedical and Pharmaceutical Sciences, University of Montana Missoula, MT, USA. Department of Fundamental Neurobiology, Toronto Western Research Institute, University Health Network Toronto, ON, Canada ; Department of Physiology, University of Toronto Toronto, ON, Canada ; Department of Medicine (Neurology), University of Toronto Toronto, ON, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS069689/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150227",
+     "PL": "Switzerland",
+     "TA": "Front Synaptic Neurosci",
+     "JT": "Frontiers in synaptic neuroscience",
+     "JID": "101548972",
+     "PMC": "PMC4343010",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Ih",
+          "dendrites",
+          "h-channels",
+          "hippocampus",
+          "interneurons",
+          "multi-compartment model"
+     ],
+     "EDAT": "2015/03/17 06:00",
+     "MHDA": "2015/03/17 06:01",
+     "CRDT": [
+          "2015/03/17 06:00"
+     ],
+     "PHST": [
+          "2014/08/12 00:00 [received]",
+          "2015/02/02 00:00 [accepted]",
+          "2015/03/17 06:00 [entrez]",
+          "2015/03/17 06:00 [pubmed]",
+          "2015/03/17 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnsyn.2015.00002 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Synaptic Neurosci. 2015 Feb 27;7:2. doi: 10.3389/fnsyn.2015.00002. eCollection 2015.",
+     "term": "hippocampus"
+}

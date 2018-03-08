@@ -1,0 +1,65 @@
+{
+     "PMID": "16686056",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060606",
+     "LR": "20091211",
+     "VI": "8",
+     "IP": "Pt 2",
+     "DP": "2005",
+     "TI": "3-D diffeomorphic shape registration on hippocampal data sets.",
+     "PG": "984-91",
+     "AB": "Matching 3D shapes is important in many medical imaging applications. We show that a joint clustering and diffeomorphism estimation strategy is capable of simultaneously estimating correspondences and a diffeomorphism between unlabeled 3D point-sets. Correspondence is established between the cluster centers and this is coupled with a simultaneous estimation of a 3D diffeomorphism of space. The number of clusters can be estimated by minimizing the Jensen-Shannon divergence on the registered data. We apply our algorithm to both synthetically warped 3D hippocampal shapes as well as real 3D hippocampal shapes from different subjects.",
+     "FAU": [
+          "Guo, Hongyu",
+          "Rangarajan, Anand",
+          "Joshi, Sarang C"
+     ],
+     "AU": [
+          "Guo H",
+          "Rangarajan A",
+          "Joshi SC"
+     ],
+     "AD": "Dept. of CAMS, Texas A&M University-Corpus Christi, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Artificial Intelligence",
+          "Diagnosis, Differential",
+          "Epilepsy, Temporal Lobe/classification/diagnosis",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "EDAT": "2006/05/12 09:00",
+     "MHDA": "2006/06/07 09:00",
+     "CRDT": [
+          "2006/05/12 09:00"
+     ],
+     "PHST": [
+          "2006/05/12 09:00 [pubmed]",
+          "2006/06/07 09:00 [medline]",
+          "2006/05/12 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2005;8(Pt 2):984-91.",
+     "term": "hippocampus"
+}

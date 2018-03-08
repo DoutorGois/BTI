@@ -1,0 +1,72 @@
+{
+     "PMID": "21994494",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20111110",
+     "LR": "20170220",
+     "IS": "1662-5188 (Electronic) 1662-5188 (Linking)",
+     "VI": "5",
+     "DP": "2011",
+     "TI": "Sensory feedback, error correction, and remapping in a multiple oscillator model of place-cell activity.",
+     "PG": "39",
+     "LID": "10.3389/fncom.2011.00039 [doi]",
+     "AB": "Mammals navigate by integrating self-motion signals (\"path integration\") and occasionally fixing on familiar environmental landmarks. The rat hippocampus is a model system of spatial representation in which place cells are thought to integrate both sensory and spatial information from entorhinal cortex. The localized firing fields of hippocampal place cells and entorhinal grid-cells demonstrate a phase relationship with the local theta (6-10 Hz) rhythm that may be a temporal signature of path integration. However, encoding self-motion in the phase of theta oscillations requires high temporal precision and is susceptible to idiothetic noise, neuronal variability, and a changing environment. We present a model based on oscillatory interference theory, previously studied in the context of grid cells, in which transient temporal synchronization among a pool of path-integrating theta oscillators produces hippocampal-like place fields. We hypothesize that a spatiotemporally extended sensory interaction with external cues modulates feedback to the theta oscillators. We implement a form of this cue-driven feedback and show that it can retrieve fixed points in the phase code of position. A single cue can smoothly reset oscillator phases to correct for both systematic errors and continuous noise in path integration. Further, simulations in which local and global cues are rotated against each other reveal a phase-code mechanism in which conflicting cue arrangements can reproduce experimentally observed distributions of \"partial remapping\" responses. This abstract model demonstrates that phase-code feedback can provide stability to the temporal coding of position during navigation and may contribute to the context-dependence of hippocampal spatial representations. While the anatomical substrates of these processes have not been fully characterized, our findings suggest several signatures that can be evaluated in future experiments.",
+     "FAU": [
+          "Monaco, Joseph D",
+          "Knierim, James J",
+          "Zhang, Kechen"
+     ],
+     "AU": [
+          "Monaco JD",
+          "Knierim JJ",
+          "Zhang K"
+     ],
+     "AD": "Krieger Mind/Brain Institute, Johns Hopkins University Baltimore, MD, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P01 NS038310/NS/NINDS NIH HHS/United States",
+          "R01 MH079511/MH/NIMH NIH HHS/United States",
+          "R01 NS039456/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20110929",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC3182374",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "navigation",
+          "oscillations",
+          "path integration",
+          "place cells",
+          "remapping",
+          "temporal coding",
+          "theta rhythm"
+     ],
+     "EDAT": "2011/10/14 06:00",
+     "MHDA": "2011/10/14 06:01",
+     "CRDT": [
+          "2011/10/14 06:00"
+     ],
+     "PHST": [
+          "2011/07/06 00:00 [received]",
+          "2011/09/07 00:00 [accepted]",
+          "2011/10/14 06:00 [entrez]",
+          "2011/10/14 06:00 [pubmed]",
+          "2011/10/14 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2011.00039 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2011 Sep 29;5:39. doi: 10.3389/fncom.2011.00039. eCollection 2011.",
+     "term": "place cells"
+}

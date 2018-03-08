@@ -1,0 +1,73 @@
+{
+     "PMID": "23308241",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130702",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "1",
+     "DP": "2013",
+     "TI": "Phenomenological incorporation of nonlinear dendritic integration using integrate-and-fire neuronal frameworks.",
+     "PG": "e53508",
+     "LID": "10.1371/journal.pone.0053508 [doi]",
+     "AB": "It has been discovered recently in experiments that the dendritic integration of excitatory glutamatergic inputs and inhibitory GABAergic inputs in hippocampus CA1 pyramidal neurons obeys a simple arithmetic rule as V(S)(Exp) approximately V(E)(Exp) + V(I)(Exp) + kV(E)(Exp) V(I)(Exp), where V(S)(Exp), V(E)(Exp) and V(I)(Exp) are the respective voltage values of the summed somatic potential, the excitatory postsynaptic potential (EPSP) and the inhibitory postsynaptic potential measured at the time when the EPSP reaches its peak value. Moreover, the shunting coefficient k in this rule only depends on the spatial location but not the amplitude of the excitatory or inhibitory input on the dendrite. In this work, we address the theoretical issue of how much the above dendritic integration rule can be accounted for using subthreshold membrane potential dynamics in the soma as characterized by the conductance-based integrate-and-fire (I&F) model. Then, we propose a simple I&F neuron model that incorporates the spatial dependence of the shunting coefficient k by a phenomenological parametrization. Our analytical and numerical results show that this dendritic-integration-rule-based I&F (DIF) model is able to capture many experimental observations and it also yields predictions that can be used to verify the validity of the DIF model experimentally. In addition, the DIF model incorporates the dendritic integration effects dynamically and is applicable to more general situations than those in experiments in which excitatory and inhibitory inputs occur simultaneously in time. Finally, we generalize the DIF neuronal model to incorporate multiple inputs and obtain a similar dendritic integration rule that is consistent with the results obtained by using a realistic neuronal model with multiple compartments. This generalized DIF model can potentially be used to study network dynamics that may involve effects arising from dendritic integrations.",
+     "FAU": [
+          "Zhou, Douglas",
+          "Li, Songting",
+          "Zhang, Xiao-hui",
+          "Cai, David"
+     ],
+     "AU": [
+          "Zhou D",
+          "Li S",
+          "Zhang XH",
+          "Cai D"
+     ],
+     "AD": "Department of Mathematics, MOE-LSC, and Institute of Natural Sciences, Shanghai Jiao Tong University, Shanghai, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130107",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "CA1 Region, Hippocampal/cytology/physiology",
+          "Computer Simulation",
+          "Excitatory Postsynaptic Potentials/*physiology",
+          "Humans",
+          "Inhibitory Postsynaptic Potentials/*physiology",
+          "*Models, Neurological",
+          "Neurons/cytology/*physiology",
+          "Pyramidal Cells/cytology/*physiology",
+          "Rats"
+     ],
+     "PMC": "PMC3538611",
+     "EDAT": "2013/01/12 06:00",
+     "MHDA": "2013/07/03 06:00",
+     "CRDT": [
+          "2013/01/12 06:00"
+     ],
+     "PHST": [
+          "2012/09/19 00:00 [received]",
+          "2012/11/30 00:00 [accepted]",
+          "2013/01/12 06:00 [entrez]",
+          "2013/01/12 06:00 [pubmed]",
+          "2013/07/03 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0053508 [doi]",
+          "PONE-D-12-28552 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2013;8(1):e53508. doi: 10.1371/journal.pone.0053508. Epub 2013 Jan 7.",
+     "term": "hippocampus"
+}

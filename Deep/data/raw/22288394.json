@@ -1,0 +1,67 @@
+{
+     "PMID": "22288394",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120726",
+     "LR": "20120402",
+     "IS": "1530-8898 (Electronic) 0898-929X (Linking)",
+     "VI": "24",
+     "IP": "5",
+     "DP": "2012 May",
+     "TI": "How do spatial learning and memory occur in the brain? Coordinated learning of entorhinal grid cells and hippocampal place cells.",
+     "PG": "1031-54",
+     "LID": "10.1162/jocn_a_00200 [doi]",
+     "AB": "Spatial learning and memory are important for navigation and formation of episodic memories. The hippocampus and medial entorhinal cortex (MEC) are key brain areas for spatial learning and memory. Place cells in hippocampus fire whenever an animal is located in a specific region in the environment. Grid cells in the superficial layers of MEC provide inputs to place cells and exhibit remarkable regular hexagonal spatial firing patterns. They also exhibit a gradient of spatial scales along the dorsoventral axis of the MEC, with neighboring cells at a given dorsoventral location having different spatial phases. A neural model shows how a hierarchy of self-organizing maps, each obeying the same laws, responds to realistic rat trajectories by learning grid cells with hexagonal grid firing fields of multiple spatial scales and place cells with unimodal firing fields that fit neurophysiological data about their development in juvenile rats. The hippocampal place fields represent much larger spaces than the grid cells to support navigational behaviors. Both the entorhinal and hippocampal self-organizing maps amplify and learn to categorize the most energetic and frequent co-occurrences of their inputs. Top-down attentional mechanisms from hippocampus to MEC help to dynamically stabilize these spatial memories in both the model and neurophysiological data. Spatial learning through MEC to hippocampus occurs in parallel with temporal learning through lateral entorhinal cortex to hippocampus. These homologous spatial and temporal representations illustrate a kind of \"neural relativity\" that may provide a substrate for episodic learning and memory.",
+     "FAU": [
+          "Pilly, Praveen K",
+          "Grossberg, Stephen"
+     ],
+     "AU": [
+          "Pilly PK",
+          "Grossberg S"
+     ],
+     "AD": "Center for Adaptive Systems, Boston University, 677 Beacon Street, Boston, MA 02215, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20120130",
+     "PL": "United States",
+     "TA": "J Cogn Neurosci",
+     "JT": "Journal of cognitive neuroscience",
+     "JID": "8910747",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cell Communication",
+          "Computer Simulation",
+          "Entorhinal Cortex/*cytology",
+          "Hippocampus/*cytology",
+          "Humans",
+          "Learning/*physiology",
+          "*Models, Neurological",
+          "Neural Pathways/physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "Space Perception/*physiology"
+     ],
+     "EDAT": "2012/02/01 06:00",
+     "MHDA": "2012/07/27 06:00",
+     "CRDT": [
+          "2012/02/01 06:00"
+     ],
+     "PHST": [
+          "2012/02/01 06:00 [entrez]",
+          "2012/02/01 06:00 [pubmed]",
+          "2012/07/27 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1162/jocn_a_00200 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Cogn Neurosci. 2012 May;24(5):1031-54. doi: 10.1162/jocn_a_00200. Epub 2012 Jan 30.",
+     "term": "place cells"
+}

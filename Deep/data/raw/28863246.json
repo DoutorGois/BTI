@@ -1,0 +1,81 @@
+{
+     "PMID": "28863246",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20180302",
+     "IS": "1541-0420 (Electronic) 0006-341X (Linking)",
+     "DP": "2017 Sep 1",
+     "TI": "FLCRM: Functional linear cox regression model.",
+     "LID": "10.1111/biom.12748 [doi]",
+     "AB": "We consider a functional linear Cox regression model for characterizing the association between time-to-event data and a set of functional and scalar predictors. The functional linear Cox regression model incorporates a functional principal component analysis for modeling the functional predictors and a high-dimensional Cox regression model to characterize the joint effects of both functional and scalar predictors on the time-to-event data. We develop an algorithm to calculate the maximum approximate partial likelihood estimates of unknown finite and infinite dimensional parameters. We also systematically investigate the rate of convergence of the maximum approximate partial likelihood estimates and a score test statistic for testing the nullity of the slope function associated with the functional predictors. We demonstrate our estimation and testing procedures by using simulations and the analysis of the Alzheimer's Disease Neuroimaging Initiative (ADNI) data. Our real data analyses show that high-dimensional hippocampus surface data may be an important marker for predicting time to conversion to Alzheimer's disease. Data used in the preparation of this article were obtained from the ADNI database (adni.loni.usc.edu).",
+     "CI": [
+          "(c) 2017, The International Biometric Society."
+     ],
+     "FAU": [
+          "Kong, Dehan",
+          "Ibrahim, Joseph G",
+          "Lee, Eunjee",
+          "Zhu, Hongtu"
+     ],
+     "AU": [
+          "Kong D",
+          "Ibrahim JG",
+          "Lee E",
+          "Zhu H"
+     ],
+     "AD": "Department of Statistical Sciences, University of Toronto, Ontario, Canada. Department of Biostatistics, University of North Carolina at Chapel Hill, North Carolina, U.S.A. Department of Biostatistics, University of Michigan, Michigan, U.S.A. Department of Biostatistics, The University of Texas MD Anderson Cancer Center, Texas, U.S.A.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-6781-2690"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH086633/MH/NIMH NIH HHS/United States",
+          "R21 AG033387/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170901",
+     "PL": "United States",
+     "TA": "Biometrics",
+     "JT": "Biometrics",
+     "JID": "0370625",
+     "PMC": "PMC5832538",
+     "MID": [
+          "NIHMS899510"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Cox regression",
+          "Functional predictor",
+          "Functional principal component analysis",
+          "Score test"
+     ],
+     "EDAT": "2017/09/02 06:00",
+     "MHDA": "2017/09/02 06:00",
+     "CRDT": [
+          "2017/09/02 06:00"
+     ],
+     "PMCR": [
+          "2019/03/01 00:00"
+     ],
+     "PHST": [
+          "2016/08/01 00:00 [received]",
+          "2017/04/01 00:00 [revised]",
+          "2017/06/01 00:00 [accepted]",
+          "2019/03/01 00:00 [pmc-release]",
+          "2017/09/02 06:00 [entrez]",
+          "2017/09/02 06:00 [pubmed]",
+          "2017/09/02 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/biom.12748 [doi]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "Biometrics. 2017 Sep 1. doi: 10.1111/biom.12748.",
+     "term": "hippocampus"
+}

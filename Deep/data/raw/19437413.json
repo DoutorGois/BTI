@@ -1,0 +1,73 @@
+{
+     "PMID": "19437413",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090806",
+     "LR": "20090602",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "19",
+     "IP": "6",
+     "DP": "2009 Jun",
+     "TI": "Appearance and incomplete label matching for diffeomorphic template based hippocampus segmentation.",
+     "PG": "565-71",
+     "LID": "10.1002/hipo.20619 [doi]",
+     "AB": "We present a robust, high-throughput, semiautomated template-based protocol for segmenting the hippocampus in temporal lobe epilepsy. The semiautomated component of this approach, which minimizes user effort while maximizing the benefit of human input to the algorithm, relies on \"incomplete labeling.\" Incomplete labeling requires the user to quickly and approximately segment a few key regions of the hippocampus through a user-interface. Subsequently, this partial labeling of the hippocampus is combined with image similarity terms to guide volumetric diffeomorphic normalization between an individual brain and an unbiased disease-specific template, with fully labeled hippocampi. We solve this many-to-few and few-to-many matching problem, and gain robustness to inter and intrarater variability and small errors in user labeling, by embedding the template-based normalization within a probabilistic framework that examines both label geometry and appearance data at each label. We evaluate the reliability of this framework with respect to manual labeling and show that it increases minimum performance levels relative to fully automated approaches and provides high inter-rater reliability. Thus, this approach does not require expert neuroanatomical training and is viable for high-throughput studies of both the normal and the highly atrophic hippocampus.",
+     "CI": [
+          "2009 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Pluta, John",
+          "Avants, Brian B",
+          "Glynn, Simon",
+          "Awate, Suyash",
+          "Gee, James C",
+          "Detre, John A"
+     ],
+     "AU": [
+          "Pluta J",
+          "Avants BB",
+          "Glynn S",
+          "Awate S",
+          "Gee JC",
+          "Detre JA"
+     ],
+     "AD": "Department of Radiology, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA. jpluta@mail.med.upenn.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Atrophy",
+          "Automatic Data Processing",
+          "Epilepsy, Temporal Lobe/*pathology",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Organ Size",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "2009/05/14 09:00",
+     "MHDA": "2009/08/07 09:00",
+     "CRDT": [
+          "2009/05/14 09:00"
+     ],
+     "PHST": [
+          "2009/05/14 09:00 [entrez]",
+          "2009/05/14 09:00 [pubmed]",
+          "2009/08/07 09:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.20619 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2009 Jun;19(6):565-71. doi: 10.1002/hipo.20619.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,87 @@
+{
+     "PMID": "21484936",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120724",
+     "LR": "20140408",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "22",
+     "IP": "4",
+     "DP": "2012 Apr",
+     "TI": "Phase precession and variable spatial scaling in a periodic attractor map model of medial entorhinal grid cells with realistic after-spike dynamics.",
+     "PG": "772-89",
+     "LID": "10.1002/hipo.20939 [doi]",
+     "AB": "We present a model that describes the generation of the spatial (grid fields) and temporal (phase precession) properties of medial entorhinal cortical (MEC) neurons by combining network and intrinsic cellular properties. The model incorporates network architecture derived from earlier attractor map models, and is implemented in 1D for simplicity. Periodic driving of conjunctive (position x head-direction) layer-III MEC cells at theta frequency with intensity proportional to the rat's speed, moves an 'activity bump' forward in network space at a corresponding speed. The addition of prolonged excitatory currents and simple after-spike dynamics resembling those observed in MEC stellate cells (for which new data are presented) accounts for both phase precession and the change in scale of grid fields along the dorso-ventral axis of MEC. Phase precession in the model depends on both synaptic connectivity and intrinsic currents, each of which drive neural spiking either during entry into, or during exit out of a grid field. Thus, the model predicts that the slope of phase precession changes between entry into and exit out of the field. The model also exhibits independent variation in grid spatial period and grid field size, which suggests possible experimental tests of the model.",
+     "CI": [
+          "Copyright (c) 2011 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Navratilova, Zaneta",
+          "Giocomo, Lisa M",
+          "Fellous, Jean-Marc",
+          "Hasselmo, Michael E",
+          "McNaughton, Bruce L"
+     ],
+     "AU": [
+          "Navratilova Z",
+          "Giocomo LM",
+          "Fellous JM",
+          "Hasselmo ME",
+          "McNaughton BL"
+     ],
+     "AD": "Department of Neuroscience, Canadian Centre for Behavioural Neuroscience, University of Lethbridge, Alberta, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS 20331/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110411",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "RN": [
+          "6384-92-5 (N-Methylaspartate)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Computer Simulation",
+          "Electrophysiological Phenomena",
+          "Entorhinal Cortex/*cytology/*physiology",
+          "Excitatory Postsynaptic Potentials/physiology",
+          "Head Movements/physiology",
+          "Hippocampus/physiology",
+          "*Models, Neurological",
+          "Movement/physiology",
+          "N-Methylaspartate/physiology",
+          "Nerve Net/cytology/physiology",
+          "Rats",
+          "Synaptic Transmission/physiology",
+          "Theta Rhythm/physiology"
+     ],
+     "EDAT": "2011/04/13 06:00",
+     "MHDA": "2012/07/25 06:00",
+     "CRDT": [
+          "2011/04/13 06:00"
+     ],
+     "PHST": [
+          "2010/01/19 00:00 [accepted]",
+          "2011/04/13 06:00 [entrez]",
+          "2011/04/13 06:00 [pubmed]",
+          "2012/07/25 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.20939 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2012 Apr;22(4):772-89. doi: 10.1002/hipo.20939. Epub 2011 Apr 11.",
+     "term": "grid cells"
+}

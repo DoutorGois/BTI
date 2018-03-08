@@ -1,0 +1,85 @@
+{
+     "PMID": "24366144",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140908",
+     "LR": "20170922",
+     "IS": "1471-2970 (Electronic) 0962-8436 (Linking)",
+     "VI": "369",
+     "IP": "1635",
+     "DP": "2014 Feb 5",
+     "TI": "Optimal configurations of spatial scale for grid cell firing under noise and uncertainty.",
+     "PG": "20130290",
+     "LID": "10.1098/rstb.2013.0290 [doi]",
+     "AB": "We examined the accuracy with which the location of an agent moving within an environment could be decoded from the simulated firing of systems of grid cells. Grid cells were modelled with Poisson spiking dynamics and organized into multiple 'modules' of cells, with firing patterns of similar spatial scale within modules and a wide range of spatial scales across modules. The number of grid cells per module, the spatial scaling factor between modules and the size of the environment were varied. Errors in decoded location can take two forms: small errors of precision and larger errors resulting from ambiguity in decoding periodic firing patterns. With enough cells per module (e.g. eight modules of 100 cells each) grid systems are highly robust to ambiguity errors, even over ranges much larger than the largest grid scale (e.g. over a 500 m range when the maximum grid scale is 264 cm). Results did not depend strongly on the precise organization of scales across modules (geometric, co-prime or random). However, independent spatial noise across modules, which would occur if modules receive independent spatial inputs and might increase with spatial uncertainty, dramatically degrades the performance of the grid system. This effect of spatial uncertainty can be mitigated by uniform expansion of grid scales. Thus, in the realistic regimes simulated here, the optimal overall scale for a grid system represents a trade-off between minimizing spatial uncertainty (requiring large scales) and maximizing precision (requiring small scales). Within this view, the temporary expansion of grid scales observed in novel environments may be an optimal response to increased spatial uncertainty induced by the unfamiliarity of the available spatial cues.",
+     "FAU": [
+          "Towse, Benjamin W",
+          "Barry, Caswell",
+          "Bush, Daniel",
+          "Burgess, Neil"
+     ],
+     "AU": [
+          "Towse BW",
+          "Barry C",
+          "Bush D",
+          "Burgess N"
+     ],
+     "AD": "UCL Institute of Behavioural Neuroscience, University College London, , London WC1N 3AR, UK.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "095811/Wellcome Trust/United Kingdom",
+          "101208/Wellcome Trust/United Kingdom",
+          "G1002276/Medical Research Council/United Kingdom",
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20131223",
+     "PL": "England",
+     "TA": "Philos Trans R Soc Lond B Biol Sci",
+     "JT": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+     "JID": "7503623",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Computer Simulation",
+          "Entorhinal Cortex/cytology/*physiology",
+          "*Models, Neurological",
+          "Nerve Net/cytology/*physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "Space Perception/*physiology"
+     ],
+     "PMC": "PMC3866454",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Poisson noise",
+          "grid cell",
+          "spatial navigation",
+          "spatial uncertainty"
+     ],
+     "EDAT": "2013/12/25 06:00",
+     "MHDA": "2014/09/10 06:00",
+     "CRDT": [
+          "2013/12/25 06:00"
+     ],
+     "PHST": [
+          "2013/12/25 06:00 [entrez]",
+          "2013/12/25 06:00 [pubmed]",
+          "2014/09/10 06:00 [medline]"
+     ],
+     "AID": [
+          "rstb.2013.0290 [pii]",
+          "10.1098/rstb.2013.0290 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Philos Trans R Soc Lond B Biol Sci. 2013 Dec 23;369(1635):20130290. doi: 10.1098/rstb.2013.0290. Print 2014 Feb 5.",
+     "term": "grid cells"
+}

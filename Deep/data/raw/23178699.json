@@ -1,0 +1,90 @@
+{
+     "PMID": "23178699",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130613",
+     "LR": "20170220",
+     "IS": "1872-6240 (Electronic) 0006-8993 (Linking)",
+     "VI": "1493",
+     "DP": "2013 Feb 1",
+     "TI": "Why trace and delay conditioning are sometimes (but not always) hippocampal dependent: a computational model.",
+     "PG": "48-67",
+     "LID": "10.1016/j.brainres.2012.11.020 [doi] S0006-8993(12)01814-8 [pii]",
+     "AB": "A recurrent-network model provides a unified account of the hippocampal region in mediating the representation of temporal information in classical eyeblink conditioning. Much empirical research is consistent with a general conclusion that delay conditioning (in which the conditioned stimulus CS and unconditioned stimulus US overlap and co-terminate) is independent of the hippocampal system, while trace conditioning (in which the CS terminates before US onset) depends on the hippocampus. However, recent studies show that, under some circumstances, delay conditioning can be hippocampal-dependent and trace conditioning can be spared following hippocampal lesion. Here, we present an extension of our prior trial-level models of hippocampal function and stimulus representation that can explain these findings within a unified framework. Specifically, the current model includes adaptive recurrent collateral connections that aid in the representation of intra-trial temporal information. With this model, as in our prior models, we argue that the hippocampus is not specialized for conditioned response timing, but rather is a general-purpose system that learns to predict the next state of all stimuli given the current state of variables encoded by activity in recurrent collaterals. As such, the model correctly predicts that hippocampal involvement in classical conditioning should be critical not only when there is an intervening trace interval, but also when there is a long delay between CS onset and US onset. Our model simulates empirical data from many variants of classical conditioning, including delay and trace paradigms in which the length of the CS, the inter-stimulus interval, or the trace interval is varied. Finally, we discuss model limitations, future directions, and several novel empirical predictions of this temporal processing model of hippocampal function and learning.",
+     "CI": [
+          "Published by Elsevier B.V."
+     ],
+     "FAU": [
+          "Moustafa, Ahmed A",
+          "Wufong, Ella",
+          "Servatius, Richard J",
+          "Pang, Kevin C H",
+          "Gluck, Mark A",
+          "Myers, Catherine E"
+     ],
+     "AU": [
+          "Moustafa AA",
+          "Wufong E",
+          "Servatius RJ",
+          "Pang KC",
+          "Gluck MA",
+          "Myers CE"
+     ],
+     "AD": "Department of Veterans Affairs, New Jersey Health Care System, East Orange, NJ, USA. a.moustafa@uws.edu.au",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AA018737/AA/NIAAA NIH HHS/United States",
+          "R01AA018737-01/AA/NIAAA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20121123",
+     "PL": "Netherlands",
+     "TA": "Brain Res",
+     "JT": "Brain research",
+     "JID": "0045503",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Anticipation, Psychological/physiology",
+          "Association Learning/*physiology",
+          "*Computer Simulation",
+          "Conditioning, Classical/*physiology",
+          "Conditioning, Eyelid/physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Memory/physiology",
+          "*Models, Neurological",
+          "Nerve Net/physiology",
+          "Time Factors"
+     ],
+     "PMC": "PMC3873755",
+     "MID": [
+          "NIHMS529405"
+     ],
+     "EDAT": "2012/11/28 06:00",
+     "MHDA": "2013/06/14 06:00",
+     "CRDT": [
+          "2012/11/27 06:00"
+     ],
+     "PHST": [
+          "2012/04/17 00:00 [received]",
+          "2012/11/10 00:00 [revised]",
+          "2012/11/15 00:00 [accepted]",
+          "2012/11/27 06:00 [entrez]",
+          "2012/11/28 06:00 [pubmed]",
+          "2013/06/14 06:00 [medline]"
+     ],
+     "AID": [
+          "S0006-8993(12)01814-8 [pii]",
+          "10.1016/j.brainres.2012.11.020 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Res. 2013 Feb 1;1493:48-67. doi: 10.1016/j.brainres.2012.11.020. Epub 2012 Nov 23.",
+     "term": "hippocampus"
+}

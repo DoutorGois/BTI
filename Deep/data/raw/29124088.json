@@ -1,0 +1,59 @@
+{
+     "PMID": "29124088",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20171219",
+     "IS": "2352-3409 (Print) 2352-3409 (Linking)",
+     "VI": "15",
+     "DP": "2017 Dec",
+     "TI": "Considerations and code for partial volume correcting [(18)F]-AV-1451 tau PET data.",
+     "PG": "648-657",
+     "LID": "10.1016/j.dib.2017.10.024 [doi]",
+     "AB": "[(18)F]-AV-1451 is a leading tracer used with positron emission tomography (PET) to quantify tau pathology. However, [(18)F]-AV-1451 shows \"off target\" or non-specific binding, which we define as binding of the tracer in unexpected areas unlikely to harbor aggregated tau based on autopsy literature [1]. Along with caudate, putamen, pallidum and thalamus non-specific binding [2], [3], we have found binding in the superior portion of the cerebellar gray matter, leading us to use inferior cerebellar gray as the reference region. We also addressed binding in the posterior portion of the choroid plexus. PET signal unlikely to be associated with tau also occurs in skull, meninges and soft tissue (see e.g. [4]). We refer to [(18)F]-AV-1451 binding in the skull and meninges as extra-cortical hotspots (ECH) and find them near lateral and medial orbitofrontal, lateral occipital, inferior and middle temporal, superior and inferior parietal, and inferior cerebellar gray matter. Lastly, the choroid plexus also shows non-specific binding that bleeds into hippocampus. We are providing the code (http://www.runmycode.org/companion/view/2798) used to create different regions of interest (ROIs) that we then used to perform Partial Volume Correction (PVC) using the Rousset geometric transfer matrix method (GTM, [5]). This method was used in the companion article, \"Comparison of multiple tau-PET measures as biomarkers in aging and Alzheimer's Disease\" ([6], DOI 10.1016/j.neuroimage.2017.05.058).",
+     "FAU": [
+          "Baker, Suzanne L",
+          "Maass, Anne",
+          "Jagust, William J"
+     ],
+     "AU": [
+          "Baker SL",
+          "Maass A",
+          "Jagust WJ"
+     ],
+     "AD": "Molecular Biophysics and Integrated Bioimaging, Lawrence Berkeley National Laboratory, Berkeley, CA, United States. Helen Wills Neuroscience Institute, University of California, Berkeley, Berkeley, CA, United States. German Center for Neurodegenerative Diseases, Magdeburg, Germany. Molecular Biophysics and Integrated Bioimaging, Lawrence Berkeley National Laboratory, Berkeley, CA, United States. Helen Wills Neuroscience Institute, University of California, Berkeley, Berkeley, CA, United States.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG034570/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171016",
+     "PL": "Netherlands",
+     "TA": "Data Brief",
+     "JT": "Data in brief",
+     "JID": "101654995",
+     "PMC": "PMC5671473",
+     "EDAT": "2017/11/11 06:00",
+     "MHDA": "2017/11/11 06:01",
+     "CRDT": [
+          "2017/11/11 06:00"
+     ],
+     "PHST": [
+          "2017/06/08 00:00 [received]",
+          "2017/10/11 00:00 [revised]",
+          "2017/10/12 00:00 [accepted]",
+          "2017/11/11 06:00 [entrez]",
+          "2017/11/11 06:00 [pubmed]",
+          "2017/11/11 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1016/j.dib.2017.10.024 [doi]",
+          "S2352-3409(17)30541-3 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Data Brief. 2017 Oct 16;15:648-657. doi: 10.1016/j.dib.2017.10.024. eCollection 2017 Dec.",
+     "term": "hippocampus"
+}

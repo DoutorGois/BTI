@@ -1,0 +1,83 @@
+{
+     "PMID": "26900412",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "1932-6157 (Print) 1932-6157 (Linking)",
+     "VI": "9",
+     "IP": "4",
+     "DP": "2015 Dec",
+     "TI": "BFLCRM: A BAYESIAN FUNCTIONAL LINEAR COX REGRESSION MODEL FOR PREDICTING TIME TO CONVERSION TO ALZHEIMER'S DISEASE.",
+     "PG": "2153-2178",
+     "AB": "The aim of this paper is to develop a Bayesian functional linear Cox regression model (BFLCRM) with both functional and scalar covariates. This new development is motivated by establishing the likelihood of conversion to Alzheimer's disease (AD) in 346 patients with mild cognitive impairment (MCI) enrolled in the Alzheimer's Disease Neuroimaging Initiative 1 (ADNI-1) and the early markers of conversion. These 346 MCI patients were followed over 48 months, with 161 MCI participants progressing to AD at 48 months. The functional linear Cox regression model was used to establish that functional covariates including hippocampus surface morphology and scalar covariates including brain MRI volumes, cognitive performance (ADAS-Cog), and APOE status can accurately predict time to onset of AD. Posterior computation proceeds via an efficient Markov chain Monte Carlo algorithm. A simulation study is performed to evaluate the finite sample performance of BFLCRM.",
+     "FAU": [
+          "Lee, Eunjee",
+          "Zhu, Hongtu",
+          "Kong, Dehan",
+          "Wang, Yalin",
+          "Giovanello, Kelly Sullivan",
+          "Ibrahim, Joseph G"
+     ],
+     "AU": [
+          "Lee E",
+          "Zhu H",
+          "Kong D",
+          "Wang Y",
+          "Giovanello KS",
+          "Ibrahim JG"
+     ],
+     "AD": "Departments of Statistics and Operation Research, Biostatistics, and Psychology and Biomedical Research Imaging Center, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA. Departments of Statistics and Operation Research, Biostatistics, and Psychology and Biomedical Research Imaging Center, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA. Departments of Statistics and Operation Research, Biostatistics, and Psychology and Biomedical Research Imaging Center, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA. School of Computing, Informatics, and Decision Systems Engineering Arizona State University Tempe, AZ 85287-8809 ylwang@asu.edu. Departments of Statistics and Operation Research, Biostatistics, and Psychology and Biomedical Research Imaging Center, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA. Departments of Statistics and Operation Research, Biostatistics, and Psychology and Biomedical Research Imaging Center, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "UL1 TR001111/TR/NCATS NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States",
+          "R01 MH086633/MH/NIMH NIH HHS/United States",
+          "R01 GM070335/GM/NIGMS NIH HHS/United States",
+          "UL1 RR025747/RR/NCRR NIH HHS/United States",
+          "T32 CA106209/CA/NCI NIH HHS/United States",
+          "P01 CA142538/CA/NCI NIH HHS/United States",
+          "R21 AG033387/AG/NIA NIH HHS/United States",
+          "TL1 TR001110/TR/NCATS NIH HHS/United States",
+          "R01 CA074015/CA/NCI NIH HHS/United States",
+          "R01 EB020426/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Ann Appl Stat",
+     "JT": "The annals of applied statistics",
+     "JID": "101479511",
+     "PMC": "PMC4756762",
+     "MID": [
+          "NIHMS728108"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "functional principal component analysis",
+          "hippocampus surface morphology",
+          "mild cognitive impairment",
+          "proportional hazard model"
+     ],
+     "EDAT": "2016/02/24 06:00",
+     "MHDA": "2016/02/24 06:00",
+     "CRDT": [
+          "2016/02/23 06:00"
+     ],
+     "PHST": [
+          "2016/02/23 06:00 [entrez]",
+          "2016/02/24 06:00 [pubmed]",
+          "2016/02/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1214/15-AOAS879 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ann Appl Stat. 2015 Dec;9(4):2153-2178. doi: 10.1214/15-AOAS879.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,76 @@
+{
+     "PMID": "28562624",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170921",
+     "LR": "20170921",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "12",
+     "IP": "5",
+     "DP": "2017",
+     "TI": "Application of a single-flicker online SSVEP BCI for spatial navigation.",
+     "PG": "e0178385",
+     "LID": "10.1371/journal.pone.0178385 [doi]",
+     "AB": "A promising approach for brain-computer interfaces (BCIs) employs the steady-state visual evoked potential (SSVEP) for extracting control information. Main advantages of these SSVEP BCIs are a simple and low-cost setup, little effort to adjust the system parameters to the user and comparatively high information transfer rates (ITR). However, traditional frequency-coded SSVEP BCIs require the user to gaze directly at the selected flicker stimulus, which is liable to cause fatigue or even photic epileptic seizures. The spatially coded SSVEP BCI we present in this article addresses this issue. It uses a single flicker stimulus that appears always in the extrafoveal field of view, yet it allows the user to control four control channels. We demonstrate the embedding of this novel SSVEP stimulation paradigm in the user interface of an online BCI for navigating a 2-dimensional computer game. Offline analysis of the training data reveals an average classification accuracy of 96.9+/-1.64%, corresponding to an information transfer rate of 30.1+/-1.8 bits/min. In online mode, the average classification accuracy reached 87.9+/-11.4%, which resulted in an ITR of 23.8+/-6.75 bits/min. We did not observe a strong relation between a subject's offline and online performance. Analysis of the online performance over time shows that users can reliably control the new BCI paradigm with stable performance over at least 30 minutes of continuous operation.",
+     "FAU": [
+          "Chen, Jingjing",
+          "Zhang, Dan",
+          "Engel, Andreas K",
+          "Gong, Qin",
+          "Maye, Alexander"
+     ],
+     "AU": [
+          "Chen J",
+          "Zhang D",
+          "Engel AK",
+          "Gong Q",
+          "Maye A"
+     ],
+     "AD": "Department of Biomedical Engineering, School of Medicine, Tsinghua University, Beijing, China. Department of Psychology, School of Social Sciences, Tsinghua University, Beijing, China. Department of Neurophysiology and Pathophysiology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. Department of Biomedical Engineering, School of Medicine, Tsinghua University, Beijing, China. Department of Neurophysiology and Pathophysiology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-3660-4186"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170531",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Brain-Computer Interfaces",
+          "Female",
+          "Flicker Fusion",
+          "Humans",
+          "Male",
+          "*Spatial Navigation",
+          "Video Games",
+          "Young Adult"
+     ],
+     "PMC": "PMC5451069",
+     "EDAT": "2017/06/01 06:00",
+     "MHDA": "2017/09/22 06:00",
+     "CRDT": [
+          "2017/06/01 06:00"
+     ],
+     "PHST": [
+          "2017/02/08 00:00 [received]",
+          "2017/05/14 00:00 [accepted]",
+          "2017/06/01 06:00 [entrez]",
+          "2017/06/01 06:00 [pubmed]",
+          "2017/09/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0178385 [doi]",
+          "PONE-D-17-05124 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2017 May 31;12(5):e0178385. doi: 10.1371/journal.pone.0178385. eCollection 2017.",
+     "term": "spatial navigation"
+}

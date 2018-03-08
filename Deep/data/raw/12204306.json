@@ -1,0 +1,68 @@
+{
+     "PMID": "12204306",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20021016",
+     "LR": "20031114",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "118",
+     "IP": "2",
+     "DP": "2002 Aug 30",
+     "TI": "Identification of determinism in noisy neuronal systems.",
+     "PG": "153-61",
+     "AB": "Most neuronal ensembles are nonlinear excitable systems. Thus it is becoming common to apply principles derived from nonlinear dynamics to characterize neuronal systems. One important characterization is whether such systems contain deterministic behavior or are purely stochastic. Unfortunately, many methods used to make this distinction do not perform well when both determinism and high-amplitude noise are present which is often the case in physiological systems. Therefore, we propose two novel techniques for identifying determinism in experimental systems. The first, called short-time expansion analysis, examines the expansion rate of small groups of points in state space. The second, called state point forcing, derives from the technique of chaos control. The system state is forced onto a fixed point, and the subsequent behavior is analyzed. This technique can be used to verify the presence of fixed points (or unstable periodic orbits) and to assess stationarity. If these are present, it implies that the system contains determinism. We demonstrate the use and possible limitations of these two techniques in two systems: the Henon map, a classic example of a chaotic system, and spontaneous epileptiform bursting in the rat hippocampal slice. Identifying the presence of determinism in a physiological system assists in the understanding of the system's dynamics and provides a mechanism for manipulating this behavior.",
+     "CI": [
+          "Copyright 2002 Elsevier Science B.V."
+     ],
+     "FAU": [
+          "Slutzky, Marc W",
+          "Cvitanovic, Predrag",
+          "Mogul, David J"
+     ],
+     "AU": [
+          "Slutzky MW",
+          "Cvitanovic P",
+          "Mogul DJ"
+     ],
+     "AD": "Department of Biomedical Engineering, Northwestern University, 2145 Sheridan Road, Evanston, IL 60208, USA. mslutzky@md.northwestern.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Electrophysiology/*methods/statistics & numerical data",
+          "Hippocampus/*physiology",
+          "Male",
+          "Neurons/*physiology",
+          "Nonlinear Dynamics",
+          "Principal Component Analysis",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Stochastic Processes"
+     ],
+     "EDAT": "2002/09/03 10:00",
+     "MHDA": "2002/10/17 04:00",
+     "CRDT": [
+          "2002/09/03 10:00"
+     ],
+     "PHST": [
+          "2002/09/03 10:00 [pubmed]",
+          "2002/10/17 04:00 [medline]",
+          "2002/09/03 10:00 [entrez]"
+     ],
+     "AID": [
+          "S0165027002000298 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2002 Aug 30;118(2):153-61.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,74 @@
+{
+     "PMID": "19072761",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090608",
+     "LR": "20161025",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "19",
+     "IP": "5",
+     "DP": "2009 May",
+     "TI": "Heading-vector navigation based on head-direction cells and path integration.",
+     "PG": "456-79",
+     "LID": "10.1002/hipo.20532 [doi]",
+     "AB": "Insect navigation is guided by heading vectors that are computed by path integration. Mammalian navigation models, on the other hand, are typically based on map-like place representations provided by hippocampal place cells. Such models compute optimal routes as a continuous series of locations that connect the current location to a goal. We propose a \"heading-vector\" model in which head-direction cells or their derivatives serve both as key elements in constructing the optimal route and as the straight-line guidance during route execution. The model is based on a memory structure termed the \"shortcut matrix,\" which is constructed during the initial exploration of an environment when a set of shortcut vectors between sequential pairs of visited waypoint locations is stored. A mechanism is proposed for calculating and storing these vectors that relies on a hypothesized cell type termed an \"accumulating head-direction cell.\" Following exploration, shortcut vectors connecting all pairs of waypoint locations are computed by vector arithmetic and stored in the shortcut matrix. On re-entry, when local view or place representations query the shortcut matrix with a current waypoint and goal, a shortcut trajectory is retrieved. Since the trajectory direction is in head-direction compass coordinates, navigation is accomplished by tracking the firing of head-direction cells that are tuned to the heading angle. Section 1 of the manuscript describes the properties of accumulating head-direction cells. It then shows how accumulating head-direction cells can store local vectors and perform vector arithmetic to perform path-integration-based homing. Section 2 describes the construction and use of the shortcut matrix for computing direct paths between any pair of locations that have been registered in the shortcut matrix. In the discussion, we analyze the advantages of heading-based navigation over map-based navigation. Finally, we survey behavioral evidence that nonhippocampal, heading-based navigation is used in small mammals and humans.",
+     "CI": [
+          "Copyright 2008 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Kubie, John L",
+          "Fenton, Andre A"
+     ],
+     "AU": [
+          "Kubie JL",
+          "Fenton AA"
+     ],
+     "AD": "Department of Anatomy and Cell Biology, The Robert F. Furchgott Center for Neural and Behavioral Science, S.U.N.Y. Downstate Medical Center, Brooklyn, NY 11203, United States. jkubie@downstate.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R21 NS072891/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cognition/*physiology",
+          "Computer Simulation",
+          "Exploratory Behavior",
+          "Head",
+          "Hippocampus/physiology",
+          "Memory/*physiology",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Orientation",
+          "Rats",
+          "Software",
+          "Space Perception/*physiology",
+          "Spatial Behavior/*physiology"
+     ],
+     "EDAT": "2008/12/17 09:00",
+     "MHDA": "2009/06/09 09:00",
+     "CRDT": [
+          "2008/12/17 09:00"
+     ],
+     "PHST": [
+          "2008/12/17 09:00 [entrez]",
+          "2008/12/17 09:00 [pubmed]",
+          "2009/06/09 09:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.20532 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2009 May;19(5):456-79. doi: 10.1002/hipo.20532.",
+     "term": "place cells"
+}

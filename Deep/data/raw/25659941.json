@@ -1,0 +1,80 @@
+{
+     "PMID": "25659941",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150707",
+     "LR": "20150316",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "65",
+     "DP": "2015 May",
+     "TI": "Computational cognitive models of spatial memory in navigation space: a review.",
+     "PG": "18-43",
+     "LID": "10.1016/j.neunet.2015.01.002 [doi] S0893-6080(15)00004-0 [pii]",
+     "AB": "Spatial memory refers to the part of the memory system that encodes, stores, recognizes and recalls spatial information about the environment and the agent's orientation within it. Such information is required to be able to navigate to goal locations, and is vitally important for any embodied agent, or model thereof, for reaching goals in a spatially extended environment. In this paper, a number of computationally implemented cognitive models of spatial memory are reviewed and compared. Three categories of models are considered: symbolic models, neural network models, and models that are part of a systems-level cognitive architecture. Representative models from each category are described and compared in a number of dimensions along which simulation models can differ (level of modeling, types of representation, structural accuracy, generality and abstraction, environment complexity), including their possible mapping to the underlying neural substrate. Neural mappings are rarely explicated in the context of behaviorally validated models, but they could be useful to cognitive modeling research by providing a new approach for investigating a model's plausibility. Finally, suggested experimental neuroscience methods are described for verifying the biological plausibility of computational cognitive models of spatial memory, and open questions for the field of spatial memory modeling are outlined.",
+     "CI": [
+          "Copyright (c) 2015 The Authors. Published by Elsevier Ltd.. All rights reserved."
+     ],
+     "FAU": [
+          "Madl, Tamas",
+          "Chen, Ke",
+          "Montaldi, Daniela",
+          "Trappl, Robert"
+     ],
+     "AU": [
+          "Madl T",
+          "Chen K",
+          "Montaldi D",
+          "Trappl R"
+     ],
+     "AD": "School of Computer Science, University of Manchester, Manchester M13 9PL, UK; Austrian Research Institute for Artificial Intelligence, Vienna A-1010, Austria. Electronic address: tamas.madl@gmail.com. School of Computer Science, University of Manchester, Manchester M13 9PL, UK. School of Psychological Sciences, University of Manchester, Manchester M13 9PL, UK. Austrian Research Institute for Artificial Intelligence, Vienna A-1010, Austria.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+     ],
+     "DEP": "20150120",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/*physiology",
+          "*Cognition",
+          "Humans",
+          "*Models, Neurological",
+          "*Spatial Memory",
+          "*Spatial Navigation"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Computational cognitive modeling",
+          "Spatial memory models"
+     ],
+     "EDAT": "2015/02/11 06:00",
+     "MHDA": "2015/07/08 06:00",
+     "CRDT": [
+          "2015/02/10 06:00"
+     ],
+     "PHST": [
+          "2014/05/30 00:00 [received]",
+          "2014/12/15 00:00 [revised]",
+          "2015/01/12 00:00 [accepted]",
+          "2015/02/10 06:00 [entrez]",
+          "2015/02/11 06:00 [pubmed]",
+          "2015/07/08 06:00 [medline]"
+     ],
+     "AID": [
+          "S0893-6080(15)00004-0 [pii]",
+          "10.1016/j.neunet.2015.01.002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2015 May;65:18-43. doi: 10.1016/j.neunet.2015.01.002. Epub 2015 Jan 20.",
+     "term": "spatial navigation"
+}

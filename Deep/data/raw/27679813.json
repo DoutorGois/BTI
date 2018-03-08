@@ -1,0 +1,70 @@
+{
+     "PMID": "27679813",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "2373-2822 (Electronic) 2373-2822 (Linking)",
+     "VI": "3",
+     "IP": "4",
+     "DP": "2016 Jul-Aug",
+     "TI": "Using a Semi-Automated Strategy to Develop Multi-Compartment Models That Predict Biophysical Properties of Interneuron-Specific 3 (IS3) Cells in Hippocampus.",
+     "LID": "ENEURO.0087-16.2016 [pii]",
+     "AB": "Determining how intrinsic cellular properties govern and modulate neuronal input-output processing is a critical endeavor for understanding microcircuit functions in the brain. However, lack of cellular specifics and nonlinear interactions prevent experiments alone from achieving this. Building and using cellular models is essential in these efforts. We focus on uncovering the intrinsic properties of mus musculus hippocampal type 3 interneuron-specific (IS3) cells, a cell type that makes GABAergic synapses onto specific interneuron types, but not pyramidal cells. While IS3 cell morphology and synaptic output have been examined, their voltage-gated ion channel profile and distribution remain unknown. We combined whole-cell patch-clamp recordings and two-photon dendritic calcium imaging to examine IS3 cell membrane and dendritic properties. Using these data as a target reference, we developed a semi-automated strategy to obtain multi-compartment models for a cell type with unknown intrinsic properties. Our approach is based on generating populations of models to capture determined features of the experimental data, each of which possesses unique combinations of channel types and conductance values. From these populations, we chose models that most closely resembled the experimental data. We used these models to examine the impact of specific ion channel combinations on spike generation. Our models predict that fast delayed rectifier currents should be present in soma and proximal dendrites, and this is confirmed using immunohistochemistry. Further, without A-type potassium currents in the dendrites, spike generation is facilitated at more distal synaptic input locations. Our models will help to determine the functional role of IS3 cells in hippocampal microcircuits.",
+     "FAU": [
+          "Guet-McCreight, Alexandre",
+          "Camire, Olivier",
+          "Topolnik, Lisa",
+          "Skinner, Frances K"
+     ],
+     "AU": [
+          "Guet-McCreight A",
+          "Camire O",
+          "Topolnik L",
+          "Skinner FK"
+     ],
+     "AD": "Krembil Research Institute, University Health Network, Toronto, Ontario, M5T 2S8, Canada; Department of Physiology, University of Toronto, Toronto, Ontario, M5S 1A8, Canada. Department of Biochemistry, Microbiology and Bio-informatics, Neuroscience Axis, CHU de Quebec Research Center (CHUL), Laval University , Quebec City, Quebec, G1V 0A6, Canada. Department of Biochemistry, Microbiology and Bio-informatics, Neuroscience Axis, CHU de Quebec Research Center (CHUL), Laval University , Quebec City, Quebec, G1V 0A6, Canada. Krembil Research Institute, University Health Network, Toronto, Ontario, M5T 2S8, Canada; Departments of Medicine (Neurology) and Physiology, University of Toronto, Toronto, Ontario, M5S 1A8, Canada.",
+     "AUID": [
+          "ORCID: 0000-0003-4236-5473",
+          "ORCID: 0000-0001-7819-4202"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160919",
+     "PL": "United States",
+     "TA": "eNeuro",
+     "JT": "eNeuro",
+     "JID": "101647362",
+     "PMC": "PMC5035096",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "hippocampus",
+          "interneuron",
+          "modeling"
+     ],
+     "EDAT": "2016/09/30 06:00",
+     "MHDA": "2016/09/30 06:00",
+     "CRDT": [
+          "2016/09/29 06:00"
+     ],
+     "PHST": [
+          "2016/04/13 00:00 [received]",
+          "2016/08/19 00:00 [revised]",
+          "2016/08/22 00:00 [accepted]",
+          "2016/09/29 06:00 [entrez]",
+          "2016/09/30 06:00 [pubmed]",
+          "2016/09/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1523/ENEURO.0087-16.2016 [doi]",
+          "eN-NWR-0087-16 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "eNeuro. 2016 Sep 19;3(4). pii: eN-NWR-0087-16. doi: 10.1523/ENEURO.0087-16.2016. eCollection 2016 Jul-Aug.",
+     "term": "hippocampus"
+}

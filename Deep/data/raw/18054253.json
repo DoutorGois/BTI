@@ -1,0 +1,111 @@
+{
+     "PMID": "18054253",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080325",
+     "LR": "20161122",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "39",
+     "IP": "3",
+     "DP": "2008 Feb 1",
+     "TI": "Alzheimer's disease diagnosis in individual subjects using structural MR images: validation studies.",
+     "PG": "1186-97",
+     "AB": "OBJECTIVE: To develop and validate a tool for Alzheimer's disease (AD) diagnosis in individual subjects using support vector machine (SVM)-based classification of structural MR (sMR) images. BACKGROUND: Libraries of sMR scans of clinically well characterized subjects can be harnessed for the purpose of diagnosing new incoming subjects. METHODS: One hundred ninety patients with probable AD were age- and gender-matched with 190 cognitively normal (CN) subjects. Three different classification models were implemented: Model I uses tissue densities obtained from sMR scans to give STructural Abnormality iNDex (STAND)-score; and Models II and III use tissue densities as well as covariates (demographics and Apolipoprotein E genotype) to give adjusted-STAND (aSTAND)-score. Data from 140 AD and 140 CN were used for training. The SVM parameter optimization and training were done by four-fold cross validation (CV). The remaining independent sample of 50 AD and 50 CN was used to obtain a minimally biased estimate of the generalization error of the algorithm. RESULTS: The CV accuracy of Model II and Model III aSTAND-scores was 88.5% and 89.3%, respectively, and the developed models generalized well on the independent test data sets. Anatomic patterns best differentiating the groups were consistent with the known distribution of neurofibrillary AD pathology. CONCLUSIONS: This paper presents preliminary evidence that application of SVM-based classification of an individual sMR scan relative to a library of scans can provide useful information in individual subjects for diagnosis of AD. Including demographic and genetic information in the classification algorithm slightly improves diagnostic accuracy.",
+     "FAU": [
+          "Vemuri, Prashanthi",
+          "Gunter, Jeffrey L",
+          "Senjem, Matthew L",
+          "Whitwell, Jennifer L",
+          "Kantarci, Kejal",
+          "Knopman, David S",
+          "Boeve, Bradley F",
+          "Petersen, Ronald C",
+          "Jack, Clifford R Jr"
+     ],
+     "AU": [
+          "Vemuri P",
+          "Gunter JL",
+          "Senjem ML",
+          "Whitwell JL",
+          "Kantarci K",
+          "Knopman DS",
+          "Boeve BF",
+          "Petersen RC",
+          "Jack CR Jr"
+     ],
+     "AD": "Department of Radiology, Mayo Clinic 200 1st St SW, Rochester, MN 55905, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 AG16574/AG/NIA NIH HHS/United States",
+          "R01 AG11378/AG/NIA NIH HHS/United States",
+          "P50 AG016574/AG/NIA NIH HHS/United States",
+          "RR24151 K12/RR/NCRR NIH HHS/United States",
+          "U01 AG006786-22/AG/NIA NIH HHS/United States",
+          "KL2 RR024151/RR/NCRR NIH HHS/United States",
+          "R01 AG015866/AG/NIA NIH HHS/United States",
+          "R01 AG011378/AG/NIA NIH HHS/United States",
+          "R01 AG011378-10/AG/NIA NIH HHS/United States",
+          "R01 AG15866/AG/NIA NIH HHS/United States",
+          "P50 AG016574-04S29004/AG/NIA NIH HHS/United States",
+          "U01 AG006786/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20071022",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "0 (Apolipoproteins E)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Alleles",
+          "Alzheimer Disease/classification/*diagnosis/genetics",
+          "Apolipoproteins E/genetics",
+          "Artificial Intelligence",
+          "Cerebral Ventricles/pathology",
+          "Female",
+          "Hippocampus/pathology",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Models, Statistical",
+          "Nonlinear Dynamics",
+          "Reproducibility of Results"
+     ],
+     "PMC": "PMC2390889",
+     "MID": [
+          "NIHMS39245"
+     ],
+     "EDAT": "2007/12/07 09:00",
+     "MHDA": "2008/03/26 09:00",
+     "CRDT": [
+          "2007/12/07 09:00"
+     ],
+     "PHST": [
+          "2007/04/17 00:00 [received]",
+          "2007/08/29 00:00 [revised]",
+          "2007/09/26 00:00 [accepted]",
+          "2007/12/07 09:00 [pubmed]",
+          "2008/03/26 09:00 [medline]",
+          "2007/12/07 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(07)00932-9 [pii]",
+          "10.1016/j.neuroimage.2007.09.073 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2008 Feb 1;39(3):1186-97. doi: 10.1016/j.neuroimage.2007.09.073. Epub 2007 Oct 22.",
+     "term": "hippocampus"
+}

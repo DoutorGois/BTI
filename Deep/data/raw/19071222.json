@@ -1,0 +1,92 @@
+{
+     "PMID": "19071222",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090428",
+     "LR": "20090223",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "45",
+     "IP": "1",
+     "DP": "2009 Mar 1",
+     "TI": "Can voxel based morphometry, manual segmentation and automated segmentation equally detect hippocampal volume differences in acute depression?",
+     "PG": "29-37",
+     "LID": "10.1016/j.neuroimage.2008.11.006 [doi]",
+     "AB": "CONTEXT: According to meta-analyses, depression is associated with a smaller hippocampus. Most magnetic resonance imaging (MRI) studies among middle aged acute depressed patients are based on manual segmentation of the hippocampus. Few studies used automated methods such as voxel-based morphometry (VBM) or automated segmentation that can overcome certain drawbacks of manual segmentation (essentially intra- and inter-rater variability and operator time consumption). OBJECTIVE: The aim of our study was to compare the sensitivity of manual segmentation, automated segmentation and VBM to detect hippocampal structural changes in middle aged acute depressed population. METHOD: Twenty-one middle aged depressed inpatients and 21 matched controls were compared regarding their hippocampal structure using VBM with SPM5, manual segmentation and an automated segmentation algorithm. The VBM-ROI analysis was performed using two different normalization methods: the standard approach implemented in SPM5 and the most recent DARTEL algorithm. RESULTS: Using VBM-DARTEL, when corrected for multiple comparisons, significant volume differences were detected between groups in different regions and more specifically in hippocampus with ROI analyses. Whereas using standard VBM (without DARTEL), ROI analyses did not show bilateral volume between group differences. Significant hippocampal volume reductions between patients and controls were also detected using manual segmentation (-11.6% volume reduction, p<0.05) and automated segmentation (-9.7% volume reduction, p<0.05). VBM-DARTEL and automated segmentation show equal sensitivity in detecting hippocampal differences in depressed patients, while standard VBM was unable to detect hippocampal changes. Both VBM-DARTEL and automated segmentation could be used to perform large scale volumetric studies in humans. The new automated segmentation technique could further explore and detect hippocampal subpart differences that could be very useful for clarifying physiopathology of psychiatric disorders.",
+     "FAU": [
+          "Bergouignan, Loretxu",
+          "Chupin, Marie",
+          "Czechowska, Yvonne",
+          "Kinkingnehun, Serge",
+          "Lemogne, Cedric",
+          "Le Bastard, Guillaume",
+          "Lepage, Martin",
+          "Garnero, Line",
+          "Colliot, Olivier",
+          "Fossati, Philippe"
+     ],
+     "AU": [
+          "Bergouignan L",
+          "Chupin M",
+          "Czechowska Y",
+          "Kinkingnehun S",
+          "Lemogne C",
+          "Le Bastard G",
+          "Lepage M",
+          "Garnero L",
+          "Colliot O",
+          "Fossati P"
+     ],
+     "AD": "CNRS UMR, Emotion Center, Department of Psychiatry, Groupe Hospitalier Pitie-Salpetriere, Paris, France. loretxu@alternatiba.org",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20081121",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Artificial Intelligence",
+          "Depressive Disorder, Major/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Young Adult"
+     ],
+     "EDAT": "2008/12/17 09:00",
+     "MHDA": "2009/04/29 09:00",
+     "CRDT": [
+          "2008/12/17 09:00"
+     ],
+     "PHST": [
+          "2008/05/30 00:00 [received]",
+          "2008/11/05 00:00 [revised]",
+          "2008/11/10 00:00 [accepted]",
+          "2008/12/17 09:00 [entrez]",
+          "2008/12/17 09:00 [pubmed]",
+          "2009/04/29 09:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(08)01214-7 [pii]",
+          "10.1016/j.neuroimage.2008.11.006 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2009 Mar 1;45(1):29-37. doi: 10.1016/j.neuroimage.2008.11.006. Epub 2008 Nov 21.",
+     "term": "hippocampus"
+}

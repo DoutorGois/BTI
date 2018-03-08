@@ -1,0 +1,97 @@
+{
+     "PMID": "27623782",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180205",
+     "LR": "20180205",
+     "IS": "1432-1920 (Electronic) 0028-3940 (Linking)",
+     "VI": "58",
+     "IP": "11",
+     "DP": "2016 Nov",
+     "TI": "Basic MR sequence parameters systematically bias automated brain volume estimation.",
+     "PG": "1153-1160",
+     "AB": "INTRODUCTION: Automated brain MRI morphometry, including hippocampal volumetry for Alzheimer disease, is increasingly recognized as a biomarker. Consequently, a rapidly increasing number of software tools have become available. We tested whether modifications of simple MR protocol parameters typically used in clinical routine systematically bias automated brain MRI segmentation results. METHODS: The study was approved by the local ethical committee and included 20 consecutive patients (13 females, mean age 75.8 +/- 13.8 years) undergoing clinical brain MRI at 1.5 T for workup of cognitive decline. We compared three 3D T1 magnetization prepared rapid gradient echo (MPRAGE) sequences with the following parameter settings: ADNI-2 1.2 mm iso-voxel, no image filtering, LOCAL- 1.0 mm iso-voxel no image filtering, LOCAL+ 1.0 mm iso-voxel with image edge enhancement. Brain segmentation was performed by two different and established analysis tools, FreeSurfer and MorphoBox, using standard parameters. RESULTS: Spatial resolution (1.0 versus 1.2 mm iso-voxel) and modification in contrast resulted in relative estimated volume difference of up to 4.28 % (p < 0.001) in cortical gray matter and 4.16 % (p < 0.01) in hippocampus. Image data filtering resulted in estimated volume difference of up to 5.48 % (p < 0.05) in cortical gray matter. CONCLUSION: A simple change of MR parameters, notably spatial resolution, contrast, and filtering, may systematically bias results of automated brain MRI morphometry of up to 4-5 %. This is in the same range as early disease-related brain volume alterations, for example, in Alzheimer disease. Automated brain segmentation software packages should therefore require strict MR parameter selection or include compensatory algorithms to avoid MR parameter-related bias of brain morphometry results.",
+     "FAU": [
+          "Haller, Sven",
+          "Falkovskiy, Pavel",
+          "Meuli, Reto",
+          "Thiran, Jean-Philippe",
+          "Krueger, Gunnar",
+          "Lovblad, Karl-Olof",
+          "Kober, Tobias",
+          "Roche, Alexis",
+          "Marechal, Benedicte"
+     ],
+     "AU": [
+          "Haller S",
+          "Falkovskiy P",
+          "Meuli R",
+          "Thiran JP",
+          "Krueger G",
+          "Lovblad KO",
+          "Kober T",
+          "Roche A",
+          "Marechal B"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0001-7433-0203"
+     ],
+     "AD": "Faculty of Medicine, University of Geneva, Geneva, Switzerland. sven.haller@me.com. Affidea Centre de Diagnostique Radiologique de Carouge CDRC, Geneva, Switzerland. sven.haller@me.com. Advanced Clinical Imaging Technology, Siemens Healthcare HC CEMEA SUI DI BM PI, Lausanne, Switzerland. Department of Radiology, University Hospital (CHUV), Lausanne, Switzerland. Department of Radiology, University Hospital (CHUV), Lausanne, Switzerland. LTS5, Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland. Siemens Medical Solutions USA, Inc., Boston, MA, USA. Faculty of Medicine, University of Geneva, Geneva, Switzerland. University Hospitals of Geneva, Geneva, Switzerland. Advanced Clinical Imaging Technology, Siemens Healthcare HC CEMEA SUI DI BM PI, Lausanne, Switzerland. LTS5, Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland. Advanced Clinical Imaging Technology, Siemens Healthcare HC CEMEA SUI DI BM PI, Lausanne, Switzerland. Department of Radiology, University Hospital (CHUV), Lausanne, Switzerland. Advanced Clinical Imaging Technology, Siemens Healthcare HC CEMEA SUI DI BM PI, Lausanne, Switzerland. Department of Radiology, University Hospital (CHUV), Lausanne, Switzerland.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160913",
+     "PL": "Germany",
+     "TA": "Neuroradiology",
+     "JT": "Neuroradiology",
+     "JID": "1302751",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "*Algorithms",
+          "*Artifacts",
+          "Brain/*diagnostic imaging/*pathology",
+          "Female",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Organ Size",
+          "Pattern Recognition, Automated/methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "3D T1",
+          "Hippocampus",
+          "MRI",
+          "Volumetry"
+     ],
+     "EDAT": "2016/09/15 06:00",
+     "MHDA": "2018/02/06 06:00",
+     "CRDT": [
+          "2016/09/15 06:00"
+     ],
+     "PHST": [
+          "2016/03/21 00:00 [received]",
+          "2016/08/08 00:00 [accepted]",
+          "2016/09/15 06:00 [pubmed]",
+          "2018/02/06 06:00 [medline]",
+          "2016/09/15 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s00234-016-1737-3 [doi]",
+          "10.1007/s00234-016-1737-3 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroradiology. 2016 Nov;58(11):1153-1160. doi: 10.1007/s00234-016-1737-3. Epub 2016 Sep 13.",
+     "term": "hippocampus"
+}

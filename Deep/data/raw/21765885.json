@@ -1,0 +1,93 @@
+{
+     "PMID": "21765885",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "1932-6157 (Print) 1932-6157 (Linking)",
+     "VI": "5",
+     "IP": "2B",
+     "DP": "2011 Jun 1",
+     "TI": "TWO-STAGE EMPIRICAL LIKELIHOOD FOR LONGITUDINAL NEUROIMAGING DATA.",
+     "PG": "1132-1158",
+     "AB": "Longitudinal imaging studies are essential to understanding the neural development of neuropsychiatric disorders, substance use disorders, and the normal brain. The main objective of this paper is to develop a two-stage adjusted exponentially tilted empirical likelihood (TAETEL) for the spatial analysis of neuroimaging data from longitudinal studies. The TAETEL method allows us to efficiently analyze longitudinal data without correctly modeling temporal correlation and to classify different time-dependent covariate types. To account for spatial dependence, the TAETEL method developed here specifically combines all the data in the neighborhood of each voxel (or pixel) on a 3 dimensional (3D) volume (or 2D surface) with appropriate weights to calculate adaptive parameter estimates and adaptive test statistics. Simulation studies are used to examine the finite sample performance of the adjusted exponential tilted likelihood ratio statistic and TAETEL. We demonstrate the application of our statistical methods to the detection of the difference in the morphological changes of the hippocampus across time between schizophrenia patients and healthy subjects in a longitudinal schizophrenia study.",
+     "FAU": [
+          "Shi, Xiaoyan",
+          "Ibrahim, Joseph G",
+          "Lieberman, Jeffrey",
+          "Styner, Martin",
+          "Zhu, Hongtu"
+     ],
+     "AU": [
+          "Shi X",
+          "Ibrahim JG",
+          "Lieberman J",
+          "Styner M",
+          "Zhu H"
+     ],
+     "AD": "University of North Carolina at Chapel Hill.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 CA074015-11A1/CA/NCI NIH HHS/United States",
+          "R21 AG033387-02/AG/NIA NIH HHS/United States",
+          "R01 CA074015-04A1/CA/NCI NIH HHS/United States",
+          "R01 CA074015-09/CA/NCI NIH HHS/United States",
+          "R01 CA074015-06/CA/NCI NIH HHS/United States",
+          "R41 NS059095-02/NS/NINDS NIH HHS/United States",
+          "T32 CA106209-04/CA/NCI NIH HHS/United States",
+          "R01 CA074015-05/CA/NCI NIH HHS/United States",
+          "R42 NS059095/NS/NINDS NIH HHS/United States",
+          "R01 CA074015-03/CA/NCI NIH HHS/United States",
+          "R01 MH086633-02/MH/NIMH NIH HHS/United States",
+          "R01 MH091645-01A1/MH/NIMH NIH HHS/United States",
+          "R41 NS059095/NS/NINDS NIH HHS/United States",
+          "R42 NS059095-04/NS/NINDS NIH HHS/United States",
+          "R01 MH086633-03/MH/NIMH NIH HHS/United States",
+          "R01 MH091645-02/MH/NIMH NIH HHS/United States",
+          "R21 AG033387-01A1/AG/NIA NIH HHS/United States",
+          "T32 CA106209-05/CA/NCI NIH HHS/United States",
+          "R42 NS059095-03/NS/NINDS NIH HHS/United States",
+          "R01 MH086633/MH/NIMH NIH HHS/United States",
+          "R01 CA074015-10/CA/NCI NIH HHS/United States",
+          "T32 CA106209-01/CA/NCI NIH HHS/United States",
+          "R01 MH086633-01A1/MH/NIMH NIH HHS/United States",
+          "R01 CA074015-12/CA/NCI NIH HHS/United States",
+          "R01 MH091645/MH/NIMH NIH HHS/United States",
+          "T32 CA106209/CA/NCI NIH HHS/United States",
+          "R01 CA074015-08A2/CA/NCI NIH HHS/United States",
+          "T32 CA106209-03/CA/NCI NIH HHS/United States",
+          "T32 CA106209-02/CA/NCI NIH HHS/United States",
+          "R21 AG033387/AG/NIA NIH HHS/United States",
+          "R01 CA074015-07/CA/NCI NIH HHS/United States",
+          "R01 CA074015/CA/NCI NIH HHS/United States",
+          "R41 NS059095-01/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Ann Appl Stat",
+     "JT": "The annals of applied statistics",
+     "JID": "101479511",
+     "PMC": "PMC3136220",
+     "MID": [
+          "NIHMS300875"
+     ],
+     "EDAT": "2011/07/19 06:00",
+     "MHDA": "2011/07/19 06:00",
+     "CRDT": [
+          "2011/07/19 06:00"
+     ],
+     "PHST": [
+          "2011/07/19 06:00 [entrez]",
+          "2011/07/19 06:00 [pubmed]",
+          "2011/07/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1214/11-AOAS480 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ann Appl Stat. 2011 Jun 1;5(2B):1132-1158. doi: 10.1214/11-AOAS480.",
+     "term": "hippocampus"
+}

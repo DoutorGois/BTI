@@ -1,0 +1,76 @@
+{
+     "PMID": "26819595",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161021",
+     "LR": "20161230",
+     "IS": "1687-5273 (Electronic)",
+     "VI": "2016",
+     "DP": "2016",
+     "TI": "A Fuzzy Integral Ensemble Method in Visual P300 Brain-Computer Interface.",
+     "PG": "9845980",
+     "LID": "10.1155/2016/9845980 [doi]",
+     "AB": "We evaluate the possibility of application of combination of classifiers using fuzzy measures and integrals to Brain-Computer Interface (BCI) based on electroencephalography. In particular, we present an ensemble method that can be applied to a variety of systems and evaluate it in the context of a visual P300-based BCI. Offline analysis of data relative to 5 subjects lets us argue that the proposed classification strategy is suitable for BCI. Indeed, the achieved performance is significantly greater than the average of the base classifiers and, broadly speaking, similar to that of the best one. Thus the proposed methodology allows realizing systems that can be used by different subjects without the need for a preliminary configuration phase in which the best classifier for each user has to be identified. Moreover, the ensemble is often capable of detecting uncertain situations and turning them from misclassifications into abstentions, thereby improving the level of safety in BCI for environmental or device control.",
+     "FAU": [
+          "Cavrini, Francesco",
+          "Bianchi, Luigi",
+          "Quitadamo, Lucia Rita",
+          "Saggio, Giovanni"
+     ],
+     "AU": [
+          "Cavrini F",
+          "Bianchi L",
+          "Quitadamo LR",
+          "Saggio G"
+     ],
+     "AD": "Department of Computer, Control and Management Engineering, University of Rome \"La Sapienza\", 00185 Rome, Italy. Department of Civil Engineering and Computer Science Engineering, University of Rome \"Tor Vergata\", 00133 Rome, Italy. Department of Electronic Engineering, University of Rome \"Tor Vergata\", 00133 Rome, Italy. Department of Electronic Engineering, University of Rome \"Tor Vergata\", 00133 Rome, Italy.",
+     "AUID": [
+          "ORCID: 0000-0001-8724-9092"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20151224",
+     "PL": "United States",
+     "TA": "Comput Intell Neurosci",
+     "JT": "Computational intelligence and neuroscience",
+     "JID": "101279357",
+     "SB": "IM",
+     "MH": [
+          "Biomechanical Phenomena",
+          "Brain/*physiology",
+          "*Brain-Computer Interfaces",
+          "Computer Simulation",
+          "Electroencephalography",
+          "Event-Related Potentials, P300/*physiology",
+          "*Fuzzy Logic",
+          "Humans",
+          "*Models, Biological",
+          "Photic Stimulation",
+          "Robotics",
+          "Spatial Navigation/*physiology"
+     ],
+     "PMC": "PMC4706894",
+     "EDAT": "2016/01/29 06:00",
+     "MHDA": "2016/10/22 06:00",
+     "CRDT": [
+          "2016/01/29 06:00"
+     ],
+     "PHST": [
+          "2015/05/07 00:00 [received]",
+          "2015/08/27 00:00 [revised]",
+          "2015/08/30 00:00 [accepted]",
+          "2016/01/29 06:00 [entrez]",
+          "2016/01/29 06:00 [pubmed]",
+          "2016/10/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2016/9845980 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Intell Neurosci. 2016;2016:9845980. doi: 10.1155/2016/9845980. Epub 2015 Dec 24.",
+     "term": "spatial navigation"
+}

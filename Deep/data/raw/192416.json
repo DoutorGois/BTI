@@ -1,0 +1,63 @@
+{
+     "PMID": "192416",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19770611",
+     "LR": "20031114",
+     "IS": "0006-8993 (Print) 0006-8993 (Linking)",
+     "VI": "125",
+     "IP": "1",
+     "DP": "1977 Apr 8",
+     "TI": "Temporal patterns, their distribution and redundancy in trains of spontaneous neuronal spike intervals of the feline hippocampus studied with a non-parametric technique.",
+     "PG": "65-89",
+     "AB": "A modification of the non-parametric technique for the analysis of temporal patterns in long trains of single neuronal spike intervals has been described and tested empiracally. The technique is based on inequality testing of sequential pairs of intervals. If the second interval in a pair is longer or shorter than or equal to the first interval, a(+), a(-), and a (0) is recorded respectively in sequential bins of the computer memory. Subsequently, the long sequences of signs are arranged into transition frequency matrices which are then converted into transition probability matrices of various complexity. In this manner, the sign permutations composed of 4, 5, 6, etc. signs were studied. First of all, the theoretical distribution of various sign permutations was derived, assuming that the arrangement of intervals that generate the signs is totally independent. The theoretical distribution of signs permutations in tetragrams, pentagrams and hexagrams constitute the 'controls' with which the empirical data can be compared. In this manner, using the chi-square test, the total deviation of a studied neuronal output from an independent state can be quantified. The empirical data showed a consistent deviation from the theoretical distribution of sign permutations during REM sleep, as compared to slow wave sleep which was characterized by an almost perfect theoretical distribution of sign permutations. This indicates that slow wave sleep is associated with relaxation of constraints that are responsible for the emergence of specific patterns. In addition, redundancies in the occurrence of sign permutations, and the linear relationships between them, have been defined and tested empirically. The apparent discrepancies between the redundancies, based on theoretical symmetry in sign distribution and the linear redundancy that fits the empirical data, have been defined and discussed.",
+     "FAU": [
+          "Brudno, S",
+          "Marczynski, T J"
+     ],
+     "AU": [
+          "Brudno S",
+          "Marczynski TJ"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "Brain Res",
+     "JT": "Brain research",
+     "JID": "0045503",
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials",
+          "Animals",
+          "Cats",
+          "Computers, Analog",
+          "Female",
+          "Hippocampus/cytology/*physiology",
+          "Male",
+          "*Models, Neurological",
+          "Neurons/physiology",
+          "Sleep, REM/physiology",
+          "Time Factors",
+          "Wakefulness/*physiology"
+     ],
+     "EDAT": "1977/04/08 00:00",
+     "MHDA": "1977/04/08 00:01",
+     "CRDT": [
+          "1977/04/08 00:00"
+     ],
+     "PHST": [
+          "1977/04/08 00:00 [pubmed]",
+          "1977/04/08 00:01 [medline]",
+          "1977/04/08 00:00 [entrez]"
+     ],
+     "AID": [
+          "0006-8993(77)90360-2 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Res. 1977 Apr 8;125(1):65-89.",
+     "term": "hippocampus"
+}

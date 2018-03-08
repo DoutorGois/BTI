@@ -1,0 +1,84 @@
+{
+     "PMID": "25788686",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150615",
+     "LR": "20150319",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "35",
+     "IP": "11",
+     "DP": "2015 Mar 18",
+     "TI": "Analogous synaptic plasticity profiles emerge from disparate channel combinations.",
+     "PG": "4691-705",
+     "LID": "10.1523/JNEUROSCI.4223-14.2015 [doi]",
+     "AB": "An open question within the Bienenstock-Cooper-Munro theory for synaptic modification concerns the specific mechanism that is responsible for regulating the sliding modification threshold (SMT). In this conductance-based modeling study on hippocampal pyramidal neurons, we quantitatively assessed the impact of seven ion channels (R- and T-type calcium, fast sodium, delayed rectifier, A-type, and small-conductance calcium-activated (SK) potassium and HCN) and two receptors (AMPAR and NMDAR) on a calcium-dependent Bienenstock-Cooper-Munro-like plasticity rule. Our analysis with R- and T-type calcium channels revealed that differences in their activation-inactivation profiles resulted in differential impacts on how they altered the SMT. Further, we found that the impact of SK channels on the SMT critically depended on the voltage dependence and kinetics of the calcium sources with which they interacted. Next, we considered interactions among all the seven channels and the two receptors through global sensitivity analysis on 11 model parameters. We constructed 20,000 models through uniform randomization of these parameters and found 360 valid models based on experimental constraints on their plasticity profiles. Analyzing these 360 models, we found that similar plasticity profiles could emerge with several nonunique parametric combinations and that parameters exhibited weak pairwise correlations. Finally, we used seven sets of virtual knock-outs on these 360 models and found that the impact of different channels on the SMT was variable and differential. These results suggest that there are several nonunique routes to regulate the SMT, and call for a systematic analysis of the variability and state dependence of the mechanisms underlying metaplasticity during behavior and pathology.",
+     "CI": [
+          "Copyright (c) 2015 the authors 0270-6474/15/354691-15$15.00/0."
+     ],
+     "FAU": [
+          "Anirudhan, Arun",
+          "Narayanan, Rishikesh"
+     ],
+     "AU": [
+          "Anirudhan A",
+          "Narayanan R"
+     ],
+     "AD": "Cellular Neurophysiology Laboratory, Molecular Biophysics Unit, Indian Institute of Science, Bangalore 560 012, India, School of Biotechnology, National Institute of Technology, Calicut 637 601, India, and Bio-Medical Technology Wing, Sree Chitra Thirunal Institute for Medical Science & Technology, Trivandrum 695 012, India. Cellular Neurophysiology Laboratory, Molecular Biophysics Unit, Indian Institute of Science, Bangalore 560 012, India, rishi@mbu.iisc.ernet.in.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-1362-4635"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "RN": [
+          "0 (Calcium Channels)",
+          "0 (Ion Channels)",
+          "0 (Potassium Channels)",
+          "0 (Sodium Channels)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Calcium Channels/physiology",
+          "Ion Channels/*physiology",
+          "*Models, Biological",
+          "Neuronal Plasticity/*physiology",
+          "Potassium Channels/physiology",
+          "Sodium Channels/physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "BCM plasticity rule",
+          "hippocampus",
+          "homeostasis",
+          "ion channels",
+          "metaplasticity",
+          "synaptic plasticity"
+     ],
+     "EDAT": "2015/03/20 06:00",
+     "MHDA": "2015/06/16 06:00",
+     "CRDT": [
+          "2015/03/20 06:00"
+     ],
+     "PHST": [
+          "2015/03/20 06:00 [entrez]",
+          "2015/03/20 06:00 [pubmed]",
+          "2015/06/16 06:00 [medline]"
+     ],
+     "AID": [
+          "35/11/4691 [pii]",
+          "10.1523/JNEUROSCI.4223-14.2015 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2015 Mar 18;35(11):4691-705. doi: 10.1523/JNEUROSCI.4223-14.2015.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,88 @@
+{
+     "PMID": "25110321",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170209",
+     "LR": "20170209",
+     "IS": "1872-8324 (Electronic) 0303-2647 (Linking)",
+     "VI": "126",
+     "DP": "2014 Dec",
+     "TI": "Input coding for neuro-electronic hybrid systems.",
+     "PG": "1-11",
+     "LID": "10.1016/j.biosystems.2014.08.002 [doi] S0303-2647(14)00108-7 [pii]",
+     "AB": "Liquid State Machines have been proposed as a framework to explore the computational properties of neuro-electronic hybrid systems (Maass et al., 2002). Here the neuronal culture implements a recurrent network and is followed by an array of linear discriminants implemented using perceptrons in electronics/software. Thus in this framework, it is desired that the outputs of the neuronal network, corresponding to different inputs, be linearly separable. Previous studies have demonstrated this by either using only a small set of input stimulus patterns to the culture (Hafizovic et al., 2007), large number of input electrodes (Dockendorf et al., 2009) or by using complex schemes to post-process the outputs of the neuronal culture prior to linear discriminance (Ortman et al., 2011). In this study we explore ways to temporally encode inputs into stimulus patterns using a small set of electrodes such that the neuronal culture's output can be directly decoded by simple linear discriminants based on perceptrons. We demonstrate that network can detect the timing and order of firing of inputs on multiple electrodes. Based on this, we demonstrate that the neuronal culture can be used as a kernel to transform inputs which are not linearly separable in a low dimensional space, into outputs in a high dimension where they are linearly separable. Thus simple linear discriminants can now be directly connected to outputs of the neuronal culture and allow for implementation of any function for such a hybrid system.",
+     "CI": [
+          "Copyright (c) 2014. Published by Elsevier Ireland Ltd."
+     ],
+     "FAU": [
+          "George, Jude Baby",
+          "Abraham, Grace Mathew",
+          "Singh, Katyayani",
+          "Ankolekar, Shreya M",
+          "Amrutur, Bharadwaj",
+          "Sikdar, Sujit Kumar"
+     ],
+     "AU": [
+          "George JB",
+          "Abraham GM",
+          "Singh K",
+          "Ankolekar SM",
+          "Amrutur B",
+          "Sikdar SK"
+     ],
+     "AD": "Center for Nanoscience and Engineering, IISC Bangalore, India. Electronic address: jude@cense.iisc.ernet.in. Center for Nanoscience and Engineering, IISC Bangalore, India. Electronic address: gracema@cense.iisc.ernet.in. Center for Nanoscience and Engineering, IISC Bangalore, India. Electronic address: katyayani.singh@cense.iisc.ernet.in. Molecular Biophysics Unit, IISC Bangalore, India. Department of Electrical Communications Engineering, IISC Bangalore, India. Electronic address: amrutur@ece.iisc.ernet.in. Molecular Biophysics Unit, IISC Bangalore, India. Electronic address: sks@mbu.ernet.in.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140807",
+     "PL": "Ireland",
+     "TA": "Biosystems",
+     "JT": "Bio Systems",
+     "JID": "0430773",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Animals, Newborn",
+          "Cells, Cultured",
+          "Electronics/instrumentation/*methods",
+          "Hippocampus/cytology/physiology",
+          "*Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Rats",
+          "Rats, Wistar",
+          "Time Factors"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Cultured neural networks",
+          "LSM",
+          "Neuro-electronic hybrid systems",
+          "Temporal encoding"
+     ],
+     "EDAT": "2014/08/12 06:00",
+     "MHDA": "2017/02/10 06:00",
+     "CRDT": [
+          "2014/08/12 06:00"
+     ],
+     "PHST": [
+          "2014/04/02 00:00 [received]",
+          "2014/07/31 00:00 [revised]",
+          "2014/08/05 00:00 [accepted]",
+          "2014/08/12 06:00 [entrez]",
+          "2014/08/12 06:00 [pubmed]",
+          "2017/02/10 06:00 [medline]"
+     ],
+     "AID": [
+          "S0303-2647(14)00108-7 [pii]",
+          "10.1016/j.biosystems.2014.08.002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biosystems. 2014 Dec;126:1-11. doi: 10.1016/j.biosystems.2014.08.002. Epub 2014 Aug 7.",
+     "term": "hippocampus"
+}

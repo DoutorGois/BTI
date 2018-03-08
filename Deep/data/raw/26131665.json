@@ -1,0 +1,68 @@
+{
+     "PMID": "26131665",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20150831",
+     "LR": "20170220",
+     "IS": "1424-8220 (Electronic) 1424-8220 (Linking)",
+     "VI": "15",
+     "IP": "7",
+     "DP": "2015 Jun 26",
+     "TI": "A Novel Two-Tier Cooperative Caching Mechanism for the Optimization of Multi-Attribute Periodic Queries in Wireless Sensor Networks.",
+     "PG": "15033-66",
+     "LID": "10.3390/s150715033 [doi]",
+     "AB": "Wireless sensor networks, serving as an important interface between physical environments and computational systems, have been used extensively for supporting domain applications, where multiple-attribute sensory data are queried from the network continuously and periodically. Usually, certain sensory data may not vary significantly within a certain time duration for certain applications. In this setting, sensory data gathered at a certain time slot can be used for answering concurrent queries and may be reused for answering the forthcoming queries when the variation of these data is within a certain threshold. To address this challenge, a popularity-based cooperative caching mechanism is proposed in this article, where the popularity of sensory data is calculated according to the queries issued in recent time slots. This popularity reflects the possibility that sensory data are interested in the forthcoming queries. Generally, sensory data with the highest popularity are cached at the sink node, while sensory data that may not be interested in the forthcoming queries are cached in the head nodes of divided grid cells. Leveraging these cooperatively cached sensory data, queries are answered through composing these two-tier cached data. Experimental evaluation shows that this approach can reduce the network communication cost significantly and increase the network capability.",
+     "FAU": [
+          "Zhou, ZhangBing",
+          "Zhao, Deng",
+          "Shu, Lei",
+          "Tsang, Kim-Fung"
+     ],
+     "AU": [
+          "Zhou Z",
+          "Zhao D",
+          "Shu L",
+          "Tsang KF"
+     ],
+     "AD": "School of Information Engineering, China University of Geosciences (Beijing), Beijing 100083, China. zhangbing.zhou@gmail.com. Computer Science Department, TELECOM SudParis, Evry 91011, France. zhangbing.zhou@gmail.com. School of Information Engineering, China University of Geosciences (Beijing), Beijing 100083, China. zhaodpx@163.com. Guangdong Provincial Key Lab. of Petrochemical Equipment Fault Diagnosis, Guangdong University of Petrochemical Technology, Maoming 525000, China. lei.shu@ieee.org. Department of Electronic Engineering, City University of Hong Kong, Hong Kong, China. ee330015@cityu.edu.hk.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150626",
+     "PL": "Switzerland",
+     "TA": "Sensors (Basel)",
+     "JT": "Sensors (Basel, Switzerland)",
+     "JID": "101204366",
+     "PMC": "PMC4541820",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "cooperative caching",
+          "periodic query optimization",
+          "wireless sensor networks"
+     ],
+     "EDAT": "2015/07/02 06:00",
+     "MHDA": "2015/07/02 06:01",
+     "CRDT": [
+          "2015/07/02 06:00"
+     ],
+     "PHST": [
+          "2015/05/10 00:00 [received]",
+          "2015/06/15 00:00 [revised]",
+          "2015/06/17 00:00 [accepted]",
+          "2015/07/02 06:00 [entrez]",
+          "2015/07/02 06:00 [pubmed]",
+          "2015/07/02 06:01 [medline]"
+     ],
+     "AID": [
+          "s150715033 [pii]",
+          "10.3390/s150715033 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Sensors (Basel). 2015 Jun 26;15(7):15033-66. doi: 10.3390/s150715033.",
+     "term": "grid cells"
+}

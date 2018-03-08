@@ -1,0 +1,84 @@
+{
+     "PMID": "22003750",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111115",
+     "LR": "20170220",
+     "VI": "14",
+     "IP": "Pt 3",
+     "DP": "2011",
+     "TI": "3D segmentation of rodent brain structures using hierarchical shape priors and deformable models.",
+     "PG": "611-8",
+     "AB": "In this paper, we propose a method to segment multiple rodent brain structures simultaneously. This method combines deformable models and hierarchical shape priors within one framework. The deformation module employs both gradient and appearance information to generate image forces to deform the shape. The shape prior module uses Principal Component Analysis to hierarchically model the multiple structures at both global and local levels. At the global level, the statistics of relative positions among different structures are modeled. At the local level, the shape statistics within each structure is learned from training samples. Our segmentation method adaptively employs both priors to constrain the intermediate deformation result. This prior constraint improves the robustness of the model and benefits the segmentation accuracy. Another merit of our prior module is that the size of the training data can be small, because the shape prior module models each structure individually and combines them using global statistics. This scheme can preserve shape details better than directly applying PCA on all structures. We use this method to segment rodent brain structures, such as the cerebellum, the left and right striatum, and the left and right hippocampus. The experiments show that our method works effectively and this hierarchical prior improves the segmentation performance.",
+     "FAU": [
+          "Zhang, Shaoting",
+          "Huang, Junzhou",
+          "Uzunbas, Mustafa",
+          "Shen, Tian",
+          "Delis, Foteini",
+          "Huang, Xiaolei",
+          "Volkow, Nora",
+          "Thanos, Panayotis",
+          "Metaxas, Dimitris N"
+     ],
+     "AU": [
+          "Zhang S",
+          "Huang J",
+          "Uzunbas M",
+          "Shen T",
+          "Delis F",
+          "Huang X",
+          "Volkow N",
+          "Thanos P",
+          "Metaxas DN"
+     ],
+     "AD": "CBIM, Rutgers, The State University of New Jersey, Piscataway, NJ, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "ZIA AA000551-07/Intramural NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Brain/pathology",
+          "Cerebellum/pathology",
+          "Corpus Striatum/pathology",
+          "Hippocampus/pathology",
+          "Image Interpretation, Computer-Assisted/methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Models, Statistical",
+          "Pattern Recognition, Automated/methods",
+          "Principal Component Analysis",
+          "Rats",
+          "Rats, Sprague-Dawley"
+     ],
+     "PMC": "PMC4827427",
+     "MID": [
+          "NIHMS763409"
+     ],
+     "EDAT": "2011/10/19 06:00",
+     "MHDA": "2011/11/16 06:00",
+     "CRDT": [
+          "2011/10/19 06:00"
+     ],
+     "PHST": [
+          "2011/10/19 06:00 [entrez]",
+          "2011/10/19 06:00 [pubmed]",
+          "2011/11/16 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2011;14(Pt 3):611-8.",
+     "term": "hippocampus"
+}

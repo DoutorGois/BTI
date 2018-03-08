@@ -1,0 +1,71 @@
+{
+     "PMID": "27347681",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170724",
+     "LR": "20170724",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "11",
+     "IP": "6",
+     "DP": "2016",
+     "TI": "Exploring the Structure of Spatial Representations.",
+     "PG": "e0157343",
+     "LID": "10.1371/journal.pone.0157343 [doi]",
+     "AB": "It has been suggested that the map-like representations that support human spatial memory are fragmented into sub-maps with local reference frames, rather than being unitary and global. However, the principles underlying the structure of these 'cognitive maps' are not well understood. We propose that the structure of the representations of navigation space arises from clustering within individual psychological spaces, i.e. from a process that groups together objects that are close in these spaces. Building on the ideas of representational geometry and similarity-based representations in cognitive science, we formulate methods for learning dissimilarity functions (metrics) characterizing participants' psychological spaces. We show that these learned metrics, together with a probabilistic model of clustering based on the Bayesian cognition paradigm, allow prediction of participants' cognitive map structures in advance. Apart from insights into spatial representation learning in human cognition, these methods could facilitate novel computational tools capable of using human-like spatial concepts. We also compare several features influencing spatial memory structure, including spatial distance, visual similarity and functional similarity, and report strong correlations between these dimensions and the grouping probability in participants' spatial representations, providing further support for clustering in spatial memory.",
+     "FAU": [
+          "Madl, Tamas",
+          "Franklin, Stan",
+          "Chen, Ke",
+          "Trappl, Robert",
+          "Montaldi, Daniela"
+     ],
+     "AU": [
+          "Madl T",
+          "Franklin S",
+          "Chen K",
+          "Trappl R",
+          "Montaldi D"
+     ],
+     "AD": "School of Computer Science, University of Manchester, Manchester, United Kingdom. Austrian Research Institute for Artificial Intelligence, Vienna, Austria. Institute for Intelligent Systems, University of Memphis, Memphis, United States of America. School of Computer Science, University of Manchester, Manchester, United Kingdom. Austrian Research Institute for Artificial Intelligence, Vienna, Austria. School of Psychological Sciences, University of Manchester, Manchester, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160627",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Bayes Theorem",
+          "Brain/physiology",
+          "Cognition",
+          "Humans",
+          "*Models, Neurological",
+          "Spatial Navigation",
+          "*Spatial Processing"
+     ],
+     "PMC": "PMC4922593",
+     "EDAT": "2016/06/28 06:00",
+     "MHDA": "2017/07/25 06:00",
+     "CRDT": [
+          "2016/06/28 06:00"
+     ],
+     "PHST": [
+          "2016/01/11 00:00 [received]",
+          "2016/05/29 00:00 [accepted]",
+          "2016/06/28 06:00 [entrez]",
+          "2016/06/28 06:00 [pubmed]",
+          "2017/07/25 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0157343 [doi]",
+          "PONE-D-16-01180 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2016 Jun 27;11(6):e0157343. doi: 10.1371/journal.pone.0157343. eCollection 2016.",
+     "term": "spatial navigation"
+}

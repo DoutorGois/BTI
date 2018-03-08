@@ -1,0 +1,71 @@
+{
+     "PMID": "19481201",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090911",
+     "LR": "20090630",
+     "IS": "1873-7838 (Electronic) 0010-0277 (Linking)",
+     "VI": "112",
+     "IP": "2",
+     "DP": "2009 Aug",
+     "TI": "A putative role for neurogenesis in neuro-computational terms: inferences from a hippocampal model.",
+     "PG": "229-40",
+     "LID": "10.1016/j.cognition.2009.05.001 [doi]",
+     "AB": "New neurons are generated daily in the hippocampus during adult life. They are integrated into the existing neuronal circuits according to several factors such as age, physical exercise and hormonal status. At present, the role of these new neurons is debated. Computational simulations of hippocampal function allow the effects of neurogenesis to be explored, at least from a computational perspective. The present work implements a model of neurogenesis in the hippocampus with artificial neural networks, based on a standard theoretical model of biologically plausible hippocampal circuits. The performance of the model in retrieval of a variable number of patterns or memories was evaluated (episodic memory evaluation). The model increased, in a phase subsequent to initial learning, the number of granular cells by 30% relative to their initial number. In contrast to a model without neurogenesis, the retrieval of recent memories was very significantly improved, although remote memories were only slightly affected by neurogenesis. This increase in the quality of retrieval of new memories represents a clear advantage that we attribute to the neurogenesis process. This advantage becomes more significant for higher storage loads. The model presented here suggests an important functional role of neurogenesis on learning and memory.",
+     "FAU": [
+          "Weisz, Victoria I",
+          "Argibay, Pablo F"
+     ],
+     "AU": [
+          "Weisz VI",
+          "Argibay PF"
+     ],
+     "AD": "Department of Theoretical Biology, Instituto de Ciencias Basicas y Medicina Experimental, Hospital Italiano de Buenos Aires, Potosi 4240 8(o) P, C1199ACL Buenos Aires, Argentina.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090528",
+     "PL": "Netherlands",
+     "TA": "Cognition",
+     "JT": "Cognition",
+     "JID": "0367541",
+     "SB": "IM",
+     "MH": [
+          "Cell Proliferation",
+          "Computer Simulation",
+          "Dentate Gyrus/cytology/growth & development/physiology",
+          "Entorhinal Cortex/cytology/growth & development/physiology",
+          "Hippocampus/cytology/*growth & development/physiology",
+          "Humans",
+          "Learning",
+          "Memory/physiology",
+          "Mental Recall/physiology",
+          "Models, Neurological",
+          "Neural Networks (Computer)",
+          "Neurons/*physiology"
+     ],
+     "EDAT": "2009/06/02 09:00",
+     "MHDA": "2009/09/12 06:00",
+     "CRDT": [
+          "2009/06/02 09:00"
+     ],
+     "PHST": [
+          "2007/08/12 00:00 [received]",
+          "2009/05/05 00:00 [revised]",
+          "2009/05/05 00:00 [accepted]",
+          "2009/06/02 09:00 [entrez]",
+          "2009/06/02 09:00 [pubmed]",
+          "2009/09/12 06:00 [medline]"
+     ],
+     "AID": [
+          "S0010-0277(09)00106-1 [pii]",
+          "10.1016/j.cognition.2009.05.001 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cognition. 2009 Aug;112(2):229-40. doi: 10.1016/j.cognition.2009.05.001. Epub 2009 May 28.",
+     "term": "hippocampus"
+}

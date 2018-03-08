@@ -1,0 +1,89 @@
+{
+     "PMID": "22227138",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120703",
+     "LR": "20151119",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "60",
+     "IP": "1",
+     "DP": "2012 Mar",
+     "TI": "Quantification of serotonin transporter availability with [11C]MADAM--a comparison between the ECAT HRRT and HR systems.",
+     "PG": "800-7",
+     "LID": "10.1016/j.neuroimage.2011.12.047 [doi]",
+     "AB": "UNLABELLED: The High Resolution Research Tomograph (HRRT) is the PET system providing the highest resolution for imaging of the human brain. In this study, the improved quantitative performance of the HRRT was evaluated in comparison with a previously developed lower resolution PET system, the ECAT HR. The radioligand [(11)C]MADAM was chosen for the purpose since it provides a signal for serotonin transporter (5-HTT) binding in cortical and sub-cortical brain regions of different sizes and expressing different 5-HTT densities. A secondary objective was to assess the effect of partial volume effect (PVE) correction on the cross-comparability between the two systems. METHOD: Six male control subjects (ages 20-35 yr) were examined twice using the HRRT and the HR system, respectively. Regions of interest (ROIs) included cortical regions (frontal cortex, temporal cortex, insula, anterior cingulate cortex, and hippocampus), sub-cortical regions (caudate, putamen, thalamus, dorsal brainstem and ventral midbrain) and cerebellum. The ROIs were manually delineated on T1-weighted MRI-images and subsequently applied to both HRRT and HR images. Regional binding potential (BP(ND)) values were calculated with the simplified reference tissue model (SRTM) using cerebellum as the reference region. The percent difference in BP(ND) between the systems was calculated for each ROI. In addition, both HRRT and HR data were corrected for PVE using established MRI-based methods described by Meltzer and Muller-Gartner. The effect of PVE correction (PVEc) on the agreement between the systems was assessed via percent difference calculation and linear regression analysis. RESULTS: Quantification with SRTM showed that regional BP(ND) values for [(11)C]MADAM were on average 23% higher for the HRRT than those obtained by the HR system. More specifically, BP(ND) measured with HRRT was 31.1+/-48.1% higher in neocortical/limbic regions and 14.6+/-20.9% higher in sub-cortical regions. The effect of PVEc varied between regions. After correction according to Muller-Gartner, the agreement between systems was best in the neocortical/limbic regions (3.7+/-22.5%). With the exception of the caudate, in which the agreement was improved by approximately 17% using the Meltzer method, the effect of PVEc in sub-cortical regions was less pronounced. Linear regression analysis showed improved correlation between the two systems after PVEc, particularly in the neocortical/limbic regions. CONCLUSION: As expected, BP(ND) values measured with the HRRT were higher than those measured with the HR due to higher resolution and recovery. The difference in BP(ND) between the two systems was approximately 30% in the neocortical/limbic regions. PVEc improved the agreement between the systems in particular for the neocortical/limbic regions. In these regions, the best agreement was found after applying Muller-Gartner's PVEc. The demonstrated agreement provides an opportunity for combining data between the two systems in clinical studies aimed at evaluating receptor/transporter availability in cortical brain regions.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Schain, Martin",
+          "Toth, Miklos",
+          "Cselenyi, Zsolt",
+          "Stenkrona, Per",
+          "Halldin, Christer",
+          "Farde, Lars",
+          "Varrone, Andrea"
+     ],
+     "AU": [
+          "Schain M",
+          "Toth M",
+          "Cselenyi Z",
+          "Stenkrona P",
+          "Halldin C",
+          "Farde L",
+          "Varrone A"
+     ],
+     "AD": "Karolinska Institutet, Department of Clinical Neuroscience, Centre for Psychiatry Research, Stockholm, Sweden. martin.schain@ki.se",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20111228",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "0 (Benzylamines)",
+          "0 (Carbon Radioisotopes)",
+          "0 (N,N-dimethyl-2-(2-amino-4-methylphenylthio)benzylamine)",
+          "0 (Serotonin Plasma Membrane Transport Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Benzylamines",
+          "Brain/*metabolism",
+          "*Carbon Radioisotopes",
+          "Humans",
+          "Male",
+          "Neuroimaging/*methods",
+          "Positron-Emission Tomography/*methods",
+          "Serotonin Plasma Membrane Transport Proteins/*metabolism",
+          "Young Adult"
+     ],
+     "EDAT": "2012/01/10 06:00",
+     "MHDA": "2012/07/04 06:00",
+     "CRDT": [
+          "2012/01/10 06:00"
+     ],
+     "PHST": [
+          "2011/07/01 00:00 [received]",
+          "2011/12/13 00:00 [revised]",
+          "2011/12/18 00:00 [accepted]",
+          "2012/01/10 06:00 [entrez]",
+          "2012/01/10 06:00 [pubmed]",
+          "2012/07/04 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)01449-2 [pii]",
+          "10.1016/j.neuroimage.2011.12.047 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2012 Mar;60(1):800-7. doi: 10.1016/j.neuroimage.2011.12.047. Epub 2011 Dec 28.",
+     "term": "hippocampus"
+}

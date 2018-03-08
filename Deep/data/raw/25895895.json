@@ -1,0 +1,76 @@
+{
+     "PMID": "25895895",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160204",
+     "LR": "20170220",
+     "IS": "1432-1351 (Electronic) 0340-7594 (Linking)",
+     "VI": "201",
+     "IP": "6",
+     "DP": "2015 Jun",
+     "TI": "How variation in head pitch could affect image matching algorithms for ant navigation.",
+     "PG": "585-97",
+     "LID": "10.1007/s00359-015-1005-8 [doi]",
+     "AB": "Desert ants are a model system for animal navigation, using visual memory to follow long routes across both sparse and cluttered environments. Most accounts of this behaviour assume retinotopic image matching, e.g. recovering heading direction by finding a minimum in the image difference function as the viewpoint rotates. But most models neglect the potential image distortion that could result from unstable head motion. We report that for ants running across a short section of natural substrate, the head pitch varies substantially: by over 20 degrees with no load; and 60 degrees when carrying a large food item. There is no evidence of head stabilisation. Using a realistic simulation of the ant's visual world, we demonstrate that this range of head pitch significantly degrades image matching. The effect of pitch variation can be ameliorated by a memory bank of densely sampled along a route so that an image sufficiently similar in pitch and location is available for comparison. However, with large pitch disturbance, inappropriate memories sampled at distant locations are often recalled and navigation along a route can be adversely affected. Ignoring images obtained at extreme pitches, or averaging images over several pitches, does not significantly improve performance.",
+     "FAU": [
+          "Ardin, Paul",
+          "Mangan, Michael",
+          "Wystrach, Antoine",
+          "Webb, Barbara"
+     ],
+     "AU": [
+          "Ardin P",
+          "Mangan M",
+          "Wystrach A",
+          "Webb B"
+     ],
+     "AD": "School of Informatics, University of Edinburgh, 10 Crichton St, Edinburgh, EH8 9AB, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150421",
+     "PL": "Germany",
+     "TA": "J Comp Physiol A Neuroethol Sens Neural Behav Physiol",
+     "JT": "Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology",
+     "JID": "101141792",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Ants/*physiology",
+          "Computer Simulation",
+          "Desert Climate",
+          "Head Movements/*physiology",
+          "Homing Behavior/*physiology",
+          "Memory/physiology",
+          "Models, Biological",
+          "Orientation/*physiology",
+          "Spain",
+          "*Spatial Navigation",
+          "User-Computer Interface",
+          "Visual Perception"
+     ],
+     "PMC": "PMC4439443",
+     "EDAT": "2015/04/22 06:00",
+     "MHDA": "2016/02/05 06:00",
+     "CRDT": [
+          "2015/04/22 06:00"
+     ],
+     "PHST": [
+          "2014/10/28 00:00 [received]",
+          "2015/03/21 00:00 [accepted]",
+          "2015/03/19 00:00 [revised]",
+          "2015/04/22 06:00 [entrez]",
+          "2015/04/22 06:00 [pubmed]",
+          "2016/02/05 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s00359-015-1005-8 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comp Physiol A Neuroethol Sens Neural Behav Physiol. 2015 Jun;201(6):585-97. doi: 10.1007/s00359-015-1005-8. Epub 2015 Apr 21.",
+     "term": "spatial navigation"
+}

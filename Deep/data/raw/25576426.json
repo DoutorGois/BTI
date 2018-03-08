@@ -1,0 +1,92 @@
+{
+     "PMID": "25576426",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151106",
+     "LR": "20150216",
+     "IS": "1361-8423 (Electronic) 1361-8415 (Linking)",
+     "VI": "21",
+     "IP": "1",
+     "DP": "2015 Apr",
+     "TI": "Bridging the gap in connectomic studies: A particle filtering framework for estimating structural connectivity at network scale.",
+     "PG": "1-14",
+     "LID": "10.1016/j.media.2014.11.011 [doi] S1361-8415(14)00182-0 [pii]",
+     "AB": "The ultimate goal of neuroscience is understanding the brain at a functional level. This requires the investigation of the structural connectivity at multiple scales: from the single-neuron micro-connectomics to the brain-region macro-connectomics. In this work, we address the study of connectomics at the intermediate mesoscale, introducing a probabilistic approach capable of reconstructing complex topologies of large neuronal networks. Suitable directional features are designed to model the local neuritic architecture and a feature-based particle filtering framework is proposed which allows the spatial tracking of neurites on microscopy images. The experimental results on cultures of increasing complexity, grown on High-Density Micro Electrode Arrays, show good stability and performance as compared to ground truth annotations drawn by domain experts. We also show how the method can be used to dissect the structural connectivity of inhibitory and excitatory subnetworks opening new perspectives towards the investigation of functional interactions among multiple cellular populations.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Ullo, Simona",
+          "Murino, Vittorio",
+          "Maccione, Alessandro",
+          "Berdondini, Luca",
+          "Sona, Diego"
+     ],
+     "AU": [
+          "Ullo S",
+          "Murino V",
+          "Maccione A",
+          "Berdondini L",
+          "Sona D"
+     ],
+     "AD": "Pattern Analysis and Computer Vision (PAVIS), Istituto Italiano di Tecnologia, Via Morego 30, 16163 Genoa, Italy. Electronic address: simona.ullo@iit.it. Pattern Analysis and Computer Vision (PAVIS), Istituto Italiano di Tecnologia, Via Morego 30, 16163 Genoa, Italy. Neuroscience and Brain Technologies (NBT), Istituto Italiano di Tecnologia, Via Morego 30, 16163 Genoa, Italy. Neuroscience and Brain Technologies (NBT), Istituto Italiano di Tecnologia, Via Morego 30, 16163 Genoa, Italy. Pattern Analysis and Computer Vision (PAVIS), Istituto Italiano di Tecnologia, Via Morego 30, 16163 Genoa, Italy.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20141224",
+     "PL": "Netherlands",
+     "TA": "Med Image Anal",
+     "JT": "Medical image analysis",
+     "JID": "9713490",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Cells, Cultured",
+          "Computer Simulation",
+          "Connectome/*methods",
+          "Data Interpretation, Statistical",
+          "Electroencephalography/methods",
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "*Models, Statistical",
+          "Nerve Net/*physiology",
+          "Neural Pathways/physiology",
+          "Rats",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Connectomics",
+          "Micro Electrode Arrays",
+          "Neuronal networks",
+          "Particle filtering",
+          "Structural connectivity"
+     ],
+     "EDAT": "2015/01/13 06:00",
+     "MHDA": "2015/11/07 06:00",
+     "CRDT": [
+          "2015/01/11 06:00"
+     ],
+     "PHST": [
+          "2014/01/17 00:00 [received]",
+          "2014/11/24 00:00 [revised]",
+          "2014/11/26 00:00 [accepted]",
+          "2015/01/11 06:00 [entrez]",
+          "2015/01/13 06:00 [pubmed]",
+          "2015/11/07 06:00 [medline]"
+     ],
+     "AID": [
+          "S1361-8415(14)00182-0 [pii]",
+          "10.1016/j.media.2014.11.011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Anal. 2015 Apr;21(1):1-14. doi: 10.1016/j.media.2014.11.011. Epub 2014 Dec 24.",
+     "term": "hippocampus"
+}

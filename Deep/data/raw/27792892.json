@@ -1,0 +1,69 @@
+{
+     "PMID": "27792892",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20170906",
+     "IS": "1878-0067 (Electronic) 1878-0067 (Linking)",
+     "VI": "17",
+     "DP": "2016 Dec",
+     "TI": "Preserving privacy whilst maintaining robust epidemiological predictions.",
+     "PG": "35-41",
+     "LID": "S1755-4365(16)30034-2 [pii] 10.1016/j.epidem.2016.10.004 [doi]",
+     "AB": "Mathematical models are invaluable tools for quantifying potential epidemics and devising optimal control strategies in case of an outbreak. State-of-the-art models increasingly require detailed individual farm-based and sensitive data, which may not be available due to either lack of capacity for data collection or privacy concerns. However, in many situations, aggregated data are available for use. In this study, we systematically investigate the accuracy of predictions made by mathematical models initialised with varying data aggregations, using the UK 2001 Foot-and-Mouth Disease Epidemic as a case study. We consider the scenario when the only data available are aggregated into spatial grid cells, and develop a metapopulation model where individual farms in a single subpopulation are assumed to behave uniformly and transmit randomly. We also adapt this standard metapopulation model to capture heterogeneity in farm size and composition, using farm census data. Our results show that homogeneous models based on aggregated data overestimate final epidemic size but can perform well for predicting spatial spread. Recognising heterogeneity in farm sizes improves predictions of the final epidemic size, identifying risk areas, determining the likelihood of epidemic take-off and identifying the optimal control strategy. In conclusion, in cases where individual farm-based data are not available, models can still generate meaningful predictions, although care must be taken in their interpretation and use.",
+     "CI": [
+          "Copyright (c) 2016. Published by Elsevier B.V."
+     ],
+     "FAU": [
+          "Werkman, Marleen",
+          "Tildesley, Michael J",
+          "Brooks-Pollock, Ellen",
+          "Keeling, Matt J"
+     ],
+     "AU": [
+          "Werkman M",
+          "Tildesley MJ",
+          "Brooks-Pollock E",
+          "Keeling MJ"
+     ],
+     "AD": "WIDER Centre, Mathematics Institute and School of Life Sciences, University of Warwick, Gibbet Hill Road, Coventry CV4 7AL, UK; Current address: Department of Infectious Disease Epidemiology, School of Public Health, Faculty of Medicine, St Marys Campus, Imperial College London, London, UK. Electronic address: m.werkman@imperial.ac.uk. WIDER Centre, Mathematics Institute and School of Life Sciences, University of Warwick, Gibbet Hill Road, Coventry CV4 7AL, UK; Fogarty International Center, US National Institute of Health, Bethesda, MD 20892, USA. School of Social and Community Medicine, University of Bristol, Oakfield Grove, Clifton BS8 2BN, UK. WIDER Centre, Mathematics Institute and School of Life Sciences, University of Warwick, Gibbet Hill Road, Coventry CV4 7AL, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20161013",
+     "PL": "Netherlands",
+     "TA": "Epidemics",
+     "JT": "Epidemics",
+     "JID": "101484711",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Metapopulation",
+          "Simulations",
+          "Spatial aggregation",
+          "Stochastic model"
+     ],
+     "EDAT": "2016/10/30 06:00",
+     "MHDA": "2016/10/30 06:00",
+     "CRDT": [
+          "2016/10/30 06:00"
+     ],
+     "PHST": [
+          "2016/03/09 00:00 [received]",
+          "2016/10/10 00:00 [revised]",
+          "2016/10/12 00:00 [accepted]",
+          "2016/10/30 06:00 [pubmed]",
+          "2016/10/30 06:00 [medline]",
+          "2016/10/30 06:00 [entrez]"
+     ],
+     "AID": [
+          "S1755-4365(16)30034-2 [pii]",
+          "10.1016/j.epidem.2016.10.004 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Epidemics. 2016 Dec;17:35-41. doi: 10.1016/j.epidem.2016.10.004. Epub 2016 Oct 13.",
+     "term": "grid cells"
+}

@@ -1,0 +1,58 @@
+{
+     "PMID": "2308384",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19900409",
+     "LR": "20061115",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "31",
+     "IP": "1",
+     "DP": "1990 Jan",
+     "TI": "A statistical test for demonstrating a presynaptic site of action for a modulator of synaptic amplitude.",
+     "PG": "75-88",
+     "AB": "A statistical technique for demonstrating a presynaptic site of action for a modulator of synaptic amplitude was developed and tested. It requires that multiple measurements of peak synaptic amplitude be made under control and test conditions. The ratio of the coefficients of variation (CV) obtained under test and control conditions is calculated. A method was developed for determining the confidence interval for the CV ratio (CVR) statistic based on the null hypothesis that the synaptic modulation is purely postsynaptic. If the measured CVR falls outside the confidence interval, this implies that the modulator of synaptic amplitude is, at least in part, acting at a presynaptic site. The effectiveness of the technique and its limitations were investigated using Monte Carlo simulations. It was found to be sensitive and reliable under a variety of realistic recording conditions. The test was effective even in the presence of simulated presynaptic rundown of the synaptic response. Conventional deconvolution analysis was also applied to the Monte Carlo simulations and was found to be an inadequate indicator of the site of synaptic modulation when the discrete amplitude components were not well resolved. The CVR technique was applied to excitatory postsynaptic currents (epsc) recorded between pairs of cultured hippocampal neurones in control and test media containing 1 mM Ca2+ and 2 mM Ca2+, respectively. Test conditions increased the average synaptic amplitude, and the statistical analysis indicated that this modulation was produced by an action at a presynaptic site.",
+     "FAU": [
+          "Clements, J D"
+     ],
+     "AU": [
+          "Clements JD"
+     ],
+     "AD": "Vollum Institute, Oregon Health Sciences University, Portland.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cells, Cultured",
+          "Electric Stimulation",
+          "Electrophysiology/*methods",
+          "Hippocampus/cytology/*physiology",
+          "Mice",
+          "Synapses/*physiology"
+     ],
+     "EDAT": "1990/01/01 00:00",
+     "MHDA": "1990/01/01 00:01",
+     "CRDT": [
+          "1990/01/01 00:00"
+     ],
+     "PHST": [
+          "1990/01/01 00:00 [pubmed]",
+          "1990/01/01 00:01 [medline]",
+          "1990/01/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "0165-0270(90)90012-5 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 1990 Jan;31(1):75-88.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,77 @@
+{
+     "PMID": "22256020",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120808",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2011",
+     "DP": "2011",
+     "TI": "A hardware-based computational platform for Generalized Laguerre-Volterra MIMO model for neural activities.",
+     "PG": "7282-5",
+     "LID": "10.1109/IEMBS.2011.6091698 [doi]",
+     "AB": "A parallelized and pipelined architecture based on FPGA and a higher-level Self Reconfiguration Platform are proposed in this paper to model Generalized Laguerre-Volterra MIMO system essential in identifying the time-varying neural dynamics underlying spike activities. Our proposed design is based on the Xilinx Virtex-6 FPGA platform and the processing core can produce data samples at a speed of 1.33 x 10(6)/s, which is 3.1 x 10(3) times faster than the corresponding C model running on an Intel i7-860 Quad Core Processor. The ongoing work of the construction of the advanced Self Reconfiguration Platform is presented and initial test results are provided.",
+     "FAU": [
+          "Li, Will X Y",
+          "Chan, Rosa H M",
+          "Zhang, Wei",
+          "Cheung, Ray C C",
+          "Song, Dong",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Li WX",
+          "Chan RH",
+          "Zhang W",
+          "Cheung RC",
+          "Song D",
+          "Berger TW"
+     ],
+     "AD": "Department of Electronic Engineering, City University of Hong Kong, Hong Kong SAR, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Biomimetics",
+          "Computers",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Models, Neurological",
+          "Models, Statistical",
+          "Models, Theoretical",
+          "Neurons/metabolism",
+          "Probability",
+          "Programming Languages",
+          "Reproducibility of Results",
+          "*Signal Processing, Computer-Assisted",
+          "Software",
+          "Synaptic Transmission"
+     ],
+     "EDAT": "2012/01/19 06:00",
+     "MHDA": "2012/08/09 06:00",
+     "CRDT": [
+          "2012/01/19 06:00"
+     ],
+     "PHST": [
+          "2012/01/19 06:00 [entrez]",
+          "2012/01/19 06:00 [pubmed]",
+          "2012/08/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2011.6091698 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2011;2011:7282-5. doi: 10.1109/IEMBS.2011.6091698.",
+     "term": "hippocampus"
+}

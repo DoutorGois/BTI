@@ -1,0 +1,81 @@
+{
+     "PMID": "26737346",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160912",
+     "LR": "20161025",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2015",
+     "DP": "2015",
+     "TI": "A million-plus neuron model of the hippocampal dentate gyrus: Dependency of spatio-temporal network dynamics on topography.",
+     "PG": "4713-6",
+     "LID": "10.1109/EMBC.2015.7319446 [doi]",
+     "AB": "This paper describes a million-plus granule cell compartmental model of the rat hippocampal dentate gyrus, including excitatory, perforant path input from the entorhinal cortex, and feedforward and feedback inhibitory input from dentate interneurons. The model includes experimentally determined morphological and biophysical properties of granule cells, together with glutamatergic AMPA-like EPSP and GABAergic GABAA-like IPSP synaptic excitatory and inhibitory inputs, respectively. Each granule cell was composed of approximately 200 compartments having passive and active conductances distributed throughout the somatic and dendritic regions. Modeling excitatory input from the entorhinal cortex was guided by axonal transport studies documenting the topographical organization of projections from subregions of the medial and lateral entorhinal cortex, plus other important details of the distribution of glutamatergic inputs to the dentate gyrus. Results showed that when medial and lateral entorhinal cortical neurons maintained Poisson random firing, dentate granule cells expressed, throughout the million-cell network, a robust, non-random pattern of spiking best described as spatiotemporal \"clustering\". To identify the network property or properties responsible for generating such firing \"clusters\", we progressively eliminated from the model key mechanisms such as feedforward and feedback inhibition, intrinsic membrane properties underlying rhythmic burst firing, and/or topographical organization of entorhinal afferents. Findings conclusively identified topographical organization of inputs as the key element responsible for generating a spatio-temporal distribution of clustered firing. These results uncover a functional organization of perforant path afferents to the dentate gyrus not previously recognized: topography-dependent clusters of granule cell activity as \"functional units\" that organize the processing of entorhinal signals.",
+     "FAU": [
+          "Hendrickson, Phillip J",
+          "Yu, Gene J",
+          "Song, Dong",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Hendrickson PJ",
+          "Yu GJ",
+          "Song D",
+          "Berger TW"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 GM104604/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "RN": [
+          "56-12-2 (gamma-Aminobutyric Acid)",
+          "77521-29-0 (alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Dendrites/physiology",
+          "Dentate Gyrus/cytology/*physiology",
+          "Entorhinal Cortex/physiology",
+          "Hippocampus/physiology",
+          "*Models, Neurological",
+          "Nerve Net/physiology",
+          "Neurons/physiology",
+          "Rats",
+          "Space-Time Clustering",
+          "Synaptic Transmission",
+          "alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid/metabolism",
+          "gamma-Aminobutyric Acid/metabolism"
+     ],
+     "PMC": "PMC4878386",
+     "MID": [
+          "NIHMS784844"
+     ],
+     "EDAT": "2016/01/07 06:00",
+     "MHDA": "2016/09/13 06:00",
+     "CRDT": [
+          "2016/01/07 06:00"
+     ],
+     "PHST": [
+          "2016/01/07 06:00 [entrez]",
+          "2016/01/07 06:00 [pubmed]",
+          "2016/09/13 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2015.7319446 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2015;2015:4713-6. doi: 10.1109/EMBC.2015.7319446.",
+     "term": "hippocampus"
+}

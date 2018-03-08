@@ -1,0 +1,75 @@
+{
+     "PMID": "17764083",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080229",
+     "LR": "20071121",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "17",
+     "IP": "12",
+     "DP": "2007",
+     "TI": "Network dynamics of hippocampal cell-assemblies resemble multiple spatial maps within single tasks.",
+     "PG": "1209-29",
+     "AB": "The firing of place cells in the rodent hippocampus is reliable enough to infer the rodent's position to a high accuracy; however, hippocampal firing also reflects the stages of complex tasks. Theories have suggested that these task-stage responses may reflect changes in reference frame related to task-related subgoals. If the hippocampus represents an environment in multiple ways depending on a task's demands, then switching between these cell assemblies should be detectable as a switch in spatial maps or reference frames. Place cells exhibit extreme temporal variability or \"overdispersion,\" which Fenton et al. suggest reflects changes in active cell-assemblies. If reference-frame switching exists, investigating the relationship of the single cell variability described by Fenton and colleagues to network level processes provides an entry point to understanding the relationship between cell-assembly-like mechanisms and an animal's behavior. We tested the cell-assembly explanation for overdispersion by recording hippocampal neural ensembles from rats running three tasks of varying spatial complexity: linear track (LT), cylinder-foraging (CF), and cylinder-goal (CG). Consistent with the reports by Fenton and colleagues, hippocampal place cells showed high variance in their firing rates across place field passes on the CF and CG tasks. The directional firing of hippocampal place cells on LT provided a test of the reference-frame hypothesis: ignoring direction produced overdispersion similar to the CF and CG tasks; taking direction into account produced a significant decrease in overdispersion. To directly examine the possibility of a network modulation of cell-assemblies, we clustered the firing patterns within each pixel and chained them together to construct whole-environment spatial firing maps. Maps were internally self-consistent, switching with mean rates of several hundred milliseconds. There were significant increases in map-switching rates following reward-related events on the LT and CG tasks, but not on the CF task. Our results link single cell variability with network-level processes and imply that hippocampal spatial representations are made up of multiple, continuous sub-maps, the selection of which depends on the animal's goals when reward is tied to the animal's spatial behavior.",
+     "CI": [
+          "(c) 2007 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Jackson, Jadin",
+          "Redish, A David"
+     ],
+     "AU": [
+          "Jackson J",
+          "Redish AD"
+     ],
+     "AD": "Graduate Program in Neuroscience, University of Minnesota, Minnneapolis, Minnesota, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01-MH06829/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Behavior, Animal",
+          "*Brain Mapping",
+          "Hippocampus/*cytology",
+          "Male",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Probability",
+          "Rats",
+          "Rats, Inbred F344",
+          "Space Perception/physiology",
+          "Spatial Behavior/*physiology",
+          "Statistics as Topic",
+          "Time Factors"
+     ],
+     "EDAT": "2007/09/04 09:00",
+     "MHDA": "2008/03/01 09:00",
+     "CRDT": [
+          "2007/09/04 09:00"
+     ],
+     "PHST": [
+          "2007/09/04 09:00 [pubmed]",
+          "2008/03/01 09:00 [medline]",
+          "2007/09/04 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.20359 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2007;17(12):1209-29. doi: 10.1002/hipo.20359.",
+     "term": "place cells"
+}

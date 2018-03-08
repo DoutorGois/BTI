@@ -1,0 +1,68 @@
+{
+     "PMID": "17361362",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070814",
+     "LR": "20121115",
+     "IS": "0092-8240 (Print) 0092-8240 (Linking)",
+     "VI": "69",
+     "IP": "4",
+     "DP": "2007 May",
+     "TI": "Emergent features due to grid-cell biology: synchronisation in biophysical models.",
+     "PG": "1401-22",
+     "AB": "Modelling studies of upper ocean phenomena, such as that of the spatial and temporal patchiness in plankton distributions, typically employ coupled biophysical models, with biology in each grid-cell represented by a plankton ecosystem model. It has not generally been considered what impact the choice of grid-cell ecosystem model, from the many developed in the literature, might have upon the results of such a study. We use the methods of synchronisation theory, which is concerned with ensembles of interacting oscillators, to address this question, considering the simplest possible case of a chain of identically represented interacting plankton grid-cells. It is shown that the ability of the system to exhibit stably homogeneous (fully synchronised) dynamics depends crucially upon the choice of biological model and number of grid-cells, with dynamics changing dramatically at a threshold strength of mixing between grid-cells. Consequently, for modelling studies of the ocean the resolution chosen, and therefore number of grid-cells used, could drastically alter the emergent features of the model. It is shown that chaotic ecosystem dynamics, in particular, should be used with care.",
+     "FAU": [
+          "Guirey, E J",
+          "Bees, M A",
+          "Martin, A P",
+          "Srokosz, M A",
+          "Fasham, M J R"
+     ],
+     "AU": [
+          "Guirey EJ",
+          "Bees MA",
+          "Martin AP",
+          "Srokosz MA",
+          "Fasham MJ"
+     ],
+     "AD": "National Oceanography Centre Southampton, European Way, Southampton, UK. ejg@noc.soton.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20070315",
+     "PL": "United States",
+     "TA": "Bull Math Biol",
+     "JT": "Bulletin of mathematical biology",
+     "JID": "0401404",
+     "SB": "IM",
+     "MH": [
+          "*Ecosystem",
+          "*Marine Biology",
+          "*Models, Biological",
+          "Numerical Analysis, Computer-Assisted",
+          "Oceans and Seas",
+          "Plankton/*growth & development"
+     ],
+     "EDAT": "2007/03/16 09:00",
+     "MHDA": "2007/08/19 09:00",
+     "CRDT": [
+          "2007/03/16 09:00"
+     ],
+     "PHST": [
+          "2006/04/25 00:00 [received]",
+          "2006/11/02 00:00 [accepted]",
+          "2007/03/16 09:00 [pubmed]",
+          "2007/08/19 09:00 [medline]",
+          "2007/03/16 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s11538-006-9180-y [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Bull Math Biol. 2007 May;69(4):1401-22. doi: 10.1007/s11538-006-9180-y. Epub 2007 Mar 15.",
+     "term": "grid cells"
+}

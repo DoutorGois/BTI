@@ -1,0 +1,75 @@
+{
+     "PMID": "25571043",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151012",
+     "LR": "20170220",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2014",
+     "DP": "2014",
+     "TI": "Statistical validation of automatic methods for hippocampus segmentation in MR images of epileptic patients.",
+     "PG": "4707-10",
+     "LID": "10.1109/EMBC.2014.6944675 [doi]",
+     "AB": "Hippocampus segmentation is a key step in the evaluation of mesial Temporal Lobe Epilepsy (mTLE) by MR images. Several automated segmentation methods have been introduced for medical image segmentation. Because of multiple edges, missing boundaries, and shape changing along its longitudinal axis, manual outlining still remains the benchmark for hippocampus segmentation, which however, is impractical for large datasets due to time constraints. In this study, four automatic methods, namely FreeSurfer, Hammer, Automatic Brain Structure Segmentation (ABSS), and LocalInfo segmentation, are evaluated to find the most accurate and applicable method that resembles the bench-mark of hippocampus. Results from these four methods are compared against those obtained using manual segmentation for T1-weighted images of 157 symptomatic mTLE patients. For performance evaluation of automatic segmentation, Dice coefficient, Hausdorff distance, Precision, and Root Mean Square (RMS) distance are extracted and compared. Among these four automated methods, ABSS generates the most accurate results and the reproducibility is more similar to expert manual outlining by statistical validation. By considering p-value<;0.05, the results of performance measurement for ABSS reveal that, Dice is 4%, 13%, and 17% higher, Hausdorff is 23%, 87%, and 70% lower, precision is 5%, -5%, and 12% higher, and RMS is 19%, 62%, and 65% lower compared to LocalInfo, FreeSurfer, and Hammer, respectively.",
+     "FAU": [
+          "Hosseini, Mohammad-Parsa",
+          "Nazem-Zadeh, Mohammad R",
+          "Pompili, Dario",
+          "Soltanian-Zadeh, Hamid"
+     ],
+     "AU": [
+          "Hosseini MP",
+          "Nazem-Zadeh MR",
+          "Pompili D",
+          "Soltanian-Zadeh H"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB013227/EB/NIBIB NIH HHS/United States",
+          "R01-EB013227/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Automation",
+          "Epilepsy, Temporal Lobe/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "*Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging/*methods",
+          "Middle Aged",
+          "Reproducibility of Results",
+          "Statistics as Topic"
+     ],
+     "PMC": "PMC4504210",
+     "MID": [
+          "NIHMS705928"
+     ],
+     "EDAT": "2015/01/09 06:00",
+     "MHDA": "2015/10/13 06:00",
+     "CRDT": [
+          "2015/01/09 06:00"
+     ],
+     "PHST": [
+          "2015/01/09 06:00 [entrez]",
+          "2015/01/09 06:00 [pubmed]",
+          "2015/10/13 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2014.6944675 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2014;2014:4707-10. doi: 10.1109/EMBC.2014.6944675.",
+     "term": "hippocampus"
+}

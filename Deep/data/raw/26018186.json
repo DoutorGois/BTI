@@ -1,0 +1,92 @@
+{
+     "PMID": "26018186",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160405",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "10",
+     "IP": "5",
+     "DP": "2015",
+     "TI": "Modeled Changes in Potential Grassland Productivity and in Grass-Fed Ruminant Livestock Density in Europe over 1961-2010.",
+     "PG": "e0127554",
+     "LID": "10.1371/journal.pone.0127554 [doi]",
+     "AB": "About 25% of European livestock intake is based on permanent and sown grasslands. To fulfill rising demand for animal products, an intensification of livestock production may lead to an increased consumption of crop and compound feeds. In order to preserve an economically and environmentally sustainable agriculture, a more forage based livestock alimentation may be an advantage. However, besides management, grassland productivity is highly vulnerable to climate (i.e., temperature, precipitation, CO2 concentration), and spatial information about European grassland productivity in response to climate change is scarce. The process-based vegetation model ORCHIDEE-GM, containing an explicit representation of grassland management (i.e., herbage mowing and grazing), is used here to estimate changes in potential productivity and potential grass-fed ruminant livestock density across European grasslands over the period 1961-2010. Here \"potential grass-fed ruminant livestock density\" denotes the maximum density of livestock that can be supported by grassland productivity in each 25 km x 25 km grid cell. In reality, livestock density could be higher than potential (e.g., if additional feed is supplied to animals) or lower (e.g., in response to economic factors, pedo-climatic and biotic conditions ignored by the model, or policy decisions that can for instance reduce livestock numbers). When compared to agricultural statistics (Eurostat and FAOstat), ORCHIDEE-GM gave a good reproduction of the regional gradients of annual grassland productivity and ruminant livestock density. The model however tends to systematically overestimate the absolute values of productivity in most regions, suggesting that most grid cells remain below their potential grassland productivity due to possible nutrient and biotic limitations on plant growth. When ORCHIDEE-GM was run for the period 1961-2010 with variable climate and rising CO2, an increase of potential annual production (over 3%) per decade was found: 97% of this increase was attributed to the rise in CO2, -3% to climate trends and 15% to trends in nitrogen fertilization and deposition. When compared with statistical data, ORCHIDEE-GM captures well the observed phase of climate-driven interannual variability in grassland production well, whereas the magnitude of the interannual variability in modeled productivity is larger than the statistical data. Regional grass-fed livestock numbers can be reproduced by ORCHIDEE-GM based on its simple assumptions and parameterization about productivity being the only limiting factor to define the sustainable number of animals per unit area. Causes for regional model-data misfits are discussed, including uncertainties in farming practices (e.g., nitrogen fertilizer application, and mowing and grazing intensity) and in ruminant diet composition, as well as uncertainties in the statistical data and in model parameter values.",
+     "FAU": [
+          "Chang, Jinfeng",
+          "Viovy, Nicolas",
+          "Vuichard, Nicolas",
+          "Ciais, Philippe",
+          "Campioli, Matteo",
+          "Klumpp, Katja",
+          "Martin, Raphael",
+          "Leip, Adrian",
+          "Soussana, Jean-Francois"
+     ],
+     "AU": [
+          "Chang J",
+          "Viovy N",
+          "Vuichard N",
+          "Ciais P",
+          "Campioli M",
+          "Klumpp K",
+          "Martin R",
+          "Leip A",
+          "Soussana JF"
+     ],
+     "AD": "Laboratoire des Sciences du Climat et de l'Environnement, UMR8212, CEA-CNRS-UVSQ, Gif-sur-Yvette, France. Laboratoire des Sciences du Climat et de l'Environnement, UMR8212, CEA-CNRS-UVSQ, Gif-sur-Yvette, France. Laboratoire des Sciences du Climat et de l'Environnement, UMR8212, CEA-CNRS-UVSQ, Gif-sur-Yvette, France. Laboratoire des Sciences du Climat et de l'Environnement, UMR8212, CEA-CNRS-UVSQ, Gif-sur-Yvette, France. Research Group of Plant and Vegetation Ecology, Department of Biology, University of Antwerp, Wilrijk, Belgium. INRA, Grassland Ecosystem Research Unit, UREP, Clermont-Ferrand, France. INRA, Grassland Ecosystem Research Unit, UREP, Clermont-Ferrand, France. European Commission, Joint Research Centre (JRC), Institute for Environment and Sustainability, Ispra (VA), Italy. INRA, Grassland Ecosystem Research Unit, UREP, Clermont-Ferrand, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150527",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Fertilizers)",
+          "142M471B3J (Carbon Dioxide)",
+          "N762921K75 (Nitrogen)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Agriculture/methods",
+          "Animals",
+          "Carbon Dioxide/chemistry",
+          "Climate Change",
+          "Ecosystem",
+          "Europe",
+          "Fertilizers",
+          "Grassland",
+          "Livestock/*growth & development",
+          "Models, Theoretical",
+          "Nitrogen/chemistry",
+          "Poaceae/*growth & development",
+          "Ruminants/*growth & development",
+          "Temperature"
+     ],
+     "PMC": "PMC4446363",
+     "EDAT": "2015/05/29 06:00",
+     "MHDA": "2016/04/06 06:00",
+     "CRDT": [
+          "2015/05/29 06:00"
+     ],
+     "PHST": [
+          "2014/11/24 00:00 [received]",
+          "2015/04/16 00:00 [accepted]",
+          "2015/05/29 06:00 [entrez]",
+          "2015/05/29 06:00 [pubmed]",
+          "2016/04/06 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0127554 [doi]",
+          "PONE-D-14-52709 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2015 May 27;10(5):e0127554. doi: 10.1371/journal.pone.0127554. eCollection 2015.",
+     "term": "grid cells"
+}

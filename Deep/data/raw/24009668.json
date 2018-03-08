@@ -1,0 +1,83 @@
+{
+     "PMID": "24009668",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140416",
+     "LR": "20150423",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "8",
+     "DP": "2013",
+     "TI": "Validation of suitable reference genes for expression studies in different pilocarpine-induced models of mesial temporal lobe epilepsy.",
+     "PG": "e71892",
+     "LID": "10.1371/journal.pone.0071892 [doi]",
+     "AB": "It is well recognized that the reference gene in a RT-qPCR should be properly validated to ensure that gene expression is unaffected by the experimental condition. We investigated eight potential reference genes in two different pilocarpine PILO-models of mesial temporal lobe epilepsy (MTLE) performing a stability expression analysis using geNorm, NormFinder and BestKepeer softwares. Then, as a validation strategy, we conducted a relative expression analysis of the Gfap gene. Our results indicate that in the systemic PILO-model Actb, Gapdh, Rplp1, Tubb2a and Polr1a mRNAs were highly stable in hippocampus of rats from all experimental and control groups, whereas Gusb revealed to be the most variable one. In fact, we observed that using Gusb for normalization, the relative mRNA levels of the Gfap gene differed from those obtained with stable genes. On the contrary, in the intrahippocampal PILO-model, all softwares included Gusb as a stable gene, whereas B2m was indicated as the worst candidate gene. The results obtained for the other reference genes were comparable to those observed for the systemic Pilo-model. The validation of these data by the analysis of the relative expression of Gfap showed that the upregulation of the Gfap gene in the hippocampus of rats sacrificed 24 hours after status epilepticus (SE) was undetected only when B2m was used as the normalizer. These findings emphasize that a gene that is stable in one pathology model may not be stable in a different experimental condition related to the same pathology and therefore, the choice of reference genes depends on study design.",
+     "FAU": [
+          "Marques, Thalita Ewellyn Batista Sales",
+          "de Mendonca, Leila Rodrigues",
+          "Pereira, Marilia Gabriela",
+          "de Andrade, Tiago Gomes",
+          "Garcia-Cairasco, Norberto",
+          "Paco-Larson, Maria Luisa",
+          "Gitai, Daniel Leite Goes"
+     ],
+     "AU": [
+          "Marques TE",
+          "de Mendonca LR",
+          "Pereira MG",
+          "de Andrade TG",
+          "Garcia-Cairasco N",
+          "Paco-Larson ML",
+          "Gitai DL"
+     ],
+     "AD": "Department of Cell, Molecular Biology, Institute of Biological Sciences and Health, Federal University of Alagoas, AL, Brazil.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130823",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "01MI4Q9DI3 (Pilocarpine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computational Biology/methods",
+          "Disease Models, Animal",
+          "Epilepsy, Temporal Lobe/*chemically induced/*genetics",
+          "*Gene Expression Regulation",
+          "Male",
+          "Pilocarpine/administration & dosage/*adverse effects",
+          "RNA Stability",
+          "Rats",
+          "Reproducibility of Results",
+          "*Transcriptome"
+     ],
+     "PMC": "PMC3751890",
+     "EDAT": "2013/09/07 06:00",
+     "MHDA": "2014/04/17 06:00",
+     "CRDT": [
+          "2013/09/07 06:00"
+     ],
+     "PHST": [
+          "2013/01/22 00:00 [received]",
+          "2013/07/04 00:00 [accepted]",
+          "2013/09/07 06:00 [entrez]",
+          "2013/09/07 06:00 [pubmed]",
+          "2014/04/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0071892 [doi]",
+          "PONE-D-13-03616 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2013 Aug 23;8(8):e71892. doi: 10.1371/journal.pone.0071892. eCollection 2013.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,73 @@
+{
+     "PMID": "26103635",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160419",
+     "LR": "20171116",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "10",
+     "IP": "6",
+     "DP": "2015",
+     "TI": "Simulation of Runoff Hydrograph on Soil Surfaces with Different Microtopography Using a Travel Time Method at the Plot Scale.",
+     "PG": "e0130794",
+     "LID": "10.1371/journal.pone.0130794 [doi]",
+     "AB": "In this study, a simple travel time-based runoff model was proposed to simulate a runoff hydrograph on soil surfaces with different microtopographies. Three main parameters, i.e., rainfall intensity (I), mean flow velocity (vm) and ponding time of depression (tp), were inputted into this model. The soil surface was divided into numerous grid cells, and the flow length of each grid cell (li) was then calculated from a digital elevation model (DEM). The flow velocity in each grid cell (vi) was derived from the upstream flow accumulation area using vm. The total flow travel time through each grid cell to the surface outlet was the sum of the sum of flow travel times along the flow path (i.e., the sum of li/vi) and tp. The runoff rate at the slope outlet for each respective travel time was estimated by finding the sum of the rain rate from all contributing cells for all time intervals. The results show positive agreement between the measured and predicted runoff hydrographs.",
+     "FAU": [
+          "Zhao, Longshan",
+          "Wu, Faqi"
+     ],
+     "AU": [
+          "Zhao L",
+          "Wu F"
+     ],
+     "AD": "College of Natural Resources and Environment, Northwest A&F University, Yangling, Shaanxi, China; College of Forestry, Guizhou University, Guiyang, Guizhou, China; USDA-ARS National Soil Erosion Research Laboratory, 275 South Russell Street, West Lafayette, Indiana, United States of America. College of Natural Resources and Environment, Northwest A&F University, Yangling, Shaanxi, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150623",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Soil)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "*Computer Simulation",
+          "Geologic Sediments",
+          "*Geological Phenomena",
+          "*Hydrodynamics",
+          "*Models, Theoretical",
+          "Rain",
+          "*Soil",
+          "Surface Properties",
+          "Time",
+          "Water Movements"
+     ],
+     "PMC": "PMC4477983",
+     "EDAT": "2015/06/24 06:00",
+     "MHDA": "2016/04/20 06:00",
+     "CRDT": [
+          "2015/06/24 06:00"
+     ],
+     "PHST": [
+          "2014/12/10 00:00 [received]",
+          "2015/05/25 00:00 [accepted]",
+          "2015/06/24 06:00 [entrez]",
+          "2015/06/24 06:00 [pubmed]",
+          "2016/04/20 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0130794 [doi]",
+          "PONE-D-14-55388 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2015 Jun 23;10(6):e0130794. doi: 10.1371/journal.pone.0130794. eCollection 2015.",
+     "term": "grid cells"
+}

@@ -1,0 +1,89 @@
+{
+     "PMID": "26548944",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160726",
+     "LR": "20151215",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "72",
+     "DP": "2015 Dec",
+     "TI": "Goal-oriented robot navigation learning using a multi-scale space representation.",
+     "PG": "62-74",
+     "LID": "10.1016/j.neunet.2015.09.006 [doi] S0893-6080(15)00181-1 [pii]",
+     "AB": "There has been extensive research in recent years on the multi-scale nature of hippocampal place cells and entorhinal grid cells encoding which led to many speculations on their role in spatial cognition. In this paper we focus on the multi-scale nature of place cells and how they contribute to faster learning during goal-oriented navigation when compared to a spatial cognition system composed of single scale place cells. The task consists of a circular arena with a fixed goal location, in which a robot is trained to find the shortest path to the goal after a number of learning trials. Synaptic connections are modified using a reinforcement learning paradigm adapted to the place cells multi-scale architecture. The model is evaluated in both simulation and physical robots. We find that larger scale and combined multi-scale representations favor goal-oriented navigation task learning.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Llofriu, M",
+          "Tejera, G",
+          "Contreras, M",
+          "Pelc, T",
+          "Fellous, J M",
+          "Weitzenfeld, A"
+     ],
+     "AU": [
+          "Llofriu M",
+          "Tejera G",
+          "Contreras M",
+          "Pelc T",
+          "Fellous JM",
+          "Weitzenfeld A"
+     ],
+     "AD": "University of South Florida, United States; Universidad de la Republica, Uruguay. Electronic address: mllofriualon@mail.usf.edu. Universidad de la Republica, Uruguay. University of Arizona, United States. University of Arizona, United States. University of Arizona, United States. University of South Florida, United States.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20151019",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Cognition",
+          "*Goals",
+          "Hippocampus/cytology/*physiology",
+          "Humans",
+          "Learning",
+          "*Models, Neurological",
+          "*Reinforcement (Psychology)",
+          "*Robotics",
+          "Spatial Navigation/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Hippocampus",
+          "Multiscale spatial representation",
+          "Place cells",
+          "Reinforcement learning",
+          "Spatial cognition model"
+     ],
+     "EDAT": "2015/11/10 06:00",
+     "MHDA": "2016/07/28 06:00",
+     "CRDT": [
+          "2015/11/10 06:00"
+     ],
+     "PHST": [
+          "2015/02/15 00:00 [received]",
+          "2015/09/21 00:00 [revised]",
+          "2015/09/21 00:00 [accepted]",
+          "2015/11/10 06:00 [entrez]",
+          "2015/11/10 06:00 [pubmed]",
+          "2016/07/28 06:00 [medline]"
+     ],
+     "AID": [
+          "S0893-6080(15)00181-1 [pii]",
+          "10.1016/j.neunet.2015.09.006 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2015 Dec;72:62-74. doi: 10.1016/j.neunet.2015.09.006. Epub 2015 Oct 19.",
+     "term": "place cells"
+}

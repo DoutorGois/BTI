@@ -1,0 +1,89 @@
+{
+     "PMID": "22008370",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120517",
+     "LR": "20120110",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "59",
+     "IP": "3",
+     "DP": "2012 Feb 1",
+     "TI": "Discriminative analysis of early Alzheimer's disease using multi-modal imaging and multi-level characterization with multi-classifier (M3).",
+     "PG": "2187-95",
+     "LID": "10.1016/j.neuroimage.2011.10.003 [doi]",
+     "AB": "Increasing attention has recently been directed to the applications of pattern recognition and brain imaging techniques in the effective and accurate diagnosis of Alzheimer's disease (AD). However, most of the existing research focuses on the use of single-modal (e.g., structural or functional MRI) or single-level (e.g., brain local or connectivity metrics) biomarkers for the diagnosis of AD. In this study, we propose a methodological framework, called multi-modal imaging and multi-level characteristics with multi-classifier (M3), to discriminate patients with AD from healthy controls. This approach involved data analysis from two imaging modalities: structural MRI, which was used to measure regional gray matter volume, and resting-state functional MRI, which was used to measure three different levels of functional characteristics, including the amplitude of low-frequency fluctuations (ALFF), regional homogeneity (ReHo) and regional functional connectivity strength (RFCS). For each metric, we computed the values of ninety regions of interest derived from a prior atlas, which were then further trained using a multi-classifier based on four maximum uncertainty linear discriminant analysis base classifiers. The performance of this method was evaluated using leave-one-out cross-validation. Applying the M3 approach to the dataset containing 16 AD patients and 22 healthy controls led to a classification accuracy of 89.47% with a sensitivity of 87.50% and a specificity of 90.91%. Further analysis revealed that the most discriminative features for classification are predominantly involved in several default-mode (medial frontal gyrus, posterior cingulate gyrus, hippocampus and parahippocampal gyrus), occipital (fusiform gyrus, inferior and middle occipital gyrus) and subcortical (amygdale and pallidum of lenticular nucleus) regions. Thus, the M3 method shows promising classification performance by incorporating information from different imaging modalities and different functional properties, and it has the potential to improve the clinical diagnosis and treatment evaluation of AD.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Dai, Zhengjia",
+          "Yan, Chaogan",
+          "Wang, Zhiqun",
+          "Wang, Jinhui",
+          "Xia, Mingrui",
+          "Li, Kuncheng",
+          "He, Yong"
+     ],
+     "AU": [
+          "Dai Z",
+          "Yan C",
+          "Wang Z",
+          "Wang J",
+          "Xia M",
+          "Li K",
+          "He Y"
+     ],
+     "AD": "State Key laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, and Department of Radiology, Xuanwu Hospital, Beijing, 100875, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20111008",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/classification/*diagnosis/pathology",
+          "Atlases as Topic",
+          "Brain/pathology",
+          "Data Interpretation, Statistical",
+          "Discriminant Analysis",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted/methods",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Neural Pathways/pathology",
+          "Neuropsychological Tests",
+          "Psychiatric Status Rating Scales",
+          "Reproducibility of Results",
+          "Software"
+     ],
+     "EDAT": "2011/10/20 06:00",
+     "MHDA": "2012/05/18 06:00",
+     "CRDT": [
+          "2011/10/20 06:00"
+     ],
+     "PHST": [
+          "2011/08/05 00:00 [received]",
+          "2011/09/27 00:00 [revised]",
+          "2011/10/03 00:00 [accepted]",
+          "2011/10/20 06:00 [entrez]",
+          "2011/10/20 06:00 [pubmed]",
+          "2012/05/18 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)01164-5 [pii]",
+          "10.1016/j.neuroimage.2011.10.003 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2012 Feb 1;59(3):2187-95. doi: 10.1016/j.neuroimage.2011.10.003. Epub 2011 Oct 8.",
+     "term": "hippocampus"
+}

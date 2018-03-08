@@ -1,0 +1,94 @@
+{
+     "PMID": "15525802",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050502",
+     "LR": "20131121",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "93",
+     "IP": "3",
+     "DP": "2005 Mar",
+     "TI": "Synchronization in hybrid neuronal networks of the hippocampal formation.",
+     "PG": "1197-208",
+     "AB": "Understanding the mechanistic bases of neuronal synchronization is a current challenge in quantitative neuroscience. We studied this problem in two putative cellular pacemakers of the mammalian hippocampal theta rhythm: glutamatergic stellate cells (SCs) of the medial entorhinal cortex and GABAergic oriens-lacunosum-molecular (O-LM) interneurons of hippocampal region CA1. We used two experimental methods. First, we measured changes in spike timing induced by artificial synaptic inputs applied to individual neurons. We then measured responses of free-running hybrid neuronal networks, consisting of biological neurons coupled (via dynamic clamp) to biological or virtual counterparts. Results from the single-cell experiments predicted network behaviors well and are compatible with previous model-based predictions of how specific membrane mechanisms give rise to empirically measured synchronization behavior. Both cell types phase lock stably when connected via homogeneous excitatory-excitatory (E-E) or inhibitory-inhibitory (I-I) connections. Phase-locked firing is consistently synchronous for either cell type with E-E connections and nearly anti-synchronous with I-I connections. With heterogeneous connections (e.g., excitatory-inhibitory, as might be expected if members of a given population had heterogeneous connections involving intermediate interneurons), networks often settled into phase locking that was either stable or unstable, depending on the order of firing of the two cells in the hybrid network. Our results imply that excitatory SCs, but not inhibitory O-LM interneurons, are capable of synchronizing in phase via monosynaptic mutual connections of the biologically appropriate polarity. Results are largely independent of synaptic strength and synaptic kinetics, implying that our conclusions are robust and largely unaffected by synaptic plasticity.",
+     "FAU": [
+          "Netoff, Theoden I",
+          "Banks, Matthew I",
+          "Dorval, Alan D",
+          "Acker, Corey D",
+          "Haas, Julie S",
+          "Kopell, Nancy",
+          "White, John A"
+     ],
+     "AU": [
+          "Netoff TI",
+          "Banks MI",
+          "Dorval AD",
+          "Acker CD",
+          "Haas JS",
+          "Kopell N",
+          "White JA"
+     ],
+     "AD": "Deptartment of Biomedical Engineering, Center for BioDynamics, Boston University, 44 Cummington St., Boston, Massachusetts 02215, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "F32 MH-066555/MH/NIMH NIH HHS/United States",
+          "R01 DC-006013/DC/NIDCD NIH HHS/United States",
+          "R01 NS-34425/NS/NINDS NIH HHS/United States",
+          "R01 NS-46058/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "DEP": "20041103",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "3KX376GY7L (Glutamic Acid)",
+          "56-12-2 (gamma-Aminobutyric Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Animals, Newborn",
+          "Electric Stimulation/methods",
+          "Excitatory Postsynaptic Potentials/physiology/radiation effects",
+          "Glutamic Acid/metabolism",
+          "Hippocampus/cytology/*physiology",
+          "Nerve Net/*physiology",
+          "Neural Inhibition/physiology",
+          "*Neural Networks (Computer)",
+          "Neurons/classification/*physiology",
+          "Patch-Clamp Techniques",
+          "Rats",
+          "Reaction Time",
+          "Synapses/physiology",
+          "Synaptic Transmission/*physiology/radiation effects",
+          "Time Factors",
+          "gamma-Aminobutyric Acid/metabolism"
+     ],
+     "EDAT": "2004/11/05 09:00",
+     "MHDA": "2005/05/03 09:00",
+     "CRDT": [
+          "2004/11/05 09:00"
+     ],
+     "PHST": [
+          "2004/11/05 09:00 [pubmed]",
+          "2005/05/03 09:00 [medline]",
+          "2004/11/05 09:00 [entrez]"
+     ],
+     "AID": [
+          "00982.2004 [pii]",
+          "10.1152/jn.00982.2004 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2005 Mar;93(3):1197-208. doi: 10.1152/jn.00982.2004. Epub 2004 Nov 3.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,77 @@
+{
+     "PMID": "25904470",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160426",
+     "LR": "20171021",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "39",
+     "IP": "1",
+     "DP": "2015 Aug",
+     "TI": "Modeling synchronous theta activity in the medial septum: key role of local communications between different cell populations.",
+     "PG": "1-16",
+     "LID": "10.1007/s10827-015-0564-6 [doi]",
+     "AB": "It is widely believed that the theta rhythm in the hippocampus is caused by the rhythmic input from the medial septum-diagonal band of Broca (MSDB). The main MSDB output is formed by GABAergic projection neurons which are divided into two subpopulations and fire at different phases of the hippocampal theta rhythm. The MSDB also contains projection cholinergic, glutamatergic, and non-projection GABAergic neurons. These cell populations innervate each other and also GABAergic projection neurons and participate in the formation of the synchronous rhythmic output to the hippocampus. The purpose of this study is to work out a model of interactions between all neural populations of the MSDB that underlie the formation of the synchronous septal theta signal. The model is built from biologically plausible neurons of the Hodgkin-Huxley type and its architecture reflects modern data on the morphology of neural connections in the MSDB. The model satisfies the following requirements: (1) a large portion of neurons is fast-spiking; (2) the subpopulations of GABAergic projection neurons contain endogenous pacemaker neurons; (3) the phase shift of activity between subpopulations of GABAergic projection neurons is equal to about 150 degrees ; and (4) the strengths of bidirectional connections between the subpopulations of GABAergic projection cells are different. It is shown that the theta rhythm generation can be performed by a system of glutamatergic and GABAergic non-projection neurons. We also show that bursting pacemaker neurons in the subpopulation of projection GABAergic neurons play a significant role in the formation of stable antiphase outputs from the MSDB to the hippocampus.",
+     "FAU": [
+          "Mysin, Ivan E",
+          "Kitchigina, Valentina F",
+          "Kazanovich, Yakov"
+     ],
+     "AU": [
+          "Mysin IE",
+          "Kitchigina VF",
+          "Kazanovich Y"
+     ],
+     "AD": "Laboratory of System Organization of Neurons, Russian Academy of Sciences, Institute of Theoretical and Experimental Biophysics, 142290, Pushchino, Moscow Region, Russia, imysin@mail.ru.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150424",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "RN": [
+          "0 (Adaptor Proteins, Vesicular Transport)",
+          "0 (Nerve Tissue Proteins)",
+          "0 (complexin II)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Adaptor Proteins, Vesicular Transport",
+          "Animals",
+          "Cell Communication/*physiology",
+          "Computer Simulation",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net",
+          "Nerve Tissue Proteins",
+          "Neurons/classification/*physiology",
+          "Septal Nuclei/*cytology/*physiology",
+          "Theta Rhythm/*physiology"
+     ],
+     "EDAT": "2015/04/24 06:00",
+     "MHDA": "2016/04/27 06:00",
+     "CRDT": [
+          "2015/04/24 06:00"
+     ],
+     "PHST": [
+          "2015/01/12 00:00 [received]",
+          "2015/04/16 00:00 [accepted]",
+          "2015/04/15 00:00 [revised]",
+          "2015/04/24 06:00 [entrez]",
+          "2015/04/24 06:00 [pubmed]",
+          "2016/04/27 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10827-015-0564-6 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2015 Aug;39(1):1-16. doi: 10.1007/s10827-015-0564-6. Epub 2015 Apr 24.",
+     "term": "hippocampus"
+}

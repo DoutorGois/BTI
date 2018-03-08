@@ -1,0 +1,72 @@
+{
+     "PMID": "20230863",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110111",
+     "LR": "20100924",
+     "IS": "1873-4863 (Electronic) 0168-1656 (Linking)",
+     "VI": "149",
+     "IP": "4",
+     "DP": "2010 Sep 15",
+     "TI": "Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications.",
+     "PG": "299-309",
+     "LID": "10.1016/j.jbiotec.2010.03.004 [doi]",
+     "AB": "The automated detection and quantification of fluorescently labeled synapses in the brain is a fundamental challenge in neurobiology. Here we have applied a framework, based on machine learning, to detect and quantify synapses in murine hippocampus tissue sections, fluorescently labeled for synaptophysin using a direct and indirect labeling method with FITC as fluorescent dye. In a pixel-wise application of the classifier, small neighborhoods around the image pixels are mapped to confidence values. Synapse positions are computed from these confidence values by evaluating the local confidence profiles and comparing the values with a chosen minimum confidence value, the so called confidence threshold. To avoid time-consuming hand-tuning of the confidence threshold we describe a protocol for deriving the threshold from a small set of images, in which an expert has marked punctuate synaptic fluorescence signals. We can show that it works with high accuracy for fully automated synapse detection in new sample images. The resulting patch-by-patch synapse screening system, referred to as i3S (intelligent synapse screening system), is able to detect several thousand synapses in an area of 768x512 pixels in approx. 20s. The software approach presented in this study provides a reliable basis for high throughput quantification of synapses in neural tissue.",
+     "CI": [
+          "Copyright (c) 2010 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Herold, Julia",
+          "Schubert, Walter",
+          "Nattkemper, Tim W"
+     ],
+     "AU": [
+          "Herold J",
+          "Schubert W",
+          "Nattkemper TW"
+     ],
+     "AD": "Biodata Mining & Applied Neuroinformatics Group, Faculty of Technology, University of Bielefeld, Germany. jherold@techfak.uni-bielefeld.de",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100315",
+     "PL": "Netherlands",
+     "TA": "J Biotechnol",
+     "JT": "Journal of biotechnology",
+     "JID": "8411927",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/*cytology",
+          "Computational Biology/*methods",
+          "Male",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Microscopy, Fluorescence/*methods",
+          "Synapses/*metabolism"
+     ],
+     "EDAT": "2010/03/17 06:00",
+     "MHDA": "2011/01/12 06:00",
+     "CRDT": [
+          "2010/03/17 06:00"
+     ],
+     "PHST": [
+          "2009/10/29 00:00 [received]",
+          "2010/03/04 00:00 [revised]",
+          "2010/03/05 00:00 [accepted]",
+          "2010/03/17 06:00 [entrez]",
+          "2010/03/17 06:00 [pubmed]",
+          "2011/01/12 06:00 [medline]"
+     ],
+     "AID": [
+          "S0168-1656(10)00130-6 [pii]",
+          "10.1016/j.jbiotec.2010.03.004 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Biotechnol. 2010 Sep 15;149(4):299-309. doi: 10.1016/j.jbiotec.2010.03.004. Epub 2010 Mar 15.",
+     "term": "hippocampus"
+}

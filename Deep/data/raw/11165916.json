@@ -1,0 +1,64 @@
+{
+     "PMID": "11165916",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20010419",
+     "LR": "20061115",
+     "IS": "0928-4257 (Print) 0928-4257 (Linking)",
+     "VI": "94",
+     "IP": "5-6",
+     "DP": "2000 Sep-Dec",
+     "TI": "Spike sequences and their consequences.",
+     "PG": "505-24",
+     "AB": "Spatio-temporal patterns of spikes have an advantage of representing information by their spike composition similar to words of languages. First we review the models of neuronal coding, then we discuss technical aspects of detecting spatio-temporal spike patterns. We argue by presenting data from rat hippocampus that spike trains recorded simultaneously from multiple pyramidal cells are not independent. Their hidden dependency structure can be revealed by spike 'sequences', defined as a set of neurons which fire in a specific temporal order with certain delay between successive spikes. The only way to prove their existence in vivo is to show that they recur with higher than by-chance frequency. We observed that 'sequences' possess 'compositional' features and that a given spike composition is time scale invariant. We illustrate that the same neuron can be a part of different 'sequences' and 'sequences' recur in a temporally compressed fashion during slow wave sleep. The statistical significance of 'sequences' is testable. Their biological significance has been implicated by experiments where recurrence rate of the sequences during different behavioral sessions were compared. As consistent with the 'replay hypothesis' of memory consolidation, new sequences generated during the wake state are persistent during the subsequent sleep. Thus, information acquired during the wake state and represented by spatio-temporal patterns of spikes may transfer to the neocortex during sleep. Our results suggest that 'sequences' reflect the activation of specific but configurable circuitries during exploratory behavior, followed by spontaneous re-activation of the same circuitry during sleep. Whether the delay structure of spikes as a combination is an effective input to single neurons downstream or 'sequence' components are being processed in parallel pathways and evaluated independently is an open question.",
+     "FAU": [
+          "Nadasdy, Z"
+     ],
+     "AU": [
+          "Nadasdy Z"
+     ],
+     "AD": "Dept. of Physiology, The Hebrew University of Jerusalem, 91120, Jerusalem, Israel. zoli@md2.huji.ac.il",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "France",
+     "TA": "J Physiol Paris",
+     "JT": "Journal of physiology, Paris",
+     "JID": "9309351",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Exploratory Behavior/physiology",
+          "Hippocampus/*physiology",
+          "Memory/*physiology",
+          "Models, Neurological",
+          "Neurons/*physiology",
+          "Pyramidal Cells/*physiology",
+          "Rats",
+          "Reaction Time",
+          "Sleep/physiology",
+          "Sleep, REM/physiology",
+          "Wakefulness/physiology"
+     ],
+     "EDAT": "2001/02/13 11:00",
+     "MHDA": "2001/04/21 10:01",
+     "CRDT": [
+          "2001/02/13 11:00"
+     ],
+     "PHST": [
+          "2001/02/13 11:00 [pubmed]",
+          "2001/04/21 10:01 [medline]",
+          "2001/02/13 11:00 [entrez]"
+     ],
+     "AID": [
+          "S0928-4257(00)01103-7 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Physiol Paris. 2000 Sep-Dec;94(5-6):505-24.",
+     "term": "hippocampus"
+}

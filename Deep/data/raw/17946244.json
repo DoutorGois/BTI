@@ -1,0 +1,95 @@
+{
+     "PMID": "17946244",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080402",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "1",
+     "DP": "2006",
+     "TI": "VLSI implementation of a nonlinear neuronal model: a \"neural prosthesis\" to restore hippocampal trisynaptic dynamics.",
+     "PG": "4396-9",
+     "AB": "We are developing a biomimetic electronic neural prosthesis to replace regions of the hippocampal brain area that have been damaged by disease or insult. We have used the hippocampal slice preparation as the first step in developing such a prosthesis. The major intrinsic circuitry of the hippocampus consists of an excitatory cascade involving the dentate gyrus (DG), CA3, and CA1 subregions; this trisynaptic circuit can be maintained in a transverse slice preparation. Our demonstration of a neural prosthesis for the hippocampal slice involves: (i) surgically removing CA3 function from the trisynaptic circuit by transecting CA3 axons, (ii) replacing biological CA3 function with a hardware VLSI (very large scale integration) model of the nonlinear dynamics of CA3, and (iii) through a specially designed multi-site electrode array, transmitting DG output to the hardware device, and routing the hardware device output to the synaptic inputs of the CA1 subregion, thus by-passing the damaged CA3. Field EPSPs were recorded from the CA1 dendritic zone in intact slices and \"hybrid\" DG-VLSI-CA1 slices. Results show excellent agreement between data from intact slices and transected slices with the hardware-substituted CA3: propagation of temporal patterns of activity from DG-->VLSI-->CA1 reproduces that observed experimentally in the biological DG-->CA3-->CA1 circuit.",
+     "FAU": [
+          "Hsiao, Min-Chi",
+          "Chan, Chiu-Hsien",
+          "Srinivasan, Vijay",
+          "Ahuja, Ashish",
+          "Erinjippurath, Gopal",
+          "Zanos, Theodoros P",
+          "Gholmieh, Ghassan",
+          "Song, Dong",
+          "Wills, Jack D",
+          "LaCoss, Jeff",
+          "Courellis, Spiros",
+          "Tanguay, Armand R Jr",
+          "Granacki, John J",
+          "Marmarelis, Vasilis Z",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Hsiao MC",
+          "Chan CH",
+          "Srinivasan V",
+          "Ahuja A",
+          "Erinjippurath G",
+          "Zanos TP",
+          "Gholmieh G",
+          "Song D",
+          "Wills JD",
+          "LaCoss J",
+          "Courellis S",
+          "Tanguay AR Jr",
+          "Granacki JJ",
+          "Marmarelis VZ",
+          "Berger TW"
+     ],
+     "AD": "Dept. of Biomed. Eng., Univ. of Southern California, Los Angeles, CA 90089, USA. mhsiao@usc.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Axons/pathology",
+          "Electrodes",
+          "Electrophysiology",
+          "Equipment Design",
+          "Hippocampus/*pathology",
+          "Male",
+          "Microcomputers",
+          "Models, Anatomic",
+          "Neural Pathways",
+          "Neurons/*pathology",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Synapses/pathology",
+          "Synaptic Transmission"
+     ],
+     "EDAT": "2007/10/20 09:00",
+     "MHDA": "2008/04/03 09:00",
+     "CRDT": [
+          "2007/10/20 09:00"
+     ],
+     "PHST": [
+          "2007/10/20 09:00 [pubmed]",
+          "2008/04/03 09:00 [medline]",
+          "2007/10/20 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2006.260138 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2006;1:4396-9. doi: 10.1109/IEMBS.2006.260138.",
+     "term": "hippocampus"
+}

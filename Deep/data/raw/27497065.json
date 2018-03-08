@@ -1,0 +1,102 @@
+{
+     "PMID": "27497065",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170901",
+     "LR": "20170901",
+     "IS": "1525-5069 (Electronic) 1525-5050 (Linking)",
+     "VI": "62",
+     "DP": "2016 Sep",
+     "TI": "Impaired cerebral blood flow networks in temporal lobe epilepsy with hippocampal sclerosis: A graph theoretical approach.",
+     "PG": "239-45",
+     "LID": "10.1016/j.yebeh.2016.07.016 [doi] S1525-5050(16)30260-8 [pii]",
+     "AB": "Graph theory is an emerging method to investigate brain networks. Altered cerebral blood flow (CBF) has frequently been reported in temporal lobe epilepsy (TLE), but graph theoretical findings of CBF are poorly understood. Here, we explored graph theoretical networks of CBF in TLE using arterial spin labeling imaging. We recruited patients with TLE and unilateral hippocampal sclerosis (HS) (19 patients with left TLE, and 21 with right TLE) and 20 gender- and age-matched healthy control subjects. We obtained all participants' CBF maps using pseudo-continuous arterial spin labeling and analyzed them using the Graph Analysis Toolbox (GAT) software program. As a result, compared to the controls, the patients with left TLE showed a significantly low clustering coefficient (p=0.024), local efficiency (p=0.001), global efficiency (p=0.010), and high transitivity (p=0.015), whereas the patients with right TLE showed significantly high assortativity (p=0.046) and transitivity (p=0.011). The group with right TLE also had high characteristic path length values (p=0.085), low global efficiency (p=0.078), and low resilience to targeted attack (p=0.101) at a trend level. Lower normalized clustering coefficient (p=0.081) in the left TLE and higher normalized characteristic path length (p=0.089) in the right TLE were found also at a trend level. Both the patients with left and right TLE showed significantly decreased clustering in similar areas, i.e., the cingulate gyri, precuneus, and occipital lobe. Our findings revealed differing left-right network metrics in which an inefficient CBF network in left TLE and vulnerability to irritation in right TLE are suggested. The left-right common finding of regional decreased clustering might reflect impaired default-mode networks in TLE.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Sone, Daichi",
+          "Matsuda, Hiroshi",
+          "Ota, Miho",
+          "Maikusa, Norihide",
+          "Kimura, Yukio",
+          "Sumida, Kaoru",
+          "Yokoyama, Kota",
+          "Imabayashi, Etsuko",
+          "Watanabe, Masako",
+          "Watanabe, Yutaka",
+          "Okazaki, Mitsutoshi",
+          "Sato, Noriko"
+     ],
+     "AU": [
+          "Sone D",
+          "Matsuda H",
+          "Ota M",
+          "Maikusa N",
+          "Kimura Y",
+          "Sumida K",
+          "Yokoyama K",
+          "Imabayashi E",
+          "Watanabe M",
+          "Watanabe Y",
+          "Okazaki M",
+          "Sato N"
+     ],
+     "AD": "Department of Radiology, National Center of Neurology and Psychiatry, Tokyo, Japan; Department of Neuropsychiatry, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan. Integrative Brain Imaging Center, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Mental Disorder Research, National Institute of Neuroscience, National Center of Neurology and Psychiatry, Tokyo, Japan. Integrative Brain Imaging Center, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Radiology, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Radiology, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Radiology, National Center of Neurology and Psychiatry, Tokyo, Japan. Integrative Brain Imaging Center, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Psychiatry, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Psychiatry, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Psychiatry, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Radiology, National Center of Neurology and Psychiatry, Tokyo, Japan. Electronic address: snoriko@ncnp.go.jp.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160803",
+     "PL": "United States",
+     "TA": "Epilepsy Behav",
+     "JT": "Epilepsy & behavior : E&B",
+     "JID": "100892858",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Brain Mapping/methods",
+          "Cerebrovascular Circulation/*physiology",
+          "Epilepsy, Temporal Lobe/pathology/*physiopathology",
+          "Female",
+          "Hippocampus/*pathology/physiopathology",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Sclerosis/pathology/physiopathology",
+          "Software",
+          "Temporal Lobe/*pathology/physiopathology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Arterial spin labeling",
+          "Brain network",
+          "Cerebral blood flow",
+          "Graph theory",
+          "Temporal lobe epilepsy"
+     ],
+     "EDAT": "2016/08/09 06:00",
+     "MHDA": "2017/09/02 06:00",
+     "CRDT": [
+          "2016/08/07 06:00"
+     ],
+     "PHST": [
+          "2016/04/19 00:00 [received]",
+          "2016/07/06 00:00 [revised]",
+          "2016/07/07 00:00 [accepted]",
+          "2016/08/07 06:00 [entrez]",
+          "2016/08/09 06:00 [pubmed]",
+          "2017/09/02 06:00 [medline]"
+     ],
+     "AID": [
+          "S1525-5050(16)30260-8 [pii]",
+          "10.1016/j.yebeh.2016.07.016 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Epilepsy Behav. 2016 Sep;62:239-45. doi: 10.1016/j.yebeh.2016.07.016. Epub 2016 Aug 3.",
+     "term": "hippocampus"
+}

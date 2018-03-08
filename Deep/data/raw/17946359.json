@@ -1,0 +1,76 @@
+{
+     "PMID": "17946359",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080229",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "1",
+     "DP": "2006",
+     "TI": "Physiologically plausible stochastic nonlinear kernel models of spike train to spike train transformation.",
+     "PG": "6129-32",
+     "AB": "Nonlinear kernel models are developed and estimated for the spike train transformation from hippocampal CA3 region to CA1 region. The physiologically plausible model structure consists of nonlinear feedforward kernels that model synaptic transmission and dendritic integration, a linear feedback kernel that models spike-triggered after potential, a threshold, an adder, and a noise term that assesses the system uncertainties. Model parameters are estimated using maximum-likelihood method. Model goodness-of-fit is evaluated using correlation measures and time-rescaling theorem. First order, linear model is shown to be insufficient. Second and third order nonlinear models can successfully predict the output spike distribution.",
+     "FAU": [
+          "Song, Dong",
+          "Chan, Rosa H M",
+          "Marmarelis, Vasilis Z",
+          "Hampson, Robert E",
+          "Deadwyler, Sam A",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Song D",
+          "Chan RH",
+          "Marmarelis VZ",
+          "Hampson RE",
+          "Deadwyler SA",
+          "Berger TW"
+     ],
+     "AD": "Dpet. of Biomed. Eng., Univ. of Southern California, Los Angeles, CA 90089, USA. dsong@usc.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials",
+          "Brain Mapping/*instrumentation/methods",
+          "Dendrites/metabolism",
+          "Equipment Design",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Likelihood Functions",
+          "Models, Neurological",
+          "Models, Statistical",
+          "Models, Theoretical",
+          "Normal Distribution",
+          "Stochastic Processes",
+          "Synaptic Transmission",
+          "Time Factors"
+     ],
+     "EDAT": "2007/10/20 09:00",
+     "MHDA": "2008/03/01 09:00",
+     "CRDT": [
+          "2007/10/20 09:00"
+     ],
+     "PHST": [
+          "2007/10/20 09:00 [pubmed]",
+          "2008/03/01 09:00 [medline]",
+          "2007/10/20 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2006.259253 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2006;1:6129-32. doi: 10.1109/IEMBS.2006.259253.",
+     "term": "hippocampus"
+}

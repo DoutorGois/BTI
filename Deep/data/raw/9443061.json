@@ -1,0 +1,70 @@
+{
+     "PMID": "9443061",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19980305",
+     "LR": "20061115",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "7",
+     "IP": "6",
+     "DP": "1997",
+     "TI": "Short-term reverberant memory model of hippocampal field CA3.",
+     "PG": "656-65",
+     "AB": "Synaptic plasticity mechanisms for associative learning require near-simultaneous pairs of inputs to target cells. Sensory cues encountered behaviorally, however, are typically staggered in time, implying the need for active short-term memory traces of antecedent cues. The dense recurrent connectivity within regions of hippocampal field CA3 is suggestive of the kind of re-entrant network that could subserve this kind of \"holding\" memory. Consequently, we have investigated whether an abstract model of this region incorporating its major anatomical and physiological features could function as a reverberatory memory network. The continuous-time model describes the behavior of highly connected groups of CA3 pyramidal cells, or \"patches,\" in response to brief, rhythmic, sensory stimulation. Time constants for excitatory and inhibitory postsynaptic potentials and axonal transmission delays for local and distal connections were estimated from empirical data. When the inhibitory units in these patches were connected to an oscillator intended to model the theta wave activity of the medial septum, the network entered reverberatory states and maintained second-long memory traces of the cortical input, after which it lost its coherent behavior. Noise analysis indicated that the network's operation was moderately resistant to random fluctuations proportional to patch activity. These results suggest that field CA3 could function as a holding memory that assists the integration of disjoint stimuli found in innumerable associative tasks, and that the duration of its coherent operation might determine the temporal limits in their performance.",
+     "FAU": [
+          "Wiebe, S P",
+          "Staubli, U V",
+          "Ambros-Ingerson, J"
+     ],
+     "AU": [
+          "Wiebe SP",
+          "Staubli UV",
+          "Ambros-Ingerson J"
+     ],
+     "AD": "New York University, Center for Neural Science, NY 10003, USA. wiebe@cns.nyu.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Association Learning/physiology",
+          "Axons/physiology",
+          "Cues",
+          "Excitatory Postsynaptic Potentials/physiology",
+          "Hippocampus/*physiology",
+          "Memory, Short-Term/*physiology",
+          "Models, Biological",
+          "Nerve Net/physiology",
+          "Neuronal Plasticity/physiology",
+          "Pyramidal Cells/physiology",
+          "Rats",
+          "Space Perception/physiology",
+          "Theta Rhythm",
+          "Time Factors"
+     ],
+     "EDAT": "1997/01/01 00:00",
+     "MHDA": "1998/01/27 00:01",
+     "CRDT": [
+          "1997/01/01 00:00"
+     ],
+     "PHST": [
+          "1997/01/01 00:00 [pubmed]",
+          "1998/01/27 00:01 [medline]",
+          "1997/01/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/(SICI)1098-1063(1997)7:6&lt;656::AID-HIPO7&gt;3.0.CO;2-C [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 1997;7(6):656-65. doi: 10.1002/(SICI)1098-1063(1997)7:6&lt;656::AID-HIPO7&gt;3.0.CO;2-C.",
+     "term": "hippocampus"
+}

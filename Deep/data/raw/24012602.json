@@ -1,0 +1,79 @@
+{
+     "PMID": "24012602",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140714",
+     "LR": "20131104",
+     "IS": "1879-3134 (Electronic) 0025-5564 (Linking)",
+     "VI": "246",
+     "IP": "1",
+     "DP": "2013 Nov",
+     "TI": "Mathematical modeling of the hypothalamic-pituitary-adrenal gland (HPA) axis, including hippocampal mechanisms.",
+     "PG": "122-38",
+     "LID": "10.1016/j.mbs.2013.08.010 [doi] S0025-5564(13)00212-5 [pii]",
+     "AB": "This paper presents a mathematical model of the HPA axis. The HPA axis consists of the hypothalamus, the pituitary and the adrenal glands in which the three hormones CRH, ACTH and cortisol interact through receptor dynamics. Furthermore, it has been suggested that receptors in the hippocampus have an influence on the axis. A model is presented with three coupled, non-linear differential equations, with the hormones CRH, ACTH and cortisol as variables. The model includes the known features of the HPA axis, and includes the effects from the hippocampus through its impact on CRH in the hypothalamus. The model is investigated both analytically and numerically for oscillating solutions, related to the ultradian rhythm seen in data, and for multiple fixed points related to hypercortisolemic and hypocortisolemic depression. The existence of an attracting trapping region guarantees that solution curves stay non-negative and bounded, which can be interpreted as a mathematical formulation of homeostasis. No oscillating solutions are present when using physiologically reasonable parameter values. This indicates that the ultradian rhythm originate from different mechanisms. Using physiologically reasonable parameters, the system has a unique fixed point, and the system is globally stable. Therefore, solutions converge to the fixed point for all initial conditions. This is in agreement with cortisol levels returning to normal, after periods of mild stress, in healthy individuals. Perturbing parameters lead to a bifurcation, where two additional fixed points emerge. Thus, the system changes from having a unique stable fixed point into having three fixed points. Of the three fixed points, two are stable and one is unstable. Further investigations show that solutions converge to one of the two stable fixed points depending on the initial conditions. This could explain why healthy people becoming depressed usually fall into one of two groups: a hypercortisolemic depressive group or a hypocortisolemic depressive group.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Andersen, Morten",
+          "Vinther, Frank",
+          "Ottesen, Johnny T"
+     ],
+     "AU": [
+          "Andersen M",
+          "Vinther F",
+          "Ottesen JT"
+     ],
+     "AD": "Technical University of Denmark, DTU Compute, Matematiktorvet 303B, 2800 Kongens Lyngby, Denmark; Roskilde University, Building 27.1, NSM, IMFUFA, 4000 Roskilde, Denmark.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130904",
+     "PL": "United States",
+     "TA": "Math Biosci",
+     "JT": "Mathematical biosciences",
+     "JID": "0103146",
+     "SB": "IM",
+     "MH": [
+          "Hippocampus/*physiology",
+          "Humans",
+          "Hypothalamo-Hypophyseal System/*physiology",
+          "*Nonlinear Dynamics",
+          "Pituitary-Adrenal System/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Bifurcation",
+          "Global stability",
+          "HPA",
+          "Local stability",
+          "Multiple feedbacks",
+          "Non-linear dynamics"
+     ],
+     "EDAT": "2013/09/10 06:00",
+     "MHDA": "2014/07/16 06:00",
+     "CRDT": [
+          "2013/09/10 06:00"
+     ],
+     "PHST": [
+          "2011/11/10 00:00 [received]",
+          "2013/07/06 00:00 [revised]",
+          "2013/08/14 00:00 [accepted]",
+          "2013/09/10 06:00 [entrez]",
+          "2013/09/10 06:00 [pubmed]",
+          "2014/07/16 06:00 [medline]"
+     ],
+     "AID": [
+          "S0025-5564(13)00212-5 [pii]",
+          "10.1016/j.mbs.2013.08.010 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Math Biosci. 2013 Nov;246(1):122-38. doi: 10.1016/j.mbs.2013.08.010. Epub 2013 Sep 4.",
+     "term": "hippocampus"
+}

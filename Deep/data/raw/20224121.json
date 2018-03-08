@@ -1,0 +1,97 @@
+{
+     "PMID": "20224121",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100622",
+     "LR": "20170220",
+     "IS": "1939-3539 (Electronic) 0098-5589 (Linking)",
+     "VI": "32",
+     "IP": "4",
+     "DP": "2010 Apr",
+     "TI": "Multi-object analysis of volume, pose, and shape using statistical discrimination.",
+     "PG": "652-61",
+     "LID": "10.1109/TPAMI.2009.92 [doi]",
+     "AB": "One goal of statistical shape analysis is the discrimination between two populations of objects. Whereas traditional shape analysis was mostly concerned with single objects, analysis of multi-object complexes presents new challenges related to alignment and pose. In this paper, we present a methodology for discriminant analysis of multiple objects represented by sampled medial manifolds. Non-euclidean metrics that describe geodesic distances between sets of sampled representations are used for alignment and discrimination. Our choice of discriminant method is the distance-weighted discriminant because of its generalization ability in high-dimensional, low sample size settings. Using an unbiased, soft discrimination score, we associate a statistical hypothesis test with the discrimination results. We explore the effectiveness of different choices of features as input to the discriminant analysis, using measures like volume, pose, shape, and the combination of pose and shape. Our method is applied to a longitudinal pediatric autism study with 10 subcortical brain structures in a population of 70 subjects. It is shown that the choices of type of global alignment and of intrinsic versus extrinsic shape features, the latter being sensitive to relative pose, are crucial factors for group discrimination and also for explaining the nature of shape change in terms of the application domain.",
+     "FAU": [
+          "Gorczowski, Kevin",
+          "Styner, Martin",
+          "Jeong, Ja Yeon",
+          "Marron, J S",
+          "Piven, Joseph",
+          "Hazlett, Heather Cody",
+          "Pizer, Stephen M",
+          "Gerig, Guido"
+     ],
+     "AU": [
+          "Gorczowski K",
+          "Styner M",
+          "Jeong JY",
+          "Marron JS",
+          "Piven J",
+          "Hazlett HC",
+          "Pizer SM",
+          "Gerig G"
+     ],
+     "AD": "Department of Computer Science, University of North Carolina, CB 3175, Chapel Hill, NC 27599-3175, USA. kgorcz@unc.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P30 HD003110-40/HD/NICHD NIH HHS/United States",
+          "R01 MH064580/MH/NIMH NIH HHS/United States",
+          "R01 MH064580-05/MH/NIMH NIH HHS/United States",
+          "R01 MH061696-05/MH/NIMH NIH HHS/United States",
+          "P01 EB002779/EB/NIBIB NIH HHS/United States",
+          "P50 MH064065/MH/NIMH NIH HHS/United States",
+          "P30 HD003110/HD/NICHD NIH HHS/United States",
+          "R01 MH61696/MH/NIMH NIH HHS/United States",
+          "MH64580/MH/NIMH NIH HHS/United States",
+          "P50 MH064065-10/MH/NIMH NIH HHS/United States",
+          "P01 EB002779-16/EB/NIBIB NIH HHS/United States",
+          "R01 MH061696/MH/NIMH NIH HHS/United States",
+          "MH064065/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Pattern Anal Mach Intell",
+     "JT": "IEEE transactions on pattern analysis and machine intelligence",
+     "JID": "9885960",
+     "SB": "IM",
+     "MH": [
+          "Amygdala/anatomy & histology",
+          "Autistic Disorder",
+          "Caudate Nucleus/anatomy & histology",
+          "Child, Preschool",
+          "*Discriminant Analysis",
+          "Hippocampus/anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging",
+          "*Models, Statistical",
+          "Putamen/anatomy & histology"
+     ],
+     "PMC": "PMC3118303",
+     "MID": [
+          "NIHMS296863"
+     ],
+     "EDAT": "2010/03/13 06:00",
+     "MHDA": "2010/06/23 06:00",
+     "CRDT": [
+          "2010/03/13 06:00"
+     ],
+     "PHST": [
+          "2010/03/13 06:00 [entrez]",
+          "2010/03/13 06:00 [pubmed]",
+          "2010/06/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TPAMI.2009.92 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Pattern Anal Mach Intell. 2010 Apr;32(4):652-61. doi: 10.1109/TPAMI.2009.92.",
+     "term": "hippocampus"
+}

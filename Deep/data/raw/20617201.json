@@ -1,0 +1,76 @@
+{
+     "PMID": "20617201",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100930",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "6",
+     "DP": "2010 Jul 1",
+     "TI": "Dual coding with STDP in a spiking recurrent neural network model of the hippocampus.",
+     "PG": "e1000839",
+     "LID": "10.1371/journal.pcbi.1000839 [doi]",
+     "AB": "The firing rate of single neurons in the mammalian hippocampus has been demonstrated to encode for a range of spatial and non-spatial stimuli. It has also been demonstrated that phase of firing, with respect to the theta oscillation that dominates the hippocampal EEG during stereotype learning behaviour, correlates with an animal's spatial location. These findings have led to the hypothesis that the hippocampus operates using a dual (rate and temporal) coding system. To investigate the phenomenon of dual coding in the hippocampus, we examine a spiking recurrent network model with theta coded neural dynamics and an STDP rule that mediates rate-coded Hebbian learning when pre- and post-synaptic firing is stochastic. We demonstrate that this plasticity rule can generate both symmetric and asymmetric connections between neurons that fire at concurrent or successive theta phase, respectively, and subsequently produce both pattern completion and sequence prediction from partial cues. This unifies previously disparate auto- and hetero-associative network models of hippocampal function and provides them with a firmer basis in modern neurobiology. Furthermore, the encoding and reactivation of activity in mutually exciting Hebbian cell assemblies demonstrated here is believed to represent a fundamental mechanism of cognitive processing in the brain.",
+     "FAU": [
+          "Bush, Daniel",
+          "Philippides, Andrew",
+          "Husbands, Phil",
+          "O'Shea, Michael"
+     ],
+     "AU": [
+          "Bush D",
+          "Philippides A",
+          "Husbands P",
+          "O'Shea M"
+     ],
+     "AD": "Centre for Computational Neuroscience and Robotics, University of Sussex, Falmer, Brighton, United Kingdom. d.bush@sussex.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Biotechnology and Biological Sciences Research Council/United Kingdom",
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100701",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Axons",
+          "CA3 Region, Hippocampal/*physiology",
+          "Computer Simulation",
+          "Learning",
+          "Memory",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neuronal Plasticity/*physiology",
+          "Statistics, Nonparametric",
+          "Synapses",
+          "Theta Rhythm"
+     ],
+     "PMC": "PMC2895637",
+     "EDAT": "2010/07/10 06:00",
+     "MHDA": "2010/10/01 06:00",
+     "CRDT": [
+          "2010/07/10 06:00"
+     ],
+     "PHST": [
+          "2010/01/07 00:00 [received]",
+          "2010/05/27 00:00 [accepted]",
+          "2010/07/10 06:00 [entrez]",
+          "2010/07/10 06:00 [pubmed]",
+          "2010/10/01 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1000839 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2010 Jul 1;6:e1000839. doi: 10.1371/journal.pcbi.1000839.",
+     "term": "hippocampus"
+}

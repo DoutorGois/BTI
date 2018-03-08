@@ -1,0 +1,80 @@
+{
+     "PMID": "26390491",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160818",
+     "LR": "20151104",
+     "IS": "1941-0506 (Electronic) 1077-2626 (Linking)",
+     "VI": "22",
+     "IP": "1",
+     "DP": "2016 Jan",
+     "TI": "Improving Bayesian Reasoning: The Effects of Phrasing, Visualization, and Spatial Ability.",
+     "PG": "529-38",
+     "LID": "10.1109/TVCG.2015.2467758 [doi]",
+     "AB": "Decades of research have repeatedly shown that people perform poorly at estimating and understanding conditional probabilities that are inherent in Bayesian reasoning problems. Yet in the medical domain, both physicians and patients make daily, life-critical judgments based on conditional probability. Although there have been a number of attempts to develop more effective ways to facilitate Bayesian reasoning, reports of these findings tend to be inconsistent and sometimes even contradictory. For instance, the reported accuracies for individuals being able to correctly estimate conditional probability range from 6% to 62%. In this work, we show that problem representation can significantly affect accuracies. By controlling the amount of information presented to the user, we demonstrate how text and visualization designs can increase overall accuracies to as high as 77%. Additionally, we found that for users with high spatial ability, our designs can further improve their accuracies to as high as 100%. By and large, our findings provide explanations for the inconsistent reports on accuracy in Bayesian reasoning tasks and show a significant improvement over existing methods. We believe that these findings can have immediate impact on risk communication in health-related fields.",
+     "FAU": [
+          "Ottley, Alvitta",
+          "Peck, Evan M",
+          "Harrison, Lane T",
+          "Afergan, Daniel",
+          "Ziemkiewicz, Caroline",
+          "Taylor, Holly A",
+          "Han, Paul K J",
+          "Chang, Remco"
+     ],
+     "AU": [
+          "Ottley A",
+          "Peck EM",
+          "Harrison LT",
+          "Afergan D",
+          "Ziemkiewicz C",
+          "Taylor HA",
+          "Han PK",
+          "Chang R"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20150812",
+     "PL": "United States",
+     "TA": "IEEE Trans Vis Comput Graph",
+     "JT": "IEEE transactions on visualization and computer graphics",
+     "JID": "9891704",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "*Bayes Theorem",
+          "Decision Making/*physiology",
+          "Decision Support Systems, Clinical",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Models, Statistical",
+          "Spatial Navigation/*physiology",
+          "Task Performance and Analysis",
+          "Visual Perception/*physiology",
+          "Young Adult"
+     ],
+     "EDAT": "2015/09/22 06:00",
+     "MHDA": "2016/08/19 06:00",
+     "CRDT": [
+          "2015/09/22 06:00"
+     ],
+     "PHST": [
+          "2015/09/22 06:00 [entrez]",
+          "2015/09/22 06:00 [pubmed]",
+          "2016/08/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TVCG.2015.2467758 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Vis Comput Graph. 2016 Jan;22(1):529-38. doi: 10.1109/TVCG.2015.2467758. Epub 2015 Aug 12.",
+     "term": "spatial navigation"
+}

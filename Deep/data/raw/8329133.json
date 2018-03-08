@@ -1,0 +1,62 @@
+{
+     "PMID": "8329133",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19930813",
+     "LR": "20061115",
+     "IS": "0735-7044 (Print) 0735-7044 (Linking)",
+     "VI": "107",
+     "IP": "3",
+     "DP": "1993 Jun",
+     "TI": "A simple network model simulates hippocampal place fields: II. Computing goal-directed trajectories and memory fields.",
+     "PG": "434-43",
+     "AB": "Place cells have been described as the computational elements of a neuronal cognitive mapping system that encodes and stores relationships among spatial stimuli (O'Keefe & Nadel, 1978). Furthermore, place cells seem to encode remembered locations because neural activity is maintained when the visual stimuli that influence place field location are vastly degraded, such as when cues are removed or the lights are turned off (O'Keefe & Speakman, 1987; Quirk, Muller, & Kubie, 1990). A feed-forward network model that mapped visual input onto a representation of location simulated some basic properties of hippocampal place fields, including resistance to disruption after partial cue removal (Shapiro & Hetherington, 1993). However, the stimulated place fields required visual input for their activation. We now report that a network that incorporates feedback (a) computed correct trajectories toward simulated goals and (b) simulated place fields that persist in the absence of visual input. The simulation suggests that feedback properties can provide a computational account of O'Keefe and Speakman's data.",
+     "FAU": [
+          "Hetherington, P A",
+          "Shapiro, M L"
+     ],
+     "AU": [
+          "Hetherington PA",
+          "Shapiro ML"
+     ],
+     "AD": "Department of Psychology, McGill University, Montreal, Quebec, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Behav Neurosci",
+     "JT": "Behavioral neuroscience",
+     "JID": "8302411",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Computer Simulation",
+          "Discrimination Learning/*physiology",
+          "Haplorhini",
+          "Hippocampus/*physiology",
+          "Mental Recall/*physiology",
+          "*Neural Networks (Computer)",
+          "Neurons/physiology",
+          "Orientation/*physiology",
+          "Rats",
+          "*Social Environment",
+          "Visual Perception"
+     ],
+     "EDAT": "1993/06/01 00:00",
+     "MHDA": "1993/06/01 00:01",
+     "CRDT": [
+          "1993/06/01 00:00"
+     ],
+     "PHST": [
+          "1993/06/01 00:00 [pubmed]",
+          "1993/06/01 00:01 [medline]",
+          "1993/06/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Behav Neurosci. 1993 Jun;107(3):434-43.",
+     "term": "place cells"
+}

@@ -1,0 +1,64 @@
+{
+     "PMID": "9501503",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19980410",
+     "LR": "20071114",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "10",
+     "IP": "1",
+     "DP": "1998 Jan 1",
+     "TI": "Predicting the distribution of synaptic strengths and cell firing correlations in a self-organizing, sequence prediction model.",
+     "PG": "25-57",
+     "AB": "This article investigates the synaptic weight distribution of a self-supervised, sparse, and randomly connected recurrent network inspired by hippocampal region CA3. This network solves nontrivial sequence prediction problems by creating, on a neuron-by-neuron basis, special patterns of cell firing called local context units. These specialized patterns of cell firing--possibly an analog of hippocampal place cells--allow accurate prediction of the statistical distribution of synaptic weights, and this distribution is not at all gaussian. Aside from the majority of synapses that are, at least functionally, lost due to synaptic depression, the distribution is approximately uniform. Unexpectedly, this result is relatively independent of the input environment, and the uniform distribution of synaptic weights can be approximately parameterized based solely on the average activity level. Next, the results are generalized to other cell firing types (frequency codes and stochastic firing) and place cell-like firing distributions. Finally, we note that our predictions concerning the synaptic strength distribution can be extended to the distribution of correlated cell firings. Recent published neurophysiological results are consistent with this extension.",
+     "FAU": [
+          "Amarasingham, A",
+          "Levy, W B"
+     ],
+     "AU": [
+          "Amarasingham A",
+          "Levy WB"
+     ],
+     "AD": "Echols Scholars Program, College of Arts and Sciences, University of Virginia, Charlottesville 22908, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH00622/MH/NIMH NIH HHS/United States",
+          "MH48161/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Electrophysiology",
+          "Forecasting",
+          "Humans",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Synapses/*physiology"
+     ],
+     "RF": "40",
+     "EDAT": "1998/03/21 00:00",
+     "MHDA": "1998/03/21 00:01",
+     "CRDT": [
+          "1998/03/21 00:00"
+     ],
+     "PHST": [
+          "1998/03/21 00:00 [pubmed]",
+          "1998/03/21 00:01 [medline]",
+          "1998/03/21 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 1998 Jan 1;10(1):25-57.",
+     "term": "place cells"
+}

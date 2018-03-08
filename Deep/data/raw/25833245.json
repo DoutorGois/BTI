@@ -1,0 +1,82 @@
+{
+     "PMID": "25833245",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160302",
+     "LR": "20170220",
+     "IS": "1742-5662 (Electronic) 1742-5662 (Linking)",
+     "VI": "12",
+     "IP": "106",
+     "DP": "2015 May 6",
+     "TI": "Obstacle avoidance in social groups: new insights from asynchronous models.",
+     "LID": "10.1098/rsif.2015.0178 [doi] 20150178 [pii]",
+     "AB": "For moving animals, the successful avoidance of hazardous obstacles is an important capability. Despite this, few models of collective motion have addressed the relationship between behavioural and social features and obstacle avoidance. We develop an asynchronous individual-based model for social movement which allows social structure within groups to be included. We assess the dynamics of group navigation and resulting collision risk in the context of information transfer through the system. In agreement with previous work, we find that group size has a nonlinear effect on collision risk. We implement examples of possible network structures to explore the impact social preferences have on collision risk. We show that any social heterogeneity induces greater obstacle avoidance with further improvements corresponding to groups containing fewer influential individuals. The model provides a platform for both further theoretical investigation and practical application. In particular, we argue that the role of social structures within bird flocks may have an important role to play in assessing the risk of collisions with wind turbines, but that new methods of data analysis are needed to identify these social structures.",
+     "CI": [
+          "(c) 2015 The Author(s) Published by the Royal Society. All rights reserved."
+     ],
+     "FAU": [
+          "Croft, Simon",
+          "Budgey, Richard",
+          "Pitchford, Jonathan W",
+          "Wood, A Jamie"
+     ],
+     "AU": [
+          "Croft S",
+          "Budgey R",
+          "Pitchford JW",
+          "Wood AJ"
+     ],
+     "AD": "Department of Biology, University of York, Heslington, York YO10 5DD, UK National Wildlife Management Centre, Animal and Plant Health Agency (APHA), Sand Hutton Campus, York YO41 1LZ, UK. National Wildlife Management Centre, Animal and Plant Health Agency (APHA), Sand Hutton Campus, York YO41 1LZ, UK. Department of Biology, University of York, Heslington, York YO10 5DD, UK Department of Mathematics, University of York, Heslington, York YO10 5DD, UK. Department of Biology, University of York, Heslington, York YO10 5DD, UK Department of Mathematics, University of York, Heslington, York YO10 5DD, UK jamie.wood@york.ac.uk.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "J R Soc Interface",
+     "JT": "Journal of the Royal Society, Interface",
+     "JID": "101217269",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "*Cooperative Behavior",
+          "Gait/*physiology",
+          "Humans",
+          "*Models, Statistical",
+          "*Nonlinear Dynamics",
+          "*Social Networking",
+          "Spatial Navigation/*physiology"
+     ],
+     "PMC": "PMC4424699",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "bird",
+          "collision risk",
+          "individual-based model",
+          "obstacle avoidance",
+          "social network",
+          "wind turbine"
+     ],
+     "EDAT": "2015/04/04 06:00",
+     "MHDA": "2016/03/05 06:00",
+     "CRDT": [
+          "2015/04/03 06:00"
+     ],
+     "PHST": [
+          "2015/04/03 06:00 [entrez]",
+          "2015/04/04 06:00 [pubmed]",
+          "2016/03/05 06:00 [medline]"
+     ],
+     "AID": [
+          "rsif.2015.0178 [pii]",
+          "10.1098/rsif.2015.0178 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J R Soc Interface. 2015 May 6;12(106). pii: rsif.2015.0178. doi: 10.1098/rsif.2015.0178.",
+     "term": "spatial navigation"
+}

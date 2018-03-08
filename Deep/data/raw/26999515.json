@@ -1,0 +1,86 @@
+{
+     "PMID": "26999515",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20161230",
+     "IS": "1873-6750 (Electronic) 0160-4120 (Linking)",
+     "VI": "91",
+     "DP": "2016 May",
+     "TI": "The influence of uncertainty and location-specific conditions on the environmental prioritisation of human pharmaceuticals in Europe.",
+     "PG": "301-11",
+     "LID": "10.1016/j.envint.2016.01.025 [doi] S0160-4120(16)30025-3 [pii]",
+     "AB": "The selection of priority APIs (Active Pharmaceutical Ingredients) can benefit from a spatially explicit approach, since an API might exceed the threshold of environmental concern in one location, while staying below that same threshold in another. However, such a spatially explicit approach is relatively data intensive and subject to parameter uncertainty due to limited data. This raises the question to what extent a spatially explicit approach for the environmental prioritisation of APIs remains worthwhile when accounting for uncertainty in parameter settings. We show here that the inclusion of spatially explicit information enables a more efficient environmental prioritisation of APIs in Europe, compared with a non-spatial EU-wide approach, also under uncertain conditions. In a case study with nine antibiotics, uncertainty distributions of the PAF (Potentially Affected Fraction) of aquatic species were calculated in 100 *100km(2) environmental grid cells throughout Europe, and used for the selection of priority APIs. Two APIs have median PAF values that exceed a threshold PAF of 1% in at least one environmental grid cell in Europe, i.e., oxytetracycline and erythromycin. At a tenfold lower threshold PAF (i.e., 0.1%), two additional APIs would be selected, i.e., cefuroxime and ciprofloxacin. However, in 94% of the environmental grid cells in Europe, no APIs exceed either of the thresholds. This illustrates the advantage of following a location-specific approach in the prioritisation of APIs. This added value remains when accounting for uncertainty in parameter settings, i.e., if the 95th percentile of the PAF instead of its median value is compared with the threshold. In 96% of the environmental grid cells, the location-specific approach still enables a reduction of the selection of priority APIs of at least 50%, compared with a EU-wide prioritisation.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Oldenkamp, Rik",
+          "Huijbregts, Mark A J",
+          "Ragas, Ad M J"
+     ],
+     "AU": [
+          "Oldenkamp R",
+          "Huijbregts MA",
+          "Ragas AM"
+     ],
+     "AD": "Department of Environmental Science, Institute for Wetland and Water Research, Radboud University Nijmegen, P.O. Box 9010, 6500 GL Nijmegen, The Netherlands. Electronic address: r.oldenkamp@science.ru.nl. Department of Environmental Science, Institute for Wetland and Water Research, Radboud University Nijmegen, P.O. Box 9010, 6500 GL Nijmegen, The Netherlands; Netherlands Environmental Agency, Antonie van Leeuwenhoeklaan 9, 3721 MA Bilthoven, The Netherlands. Department of Environmental Science, Institute for Wetland and Water Research, Radboud University Nijmegen, P.O. Box 9010, 6500 GL Nijmegen, The Netherlands; Faculty of Management, Science & Technology, Open Universiteit, Valkenburgerweg 177, 6419 AT Heerlen, The Netherlands.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160319",
+     "PL": "Netherlands",
+     "TA": "Environ Int",
+     "JT": "Environment international",
+     "JID": "7807270",
+     "RN": [
+          "0 (Anti-Bacterial Agents)",
+          "0 (Water Pollutants, Chemical)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Anti-Bacterial Agents/*analysis",
+          "Environmental Monitoring/*methods",
+          "Europe",
+          "Humans",
+          "Monte Carlo Method",
+          "Uncertainty",
+          "Water Pollutants, Chemical/*analysis",
+          "Water Pollution, Chemical/*analysis"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Monte Carlo",
+          "Pharmaceuticals",
+          "Prioritisation",
+          "Risk assessment",
+          "Spatially explicit",
+          "Uncertainty"
+     ],
+     "EDAT": "2016/03/22 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2016/03/22 06:00"
+     ],
+     "PHST": [
+          "2015/10/16 00:00 [received]",
+          "2016/01/29 00:00 [revised]",
+          "2016/01/30 00:00 [accepted]",
+          "2016/03/22 06:00 [entrez]",
+          "2016/03/22 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S0160-4120(16)30025-3 [pii]",
+          "10.1016/j.envint.2016.01.025 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Environ Int. 2016 May;91:301-11. doi: 10.1016/j.envint.2016.01.025. Epub 2016 Mar 19.",
+     "term": "grid cells"
+}

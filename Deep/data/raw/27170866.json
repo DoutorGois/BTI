@@ -1,0 +1,69 @@
+{
+     "PMID": "27170866",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20160512",
+     "LR": "20170220",
+     "IS": "2168-2372 (Print) 2168-2372 (Linking)",
+     "VI": "2",
+     "DP": "2014",
+     "TI": "Accurate and Fully Automatic Hippocampus Segmentation Using Subject-Specific 3D Optimal Local Maps Into a Hybrid Active Contour Model.",
+     "PG": "1800116",
+     "LID": "10.1109/JTEHM.2014.2297953 [doi]",
+     "AB": "Assessing the structural integrity of the hippocampus (HC) is an essential step toward prevention, diagnosis, and follow-up of various brain disorders due to the implication of the structural changes of the HC in those disorders. In this respect, the development of automatic segmentation methods that can accurately, reliably, and reproducibly segment the HC has attracted considerable attention over the past decades. This paper presents an innovative 3-D fully automatic method to be used on top of the multiatlas concept for the HC segmentation. The method is based on a subject-specific set of 3-D optimal local maps (OLMs) that locally control the influence of each energy term of a hybrid active contour model (ACM). The complete set of the OLMs for a set of training images is defined simultaneously via an optimization scheme. At the same time, the optimal ACM parameters are also calculated. Therefore, heuristic parameter fine-tuning is not required. Training OLMs are subsequently combined, by applying an extended multiatlas concept, to produce the OLMs that are anatomically more suitable to the test image. The proposed algorithm was tested on three different and publicly available data sets. Its accuracy was compared with that of state-of-the-art methods demonstrating the efficacy and robustness of the proposed method.",
+     "FAU": [
+          "Zarpalas, Dimitrios",
+          "Gkontra, Polyxeni",
+          "Daras, Petros",
+          "Maglaveras, Nicos"
+     ],
+     "AU": [
+          "Zarpalas D",
+          "Gkontra P",
+          "Daras P",
+          "Maglaveras N"
+     ],
+     "AD": "Information Technologies InstituteCentre for Research and Technology HellasThessalonikiGreece57001; Aristotle University of ThessalonikiLaboratory of Medical Informatics, the Medical SchoolThessalonikiGreece54124. Information Technologies Institute Centre for Research and Technology Hellas Thessaloniki Greece 57001. Information Technologies Institute Centre for Research and Technology Hellas Thessaloniki Greece 57001. Aristotle University of ThessalonikiLaboratory of Medical Informatics, the Medical SchoolThessalonikiGreece54124; Institute of Applied BiosciencesCentre for Research and Technology HellasThessalonikiGreece57001.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140109",
+     "PL": "United States",
+     "TA": "IEEE J Transl Eng Health Med",
+     "JT": "IEEE journal of translational engineering in health and medicine",
+     "JID": "101623153",
+     "PMC": "PMC4852536",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Hippocampus segmentation",
+          "hybrid active contour model (ACM)",
+          "local weighting scheme",
+          "multi-atlas",
+          "optimal local maps (OLMs)",
+          "prior knowledge"
+     ],
+     "EDAT": "2014/01/01 00:00",
+     "MHDA": "2014/01/01 00:01",
+     "CRDT": [
+          "2016/05/13 06:00"
+     ],
+     "PHST": [
+          "2013/07/30 00:00 [received]",
+          "2013/11/04 00:00 [revised]",
+          "2013/12/14 00:00 [accepted]",
+          "2016/05/13 06:00 [entrez]",
+          "2014/01/01 00:00 [pubmed]",
+          "2014/01/01 00:01 [medline]"
+     ],
+     "AID": [
+          "10.1109/JTEHM.2014.2297953 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "IEEE J Transl Eng Health Med. 2014 Jan 9;2:1800116. doi: 10.1109/JTEHM.2014.2297953. eCollection 2014.",
+     "term": "hippocampus"
+}

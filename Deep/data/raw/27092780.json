@@ -1,0 +1,101 @@
+{
+     "PMID": "27092780",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160815",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "12",
+     "IP": "4",
+     "DP": "2016 Apr",
+     "TI": "APP Is a Context-Sensitive Regulator of the Hippocampal Presynaptic Active Zone.",
+     "PG": "e1004832",
+     "LID": "10.1371/journal.pcbi.1004832 [doi]",
+     "AB": "The hallmarks of Alzheimer's disease (AD) are characterized by cognitive decline and behavioral changes. The most prominent brain region affected by the progression of AD is the hippocampal formation. The pathogenesis involves a successive loss of hippocampal neurons accompanied by a decline in learning and memory consolidation mainly attributed to an accumulation of senile plaques. The amyloid precursor protein (APP) has been identified as precursor of Abeta-peptides, the main constituents of senile plaques. Until now, little is known about the physiological function of APP within the central nervous system. The allocation of APP to the proteome of the highly dynamic presynaptic active zone (PAZ) highlights APP as a yet unknown player in neuronal communication and signaling. In this study, we analyze the impact of APP deletion on the hippocampal PAZ proteome. The native hippocampal PAZ derived from APP mouse mutants (APP-KOs and NexCreAPP/APLP2-cDKOs) was isolated by subcellular fractionation and immunopurification. Subsequently, an isobaric labeling was performed using TMT6 for protein identification and quantification by high-resolution mass spectrometry. We combine bioinformatics tools and biochemical approaches to address the proteomics dataset and to understand the role of individual proteins. The impact of APP deletion on the hippocampal PAZ proteome was visualized by creating protein-protein interaction (PPI) networks that incorporated APP into the synaptic vesicle cycle, cytoskeletal organization, and calcium-homeostasis. The combination of subcellular fractionation, immunopurification, proteomic analysis, and bioinformatics allowed us to identify APP as structural and functional regulator in a context-sensitive manner within the hippocampal active zone network.",
+     "FAU": [
+          "Lassek, Melanie",
+          "Weingarten, Jens",
+          "Wegner, Martin",
+          "Mueller, Benjamin F",
+          "Rohmer, Marion",
+          "Baeumlisberger, Dominic",
+          "Arrey, Tabiwang N",
+          "Hick, Meike",
+          "Ackermann, Jorg",
+          "Acker-Palmer, Amparo",
+          "Koch, Ina",
+          "Muller, Ulrike",
+          "Karas, Michael",
+          "Volknandt, Walter"
+     ],
+     "AU": [
+          "Lassek M",
+          "Weingarten J",
+          "Wegner M",
+          "Mueller BF",
+          "Rohmer M",
+          "Baeumlisberger D",
+          "Arrey TN",
+          "Hick M",
+          "Ackermann J",
+          "Acker-Palmer A",
+          "Koch I",
+          "Muller U",
+          "Karas M",
+          "Volknandt W"
+     ],
+     "AD": "Institute for Cell Biology and Neuroscience, Biologicum, Johann Wolfgang Goethe-University, Frankfurt am Main, Germany. Institute for Cell Biology and Neuroscience, Biologicum, Johann Wolfgang Goethe-University, Frankfurt am Main, Germany. Institute for Molecular Bioinformatics, Johann Wolfgang Goethe-University, Frankfurt am Main, Germany. Institute of Pharmaceutical Chemistry, Cluster of Excellence \"Macromolecular Complexes\", Johann Wolfgang Goethe-University, Frankfurt am Main, Germany. Institute of Pharmaceutical Chemistry, Cluster of Excellence \"Macromolecular Complexes\", Johann Wolfgang Goethe-University, Frankfurt am Main, Germany. SunChrom Wissenschaftliche Gerate GmbH, Friedrichsdorf, Germany. Thermo Fisher Scientific, Bremen, Germany. Department of Pharmacy and Molecular Biotechnology, University Heidelberg, Heidelberg Germany. Institute for Molecular Bioinformatics, Johann Wolfgang Goethe-University, Frankfurt am Main, Germany. Institute for Cell Biology and Neuroscience, Biologicum, Johann Wolfgang Goethe-University, Frankfurt am Main, Germany. Institute for Molecular Bioinformatics, Johann Wolfgang Goethe-University, Frankfurt am Main, Germany. Department of Pharmacy and Molecular Biotechnology, University Heidelberg, Heidelberg Germany. Institute of Pharmaceutical Chemistry, Cluster of Excellence \"Macromolecular Complexes\", Johann Wolfgang Goethe-University, Frankfurt am Main, Germany. Institute for Cell Biology and Neuroscience, Biologicum, Johann Wolfgang Goethe-University, Frankfurt am Main, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160419",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "RN": [
+          "0 (Amyloid beta-Protein Precursor)",
+          "0 (Aplp2 protein, mouse)",
+          "0 (Proteome)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/etiology/metabolism",
+          "Amyloid beta-Protein Precursor/deficiency/genetics/*metabolism",
+          "Animals",
+          "Computational Biology",
+          "Hippocampus/*metabolism",
+          "Humans",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Mice, Knockout",
+          "Presynaptic Terminals/metabolism",
+          "Protein Interaction Maps",
+          "Proteome/metabolism",
+          "Synapses/metabolism"
+     ],
+     "PMC": "PMC4836664",
+     "EDAT": "2016/04/20 06:00",
+     "MHDA": "2016/08/16 06:00",
+     "CRDT": [
+          "2016/04/20 06:00"
+     ],
+     "PHST": [
+          "2015/10/27 00:00 [received]",
+          "2016/02/25 00:00 [accepted]",
+          "2016/04/20 06:00 [entrez]",
+          "2016/04/20 06:00 [pubmed]",
+          "2016/08/16 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1004832 [doi]",
+          "PCOMPBIOL-D-15-01817 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2016 Apr 19;12(4):e1004832. doi: 10.1371/journal.pcbi.1004832. eCollection 2016 Apr.",
+     "term": "hippocampus"
+}

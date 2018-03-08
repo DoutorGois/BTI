@@ -1,0 +1,84 @@
+{
+     "PMID": "25126851",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151207",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "9",
+     "IP": "8",
+     "DP": "2014",
+     "TI": "Large-scale, high-resolution multielectrode-array recording depicts functional network differences of cortical and hippocampal cultures.",
+     "PG": "e105324",
+     "LID": "10.1371/journal.pone.0105324 [doi]",
+     "AB": "Understanding the detailed circuitry of functioning neuronal networks is one of the major goals of neuroscience. Recent improvements in neuronal recording techniques have made it possible to record the spiking activity from hundreds of neurons simultaneously with sub-millisecond temporal resolution. Here we used a 512-channel multielectrode array system to record the activity from hundreds of neurons in organotypic cultures of cortico-hippocampal brain slices from mice. To probe the network structure, we employed a wavelet transform of the cross-correlogram to categorize the functional connectivity in different frequency ranges. With this method we directly compare, for the first time, in any preparation, the neuronal network structures of cortex and hippocampus, on the scale of hundreds of neurons, with sub-millisecond time resolution. Among the three frequency ranges that we investigated, the lower two frequency ranges (gamma (30-80 Hz) and beta (12-30 Hz) range) showed similar network structure between cortex and hippocampus, but there were many significant differences between these structures in the high frequency range (100-1000 Hz). The high frequency networks in cortex showed short tailed degree-distributions, shorter decay length of connectivity density, smaller clustering coefficients, and positive assortativity. Our results suggest that our method can characterize frequency dependent differences of network architecture from different brain regions. Crucially, because these differences between brain regions require millisecond temporal scales to be observed and characterized, these results underscore the importance of high temporal resolution recordings for the understanding of functional networks in neuronal systems.",
+     "FAU": [
+          "Ito, Shinya",
+          "Yeh, Fang-Chin",
+          "Hiolski, Emma",
+          "Rydygier, Przemyslaw",
+          "Gunning, Deborah E",
+          "Hottowy, Pawel",
+          "Timme, Nicholas",
+          "Litke, Alan M",
+          "Beggs, John M"
+     ],
+     "AU": [
+          "Ito S",
+          "Yeh FC",
+          "Hiolski E",
+          "Rydygier P",
+          "Gunning DE",
+          "Hottowy P",
+          "Timme N",
+          "Litke AM",
+          "Beggs JM"
+     ],
+     "AD": "Santa Cruz Institute for Particle Physics, University of California Santa Cruz, Santa Cruz, California, United States of America; Department of Physics, Indiana University, Bloomington, Indiana, United States of America. Department of Physics, Indiana University, Bloomington, Indiana, United States of America. Microbiology and Environmental Toxicology Department, University of California Santa Cruz, Santa Cruz, California, United States of America. Faculty of Physics and Applied Computer Science, AGH University of Science and Technology, Krakow, Poland. Institute of Photonics, University of Strathclyde, Glasgow, United Kingdom. Faculty of Physics and Applied Computer Science, AGH University of Science and Technology, Krakow, Poland. Department of Physics, Indiana University, Bloomington, Indiana, United States of America. Santa Cruz Institute for Particle Physics, University of California Santa Cruz, Santa Cruz, California, United States of America. Department of Physics, Indiana University, Bloomington, Indiana, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20140815",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "Electroencephalography",
+          "Female",
+          "Hippocampus/cytology/*physiology",
+          "Male",
+          "Mice, Inbred C57BL",
+          "*Nerve Net",
+          "Tissue Culture Techniques"
+     ],
+     "PMC": "PMC4134292",
+     "EDAT": "2014/08/16 06:00",
+     "MHDA": "2015/12/15 06:00",
+     "CRDT": [
+          "2014/08/16 06:00"
+     ],
+     "PHST": [
+          "2014/02/23 00:00 [received]",
+          "2014/07/21 00:00 [accepted]",
+          "2014/08/16 06:00 [entrez]",
+          "2014/08/16 06:00 [pubmed]",
+          "2015/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0105324 [doi]",
+          "PONE-D-14-08011 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2014 Aug 15;9(8):e105324. doi: 10.1371/journal.pone.0105324. eCollection 2014.",
+     "term": "hippocampus"
+}

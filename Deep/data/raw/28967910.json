@@ -1,0 +1,72 @@
+{
+     "PMID": "28967910",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171102",
+     "LR": "20171102",
+     "IS": "1546-1726 (Electronic) 1097-6256 (Linking)",
+     "VI": "20",
+     "IP": "11",
+     "DP": "2017 Nov",
+     "TI": "The hippocampus as a predictive map.",
+     "PG": "1643-1653",
+     "LID": "10.1038/nn.4650 [doi]",
+     "AB": "A cognitive map has long been the dominant metaphor for hippocampal function, embracing the idea that place cells encode a geometric representation of space. However, evidence for predictive coding, reward sensitivity and policy dependence in place cells suggests that the representation is not purely spatial. We approach this puzzle from a reinforcement learning perspective: what kind of spatial representation is most useful for maximizing future reward? We show that the answer takes the form of a predictive representation. This representation captures many aspects of place cell responses that fall outside the traditional view of a cognitive map. Furthermore, we argue that entorhinal grid cells encode a low-dimensionality basis set for the predictive representation, useful for suppressing noise in predictions and extracting multiscale structure for hierarchical planning.",
+     "FAU": [
+          "Stachenfeld, Kimberly L",
+          "Botvinick, Matthew M",
+          "Gershman, Samuel J"
+     ],
+     "AU": [
+          "Stachenfeld KL",
+          "Botvinick MM",
+          "Gershman SJ"
+     ],
+     "AD": "DeepMind, London, UK. Princeton Neuroscience Institute, Princeton University, Princeton, New Jersey, USA. DeepMind, London, UK. Gatsby Computational Neuroscience Unit, University College London, London, UK. Department of Psychology and Center for Brain Science, Harvard University, Cambridge, Massachusetts, USA.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0001-7758-6896",
+          "ORCID: http://orcid.org/0000-0002-6546-3298"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171002",
+     "PL": "United States",
+     "TA": "Nat Neurosci",
+     "JT": "Nature neuroscience",
+     "JID": "9809671",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain Mapping/*methods",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Learning/*physiology",
+          "*Markov Chains",
+          "Mice",
+          "Psychomotor Performance/*physiology",
+          "*Reinforcement (Psychology)"
+     ],
+     "EDAT": "2017/10/03 06:00",
+     "MHDA": "2017/11/03 06:00",
+     "CRDT": [
+          "2017/10/03 06:00"
+     ],
+     "PHST": [
+          "2016/12/19 00:00 [received]",
+          "2017/08/29 00:00 [accepted]",
+          "2017/10/03 06:00 [pubmed]",
+          "2017/11/03 06:00 [medline]",
+          "2017/10/03 06:00 [entrez]"
+     ],
+     "AID": [
+          "nn.4650 [pii]",
+          "10.1038/nn.4650 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nat Neurosci. 2017 Nov;20(11):1643-1653. doi: 10.1038/nn.4650. Epub 2017 Oct 2.",
+     "term": "place cells"
+}

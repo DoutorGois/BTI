@@ -1,0 +1,72 @@
+{
+     "PMID": "18974826",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090206",
+     "LR": "20140902",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "4",
+     "IP": "10",
+     "DP": "2008 Oct",
+     "TI": "Cell groups reveal structure of stimulus space.",
+     "PG": "e1000205",
+     "LID": "10.1371/journal.pcbi.1000205 [doi]",
+     "AB": "An important task of the brain is to represent the outside world. It is unclear how the brain may do this, however, as it can only rely on neural responses and has no independent access to external stimuli in order to \"decode\" what those responses mean. We investigate what can be learned about a space of stimuli using only the action potentials (spikes) of cells with stereotyped -- but unknown -- receptive fields. Using hippocampal place cells as a model system, we show that one can (1) extract global features of the environment and (2) construct an accurate representation of space, up to an overall scale factor, that can be used to track the animal's position. Unlike previous approaches to reconstructing position from place cell activity, this information is derived without knowing place fields or any other functions relating neural responses to position. We find that simply knowing which groups of cells fire together reveals a surprising amount of structure in the underlying stimulus space; this may enable the brain to construct its own internal representations.",
+     "FAU": [
+          "Curto, Carina",
+          "Itskov, Vladimir"
+     ],
+     "AU": [
+          "Curto C",
+          "Itskov V"
+     ],
+     "AD": "Center for Molecular and Behavioral Neuroscience, Rutgers, The State University of New Jersey, Newark, NJ, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20081031",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Conditioning, Classical/physiology",
+          "Conditioning, Operant/physiology",
+          "Generalization, Stimulus/physiology",
+          "Hippocampus/cytology/physiology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/physiology",
+          "Orientation/physiology",
+          "Pattern Recognition, Physiological/*physiology",
+          "Set (Psychology)",
+          "Space Perception/physiology"
+     ],
+     "PMC": "PMC2565599",
+     "EDAT": "2008/11/01 09:00",
+     "MHDA": "2009/02/07 09:00",
+     "CRDT": [
+          "2008/11/01 09:00"
+     ],
+     "PHST": [
+          "2008/07/16 00:00 [received]",
+          "2008/09/15 00:00 [accepted]",
+          "2008/11/01 09:00 [pubmed]",
+          "2009/02/07 09:00 [medline]",
+          "2008/11/01 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1000205 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2008 Oct;4(10):e1000205. doi: 10.1371/journal.pcbi.1000205. Epub 2008 Oct 31.",
+     "term": "place cells"
+}

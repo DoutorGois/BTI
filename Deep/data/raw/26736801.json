@@ -1,0 +1,61 @@
+{
+     "PMID": "26736801",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160930",
+     "LR": "20160107",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2015",
+     "DP": "2015",
+     "TI": "Reconstruction of neural network topology using spike train data: Small-world features of hippocampal network.",
+     "PG": "2506-9",
+     "LID": "10.1109/EMBC.2015.7318901 [doi]",
+     "AB": "As the amount of experimental data made publicly accessible has gradually increased in recent years, it is now possible to reconsider many of the longstanding questions in neuroscience. In this paper, we present an efficient frame-work for reconstructing the functional connectivity from the spike train data curated from the Collaborative Research in Computational Neuroscience (CRCNS) program. We used a modified generalized linear model (GLM) framework with L1 norm penalty to investigate 10 datasets. These datasets contain spike train data collected from the hippocampal region of rats performing various tasks. Analysis of the reconstructed network showed that the neural network in the hippocampal region of well-trained rats demonstrated significant small-world features.",
+     "FAU": [
+          "She, Qi",
+          "So, Winnie K Y",
+          "Chan, Rosa H M"
+     ],
+     "AU": [
+          "She Q",
+          "So WK",
+          "Chan RH"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "*Hippocampus/cytology/physiology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/physiology",
+          "Rats"
+     ],
+     "EDAT": "2016/01/07 06:00",
+     "MHDA": "2016/10/01 06:00",
+     "CRDT": [
+          "2016/01/07 06:00"
+     ],
+     "PHST": [
+          "2016/01/07 06:00 [entrez]",
+          "2016/01/07 06:00 [pubmed]",
+          "2016/10/01 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2015.7318901 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2015;2015:2506-9. doi: 10.1109/EMBC.2015.7318901.",
+     "term": "hippocampus"
+}

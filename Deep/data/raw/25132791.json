@@ -1,0 +1,69 @@
+{
+     "PMID": "25132791",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "1077-3142 (Print) 1077-3142 (Linking)",
+     "VI": "117",
+     "IP": "9",
+     "DP": "2013 Sep 1",
+     "TI": "Robust measurement of individual localized changes to the aging hippocampus.",
+     "PG": "1128-1137",
+     "AB": "Alzheimer's Disease (AD) is characterized by a stereotypical spatial pattern of hippocampus (HP) atrophy over time, but reliable and precise measurement of localized longitudinal change to individual HP in AD have been elusive. We present a method for quantifying subject-specific spatial patterns of longitudinal HP change that aligns serial HP surface pairs together, cuts slices off the ends of the HP that were not shared in the two delineations being aligned, estimates weighted correspondences between baseline and follow-up HP, and finds a concise set of localized spatial change patterns that explains HP changes while down-weighting HP surface points whose estimated changes are biologically implausible. We tested our method on a synthetic HP change dataset as well as a set of 320 real elderly HP measured at 1-year intervals. Our results suggests that the proposed steps reduce the amount of implausible HP changes indicated among individual HP, increase the strength of association between HP change and cognitive function related to AD, and enhance the estimation of reliable spatially-localized HP change patterns.",
+     "FAU": [
+          "Xie, Jing",
+          "Fletcher, Evan",
+          "Singh, Baljeet",
+          "Carmichael, Owen"
+     ],
+     "AU": [
+          "Xie J",
+          "Fletcher E",
+          "Singh B",
+          "Carmichael O"
+     ],
+     "AD": "Department of Computer Science, UC, Davis One Shields Avenue, Davis, CA 95616, USA. Department of Neurology, UC, Davis One Shields Avenue, Davis, CA 95616, USA. Department of Neurology, UC, Davis One Shields Avenue, Davis, CA 95616, USA. Department of Computer Science, UC, Davis One Shields Avenue, Davis, CA 95616, USA ; Department of Neurology, UC, Davis One Shields Avenue, Davis, CA 95616, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "R01 NS017950/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Comput Vis Image Underst",
+     "JT": "Computer vision and image understanding : CVIU",
+     "JID": "9889342",
+     "PMC": "PMC4130487",
+     "MID": [
+          "NIHMS509964"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's Disease",
+          "Hippocampal shape change",
+          "Localized change pattern",
+          "Shape alignment"
+     ],
+     "EDAT": "2014/08/19 06:00",
+     "MHDA": "2014/08/19 06:00",
+     "CRDT": [
+          "2014/08/19 06:00"
+     ],
+     "PHST": [
+          "2014/08/19 06:00 [entrez]",
+          "2014/08/19 06:00 [pubmed]",
+          "2014/08/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1016/j.cviu.2012.12.007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Vis Image Underst. 2013 Sep 1;117(9):1128-1137. doi: 10.1016/j.cviu.2012.12.007.",
+     "term": "hippocampus"
+}

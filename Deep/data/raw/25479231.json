@@ -1,0 +1,108 @@
+{
+     "PMID": "25479231",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150730",
+     "LR": "20170220",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "240",
+     "DP": "2015 Jan 30",
+     "TI": "System identification of point-process neural systems using probability based Volterra kernels.",
+     "PG": "179-92",
+     "LID": "10.1016/j.jneumeth.2014.11.013 [doi] S0165-0270(14)00411-7 [pii]",
+     "AB": "BACKGROUND: Neural information processing involves a series of nonlinear dynamical input/output transformations between the spike trains of neurons/neuronal ensembles. Understanding and quantifying these transformations is critical both for understanding neural physiology such as short-term potentiation and for developing cognitive neural prosthetics. NEW METHOD: A novel method for estimating Volterra kernels for systems with point-process inputs and outputs is developed based on elementary probability theory. These Probability Based Volterra (PBV) kernels essentially describe the probability of an output spike given q input spikes at various lags t1, t2, ..., tq. RESULTS: The PBV kernels are used to estimate both synthetic systems where ground truth is available and data from the CA3 and CA1 regions rodent hippocampus. The PBV kernels give excellent predictive results in both cases. Furthermore, they are shown to be quite robust to noise and to have good convergence and overfitting properties. Through a slight modification, the PBV kernels are shown to also deal well with correlated point-process inputs. COMPARISON WITH EXISTING METHODS: The PBV kernels were compared with kernels estimated through least squares estimation (LSE) and through the Laguerre expansion technique (LET). The LSE kernels were shown to fair very poorly with real data due to the large amount of input noise. Although the LET kernels gave the best predictive results in all cases, they require prior parameter estimation. It was shown how the PBV and LET methods can be combined synergistically to maximize performance. CONCLUSIONS: The PBV kernels provide a novel and intuitive method of characterizing point-process input-output nonlinear systems.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Sandler, Roman A",
+          "Deadwyler, Samuel A",
+          "Hampson, Robert E",
+          "Song, Dong",
+          "Berger, Theodore W",
+          "Marmarelis, Vasilis Z"
+     ],
+     "AU": [
+          "Sandler RA",
+          "Deadwyler SA",
+          "Hampson RE",
+          "Song D",
+          "Berger TW",
+          "Marmarelis VZ"
+     ],
+     "AD": "Department of Biomedical Engineering, University of Southern California, Los Angeles, CA, USA. Electronic address: rsandler@usc.edu. Department of Physiology & Pharmacology, Wake Forest School of Medicine, Winston-Salem, NC, USA. Department of Physiology & Pharmacology, Wake Forest School of Medicine, Winston-Salem, NC, USA. Department of Biomedical Engineering, University of Southern California, Los Angeles, CA, USA. Department of Biomedical Engineering, University of Southern California, Los Angeles, CA, USA. Department of Biomedical Engineering, University of Southern California, Los Angeles, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB001978/EB/NIBIB NIH HHS/United States",
+          "P41-EB001978/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20141203",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials",
+          "Algorithms",
+          "Animals",
+          "CA1 Region, Hippocampal/physiology",
+          "CA3 Region, Hippocampal/physiology",
+          "Computer Simulation",
+          "Electrodes, Implanted",
+          "Least-Squares Analysis",
+          "Male",
+          "Models, Neurological",
+          "Monte Carlo Method",
+          "Motor Activity/physiology",
+          "Neurons/*physiology",
+          "Nonlinear Dynamics",
+          "*Probability Theory",
+          "ROC Curve",
+          "Rats, Long-Evans",
+          "*Signal Processing, Computer-Assisted"
+     ],
+     "PMC": "PMC4286344",
+     "MID": [
+          "NIHMS647729"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Nonlinear modeling",
+          "Rodent hippocampus",
+          "Schaffer collateral",
+          "Short-term potentiation",
+          "System identification",
+          "Volterra modeling"
+     ],
+     "EDAT": "2014/12/06 06:00",
+     "MHDA": "2015/08/01 06:00",
+     "CRDT": [
+          "2014/12/06 06:00"
+     ],
+     "PHST": [
+          "2014/07/03 00:00 [received]",
+          "2014/11/19 00:00 [revised]",
+          "2014/11/20 00:00 [accepted]",
+          "2014/12/06 06:00 [entrez]",
+          "2014/12/06 06:00 [pubmed]",
+          "2015/08/01 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(14)00411-7 [pii]",
+          "10.1016/j.jneumeth.2014.11.013 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2015 Jan 30;240:179-92. doi: 10.1016/j.jneumeth.2014.11.013. Epub 2014 Dec 3.",
+     "term": "hippocampus"
+}

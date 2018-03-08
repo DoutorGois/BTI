@@ -1,0 +1,82 @@
+{
+     "PMID": "22299620",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130816",
+     "LR": "20151119",
+     "IS": "1875-5828 (Electronic) 1567-2050 (Linking)",
+     "VI": "9",
+     "IP": "7",
+     "DP": "2012 Sep",
+     "TI": "Computer based classification of MR scans in first time applicant Alzheimer patients.",
+     "PG": "789-94",
+     "AB": "In this study, we aimed to classify MR images for recognizing Alzheimer Disease (AD) in a group of patients who were recently diagnosed by clinical history and neuropsychiatric exams by using non-biased machine-learning techniques. T1 weighted MRI scans of 31 patients with probable AD and 31 age- and gender-matched cognitively normal elderly were analyzed with voxel-based morphometry and classified by support vector machine (SVM), a machine learning technique. SVM could differentiate patients from controls with accuracy of 74% (sensitivity: 70% and specificity: 77%) when the whole brain was included the analyses. The classification accuracy was increased to 79% (sensitivity: 65 % and specificity: 93%) when the analyses restricted to hippocampus. Our results showed that SVM is a promising tool for diagnosis of AD, but needed to be improved.",
+     "FAU": [
+          "Polat, Fatma",
+          "Demirel, Selcuk Orhan",
+          "Kitis, Omer",
+          "Simsek, Fatma",
+          "Haznedaroglu, Damla Isman",
+          "Coburn, Kerry",
+          "Kumral, Emre",
+          "Gonul, Ali Saffet"
+     ],
+     "AU": [
+          "Polat F",
+          "Demirel SO",
+          "Kitis O",
+          "Simsek F",
+          "Haznedaroglu DI",
+          "Coburn K",
+          "Kumral E",
+          "Gonul AS"
+     ],
+     "AD": "1Beysehir State Hospital, Konya Turkey.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United Arab Emirates",
+     "TA": "Curr Alzheimer Res",
+     "JT": "Current Alzheimer research",
+     "JID": "101208441",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*diagnosis/pathology",
+          "Brain/*pathology",
+          "Case-Control Studies",
+          "Female",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Sensitivity and Specificity",
+          "*Support Vector Machine"
+     ],
+     "EDAT": "2012/02/04 06:00",
+     "MHDA": "2013/08/21 06:00",
+     "CRDT": [
+          "2012/02/04 06:00"
+     ],
+     "PHST": [
+          "2011/06/16 00:00 [received]",
+          "2011/12/08 00:00 [revised]",
+          "2011/12/12 00:00 [accepted]",
+          "2012/02/04 06:00 [entrez]",
+          "2012/02/04 06:00 [pubmed]",
+          "2013/08/21 06:00 [medline]"
+     ],
+     "AID": [
+          "CAR-EPUB-20120130-006 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Curr Alzheimer Res. 2012 Sep;9(7):789-94.",
+     "term": "hippocampus"
+}

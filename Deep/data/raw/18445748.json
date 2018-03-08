@@ -1,0 +1,77 @@
+{
+     "PMID": "18445748",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080515",
+     "LR": "20080430",
+     "IS": "1748-880X (Electronic) 0007-1285 (Linking)",
+     "VI": "80 Spec No 2",
+     "DP": "2007 Dec",
+     "TI": "Computational anatomical methods as applied to ageing and dementia.",
+     "PG": "S78-91",
+     "LID": "10.1259/BJR/20005470 [doi]",
+     "AB": "The cellular hallmarks of Alzheimer's disease (AD) accumulate in the living brain up to 30 years before the characteristic symptoms of dementia can be identified. Brain changes in AD are difficult to distinguish from those in normal ageing, and this has led to the development of powerful computational methods to extract statistical information on the brain changes that are characteristic of AD, mild cognitive impairment (MCI) and different dementia subtypes. Time-lapse maps can be built to show how the disease spreads in the brain, and where treatment affects the disease trajectory. Here, we review three computational approaches to map brain deficits in AD: cortical thickness maps, tensor-based morphometry and hippocampal/ventricular surface modelling. Anatomical structures, modelled as three-dimensional geometrical surfaces, are mathematically combined across subjects for group or interval comparisons. Mathematical concepts from computational surface modelling, fluid mechanics and multivariate statistics are exploited to distinguish disease from normal variations in brain structure. These methods yield insight into the dynamics of AD and MCI, showing where brain changes correlate with cognitive or behavioural changes such as language dysfunction or apathy. We describe cortical and hippocampal changes that distinguish dementia subtypes (such as Lewy-body dementia, HIV-associated dementia and AD), and we describe brain changes that predict recovery or decline in those at risk. Finally, we indicate which computational methods are powerful enough to track dementia in clinical trials, on the basis of their efficiency and sensitivity to early change, and the detail in the measures they provide.",
+     "FAU": [
+          "Thompson, P M",
+          "Apostolova, L G"
+     ],
+     "AU": [
+          "Thompson PM",
+          "Apostolova LG"
+     ],
+     "AD": "Laboratory of Neuro Imaging, Department of Neurology, UCLA School of Medicine, 635 Charles Young Drive, Los Angeles, CA 90095-1769, USA. thompson@loni.ucla.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "AG016570/AG/NIA NIH HHS/United States",
+          "EB01651/EB/NIBIB NIH HHS/United States",
+          "HD050735/HD/NICHD NIH HHS/United States",
+          "K23 AG026803/AG/NIA NIH HHS/United States",
+          "LM05639/LM/NLM NIH HHS/United States",
+          "P50 AG16570/AG/NIA NIH HHS/United States",
+          "RR019771/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+     ],
+     "PL": "England",
+     "TA": "Br J Radiol",
+     "JT": "The British journal of radiology",
+     "JID": "0373125",
+     "SB": "AIM IM",
+     "MH": [
+          "Aged",
+          "Aging/*pathology",
+          "Alzheimer Disease/pathology",
+          "Brain/*pathology",
+          "Brain Mapping/methods",
+          "Cerebral Cortex/pathology",
+          "Cerebral Ventricles/pathology",
+          "Dementia/*pathology",
+          "Disease Progression",
+          "Hippocampus/pathology",
+          "Humans"
+     ],
+     "RF": "102",
+     "EDAT": "2008/05/01 09:00",
+     "MHDA": "2008/05/16 09:00",
+     "CRDT": [
+          "2008/05/01 09:00"
+     ],
+     "PHST": [
+          "2008/05/01 09:00 [pubmed]",
+          "2008/05/16 09:00 [medline]",
+          "2008/05/01 09:00 [entrez]"
+     ],
+     "AID": [
+          "80/Special_Issue_2/S78 [pii]",
+          "10.1259/BJR/20005470 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Br J Radiol. 2007 Dec;80 Spec No 2:S78-91. doi: 10.1259/BJR/20005470.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,110 @@
+{
+     "PMID": "26708036",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20170501",
+     "IS": "1873-5894 (Electronic) 0730-725X (Linking)",
+     "VI": "34",
+     "IP": "4",
+     "DP": "2016 May",
+     "TI": "Abnormal resting state functional connectivity in patients with chronic fatigue syndrome: an arterial spin-labeling fMRI study.",
+     "PG": "603-8",
+     "LID": "10.1016/j.mri.2015.12.008 [doi] S0730-725X(15)00303-3 [pii]",
+     "AB": "BACKGROUND: Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating disorder characterized by severe fatigue and neurocognitive dysfunction. Recent work from our laboratory and others utilizing arterial spin labeling functional magnetic resonance imaging (ASL) indicated that ME/CFS patients have lower resting state regional cerebral blood flow (rCBF) in several brain areas associated with memory, cognitive, affective, and motor function. This hypoperfusion may underlie ME/CFS pathogenesis and may result in alterations of functional relationships between brain regions. The current report used ASL to compare functional connectivity of regions implicated in ME/CFS between patients and healthy controls (HC). METHODS: Participants were 17 ME/CFS patients (Mage=48.88years, SD=12) fulfilling the 1994 CDC criteria and 17 age/sex matched HC (Mage=49.82years, SD=11.32). All participants underwent T1-weighted structural MRI as well as a 6-min pseudo-continuous arterial spin labeling (pCASL) sequence, which quantifies CBF by magnetically labeling blood as it enters the brain. Imaging data were preprocessed using SPM 12 and ASL tbx, and seed-to-voxel functional connectivity analysis was conducted using the CONN toolbox. All effects noted below are significant at p<0.05 with cluster-wise FDR correction for multiple comparisons. RESULTS: ME/CFS patients demonstrated greater functional connectivity relative to HC in bilateral superior frontal gyrus, ACC, precuneus, and right angular gyrus to regions including precuneus, right postcentral gyrus, supplementary motor area, posterior cingulate gyrus, and thalamus. In contrast, HC patients had greater functional connectivity than ME/CFS in ACC, left parahippocampal gyrus, and bilateral pallidum to regions including right insula, right precentral gyrus, and hippocampus. Connectivity of the left parahippocampal gyrus correlated strongly with overall clinical fatigue of ME/CFS patients. CONCLUSION: This is the first ASL based connectivity analysis of patients with ME/CFS. Our results demonstrate altered functional connectivity of several regions associated with cognitive, affective, memory, and higher cognitive function in ME/CFS patients. Connectivity to memory related brain areas (parahippocampal gyrus) was correlated with clinical fatigue ratings, providing supporting evidence that brain network abnormalities may contribute to ME/CFS pathogenesis.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Boissoneault, Jeff",
+          "Letzen, Janelle",
+          "Lai, Song",
+          "O'Shea, Andrew",
+          "Craggs, Jason",
+          "Robinson, Michael E",
+          "Staud, Roland"
+     ],
+     "AU": [
+          "Boissoneault J",
+          "Letzen J",
+          "Lai S",
+          "O'Shea A",
+          "Craggs J",
+          "Robinson ME",
+          "Staud R"
+     ],
+     "AD": "Department of Clinical and Health Psychology, University of Florida. Department of Clinical and Health Psychology, University of Florida. Department of Radiation Oncology, and Human Imaging Core of Clinical and Translational Science Institute, University of Florida. Department of Clinical and Health Psychology, University of Florida. Department of Clinical and Health Psychology, University of Florida. Department of Clinical and Health Psychology, University of Florida. Department of Medicine, University of Florida. Electronic address: staudr@ufl.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NR014049-01/NR/NINR NIH HHS/United States",
+          "M01 RR000082/RR/NCRR NIH HHS/United States",
+          "UL1 TR000064/TR/NCATS NIH HHS/United States",
+          "R01 NR014049/NR/NINR NIH HHS/United States",
+          "UL1 TR001427/TR/NCATS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20151218",
+     "PL": "Netherlands",
+     "TA": "Magn Reson Imaging",
+     "JT": "Magnetic resonance imaging",
+     "JID": "8214883",
+     "RN": [
+          "0 (Spin Labels)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Affect",
+          "Brain/*diagnostic imaging/pathology",
+          "Brain Mapping",
+          "Cerebrovascular Circulation",
+          "Cognition",
+          "Fatigue Syndrome, Chronic/*diagnostic imaging",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Memory",
+          "Middle Aged",
+          "Neural Pathways/physiopathology",
+          "Spin Labels"
+     ],
+     "PMC": "PMC4801728",
+     "MID": [
+          "NIHMS746158"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Arterial spin labeling",
+          "Chronic fatigue syndrome",
+          "Functional connectivity",
+          "MRI"
+     ],
+     "EDAT": "2015/12/29 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2015/12/29 06:00"
+     ],
+     "PHST": [
+          "2015/09/22 00:00 [received]",
+          "2015/12/12 00:00 [accepted]",
+          "2015/12/29 06:00 [entrez]",
+          "2015/12/29 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S0730-725X(15)00303-3 [pii]",
+          "10.1016/j.mri.2015.12.008 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Magn Reson Imaging. 2016 May;34(4):603-8. doi: 10.1016/j.mri.2015.12.008. Epub 2015 Dec 18.",
+     "term": "hippocampus"
+}

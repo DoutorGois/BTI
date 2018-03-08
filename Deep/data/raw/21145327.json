@@ -1,0 +1,84 @@
+{
+     "PMID": "21145327",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110505",
+     "LR": "20131121",
+     "IS": "1095-8541 (Electronic) 0022-5193 (Linking)",
+     "VI": "272",
+     "IP": "1",
+     "DP": "2011 Mar 7",
+     "TI": "Functional role of the activity of ATP-sensitive potassium channels in electrical behavior of hippocampal neurons: experimental and theoretical studies.",
+     "PG": "16-25",
+     "LID": "10.1016/j.jtbi.2010.12.003 [doi]",
+     "AB": "ATP-sensitive K(+) (K(ATP)) channels are distributed in a variety of cell types, including hippocampal neurons. These channels provide a link between electrical activity of cell membranes and cellular metabolism. The activity of K(ATP) channels in hippocampal H19-7 neurons treated with or without short interfering RNAs (siRNAs) directed against Kir6.2 mRNA was investigated in this study. In single-channel recordings, cell exposure to diazoxide (30 muM) significantly prolonged the mean open time of K(ATP) channels; however, neither closed-time kinetics nor the single-channel conductance of the channel was altered by this compound. However, in cells transfected with Kir6.2 siRNAs, diazoxide-stimulated activity of K(ATP) channels was abolished. Based on single-channel recordings, the activity of K(ATP) channels was mathematically constructed in a Markovian manner. The simulated activity of single K(ATP) channels was incorporated in a modeled hippocampal neuron to assess how any changes in K(ATP)-channel activity affect burst firing of action potentials (APs). The modeled neuron was adopted from the model of Xu and Clancy (2008). Specifically, to mimic the action of diazoxide, the baseline value of open time (tau(bas)) of K(ATP) channels was arbitrarily elevated, while varying number of active channels (N(O)) was set to simulate electrical behavior of Kir6.2 siRNAs-transfected cells. The increase of either N(O) or tau(bas) depressed membrane excitability of modeled neuron. Fast-slow analysis of AP bursting from this modeled neuron also revealed that the increased K(ATP)-channel activity shifted the voltage nullcline in an upward direction, thereby leading to a reduction of the repetitive spike regime. Taken together, it is anticipated that the increased activity of K(ATP) channels caused by increasing N(O) or tau(bas) contributes to or is responsible for burst firing of APs in hippocampal neurons if similar results occur in vivo.",
+     "CI": [
+          "Copyright (c) 2010 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Chen, Bing-Shuo",
+          "Wu, Sheng-Nan"
+     ],
+     "AU": [
+          "Chen BS",
+          "Wu SN"
+     ],
+     "AD": "Institute of Basic Medical Sciences, National Cheng Kung University Medical College, Tainan City, Taiwan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20101208",
+     "PL": "England",
+     "TA": "J Theor Biol",
+     "JT": "Journal of theoretical biology",
+     "JID": "0376342",
+     "RN": [
+          "0 (Kir6.2 channel)",
+          "0 (Potassium Channels, Inwardly Rectifying)",
+          "0 (RNA, Small Interfering)",
+          "O5CB12L4FN (Diazoxide)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/drug effects",
+          "Animals",
+          "Cell Differentiation/drug effects",
+          "Cell Line",
+          "Computer Simulation",
+          "Diazoxide/pharmacology",
+          "Electricity",
+          "*Electrophysiological Phenomena/drug effects",
+          "Hippocampus/*cytology",
+          "Ion Channel Gating/drug effects",
+          "Models, Biological",
+          "Neurons/drug effects/*physiology",
+          "Potassium Channels, Inwardly Rectifying/*metabolism",
+          "RNA, Small Interfering/metabolism",
+          "Rats",
+          "Time Factors"
+     ],
+     "EDAT": "2010/12/15 06:00",
+     "MHDA": "2011/05/06 06:00",
+     "CRDT": [
+          "2010/12/15 06:00"
+     ],
+     "PHST": [
+          "2010/06/29 00:00 [received]",
+          "2010/10/13 00:00 [revised]",
+          "2010/12/01 00:00 [accepted]",
+          "2010/12/15 06:00 [entrez]",
+          "2010/12/15 06:00 [pubmed]",
+          "2011/05/06 06:00 [medline]"
+     ],
+     "AID": [
+          "S0022-5193(10)00645-4 [pii]",
+          "10.1016/j.jtbi.2010.12.003 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Theor Biol. 2011 Mar 7;272(1):16-25. doi: 10.1016/j.jtbi.2010.12.003. Epub 2010 Dec 8.",
+     "term": "hippocampus"
+}

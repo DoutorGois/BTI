@@ -1,0 +1,88 @@
+{
+     "PMID": "26333833",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160211",
+     "LR": "20151030",
+     "IS": "1528-1167 (Electronic) 0013-9580 (Linking)",
+     "VI": "56",
+     "IP": "11",
+     "DP": "2015 Nov",
+     "TI": "Brain regions with abnormal network properties in severe epilepsy of Lennox-Gastaut phenotype: Multivariate analysis of task-free fMRI.",
+     "PG": "1767-73",
+     "LID": "10.1111/epi.13135 [doi]",
+     "AB": "OBJECTIVE: Lennox-Gastaut syndrome, and the similar but less tightly defined Lennox-Gastaut phenotype, describe patients with severe epilepsy, generalized epileptic discharges, and variable intellectual disability. Our previous functional neuroimaging studies suggest that abnormal diffuse association network activity underlies the epileptic discharges of this clinical phenotype. Herein we use a data-driven multivariate approach to determine the spatial changes in local and global networks of patients with severe epilepsy of the Lennox-Gastaut phenotype. METHODS: We studied 9 adult patients and 14 controls. In 20 min of task-free blood oxygen level-dependent functional magnetic resonance imaging data, two metrics of functional connectivity were studied: Regional homogeneity or local connectivity, a measure of concordance between each voxel to a focal cluster of adjacent voxels; and eigenvector centrality, a global connectivity estimate designed to detect important neural hubs. Multivariate pattern analysis of these data in a machine-learning framework was used to identify spatial features that classified disease subjects. RESULTS: Multivariate pattern analysis was 95.7% accurate in classifying subjects for both local and global connectivity measures (22/23 subjects correctly classified). Maximal discriminating features were the following: increased local connectivity in frontoinsular and intraparietal areas; increased global connectivity in posterior association areas; decreased local connectivity in sensory (visual and auditory) and medial frontal cortices; and decreased global connectivity in the cingulate cortex, striatum, hippocampus, and pons. SIGNIFICANCE: Using a data-driven analysis method in task-free functional magnetic resonance imaging, we show increased connectivity in critical areas of association cortex and decreased connectivity in primary cortex. This supports previous findings of a critical role for these association cortical regions as a final common pathway in generating the Lennox-Gastaut phenotype. Abnormal function of these areas is likely to be important in explaining the intellectual problems characteristic of this disorder.",
+     "CI": [
+          "Wiley Periodicals, Inc. (c) 2015 International League Against Epilepsy."
+     ],
+     "FAU": [
+          "Pedersen, Mangor",
+          "Curwood, Evan K",
+          "Archer, John S",
+          "Abbott, David F",
+          "Jackson, Graeme D"
+     ],
+     "AU": [
+          "Pedersen M",
+          "Curwood EK",
+          "Archer JS",
+          "Abbott DF",
+          "Jackson GD"
+     ],
+     "AD": "The Florey Institute of Neuroscience and Mental Health, Melbourne, Victoria, Australia. The University of Melbourne, Florey Department of Neuroscience and Mental Health, Melbourne, Victoria, Australia. The University of Melbourne, Florey Department of Neuroscience and Mental Health, Melbourne, Victoria, Australia. Department of Medicine, The University of Melbourne, Melbourne, Victoria, Australia. Department of Neurology, Austin Health, Melbourne, Victoria, Australia. The Florey Institute of Neuroscience and Mental Health, Melbourne, Victoria, Australia. The University of Melbourne, Florey Department of Neuroscience and Mental Health, Melbourne, Victoria, Australia. The Florey Institute of Neuroscience and Mental Health, Melbourne, Victoria, Australia. The University of Melbourne, Florey Department of Neuroscience and Mental Health, Melbourne, Victoria, Australia. Department of Medicine, The University of Melbourne, Melbourne, Victoria, Australia. Department of Neurology, Austin Health, Melbourne, Victoria, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150903",
+     "PL": "United States",
+     "TA": "Epilepsia",
+     "JT": "Epilepsia",
+     "JID": "2983306R",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Brain/*metabolism/pathology",
+          "Epilepsy/diagnosis/metabolism",
+          "Female",
+          "Humans",
+          "Lennox Gastaut Syndrome/diagnosis/*metabolism",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Multivariate Analysis",
+          "Nerve Net/*metabolism/pathology",
+          "*Phenotype",
+          "*Severity of Illness Index"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Functional connectivity",
+          "Lennox-Gastaut syndrome",
+          "Multivariate pattern analysis",
+          "Secondary generalized epilepsy",
+          "fMRI"
+     ],
+     "EDAT": "2015/09/04 06:00",
+     "MHDA": "2016/02/13 06:00",
+     "CRDT": [
+          "2015/09/04 06:00"
+     ],
+     "PHST": [
+          "2015/08/05 00:00 [accepted]",
+          "2015/09/04 06:00 [entrez]",
+          "2015/09/04 06:00 [pubmed]",
+          "2016/02/13 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/epi.13135 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Epilepsia. 2015 Nov;56(11):1767-73. doi: 10.1111/epi.13135. Epub 2015 Sep 3.",
+     "term": "hippocampus"
+}

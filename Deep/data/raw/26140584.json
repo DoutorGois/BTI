@@ -1,0 +1,114 @@
+{
+     "PMID": "26140584",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161011",
+     "LR": "20170103",
+     "IS": "1522-2586 (Electronic) 1053-1807 (Linking)",
+     "VI": "42",
+     "IP": "6",
+     "DP": "2015 Dec",
+     "TI": "Semi-automated hippocampal segmentation in people with cognitive impairment using an age appropriate template for registration.",
+     "PG": "1631-8",
+     "LID": "10.1002/jmri.24966 [doi]",
+     "AB": "BACKGROUND: To evaluate a new semi-automated segmentation method for calculating hippocampal volumes and to compare results with standard software tools in a cohort of people with subjective memory complaints (SMC) and mild cognitive impairment (MCI). METHODS: Data from 58 participants, 39 with SMC (17 male, 22 female, mean age 72.6) and 19 with MCI (6 male, 13 female, mean age 74.3), were analyzed. For each participant, T1-weighted images were acquired using an MPRAGE sequence on a 3 Tesla MRI system. Hippocampal volumes (left, right, and total) were calculated with a new, age appropriate registration template, based on older people and using the advanced software tool ANTs (Advanced Normalization Tools). The results were compared with manual tracing (seen as the reference standard) and two widely accepted automated software tools (FSL, FreeSurfer). RESULTS: The hippocampal volumes, calculated by using the age appropriate registration template were significantly (P < 0.05) more accurate (mean volume accuracy more than 90%) than those obtained with FreeSurfer and FSL (both less than 70%). Dice coefficients for the hippocampal segmentations with the new template method (75.3%) were slightly, but significantly (P < 0.05) higher than those from FreeSurfer (72.4%). CONCLUSION: These results suggest that an age appropriate registration template might be a more accurate alternative to calculate hippocampal volumes when manual segmentation is not feasible.",
+     "CI": [
+          "(c) 2015 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Merkel, Bernd",
+          "Steward, Christopher",
+          "Vivash, Lucy",
+          "Malpas, Charles B",
+          "Phal, Pramit",
+          "Moffat, Bradford A",
+          "Cox, Kay L",
+          "Ellis, Kathryn A",
+          "Ames, David J",
+          "Cyarto, Elizabeth V",
+          "Lai, Michelle M Y",
+          "Sharman, Matthew J",
+          "Szoeke, Cassandra",
+          "Masters, Colin L",
+          "Lautenschlager, Nicola T",
+          "Desmond, Patricia"
+     ],
+     "AU": [
+          "Merkel B",
+          "Steward C",
+          "Vivash L",
+          "Malpas CB",
+          "Phal P",
+          "Moffat BA",
+          "Cox KL",
+          "Ellis KA",
+          "Ames DJ",
+          "Cyarto EV",
+          "Lai MM",
+          "Sharman MJ",
+          "Szoeke C",
+          "Masters CL",
+          "Lautenschlager NT",
+          "Desmond P"
+     ],
+     "AD": "Department of Radiology, The University of Melbourne, Melbourne, Victoria. Department of Radiology, The Royal Melbourne Hospital, Melbourne, Victoria. Department of Radiology, The University of Melbourne, Melbourne, Victoria. Department of Radiology, The Royal Melbourne Hospital, Melbourne, Victoria. Department of Medicine, The University of Melbourne, Melbourne, Victoria. Melbourne School of Psychological Sciences, The University of Melbourne, Melbourne, Victoria. Department of Radiology, The University of Melbourne, Melbourne, Victoria. Department of Radiology, The Royal Melbourne Hospital, Melbourne, Victoria. Department of Anatomy and Neuroscience, The University of Melbourne, Melbourne, Victoria. School of Medicine and Pharmacology, University of Western Australia, Perth, Western Australia. Academic Unit for Psychiatry of Old Age, Department of Psychiatry, St. Vincent's Health, The University of Melbourne, Kew, Victoria. Academic Unit for Psychiatry of Old Age, Department of Psychiatry, St. Vincent's Health, The University of Melbourne, Kew, Victoria. National Ageing Research Institute, Parkville, Victoria. National Ageing Research Institute, Parkville, Victoria. National Ageing Research Institute, Parkville, Victoria. School of Health Sciences, University of Tasmania, Hobart, Tasmania. Department of Medicine, The University of Melbourne, Melbourne, Victoria. The Florey Institute, The University of Melbourne, Melbourne, Victoria. Academic Unit for Psychiatry of Old Age, Department of Psychiatry, St. Vincent's Health, The University of Melbourne, Kew, Victoria. School of Psychiatry and Clinical Neurosciences & WA Centre for Health and Ageing, The University of Western Australia, Perth, Western Australia. Department of Radiology, The University of Melbourne, Melbourne, Victoria. Department of Radiology, The Royal Melbourne Hospital, Melbourne, Victoria.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150703",
+     "PL": "United States",
+     "TA": "J Magn Reson Imaging",
+     "JT": "Journal of magnetic resonance imaging : JMRI",
+     "JID": "9105850",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aging/*pathology",
+          "Cognitive Dysfunction/complications/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Male",
+          "Memory Disorders/complications/*pathology",
+          "Pattern Recognition, Automated/methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Software",
+          "*Subtraction Technique"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "hippocampus",
+          "magnetic resonance imaging",
+          "mild cognitive impairment",
+          "segmentation",
+          "subjective memory complaints"
+     ],
+     "EDAT": "2015/07/04 06:00",
+     "MHDA": "2016/10/12 06:00",
+     "CRDT": [
+          "2015/07/04 06:00"
+     ],
+     "PHST": [
+          "2015/03/08 00:00 [received]",
+          "2015/05/07 00:00 [accepted]",
+          "2015/07/04 06:00 [entrez]",
+          "2015/07/04 06:00 [pubmed]",
+          "2016/10/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/jmri.24966 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Magn Reson Imaging. 2015 Dec;42(6):1631-8. doi: 10.1002/jmri.24966. Epub 2015 Jul 3.",
+     "term": "hippocampus"
+}

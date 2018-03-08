@@ -1,0 +1,81 @@
+{
+     "PMID": "18491717",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080820",
+     "LR": "20170214",
+     "IS": "0301-0066 (Print) 0301-0066 (Linking)",
+     "VI": "37",
+     "IP": "3",
+     "DP": "2008",
+     "TI": "Broadening of activity with flow across neural structures.",
+     "PG": "401-7",
+     "AB": "Synfire chains have long been suggested as a substrate for perception and information processing in the nervous system. However, embedding activation chains in a densely connected nervous matrix risks spread of signal that will obscure or obliterate the message. We used computer modeling and physiological measurements in rat hippocampus to assess this problem of activity broadening. We simulated a series of neural modules with feedforward propagation and random connectivity within each module and from one module to the next. We found that activity broadened as it propagated from one module to the next. This occurred over a wide array of parameters with greater broadening seen with increasing excitatory-excitatory synaptic strength. Activity broadening correlated positively with propagation velocity. Multi-electrode measurements of activity propagation in disinhibited CA1 slice demonstrated broadening of about 50% over 1 mm. Such broadening is a problem for information transfer that must be dealt with in a fully functioning nervous system.",
+     "FAU": [
+          "Lytton, William W",
+          "Orman, Rena",
+          "Stewart, Mark"
+     ],
+     "AU": [
+          "Lytton WW",
+          "Orman R",
+          "Stewart M"
+     ],
+     "AD": "Downstate Medical Center, State University of New York, 450 Clarkson Avenue, Brooklyn, New York, NY 11203, USA. bill@neurosim.downstate.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS045612/NS/NINDS NIH HHS/United States",
+          "R01 NS045612-03/NS/NINDS NIH HHS/United States",
+          "R01 NS045612-04/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Perception",
+     "JT": "Perception",
+     "JID": "0372307",
+     "RN": [
+          "0 (GABA Antagonists)",
+          "Y37615DVKC (Bicuculline)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Bicuculline/pharmacology",
+          "*Computer Simulation",
+          "Electric Stimulation",
+          "GABA Antagonists/pharmacology",
+          "Male",
+          "Microelectrodes",
+          "*Models, Neurological",
+          "Neural Pathways/drug effects/physiology",
+          "Neurons/drug effects/*physiology",
+          "Organ Culture Techniques",
+          "Perception/*physiology",
+          "Rats",
+          "Rats, Sprague-Dawley"
+     ],
+     "PMC": "PMC2679216",
+     "MID": [
+          "NIHMS88658"
+     ],
+     "EDAT": "2008/05/22 09:00",
+     "MHDA": "2008/08/21 09:00",
+     "CRDT": [
+          "2008/05/22 09:00"
+     ],
+     "PHST": [
+          "2008/05/22 09:00 [pubmed]",
+          "2008/08/21 09:00 [medline]",
+          "2008/05/22 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1068/p5871 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Perception. 2008;37(3):401-7. doi: 10.1068/p5871.",
+     "term": "hippocampus"
+}

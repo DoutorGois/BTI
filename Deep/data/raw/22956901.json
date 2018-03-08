@@ -1,0 +1,80 @@
+{
+     "PMID": "22956901",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121214",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "8",
+     "IP": "8",
+     "DP": "2012",
+     "TI": "External drive to inhibitory cells induces alternating episodes of high- and low-amplitude oscillations.",
+     "PG": "e1002666",
+     "LID": "10.1371/journal.pcbi.1002666 [doi]",
+     "AB": "Electrical oscillations in neuronal network activity are ubiquitous in the brain and have been associated with cognition and behavior. Intriguingly, the amplitude of ongoing oscillations, such as measured in EEG recordings, fluctuates irregularly, with episodes of high amplitude alternating with episodes of low amplitude. Despite the widespread occurrence of amplitude fluctuations in many frequency bands and brain regions, the mechanisms by which they are generated are poorly understood. Here, we show that irregular transitions between sub-second episodes of high- and low-amplitude oscillations in the alpha/beta frequency band occur in a generic neuronal network model consisting of interconnected inhibitory and excitatory cells that are externally driven by sustained cholinergic input and trains of action potentials that activate excitatory synapses. In the model, we identify the action potential drive onto inhibitory cells, which represents input from other brain areas and is shown to desynchronize network activity, to be crucial for the emergence of amplitude fluctuations. We show that the duration distributions of high-amplitude episodes in the model match those observed in rat prefrontal cortex for oscillations induced by the cholinergic agonist carbachol. Furthermore, the mean duration of high-amplitude episodes varies in a bell-shaped manner with carbachol concentration, just as in mouse hippocampus. Our results suggest that amplitude fluctuations are a general property of oscillatory neuronal networks that can arise through background input from areas external to the network.",
+     "FAU": [
+          "Avella Gonzalez, Oscar J",
+          "van Aerde, Karlijn I",
+          "van Elburg, Ronald A J",
+          "Poil, Simon-Shlomo",
+          "Mansvelder, Huibert D",
+          "Linkenkaer-Hansen, Klaus",
+          "van Pelt, Jaap",
+          "van Ooyen, Arjen"
+     ],
+     "AU": [
+          "Avella Gonzalez OJ",
+          "van Aerde KI",
+          "van Elburg RA",
+          "Poil SS",
+          "Mansvelder HD",
+          "Linkenkaer-Hansen K",
+          "van Pelt J",
+          "van Ooyen A"
+     ],
+     "AD": "Department of Integrative Neurophysiology, Center for Neurogenomics and Cognitive Research, VU University Amsterdam, Amsterdam, The Netherlands.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120830",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "RN": [
+          "8Y164V895Y (Carbachol)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Brain/physiology",
+          "Carbachol/pharmacology",
+          "Electroencephalography",
+          "Hippocampus/drug effects/physiology",
+          "Models, Theoretical",
+          "*Nerve Net"
+     ],
+     "PMC": "PMC3431298",
+     "EDAT": "2012/09/08 06:00",
+     "MHDA": "2012/12/15 06:00",
+     "CRDT": [
+          "2012/09/08 06:00"
+     ],
+     "PHST": [
+          "2012/02/08 00:00 [received]",
+          "2012/07/16 00:00 [accepted]",
+          "2012/09/08 06:00 [entrez]",
+          "2012/09/08 06:00 [pubmed]",
+          "2012/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1002666 [doi]",
+          "PCOMPBIOL-D-12-00224 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2012;8(8):e1002666. doi: 10.1371/journal.pcbi.1002666. Epub 2012 Aug 30.",
+     "term": "hippocampus"
+}

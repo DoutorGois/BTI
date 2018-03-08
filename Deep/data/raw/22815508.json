@@ -1,0 +1,71 @@
+{
+     "PMID": "22815508",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121024",
+     "LR": "20120720",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "32",
+     "IP": "29",
+     "DP": "2012 Jul 18",
+     "TI": "Inhibitory networks of fast-spiking interneurons generate slow population activities due to excitatory fluctuations and network multistability.",
+     "PG": "9931-46",
+     "LID": "10.1523/JNEUROSCI.5446-11.2012 [doi]",
+     "AB": "Slow population activities (SPAs) exist in the brain and have frequencies below ~5 Hz. Despite SPAs being prominent in several cortical areas and serving many putative functions, their mechanisms are not well understood. We studied a specific type of in vitro GABAergic, inhibition-based SPA exhibited by C57BL/6 murine hippocampus. We used a multipronged approach consisting of experiment, simulation, and mathematical analyses to uncover mechanisms responsible for hippocampal SPAs. Our results show that hippocampal SPAs are an emergent phenomenon in which the \"slowness\" of the network is due to interactions between synaptic and cellular characteristics of individual fast-spiking, inhibitory interneurons. Our simulations quantify characteristics underlying hippocampal SPAs. In particular, for hippocampal SPAs to occur, we predict that individual fast-spiking interneurons should have frequency-current (f-I) curves that exhibit a suitably sized kink where the slope of the curve decreases more abruptly in the gamma frequency range with increasing current. We also predict that these interneurons should be well connected with one another. Our mathematical analyses show that the combination of synaptic and intrinsic conditions, as predicted by our simulations, promotes network multistability. Population slow timescales occur when excitatory fluctuations drive the network between different stable network firing states. Since many of the parameters we use are extracted from experiments and subsequent measurements of experimental f-I curves of fast-spiking interneurons exhibit characteristics as predicted, we propose that our network models capture a fundamental operating mechanism in biological hippocampal networks.",
+     "FAU": [
+          "Ho, Ernest C Y",
+          "Struber, Michael",
+          "Bartos, Marlene",
+          "Zhang, Liang",
+          "Skinner, Frances K"
+     ],
+     "AU": [
+          "Ho EC",
+          "Struber M",
+          "Bartos M",
+          "Zhang L",
+          "Skinner FK"
+     ],
+     "AD": "Toronto Western Research Institute, University Health Network, Toronto, Ontario M5T 2S8, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Female",
+          "Hippocampus/*physiology",
+          "Interneurons/*physiology",
+          "Male",
+          "Mice",
+          "Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neural Inhibition/*physiology"
+     ],
+     "EDAT": "2012/07/21 06:00",
+     "MHDA": "2012/10/25 06:00",
+     "CRDT": [
+          "2012/07/21 06:00"
+     ],
+     "PHST": [
+          "2012/07/21 06:00 [entrez]",
+          "2012/07/21 06:00 [pubmed]",
+          "2012/10/25 06:00 [medline]"
+     ],
+     "AID": [
+          "32/29/9931 [pii]",
+          "10.1523/JNEUROSCI.5446-11.2012 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2012 Jul 18;32(29):9931-46. doi: 10.1523/JNEUROSCI.5446-11.2012.",
+     "term": "hippocampus"
+}

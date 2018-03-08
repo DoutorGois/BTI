@@ -1,0 +1,64 @@
+{
+     "PMID": "26890351",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20161230",
+     "IS": "1530-888X (Electronic) 0899-7667 (Linking)",
+     "VI": "28",
+     "IP": "4",
+     "DP": "2016 Apr",
+     "TI": "Vector Symbolic Spiking Neural Network Model of Hippocampal Subarea CA1 Novelty Detection Functionality.",
+     "PG": "613-28",
+     "LID": "10.1162/NECO_a_00826 [doi]",
+     "AB": "A neural network model is presented of novelty detection in the CA1 subdomain of the hippocampal formation from the perspective of information flow. This computational model is restricted on several levels by both anatomical information about hippocampal circuitry and behavioral data from studies done in rats. Several studies report that the CA1 area broadcasts a generalized novelty signal in response to changes in the environment. Using the neural engineering framework developed by Eliasmith et al., a spiking neural network architecture is created that is able to compare high-dimensional vectors, symbolizing semantic information, according to the semantic pointer hypothesis. This model then computes the similarity between the vectors, as both direct inputs and a recalled memory from a long-term memory network by performing the dot-product operation in a novelty neural network architecture. The developed CA1 model agrees with available neuroanatomical data, as well as the presented behavioral data, and so it is a biologically realistic model of novelty detection in the hippocampus, which can provide a feasible explanation for experimentally observed dynamics.",
+     "FAU": [
+          "Agerskov, Claus"
+     ],
+     "AU": [
+          "Agerskov C"
+     ],
+     "AD": "Department of Physics, Technical University of Denmark, Kongens Lyngby, 2800, Denmark clausagerskov@hotmail.com.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160218",
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Biophysics",
+          "CA1 Region, Hippocampal/*cytology",
+          "Computer Simulation",
+          "Electric Stimulation",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "*Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Time Factors"
+     ],
+     "EDAT": "2016/02/19 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2016/02/19 06:00"
+     ],
+     "PHST": [
+          "2016/02/19 06:00 [entrez]",
+          "2016/02/19 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1162/NECO_a_00826 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2016 Apr;28(4):613-28. doi: 10.1162/NECO_a_00826. Epub 2016 Feb 18.",
+     "term": "hippocampus"
+}

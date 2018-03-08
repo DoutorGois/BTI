@@ -1,0 +1,106 @@
+{
+     "PMID": "21931544",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120111",
+     "LR": "20161019",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "7",
+     "IP": "9",
+     "DP": "2011 Sep",
+     "TI": "Efficacy of synaptic inhibition depends on multiple, dynamically interacting mechanisms implicated in chloride homeostasis.",
+     "PG": "e1002149",
+     "LID": "10.1371/journal.pcbi.1002149 [doi]",
+     "AB": "Chloride homeostasis is a critical determinant of the strength and robustness of inhibition mediated by GABA(A) receptors (GABA(A)Rs). The impact of changes in steady state Cl(-) gradient is relatively straightforward to understand, but how dynamic interplay between Cl(-) influx, diffusion, extrusion and interaction with other ion species affects synaptic signaling remains uncertain. Here we used electrodiffusion modeling to investigate the nonlinear interactions between these processes. Results demonstrate that diffusion is crucial for redistributing intracellular Cl(-) load on a fast time scale, whereas Cl(-)extrusion controls steady state levels. Interaction between diffusion and extrusion can result in a somato-dendritic Cl(-) gradient even when KCC2 is distributed uniformly across the cell. Reducing KCC2 activity led to decreased efficacy of GABA(A)R-mediated inhibition, but increasing GABA(A)R input failed to fully compensate for this form of disinhibition because of activity-dependent accumulation of Cl(-). Furthermore, if spiking persisted despite the presence of GABA(A)R input, Cl(-) accumulation became accelerated because of the large Cl(-) driving force that occurs during spikes. The resulting positive feedback loop caused catastrophic failure of inhibition. Simulations also revealed other feedback loops, such as competition between Cl(-) and pH regulation. Several model predictions were tested and confirmed by [Cl(-)](i) imaging experiments. Our study has thus uncovered how Cl(-) regulation depends on a multiplicity of dynamically interacting mechanisms. Furthermore, the model revealed that enhancing KCC2 activity beyond normal levels did not negatively impact firing frequency or cause overt extracellular K(-) accumulation, demonstrating that enhancing KCC2 activity is a valid strategy for therapeutic intervention.",
+     "FAU": [
+          "Doyon, Nicolas",
+          "Prescott, Steven A",
+          "Castonguay, Annie",
+          "Godin, Antoine G",
+          "Kroger, Helmut",
+          "De Koninck, Yves"
+     ],
+     "AU": [
+          "Doyon N",
+          "Prescott SA",
+          "Castonguay A",
+          "Godin AG",
+          "Kroger H",
+          "De Koninck Y"
+     ],
+     "AD": "Division of Cellular and Molecular Neuroscience, Centre de recherche Universite Laval Robert-Giffard, Quebec, Quebec, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS063010/NS/NINDS NIH HHS/United States",
+          "Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110908",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "RN": [
+          "0 (Chlorides)",
+          "0 (GABA-A Receptor Antagonists)",
+          "0 (Receptors, GABA-A)",
+          "0 (Symporters)",
+          "0 (potassium-chloride symporters)",
+          "56-12-2 (gamma-Aminobutyric Acid)",
+          "9NEZ333N27 (Sodium)",
+          "RWP5GA015D (Potassium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cell Membrane/metabolism",
+          "Cells, Cultured",
+          "Chlorides/*metabolism",
+          "Computational Biology",
+          "Computer Simulation",
+          "Diffusion",
+          "Electrical Synapses/*metabolism",
+          "GABA-A Receptor Antagonists/*metabolism",
+          "Hippocampus/cytology",
+          "Hydrogen-Ion Concentration",
+          "Immunohistochemistry",
+          "Intracellular Space/metabolism",
+          "Microscopy, Fluorescence",
+          "*Models, Biological",
+          "Neurons/metabolism",
+          "Potassium/metabolism",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Receptors, GABA-A/*metabolism",
+          "Reproducibility of Results",
+          "Sodium/metabolism",
+          "Symporters/metabolism",
+          "gamma-Aminobutyric Acid/metabolism"
+     ],
+     "PMC": "PMC3169517",
+     "EDAT": "2011/09/21 06:00",
+     "MHDA": "2012/01/12 06:00",
+     "CRDT": [
+          "2011/09/21 06:00"
+     ],
+     "PHST": [
+          "2010/12/24 00:00 [received]",
+          "2011/06/11 00:00 [accepted]",
+          "2011/09/21 06:00 [entrez]",
+          "2011/09/21 06:00 [pubmed]",
+          "2012/01/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1002149 [doi]",
+          "PCOMPBIOL-D-11-00014 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2011 Sep;7(9):e1002149. doi: 10.1371/journal.pcbi.1002149. Epub 2011 Sep 8.",
+     "term": "hippocampus"
+}

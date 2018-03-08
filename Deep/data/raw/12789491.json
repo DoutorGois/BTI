@@ -1,0 +1,54 @@
+{
+     "PMID": "12789491",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040227",
+     "LR": "20030605",
+     "IS": "0340-1200 (Print) 0340-1200 (Linking)",
+     "VI": "88",
+     "IP": "6",
+     "DP": "2003 Jun",
+     "TI": "A recurrent network for landmark-based navigation.",
+     "PG": "425-37",
+     "AB": "A new type of network is proposed that can be applied to landmark navigation. It solves the guidance task, that is, it finds a nonvisually marked location using knowledge concerning its spatial relation to other, visible landmarks. The path to the searched location is not disturbed if a landmark is not visible for some time. The network can also describe findings obtained by experiments with insects and rodents, where the position of the landmarks has been changed after training. In this net, recognition does not occur by searching for a match between a pattern seen and the same pattern being stored but by searching for a match between a pattern seen with a prediction calculated from different data. A simple extension allows a unique match of the landmarks seen with the items stored in memory. With this extension a recognition of the individual landmark is not necessary. A specific output unit of the network can be interpreted in such a way as to show properties of place cells found in vertebrates and the function of the network proposed here as to determine the input to a place cell. The model can explain the observation that a given place cell can also be active when the animal moves in a different environment. An extension is discussed of how the network could be exploited for recognition-triggered response that allows animals to follow fixed routes.",
+     "FAU": [
+          "Cruse, H"
+     ],
+     "AU": [
+          "Cruse H"
+     ],
+     "AD": "Faculty of Biology, University of Bielefeld, Postfach 100131, 33501 Bielefeld, Germany. holk.cruse@uni-bielefeld.de",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Motor Activity/physiology",
+          "*Neural Networks (Computer)",
+          "Robotics/instrumentation/*methods"
+     ],
+     "EDAT": "2003/06/06 05:00",
+     "MHDA": "2004/02/28 05:00",
+     "CRDT": [
+          "2003/06/06 05:00"
+     ],
+     "PHST": [
+          "2003/06/06 05:00 [pubmed]",
+          "2004/02/28 05:00 [medline]",
+          "2003/06/06 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s00422-003-0395-9 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Cybern. 2003 Jun;88(6):425-37. doi: 10.1007/s00422-003-0395-9.",
+     "term": "place cells"
+}

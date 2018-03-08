@@ -1,0 +1,73 @@
+{
+     "PMID": "18171132",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081002",
+     "LR": "20080107",
+     "IS": "1064-5462 (Print) 1064-5462 (Linking)",
+     "VI": "14",
+     "IP": "1",
+     "DP": "2008 Winter",
+     "TI": "Algebraic method for the analysis of signaling crosstalk.",
+     "PG": "81-94",
+     "LID": "10.1162/artl.2008.14.1.81 [doi]",
+     "AB": "A unified mathematical description that expresses the characteristics of whole systems is necessary for an understanding of signal transduction cascades. In this study we explore an algebraic method, named extreme signaling flow, enhanced from the concept of extreme pathway, to analyze signal transduction systems. This method enables us to represent the long-term potentiation (LTP) and the long-term depression (LTD) of hippocampal neuronal plasticity in an integrated simulation model. The model is validated by comparing the results of redundancy, reaction participation, and in silico knockout analysis with biological knowledge available from the literature. The following properties are assumed in these computational analyses: (1) LTP is fault-tolerant under network modification, (2) protein kinase C and MAPK have numerous routes to LTP induction, (3) calcium-calmodulin kinase II has a few routes to LTP induction, and (4) calcineurin has many routes to LTD induction. These results demonstrate that our approach produces an integrated framework for analyzing properties of large-scale systems with complicated signal transduction.",
+     "FAU": [
+          "Matsubara, Yoshiya",
+          "Kikuchi, Shinichi",
+          "Sugimoto, Masahiro",
+          "Oka, Kotaro",
+          "Tomita, Masaru"
+     ],
+     "AU": [
+          "Matsubara Y",
+          "Kikuchi S",
+          "Sugimoto M",
+          "Oka K",
+          "Tomita M"
+     ],
+     "AD": "Institute for Advanced Biosciences, Keio University, Endo 5322, Fujisawa, Kanagawa, 252-8520, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Artif Life",
+     "JT": "Artificial life",
+     "JID": "9433814",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Computer Simulation",
+          "Gene Expression Regulation",
+          "Hippocampus/cytology/physiology",
+          "Long-Term Potentiation",
+          "Long-Term Synaptic Depression",
+          "Mathematics",
+          "Mice",
+          "Mice, Knockout",
+          "*Models, Biological",
+          "Neurons/metabolism",
+          "Reproducibility of Results",
+          "*Signal Transduction"
+     ],
+     "EDAT": "2008/01/04 09:00",
+     "MHDA": "2008/10/03 09:00",
+     "CRDT": [
+          "2008/01/04 09:00"
+     ],
+     "PHST": [
+          "2008/01/04 09:00 [pubmed]",
+          "2008/10/03 09:00 [medline]",
+          "2008/01/04 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/artl.2008.14.1.81 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Artif Life. 2008 Winter;14(1):81-94. doi: 10.1162/artl.2008.14.1.81.",
+     "term": "hippocampus"
+}

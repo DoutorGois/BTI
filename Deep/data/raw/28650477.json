@@ -1,0 +1,88 @@
+{
+     "PMID": "28650477",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170822",
+     "LR": "20170822",
+     "IS": "1548-7105 (Electronic) 1548-7091 (Linking)",
+     "VI": "14",
+     "IP": "8",
+     "DP": "2017 Aug",
+     "TI": "Video rate volumetric Ca(2+) imaging across cortex using seeded iterative demixing (SID) microscopy.",
+     "PG": "811-818",
+     "LID": "10.1038/nmeth.4341 [doi]",
+     "AB": "Light-field microscopy (LFM) is a scalable approach for volumetric Ca(2+) imaging with high volumetric acquisition rates (up to 100 Hz). Although the technology has enabled whole-brain Ca(2+) imaging in semi-transparent specimens, tissue scattering has limited its application in the rodent brain. We introduce seeded iterative demixing (SID), a computational source-extraction technique that extends LFM to the mammalian cortex. SID can capture neuronal dynamics in vivo within a volume of 900 x 900 x 260 mum located as deep as 380 mum in the mouse cortex or hippocampus at a 30-Hz volume rate while discriminating signals from neurons as close as 20 mum apart, at a computational cost three orders of magnitude less than that of frame-by-frame image reconstruction. We expect that the simplicity and scalability of LFM, coupled with the performance of SID, will open up a range of applications including closed-loop experiments.",
+     "FAU": [
+          "Nobauer, Tobias",
+          "Skocek, Oliver",
+          "Pernia-Andrade, Alejandro J",
+          "Weilguny, Lukas",
+          "Traub, Francisca Martinez",
+          "Molodtsov, Maxim I",
+          "Vaziri, Alipasha"
+     ],
+     "AU": [
+          "Nobauer T",
+          "Skocek O",
+          "Pernia-Andrade AJ",
+          "Weilguny L",
+          "Traub FM",
+          "Molodtsov MI",
+          "Vaziri A"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0001-9959-4539",
+          "ORCID: http://orcid.org/0000-0001-8346-7551"
+     ],
+     "AD": "Laboratory of Neurotechnology and Biophysics, The Rockefeller University, New York, New York, USA. Laboratory of Neurotechnology and Biophysics, The Rockefeller University, New York, New York, USA. Research Institute of Molecular Pathology, Vienna, Austria. Research Institute of Molecular Pathology, Vienna, Austria. Laboratory of Neurotechnology and Biophysics, The Rockefeller University, New York, New York, USA. Research Institute of Molecular Pathology, Vienna, Austria. Laboratory of Neurotechnology and Biophysics, The Rockefeller University, New York, New York, USA. Research Institute of Molecular Pathology, Vienna, Austria. The Kavli Neural Systems Institute, The Rockefeller University, New York, New York, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170626",
+     "PL": "United States",
+     "TA": "Nat Methods",
+     "JT": "Nature methods",
+     "JID": "101215604",
+     "RN": [
+          "57WA9QZ5WH (Nimodipine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Brain Mapping/*methods",
+          "Calcium Signaling/*physiology",
+          "Female",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Male",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Microscopy, Video/*methods",
+          "Molecular Imaging/*methods",
+          "Neurons/cytology/*physiology",
+          "Nimodipine",
+          "Zebrafish"
+     ],
+     "EDAT": "2017/06/27 06:00",
+     "MHDA": "2017/08/23 06:00",
+     "CRDT": [
+          "2017/06/27 06:00"
+     ],
+     "PHST": [
+          "2017/02/21 00:00 [received]",
+          "2017/05/19 00:00 [accepted]",
+          "2017/06/27 06:00 [pubmed]",
+          "2017/08/23 06:00 [medline]",
+          "2017/06/27 06:00 [entrez]"
+     ],
+     "AID": [
+          "nmeth.4341 [pii]",
+          "10.1038/nmeth.4341 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nat Methods. 2017 Aug;14(8):811-818. doi: 10.1038/nmeth.4341. Epub 2017 Jun 26.",
+     "term": "hippocampus"
+}

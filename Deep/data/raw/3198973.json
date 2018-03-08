@@ -1,0 +1,54 @@
+{
+     "PMID": "3198973",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19890119",
+     "LR": "20031114",
+     "IS": "0265-0746 (Print) 0265-0746 (Linking)",
+     "VI": "5",
+     "IP": "2",
+     "DP": "1988",
+     "TI": "Membrane voltage changes in passive dendritic trees: a tapering equivalent cylinder model.",
+     "PG": "113-45",
+     "AB": "An exponentially tapering equivalent cylinder model is employed in order to approximate the loss of the dendritic trunk parameter observed from anatomical data on apical and basilar dendrites of CA1 and CA3 hippocampal pyramidal neurons. This model allows dendritic trees with a relative paucity of branching to be treated. In particular, terminal branches are not required to end at the same electrotonic distance. The Laplace transform method is used to obtain analytic expressions for the Green's function corresponding to an instantaneous pulse of current injected at a single point along a tapering equivalent cylinder with sealed ends. The time course of the voltage in response to an arbitrary input is computed using the Green's function in a convolution integral. Examples of current input considered are (1) an infinitesimally brief (Dirac delta function) pulse and (2) a step pulse. It is demonstrated that inputs located on a tapering equivalent cylinder are more effective at the soma than identically placed inputs on a nontapering equivalent cylinder. Asymptotic solutions are derived to enable the voltage response behaviour over both relatively short and long time periods to be analysed. Semilogarithmic plots of these solutions provide a basis for estimating the membrane time constant tau m from experimental transients. Transient voltage decrement from a clamped soma reveals that tapering tends to reduce the error associated with inadequate voltage clamping of the dendritic membrane. A formula is derived which shows that tapering tends to increase the estimate of the electrotonic length parameter L.",
+     "FAU": [
+          "Poznanski, R R"
+     ],
+     "AU": [
+          "Poznanski RR"
+     ],
+     "AD": "Department of Mathematics, Monash University, Clayton, Victoria, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "England",
+     "TA": "IMA J Math Appl Med Biol",
+     "JT": "IMA journal of mathematics applied in medicine and biology",
+     "JID": "8704892",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Dendrites/*physiology",
+          "Hippocampus/physiology",
+          "Membrane Potentials",
+          "*Models, Neurological",
+          "*Models, Statistical",
+          "Time Factors"
+     ],
+     "EDAT": "1988/01/01 00:00",
+     "MHDA": "1988/01/01 00:01",
+     "CRDT": [
+          "1988/01/01 00:00"
+     ],
+     "PHST": [
+          "1988/01/01 00:00 [pubmed]",
+          "1988/01/01 00:01 [medline]",
+          "1988/01/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "IMA J Math Appl Med Biol. 1988;5(2):113-45.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,83 @@
+{
+     "PMID": "26355815",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160620",
+     "LR": "20170220",
+     "IS": "1741-2552 (Electronic) 1741-2552 (Linking)",
+     "VI": "12",
+     "IP": "5",
+     "DP": "2015 Oct",
+     "TI": "Hippocampal closed-loop modeling and implications for seizure stimulation design.",
+     "PG": "056017",
+     "LID": "10.1088/1741-2560/12/5/056017 [doi]",
+     "AB": "OBJECTIVE: Traditional hippocampal modeling has focused on the series of feedforward synapses known as the trisynaptic pathway. However, feedback connections from CA1 back to the hippocampus through the entorhinal cortex (EC) actually make the hippocampus a closed-loop system. By constructing a functional closed-loop model of the hippocampus, one may learn how both physiological and epileptic oscillations emerge and design efficient neurostimulation patterns to abate such oscillations. APPROACH: Point process input-output models where estimated from recorded rodent hippocampal data to describe the nonlinear dynamical transformation from CA3 --> CA1, via the schaffer-collateral synapse, and CA1 --> CA3 via the EC. Each Volterra-like subsystem was composed of linear dynamics (principal dynamic modes) followed by static nonlinearities. The two subsystems were then wired together to produce the full closed-loop model of the hippocampus. MAIN RESULTS: Closed-loop connectivity was found to be necessary for the emergence of theta resonances as seen in recorded data, thus validating the model. The model was then used to identify frequency parameters for the design of neurostimulation patterns to abate seizures. SIGNIFICANCE: Deep-brain stimulation (DBS) is a new and promising therapy for intractable seizures. Currently, there is no efficient way to determine optimal frequency parameters for DBS, or even whether periodic or broadband stimuli are optimal. Data-based computational models have the potential to be used as a testbed for designing optimal DBS patterns for individual patients. However, in order for these models to be successful they must incorporate the complex closed-loop structure of the seizure focus. This study serves as a proof-of-concept of using such models to design efficient personalized DBS patterns for epilepsy.",
+     "FAU": [
+          "Sandler, Roman A",
+          "Song, Dong",
+          "Hampson, Robert E",
+          "Deadwyler, Sam A",
+          "Berger, Theodore W",
+          "Marmarelis, Vasilis Z"
+     ],
+     "AU": [
+          "Sandler RA",
+          "Song D",
+          "Hampson RE",
+          "Deadwyler SA",
+          "Berger TW",
+          "Marmarelis VZ"
+     ],
+     "AD": "Department of Biomedical Engineering, University of Southern California, Los Angeles, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB001978/EB/NIBIB NIH HHS/United States",
+          "P41-EB001978/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20150910",
+     "PL": "England",
+     "TA": "J Neural Eng",
+     "JT": "Journal of neural engineering",
+     "JID": "101217933",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "*Biological Clocks",
+          "Computer Simulation",
+          "Deep Brain Stimulation/*methods",
+          "Electroencephalography/methods",
+          "Epilepsy/diagnosis/*physiopathology/*prevention & control",
+          "Feedback, Physiological",
+          "Hippocampus/*physiopathology",
+          "Humans",
+          "*Models, Neurological"
+     ],
+     "PMC": "PMC5030843",
+     "MID": [
+          "NIHMS723165"
+     ],
+     "EDAT": "2015/09/12 06:00",
+     "MHDA": "2016/06/21 06:00",
+     "CRDT": [
+          "2015/09/11 06:00"
+     ],
+     "PHST": [
+          "2015/09/11 06:00 [entrez]",
+          "2015/09/12 06:00 [pubmed]",
+          "2016/06/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1088/1741-2560/12/5/056017 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neural Eng. 2015 Oct;12(5):056017. doi: 10.1088/1741-2560/12/5/056017. Epub 2015 Sep 10.",
+     "term": "hippocampus"
+}

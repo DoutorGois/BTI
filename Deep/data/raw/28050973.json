@@ -1,0 +1,98 @@
+{
+     "PMID": "28050973",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171205",
+     "LR": "20171205",
+     "IS": "1741-2552 (Electronic) 1741-2552 (Linking)",
+     "VI": "14",
+     "IP": "2",
+     "DP": "2017 Apr",
+     "TI": "Behavioral state classification in epileptic brain using intracranial electrophysiology.",
+     "PG": "026001",
+     "LID": "10.1088/1741-2552/aa5688 [doi]",
+     "AB": "OBJECTIVE: Automated behavioral state classification can benefit next generation implantable epilepsy devices. In this study we explored the feasibility of automated awake (AW) and slow wave sleep (SWS) classification using wide bandwidth intracranial EEG (iEEG) in patients undergoing evaluation for epilepsy surgery. APPROACH: Data from seven patients (age [Formula: see text], 4 women) who underwent intracranial depth electrode implantation for iEEG monitoring were included. Spectral power features (0.1-600 Hz) spanning several frequency bands from a single electrode were used to train and test a support vector machine classifier. MAIN RESULTS: Classification accuracy of 97.8 +/- 0.3% (normal tissue) and 89.4 +/- 0.8% (epileptic tissue) across seven subjects using multiple spectral power features from a single electrode was achieved. Spectral power features from electrodes placed in normal temporal neocortex were found to be more useful (accuracy 90.8 +/- 0.8%) for sleep-wake state classification than electrodes located in normal hippocampus (87.1 +/- 1.6%). Spectral power in high frequency band features (Ripple (80-250 Hz), Fast Ripple (250-600 Hz)) showed comparable performance for AW and SWS classification as the best performing Berger bands (Alpha, Beta, low Gamma) with accuracy 90% using a single electrode contact and single spectral feature. SIGNIFICANCE: Automated classification of wake and SWS should prove useful for future implantable epilepsy devices with limited computational power, memory, and number of electrodes. Applications include quantifying patient sleep patterns and behavioral state dependent detection, prediction, and electrical stimulation therapies.",
+     "FAU": [
+          "Kremen, Vaclav",
+          "Duque, Juliano J",
+          "Brinkmann, Benjamin H",
+          "Berry, Brent M",
+          "Kucewicz, Michal T",
+          "Khadjevand, Fatemeh",
+          "Van Gompel, Jamie",
+          "Stead, Matt",
+          "St Louis, Erik K",
+          "Worrell, Gregory A"
+     ],
+     "AU": [
+          "Kremen V",
+          "Duque JJ",
+          "Brinkmann BH",
+          "Berry BM",
+          "Kucewicz MT",
+          "Khadjevand F",
+          "Van Gompel J",
+          "Stead M",
+          "St Louis EK",
+          "Worrell GA"
+     ],
+     "AD": "Department of Neurology, Mayo Systems Electrophysiology Laboratory, Mayo Clinic, 200 First St SW, Rochester, MN 55905, USA. Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University in Prague, Zikova street 1903/4, 166 36 Prague 6, Czech Republic. Department of Physiology and Biomedical Engineering, Mayo Clinic, 200 First St SW, Rochester, MN 55905, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS063039/NS/NINDS NIH HHS/United States",
+          "R01 NS078136/NS/NINDS NIH HHS/United States",
+          "R01 NS092882/NS/NINDS NIH HHS/United States",
+          "UH2 NS095495/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170104",
+     "PL": "England",
+     "TA": "J Neural Eng",
+     "JT": "Journal of neural engineering",
+     "JID": "101217933",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Algorithms",
+          "Diagnosis, Computer-Assisted/*methods",
+          "Electrocorticography/*methods",
+          "Epilepsy/*diagnosis/*physiopathology",
+          "Female",
+          "Hippocampus/*physiopathology",
+          "Humans",
+          "Machine Learning",
+          "Male",
+          "Pattern Recognition, Automated/methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Sleep Stages"
+     ],
+     "PMC": "PMC5460075",
+     "MID": [
+          "NIHMS846496"
+     ],
+     "EDAT": "2017/01/05 06:00",
+     "MHDA": "2017/12/06 06:00",
+     "CRDT": [
+          "2017/01/05 06:00"
+     ],
+     "PMCR": [
+          "2018/04/01 00:00"
+     ],
+     "PHST": [
+          "2018/04/01 00:00 [pmc-release]",
+          "2017/01/05 06:00 [pubmed]",
+          "2017/12/06 06:00 [medline]",
+          "2017/01/05 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1088/1741-2552/aa5688 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neural Eng. 2017 Apr;14(2):026001. doi: 10.1088/1741-2552/aa5688. Epub 2017 Jan 4.",
+     "term": "hippocampus"
+}

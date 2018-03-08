@@ -1,0 +1,90 @@
+{
+     "PMID": "22613744",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120810",
+     "LR": "20161019",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "206",
+     "IP": "2",
+     "DP": "2012",
+     "TI": "Automated measurement of nerve fiber density using line intensity scan analysis.",
+     "PG": "165-75",
+     "LID": "10.1016/j.jneumeth.2012.02.019 [doi]",
+     "AB": "Quantification of nerve fibers in peripheral and central nervous systems is important for the understanding of neuronal function, organization and pathological changes. However, current methods to quantify nerve fibers are resource-intensive and often provide an indirect measurement of nerve fiber density. Here, we describe an automated and efficient method for nerve fiber quantification, which we developed by making use of widely available software and analytical techniques, including Hessian-based feature extraction in NIH ImageJ and line intensity scan analysis. The combined use of these analytical tools through an automated routine enables reliable detection and quantification of nerve fibers from low magnification, non-uniformly labeled epifluorescence images. This allows for time-efficient determination of nerve density and also comparative analysis in large brain structures, such as hippocampus or between various regions of neural circuitry. Using this method, we have obtained accurate measurements of cholinergic fiber density in hippocampus and a large area of cortex in mouse brain sections immunolabeled with an antibody against the vesicular acetylcholine transporter (VAChT). The density values are comparable among animals tested, showing a high degree of reproducibility. Because our method can be performed at relatively low cost and in large tissue sections where nerve fibers can be labeled by various antibodies or visualized by expression of reporter proteins, such as green fluorescent protein in transgenic mice, we expect our method to be broadly useful in both research and clinical investigation. To our knowledge, this is the first method to reliably quantify nerve fibers through a rapid and automated protocol.",
+     "CI": [
+          "Copyright 2012 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Sathyanesan, Aaron",
+          "Ogura, Tatsuya",
+          "Lin, Weihong"
+     ],
+     "AU": [
+          "Sathyanesan A",
+          "Ogura T",
+          "Lin W"
+     ],
+     "AD": "Department of Biological Sciences, University of Maryland, Baltimore County, Baltimore, MD 21250, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 DC009269-04/DC/NIDCD NIH HHS/United States",
+          "R01 DC009269-02S1/DC/NIDCD NIH HHS/United States",
+          "NIH/NIDCD 009269/PHS HHS/United States",
+          "R01 DC009269-03/DC/NIDCD NIH HHS/United States",
+          "R01 DC009269/DC/NIDCD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, American Recovery and Reinvestment Act",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20120228",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Fluorescent Dyes)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cerebral Cortex/*physiology",
+          "Cholinergic Neurons/*physiology",
+          "Female",
+          "Fluorescent Dyes",
+          "Hippocampus/*physiology",
+          "Image Processing, Computer-Assisted/*methods",
+          "Male",
+          "Mice",
+          "Microscopy, Fluorescence",
+          "Nerve Fibers/*physiology"
+     ],
+     "PMC": "PMC3358701",
+     "MID": [
+          "NIHMS360501"
+     ],
+     "EDAT": "2012/05/23 06:00",
+     "MHDA": "2012/08/11 06:00",
+     "CRDT": [
+          "2012/05/23 06:00"
+     ],
+     "PHST": [
+          "2011/10/16 00:00 [received]",
+          "2012/02/16 00:00 [revised]",
+          "2012/02/20 00:00 [accepted]",
+          "2012/05/23 06:00 [entrez]",
+          "2012/05/23 06:00 [pubmed]",
+          "2012/08/11 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(12)00064-7 [pii]",
+          "10.1016/j.jneumeth.2012.02.019 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2012;206(2):165-75. doi: 10.1016/j.jneumeth.2012.02.019. Epub 2012 Feb 28.",
+     "term": "hippocampus"
+}

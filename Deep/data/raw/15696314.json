@@ -1,0 +1,69 @@
+{
+     "PMID": "15696314",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050617",
+     "LR": "20061115",
+     "IS": "0340-1200 (Print) 0340-1200 (Linking)",
+     "VI": "92",
+     "IP": "2",
+     "DP": "2005 Feb",
+     "TI": "The spatiotemporal learning rule and its efficiency in separating spatiotemporal patterns.",
+     "PG": "139-46",
+     "AB": "The hippocampus plays an important role in the course of establishing long-term memory, i.e., to make short-term memory of spatially and temporally associated input information. In 1996 (Tsukada et al. 1996), the spatiotemporal learning rule was proposed based on differences observed in hippocampal long-term potentiation (LTP) induced by various spatiotemporal pattern stimuli. One essential point of this learning rule is that the change of synaptic weight depends on both spatial coincidence and the temporal summation of input pulses. We applied this rule to a single-layered neural network and compared its ability to separate spatiotemporal patterns with that of other rules, including the Hebbian learning rule and its extended rules. The simulated results showed that the spatiotemporal learning rule had the highest efficiency in discriminating spatiotemporal pattern sequences, while the Hebbian learning rule (including its extended rules) was sensitive to differences in spatial patterns.",
+     "FAU": [
+          "Tsukada, M",
+          "Pan, X"
+     ],
+     "AU": [
+          "Tsukada M",
+          "Pan X"
+     ],
+     "AD": "Department of Information-Communication Engineering/Brain Science Research Center, Research Institute, Tamagawa University, Machida, Tokyo, Japan. tsukada@eng.tamagawa.ac.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20050204",
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Electric Stimulation",
+          "Hippocampus/*cytology",
+          "Humans",
+          "Learning/*physiology",
+          "Nerve Net/*physiology",
+          "Neural Networks (Computer)",
+          "Neuronal Plasticity/*physiology",
+          "Neurons/*physiology",
+          "Synaptic Transmission",
+          "Time Factors"
+     ],
+     "EDAT": "2005/02/08 09:00",
+     "MHDA": "2005/06/18 09:00",
+     "CRDT": [
+          "2005/02/08 09:00"
+     ],
+     "PHST": [
+          "2004/07/01 00:00 [received]",
+          "2004/09/28 00:00 [accepted]",
+          "2005/02/08 09:00 [pubmed]",
+          "2005/06/18 09:00 [medline]",
+          "2005/02/08 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s00422-004-0523-1 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Cybern. 2005 Feb;92(2):139-46. doi: 10.1007/s00422-004-0523-1. Epub 2005 Feb 4.",
+     "term": "hippocampus"
+}

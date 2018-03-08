@@ -1,0 +1,84 @@
+{
+     "PMID": "15390166",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050511",
+     "LR": "20071114",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "15",
+     "IP": "1",
+     "DP": "2005",
+     "TI": "Deforming the hippocampal map.",
+     "PG": "41-55",
+     "AB": "To investigate conjoint stimulus control over place cells, Fenton et al. (J Gen Physiol 116:191-209, 2000a) recorded while rats foraged in a cylinder with 45 degrees black and white cue cards on the wall. Card centers were 135 degrees apart. In probe trials, the cards were rotated together or apart by 25 degrees . Firing field centers shifted during these trials, stretching and shrinking the cognitive map. Fenton et al. (2000b) described this deformation with an ad hoc vector field equation. We consider what sorts of neural network mechanisms might be capable of accounting for their observations. In an abstract, maximum likelihood formulation, the rat's location is estimated by a conjoint probability density function of landmark positions. In an attractor neural network model, recurrent connections produce a bump of activity over a two-dimensional array of cells; the bump's position is influenced by landmark features such as distances or bearings. If features are chosen with appropriate care, the attractor network and maximum likelihood models yield similar results, in accord with previous demonstrations that recurrent neural networks can efficiently implement maximum likelihood computations (Pouget et al. Neural Comput 10:373-401, 1998; Deneve et al. Nat Neurosci 4:826-831, 2001).",
+     "CI": [
+          "Copyright (c) 2004 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Touretzky, David S",
+          "Weisman, Wendy E",
+          "Fuhs, Mark C",
+          "Skaggs, William E",
+          "Fenton, Andre A",
+          "Muller, Robert U"
+     ],
+     "AU": [
+          "Touretzky DS",
+          "Weisman WE",
+          "Fuhs MC",
+          "Skaggs WE",
+          "Fenton AA",
+          "Muller RU"
+     ],
+     "AD": "Computer Science Department and Center for the Neural Basis of Cognition, Carnegie Mellon University, Pittsburgh, Pennsylvania 15213-3891, USA. dst@cs.cmu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH59932/MH/NIMH NIH HHS/United States",
+          "NS20686/NS/NINDS NIH HHS/United States",
+          "NS37150/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Brain Mapping",
+          "Hippocampus/*physiology",
+          "Nerve Net/*physiology",
+          "Neural Inhibition/physiology",
+          "*Neural Networks (Computer)",
+          "Neural Pathways/physiology",
+          "Neurons/*physiology",
+          "Nonlinear Dynamics",
+          "Orientation/*physiology",
+          "Rats",
+          "Space Perception/*physiology"
+     ],
+     "EDAT": "2004/09/25 05:00",
+     "MHDA": "2005/05/12 09:00",
+     "CRDT": [
+          "2004/09/25 05:00"
+     ],
+     "PHST": [
+          "2004/09/25 05:00 [pubmed]",
+          "2005/05/12 09:00 [medline]",
+          "2004/09/25 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.20029 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2005;15(1):41-55. doi: 10.1002/hipo.20029.",
+     "term": "place cells"
+}

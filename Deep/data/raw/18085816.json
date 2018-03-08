@@ -1,0 +1,80 @@
+{
+     "PMID": "18085816",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080423",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "3",
+     "IP": "12",
+     "DP": "2007 Dec",
+     "TI": "Coincidence detection of place and temporal context in a network model of spiking hippocampal neurons.",
+     "PG": "e234",
+     "AB": "Recent advances in single-neuron biophysics have enhanced our understanding of information processing on the cellular level, but how the detailed properties of individual neurons give rise to large-scale behavior remains unclear. Here, we present a model of the hippocampal network based on observed biophysical properties of hippocampal and entorhinal cortical neurons. We assembled our model to simulate spatial alternation, a task that requires memory of the previous path through the environment for correct selection of the current path to a reward site. The convergence of inputs from entorhinal cortex and hippocampal region CA3 onto CA1 pyramidal cells make them potentially important for integrating information about place and temporal context on the network level. Our model shows how place and temporal context information might be combined in CA1 pyramidal neurons to give rise to splitter cells, which fire selectively based on a combination of place and temporal context. The model leads to a number of experimentally testable predictions that may lead to a better understanding of the biophysical basis of information processing in the hippocampus.",
+     "FAU": [
+          "Katz, Yael",
+          "Kath, William L",
+          "Spruston, Nelson",
+          "Hasselmo, Michael E"
+     ],
+     "AU": [
+          "Katz Y",
+          "Kath WL",
+          "Spruston N",
+          "Hasselmo ME"
+     ],
+     "AD": "Interdepartmental Biological Sciences Program, Northwestern University, Evanston, Illinois, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NIMH 71702/PHS HHS/United States",
+          "NIDA-16454/PHS HHS/United States",
+          "NS-46064/NS/NINDS NIH HHS/United States",
+          "R01 NS046064/NS/NINDS NIH HHS/United States",
+          "NIMH-60013/PHS HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "*Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "Synaptic Transmission/*physiology"
+     ],
+     "PMC": "PMC2134961",
+     "EDAT": "2007/12/19 09:00",
+     "MHDA": "2008/04/24 09:00",
+     "CRDT": [
+          "2007/12/19 09:00"
+     ],
+     "PHST": [
+          "2007/07/19 00:00 [received]",
+          "2007/10/15 00:00 [accepted]",
+          "2007/12/19 09:00 [pubmed]",
+          "2008/04/24 09:00 [medline]",
+          "2007/12/19 09:00 [entrez]"
+     ],
+     "AID": [
+          "07-PLCB-RA-0428 [pii]",
+          "10.1371/journal.pcbi.0030234 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2007 Dec;3(12):e234. doi: 10.1371/journal.pcbi.0030234.",
+     "term": "hippocampus"
+}

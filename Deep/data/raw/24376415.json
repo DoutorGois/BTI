@@ -1,0 +1,68 @@
+{
+     "PMID": "24376415",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20131230",
+     "LR": "20170220",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "7",
+     "DP": "2013",
+     "TI": "Does the entorhinal cortex use the Fourier transform?",
+     "PG": "179",
+     "LID": "10.3389/fncom.2013.00179 [doi]",
+     "AB": "Some neurons in the entorhinal cortex (EC) fire bursts when the animal occupies locations organized in a hexagonal grid pattern in their spatial environment. Place cells have also been observed, firing bursts only when the animal occupies a particular region of the environment. Both of these types of cells exhibit theta-cycle modulation, firing bursts in the 4-12 Hz range. Grid cells fire bursts of action potentials that precess with respect to the theta cycle, a phenomenon dubbed \"theta precession.\" Various models have been proposed to explain these phenomena, and how they relate to navigation. Among the most promising are the oscillator interference models. The bank-of-oscillators model proposed by Welday et al. (2011) exhibits all these features. However, their simulations are based on theoretical oscillators, and not implemented entirely with spiking neurons. We extend their work in a number of ways. First, we place the oscillators in a frequency domain and reformulate the model in terms of Fourier theory. Second, this perspective suggests a division of labor for implementing spatial maps: position vs. map layout. The animal's position is encoded in the phases of the oscillators, while the spatial map shape is encoded implicitly in the weights of the connections between the oscillators and the read-out nodes. Third, it reveals that the oscillator phases all need to conform to a linear relationship across the frequency domain. Fourth, we implement a partial model of the EC using spiking leaky integrate-and-fire (LIF) neurons. Fifth, we devise new coupling mechanisms, enlightened by the global phase constraint, and show they are capable of keeping spiking neural oscillators in consistent formation. Our model demonstrates place cells, grid cells, and phase precession. The Fourier model also gives direction for future investigations, such as integrating sensory feedback to combat drift, or explaining why grid cells exist at all.",
+     "FAU": [
+          "Orchard, Jeff",
+          "Yang, Hao",
+          "Ji, Xiang"
+     ],
+     "AU": [
+          "Orchard J",
+          "Yang H",
+          "Ji X"
+     ],
+     "AD": "Centre for Theoretical Neuroscience, University of Waterloo Waterloo, ON, Canada ; David R. Cheriton School of Computer Science, University of Waterloo Waterloo, ON, Canada. David R. Cheriton School of Computer Science, University of Waterloo Waterloo, ON, Canada. Centre for Theoretical Neuroscience, University of Waterloo Waterloo, ON, Canada ; David R. Cheriton School of Computer Science, University of Waterloo Waterloo, ON, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20131211",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC3858727",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "entorhinal cortex",
+          "fourier transform",
+          "grid cells",
+          "neural engineering framework",
+          "oscillators",
+          "path integration",
+          "phase precession",
+          "place cells"
+     ],
+     "EDAT": "2014/01/01 06:00",
+     "MHDA": "2014/01/01 06:01",
+     "CRDT": [
+          "2013/12/31 06:00"
+     ],
+     "PHST": [
+          "2012/11/05 00:00 [received]",
+          "2013/11/25 00:00 [accepted]",
+          "2013/12/31 06:00 [entrez]",
+          "2014/01/01 06:00 [pubmed]",
+          "2014/01/01 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2013.00179 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2013 Dec 11;7:179. doi: 10.3389/fncom.2013.00179. eCollection 2013.",
+     "term": "place cells"
+}

@@ -1,0 +1,118 @@
+{
+     "PMID": "25985232",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160316",
+     "LR": "20171116",
+     "IS": "1559-2308 (Electronic) 1559-2294 (Linking)",
+     "VI": "10",
+     "IP": "7",
+     "DP": "2015",
+     "TI": "Adaptation of the targeted capture Methyl-Seq platform for the mouse genome identifies novel tissue-specific DNA methylation patterns of genes involved in neurodevelopment.",
+     "PG": "581-96",
+     "LID": "10.1080/15592294.2015.1045179 [doi]",
+     "AB": "Methyl-Seq was recently developed as a targeted approach to assess DNA methylation (DNAm) at a genome-wide level in human. We adapted it for mouse and sought to examine DNAm differences across liver and 2 brain regions: cortex and hippocampus. A custom hybridization array was designed to isolate 99 Mb of CpG islands, shores, shelves, and regulatory elements in the mouse genome. This was followed by bisulfite conversion and sequencing on the Illumina HiSeq2000. The majority of differentially methylated cytosines (DMCs) were present at greater than expected frequency in introns, intergenic regions, near CpG islands, and transcriptional enhancers. Liver-specific enhancers were observed to be methylated in cortex, while cortex specific enhancers were methylated in the liver. Interestingly, commonly shared enhancers were differentially methylated between the liver and cortex. Gene ontology and pathway analysis showed that genes that were hypomethylated in the cortex and hippocampus were enriched for neuronal components and neuronal function. In contrast, genes that were hypomethylated in the liver were enriched for cellular components important for liver function. Bisulfite-pyrosequencing validation of 75 DMCs from 19 different loci showed a correlation of r = 0.87 with Methyl-Seq data. We also identified genes involved in neurodevelopment that were not previously reported to be differentially methylated across brain regions. This platform constitutes a valuable tool for future genome-wide studies involving mouse models of disease.",
+     "FAU": [
+          "Hing, Benjamin",
+          "Ramos, Enrique",
+          "Braun, Patricia",
+          "McKane, Melissa",
+          "Jancic, Dubravka",
+          "Tamashiro, Kellie L K",
+          "Lee, Richard S",
+          "Michaelson, Jacob J",
+          "Druley, Todd E",
+          "Potash, James B"
+     ],
+     "AU": [
+          "Hing B",
+          "Ramos E",
+          "Braun P",
+          "McKane M",
+          "Jancic D",
+          "Tamashiro KL",
+          "Lee RS",
+          "Michaelson JJ",
+          "Druley TE",
+          "Potash JB"
+     ],
+     "AD": "a Department of Psychiatry; University of Iowa Carver College of Medicine ; Iowa City , IA , USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Epigenetics",
+     "JT": "Epigenetics",
+     "JID": "101265293",
+     "RN": [
+          "0 (Sulfites)",
+          "5CSZ8459RP (Cytidine)",
+          "OJ9787WBLU (hydrogen sulfite)",
+          "TL9PB228DC (5-methylcytidine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/*growth & development/metabolism",
+          "CpG Islands",
+          "Cytidine/analogs & derivatives/chemistry",
+          "*DNA Methylation",
+          "Enhancer Elements, Genetic",
+          "Entorhinal Cortex/chemistry/metabolism",
+          "*Genome",
+          "High-Throughput Nucleotide Sequencing/*methods",
+          "Hippocampus/chemistry/metabolism",
+          "Liver/metabolism",
+          "Mice, Inbred C57BL",
+          "Organ Specificity",
+          "Sulfites/chemistry"
+     ],
+     "PMC": "PMC4622595",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Apcdd1, Adenomatous Polyposis Coli Down-Regulated 1",
+          "ChIP, Chromatin immunoprecipitation",
+          "DMCs, Differentially methylated cytosines (DMCs)",
+          "DMRs, Differentially methylated regions",
+          "DNA methylation",
+          "DNAm, DNA methylation",
+          "FDR, False discovery rate",
+          "GFAP, Glial fibrillary acidic protein",
+          "GO, Gene ontology",
+          "Gb, Gigabases",
+          "H3K27ac, Histone 3 lysine 27 acetylation",
+          "H3K4me1, Histone marks histone 3 lysine 4 monomethylation",
+          "KEGG, Kyoto Encyclopedia of Genes and Genomes",
+          "MAP, Mitogen activated protein",
+          "Msx1, msh homeobox1",
+          "PAVIS, Peak Annotation and Visualization",
+          "RV, Range of variation",
+          "TFBS, Transcription factor binding sites",
+          "UTR, Untranslated regions.",
+          "brain",
+          "epigenetics",
+          "genome-wide",
+          "methylation array"
+     ],
+     "EDAT": "2015/05/20 06:00",
+     "MHDA": "2016/03/17 06:00",
+     "CRDT": [
+          "2015/05/19 06:00"
+     ],
+     "PHST": [
+          "2015/05/19 06:00 [entrez]",
+          "2015/05/20 06:00 [pubmed]",
+          "2016/03/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1080/15592294.2015.1045179 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Epigenetics. 2015;10(7):581-96. doi: 10.1080/15592294.2015.1045179.",
+     "term": "hippocampus"
+}

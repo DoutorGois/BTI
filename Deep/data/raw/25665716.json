@@ -1,0 +1,91 @@
+{
+     "PMID": "25665716",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160229",
+     "LR": "20150315",
+     "IS": "1095-8541 (Electronic) 0022-5193 (Linking)",
+     "VI": "370",
+     "DP": "2015 Apr 7",
+     "TI": "Discriminatory ability of fractal and grey level co-occurrence matrix methods in structural analysis of hippocampus layers.",
+     "PG": "151-6",
+     "LID": "10.1016/j.jtbi.2015.01.035 [doi] S0022-5193(15)00052-1 [pii]",
+     "AB": "Fractal and grey level co-occurrence matrix (GLCM) analysis represent two mathematical computer-assisted algorithms that are today thought to be able to accurately detect and quantify changes in tissue architecture during various physiological and pathological processes. However, despite their numerous applications in histology and pathology, their sensitivity, specificity and validity regarding evaluation of brain tissue remain unclear. In this article we present the results indicating that certain parameters of fractal and GLCM analysis have high discriminatory ability in distinguishing two morphologically similar regions of rat hippocampus: stratum lacunosum-moleculare and stratum radiatum. Fractal and GLCM algorithms were performed on a total of 240 thionine-stained hippocampus micrographs of 12 male Wistar albino rats. 120 digital micrographs represented stratum lacunosum-moleculare, and another 120 stratum radiatum. For each image, 7 parameters were calculated: fractal dimension, lacunarity, GLCM angular second moment, GLCM contrast, inverse difference moment, GLCM correlation, and GLCM variance. GLCM variance (VAR) resulted in the largest area under the Receiver operating characteristic (ROC) curve of 0.96, demonstrating an outstanding discriminatory power in analysis of stratum lacunosum-moleculare (average VAR equaled 478.1 +/- 179.8) and stratum radiatum (average VAR of 145.9 +/- 59.2, p < 0.0001). For the criterion VAR </= 227.5, sensitivity and specificity were 90% and 86.7%, respectively. GLCM correlation as a parameter also produced large area under the ROC curve of 0.95. Our results are in accordance with the findings of our previous study regarding brain white mass fractal and textural analysis. GLCM algorithm as an image analysis method has potentially high applicability in structural analysis of brain tissue cytoarcitecture.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Pantic, Igor",
+          "Dacic, Sanja",
+          "Brkic, Predrag",
+          "Lavrnja, Irena",
+          "Jovanovic, Tomislav",
+          "Pantic, Senka",
+          "Pekovic, Sanja"
+     ],
+     "AU": [
+          "Pantic I",
+          "Dacic S",
+          "Brkic P",
+          "Lavrnja I",
+          "Jovanovic T",
+          "Pantic S",
+          "Pekovic S"
+     ],
+     "AD": "Institute of Medical Physiology, School of Medicine, University of Belgrade, Visegradska 26/II, RS-11129, Belgrade, Serbia. Electronic address: igor.pantic@mfub.bg.ac.rs. Institute of Physiology and Biochemistry, Faculty of Biology, University of Belgrade, Studentski trg 3, Belgrade, Serbia. Institute of Medical Physiology, School of Medicine, University of Belgrade, Visegradska 26/II, RS-11129, Belgrade, Serbia. Department of Neurobiology, Institute for Biological Research \"Sinisa Stankovic\", University of Belgrade, Boulevard Despot Stefan 142, RS-11060 Belgrade, Serbia. Institute of Medical Physiology, School of Medicine, University of Belgrade, Visegradska 26/II, RS-11129, Belgrade, Serbia. Institute of Histology, School of Medicine, University of Belgrade, Visegradska 26/II, RS-11129, Belgrade, Serbia. Department of Neurobiology, Institute for Biological Research \"Sinisa Stankovic\", University of Belgrade, Boulevard Despot Stefan 142, RS-11060 Belgrade, Serbia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150207",
+     "PL": "England",
+     "TA": "J Theor Biol",
+     "JT": "Journal of theoretical biology",
+     "JID": "0376342",
+     "RN": [
+          "0 (Phenothiazines)",
+          "VTT2SAT5H0 (thionine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "*Fractals",
+          "Hippocampus/*anatomy & histology",
+          "Phenothiazines/metabolism",
+          "ROC Curve",
+          "Rats"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Boundary",
+          "GLCM",
+          "Image",
+          "Texture",
+          "Variance"
+     ],
+     "EDAT": "2015/02/11 06:00",
+     "MHDA": "2016/03/02 06:00",
+     "CRDT": [
+          "2015/02/11 06:00"
+     ],
+     "PHST": [
+          "2014/11/23 00:00 [received]",
+          "2015/01/27 00:00 [accepted]",
+          "2015/02/11 06:00 [entrez]",
+          "2015/02/11 06:00 [pubmed]",
+          "2016/03/02 06:00 [medline]"
+     ],
+     "AID": [
+          "S0022-5193(15)00052-1 [pii]",
+          "10.1016/j.jtbi.2015.01.035 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Theor Biol. 2015 Apr 7;370:151-6. doi: 10.1016/j.jtbi.2015.01.035. Epub 2015 Feb 7.",
+     "term": "hippocampus"
+}

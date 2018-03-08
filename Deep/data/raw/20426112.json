@@ -1,0 +1,95 @@
+{
+     "PMID": "20426112",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100607",
+     "LR": "20161019",
+     "VI": "12",
+     "IP": "Pt 2",
+     "DP": "2009",
+     "TI": "Intrinsic regression models for manifold-valued data.",
+     "PG": "192-9",
+     "AB": "In medical imaging analysis and computer vision, there is a growing interest in analyzing various manifold-valued data including 3D rotations, planar shapes, oriented or directed directions, the Grassmann manifold, deformation field, symmetric positive definite (SPD) matrices and medial shape representations (m-rep) of subcortical structures. Particularly, the scientific interests of most population studies focus on establishing the associations between a set of covariates (e.g., diagnostic status, age, and gender) and manifold-valued data for characterizing brain structure and shape differences, thus requiring a regression modeling framework for manifold-valued data. The aim of this paper is to develop an intrinsic regression model for the analysis of manifold-valued data as responses in a Riemannian manifold and their association with a set of covariates, such as age and gender, in Euclidean space. Because manifold-valued data do not form a vector space, directly applying classical multivariate regression may be inadequate in establishing the relationship between manifold-valued data and covariates of interest, such as age and gender, in real applications. Our intrinsic regression model, which is a semiparametric model, uses a link function to map from the Euclidean space of covariates to the Riemannian manifold of manifold data. We develop an estimation procedure to calculate an intrinsic least square estimator and establish its limiting distribution. We develop score statistics to test linear hypotheses on unknown parameters. We apply our methods to the detection of the difference in the morphological changes of the left and right hippocampi between schizophrenia patients and healthy controls using medial shape description.",
+     "FAU": [
+          "Shi, Xiaoyan",
+          "Styner, Martin",
+          "Lieberman, Jeffrey",
+          "Ibrahim, Joseph G",
+          "Lin, Weili",
+          "Zhu, Hongtu"
+     ],
+     "AU": [
+          "Shi X",
+          "Styner M",
+          "Lieberman J",
+          "Ibrahim JG",
+          "Lin W",
+          "Zhu H"
+     ],
+     "AD": "Department of Biostatistics, Radiology, Psychiatry and Computer Science, University of North Carolina at Chapel Hill, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "HD 03110/HD/NICHD NIH HHS/United States",
+          "R21AG033387/AG/NIA NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States",
+          "R01NS055754/NS/NINDS NIH HHS/United States",
+          "R01 MH086633/MH/NIMH NIH HHS/United States",
+          "R01 NS055754/NS/NINDS NIH HHS/United States",
+          "R01EB5-34816/EB/NIBIB NIH HHS/United States",
+          "P30 HD003110/HD/NICHD NIH HHS/United States",
+          "R01MH08663/MH/NIMH NIH HHS/United States",
+          "UL1 RR025747/RR/NCRR NIH HHS/United States",
+          "UL1-RR025747-01/RR/NCRR NIH HHS/United States",
+          "R21 AG033387/AG/NIA NIH HHS/United States",
+          "U54 EB005149-01/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Computer Simulation",
+          "Data Interpretation, Statistical",
+          "Diffusion Magnetic Resonance Imaging/*methods",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Information Storage and Retrieval/*methods",
+          "Models, Anatomic",
+          "Models, Neurological",
+          "Models, Statistical",
+          "Pattern Recognition, Automated/*methods",
+          "Regression Analysis",
+          "Reproducibility of Results",
+          "Schizophrenia/*pathology",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC4017371",
+     "MID": [
+          "NIHMS574364"
+     ],
+     "EDAT": "2009/01/01 00:00",
+     "MHDA": "2010/06/09 06:00",
+     "CRDT": [
+          "2010/04/30 06:00"
+     ],
+     "PHST": [
+          "2010/04/30 06:00 [entrez]",
+          "2009/01/01 00:00 [pubmed]",
+          "2010/06/09 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2009;12(Pt 2):192-9.",
+     "term": "hippocampus"
+}

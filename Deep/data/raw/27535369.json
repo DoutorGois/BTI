@@ -1,0 +1,91 @@
+{
+     "PMID": "27535369",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170905",
+     "LR": "20171101",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "116",
+     "IP": "5",
+     "DP": "2016 Nov 1",
+     "TI": "Rapid classification of hippocampal replay content for real-time applications.",
+     "PG": "2221-2235",
+     "LID": "10.1152/jn.00151.2016 [doi]",
+     "AB": "Sharp-wave ripple (SWR) events in the hippocampus replay millisecond-timescale patterns of place cell activity related to the past experience of an animal. Interrupting SWR events leads to learning and memory impairments, but how the specific patterns of place cell spiking seen during SWRs contribute to learning and memory remains unclear. A deeper understanding of this issue will require the ability to manipulate SWR events based on their content. Accurate real-time decoding of SWR replay events requires new algorithms that are able to estimate replay content and the associated uncertainty, along with software and hardware that can execute these algorithms for biological interventions on a millisecond timescale. Here we develop an efficient estimation algorithm to categorize the content of replay from multiunit spiking activity. Specifically, we apply real-time decoding methods to each SWR event and then compute the posterior probability of the replay feature. We illustrate this approach by classifying SWR events from data recorded in the hippocampus of a rat performing a spatial memory task into four categories: whether they represent outbound or inbound trajectories and whether the activity is replayed forward or backward in time. We show that our algorithm can classify the majority of SWR events in a recording epoch within 20 ms of the replay onset with high certainty, which makes the algorithm suitable for a real-time implementation with short latencies to incorporate into content-based feedback experiments.",
+     "CI": [
+          "Copyright (c) 2016 the American Physiological Society."
+     ],
+     "FAU": [
+          "Deng, Xinyi",
+          "Liu, Daniel F",
+          "Karlsson, Mattias P",
+          "Frank, Loren M",
+          "Eden, Uri T"
+     ],
+     "AU": [
+          "Deng X",
+          "Liu DF",
+          "Karlsson MP",
+          "Frank LM",
+          "Eden UT"
+     ],
+     "AD": "Department of Statistics, Columbia University, New York, New York; xd2188@columbia.edu. Grossman Center for the Statistics of Mind, Columbia University, New York, New York. UC Berkeley-UCSF Graduate Program in Bioengineering, UCSF, San Francisco, California. Department of Physiology, UCSF, San Francisco, California. Department of Physiology, UCSF, San Francisco, California. Kavli Institute for Fundamental Neuroscience, UCSF, San Francisco, California. Howard Hughes Medical Institute, UCSF, San Francisco, California; and. Department of Mathematics and Statistics, Boston University, Boston, Massachusetts.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH105174/MH/NIMH NIH HHS/United States",
+          "T32 GM008155/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160817",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Algorithms",
+          "Animals",
+          "*Computer Systems",
+          "Hippocampus/*physiology",
+          "*Linear Models",
+          "Male",
+          "Rats",
+          "Rats, Long-Evans",
+          "Time Factors"
+     ],
+     "PMC": "PMC5102323",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "hippocampus",
+          "neural control",
+          "real-time decoding",
+          "replay",
+          "state-space models"
+     ],
+     "EDAT": "2016/11/03 06:00",
+     "MHDA": "2017/09/07 06:00",
+     "CRDT": [
+          "2016/08/19 06:00"
+     ],
+     "PHST": [
+          "2016/02/18 00:00 [received]",
+          "2016/08/17 00:00 [accepted]",
+          "2016/11/03 06:00 [pubmed]",
+          "2017/09/07 06:00 [medline]",
+          "2016/08/19 06:00 [entrez]"
+     ],
+     "AID": [
+          "jn.00151.2016 [pii]",
+          "10.1152/jn.00151.2016 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2016 Nov 1;116(5):2221-2235. doi: 10.1152/jn.00151.2016. Epub 2016 Aug 17.",
+     "term": "hippocampus"
+}

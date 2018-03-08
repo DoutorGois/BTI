@@ -1,0 +1,70 @@
+{
+     "PMID": "12850010",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030916",
+     "LR": "20071114",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "16",
+     "IP": "5-6",
+     "DP": "2003 Jun-Jul",
+     "TI": "Modeling goal-directed spatial navigation in the rat based on physiological data from the hippocampal formation.",
+     "PG": "577-84",
+     "AB": "We investigated the importance of hippocampal theta oscillations and the significance of phase differences of theta modulation in the cortical regions that are involved in goal-directed spatial navigation. Our models used representations of entorhinal cortex layer III (ECIII), hippocampus and prefrontal cortex (PFC) to guide movements of a virtual rat in a virtual environment. The model encoded representations of the environment through long-term potentiation of excitatory recurrent connections between sequentially spiking place cells in ECIII and CA3. This encoding required buffering of place cell activity, which was achieved by a short-term memory (STM) in EC that was regulated by theta modulation and allowed synchronized reactivation with encoding phases in ECIII and CA3. Inhibition at a specific theta phase deactivated the oldest item in the buffer when new input was presented to a full STM buffer. A 180 degrees phase difference separated retrieval and encoding in ECIII and CA3, which enabled us to simulate data on theta phase precession of place cells. Retrieval of known paths was elicited in ECIII by input at the retrieval phase from PFC working memory for goal location, requiring strict theta phase relationships with PFC. Known locations adjacent to the virtual rat were retrieved in CA3. Together, input from ECIII and CA3 activated predictive spiking in cells in CA1 for the next desired place on a shortest path to a goal. Consistent with data, place cell activity in CA1 and CA3 showed smaller place fields than in ECIII.",
+     "FAU": [
+          "Koene, Randal A",
+          "Gorchetchnikov, Anatoli",
+          "Cannon, Robert C",
+          "Hasselmo, Michael E"
+     ],
+     "AU": [
+          "Koene RA",
+          "Gorchetchnikov A",
+          "Cannon RC",
+          "Hasselmo ME"
+     ],
+     "AD": "Department of Pyschology and Program in Neuroscience, Boston University, Boston, MA 02215, USA. randalk@bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH60450/MH/NIMH NIH HHS/United States",
+          "R01 DA16454/DA/NIDA NIH HHS/United States",
+          "R01 MH60013/MH/NIMH NIH HHS/United States",
+          "R01 MH61492/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "*Goals",
+          "*Hippocampus/physiology",
+          "Maze Learning/physiology",
+          "*Models, Neurological",
+          "*Spatial Behavior/physiology"
+     ],
+     "EDAT": "2003/07/10 05:00",
+     "MHDA": "2003/09/17 05:00",
+     "CRDT": [
+          "2003/07/10 05:00"
+     ],
+     "PHST": [
+          "2003/07/10 05:00 [pubmed]",
+          "2003/09/17 05:00 [medline]",
+          "2003/07/10 05:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(03)00106-0 [pii]",
+          "10.1016/S0893-6080(03)00106-0 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2003 Jun-Jul;16(5-6):577-84. doi: 10.1016/S0893-6080(03)00106-0.",
+     "term": "place cells"
+}

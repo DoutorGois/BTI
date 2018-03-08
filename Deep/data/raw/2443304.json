@@ -1,0 +1,75 @@
+{
+     "PMID": "2443304",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19871110",
+     "LR": "20131121",
+     "IS": "0169-2607 (Print) 0169-2607 (Linking)",
+     "VI": "25",
+     "IP": "1",
+     "DP": "1987 Aug",
+     "TI": "A simulation of the effects of temperature on hippocampal neurons.",
+     "PG": "3-12",
+     "AB": "We have developed a model to predict the effects of temperature on the electrical activity of a hippocampal pyramidal cell. Four populations of membrane channels in the pyramidal cell were simulated. Equations for current through these ion channels are similar to those first developed by Hodgkin and Huxley for Na+ and K+ channels in the squid axon and more recently extended by Traub to include not only these channel types but, in addition, Ca2+ and Ca2+ mediated K+ channels in hippocampal cells. Voltage- and/or concentration-dependent rate functions are used to describe the kinetic behavior of each population of channels. A temperature-dependent term is included for each rate function to simulate the effect of changing temperature on neural activity. Model simulations correspond to experimental data over a range of temperature from 40 degrees C to 35 degrees C.",
+     "FAU": [
+          "Lindley, M A",
+          "Thomas, M P",
+          "Horowitz, J M"
+     ],
+     "AU": [
+          "Lindley MA",
+          "Thomas MP",
+          "Horowitz JM"
+     ],
+     "AD": "Department of Animal Physiology, University of California, Davis 95616.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "Ireland",
+     "TA": "Comput Methods Programs Biomed",
+     "JT": "Computer methods and programs in biomedicine",
+     "JID": "8506513",
+     "RN": [
+          "0 (Ion Channels)",
+          "9NEZ333N27 (Sodium)",
+          "RWP5GA015D (Potassium)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM S",
+     "EIN": [
+          "Comput Methods Programs Biomed 1987 Nov-Dec;25(3):369"
+     ],
+     "MH": [
+          "Action Potentials",
+          "Calcium/metabolism",
+          "Hippocampus/cytology/*physiology",
+          "Ion Channels/physiology",
+          "Membrane Potentials",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Potassium/metabolism",
+          "Sodium/metabolism",
+          "Software",
+          "*Temperature"
+     ],
+     "OID": [
+          "NASA: 88003424"
+     ],
+     "EDAT": "1987/08/01 00:00",
+     "MHDA": "1987/08/01 00:01",
+     "CRDT": [
+          "1987/08/01 00:00"
+     ],
+     "PHST": [
+          "1987/08/01 00:00 [pubmed]",
+          "1987/08/01 00:01 [medline]",
+          "1987/08/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Methods Programs Biomed. 1987 Aug;25(1):3-12.",
+     "term": "hippocampus"
+}

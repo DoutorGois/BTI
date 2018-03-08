@@ -1,0 +1,63 @@
+{
+     "PMID": "18003068",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080429",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2007",
+     "DP": "2007",
+     "TI": "A Spiking neural network of the CA3 of the hippocampus can be a neural prosthesis for lost cognitive functions.",
+     "PG": "4755-8",
+     "AB": "The role of the hippocampus in associative memory is the establishment of long-term, declarative memories. For example, memories for facts, name and life experiences. Damage to the hippocampus leads to loss of ability to convert short-term memory to new long-term memories. This can happen due to epilepsy, stroke, dementia or head injuries. One of the possibilities of providing a solution to this problem is by prosthesis. The first step towards this is building of biomimetic model of the region. A system modeling approach is used to build the biomimetic model of the CA3 by the use of biological repetitive firing neurons of R.J.Macgregor. The output of the neuron model is a spiking output so there is no need for a separate spike producing circuitry. The electronic model is also presented with a possible circuit for realization of the plasticity. The weights of the network are updated by the synaptic activity plasticity rule (SAPR), which has weight updation depending on the value of the post synaptic potential of the spiking neurons. The various paths of the flow of information in and out of the hippocampus and the possible connections for the prosthesis are presented. The project takes into consideration the various experimental finding and the advances in synaptic plasticity published so far for building this biomimetic model.",
+     "FAU": [
+          "Brijesh, R",
+          "Ravindran, G"
+     ],
+     "AU": [
+          "Brijesh R",
+          "Ravindran G"
+     ],
+     "AD": "College of Engineering, Anna University, Chennai, India. hisunder@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Cognition/*physiology",
+          "Cognition Disorders/*physiopathology",
+          "Electronics",
+          "Hippocampus/anatomy & histology/*physiology/physiopathology",
+          "Humans",
+          "Memory/*physiology",
+          "Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neuronal Plasticity",
+          "Neurons/physiology",
+          "Pyramidal Cells/*physiology",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2007/11/16 09:00",
+     "MHDA": "2008/04/30 09:00",
+     "CRDT": [
+          "2007/11/16 09:00"
+     ],
+     "PHST": [
+          "2007/11/16 09:00 [pubmed]",
+          "2008/04/30 09:00 [medline]",
+          "2007/11/16 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2007.4353402 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2007;2007:4755-8. doi: 10.1109/IEMBS.2007.4353402.",
+     "term": "hippocampus"
+}

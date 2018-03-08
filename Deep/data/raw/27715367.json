@@ -1,0 +1,63 @@
+{
+     "PMID": "27715367",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20161118",
+     "IS": "1361-6536 (Electronic) 0954-898X (Linking)",
+     "VI": "27",
+     "IP": "4",
+     "DP": "2016",
+     "TI": "A tunable local field potentials computer simulator to assess minimal requirements for phase-amplitude cross-frequency-coupling estimation.",
+     "PG": "268-288",
+     "AB": "The quantitative study of cross-frequency coupling (CFC) is a relevant issue in neuroscience. In local field potentials (LFPs), measured either in the cortex or in the hippocampus, how gamma-oscillation amplitude is modulated by changes in theta-rhythms-phase is thought to be important in memory formation. Several methods were proposed to quantify CFC, but reported evidence suggests that experimental parameters affect the results. Therefore, a simulation tool to support the determination of minimal requirements for CFC estimation in order to obtain reliable results is particularly useful. An approach to generate computer-simulated signals having CFC intensity, sweep duration, signal-to-noise ratio (SNR), and multiphasic-coupling tunable by the user has been developed. Its utility has been proved by a study evaluating minimal sweep duration and SNR required for reliable theta-gamma CFC estimation from signals simulating LFP measured in the mouse hippocampus. A MATLAB(R) software was made available to facilitate methodology reproducibility. The analysis of the synthetic LFPs created by the simulator shows how the minimal sweep duration for achieving accurate theta-gamma CFC estimates increases as SNR decreases and the number of CFC levels to discriminate increases. In particular, a sufficient reliability in discriminating five different predetermined CFC levels is reached with 35-s sweep with SNR = 20, while SNR = 5 requires at least 140-s sweep.",
+     "FAU": [
+          "Rubega, Maria",
+          "Fontana, Roberto",
+          "Vassanelli, Stefano",
+          "Sparacino, Giovanni"
+     ],
+     "AU": [
+          "Rubega M",
+          "Fontana R",
+          "Vassanelli S",
+          "Sparacino G"
+     ],
+     "AD": "a Department of Information Engineering , University of Padova , Padova , Italy. b NeuroChip Laboratory, Department of Biomedical Sciences , University of Padova , Padova , Italy. b NeuroChip Laboratory, Department of Biomedical Sciences , University of Padova , Padova , Italy. a Department of Information Engineering , University of Padova , Padova , Italy.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160811",
+     "PL": "England",
+     "TA": "Network",
+     "JT": "Network (Bristol, England)",
+     "JID": "9431867",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Cross-frequency coupling",
+          "local field potential",
+          "model",
+          "neuroscience",
+          "simulation"
+     ],
+     "EDAT": "2016/10/08 06:00",
+     "MHDA": "2016/10/08 06:00",
+     "CRDT": [
+          "2016/10/08 06:00"
+     ],
+     "PHST": [
+          "2016/10/08 06:00 [pubmed]",
+          "2016/10/08 06:00 [medline]",
+          "2016/10/08 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1080/0954898X.2016.1213440 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Network. 2016;27(4):268-288. doi: 10.1080/0954898X.2016.1213440. Epub 2016 Aug 11.",
+     "term": "hippocampus"
+}

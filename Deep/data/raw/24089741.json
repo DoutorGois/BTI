@@ -1,0 +1,71 @@
+{
+     "PMID": "24089741",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140425",
+     "LR": "20170220",
+     "IS": "1089-7690 (Electronic) 0021-9606 (Linking)",
+     "VI": "139",
+     "IP": "12",
+     "DP": "2013 Sep 28",
+     "TI": "A computational kinetic model of diffusion for molecular systems.",
+     "PG": "121929",
+     "LID": "10.1063/1.4820876 [doi]",
+     "AB": "Regulation of biomolecular transport in cells involves intra-protein steps like gating and passage through channels, but these steps are preceded by extra-protein steps, namely, diffusive approach and admittance of solutes. The extra-protein steps develop over a 10-100 nm length scale typically in a highly particular environment, characterized through the protein's geometry, surrounding electrostatic field, and location. In order to account for solute energetics and mobility of solutes in this environment at a relevant resolution, we propose a particle-based kinetic model of diffusion based on a Markov State Model framework. Prerequisite input data consist of diffusion coefficient and potential of mean force maps generated from extensive molecular dynamics simulations of proteins and their environment that sample multi-nanosecond durations. The suggested diffusion model can describe transport processes beyond microsecond duration, relevant for biological function and beyond the realm of molecular dynamics simulation. For this purpose the systems are represented by a discrete set of states specified by the positions, volumes, and surface elements of Voronoi grid cells distributed according to a density function resolving the often intricate relevant diffusion space. Validation tests carried out for generic diffusion spaces show that the model and the associated Brownian motion algorithm are viable over a large range of parameter values such as time step, diffusion coefficient, and grid density. A concrete application of the method is demonstrated for ion diffusion around and through the Eschericia coli mechanosensitive channel of small conductance ecMscS.",
+     "FAU": [
+          "Teo, Ivan",
+          "Schulten, Klaus"
+     ],
+     "AU": [
+          "Teo I",
+          "Schulten K"
+     ],
+     "AD": "Beckman Institute for Advanced Science and Technology, University of Illinois, Urbana, Illinois 61801, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 GM104601/GM/NIGMS NIH HHS/United States",
+          "9P41GM104601/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Chem Phys",
+     "JT": "The Journal of chemical physics",
+     "JID": "0375360",
+     "RN": [
+          "0 (Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Computational Biology",
+          "Diffusion",
+          "Escherichia coli/chemistry/physiology",
+          "Kinetics",
+          "Mechanotransduction, Cellular/physiology",
+          "*Molecular Dynamics Simulation",
+          "Proteins/*chemistry/physiology"
+     ],
+     "PMC": "PMC3795746",
+     "EDAT": "2013/10/05 06:00",
+     "MHDA": "2014/04/26 06:00",
+     "CRDT": [
+          "2013/10/05 06:00"
+     ],
+     "PHST": [
+          "2013/10/05 06:00 [entrez]",
+          "2013/10/05 06:00 [pubmed]",
+          "2014/04/26 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1063/1.4820876 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Chem Phys. 2013 Sep 28;139(12):121929. doi: 10.1063/1.4820876.",
+     "term": "grid cells"
+}

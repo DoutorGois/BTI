@@ -1,0 +1,75 @@
+{
+     "PMID": "19163009",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090511",
+     "LR": "20171116",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2008",
+     "DP": "2008",
+     "TI": "Instantaneous frequency and amplitude modulation of EEG in the hippocampus reveals state dependent temporal structure.",
+     "PG": "1711-5",
+     "LID": "10.1109/IEMBS.2008.4649506 [doi]",
+     "AB": "EEG and LFP activity reflect the dynamic and organized interactions of neural ensembles; therefore, it may be possible to use the features of brain rhythms to determine the computational state of a neuronal network. When neuronal networks are activated, physical principles predict that the frequency content of the field potential should reflect the network state, per se, and ergo the state transition. A novel way for characterizing brain states is by quantifying the temporal structure of AM and FM activity (change in amplitude and frequency over time) for brain rhythms of interest. The concept of AM and FM, in the quantitative sense, is virtually unexplored in systems neuroscience. This is not surprising considering estimation of FM activity requires fine temporal and precise estimation of instantaneous frequency. For AM activity, the absolute value of the Hilbert transform is sufficient. Here, we outline a practical pole tracking algorithm which uses a Kalman filter for univariate AR processes to estimate instantaneous frequency. We demonstrate the filter performance using simulated chirp and real EEG/LFP data recorded from the rat hippocampus; and show that AM/FM activity in EEG/LFP is temporally structured and dependent on behavioral and cognitive state. This algorithm has the potential to be a practical tool for characterizing fundamental structure in electrophysiology data and classifying computational states in the brain.",
+     "FAU": [
+          "Nguyen, David P",
+          "Barbieri, Riccardo",
+          "Wilson, Matthew A",
+          "Brown, Emery N"
+     ],
+     "AU": [
+          "Nguyen DP",
+          "Barbieri R",
+          "Wilson MA",
+          "Brown EN"
+     ],
+     "AD": "Department of Brain and Cognitive Sciences at MIT, Cambridge, MA USA. dpnguyen@mit.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "DP1OD003646/OD/NIH HHS/United States",
+          "R01 EB006385/EB/NIBIB NIH HHS/United States",
+          "R01 MH59733/MH/NIMH NIH HHS/United States",
+          "T32 GM007484/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Bias",
+          "Biomedical Engineering",
+          "Electroencephalography/*statistics & numerical data",
+          "Electrophysiological Phenomena",
+          "Hippocampus/*physiology",
+          "Models, Neurological",
+          "Nerve Net/physiology",
+          "Periodicity",
+          "Rats",
+          "Theta Rhythm/statistics & numerical data"
+     ],
+     "EDAT": "2009/01/24 09:00",
+     "MHDA": "2009/05/12 09:00",
+     "CRDT": [
+          "2009/01/24 09:00"
+     ],
+     "PHST": [
+          "2009/01/24 09:00 [entrez]",
+          "2009/01/24 09:00 [pubmed]",
+          "2009/05/12 09:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2008.4649506 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2008;2008:1711-5. doi: 10.1109/IEMBS.2008.4649506.",
+     "term": "hippocampus"
+}

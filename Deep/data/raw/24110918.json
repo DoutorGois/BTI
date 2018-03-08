@@ -1,0 +1,63 @@
+{
+     "PMID": "24110918",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150824",
+     "LR": "20131010",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2013",
+     "DP": "2013",
+     "TI": "Reverse stochastic resonance in a hippocampal CA1 neuron model.",
+     "PG": "5242-5",
+     "LID": "10.1109/EMBC.2013.6610731 [doi]",
+     "AB": "Stochastic resonance (SR) is a ubiquitous and counter- intuitive phenomenon whereby the addition of noise to a non-linear system can improve the detection of sub-threshold signals. The \"signal\" is normally periodic or deterministic whereas the \"noise\" is normally stochastic. However, in neural systems, signals are often stochastic. Moreover, periodic signals are applied near neurons to control neural excitability (i.e. deep brain stimulation). We therefore tested the hypothesis that a quasi-periodic signal applied to a neural network could enhance the detection of a stochastic neural signal (reverse stochastic resonance). Using computational methods, a CA1 hippocampal neuron was simulated and a Poisson distributed subthreshold synaptic input (\"signal\") was applied to the synaptic terminals. A periodic or quasi periodic pulse train at various frequencies (\"noise\") was applied to an extracellular electrode located near the neuron. The mutual information and information transfer rate between the output and input of the neuron were calculated. The results display the signature of stochastic resonance with information transfer reaching a maximum value for increasing power (or frequency) of the \"noise\". This result shows that periodic signals applied extracellularly can improve the detection of subthreshold stochastic neural signals. The optimum frequency (110 Hz) is similar to that used in patients with Parkinson's suggesting that this phenomenon could play a role in the therapeutic effect of high frequency stimulation.",
+     "FAU": [
+          "Durand, Dominique M",
+          "Kawaguchi, Minato",
+          "Mino, Hiroyuki"
+     ],
+     "AU": [
+          "Durand DM",
+          "Kawaguchi M",
+          "Mino H"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Computer Simulation",
+          "Deep Brain Stimulation/methods",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Signal-To-Noise Ratio",
+          "Stochastic Processes"
+     ],
+     "EDAT": "2013/10/11 06:00",
+     "MHDA": "2015/08/25 06:00",
+     "CRDT": [
+          "2013/10/11 06:00"
+     ],
+     "PHST": [
+          "2013/10/11 06:00 [entrez]",
+          "2013/10/11 06:00 [pubmed]",
+          "2015/08/25 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2013.6610731 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2013;2013:5242-5. doi: 10.1109/EMBC.2013.6610731.",
+     "term": "hippocampus"
+}

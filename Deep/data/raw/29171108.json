@@ -1,0 +1,88 @@
+{
+     "PMID": "29171108",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20180111",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "39",
+     "IP": "2",
+     "DP": "2018 Feb",
+     "TI": "Optimization and validation of automated hippocampal subfield segmentation across the lifespan.",
+     "PG": "916-931",
+     "LID": "10.1002/hbm.23891 [doi]",
+     "AB": "Automated segmentation of hippocampal (HC) subfields from magnetic resonance imaging (MRI) is gaining popularity, but automated procedures that afford high speed and reproducibility have yet to be extensively validated against the standard, manual morphometry. We evaluated the concurrent validity of an automated method for hippocampal subfields segmentation (automated segmentation of hippocampal subfields, ASHS; Yushkevich et al., ) using a customized atlas of the HC body, with manual morphometry as a standard. We built a series of customized atlases comprising the entorhinal cortex (ERC) and subfields of the HC body from manually segmented images, and evaluated the correspondence of automated segmentations with manual morphometry. In samples with age ranges of 6-24 and 62-79 years, 20 participants each, we obtained validity coefficients (intraclass correlations, ICC) and spatial overlap measures (dice similarity coefficient) that varied substantially across subfields. Anterior and posterior HC body evidenced the greatest discrepancies between automated and manual segmentations. Adding anterior and posterior slices for atlas creation and truncating automated output to the ranges manually defined by multiple neuroanatomical landmarks substantially improved the validity of automated segmentation, yielding ICC above 0.90 for all subfields and alleviating systematic bias. We cross-validated the developed atlas on an independent sample of 30 healthy adults (age 31-84) and obtained good to excellent agreement: ICC (2) = 0.70-0.92. Thus, with described customization steps implemented by experts trained in MRI neuroanatomy, ASHS shows excellent concurrent validity, and can become a promising method for studying age-related changes in HC subfield volumes.",
+     "CI": [
+          "(c) 2017 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Bender, Andrew R",
+          "Keresztes, Attila",
+          "Bodammer, Nils C",
+          "Shing, Yee Lee",
+          "Werkle-Bergner, Markus",
+          "Daugherty, Ana M",
+          "Yu, Qijing",
+          "Kuhn, Simone",
+          "Lindenberger, Ulman",
+          "Raz, Naftali"
+     ],
+     "AU": [
+          "Bender AR",
+          "Keresztes A",
+          "Bodammer NC",
+          "Shing YL",
+          "Werkle-Bergner M",
+          "Daugherty AM",
+          "Yu Q",
+          "Kuhn S",
+          "Lindenberger U",
+          "Raz N"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0003-2710-3571",
+          "ORCID: http://orcid.org/0000-0001-6823-7969"
+     ],
+     "AD": "Center for Lifespan Psychology, Max Planck Institute for Human Development, Berlin, Germany. Center for Lifespan Psychology, Max Planck Institute for Human Development, Berlin, Germany. Center for Lifespan Psychology, Max Planck Institute for Human Development, Berlin, Germany. Center for Lifespan Psychology, Max Planck Institute for Human Development, Berlin, Germany. Division of Psychology, University of Stirling, Stirling, United Kingdom. Center for Lifespan Psychology, Max Planck Institute for Human Development, Berlin, Germany. Beckman Institute for Advanced Science and Technology, University of Illinois Urbana-Champaign, Urbana, Illinois, USA. Department of Psychology & Institute of Gerontology, Wayne State University, Detroit, Michigan, USA. Center for Lifespan Psychology, Max Planck Institute for Human Development, Berlin, Germany. Department of Psychiatry and Psychotherapy, University Clinic Hamburg-Eppendorf, Hamburg, Germany. Center for Lifespan Psychology, Max Planck Institute for Human Development, Berlin, Germany. Max Planck Centre for Computational Psychiatry and Ageing Research, London, United Kingdom. European University Institute, San Domenico di Fiesole, Fiesole, Italy. Center for Lifespan Psychology, Max Planck Institute for Human Development, Berlin, Germany. Department of Psychology & Institute of Gerontology, Wayne State University, Detroit, Michigan, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171123",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "MRI",
+          "aging",
+          "development",
+          "hippocampus",
+          "morphometry",
+          "validation",
+          "volume"
+     ],
+     "EDAT": "2017/11/25 06:00",
+     "MHDA": "2017/11/25 06:00",
+     "CRDT": [
+          "2017/11/25 06:00"
+     ],
+     "PHST": [
+          "2017/04/11 00:00 [received]",
+          "2017/11/07 00:00 [revised]",
+          "2017/11/07 00:00 [accepted]",
+          "2017/11/25 06:00 [pubmed]",
+          "2017/11/25 06:00 [medline]",
+          "2017/11/25 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hbm.23891 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2018 Feb;39(2):916-931. doi: 10.1002/hbm.23891. Epub 2017 Nov 23.",
+     "term": "hippocampus"
+}

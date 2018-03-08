@@ -1,0 +1,71 @@
+{
+     "PMID": "16077160",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060104",
+     "LR": "20171107",
+     "IS": "1539-2791 (Print) 1539-2791 (Linking)",
+     "VI": "3",
+     "IP": "3",
+     "DP": "2005",
+     "TI": "A computational model of parallel navigation systems in rodents.",
+     "PG": "223-41",
+     "AB": "Several studies in rats support the idea of multiple neural systems competing to select the best action for reaching a goal or food location. Locale navigation strategies, necessary for reaching invisible goals, seem to be mediated by the hippocampus and the ventral and dorsomedial striatum whereas taxon strategies, applied for approaching goals in the visual field, are believed to involve the dorsolateral striatum. A computational model of action selection is presented, in which different experts, implementing locale and taxon strategies, compete in order to select the appropriate behavior for the current task. The model was tested in a simulated robot using an experimental paradigm that dissociates the use of cue and spatial information.",
+     "FAU": [
+          "Chavarriaga, Ricardo",
+          "Strosslin, Thomas",
+          "Sheynikhovich, Denis",
+          "Gerstner, Wulfram"
+     ],
+     "AU": [
+          "Chavarriaga R",
+          "Strosslin T",
+          "Sheynikhovich D",
+          "Gerstner W"
+     ],
+     "AD": "Ecole Polytechnique Federale de Lausanne (EPFL), School of Computer and Communication Sciences and Brain Mind Institute, 1015 Lausanne, Switzerland.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Behavior, Animal",
+          "*Computer Simulation",
+          "Cues",
+          "Discrimination Learning/physiology",
+          "Hippocampus/physiology",
+          "Maze Learning/physiology",
+          "*Models, Neurological",
+          "Neural Pathways/physiology",
+          "Rodentia",
+          "Space Perception/*physiology",
+          "Spatial Behavior/*physiology"
+     ],
+     "EDAT": "2005/08/04 09:00",
+     "MHDA": "2006/01/05 09:00",
+     "CRDT": [
+          "2005/08/04 09:00"
+     ],
+     "PHST": [
+          "2005/08/04 09:00 [pubmed]",
+          "2006/01/05 09:00 [medline]",
+          "2005/08/04 09:00 [entrez]"
+     ],
+     "AID": [
+          "NI:3:3:223 [pii]",
+          "10.1385/NI:3:3:223 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2005;3(3):223-41. doi: 10.1385/NI:3:3:223.",
+     "term": "hippocampus"
+}

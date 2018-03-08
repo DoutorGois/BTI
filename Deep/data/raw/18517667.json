@@ -1,0 +1,69 @@
+{
+     "PMID": "18517667",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080825",
+     "LR": "20080603",
+     "IS": "1539-3755 (Print) 1539-3755 (Linking)",
+     "VI": "77",
+     "IP": "4 Pt 1",
+     "DP": "2008 Apr",
+     "TI": "Class-II neurons display a higher degree of stochastic synchronization than class-I neurons.",
+     "PG": "041918",
+     "AB": "We describe the relationship between the shape of the phase-resetting curve (PRC) and the degree of stochastic synchronization observed between a pair of uncoupled general oscillators receiving partially correlated Poisson inputs in addition to inputs from independent sources. We use perturbation methods to derive an expression relating the shape of the PRC to the probability density function (PDF) of the phase difference between the oscillators. We compute various measures of the degree of synchrony and cross correlation from the PDF's and use the same to compare and contrast differently shaped PRCs, with respect to their ability to undergo stochastic synchronization. Since the shape of the PRC depends on underlying dynamical details of the oscillator system, we utilize the results obtained from the analysis of general oscillator systems to study specific models of neuronal oscillators. It is shown that the degree of stochastic synchronization is controlled both by the firing rate of the neuron and the membership of the PRC (type I or type II). It is also shown that the circular variance for the integrate and fire neuron and the generalized order parameter for a hippocampal interneuron model have a nonlinear relationship to the input correlation.",
+     "FAU": [
+          "Marella, Sashi",
+          "Ermentrout, G Bard"
+     ],
+     "AU": [
+          "Marella S",
+          "Ermentrout GB"
+     ],
+     "AD": "Center for Neuroscience, University of Pittsburgh, Pittsburgh, PA 15261, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20080429",
+     "PL": "United States",
+     "TA": "Phys Rev E Stat Nonlin Soft Matter Phys",
+     "JT": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+     "JID": "101136452",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Biological Clocks/physiology",
+          "Computer Simulation",
+          "*Cortical Synchronization",
+          "Hippocampus/cytology",
+          "Humans",
+          "Interneurons/cytology/physiology",
+          "Models, Neurological",
+          "Monte Carlo Method",
+          "Neurons/*classification/*physiology",
+          "Poisson Distribution",
+          "Stochastic Processes",
+          "Time Factors"
+     ],
+     "EDAT": "2008/06/04 09:00",
+     "MHDA": "2008/08/30 09:00",
+     "CRDT": [
+          "2008/06/04 09:00"
+     ],
+     "PHST": [
+          "2008/01/11 00:00 [received]",
+          "2008/06/04 09:00 [pubmed]",
+          "2008/08/30 09:00 [medline]",
+          "2008/06/04 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1103/PhysRevE.77.041918 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phys Rev E Stat Nonlin Soft Matter Phys. 2008 Apr;77(4 Pt 1):041918. doi: 10.1103/PhysRevE.77.041918. Epub 2008 Apr 29.",
+     "term": "hippocampus"
+}

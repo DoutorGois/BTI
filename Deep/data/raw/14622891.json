@@ -1,0 +1,81 @@
+{
+     "PMID": "14622891",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040210",
+     "LR": "20071115",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "16",
+     "IP": "9",
+     "DP": "2003 Nov",
+     "TI": "Kinetic simulation of signal transduction system in hippocampal long-term potentiation with dynamic modeling of protein phosphatase 2A.",
+     "PG": "1389-98",
+     "AB": "We modeled and analyzed a signal transduction system of long-term potentiation (LTP) in hippocampal post-synapse. Bhalla and Iyengar [Science 283(1999) 381] have developed a hippocampal LTP model. In the conventional model, the concentration of protein phosphatase 2A (PP2A) was fixed. However, it was reported that dynamic inactivation of PP2A was essential for LTP [J. Neurochem. 74 (2000) 807]. We introduced a dynamic modeling of PP2A; inactivation (phosphorylation) of PP2A by calcium/calmodulin-dependent protein kinase II (CaMKII) in the presence of calcium/calmodulin, self-activation (autodephosphorylation) of PP2A, and inactivation (dephosphorylation) of CaMKII by PP2A. This model includes complex feedback loops; both CaMKII and PP2A are autoactivated, while they inactivate each other. Moreover, we proposed an analysis strategy for model validation by applying the results of sensitivity analysis. In our system, calcineurin (CaN) played an essential role, rather than the activation of protein kinase C (PKC) as documented in the conventional model. From results of the analysis of our model, we found the following robustness as characteristics of bistability in our model: (1). PP2A reactions against calcium ion (Ca(2+)) perturbation; (2). PP2A inactivation against PP2A increase; (3). protein phosphatase 1 (PP1) activation against PF2A increase; and (4). PP2A reactions against PP2A initial concentration. These properties facilitated LTP induction in our system. We showed that another mechanism could introduce bistable behavior by adding dynamic reactions of PP2A.",
+     "FAU": [
+          "Kikuchi, Shinichi",
+          "Fujimoto, Kenji",
+          "Kitagawa, Noriyuki",
+          "Fuchikawa, Taro",
+          "Abe, Michiko",
+          "Oka, Kotaro",
+          "Takei, Kohtaro",
+          "Tomita, Masaru"
+     ],
+     "AU": [
+          "Kikuchi S",
+          "Fujimoto K",
+          "Kitagawa N",
+          "Fuchikawa T",
+          "Abe M",
+          "Oka K",
+          "Takei K",
+          "Tomita M"
+     ],
+     "AD": "Laboratory for Bioinformatics, Institute for Advanced Biosciences, Keio University, Endo 5322, Fujisawa 252-8520, Japan. kikuchi@sfc.keio.ac.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "RN": [
+          "EC 3.1.3.16 (Phosphoprotein Phosphatases)",
+          "EC 3.1.3.16 (Protein Phosphatase 1)",
+          "EC 3.1.3.16 (Protein Phosphatase 2)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Kinetics",
+          "Long-Term Potentiation/*physiology",
+          "*Neural Networks (Computer)",
+          "Phosphoprotein Phosphatases/*physiology",
+          "Protein Phosphatase 1",
+          "Protein Phosphatase 2",
+          "Signal Transduction/*physiology"
+     ],
+     "EDAT": "2003/11/19 05:00",
+     "MHDA": "2004/02/11 05:00",
+     "CRDT": [
+          "2003/11/19 05:00"
+     ],
+     "PHST": [
+          "2003/11/19 05:00 [pubmed]",
+          "2004/02/11 05:00 [medline]",
+          "2003/11/19 05:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(03)00248-X [pii]",
+          "10.1016/j.neunet.2003.09.002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2003 Nov;16(9):1389-98. doi: 10.1016/j.neunet.2003.09.002.",
+     "term": "hippocampus"
+}

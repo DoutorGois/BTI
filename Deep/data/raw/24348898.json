@@ -1,0 +1,78 @@
+{
+     "PMID": "24348898",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140729",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "11",
+     "DP": "2013",
+     "TI": "Identification of unstable network modules reveals disease modules associated with the progression of Alzheimer's disease.",
+     "PG": "e76162",
+     "LID": "10.1371/journal.pone.0076162 [doi]",
+     "AB": "Alzheimer's disease (AD), the most common cause of dementia, is associated with aging, and it leads to neuron death. Deposits of amyloid beta and aberrantly phosphorylated tau protein are known as pathological hallmarks of AD, but the underlying mechanisms have not yet been revealed. A high-throughput gene expression analysis previously showed that differentially expressed genes accompanying the progression of AD were more down-regulated than up-regulated in the later stages of AD. This suggested that the molecular networks and their constituent modules collapsed along with AD progression. In this study, by using gene expression profiles and protein interaction networks (PINs), we identified the PINs expressed in three brain regions: the entorhinal cortex (EC), hippocampus (HIP) and superior frontal gyrus (SFG). Dividing the expressed PINs into modules, we examined the stability of the modules with AD progression and with normal aging. We found that in the AD modules, the constituent proteins, interactions and cellular functions were not maintained between consecutive stages through all brain regions. Interestingly, the modules were collapsed with AD progression, specifically in the EC region. By identifying the modules that were affected by AD pathology, we found the transcriptional regulation-associated modules that interact with the proteasome-associated module via UCHL5 hub protein, which is a deubiquitinating enzyme. Considering PINs as a system made of network modules, we found that the modules relevant to the transcriptional regulation are disrupted in the EC region, which affects the ubiquitin-proteasome system.",
+     "FAU": [
+          "Kikuchi, Masataka",
+          "Ogishima, Soichi",
+          "Miyamoto, Tadashi",
+          "Miyashita, Akinori",
+          "Kuwano, Ryozo",
+          "Nakaya, Jun",
+          "Tanaka, Hiroshi"
+     ],
+     "AU": [
+          "Kikuchi M",
+          "Ogishima S",
+          "Miyamoto T",
+          "Miyashita A",
+          "Kuwano R",
+          "Nakaya J",
+          "Tanaka H"
+     ],
+     "AD": "Department of Bioinformatics, Tokyo Medical and Dental University, Bunkyo-ku, Tokyo, Japan. Department of Bioclinical Informatics, Tohoku Medical Megabank Organization, Tohoku University, Sendai-shi, Miyagi, Japan. Department of Bioinformatics, Tokyo Medical and Dental University, Bunkyo-ku, Tokyo, Japan. Bioresource Science Branch, Center for Bioresources, Brain Research Institute, Niigata University, Niigata-shi, Niigata, Japan. Bioresource Science Branch, Center for Bioresources, Brain Research Institute, Niigata University, Niigata-shi, Niigata, Japan. Department of Bioclinical Informatics, Tohoku Medical Megabank Organization, Tohoku University, Sendai-shi, Miyagi, Japan. Department of Bioinformatics, Tokyo Medical and Dental University, Bunkyo-ku, Tokyo, Japan ; Department of Bioclinical Informatics, Tohoku Medical Megabank Organization, Tohoku University, Sendai-shi, Miyagi, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20131115",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*pathology",
+          "Databases, Factual",
+          "Disease Progression",
+          "Humans",
+          "Middle Aged",
+          "Young Adult"
+     ],
+     "PMC": "PMC3858171",
+     "EDAT": "2013/12/19 06:00",
+     "MHDA": "2014/07/30 06:00",
+     "CRDT": [
+          "2013/12/19 06:00"
+     ],
+     "PHST": [
+          "2013/07/28 00:00 [received]",
+          "2013/08/20 00:00 [accepted]",
+          "2013/12/19 06:00 [entrez]",
+          "2013/12/19 06:00 [pubmed]",
+          "2014/07/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0076162 [doi]",
+          "PONE-D-13-31714 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2013 Nov 15;8(11):e76162. doi: 10.1371/journal.pone.0076162. eCollection 2013.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,73 @@
+{
+     "PMID": "20799059",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110701",
+     "LR": "20171021",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "30",
+     "IP": "2",
+     "DP": "2011 Apr",
+     "TI": "Feedback control strategies for spatial navigation revealed by dynamic modelling of learning in the Morris water maze.",
+     "PG": "447-54",
+     "LID": "10.1007/s10827-010-0269-9 [doi]",
+     "AB": "The Morris water maze is an experimental procedure in which animals learn to escape swimming in a pool using environmental cues. Despite its success in neuroscience and psychology for studying spatial learning and memory, the exact mnemonic and navigational demands of the task are not well understood. Here, we provide a mathematical model of rat swimming dynamics on a behavioural level. The model consists of a random walk, a heading change and a feedback control component in which learning is reflected in parameter changes of the feedback mechanism. The simplicity of the model renders it accessible and useful for analysis of experiments in which swimming paths are recorded. Here, we used the model to analyse an experiment in which rats were trained to find the platform with either three or one extramaze cue. Results indicate that the 3-cues group employs stronger feedback relying only on the actual visual input, whereas the 1-cue group employs weaker feedback relying to some extent on memory. Because the model parameters are linked to neurological processes, identifying different parameter values suggests the activation of different neuronal pathways.",
+     "FAU": [
+          "Fey, Dirk",
+          "Commins, Sean",
+          "Bullinger, Eric"
+     ],
+     "AU": [
+          "Fey D",
+          "Commins S",
+          "Bullinger E"
+     ],
+     "AD": "Systems and Modeling, Montefiore Institute, University of Liege, 4000, Liege, Belgium. fey@montefiore.ulg.ac.be",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20100827",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cues",
+          "*Feedback, Psychological",
+          "Head",
+          "Male",
+          "Maze Learning/*physiology",
+          "*Models, Biological",
+          "*Nonlinear Dynamics",
+          "Rats",
+          "Rats, Wistar",
+          "Space Perception/physiology",
+          "Spatial Behavior/*physiology",
+          "Stochastic Processes",
+          "Swimming/physiology"
+     ],
+     "EDAT": "2010/08/28 06:00",
+     "MHDA": "2011/07/02 06:00",
+     "CRDT": [
+          "2010/08/28 06:00"
+     ],
+     "PHST": [
+          "2010/03/15 00:00 [received]",
+          "2010/08/09 00:00 [accepted]",
+          "2010/06/10 00:00 [revised]",
+          "2010/08/28 06:00 [entrez]",
+          "2010/08/28 06:00 [pubmed]",
+          "2011/07/02 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10827-010-0269-9 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2011 Apr;30(2):447-54. doi: 10.1007/s10827-010-0269-9. Epub 2010 Aug 27.",
+     "term": "spatial navigation"
+}

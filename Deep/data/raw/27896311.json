@@ -1,0 +1,114 @@
+{
+     "PMID": "27896311",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171025",
+     "LR": "20180109",
+     "IS": "2373-2822 (Electronic) 2373-2822 (Linking)",
+     "VI": "3",
+     "IP": "6",
+     "DP": "2016 Nov-Dec",
+     "TI": "Interfacing with Neural Activity via Femtosecond Laser Stimulation of Drug-Encapsulating Liposomal Nanostructures.",
+     "LID": "ENEURO.0107-16.2016 [pii]",
+     "AB": "External control over rapid and precise release of chemicals in the brain potentially provides a powerful interface with neural activity. Optical manipulation techniques, such as optogenetics and caged compounds, enable remote control of neural activity and behavior with fine spatiotemporal resolution. However, these methods are limited to chemicals that are naturally present in the brain or chemically suitable for caging. Here, we demonstrate the ability to interface with neural functioning via a wide range of neurochemicals released by stimulating loaded liposomal nanostructures with femtosecond lasers. Using a commercial two-photon microscope, we released inhibitory or excitatory neurochemicals to evoke subthreshold and suprathreshold changes in membrane potential in a live mouse brain slice. The responses were repeatable and could be controlled by adjusting laser stimulation characteristics. We also demonstrate the release of a wider range of chemicals-which previously were impossible to release by optogenetics or uncaging-including synthetic analogs of naturally occurring neurochemicals. In particular, we demonstrate the release of a synthetic receptor-specific agonist that exerts physiological effects on long-term synaptic plasticity. Further, we show that the loaded liposomal nanostructures remain functional for weeks in a live mouse. In conclusion, we demonstrate new techniques capable of interfacing with live neurons, and extendable to in vivo applications.",
+     "FAU": [
+          "Nakano, Takashi",
+          "Mackay, Sean M",
+          "Wui Tan, Eng",
+          "Dani, Keshav M",
+          "Wickens, Jeff"
+     ],
+     "AU": [
+          "Nakano T",
+          "Mackay SM",
+          "Wui Tan E",
+          "Dani KM",
+          "Wickens J"
+     ],
+     "AUID": [
+          "ORCID: 0000-0003-0707-4486",
+          "ORCID: 0000-0003-3917-6305",
+          "ORCID: 0000-0002-8795-1209"
+     ],
+     "AD": "Neurobiology Research Unit, Okinawa Institute of Science and Technology Graduate University, Onna-son 904-0412, Okinawa, Japan; Department of Neurobiology, Institute of Biomedical and Health Sciences, Hiroshima University, Hiroshima 734-8553, Japan. Department of Chemistry, University of Otago , Dunedin 9016, New Zealand. Department of Chemistry, University of Otago , Dunedin 9016, New Zealand. Femtosecond Spectroscopy Unit, Okinawa Institute of Science and Technology Graduate University , Onna-son 904-0495, Okinawa, Japan. Neurobiology Research Unit, Okinawa Institute of Science and Technology Graduate University , Onna-son 904-0412, Okinawa, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20161116",
+     "PL": "United States",
+     "TA": "eNeuro",
+     "JT": "eNeuro",
+     "JID": "101647362",
+     "RN": [
+          "0 (Drd1a protein, mouse)",
+          "0 (Gold Compounds)",
+          "0 (Liposomes)",
+          "0 (Neurotransmitter Agents)",
+          "0 (Receptors, Dopamine D1)",
+          "0 (enhanced green fluorescent protein)",
+          "147336-22-9 (Green Fluorescent Proteins)",
+          "2763-96-4 (Muscimol)",
+          "67287-49-4 (2,3,4,5-Tetrahydro-7,8-dihydroxy-1-phenyl-1H-3-benzazepine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "2,3,4,5-Tetrahydro-7,8-dihydroxy-1-phenyl-1H-3-benzazepine/administration & dosage",
+          "Animals",
+          "Corpus Striatum/drug effects/physiology",
+          "Drug Delivery Systems",
+          "Gold Compounds",
+          "Green Fluorescent Proteins/genetics/metabolism",
+          "Hippocampus/drug effects/physiology",
+          "*Lasers",
+          "*Liposomes",
+          "Male",
+          "Membrane Potentials/drug effects",
+          "Mice, Inbred C57BL",
+          "Mice, Transgenic",
+          "Microscopy",
+          "Muscimol/administration & dosage",
+          "*Nanostructures",
+          "Neuronal Plasticity/drug effects/physiology",
+          "Neurons/*drug effects/physiology",
+          "Neurotransmitter Agents/*administration & dosage",
+          "Patch-Clamp Techniques",
+          "Receptors, Dopamine D1/agonists/genetics/metabolism",
+          "Tissue Culture Techniques"
+     ],
+     "PMC": "PMC5110951",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*femtosecond",
+          "*laser",
+          "*liposome",
+          "*nanoshell",
+          "*neurotransmitter",
+          "*release"
+     ],
+     "EDAT": "2016/11/30 06:00",
+     "MHDA": "2017/10/27 06:00",
+     "CRDT": [
+          "2016/11/30 06:00"
+     ],
+     "PHST": [
+          "2016/05/03 00:00 [received]",
+          "2016/10/25 00:00 [revised]",
+          "2016/10/26 00:00 [accepted]",
+          "2016/11/30 06:00 [entrez]",
+          "2016/11/30 06:00 [pubmed]",
+          "2017/10/27 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1523/ENEURO.0107-16.2016 [doi]",
+          "eN-MNT-0107-16 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "eNeuro. 2016 Nov 16;3(6). pii: eN-MNT-0107-16. doi: 10.1523/ENEURO.0107-16.2016. eCollection 2016 Nov-Dec.",
+     "term": "hippocampus"
+}

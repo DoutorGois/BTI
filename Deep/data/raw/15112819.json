@@ -1,0 +1,66 @@
+{
+     "PMID": "15112819",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040708",
+     "LR": "20131121",
+     "IS": "0013-936X (Print) 0013-936X (Linking)",
+     "VI": "38",
+     "IP": "7",
+     "DP": "2004 Apr 1",
+     "TI": "Propagation of uncertainty in hourly utility NOx emissions through a photochemical grid air quality model: a case study for the Charlotte, NC, modeling domain.",
+     "PG": "2153-60",
+     "AB": "One of the major hypothesized sources of uncertainties in air quality model inputs is the emission inventory. A probabilistic hourly NOx emission inventory for 32 units of nine coal-fired power plants in the Charlotte domain for the year 1995 was propagated through the Multiscale Air Quality Simulation Platform (MAQSIP). The inventory was developed using time series techniques. Time series for a 4-d episode were simulated and propagated through the air quality model 50 times in order to represent the ranges of uncertainty in hourly emissions and predicted ozone levels. Intra-unit autocorrelation in emissions and inter-unit dependence were accounted for. The range of uncertainty in predicted ozone was greater when inter-unit dependence was included as compared to when units were treated as statistically independent. Uncertainties in maximum ozone hourly or 8-h concentrations at a specific location could be attributed to a specific power plant based upon regression analysis. Out of 3969 grid cells in the modeling domain, there were 43 and 1654 grid cells with a probability greater than 0.9 of exceeding a 1-h 120 ppb standard and an 8-h 80 ppb standard, respectively. The time series of predicted ozone values had similar autocorrelation as compared to monitored data. The implications of these results for air quality management are addressed.",
+     "FAU": [
+          "Abdel-Aziz, A M R",
+          "Frey, H Christopher"
+     ],
+     "AU": [
+          "Abdel-Aziz AM",
+          "Frey HC"
+     ],
+     "AD": "Department of Civil Engineering, North Carolina State University, Campus Box 7908, Raleigh, North Carolina 27695-7908, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Environ Sci Technol",
+     "JT": "Environmental science & technology",
+     "JID": "0213155",
+     "RN": [
+          "0 (Air Pollutants)",
+          "0 (Nitrogen Oxides)",
+          "0 (Oxidants, Photochemical)",
+          "66H7ZZK23N (Ozone)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Air Pollutants/*analysis",
+          "Environmental Monitoring",
+          "Forecasting",
+          "*Models, Theoretical",
+          "Nitrogen Oxides/*analysis",
+          "North Carolina",
+          "Oxidants, Photochemical/analysis",
+          "Ozone/analysis",
+          "Power Plants",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "2004/04/29 05:00",
+     "MHDA": "2004/07/09 05:00",
+     "CRDT": [
+          "2004/04/29 05:00"
+     ],
+     "PHST": [
+          "2004/04/29 05:00 [pubmed]",
+          "2004/07/09 05:00 [medline]",
+          "2004/04/29 05:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Environ Sci Technol. 2004 Apr 1;38(7):2153-60.",
+     "term": "grid cells"
+}

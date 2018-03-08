@@ -1,0 +1,76 @@
+{
+     "PMID": "23366951",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130722",
+     "LR": "20161025",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2012",
+     "DP": "2012",
+     "TI": "Towards a large-scale biologically realistic model of the hippocampus.",
+     "PG": "4595-8",
+     "LID": "10.1109/EMBC.2012.6346990 [doi]",
+     "AB": "Real neurobiological systems in the mammalian brain have a complicated and detailed structure, being composed of 1) large numbers of neurons with intricate, branching morphologies--complex morphology brings with it complex passive membrane properties; 2) active membrane properties--nonlinear sodium, potassium, calcium, etc. conductances; 3) non-uniform distributions throughout the dendritic and somal membrane surface of these non-linear conductances; 4) non-uniform and topographic connectivity between pre- and post-synaptic neurons; and 5) activity-dependent changes in synaptic function. One of the essential, and as yet unanswered questions in neuroscience is the role of these fundamental structural and functional features in determining \"neural processing\" properties of a given brain system. To help answer that question, we're creating a large-scale biologically realistic model of the intrinsic pathway of the hippocampus, which consists of the projection from layer II entorhinal cortex (EC) to dentate gyrus (DG), EC to CA3, DG to CA3, and CA3 to CA1. We describe the computational hardware and software tools the model runs on, and demonstrate its viability as a modeling platform with an EC-to-DG model.",
+     "FAU": [
+          "Hendrickson, Phillip J",
+          "Yu, Gene J",
+          "Robinson, Brian S",
+          "Song, Dong",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Hendrickson PJ",
+          "Yu GJ",
+          "Robinson BS",
+          "Song D",
+          "Berger TW"
+     ],
+     "AD": "Center for Neural Engineering, Department of Biomedical Engineering, University of Southern California, Los Angeles, CA 90089, USA. phendric@usc.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 GM104604/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/*cytology/*physiology",
+          "Humans",
+          "*Models, Anatomic",
+          "*Models, Neurological",
+          "Nerve Net/*cytology/*physiology",
+          "Neural Pathways/physiology",
+          "Neurons/*physiology"
+     ],
+     "PMC": "PMC4172354",
+     "MID": [
+          "NIHMS623095"
+     ],
+     "EDAT": "2013/02/01 06:00",
+     "MHDA": "2013/07/23 06:00",
+     "CRDT": [
+          "2013/02/01 06:00"
+     ],
+     "PHST": [
+          "2013/02/01 06:00 [entrez]",
+          "2013/02/01 06:00 [pubmed]",
+          "2013/07/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2012.6346990 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2012;2012:4595-8. doi: 10.1109/EMBC.2012.6346990.",
+     "term": "hippocampus"
+}

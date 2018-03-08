@@ -1,0 +1,77 @@
+{
+     "PMID": "16533609",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20061006",
+     "LR": "20061115",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "31",
+     "IP": "3",
+     "DP": "2006 Jul 1",
+     "TI": "Physiological noise reduction for arterial spin labeling functional MRI.",
+     "PG": "1104-15",
+     "AB": "Three methods for the reduction of physiological noise in arterial spin labeling (ASL) functional magnetic resonance imaging (fMRI) are presented and compared. The methods are based upon a general linear model of the ASL measurement process and on a previously described retrospective image-based method (RETROICOR) for physiological noise reduction in blood oxygenation level dependent fMRI. In the first method, the contribution of physiological noise to the interleaved control and tag images that comprise the ASL time series are assumed to be equal, while in the second method this assumption is not made. For the third method, it is assumed that physiological noise primarily impacts the perfusion time series obtained from the filtered subtraction of the control and tag images. The methods were evaluated using studies of functional activity in the visual cortex and the hippocampal region. The first and second methods significantly improved statistical performance in both brain regions, whereas the third method did not provide a significant gain. The second method provided significantly better performance than the first method in the hippocampal region, whereas the differences between methods were less pronounced in visual cortex. The improved performance of the second method in the hippocampal region appears to reflect the relatively greater effect of cardiac fluctuations in this brain region. The proposed methods should be particularly useful for ASL studies of cognitive processes where the intrinsic signal to noise ratio is typically lower than for studies of primary sensory regions.",
+     "FAU": [
+          "Restom, Khaled",
+          "Behzadi, Yashar",
+          "Liu, Thomas T"
+     ],
+     "AU": [
+          "Restom K",
+          "Behzadi Y",
+          "Liu TT"
+     ],
+     "AD": "Department of Radiology, UCSD Center for Functional MRI, La Jolla, CA 92093-0677, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20060313",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Artifacts",
+          "Brain/*blood supply",
+          "Electron Spin Resonance Spectroscopy/*methods",
+          "Female",
+          "Heart Rate/*physiology",
+          "Hippocampus/blood supply",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Parahippocampal Gyrus/blood supply",
+          "Pattern Recognition, Visual",
+          "Regional Blood Flow/physiology",
+          "*Respiration",
+          "Visual Cortex/blood supply"
+     ],
+     "EDAT": "2006/03/15 09:00",
+     "MHDA": "2006/10/07 09:00",
+     "CRDT": [
+          "2006/03/15 09:00"
+     ],
+     "PHST": [
+          "2005/07/20 00:00 [received]",
+          "2005/12/05 00:00 [revised]",
+          "2006/01/24 00:00 [accepted]",
+          "2006/03/15 09:00 [pubmed]",
+          "2006/10/07 09:00 [medline]",
+          "2006/03/15 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(06)00064-4 [pii]",
+          "10.1016/j.neuroimage.2006.01.026 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2006 Jul 1;31(3):1104-15. doi: 10.1016/j.neuroimage.2006.01.026. Epub 2006 Mar 13.",
+     "term": "hippocampus"
+}

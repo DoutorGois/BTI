@@ -1,0 +1,82 @@
+{
+     "PMID": "27532611",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170731",
+     "LR": "20171116",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "11",
+     "IP": "8",
+     "DP": "2016",
+     "TI": "Predicting the Occurrence of Cave-Inhabiting Fauna Based on Features of the Earth Surface Environment.",
+     "PG": "e0160408",
+     "LID": "10.1371/journal.pone.0160408 [doi]",
+     "AB": "One of the most challenging fauna to study in situ is the obligate cave fauna because of the difficulty of sampling. Cave-limited species display patchy and restricted distributions, but it is often unclear whether the observed distribution is a sampling artifact or a true restriction in range. Further, the drivers of the distribution could be local environmental conditions, such as cave humidity, or they could be associated with surface features that are surrogates for cave conditions. If surface features can be used to predict the distribution of important cave taxa, then conservation management is more easily obtained. We examined the hypothesis that the presence of major faunal groups of cave obligate species could be predicted based on features of the earth surface. Georeferenced records of cave obligate amphipods, crayfish, fish, isopods, beetles, millipedes, pseudoscorpions, spiders, and springtails within the area of Appalachian Landscape Conservation Cooperative in the eastern United States (Illinois to Virginia and New York to Alabama) were assigned to 20 x 20 km grid cells. Habitat suitability for these faunal groups was modeled using logistic regression with twenty predictor variables within each grid cell, such as percent karst, soil features, temperature, precipitation, and elevation. Models successfully predicted the presence of a group greater than 65% of the time (mean = 88%) for the presence of single grid cell endemics, and for all faunal groups except pseudoscorpions. The most common predictor variables were latitude, percent karst, and the standard deviation of the Topographic Position Index (TPI), a measure of landscape rugosity within each grid cell. The overall success of these models points to a number of important connections between the surface and cave environments, and some of these, especially soil features and topographic variability, suggest new research directions. These models should prove to be useful tools in predicting the presence of species in understudied areas.",
+     "FAU": [
+          "Christman, Mary C",
+          "Doctor, Daniel H",
+          "Niemiller, Matthew L",
+          "Weary, David J",
+          "Young, John A",
+          "Zigler, Kirk S",
+          "Culver, David C"
+     ],
+     "AU": [
+          "Christman MC",
+          "Doctor DH",
+          "Niemiller ML",
+          "Weary DJ",
+          "Young JA",
+          "Zigler KS",
+          "Culver DC"
+     ],
+     "AD": "Departments of Biology and of Statistics, University of Florida, Gainesville, Florida, and MCC Statistical Consulting LLC, Gainesville, Florida, United States of America. U. S. Geological Survey, Reston, Virginia, United States of America. Illinois Natural History Survey, Prairie Research Institute, University of Illinois at Urbana-Champaign, Champaign, Illinois, United States of America. U. S. Geological Survey, Reston, Virginia, United States of America. U. S. Geological Survey, Leetown Science Center, Kearneysville, West Virginia, United States of America. Department of Biology, The University of the South, Sewanee, Tennessee, United States of America. Department of Environmental Science, American University, Washington, District of Columbia, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160817",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Amphipoda",
+          "Animals",
+          "Appalachian Region",
+          "Arthropods",
+          "*Caves",
+          "Coleoptera",
+          "Conservation of Natural Resources",
+          "*Ecosystem",
+          "Environment",
+          "Fishes",
+          "Models, Biological",
+          "Population Dynamics",
+          "Species Specificity",
+          "Spiders"
+     ],
+     "PMC": "PMC4988700",
+     "EDAT": "2016/08/18 06:00",
+     "MHDA": "2017/08/02 06:00",
+     "CRDT": [
+          "2016/08/18 06:00"
+     ],
+     "PHST": [
+          "2015/12/26 00:00 [received]",
+          "2016/07/08 00:00 [accepted]",
+          "2016/08/18 06:00 [entrez]",
+          "2016/08/18 06:00 [pubmed]",
+          "2017/08/02 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0160408 [doi]",
+          "PONE-D-15-56001 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2016 Aug 17;11(8):e0160408. doi: 10.1371/journal.pone.0160408. eCollection 2016.",
+     "term": "grid cells"
+}

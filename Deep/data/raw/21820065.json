@@ -1,0 +1,112 @@
+{
+     "PMID": "21820065",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120213",
+     "LR": "20171107",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "59",
+     "IP": "1",
+     "DP": "2012 Jan 2",
+     "TI": "Registration of longitudinal brain image sequences with implicit template and spatial-temporal heuristics.",
+     "PG": "404-21",
+     "LID": "10.1016/j.neuroimage.2011.07.026 [doi]",
+     "AB": "Accurate measurement of longitudinal changes of brain structures and functions is very important but challenging in many clinical studies. Also, across-subject comparison of longitudinal changes is critical in identifying disease-related changes. In this paper, we propose a novel method to meet these two requirements by simultaneously registering sets of longitudinal image sequences of different subjects to the common space, without assuming any explicit template. Specifically, our goal is to 1) consistently measure the longitudinal changes from a longitudinal image sequence of each subject, and 2) jointly align all image sequences of different subjects to a hidden common space. To achieve these two goals, we first introduce a set of temporal fiber bundles to explore the spatial-temporal behavior of anatomical changes in each longitudinal image sequence. Then, a probabilistic model is built upon the temporal fibers to characterize both spatial smoothness and temporal continuity. Finally, the transformation fields that connect each time-point image of each subject to the common space are simultaneously estimated by the expectation maximization (EM) approach, via the maximum a posterior (MAP) estimation of the probabilistic models. Promising results have been obtained in quantitative measurement of longitudinal brain changes, i.e., hippocampus volume changes, showing better performance than those obtained by either the pairwise or the groupwise only registration methods.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Wu, Guorong",
+          "Wang, Qian",
+          "Shen, Dinggang"
+     ],
+     "AU": [
+          "Wu G",
+          "Wang Q",
+          "Shen D"
+     ],
+     "AD": "Department of Radiology and BRIC, University of North Carolina at Chapel Hill, NC 27599, USA. grwu@med.unc.edu",
+     "CN": [
+          "Alzheimer's Disease NeuroImaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "RC1 MH088520-01/None/None",
+          "R01 EB008374/EB/NIBIB NIH HHS/United States",
+          "R01 EB006733/EB/NIBIB NIH HHS/United States",
+          "U19 AG010483/AG/NIA NIH HHS/United States",
+          "R01 EB009634/EB/NIBIB NIH HHS/United States",
+          "R01 EB009634-01A1/EB/NIBIB NIH HHS/United States",
+          "RC1 MH088520/MH/NIMH NIH HHS/United States",
+          "R01 EB008374-01A2/None/None"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20110723",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "*Algorithms",
+          "Brain/*anatomy & histology/*physiology",
+          "Brain Mapping/*methods",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging"
+     ],
+     "PMC": "PMC3195864",
+     "MID": [
+          "NIHMS314946"
+     ],
+     "IR": [
+          "Weiner MW",
+          "Aisen P",
+          "Petersen R",
+          "Jack C",
+          "Jagust W",
+          "Morris JC",
+          "Saykin AJ",
+          "Trojanowski JQ",
+          "Toga AW",
+          "Beckett L"
+     ],
+     "FIR": [
+          "Weiner, Michael W",
+          "Aisen, Paul",
+          "Petersen, Ronald",
+          "Jack, Clifford",
+          "Jagust, William",
+          "Morris, John C",
+          "Saykin, Andrew J",
+          "Trojanowski, John Q",
+          "Toga, Arthur W",
+          "Beckett, Laurel"
+     ],
+     "EDAT": "2011/08/09 06:00",
+     "MHDA": "2012/02/14 06:00",
+     "CRDT": [
+          "2011/08/09 06:00"
+     ],
+     "PHST": [
+          "2011/03/01 00:00 [received]",
+          "2011/07/07 00:00 [revised]",
+          "2011/07/11 00:00 [accepted]",
+          "2011/08/09 06:00 [entrez]",
+          "2011/08/09 06:00 [pubmed]",
+          "2012/02/14 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)00787-7 [pii]",
+          "10.1016/j.neuroimage.2011.07.026 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2012 Jan 2;59(1):404-21. doi: 10.1016/j.neuroimage.2011.07.026. Epub 2011 Jul 23.",
+     "term": "hippocampus"
+}

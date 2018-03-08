@@ -1,0 +1,71 @@
+{
+     "PMID": "12026089",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20021107",
+     "LR": "20061115",
+     "IS": "0047-2425 (Print) 0047-2425 (Linking)",
+     "VI": "31",
+     "IP": "3",
+     "DP": "2002 May-Jun",
+     "TI": "Spatial and temporal modeling of microbial contaminants on grazing farmlands.",
+     "PG": "860-9",
+     "AB": "This paper introduces an integrated spatial and temporal modeling system developed mathematically for assessing microbial contaminants on animal-grazed farmlands. The model uses fecal coliform, specifically Escherichia coli, as an indicator of fecal contamination and describes the sources, sinks, transport processes, and fate of E. coli contaminants in catchments and associated streams. Spatial features include grazing location, land topography, distance to a nearby stream, and distance through the stream network to the outlet. Temporal features are population dynamics on the land surface, in flow, and on streambeds. The model applies the principles of conservation of mass balance on two different types of pools: grid cells on land surfaces and networked stream segments. The model aims to improve the prediction of the effects of different land management strategies on the fecal contamination of waterways. This is achieved by characterizing the movement of fecal contaminants from land to streams and in-stream mobilization. Processes of attenuation, diffusion, and transport govern the movement. Our study site is a hill land catchment with an area of 140 ha and is used exclusively for animal grazing. The model was calibrated with previous research results, and then tested using the data collected at the outlet of the catchment. The sensitivity of the model predictions was analyzed for different scenarios: effect of stock rate, attenuation rate, and flow volumes. The similar pattern between monitored and predicted E. coli concentration proved that the model captures the key features that control the population dynamics of fecal contaminants. Further experiments are required to expand the model's functionality for covering more mitigation options.",
+     "FAU": [
+          "Tian, Yong Q",
+          "Gong, Peng",
+          "Radke, John D",
+          "Scarborough, James"
+     ],
+     "AU": [
+          "Tian YQ",
+          "Gong P",
+          "Radke JD",
+          "Scarborough J"
+     ],
+     "AD": "Center for Assessment and Monitoring of Forest and Environmental Resources, Univ. of California, Berkeley 94720-3110, USA. ytian@nature.berkeley.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Environ Qual",
+     "JT": "Journal of environmental quality",
+     "JID": "0330666",
+     "SB": "IM",
+     "MH": [
+          "Animal Husbandry",
+          "Animals",
+          "Animals, Domestic/microbiology",
+          "Environmental Monitoring/methods/*standards",
+          "Escherichia coli/*isolation & purification",
+          "Feces/microbiology",
+          "Geography",
+          "Humans",
+          "*Models, Theoretical",
+          "New Zealand",
+          "Predictive Value of Tests",
+          "Satellite Communications",
+          "Sensitivity and Specificity",
+          "*Water Microbiology",
+          "Water Purification/*methods"
+     ],
+     "EDAT": "2002/05/25 10:00",
+     "MHDA": "2002/11/26 04:00",
+     "CRDT": [
+          "2002/05/25 10:00"
+     ],
+     "PHST": [
+          "2002/05/25 10:00 [pubmed]",
+          "2002/11/26 04:00 [medline]",
+          "2002/05/25 10:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Environ Qual. 2002 May-Jun;31(3):860-9.",
+     "term": "grid cells"
+}

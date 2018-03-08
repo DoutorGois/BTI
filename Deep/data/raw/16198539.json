@@ -1,0 +1,71 @@
+{
+     "PMID": "16198539",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060427",
+     "LR": "20140325",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "18",
+     "IP": "9",
+     "DP": "2005 Nov",
+     "TI": "Hippocampal replay contributes to within session learning in a temporal difference reinforcement learning model.",
+     "PG": "1163-71",
+     "AB": "Temporal difference reinforcement learning (TDRL) algorithms, hypothesized to partially explain basal ganglia functionality, learn more slowly than real animals. Modified TDRL algorithms (e.g. the Dyna-Q family) learn faster than standard TDRL by practicing experienced sequences offline. We suggest that the replay phenomenon, in which ensembles of hippocampal neurons replay previously experienced firing sequences during subsequent rest and sleep, may provide practice sequences to improve the speed of TDRL learning, even within a single session. We test the plausibility of this hypothesis in a computational model of a multiple-T choice-task. Rats show two learning rates on this task: a fast decrease in errors and a slow development of a stereotyped path. Adding developing replay to the model accelerates learning the correct path, but slows down the stereotyping of that path. These models provide testable predictions relating the effects of hippocampal inactivation as well as hippocampal replay on this task.",
+     "FAU": [
+          "Johnson, Adam",
+          "Redish, A David"
+     ],
+     "AU": [
+          "Johnson A",
+          "Redish AD"
+     ],
+     "AD": "Center for Cognitive Sciences and Graduate Program in Neuroscience, University of Minnesota, MN 55455, USA. john5726@umn.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH68029/MH/NIMH NIH HHS/United States",
+          "T32HD007151/HD/NICHD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20050929",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Behavior, Animal/*physiology",
+          "*Computer Simulation",
+          "Hippocampus/*physiology",
+          "Maze Learning/*physiology",
+          "Memory",
+          "*Models, Neurological",
+          "Rats",
+          "*Reinforcement (Psychology)",
+          "Reward",
+          "*Space Perception"
+     ],
+     "EDAT": "2005/10/04 09:00",
+     "MHDA": "2006/04/28 09:00",
+     "CRDT": [
+          "2005/10/04 09:00"
+     ],
+     "PHST": [
+          "2005/10/04 09:00 [pubmed]",
+          "2006/04/28 09:00 [medline]",
+          "2005/10/04 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(05)00199-1 [pii]",
+          "10.1016/j.neunet.2005.08.009 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2005 Nov;18(9):1163-71. doi: 10.1016/j.neunet.2005.08.009. Epub 2005 Sep 29.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,85 @@
+{
+     "PMID": "28701481",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170914",
+     "LR": "20170914",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "37",
+     "IP": "34",
+     "DP": "2017 Aug 23",
+     "TI": "Place and Grid Cells in a Loop: Implications for Memory Function and Spatial Coding.",
+     "PG": "8062-8076",
+     "LID": "10.1523/JNEUROSCI.3490-16.2017 [doi]",
+     "AB": "Place cells in the hippocampus and grid cells in the medial entorhinal cortex have different codes for space. However, how one code relates to the other is ill understood. Based on the anatomy of the entorhinal-hippocampal circuitry, we constructed a model of place and grid cells organized in a loop to investigate their mutual influence in the establishment of their codes for space. Using computer simulations, we first replicated experiments in rats that measured place and grid cell activity in different environments, and then assessed which features of the model account for different phenomena observed in neurophysiological data, such as pattern completion and pattern separation, global and rate remapping of place cells, and realignment of grid cells. We found that (1) the interaction between grid and place cells converges quickly; (2) the spatial code of place cells does not require, but is altered by, grid cell input; (3) plasticity in sensory inputs to place cells is key for pattern completion but not pattern separation; (4) grid realignment can be explained in terms of place cell remapping as opposed to the other way around; (5) the switch between global and rate remapping is self-organized; and (6) grid cell input to place cells helps stabilize their code under noisy and/or inconsistent sensory input. We conclude that the hippocampus-entorhinal circuit uses the mutual interaction of place and grid cells to encode the surrounding environment and propose a theory on how such interdependence underlies the formation and use of the cognitive map.SIGNIFICANCE STATEMENT The mammalian brain implements a positional system with two key pieces: place and grid cells. To gain insight into the dynamics of place and grid cell interaction, we built a computational model with the two cell types organized in a loop. The proposed model accounts for differences in how place and grid cells represent different environments and provides a new interpretation in which place and grid cells mutually interact to form a coupled code for space.",
+     "CI": [
+          "Copyright (c) 2017 the authors 0270-6474/17/378062-15$15.00/0."
+     ],
+     "FAU": [
+          "Renno-Costa, Cesar",
+          "Tort, Adriano B L"
+     ],
+     "AU": [
+          "Renno-Costa C",
+          "Tort ABL"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0003-0417-8108",
+          "ORCID: http://orcid.org/0000-0002-9877-7816"
+     ],
+     "AD": "Digital Metropolis Institute, Federal University of Rio Grande do Norte, RN 59075-050, Brazil, and cesar@imd.ufrn.br. Brain Institute, Federal University of Rio Grande do Norte, RN 59056-450, Brazil. Brain Institute, Federal University of Rio Grande do Norte, RN 59056-450, Brazil.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170712",
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Grid Cells/*physiology",
+          "Hippocampus/*cytology/*physiology",
+          "Memory/*physiology",
+          "*Models, Neurological",
+          "Rats",
+          "Space Perception/physiology",
+          "Spatial Behavior/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "entorhinal cortex",
+          "grid cell",
+          "hippocampus",
+          "pattern completion",
+          "place cell",
+          "remapping"
+     ],
+     "EDAT": "2017/07/14 06:00",
+     "MHDA": "2017/09/15 06:00",
+     "CRDT": [
+          "2017/07/14 06:00"
+     ],
+     "PHST": [
+          "2016/11/07 00:00 [received]",
+          "2017/05/25 00:00 [revised]",
+          "2017/05/27 00:00 [accepted]",
+          "2017/07/14 06:00 [pubmed]",
+          "2017/09/15 06:00 [medline]",
+          "2017/07/14 06:00 [entrez]"
+     ],
+     "AID": [
+          "JNEUROSCI.3490-16.2017 [pii]",
+          "10.1523/JNEUROSCI.3490-16.2017 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2017 Aug 23;37(34):8062-8076. doi: 10.1523/JNEUROSCI.3490-16.2017. Epub 2017 Jul 12.",
+     "term": "place cells"
+}

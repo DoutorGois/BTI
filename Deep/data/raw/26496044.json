@@ -1,0 +1,74 @@
+{
+     "PMID": "26496044",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160907",
+     "LR": "20170922",
+     "IS": "1530-888X (Electronic) 0899-7667 (Linking)",
+     "VI": "27",
+     "IP": "12",
+     "DP": "2015 Dec",
+     "TI": "Periodic Forcing of Inhibition-Stabilized Networks: Nonlinear Resonances and Phase-Amplitude Coupling.",
+     "PG": "2477-509",
+     "LID": "10.1162/NECO_a_00786 [doi]",
+     "AB": "Inhibition-stabilized networks (ISNs) are neural architectures with strong positive feedback among pyramidal neurons balanced by strong negative feedback from inhibitory interneurons, a circuit element found in the hippocampus and the primary visual cortex. In their working regime, ISNs produce damped oscillations in the [Formula: see text]-range in response to inputs to the inhibitory population. In order to understand the properties of interconnected ISNs, we investigated periodic forcing of ISNs. We show that ISNs can be excited over a range of frequencies and derive properties of the resonance peaks. In particular, we studied the phase-locked solutions, the torus solutions, and the resonance peaks. Periodically forced ISNs respond with (possibly multistable) phase-locked activity, whereas networks with sustained intrinsic oscillations respond more dynamically to periodic inputs with tori. Hence, the dynamics are surprisingly rich, and phase effects alone do not adequately describe the network response. This strengthens the importance of phase-amplitude coupling as opposed to phase-phase coupling in providing multiple frequencies for multiplexing and routing information.",
+     "FAU": [
+          "Veltz, Romain",
+          "Sejnowski, Terrence J"
+     ],
+     "AU": [
+          "Veltz R",
+          "Sejnowski TJ"
+     ],
+     "AD": "Howard Hughes Medical Institute, Salk Institute for Biological Studies, La Jolla, CA 92037, and INRIA, Sophia Antipolis Mediterrane, 06902 France romain.veltz@inria.fr. Howard Hughes Medical Institute, Salk Institute for Biological Studies, La Jolla, CA 92037, U.S.A., and Division of Biological Sciences, University of California San Diego, La Jolla, CA 92093 U.S.A. sejnowski@salk.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Howard Hughes Medical Institute/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20151023",
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Computer Simulation",
+          "Gamma Rhythm/physiology",
+          "Interneurons/*physiology",
+          "*Models, Neurological",
+          "Neural Inhibition/*physiology",
+          "Nonlinear Dynamics",
+          "Pyramidal Cells/*physiology"
+     ],
+     "PMC": "PMC4763930",
+     "MID": [
+          "HHMIMS759986"
+     ],
+     "OID": [
+          "NLM: HHMIMS759986"
+     ],
+     "EDAT": "2015/10/27 06:00",
+     "MHDA": "2016/09/08 06:00",
+     "CRDT": [
+          "2015/10/27 06:00"
+     ],
+     "PHST": [
+          "2015/10/27 06:00 [entrez]",
+          "2015/10/27 06:00 [pubmed]",
+          "2016/09/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1162/NECO_a_00786 [pii]",
+          "10.1162/NECO_a_00786 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2015 Dec;27(12):2477-509. doi: 10.1162/NECO_a_00786. Epub 2015 Oct 23.",
+     "term": "hippocampus"
+}

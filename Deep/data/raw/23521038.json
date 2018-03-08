@@ -1,0 +1,74 @@
+{
+     "PMID": "23521038",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130919",
+     "LR": "20170713",
+     "IS": "1365-2818 (Electronic) 0022-2720 (Linking)",
+     "VI": "250",
+     "IP": "2",
+     "DP": "2013 May",
+     "TI": "On semiautomatic estimation of surface area.",
+     "PG": "142-157",
+     "LID": "10.1111/jmi.12030 [doi]",
+     "AB": "In this paper, we propose a semiautomatic procedure for estimation of particle surface area. It uses automatic segmentation of the boundaries of the particle sections and applies different estimators depending on whether the segmentation was judged by a supervising expert to be satisfactory. If the segmentation is correct the estimate is computed automatically, otherwise the expert performs the necessary measurements manually. In case of convex particles we suggest to base the semiautomatic estimation on the so-called flower estimator, a new local stereological estimator of particle surface area. For convex particles, the estimator is equal to four times the area of the support set (flower set) of the particle transect. We study the statistical properties of the flower estimator and compare its performance to that of two discretizations of the flower estimator, namely the pivotal estimator and the surfactor. For ellipsoidal particles, it is shown that the flower estimator is equal to the pivotal estimator based on support function measurements along four perpendicular rays. This result makes the pivotal estimator a powerful approximation to the flower estimator. In a simulation study of prolate and oblate ellipsoidal particles, the surfactor also performs well for particles which are not extremely elongated. In particular, the surfactor is not very much affected by the singularity in the surfactor formula or by possible inaccuracies in the necessary angle measurements. We also assess the performance of the semiautomatic procedure in a study of somatostatin positive inhibitory interneurons from mice hippocampi. Only 35% of the cells needed to be analysed manually and an important decrease in workload was obtained by using the semiautomatic approach.",
+     "CI": [
+          "(c) 2013 The Authors Journal of Microscopy (c) 2013 Royal Microscopical Society."
+     ],
+     "FAU": [
+          "Dvorak, J",
+          "Jensen, E B V"
+     ],
+     "AU": [
+          "Dvorak J",
+          "Jensen EBV"
+     ],
+     "AD": "Department of Probability and Mathematical Statistics, Faculty of Mathematics and Physics, Charles University in Prague, Czech Republic. Department of Mathematics, Centre for Stochastic Geometry and Advanced Bioimaging, Aarhus University, Aarhus, Denmark.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130322",
+     "PL": "England",
+     "TA": "J Microsc",
+     "JT": "Journal of microscopy",
+     "JID": "0204522",
+     "RN": [
+          "0 (Biomarkers)",
+          "51110-01-1 (Somatostatin)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Biomarkers/metabolism",
+          "Biometry/*methods",
+          "Computer Simulation",
+          "Hippocampus/cytology/*ultrastructure",
+          "Interneurons/cytology/*ultrastructure",
+          "Mice",
+          "*Models, Statistical",
+          "Somatostatin/metabolism",
+          "Surface Properties"
+     ],
+     "EDAT": "2013/03/26 06:00",
+     "MHDA": "2013/09/21 06:00",
+     "CRDT": [
+          "2013/03/26 06:00"
+     ],
+     "PHST": [
+          "2012/06/19 00:00 [received]",
+          "2013/02/20 00:00 [accepted]",
+          "2013/03/26 06:00 [entrez]",
+          "2013/03/26 06:00 [pubmed]",
+          "2013/09/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/jmi.12030 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Microsc. 2013 May;250(2):142-157. doi: 10.1111/jmi.12030. Epub 2013 Mar 22.",
+     "term": "hippocampus"
+}

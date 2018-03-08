@@ -1,0 +1,93 @@
+{
+     "PMID": "18504530",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090514",
+     "LR": "20161122",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "26",
+     "IP": "1",
+     "DP": "2009 Feb",
+     "TI": "Parametric and non-parametric modeling of short-term synaptic plasticity. Part II: Experimental study.",
+     "PG": "21-37",
+     "LID": "10.1007/s10827-008-0098-2 [doi]",
+     "AB": "This paper presents a synergistic parametric and non-parametric modeling study of short-term plasticity (STP) in the Schaffer collateral to hippocampal CA1 pyramidal neuron (SC) synapse. Parametric models in the form of sets of differential and algebraic equations have been proposed on the basis of the current understanding of biological mechanisms active within the system. Non-parametric Poisson-Volterra models are obtained herein from broadband experimental input-output data. The non-parametric model is shown to provide better prediction of the experimental output than a parametric model with a single set of facilitation/depression (FD) process. The parametric model is then validated in terms of its input-output transformational properties using the non-parametric model since the latter constitutes a canonical and more complete representation of the synaptic nonlinear dynamics. Furthermore, discrepancies between the experimentally-derived non-parametric model and the equivalent non-parametric model of the parametric model suggest the presence of multiple FD processes in the SC synapses. Inclusion of an additional set of FD process in the parametric model makes it replicate better the characteristics of the experimentally-derived non-parametric model. This improved parametric model in turn provides the requisite biological interpretability that the non-parametric model lacks.",
+     "FAU": [
+          "Song, Dong",
+          "Wang, Zhuo",
+          "Marmarelis, Vasilis Z",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Song D",
+          "Wang Z",
+          "Marmarelis VZ",
+          "Berger TW"
+     ],
+     "AD": "Department of Biomedical Engineering, University of Southern California, Los Angeles, CA, USA. dsong@usc.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB001978/EB/NIBIB NIH HHS/United States",
+          "P41 EB001978-24/EB/NIBIB NIH HHS/United States",
+          "P41 EB001978-245378/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20080527",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "RN": [
+          "77521-29-0 (alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Calcium/metabolism",
+          "Electric Stimulation",
+          "Excitatory Postsynaptic Potentials/physiology",
+          "Hippocampus/physiology",
+          "In Vitro Techniques",
+          "Male",
+          "*Models, Neurological",
+          "Neuronal Plasticity/*physiology",
+          "Nonlinear Dynamics",
+          "Patch-Clamp Techniques",
+          "Pyramidal Cells/physiology",
+          "Rats",
+          "Statistics, Nonparametric",
+          "Synapses/*physiology",
+          "Synaptic Transmission",
+          "alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid/metabolism"
+     ],
+     "PMC": "PMC2749717",
+     "MID": [
+          "NIHMS140636"
+     ],
+     "EDAT": "2008/05/28 09:00",
+     "MHDA": "2009/05/15 09:00",
+     "CRDT": [
+          "2008/05/28 09:00"
+     ],
+     "PHST": [
+          "2007/11/21 00:00 [received]",
+          "2008/05/01 00:00 [accepted]",
+          "2008/04/08 00:00 [revised]",
+          "2008/05/28 09:00 [pubmed]",
+          "2009/05/15 09:00 [medline]",
+          "2008/05/28 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s10827-008-0098-2 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2009 Feb;26(1):21-37. doi: 10.1007/s10827-008-0098-2. Epub 2008 May 27.",
+     "term": "hippocampus"
+}

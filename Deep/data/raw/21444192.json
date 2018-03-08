@@ -1,0 +1,84 @@
+{
+     "PMID": "21444192",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120313",
+     "LR": "20110411",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "24",
+     "IP": "5",
+     "DP": "2011 Jun",
+     "TI": "Network with shunting synapses as a non-linear frequency modulator.",
+     "PG": "407-16",
+     "LID": "10.1016/j.neunet.2011.03.005 [doi]",
+     "AB": "The role of 'noisy' excitation in synchronizing interneuron networks with shunting synapses was studied. The excitatory input was simulated as a Poisson pattern of presynaptic conductance with varying frequencies and amplitudes. We find that higher excitation frequencies induce stronger synchronisation of the network. Within the range of 1-10000 Hz, only frequencies between 20 Hz and 200 Hz affected network synchronisation. No detectable network synchronisation was found at excitation frequencies below 20 Hz, and the network's synchronisation was either almost independent of the external input or falling down to zero when the input frequency was greater than 200 Hz. Thus the network transformed the input signals with frequencies above 20 Hz into output signals with the network's synchronisation frequency. The network's synchronisation frequency in our model ranged from 20 to 68 Hz depending on the frequency of the excitatory input. We conclude that a network of interconnected interneurons is capable of converting an asynchronous excitatory input into a synchronous inhibitory output as a frequency amplifier with the amplification coefficient dependent on the number of converging excitatory inputs. Another important result of our work revealed that the external frequency may affect, in opposite ways, the frequency of the network with shunting synapses depending on the excitatory synaptic conductance and the magnitude of leak conductance.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Kochubey, Sergiy",
+          "Semyanov, Alexey",
+          "Savtchenko, Leonid"
+     ],
+     "AU": [
+          "Kochubey S",
+          "Semyanov A",
+          "Savtchenko L"
+     ],
+     "AD": "Dnepropetrovsk National University, Ukraine.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110311",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "RN": [
+          "56-12-2 (gamma-Aminobutyric Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation/standards",
+          "Cortical Synchronization/physiology",
+          "Excitatory Postsynaptic Potentials/physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Inhibitory Postsynaptic Potentials/physiology",
+          "Interneurons/*physiology",
+          "Nerve Net/*physiology",
+          "*Neural Networks (Computer)",
+          "*Nonlinear Dynamics",
+          "Synapses/*physiology",
+          "Synaptic Transmission/physiology",
+          "gamma-Aminobutyric Acid/physiology"
+     ],
+     "EDAT": "2011/03/30 06:00",
+     "MHDA": "2012/03/14 06:00",
+     "CRDT": [
+          "2011/03/30 06:00"
+     ],
+     "PHST": [
+          "2010/07/29 00:00 [received]",
+          "2011/03/01 00:00 [revised]",
+          "2011/03/02 00:00 [accepted]",
+          "2011/03/30 06:00 [entrez]",
+          "2011/03/30 06:00 [pubmed]",
+          "2012/03/14 06:00 [medline]"
+     ],
+     "AID": [
+          "S0893-6080(11)00089-X [pii]",
+          "10.1016/j.neunet.2011.03.005 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2011 Jun;24(5):407-16. doi: 10.1016/j.neunet.2011.03.005. Epub 2011 Mar 11.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,88 @@
+{
+     "PMID": "28394323",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170829",
+     "LR": "20171013",
+     "IS": "1546-1726 (Electronic) 1097-6256 (Linking)",
+     "VI": "20",
+     "IP": "6",
+     "DP": "2017 Jun",
+     "TI": "Sharp wave ripples during learning stabilize the hippocampal spatial map.",
+     "PG": "845-853",
+     "LID": "10.1038/nn.4543 [doi]",
+     "AB": "Cognitive representation of the environment requires a stable hippocampal map, but the mechanisms maintaining a given map are unknown. Because sharp wave-ripples (SPW-R) orchestrate both retrospective and prospective spatial information, we hypothesized that disrupting neuronal activity during SPW-Rs affects spatial representation. Mice learned new sets of three goal locations daily in a multiwell maze. We used closed-loop SPW-R detection at goal locations to trigger optogenetic silencing of a subset of CA1 pyramidal neurons. Control place cells (nonsilenced or silenced outside SPW-Rs) largely maintained the location of their place fields after learning and showed increased spatial information content. In contrast, the place fields of SPW-R-silenced place cells remapped, and their spatial information remained unaltered. SPW-R silencing did not impact the firing rates or proportions of place cells. These results suggest that interference with SPW-R-associated activity during learning prevents stabilization and refinement of hippocampal maps.",
+     "FAU": [
+          "Roux, Lisa",
+          "Hu, Bo",
+          "Eichler, Ronny",
+          "Stark, Eran",
+          "Buzsaki, Gyorgy"
+     ],
+     "AU": [
+          "Roux L",
+          "Hu B",
+          "Eichler R",
+          "Stark E",
+          "Buzsaki G"
+     ],
+     "AD": "New York University Neuroscience Institute, New York University, New York, New York, USA. New York University Neuroscience Institute, New York University, New York, New York, USA. New York University Neuroscience Institute, New York University, New York, New York, USA. New York University Neuroscience Institute, New York University, New York, New York, USA. Tel Aviv University, Sackler Faculty of Medicine and Sagol School of Neuroscience, Department of Physiology and Pharmacology, Tel Aviv, Israel. New York University Neuroscience Institute, New York University, New York, New York, USA. Department of Neurology, Medical Center, New York University, New York, New York, USA. Center for Neural Science, New York University, New York, New York, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K99 NS094735/NS/NINDS NIH HHS/United States",
+          "R01 MH054671/MH/NIMH NIH HHS/United States",
+          "679253/European Research Council/International",
+          "R01 MH107396/MH/NIMH NIH HHS/United States",
+          "U01 NS090583/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170410",
+     "PL": "United States",
+     "TA": "Nat Neurosci",
+     "JT": "Nature neuroscience",
+     "JID": "9809671",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "CA1 Region, Hippocampal/*physiology",
+          "Electric Stimulation",
+          "Learning/*physiology",
+          "Male",
+          "Maze Learning/physiology",
+          "Mice",
+          "Mice, Transgenic",
+          "Neural Inhibition/*physiology",
+          "Place Cells/*physiology",
+          "Pyramidal Cells/*physiology",
+          "Sleep",
+          "Spatial Memory/*physiology"
+     ],
+     "PMC": "PMC5446786",
+     "MID": [
+          "EMS71913"
+     ],
+     "EDAT": "2017/04/11 06:00",
+     "MHDA": "2017/08/30 06:00",
+     "CRDT": [
+          "2017/04/11 06:00"
+     ],
+     "PHST": [
+          "2016/08/23 00:00 [received]",
+          "2017/03/13 00:00 [accepted]",
+          "2017/04/11 06:00 [pubmed]",
+          "2017/08/30 06:00 [medline]",
+          "2017/04/11 06:00 [entrez]"
+     ],
+     "AID": [
+          "nn.4543 [pii]",
+          "10.1038/nn.4543 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nat Neurosci. 2017 Jun;20(6):845-853. doi: 10.1038/nn.4543. Epub 2017 Apr 10.",
+     "term": "place cells"
+}

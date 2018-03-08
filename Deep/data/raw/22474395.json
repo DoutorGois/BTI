@@ -1,0 +1,73 @@
+{
+     "PMID": "22474395",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120712",
+     "LR": "20150225",
+     "IS": "1091-6490 (Electronic) 0027-8424 (Linking)",
+     "VI": "109",
+     "IP": "16",
+     "DP": "2012 Apr 17",
+     "TI": "Grid cells in rat entorhinal cortex encode physical space with independent firing fields and phase precession at the single-trial level.",
+     "PG": "6301-6",
+     "LID": "10.1073/pnas.1109599109 [doi]",
+     "AB": "When a rat moves, grid cells in its entorhinal cortex become active in multiple regions of the external world that form a hexagonal lattice. As the animal traverses one such \"firing field,\" spikes tend to occur at successively earlier theta phases of the local field potential. This phenomenon is called phase precession. Here, we show that spike phases provide 80% more spatial information than spike counts and that they improve position estimates from single neurons down to a few centimeters. To understand what limits the resolution and how variable spike phases are across different field traversals, we analyze spike trains run by run. We find that the multiple firing fields of a grid cell operate as independent elements for encoding physical space. In addition, phase precession is significantly stronger than the pooled-run data suggest. Despite the inherent stochasticity of grid-cell firing, phase precession is therefore a robust phenomenon at the single-trial level, making a theta-phase code for spatial navigation feasible.",
+     "FAU": [
+          "Reifenstein, Eric T",
+          "Kempter, Richard",
+          "Schreiber, Susanne",
+          "Stemmler, Martin B",
+          "Herz, Andreas V M"
+     ],
+     "AU": [
+          "Reifenstein ET",
+          "Kempter R",
+          "Schreiber S",
+          "Stemmler MB",
+          "Herz AV"
+     ],
+     "AD": "Department of Biology II, Ludwig-Maximilians-Universitat Munchen, and Bernstein Center for Computational Neuroscience Munich, 82152 Planegg-Martinsried, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120402",
+     "PL": "United States",
+     "TA": "Proc Natl Acad Sci U S A",
+     "JT": "Proceedings of the National Academy of Sciences of the United States of America",
+     "JID": "7505876",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Algorithms",
+          "Animals",
+          "Entorhinal Cortex/cytology/*physiology",
+          "Models, Neurological",
+          "Nerve Net/physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "Running/*physiology",
+          "Space Perception/*physiology"
+     ],
+     "PMC": "PMC3341055",
+     "EDAT": "2012/04/05 06:00",
+     "MHDA": "2012/07/13 06:00",
+     "CRDT": [
+          "2012/04/05 06:00"
+     ],
+     "PHST": [
+          "2012/04/05 06:00 [entrez]",
+          "2012/04/05 06:00 [pubmed]",
+          "2012/07/13 06:00 [medline]"
+     ],
+     "AID": [
+          "1109599109 [pii]",
+          "10.1073/pnas.1109599109 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc Natl Acad Sci U S A. 2012 Apr 17;109(16):6301-6. doi: 10.1073/pnas.1109599109. Epub 2012 Apr 2.",
+     "term": "grid cells"
+}

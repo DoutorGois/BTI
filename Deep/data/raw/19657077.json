@@ -1,0 +1,83 @@
+{
+     "PMID": "19657077",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100120",
+     "LR": "20170220",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "102",
+     "IP": "4",
+     "DP": "2009 Oct",
+     "TI": "Synaptic noise and physiological coupling generate high-frequency oscillations in a hippocampal computational model.",
+     "PG": "2342-57",
+     "LID": "10.1152/jn.00397.2009 [doi]",
+     "AB": "There is great interest in the role of coherent oscillations in the brain. In some cases, high-frequency oscillations (HFOs) are integral to normal brain function, whereas at other times they are implicated as markers of epileptic tissue. Mechanisms underlying HFO generation, especially in abnormal tissue, are not well understood. Using a physiological computer model of hippocampus, we investigate random synaptic activity (noise) as a potential initiator of HFOs. We explore parameters necessary to produce these oscillations and quantify the response using the tools of stochastic resonance (SR) and coherence resonance (CR). As predicted by SR, when noise was added to the network the model was able to detect a subthreshold periodic signal. Addition of basket cell interneurons produced two novel SR effects: 1) improved signal detection at low noise levels and 2) formation of coherent oscillations at high noise that were entrained to harmonics of the signal frequency. The periodic signal was then removed to study oscillations generated only by noise. The combined effects of network coupling and synaptic noise produced coherent, periodic oscillations within the network, an example of CR. Our results show that, under normal coupling conditions, synaptic noise was able to produce gamma (30-100 Hz) frequency oscillations. Synaptic noise generated HFOs in the ripple range (100-200 Hz) when the network had parameters similar to pathological findings in epilepsy: increased gap junctions or recurrent synaptic connections, loss of inhibitory interneurons such as basket cells, and increased synaptic noise. The model parameters that generated these effects are comparable with published experimental data. We propose that increased synaptic noise and physiological coupling mechanisms are sufficient to generate gamma oscillations and that pathologic changes in noise and coupling similar to those in epilepsy can produce abnormal ripples.",
+     "FAU": [
+          "Stacey, William C",
+          "Lazarewicz, Maciej T",
+          "Litt, Brian"
+     ],
+     "AU": [
+          "Stacey WC",
+          "Lazarewicz MT",
+          "Litt B"
+     ],
+     "AD": "1Department of Bioengineering, University of Pennsylvania, Hospital of the University of Pennsylvania, Philadelphia, Pennsylvania 19194, USA. William.stacey@uphs.upenn.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS048598/NS/NINDS NIH HHS/United States",
+          "R01 NS041811-08/NS/NINDS NIH HHS/United States",
+          "R01NS-048598-01/NS/NINDS NIH HHS/United States",
+          "2R01 NS-041811-07/NS/NINDS NIH HHS/United States",
+          "R01 NS041811/NS/NINDS NIH HHS/United States",
+          "R01 NS048598-04/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090805",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "6384-92-5 (N-Methylaspartate)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "*Computer Simulation",
+          "Gap Junctions/physiology",
+          "Hippocampus/*physiology",
+          "Interneurons/physiology",
+          "*Models, Neurological",
+          "N-Methylaspartate/metabolism",
+          "Neural Inhibition/physiology",
+          "Neurons/*physiology",
+          "*Periodicity",
+          "Stochastic Processes",
+          "Synapses/physiology",
+          "Synaptic Transmission/*physiology"
+     ],
+     "PMC": "PMC2775383",
+     "EDAT": "2009/08/07 09:00",
+     "MHDA": "2010/01/21 06:00",
+     "CRDT": [
+          "2009/08/07 09:00"
+     ],
+     "PHST": [
+          "2009/08/07 09:00 [entrez]",
+          "2009/08/07 09:00 [pubmed]",
+          "2010/01/21 06:00 [medline]"
+     ],
+     "AID": [
+          "00397.2009 [pii]",
+          "10.1152/jn.00397.2009 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2009 Oct;102(4):2342-57. doi: 10.1152/jn.00397.2009. Epub 2009 Aug 5.",
+     "term": "hippocampus"
+}

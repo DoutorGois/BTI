@@ -1,0 +1,102 @@
+{
+     "PMID": "24942549",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160203",
+     "LR": "20170220",
+     "IS": "1552-6569 (Electronic) 1051-2284 (Linking)",
+     "VI": "25",
+     "IP": "3",
+     "DP": "2015 May-Jun",
+     "TI": "Hippocampal surface deformation accuracy in T1-weighted volumetric MRI sequences in subjects with epilepsy.",
+     "PG": "452-9",
+     "LID": "10.1111/jon.12135 [doi]",
+     "AB": "BACKGROUND AND PURPOSE: To demonstrate the accuracy across different acquisition and analysis methods, we evaluated the variability in hippocampal volumetric and surface displacement measurements resulting from two different MRI (magnetic resonance imaging) acquisition protocols. METHODS: Nine epilepsy patients underwent two independent T1-weighted magnetization prepared spoiled gradient sequences during a single 3T MRI session. Using high-dimension mapping-large deformation (HDM-LD) segmentation, we calculated volumetric estimates and generated a vector-based 3-dimensional surface model of each subject's hippocampi, and evaluated volume and surface changes, the latter using a cluster-based noise estimation model. RESULTS: Mean hippocampal volumes and standard deviations for the left hippocampi were 2,750 (826) mm3 and 2,782 (859) mm3 (P = .13), and for the right hippocampi were 2,558 (750) mm3 and 2,547 (692) mm3 (P = .76), respectively for the MPR1 and MPR2 sequences. Average Dice coefficient comparing overlap for segmentations was 86%. There was no significant effect of MRI sequence on volume estimates and no significant hippocampal surface change between sequences. CONCLUSION: Statistical comparison of hippocampal volumes and statistically thresholded HDM-LD surfaces in TLE patients showed no differences between the segmentations obtained in the two MRI acquisition sequences. This validates the robustness across MRI sequences of the HDM-LD technique for estimating volume and surface changes in subjects with epilepsy.",
+     "CI": [
+          "Copyright (c) 2014 by the American Society of Neuroimaging."
+     ],
+     "FAU": [
+          "Hogan, R Edward",
+          "Moseley, Emily D",
+          "Maccotta, Luigi"
+     ],
+     "AU": [
+          "Hogan RE",
+          "Moseley ED",
+          "Maccotta L"
+     ],
+     "AD": "Department of Neurology, Washington University School of Medicine, St. Louis, Missouri.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "KL2TR000450/TR/NCATS NIH HHS/United States",
+          "UL1RR024992/RR/NCRR NIH HHS/United States",
+          "UL1 RR024992/RR/NCRR NIH HHS/United States",
+          "UL1TR000448/TR/NCATS NIH HHS/United States",
+          "UL1 TR000448/TR/NCATS NIH HHS/United States",
+          "KL2 TR000450/TR/NCATS NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20140619",
+     "PL": "United States",
+     "TA": "J Neuroimaging",
+     "JT": "Journal of neuroimaging : official journal of the American Society of Neuroimaging",
+     "JID": "9102705",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "*Algorithms",
+          "Epilepsy/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Organ Size",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Surface Properties"
+     ],
+     "PMC": "PMC4272329",
+     "MID": [
+          "NIHMS594692"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "MRI",
+          "epilepsy",
+          "hippocampus"
+     ],
+     "EDAT": "2014/06/20 06:00",
+     "MHDA": "2016/02/04 06:00",
+     "CRDT": [
+          "2014/06/20 06:00"
+     ],
+     "PHST": [
+          "2014/01/23 00:00 [received]",
+          "2014/03/07 00:00 [revised]",
+          "2014/04/31 00:00 [accepted]",
+          "2014/06/20 06:00 [entrez]",
+          "2014/06/20 06:00 [pubmed]",
+          "2016/02/04 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/jon.12135 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neuroimaging. 2015 May-Jun;25(3):452-9. doi: 10.1111/jon.12135. Epub 2014 Jun 19.",
+     "term": "hippocampus"
+}

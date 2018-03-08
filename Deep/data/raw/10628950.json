@@ -1,0 +1,68 @@
+{
+     "PMID": "10628950",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20000128",
+     "LR": "20061115",
+     "IS": "0278-0062 (Print) 0278-0062 (Linking)",
+     "VI": "18",
+     "IP": "10",
+     "DP": "1999 Oct",
+     "TI": "Automatic 3-D segmentation of internal structures of the head in MR images using a combination of similarity and free-form transformations: Part I, Methodology and validation on normal subjects.",
+     "PG": "909-16",
+     "AB": "The study presented in this paper tests the hypothesis that the combination of a global similarity transformation and local free-form deformations can be used for the accurate segmentation of internal structures in MR images of the brain. To quantitatively evaluate our approach, the entire brain, the cerebellum, and the head of the caudate have been segmented manually by two raters on one of the volumes (the reference volume) and mapped back onto all the other volumes, using the computed transformations. The contours so obtained have been compared to contours drawn manually around the structures of interest in each individual brain. Manual delineation was performed twice by the same two raters to test inter- and intrarater variability. For the brain and the cerebellum, results indicate that for each rater, contours obtained manually and contours obtained automatically by deforming his own atlas are virtually indistinguishable. Furthermore, contours obtained manually by one rater and contours obtained automatically by deforming this rater's own atlas are more similar than contours obtained manually by two raters. For the caudate, manual intra- and interrater similarity indexes remain slightly better than manual versus automatic indexes, mainly because of the spatial resolution of the images used in this study. Qualitative results also suggest that this method can be used for the segmentation of more complex structures, such as the hippocampus.",
+     "FAU": [
+          "Dawant, B M",
+          "Hartmann, S L",
+          "Thirion, J P",
+          "Maes, F",
+          "Vandermeulen, D",
+          "Demaerel, P"
+     ],
+     "AU": [
+          "Dawant BM",
+          "Hartmann SL",
+          "Thirion JP",
+          "Maes F",
+          "Vandermeulen D",
+          "Demaerel P"
+     ],
+     "AD": "Department of Electrical and Computer Engineering, Vanderbilt University, Nashville, TN 37235, USA. dawant@vuse.vanderbilt.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Brain/*anatomy & histology",
+          "Female",
+          "Humans",
+          "Magnetic Resonance Imaging/instrumentation/*methods/statistics & numerical data",
+          "Male",
+          "Observer Variation",
+          "Reference Values",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "2000/01/11 00:00",
+     "MHDA": "2000/01/11 00:01",
+     "CRDT": [
+          "2000/01/11 00:00"
+     ],
+     "PHST": [
+          "2000/01/11 00:00 [pubmed]",
+          "2000/01/11 00:01 [medline]",
+          "2000/01/11 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 1999 Oct;18(10):909-16.",
+     "term": "hippocampus"
+}

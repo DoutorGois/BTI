@@ -1,0 +1,74 @@
+{
+     "PMID": "16595062",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060522",
+     "LR": "20071114",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "18",
+     "IP": "5",
+     "DP": "2006 May",
+     "TI": "A set probability technique for detecting relative time order across multiple neurons.",
+     "PG": "1197-214",
+     "AB": "With the development of multielectrode recording techniques, it is possible to measure the cell firing patterns of multiple neurons simultaneously, generating a large quantity of data. Identification of the firing patterns within these large groups of cells is an important and a challenging problem in data analysis. Here, we consider the problem of measuring the significance of a repeat in the cell firing sequence across arbitrary numbers of cells. In particular, we consider the question, given a ranked order of cells numbered 1 to N, what is the probability that another sequence of length n contains j consecutive increasing elements? Assuming each element of the sequence is drawn with replacement from the numbers 1 through N, we derive a recursive formula for the probability of the sequence of length j or more. For n<2j, a closed-form solution is derived. For n>or=2j, we obtain upper and lower bounds for these probabilities for various combinations of parameter values. These can be computed very quickly. For a typical case with small N (<10) and large n (<3000), sequences of 7 and 8 are statistically very unlikely. A potential application of this technique is in the detection of repeats in hippocampal place cell order during sleep. Unlike most previous articles on increasing runs in random lists, we use a probability approach based on sets of overlapping sequences.",
+     "FAU": [
+          "Smith, Anne C",
+          "Smith, Peter"
+     ],
+     "AU": [
+          "Smith AC",
+          "Smith P"
+     ],
+     "AD": "Department of Anesthesiology and Pain Medicine, University of California at Davis, Davis, CA 95616, USA. annesmith@ucdavis.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH071847/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Algorithms",
+          "Animals",
+          "Central Nervous System/*physiology",
+          "Hippocampus/physiology",
+          "Humans",
+          "Models, Neurological",
+          "Models, Statistical",
+          "Nerve Net/*physiology",
+          "Neural Pathways/*physiology",
+          "Neurons/*physiology",
+          "*Probability",
+          "Signal Processing, Computer-Assisted",
+          "Sleep/physiology",
+          "Space Perception/physiology",
+          "Synaptic Transmission/physiology",
+          "Time Factors"
+     ],
+     "EDAT": "2006/04/06 09:00",
+     "MHDA": "2006/05/23 09:00",
+     "CRDT": [
+          "2006/04/06 09:00"
+     ],
+     "PHST": [
+          "2006/04/06 09:00 [pubmed]",
+          "2006/05/23 09:00 [medline]",
+          "2006/04/06 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/089976606776241020 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2006 May;18(5):1197-214. doi: 10.1162/089976606776241020.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,67 @@
+{
+     "PMID": "22680513",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121029",
+     "LR": "20120611",
+     "IS": "1550-2376 (Electronic) 1539-3755 (Linking)",
+     "VI": "85",
+     "IP": "4 Pt 1",
+     "DP": "2012 Apr",
+     "TI": "Modeling rhythmic patterns in the hippocampus.",
+     "PG": "041922",
+     "AB": "We investigate different dynamical regimes of the neuronal network in the CA3 area of the hippocampus. The proposed neuronal circuit includes two fast- and two slowly spiking cells which are interconnected by means of dynamical synapses. On the individual level, each neuron is modeled by FitzHugh-Nagumo equations. Three basic rhythmic patterns are observed: the gamma rhythm in which the fast neurons are uniformly spiking, the theta rhythm in which the individual spikes are separated by quiet epochs, and the theta-gamma rhythm with repeated patches of spikes. We analyze the influence of asymmetry of synaptic strengths on the synchronization in the network and demonstrate that strong asymmetry reduces the variety of available dynamical states. The model network exhibits multistability; this results in the occurrence of hysteresis in dependence on the conductances of individual connections. We show that switching between different rhythmic patterns in the network depends on the degree of synchronization between the slow cells.",
+     "FAU": [
+          "Lavrova, A I",
+          "Zaks, M A",
+          "Schimansky-Geier, L"
+     ],
+     "AU": [
+          "Lavrova AI",
+          "Zaks MA",
+          "Schimansky-Geier L"
+     ],
+     "AD": "Institute of Physics, Humboldt-University at Berlin, Newtonstrasse 15, 12489 Berlin, Germany. aurebours@googlemail.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120427",
+     "PL": "United States",
+     "TA": "Phys Rev E Stat Nonlin Soft Matter Phys",
+     "JT": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+     "JID": "101136452",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Biological Clocks/*physiology",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology"
+     ],
+     "EDAT": "2012/06/12 06:00",
+     "MHDA": "2012/10/30 06:00",
+     "CRDT": [
+          "2012/06/12 06:00"
+     ],
+     "PHST": [
+          "2011/11/11 00:00 [received]",
+          "2012/02/10 00:00 [revised]",
+          "2012/06/12 06:00 [entrez]",
+          "2012/06/12 06:00 [pubmed]",
+          "2012/10/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1103/PhysRevE.85.041922 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phys Rev E Stat Nonlin Soft Matter Phys. 2012 Apr;85(4 Pt 1):041922. doi: 10.1103/PhysRevE.85.041922. Epub 2012 Apr 27.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,95 @@
+{
+     "PMID": "27385130",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170731",
+     "LR": "20170731",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "11",
+     "IP": "7",
+     "DP": "2016",
+     "TI": "Graph Theoretical Analysis of Structural Neuroimaging in Temporal Lobe Epilepsy with and without Psychosis.",
+     "PG": "e0158728",
+     "LID": "10.1371/journal.pone.0158728 [doi]",
+     "AB": "PURPOSE: Psychosis is one of the most important psychiatric comorbidities in temporal lobe epilepsy (TLE), and its pathophysiology still remains unsolved. We aimed to explore the connectivity differences of structural neuroimaging between TLE with and without psychosis using a graph theoretical analysis, which is an emerging mathematical method to investigate network connections in the brain as a small-world system. MATERIALS AND METHODS: We recruited 11 TLE patients with unilateral hippocampal sclerosis (HS) presenting psychosis or having a history of psychosis (TLE-P group). As controls, 15 TLE patients with unilateral HS without any history of psychotic episodes were also recruited (TLE-N group). For graph theoretical analysis, the normalized gray matter images of both groups were subjected to Graph Analysis Toolbox (GAT). As secondary analyses, each group was compared to 14 age- and gender-matched healthy subjects. RESULTS: The hub node locations were found predominantly in the ipsilateral hemisphere in the TLE-N group, and mainly on the contralateral side in the TLE-P group. The TLE-P group showed significantly higher characteristic path length, transitivity, lower global efficiency, and resilience to random or targeted attack than those of the TLE-N group. The regional comparison in betweenness centrality revealed significantly decreased connectivity in the contralateral temporal lobe, ipsilateral middle frontal gyrus, and bilateral postcentral gyri in the TLE-P group. The healthy subjects showed well-balanced nodes/edges distributions, similar metrics to TLE-N group except for higher small-worldness/modularity/assortativity, and various differences of regional betweenness/clustering. CONCLUSION: In TLE with psychosis, graph theoretical analysis of structural imaging revealed disrupted connectivity in the contralateral hemisphere. The network metrics suggested that the existence of psychosis can bring vulnerability and decreased efficiency of the whole-brain network. The sharp differences in structural networks between morphologically homogeneous groups are remarkable and may contribute to a better understanding of psychosis in TLE.",
+     "FAU": [
+          "Sone, Daichi",
+          "Matsuda, Hiroshi",
+          "Ota, Miho",
+          "Maikusa, Norihide",
+          "Kimura, Yukio",
+          "Sumida, Kaoru",
+          "Yokoyama, Kota",
+          "Imabayashi, Etsuko",
+          "Watanabe, Masako",
+          "Watanabe, Yutaka",
+          "Okazaki, Mitsutoshi",
+          "Sato, Noriko"
+     ],
+     "AU": [
+          "Sone D",
+          "Matsuda H",
+          "Ota M",
+          "Maikusa N",
+          "Kimura Y",
+          "Sumida K",
+          "Yokoyama K",
+          "Imabayashi E",
+          "Watanabe M",
+          "Watanabe Y",
+          "Okazaki M",
+          "Sato N"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0001-9617-706X"
+     ],
+     "AD": "Department of Radiology, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Neuropsychiatry, Graduate School of Medicine, the University of Tokyo, Tokyo, Japan. Integrative Brain Imaging Center, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Mental Disorder Research, National Institute of Neuroscience, National Center of Neurology and Psychiatry, Tokyo, Japan. Integrative Brain Imaging Center, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Radiology, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Radiology, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Radiology, National Center of Neurology and Psychiatry, Tokyo, Japan. Integrative Brain Imaging Center, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Psychiatry, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Psychiatry, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Psychiatry, National Center of Neurology and Psychiatry, Tokyo, Japan. Department of Radiology, National Center of Neurology and Psychiatry, Tokyo, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160706",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Analysis of Variance",
+          "Electroencephalography",
+          "Epilepsy, Temporal Lobe/complications/*diagnostic imaging/physiopathology",
+          "Female",
+          "Hippocampus/diagnostic imaging/pathology/physiopathology",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Nerve Net/diagnostic imaging/physiopathology",
+          "Neuroimaging/*methods",
+          "Psychotic Disorders/complications/*diagnostic imaging/physiopathology",
+          "Temporal Lobe/*diagnostic imaging/pathology/physiopathology"
+     ],
+     "PMC": "PMC4934878",
+     "EDAT": "2016/07/08 06:00",
+     "MHDA": "2017/08/02 06:00",
+     "CRDT": [
+          "2016/07/08 06:00"
+     ],
+     "PHST": [
+          "2016/02/03 00:00 [received]",
+          "2016/06/21 00:00 [accepted]",
+          "2016/07/08 06:00 [entrez]",
+          "2016/07/08 06:00 [pubmed]",
+          "2017/08/02 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0158728 [doi]",
+          "PONE-D-16-04843 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2016 Jul 6;11(7):e0158728. doi: 10.1371/journal.pone.0158728. eCollection 2016.",
+     "term": "hippocampus"
+}

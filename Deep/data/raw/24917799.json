@@ -1,0 +1,66 @@
+{
+     "PMID": "24917799",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20140611",
+     "LR": "20170220",
+     "IS": "1662-5161 (Print) 1662-5161 (Linking)",
+     "VI": "8",
+     "DP": "2014",
+     "TI": "How does the modular organization of entorhinal grid cells develop?",
+     "PG": "337",
+     "LID": "10.3389/fnhum.2014.00337 [doi]",
+     "AB": "The entorhinal-hippocampal system plays a crucial role in spatial cognition and navigation. Since the discovery of grid cells in layer II of medial entorhinal cortex (MEC), several types of models have been proposed to explain their development and operation; namely, continuous attractor network models, oscillatory interference models, and self-organizing map (SOM) models. Recent experiments revealing the in vivo intracellular signatures of grid cells (Domnisoru et al., 2013; Schmidt-Heiber and Hausser, 2013), the primarily inhibitory recurrent connectivity of grid cells (Couey et al., 2013; Pastoll et al., 2013), and the topographic organization of grid cells within anatomically overlapping modules of multiple spatial scales along the dorsoventral axis of MEC (Stensola et al., 2012) provide strong constraints and challenges to existing grid cell models. This article provides a computational explanation for how MEC cells can emerge through learning with grid cell properties in modular structures. Within this SOM model, grid cells with different rates of temporal integration learn modular properties with different spatial scales. Model grid cells learn in response to inputs from multiple scales of directionally-selective stripe cells (Krupic et al., 2012; Mhatre et al., 2012) that perform path integration of the linear velocities that are experienced during navigation. Slower rates of grid cell temporal integration support learned associations with stripe cells of larger scales. The explanatory and predictive capabilities of the three types of grid cell models are comparatively analyzed in light of recent data to illustrate how the SOM model overcomes problems that other types of models have not yet handled.",
+     "FAU": [
+          "Pilly, Praveen K",
+          "Grossberg, Stephen"
+     ],
+     "AU": [
+          "Pilly PK",
+          "Grossberg S"
+     ],
+     "AD": "Information and Systems Sciences Laboratory, HRL Laboratories, LLC, Center for Neural and Emergent Systems Malibu, CA, USA. Department of Mathematics, Center for Adaptive Systems, Graduate Program in Cognitive and Neural Systems, Center for Computational Neuroscience and Neural Technology, Boston University Boston, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140603",
+     "PL": "Switzerland",
+     "TA": "Front Hum Neurosci",
+     "JT": "Frontiers in human neuroscience",
+     "JID": "101477954",
+     "PMC": "PMC4042558",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "continuous attractor",
+          "grid cells",
+          "module",
+          "navigation",
+          "oscillatory interference",
+          "recurrent inhibition",
+          "self-organizing map",
+          "temporal integration"
+     ],
+     "EDAT": "2014/06/12 06:00",
+     "MHDA": "2014/06/12 06:01",
+     "CRDT": [
+          "2014/06/12 06:00"
+     ],
+     "PHST": [
+          "2013/12/27 00:00 [received]",
+          "2014/05/04 00:00 [accepted]",
+          "2014/06/12 06:00 [entrez]",
+          "2014/06/12 06:00 [pubmed]",
+          "2014/06/12 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnhum.2014.00337 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Hum Neurosci. 2014 Jun 3;8:337. doi: 10.3389/fnhum.2014.00337. eCollection 2014.",
+     "term": "grid cells"
+}

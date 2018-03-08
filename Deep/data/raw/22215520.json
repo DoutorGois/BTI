@@ -1,0 +1,69 @@
+{
+     "PMID": "22215520",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121207",
+     "LR": "20171021",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "33",
+     "IP": "1",
+     "DP": "2012 Aug",
+     "TI": "Phase precession through acceleration of local theta rhythm: a biophysical model for the interaction between place cells and local inhibitory neurons.",
+     "PG": "141-50",
+     "LID": "10.1007/s10827-011-0378-0 [doi]",
+     "AB": "Phase precession is one of the most well known examples within the temporal coding hypothesis. Here we present a biophysical spiking model for phase precession in hippocampal CA1 which focuses on the interaction between place cells and local inhibitory interneurons. The model's functional block is composed of a place cell (PC) connected with a local inhibitory cell (IC) which is modulated by the population theta rhythm. Both cells receive excitatory inputs from the entorhinal cortex (EC). These inputs are both theta modulated and space modulated. The dynamics of the two neuron types are described by integrate-and-fire models with conductance synapses, and the EC inputs are described using non-homogeneous Poisson processes. Phase precession in our model is caused by increased drive to specific PC/IC pairs when the animal is in their place field. The excitation increases the IC's firing rate, and this modulates the PC's firing rate such that both cells precess relative to theta. Our model implies that phase coding in place cells may not be independent from rate coding. The absence of restrictive connectivity constraints in this model predicts the generation of phase precession in any network with similar architecture and subject to a clocking rhythm, independently of the involvement in spatial tasks.",
+     "FAU": [
+          "Castro, Luisa",
+          "Aguiar, Paulo"
+     ],
+     "AU": [
+          "Castro L",
+          "Aguiar P"
+     ],
+     "AD": "Faculdade de Ciencias da Universidade do Porto, Porto, Portugal.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120104",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Biological Clocks/physiology",
+          "*Biophysics",
+          "Entorhinal Cortex/cytology",
+          "Hippocampus/cytology",
+          "*Models, Neurological",
+          "Neural Inhibition/*physiology",
+          "Pyramidal Cells/*physiology",
+          "Space Perception/*physiology",
+          "Synapses/physiology",
+          "*Theta Rhythm"
+     ],
+     "EDAT": "2012/01/05 06:00",
+     "MHDA": "2012/12/12 06:00",
+     "CRDT": [
+          "2012/01/05 06:00"
+     ],
+     "PHST": [
+          "2011/10/13 00:00 [received]",
+          "2011/12/14 00:00 [accepted]",
+          "2011/12/09 00:00 [revised]",
+          "2012/01/05 06:00 [entrez]",
+          "2012/01/05 06:00 [pubmed]",
+          "2012/12/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10827-011-0378-0 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2012 Aug;33(1):141-50. doi: 10.1007/s10827-011-0378-0. Epub 2012 Jan 4.",
+     "term": "place cells"
+}

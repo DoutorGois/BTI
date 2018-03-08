@@ -1,0 +1,81 @@
+{
+     "PMID": "14507683",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040608",
+     "LR": "20170219",
+     "IS": "0006-3495 (Print) 0006-3495 (Linking)",
+     "VI": "85",
+     "IP": "4",
+     "DP": "2003 Oct",
+     "TI": "Wavelet analysis of nonstationary fluctuations of Monte Carlo-simulated excitatory postsynaptic currents.",
+     "PG": "2170-85",
+     "AB": "Tracking spectral changes of rapidly varying signals is a demanding task. In this study, we explore on Monte Carlo-simulated glutamate-activated AMPA patch and synaptic currents whether a wavelet analysis offers such a possibility. Unlike Fourier methods that determine only the frequency content of a signal, the wavelet analysis determines both the frequency and the time. This is owing to the nature of the basis functions, which are infinite for Fourier transforms (sines and cosines are infinite), but are finite for wavelet analysis (wavelets are localized waves). In agreement with previous reports, the frequency of the stationary patch current fluctuations is higher for larger currents, whereas the mean-variance plots are parabolic. The spectra of the current fluctuations and mean-variance plots are close to the theoretically predicted values. The median frequency of the synaptic and nonstationary patch currents is, however, time dependent, though at the peak of synaptic currents, the median frequency is insensitive to the number of glutamate molecules released. Such time dependence demonstrates that the \"composite spectra\" of the current fluctuations gathered over the whole duration of synaptic currents cannot be used to assess the mean open time or effective mean open time of AMPA channels. The current (patch or synaptic) versus median frequency plots show hysteresis. The median frequency is thus not a simple reflection of the overall receptor saturation levels and is greater during the rise phase for the same saturation level. The hysteresis is due to the higher occupancy of the doubly bound state during the rise phase and not due to the spatial spread of the saturation disk, which remains remarkably constant. Albeit time dependent, the variance of the synaptic and nonstationary patch currents can be accurately determined. Nevertheless the evaluation of the number of AMPA channels and their single current from the mean-variance plots of patch or synaptic currents is not highly accurate owing to the varying number of the activatable AMPA channels caused by desensitization. The spatial nonuniformity of open, bound, and desensitized AMPA channels, and the time dependence and spatial nonuniformity of the glutamate concentration in the synaptic cleft, further reduce the accuracy of estimates of the number of AMPA channels from synaptic currents. In conclusion, wavelet analysis of nonstationary fluctuations of patch and synaptic currents expands our ability to determine accurately the variance and frequency of current fluctuations, demonstrates the limits of applicability of techniques currently used to evaluate the single channel current and number of AMPA channels, and offers new insights into the mechanisms involved in the generation of unitary quantal events at excitatory central synapses.",
+     "FAU": [
+          "Aristizabal, F",
+          "Glavinovic, M I"
+     ],
+     "AU": [
+          "Aristizabal F",
+          "Glavinovic MI"
+     ],
+     "AD": "Departments of Chemical Engineering and Physiology, McGill University, Montreal, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "Biophys J",
+     "JT": "Biophysical journal",
+     "JID": "0370626",
+     "RN": [
+          "0 (Neurotransmitter Agents)",
+          "3KX376GY7L (Glutamic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "Electric Conductivity",
+          "Excitatory Postsynaptic Potentials/*physiology",
+          "Glutamic Acid/*metabolism",
+          "Hippocampus",
+          "Membrane Potentials/*physiology",
+          "*Models, Neurological",
+          "Models, Statistical",
+          "Monte Carlo Method",
+          "Neurons/*physiology",
+          "Neurotransmitter Agents/metabolism",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Stochastic Processes",
+          "Synapses/*physiology",
+          "Synaptic Transmission/*physiology",
+          "Synaptic Vesicles/secretion"
+     ],
+     "PMC": "PMC1303444",
+     "EDAT": "2003/09/26 05:00",
+     "MHDA": "2004/06/21 10:00",
+     "CRDT": [
+          "2003/09/26 05:00"
+     ],
+     "PHST": [
+          "2003/09/26 05:00 [pubmed]",
+          "2004/06/21 10:00 [medline]",
+          "2003/09/26 05:00 [entrez]"
+     ],
+     "AID": [
+          "S0006-3495(03)74643-8 [pii]",
+          "10.1016/S0006-3495(03)74643-8 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biophys J. 2003 Oct;85(4):2170-85. doi: 10.1016/S0006-3495(03)74643-8.",
+     "term": "hippocampus"
+}

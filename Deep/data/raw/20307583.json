@@ -1,0 +1,74 @@
+{
+     "PMID": "20307583",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110111",
+     "LR": "20100913",
+     "IS": "1872-7549 (Electronic) 0166-4328 (Linking)",
+     "VI": "215",
+     "IP": "2",
+     "DP": "2010 Dec 31",
+     "TI": "A computational theory of episodic memory formation in the hippocampus.",
+     "PG": "180-96",
+     "LID": "10.1016/j.bbr.2010.03.027 [doi]",
+     "AB": "A quantitative computational theory of the operation of the hippocampus as an episodic memory system is described. The CA3 system operates as a single attractor or autoassociation network to enable rapid, one-trial associations between any spatial location (place in rodents or spatial view in primates) and an object or reward and to provide for completion of the whole memory during recall from any part. The theory is extended to associations between time and object or reward to implement temporal order memory, also important in episodic memory. The dentate gyrus performs pattern separation by competitive learning to produce sparse representations, producing for example neurons with place-like fields from entorhinal cortex grid cells. The dentate granule cells produce by the very small number of mossy fibre connections to CA3 a randomizing pattern separation effect important during learning but not recall that separates out the patterns represented by CA3 firing to be very different from each other, which is optimal for an unstructured episodic memory system in which each memory must be kept distinct from other memories. The direct perforant path input to CA3 is quantitatively appropriate to provide the cue for recall in CA3, but not for learning. The CA1 recodes information from CA3 to set up associatively learned backprojections to neocortex to allow subsequent retrieval of information to neocortex, providing a quantitative account of the large number of hippocampo-neocortical and neocortical-neocortical backprojections. Tests of the theory including hippocampal subregion analyses and hippocampal NMDA receptor knockouts are described and support the theory.",
+     "CI": [
+          "Copyright (c) 2010 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Rolls, Edmund T"
+     ],
+     "AU": [
+          "Rolls ET"
+     ],
+     "AD": "Oxford Centre for Computational Neuroscience, Oxford, United Kingdom. Edmund.Rolls@oxcns.org",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+     ],
+     "DEP": "20100320",
+     "PL": "Netherlands",
+     "TA": "Behav Brain Res",
+     "JT": "Behavioural brain research",
+     "JID": "8004872",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/physiology",
+          "*Computer Simulation",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Mental Recall/*physiology",
+          "Models, Neurological",
+          "Neural Pathways/physiology",
+          "Primates/physiology/psychology",
+          "*Psychological Theory"
+     ],
+     "EDAT": "2010/03/24 06:00",
+     "MHDA": "2011/01/12 06:00",
+     "CRDT": [
+          "2010/03/24 06:00"
+     ],
+     "PHST": [
+          "2010/02/01 00:00 [received]",
+          "2010/03/10 00:00 [revised]",
+          "2010/03/13 00:00 [accepted]",
+          "2010/03/24 06:00 [entrez]",
+          "2010/03/24 06:00 [pubmed]",
+          "2011/01/12 06:00 [medline]"
+     ],
+     "AID": [
+          "S0166-4328(10)00213-5 [pii]",
+          "10.1016/j.bbr.2010.03.027 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Behav Brain Res. 2010 Dec 31;215(2):180-96. doi: 10.1016/j.bbr.2010.03.027. Epub 2010 Mar 20.",
+     "term": "grid cells"
+}

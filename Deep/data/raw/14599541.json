@@ -1,0 +1,84 @@
+{
+     "PMID": "14599541",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040408",
+     "LR": "20091103",
+     "IS": "0730-725X (Print) 0730-725X (Linking)",
+     "VI": "21",
+     "IP": "8",
+     "DP": "2003 Oct",
+     "TI": "Computer-assisted enhanced volumetric segmentation magnetic resonance imaging data using a mixture of artificial neural networks.",
+     "PG": "901-12",
+     "AB": "An accurate computer-assisted method able to perform regional segmentation on 3D single modality images and measure its volume is designed using a mixture of unsupervised and supervised artificial neural networks. Firstly, an unsupervised artificial neural network is used to estimate representative textures that appear in the images. The region of interest of the resultant images is selected by means of a multi-layer perceptron after a training using a single sample slice, which contains a central portion of the 3D region of interest. The method was applied to magnetic resonance imaging data collected from an experimental acute inflammatory model (T(2) weighted) and from a clinical study of human Alzheimer's disease (T(1) weighted) to evaluate the proposed method. In the first case, a high correlation and parallelism was registered between the volumetric measurements, of the injured and healthy tissue, by the proposed method with respect to the manual measurements (r = 0.82 and p < 0.05) and to the histopathological studies (r = 0.87 and p < 0.05). The method was also applied to the clinical studies, and similar results were derived of the manual and semi-automatic volumetric measurement of both hippocampus and the corpus callosum (0.95 and 0.88).",
+     "FAU": [
+          "Perez de Alejo, Rigoberto",
+          "Ruiz-Cabello, Jesus",
+          "Cortijo, Manuel",
+          "Rodriguez, Ignacio",
+          "Echave, Imanol",
+          "Regadera, Javier",
+          "Arrazola, Juan",
+          "Aviles, Pablo",
+          "Barreiro, Pilar",
+          "Gargallo, Domingo",
+          "Grana, Manuel"
+     ],
+     "AU": [
+          "Perez de Alejo R",
+          "Ruiz-Cabello J",
+          "Cortijo M",
+          "Rodriguez I",
+          "Echave I",
+          "Regadera J",
+          "Arrazola J",
+          "Aviles P",
+          "Barreiro P",
+          "Gargallo D",
+          "Grana M"
+     ],
+     "AD": "Unidad de RMN & Departamento de Fisico-Quimica II, Universidad Complutense de Madrid, Madrid, Spain.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Netherlands",
+     "TA": "Magn Reson Imaging",
+     "JT": "Magnetic resonance imaging",
+     "JID": "8214883",
+     "SB": "IM",
+     "MH": [
+          "Abscess/diagnosis",
+          "Alzheimer Disease/diagnosis/pathology",
+          "Animals",
+          "Aspergillosis/diagnosis",
+          "Corpus Callosum/pathology",
+          "Hippocampus/pathology",
+          "Humans",
+          "*Image Processing, Computer-Assisted",
+          "Imaging, Three-Dimensional",
+          "*Magnetic Resonance Imaging",
+          "Mice",
+          "Muscular Diseases/diagnosis/pathology",
+          "*Neural Networks (Computer)"
+     ],
+     "EDAT": "2003/11/06 05:00",
+     "MHDA": "2004/04/09 05:00",
+     "CRDT": [
+          "2003/11/06 05:00"
+     ],
+     "PHST": [
+          "2003/11/06 05:00 [pubmed]",
+          "2004/04/09 05:00 [medline]",
+          "2003/11/06 05:00 [entrez]"
+     ],
+     "AID": [
+          "S0730725X03001930 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Magn Reson Imaging. 2003 Oct;21(8):901-12.",
+     "term": "hippocampus"
+}

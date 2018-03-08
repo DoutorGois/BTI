@@ -1,0 +1,76 @@
+{
+     "PMID": "22487609",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120827",
+     "LR": "20120507",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "207",
+     "IP": "1",
+     "DP": "2012 May 30",
+     "TI": "Quantifying circular-linear associations: hippocampal phase precession.",
+     "PG": "113-24",
+     "LID": "10.1016/j.jneumeth.2012.03.007 [doi]",
+     "AB": "When a rat crosses the place field of a hippocampal pyramidal cell, this cell typically fires a series of spikes. Spike phases, measured with respect to theta oscillations of the local field potential, on average decrease as a function of the spatial distance traveled. This relation between phase and position of spikes might be a neural basis for encoding and is called phase precession. The degree of association between the circular phase variable and the linear spatial variable is commonly quantified through, however, a linear-linear correlation coefficient where the circular variable is converted to a linear variable by restricting the phase to an arbitrarily chosen range, which may bias the estimated correlation. Here we introduce a new measure to quantify circular-linear associations. This measure leads to a robust estimate of the slope and phase offset of the regression line, and it provides a correlation coefficient for circular-linear data that is a natural analog of Pearson's product-moment correlation coefficient for linear-linear data. Using surrogate data, we show that the new method outperforms the standard linear-linear approach with respect to estimates of the regression line and the correlation, and that the new method is less dependent on noise and sample size. We confirm these findings in a large data set of experimental recordings from hippocampal place cells and theta oscillations, and we discuss remaining problems that are relevant for the analysis and interpretation of phase precession. In summary, we provide a new method for the quantification of circular-linear associations.",
+     "CI": [
+          "Copyright (c) 2012 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Kempter, Richard",
+          "Leibold, Christian",
+          "Buzsaki, Gyorgy",
+          "Diba, Kamran",
+          "Schmidt, Robert"
+     ],
+     "AU": [
+          "Kempter R",
+          "Leibold C",
+          "Buzsaki G",
+          "Diba K",
+          "Schmidt R"
+     ],
+     "AD": "Institute for Theoretical Biology, Department of Biology, Humboldt-Universitat zu Berlin, Invalidenstr. 43, 10115 Berlin, Germany. r.kempter@biologie.hu-berlin.de",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120407",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "CA1 Region, Hippocampal/*physiology",
+          "Male",
+          "*Models, Neurological",
+          "Motor Activity/physiology",
+          "Rats",
+          "Rats, Sprague-Dawley"
+     ],
+     "EDAT": "2012/04/11 06:00",
+     "MHDA": "2012/08/28 06:00",
+     "CRDT": [
+          "2012/04/11 06:00"
+     ],
+     "PHST": [
+          "2010/12/20 00:00 [received]",
+          "2012/03/09 00:00 [revised]",
+          "2012/03/20 00:00 [accepted]",
+          "2012/04/11 06:00 [entrez]",
+          "2012/04/11 06:00 [pubmed]",
+          "2012/08/28 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(12)00101-X [pii]",
+          "10.1016/j.jneumeth.2012.03.007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2012 May 30;207(1):113-24. doi: 10.1016/j.jneumeth.2012.03.007. Epub 2012 Apr 7.",
+     "term": "place cells"
+}

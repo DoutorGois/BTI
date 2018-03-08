@@ -1,0 +1,83 @@
+{
+     "PMID": "24366137",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140908",
+     "LR": "20170220",
+     "IS": "1471-2970 (Electronic) 0962-8436 (Linking)",
+     "VI": "369",
+     "IP": "1635",
+     "DP": "2014 Feb 5",
+     "TI": "Oscillatory neurocomputing with ring attractors: a network architecture for mapping locations in space onto patterns of neural synchrony.",
+     "PG": "20120526",
+     "LID": "10.1098/rstb.2012.0526 [doi]",
+     "AB": "Theories of neural coding seek to explain how states of the world are mapped onto states of the brain. Here, we compare how an animal's location in space can be encoded by two different kinds of brain states: population vectors stored by patterns of neural firing rates, versus synchronization vectors stored by patterns of synchrony among neural oscillators. It has previously been shown that a population code stored by spatially tuned 'grid cells' can exhibit desirable properties such as high storage capacity and strong fault tolerance; here it is shown that similar properties are attainable with a synchronization code stored by rhythmically bursting 'theta cells' that lack spatial tuning. Simulations of a ring attractor network composed from theta cells suggest how a synchronization code might be implemented using fewer neurons and synapses than a population code with similar storage capacity. It is conjectured that reciprocal connections between grid and theta cells might control phase noise to correct two kinds of errors that can arise in the code: path integration and teleportation errors. Based upon these analyses, it is proposed that a primary function of spatially tuned neurons might be to couple the phases of neural oscillators in a manner that allows them to encode spatial locations as patterns of neural synchrony.",
+     "FAU": [
+          "Blair, Hugh T",
+          "Wu, Allan",
+          "Cong, Jason"
+     ],
+     "AU": [
+          "Blair HT",
+          "Wu A",
+          "Cong J"
+     ],
+     "AD": "Psychology Department, UCLA, , Los Angeles, CA 90095, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH079511/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20131223",
+     "PL": "England",
+     "TA": "Philos Trans R Soc Lond B Biol Sci",
+     "JT": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+     "JID": "7503623",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Biological Clocks/*physiology",
+          "Computer Simulation",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Space Perception/*physiology",
+          "Theta Rhythm/*physiology"
+     ],
+     "PMC": "PMC3866447",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "entorhinal cortex",
+          "grid cells",
+          "hippocampus",
+          "memory",
+          "place cells",
+          "theta rhythm"
+     ],
+     "EDAT": "2013/12/25 06:00",
+     "MHDA": "2014/09/10 06:00",
+     "CRDT": [
+          "2013/12/25 06:00"
+     ],
+     "PHST": [
+          "2013/12/25 06:00 [entrez]",
+          "2013/12/25 06:00 [pubmed]",
+          "2014/09/10 06:00 [medline]"
+     ],
+     "AID": [
+          "rstb.2012.0526 [pii]",
+          "10.1098/rstb.2012.0526 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Philos Trans R Soc Lond B Biol Sci. 2013 Dec 23;369(1635):20120526. doi: 10.1098/rstb.2012.0526. Print 2014 Feb 5.",
+     "term": "place cells"
+}

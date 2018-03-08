@@ -1,0 +1,79 @@
+{
+     "PMID": "22468608",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120822",
+     "LR": "20170220",
+     "IS": "2158-0022 (Electronic) 2158-0014 (Linking)",
+     "VI": "2",
+     "IP": "1",
+     "DP": "2012",
+     "TI": "Constrained source-based morphometry identifies structural networks associated with default mode network.",
+     "PG": "33-43",
+     "LID": "10.1089/brain.2011.0026 [doi]",
+     "AB": "We present constrained source-based morphometry (SBM), a multivariate semiblind data-driven approach, to explore a possible brain-wide structural network in both gray matter (GM) and white matter (WM) associated with the functional default mode network (DMN). With this approach, we utilize seed regions associated with the DMN as constraints on GM maps and derive a joint GM and WM structural network automatically through a multivariate data-driven approach. In this article, we first provide a simulation to validate the constrained SBM approach. The approach was then applied to structural magnetic resonance imaging and diffusion tensor imaging data obtained from 102 healthy controls. Regions that have consistently reported to be associated with the DMN were used to create an a priori mask that was integrated within an independent component analysis framework to derive the structural network associated with the DMN. We identified a set of GM and corresponding WM regions contributing to a structural network underlying the functional DMN. The GM regions consisted mainly of the precuneus, superior and medial frontal gyri, middle temporal gyrus, hippocampus, cuneus, and cerebellum. The WM regions included the cingulum, corpus callosum, corona radiata, association fibers, and middle cerebellar peduncle. Significant gender differences in the relationship between intelligence quotient (IQ) and the identified structural network were observed. Our findings suggest that the functional DMN is underpinned by a corresponding brain-wide structural network. The constrained SBM approach is additionally applicable to a wide variety of problems identifying structural networks from seed regions.",
+     "FAU": [
+          "Luo, Li",
+          "Xu, Lai",
+          "Jung, Rex",
+          "Pearlson, Godfrey",
+          "Adali, Tulay",
+          "Calhoun, Vince D"
+     ],
+     "AU": [
+          "Luo L",
+          "Xu L",
+          "Jung R",
+          "Pearlson G",
+          "Adali T",
+          "Calhoun VD"
+     ],
+     "AD": "The Mind Research Network, Albuquerque, New Mexico 87106, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "1 R01 EB 000840/EB/NIBIB NIH HHS/United States",
+          "1 R01 EB 005846/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Brain Connect",
+     "JT": "Brain connectivity",
+     "JID": "101550313",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Analysis of Variance",
+          "Brain/*anatomy & histology/physiology",
+          "Computer Simulation",
+          "Female",
+          "Humans",
+          "Magnetic Resonance Imaging/methods",
+          "Male",
+          "Neural Pathways/physiology",
+          "Young Adult"
+     ],
+     "PMC": "PMC3621809",
+     "EDAT": "2012/04/04 06:00",
+     "MHDA": "2012/08/23 06:00",
+     "CRDT": [
+          "2012/04/04 06:00"
+     ],
+     "PHST": [
+          "2012/04/04 06:00 [entrez]",
+          "2012/04/04 06:00 [pubmed]",
+          "2012/08/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1089/brain.2011.0026 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Connect. 2012;2(1):33-43. doi: 10.1089/brain.2011.0026.",
+     "term": "hippocampus"
+}

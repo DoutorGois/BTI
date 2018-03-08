@@ -1,0 +1,87 @@
+{
+     "PMID": "26792883",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20180111",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "115",
+     "IP": "3",
+     "DP": "2016 Mar",
+     "TI": "Phase-amplitude coupling, an indication of bursting in parkinsonism, is masked by periodic pulses.",
+     "PG": "1587-95",
+     "LID": "10.1152/jn.00801.2015 [doi]",
+     "AB": "Interactions between neural oscillations in the brain have been observed in many structures including the hippocampus, amygdala, motor cortex, and basal ganglia. In this study, one popular approach for quantifying oscillation interactions was considered: phase-amplitude coupling. The goals of the study were to use simulations to examine potential causes of elevated phase-amplitude coupling in parkinsonism, to compare simulated parkinsonian signals with recorded local field potentials from animal models of parkinsonism, to investigate possible relationships between increased bursting in parkinsonian single cells and elevated phase-amplitude coupling, and to uncover potential noise and artifact effects. First, a cell model that integrates incremental input currents and fires at realistic voltage thresholds was modified to allow control of stochastic parameters related to firing and burst rates. Next, the input currents and distribution of integration times were set to reproduce firing patterns consistent with those from parkinsonian subthalamic nucleus cells. Then, local field potentials were synthesized from the output of multiple simulated cells with varying degrees of synchronization and compared with subthalamic nucleus recordings from animal models of parkinsonism. The results showed that phase-amplitude coupling can provide important information about underlying neural activity. In particular, signals synthesized from synchronized bursting neurons showed increased oscillatory interactions similar to those observed in parkinsonian animals. Additionally, changes in bursting parameters such as the intraburst rate, the mean interburst period, and the amount of synchronization between neurons influenced the phase-amplitude coupling in predictable ways. Finally, simulation results revealed that small periodic signals can have a surprisingly large masking effect on phase-amplitude coupling.",
+     "CI": [
+          "Copyright (c) 2016 the American Physiological Society."
+     ],
+     "FAU": [
+          "Sanders, Teresa H"
+     ],
+     "AU": [
+          "Sanders TH"
+     ],
+     "AD": "Biology Department, Emory University, Atlanta, Georgia teresa.hinkle.sanders@gmail.com.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "T32 NS-007480/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20160120",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Brain Waves",
+          "Macaca mulatta",
+          "Male",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "*Models, Neurological",
+          "Neurons/physiology",
+          "Parkinsonian Disorders/*physiopathology",
+          "Thalamic Nuclei/cytology/physiopathology"
+     ],
+     "PMC": "PMC4808129",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "burst",
+          "deep brain stimulation",
+          "parkinsonism",
+          "phase-amplitude coupling",
+          "simulation"
+     ],
+     "EDAT": "2016/01/23 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2016/01/22 06:00"
+     ],
+     "PMCR": [
+          "2017/03/01 00:00"
+     ],
+     "PHST": [
+          "2015/08/17 00:00 [received]",
+          "2016/01/15 00:00 [accepted]",
+          "2017/03/01 00:00 [pmc-release]",
+          "2016/01/22 06:00 [entrez]",
+          "2016/01/23 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "jn.00801.2015 [pii]",
+          "10.1152/jn.00801.2015 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2016 Mar;115(3):1587-95. doi: 10.1152/jn.00801.2015. Epub 2016 Jan 20.",
+     "term": "hippocampus"
+}

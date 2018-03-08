@@ -1,0 +1,99 @@
+{
+     "PMID": "23226114",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20121212",
+     "LR": "20170220",
+     "IS": "1662-453X (Electronic) 1662-453X (Linking)",
+     "VI": "6",
+     "DP": "2012",
+     "TI": "Robust Automated Amygdala Segmentation via Multi-Atlas Diffeomorphic Registration.",
+     "PG": "166",
+     "LID": "10.3389/fnins.2012.00166 [doi]",
+     "AB": "Here, we describe a novel method for volumetric segmentation of the amygdala from MRI images collected from 35 human subjects. This approach is adapted from open-source techniques employed previously with the hippocampus (Suh et al., 2011; Wang et al., 2011a,b). Using multi-atlas segmentation and machine learning-based correction, we were able to produce automated amygdala segments with high Dice (Mean = 0.918 for the left amygdala; 0.916 for the right amygdala) and Jaccard coefficients (Mean = 0.850 for the left; 0.846 for the right) compared to rigorously hand-traced volumes. This automated routine also produced amygdala segments with high intra-class correlations (consistency = 0.830, absolute agreement = 0.819 for the left; consistency = 0.786, absolute agreement = 0.783 for the right) and bivariate (r = 0.831 for the left; r = 0.797 for the right) compared to hand-drawn amygdala. Our results are discussed in relation to other cutting-edge segmentation techniques, as well as commonly available approaches to amygdala segmentation (e.g., Freesurfer). We believe this new technique has broad application to research with large sample sizes for which amygdala quantification might be needed.",
+     "FAU": [
+          "Hanson, Jamie L",
+          "Suh, Jung W",
+          "Nacewicz, Brendon M",
+          "Sutterer, Matthew J",
+          "Cayo, Amelia A",
+          "Stodola, Diane E",
+          "Burghy, Cory A",
+          "Wang, Hongzhi",
+          "Avants, Brian B",
+          "Yushkevich, Paul A",
+          "Essex, Marilyn J",
+          "Pollak, Seth D",
+          "Davidson, Richard J"
+     ],
+     "AU": [
+          "Hanson JL",
+          "Suh JW",
+          "Nacewicz BM",
+          "Sutterer MJ",
+          "Cayo AA",
+          "Stodola DE",
+          "Burghy CA",
+          "Wang H",
+          "Avants BB",
+          "Yushkevich PA",
+          "Essex MJ",
+          "Pollak SD",
+          "Davidson RJ"
+     ],
+     "AD": "Department of Psychology, University of Wisconsin-Madison Madison, WI, USA ; Waisman Center, University of Wisconsin-Madison Madison, WI, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P30 HD003352/HD/NICHD NIH HHS/United States",
+          "P50 MH084051/MH/NIMH NIH HHS/United States",
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "F31 DA028087/DA/NIDA NIH HHS/United States",
+          "R01 MH061285/MH/NIMH NIH HHS/United States",
+          "R01 MH043454/MH/NIMH NIH HHS/United States",
+          "R37 MH043454/MH/NIMH NIH HHS/United States",
+          "R01 MH068858/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20121129",
+     "PL": "Switzerland",
+     "TA": "Front Neurosci",
+     "JT": "Frontiers in neuroscience",
+     "JID": "101478481",
+     "PMC": "PMC3509347",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Freesurfer",
+          "amygdala",
+          "amygdala volume",
+          "automated segmentation",
+          "diffeomorphic warping",
+          "hand-tracing",
+          "medial temporal lobe",
+          "structural MRI"
+     ],
+     "EDAT": "2012/12/12 06:00",
+     "MHDA": "2012/12/12 06:01",
+     "CRDT": [
+          "2012/12/11 06:00"
+     ],
+     "PHST": [
+          "2012/09/10 00:00 [received]",
+          "2012/10/24 00:00 [accepted]",
+          "2012/12/11 06:00 [entrez]",
+          "2012/12/12 06:00 [pubmed]",
+          "2012/12/12 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnins.2012.00166 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neurosci. 2012 Nov 29;6:166. doi: 10.3389/fnins.2012.00166. eCollection 2012.",
+     "term": "hippocampus"
+}

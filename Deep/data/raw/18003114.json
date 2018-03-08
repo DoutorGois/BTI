@@ -1,0 +1,75 @@
+{
+     "PMID": "18003114",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080429",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2007",
+     "DP": "2007",
+     "TI": "Modeling and detecting deep brain activity with MEG & EEG.",
+     "PG": "4937-40",
+     "AB": "We introduce an anatomical and electrophysiological model of deep brain structures dedicated to magnetoencephalography (MEG) and electroencephalography (EEG) source imaging. So far, most imaging inverse models considered that MEG/EEG surface signals were predominantly produced by cortical, hence superficial, neural currents. Here we question whether crucial deep brain structures such as the basal ganglia and the hippocampus may also contribute to distant, scalp MEG and EEG measurements. We first design a realistic anatomical and electrophysiological model of these structures and subsequently run Monte-Carlo experiments to evaluate the respective sensitivity of the MEG and EEG to signals from deeper origins. Results indicate that MEG/EEG may indeed localize these deeper generators, which is confirmed here from experimental MEG data reporting on the modulation of alpha brain waves.",
+     "FAU": [
+          "Attal, Yohan",
+          "Bhattacharjee, Manik",
+          "Yelnik, Jerome",
+          "Cottereau, Benoit",
+          "Lefevre, Julien",
+          "Okada, Yoshio",
+          "Bardinet, Eric",
+          "Chupin, Marie",
+          "Baillet, Sylvain"
+     ],
+     "AU": [
+          "Attal Y",
+          "Bhattacharjee M",
+          "Yelnik J",
+          "Cottereau B",
+          "Lefevre J",
+          "Okada Y",
+          "Bardinet E",
+          "Chupin M",
+          "Baillet S"
+     ],
+     "AD": "Cognitive Neuroscience & Brain Imaging Laboratory, CNRS UPR640-LENA, Hopital de la Salpetriere, University of Paris6, France. yohan.attal@chups.jussieu.fr",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Basal Ganglia/physiology",
+          "Brain/*physiology",
+          "*Electroencephalography",
+          "Electrophysiology/*methods",
+          "Hippocampus/physiology",
+          "Humans",
+          "*Magnetoencephalography",
+          "Models, Biological",
+          "Models, Neurological",
+          "Visual Perception"
+     ],
+     "EDAT": "2007/11/16 09:00",
+     "MHDA": "2008/04/30 09:00",
+     "CRDT": [
+          "2007/11/16 09:00"
+     ],
+     "PHST": [
+          "2007/11/16 09:00 [pubmed]",
+          "2008/04/30 09:00 [medline]",
+          "2007/11/16 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2007.4353448 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2007;2007:4937-40. doi: 10.1109/IEMBS.2007.4353448.",
+     "term": "hippocampus"
+}

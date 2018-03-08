@@ -1,0 +1,83 @@
+{
+     "PMID": "25320785",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141113",
+     "LR": "20161125",
+     "VI": "17",
+     "IP": "Pt 3",
+     "DP": "2014",
+     "TI": "Automatic clustering and thickness measurement of anatomical variants of the human perirhinal cortex.",
+     "PG": "81-8",
+     "AB": "The entorhinal cortex (ERC) and the perirhinal cortex (PRC) are subregions of the medial temporal lobe (MTL) that play important roles in episodic memory representations, as well as serving as a conduit between other neocortical areas and the hippocampus. They are also the sites where neuronal damage first occurs in Alzheimer's disease (AD). The ability to automatically quantify the volume and thickness of the ERC and PRC is desirable because these localized measures can potentially serve as better imaging biomarkers for AD and other neurodegenerative diseases. However, large anatomical variation in the PRC makes it a challenging area for analysis. In order to address this problem, we propose an automatic segmentation, clustering, and thickness measurement approach that explicitly accounts for anatomical variation. The approach is targeted to highly anisotropic (0.4x0.4x2.0mm3 ) T2-weighted MRI scans that are preferred by many authors for detailed imaging of the MTL, but which pose challenges for segmentation and shape analysis. After automatically labeling MTL substructures using multi-atlas segmentation, our method clusters subjects into groups based on the shape of the PRC, constructs unbiased population templates for each group, and uses the smooth surface representations obtained during template construction to extract regional thickness measurements in the space of each subject. The proposed thickness measures are evaluated in the context of discrimination between patients with Mild Cognitive Impairment (MCI) and normal controls (NC).",
+     "FAU": [
+          "Xie, Long",
+          "Pluta, John",
+          "Wang, Hongzhi",
+          "Das, Sandhitsu R",
+          "Mancuso, Lauren",
+          "Kliot, Dasha",
+          "Avants, Brian B",
+          "Ding, Song-Lin",
+          "Wolk, David A",
+          "Yushkevich, Paul A"
+     ],
+     "AU": [
+          "Xie L",
+          "Pluta J",
+          "Wang H",
+          "Das SR",
+          "Mancuso L",
+          "Kliot D",
+          "Avants BB",
+          "Ding SL",
+          "Wolk DA",
+          "Yushkevich PA"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K23 AG028018/AG/NIA NIH HHS/United States",
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "R01 EB017255/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Cognitive Dysfunction/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Temporal Lobe/*pathology"
+     ],
+     "PMC": "PMC4348087",
+     "MID": [
+          "NIHMS666378"
+     ],
+     "EDAT": "2014/10/17 06:00",
+     "MHDA": "2014/11/14 06:00",
+     "CRDT": [
+          "2014/10/17 06:00"
+     ],
+     "PHST": [
+          "2014/10/17 06:00 [entrez]",
+          "2014/10/17 06:00 [pubmed]",
+          "2014/11/14 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2014;17(Pt 3):81-8.",
+     "term": "hippocampus"
+}

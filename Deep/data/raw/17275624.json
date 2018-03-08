@@ -1,0 +1,75 @@
+{
+     "PMID": "17275624",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070403",
+     "LR": "20070205",
+     "IS": "0730-725X (Print) 0730-725X (Linking)",
+     "VI": "25",
+     "IP": "2",
+     "DP": "2007 Feb",
+     "TI": "Magnetic resonance imaging segmentation techniques using batch-type learning vector quantization algorithms.",
+     "PG": "265-77",
+     "AB": "In this article, we propose batch-type learning vector quantization (LVQ) segmentation techniques for the magnetic resonance (MR) images. Magnetic resonance imaging (MRI) segmentation is an important technique to differentiate abnormal and normal tissues in MR image data. The proposed LVQ segmentation techniques are compared with the generalized Kohonen's competitive learning (GKCL) methods, which were proposed by Lin et al. [Magn Reson Imaging 21 (2003) 863-870]. Three MRI data sets of real cases are used in this article. The first case is from a 2-year-old girl who was diagnosed with retinoblastoma in her left eye. The second case is from a 55-year-old woman who developed complete left side oculomotor palsy immediately after a motor vehicle accident. The third case is from an 84-year-old man who was diagnosed with Alzheimer disease (AD). Our comparisons are based on sensitivity of algorithm parameters, the quality of MRI segmentation with the contrast-to-noise ratio and the accuracy of the region of interest tissue. Overall, the segmentation results from batch-type LVQ algorithms present good accuracy and quality of the segmentation images, and also flexibility of algorithm parameters in all the comparison consequences. The results support that the proposed batch-type LVQ algorithms are better than the previous GKCL algorithms. Specifically, the proposed fuzzy-soft LVQ algorithm works well in segmenting AD MRI data set to accurately measure the hippocampus volume in AD MR images.",
+     "FAU": [
+          "Yang, Miin-Shen",
+          "Lin, Karen Chia-Ren",
+          "Liu, Hsiu-Chih",
+          "Lirng, Jiing-Feng"
+     ],
+     "AU": [
+          "Yang MS",
+          "Lin KC",
+          "Liu HC",
+          "Lirng JF"
+     ],
+     "AD": "Department of Applied Mathematics, Chung Yuan Christian University, Chung-Li 32023, Taiwan. msyang@math.cycu.edu.tw",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20061212",
+     "PL": "Netherlands",
+     "TA": "Magn Reson Imaging",
+     "JT": "Magnetic resonance imaging",
+     "JID": "8214883",
+     "SB": "IM",
+     "MH": [
+          "Aged, 80 and over",
+          "*Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Brain Injuries/*pathology",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Retinal Neoplasms/*pathology",
+          "Retinoblastoma/*pathology"
+     ],
+     "EDAT": "2007/02/06 09:00",
+     "MHDA": "2007/04/04 09:00",
+     "CRDT": [
+          "2007/02/06 09:00"
+     ],
+     "PHST": [
+          "2006/04/10 00:00 [received]",
+          "2006/09/13 00:00 [accepted]",
+          "2007/02/06 09:00 [pubmed]",
+          "2007/04/04 09:00 [medline]",
+          "2007/02/06 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0730-725X(06)00338-9 [pii]",
+          "10.1016/j.mri.2006.09.043 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Magn Reson Imaging. 2007 Feb;25(2):265-77. doi: 10.1016/j.mri.2006.09.043. Epub 2006 Dec 12.",
+     "term": "hippocampus"
+}

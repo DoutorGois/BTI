@@ -1,0 +1,85 @@
+{
+     "PMID": "18584043",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080725",
+     "LR": "20161019",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "4",
+     "IP": "6",
+     "DP": "2008 Jun 27",
+     "TI": "Network analysis of intrinsic functional brain connectivity in Alzheimer's disease.",
+     "PG": "e1000100",
+     "LID": "10.1371/journal.pcbi.1000100 [doi]",
+     "AB": "Functional brain networks detected in task-free (\"resting-state\") functional magnetic resonance imaging (fMRI) have a small-world architecture that reflects a robust functional organization of the brain. Here, we examined whether this functional organization is disrupted in Alzheimer's disease (AD). Task-free fMRI data from 21 AD subjects and 18 age-matched controls were obtained. Wavelet analysis was applied to the fMRI data to compute frequency-dependent correlation matrices. Correlation matrices were thresholded to create 90-node undirected-graphs of functional brain networks. Small-world metrics (characteristic path length and clustering coefficient) were computed using graph analytical methods. In the low frequency interval 0.01 to 0.05 Hz, functional brain networks in controls showed small-world organization of brain activity, characterized by a high clustering coefficient and a low characteristic path length. In contrast, functional brain networks in AD showed loss of small-world properties, characterized by a significantly lower clustering coefficient (p<0.01), indicative of disrupted local connectivity. Clustering coefficients for the left and right hippocampus were significantly lower (p<0.01) in the AD group compared to the control group. Furthermore, the clustering coefficient distinguished AD participants from the controls with a sensitivity of 72% and specificity of 78%. Our study provides new evidence that there is disrupted organization of functional brain networks in AD. Small-world metrics can characterize the functional organization of the brain in AD, and our findings further suggest that these network measures may be useful as an imaging-based biomarker to distinguish AD from healthy aging.",
+     "FAU": [
+          "Supekar, Kaustubh",
+          "Menon, Vinod",
+          "Rubin, Daniel",
+          "Musen, Mark",
+          "Greicius, Michael D"
+     ],
+     "AU": [
+          "Supekar K",
+          "Menon V",
+          "Rubin D",
+          "Musen M",
+          "Greicius MD"
+     ],
+     "AD": "Graduate Program in Biomedical Informatics, Stanford University School of Medicine, Stanford, California, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K23 NS048302/NS/NINDS NIH HHS/United States",
+          "R01 HD047520/HD/NICHD NIH HHS/United States",
+          "5R01HD047520-03/HD/NICHD NIH HHS/United States",
+          "NS048302/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20080627",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Alzheimer Disease/*physiopathology",
+          "Brain/*physiopathology",
+          "*Brain Mapping",
+          "Computer Simulation",
+          "Female",
+          "Humans",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "*Models, Neurological",
+          "Nerve Net/*physiopathology",
+          "Neural Pathways/*physiopathology"
+     ],
+     "PMC": "PMC2435273",
+     "EDAT": "2008/06/28 09:00",
+     "MHDA": "2008/07/26 09:00",
+     "CRDT": [
+          "2008/06/28 09:00"
+     ],
+     "PHST": [
+          "2007/12/14 00:00 [received]",
+          "2008/05/20 00:00 [accepted]",
+          "2008/06/28 09:00 [pubmed]",
+          "2008/07/26 09:00 [medline]",
+          "2008/06/28 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1000100 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2008 Jun 27;4(6):e1000100. doi: 10.1371/journal.pcbi.1000100.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,84 @@
+{
+     "PMID": "18320300",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090408",
+     "LR": "20171021",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "25",
+     "IP": "2",
+     "DP": "2008 Oct",
+     "TI": "Initiation and propagation of a neuronal intracellular calcium wave.",
+     "PG": "334-48",
+     "LID": "10.1007/s10827-008-0082-x [doi]",
+     "AB": "The ability to image calcium movement within individual neurons inspires questions of functionality including whether calcium entry into the nucleus is related to genetic regulation for phenomena such as long term potentiation. Calcium waves have been initiated in hippocampal pyramidal cells with glutmatergic signals both in the presence and absence of back propagating action potentials (BPAPs). The dendritic sites of initiation of these calcium waves within about 100 microm of the soma are thought to be localized near oblique junctions. Stimulation of synapses on oblique dendrites leads to production of inositol 1,4,5-trisphosphate (IP(3)) which diffuses to the apical dendrite igniting awaiting IP(3) receptors (IP(3)Rs) and initiating and propagating catalytic calcium release from the endoplasmic reticulum. We construct a reduced mathematical system which accounts for calcium wave initiation and propagation due to elevated IP(3). Inhomogeneity in IP(3) distribution is responsible for calcium wave initiation versus subthreshold or spatially uniform suprathreshold activation. However, the likelihood that a calcium wave is initiated does not necessarily increase with more calcium entering from BPAPs. For low transient synaptic stimuli, timing between IP(3) generation and BPAPs is critical for calcium wave initiation. We also show that inhomogeneity in IP(3)R density can account for calcium wave directionality. Simulating somatic muscarinic receptor production of IP(3), we can account for the critical difference between calcium wave entry into the soma and failure to do so.",
+     "FAU": [
+          "Peercy, Bradford E"
+     ],
+     "AU": [
+          "Peercy BE"
+     ],
+     "AD": "Laboratory of Biological Modeling/NIDDK/NIH, Bldg. 12A, Rm 4007, MSC 5621, South Dr., Bethesda, MD 20892-5621, USA. peercyb@mail.nih.gov",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Intramural NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Intramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20080305",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "RN": [
+          "0 (1-(benzofuran-2-yl)-2-propylaminopentane)",
+          "0 (Benzofurans)",
+          "0 (Inositol 1,4,5-Trisphosphate Receptors)",
+          "85166-31-0 (Inositol 1,4,5-Trisphosphate)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/drug effects/physiology",
+          "Animals",
+          "Benzofurans/pharmacology",
+          "Calcium/*metabolism",
+          "Calcium Signaling/drug effects/*physiology",
+          "Dendrites/physiology",
+          "Dose-Response Relationship, Drug",
+          "Hippocampus",
+          "Inositol 1,4,5-Trisphosphate/metabolism",
+          "Inositol 1,4,5-Trisphosphate Receptors/metabolism",
+          "*Models, Biological",
+          "Models, Theoretical",
+          "Nerve Net/physiology",
+          "Nonlinear Dynamics",
+          "Pyramidal Cells/cytology/drug effects/*metabolism",
+          "Time Factors"
+     ],
+     "EDAT": "2008/03/06 09:00",
+     "MHDA": "2009/04/09 09:00",
+     "CRDT": [
+          "2008/03/06 09:00"
+     ],
+     "PHST": [
+          "2007/09/05 00:00 [received]",
+          "2008/01/25 00:00 [accepted]",
+          "2008/01/16 00:00 [revised]",
+          "2008/03/06 09:00 [pubmed]",
+          "2009/04/09 09:00 [medline]",
+          "2008/03/06 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s10827-008-0082-x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2008 Oct;25(2):334-48. doi: 10.1007/s10827-008-0082-x. Epub 2008 Mar 5.",
+     "term": "hippocampus"
+}

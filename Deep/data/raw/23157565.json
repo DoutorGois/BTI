@@ -1,0 +1,110 @@
+{
+     "PMID": "23157565",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150713",
+     "LR": "20130703",
+     "IS": "1552-6569 (Electronic) 1051-2284 (Linking)",
+     "VI": "23",
+     "IP": "3",
+     "DP": "2013 Jul",
+     "TI": "Generating a minimal set of templates for the hippocampal region in MR neuroimages.",
+     "PG": "473-83",
+     "LID": "10.1111/j.1552-6569.2012.00713.x [doi]",
+     "AB": "OBJECTIVES: We detail a procedure for generating a set of templates for the hippocampal region in magnetic resonance (MR) images, representative of the clinical conditions of the population under investigation. METHODS: The first step is robust standardization of the intensity scale of brain MR images, belonging to patients with different degrees of neuropathology (Alzheimer's disease). So similar tissues have similar intensities, even across images coming from different sources. After the automatic extraction of the hippocampal region from a large dataset of images, we address template generation, choosing by clusterization methods a small number of the extracted regions. RESULTS: We assess that template generation is largely independent on the clusterization method and on the number and the clinical condition of the patients. The templates are chosen as the most representative images in a population. The estimation of the \"minimum\" number of templates for the hippocampal region can be proposed, using a metric based on the geometrical position of the extracted regions. CONCLUSIONS: This study describes a simple and easily reproducible procedure to generate templates for the hippocampal region. It can be generalized and applied to other brain regions, which may be relevant for neuroimaging studies.",
+     "CI": [
+          "Copyright (c) 2012 by the American Society of Neuroimaging."
+     ],
+     "FAU": [
+          "Cataldo, R",
+          "Agrusti, A",
+          "De Nunzio, G",
+          "Carla, A",
+          "De Mitri, I",
+          "Favetta, M",
+          "Quarta, M",
+          "Monno, L",
+          "Rei, L",
+          "Fiorina, E"
+     ],
+     "AU": [
+          "Cataldo R",
+          "Agrusti A",
+          "De Nunzio G",
+          "Carla A",
+          "De Mitri I",
+          "Favetta M",
+          "Quarta M",
+          "Monno L",
+          "Rei L",
+          "Fiorina E"
+     ],
+     "AD": "Department of Materials Science, University of Salento, Lecce. rosella.cataldo@unisalento.it",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20121115",
+     "PL": "United States",
+     "TA": "J Neuroimaging",
+     "JT": "Journal of neuroimaging : official journal of the American Society of Neuroimaging",
+     "JID": "9102705",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*standards",
+          "Italy",
+          "Magnetic Resonance Imaging/*standards",
+          "Male",
+          "*Models, Anatomic",
+          "*Models, Neurological",
+          "Reference Values",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Subtraction Technique/*standards"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's Disease Neuroimaging Initiative",
+          "MRI brain images",
+          "Templates",
+          "brain region",
+          "hippocampus"
+     ],
+     "EDAT": "2012/11/20 06:00",
+     "MHDA": "2015/07/15 06:00",
+     "CRDT": [
+          "2012/11/20 06:00"
+     ],
+     "PHST": [
+          "2012/11/20 06:00 [entrez]",
+          "2012/11/20 06:00 [pubmed]",
+          "2015/07/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/j.1552-6569.2012.00713.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neuroimaging. 2013 Jul;23(3):473-83. doi: 10.1111/j.1552-6569.2012.00713.x. Epub 2012 Nov 15.",
+     "term": "hippocampus"
+}

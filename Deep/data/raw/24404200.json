@@ -1,0 +1,69 @@
+{
+     "PMID": "24404200",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140916",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "9",
+     "IP": "1",
+     "DP": "2014",
+     "TI": "Pattern association and consolidation emerges from connectivity properties between cortex and hippocampus.",
+     "PG": "e85016",
+     "LID": "10.1371/journal.pone.0085016 [doi]",
+     "AB": "The basic structure of the cortico-hippocampal system is highly conserved across mammalian species. Comparatively few hippocampal neurons can represent and address a multitude of cortical patterns, establish associations between cortical patterns and consolidate these associations in the cortex. In this study, we investigate how elementary anatomical properties in the cortex-hippocampus loop along with synaptic plasticity contribute to these functions. Specifically, we focus on the high degree of connectivity between cortex and hippocampus leading to converging and diverging forward and backward projections and heterogenous synaptic transmission delays that result from the detached location of the hippocampus and its multiple loops. We found that in a model incorporating these concepts, each cortical pattern can evoke a unique spatio-temporal spiking pattern in hippocampal neurons. This hippocampal response facilitates a reliable disambiguation of learned associations and a bridging of a time interval larger than the time window of spike-timing dependent plasticity in the cortex. Moreover, we found that repeated retrieval of a stored association leads to a compression of the interval between cue presentation and retrieval of the associated pattern from the cortex. Neither a high degree of connectivity nor heterogenous synaptic delays alone is sufficient for this behavior. We conclude that basic anatomical properties between cortex and hippocampus implement mechanisms for representing and consolidating temporal information. Since our model reveals the observed functions for a range of parameters, we suggest that these functions are robust to evolutionary changes consistent with the preserved function of the hippocampal loop across different species.",
+     "FAU": [
+          "Pyka, Martin",
+          "Cheng, Sen"
+     ],
+     "AU": [
+          "Pyka M",
+          "Cheng S"
+     ],
+     "AD": "Mercator Research Group \"Structure of Memory\", Ruhr-University Bochum, Bochum, Germany ; Faculty of Psychology, Ruhr-University Bochum, Bochum, Germany. Mercator Research Group \"Structure of Memory\", Ruhr-University Bochum, Bochum, Germany ; Faculty of Psychology, Ruhr-University Bochum, Bochum, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140103",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Association Learning",
+          "Cerebral Cortex/*physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Models, Neurological",
+          "*Neural Pathways",
+          "*Neuronal Plasticity",
+          "Neurons/physiology"
+     ],
+     "PMC": "PMC3880336",
+     "EDAT": "2014/01/10 06:00",
+     "MHDA": "2014/09/17 06:00",
+     "CRDT": [
+          "2014/01/10 06:00"
+     ],
+     "PHST": [
+          "2013/08/14 00:00 [received]",
+          "2013/11/20 00:00 [accepted]",
+          "2014/01/10 06:00 [entrez]",
+          "2014/01/10 06:00 [pubmed]",
+          "2014/09/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0085016 [doi]",
+          "PONE-D-13-33507 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2014 Jan 3;9(1):e85016. doi: 10.1371/journal.pone.0085016. eCollection 2014.",
+     "term": "hippocampus"
+}

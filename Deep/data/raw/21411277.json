@@ -1,0 +1,73 @@
+{
+     "PMID": "21411277",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110930",
+     "LR": "20110531",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "24",
+     "IP": "6",
+     "DP": "2011 Aug",
+     "TI": "Computational cognitive models of prefrontal-striatal-hippocampal interactions in Parkinson's disease and schizophrenia.",
+     "PG": "575-91",
+     "LID": "10.1016/j.neunet.2011.02.006 [doi]",
+     "AB": "Disruption to different components of the prefrontal cortex, basal ganglia, and hippocampal circuits leads to various psychiatric and neurological disorders including Parkinson's disease (PD) and schizophrenia. Medications used to treat these disorders (such as levodopa, dopamine agonists, antipsychotics, among others) affect the prefrontal-striatal-hippocampal circuits in a complex fashion. We have built models of prefrontal-striatal and striatal-hippocampal interactions which simulate cognitive dysfunction in PD and schizophrenia. In these models, we argue that the basal ganglia is key for stimulus-response learning, the hippocampus for stimulus-stimulus representational learning, and the prefrontal cortex for stimulus selection during learning about multidimensional stimuli. In our models, PD is associated with reduced dopamine levels in the basal ganglia and prefrontal cortex. In contrast, the cognitive deficits in schizophrenia are associated primarily with hippocampal dysfunction, while the occurrence of negative symptoms is associated with frontostriatal deficits in a subset of patients. In this paper, we review our past models and provide new simulation results for both PD and schizophrenia. We also describe an extended model that includes simulation of the different functional role of D1 and D2 dopamine receptors in the basal ganglia and prefrontal cortex, a dissociation we argue is essential for understanding the non-uniform effects of levodopa, dopamine agonists, and antipsychotics on cognition. Motivated by clinical and physiological data, we discuss model limitations and challenges to be addressed in future models of these brain disorders.",
+     "CI": [
+          "Published by Elsevier Ltd."
+     ],
+     "FAU": [
+          "Moustafa, Ahmed A",
+          "Gluck, Mark A"
+     ],
+     "AU": [
+          "Moustafa AA",
+          "Gluck MA"
+     ],
+     "AD": "Center for Molecular and Behavioral Neuroscience, Rutgers University-Newark, Newark, New Jersey 07102, USA. ahmedhalimo@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20110224",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Cognition Disorders/*etiology/*pathology",
+          "*Computer Simulation",
+          "Hippocampus/*physiopathology",
+          "Humans",
+          "Models, Biological",
+          "Neural Pathways/physiopathology",
+          "Parkinson Disease/*complications/pathology",
+          "Prefrontal Cortex/*physiopathology",
+          "Schizophrenia/*complications/pathology"
+     ],
+     "EDAT": "2011/03/18 06:00",
+     "MHDA": "2011/10/01 06:00",
+     "CRDT": [
+          "2011/03/18 06:00"
+     ],
+     "PHST": [
+          "2010/10/11 00:00 [received]",
+          "2011/01/22 00:00 [revised]",
+          "2011/02/17 00:00 [accepted]",
+          "2011/03/18 06:00 [entrez]",
+          "2011/03/18 06:00 [pubmed]",
+          "2011/10/01 06:00 [medline]"
+     ],
+     "AID": [
+          "S0893-6080(11)00077-3 [pii]",
+          "10.1016/j.neunet.2011.02.006 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2011 Aug;24(6):575-91. doi: 10.1016/j.neunet.2011.02.006. Epub 2011 Feb 24.",
+     "term": "hippocampus"
+}

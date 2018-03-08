@@ -1,0 +1,60 @@
+{
+     "PMID": "15937749",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070228",
+     "LR": "20050606",
+     "IS": "1537-5323 (Electronic) 0003-0147 (Linking)",
+     "VI": "165",
+     "IP": "6",
+     "DP": "2005 Jun",
+     "TI": "Reserve selection using nonlinear species distribution models.",
+     "PG": "695-706",
+     "AB": "Reserve design is concerned with optimal selection of sites for new conservation areas. Spatial reserve design explicitly considers the spatial pattern of the proposed reserve network and the effects of that pattern on reserve cost and/or ability to maintain species there. The vast majority of reserve selection formulations have assumed a linear problem structure, which effectively means that the biological value of a potential reserve site does not depend on the pattern of selected cells. However, spatial population dynamics and autocorrelation cause the biological values of neighboring sites to be interdependent. Habitat degradation may have indirect negative effects on biodiversity in areas neighboring the degraded site as a result of, for example, negative edge effects or lower permeability for animal movement. In this study, I present a formulation and a spatial optimization algorithm for nonlinear reserve selection problems in grid-based landscapes that accounts for interdependent site values. The method is demonstrated using habitat maps and nonlinear habitat models for threatened birds in the Netherlands, and it is shown that near-optimal solutions are found for regions consisting of up to hundreds of thousands grid cells, a landscape size much larger than those commonly attempted even with linear reserve selection formulations.",
+     "FAU": [
+          "Moilanen, Atte"
+     ],
+     "AU": [
+          "Moilanen A"
+     ],
+     "AD": "Metapopulation Research Group, Department of Biological and Environmental Sciences, P.O. Box 65, FI-00014 University of Helsinki, Finland. atte.moilanen@helsinki.fi",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20050509",
+     "PL": "United States",
+     "TA": "Am Nat",
+     "JT": "The American naturalist",
+     "JID": "2984688R",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "*Birds",
+          "*Ecosystem",
+          "*Nonlinear Dynamics"
+     ],
+     "EDAT": "2005/06/07 09:00",
+     "MHDA": "2007/03/01 09:00",
+     "CRDT": [
+          "2005/06/07 09:00"
+     ],
+     "PHST": [
+          "2004/06/30 00:00 [received]",
+          "2005/02/15 00:00 [accepted]",
+          "2005/06/07 09:00 [pubmed]",
+          "2007/03/01 09:00 [medline]",
+          "2005/06/07 09:00 [entrez]"
+     ],
+     "AID": [
+          "AN40510 [pii]",
+          "10.1086/430011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Am Nat. 2005 Jun;165(6):695-706. doi: 10.1086/430011. Epub 2005 May 9.",
+     "term": "grid cells"
+}

@@ -1,0 +1,79 @@
+{
+     "PMID": "24102128",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140811",
+     "LR": "20161207",
+     "IS": "1530-888X (Electronic) 0899-7667 (Linking)",
+     "VI": "26",
+     "IP": "1",
+     "DP": "2014 Jan",
+     "TI": "Neural representation of spatial topology in the rodent hippocampus.",
+     "PG": "1-39",
+     "LID": "10.1162/NECO_a_00538 [doi]",
+     "AB": "Pyramidal cells in the rodent hippocampus often exhibit clear spatial tuning in navigation. Although it has been long suggested that pyramidal cell activity may underlie a topological code rather than a topographic code, it remains unclear whether an abstract spatial topology can be encoded in the ensemble spiking activity of hippocampal place cells. Using a statistical approach developed previously, we investigate this question and related issues in greater detail. We recorded ensembles of hippocampal neurons as rodents freely foraged in one- and two-dimensional spatial environments and used a \"decode-to-uncover\" strategy to examine the temporally structured patterns embedded in the ensemble spiking activity in the absence of observed spatial correlates during periods of rodent navigation or awake immobility. Specifically, the spatial environment was represented by a finite discrete state space. Trajectories across spatial locations (\"states\") were associated with consistent hippocampal ensemble spiking patterns, which were characterized by a state transition matrix. From this state transition matrix, we inferred a topology graph that defined the connectivity in the state space. In both one- and two-dimensional environments, the extracted behavior patterns from the rodent hippocampal population codes were compared against randomly shuffled spike data. In contrast to a topographic code, our results support the efficiency of topological coding in the presence of sparse sample size and fuzzy space mapping. This computational approach allows us to quantify the variability of ensemble spiking activity, examine hippocampal population codes during off-line states, and quantify the topological complexity of the environment.",
+     "FAU": [
+          "Chen, Zhe",
+          "Gomperts, Stephen N",
+          "Yamamoto, Jun",
+          "Wilson, Matthew A"
+     ],
+     "AU": [
+          "Chen Z",
+          "Gomperts SN",
+          "Yamamoto J",
+          "Wilson MA"
+     ],
+     "AD": "Department of Brain and Cognitive Sciences and Picower Institute for Learning and Memory, MIT, Cambridge, MA 02139, U.S.A. zhechen@mit.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K08 MH081027/MH/NIMH NIH HHS/United States",
+          "R01 MH061976/MH/NIMH NIH HHS/United States",
+          "K08-MH081027/MH/NIMH NIH HHS/United States",
+          "R01-MH061976/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20131008",
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "*Computer Simulation",
+          "Hippocampus/*physiology",
+          "Mice",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Rats"
+     ],
+     "PMC": "PMC3967246",
+     "MID": [
+          "NIHMS562448"
+     ],
+     "EDAT": "2013/10/10 06:00",
+     "MHDA": "2014/08/12 06:00",
+     "CRDT": [
+          "2013/10/10 06:00"
+     ],
+     "PHST": [
+          "2013/10/10 06:00 [entrez]",
+          "2013/10/10 06:00 [pubmed]",
+          "2014/08/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1162/NECO_a_00538 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2014 Jan;26(1):1-39. doi: 10.1162/NECO_a_00538. Epub 2013 Oct 8.",
+     "term": "place cells"
+}

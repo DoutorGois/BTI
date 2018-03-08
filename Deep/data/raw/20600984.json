@@ -1,0 +1,109 @@
+{
+     "PMID": "20600984",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110103",
+     "LR": "20161122",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "53",
+     "IP": "4",
+     "DP": "2010 Dec",
+     "TI": "Nearly automatic segmentation of hippocampal subfields in in vivo focal T2-weighted MRI.",
+     "PG": "1208-24",
+     "LID": "10.1016/j.neuroimage.2010.06.040 [doi]",
+     "AB": "We present and evaluate a new method for automatically labeling the subfields of the hippocampal formation in focal 0.4 x 0.5 x 2.0mm(3) resolution T2-weighted magnetic resonance images that can be acquired in the routine clinical setting with under 5 min scan time. The method combines multi-atlas segmentation, similarity-weighted voting, and a novel learning-based bias correction technique to achieve excellent agreement with manual segmentation. Initial partitioning of MRI slices into hippocampal 'head', 'body' and 'tail' slices is the only input required from the user, necessitated by the nature of the underlying segmentation protocol. Dice overlap between manual and automatic segmentation is above 0.87 for the larger subfields, CA1 and dentate gyrus, and is competitive with the best results for whole-hippocampus segmentation in the literature. Intraclass correlation of volume measurements in CA1 and dentate gyrus is above 0.89. Overlap in smaller hippocampal subfields is lower in magnitude (0.54 for CA2, 0.62 for CA3, 0.77 for subiculum and 0.79 for entorhinal cortex) but comparable to overlap between manual segmentations by trained human raters. These results support the feasibility of subfield-specific hippocampal morphometry in clinical studies of memory and neurodegenerative disease.",
+     "CI": [
+          "Copyright (c) 2010 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Yushkevich, Paul A",
+          "Wang, Hongzhi",
+          "Pluta, John",
+          "Das, Sandhitsu R",
+          "Craige, Caryne",
+          "Avants, Brian B",
+          "Weiner, Michael W",
+          "Mueller, Susanne"
+     ],
+     "AU": [
+          "Yushkevich PA",
+          "Wang H",
+          "Pluta J",
+          "Das SR",
+          "Craige C",
+          "Avants BB",
+          "Weiner MW",
+          "Mueller S"
+     ],
+     "AD": "Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA. pauly2@grasp.upenn.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P01 AG012435-160007/AG/NIA NIH HHS/United States",
+          "P30 NS045839-08/NS/NINDS NIH HHS/United States",
+          "P01 AG12435/AG/NIA NIH HHS/United States",
+          "R21 NS061111-02/NS/NINDS NIH HHS/United States",
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "K25AG027785/AG/NIA NIH HHS/United States",
+          "R01 AG010897/AG/NIA NIH HHS/United States",
+          "R01 AG010897-25/AG/NIA NIH HHS/United States",
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "P01 AG012435/AG/NIA NIH HHS/United States",
+          "R01AG010897/AG/NIA NIH HHS/United States",
+          "P01 AG012435-169006/AG/NIA NIH HHS/United States",
+          "P30 NS045839/NS/NINDS NIH HHS/United States",
+          "R21 NS061111/NS/NINDS NIH HHS/United States",
+          "K25 AG027785-04/AG/NIA NIH HHS/United States",
+          "R01 AG037376-01/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100630",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Brain Mapping/*methods",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged"
+     ],
+     "PMC": "PMC2939190",
+     "MID": [
+          "NIHMS220223"
+     ],
+     "EDAT": "2010/07/06 06:00",
+     "MHDA": "2011/01/05 06:00",
+     "CRDT": [
+          "2010/07/06 06:00"
+     ],
+     "PHST": [
+          "2010/05/05 00:00 [received]",
+          "2010/06/12 00:00 [revised]",
+          "2010/06/16 00:00 [accepted]",
+          "2010/07/06 06:00 [entrez]",
+          "2010/07/06 06:00 [pubmed]",
+          "2011/01/05 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(10)00884-0 [pii]",
+          "10.1016/j.neuroimage.2010.06.040 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2010 Dec;53(4):1208-24. doi: 10.1016/j.neuroimage.2010.06.040. Epub 2010 Jun 30.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,84 @@
+{
+     "PMID": "29409838",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20180303",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "172",
+     "DP": "2018 Jan 31",
+     "TI": "Deciphering the microstructure of hippocampal subfields with in vivo DTI and NODDI: Applications to experimental multiple sclerosis.",
+     "PG": "357-368",
+     "LID": "S1053-8119(18)30061-2 [pii] 10.1016/j.neuroimage.2018.01.061 [doi]",
+     "AB": "The hippocampus contains distinct populations of neurons organized into separate anatomical subfields and layers with differential vulnerability to pathological mechanisms. The ability of in vivo neuroimaging to pinpoint regional vulnerability is especially important for better understanding of hippocampal pathology at the early stage of neurodegenerative disorders and for monitoring future therapeutic strategies. This is the case for instance in multiple sclerosis whose neurodegenerative component can affect the hippocampus from the early stage. We challenged the capacity of two models, i.e. the classical diffusion tensor imaging (DTI) model and the neurite orientation dispersion and density imaging (NODDI) model, to compute quantitative diffusion MRI that could capture microstructural alterations in the individual hippocampal layers of experimental-autoimmune encephalomyelitis (EAE) mice, the animal model of multiple sclerosis. To achieve this, the hippocampal anatomy of a healthy mouse brain was first explored ex vivo with high resolution DTI and NODDI. Then, 18 EAE mice and 18 control mice were explored 20 days after immunization with in vivo diffusion MRI prior to sacrifice for the histological quantification of neurites and glial markers in each hippocampal layer. Fractional anisotropy (FA), axial diffusivity (AD), radial diffusivity (RD) and mean diffusivity (MD) maps were computed from the DTI model while the orientation dispersion index (ODI), the neurite density index (NDI) and the volume fraction of isotropic diffusivity (isoVF) maps were computed from the NODDI model. We first showed in control mice that color-coded FA and ODI maps can delineate three main hippocampal layers. The quantification of FA, AD, RD, MD, ODI, NDI and isoVF presented differences within these 3 layers, especially within the molecular layer of the dentate gyrus which displayed a specific signature based on a combination of AD (or MD), ODI and NDI. Then, the comparison between EAE and control mice showed a decrease of AD (p=0.036) and of MD (p=0.033) selectively within the molecular layer of EAE mice while NODDI indices did not present any difference between EAE and control mice in any layer. Histological analyses confirmed the differential vulnerability of the molecular layer of EAE mice that exhibited decreased dendritic length and decreased dendritic complexity together with activated microglia. Dendritic length and intersections within the molecular layer were independent contributors to the observed decrease of AD (R(2)=0.37 and R(2)=0.40, p<0.0001) and MD (R(2)=0.41 and R(2)=0.42, p<0.0001). We therefore identified that NODDI maps can help to highlight the internal microanatomy of the hippocampus but NODDI still presents limitations in grey matter as it failed to capture selective dendritic alterations occurring at early stages of a neurodegenerative disease such as multiple sclerosis, whereas DTI maps were significantly altered.",
+     "CI": [
+          "Copyright (c) 2018 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Crombe, Amandine",
+          "Planche, Vincent",
+          "Raffard, Gerard",
+          "Bourel, Julien",
+          "Dubourdieu, Nadege",
+          "Panatier, Aude",
+          "Fukutomi, Hikaru",
+          "Dousset, Vincent",
+          "Oliet, Stephane",
+          "Hiba, Bassem",
+          "Tourdias, Thomas"
+     ],
+     "AU": [
+          "Crombe A",
+          "Planche V",
+          "Raffard G",
+          "Bourel J",
+          "Dubourdieu N",
+          "Panatier A",
+          "Fukutomi H",
+          "Dousset V",
+          "Oliet S",
+          "Hiba B",
+          "Tourdias T"
+     ],
+     "AD": "INSERM, U1215, Neurocentre Magendie, F-33000, Bordeaux, France; Univ. Bordeaux, F-33000, Bordeaux, France; CNRS UMR 5536, Centre de Resonance Magnetique des Systemes Biologiques, F-33000, Bordeaux, France; CHU de Bordeaux, F-33000, Bordeaux, France. INSERM, U1215, Neurocentre Magendie, F-33000, Bordeaux, France; Univ. Bordeaux, F-33000, Bordeaux, France. Univ. Bordeaux, F-33000, Bordeaux, France; CNRS UMR 5536, Centre de Resonance Magnetique des Systemes Biologiques, F-33000, Bordeaux, France. INSERM, U1215, Neurocentre Magendie, F-33000, Bordeaux, France; Univ. Bordeaux, F-33000, Bordeaux, France. INSERM, U1215, Neurocentre Magendie, F-33000, Bordeaux, France; Univ. Bordeaux, F-33000, Bordeaux, France. INSERM, U1215, Neurocentre Magendie, F-33000, Bordeaux, France; Univ. Bordeaux, F-33000, Bordeaux, France. Department of Diagnostic Imaging and Nuclear Medicine, Kyoto University Graduate School of Medicine, Kyoto, Japan. INSERM, U1215, Neurocentre Magendie, F-33000, Bordeaux, France; Univ. Bordeaux, F-33000, Bordeaux, France; CHU de Bordeaux, F-33000, Bordeaux, France. INSERM, U1215, Neurocentre Magendie, F-33000, Bordeaux, France; Univ. Bordeaux, F-33000, Bordeaux, France. Univ. Bordeaux, F-33000, Bordeaux, France; CNRS UMR 5229, Centre de Neurosciences Cognitives, F-69675, Bron, France. Electronic address: bassem.hiba@isc.cnrs.fr. INSERM, U1215, Neurocentre Magendie, F-33000, Bordeaux, France; Univ. Bordeaux, F-33000, Bordeaux, France; CHU de Bordeaux, F-33000, Bordeaux, France. Electronic address: thomas.tourdias@chu-bordeaux.fr.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20180131",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Diffusion tensor imaging",
+          "Experimental autoimmune encephalomyelitis",
+          "Hippocampus",
+          "Multiple sclerosis",
+          "Neurite orientation dispersion and density imaging"
+     ],
+     "EDAT": "2018/02/08 06:00",
+     "MHDA": "2018/02/08 06:00",
+     "CRDT": [
+          "2018/02/08 06:00"
+     ],
+     "PHST": [
+          "2017/09/03 00:00 [received]",
+          "2018/01/16 00:00 [revised]",
+          "2018/01/24 00:00 [accepted]",
+          "2018/02/08 06:00 [pubmed]",
+          "2018/02/08 06:00 [medline]",
+          "2018/02/08 06:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(18)30061-2 [pii]",
+          "10.1016/j.neuroimage.2018.01.061 [doi]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "Neuroimage. 2018 Jan 31;172:357-368. doi: 10.1016/j.neuroimage.2018.01.061.",
+     "term": "hippocampus"
+}

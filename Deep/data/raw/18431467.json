@@ -1,0 +1,101 @@
+{
+     "PMID": "18431467",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080528",
+     "LR": "20161203",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "3",
+     "IP": "4",
+     "DP": "2008 Apr 23",
+     "TI": "Genome Reshuffling for Advanced Intercross Permutation (GRAIP): simulation and permutation for advanced intercross population analysis.",
+     "PG": "e1977",
+     "LID": "10.1371/journal.pone.0001977 [doi]",
+     "AB": "BACKGROUND: Advanced intercross lines (AIL) are segregating populations created using a multi-generation breeding protocol for fine mapping complex trait loci (QTL) in mice and other organisms. Applying QTL mapping methods for intercross and backcross populations, often followed by naive permutation of individuals and phenotypes, does not account for the effect of AIL family structure in which final generations have been expanded and leads to inappropriately low significance thresholds. The critical problem with naive mapping approaches in AIL populations is that the individual is not an exchangeable unit. METHODOLOGY/PRINCIPAL FINDINGS: The effect of family structure has immediate implications for the optimal AIL creation (many crosses, few animals per cross, and population expansion before the final generation) and we discuss these and the utility of AIL populations for QTL fine mapping. We also describe Genome Reshuffling for Advanced Intercross Permutation, (GRAIP) a method for analyzing AIL data that accounts for family structure. GRAIP permutes a more interchangeable unit in the final generation crosses - the parental genome - and simulating regeneration of a permuted AIL population based on exchanged parental identities. GRAIP determines appropriate genome-wide significance thresholds and locus-specific P-values for AILs and other populations with similar family structures. We contrast GRAIP with naive permutation using a large densely genotyped mouse AIL population (1333 individuals from 32 crosses). A naive permutation using coat color as a model phenotype demonstrates high false-positive locus identification and uncertain significance levels, which are corrected using GRAIP. GRAIP also detects an established hippocampus weight locus and a new locus, Hipp9a. CONCLUSIONS AND SIGNIFICANCE: GRAIP determines appropriate genome-wide significance thresholds and locus-specific P-values for AILs and other populations with similar family structures. The effect of family structure has immediate implications for the optimal AIL creation and we discuss these and the utility of AIL populations.",
+     "FAU": [
+          "Peirce, Jeremy L",
+          "Broman, Karl W",
+          "Lu, Lu",
+          "Chesler, Elissa J",
+          "Zhou, Guomin",
+          "Airey, David C",
+          "Birmingham, Amanda E",
+          "Williams, Robert W"
+     ],
+     "AU": [
+          "Peirce JL",
+          "Broman KW",
+          "Lu L",
+          "Chesler EJ",
+          "Zhou G",
+          "Airey DC",
+          "Birmingham AE",
+          "Williams RW"
+     ],
+     "AD": "Center for Neuroscience, Department of Anatomy and Neurobiology, University of Tennessee Health Science Center, Memphis, Tennessee, United States of America. jpeirce@utmem.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01AA01442501/AA/NIAAA NIH HHS/United States",
+          "P20 MH062009/MH/NIMH NIH HHS/United States",
+          "HV48141/HV/NHLBI NIH HHS/United States",
+          "U01 AA013499/AA/NIAAA NIH HHS/United States",
+          "U01AA13499/AA/NIAAA NIH HHS/United States",
+          "U24AA135B/AA/NIAAA NIH HHS/United States",
+          "P20-MH62009/MH/NIMH NIH HHS/United States",
+          "N01HV48141/HL/NHLBI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20080423",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Chromosome Mapping",
+          "Chromosomes, Mammalian/genetics",
+          "Computational Biology/*methods",
+          "*Computer Simulation",
+          "*Crosses, Genetic",
+          "Female",
+          "Genome/*genetics",
+          "Hippocampus/growth & development",
+          "Inbreeding",
+          "Lod Score",
+          "Male",
+          "Mice",
+          "Mice, Inbred Strains",
+          "Organ Size",
+          "Phenotype",
+          "Pigmentation/genetics",
+          "Quantitative Trait Loci/*genetics",
+          "*Software"
+     ],
+     "PMC": "PMC2295257",
+     "EDAT": "2008/04/24 09:00",
+     "MHDA": "2008/05/29 09:00",
+     "CRDT": [
+          "2008/04/24 09:00"
+     ],
+     "PHST": [
+          "2007/02/04 00:00 [received]",
+          "2008/03/04 00:00 [accepted]",
+          "2008/04/24 09:00 [pubmed]",
+          "2008/05/29 09:00 [medline]",
+          "2008/04/24 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0001977 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2008 Apr 23;3(4):e1977. doi: 10.1371/journal.pone.0001977.",
+     "term": "hippocampus"
+}

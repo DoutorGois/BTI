@@ -1,0 +1,78 @@
+{
+     "PMID": "18757564",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081110",
+     "LR": "20161025",
+     "IS": "1542-0086 (Electronic) 0006-3495 (Linking)",
+     "VI": "95",
+     "IP": "6",
+     "DP": "2008 Sep 15",
+     "TI": "Measurement of instantaneous velocity vectors of organelle transport: mitochondrial transport and bioenergetics in hippocampal neurons.",
+     "PG": "3079-99",
+     "LID": "10.1529/biophysj.108.135657 [doi]",
+     "AB": "Impaired transport of mitochondria, in dendrites and axons of neurons, and bioenergetic deficit are increasingly recognized to be of pathological importance in neurodegenerative diseases. To study the relationship between transport and bioenergetics, we have developed what to our knowledge is a novel technique to quantify organelle velocity in cultured cells. The aim was to combine measurement of motion and bioenergetic parameters while minimizing photodynamic oxidative artifacts evoked by fluorescence excitation. Velocity determination from sequential fluorescence images is not trivial, and here we describe an application of \"optical flow\", the flow of gray values in grayscale images, to this problem. Based on the principles of photon shot noise occurring in low light level fluorescence microscopy, we describe and validate here an optical flow-based, robust method to measure velocity vectors for organelles expressing fluorescent proteins. This method features instantaneous velocity determination from a pair of images by detecting motion of edges, with no assumptions about the separation or shapes of the objects in the image. Optical flow was used in combination with single mitochondrion assay of mitochondrial thiol redox status by mitochondrially targeted redox-sensitive green fluorescent protein and measurement of mitochondrial membrane potential by tetramethylrhodamine methyl ester. Mitochondrial populations of resting cultured hippocampal neurons were analyzed. It was found that mitochondria with more oxidized thiol redox status have lower membrane potentials and are smaller in size. These mitochondria are more motile than the average; however, mitochondrial motility is only slightly dependent on the observed bioenergetic parameters and is correlated the best to the size of the mitochondria.",
+     "FAU": [
+          "Gerencser, Akos A",
+          "Nicholls, David G"
+     ],
+     "AU": [
+          "Gerencser AA",
+          "Nicholls DG"
+     ],
+     "AD": "Buck Institute for Age Research, Novato, California 94945, USA. agerencser@buckinstitute.org",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "PL1 AG032118/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Biophys J",
+     "JT": "Biophysical journal",
+     "JID": "0370626",
+     "RN": [
+          "0 (Sulfhydryl Compounds)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Artifacts",
+          "Axons/metabolism",
+          "Cattle",
+          "Dendrites/metabolism",
+          "*Energy Metabolism",
+          "Hippocampus/*cytology/physiology",
+          "Membrane Potentials",
+          "Mitochondria/*metabolism",
+          "Mitochondrial Size",
+          "Neurons/*cytology/*metabolism",
+          "Oxidation-Reduction",
+          "Rats",
+          "Sensitivity and Specificity",
+          "Sulfhydryl Compounds/metabolism",
+          "Time Factors"
+     ],
+     "PMC": "PMC2527267",
+     "EDAT": "2008/09/02 09:00",
+     "MHDA": "2008/11/11 09:00",
+     "CRDT": [
+          "2008/09/02 09:00"
+     ],
+     "PHST": [
+          "2008/09/02 09:00 [pubmed]",
+          "2008/11/11 09:00 [medline]",
+          "2008/09/02 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0006-3495(08)78449-2 [pii]",
+          "10.1529/biophysj.108.135657 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biophys J. 2008 Sep 15;95(6):3079-99. doi: 10.1529/biophysj.108.135657.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,63 @@
+{
+     "PMID": "29024221",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20171030",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "DP": "2017 Oct 12",
+     "TI": "Dendrites, deep learning, and sequences in the hippocampus.",
+     "LID": "10.1002/hipo.22806 [doi]",
+     "AB": "The hippocampus places us both in time and space. It does so over remarkably large spans: milliseconds to years, and centimeters to kilometers. This works for sensory representations, for memory, and for behavioral context. How does it fit in such wide ranges of time and space scales, and keep order among the many dimensions of stimulus context? A key organizing principle for a wide sweep of scales and stimulus dimensions is that of order in time, or sequences. Sequences of neuronal activity are ubiquitous in sensory processing, in motor control, in planning actions, and in memory. Against this strong evidence for the phenomenon, there are currently more models than definite experiments about how the brain generates ordered activity. The flip side of sequence generation is discrimination. Discrimination of sequences has been extensively studied at the behavioral, systems, and modeling level, but again physiological mechanisms are fewer. It is against this backdrop that I discuss two recent developments in neural sequence computation, that at face value share little beyond the label \"neural.\" These are dendritic sequence discrimination, and deep learning. One derives from channel physiology and molecular signaling, the other from applied neural network theory - apparently extreme ends of the spectrum of neural circuit detail. I suggest that each of these topics has deep lessons about the possible mechanisms, scales, and capabilities of hippocampal sequence computation.",
+     "CI": [
+          "(c) 2017 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Bhalla, Upinder S"
+     ],
+     "AU": [
+          "Bhalla US"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0003-1722-5188"
+     ],
+     "AD": "Neurobiology, National Centre for Biological Sciences, Tata Institute of Fundamental Research, Bellary Road, Bangalore 560065, Karnataka, India.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171012",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "LSTM",
+          "pattern recognition",
+          "recurrent neural network",
+          "time cells"
+     ],
+     "EDAT": "2017/10/13 06:00",
+     "MHDA": "2017/10/13 06:00",
+     "CRDT": [
+          "2017/10/13 06:00"
+     ],
+     "PHST": [
+          "2017/08/09 00:00 [received]",
+          "2017/10/06 00:00 [revised]",
+          "2017/10/10 00:00 [accepted]",
+          "2017/10/13 06:00 [pubmed]",
+          "2017/10/13 06:00 [medline]",
+          "2017/10/13 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.22806 [doi]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "Hippocampus. 2017 Oct 12. doi: 10.1002/hipo.22806.",
+     "term": "hippocampus"
+}

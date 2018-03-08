@@ -1,0 +1,63 @@
+{
+     "PMID": "26052279",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20150608",
+     "LR": "20170220",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "9",
+     "DP": "2015",
+     "TI": "Modeling place field activity with hierarchical slow feature analysis.",
+     "PG": "51",
+     "LID": "10.3389/fncom.2015.00051 [doi]",
+     "AB": "What are the computational laws of hippocampal activity? In this paper we argue for the slowness principle as a fundamental processing paradigm behind hippocampal place cell firing. We present six different studies from the experimental literature, performed with real-life rats, that we replicated in computer simulations. Each of the chosen studies allows rodents to develop stable place fields and then examines a distinct property of the established spatial encoding: adaptation to cue relocation and removal; directional dependent firing in the linear track and open field; and morphing and scaling the environment itself. Simulations are based on a hierarchical Slow Feature Analysis (SFA) network topped by a principal component analysis (ICA) output layer. The slowness principle is shown to account for the main findings of the presented experimental studies. The SFA network generates its responses using raw visual input only, which adds to its biological plausibility but requires experiments performed in light conditions. Future iterations of the model will thus have to incorporate additional information, such as path integration and grid cell activity, in order to be able to also replicate studies that take place during darkness.",
+     "FAU": [
+          "Schonfeld, Fabian",
+          "Wiskott, Laurenz"
+     ],
+     "AU": [
+          "Schonfeld F",
+          "Wiskott L"
+     ],
+     "AD": "Theory of Neural Systems Group, Institut fur Neuroinformatik, Ruhr Universitat Bochum Bochum, Germany. Theory of Neural Systems Group, Institut fur Neuroinformatik, Ruhr Universitat Bochum Bochum, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150522",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC4441153",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "hippocampus",
+          "modeling",
+          "place cells",
+          "simulation",
+          "slow feature analysis"
+     ],
+     "EDAT": "2015/06/09 06:00",
+     "MHDA": "2015/06/09 06:01",
+     "CRDT": [
+          "2015/06/09 06:00"
+     ],
+     "PHST": [
+          "2014/10/20 00:00 [received]",
+          "2015/04/17 00:00 [accepted]",
+          "2015/06/09 06:00 [entrez]",
+          "2015/06/09 06:00 [pubmed]",
+          "2015/06/09 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2015.00051 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2015 May 22;9:51. doi: 10.3389/fncom.2015.00051. eCollection 2015.",
+     "term": "place cells"
+}

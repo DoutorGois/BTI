@@ -1,0 +1,85 @@
+{
+     "PMID": "23747608",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141218",
+     "LR": "20131101",
+     "IS": "1872-7549 (Electronic) 0166-4328 (Linking)",
+     "VI": "256",
+     "DP": "2013 Nov 1",
+     "TI": "A cognitive map model based on spatial and goal-oriented mental exploration in rodents.",
+     "PG": "128-39",
+     "LID": "10.1016/j.bbr.2013.05.050 [doi] S0166-4328(13)00329-X [pii]",
+     "AB": "The rodent hippocampus has been used to represent the spatial environment as a cognitive map. Classical theories suggest that the cognitive map is a consequence of assignment of different spatial regions to variant cell populations in the framework of rate coding. The current study constructs a novel computational neural model of the cognitive map based on firing rate coding, as widely appears in associative memory, thus providing an explanation for formation and function of the two types of cognitive maps: the spatial vector map, responsible for self localization and simultaneous updating of detailed information; and the goal-oriented vector map, important in route finding. A proposed intermediate between these two map types was constructed by combining the spatial vector and goal-orientation maps to form an effective and efficient path finding mechanism. Application of such novel cognitive map based path finding methods to a mental exploration model was explored. With adaptation as a driving force, the basic knowledge of the location relationships in the spatial cognitive map was reformed and sent to the goal-oriented cognitive map, thus solving a series of new path problems through mental exploration. This method allows for rapid identification of suitable paths under variant conditions, thus providing a simpler and safer resource for path finding. Additionally, this method also provides an improved basis for potential robotic path finding applications.",
+     "CI": [
+          "Crown Copyright (c) 2013. Published by Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Zhu, Qing",
+          "Wang, Rubin",
+          "Wang, Ziyin"
+     ],
+     "AU": [
+          "Zhu Q",
+          "Wang R",
+          "Wang Z"
+     ],
+     "AD": "Institute for Cognitive Neurodynamics, School of Information Science and Engineering, East China University of Science and Technology, Shanghai 200237, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130605",
+     "PL": "Netherlands",
+     "TA": "Behav Brain Res",
+     "JT": "Behavioural brain research",
+     "JID": "8004872",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "Exploratory Behavior/*physiology",
+          "*Goals",
+          "Hippocampus/physiology",
+          "Mice",
+          "*Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Neurons/physiology",
+          "Rats",
+          "Space Perception/*physiology",
+          "Spatial Behavior/*physiology",
+          "Synapses/physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Cognitive map",
+          "Mental exploration",
+          "Path finding",
+          "Place cell"
+     ],
+     "EDAT": "2013/06/12 06:00",
+     "MHDA": "2014/12/19 06:00",
+     "CRDT": [
+          "2013/06/11 06:00"
+     ],
+     "PHST": [
+          "2012/12/04 00:00 [received]",
+          "2013/05/24 00:00 [revised]",
+          "2013/05/27 00:00 [accepted]",
+          "2013/06/11 06:00 [entrez]",
+          "2013/06/12 06:00 [pubmed]",
+          "2014/12/19 06:00 [medline]"
+     ],
+     "AID": [
+          "S0166-4328(13)00329-X [pii]",
+          "10.1016/j.bbr.2013.05.050 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Behav Brain Res. 2013 Nov 1;256:128-39. doi: 10.1016/j.bbr.2013.05.050. Epub 2013 Jun 5.",
+     "term": "hippocampus"
+}

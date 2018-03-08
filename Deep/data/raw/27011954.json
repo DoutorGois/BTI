@@ -1,0 +1,100 @@
+{
+     "PMID": "27011954",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161027",
+     "LR": "20170220",
+     "IS": "2373-2822 (Electronic) 2373-2822 (Linking)",
+     "VI": "3",
+     "IP": "1",
+     "DP": "2016 Jan-Feb",
+     "TI": "Transcriptional Profiling of Newly Generated Dentate Granule Cells Using TU Tagging Reveals Pattern Shifts in Gene Expression during Circuit Integration.",
+     "LID": "10.1523/ENEURO.0024-16.2016 [doi] ENEURO.0024-16.2016 [pii]",
+     "AB": "Despite representing only a small fraction of hippocampal granule cells, adult-generated newborn granule cells have been implicated in learning and memory (Aimone et al., 2011). Newborn granule cells undergo functional maturation and circuit integration over a period of weeks. However, it is difficult to assess the accompanying gene expression profiles in vivo with high spatial and temporal resolution using traditional methods. Here we used a novel method [\"thiouracil (TU) tagging\"] to map the profiles of nascent mRNAs in mouse immature newborn granule cells compared with mature granule cells. We targeted a nonmammalian uracil salvage enzyme, uracil phosphoribosyltransferase, to newborn neurons and mature granule cells using retroviral and lentiviral constructs, respectively. Subsequent injection of 4-TU tagged nascent RNAs for analysis by RNA sequencing. Several hundred genes were significantly enhanced in the retroviral dataset compared with the lentiviral dataset. We compared a selection of the enriched genes with steady-state levels of mRNAs using quantitative PCR. Ontology analysis revealed distinct patterns of nascent mRNA expression, with newly generated immature neurons showing enhanced expression for genes involved in synaptic function, and neural differentiation and development, as well as genes not previously associated with granule cell maturation. Surprisingly, the nascent mRNAs enriched in mature cells were related to energy homeostasis and metabolism, presumably indicative of the increased energy demands of synaptic transmission and their complex dendritic architecture. The high spatial and temporal resolution of our modified TU-tagging method provides a foundation for comparison with steady-state RNA analyses by traditional transcriptomic approaches in defining the functional roles of newborn neurons.",
+     "FAU": [
+          "Chatzi, Christina",
+          "Zhang, Yingyu",
+          "Shen, Rongkun",
+          "Westbrook, Gary L",
+          "Goodman, Richard H"
+     ],
+     "AU": [
+          "Chatzi C",
+          "Zhang Y",
+          "Shen R",
+          "Westbrook GL",
+          "Goodman RH"
+     ],
+     "AD": "Vollum Institute , Portland, Oregon 97239. Vollum Institute , Portland, Oregon 97239. Vollum Institute , Portland, Oregon 97239. Vollum Institute , Portland, Oregon 97239. Vollum Institute , Portland, Oregon 97239.",
+     "AUID": [
+          "ORCID: 0000-0003-1159-7706",
+          "ORCID: 0000-0002-8108-5223"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS080979/NS/NINDS NIH HHS/United States",
+          "NS-080979/NS/NINDS NIH HHS/United States",
+          "P30NS061800/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20160307",
+     "PL": "United States",
+     "TA": "eNeuro",
+     "JT": "eNeuro",
+     "JID": "101647362",
+     "RN": [
+          "0 (RNA, Messenger)",
+          "59X161SCYL (Thiouracil)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Base Sequence",
+          "Dentate Gyrus/*metabolism",
+          "Female",
+          "Gene Expression Profiling/*methods",
+          "Genetic Vectors/administration & dosage",
+          "Lentivirus/genetics/physiology",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "*Neurogenesis",
+          "Neurons/*metabolism",
+          "RNA, Messenger/metabolism",
+          "Thiouracil/administration & dosage/*metabolism"
+     ],
+     "PMC": "PMC4797955",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "hippocampus",
+          "nascent RNAs",
+          "neural development",
+          "neurogenesis",
+          "transcriptome"
+     ],
+     "EDAT": "2016/03/25 06:00",
+     "MHDA": "2016/11/01 06:00",
+     "CRDT": [
+          "2016/03/25 06:00"
+     ],
+     "PHST": [
+          "2016/02/02 00:00 [received]",
+          "2016/02/04 00:00 [accepted]",
+          "2016/03/25 06:00 [entrez]",
+          "2016/03/25 06:00 [pubmed]",
+          "2016/11/01 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1523/ENEURO.0024-16.2016 [doi]",
+          "eN-NWR-0024-16 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "eNeuro. 2016 Mar 7;3(1). pii: eN-NWR-0024-16. doi: 10.1523/ENEURO.0024-16.2016. eCollection 2016 Jan-Feb.",
+     "term": "hippocampus"
+}

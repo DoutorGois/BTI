@@ -1,0 +1,80 @@
+{
+     "PMID": "26703610",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160906",
+     "LR": "20160127",
+     "IS": "1424-8220 (Electronic) 1424-8220 (Linking)",
+     "VI": "15",
+     "IP": "12",
+     "DP": "2015 Dec 21",
+     "TI": "Design, Implementation and Evaluation of an Indoor Navigation System for Visually Impaired People.",
+     "PG": "32168-87",
+     "LID": "10.3390/s151229912 [doi]",
+     "AB": "Indoor navigation is a challenging task for visually impaired people. Although there are guidance systems available for such purposes, they have some drawbacks that hamper their direct application in real-life situations. These systems are either too complex, inaccurate, or require very special conditions (i.e., rare in everyday life) to operate. In this regard, Ultra-Wideband (UWB) technology has been shown to be effective for indoor positioning, providing a high level of accuracy and low installation complexity. This paper presents SUGAR, an indoor navigation system for visually impaired people which uses UWB for positioning, a spatial database of the environment for pathfinding through the application of the A* algorithm, and a guidance module. The interaction with the user takes place using acoustic signals and voice commands played through headphones. The suitability of the system for indoor navigation has been verified by means of a functional and usable prototype through a field test with a blind person. In addition, other tests have been conducted in order to show the accuracy of different relevant parts of the system.",
+     "FAU": [
+          "Martinez-Sala, Alejandro Santos",
+          "Losilla, Fernando",
+          "Sanchez-Aarnoutse, Juan Carlos",
+          "Garcia-Haro, Joan"
+     ],
+     "AU": [
+          "Martinez-Sala AS",
+          "Losilla F",
+          "Sanchez-Aarnoutse JC",
+          "Garcia-Haro J"
+     ],
+     "AD": "Department of Information and Communication Technologies, Universidad Politecnica de Cartagena, Campus Muralla del Mar, Cartagena E-30202, Spain. alejandros.martinez@upct.es. Department of Information and Communication Technologies, Universidad Politecnica de Cartagena, Campus Muralla del Mar, Cartagena E-30202, Spain. fernando.losilla@upct.es. Department of Information and Communication Technologies, Universidad Politecnica de Cartagena, Campus Muralla del Mar, Cartagena E-30202, Spain. juanc.sanchez@upct.es. Department of Information and Communication Technologies, Universidad Politecnica de Cartagena, Campus Muralla del Mar, Cartagena E-30202, Spain. joang.haro@upct.es.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20151221",
+     "PL": "Switzerland",
+     "TA": "Sensors (Basel)",
+     "JT": "Sensors (Basel, Switzerland)",
+     "JID": "101204366",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Humans",
+          "*Self-Help Devices",
+          "Spatial Navigation/*physiology",
+          "Visually Impaired Persons/*rehabilitation",
+          "*Wireless Technology"
+     ],
+     "PMC": "PMC4721829",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "SUGAR",
+          "UWB",
+          "Ubisense",
+          "indoor navigation",
+          "visually impaired"
+     ],
+     "EDAT": "2015/12/26 06:00",
+     "MHDA": "2016/09/07 06:00",
+     "CRDT": [
+          "2015/12/26 06:00"
+     ],
+     "PHST": [
+          "2015/10/01 00:00 [received]",
+          "2015/12/16 00:00 [revised]",
+          "2015/12/17 00:00 [accepted]",
+          "2015/12/26 06:00 [entrez]",
+          "2015/12/26 06:00 [pubmed]",
+          "2016/09/07 06:00 [medline]"
+     ],
+     "AID": [
+          "s151229912 [pii]",
+          "10.3390/s151229912 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Sensors (Basel). 2015 Dec 21;15(12):32168-87. doi: 10.3390/s151229912.",
+     "term": "spatial navigation"
+}

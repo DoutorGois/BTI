@@ -1,0 +1,106 @@
+{
+     "PMID": "23124690",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140902",
+     "LR": "20140114",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "35",
+     "IP": "2",
+     "DP": "2014 Feb",
+     "TI": "Three-dimensional surface deformation-based shape analysis of hippocampus and caudate nucleus in children with fetal alcohol spectrum disorders.",
+     "PG": "659-72",
+     "LID": "10.1002/hbm.22209 [doi]",
+     "AB": "Surface deformation-based analysis was used to assess local shape variations in the hippocampi and caudate nuclei of children with fetal alcohol spectrum disorders. High-resolution structural magnetic resonance imaging images were acquired for 31 children (19 controls and 12 children diagnosed with fetal alcohol syndrome/partial FAS). Hippocampi and caudate nuclei were manually segmented, and surface meshes were reconstructed. An iterative closest point algorithm was used to register the template of one control subject to all other shapes in order to capture the true geometry of the shape with a fixed number of landmark points. A point distribution model was used to quantify the shape variations in terms of a change in co-ordinate positions. Using the localized Hotelling T(2) method, regions of significant shape variations between the control and exposed subjects were identified and mapped onto the mean shapes. Binary masks of hippocampi and caudate nuclei were generated from the segmented volumes of each brain. These were used to compute the volumes and for further statistical analysis. The Mann-Whitney test was performed to predict volume differences between the groups. Although the exposed and control subjects did not differ significantly in their volumes, the shape analysis showed the hippocampus to be more deformed at the head and tail regions in the alcohol-exposed children. Between-group differences in caudate nucleus morphology were dispersed across the tail and head regions. Correlation analysis showed associations between the degree of compression and the level of alcohol exposure. These findings demonstrate that shape analysis using three-dimensional surface measures is sensitive to fetal alcohol exposure and provides additional information than volumetric measures alone.",
+     "CI": [
+          "Copyright (c) 2012 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Joseph, Jesuchristopher",
+          "Warton, Christopher",
+          "Jacobson, Sandra W",
+          "Jacobson, Joseph L",
+          "Molteno, Chris D",
+          "Eicher, Anton",
+          "Marais, Patrick",
+          "Phillips, Owen R",
+          "Narr, Katherine L",
+          "Meintjes, Ernesta M"
+     ],
+     "AU": [
+          "Joseph J",
+          "Warton C",
+          "Jacobson SW",
+          "Jacobson JL",
+          "Molteno CD",
+          "Eicher A",
+          "Marais P",
+          "Phillips OR",
+          "Narr KL",
+          "Meintjes EM"
+     ],
+     "AD": "MRC/UCT Medical Imaging Research Unit, Faculty of Health Sciences, University of Cape Town, South Africa; Department of Human Biology, Faculty of Health Sciences, University of Cape Town, South Africa.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AA016781/AA/NIAAA NIH HHS/United States",
+          "R03 TW007030/TW/FIC NIH HHS/United States",
+          "U01 AA014790/AA/NIAAA NIH HHS/United States",
+          "U24 AA014815/AA/NIAAA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20121105",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Brain Mapping",
+          "Caudate Nucleus/*pathology",
+          "Child",
+          "Female",
+          "Fetal Alcohol Spectrum Disorders/*pathology",
+          "Hippocampus/*pathology",
+          "Humans",
+          "*Imaging, Three-Dimensional",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Statistics, Nonparametric"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "caudate nucleus",
+          "fetal alcohol syndrome",
+          "hippocampus",
+          "shape analysis",
+          "surface deformation"
+     ],
+     "EDAT": "2012/11/06 06:00",
+     "MHDA": "2014/09/03 06:00",
+     "CRDT": [
+          "2012/11/06 06:00"
+     ],
+     "PHST": [
+          "2012/01/13 00:00 [received]",
+          "2012/07/26 00:00 [revised]",
+          "2012/09/10 00:00 [accepted]",
+          "2012/11/06 06:00 [entrez]",
+          "2012/11/06 06:00 [pubmed]",
+          "2014/09/03 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.22209 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2014 Feb;35(2):659-72. doi: 10.1002/hbm.22209. Epub 2012 Nov 5.",
+     "term": "hippocampus"
+}

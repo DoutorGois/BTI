@@ -1,0 +1,66 @@
+{
+     "PMID": "6330258",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19840807",
+     "LR": "20170714",
+     "IS": "0303-6812 (Print) 0303-6812 (Linking)",
+     "VI": "19",
+     "IP": "2",
+     "DP": "1984",
+     "TI": "The dynamics of recurrent inhibition.",
+     "PG": "211-25",
+     "AB": "A heuristic model for the dynamics of recurrent inhibition, emphasizing non-linearities arising from the stoichiometry of transmitter-receptor interactions and time delays due to finite feedback pathway transmission times, is developed and analyzed. It is demonstrated that variation in model parameters may lead to the existence of multiple steady states, and the local stability of these are analyzed as well as the occurrence of switching behaviour between them. As an example of the applicability of this model, parameters are estimated for the hippocampal mossy fibre-CA3 pyramidal cell-basket cell complex. Numerically simulated responses of this system to alterations in presynaptic drive and titration of inhibitory transmitter receptors by penicillin are presented. Numerical simulations indicate the existence of multiple bifurcations between periodic solutions, as well as the existence of bifurcations to chaotic solutions, as presynaptic drive and receptor density are varied. It is hypothesized that the model offers insight into the sequences of events recorded in single CA3 pyramidal cells following the application of penicillin, a specific inhibitory receptor blocking agent.",
+     "FAU": [
+          "Mackey, M C",
+          "an der Heiden, U"
+     ],
+     "AU": [
+          "Mackey MC",
+          "an der Heiden U"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "J Math Biol",
+     "JT": "Journal of mathematical biology",
+     "JID": "7502105",
+     "RN": [
+          "0 (Penicillins)",
+          "0 (Receptors, Cell Surface)",
+          "0 (Receptors, GABA-A)",
+          "0 (Receptors, Neurotransmitter)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Feedback",
+          "Hippocampus/physiology",
+          "Membrane Potentials",
+          "*Models, Neurological",
+          "*Nervous System Physiological Phenomena",
+          "*Neural Inhibition",
+          "Penicillins/pharmacology",
+          "Pyramidal Tracts/physiology",
+          "Receptors, Cell Surface/physiology",
+          "Receptors, GABA-A",
+          "Receptors, Neurotransmitter/physiology"
+     ],
+     "EDAT": "1984/01/01 00:00",
+     "MHDA": "1984/01/01 00:01",
+     "CRDT": [
+          "1984/01/01 00:00"
+     ],
+     "PHST": [
+          "1984/01/01 00:00 [pubmed]",
+          "1984/01/01 00:01 [medline]",
+          "1984/01/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Math Biol. 1984;19(2):211-25.",
+     "term": "hippocampus"
+}

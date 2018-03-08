@@ -1,0 +1,65 @@
+{
+     "PMID": "16624947",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060512",
+     "LR": "20071114",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "26",
+     "IP": "16",
+     "DP": "2006 Apr 19",
+     "TI": "A spin glass model of path integration in rat medial entorhinal cortex.",
+     "PG": "4266-76",
+     "AB": "Electrophysiological recording studies in the dorsocaudal region of medial entorhinal cortex (dMEC) of the rat reveal cells whose spatial firing fields show a remarkably regular hexagonal grid pattern (Fyhn et al., 2004; Hafting et al., 2005). We describe a symmetric, locally connected neural network, or spin glass model, that spontaneously produces a hexagonal grid of activity bumps on a two-dimensional sheet of units. The spatial firing fields of the simulated cells closely resemble those of dMEC cells. A collection of grids with different scales and/or orientations forms a basis set for encoding position. Simulations show that the animal's location can easily be determined from the population activity pattern. Introducing an asymmetry in the model allows the activity bumps to be shifted in any direction, at a rate proportional to velocity, to achieve path integration. Furthermore, information about the structure of the environment can be superimposed on the spatial position signal by modulation of the bump activity levels without significantly interfering with the hexagonal periodicity of firing fields. Our results support the conjecture of Hafting et al. (2005) that an attractor network in dMEC may be the source of path integration information afferent to hippocampus.",
+     "FAU": [
+          "Fuhs, Mark C",
+          "Touretzky, David S"
+     ],
+     "AU": [
+          "Fuhs MC",
+          "Touretzky DS"
+     ],
+     "AD": "Computer Science Department, Center for the Neural Basis of Cognition, Carnegie Mellon University, Pittsburgh, Pennsylvania 15213, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH59932/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "CIN": [
+          "J Neurosci. 2006 Sep 13;26(37):9352-4; discussion 9354. PMID: 16977716"
+     ],
+     "MH": [
+          "Animals",
+          "Entorhinal Cortex/*physiology",
+          "Nerve Net/*physiology",
+          "*Neural Networks (Computer)",
+          "Rats"
+     ],
+     "EDAT": "2006/04/21 09:00",
+     "MHDA": "2006/05/13 09:00",
+     "CRDT": [
+          "2006/04/21 09:00"
+     ],
+     "PHST": [
+          "2006/04/21 09:00 [pubmed]",
+          "2006/05/13 09:00 [medline]",
+          "2006/04/21 09:00 [entrez]"
+     ],
+     "AID": [
+          "26/16/4266 [pii]",
+          "10.1523/JNEUROSCI.4353-05.2006 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2006 Apr 19;26(16):4266-76. doi: 10.1523/JNEUROSCI.4353-05.2006.",
+     "term": "hippocampus"
+}

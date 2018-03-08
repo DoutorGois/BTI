@@ -1,0 +1,80 @@
+{
+     "PMID": "28264071",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170825",
+     "LR": "20170825",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "12",
+     "IP": "3",
+     "DP": "2017",
+     "TI": "Prediction and classification of Alzheimer disease based on quantification of MRI deformation.",
+     "PG": "e0173372",
+     "LID": "10.1371/journal.pone.0173372 [doi]",
+     "AB": "Detecting early morphological changes in the brain and making early diagnosis are important for Alzheimer's disease (AD). High resolution magnetic resonance imaging can be used to help diagnosis and prediction of the disease. In this paper, we proposed a machine learning method to discriminate patients with AD or mild cognitive impairment (MCI) from healthy elderly and to predict the AD conversion in MCI patients by computing and analyzing the regional morphological differences of brain between groups. Distance between each pair of subjects was quantified from a symmetric diffeomorphic registration, followed by an embedding algorithm and a learning approach for classification. The proposed method obtained accuracy of 96.5% in differentiating mild AD from healthy elderly with the whole-brain gray matter or temporal lobe as region of interest (ROI), 91.74% in differentiating progressive MCI from healthy elderly and 88.99% in classifying progressive MCI versus stable MCI with amygdala or hippocampus as ROI. This deformation-based method has made full use of the pair-wise macroscopic shape difference between groups and consequently increased the power for discrimination.",
+     "FAU": [
+          "Long, Xiaojing",
+          "Chen, Lifang",
+          "Jiang, Chunxiang",
+          "Zhang, Lijuan"
+     ],
+     "AU": [
+          "Long X",
+          "Chen L",
+          "Jiang C",
+          "Zhang L"
+     ],
+     "AD": "Paul C. Lauterbur Research Center for Biomedical Imaging, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, Guangdong, China. Department of Neurology, Shenzhen University 1st Affiliated Hospital, Shenzhen Second People's Hospital, Shenzhen, Guangdong, China. Paul C. Lauterbur Research Center for Biomedical Imaging, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, Guangdong, China. Paul C. Lauterbur Research Center for Biomedical Imaging, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, Guangdong, China.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170306",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Algorithms",
+          "Alzheimer Disease/*diagnostic imaging/*pathology",
+          "Brain/pathology",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Machine Learning",
+          "*Magnetic Resonance Imaging/methods",
+          "Male",
+          "Middle Aged",
+          "Models, Statistical",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC5338815",
+     "EDAT": "2017/03/07 06:00",
+     "MHDA": "2017/08/26 06:00",
+     "CRDT": [
+          "2017/03/07 06:00"
+     ],
+     "PHST": [
+          "2016/09/08 00:00 [received]",
+          "2017/02/20 00:00 [accepted]",
+          "2017/03/07 06:00 [entrez]",
+          "2017/03/07 06:00 [pubmed]",
+          "2017/08/26 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0173372 [doi]",
+          "PONE-D-16-36075 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2017 Mar 6;12(3):e0173372. doi: 10.1371/journal.pone.0173372. eCollection 2017.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,90 @@
+{
+     "PMID": "17243583",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070306",
+     "LR": "20170219",
+     "IS": "0278-0062 (Print) 0278-0062 (Linking)",
+     "VI": "26",
+     "IP": "1",
+     "DP": "2007 Jan",
+     "TI": "Statistical analyses of brain surfaces using Gaussian random fields on 2-D manifolds.",
+     "PG": "46-57",
+     "AB": "Interest in the morphometric analysis of the brain and its subregions has recently intensified because growth or degeneration of the brain in health or illness affects not only the volume but also the shape of cortical and subcortical brain regions, and new image processing techniques permit detection of small and highly localized perturbations in shape or localized volume, with remarkable precision. An appropriate statistical representation of the shape of a brain region is essential, however, for detecting, localizing, and interpreting variability in its surface contour and for identifying differences in volume of the underlying tissue that produce that variability across individuals and groups of individuals. Our statistical representation of the shape of a brain region is defined by a reference region for that region and by a Gaussian random field (GRF) that is defined across the entire surface of the region. We first select a reference region from a set of segmented brain images of healthy individuals. The GRF is then estimated as the signed Euclidean distances between points on the surface of the reference region and the corresponding points on the corresponding region in images of brains that have been coregistered to the reference. Correspondences between points on these surfaces are defined through deformations of each region of a brain into the coordinate space of the reference region using the principles of fluid dynamics. The warped, coregistered region of each subject is then unwarped into its native space, simultaneously bringing into that space the map of corresponding points that was established when the surfaces of the subject and reference regions were tightly coregistered. The proposed statistical description of the shape of surface contours makes no assumptions, other than smoothness, about the shape of the region or its GRF. The description also allows for the detection and localization of statistically significant differences in the shapes of the surfaces across groups of subjects at both a fine and coarse scale. We demonstrate the effectiveness of these statistical methods by applying them to study differences in shape of the amygdala and hippocampus in a large sample of normal subjects and in subjects with attention deficit/hyperactivity disorder (ADHD).",
+     "FAU": [
+          "Bansal, Ravi",
+          "Staib, Lawrence H",
+          "Xu, Dongrong",
+          "Zhu, Hongtu",
+          "Peterson, Bradley S"
+     ],
+     "AU": [
+          "Bansal R",
+          "Staib LH",
+          "Xu D",
+          "Zhu H",
+          "Peterson BS"
+     ],
+     "AD": "New York State Psychiatric Institute, New York, NY 10032, USA. bansalr@childpsych.columbia.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH068318-03/MH/NIMH NIH HHS/United States",
+          "MH36197/MH/NIMH NIH HHS/United States",
+          "R01 DA017820/DA/NIDA NIH HHS/United States",
+          "R01 DA017820-03/DA/NIDA NIH HHS/United States",
+          "DA017820/DA/NIDA NIH HHS/United States",
+          "R01 MH036197/MH/NIMH NIH HHS/United States",
+          "K02 MH074677-02/MH/NIMH NIH HHS/United States",
+          "K02-74677/PHS HHS/United States",
+          "MH068318/MH/NIMH NIH HHS/United States",
+          "K02 MH074677/MH/NIMH NIH HHS/United States",
+          "R01 MH068318/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Brain/*anatomy & histology",
+          "Computer Simulation",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "*Models, Neurological",
+          "Models, Statistical",
+          "Normal Distribution",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "PMC": "PMC2366175",
+     "MID": [
+          "NIHMS44416"
+     ],
+     "EDAT": "2007/01/25 09:00",
+     "MHDA": "2007/03/07 09:00",
+     "CRDT": [
+          "2007/01/25 09:00"
+     ],
+     "PHST": [
+          "2007/01/25 09:00 [pubmed]",
+          "2007/03/07 09:00 [medline]",
+          "2007/01/25 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TMI.2006.884187 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2007 Jan;26(1):46-57. doi: 10.1109/TMI.2006.884187.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,77 @@
+{
+     "PMID": "22162957",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120328",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "7",
+     "IP": "12",
+     "DP": "2011 Dec",
+     "TI": "A tale of two stories: astrocyte regulation of synaptic depression and facilitation.",
+     "PG": "e1002293",
+     "LID": "10.1371/journal.pcbi.1002293 [doi]",
+     "AB": "Short-term presynaptic plasticity designates variations of the amplitude of synaptic information transfer whereby the amount of neurotransmitter released upon presynaptic stimulation changes over seconds as a function of the neuronal firing activity. While a consensus has emerged that the resulting decrease (depression) and/or increase (facilitation) of the synapse strength are crucial to neuronal computations, their modes of expression in vivo remain unclear. Recent experimental studies have reported that glial cells, particularly astrocytes in the hippocampus, are able to modulate short-term plasticity but the mechanism of such a modulation is poorly understood. Here, we investigate the characteristics of short-term plasticity modulation by astrocytes using a biophysically realistic computational model. Mean-field analysis of the model, supported by intensive numerical simulations, unravels that astrocytes may mediate counterintuitive effects. Depending on the expressed presynaptic signaling pathways, astrocytes may globally inhibit or potentiate the synapse: the amount of released neurotransmitter in the presence of the astrocyte is transiently smaller or larger than in its absence. But this global effect usually coexists with the opposite local effect on paired pulses: with release-decreasing astrocytes most paired pulses become facilitated, namely the amount of neurotransmitter released upon spike i+1 is larger than that at spike i, while paired-pulse depression becomes prominent under release-increasing astrocytes. Moreover, we show that the frequency of astrocytic intracellular Ca(2+) oscillations controls the effects of the astrocyte on short-term synaptic plasticity. Our model explains several experimental observations yet unsolved, and uncovers astrocytic gliotransmission as a possible transient switch between short-term paired-pulse depression and facilitation. This possibility has deep implications on the processing of neuronal spikes and resulting information transfer at synapses.",
+     "FAU": [
+          "De Pitta, Maurizio",
+          "Volman, Vladislav",
+          "Berry, Hugues",
+          "Ben-Jacob, Eshel"
+     ],
+     "AU": [
+          "De Pitta M",
+          "Volman V",
+          "Berry H",
+          "Ben-Jacob E"
+     ],
+     "AD": "School of Physics and Astronomy, Tel Aviv University, Ramat Aviv, Israel.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20111201",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "RN": [
+          "0 (Neurotransmitter Agents)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Astrocytes/*physiology",
+          "Calcium/metabolism",
+          "*Computer Simulation",
+          "Hippocampus/physiology",
+          "*Models, Neurological",
+          "Neuronal Plasticity",
+          "Neurotransmitter Agents/metabolism",
+          "Synapses/*physiology",
+          "Synaptic Transmission"
+     ],
+     "PMC": "PMC3228793",
+     "EDAT": "2011/12/14 06:00",
+     "MHDA": "2012/03/29 06:00",
+     "CRDT": [
+          "2011/12/14 06:00"
+     ],
+     "PHST": [
+          "2011/05/27 00:00 [received]",
+          "2011/10/18 00:00 [accepted]",
+          "2011/12/14 06:00 [entrez]",
+          "2011/12/14 06:00 [pubmed]",
+          "2012/03/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1002293 [doi]",
+          "PCOMPBIOL-D-11-00750 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2011 Dec;7(12):e1002293. doi: 10.1371/journal.pcbi.1002293. Epub 2011 Dec 1.",
+     "term": "hippocampus"
+}

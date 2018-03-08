@@ -1,0 +1,82 @@
+{
+     "PMID": "25626996",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160120",
+     "LR": "20170220",
+     "IS": "1749-8104 (Electronic) 1749-8104 (Linking)",
+     "VI": "10",
+     "DP": "2015 Jan 28",
+     "TI": "Quantitative differences in developmental profiles of spontaneous activity in cortical and hippocampal cultures.",
+     "PG": "1",
+     "LID": "10.1186/s13064-014-0028-0 [doi]",
+     "AB": "BACKGROUND: Neural circuits can spontaneously generate complex spatiotemporal firing patterns during development. This spontaneous activity is thought to help guide development of the nervous system. In this study, we had two aims. First, to characterise the changes in spontaneous activity in cultures of developing networks of either hippocampal or cortical neurons dissociated from mouse. Second, to assess whether there are any functional differences in the patterns of activity in hippocampal and cortical networks. RESULTS: We used multielectrode arrays to record the development of spontaneous activity in cultured networks of either hippocampal or cortical neurons every 2 or 3 days for the first month after plating. Within a few days of culturing, networks exhibited spontaneous activity. This activity strengthened and then stabilised typically around 21 days in vitro. We quantified the activity patterns in hippocampal and cortical networks using 11 features. Three out of 11 features showed striking differences in activity between hippocampal and cortical networks: (1) interburst intervals are less variable in spike trains from hippocampal cultures; (2) hippocampal networks have higher correlations and (3) hippocampal networks generate more robust theta-bursting patterns. Machine-learning techniques confirmed that these differences in patterning are sufficient to classify recordings reliably at any given age as either hippocampal or cortical networks. CONCLUSIONS: Although cultured networks of hippocampal and cortical networks both generate spontaneous activity that changes over time, at any given time we can reliably detect differences in the activity patterns. We anticipate that this quantitative framework could have applications in many areas, including neurotoxicity testing and for characterising the phenotype of different mutant mice. All code and data relating to this report are freely available for others to use.",
+     "FAU": [
+          "Charlesworth, Paul",
+          "Cotterill, Ellese",
+          "Morton, Andrew",
+          "Grant, Seth G N",
+          "Eglen, Stephen J"
+     ],
+     "AU": [
+          "Charlesworth P",
+          "Cotterill E",
+          "Morton A",
+          "Grant SG",
+          "Eglen SJ"
+     ],
+     "AD": "Genes to Cognition Programme, Wellcome Trust Sanger Institute, Genome Campus, CB10 1SA, Hinxton, UK. pc451@cam.ac.uk. Current address: Department of Physiology, Development and Neuroscience, Physiological Laboratory, Downing Street, Cambridge, CB2 3EG, UK. pc451@cam.ac.uk. Cambridge Computational Biology Institute, University of Cambridge, Wilberforce Road, Cambridge, CB3 0WA, UK. ec526@cam.ac.uk. Genes to Cognition Programme, Wellcome Trust Sanger Institute, Genome Campus, CB10 1SA, Hinxton, UK. s0094403@sms.ed.ac.uk. Current address: Centre for Integrative Physiology, University of Edinburgh School of Biomedical Sciences, EH8 9XD, Edinburgh, UK. s0094403@sms.ed.ac.uk. Centre for Clinical Brain Sciences and Centre for Neuroregeneration, Chancellors Building, Edinburgh University, 49 Little France Crescent, Edinburgh, EH16 4SB, UK. seth.grant@ed.ac.uk. Cambridge Computational Biology Institute, University of Cambridge, Wilberforce Road, Cambridge, CB3 0WA, UK. sje30@cam.ac.uk.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "BB/H008608/1/Biotechnology and Biological Sciences Research Council/United",
+          "Kingdom",
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150128",
+     "PL": "England",
+     "TA": "Neural Dev",
+     "JT": "Neural development",
+     "JID": "101286574",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "Cell Communication/physiology",
+          "Cells, Cultured",
+          "Cerebral Cortex/*cytology/embryology",
+          "Hippocampus/*cytology/embryology",
+          "Mice",
+          "Microelectrodes",
+          "Neurons/*physiology",
+          "Organ Specificity",
+          "Principal Component Analysis",
+          "Theta Rhythm/physiology"
+     ],
+     "PMC": "PMC4320829",
+     "EDAT": "2015/01/30 06:00",
+     "MHDA": "2016/01/21 06:00",
+     "CRDT": [
+          "2015/01/29 06:00"
+     ],
+     "PHST": [
+          "2014/10/01 00:00 [received]",
+          "2014/12/11 00:00 [accepted]",
+          "2015/01/29 06:00 [entrez]",
+          "2015/01/30 06:00 [pubmed]",
+          "2016/01/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1186/s13064-014-0028-0 [doi]",
+          "s13064-014-0028-0 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Neural Dev. 2015 Jan 28;10:1. doi: 10.1186/s13064-014-0028-0.",
+     "term": "hippocampus"
+}

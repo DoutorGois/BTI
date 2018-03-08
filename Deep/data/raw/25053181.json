@@ -1,0 +1,101 @@
+{
+     "PMID": "25053181",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151218",
+     "LR": "20170922",
+     "IS": "1740-634X (Electronic) 0893-133X (Linking)",
+     "VI": "40",
+     "IP": "2",
+     "DP": "2015 Jan",
+     "TI": "Losing control under ketamine: suppressed cortico-hippocampal drive following acute ketamine in rats.",
+     "PG": "268-77",
+     "LID": "10.1038/npp.2014.184 [doi]",
+     "AB": "Systemic doses of the psychotomimetic ketamine alter the spectral characteristics of hippocampal and prefrontal cortical network activity. Using dynamic causal modeling (DCM) of cross-spectral densities, we quantify the putative synaptic mechanisms underlying ketamine effects in terms of changes in directed, effective connectivity between dorsal hippocampus and medial prefrontal (dCA1-mPFC) cortex of freely moving rats. We parameterize dose-dependent changes in spectral signatures of dCA1-mPFC local field potential recordings, using neural mass models of glutamatergic and GABAergic circuits. Optimizing DCMs of theta and gamma frequency range responses, model comparisons suggest that both enhanced gamma and depressed theta power result from a reduction in top-down connectivity from mPFC to the hippocampus, mediated by postsynaptic NMDA receptors (NMDARs). This is accompanied by an alteration in the bottom-up pathway from dCA1 to mPFC, which exhibits a distinct asymmetry: here, feed-forward drive at AMPA receptors increases in the presence of decreased NMDAR-mediated inputs. Setting these findings in the context of predictive coding suggests that NMDAR antagonism by ketamine in recurrent hierarchical networks may result in the failure of top-down connections from higher cortical regions to signal predictions to lower regions in the hierarchy, which consequently fail to respond consistently to errors. Given that NMDAR dysfunction has a central role in pathophysiological theories of schizophrenia and that theta and gamma rhythm abnormalities are evident in schizophrenic patients, the approach followed here may furnish a framework for the study of aberrant hierarchical message passing (of prediction errors) in schizophrenia-and the false perceptual inferences that ensue.",
+     "FAU": [
+          "Moran, Rosalyn J",
+          "Jones, Matthew W",
+          "Blockeel, Anthony J",
+          "Adams, Rick A",
+          "Stephan, Klaas E",
+          "Friston, Karl J"
+     ],
+     "AU": [
+          "Moran RJ",
+          "Jones MW",
+          "Blockeel AJ",
+          "Adams RA",
+          "Stephan KE",
+          "Friston KJ"
+     ],
+     "AD": "1] Virginia Tech Carilion Research Institute and Bradley Department of Electrical and Computer Engineering, Roanoke, VA, USA [2] Wellcome Trust Centre for Neuroimaging, Institute of Neurology, University College London, London, UK. School of Physiology and Pharmacology, University of Bristol, Medical Sciences Building, University Walk, Bristol, UK. School of Physiology and Pharmacology, University of Bristol, Medical Sciences Building, University Walk, Bristol, UK. Wellcome Trust Centre for Neuroimaging, Institute of Neurology, University College London, London, UK. 1] Wellcome Trust Centre for Neuroimaging, Institute of Neurology, University College London, London, UK [2] Translational Neuromodelling Unit, Institute for Biomedical Engineering, University of Zurich and Swiss Federal Institute of Technology (ETH), Zurich, Switzerland [3] Laboratory for Social and Neural Systems Research (SNS), University of Zurich, Zurich, Switzerland. Wellcome Trust Centre for Neuroimaging, Institute of Neurology, University College London, London, UK.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0501146/Medical Research Council/United Kingdom",
+          "Medical Research Council/United Kingdom",
+          "Biotechnology and Biological Sciences Research Council/United Kingdom",
+          "088130/Wellcome Trust/United Kingdom",
+          "091593/Wellcome Trust/United Kingdom",
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140723",
+     "PL": "England",
+     "TA": "Neuropsychopharmacology",
+     "JT": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+     "JID": "8904907",
+     "RN": [
+          "0 (Excitatory Amino Acid Antagonists)",
+          "0 (Receptors, N-Methyl-D-Aspartate)",
+          "3KX376GY7L (Glutamic Acid)",
+          "56-12-2 (gamma-Aminobutyric Acid)",
+          "690G0D6V8H (Ketamine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Bayes Theorem",
+          "CA1 Region, Hippocampal/*drug effects/physiology",
+          "Catheters, Indwelling",
+          "Dose-Response Relationship, Drug",
+          "Electrodes, Implanted",
+          "Excitatory Amino Acid Antagonists/*pharmacology",
+          "Gamma Rhythm/drug effects/physiology",
+          "Glutamic Acid/metabolism",
+          "Ketamine/*pharmacology",
+          "Male",
+          "Models, Neurological",
+          "Neural Pathways/drug effects/physiology",
+          "Prefrontal Cortex/*drug effects/physiology",
+          "Rats, Long-Evans",
+          "Receptors, N-Methyl-D-Aspartate/antagonists & inhibitors/metabolism",
+          "Theta Rhythm/drug effects/physiology",
+          "gamma-Aminobutyric Acid/metabolism"
+     ],
+     "PMC": "PMC4443953",
+     "EDAT": "2014/07/24 06:00",
+     "MHDA": "2015/12/19 06:00",
+     "CRDT": [
+          "2014/07/24 06:00"
+     ],
+     "PHST": [
+          "2014/02/10 00:00 [received]",
+          "2014/04/30 00:00 [revised]",
+          "2014/05/29 00:00 [accepted]",
+          "2014/07/24 06:00 [entrez]",
+          "2014/07/24 06:00 [pubmed]",
+          "2015/12/19 06:00 [medline]"
+     ],
+     "AID": [
+          "npp2014184 [pii]",
+          "10.1038/npp.2014.184 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuropsychopharmacology. 2015 Jan;40(2):268-77. doi: 10.1038/npp.2014.184. Epub 2014 Jul 23.",
+     "term": "hippocampus"
+}

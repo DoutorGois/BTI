@@ -1,0 +1,85 @@
+{
+     "PMID": "29135998",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171226",
+     "LR": "20171226",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "12",
+     "IP": "11",
+     "DP": "2017",
+     "TI": "Multivariate regression analysis of structural MRI connectivity matrices in Alzheimer's disease.",
+     "PG": "e0187281",
+     "LID": "10.1371/journal.pone.0187281 [doi]",
+     "AB": "Alzheimer's disease (AD) is the most common form of dementia among older people and increasing longevity ensures its prevalence will rise even further. Whether AD originates by disconnecting a localized brain area and propagates to the rest of the brain across disease-severity progression is a question with an unknown answer. An important related challenge is to predict whether a given subject, with a mild cognitive impairment (MCI), will convert or not to AD. Here, our aim is to characterize the structural connectivity pattern of MCI and AD subjects using the multivariate distance matrix regression (MDMR) analysis, and to compare it to those of healthy subjects. MDMR is a technique developed in genomics that has been recently applied to functional brain network data, and here applied to identify brain nodes with different connectivity patterns, in controls and patients, because of brain atrophy. We address this issue at the macroscale by looking to differences in individual structural MRI brain networks, obtained from MR images according to a recently proposed definition of connectivity which measures the image similarity between patches at different locations in the brain. In particular, using data from ADNI, we selected four groups of subjects (all of them matched by age and sex): HC (healthy control participants), ncMCI (mild cognitive impairment not converting to AD), cMCI (mild cognitive impairment converting to AD) and AD. Next, we built structural MRI brain networks and performed group comparison for all the pairs of groups. Our results were three-fold: (i) considering the comparison of HC with the three other groups, the number of significant brain regions was 4 for ncMCI, 290 for cMCI and 74 for AD, out of a total of 549 regions; hence, in terms of the structural MRI connectivity here adopted, cMCI subjects have the maximal altered pattern w.r.t. healthy conditions. (ii) Eight and seven nodes were significant for the comparisons AD-ncMCI and AD-cMCI, respectively; six nodes, among them, were significant in both comparisons and these nodes form a connected brain region (corresponding to hippocampus, amygdala, Parahippocampal Gyrus, Planum Polare, Frontal Orbital Cortex, Temporal Pole and subcallosal cortex) showing reduced strength of connectivity in the MCI stages; (iii) The connectivity maps of cMCI and ncMCI subjects significantly differ from the connectome of healthy subjects in three regions all corresponding to Frontal Orbital Cortex.",
+     "FAU": [
+          "Rasero, Javier",
+          "Amoroso, Nicola",
+          "La Rocca, Marianna",
+          "Tangaro, Sabina",
+          "Bellotti, Roberto",
+          "Stramaglia, Sebastiano"
+     ],
+     "AU": [
+          "Rasero J",
+          "Amoroso N",
+          "La Rocca M",
+          "Tangaro S",
+          "Bellotti R",
+          "Stramaglia S"
+     ],
+     "AD": "Biocruces Health Research Institute. Hospital Universitario de Cruces. E-48903, Barakaldo, Spain. Dipartimento di Fisica, Universita degli Studi Aldo Moro, Via Orabona,4, 70126 Bari, Italy. INFN, Sezione di Bari, via Orabona 4, 70126 Bari, Italy. Dipartimento di Fisica, Universita degli Studi Aldo Moro, Via Orabona,4, 70126 Bari, Italy. INFN, Sezione di Bari, via Orabona 4, 70126 Bari, Italy. Dipartimento di Fisica, Universita degli Studi Aldo Moro, Via Orabona,4, 70126 Bari, Italy. INFN, Sezione di Bari, via Orabona 4, 70126 Bari, Italy. INFN, Sezione di Bari, via Orabona 4, 70126 Bari, Italy. Dipartimento di Fisica, Universita degli Studi Aldo Moro, Via Orabona,4, 70126 Bari, Italy. INFN, Sezione di Bari, via Orabona 4, 70126 Bari, Italy. TIRES-Center of Innovative Technologies for Signal Detection and Processing, Universita degli Studi Aldo Moro, Bari, Italy. Dipartimento di Fisica, Universita degli Studi Aldo Moro, Via Orabona,4, 70126 Bari, Italy. INFN, Sezione di Bari, via Orabona 4, 70126 Bari, Italy. TIRES-Center of Innovative Technologies for Signal Detection and Processing, Universita degli Studi Aldo Moro, Bari, Italy.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-5873-8564"
+     ],
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171114",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/*diagnostic imaging",
+          "Case-Control Studies",
+          "Female",
+          "Humans",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Multivariate Analysis",
+          "Regression Analysis"
+     ],
+     "PMC": "PMC5685585",
+     "EDAT": "2017/11/15 06:00",
+     "MHDA": "2017/12/27 06:00",
+     "CRDT": [
+          "2017/11/15 06:00"
+     ],
+     "PHST": [
+          "2017/01/25 00:00 [received]",
+          "2017/10/17 00:00 [accepted]",
+          "2017/11/15 06:00 [entrez]",
+          "2017/11/15 06:00 [pubmed]",
+          "2017/12/27 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0187281 [doi]",
+          "PONE-D-17-03351 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2017 Nov 14;12(11):e0187281. doi: 10.1371/journal.pone.0187281. eCollection 2017.",
+     "term": "hippocampus"
+}

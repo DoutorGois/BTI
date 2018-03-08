@@ -1,0 +1,83 @@
+{
+     "PMID": "22300935",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130118",
+     "LR": "20120614",
+     "IS": "1936-959X (Electronic) 0195-6108 (Linking)",
+     "VI": "33",
+     "IP": "6",
+     "DP": "2012 Jun",
+     "TI": "Automatic voxel-based morphometry of structural MRI by SPM8 plus diffeomorphic anatomic registration through exponentiated lie algebra improves the diagnosis of probable Alzheimer Disease.",
+     "PG": "1109-14",
+     "LID": "10.3174/ajnr.A2935 [doi]",
+     "AB": "BACKGROUND AND PURPOSE: The necessity for structural MRI is greater than ever to both diagnose AD in its early stage and objectively evaluate its progression. We propose a new VBM-based software program for automatic detection of early specific atrophy in AD. MATERIALS AND METHODS: A target VOI was determined by group comparison of 30 patients with very mild AD and 40 age-matched healthy controls by using SPM. Then this target VOI was incorporated into a newly developed automated software program independently running on a Windows PC for VBM by using SPM8 plus DARTEL. ROC analysis was performed for discrimination of 116 other patients with AD with very mild stage (n = 45), mild stage (n = 30) and moderate-to-advanced stages (n = 41) from 40 other age-matched healthy controls by using a z score map in the target VOI. RESULTS: Medial temporal structures involving the entire region of the entorhinal cortex, hippocampus, and amygdala showed significant atrophy in the patients with very mild AD and were determined as a target VOI. When we used the severity score of atrophy in this target VOI, 91.6%, 95.8%, and 98.2% accuracies were obtained in the very mild AD, mild AD, and moderate-to-severe AD groups, respectively. In the very mild AD group, a high specificity of 97.5% with a sensitivity of 86.4% was obtained, and age at onset of AD did not influence this accuracy. CONCLUSIONS: This software program with application of SPM8 plus DARTEL to VBM provides a high performance for AD diagnosis by using MRI.",
+     "FAU": [
+          "Matsuda, H",
+          "Mizumura, S",
+          "Nemoto, K",
+          "Yamashita, F",
+          "Imabayashi, E",
+          "Sato, N",
+          "Asada, T"
+     ],
+     "AU": [
+          "Matsuda H",
+          "Mizumura S",
+          "Nemoto K",
+          "Yamashita F",
+          "Imabayashi E",
+          "Sato N",
+          "Asada T"
+     ],
+     "AD": "Department of Nuclear Medicine, Saitama Medical University International Medical Center, Hidaka, Saitama, Japan. matsudah@saitama-med.ac.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120202",
+     "PL": "United States",
+     "TA": "AJNR Am J Neuroradiol",
+     "JT": "AJNR. American journal of neuroradiology",
+     "JID": "8003708",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "*Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Artificial Intelligence",
+          "Brain/*pathology",
+          "Female",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Male",
+          "Middle Aged",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Software",
+          "Software Validation"
+     ],
+     "EDAT": "2012/02/04 06:00",
+     "MHDA": "2013/01/19 06:00",
+     "CRDT": [
+          "2012/02/04 06:00"
+     ],
+     "PHST": [
+          "2012/02/04 06:00 [entrez]",
+          "2012/02/04 06:00 [pubmed]",
+          "2013/01/19 06:00 [medline]"
+     ],
+     "AID": [
+          "ajnr.A2935 [pii]",
+          "10.3174/ajnr.A2935 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "AJNR Am J Neuroradiol. 2012 Jun;33(6):1109-14. doi: 10.3174/ajnr.A2935. Epub 2012 Feb 2.",
+     "term": "hippocampus"
+}

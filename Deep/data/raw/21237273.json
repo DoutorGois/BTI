@@ -1,0 +1,108 @@
+{
+     "PMID": "21237273",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110628",
+     "LR": "20161025",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "55",
+     "IP": "3",
+     "DP": "2011 Apr 1",
+     "TI": "A learning-based wrapper method to correct systematic errors in automatic image segmentation: consistently improved performance in hippocampus, cortex and brain segmentation.",
+     "PG": "968-85",
+     "LID": "10.1016/j.neuroimage.2011.01.006 [doi]",
+     "AB": "We propose a simple but generally applicable approach to improving the accuracy of automatic image segmentation algorithms relative to manual segmentations. The approach is based on the hypothesis that a large fraction of the errors produced by automatic segmentation are systematic, i.e., occur consistently from subject to subject, and serves as a wrapper method around a given host segmentation method. The wrapper method attempts to learn the intensity, spatial and contextual patterns associated with systematic segmentation errors produced by the host method on training data for which manual segmentations are available. The method then attempts to correct such errors in segmentations produced by the host method on new images. One practical use of the proposed wrapper method is to adapt existing segmentation tools, without explicit modification, to imaging data and segmentation protocols that are different from those on which the tools were trained and tuned. An open-source implementation of the proposed wrapper method is provided, and can be applied to a wide range of image segmentation problems. The wrapper method is evaluated with four host brain MRI segmentation methods: hippocampus segmentation using FreeSurfer (Fischl et al., 2002); hippocampus segmentation using multi-atlas label fusion (Artaechevarria et al., 2009); brain extraction using BET (Smith, 2002); and brain tissue segmentation using FAST (Zhang et al., 2001). The wrapper method generates 72%, 14%, 29% and 21% fewer erroneously segmented voxels than the respective host segmentation methods. In the hippocampus segmentation experiment with multi-atlas label fusion as the host method, the average Dice overlap between reference segmentations and segmentations produced by the wrapper method is 0.908 for normal controls and 0.893 for patients with mild cognitive impairment. Average Dice overlaps of 0.964, 0.905 and 0.951 are obtained for brain extraction, white matter segmentation and gray matter segmentation, respectively.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Wang, Hongzhi",
+          "Das, Sandhitsu R",
+          "Suh, Jung Wook",
+          "Altinay, Murat",
+          "Pluta, John",
+          "Craige, Caryne",
+          "Avants, Brian",
+          "Yushkevich, Paul A"
+     ],
+     "AU": [
+          "Wang H",
+          "Das SR",
+          "Suh JW",
+          "Altinay M",
+          "Pluta J",
+          "Craige C",
+          "Avants B",
+          "Yushkevich PA"
+     ],
+     "AD": "Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA. hongzhiw@mail.med.upenn.edu",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "R21 NS061111-02/NS/NINDS NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "K25 AG027785-05/AG/NIA NIH HHS/United States",
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "R21 NS061111/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110113",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Algorithms",
+          "Alzheimer Disease/pathology",
+          "*Artificial Intelligence",
+          "Atlases as Topic",
+          "Brain/*anatomy & histology/pathology",
+          "Cerebral Cortex/*anatomy & histology/pathology",
+          "Databases, Factual",
+          "Female",
+          "Hippocampus/*anatomy & histology/pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Processing, Computer-Assisted/*methods",
+          "Male",
+          "Middle Aged",
+          "Software"
+     ],
+     "PMC": "PMC3049832",
+     "MID": [
+          "NIHMS265549"
+     ],
+     "EDAT": "2011/01/18 06:00",
+     "MHDA": "2011/06/29 06:00",
+     "CRDT": [
+          "2011/01/18 06:00"
+     ],
+     "PHST": [
+          "2010/07/13 00:00 [received]",
+          "2010/12/30 00:00 [revised]",
+          "2011/01/05 00:00 [accepted]",
+          "2011/01/18 06:00 [entrez]",
+          "2011/01/18 06:00 [pubmed]",
+          "2011/06/29 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)00024-3 [pii]",
+          "10.1016/j.neuroimage.2011.01.006 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 Apr 1;55(3):968-85. doi: 10.1016/j.neuroimage.2011.01.006. Epub 2011 Jan 13.",
+     "term": "hippocampus"
+}

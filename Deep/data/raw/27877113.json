@@ -1,0 +1,80 @@
+{
+     "PMID": "27877113",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171023",
+     "LR": "20171224",
+     "IS": "1662-5110 (Electronic) 1662-5110 (Linking)",
+     "VI": "10",
+     "DP": "2016",
+     "TI": "The Effects of Realistic Synaptic Distribution and 3D Geometry on Signal Integration and Extracellular Field Generation of Hippocampal Pyramidal Cells and Inhibitory Neurons.",
+     "PG": "88",
+     "AB": "In vivo and in vitro multichannel field and somatic intracellular recordings are frequently used to study mechanisms of network pattern generation. When interpreting these data, neurons are often implicitly considered as electrotonically compact cylinders with a homogeneous distribution of excitatory and inhibitory inputs. However, the actual distributions of dendritic length, diameter, and the densities of excitatory and inhibitory input are non-uniform and cell type-specific. We first review quantitative data on the dendritic structure and synaptic input and output distribution of pyramidal cells (PCs) and interneurons in the hippocampal CA1 area. Second, using multicompartmental passive models of four different types of neurons, we quantitatively explore the effect of differences in dendritic structure and synaptic distribution on the errors and biases of voltage clamp measurements of inhibitory and excitatory postsynaptic currents. Finally, using the 3-dimensional distribution of dendrites and synaptic inputs we calculate how different inhibitory and excitatory inputs contribute to the generation of local field potential in the hippocampus. We analyze these effects at different realistic background activity levels as synaptic bombardment influences neuronal conductance and thus the propagation of signals in the dendritic tree. We conclude that, since dendrites are electrotonically long and entangled in 3D, somatic intracellular and field potential recordings miss the majority of dendritic events in some cell types, and thus overemphasize the importance of perisomatic inhibitory inputs and belittle the importance of complex dendritic processing. Modeling results also suggest that PCs and inhibitory neurons probably use different input integration strategies. In PCs, second- and higher-order thin dendrites are relatively well-isolated from each other, which may support branch-specific local processing as suggested by studies of active dendritic integration. In the electrotonically compact parvalbumin- and cholecystokinincontaining interneurons, synaptic events are visible in the whole dendritic arbor, and thus the entire dendritic tree may form a single integrative element. Calretinin-containing interneurons were found to be electrotonically extended, which suggests the possibility of complex dendritic processing in this cell type. Our results also highlight the need for the integration of methods that allow the measurement of dendritic processes into studies of synaptic interactions and dynamics in neural networks.",
+     "FAU": [
+          "Gulyas, Attila I",
+          "Freund, Tamas F",
+          "Kali, Szabolcs"
+     ],
+     "AU": [
+          "Gulyas AI",
+          "Freund TF",
+          "Kali S"
+     ],
+     "AD": "Laboratory of Cerebral Cortex Research, Institute of Experimental Medicine, Hungarian Academy of Sciences Budapest, Hungary. Laboratory of Cerebral Cortex Research, Institute of Experimental Medicine, Hungarian Academy of Sciences Budapest, Hungary. Laboratory of Cerebral Cortex Research, Institute of Experimental Medicine, Hungarian Academy of Sciences Budapest, Hungary.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "294313/European Research Council/International"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20161108",
+     "PL": "Switzerland",
+     "TA": "Front Neural Circuits",
+     "JT": "Frontiers in neural circuits",
+     "JID": "101477940",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/cytology/*physiology",
+          "Models, Neurological",
+          "Neural Inhibition/*physiology",
+          "Neurons/*physiology",
+          "Pyramidal Cells/physiology",
+          "Rats",
+          "Synaptic Potentials/*physiology"
+     ],
+     "PMC": "PMC5099150",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*field potential",
+          "*intracellular recording",
+          "*multicompartmental modeling",
+          "*perisomatic inhibition",
+          "*synaptic currents",
+          "*synaptic inputs"
+     ],
+     "EDAT": "2016/11/24 06:00",
+     "MHDA": "2017/10/24 06:00",
+     "CRDT": [
+          "2016/11/24 06:00"
+     ],
+     "PHST": [
+          "2016/02/26 00:00 [received]",
+          "2016/10/17 00:00 [accepted]",
+          "2016/11/24 06:00 [entrez]",
+          "2016/11/24 06:00 [pubmed]",
+          "2017/10/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncir.2016.00088 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neural Circuits. 2016 Nov 8;10:88. doi: 10.3389/fncir.2016.00088. eCollection 2016.",
+     "term": "hippocampus"
+}

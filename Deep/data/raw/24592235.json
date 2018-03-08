@@ -1,0 +1,83 @@
+{
+     "PMID": "24592235",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20140304",
+     "LR": "20170220",
+     "IS": "1662-5196 (Print) 1662-5196 (Linking)",
+     "VI": "8",
+     "DP": "2014",
+     "TI": "Reduced predictable information in brain signals in autism spectrum disorder.",
+     "PG": "9",
+     "LID": "10.3389/fninf.2014.00009 [doi]",
+     "AB": "Autism spectrum disorder (ASD) is a common developmental disorder characterized by communication difficulties and impaired social interaction. Recent results suggest altered brain dynamics as a potential cause of symptoms in ASD. Here, we aim to describe potential information-processing consequences of these alterations by measuring active information storage (AIS)-a key quantity in the theory of distributed computation in biological networks. AIS is defined as the mutual information between the past state of a process and its next measurement. It measures the amount of stored information that is used for computation of the next time step of a process. AIS is high for rich but predictable dynamics. We recorded magnetoencephalography (MEG) signals in 10 ASD patients and 14 matched control subjects in a visual task. After a beamformer source analysis, 12 task-relevant sources were obtained. For these sources, stationary baseline activity was analyzed using AIS. Our results showed a decrease of AIS values in the hippocampus of ASD patients in comparison with controls, meaning that brain signals in ASD were either less predictable, reduced in their dynamic richness or both. Our study suggests the usefulness of AIS to detect an abnormal type of dynamics in ASD. The observed changes in AIS are compatible with Bayesian theories of reduced use or precision of priors in ASD.",
+     "FAU": [
+          "Gomez, Carlos",
+          "Lizier, Joseph T",
+          "Schaum, Michael",
+          "Wollstadt, Patricia",
+          "Grutzner, Christine",
+          "Uhlhaas, Peter",
+          "Freitag, Christine M",
+          "Schlitt, Sabine",
+          "Bolte, Sven",
+          "Hornero, Roberto",
+          "Wibral, Michael"
+     ],
+     "AU": [
+          "Gomez C",
+          "Lizier JT",
+          "Schaum M",
+          "Wollstadt P",
+          "Grutzner C",
+          "Uhlhaas P",
+          "Freitag CM",
+          "Schlitt S",
+          "Bolte S",
+          "Hornero R",
+          "Wibral M"
+     ],
+     "AD": "Biomedical Engineering Group, E. T. S. Ingenieros de Telecomunicacion, University of Valladolid Valladolid, Spain. Commonwealth Scientific and Industrial Research Organisation, Computational Informatics Marsfield, NSW, Australia. MEG Unit, Brain Imaging Center, Johann Wolfgang Goethe University Frankfurt am Main, Germany. MEG Unit, Brain Imaging Center, Johann Wolfgang Goethe University Frankfurt am Main, Germany. Department of Neurophysiology, Max-Planck Institute for Brain Research Frankfurt am Main, Germany. Institute of Neuroscience and Psychology, University of Glasgow Glasgow, UK. Department of Child and Adolescent Psychiatry, Psychosomatics and Psychotherapy, Johann Wolfgang Goethe University Frankfurt am Main, Germany. Department of Child and Adolescent Psychiatry, Psychosomatics and Psychotherapy, Johann Wolfgang Goethe University Frankfurt am Main, Germany. Department of Child and Adolescent Psychiatry, Psychosomatics and Psychotherapy, Johann Wolfgang Goethe University Frankfurt am Main, Germany. Biomedical Engineering Group, E. T. S. Ingenieros de Telecomunicacion, University of Valladolid Valladolid, Spain. MEG Unit, Brain Imaging Center, Johann Wolfgang Goethe University Frankfurt am Main, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140214",
+     "PL": "Switzerland",
+     "TA": "Front Neuroinform",
+     "JT": "Frontiers in neuroinformatics",
+     "JID": "101477957",
+     "PMC": "PMC3924322",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "active information storage",
+          "autism spectrum disorder",
+          "complex systems",
+          "hippocampus",
+          "information theory",
+          "magnetoencephalography",
+          "predictive coding"
+     ],
+     "EDAT": "2014/03/05 06:00",
+     "MHDA": "2014/03/05 06:01",
+     "CRDT": [
+          "2014/03/05 06:00"
+     ],
+     "PHST": [
+          "2013/11/15 00:00 [received]",
+          "2014/01/23 00:00 [accepted]",
+          "2014/03/05 06:00 [entrez]",
+          "2014/03/05 06:00 [pubmed]",
+          "2014/03/05 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fninf.2014.00009 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neuroinform. 2014 Feb 14;8:9. doi: 10.3389/fninf.2014.00009. eCollection 2014.",
+     "term": "hippocampus"
+}

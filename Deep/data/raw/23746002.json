@@ -1,0 +1,65 @@
+{
+     "PMID": "23746002",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141231",
+     "LR": "20140505",
+     "IS": "1745-6584 (Electronic) 0017-467X (Linking)",
+     "VI": "52",
+     "IP": "3",
+     "DP": "2014 May-Jun",
+     "TI": "Groundwater recharge rate and zone structure estimation using PSOLVER algorithm.",
+     "PG": "434-47",
+     "LID": "10.1111/gwat.12077 [doi]",
+     "AB": "The quantification of groundwater recharge is an important but challenging task in groundwater flow modeling because recharge varies spatially and temporally. The goal of this study is to present an innovative methodology to estimate groundwater recharge rates and zone structures for regional groundwater flow models. Here, the unknown recharge field is partitioned into a number of zones using Voronoi Tessellation (VT). The identified zone structure with the recharge rates is associated through a simulation-optimization model that couples MODFLOW-2000 and the hybrid PSOLVER optimization algorithm. Applicability of this procedure is tested on a previously developed groundwater flow model of the Tahtali Watershed. Successive zone structure solutions are obtained in an additive manner and penalty functions are used in the procedure to obtain realistic and plausible solutions. One of these functions constrains the optimization by forcing the sum of recharge rates for the grid cells that coincide with the Tahtali Watershed area to be equal to the areal recharge rate determined in the previous modeling by a separate precipitation-runoff model. As a result, a six-zone structure is selected as the best zone structure that represents the areal recharge distribution. Comparison to results of a previous model for the same study area reveals that the proposed procedure significantly improves model performance with respect to calibration statistics. The proposed identification procedure can be thought of as an effective way to determine the recharge zone structure for groundwater flow models, in particular for situations where tangible information about groundwater recharge distribution does not exist.",
+     "CI": [
+          "(c) 2013, National Ground Water Association."
+     ],
+     "FAU": [
+          "Ayvaz, M Tamer",
+          "Elci, Alper"
+     ],
+     "AU": [
+          "Ayvaz MT",
+          "Elci A"
+     ],
+     "AD": "Department of Environmental Engineering, Dokuz Eylul University, 35160 Buca-Izmir, Turkey; +90-232-4127112; fax: +90-232-4531143; alper.elci@deu.edu.tr.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130607",
+     "PL": "United States",
+     "TA": "Ground Water",
+     "JT": "Ground water",
+     "JID": "9882886",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Groundwater/*analysis/chemistry",
+          "Models, Theoretical",
+          "Turkey",
+          "*Water Movements"
+     ],
+     "EDAT": "2013/06/12 06:00",
+     "MHDA": "2015/01/01 06:00",
+     "CRDT": [
+          "2013/06/11 06:00"
+     ],
+     "PHST": [
+          "2012/11/07 00:00 [received]",
+          "2013/05/12 00:00 [accepted]",
+          "2013/06/11 06:00 [entrez]",
+          "2013/06/12 06:00 [pubmed]",
+          "2015/01/01 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/gwat.12077 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ground Water. 2014 May-Jun;52(3):434-47. doi: 10.1111/gwat.12077. Epub 2013 Jun 7.",
+     "term": "grid cells"
+}

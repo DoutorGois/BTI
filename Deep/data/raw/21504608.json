@@ -1,0 +1,85 @@
+{
+     "PMID": "21504608",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110718",
+     "LR": "20170220",
+     "IS": "1475-925X (Electronic) 1475-925X (Linking)",
+     "VI": "10",
+     "DP": "2011 Apr 19",
+     "TI": "Wavelet-based Gaussian-mixture hidden Markov model for the detection of multistage seizure dynamics: a proof-of-concept study.",
+     "PG": "29",
+     "LID": "10.1186/1475-925X-10-29 [doi]",
+     "AB": "BACKGROUND: Epilepsy is a common neurological disorder characterized by recurrent electrophysiological activities, known as seizures. Without the appropriate detection strategies, these seizure episodes can dramatically affect the quality of life for those afflicted. The rationale of this study is to develop an unsupervised algorithm for the detection of seizure states so that it may be implemented along with potential intervention strategies. METHODS: Hidden Markov model (HMM) was developed to interpret the state transitions of the in vitro rat hippocampal slice local field potentials (LFPs) during seizure episodes. It can be used to estimate the probability of state transitions and the corresponding characteristics of each state. Wavelet features were clustered and used to differentiate the electrophysiological characteristics at each corresponding HMM states. Using unsupervised training method, the HMM and the clustering parameters were obtained simultaneously. The HMM states were then assigned to the electrophysiological data using expert guided technique. Minimum redundancy maximum relevance (mRMR) analysis and Akaike Information Criterion (AICc) were applied to reduce the effect of over-fitting. The sensitivity, specificity and optimality index of chronic seizure detection were compared for various HMM topologies. The ability of distinguishing early and late tonic firing patterns prior to chronic seizures were also evaluated. RESULTS: Significant improvement in state detection performance was achieved when additional wavelet coefficient rates of change information were used as features. The final HMM topology obtained using mRMR and AICc was able to detect non-ictal (interictal), early and late tonic firing, chronic seizures and postictal activities. A mean sensitivity of 95.7%, mean specificity of 98.9% and optimality index of 0.995 in the detection of chronic seizures was achieved. The detection of early and late tonic firing was validated with experimental intracellular electrical recordings of seizures. CONCLUSIONS: The HMM implementation of a seizure dynamics detector is an improvement over existing approaches using visual detection and complexity measures. The subjectivity involved in partitioning the observed data prior to training can be eliminated. It can also decipher the probabilities of seizure state transitions using the magnitude and rate of change wavelet information of the LFPs.",
+     "FAU": [
+          "Chiu, Alan Wl",
+          "Derchansky, Miron",
+          "Cotic, Marija",
+          "Carlen, Peter L",
+          "Turner, Steuart O",
+          "Bardakjian, Berj L"
+     ],
+     "AU": [
+          "Chiu AW",
+          "Derchansky M",
+          "Cotic M",
+          "Carlen PL",
+          "Turner SO",
+          "Bardakjian BL"
+     ],
+     "AD": "Biomedical Engineering Department, Louisiana Tech University, Ruston, Louisiana, USA. alanchiu@latech.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P20RR016456/RR/NCRR NIH HHS/United States",
+          "Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20110419",
+     "PL": "England",
+     "TA": "Biomed Eng Online",
+     "JT": "Biomedical engineering online",
+     "JID": "101147518",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "*Chronic Disease",
+          "Computer Simulation",
+          "Hippocampus/physiopathology",
+          "In Vitro Techniques",
+          "*Markov Chains",
+          "Rats",
+          "Rats, Wistar",
+          "Seizures/*diagnosis",
+          "Sensitivity and Specificity",
+          "*Wavelet Analysis"
+     ],
+     "PMC": "PMC3094216",
+     "EDAT": "2011/04/21 06:00",
+     "MHDA": "2011/07/19 06:00",
+     "CRDT": [
+          "2011/04/21 06:00"
+     ],
+     "PHST": [
+          "2010/10/26 00:00 [received]",
+          "2011/04/19 00:00 [accepted]",
+          "2011/04/21 06:00 [entrez]",
+          "2011/04/21 06:00 [pubmed]",
+          "2011/07/19 06:00 [medline]"
+     ],
+     "AID": [
+          "1475-925X-10-29 [pii]",
+          "10.1186/1475-925X-10-29 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Biomed Eng Online. 2011 Apr 19;10:29. doi: 10.1186/1475-925X-10-29.",
+     "term": "hippocampus"
+}

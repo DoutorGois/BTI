@@ -1,0 +1,66 @@
+{
+     "PMID": "21298080",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110524",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "7",
+     "IP": "1",
+     "DP": "2011 Jan 27",
+     "TI": "The role of additive neurogenesis and synaptic plasticity in a hippocampal memory model with grid-cell like input.",
+     "PG": "e1001063",
+     "LID": "10.1371/journal.pcbi.1001063 [doi]",
+     "AB": "Recently, we presented a study of adult neurogenesis in a simplified hippocampal memory model. The network was required to encode and decode memory patterns despite changing input statistics. We showed that additive neurogenesis was a more effective adaptation strategy compared to neuronal turnover and conventional synaptic plasticity as it allowed the network to respond to changes in the input statistics while preserving representations of earlier environments. Here we extend our model to include realistic, spatially driven input firing patterns in the form of grid cells in the entorhinal cortex. We compare network performance across a sequence of spatial environments using three distinct adaptation strategies: conventional synaptic plasticity, where the network is of fixed size but the connectivity is plastic; neuronal turnover, where the network is of fixed size but units in the network may die and be replaced; and additive neurogenesis, where the network starts out with fewer initial units but grows over time. We confirm that additive neurogenesis is a superior adaptation strategy when using realistic, spatially structured input patterns. We then show that a more biologically plausible neurogenesis rule that incorporates cell death and enhanced plasticity of new granule cells has an overall performance significantly better than any one of the three individual strategies operating alone. This adaptation rule can be tailored to maximise performance of the network when operating as either a short- or long-term memory store. We also examine the time course of adult neurogenesis over the lifetime of an animal raised under different hypothetical rearing conditions. These growth profiles have several distinct features that form a theoretical prediction that could be tested experimentally. Finally, we show that place cells can emerge and refine in a realistic manner in our model as a direct result of the sparsification performed by the dentate gyrus layer.",
+     "FAU": [
+          "Appleby, Peter A",
+          "Kempermann, Gerd",
+          "Wiskott, Laurenz"
+     ],
+     "AU": [
+          "Appleby PA",
+          "Kempermann G",
+          "Wiskott L"
+     ],
+     "AD": "School of Computing, University of Leeds, Leeds, United Kingdom. p.a.appleby@leeds.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110127",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/*cytology",
+          "*Memory",
+          "*Neurogenesis",
+          "*Neuronal Plasticity",
+          "Rats"
+     ],
+     "PMC": "PMC3029236",
+     "EDAT": "2011/02/08 06:00",
+     "MHDA": "2011/05/25 06:00",
+     "CRDT": [
+          "2011/02/08 06:00"
+     ],
+     "PHST": [
+          "2010/06/24 00:00 [received]",
+          "2010/12/17 00:00 [accepted]",
+          "2011/02/08 06:00 [entrez]",
+          "2011/02/08 06:00 [pubmed]",
+          "2011/05/25 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1001063 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2011 Jan 27;7(1):e1001063. doi: 10.1371/journal.pcbi.1001063.",
+     "term": "place cells"
+}

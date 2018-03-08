@@ -1,0 +1,80 @@
+{
+     "PMID": "28264023",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170619",
+     "LR": "20171007",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "13",
+     "IP": "3",
+     "DP": "2017 Mar",
+     "TI": "Feedback between motion and sensation provides nonlinear boost in run-and-tumble navigation.",
+     "PG": "e1005429",
+     "LID": "10.1371/journal.pcbi.1005429 [doi]",
+     "AB": "Many organisms navigate gradients by alternating straight motions (runs) with random reorientations (tumbles), transiently suppressing tumbles whenever attractant signal increases. This induces a functional coupling between movement and sensation, since tumbling probability is controlled by the internal state of the organism which, in turn, depends on previous signal levels. Although a negative feedback tends to maintain this internal state close to adapted levels, positive feedback can arise when motion up the gradient reduces tumbling probability, further boosting drift up the gradient. Importantly, such positive feedback can drive large fluctuations in the internal state, complicating analytical approaches. Previous studies focused on what happens when the negative feedback dominates the dynamics. By contrast, we show here that there is a large portion of physiologically-relevant parameter space where the positive feedback can dominate, even when gradients are relatively shallow. We demonstrate how large transients emerge because of non-normal dynamics (non-orthogonal eigenvectors near a stable fixed point) inherent in the positive feedback, and further identify a fundamental nonlinearity that strongly amplifies their effect. Most importantly, this amplification is asymmetric, elongating runs in favorable directions and abbreviating others. The result is a \"ratchet-like\" gradient climbing behavior with drift speeds that can approach half the maximum run speed of the organism. Our results thus show that the classical drawback of run-and-tumble navigation-wasteful runs in the wrong direction-can be mitigated by exploiting the non-normal dynamics implicit in the run-and-tumble strategy.",
+     "FAU": [
+          "Long, Junjiajia",
+          "Zucker, Steven W",
+          "Emonet, Thierry"
+     ],
+     "AU": [
+          "Long J",
+          "Zucker SW",
+          "Emonet T"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0003-3754-9614",
+          "ORCID: http://orcid.org/0000-0002-6746-6564"
+     ],
+     "AD": "Department of Physics, Yale University, New Haven, Connecticut, United States of America. Department of Molecular, Cellular and Developmental Biology, Yale University, New Haven, Connecticut, United States of America. Department of Computer Science, Yale University, New Haven, Connecticut, United States of America. Department of Biomedical Engineering, Yale University, New Haven, Connecticut, United States of America. Department of Physics, Yale University, New Haven, Connecticut, United States of America. Department of Molecular, Cellular and Developmental Biology, Yale University, New Haven, Connecticut, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 GM106189/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170306",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computer Simulation",
+          "Feedback, Physiological/*physiology",
+          "Gait/*physiology",
+          "Humans",
+          "Locomotion/*physiology",
+          "*Models, Biological",
+          "Motion Perception/*physiology",
+          "*Nonlinear Dynamics",
+          "Physical Exertion/physiology",
+          "Rotation",
+          "Spatial Navigation/physiology"
+     ],
+     "PMC": "PMC5358899",
+     "EDAT": "2017/03/07 06:00",
+     "MHDA": "2017/06/20 06:00",
+     "CRDT": [
+          "2017/03/07 06:00"
+     ],
+     "PHST": [
+          "2016/12/13 00:00 [received]",
+          "2017/02/28 00:00 [accepted]",
+          "2017/03/20 00:00 [revised]",
+          "2017/03/07 06:00 [pubmed]",
+          "2017/06/20 06:00 [medline]",
+          "2017/03/07 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1005429 [doi]",
+          "PCOMPBIOL-D-16-02033 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2017 Mar 6;13(3):e1005429. doi: 10.1371/journal.pcbi.1005429. eCollection 2017 Mar.",
+     "term": "spatial navigation"
+}

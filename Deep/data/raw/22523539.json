@@ -1,0 +1,87 @@
+{
+     "PMID": "22523539",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120803",
+     "LR": "20170922",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "7",
+     "IP": "4",
+     "DP": "2012",
+     "TI": "Classification and lateralization of temporal lobe epilepsies with and without hippocampal atrophy based on whole-brain automatic MRI segmentation.",
+     "PG": "e33096",
+     "LID": "10.1371/journal.pone.0033096 [doi]",
+     "AB": "Brain images contain information suitable for automatically sorting subjects into categories such as healthy controls and patients. We sought to identify morphometric criteria for distinguishing controls (n = 28) from patients with unilateral temporal lobe epilepsy (TLE), 60 with and 20 without hippocampal atrophy (TLE-HA and TLE-N, respectively), and for determining the presumed side of seizure onset. The framework employs multi-atlas segmentation to estimate the volumes of 83 brain structures. A kernel-based separability criterion was then used to identify structures whose volumes discriminate between the groups. Next, we applied support vector machines (SVM) to the selected set for classification on the basis of volumes. We also computed pairwise similarities between all subjects and used spectral analysis to convert these into per-subject features. SVM was again applied to these feature data. After training on a subgroup, all TLE-HA patients were correctly distinguished from controls, achieving an accuracy of 96 +/- 2% in both classification schemes. For TLE-N patients, the accuracy was 86 +/- 2% based on structural volumes and 91 +/- 3% using spectral analysis. Structures discriminating between patients and controls were mainly localized ipsilaterally to the presumed seizure focus. For the TLE-HA group, they were mainly in the temporal lobe; for the TLE-N group they included orbitofrontal regions, as well as the ipsilateral substantia nigra. Correct lateralization of the presumed seizure onset zone was achieved using hippocampi and parahippocampal gyri in all TLE-HA patients using either classification scheme; in the TLE-N patients, lateralization was accurate based on structural volumes in 86 +/- 4%, and in 94 +/- 4% with the spectral analysis approach. Unilateral TLE has imaging features that can be identified automatically, even when they are invisible to human experts. Such morphometric image features may serve as classification and lateralization criteria. The technique also detects unsuspected distinguishing features like the substantia nigra, warranting further study.",
+     "FAU": [
+          "Keihaninejad, Shiva",
+          "Heckemann, Rolf A",
+          "Gousias, Ioannis S",
+          "Hajnal, Joseph V",
+          "Duncan, John S",
+          "Aljabar, Paul",
+          "Rueckert, Daniel",
+          "Hammers, Alexander"
+     ],
+     "AU": [
+          "Keihaninejad S",
+          "Heckemann RA",
+          "Gousias IS",
+          "Hajnal JV",
+          "Duncan JS",
+          "Aljabar P",
+          "Rueckert D",
+          "Hammers A"
+     ],
+     "AD": "Division of Experimental Medicine, Centre for Neuroscience, Faculty of Medicine, Imperial College London, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MC_U120061309/Medical Research Council/United Kingdom",
+          "MR/K006355/1/Medical Research Council/United Kingdom",
+          "G108/585/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120416",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "CIN": [
+          "J Neurol. 2012 Sep;259(9):2009-11. PMID: 22918455"
+     ],
+     "MH": [
+          "Atrophy/pathology",
+          "Epilepsy, Temporal Lobe/*classification/diagnosis/pathology",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging/methods",
+          "Support Vector Machine",
+          "Temporal Lobe/pathology"
+     ],
+     "PMC": "PMC3327701",
+     "EDAT": "2012/04/24 06:00",
+     "MHDA": "2012/08/04 06:00",
+     "CRDT": [
+          "2012/04/24 06:00"
+     ],
+     "PHST": [
+          "2011/09/03 00:00 [received]",
+          "2012/02/09 00:00 [accepted]",
+          "2012/04/24 06:00 [entrez]",
+          "2012/04/24 06:00 [pubmed]",
+          "2012/08/04 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0033096 [doi]",
+          "PONE-D-11-17634 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2012;7(4):e33096. doi: 10.1371/journal.pone.0033096. Epub 2012 Apr 16.",
+     "term": "hippocampus"
+}

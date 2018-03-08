@@ -1,0 +1,97 @@
+{
+     "PMID": "25219332",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150821",
+     "LR": "20150129",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "103",
+     "DP": "2014 Dec",
+     "TI": "Interpolation of diffusion weighted imaging datasets.",
+     "PG": "202-13",
+     "LID": "10.1016/j.neuroimage.2014.09.005 [doi] S1053-8119(14)00747-2 [pii]",
+     "AB": "Diffusion weighted imaging (DWI) is used to study white-matter fibre organisation, orientation and structural connectivity by means of fibre reconstruction algorithms and tractography. For clinical settings, limited scan time compromises the possibilities to achieve high image resolution for finer anatomical details and signal-to-noise-ratio for reliable fibre reconstruction. We assessed the potential benefits of interpolating DWI datasets to a higher image resolution before fibre reconstruction using a diffusion tensor model. Simulations of straight and curved crossing tracts smaller than or equal to the voxel size showed that conventional higher-order interpolation methods improved the geometrical representation of white-matter tracts with reduced partial-volume-effect (PVE), except at tract boundaries. Simulations and interpolation of ex-vivo monkey brain DWI datasets revealed that conventional interpolation methods fail to disentangle fine anatomical details if PVE is too pronounced in the original data. As for validation we used ex-vivo DWI datasets acquired at various image resolutions as well as Nissl-stained sections. Increasing the image resolution by a factor of eight yielded finer geometrical resolution and more anatomical details in complex regions such as tract boundaries and cortical layers, which are normally only visualized at higher image resolutions. Similar results were found with typical clinical human DWI dataset. However, a possible bias in quantitative values imposed by the interpolation method used should be considered. The results indicate that conventional interpolation methods can be successfully applied to DWI datasets for mining anatomical details that are normally seen only at higher resolutions, which will aid in tractography and microstructural mapping of tissue compartments.",
+     "CI": [
+          "Copyright (c) 2014. Published by Elsevier Inc."
+     ],
+     "FAU": [
+          "Dyrby, Tim B",
+          "Lundell, Henrik",
+          "Burke, Mark W",
+          "Reislev, Nina L",
+          "Paulson, Olaf B",
+          "Ptito, Maurice",
+          "Siebner, Hartwig R"
+     ],
+     "AU": [
+          "Dyrby TB",
+          "Lundell H",
+          "Burke MW",
+          "Reislev NL",
+          "Paulson OB",
+          "Ptito M",
+          "Siebner HR"
+     ],
+     "AD": "Danish Research Centre for Magnetic Resonance, Centre for Functional and Diagnostic Imaging and Research, Copenhagen University Hospital Hvidovre, Hvidovre, Denmark. Electronic address: timd@drcmr.dk. Danish Research Centre for Magnetic Resonance, Centre for Functional and Diagnostic Imaging and Research, Copenhagen University Hospital Hvidovre, Hvidovre, Denmark. Department of Physiology and Biophysics, Howard University, Washington, DC, USA. Danish Research Centre for Magnetic Resonance, Centre for Functional and Diagnostic Imaging and Research, Copenhagen University Hospital Hvidovre, Hvidovre, Denmark. Danish Research Centre for Magnetic Resonance, Centre for Functional and Diagnostic Imaging and Research, Copenhagen University Hospital Hvidovre, Hvidovre, Denmark; Neurobiology Research Unit, Copenhagen University Hospital, Rigshospitalet, Copenhagen, Denmark. Danish Research Centre for Magnetic Resonance, Centre for Functional and Diagnostic Imaging and Research, Copenhagen University Hospital Hvidovre, Hvidovre, Denmark; School of Optometry, University of Montreal, Montreal, Canada; Department of Neuroscience and Pharmacology, Copenhagen University, Copenhagen, Denmark. Danish Research Centre for Magnetic Resonance, Centre for Functional and Diagnostic Imaging and Research, Copenhagen University Hospital Hvidovre, Hvidovre, Denmark.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140916",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Animals",
+          "Brain/*anatomy & histology/*physiology",
+          "Brain Mapping/*methods",
+          "Diffusion Magnetic Resonance Imaging/*methods",
+          "Female",
+          "Haplorhini",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/methods",
+          "Male"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Cortical layers",
+          "DTI",
+          "Diffusion MRI",
+          "Hippocampus",
+          "Histology",
+          "Image resolution",
+          "Regularisation",
+          "Tractography",
+          "Validation"
+     ],
+     "EDAT": "2014/09/16 06:00",
+     "MHDA": "2015/08/22 06:00",
+     "CRDT": [
+          "2014/09/16 06:00"
+     ],
+     "PHST": [
+          "2014/02/07 00:00 [received]",
+          "2014/09/02 00:00 [revised]",
+          "2014/09/03 00:00 [accepted]",
+          "2014/09/16 06:00 [entrez]",
+          "2014/09/16 06:00 [pubmed]",
+          "2015/08/22 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(14)00747-2 [pii]",
+          "10.1016/j.neuroimage.2014.09.005 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2014 Dec;103:202-13. doi: 10.1016/j.neuroimage.2014.09.005. Epub 2014 Sep 16.",
+     "term": "hippocampus"
+}

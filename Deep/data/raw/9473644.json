@@ -1,0 +1,88 @@
+{
+     "PMID": "9473644",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19980403",
+     "LR": "20151119",
+     "IS": "1385-299X (Print) 1385-299X (Linking)",
+     "VI": "2",
+     "IP": "2",
+     "DP": "1998 Jan",
+     "TI": "Two-laser dual-immunofluorescence confocal laser scanning microscopy using Cy2- and Cy5-conjugated secondary antibodies: unequivocal detection of co-localization of neuronal markers.",
+     "PG": "149-59",
+     "AB": "The ability of the confocal laser scanning microscope (CLSM) to visualize in one focal plane the fluorescence associated with multiple markers renders this instrument extremely valuable for the study of co-localization of various markers in the somata and cellular processes of neurons. In the present protocol we deal with the question whether or not co-localization exists in neurons of two different neuronal markers. The conventionally used method towards answering this type of question is double-immunofluorescence microscopy. Fundamental to this approach, independent from whether the preparations are observed in a normal fluorescence microscope or in a CLSM, is that each of the applied fluorescent labels should not chemically interact with the other label or inadvertently be visible through the illumination/filter setup designed for the other fluorophore. In the field of double-label CLSM, three types of approach are distinguished: the single-laser, two-color approach, the two-laser, two-color approach, and the time-resolved approach (Brismar and Ulfhake, 1997). Each type of approach has its own advantages and disadvantages. In the instrument in our institute (a Zeiss LSM 410), combinations of fluorophores like fluorescein isothiocyanate (FITC) and tetramethyl rhodamine isothiocyanate (TRITC) are less useful, since TRITC produces a detectable signal in the FITC illumination/filter setup. Instead of experimenting with filter sets we have chosen to take two measures to eliminate this problem. Our first measure is to use fluorophores whose absorption/emission spectra overlap as little as possible. We have selected among the recently developed carbocyanine fluorophores one fluorescing in the visible range (Cy2) (green, in the same range as FITC and with much better resistance to fading than FITC; cf. Hartig et al., 1996), and another fluorescing in the near infrared range (Cy5, infrared; cf. Mesce et al., 1993). Our second measure to ensure excellent signal separation is the adoption of a two-laser, two-color approach. Co-localization of the calcium binding protein, calretinin, and a neurotransmitter, gamma-aminobutyric acid (GABA), in interneurons in the entorhinal cortex and the hippocampus of the rat was used as the principal test model. We compare the above two-laser, two-color approach with a single-laser, two-color CLSM approach using as markers Cy2 and the red fluorophore, Texas Red (physical characteristics resembling TRITC). In this paper considerable attention is paid to control experiments to verify the reliability of the staining procedure. The results show that our two-laser, two-color CLSM approach produces a complete and unambiguous separation of the fluorescent labels, Cy2 and Cy5. We are currently using this method to determine the degree of co-localization of neurochemical substances in CNS neurons.",
+     "FAU": [
+          "Wouterlood, F G",
+          "Van Denderen, J C",
+          "Blijleven, N",
+          "Van Minnen, J",
+          "Hartig, W"
+     ],
+     "AU": [
+          "Wouterlood FG",
+          "Van Denderen JC",
+          "Blijleven N",
+          "Van Minnen J",
+          "Hartig W"
+     ],
+     "AD": "Department of Anatomy, Graduate School of Neurosciences, Free University, Amsterdam, The Netherlands. fg.wouterlood.anat@med.vu.nl",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "Brain Res Brain Res Protoc",
+     "JT": "Brain research. Brain research protocols",
+     "JID": "9716650",
+     "RN": [
+          "0 (Antibodies)",
+          "0 (CALB2 protein, human)",
+          "0 (Calb2 protein, rat)",
+          "0 (Calbindin 2)",
+          "0 (Fluorescent Dyes)",
+          "0 (Immunoglobulin G)",
+          "0 (Nerve Tissue Proteins)",
+          "0 (S100 Calcium Binding Protein G)",
+          "0 (Xanthenes)",
+          "56-12-2 (gamma-Aminobutyric Acid)",
+          "82354-19-6 (Texas red)",
+          "I223NX31W9 (Fluorescein-5-isothiocyanate)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "*Antibodies",
+          "Antibody Specificity",
+          "Calbindin 2",
+          "Fluorescein-5-isothiocyanate",
+          "Fluorescent Dyes",
+          "Humans",
+          "Immunization, Secondary",
+          "Immunoglobulin G/immunology",
+          "Immunohistochemistry/*methods",
+          "*Lasers",
+          "Microscopy, Confocal/*methods",
+          "Microscopy, Fluorescence/*methods",
+          "Nerve Tissue Proteins/metabolism",
+          "S100 Calcium Binding Protein G/metabolism",
+          "Xanthenes",
+          "gamma-Aminobutyric Acid/metabolism"
+     ],
+     "EDAT": "1998/02/25 00:00",
+     "MHDA": "1998/02/25 00:01",
+     "CRDT": [
+          "1998/02/25 00:00"
+     ],
+     "PHST": [
+          "1998/02/25 00:00 [pubmed]",
+          "1998/02/25 00:01 [medline]",
+          "1998/02/25 00:00 [entrez]"
+     ],
+     "AID": [
+          "S1385-299X(97)00038-X [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Res Brain Res Protoc. 1998 Jan;2(2):149-59.",
+     "term": "hippocampus"
+}

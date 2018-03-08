@@ -1,0 +1,96 @@
+{
+     "PMID": "22498704",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121203",
+     "LR": "20161019",
+     "IS": "1558-0210 (Electronic) 1534-4320 (Linking)",
+     "VI": "20",
+     "IP": "4",
+     "DP": "2012 Jul",
+     "TI": "Closing the loop for memory prosthesis: detecting the role of hippocampal neural ensembles using nonlinear models.",
+     "PG": "510-25",
+     "LID": "10.1109/TNSRE.2012.2190942 [doi]",
+     "AB": "A major factor involved in providing closed loop feedback for control of neural function is to understand how neural ensembles encode online information critical to the final behavioral endpoint. This issue was directly assessed in rats performing a short-term delay memory task in which successful encoding of task information is dependent upon specific spatio-temporal firing patterns recorded from ensembles of CA3 and CA1 hippocampal neurons. Such patterns, extracted by a specially designed nonlinear multi-input multi-output (MIMO) nonlinear mathematical model, were used to predict successful performance online via a closed loop paradigm which regulated trial difficulty (time of retention) as a function of the \"strength\" of stimulus encoding. The significance of the MIMO model as a neural prosthesis has been demonstrated by substituting trains of electrical stimulation pulses to mimic these same ensemble firing patterns. This feature was used repeatedly to vary \"normal\" encoding as a means of understanding how neural ensembles can be \"tuned\" to mimic the inherent process of selecting codes of different strength and functional specificity. The capacity to enhance and tune hippocampal encoding via MIMO model detection and insertion of critical ensemble firing patterns shown here provides the basis for possible extension to other disrupted brain circuitry.",
+     "FAU": [
+          "Hampson, Robert E",
+          "Song, Dong",
+          "Chan, Rosa H M",
+          "Sweatt, Andrew J",
+          "Riley, Mitchell R",
+          "Goonawardena, Anushka V",
+          "Marmarelis, Vasilis Z",
+          "Gerhardt, Greg A",
+          "Berger, Theodore W",
+          "Deadwyler, Sam A"
+     ],
+     "AU": [
+          "Hampson RE",
+          "Song D",
+          "Chan RH",
+          "Sweatt AJ",
+          "Riley MR",
+          "Goonawardena AV",
+          "Marmarelis VZ",
+          "Gerhardt GA",
+          "Berger TW",
+          "Deadwyler SA"
+     ],
+     "AD": "Department of Physiology, Wake Forest School of Medicine, Winston-Salem, NC 27157, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB001978/EB/NIBIB NIH HHS/United States",
+          "R01 DA007625/DA/NIDA NIH HHS/United States",
+          "P41-EB001978/EB/NIBIB NIH HHS/United States",
+          "R01DA07625/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20120406",
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Syst Rehabil Eng",
+     "JT": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "101097023",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Biofeedback, Psychology/*physiology",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "Information Storage and Retrieval/*methods",
+          "Memory/*physiology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Nonlinear Dynamics",
+          "Pattern Recognition, Automated/methods",
+          "*Prostheses and Implants",
+          "Rats",
+          "Rats, Long-Evans"
+     ],
+     "PMC": "PMC3395725",
+     "MID": [
+          "NIHMS387603"
+     ],
+     "EDAT": "2012/04/14 06:00",
+     "MHDA": "2012/12/10 06:00",
+     "CRDT": [
+          "2012/04/14 06:00"
+     ],
+     "PHST": [
+          "2012/04/14 06:00 [entrez]",
+          "2012/04/14 06:00 [pubmed]",
+          "2012/12/10 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TNSRE.2012.2190942 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Syst Rehabil Eng. 2012 Jul;20(4):510-25. doi: 10.1109/TNSRE.2012.2190942. Epub 2012 Apr 6.",
+     "term": "hippocampus"
+}

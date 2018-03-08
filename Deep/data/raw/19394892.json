@@ -1,0 +1,83 @@
+{
+     "PMID": "19394892",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090612",
+     "LR": "20161122",
+     "IS": "1872-8952 (Electronic) 1388-2457 (Linking)",
+     "VI": "120",
+     "IP": "6",
+     "DP": "2009 Jun",
+     "TI": "Detection of changes of high-frequency activity by statistical time-frequency analysis in epileptic spikes.",
+     "PG": "1070-7",
+     "LID": "10.1016/j.clinph.2009.03.020 [doi]",
+     "AB": "OBJECTIVE: A novel type of statistical time-frequency analysis was developed to elucidate changes of high-frequency EEG activity associated with epileptic spikes. METHODS: The method uses the Gabor Transform and detects changes of power in comparison to background activity using t-statistics that are controlled by the false discovery rate (FDR) to correct type I error of multiple testing. The analysis was applied to EEGs recorded at 2000 Hz from three patients with mesial temporal lobe epilepsy. RESULTS: Spike-related increase of high-frequency oscillations (HFOs) was clearly shown in the FDR-controlled t-spectra: it was most dramatic in spikes recorded from the hippocampus when the hippocampus was the seizure onset zone (SOZ). Depression of fast activity was observed immediately after the spikes, especially consistently in the discharges from the hippocampal SOZ. It corresponded to the slow wave part in case of spike-and-slow-wave complexes, but it was noted even in spikes without apparent slow waves. In one patient, a gradual increase of power above 200 Hz preceded spikes. CONCLUSIONS: FDR-controlled t-spectra clearly detected the spike-related changes of HFOs that were unclear in standard power spectra. SIGNIFICANCE: We developed a promising tool to study the HFOs that may be closely linked to the pathophysiology of epileptogenesis.",
+     "FAU": [
+          "Kobayashi, Katsuhiro",
+          "Jacobs, Julia",
+          "Gotman, Jean"
+     ],
+     "AU": [
+          "Kobayashi K",
+          "Jacobs J",
+          "Gotman J"
+     ],
+     "AD": "Department of Child Neurology, Okayama University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama University Hospital, Shikatacho 2-chome 5-1, Okayama 700-8558, Japan. k_koba@md.okayama-u.ac.jp",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "102710-1/Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090425",
+     "PL": "Netherlands",
+     "TA": "Clin Neurophysiol",
+     "JT": "Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology",
+     "JID": "100883319",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Computer Simulation",
+          "Electrodes",
+          "*Electroencephalography",
+          "Epilepsy/diagnosis/*physiopathology",
+          "Epilepsy, Temporal Lobe/diagnosis/physiopathology",
+          "Fourier Analysis",
+          "Hippocampus/physiopathology",
+          "Humans",
+          "*Models, Theoretical",
+          "Retrospective Studies",
+          "Spectrum Analysis"
+     ],
+     "PMC": "PMC3792082",
+     "MID": [
+          "CAMS3472"
+     ],
+     "OID": [
+          "NLM: CAMS3472"
+     ],
+     "EDAT": "2009/04/28 09:00",
+     "MHDA": "2009/06/13 09:00",
+     "CRDT": [
+          "2009/04/28 09:00"
+     ],
+     "PHST": [
+          "2009/01/27 00:00 [received]",
+          "2009/03/16 00:00 [revised]",
+          "2009/03/28 00:00 [accepted]",
+          "2009/04/28 09:00 [entrez]",
+          "2009/04/28 09:00 [pubmed]",
+          "2009/06/13 09:00 [medline]"
+     ],
+     "AID": [
+          "S1388-2457(09)00297-1 [pii]",
+          "10.1016/j.clinph.2009.03.020 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Clin Neurophysiol. 2009 Jun;120(6):1070-7. doi: 10.1016/j.clinph.2009.03.020. Epub 2009 Apr 25.",
+     "term": "hippocampus"
+}

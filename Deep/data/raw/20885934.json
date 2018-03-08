@@ -1,0 +1,64 @@
+{
+     "PMID": "20885934",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20110714",
+     "LR": "20170619",
+     "IS": "1687-4196 (Electronic) 1687-4188 (Linking)",
+     "VI": "2010",
+     "DP": "2010",
+     "TI": "A bayesian generative model for surface template estimation.",
+     "LID": "10.1155/2010/974957 [doi] 974957 [pii]",
+     "AB": "3D surfaces are important geometric models for many objects of interest in image analysis and Computational Anatomy. In this paper, we describe a Bayesian inference scheme for estimating a template surface from a set of observed surface data. In order to achieve this, we use the geodesic shooting approach to construct a statistical model for the generation and the observations of random surfaces. We develop a mode approximation EM algorithm to infer the maximum a posteriori estimation of initial momentum mu, which determines the template surface. Experimental results of caudate, thalamus, and hippocampus data are presented.",
+     "FAU": [
+          "Ma, Jun",
+          "Miller, Michael I",
+          "Younes, Laurent"
+     ],
+     "AU": [
+          "Ma J",
+          "Miller MI",
+          "Younes L"
+     ],
+     "AD": "Center for Imaging Science, Department of Biomedical Engineering, The Johns Hopkins University, 320 Clark Hall, Baltimore, MD 21218, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U24 RR021382/RR/NCRR NIH HHS/United States",
+          "R01 MH056584/MH/NIMH NIH HHS/United States",
+          "P01 AG003991/AG/NIA NIH HHS/United States",
+          "R01 EB000975/EB/NIBIB NIH HHS/United States",
+          "P41 RR015241/RR/NCRR NIH HHS/United States",
+          "R01 MH060883/MH/NIMH NIH HHS/United States",
+          "P50 MH071616/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20100920",
+     "PL": "United States",
+     "TA": "Int J Biomed Imaging",
+     "JT": "International journal of biomedical imaging",
+     "JID": "101250756",
+     "PMC": "PMC2946602",
+     "EDAT": "2010/10/05 06:00",
+     "MHDA": "2010/10/05 06:01",
+     "CRDT": [
+          "2010/10/02 06:00"
+     ],
+     "PHST": [
+          "2009/11/06 00:00 [received]",
+          "2010/06/21 00:00 [revised]",
+          "2010/06/27 00:00 [accepted]",
+          "2010/10/02 06:00 [entrez]",
+          "2010/10/05 06:00 [pubmed]",
+          "2010/10/05 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1155/2010/974957 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Int J Biomed Imaging. 2010;2010. doi: 10.1155/2010/974957. Epub 2010 Sep 20.",
+     "term": "hippocampus"
+}

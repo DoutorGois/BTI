@@ -1,0 +1,97 @@
+{
+     "PMID": "18958630",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090219",
+     "LR": "20161203",
+     "IS": "1559-0089 (Electronic) 1539-2791 (Linking)",
+     "VI": "6",
+     "IP": "3",
+     "DP": "2008 Sep",
+     "TI": "Terminology for neuroscience data discovery: multi-tree syntax and investigator-derived semantics.",
+     "PG": "161-74",
+     "LID": "10.1007/s12021-008-9029-7 [doi]",
+     "AB": "The Neuroscience Information Framework (NIF), developed for the NIH Blueprint for Neuroscience Research and available at http://nif.nih.gov and http://neurogateway.org , is built upon a set of coordinated terminology components enabling data and web-resource description and selection. Core NIF terminologies use a straightforward syntax designed for ease of use and for navigation by familiar web interfaces, and readily exportable to aid development of relational-model databases for neuroscience data sharing. Datasets, data analysis tools, web resources, and other entities are characterized by multiple descriptors, each addressing core concepts, including data type, acquisition technique, neuroanatomy, and cell class. Terms for each concept are organized in a tree structure, providing is-a and has-a relations. Broad general terms near each root span the category or concept and spawn more detailed entries for specificity. Related but distinct concepts (e.g., brain area and depth) are specified by separate trees, for easier navigation than would be required by graph representation. Semantics enabling NIF data discovery were selected at one or more workshops by investigators expert in particular systems (vision, olfaction, behavioral neuroscience, neurodevelopment), brain areas (cerebellum, thalamus, hippocampus), preparations (molluscs, fly), diseases (neurodegenerative disease), or techniques (microscopy, computation and modeling, neurogenetics). Workshop-derived integrated term lists are available Open Source at http://brainml.org ; a complete list of participants is at http://brainml.org/workshops.",
+     "FAU": [
+          "Gardner, Daniel",
+          "Goldberg, David H",
+          "Grafstein, Bernice",
+          "Robert, Adrian",
+          "Gardner, Esther P"
+     ],
+     "AU": [
+          "Gardner D",
+          "Goldberg DH",
+          "Grafstein B",
+          "Robert A",
+          "Gardner EP"
+     ],
+     "AD": "Laboratory of Neuroinformatics and Department of Physiology, Weill Medical College of Cornell University, 1300 York Avenue, New York, NY, 10065, USA. dan@med.cornell.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "HHSN271200577531C/PHS HHS/United States",
+          "R01 NS011862/NS/NINDS NIH HHS/United States",
+          "R56 NS011862-27A1/NS/NINDS NIH HHS/United States",
+          "R01 MH068012/MH/NIMH NIH HHS/United States",
+          "R01 MH068012-04/MH/NIMH NIH HHS/United States",
+          "HHSN271200577531C/DA/NIDA NIH HHS/United States",
+          "R01 MH057153-13/MH/NIMH NIH HHS/United States",
+          "R01 NS044820/NS/NINDS NIH HHS/United States",
+          "R01 NS044820-04/NS/NINDS NIH HHS/United States",
+          "MH68012/MH/NIMH NIH HHS/United States",
+          "R56 NS011862/NS/NINDS NIH HHS/United States",
+          "263-MD-409125-1/MD/NIMHD NIH HHS/United States",
+          "R01 MH057153/MH/NIMH NIH HHS/United States",
+          "NS44820/NS/NINDS NIH HHS/United States",
+          "MH57153/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20081029",
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "Access to Information",
+          "Animals",
+          "Computational Biology/*methods/trends",
+          "Databases as Topic/*standards/trends",
+          "Humans",
+          "Information Storage and Retrieval/methods/standards/trends",
+          "Internet/organization & administration/trends",
+          "Meta-Analysis as Topic",
+          "Neurosciences/*methods/trends",
+          "Semantics",
+          "Software/standards/trends",
+          "*Terminology as Topic"
+     ],
+     "PMC": "PMC2663521",
+     "MID": [
+          "NIHMS94458"
+     ],
+     "EDAT": "2008/10/30 09:00",
+     "MHDA": "2009/02/20 09:00",
+     "CRDT": [
+          "2008/10/30 09:00"
+     ],
+     "PHST": [
+          "2008/08/14 00:00 [received]",
+          "2008/09/15 00:00 [accepted]",
+          "2008/10/30 09:00 [pubmed]",
+          "2009/02/20 09:00 [medline]",
+          "2008/10/30 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s12021-008-9029-7 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2008 Sep;6(3):161-74. doi: 10.1007/s12021-008-9029-7. Epub 2008 Oct 29.",
+     "term": "hippocampus"
+}

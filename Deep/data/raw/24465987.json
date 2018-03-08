@@ -1,0 +1,80 @@
+{
+     "PMID": "24465987",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141104",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "9",
+     "IP": "1",
+     "DP": "2014",
+     "TI": "Calcium-dependent calcium decay explains STDP in a dynamic model of hippocampal synapses.",
+     "PG": "e86248",
+     "LID": "10.1371/journal.pone.0086248 [doi]",
+     "AB": "It is widely accepted that the direction and magnitude of synaptic plasticity depends on post-synaptic calcium flux, where high levels of calcium lead to long-term potentiation and moderate levels lead to long-term depression. At synapses onto neurons in region CA1 of the hippocampus (and many other synapses), NMDA receptors provide the relevant source of calcium. In this regard, post-synaptic calcium captures the coincidence of pre- and post-synaptic activity, due to the blockage of these receptors at low voltage. Previous studies show that under spike timing dependent plasticity (STDP) protocols, potentiation at CA1 synapses requires post-synaptic bursting and an inter-pairing frequency in the range of the hippocampal theta rhythm. We hypothesize that these requirements reflect the saturation of the mechanisms of calcium extrusion from the post-synaptic spine. We test this hypothesis with a minimal model of NMDA receptor-dependent plasticity, simulating slow extrusion with a calcium-dependent calcium time constant. In simulations of STDP experiments, the model accounts for latency-dependent depression with either post-synaptic bursting or theta-frequency pairing (or neither) and accounts for latency-dependent potentiation when both of these requirements are met. The model makes testable predictions for STDP experiments and our simple implementation is tractable at the network level, demonstrating associative learning in a biophysical network model with realistic synaptic dynamics.",
+     "FAU": [
+          "Standage, Dominic",
+          "Trappenberg, Thomas",
+          "Blohm, Gunnar"
+     ],
+     "AU": [
+          "Standage D",
+          "Trappenberg T",
+          "Blohm G"
+     ],
+     "AD": "Department of Biomedical and Molecular Sciences and Center for Neuroscience Studies, Queen's University, Kingston, Ontario, Canada. Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. Department of Biomedical and Molecular Sciences and Center for Neuroscience Studies, Queen's University, Kingston, Ontario, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140122",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Receptors, N-Methyl-D-Aspartate)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Calcium/*metabolism",
+          "*Calcium Signaling",
+          "Hippocampus/*metabolism",
+          "Humans",
+          "Learning/physiology",
+          "*Models, Neurological",
+          "Neuronal Plasticity/*physiology",
+          "Neurons/metabolism",
+          "Receptors, N-Methyl-D-Aspartate/metabolism",
+          "Synapses/*metabolism"
+     ],
+     "PMC": "PMC3899242",
+     "EDAT": "2014/01/28 06:00",
+     "MHDA": "2014/11/05 06:00",
+     "CRDT": [
+          "2014/01/28 06:00"
+     ],
+     "PHST": [
+          "2013/10/18 00:00 [received]",
+          "2013/12/12 00:00 [accepted]",
+          "2014/01/28 06:00 [entrez]",
+          "2014/01/28 06:00 [pubmed]",
+          "2014/11/05 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0086248 [doi]",
+          "PONE-D-13-45465 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2014 Jan 22;9(1):e86248. doi: 10.1371/journal.pone.0086248. eCollection 2014.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,80 @@
+{
+     "PMID": "27023334",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170607",
+     "LR": "20180111",
+     "IS": "1520-5851 (Electronic) 0013-936X (Linking)",
+     "VI": "50",
+     "IP": "9",
+     "DP": "2016 May 3",
+     "TI": "Assessing PM2.5 Exposures with High Spatiotemporal Resolution across the Continental United States.",
+     "PG": "4712-21",
+     "LID": "10.1021/acs.est.5b06121 [doi]",
+     "AB": "A number of models have been developed to estimate PM2.5 exposure, including satellite-based aerosol optical depth (AOD) models, land-use regression, or chemical transport model simulation, all with both strengths and weaknesses. Variables like normalized difference vegetation index (NDVI), surface reflectance, absorbing aerosol index, and meteoroidal fields are also informative about PM2.5 concentrations. Our objective is to establish a hybrid model which incorporates multiple approaches and input variables to improve model performance. To account for complex atmospheric mechanisms, we used a neural network for its capacity to model nonlinearity and interactions. We used convolutional layers, which aggregate neighboring information, into a neural network to account for spatial and temporal autocorrelation. We trained the neural network for the continental United States from 2000 to 2012 and tested it with left out monitors. Ten-fold cross-validation revealed a good model performance with a total R(2) of 0.84 on the left out monitors. Regional R(2) could be even higher for the Eastern and Central United States. Model performance was still good at low PM2.5 concentrations. Then, we used the trained neural network to make daily predictions of PM2.5 at 1 km x 1 km grid cells. This model allows epidemiologists to access PM2.5 exposure in both the short-term and the long-term.",
+     "FAU": [
+          "Di, Qian",
+          "Kloog, Itai",
+          "Koutrakis, Petros",
+          "Lyapustin, Alexei",
+          "Wang, Yujie",
+          "Schwartz, Joel"
+     ],
+     "AU": [
+          "Di Q",
+          "Kloog I",
+          "Koutrakis P",
+          "Lyapustin A",
+          "Wang Y",
+          "Schwartz J"
+     ],
+     "AD": "Department of Environmental Health, Harvard T.H. Chan School of Public Heath , Boston, Massachusetts 02115, United States. Department of Environmental Health, Harvard T.H. Chan School of Public Heath , Boston, Massachusetts 02115, United States. Department of Environmental Health, Harvard T.H. Chan School of Public Heath , Boston, Massachusetts 02115, United States. National Aeronautics and Space Administration (NASA) Goddard Space Flight Center (GSFC), Code 613, Greenbelt, Maryland 20771, United States. University of Maryland, Baltimore County, Baltimore, Maryland 21250, United States. Department of Environmental Health, Harvard T.H. Chan School of Public Heath , Boston, Massachusetts 02115, United States.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P30 ES000002/ES/NIEHS NIH HHS/United States",
+          "R01 ES024332/ES/NIEHS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160422",
+     "PL": "United States",
+     "TA": "Environ Sci Technol",
+     "JT": "Environmental science & technology",
+     "JID": "0213155",
+     "RN": [
+          "0 (Aerosols)",
+          "0 (Particulate Matter)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "*Aerosols",
+          "Humans",
+          "Models, Chemical",
+          "Models, Theoretical",
+          "*Particulate Matter",
+          "United States"
+     ],
+     "PMC": "PMC5761665",
+     "MID": [
+          "NIHMS924619"
+     ],
+     "EDAT": "2016/03/30 06:00",
+     "MHDA": "2017/06/08 06:00",
+     "CRDT": [
+          "2016/03/30 06:00"
+     ],
+     "PHST": [
+          "2016/03/30 06:00 [entrez]",
+          "2016/03/30 06:00 [pubmed]",
+          "2017/06/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1021/acs.est.5b06121 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Environ Sci Technol. 2016 May 3;50(9):4712-21. doi: 10.1021/acs.est.5b06121. Epub 2016 Apr 22.",
+     "term": "grid cells"
+}

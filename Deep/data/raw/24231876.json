@@ -1,0 +1,50 @@
+{
+     "PMID": "24231876",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20140630",
+     "LR": "20131115",
+     "IS": "1939-3539 (Electronic) 0098-5589 (Linking)",
+     "VI": "36",
+     "IP": "1",
+     "DP": "2014 Jan",
+     "TI": "Local difference binary for ultrafast and distinctive feature description.",
+     "PG": "188-94",
+     "LID": "10.1109/TPAMI.2013.150 [doi]",
+     "AB": "The efficiency and quality of a feature descriptor are critical to the user experience of many computer vision applications. However, the existing descriptors are either too computationally expensive to achieve real-time performance, or not sufficiently distinctive to identify correct matches from a large database with various transformations. In this paper, we propose a highly efficient and distinctive binary descriptor, called local difference binary (LDB). LDB directly computes a binary string for an image patch using simple intensity and gradient difference tests on pairwise grid cells within the patch. A multiple-gridding strategy and a salient bit-selection method are applied to capture the distinct patterns of the patch at different spatial granularities. Experimental results demonstrate that compared to the existing state-of-the-art binary descriptors, primarily designed for speed, LDB has similar construction efficiency, while achieving a greater accuracy and faster speed for mobile object recognition and tracking tasks.",
+     "FAU": [
+          "Yang, Xin",
+          "Cheng, Kwang-Ting Tim"
+     ],
+     "AU": [
+          "Yang X",
+          "Cheng KT"
+     ],
+     "AD": "University of California, Santa Barbara, Santa Barbara.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Pattern Anal Mach Intell",
+     "JT": "IEEE transactions on pattern analysis and machine intelligence",
+     "JID": "9885960",
+     "EDAT": "2013/11/16 06:00",
+     "MHDA": "2013/11/16 06:01",
+     "CRDT": [
+          "2013/11/16 06:00"
+     ],
+     "PHST": [
+          "2013/11/16 06:00 [entrez]",
+          "2013/11/16 06:00 [pubmed]",
+          "2013/11/16 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1109/TPAMI.2013.150 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Pattern Anal Mach Intell. 2014 Jan;36(1):188-94. doi: 10.1109/TPAMI.2013.150.",
+     "term": "grid cells"
+}

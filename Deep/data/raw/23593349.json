@@ -1,0 +1,86 @@
+{
+     "PMID": "23593349",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20131024",
+     "LR": "20150427",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "4",
+     "DP": "2013",
+     "TI": "Optogenetically induced seizure and the longitudinal hippocampal network dynamics.",
+     "PG": "e60928",
+     "LID": "10.1371/journal.pone.0060928 [doi]",
+     "AB": "Epileptic seizure is a paroxysmal and self-limited phenomenon characterized by abnormal hypersynchrony of a large population of neurons. However, our current understanding of seizure dynamics is still limited. Here we propose a novel in vivo model of seizure-like afterdischarges using optogenetics, and report on investigation of directional network dynamics during seizure along the septo-temporal (ST) axis of hippocampus. Repetitive pulse photostimulation was applied to the rodent hippocampus, in which channelrhodopsin-2 (ChR2) was expressed, under simultaneous recording of local field potentials (LFPs). Seizure-like afterdischarges were successfully induced after the stimulation in both W-TChR2V4 transgenic (ChR2V-TG) rats and in wild type rats transfected with adeno-associated virus (AAV) vectors carrying ChR2. Pulse frequency at 10 and 20 Hz, and a 0.05 duty ratio were optimal for afterdischarge induction. Immunohistochemical c-Fos staining after a single induced afterdischarge confirmed neuronal activation of the entire hippocampus. LFPs were recorded during seizure-like afterdischarges with a multi-contact array electrode inserted along the ST axis of hippocampus. Granger causality analysis of the LFPs showed a bidirectional but asymmetric increase in signal flow along the ST direction. State space presentation of the causality and coherence revealed three discrete states of the seizure-like afterdischarge phenomenon: 1) resting state; 2) afterdischarge initiation with moderate coherence and dominant septal-to-temporal causality; and 3) afterdischarge termination with increased coherence and dominant temporal-to-septal causality. A novel in vivo model of seizure-like afterdischarge was developed using optogenetics, which was advantageous in its reproducibility and artifact-free electrophysiological observations. Our results provide additional evidence for the potential role of hippocampal septo-temporal interactions in seizure dynamics in vivo. Bidirectional networks work hierarchically along the ST hippocampus in the genesis and termination of epileptic seizures.",
+     "FAU": [
+          "Osawa, Shin-Ichiro",
+          "Iwasaki, Masaki",
+          "Hosaka, Ryosuke",
+          "Matsuzaka, Yoshiya",
+          "Tomita, Hiroshi",
+          "Ishizuka, Toru",
+          "Sugano, Eriko",
+          "Okumura, Eiichi",
+          "Yawo, Hiromu",
+          "Nakasato, Nobukazu",
+          "Tominaga, Teiji",
+          "Mushiake, Hajime"
+     ],
+     "AU": [
+          "Osawa S",
+          "Iwasaki M",
+          "Hosaka R",
+          "Matsuzaka Y",
+          "Tomita H",
+          "Ishizuka T",
+          "Sugano E",
+          "Okumura E",
+          "Yawo H",
+          "Nakasato N",
+          "Tominaga T",
+          "Mushiake H"
+     ],
+     "AD": "Department of Neurosurgery, Tohoku University Graduate School of Medicine, Sendai, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130410",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Dependovirus/genetics",
+          "Genetic Vectors",
+          "Hippocampus/*physiopathology",
+          "Rats",
+          "Rats, Transgenic",
+          "Seizures/*genetics/physiopathology"
+     ],
+     "PMC": "PMC3622611",
+     "EDAT": "2013/04/18 06:00",
+     "MHDA": "2013/10/25 06:00",
+     "CRDT": [
+          "2013/04/18 06:00"
+     ],
+     "PHST": [
+          "2012/09/09 00:00 [received]",
+          "2013/03/04 00:00 [accepted]",
+          "2013/04/18 06:00 [entrez]",
+          "2013/04/18 06:00 [pubmed]",
+          "2013/10/25 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0060928 [doi]",
+          "PONE-D-12-27510 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2013 Apr 10;8(4):e60928. doi: 10.1371/journal.pone.0060928. Print 2013.",
+     "term": "hippocampus"
+}

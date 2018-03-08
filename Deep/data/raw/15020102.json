@@ -1,0 +1,80 @@
+{
+     "PMID": "15020102",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040607",
+     "LR": "20061115",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "135",
+     "IP": "1-2",
+     "DP": "2004 May 30",
+     "TI": "A computer model of field potential responses for the study of short-term plasticity in hippocampus.",
+     "PG": "175-91",
+     "AB": "Activity-dependent synaptic plasticity has important implications for network function. The previously developed model of the hippocampal CA1 area, which contained pyramidal cells (PC) and two types of interneurons involved in feed-forward and recurrent inhibition, respectively, and received synaptic inputs from CA3 neurons via the Schaffer collaterals, was enhanced by incorporating dynamic synaptic connections capable of changing their weights depending on presynaptic activation history. The model output was presented as field potentials, which were compared with those derived experimentally. The parameters of Schaffer collateral-PC excitatory model synapse were determined, with which the model successfully reproduced the complicated dynamics of train-stimulation sequential potentiation/depression observed in experimentally recorded field responses. It was found that the model better reproduces the time course of experimental field potentials if the inhibitory synapses on PC are also made dynamic, with expressed properties of frequency-dependent depression. This finding supports experimental evidence that these synapses are subject to activity-dependent depression. The model field potentials in response to various randomly generated and real (derived from recorded CA3 unit activity) long stimulating trains were calculated, illustrating that short-term plasticity with the observed characteristics could play specific roles in frequency processing in hippocampus and thus providing a new tool for the theoretical study of activity-dependent synaptic plasticity.",
+     "FAU": [
+          "Sargsyan, Armen",
+          "Melkonyan, Albert",
+          "Mkrtchian, Hovhannes",
+          "Papatheodoropoulos, Costas",
+          "Kostopoulos, George"
+     ],
+     "AU": [
+          "Sargsyan A",
+          "Melkonyan A",
+          "Mkrtchian H",
+          "Papatheodoropoulos C",
+          "Kostopoulos G"
+     ],
+     "AD": "Neuronal Systems Mathematical Modelling Laboratory, Orbeli Institute of Physiology, Yerevan, Armenia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Neurotransmitter Agents)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Computer Simulation",
+          "Electric Stimulation",
+          "Evoked Potentials/*physiology",
+          "Excitatory Postsynaptic Potentials/physiology",
+          "Hippocampus/*physiology",
+          "Neural Conduction",
+          "Neural Inhibition",
+          "*Neural Networks (Computer)",
+          "Neuronal Plasticity/*physiology",
+          "Neurotransmitter Agents/metabolism",
+          "Nonlinear Dynamics",
+          "Time Factors"
+     ],
+     "EDAT": "2004/03/17 05:00",
+     "MHDA": "2004/06/21 10:00",
+     "CRDT": [
+          "2004/03/17 05:00"
+     ],
+     "PHST": [
+          "2003/09/08 00:00 [received]",
+          "2003/12/08 00:00 [revised]",
+          "2003/12/17 00:00 [accepted]",
+          "2004/03/17 05:00 [pubmed]",
+          "2004/06/21 10:00 [medline]",
+          "2004/03/17 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1016/j.jneumeth.2003.12.009 [doi]",
+          "S0165027003004333 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2004 May 30;135(1-2):175-91. doi: 10.1016/j.jneumeth.2003.12.009.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,50 @@
+{
+     "PMID": "27764597",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20170223",
+     "IS": "1530-888X (Electronic) 0899-7667 (Linking)",
+     "VI": "29",
+     "IP": "3",
+     "DP": "2017 Mar",
+     "TI": "On Decoding Grid Cell Population Codes Using Approximate Belief Propagation.",
+     "PG": "716-734",
+     "LID": "10.1162/NECO_a_00902 [doi]",
+     "AB": "Neural systems are inherently noisy. One well-studied example of a noise reduction mechanism in the brain is the population code, where representing a variable with multiple neurons allows the encoded variable to be recovered with fewer errors. Studies have assumed ideal observer models for decoding population codes, and the manner in which information in the neural population can be retrieved remains elusive. This letter addresses a mechanism by which realistic neural circuits can recover encoded variables. Specifically, the decoding problem of recovering a spatial location from populations of grid cells is studied using belief propagation. We extend the belief propagation decoding algorithm in two aspects. First, beliefs are approximated rather than being calculated exactly. Second, decoding noises are introduced into the decoding circuits. Numerical simulations demonstrate that beliefs can be effectively approximated by combining polynomial nonlinearities with divisive normalization. This approximate belief propagation algorithm is tolerant to decoding noises. Thus, this letter presents a realistic model for decoding neural population codes and investigates fault-tolerant information retrieval mechanisms in the brain.",
+     "FAU": [
+          "Yoo, Yongseok",
+          "Kim, Woori"
+     ],
+     "AU": [
+          "Yoo Y",
+          "Kim W"
+     ],
+     "AD": "Department of Electronics Engineering, Incheon National University, Yeonsu-gu, Incheon 22012, Korea ys7yoo@gmail.com. Department of Special Education, Chonnam National University, Yeosu, Jeonnam 59626, Korea rnell777@jnu.ac.kr.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20161020",
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "EDAT": "2016/10/21 06:00",
+     "MHDA": "2016/10/21 06:00",
+     "CRDT": [
+          "2016/10/21 06:00"
+     ],
+     "PHST": [
+          "2016/10/21 06:00 [pubmed]",
+          "2016/10/21 06:00 [medline]",
+          "2016/10/21 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/NECO_a_00902 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2017 Mar;29(3):716-734. doi: 10.1162/NECO_a_00902. Epub 2016 Oct 20.",
+     "term": "grid cells"
+}

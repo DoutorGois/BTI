@@ -1,0 +1,92 @@
+{
+     "PMID": "18242057",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080710",
+     "LR": "20161122",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "21",
+     "IP": "2-3",
+     "DP": "2008 Mar-Apr",
+     "TI": "Reversed and forward buffering of behavioral spike sequences enables retrospective and prospective retrieval in hippocampal regions CA3 and CA1.",
+     "PG": "276-88",
+     "LID": "10.1016/j.neunet.2007.12.029 [doi]",
+     "AB": "We propose a mechanism to explain both retrospective and prospective recall activity found in experimental data from hippocampal regions CA3 and CA1. Our model of temporal context dependent episodic memory replicates reverse recall in CA1, as recently recorded and published [Foster, D., & Wilson, M. (2006). Reverse replay of behavioural sequences in hippocampal place cells during the awake state. Nature, 440, 680-683], as well as the prospective and retrospective activity recorded in region CA3 during spatial tasks [Johnson, A., & Redish, A. (2006). Neural ensembles in ca3 transiently encode paths forward of the animal at a decision point: a possible mechanism for the consideration of alternatives. In 2006 neuroscience meeting planner. Atlanta, GA: Society for Neuroscience. (Program no. 574.2)]. We suppose that CA3 encodes episodic memory of both forward and reversed sequences of perforant path spikes representing place input. Using a persistent firing buffer mechanism in layer II of entorhinal cortex, simulated episodic learning involves dentate gyrus, layer III of entorhinal cortex, and hippocampal regions CA3 and CA1. Associations are formed between buffered episodic cues, unique temporal context specific representations in dentate gyrus, and episodic memory in the CA3 recurrent network.",
+     "FAU": [
+          "Koene, Randal A",
+          "Hasselmo, Michael E"
+     ],
+     "AU": [
+          "Koene RA",
+          "Hasselmo ME"
+     ],
+     "AD": "Center for Memory and Brain, Department of Psychology, Boston University, Boston, MA 02215, USA. randalk@bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R29 MH052732-06/MH/NIMH NIH HHS/United States",
+          "R01 MH060013-09/MH/NIMH NIH HHS/United States",
+          "R01 DA016454-04/DA/NIDA NIH HHS/United States",
+          "P50 MH060450/MH/NIMH NIH HHS/United States",
+          "R01 MH060013-06/MH/NIMH NIH HHS/United States",
+          "R01 MH061492-05/MH/NIMH NIH HHS/United States",
+          "R01 DA016454/DA/NIDA NIH HHS/United States",
+          "P50 MH060450-069002/MH/NIMH NIH HHS/United States",
+          "R29 MH052732/MH/NIMH NIH HHS/United States",
+          "P50 MH071702-020004/MH/NIMH NIH HHS/United States",
+          "R01 MH060013/MH/NIMH NIH HHS/United States",
+          "R01 MH060013-08/MH/NIMH NIH HHS/United States",
+          "R01 DA016454-05/DA/NIDA NIH HHS/United States",
+          "P50 MH071702/MH/NIMH NIH HHS/United States",
+          "R01 MH061492/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20071228",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "EIN": [
+          "Neural Netw. 2008 May;21(4):698"
+     ],
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/*cytology/*physiology",
+          "Humans",
+          "Memory/physiology",
+          "*Models, Biological",
+          "Neural Pathways/physiology",
+          "Neurons/*physiology",
+          "Spatial Behavior/*physiology"
+     ],
+     "PMC": "PMC2408666",
+     "MID": [
+          "NIHMS44622"
+     ],
+     "EDAT": "2008/02/05 09:00",
+     "MHDA": "2008/07/11 09:00",
+     "CRDT": [
+          "2008/02/05 09:00"
+     ],
+     "PHST": [
+          "2007/08/08 00:00 [received]",
+          "2007/12/04 00:00 [revised]",
+          "2007/12/11 00:00 [accepted]",
+          "2008/02/05 09:00 [pubmed]",
+          "2008/07/11 09:00 [medline]",
+          "2008/02/05 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(07)00253-5 [pii]",
+          "10.1016/j.neunet.2007.12.029 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2008 Mar-Apr;21(2-3):276-88. doi: 10.1016/j.neunet.2007.12.029. Epub 2007 Dec 28.",
+     "term": "place cells"
+}

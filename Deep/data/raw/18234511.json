@@ -1,0 +1,85 @@
+{
+     "PMID": "18234511",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080715",
+     "LR": "20170922",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "40",
+     "IP": "2",
+     "DP": "2008 Apr 1",
+     "TI": "Automatic segmentation of brain MRIs of 2-year-olds into 83 regions of interest.",
+     "PG": "672-684",
+     "LID": "S1053-8119(07)01063-4 [pii] 10.1016/j.neuroimage.2007.11.034 [doi]",
+     "AB": "Three-dimensional atlases and databases of the brain at different ages facilitate the description of neuroanatomy and the monitoring of cerebral growth and development. Brain segmentation is challenging in young children due to structural differences compared to adults. We have developed a method, based on established algorithms, for automatic segmentation of young children's brains into 83 regions of interest (ROIs), and applied this to an exemplar group of 33 2-year-old subjects who had been born prematurely. The algorithm uses prior information from 30 normal adult brain magnetic resonance (MR) images, which had been manually segmented to create 30 atlases, each labeling 83 anatomical structures. Each of these adult atlases was registered to each 2-year-old target MR image using non-rigid registration based on free-form deformations. Label propagation from each adult atlas yielded a segmentation of each 2-year-old brain into 83 ROIs. The final segmentation was obtained by combination of the 30 propagated adult atlases using decision fusion, improving accuracy over individual propagations. We validated this algorithm by comparing the automatic approach with three representative manually segmented volumetric regions (the subcortical caudate nucleus, the neocortical pre-central gyrus and the archicortical hippocampus) using similarity indices (SI), a measure of spatial overlap (intersection over average). SI results for automatic versus manual segmentations for these three structures were 0.90+/-0.01, 0.90+/-0.01 and 0.88+/-0.03 respectively. This registration approach allows the rapid construction of automatically labelled age-specific brain atlases for children at the age of 2 years.",
+     "FAU": [
+          "Gousias, Ioannis S",
+          "Rueckert, Daniel",
+          "Heckemann, Rolf A",
+          "Dyet, Leigh E",
+          "Boardman, James P",
+          "Edwards, A David",
+          "Hammers, Alexander"
+     ],
+     "AU": [
+          "Gousias IS",
+          "Rueckert D",
+          "Heckemann RA",
+          "Dyet LE",
+          "Boardman JP",
+          "Edwards AD",
+          "Hammers A"
+     ],
+     "AD": "Imaging Sciences Department, MRC Clinical Sciences Centre and Department of Pediatrics, Imperial College London, Hammersmith Hospital, Du Cane Road, London W12 0NN, UK; Department of Computing, Imperial College London, South Kensington Campus, 180 Queen's Gate, London SW7 2BZ, UK; Division of Neuroscience and MRC Clinical Sciences Centre, Imperial College London, Hammersmith Hospital, Du Cane Road, London W12 0NN, UK. Department of Computing, Imperial College London, South Kensington Campus, 180 Queen's Gate, London SW7 2BZ, UK. Division of Neuroscience and MRC Clinical Sciences Centre, Imperial College London, Hammersmith Hospital, Du Cane Road, London W12 0NN, UK. Imaging Sciences Department, MRC Clinical Sciences Centre and Department of Pediatrics, Imperial College London, Hammersmith Hospital, Du Cane Road, London W12 0NN, UK. Imaging Sciences Department, MRC Clinical Sciences Centre and Department of Pediatrics, Imperial College London, Hammersmith Hospital, Du Cane Road, London W12 0NN, UK. Imaging Sciences Department, MRC Clinical Sciences Centre and Department of Pediatrics, Imperial College London, Hammersmith Hospital, Du Cane Road, London W12 0NN, UK. Division of Neuroscience and MRC Clinical Sciences Centre, Imperial College London, Hammersmith Hospital, Du Cane Road, London W12 0NN, UK; Department of Clinical and Experimental Epilepsy, Institute of Neurology, University College London and National Society for Epilepsy MRI Unit, Chalfont St Peter, UK. Electronic address: alexander.hammers@csc.mrc.ac.uk.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0200647/Medical Research Council/United Kingdom",
+          "G108/585/Medical Research Council/United Kingdom",
+          "MC_U120081323/Medical Research Council/United Kingdom",
+          "Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20071203",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Atlases as Topic",
+          "Brain/*anatomy & histology",
+          "Brain Mapping/*methods",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Infant",
+          "*Magnetic Resonance Imaging",
+          "Male"
+     ],
+     "EDAT": "2008/02/01 09:00",
+     "MHDA": "2008/07/17 09:00",
+     "CRDT": [
+          "2008/02/01 09:00"
+     ],
+     "PHST": [
+          "2007/04/01 00:00 [received]",
+          "2007/10/03 00:00 [revised]",
+          "2007/11/14 00:00 [accepted]",
+          "2008/02/01 09:00 [pubmed]",
+          "2008/07/17 09:00 [medline]",
+          "2008/02/01 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(07)01063-4 [pii]",
+          "10.1016/j.neuroimage.2007.11.034 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2008 Apr 1;40(2):672-684. doi: 10.1016/j.neuroimage.2007.11.034. Epub 2007 Dec 3.",
+     "term": "hippocampus"
+}

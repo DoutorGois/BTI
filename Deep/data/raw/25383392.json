@@ -1,0 +1,90 @@
+{
+     "PMID": "25383392",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "VI": "8159",
+     "DP": "2013",
+     "TI": "A Graph-Based Integration of Multimodal Brain Imaging Data for the Detection of Early Mild Cognitive Impairment (E-MCI).",
+     "PG": "159-169",
+     "AB": "Alzheimer's disease (AD) is the most common cause of dementia in older adults. By the time an individual has been diagnosed with AD, it may be too late for potential disease modifying therapy to strongly influence outcome. Therefore, it is critical to develop better diagnostic tools that can recognize AD at early symptomatic and especially pre-symptomatic stages. Mild cognitive impairment (MCI), introduced to describe a prodromal stage of AD, is presently classified into early and late stages (E-MCI, L-MCI) based on severity. Using a graph-based semi-supervised learning (SSL) method to integrate multimodal brain imaging data and select valid imaging-based predictors for optimizing prediction accuracy, we developed a model to differentiate E-MCI from healthy controls (HC) for early detection of AD. Multimodal brain imaging scans (MRI and PET) of 174 E-MCI and 98 HC participants from the Alzheimer's Disease Neuroimaging Initiative (ADNI) cohort were used in this analysis. Mean targeted region-of-interest (ROI) values extracted from structural MRI (voxel-based morphometry (VBM) and FreeSurfer V5) and PET (FDG and Florbetapir) scans were used as features. Our results show that the graph-based SSL classifiers outperformed support vector machines for this task and the best performance was obtained with 66.8% cross-validated AUC (area under the ROC curve) when FDG and FreeSurfer datasets were integrated. Valid imaging-based phenotypes selected from our approach included ROI values extracted from temporal lobe, hippocampus, and amygdala. Employing a graph-based SSL approach with multimodal brain imaging data appears to have substantial potential for detecting E-MCI for early detection of prodromal AD warranting further investigation.",
+     "FAU": [
+          "Kim, Dokyoon",
+          "Kim, Sungeun",
+          "Risacher, Shannon L",
+          "Shen, Li",
+          "Ritchie, Marylyn D",
+          "Weiner, Michael W",
+          "Saykin, Andrew J",
+          "Nho, Kwangsik"
+     ],
+     "AU": [
+          "Kim D",
+          "Kim S",
+          "Risacher SL",
+          "Shen L",
+          "Ritchie MD",
+          "Weiner MW",
+          "Saykin AJ",
+          "Nho K"
+     ],
+     "AD": "Center for Systems Genomics, Pennsylvania State University, San Francisco. Center for Neuroimaging, Department of Radiology and Imaging Sciences, Indiana University School of Medicine, San Francisco. Center for Computational Biology and Bioinformatics, Indiana University School of Medicine, San Francisco. Department of Radiology, Medicine and Psychiatry, University of California, San Francisco. Department of Veterans Affairs Medical Center, San Francisco. Department of Medical and Molecular Genetics, Indiana University School of Medicine, San Francisco. Department of Neurology, Indiana University School of Medicine.",
+     "CN": [
+          "the Alzheimer's Disease Neuroimaging Initiative (ADNI)"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "R01 AG019771/AG/NIA NIH HHS/United States",
+          "R00 LM011384/LM/NLM NIH HHS/United States",
+          "P30 AG010133/AG/NIA NIH HHS/United States",
+          "U24 AG021886/AG/NIA NIH HHS/United States",
+          "K99 LM011384/LM/NLM NIH HHS/United States",
+          "U01 AG032984/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "RC2 AG036535/AG/NIA NIH HHS/United States",
+          "R01 LM011360/LM/NLM NIH HHS/United States",
+          "R01 CA101318/CA/NCI NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "R01 NS059873/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Multimodal Brain Image Anal (2013)",
+     "JT": "Multimodal brain image analysis : third International Workshop, MBIA 2013, held in conjunction with MICCAI 2013, Nagoya, Japan, September 22, 2013 : proceedings. MBIA (Workshop) (3rd : 2013 : Nagoya-shi, Japan)",
+     "JID": "101643449",
+     "PMC": "PMC4224282",
+     "MID": [
+          "NIHMS611801"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's Disease",
+          "Data Integration",
+          "Graph-based Semi-Supervised Learning",
+          "Mild Cognitive Impairment",
+          "Multimodal Brain Imaging Data"
+     ],
+     "EDAT": "2013/01/01 00:00",
+     "MHDA": "2013/01/01 00:00",
+     "CRDT": [
+          "2014/11/11 06:00"
+     ],
+     "PHST": [
+          "2014/11/11 06:00 [entrez]",
+          "2013/01/01 00:00 [pubmed]",
+          "2013/01/01 00:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/978-3-319-02126-3_16 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Multimodal Brain Image Anal (2013). 2013;8159:159-169. doi: 10.1007/978-3-319-02126-3_16.",
+     "term": "hippocampus"
+}

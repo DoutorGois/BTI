@@ -1,0 +1,73 @@
+{
+     "PMID": "22707350",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130627",
+     "LR": "20121121",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "22",
+     "IP": "12",
+     "DP": "2012 Dec",
+     "TI": "Learned integration of visual, vestibular, and motor cues in multiple brain regions computes head direction during visually guided navigation.",
+     "PG": "2219-37",
+     "LID": "10.1002/hipo.22040 [doi]",
+     "AB": "Effective navigation depends upon reliable estimates of head direction (HD). Visual, vestibular, and outflow motor signals combine for this purpose in a brain system that includes dorsal tegmental nucleus, lateral mammillary nuclei, anterior dorsal thalamic nucleus, and the postsubiculum. Learning is needed to combine such different cues to provide reliable estimates of HD. A neural model is developed to explain how these three types of signals combine adaptively within the above brain regions to generate a consistent and reliable HD estimate, in both light and darkness, which explains the following experimental facts. Each HD cell is tuned to a preferred head direction. The cell's firing rate is maximal at the preferred direction and decreases as the head turns from the preferred direction. The HD estimate is controlled by the vestibular system when visual cues are not available. A well-established visual cue anchors the cell's preferred direction when the cue is in the animal's field of view. Distal visual cues are more effective than proximal cues for anchoring the preferred direction. The introduction of novel cues in either a novel or familiar environment can gain control over a cell's preferred direction within minutes. Turning out the lights or removing all familiar cues does not change the cell's firing activity, but it may accumulate a drift in the cell's preferred direction. The anticipated time interval (ATI) of the HD estimate is greater in early processing stages of the HD system than at later stages. The model contributes to an emerging unified neural model of how multiple processing stages in spatial navigation, including postsubiculum head direction cells, entorhinal grid cells, and hippocampal place cells, are calibrated through learning in response to multiple types of signals as an animal navigates in the world.",
+     "CI": [
+          "Copyright (c) 2012 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Fortenberry, Bret",
+          "Gorchetchnikov, Anatoli",
+          "Grossberg, Stephen"
+     ],
+     "AU": [
+          "Fortenberry B",
+          "Gorchetchnikov A",
+          "Grossberg S"
+     ],
+     "AD": "Center for Adaptive Systems, Department of Cognitive and Neural Systems, and Center of Excellence for Learning in Education, Boston University, Boston, MA 02215, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120618",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Artificial Intelligence",
+          "Brain/*physiology",
+          "*Cues",
+          "Head/physiology",
+          "Learning/*physiology",
+          "*Models, Neurological",
+          "Neurons/physiology",
+          "Orientation/*physiology",
+          "Photic Stimulation",
+          "Rats",
+          "Spatial Behavior/*physiology"
+     ],
+     "EDAT": "2012/06/19 06:00",
+     "MHDA": "2013/06/29 06:00",
+     "CRDT": [
+          "2012/06/19 06:00"
+     ],
+     "PHST": [
+          "2012/04/16 00:00 [accepted]",
+          "2012/06/19 06:00 [entrez]",
+          "2012/06/19 06:00 [pubmed]",
+          "2013/06/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.22040 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2012 Dec;22(12):2219-37. doi: 10.1002/hipo.22040. Epub 2012 Jun 18.",
+     "term": "place cells"
+}

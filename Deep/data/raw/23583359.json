@@ -1,0 +1,87 @@
+{
+     "PMID": "23583359",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140106",
+     "LR": "20161209",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "78",
+     "DP": "2013 Sep",
+     "TI": "Modeling disease progression via multi-task learning.",
+     "PG": "233-48",
+     "LID": "10.1016/j.neuroimage.2013.03.073 [doi] S1053-8119(13)00326-1 [pii]",
+     "AB": "Alzheimer's disease (AD), the most common type of dementia, is a severe neurodegenerative disorder. Identifying biomarkers that can track the progress of the disease has recently received increasing attentions in AD research. An accurate prediction of disease progression would facilitate optimal decision-making for clinicians and patients. A definitive diagnosis of AD requires autopsy confirmation, thus many clinical/cognitive measures including Mini Mental State Examination (MMSE) and Alzheimer's Disease Assessment Scale cognitive subscale (ADAS-Cog) have been designed to evaluate the cognitive status of the patients and used as important criteria for clinical diagnosis of probable AD. In this paper, we consider the problem of predicting disease progression measured by the cognitive scores and selecting biomarkers predictive of the progression. Specifically, we formulate the prediction problem as a multi-task regression problem by considering the prediction at each time point as a task and propose two novel multi-task learning formulations. We have performed extensive experiments using data from the Alzheimer's Disease Neuroimaging Initiative (ADNI). Specifically, we use the baseline MRI features to predict MMSE/ADAS-Cog scores in the next 4 years. Results demonstrate the effectiveness of the proposed multi-task learning formulations for disease progression in comparison with single-task learning algorithms including ridge regression and Lasso. We also perform longitudinal stability selection to identify and analyze the temporal patterns of biomarkers in disease progression. We observe that cortical thickness average of left middle temporal, cortical thickness average of left and right Entorhinal, and white matter volume of left Hippocampus play significant roles in predicting ADAS-Cog at all time points. We also observe that several MRI biomarkers provide significant information for predicting MMSE scores for the first 2 years, however very few are shown to be significant in predicting MMSE score at later stages. The lack of predictable MRI biomarkers in later stages may contribute to the lower prediction performance of MMSE than that of ADAS-Cog in our study and other related studies.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Zhou, Jiayu",
+          "Liu, Jun",
+          "Narayan, Vaibhav A",
+          "Ye, Jieping"
+     ],
+     "AU": [
+          "Zhou J",
+          "Liu J",
+          "Narayan VA",
+          "Ye J"
+     ],
+     "AD": "Center for Evolutionary Medicine and Informatics, The Biodesign Institute, ASU, Tempe, AZ 85287, USA.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "Canadian Institutes of Health Research/Canada",
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "R01 LM010730/LM/NLM NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20130412",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "*Algorithms",
+          "Alzheimer Disease/*pathology",
+          "*Artificial Intelligence",
+          "Disease Progression",
+          "Female",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Regression Analysis"
+     ],
+     "EDAT": "2013/04/16 06:00",
+     "MHDA": "2014/01/07 06:00",
+     "CRDT": [
+          "2013/04/16 06:00"
+     ],
+     "PHST": [
+          "2012/10/01 00:00 [received]",
+          "2013/03/07 00:00 [revised]",
+          "2013/03/28 00:00 [accepted]",
+          "2013/04/16 06:00 [entrez]",
+          "2013/04/16 06:00 [pubmed]",
+          "2014/01/07 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(13)00326-1 [pii]",
+          "10.1016/j.neuroimage.2013.03.073 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2013 Sep;78:233-48. doi: 10.1016/j.neuroimage.2013.03.073. Epub 2013 Apr 12.",
+     "term": "hippocampus"
+}

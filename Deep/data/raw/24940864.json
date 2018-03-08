@@ -1,0 +1,57 @@
+{
+     "PMID": "24940864",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20150521",
+     "LR": "20140619",
+     "IS": "1424-8220 (Electronic) 1424-8220 (Linking)",
+     "VI": "14",
+     "IP": "6",
+     "DP": "2014 Jun 17",
+     "TI": "A distributed air index based on maximum boundary rectangle over grid-cells for wireless non-flat spatial data broadcast.",
+     "PG": "10619-43",
+     "LID": "10.3390/s140610619 [doi]",
+     "AB": "In the pervasive computing environment using smart devices equipped with various sensors, a wireless data broadcasting system for spatial data items is a natural way to efficiently provide a location dependent information service, regardless of the number of clients. A non-flat wireless broadcast system can support the clients in accessing quickly their preferred data items by disseminating the preferred data items more frequently than regular data on the wireless channel. To efficiently support the processing of spatial window queries in a non-flat wireless data broadcasting system, we propose a distributed air index based on a maximum boundary rectangle (MaxBR) over grid-cells (abbreviated DAIM), which uses MaxBRs for filtering out hot data items on the wireless channel. Unlike the existing index that repeats regular data items in close proximity to hot items at same frequency as hot data items in a broadcast cycle, DAIM makes it possible to repeat only hot data items in a cycle and reduces the length of the broadcast cycle. Consequently, DAIM helps the clients access the desired items quickly, improves the access time, and reduces energy consumption. In addition, a MaxBR helps the clients decide whether they have to access regular data items or not. Simulation studies show the proposed DAIM outperforms existing schemes with respect to the access time and energy consumption.",
+     "FAU": [
+          "Im, Seokjin",
+          "Choi, JinTak"
+     ],
+     "AU": [
+          "Im S",
+          "Choi J"
+     ],
+     "AD": "Department of Computer Engineering, Sungkyul University, 53, SungkyulDaehak-Ro, Manan-Gu,Anyang, Gyeonggi-Do 430-742, Korea. imseokjin@sungkyul.edu. Department of Computer Engineering, Incheon National University, 119 Academy-Ro, Yeonsu-Gu,Incheon 406-772, Korea. choi@incheon.ac.kr.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140617",
+     "PL": "Switzerland",
+     "TA": "Sensors (Basel)",
+     "JT": "Sensors (Basel, Switzerland)",
+     "JID": "101204366",
+     "PMC": "PMC4118414",
+     "EDAT": "2014/06/19 06:00",
+     "MHDA": "2014/06/19 06:01",
+     "CRDT": [
+          "2014/06/19 06:00"
+     ],
+     "PHST": [
+          "2014/03/14 00:00 [received]",
+          "2014/06/02 00:00 [revised]",
+          "2014/06/12 00:00 [accepted]",
+          "2014/06/19 06:00 [entrez]",
+          "2014/06/19 06:00 [pubmed]",
+          "2014/06/19 06:01 [medline]"
+     ],
+     "AID": [
+          "s140610619 [pii]",
+          "10.3390/s140610619 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Sensors (Basel). 2014 Jun 17;14(6):10619-43. doi: 10.3390/s140610619.",
+     "term": "grid cells"
+}

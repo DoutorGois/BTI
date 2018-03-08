@@ -1,0 +1,65 @@
+{
+     "PMID": "26227680",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160519",
+     "LR": "20171014",
+     "IS": "1612-4790 (Electronic) 1612-4782 (Linking)",
+     "VI": "16 Suppl 1",
+     "DP": "2015 Sep",
+     "TI": "Spatial abstraction for autonomous robot navigation.",
+     "PG": "215-9",
+     "LID": "10.1007/s10339-015-0713-x [doi]",
+     "AB": "Optimal navigation for a simulated robot relies on a detailed map and explicit path planning, an approach problematic for real-world robots that are subject to noise and error. This paper reports on autonomous robots that rely on local spatial perception, learning, and commonsense rationales instead. Despite realistic actuator error, learned spatial abstractions form a model that supports effective travel.",
+     "FAU": [
+          "Epstein, Susan L",
+          "Aroor, Anoop",
+          "Evanusa, Matthew",
+          "Sklar, Elizabeth I",
+          "Parsons, Simon"
+     ],
+     "AU": [
+          "Epstein SL",
+          "Aroor A",
+          "Evanusa M",
+          "Sklar EI",
+          "Parsons S"
+     ],
+     "AD": "Department of Computer Science, Hunter College of The City University of New York, New York, NY, USA, susan.epstein@hunter.cuny.edu.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "Germany",
+     "TA": "Cogn Process",
+     "JT": "Cognitive processing",
+     "JID": "101177984",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "*Artificial Intelligence",
+          "Humans",
+          "*Robotics",
+          "*Space Perception",
+          "Spatial Navigation/*physiology"
+     ],
+     "EDAT": "2015/08/01 06:00",
+     "MHDA": "2016/05/20 06:00",
+     "CRDT": [
+          "2015/08/01 06:00"
+     ],
+     "PHST": [
+          "2015/08/01 06:00 [entrez]",
+          "2015/08/01 06:00 [pubmed]",
+          "2016/05/20 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10339-015-0713-x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Cogn Process. 2015 Sep;16 Suppl 1:215-9. doi: 10.1007/s10339-015-0713-x.",
+     "term": "spatial navigation"
+}

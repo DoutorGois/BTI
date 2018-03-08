@@ -1,0 +1,62 @@
+{
+     "PMID": "26403735",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151114",
+     "LR": "20150925",
+     "IS": "1673-4254 (Print) 1673-4254 (Linking)",
+     "VI": "35",
+     "IP": "9",
+     "DP": "2015 Aug",
+     "TI": "[Medical image segmentation based on guided filtering and multi-atlas].",
+     "PG": "1263-7",
+     "AB": "A novel medical automatic image segmentation strategy based on guided filtering and multi-atlas is proposed to achieve accurate, smooth, robust, and reliable segmentation. This framework consists of 4 elements: the multi-atlas registration, which uses the atlas prior information; the label fusion, in which the similarity measure of the registration is used as the weight to fuse the warped label; the guided filtering, which uses the local information of the target image to correct the registration errors; and the threshold approaches used to obtain the segment result. The experimental results showed part among the 15 brain MRI images used to segment the hippocampus region, the proposed method achieved a median Dice coefficient of 86% on the left hippocampus and 87.4% on the right hippocampus. Compared with the traditional label fusion algorithm, the proposed algorithm outperforms the common brain image segmentation methods with a good efficiency and accuracy.",
+     "FAU": [
+          "Wen, Rui",
+          "Chen, Hongwen",
+          "Zhang, Lei",
+          "Lu, Zhentai"
+     ],
+     "AU": [
+          "Wen R",
+          "Chen H",
+          "Zhang L",
+          "Lu Z"
+     ],
+     "AD": "Department of Equipment, Nanfang Hospital, Southern medical University, Guangzhou, 510515, China.E-mail: wenrui881@163.com.",
+     "LA": [
+          "chi"
+     ],
+     "PT": [
+          "English Abstract",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "China",
+     "TA": "Nan Fang Yi Ke Da Xue Xue Bao",
+     "JT": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+     "JID": "101266132",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Hippocampus/anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "*Magnetic Resonance Imaging",
+          "*Neuroimaging",
+          "Software"
+     ],
+     "EDAT": "2015/09/26 06:00",
+     "MHDA": "2015/11/15 06:00",
+     "CRDT": [
+          "2015/09/26 06:00"
+     ],
+     "PHST": [
+          "2015/09/26 06:00 [entrez]",
+          "2015/09/26 06:00 [pubmed]",
+          "2015/11/15 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nan Fang Yi Ke Da Xue Xue Bao. 2015 Aug;35(9):1263-7.",
+     "term": "hippocampus"
+}

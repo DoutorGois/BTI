@@ -1,0 +1,81 @@
+{
+     "PMID": "9716714",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19990526",
+     "LR": "20131121",
+     "IS": "0031-6768 (Print) 0031-6768 (Linking)",
+     "VI": "436",
+     "IP": "5",
+     "DP": "1998 Oct",
+     "TI": "Indicators and optical configuration for simultaneous high-resolution recording of membrane potential and intracellular calcium using laser scanning microscopy.",
+     "PG": "788-96",
+     "AB": "The instrumental design and experimental conditions for high-speed, simultaneous optical recording of membrane potential and intracellular Ca2+ with subcellular resolution are presented. This method employs an extended version of a high-speed, random-access, laser-scanning fluorescence microscope designed to record fast physiological signals from small neuronal structures with high spatiotemporal resolution (Bullen, Patel, Saggau, Biophys J 73:477-491, 1997). With this instrument, imaging and optical recording functions are conducted separately allowing frame rates up to 3 kHz. Individual scanning points are selected interactively from a reference image collected with differential interference contrast (DIC) optics. At each recording site, fluorescence from two indicators is measured simultaneously by independent photodetectors. To optimize signal strength, spectral separation and the achievable signal-to-noise ratio, several combinations of voltage-sensitive dye, Ca2+ indicator and optical elements (dichroic mirrors, filters, etc.) were considered. The best results were achieved from the combination of the intracellular voltage-sensitive dye Di-2-ANEPEQ and the Ca2+ indicator Calcium Green-1. These indicators have overlapping absorption spectra allowing simultaneous excitation with a single laser line (488 nm). Spectral separation of the fluorescence from these two indicators was accomplished using a secondary dichroic mirror (DCLP580) and emission filters (535/45 and OG590). Representative records obtained with this instrument and this combination of indicators demonstrate the feasibility of simultaneous high fidelity measurements of membrane potential and intracellular Ca2+ from the same point at high spatial (2 micrometer) and temporal (<ms) resolution without requiring signal averaging.",
+     "FAU": [
+          "Bullen, A",
+          "Saggau, P"
+     ],
+     "AU": [
+          "Bullen A",
+          "Saggau P"
+     ],
+     "AD": "Division of Neuroscience, Baylor College of Medicine, One Baylor Plaza, Houston, TX-77030, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS33147/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "Germany",
+     "TA": "Pflugers Arch",
+     "JT": "Pflugers Archiv : European journal of physiology",
+     "JID": "0154720",
+     "RN": [
+          "0 (Fluorescent Dyes)",
+          "0 (Indicators and Reagents)",
+          "0 (JPW 1114)",
+          "0 (Organic Chemicals)",
+          "0 (Styrenes)",
+          "138067-55-7 (calcium green)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Calcium/*analysis/metabolism",
+          "Fluorescent Dyes/analysis/metabolism",
+          "Hippocampus/chemistry",
+          "Indicators and Reagents/analysis/*metabolism",
+          "Intracellular Fluid/*chemistry",
+          "Membrane Potentials/*physiology",
+          "Microscopy, Confocal/*instrumentation/*methods",
+          "Neurons/physiology",
+          "Optics and Photonics",
+          "Organic Chemicals",
+          "Rats",
+          "Styrenes/analysis/metabolism",
+          "Time Factors"
+     ],
+     "EDAT": "1998/08/26 00:00",
+     "MHDA": "1998/08/26 00:01",
+     "CRDT": [
+          "1998/08/26 00:00"
+     ],
+     "PHST": [
+          "1998/08/26 00:00 [pubmed]",
+          "1998/08/26 00:01 [medline]",
+          "1998/08/26 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s004240050703 [pii]",
+          "10.1007/s004240050703 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Pflugers Arch. 1998 Oct;436(5):788-96. doi: 10.1007/s004240050703.",
+     "term": "hippocampus"
+}

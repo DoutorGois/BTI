@@ -1,0 +1,72 @@
+{
+     "PMID": "15774943",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050808",
+     "LR": "20170219",
+     "IS": "1072-0502 (Print) 1072-0502 (Linking)",
+     "VI": "12",
+     "IP": "2",
+     "DP": "2005 Mar-Apr",
+     "TI": "A simple neural network model of the hippocampus suggesting its pathfinding role in episodic memory retrieval.",
+     "PG": "193-208",
+     "AB": "The goal of this work is to extend the theoretical understanding of the relationship between hippocampal spatial and memory functions to the level of neurophysiological mechanisms underlying spatial navigation and episodic memory retrieval. The proposed unifying theory describes both phenomena within a unique framework, as based on one and the same pathfinding function of the hippocampus. We propose a mechanism of reconstruction of the context of experience involving a search for a nearly shortest path in the space of remembered contexts. To analyze this concept in detail, we define a simple connectionist model consistent with available rodent and human neurophysiological data. Numerical study of the model begins with the spatial domain as a simple analogy for more complex phenomena. It is demonstrated how a nearly shortest path is quickly found in a familiar environment. We prove numerically that associative learning during sharp waves can account for the necessary properties of hippocampal place cells. Computational study of the model is extended to other cognitive paradigms, with the main focus on episodic memory retrieval. We show that the ability to find a correct path may be vital for successful retrieval. The model robustly exhibits the pathfinding capacity within a wide range of several factors, including its memory load (up to 30,000 abstract contexts), the number of episodes that become associated with potential target contexts, and the level of dynamical noise. We offer several testable critical predictions in both spatial and memory domains to validate the theory. Our results suggest that (1) the pathfinding function of the hippocampus, in addition to its associative and memory indexing functions, may be vital for retrieval of certain episodic memories, and (2) the hippocampal spatial navigation function could be a precursor of its memory function.",
+     "FAU": [
+          "Samsonovich, Alexei V",
+          "Ascoli, Giorgio A"
+     ],
+     "AU": [
+          "Samsonovich AV",
+          "Ascoli GA"
+     ],
+     "AD": "Krasnow Institute for Advanced Study and Department of Psychology, George Mason University, Fairfax, Virginia 22030, USA. asamsono@gmu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS039600/NS/NINDS NIH HHS/United States",
+          "NIH R01 NS39600/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "DEP": "20050317",
+     "PL": "United States",
+     "TA": "Learn Mem",
+     "JT": "Learning & memory (Cold Spring Harbor, N.Y.)",
+     "JID": "9435678",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Association Learning/*physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Mental Recall/*physiology",
+          "Mice",
+          "Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Rats",
+          "Spatial Behavior/*physiology"
+     ],
+     "PMC": "PMC1074338",
+     "EDAT": "2005/03/19 09:00",
+     "MHDA": "2005/08/09 09:00",
+     "CRDT": [
+          "2005/03/19 09:00"
+     ],
+     "PHST": [
+          "2005/03/19 09:00 [pubmed]",
+          "2005/08/09 09:00 [medline]",
+          "2005/03/19 09:00 [entrez]"
+     ],
+     "AID": [
+          "lm.85205 [pii]",
+          "10.1101/lm.85205 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Learn Mem. 2005 Mar-Apr;12(2):193-208. doi: 10.1101/lm.85205. Epub 2005 Mar 17.",
+     "term": "place cells"
+}

@@ -1,0 +1,70 @@
+{
+     "PMID": "23690757",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130522",
+     "LR": "20170621",
+     "IS": "1687-4188 (Print) 1687-4188 (Linking)",
+     "VI": "2013",
+     "DP": "2013",
+     "TI": "Robust Diffeomorphic Mapping via Geodesically Controlled Active Shapes.",
+     "PG": "205494",
+     "LID": "10.1155/2013/205494 [doi]",
+     "AB": "This paper presents recent advances in the use of diffeomorphic active shapes which incorporate the conservation laws of large deformation diffeomorphic metric mapping. The equations of evolution satisfying the conservation law are geodesics under the diffeomorphism metric and therefore termed geodesically controlled diffeomorphic active shapes (GDAS). Our principal application in this paper is on robust diffeomorphic mapping methods based on parameterized surface representations of subcortical template structures. Our parametrization of the GDAS evolution is via the initial momentum representation in the tangent space of the template surface. The dimension of this representation is constrained using principal component analysis generated from training samples. In this work, we seek to use template surfaces to generate segmentations of the hippocampus with three data attachment terms: surface matching, landmark matching, and inside-outside modeling from grayscale T1 MR imaging data. This is formulated as an energy minimization problem, where energy describes shape variability and data attachment accuracy, and we derive a variational solution. A gradient descent strategy is employed in the numerical optimization. For the landmark matching case, we demonstrate the robustness of this algorithm as applied to the workflow of a large neuroanatomical study by comparing to an existing diffeomorphic landmark matching algorithm.",
+     "FAU": [
+          "Tward, Daniel J",
+          "Ma, Jun",
+          "Miller, Michael I",
+          "Younes, Laurent"
+     ],
+     "AU": [
+          "Tward DJ",
+          "Ma J",
+          "Miller MI",
+          "Younes L"
+     ],
+     "AD": "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD 21218, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "R01 EB008171/EB/NIBIB NIH HHS/United States",
+          "R24 HL085343/HL/NHLBI NIH HHS/United States",
+          "R01 EB000975/EB/NIBIB NIH HHS/United States",
+          "P41 RR015241/RR/NCRR NIH HHS/United States",
+          "R01 MH084803/MH/NIMH NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "U01 AG033655/AG/NIA NIH HHS/United States",
+          "U01 NS082085/NS/NINDS NIH HHS/United States",
+          "P41 EB015909/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130403",
+     "PL": "United States",
+     "TA": "Int J Biomed Imaging",
+     "JT": "International journal of biomedical imaging",
+     "JID": "101250756",
+     "PMC": "PMC3638714",
+     "EDAT": "2013/05/22 06:00",
+     "MHDA": "2013/05/22 06:01",
+     "CRDT": [
+          "2013/05/22 06:00"
+     ],
+     "PHST": [
+          "2012/06/28 00:00 [received]",
+          "2013/01/20 00:00 [accepted]",
+          "2013/05/22 06:00 [entrez]",
+          "2013/05/22 06:00 [pubmed]",
+          "2013/05/22 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1155/2013/205494 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Int J Biomed Imaging. 2013;2013:205494. doi: 10.1155/2013/205494. Epub 2013 Apr 3.",
+     "term": "hippocampus"
+}

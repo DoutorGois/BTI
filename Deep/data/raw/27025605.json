@@ -1,0 +1,78 @@
+{
+     "PMID": "27025605",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170131",
+     "LR": "20180221",
+     "IS": "1861-6429 (Electronic) 1861-6410 (Linking)",
+     "VI": "11",
+     "IP": "6",
+     "DP": "2016 Jun",
+     "TI": "Estimating FLEimage distributions of manual fiducial localization in CT images.",
+     "PG": "1043-9",
+     "LID": "10.1007/s11548-016-1389-0 [doi]",
+     "AB": "PURPOSE: The fiducial localization error distribution (FLE) and fiducial configuration govern the application accuracy of point-based registration and drive target registration error (TRE) prediction models. The error of physically localizing patient fiducials ([Formula: see text]) is negligible when a registration probe matches the implanted screws with mechanical precision. Reliable trackers provide an unbiased estimate of the positional error ([Formula: see text]) with cheap repetitions. FLE further contains the localization error in the imaging data ([Formula: see text]), sampling of which in general is expensive and possibly biased. Finding the best techniques for estimating [Formula: see text] is crucial for the applicability of the TRE prediction methods. METHODS: We built a ground-truth (gt)-based unbiased estimator ([Formula: see text]) of [Formula: see text] from the samples collected in a virtual CT dataset in which the true locations of image fiducials are known by definition. Replacing true locations in [Formula: see text] by the sample mean creates a practical difference-to-mean (dtm)-based estimator ([Formula: see text]) that is applicable on any dataset. To check the practical validity of the dtm estimator, ten persons manually localized nine fiducials ten times in the virtual CT and the resulting [Formula: see text] and [Formula: see text] distributions were tested for statistical equality with a kernel-based two-sample test using the maximum mean discrepancy (MMD) (Gretton in J Mach Learn Res 13:723-773, 2012) statistics at [Formula: see text]. RESULTS: [Formula: see text] and [Formula: see text] were found (for most of the cases) not to be statistically significantly different; conditioning them on persons and/or screws however yielded statistically significant differences much more often. CONCLUSIONS: We conclude that [Formula: see text] is the best candidate (within our model) for estimating [Formula: see text] in homogeneous TRE prediction models. The presented approach also allows ground-truth-based numerical validation of [Formula: see text] estimators and (manual/automatic) image fiducial localization methods in phantoms with parameters similar to clinical datasets.",
+     "FAU": [
+          "Bardosi, Zoltan",
+          "Freysinger, Wolfgang"
+     ],
+     "AU": [
+          "Bardosi Z",
+          "Freysinger W"
+     ],
+     "AUID": [
+          "ORCID: 0000-0002-9307-5436"
+     ],
+     "AD": "Medical University Innsbruck, Innsbruck, Austria. zoltan.bardosi@i-med.ac.at. Medical University Innsbruck, Innsbruck, Austria.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160330",
+     "PL": "Germany",
+     "TA": "Int J Comput Assist Radiol Surg",
+     "JT": "International journal of computer assisted radiology and surgery",
+     "JID": "101499225",
+     "SB": "IM",
+     "MH": [
+          "*Fiducial Markers",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Phantoms, Imaging",
+          "Spatial Navigation",
+          "*Statistics as Topic",
+          "Tomography, X-Ray Computed/*methods",
+          "User-Computer Interface"
+     ],
+     "PMC": "PMC4893364",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*FLE",
+          "*Navigation",
+          "*Registration",
+          "*Virtual CT"
+     ],
+     "EDAT": "2016/03/31 06:00",
+     "MHDA": "2017/02/01 06:00",
+     "CRDT": [
+          "2016/03/31 06:00"
+     ],
+     "PHST": [
+          "2016/02/10 00:00 [received]",
+          "2016/03/15 00:00 [accepted]",
+          "2016/03/31 06:00 [entrez]",
+          "2016/03/31 06:00 [pubmed]",
+          "2017/02/01 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s11548-016-1389-0 [doi]",
+          "10.1007/s11548-016-1389-0 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Int J Comput Assist Radiol Surg. 2016 Jun;11(6):1043-9. doi: 10.1007/s11548-016-1389-0. Epub 2016 Mar 30.",
+     "term": "spatial navigation"
+}

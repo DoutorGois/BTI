@@ -1,0 +1,68 @@
+{
+     "PMID": "9830706",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19981211",
+     "LR": "20071114",
+     "IS": "0340-1200 (Print) 0340-1200 (Linking)",
+     "VI": "79",
+     "IP": "4",
+     "DP": "1998 Oct",
+     "TI": "Statistical model of the hippocampal CA3 region II. The population framework: model of rhythmic activity in the CA3 slice.",
+     "PG": "309-21",
+     "AB": "A statistical model is given to describe the electrical activity patterns of large neural populations of the hippocampal CA3 region. A continuous model has been formalized to describe the statistical processes governing the interactions within and between neural fields. The system of partial differential equations contains diffusion terms which determine the evolution of second moments of the probability distribution functions. The model is supplemented with a differential description of post-synaptic potentials. The discretization procedure has been designed so as to make the discrete equations scaling invariant. Population activities as well as underlying single-cell voltages are simulated during normal and epileptiform activities in the hippocampal CA3 slice. It is demonstrated that our model can reproduce electrophysiological phenomena characteristic to both single-cell and population activities. Specifically, fully synchronized population bursts, synchronized synaptic potentials, and low amplitude population oscillation were obtained.",
+     "FAU": [
+          "Barna, G",
+          "Grobler, T",
+          "Erdi, P"
+     ],
+     "AU": [
+          "Barna G",
+          "Grobler T",
+          "Erdi P"
+     ],
+     "AD": "Department of Biophysics, KFKI Research Institute for Particle and Nuclear Physics, Hungarian Academy of Sciences, Budapest, Hungary.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "1 R03 TW00485-01/TW/FIC NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Hippocampus/cytology/*physiology",
+          "*Models, Neurological",
+          "*Models, Statistical",
+          "Neurons/*physiology",
+          "Organ Culture Techniques",
+          "*Periodicity",
+          "Time Factors"
+     ],
+     "EDAT": "1998/11/27 00:00",
+     "MHDA": "1998/11/27 00:01",
+     "CRDT": [
+          "1998/11/27 00:00"
+     ],
+     "PHST": [
+          "1998/11/27 00:00 [pubmed]",
+          "1998/11/27 00:01 [medline]",
+          "1998/11/27 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s004220050481 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Cybern. 1998 Oct;79(4):309-21. doi: 10.1007/s004220050481.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,71 @@
+{
+     "PMID": "25571530",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151104",
+     "LR": "20150109",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2014",
+     "DP": "2014",
+     "TI": "Tissue specific arterial spin labeling fMRI: a superior method for imaging cerebral blood flow in aging and disease.",
+     "PG": "6687-90",
+     "LID": "10.1109/EMBC.2014.6945162 [doi]",
+     "AB": "Cerebral blood flow (CBF) is a physiological correlate of brain function and metabolism and as such an essential parameter for investigating how aging and disease affect the brain. Arterial spin labeling (ASL) is an fMRI method that provides absolute measurement of CBF non-invasively and with higher spatial resolution than non-MRI methods. However, application of ASL in older populations is hampered by partial volume effects (PVE) and tissue dependent changes in CBF. We have developed a tissue-specific ASL method (ts-ASL) that provides `flow density' measures by quantifying CBF for each tissue separately and independently of tissue content. Using simulated functional and structural images, we investigated the effects of brain atrophy and random noise on the SNR of GM CBF measured with conventional and ts-ASL. Results showed that: (1) For all noise levels, the SNR of ts-ASL was higher. For example, for a random Gaussian noise with standard deviation sigma = 4, the SNR of GM CBF obtained with ts-ASL was ~3 times higher than the SNR of the conventional method. (2) In contrast to conventional ASL, which was substantially affected by brain atrophy, ts-ASL was virtually independent of it. (3) The sensitivity of ts-ASL for detecting focal changes in CBF (DeltaCBF) in the presence of atrophy and noise was also higher compared to the conventional method. In hippocampus, for 15% atrophy and Gaussian noise with sigma = 4, conventional and ts-ASL retrieved 73% and 90% of the modeled DeltaCBF, respectively. Taken together, these results indicate that ts-ASL may be better suited for measuring CBF in the presence of atrophy and random noise, both of which are expected to increase with aging and disease.",
+     "FAU": [
+          "Yujie Qiu",
+          "Borogovac, Ajna",
+          "Laine, Andrew",
+          "Hirsch, Joy",
+          "Asllani, Iris"
+     ],
+     "AU": [
+          "Yujie Qiu",
+          "Borogovac A",
+          "Laine A",
+          "Hirsch J",
+          "Asllani I"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "RN": [
+          "0 (Spin Labels)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "*Aging",
+          "Atrophy",
+          "Brain Diseases/diagnosis",
+          "*Cerebrovascular Circulation",
+          "Hippocampus/blood supply/pathology/*physiopathology",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Organ Specificity",
+          "Signal-To-Noise Ratio",
+          "Spin Labels"
+     ],
+     "EDAT": "2015/01/09 06:00",
+     "MHDA": "2015/11/05 06:00",
+     "CRDT": [
+          "2015/01/09 06:00"
+     ],
+     "PHST": [
+          "2015/01/09 06:00 [entrez]",
+          "2015/01/09 06:00 [pubmed]",
+          "2015/11/05 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2014.6945162 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2014;2014:6687-90. doi: 10.1109/EMBC.2014.6945162.",
+     "term": "hippocampus"
+}

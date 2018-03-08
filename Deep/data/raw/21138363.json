@@ -1,0 +1,65 @@
+{
+     "PMID": "21138363",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110330",
+     "LR": "20101208",
+     "IS": "1361-6536 (Electronic) 0954-898X (Linking)",
+     "VI": "21",
+     "IP": "3-4",
+     "DP": "2010",
+     "TI": "Efficient, adaptive estimation of two-dimensional firing rate surfaces via Gaussian process methods.",
+     "PG": "142-68",
+     "LID": "10.3109/0954898X.2010.532288 [doi]",
+     "AB": "Estimating two-dimensional firing rate maps is a common problem, arising in a number of contexts: the estimation of place fields in hippocampus, the analysis of temporally nonstationary tuning curves in sensory and motor areas, the estimation of firing rates following spike-triggered covariance analyses, etc. Here we introduce methods based on Gaussian process nonparametric Bayesian techniques for estimating these two-dimensional rate maps. These techniques offer a number of advantages: the estimates may be computed efficiently, come equipped with natural errorbars, adapt their smoothness automatically to the local density and informativeness of the observed data, and permit direct fitting of the model hyperparameters (e.g., the prior smoothness of the rate map) via maximum marginal likelihood. We illustrate the method's flexibility and performance on a variety of simulated and real data.",
+     "FAU": [
+          "Rad, Kamiar Rahnama",
+          "Paninski, Liam"
+     ],
+     "AU": [
+          "Rad KR",
+          "Paninski L"
+     ],
+     "AD": "Department of Statistics and Center for Theoretical Neuroscience, Columbia University, New York, USA. kamiar@stat.columbia.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "England",
+     "TA": "Network",
+     "JT": "Network (Bristol, England)",
+     "JID": "9431867",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Bayes Theorem",
+          "Brain/cytology",
+          "Computer Simulation",
+          "Humans",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "*Nonlinear Dynamics",
+          "*Normal Distribution"
+     ],
+     "EDAT": "2010/12/09 06:00",
+     "MHDA": "2011/03/31 06:00",
+     "CRDT": [
+          "2010/12/09 06:00"
+     ],
+     "PHST": [
+          "2010/12/09 06:00 [entrez]",
+          "2010/12/09 06:00 [pubmed]",
+          "2011/03/31 06:00 [medline]"
+     ],
+     "AID": [
+          "10.3109/0954898X.2010.532288 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Network. 2010;21(3-4):142-68. doi: 10.3109/0954898X.2010.532288.",
+     "term": "hippocampus"
+}

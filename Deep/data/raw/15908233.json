@@ -1,0 +1,83 @@
+{
+     "PMID": "15908233",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20051004",
+     "LR": "20161019",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "27",
+     "IP": "2",
+     "DP": "2005 Aug 15",
+     "TI": "Automated segmentation of neuroanatomical structures in multispectral MR microscopy of the mouse brain.",
+     "PG": "425-35",
+     "AB": "We present the automated segmentation of magnetic resonance microscopy (MRM) images of the C57BL/6J mouse brain into 21 neuroanatomical structures, including the ventricular system, corpus callosum, hippocampus, caudate putamen, inferior colliculus, internal capsule, globus pallidus, and substantia nigra. The segmentation algorithm operates on multispectral, three-dimensional (3D) MR data acquired at 90-microm isotropic resolution. Probabilistic information used in the segmentation is extracted from training datasets of T2-weighted, proton density-weighted, and diffusion-weighted acquisitions. Spatial information is employed in the form of prior probabilities of occurrence of a structure at a location (location priors) and the pairwise probabilities between structures (contextual priors). Validation using standard morphometry indices shows good consistency between automatically segmented and manually traced data. Results achieved in the mouse brain are comparable with those achieved in human brain studies using similar techniques. The segmentation algorithm shows excellent potential for routine morphological phenotyping of mouse models.",
+     "FAU": [
+          "Ali, Anjum A",
+          "Dale, Anders M",
+          "Badea, Alexandra",
+          "Johnson, G Allan"
+     ],
+     "AU": [
+          "Ali AA",
+          "Dale AM",
+          "Badea A",
+          "Johnson GA"
+     ],
+     "AD": "Center for In Vivo Microscopy, Box 3302, Duke University Medical Center, Durham, NC 27710, USA. anjum.ali@duke.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 RR005959/RR/NCRR NIH HHS/United States",
+          "R24 CA092656/CA/NCI NIH HHS/United States",
+          "R24 CA92656/CA/NCI NIH HHS/United States",
+          "R01 HL055348/HL/NHLBI NIH HHS/United States",
+          "P41 RR05959/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Anisotropy",
+          "Bayes Theorem",
+          "Brain/*anatomy & histology/*physiology",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging/*methods/*statistics & numerical data",
+          "Male",
+          "Markov Chains",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Models, Statistical",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "2005/05/24 09:00",
+     "MHDA": "2005/10/05 09:00",
+     "CRDT": [
+          "2005/05/24 09:00"
+     ],
+     "PHST": [
+          "2004/12/27 00:00 [received]",
+          "2005/03/24 00:00 [revised]",
+          "2005/04/05 00:00 [accepted]",
+          "2005/05/24 09:00 [pubmed]",
+          "2005/10/05 09:00 [medline]",
+          "2005/05/24 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(05)00259-4 [pii]",
+          "10.1016/j.neuroimage.2005.04.017 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2005 Aug 15;27(2):425-35. doi: 10.1016/j.neuroimage.2005.04.017.",
+     "term": "hippocampus"
+}

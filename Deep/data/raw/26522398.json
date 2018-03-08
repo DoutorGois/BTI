@@ -1,0 +1,95 @@
+{
+     "PMID": "26522398",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20171017",
+     "IS": "1090-2139 (Electronic) 0889-1591 (Linking)",
+     "VI": "52",
+     "DP": "2016 Feb",
+     "TI": "Unraveling cognitive traits using the Morris water maze unbiased strategy classification (MUST-C) algorithm.",
+     "PG": "132-144",
+     "LID": "S0889-1591(15)30039-8 [pii] 10.1016/j.bbi.2015.10.013 [doi]",
+     "AB": "The assessment of spatial cognitive learning in rodents is a central approach in neuroscience, as it enables one to assess and quantify the effects of treatments and genetic manipulations from a broad perspective. Although the Morris water maze (MWM) is a well-validated paradigm for testing spatial learning abilities, manual categorization of performance in the MWM into behavioral strategies is subject to individual interpretation, and thus to biases. Here we offer a support vector machine (SVM) - based, automated, MWM unbiased strategy classification (MUST-C) algorithm, as well as a cognitive score scale. This model was examined and validated by analyzing data obtained from five MWM experiments with changing platform sizes, revealing a limitation in the spatial capacity of the hippocampus. We have further employed this algorithm to extract novel mechanistic insights on the impact of members of the Toll-like receptor pathway on cognitive spatial learning and memory. The MUST-C algorithm can greatly benefit MWM users as it provides a standardized method of strategy classification as well as a cognitive scoring scale, which cannot be derived from typical analysis of MWM data.",
+     "CI": [
+          "Copyright (c) 2015 The Authors. Published by Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Illouz, Tomer",
+          "Madar, Ravit",
+          "Louzon, Yoram",
+          "Griffioen, Kathleen J",
+          "Okun, Eitan"
+     ],
+     "AU": [
+          "Illouz T",
+          "Madar R",
+          "Louzon Y",
+          "Griffioen KJ",
+          "Okun E"
+     ],
+     "AD": "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan 5290002, Israel; The Leslie and Susan Gonda Multidisciplinary Brain Research Center, Bar-Ilan University, Ramat Gan 5290002, Israel. The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan 5290002, Israel; The Leslie and Susan Gonda Multidisciplinary Brain Research Center, Bar-Ilan University, Ramat Gan 5290002, Israel. The Leslie and Susan Gonda Multidisciplinary Brain Research Center, Bar-Ilan University, Ramat Gan 5290002, Israel; Department of Mathematics, Bar-Ilan University, Ramat Gan 5290002, Israel. Department of Biology and Chemistry, Liberty University, Lynchburg, VA 24515, USA. The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan 5290002, Israel; The Leslie and Susan Gonda Multidisciplinary Brain Research Center, Bar-Ilan University, Ramat Gan 5290002, Israel. Electronic address: eitan.okun@biu.ac.il.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20151024",
+     "PL": "Netherlands",
+     "TA": "Brain Behav Immun",
+     "JT": "Brain, behavior, and immunity",
+     "JID": "8800478",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Cognition/*physiology",
+          "Hippocampus/physiology",
+          "Male",
+          "Maze Learning/*physiology",
+          "Memory/*drug effects",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Mice, Transgenic",
+          "Space Perception/physiology",
+          "Spatial Learning/*physiology",
+          "Support Vector Machine",
+          "Swimming/physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Cognitive score",
+          "Hippocampus",
+          "Learning and memory",
+          "Machine learning",
+          "Morris water maze",
+          "SVM",
+          "Spatial learning",
+          "Spatial resolution",
+          "Strategy"
+     ],
+     "EDAT": "2015/11/03 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2015/11/03 06:00"
+     ],
+     "PHST": [
+          "2015/09/08 00:00 [received]",
+          "2015/10/22 00:00 [revised]",
+          "2015/10/22 00:00 [accepted]",
+          "2015/11/03 06:00 [entrez]",
+          "2015/11/03 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S0889-1591(15)30039-8 [pii]",
+          "10.1016/j.bbi.2015.10.013 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Behav Immun. 2016 Feb;52:132-144. doi: 10.1016/j.bbi.2015.10.013. Epub 2015 Oct 24.",
+     "term": "hippocampus"
+}

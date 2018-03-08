@@ -1,0 +1,95 @@
+{
+     "PMID": "24040258",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140603",
+     "LR": "20170922",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "9",
+     "DP": "2013",
+     "TI": "Visual search of neuropil-enriched RNAs from brain in situ hybridization data through the image analysis pipeline hippo-ATESC.",
+     "PG": "e74481",
+     "LID": "10.1371/journal.pone.0074481 [doi]",
+     "AB": "MOTIVATION: RNA molecules specifically enriched in the neuropil of neuronal cells and in particular in dendritic spines are of great interest for neurobiology in virtue of their involvement in synaptic structure and plasticity. The systematic recognition of such molecules is therefore a very important task. High resolution images of RNA in situ hybridization experiments contained in the Allen Brain Atlas (ABA) represent a very rich resource to identify them and have been so far exploited for this task through human-expert analysis. However, software tools that may automatically address the same objective are not very well developed. RESULTS: In this study we describe an automatic method for exploring in situ hybridization data and discover neuropil-enriched RNAs in the mouse hippocampus. We called it Hippo-ATESC (Automatic Texture Extraction from the Hippocampal region using Soft Computing). Bioinformatic validation showed that the Hippo-ATESC is very efficient in the recognition of RNAs which are manually identified by expert curators as neuropil-enriched on the same image series. Moreover, we show that our method can also highlight genes revealed by microdissection-based methods but missed by human visual inspection. We experimentally validated our approach by identifying a non-coding transcript enriched in mouse synaptosomes. The code is freely available on the web at http://ibislab.ce.unipr.it/software/hippo/.",
+     "FAU": [
+          "Ugolotti, Roberto",
+          "Mesejo, Pablo",
+          "Zongaro, Samantha",
+          "Bardoni, Barbara",
+          "Berto, Gaia",
+          "Bianchi, Federico",
+          "Molineris, Ivan",
+          "Giacobini, Mario",
+          "Cagnoni, Stefano",
+          "Di Cunto, Ferdinando"
+     ],
+     "AU": [
+          "Ugolotti R",
+          "Mesejo P",
+          "Zongaro S",
+          "Bardoni B",
+          "Berto G",
+          "Bianchi F",
+          "Molineris I",
+          "Giacobini M",
+          "Cagnoni S",
+          "Di Cunto F"
+     ],
+     "AD": "Department of Information Engineering, University of Parma, Parma, Italy.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "GGP12095/Telethon/Italy",
+          "GGP13081/Telethon/Italy"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130909",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (RNA, Messenger)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Atlases as Topic",
+          "Gene Expression Profiling",
+          "Hippocampus/*metabolism/ultrastructure",
+          "Humans",
+          "Image Processing, Computer-Assisted/instrumentation/*statistics & numerical data",
+          "In Situ Hybridization",
+          "Internet",
+          "Mice",
+          "Neuropil/*metabolism/ultrastructure",
+          "RNA, Messenger/*analysis/genetics",
+          "*Software"
+     ],
+     "PMC": "PMC3767670",
+     "EDAT": "2013/09/17 06:00",
+     "MHDA": "2014/06/04 06:00",
+     "CRDT": [
+          "2013/09/17 06:00"
+     ],
+     "PHST": [
+          "2013/06/28 00:00 [received]",
+          "2013/07/30 00:00 [accepted]",
+          "2013/09/17 06:00 [entrez]",
+          "2013/09/17 06:00 [pubmed]",
+          "2014/06/04 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0074481 [doi]",
+          "PONE-D-13-30375 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2013 Sep 9;8(9):e74481. doi: 10.1371/journal.pone.0074481. eCollection 2013.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,95 @@
+{
+     "PMID": "26347348",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151229",
+     "LR": "20170220",
+     "IS": "2052-4463 (Print) 2052-4463 (Linking)",
+     "VI": "2",
+     "DP": "2015",
+     "TI": "A resource from 3D electron microscopy of hippocampal neuropil for user training and tool development.",
+     "PG": "150046",
+     "LID": "10.1038/sdata.2015.46 [doi]",
+     "AB": "Resurgent interest in synaptic circuitry and plasticity has emphasized the importance of 3D reconstruction from serial section electron microscopy (3DEM). Three volumes of hippocampal CA1 neuropil from adult rat were imaged at X-Y resolution of ~2 nm on serial sections of ~50-60 nm thickness. These are the first densely reconstructed hippocampal volumes. All axons, dendrites, glia, and synapses were reconstructed in a cube (~10 mum(3)) surrounding a large dendritic spine, a cylinder (~43 mum(3)) surrounding an oblique dendritic segment (3.4 mum long), and a parallelepiped (~178 mum(3)) surrounding an apical dendritic segment (4.9 mum long). The data provide standards for identifying ultrastructural objects in 3DEM, realistic reconstructions for modeling biophysical properties of synaptic transmission, and a test bed for enhancing reconstruction tools. Representative synapses are quantified from varying section planes, and microtubules, polyribosomes, smooth endoplasmic reticulum, and endosomes are identified and reconstructed in a subset of dendrites. The original images, traces, and Reconstruct software and files are freely available and visualized at the Open Connectome Project (Data Citation 1).",
+     "FAU": [
+          "Harris, Kristen M",
+          "Spacek, Josef",
+          "Bell, Maria Elizabeth",
+          "Parker, Patrick H",
+          "Lindsey, Laurence F",
+          "Baden, Alexander D",
+          "Vogelstein, Joshua T",
+          "Burns, Randal"
+     ],
+     "AU": [
+          "Harris KM",
+          "Spacek J",
+          "Bell ME",
+          "Parker PH",
+          "Lindsey LF",
+          "Baden AD",
+          "Vogelstein JT",
+          "Burns R"
+     ],
+     "AUID": [
+          "ORCID: 0000-0002-1943-4744"
+     ],
+     "AD": "Department of Neuroscience, Center for Learning and Memory, Institute for Neuroscience, University of Texas at Austin, 1 University Station C7000 , Austin, Texas 78712, USA. Department of Pathology, Charles University at Prague, Faculty of Medicine , 500 35 Hradec Kralove, Czech Republic. Department of Neuroscience, Center for Learning and Memory, Institute for Neuroscience, University of Texas at Austin, 1 University Station C7000 , Austin, Texas 78712, USA. Department of Neuroscience, Center for Learning and Memory, Institute for Neuroscience, University of Texas at Austin, 1 University Station C7000 , Austin, Texas 78712, USA. Department of Neuroscience, Center for Learning and Memory, Institute for Neuroscience, University of Texas at Austin, 1 University Station C7000 , Austin, Texas 78712, USA. Department of Computer Science, Institute for Data Intensive Science and Engineering, Johns Hopkins University, 160 Malone Hall, 3400 N. Charles St. , Baltimore, Maryland 21218, USA. Department of Biomedical Engineering, Institute for Computational Medicine, Johns Hopkins University, Clark Hall Room 317C, 3400 N. Charles St. , Baltimore, Maryland 21218, USA. Department of Computer Science, Institute for Data Intensive Science and Engineering, Johns Hopkins University, 160 Malone Hall, 3400 N. Charles St. , Baltimore, Maryland 21218, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS092474/NS/NINDS NIH HHS/United States",
+          "NS074644/NS/NINDS NIH HHS/United States",
+          "EB016411/EB/NIBIB NIH HHS/United States",
+          "R01 NS074644/NS/NINDS NIH HHS/United States",
+          "NS21184/NS/NINDS NIH HHS/United States",
+          "R01 EB016411/EB/NIBIB NIH HHS/United States",
+          "R01 MH104319/MH/NIMH NIH HHS/United States",
+          "NS092474/NS/NINDS NIH HHS/United States",
+          "MH095980/MH/NIMH NIH HHS/United States",
+          "R01 NS021184/NS/NINDS NIH HHS/United States",
+          "R01 MH095980/MH/NIMH NIH HHS/United States",
+          "R37 NS021184/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Dataset",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20150901",
+     "PL": "England",
+     "TA": "Sci Data",
+     "JT": "Scientific data",
+     "JID": "101640192",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/*anatomy & histology",
+          "Image Processing, Computer-Assisted",
+          "Microscopy, Electron",
+          "*Neuropil",
+          "Rats",
+          "Software"
+     ],
+     "PMC": "PMC4555877",
+     "EDAT": "2015/09/09 06:00",
+     "MHDA": "2015/12/30 06:00",
+     "CRDT": [
+          "2015/09/09 06:00"
+     ],
+     "PHST": [
+          "2015/05/08 00:00 [received]",
+          "2015/08/12 00:00 [accepted]",
+          "2015/09/09 06:00 [entrez]",
+          "2015/09/09 06:00 [pubmed]",
+          "2015/12/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1038/sdata.2015.46 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Sci Data. 2015 Sep 1;2:150046. doi: 10.1038/sdata.2015.46. eCollection 2015.",
+     "term": "hippocampus"
+}

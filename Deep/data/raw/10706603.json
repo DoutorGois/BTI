@@ -1,0 +1,83 @@
+{
+     "PMID": "10706603",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20000405",
+     "LR": "20170219",
+     "IS": "1072-0502 (Print) 1072-0502 (Linking)",
+     "VI": "7",
+     "IP": "1",
+     "DP": "2000 Jan",
+     "TI": "Computer-assisted behavioral assessment of Pavlovian fear conditioning in mice.",
+     "PG": "58-72",
+     "AB": "In Pavlovian fear conditioning, a conditional stimulus (CS, usually a tone) is paired with an aversive unconditional stimulus (US, usually a foot shock) in a novel context. After even a single pairing, the animal comes to exhibit a long-lasting fear to the CS and the conditioning context, which can be measured as freezing, an adaptive defense reaction in mice. Both context and tone conditioning depend on the integrity of the amygdala, and context conditioning further depends on the hippocampus. The reliability and efficiency of the fear conditioning assay makes it an excellent candidate for the screening of learning and memory deficits in mutant mice. One obstacle is that freezing in mice has been accurately quantified only by human observers, using a tedious method that can be subject to bias. In the present study we generated a simple, high-speed, and highly accurate algorithm that scores freezing of four mice simultaneously using NIH Image on an ordinary Macintosh computer. The algorithm yielded a high correlation and excellent linear fit between computer and human scores across a broad range of conditions. This included the ability to score low pretraining baseline scores and accurately mimic the effects of two independent variables (shock intensity and test modality) on fear. Because we used a computer and digital video, we were able to acquire a secondary index of fear, activity suppression, as well as baseline activity scores. Moreover, we measured the unconditional response to shock. These additional measures can enhance the sensitivity of the assay to detect interesting memory phenotypes and control for possible confounds. Thus, this computer-assisted system for measuring behavior during fear conditioning allows for the standardized and carefully controlled assessment of multiple aspects of the fear conditioning experience.",
+     "FAU": [
+          "Anagnostaras, S G",
+          "Josselyn, S A",
+          "Frankland, P W",
+          "Silva, A J"
+     ],
+     "AU": [
+          "Anagnostaras SG",
+          "Josselyn SA",
+          "Frankland PW",
+          "Silva AJ"
+     ],
+     "AD": "Departments of Neurobiology, Psychiatry, and Psychology, Brain Research Institute, University of California, Los Angeles, California 90095, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "AG13622/AG/NIA NIH HHS/United States",
+          "R37 AG013622/AG/NIA NIH HHS/United States",
+          "R01 AG013622/AG/NIA NIH HHS/United States",
+          "F32 NS010932/NS/NINDS NIH HHS/United States",
+          "U01 AG013622/AG/NIA NIH HHS/United States",
+          "F32NS10932/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Learn Mem",
+     "JT": "Learning & memory (Cold Spring Harbor, N.Y.)",
+     "JID": "9435678",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Amnesia, Retrograde/physiopathology",
+          "Amygdala/physiology",
+          "Animals",
+          "Behavior, Animal/*physiology",
+          "Conditioning, Classical/*physiology",
+          "Electroshock",
+          "Fear/*physiology",
+          "Female",
+          "Hippocampus/physiology/surgery",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Linear Models",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Motor Activity/physiology",
+          "Pain Threshold/physiology",
+          "Pilot Projects",
+          "Video Recording/*methods"
+     ],
+     "PMC": "PMC311321",
+     "EDAT": "2000/03/08 00:00",
+     "MHDA": "2000/03/08 00:01",
+     "CRDT": [
+          "2000/03/08 00:00"
+     ],
+     "PHST": [
+          "2000/03/08 00:00 [pubmed]",
+          "2000/03/08 00:01 [medline]",
+          "2000/03/08 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Learn Mem. 2000 Jan;7(1):58-72.",
+     "term": "hippocampus"
+}

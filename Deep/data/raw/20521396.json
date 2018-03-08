@@ -1,0 +1,65 @@
+{
+     "PMID": "20521396",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100812",
+     "LR": "20100603",
+     "IS": "1049-510X (Print) 1049-510X (Linking)",
+     "VI": "20",
+     "IP": "1 Suppl 1",
+     "DP": "2010 Winter",
+     "TI": "MRI volumetric analysis techniques, including hippocampus extraction, based on data from the Honolulu Asia Aging Study (HAAS).",
+     "PG": "S1-104-6",
+     "AB": "PURPOSE: The purpose of this study is to develop and apply methods for volumetric analyses of magnetic resonance imaging (MRI) data for future comparisons with autopsy findings from the same subjects. METHODS: HAAS MRI data analysis was run using the Oxford Centre for Functional Magnetic Resonance imaging of the Brain's (FMRIB) Software Library (FSL). The Brain Extraction Tool (BET) performed brain extraction and nonlinear noise reduction with FMRIB's Smallest Univalue Segment Assimilating Nucleus (SUSAN), and extraction of hippocampus data was performed with FMRIB's Integrated Registration and Segmentation Tool (FIRST). RESULTS: Scull stripping and the extraction of the hippocampus data created a computerized model. DISCUSSION: MRI analysis techniques can be applied when comparing MRI data to autopsy results. Using the combination of this autopsy and MRI data, this study will make it possible to estimate in vivo states.",
+     "FAU": [
+          "Yun, Sajung",
+          "White, Lon"
+     ],
+     "AU": [
+          "Yun S",
+          "White L"
+     ],
+     "AD": "Pacific Health Research Institute, John A. Burns School of Medicine, Kuakni Medical Center, Honolulu, Hawaii, USA. syun@phrihawaii.org",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "1 R25 RR019321/RR/NCRR NIH HHS/United States",
+          "P20 RR11091/RR/NCRR NIH HHS/United States",
+          "U01AG019349-08/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Ethn Dis",
+     "JT": "Ethnicity & disease",
+     "JID": "9109034",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Aging/*pathology",
+          "Atrophy",
+          "Brain/pathology",
+          "Hawaii",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Processing, Computer-Assisted/*methods"
+     ],
+     "EDAT": "2010/06/04 06:00",
+     "MHDA": "2010/08/13 06:00",
+     "CRDT": [
+          "2010/06/04 06:00"
+     ],
+     "PHST": [
+          "2010/06/04 06:00 [entrez]",
+          "2010/06/04 06:00 [pubmed]",
+          "2010/08/13 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ethn Dis. 2010 Winter;20(1 Suppl 1):S1-104-6.",
+     "term": "hippocampus"
+}

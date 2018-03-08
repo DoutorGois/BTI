@@ -1,0 +1,93 @@
+{
+     "PMID": "27638650",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170911",
+     "LR": "20180101",
+     "IS": "1559-0089 (Electronic) 1539-2791 (Linking)",
+     "VI": "15",
+     "IP": "1",
+     "DP": "2017 Jan",
+     "TI": "Metric Learning for Multi-atlas based Segmentation of Hippocampus.",
+     "PG": "41-50",
+     "LID": "10.1007/s12021-016-9312-y [doi]",
+     "AB": "Automatic and reliable segmentation of hippocampus from MR brain images is of great importance in studies of neurological diseases, such as epilepsy and Alzheimer's disease. In this paper, we proposed a novel metric learning method to fuse segmentation labels in multi-atlas based image segmentation. Different from current label fusion methods that typically adopt a predefined distance metric model to compute a similarity measure between image patches of atlas images and the image to be segmented, we learn a distance metric model from the atlases to keep image patches of the same structure close to each other while those of different structures are separated. The learned distance metric model is then used to compute the similarity measure between image patches in the label fusion. The proposed method has been validated for segmenting hippocampus based on the EADC-ADNI dataset with manually labelled hippocampus of 100 subjects. The experiment results demonstrated that our method achieved statistically significant improvement in segmentation accuracy, compared with state-of-the-art multi-atlas image segmentation methods.",
+     "FAU": [
+          "Zhu, Hancan",
+          "Cheng, Hewei",
+          "Yang, Xuesong",
+          "Fan, Yong"
+     ],
+     "AU": [
+          "Zhu H",
+          "Cheng H",
+          "Yang X",
+          "Fan Y"
+     ],
+     "AD": "School of Mathematics Physics and Information, Shaoxing University, Shaoxing, 312000, China. Department of Biomedical Engineering, School of Bioinformatics, Chongqing University of Posts and Telecommunications, Chongqing, 400065, China. National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China. Department of Radiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, 19104, USA. yong.fan@ieee.org.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG014971/AG/NIA NIH HHS/United States",
+          "R01 EB022573/EB/NIBIB NIH HHS/United States",
+          "U24 CA189523/CA/NCI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "*Algorithms",
+          "Atlases as Topic",
+          "Female",
+          "Hippocampus/*cytology/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "*Machine Learning",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Software"
+     ],
+     "PMC": "PMC5438876",
+     "MID": [
+          "NIHMS817410"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*Hippocampus segmentation",
+          "*Label fusion",
+          "*Metric learning",
+          "*Multi-atlas image segmentation"
+     ],
+     "EDAT": "2016/09/18 06:00",
+     "MHDA": "2017/09/12 06:00",
+     "CRDT": [
+          "2016/09/18 06:00"
+     ],
+     "PHST": [
+          "2016/09/18 06:00 [pubmed]",
+          "2017/09/12 06:00 [medline]",
+          "2016/09/18 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s12021-016-9312-y [doi]",
+          "10.1007/s12021-016-9312-y [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2017 Jan;15(1):41-50. doi: 10.1007/s12021-016-9312-y.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,65 @@
+{
+     "PMID": "9034859",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19970428",
+     "LR": "20061115",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "6",
+     "IP": "6",
+     "DP": "1996",
+     "TI": "Memory for places: a navigational model in support of Marr's theory of hippocampal function.",
+     "PG": "735-48",
+     "AB": "In this report we describe a model that applies Marr's theory of hippocampal function to the problem of map-based navigation. Like many others we attribute a spatial memory function to the hippocampus, but we suggest that the additional functional components required for map-based navigation are located elsewhere in the brain. One of the key functional components in this model is an egocentric map of space, located in the neocortex, that is continuously updated using ideothetic (self-motion) information. The hippocampus stores snapshots of this egocentric map. The modeled activity pattern of head direction cells is used to set the best egocentric map rotation to match the snapshots stored in the hippocampus, resulting in place cells with a nondirectional firing pattern. We describe an evaluation of this model using a mobile robot and demonstrate that with this model the robot can recognize an environment and find a hidden goal. This model is discussed in the context of prior experiments that were designed to discover the map-based spatial processing of animals. We also predict the results of further experiments.",
+     "FAU": [
+          "Recce, M",
+          "Harris, K D"
+     ],
+     "AU": [
+          "Recce M",
+          "Harris KD"
+     ],
+     "AD": "Department of Anatomy and Developmental Biology, University College London, England.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM S",
+     "MH": [
+          "Animals",
+          "Head/physiology",
+          "Hippocampus/cytology/*physiology",
+          "Learning/physiology",
+          "Memory/*physiology",
+          "*Models, Neurological",
+          "Neurons/physiology",
+          "Rats",
+          "Robotics",
+          "Space Perception/physiology",
+          "Spatial Behavior/*physiology"
+     ],
+     "EDAT": "1996/01/01 00:00",
+     "MHDA": "1996/01/01 00:01",
+     "CRDT": [
+          "1996/01/01 00:00"
+     ],
+     "PHST": [
+          "1996/01/01 00:00 [pubmed]",
+          "1996/01/01 00:01 [medline]",
+          "1996/01/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/(SICI)1098-1063(1996)6:6&lt;735::AID-HIPO15&gt;3.0.CO;2-1 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 1996;6(6):735-48. doi: 10.1002/(SICI)1098-1063(1996)6:6&lt;735::AID-HIPO15&gt;3.0.CO;2-1.",
+     "term": "place cells"
+}

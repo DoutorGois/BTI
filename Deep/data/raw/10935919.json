@@ -1,0 +1,64 @@
+{
+     "PMID": "10935919",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20000906",
+     "LR": "20071114",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "12",
+     "IP": "7",
+     "DP": "2000 Jul",
+     "TI": "Multispikes and synchronization in a large neural network with temporal delays.",
+     "PG": "1573-606",
+     "AB": "Coherent rhythms in the gamma frequency range are ubiquitous in the nervous system and thought to be important in a variety of cognitive activities. Such rhythms are known to be able to synchronize with millisecond precision across distances with significant conduction delay; it is mysterious how this can operate in a setting in which cells receive many inputs over a range of time. Here we analyze a version of mechanism, previously proposed, that the synchronization in the CA1 region of the hippocampus depends on the firing of \"doublets\" by the interneurons. Using a network of local circuits that are arranged in a possibly disordered lattice, we determine the conditions on parameters for existence and stability of synchronous solutions in which the inhibitory interneurons fire single spikes, doublets, or triplets per cycle. We show that the synchronous solution is only marginally stable if the interneurons fire singlets. If they fire doublets, the synchronous state is asymptotically stable in a larger subset of parameter space than if they fire triplets. An unexpected finding is that a small amount of disorder in the lattice structure enlarges the parameter regime in which the doublet solution is stable. Synaptic noise reduces the regime in which the doublet configuration is stable, but only weakly.",
+     "FAU": [
+          "Karbowski, J",
+          "Kopell, N"
+     ],
+     "AU": [
+          "Karbowski J",
+          "Kopell N"
+     ],
+     "AD": "Center for Biodynamics, Department of Mathematics, Boston University, MA 02215, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH47150/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Cerebral Cortex/cytology/physiology",
+          "*Cortical Synchronization",
+          "Hippocampus/cytology/*physiology",
+          "Interneurons/physiology",
+          "Neural Inhibition/physiology",
+          "*Neural Networks (Computer)",
+          "Reaction Time/physiology",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2000/08/10 11:00",
+     "MHDA": "2000/09/09 11:01",
+     "CRDT": [
+          "2000/08/10 11:00"
+     ],
+     "PHST": [
+          "2000/08/10 11:00 [pubmed]",
+          "2000/09/09 11:01 [medline]",
+          "2000/08/10 11:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2000 Jul;12(7):1573-606.",
+     "term": "hippocampus"
+}

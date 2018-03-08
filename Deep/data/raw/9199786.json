@@ -1,0 +1,69 @@
+{
+     "PMID": "9199786",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19970827",
+     "LR": "20141120",
+     "IS": "0006-3495 (Print) 0006-3495 (Linking)",
+     "VI": "73",
+     "IP": "1",
+     "DP": "1997 Jul",
+     "TI": "Detection of spontaneous synaptic events with an optimally scaled template.",
+     "PG": "220-9",
+     "AB": "Spontaneous synaptic events can be difficult to detect when their amplitudes are close to the background noise level. Here we report a sensitive new technique for automatic detection of small asynchronous events. A waveform with the time course of a typical synaptic event (a template) is slid along the current or voltage trace and optimally scaled to fit the data at each position. A detection criterion is calculated based on the optimum scaling factor and the quality of the fit. An event is detected when this criterion crosses a threshold level. The algorithm automatically compensates for changes in recording noise. The sensitivity and selectivity of the method were tested using real and simulated data, and the influence of the template parameter settings was investigated. Its performance was comparable to that obtained by visual event detection, and it was more sensitive than previously described threshold detection techniques. Under typical recording conditions, all fast synaptic events with amplitudes of at least three times the noise standard deviation (3 sigma) could be detected, as could 75% of events with amplitudes of 2 sigma. The scaled template technique is implemented within a commercial data analysis application and can be applied to many standard electrophysiological data file formats.",
+     "FAU": [
+          "Clements, J D",
+          "Bekkers, J M"
+     ],
+     "AU": [
+          "Clements JD",
+          "Bekkers JM"
+     ],
+     "AD": "John Curtin School of Medical Research, Australian National University, Canberra, Australia. john.clements@anu.edu.au",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Biophys J",
+     "JT": "Biophysical journal",
+     "JID": "0370626",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Computer Simulation",
+          "Dentate Gyrus/physiology",
+          "Electric Stimulation",
+          "Evoked Potentials/*physiology",
+          "Hippocampus/*physiology",
+          "In Vitro Techniques",
+          "*Models, Neurological",
+          "Rats",
+          "Rats, Wistar",
+          "Software",
+          "Synapses/*physiology",
+          "Synaptic Transmission/*physiology",
+          "Time Factors"
+     ],
+     "PMC": "PMC1180923",
+     "EDAT": "1997/07/01 00:00",
+     "MHDA": "1997/07/01 00:01",
+     "CRDT": [
+          "1997/07/01 00:00"
+     ],
+     "PHST": [
+          "1997/07/01 00:00 [pubmed]",
+          "1997/07/01 00:01 [medline]",
+          "1997/07/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "S0006-3495(97)78062-7 [pii]",
+          "10.1016/S0006-3495(97)78062-7 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biophys J. 1997 Jul;73(1):220-9. doi: 10.1016/S0006-3495(97)78062-7.",
+     "term": "hippocampus"
+}

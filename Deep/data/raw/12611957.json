@@ -1,0 +1,67 @@
+{
+     "PMID": "12611957",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030702",
+     "LR": "20061115",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "89",
+     "IP": "5",
+     "DP": "2003 May",
+     "TI": "From subthreshold to firing-rate resonance.",
+     "PG": "2538-54",
+     "AB": "Many types of neurons exhibit subthreshold resonance. However, little is known about whether this frequency preference influences spike emission. Here, the link between subthreshold resonance and firing rate is examined in the framework of conductance-based models. A classification of the subthreshold properties of a general class of neurons is first provided. In particular, a class of neurons is identified in which the input impedance exhibits a suppression at a nonzero low frequency as well as a peak at higher frequency. The analysis is then extended to the effect of subthreshold resonance on the dynamics of the firing rate. The considered input current comprises a background noise term, mimicking the massive synaptic bombardment in vivo. Of interest is the modulatory effect an additional weak oscillating current has on the instantaneous firing rate. When the noise is weak and firing regular, the frequency most preferentially modulated is the firing rate itself. Conversely, when the noise is strong and firing irregular, the modulation is strongest at the subthreshold resonance frequency. These results are demonstrated for two specific conductance-based models and for a generalization of the integrate-and-fire model that captures subthreshold resonance. They suggest that resonant neurons are able to communicate their frequency preference to postsynaptic targets when the level of noise is comparable to that prevailing in vivo.",
+     "FAU": [
+          "Richardson, Magnus J E",
+          "Brunel, Nicolas",
+          "Hakim, Vincent"
+     ],
+     "AU": [
+          "Richardson MJ",
+          "Brunel N",
+          "Hakim V"
+     ],
+     "AD": "Laboratoire de Physique Statistique, Ecole Normale Superieure, 75231 Paris Cedex 05, France. Magnus.Richardson@epfl.ch",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20021227",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Electrophysiology",
+          "Hippocampus/cytology/physiology",
+          "Interneurons/physiology",
+          "Membrane Potentials/physiology",
+          "Models, Neurological",
+          "Neural Conduction/physiology",
+          "Neurons/*physiology",
+          "Stochastic Processes",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2003/03/04 04:00",
+     "MHDA": "2003/07/03 05:00",
+     "CRDT": [
+          "2003/03/04 04:00"
+     ],
+     "PHST": [
+          "2003/03/04 04:00 [pubmed]",
+          "2003/07/03 05:00 [medline]",
+          "2003/03/04 04:00 [entrez]"
+     ],
+     "AID": [
+          "10.1152/jn.00955.2002 [doi]",
+          "00955.2002 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2003 May;89(5):2538-54. doi: 10.1152/jn.00955.2002. Epub 2002 Dec 27.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,74 @@
+{
+     "PMID": "8035217",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19940816",
+     "LR": "20171213",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "71",
+     "IP": "4",
+     "DP": "1994 Apr",
+     "TI": "Noise analysis of miniature IPSCs in adult rat brain slices: properties and modulation of synaptic GABAA receptor channels.",
+     "PG": "1318-35",
+     "AB": "1. The properties of synaptic gamma-aminobutyric acid (GABA)A receptor channels were resolved by using tight-seal, whole-cell recordings from granule cells of the dentate gyrus in adult rat hippocampal slices and by applying the technique of nonstationary noise analysis to study miniature inhibitory postsynaptic currents (mIPSCs) recorded in the presence of tetrodotoxin (TTX), 6-cyano-7-nitroquinoxaline-2,3-dione (CNQX), and D-2-amino-5-phosphonovaleric acid (D-AP5). This technique allowed us to extract information about the conductance, the number, and the kinetics of ligand gated channels underlying elementary synaptic currents. 2. To ascertain the validity of the nonstationary noise analysis method we have first tested it on computer simulated mIPSCs with different channel activation, lifetime kinetics, and opening probabilities. Using intraburst mean open times, shorter than the time to the first opening following activation, caused a large variance at the peak due to the stochastic channel properties. This resulted in a skewed mean current-variance relationship, which precluded proper estimation of unit conductance and especially the number of channels open at the peak of mIPSCs. Regardless of the probability of channel opening, accurate estimates of the unit conductance and the number of channels underlying each simulated mIPSC were obtained when channels had mean open times longer than the time to first opening. 3. Once the validity of the nonstationary analysis had been ascertained, it was used on mIPSCs recorded at 35 degrees C. The unit conductance of the synaptic GABAA channels was 28 +/- 1 (SE) pS and the average number of channels underlying mIPSCs was 46 +/- 4. The mean current-variance relationship was not skewed at higher amplitudes, suggesting that the intrinsic variance at the peak of the GABAA mIPSCs is low and that the open time of the channels is longer than the time to first opening. The estimated unit conductance of the channels was constant over a wide range of holding potentials. 4. The amplitude distribution of mIPSCs with rapid 10-90% rise times (290 +/- 20 microseconds) was clearly skewed towards low values. This skew was not due to filtering of electrotonically distant currents. Current-variance analysis revealed that the skewness resulted from differences in the number of GABAA receptor channels and not from the heterogeneity of unitary conductances at various synapses. Selection of mIPSCs with slower rise times yielded smaller unit conductance estimates.(ABSTRACT TRUNCATED AT 400 WORDS)",
+     "FAU": [
+          "De Koninck, Y",
+          "Mody, I"
+     ],
+     "AU": [
+          "De Koninck Y",
+          "Mody I"
+     ],
+     "AD": "Department of Neurology and Neurological Sciences, Stanford University School of Medicine, California 94305-5300.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS-27528/NS/NINDS NIH HHS/United States",
+          "NS-30549/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "0 (Receptors, GABA-A)",
+          "56-12-2 (gamma-Aminobutyric Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Culture Techniques",
+          "Electroencephalography/*instrumentation",
+          "Hippocampus/*physiology",
+          "Membrane Potentials/physiology",
+          "Neural Inhibition/*physiology",
+          "Rats",
+          "Rats, Wistar",
+          "Receptors, GABA-A/*physiology",
+          "Signal Processing, Computer-Assisted/*instrumentation",
+          "Synaptic Transmission/*physiology",
+          "gamma-Aminobutyric Acid/physiology"
+     ],
+     "EDAT": "1994/04/01 00:00",
+     "MHDA": "1994/04/01 00:01",
+     "CRDT": [
+          "1994/04/01 00:00"
+     ],
+     "PHST": [
+          "1994/04/01 00:00 [pubmed]",
+          "1994/04/01 00:01 [medline]",
+          "1994/04/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1152/jn.1994.71.4.1318 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 1994 Apr;71(4):1318-35. doi: 10.1152/jn.1994.71.4.1318.",
+     "term": "hippocampus"
+}

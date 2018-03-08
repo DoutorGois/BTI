@@ -1,0 +1,69 @@
+{
+     "PMID": "26560868",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170821",
+     "LR": "20171130",
+     "IS": "1558-2531 (Electronic) 0018-9294 (Linking)",
+     "VI": "63",
+     "IP": "7",
+     "DP": "2016 Jul",
+     "TI": "Deep Transcranial Magnetic Stimulation: Modeling of Different Coil Configurations.",
+     "PG": "1543-50",
+     "LID": "10.1109/TBME.2015.2498646 [doi]",
+     "AB": "OBJECTIVE: Deep transcranial magnetic stimulation (dTMS) has been recently used in several clinical studies as diagnostic and therapeutic tool. However, electric field (E) distributions induced in the brain by dTMS are still unknown. This paper provides a characterization of the induced E distributions in the brain of a realistic human model due to 16 different coil configurations. METHODS: The scalar potential finite-element method was used to calculate the E distributions differentiating the brain structures, e.g., cortex, white matter, anterior cingulated cortex, cerebellum, thalamus, hypothalamus, nucleus accumbens, amygdale, and hippocampus. RESULTS: Our results support that the double cone coils and the large diameter circular coils are more prone to activate deeper brain structures but are also characterized by a reduced focality on the surface of the cortex, with the consequent possible counter effect of stimulating regions not of interest. The Hesed coils, although their ability to reach deep brain tissues is lower, seem to be more able to reduce the effect on other brain regions where the stimulation is undesired. CONCLUSION: All the coil configurations resulted subjected to a depth-focality tradeoff. SIGNIFICANCE: Since there is not a configuration that is capable of achieving a stimulation both deep and focal, the selection of the most suitable coil settings for a specific clinical application should be based on a balanced evaluation between these two different needs.",
+     "FAU": [
+          "Guadagnin, Vanessa",
+          "Parazzini, Marta",
+          "Fiocchi, Serena",
+          "Liorni, Ilaria",
+          "Ravazzani, Paolo"
+     ],
+     "AU": [
+          "Guadagnin V",
+          "Parazzini M",
+          "Fiocchi S",
+          "Liorni I",
+          "Ravazzani P"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20151106",
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Brain/*physiology",
+          "Computer Simulation",
+          "Electromagnetic Fields",
+          "Equipment Design",
+          "Female",
+          "Head/*physiology",
+          "Humans",
+          "*Models, Biological",
+          "Transcranial Magnetic Stimulation/*instrumentation"
+     ],
+     "EDAT": "2015/11/13 06:00",
+     "MHDA": "2017/08/22 06:00",
+     "CRDT": [
+          "2015/11/13 06:00"
+     ],
+     "PHST": [
+          "2015/11/13 06:00 [entrez]",
+          "2015/11/13 06:00 [pubmed]",
+          "2017/08/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TBME.2015.2498646 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 2016 Jul;63(7):1543-50. doi: 10.1109/TBME.2015.2498646. Epub 2015 Nov 6.",
+     "term": "hippocampus"
+}

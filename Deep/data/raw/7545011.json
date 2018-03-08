@@ -1,0 +1,66 @@
+{
+     "PMID": "7545011",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19951012",
+     "LR": "20170714",
+     "IS": "0340-1200 (Print) 0340-1200 (Linking)",
+     "VI": "73",
+     "IP": "2",
+     "DP": "1995 Jul",
+     "TI": "Synchrony measures for biological neural networks.",
+     "PG": "129-37",
+     "AB": "Synchronous firing of a population of neurons has been observed in many experimental preparations; in addition, various mathematical neural network models have been shown, analytically or numerically, to contain stable synchronous solutions. In order to assess the level of synchrony of a particular network over some time interval, quantitative measures of synchrony are needed. We develop here various synchrony measures which utilize only the spike times of the neurons; these measures are applicable in both experimental situations and in computer models. Using a mathematical model of the CA3 region of the hippocampus, we evaluate these synchrony measures and compare them with pictorial representations of network activity. We illustrate how synchrony is lost and synchrony measures change as heterogeneity amongst cells increases. Theoretical expected values of the synchrony measures for different categories of network solutions are derived and compared with results of simulations.",
+     "FAU": [
+          "Pinsky, P F",
+          "Rinzel, J"
+     ],
+     "AU": [
+          "Pinsky PF",
+          "Rinzel J"
+     ],
+     "AD": "Mathematical Research Branch, NIDDK, National Institutes of Health, Bethesda, MD 20892, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "RN": [
+          "6384-92-5 (N-Methylaspartate)",
+          "77521-29-0 (alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Computer Simulation",
+          "Cybernetics",
+          "Hippocampus/physiology",
+          "Humans",
+          "In Vitro Techniques",
+          "*Models, Neurological",
+          "N-Methylaspartate/metabolism",
+          "Nerve Net/*physiology",
+          "Periodicity",
+          "alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid/metabolism"
+     ],
+     "EDAT": "1995/07/01 00:00",
+     "MHDA": "1995/07/01 00:01",
+     "CRDT": [
+          "1995/07/01 00:00"
+     ],
+     "PHST": [
+          "1995/07/01 00:00 [pubmed]",
+          "1995/07/01 00:01 [medline]",
+          "1995/07/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Cybern. 1995 Jul;73(2):129-37.",
+     "term": "hippocampus"
+}

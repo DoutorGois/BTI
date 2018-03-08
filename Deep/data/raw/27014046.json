@@ -1,0 +1,68 @@
+{
+     "PMID": "27014046",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20160325",
+     "LR": "20170220",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "10",
+     "DP": "2016",
+     "TI": "Random Forest Segregation of Drug Responses May Define Regions of Biological Significance.",
+     "PG": "21",
+     "LID": "10.3389/fncom.2016.00021 [doi]",
+     "AB": "The ability to assess brain responses in unsupervised manner based on fMRI measure has remained a challenge. Here we have applied the Random Forest (RF) method to detect differences in the pharmacological MRI (phMRI) response in rats to treatment with an analgesic drug (buprenorphine) as compared to control (saline). Three groups of animals were studied: two groups treated with different doses of the opioid buprenorphine, low (LD), and high dose (HD), and one receiving saline. PhMRI responses were evaluated in 45 brain regions and RF analysis was applied to allocate rats to the individual treatment groups. RF analysis was able to identify drug effects based on differential phMRI responses in the hippocampus, amygdala, nucleus accumbens, superior colliculus, and the lateral and posterior thalamus for drug vs. saline. These structures have high levels of mu opioid receptors. In addition these regions are involved in aversive signaling, which is inhibited by mu opioids. The results demonstrate that buprenorphine mediated phMRI responses comprise characteristic features that allow a supervised differentiation from placebo treated rats as well as the proper allocation to the respective drug dose group using the RF method, a method that has been successfully applied in clinical studies.",
+     "FAU": [
+          "Bukhari, Qasim",
+          "Borsook, David",
+          "Rudin, Markus",
+          "Becerra, Lino"
+     ],
+     "AU": [
+          "Bukhari Q",
+          "Borsook D",
+          "Rudin M",
+          "Becerra L"
+     ],
+     "AD": "Institute for Biomedical Engineering, ETH Zurich and University of Zurich Zurich, Switzerland. Pain and Analgesia Imaging Neuroscience Group, Departments of Anesthesia, Perioperative and Pain Medicine, Boston Children's HospitalWaltham, MA, USA; Department of Radiology, Boston Children's HospitalWaltham, MA, USA. Institute for Biomedical Engineering, ETH Zurich and University of ZurichZurich, Switzerland; Institute of Pharmacology and Toxicology, University of ZurichZurich, Switzerland. Pain and Analgesia Imaging Neuroscience Group, Departments of Anesthesia, Perioperative and Pain Medicine, Boston Children's HospitalWaltham, MA, USA; Department of Radiology, Boston Children's HospitalWaltham, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160309",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC4783407",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "buprenorphine",
+          "fMRI",
+          "machine learning",
+          "phMRI",
+          "pharmacology",
+          "random forest"
+     ],
+     "EDAT": "2016/03/26 06:00",
+     "MHDA": "2016/03/26 06:01",
+     "CRDT": [
+          "2016/03/26 06:00"
+     ],
+     "PHST": [
+          "2015/10/26 00:00 [received]",
+          "2016/02/23 00:00 [accepted]",
+          "2016/03/26 06:00 [entrez]",
+          "2016/03/26 06:00 [pubmed]",
+          "2016/03/26 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2016.00021 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2016 Mar 9;10:21. doi: 10.3389/fncom.2016.00021. eCollection 2016.",
+     "term": "hippocampus"
+}

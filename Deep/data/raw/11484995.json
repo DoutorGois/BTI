@@ -1,0 +1,60 @@
+{
+     "PMID": "11484995",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20020109",
+     "LR": "20051116",
+     "IS": "1053-881X (Print) 1053-881X (Linking)",
+     "VI": "36",
+     "IP": "1",
+     "DP": "2001 Jan-Mar",
+     "TI": "Parallel neural systems for classical conditioning: support from computational modeling.",
+     "PG": "36-61",
+     "AB": "Classical conditioning has been explained by two main types of theories that postulate different learning mechanisms. Rescorla and Wagner (1972) put forth a theory in which conditioning is based on the ability of the US to drive learning through error correction. Alternatively, Mackintosh (1973) put forth a theory in which the ability of the CS to be associated with the unconditioned stimulus is modulated. We have proposed a reconciliation of these two mechanisms as working in parallel within different neural systems: a cerebellar system for US modulation and a hippocampal system for CS modulation. We developed a computational model of cerebellar function in eyeblink conditioning based on the error correction mechanism of the Rescorla-Wagner rule in which learning-related activity from the cerebellum inhibits the inferior olive, which is the US input pathway to the cerebellum (Gluck et al., 1994). We developed a computational model of the hippocampal region that forms altered representations of conditioned stimuli based on their behavioral outcomes (Gluck & Myers, 1993; Myers et al., 1995). Overall, computational modeling and empirical findings support the idea that, at least in the case of eyeblink conditioning, there may be two different neural systems: the cerebellum which mediates US-based error correction and hippocampus which alters representations of CSs.",
+     "FAU": [
+          "Allen, M T",
+          "Myers, C E",
+          "Gluck, M A"
+     ],
+     "AU": [
+          "Allen MT",
+          "Myers CE",
+          "Gluck MA"
+     ],
+     "AD": "Center for Molecular & Behavioral Neuroscience, Rutgers University, Newark, NJ 07102, USA. allen@axon.rutgers.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Review"
+     ],
+     "PL": "United States",
+     "TA": "Integr Physiol Behav Sci",
+     "JT": "Integrative physiological and behavioral science : the official journal of the Pavlovian Society",
+     "JID": "9105843",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Conditioning, Classical/*physiology",
+          "Generalization, Stimulus",
+          "*Models, Neurological",
+          "Neural Networks (Computer)",
+          "Rabbits",
+          "Rats"
+     ],
+     "RF": "69",
+     "EDAT": "2001/08/04 10:00",
+     "MHDA": "2002/01/10 10:01",
+     "CRDT": [
+          "2001/08/04 10:00"
+     ],
+     "PHST": [
+          "2001/08/04 10:00 [pubmed]",
+          "2002/01/10 10:01 [medline]",
+          "2001/08/04 10:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Integr Physiol Behav Sci. 2001 Jan-Mar;36(1):36-61.",
+     "term": "hippocampus"
+}

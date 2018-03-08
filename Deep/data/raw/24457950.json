@@ -1,0 +1,58 @@
+{
+     "PMID": "24457950",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "1063-6919 (Print) 1063-6919 (Linking)",
+     "DP": "2012",
+     "TI": "From label fusion to correspondence fusion: a new approach to unbiased groupwise registration.",
+     "PG": "956-963",
+     "AB": "Label fusion strategies are used in multi-atlas image segmentation approaches to compute a consensus segmentation of an image, given a set of candidate segmentations produced by registering the image to a set of atlases [19, 11, 8]. Effective label fusion strategies, such as local similarity-weighted voting [1, 13] substantially reduce segmentation errors compared to single-atlas segmentation. This paper extends the label fusion idea to the problem of finding correspondences across a set of images. Instead of computing a consensus segmentation, weighted voting is used to estimate a consensus coordinate map between a target image and a reference space. Two variants of the problem are considered: (1) where correspondences between a set of atlases are known and are propagated to the target image; (2) where correspondences are estimated across a set of images without prior knowledge. Evaluation in synthetic data shows that correspondences recovered by fusion methods are more accurate than those based on registration to a population template. In a 2D example in real MRI data, fusion methods result in more consistent mappings between manual segmentations of the hippocampus.",
+     "FAU": [
+          "Yushkevich, Paul A",
+          "Wang, Hongzhi",
+          "Pluta, John",
+          "Avants, Brian B"
+     ],
+     "AU": [
+          "Yushkevich PA",
+          "Wang H",
+          "Pluta J",
+          "Avants BB"
+     ],
+     "AD": "Department of Radiology, University of Pennsylvania, Philadelphia, USA. Department of Radiology, University of Pennsylvania, Philadelphia, USA. Department of Radiology, University of Pennsylvania, Philadelphia, USA. Department of Radiology, University of Pennsylvania, Philadelphia, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "R01 AG037376/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Proc IEEE Comput Soc Conf Comput Vis Pattern Recognit",
+     "JT": "Proceedings. IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+     "JID": "101492446",
+     "PMC": "PMC3896982",
+     "MID": [
+          "NIHMS529267"
+     ],
+     "EDAT": "2012/01/01 00:00",
+     "MHDA": "2012/01/01 00:00",
+     "CRDT": [
+          "2014/01/25 06:00"
+     ],
+     "PHST": [
+          "2014/01/25 06:00 [entrez]",
+          "2012/01/01 00:00 [pubmed]",
+          "2012/01/01 00:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/CVPR.2012.6247771 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc IEEE Comput Soc Conf Comput Vis Pattern Recognit. 2012:956-963. doi: 10.1109/CVPR.2012.6247771.",
+     "term": "hippocampus"
+}

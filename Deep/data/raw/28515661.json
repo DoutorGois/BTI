@@ -1,0 +1,59 @@
+{
+     "PMID": "28515661",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20170816",
+     "IS": "1361-1682 (Print) 1361-1682 (Linking)",
+     "VI": "21",
+     "IP": "2",
+     "DP": "2017 Apr",
+     "TI": "Improving Large Area Population Mapping Using Geotweet Densities.",
+     "PG": "317-331",
+     "LID": "10.1111/tgis.12214 [doi]",
+     "AB": "Many different methods are used to disaggregate census data and predict population densities to construct finer scale, gridded population data sets. These methods often involve a range of high resolution geospatial covariate datasets on aspects such as urban areas, infrastructure, land cover and topography; such covariates, however, are not directly indicative of the presence of people. Here we tested the potential of geo-located tweets from the social media application, Twitter, as a covariate in the production of population maps. The density of geo-located tweets in 1x1 km grid cells over a 2-month period across Indonesia, a country with one of the highest Twitter usage rates in the world, was input as a covariate into a previously published random forests-based census disaggregation method. Comparison of internal measures of accuracy and external assessments between models built with and without the geotweets showed that increases in population mapping accuracy could be obtained using the geotweet densities as a covariate layer. The work highlights the potential for such social media-derived data in improving our understanding of population distributions and offers promise for more dynamic mapping with such data being continually produced and freely available.",
+     "FAU": [
+          "Patel, Nirav N",
+          "Stevens, Forrest R",
+          "Huang, Zhuojie",
+          "Gaughan, Andrea E",
+          "Elyazar, Iqbal",
+          "Tatem, Andrew J"
+     ],
+     "AU": [
+          "Patel NN",
+          "Stevens FR",
+          "Huang Z",
+          "Gaughan AE",
+          "Elyazar I",
+          "Tatem AJ"
+     ],
+     "AD": "Department of Geography and Geoinformation ScienceGeorge Mason UniversityFairfax. Department of Geography and GeosciencesUniversity of Louisville. Department of GeographyGeoVISTA Center and Centre for Infectious Disease Dynamics, Pennsylvania State University. Department of Geography and GeosciencesUniversity of Louisville. Eijkman-Oxford Clinical Research UnitJakarta. WorldPop Project, Department of Geography and EnvironmentUniversity of Southampton. Fogarty International CenterNational Institutes of Health. Flowminder FoundationStockholm.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160630",
+     "TA": "Trans GIS",
+     "JT": "Transactions in GIS : TG",
+     "JID": "101616169",
+     "PMC": "PMC5412862",
+     "EDAT": "2017/05/19 06:00",
+     "MHDA": "2017/05/19 06:01",
+     "CRDT": [
+          "2017/05/19 06:00"
+     ],
+     "PHST": [
+          "2017/05/19 06:00 [entrez]",
+          "2017/05/19 06:00 [pubmed]",
+          "2017/05/19 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1111/tgis.12214 [doi]",
+          "TGIS12214 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Trans GIS. 2017 Apr;21(2):317-331. doi: 10.1111/tgis.12214. Epub 2016 Jun 30.",
+     "term": "grid cells"
+}

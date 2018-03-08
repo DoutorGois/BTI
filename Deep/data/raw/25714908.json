@@ -1,0 +1,71 @@
+{
+     "PMID": "25714908",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150922",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "11",
+     "IP": "2",
+     "DP": "2015 Feb",
+     "TI": "Correlations and functional connections in a population of grid cells.",
+     "PG": "e1004052",
+     "LID": "10.1371/journal.pcbi.1004052 [doi]",
+     "AB": "We study the statistics of spike trains of simultaneously recorded grid cells in freely behaving rats. We evaluate pairwise correlations between these cells and, using a maximum entropy kinetic pairwise model (kinetic Ising model), study their functional connectivity. Even when we account for the covariations in firing rates due to overlapping fields, both the pairwise correlations and functional connections decay as a function of the shortest distance between the vertices of the spatial firing pattern of pairs of grid cells, i.e. their phase difference. They take positive values between cells with nearby phases and approach zero or negative values for larger phase differences. We find similar results also when, in addition to correlations due to overlapping fields, we account for correlations due to theta oscillations and head directional inputs. The inferred connections between neurons in the same module and those from different modules can be both negative and positive, with a mean close to zero, but with the strongest inferred connections found between cells of the same module. Taken together, our results suggest that grid cells in the same module do indeed form a local network of interconnected neurons with a functional connectivity that supports a role for attractor dynamics in the generation of grid pattern.",
+     "FAU": [
+          "Dunn, Benjamin",
+          "Morreaunet, Maria",
+          "Roudi, Yasser"
+     ],
+     "AU": [
+          "Dunn B",
+          "Morreaunet M",
+          "Roudi Y"
+     ],
+     "AD": "Kavli Institute for Systems Neuroscience and Centre for Neural Computation, NTNU, Trondheim, Norway. Kavli Institute for Systems Neuroscience and Centre for Neural Computation, NTNU, Trondheim, Norway. Kavli Institute for Systems Neuroscience and Centre for Neural Computation, NTNU, Trondheim, Norway; Nordita, KTH and Stockholm University, Stockholm, Sweden.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150225",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Entorhinal Cortex/*cytology",
+          "Male",
+          "*Models, Neurological",
+          "Models, Statistical",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "Rats, Long-Evans"
+     ],
+     "PMC": "PMC4340907",
+     "EDAT": "2015/02/26 06:00",
+     "MHDA": "2015/09/24 06:00",
+     "CRDT": [
+          "2015/02/26 06:00"
+     ],
+     "PHST": [
+          "2014/04/30 00:00 [received]",
+          "2014/09/29 00:00 [accepted]",
+          "2015/02/26 06:00 [entrez]",
+          "2015/02/26 06:00 [pubmed]",
+          "2015/09/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1004052 [doi]",
+          "PCOMPBIOL-D-14-00759 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2015 Feb 25;11(2):e1004052. doi: 10.1371/journal.pcbi.1004052. eCollection 2015 Feb.",
+     "term": "grid cells"
+}

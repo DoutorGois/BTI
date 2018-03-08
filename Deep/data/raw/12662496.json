@@ -1,0 +1,48 @@
+{
+     "PMID": "12662496",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20030328",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "10",
+     "IP": "6",
+     "DP": "1997 Aug",
+     "TI": "Convergence-Zone Episodic Memory: Analysis and Simulations.",
+     "PG": "1017-1036",
+     "AB": "Human episodic memory provides a seemingly unlimited storage for everyday experiences, and a retrieval system that allows us to access the experiences with partial activation of their components. The system is believed to consist of a fast, temporary storage in the hippocampus, and a slow, long-term storage within the neocortex. This paper presents a neural network model of the hippocampal episodic memory inspired by Damasio's idea of Convergence Zones. The model consists of a layer of perceptual feature maps and a binding layer. A perceptual feature pattern is coarse coded in the binding layer, and stored on the weights between layers. A partial activation of the stored features activates the binding pattern, which in turn reactivates the entire stored pattern. For many configurations of the model, a theoretical lower bound for the memory capacity can be derived, and it can be an order of magnitude or higher than the number of all units in the model, and several orders of magnitude higher than the number of binding-layer units. Computational simulations further indicate that the average capacity is an order of magnitude larger than the theoretical lower bound, and making the connectivity between layers sparser causes an even further increase in capacity. Simulations also show that if more descriptive binding patterns are used, the errors tend to be more plausible (patterns are confused with other similar patterns), with a slight cost in capacity. The convergence-zone episodic memory therefore accounts for the immediate storage and associative retrieval capability and large capacity of the hippocampal memory, and shows why the memory encoding areas can be much smaller than the perceptual maps, consist of rather coarse computational units, and are only sparsely connected to the perceptual maps. Copyright 1997 Elsevier Science Ltd.",
+     "FAU": [
+          "Miikkulainen, Risto",
+          "Moll, Mark"
+     ],
+     "AU": [
+          "Miikkulainen R",
+          "Moll M"
+     ],
+     "AD": "Department of Computer Sciences, The University of Texas at Austin, USA",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "EDAT": "1997/08/01 00:00",
+     "MHDA": "2003/03/29 05:00",
+     "CRDT": [
+          "1997/08/01 00:00"
+     ],
+     "PHST": [
+          "1997/08/01 00:00 [pubmed]",
+          "2003/03/29 05:00 [medline]",
+          "1997/08/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(97)00016-6 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 1997 Aug;10(6):1017-1036.",
+     "term": "hippocampus"
+}

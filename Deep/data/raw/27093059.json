@@ -1,0 +1,82 @@
+{
+     "PMID": "27093059",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160815",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "12",
+     "IP": "4",
+     "DP": "2016 Apr",
+     "TI": "Hippocampal CA1 Ripples as Inhibitory Transients.",
+     "PG": "e1004880",
+     "LID": "10.1371/journal.pcbi.1004880 [doi]",
+     "AB": "Memories are stored and consolidated as a result of a dialogue between the hippocampus and cortex during sleep. Neurons active during behavior reactivate in both structures during sleep, in conjunction with characteristic brain oscillations that may form the neural substrate of memory consolidation. In the hippocampus, replay occurs within sharp wave-ripples: short bouts of high-frequency activity in area CA1 caused by excitatory activation from area CA3. In this work, we develop a computational model of ripple generation, motivated by in vivo rat data showing that ripples have a broad frequency distribution, exponential inter-arrival times and yet highly non-variable durations. Our study predicts that ripples are not persistent oscillations but result from a transient network behavior, induced by input from CA3, in which the high frequency synchronous firing of perisomatic interneurons does not depend on the time scale of synaptic inhibition. We found that noise-induced loss of synchrony among CA1 interneurons dynamically constrains individual ripple duration. Our study proposes a novel mechanism of hippocampal ripple generation consistent with a broad range of experimental data, and highlights the role of noise in regulating the duration of input-driven oscillatory spiking in an inhibitory network.",
+     "FAU": [
+          "Malerba, Paola",
+          "Krishnan, Giri P",
+          "Fellous, Jean-Marc",
+          "Bazhenov, Maxim"
+     ],
+     "AU": [
+          "Malerba P",
+          "Krishnan GP",
+          "Fellous JM",
+          "Bazhenov M"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-8733-899X"
+     ],
+     "AD": "Department of Cell Biology and Neuroscience, University of California Riverside, Riverside, California, United States of America. Department of Cell Biology and Neuroscience, University of California Riverside, Riverside, California, United States of America. Department of Psychology, University of Arizona, Tucson, Arizona, United States of America. Department of Cell Biology and Neuroscience, University of California Riverside, Riverside, California, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160419",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "CA1 Region, Hippocampal/*physiology",
+          "CA3 Region, Hippocampal/physiology",
+          "Cerebral Cortex/physiology",
+          "Computational Biology",
+          "Humans",
+          "Interneurons/physiology",
+          "Memory Consolidation/*physiology",
+          "Models, Animal",
+          "*Models, Neurological",
+          "Models, Psychological",
+          "Nerve Net/physiology",
+          "Pyramidal Cells/physiology",
+          "Rats",
+          "Rats, Inbred BN",
+          "Sleep/physiology"
+     ],
+     "PMC": "PMC4836732",
+     "EDAT": "2016/04/20 06:00",
+     "MHDA": "2016/08/16 06:00",
+     "CRDT": [
+          "2016/04/20 06:00"
+     ],
+     "PHST": [
+          "2015/09/03 00:00 [received]",
+          "2016/03/23 00:00 [accepted]",
+          "2016/04/20 06:00 [entrez]",
+          "2016/04/20 06:00 [pubmed]",
+          "2016/08/16 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1004880 [doi]",
+          "PCOMPBIOL-D-15-01497 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2016 Apr 19;12(4):e1004880. doi: 10.1371/journal.pcbi.1004880. eCollection 2016 Apr.",
+     "term": "hippocampus"
+}

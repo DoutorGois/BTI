@@ -1,0 +1,83 @@
+{
+     "PMID": "24443744",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141027",
+     "LR": "20170220",
+     "IS": "1549-5485 (Electronic) 1072-0502 (Linking)",
+     "VI": "21",
+     "IP": "2",
+     "DP": "2014 Jan 17",
+     "TI": "Learning to ignore: a modeling study of a decremental cholinergic pathway and its influence on attention and learning.",
+     "PG": "105-18",
+     "LID": "10.1101/lm.032433.113 [doi]",
+     "AB": "Learning to ignore irrelevant stimuli is essential to achieving efficient and fluid attention, and serves as the complement to increasing attention to relevant stimuli. The different cholinergic (ACh) subsystems within the basal forebrain regulate attention in distinct but complementary ways. ACh projections from the substantia innominata/nucleus basalis region (SI/nBM) to the neocortex are necessary to increase attention to relevant stimuli and have been well studied. Lesser known are ACh projections from the medial septum/vertical limb of the diagonal band (MS/VDB) to the hippocampus and the cingulate that are necessary to reduce attention to irrelevant stimuli. We developed a neural simulation to provide insight into how ACh can decrement attention using this distinct pathway from the MS/VDB. We tested the model in behavioral paradigms that require decremental attention. The model exhibits behavioral effects such as associative learning, latent inhibition, and persisting behavior. Lesioning the MS/VDB disrupts latent inhibition, and drastically increases perseverative behavior. Taken together, the model demonstrates that the ACh decremental pathway is necessary for appropriate learning and attention under dynamic circumstances and suggests a canonical neural architecture for decrementing attention.",
+     "FAU": [
+          "Oros, Nicolas",
+          "Chiba, Andrea A",
+          "Nitz, Douglas A",
+          "Krichmar, Jeffrey L"
+     ],
+     "AU": [
+          "Oros N",
+          "Chiba AA",
+          "Nitz DA",
+          "Krichmar JL"
+     ],
+     "AD": "Department of Cognitive Sciences, University of California-Irvine, Irvine, California 92697, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20140117",
+     "PL": "United States",
+     "TA": "Learn Mem",
+     "JT": "Learning & memory (Cold Spring Harbor, N.Y.)",
+     "JID": "9435678",
+     "RN": [
+          "N9YNS0M02X (Acetylcholine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Acetylcholine/*metabolism",
+          "Action Potentials",
+          "Association Learning/physiology",
+          "Attention/*physiology",
+          "Brain/*physiology/physiopathology",
+          "Computer Simulation",
+          "Cues",
+          "Extinction, Psychological/physiology",
+          "Gyrus Cinguli/physiology",
+          "Hippocampus/physiology",
+          "Inhibition (Psychology)",
+          "Learning/*physiology",
+          "*Models, Neurological",
+          "Neural Pathways/physiology",
+          "Neuronal Plasticity/physiology",
+          "Reversal Learning/physiology",
+          "Reward",
+          "Septum of Brain/physiology/physiopathology",
+          "Synapses/physiology"
+     ],
+     "PMC": "PMC3895228",
+     "EDAT": "2014/01/21 06:00",
+     "MHDA": "2014/10/28 06:00",
+     "CRDT": [
+          "2014/01/21 06:00"
+     ],
+     "PHST": [
+          "2014/01/21 06:00 [entrez]",
+          "2014/01/21 06:00 [pubmed]",
+          "2014/10/28 06:00 [medline]"
+     ],
+     "AID": [
+          "21/2/105 [pii]",
+          "10.1101/lm.032433.113 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Learn Mem. 2014 Jan 17;21(2):105-18. doi: 10.1101/lm.032433.113.",
+     "term": "hippocampus"
+}

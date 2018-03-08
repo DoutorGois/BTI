@@ -1,0 +1,66 @@
+{
+     "PMID": "16161035",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20051215",
+     "LR": "20051003",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "15",
+     "IP": "7",
+     "DP": "2005",
+     "TI": "The theta/gamma discrete phase code occuring during the hippocampal phase precession may be a more general brain coding scheme.",
+     "PG": "913-22",
+     "AB": "In the hippocampus, oscillations in the theta and gamma frequency range occur together and interact in several ways, indicating that they are part of a common functional system. It is argued that these oscillations form a coding scheme that is used in the hippocampus to organize the readout from long-term memory of the discrete sequence of upcoming places, as cued by current position. This readout of place cells has been analyzed in several ways. First, plots of the theta phase of spikes vs. position on a track show a systematic progression of phase as rats run through a place field. This is termed the phase precession. Second, two cells with nearby place fields have a systematic difference in phase, as indicated by a cross-correlation having a peak with a temporal offset that is a significant fraction of a theta cycle. Third, several different decoding algorithms demonstrate the information content of theta phase in predicting the animal's position. It appears that small phase differences corresponding to jitter within a gamma cycle do not carry information. This evidence, together with the finding that principle cells fire preferentially at a given gamma phase, supports the concept of theta/gamma coding: a given place is encoded by the spatial pattern of neurons that fire in a given gamma cycle (the exact timing within a gamma cycle being unimportant); sequential places are encoded in sequential gamma subcycles of the theta cycle (i.e., with different discrete theta phase). It appears that this general form of coding is not restricted to readout of information from long-term memory in the hippocampus because similar patterns of theta/gamma oscillations have been observed in multiple brain regions, including regions involved in working memory and sensory integration. It is suggested that dual oscillations serve a general function: the encoding of multiple units of information (items) in a way that preserves their serial order. The relationship of such coding to that proposed by Singer and von der Malsburg is discussed; in their scheme, theta is not considered. It is argued that what theta provides is the absolute phase reference needed for encoding order. Theta/gamma coding therefore bears some relationship to the concept of \"word\" in digital computers, with word length corresponding to the number of gamma cycles within a theta cycle, and discrete phase corresponding to the ordered \"place\" within a word.",
+     "CI": [
+          "Copyright 2005 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Lisman, John"
+     ],
+     "AU": [
+          "Lisman J"
+     ],
+     "AD": "Department of Biology, Brandeis University, Waltham, MA 02454, USA. Lisman@brandeis.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Review"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Biological Clocks/physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Memory/physiology",
+          "Models, Neurological",
+          "Neural Pathways/physiology",
+          "Neurons/*physiology",
+          "Synaptic Transmission/*physiology",
+          "*Theta Rhythm"
+     ],
+     "RF": "56",
+     "EDAT": "2005/09/15 09:00",
+     "MHDA": "2005/12/16 09:00",
+     "CRDT": [
+          "2005/09/15 09:00"
+     ],
+     "PHST": [
+          "2005/09/15 09:00 [pubmed]",
+          "2005/12/16 09:00 [medline]",
+          "2005/09/15 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.20121 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2005;15(7):913-22. doi: 10.1002/hipo.20121.",
+     "term": "place cells"
+}

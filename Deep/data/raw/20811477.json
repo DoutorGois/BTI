@@ -1,0 +1,78 @@
+{
+     "PMID": "20811477",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110517",
+     "LR": "20161019",
+     "IS": "1687-5273 (Electronic)",
+     "DP": "2010",
+     "TI": "Coupling among electroencephalogram gamma signals on a short time scale.",
+     "LID": "10.1155/2010/946089 [doi] 946089 [pii]",
+     "AB": "An important goal in neuroscience is to identify instances when EEG signals are coupled. We employ a method to measure the coupling strength between gamma signals (40-100 Hz) on a short time scale as the maximum cross-correlation over a range of time lags within a sliding variable-width window. Instances of coupling states among several signals are also identified, using a mixed multivariate beta distribution to model coupling strength across multiple gamma signals with reference to a common base signal. We first apply our variable-window method to simulated signals and compare its performance to a fixed-window approach. We then focus on gamma signals recorded in two regions of the rat hippocampus. Our results indicate that this may be a useful method for mapping coupling patterns among signals in EEG datasets.",
+     "FAU": [
+          "McAssey, Michael P",
+          "Hsieh, Fushing",
+          "Smith, Anne C"
+     ],
+     "AU": [
+          "McAssey MP",
+          "Hsieh F",
+          "Smith AC"
+     ],
+     "AD": "Department of Statistics, University of California Davis, MSB 4118 One Shields Avenue, Davis, CA 95616, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG025218/AG/NIA NIH HHS/United States",
+          "1R01AG025218-01A2/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20100729",
+     "PL": "United States",
+     "TA": "Comput Intell Neurosci",
+     "JT": "Computational intelligence and neuroscience",
+     "JID": "101279357",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "*Algorithms",
+          "Animals",
+          "Brain/*physiology",
+          "Brain Waves/*physiology",
+          "*Computer Simulation",
+          "Cortical Synchronization/physiology",
+          "Electrodes/standards",
+          "Electroencephalography/*methods",
+          "Hippocampus/physiology",
+          "Humans",
+          "Neurons/physiology",
+          "Rats",
+          "*Signal Processing, Computer-Assisted",
+          "Time Factors"
+     ],
+     "PMC": "PMC2926578",
+     "EDAT": "2010/09/03 06:00",
+     "MHDA": "2011/05/18 06:00",
+     "CRDT": [
+          "2010/09/03 06:00"
+     ],
+     "PHST": [
+          "2009/10/16 00:00 [received]",
+          "2010/03/22 00:00 [revised]",
+          "2010/06/16 00:00 [accepted]",
+          "2010/09/03 06:00 [entrez]",
+          "2010/09/03 06:00 [pubmed]",
+          "2011/05/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2010/946089 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Intell Neurosci. 2010. doi: 10.1155/2010/946089. Epub 2010 Jul 29.",
+     "term": "hippocampus"
+}

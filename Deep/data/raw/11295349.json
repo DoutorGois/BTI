@@ -1,0 +1,63 @@
+{
+     "PMID": "11295349",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20010614",
+     "LR": "20071115",
+     "IS": "0730-725X (Print) 0730-725X (Linking)",
+     "VI": "19",
+     "IP": "1",
+     "DP": "2001 Jan",
+     "TI": "Three-dimensional segmentation of anatomical structures in MR images on large data bases.",
+     "PG": "73-88",
+     "AB": "In this paper an image-based method founded on mathematical morphology is presented in order to facilitate the segmentation of cerebral structures over large data bases of 3D magnetic resonance images (MRIs). The segmentation is described as an immersion simulation, applied to the modified gradient image, modeled by a generated 3D-region adjacency graph (RAG). The segmentation relies on two main processes: homotopy modification and contour decision. The first one is achieved by a marker extraction stage where homogeneous 3D-regions are identified. This stage uses contrasted regions from morphological reconstruction and labeled flat regions constrained by the RAG. Then, the decision stage intends to precisely locate the contours of regions detected by the marker extraction. This decision is performed by a 3D extension of the watershed transform. The method has been applied on a data base of 3D brain MRIs composed of fifty patients. Results are illustrated by segmenting the ventricles, corpus callosum, cerebellum, hippocampus, pons, medulla and midbrain on our data base and the approach is validated on two phantom 3D MRIs.",
+     "FAU": [
+          "Bueno, G",
+          "Musse, O",
+          "Heitz, F",
+          "Armspach, J P"
+     ],
+     "AU": [
+          "Bueno G",
+          "Musse O",
+          "Heitz F",
+          "Armspach JP"
+     ],
+     "AD": "Universite Louis Pasteur (Strasbourg I), Laboratoire des Sciences de l'Image, de l'Informatique et de la Teledetection, CNRS-UPRES-A 7005, 4. Bd. Sebastien Brant, F-67400, Illkirch, France. bueno@alsace.u-strasbg.fr",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Netherlands",
+     "TA": "Magn Reson Imaging",
+     "JT": "Magnetic resonance imaging",
+     "JID": "8214883",
+     "SB": "IM",
+     "MH": [
+          "*Databases as Topic",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Mathematics",
+          "Telencephalon/*anatomy & histology"
+     ],
+     "EDAT": "2001/04/11 10:00",
+     "MHDA": "2001/06/23 10:01",
+     "CRDT": [
+          "2001/04/11 10:00"
+     ],
+     "PHST": [
+          "2001/04/11 10:00 [pubmed]",
+          "2001/06/23 10:01 [medline]",
+          "2001/04/11 10:00 [entrez]"
+     ],
+     "AID": [
+          "S0730-725X(00)00226-5 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Magn Reson Imaging. 2001 Jan;19(1):73-88.",
+     "term": "hippocampus"
+}

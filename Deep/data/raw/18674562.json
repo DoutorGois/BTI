@@ -1,0 +1,86 @@
+{
+     "PMID": "18674562",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081106",
+     "LR": "20170220",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "174",
+     "IP": "1",
+     "DP": "2008 Sep 15",
+     "TI": "Testing for nested oscillation.",
+     "PG": "50-61",
+     "LID": "10.1016/j.jneumeth.2008.06.035 [doi]",
+     "AB": "Nested oscillation occurs when the amplitude of a faster rhythm is coupled to the phase of a slower rhythm. It has been proposed to underlie the discrete nature of perception and the capacity of working memory and is a phenomenon observable in human brain imaging data. This paper compares three published methods for detecting nested oscillation and a fourth method proposed in this paper. These are: (i) the modulation index, (ii) the phase-locking value (PLV), (iii) the envelope-to-signal correlation (ESC) and (iv) a general linear model (GLM) measure derived from ESC. We applied the methods to electrocorticographic (ECoG) data recorded during a working-memory task and to data from a simulated hippocampal interneuron network. Further simulations were then made to address the dependence of each measure on signal to noise level, coupling phase, epoch length, sample rate, signal nonstationarity, and multi-phasic coupling. Our overall conclusion is that the GLM measure is the best all-round approach for detecting nested oscillation.",
+     "FAU": [
+          "Penny, W D",
+          "Duzel, E",
+          "Miller, K J",
+          "Ojemann, J G"
+     ],
+     "AU": [
+          "Penny WD",
+          "Duzel E",
+          "Miller KJ",
+          "Ojemann JG"
+     ],
+     "AD": "Wellcome Trust Centre for Neuroimaging, University College, London, UK. w.penny@fil.ion.ucl.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20080715",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Artifacts",
+          "Biological Clocks/*physiology",
+          "Brain Mapping/*methods",
+          "Cerebral Cortex/anatomy & histology/*physiology",
+          "Computer Simulation",
+          "Electroencephalography/*methods",
+          "Evoked Potentials/*physiology",
+          "Hippocampus/physiology",
+          "Humans",
+          "Interneurons/physiology",
+          "Linear Models",
+          "Male",
+          "Memory, Short-Term/physiology",
+          "Nerve Net/physiology",
+          "Neurons/*physiology",
+          "Signal Processing, Computer-Assisted"
+     ],
+     "PMC": "PMC2675174",
+     "EDAT": "2008/08/05 09:00",
+     "MHDA": "2008/11/07 09:00",
+     "CRDT": [
+          "2008/08/05 09:00"
+     ],
+     "PHST": [
+          "2007/12/28 00:00 [received]",
+          "2008/06/24 00:00 [revised]",
+          "2008/06/26 00:00 [accepted]",
+          "2008/08/05 09:00 [pubmed]",
+          "2008/11/07 09:00 [medline]",
+          "2008/08/05 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(08)00381-6 [pii]",
+          "10.1016/j.jneumeth.2008.06.035 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2008 Sep 15;174(1):50-61. doi: 10.1016/j.jneumeth.2008.06.035. Epub 2008 Jul 15.",
+     "term": "hippocampus"
+}

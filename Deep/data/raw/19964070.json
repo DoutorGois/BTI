@@ -1,0 +1,71 @@
+{
+     "PMID": "19964070",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100422",
+     "LR": "20150618",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2009",
+     "DP": "2009",
+     "TI": "Nonlinear model of single hippocampal neurons with dynamical thresholds.",
+     "PG": "3330-4",
+     "LID": "10.1109/IEMBS.2009.5333275 [doi]",
+     "AB": "Neurons transform a series of presynaptic spikes into a series of postsynaptic spikes through a number of nonlinear mechanisms. A nonlinear model with a dynamical threshold was built using a Volterra Laguerre kernel method to characterize the spike train to spike train transformations of hippocampal CA1 pyramidal neurons. Inputs of the model were broadband Poisson random impulse trains with a 2 Hz mean frequency, and outputs of the model were the corresponding evoked post-synaptic potential (PSP) and spike train data recorded from CA1 cell bodies using a whole-cell recording technique. The model consists of four major components, i.e., feedforward kernels representing the transformation of presynaptic spikes to PSPs; a dynamical threshold kernel determining threshold value based on output inter-spike-intervals (ISIs); a spike detector; and a feedback kernel representing the spike-triggered after-potentials.",
+     "FAU": [
+          "Lu, Ude",
+          "Song, Dong",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Lu U",
+          "Song D",
+          "Berger TW"
+     ],
+     "AD": "Department of Biomedical Engineering, University of Southern California, Los Angeles, CA 90089, USA. ulu@ usc.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Algorithms",
+          "Animals",
+          "CA1 Region, Hippocampal/*pathology",
+          "Electrophysiology/methods",
+          "Hippocampus/*pathology",
+          "Male",
+          "Models, Neurological",
+          "Neurons/*physiology",
+          "Poisson Distribution",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Signal Processing, Computer-Assisted",
+          "Synapses/pathology",
+          "Synaptic Transmission"
+     ],
+     "EDAT": "2009/12/08 06:00",
+     "MHDA": "2010/04/23 06:00",
+     "CRDT": [
+          "2009/12/08 06:00"
+     ],
+     "PHST": [
+          "2009/12/08 06:00 [entrez]",
+          "2009/12/08 06:00 [pubmed]",
+          "2010/04/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2009.5333275 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2009;2009:3330-4. doi: 10.1109/IEMBS.2009.5333275.",
+     "term": "hippocampus"
+}

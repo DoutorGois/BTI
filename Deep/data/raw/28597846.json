@@ -1,0 +1,52 @@
+{
+     "PMID": "28597846",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20170920",
+     "IS": "1741-2552 (Electronic) 1741-2552 (Linking)",
+     "VI": "14",
+     "IP": "5",
+     "DP": "2017 Oct",
+     "TI": "Single-trial effective brain connectivity patterns enhance discriminability of mental imagery tasks.",
+     "PG": "056005",
+     "LID": "10.1088/1741-2552/aa785c [doi]",
+     "AB": "OBJECTIVE: The majority of the current approaches of connectivity based brain-computer interface (BCI) systems focus on distinguishing between different motor imagery (MI) tasks. Brain regions associated with MI are anatomically close to each other, hence these BCI systems suffer from low performances. Our objective is to introduce single-trial connectivity feature based BCI system for cognition imagery (CI) based tasks wherein the associated brain regions are located relatively far away as compared to those for MI. APPROACH: We implemented time-domain partial Granger causality (PGC) for the estimation of the connectivity features in a BCI setting. The proposed hypothesis has been verified with two publically available datasets involving MI and CI tasks. MAIN RESULTS: The results support the conclusion that connectivity based features can provide a better performance than a classical signal processing framework based on bandpass features coupled with spatial filtering for CI tasks, including word generation, subtraction, and spatial navigation. These results show for the first time that connectivity features can provide a reliable performance for imagery-based BCI system. SIGNIFICANCE: We show that single-trial connectivity features for mixed imagery tasks (i.e. combination of CI and MI) can outperform the features obtained by current state-of-the-art method and hence can be successfully applied for BCI applications.",
+     "FAU": [
+          "Rathee, Dheeraj",
+          "Cecotti, Hubert",
+          "Prasad, Girijesh"
+     ],
+     "AU": [
+          "Rathee D",
+          "Cecotti H",
+          "Prasad G"
+     ],
+     "AD": "Intelligent Systems Research Centre, School of Computing and Intelligent Systems, Ulster University, Derry-Londonderry, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170609",
+     "PL": "England",
+     "TA": "J Neural Eng",
+     "JT": "Journal of neural engineering",
+     "JID": "101217933",
+     "EDAT": "2017/06/10 06:00",
+     "MHDA": "2017/06/10 06:00",
+     "CRDT": [
+          "2017/06/10 06:00"
+     ],
+     "PHST": [
+          "2017/06/10 06:00 [pubmed]",
+          "2017/06/10 06:00 [medline]",
+          "2017/06/10 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1088/1741-2552/aa785c [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neural Eng. 2017 Oct;14(5):056005. doi: 10.1088/1741-2552/aa785c. Epub 2017 Jun 9.",
+     "term": "spatial navigation"
+}

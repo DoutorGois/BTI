@@ -1,0 +1,69 @@
+{
+     "PMID": "24155715",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20131024",
+     "LR": "20170220",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "7",
+     "DP": "2013",
+     "TI": "Experimentally constrained CA1 fast-firing parvalbumin-positive interneuron network models exhibit sharp transitions into coherent high frequency rhythms.",
+     "PG": "144",
+     "LID": "10.3389/fncom.2013.00144 [doi]",
+     "AB": "The coupling of high frequency oscillations (HFOs; >100 Hz) and theta oscillations (3-12 Hz) in the CA1 region of rats increases during REM sleep, indicating that it may play a role in memory processing. However, it is unclear whether the CA1 region itself is capable of providing major contributions to the generation of HFOs, or if they are strictly driven through input projections. Parvalbumin-positive (PV+) interneurons may play an essential role in these oscillations due to their extensive connections with neighboring pyramidal cells, and their characteristic fast-spiking. Thus, we created mathematical network models to investigate the conditions under which networks of CA1 fast-spiking PV+ interneurons are capable of producing high frequency population rhythms. We used whole-cell patch clamp recordings of fast-spiking, PV+ cells in the CA1 region of an intact hippocampal preparation in vitro to derive cellular properties, from which we constrained an Izhikevich-type model. Novel, biologically constrained network models were constructed with these individual cell models, and we investigated networks across a range of experimentally determined excitatory inputs and inhibitory synaptic strengths. For each network, we determined network frequency and coherence. Network simulations produce coherent firing at high frequencies (>90 Hz) for parameter ranges in which PV-PV inhibitory synaptic conductances are necessarily small and external excitatory inputs are relatively large. Interestingly, our networks produce sharp transitions between random and coherent firing, and this sharpness is lost when connectivity is increased beyond biological estimates. Our work suggests that CA1 networks may be designed with mechanisms for quickly gating in and out of high frequency coherent population rhythms, which may be essential in the generation of nested theta/high frequency rhythms.",
+     "FAU": [
+          "Ferguson, Katie A",
+          "Huh, Carey Y L",
+          "Amilhon, Benedicte",
+          "Williams, Sylvain",
+          "Skinner, Frances K"
+     ],
+     "AU": [
+          "Ferguson KA",
+          "Huh CY",
+          "Amilhon B",
+          "Williams S",
+          "Skinner FK"
+     ],
+     "AD": "Division of Fundamental Neurobiology, Toronto Western Research Institute, University Health Network Toronto, ON, Canada ; Department of Physiology, University of Toronto Toronto, ON, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20131022",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC3804767",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "basket cells",
+          "fast gamma",
+          "hippocampus",
+          "inhibitory networks",
+          "mathematical model"
+     ],
+     "EDAT": "2013/10/25 06:00",
+     "MHDA": "2013/10/25 06:01",
+     "CRDT": [
+          "2013/10/25 06:00"
+     ],
+     "PHST": [
+          "2013/07/31 00:00 [received]",
+          "2013/10/03 00:00 [accepted]",
+          "2013/10/25 06:00 [entrez]",
+          "2013/10/25 06:00 [pubmed]",
+          "2013/10/25 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2013.00144 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2013 Oct 22;7:144. doi: 10.3389/fncom.2013.00144. eCollection 2013.",
+     "term": "hippocampus"
+}

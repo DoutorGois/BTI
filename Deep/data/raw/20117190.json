@@ -1,0 +1,79 @@
+{
+     "PMID": "20117190",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100727",
+     "LR": "20131121",
+     "IS": "1872-8308 (Electronic) 0376-6357 (Linking)",
+     "VI": "84",
+     "IP": "1",
+     "DP": "2010 May",
+     "TI": "Some structural determinants of Pavlovian conditioning in artificial neural networks.",
+     "PG": "526-35",
+     "LID": "10.1016/j.beproc.2010.01.018 [doi]",
+     "AB": "This paper investigates the possible role of neuroanatomical features in Pavlovian conditioning, via computer simulations with layered, feedforward artificial neural networks. The networks' structure and functioning are described by a strongly bottom-up model that takes into account the roles of hippocampal and dopaminergic systems in conditioning. Neuroanatomical features were simulated as generic structural or architectural features of neural networks. We focused on the number of units per hidden layer and connectivity. The effect of the number of units per hidden layer was investigated through simulations of resistance to extinction in fully connected networks. Large networks were more resistant to extinction than small networks, a stochastic effect of the asynchronous random procedure used in the simulator to update activations and weights. These networks did not simulate second-order conditioning because weight competition prevented conditioning to a stimulus after conditioning to another. Partially connected networks simulated second-order conditioning and devaluation of the second-order stimulus after extinction of a similar first-order stimulus. Similar stimuli were simulated as nonorthogonal input-vectors.",
+     "CI": [
+          "Copyright (c) 2009 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Sanchez, Jose M",
+          "Galeazzi, Juan M",
+          "Burgos, Jose E"
+     ],
+     "AU": [
+          "Sanchez JM",
+          "Galeazzi JM",
+          "Burgos JE"
+     ],
+     "AD": "University of Guadalajara - CEIC, Francisco de Quevedo 180, Col. Arcos de Vallarta, Guadalajara, Jalisco 44130, Mexico. jomasd@yahoo.com.mx",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20100129",
+     "PL": "Netherlands",
+     "TA": "Behav Processes",
+     "JT": "Behavioural processes",
+     "JID": "7703854",
+     "RN": [
+          "VTD58H1Z2X (Dopamine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Computer Simulation",
+          "*Conditioning, Classical/physiology",
+          "Dopamine/metabolism",
+          "Extinction, Psychological/physiology",
+          "Hippocampus/anatomy & histology/physiology",
+          "Humans",
+          "Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Neural Pathways/anatomy & histology/physiology",
+          "Neurons/physiology",
+          "Stochastic Processes",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2010/02/02 06:00",
+     "MHDA": "2010/07/28 06:00",
+     "CRDT": [
+          "2010/02/02 06:00"
+     ],
+     "PHST": [
+          "2009/10/13 00:00 [received]",
+          "2010/01/21 00:00 [revised]",
+          "2010/01/22 00:00 [accepted]",
+          "2010/02/02 06:00 [entrez]",
+          "2010/02/02 06:00 [pubmed]",
+          "2010/07/28 06:00 [medline]"
+     ],
+     "AID": [
+          "S0376-6357(10)00023-9 [pii]",
+          "10.1016/j.beproc.2010.01.018 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Behav Processes. 2010 May;84(1):526-35. doi: 10.1016/j.beproc.2010.01.018. Epub 2010 Jan 29.",
+     "term": "hippocampus"
+}

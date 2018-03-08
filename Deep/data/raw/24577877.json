@@ -1,0 +1,69 @@
+{
+     "PMID": "24577877",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150219",
+     "LR": "20140324",
+     "IS": "1432-0770 (Electronic) 0340-1200 (Linking)",
+     "VI": "108",
+     "IP": "2",
+     "DP": "2014 Apr",
+     "TI": "A feedforward model for the formation of a grid field where spatial information is provided solely from place cells.",
+     "PG": "133-43",
+     "LID": "10.1007/s00422-013-0581-3 [doi]",
+     "AB": "Grid cells (GCs) in the medial entorhinal cortex (mEC) have the property of having their firing activity spatially tuned to a regular triangular lattice. Several theoretical models for grid field formation have been proposed, but most assume that place cells (PCs) are a product of the grid cell system. There is, however, an alternative possibility that is supported by various strands of experimental data. Here we present a novel model for the emergence of gridlike firing patterns that stands on two key hypotheses: (1) spatial information in GCs is provided from PC activity and (2) grid fields result from a combined synaptic plasticity mechanism involving inhibitory and excitatory neurons mediating the connections between PCs and GCs. Depending on the spatial location, each PC can contribute with excitatory or inhibitory inputs to GC activity. The nature and magnitude of the PC input is a function of the distance to the place field center, which is inferred from rate decoding. A biologically plausible learning rule drives the evolution of the connection strengths from PCs to a GC. In this model, PCs compete for GC activation, and the plasticity rule favors efficient packing of the space representation. This leads to gridlike firing patterns. In a new environment, GCs continuously recruit new PCs to cover the entire space. The model described here makes important predictions and can represent the feedforward connections from hippocampus CA1 to deeper mEC layers.",
+     "FAU": [
+          "Castro, Luisa",
+          "Aguiar, Paulo"
+     ],
+     "AU": [
+          "Castro L",
+          "Aguiar P"
+     ],
+     "AD": "Departamento de Matematica, Faculdade de Ciencias, Universidade do Porto, Porto, Portugal.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140228",
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "CA1 Region, Hippocampal/physiology",
+          "Computer Simulation",
+          "Cybernetics",
+          "Entorhinal Cortex/*cytology/*physiology",
+          "Feedback, Physiological",
+          "Learning/physiology",
+          "*Models, Neurological",
+          "Neural Pathways/physiology",
+          "Neuronal Plasticity",
+          "Space Perception/*physiology"
+     ],
+     "EDAT": "2014/03/01 06:00",
+     "MHDA": "2015/02/20 06:00",
+     "CRDT": [
+          "2014/03/01 06:00"
+     ],
+     "PHST": [
+          "2013/06/19 00:00 [received]",
+          "2013/12/20 00:00 [accepted]",
+          "2014/03/01 06:00 [entrez]",
+          "2014/03/01 06:00 [pubmed]",
+          "2015/02/20 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s00422-013-0581-3 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Cybern. 2014 Apr;108(2):133-43. doi: 10.1007/s00422-013-0581-3. Epub 2014 Feb 28.",
+     "term": "place cells"
+}

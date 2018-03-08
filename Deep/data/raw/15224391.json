@@ -1,0 +1,52 @@
+{
+     "PMID": "15224391",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20050429",
+     "LR": "20040629",
+     "IS": "0192-8651 (Print) 0192-8651 (Linking)",
+     "VI": "25",
+     "IP": "12",
+     "DP": "2004 Sep",
+     "TI": "A fast pairlist-construction algorithm for molecular simulations under periodic boundary conditions.",
+     "PG": "1474-86",
+     "AB": "A new grid-cell algorithm is presented that permits the fast construction of cutoff-based nonbonded pairlists in molecular simulations under periodic boundary conditions based on an arbitrary box shape. The key features of the method are (1) the use of a one-dimensional mask array (to determine which grid cells contain interacting atoms) that incorporates the effect of periodicity, and (2) the grouping of adjacent interacting cells of the mask array into stripes, which permits the handling of empty cells with a very low computational overhead. Testing of the algorithm on water systems of different sizes (containing about 2000 to 11,000 molecules) shows that the method (1) is about an order of magnitude more efficient compared to a standard (double-loop) algorithm, (2) achieves quasi-linear scaling in the number of atoms, (3) is weakly sensitive in terms of efficiency to the chosen number of grid cells, and (4) can be easily parallelized.",
+     "CI": [
+          "Copyright 2004 Wiley Periodicals, Inc. J Comput Chem 25: 1474-1486, 2004"
+     ],
+     "FAU": [
+          "Heinz, Tim N",
+          "Hunenberger, Philippe H"
+     ],
+     "AU": [
+          "Heinz TN",
+          "Hunenberger PH"
+     ],
+     "AD": "Laboratorium fur Physikalische Chemie, ETH-Honggerberg, HCI, CH-8093, Zurich, Switzerland.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "J Comput Chem",
+     "JT": "Journal of computational chemistry",
+     "JID": "9878362",
+     "EDAT": "2004/06/30 05:00",
+     "MHDA": "2004/06/30 05:01",
+     "CRDT": [
+          "2004/06/30 05:00"
+     ],
+     "PHST": [
+          "2004/06/30 05:00 [pubmed]",
+          "2004/06/30 05:01 [medline]",
+          "2004/06/30 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/jcc.20071 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Chem. 2004 Sep;25(12):1474-86. doi: 10.1002/jcc.20071.",
+     "term": "grid cells"
+}

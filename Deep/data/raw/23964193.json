@@ -1,0 +1,90 @@
+{
+     "PMID": "23964193",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130821",
+     "LR": "20170220",
+     "IS": "1662-4548 (Print) 1662-453X (Linking)",
+     "VI": "7",
+     "DP": "2013",
+     "TI": "A multi-site resting state fMRI study on the amplitude of low frequency fluctuations in schizophrenia.",
+     "PG": "137",
+     "LID": "10.3389/fnins.2013.00137 [doi]",
+     "AB": "BACKGROUND: This multi-site study compares resting state fMRI amplitude of low frequency fluctuations (ALFF) and fractional ALFF (fALFF) between patients with schizophrenia (SZ) and healthy controls (HC). METHODS: Eyes-closed resting fMRI scans (5:38 min; n = 306, 146 SZ) were collected from 6 Siemens 3T scanners and one GE 3T scanner. Imaging data were pre-processed using an SPM pipeline. Power in the low frequency band (0.01-0.08 Hz) was calculated both for the original pre-processed data as well as for the pre-processed data after regressing out the six rigid-body motion parameters, mean white matter (WM) and cerebral spinal fluid (CSF) signals. Both original and regressed ALFF and fALFF measures were modeled with site, diagnosis, age, and diagnosis x age interactions. RESULTS: Regressing out motion and non-gray matter signals significantly decreased fALFF throughout the brain as well as ALFF in the cortical edge, but significantly increased ALFF in subcortical regions. Regression had little effect on site, age, and diagnosis effects on ALFF, other than to reduce diagnosis effects in subcortical regions. There were significant effects of site across the brain in all the analyses, largely due to vendor differences. HC showed greater ALFF in the occipital, posterior parietal, and superior temporal lobe, while SZ showed smaller clusters of greater ALFF in the frontal and temporal/insular regions as well as in the caudate, putamen, and hippocampus. HC showed greater fALFF compared with SZ in all regions, though subcortical differences were only significant for original fALFF. CONCLUSIONS: SZ show greater eyes-closed resting state low frequency power in frontal cortex, and less power in posterior lobes than do HC; fALFF, however, is lower in SZ than HC throughout the cortex. These effects are robust to multi-site variability. Regressing out physiological noise signals significantly affects both total and fALFF measures, but does not affect the pattern of case/control differences.",
+     "FAU": [
+          "Turner, Jessica A",
+          "Damaraju, Eswar",
+          "van Erp, Theo G M",
+          "Mathalon, Daniel H",
+          "Ford, Judith M",
+          "Voyvodic, James",
+          "Mueller, Bryon A",
+          "Belger, Aysenil",
+          "Bustillo, Juan",
+          "McEwen, Sarah",
+          "Potkin, Steven G",
+          "Fbirn",
+          "Calhoun, Vince D"
+     ],
+     "AU": [
+          "Turner JA",
+          "Damaraju E",
+          "van Erp TG",
+          "Mathalon DH",
+          "Ford JM",
+          "Voyvodic J",
+          "Mueller BA",
+          "Belger A",
+          "Bustillo J",
+          "McEwen S",
+          "Potkin SG",
+          "Fbirn",
+          "Calhoun VD"
+     ],
+     "AD": "Mind Research Network Albuquerque, NM, USA ; Department of Psychiatry, University of New Mexico Albuquerque, NM, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U24 GM104203/GM/NIGMS NIH HHS/United States",
+          "U24 RR021992/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130808",
+     "PL": "Switzerland",
+     "TA": "Front Neurosci",
+     "JT": "Frontiers in neuroscience",
+     "JID": "101478481",
+     "PMC": "PMC3737471",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "ALFF",
+          "LFO",
+          "effect size",
+          "multi-site studies",
+          "resting state fMRI",
+          "schizophrenia"
+     ],
+     "EDAT": "2013/08/22 06:00",
+     "MHDA": "2013/08/22 06:01",
+     "CRDT": [
+          "2013/08/22 06:00"
+     ],
+     "PHST": [
+          "2013/02/15 00:00 [received]",
+          "2013/07/16 00:00 [accepted]",
+          "2013/08/22 06:00 [entrez]",
+          "2013/08/22 06:00 [pubmed]",
+          "2013/08/22 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnins.2013.00137 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neurosci. 2013 Aug 8;7:137. doi: 10.3389/fnins.2013.00137. eCollection 2013.",
+     "term": "hippocampus"
+}

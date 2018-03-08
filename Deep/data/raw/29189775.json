@@ -1,0 +1,101 @@
+{
+     "PMID": "29189775",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171212",
+     "LR": "20171219",
+     "IS": "1750-2799 (Electronic) 1750-2799 (Linking)",
+     "VI": "12",
+     "IP": "12",
+     "DP": "2017 Dec",
+     "TI": "Visualizing endocytic recycling and trafficking in live neurons by subdiffractional tracking of internalized molecules.",
+     "PG": "2590-2622",
+     "LID": "10.1038/nprot.2017.116 [doi]",
+     "AB": "Our understanding of endocytic pathway dynamics is restricted by the diffraction limit of light microscopy. Although super-resolution techniques can overcome this issue, highly crowded cellular environments, such as nerve terminals, can also dramatically limit the tracking of multiple endocytic vesicles such as synaptic vesicles (SVs), which in turn restricts the analytical dissection of their discrete diffusional and transport states. We recently introduced a pulse-chase technique for subdiffractional tracking of internalized molecules (sdTIM) that allows the visualization of fluorescently tagged molecules trapped in individual signaling endosomes and SVs in presynapses or axons with 30- to 50-nm localization precision. We originally developed this approach for tracking single molecules of botulinum neurotoxin type A, which undergoes activity-dependent internalization and retrograde transport in autophagosomes. This method was then adapted to localize the signaling endosomes containing cholera toxin subunit-B that undergo retrograde transport in axons and to track SVs in the crowded environment of hippocampal presynapses. We describe (i) the construction of a custom-made microfluidic device that enables control over neuronal orientation; (ii) the 3D printing of a perfusion system for sdTIM experiments performed on glass-bottom dishes; (iii) the dissection, culturing and transfection of hippocampal neurons in microfluidic devices; and (iv) guidance on how to perform the pulse-chase experiments and data analysis. In addition, we describe the use of single-molecule-tracking analytical tools to reveal the average and the heterogeneous single-molecule mobility behaviors. We also discuss alternative reagents and equipment that can, in principle, be used for sdTIM experiments and describe how to adapt sdTIM to image nanocluster formation and/or tubulation in early endosomes during sorting events. The procedures described in this protocol take approximately 1 week.",
+     "FAU": [
+          "Joensuu, Merja",
+          "Martinez-Marmol, Ramon",
+          "Padmanabhan, Pranesh",
+          "Glass, Nick R",
+          "Durisic, Nela",
+          "Pelekanos, Matthew",
+          "Mollazade, Mahdie",
+          "Balistreri, Giuseppe",
+          "Amor, Rumelo",
+          "Cooper-White, Justin J",
+          "Goodhill, Geoffrey J",
+          "Meunier, Frederic A"
+     ],
+     "AU": [
+          "Joensuu M",
+          "Martinez-Marmol R",
+          "Padmanabhan P",
+          "Glass NR",
+          "Durisic N",
+          "Pelekanos M",
+          "Mollazade M",
+          "Balistreri G",
+          "Amor R",
+          "Cooper-White JJ",
+          "Goodhill GJ",
+          "Meunier FA"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-4533-0455",
+          "ORCID: http://orcid.org/0000-0003-0929-8627",
+          "ORCID: http://orcid.org/0000-0001-5569-8731",
+          "ORCID: http://orcid.org/0000-0002-7668-1039",
+          "ORCID: http://orcid.org/0000-0001-8648-5413",
+          "ORCID: http://orcid.org/0000-0002-3585-559X",
+          "ORCID: http://orcid.org/0000-0002-1920-8229",
+          "ORCID: http://orcid.org/0000-0001-9789-9355",
+          "ORCID: http://orcid.org/0000-0001-6400-1107"
+     ],
+     "AD": "Clem Jones Centre for Ageing Dementia Research, The University of Queensland, Brisbane, Queensland, Australia. Queensland Brain Institute, The University of Queensland, Brisbane, Queensland, Australia. Minerva Foundation Institute for Medical Research, Helsinki, Finland. Clem Jones Centre for Ageing Dementia Research, The University of Queensland, Brisbane, Queensland, Australia. Queensland Brain Institute, The University of Queensland, Brisbane, Queensland, Australia. Queensland Brain Institute, The University of Queensland, Brisbane, Queensland, Australia. Australian Institute for Bioengineering and Nanotechnology, The University of Queensland, Brisbane, Queensland, Australia. Queensland Brain Institute, The University of Queensland, Brisbane, Queensland, Australia. Clem Jones Centre for Ageing Dementia Research, The University of Queensland, Brisbane, Queensland, Australia. Queensland Brain Institute, The University of Queensland, Brisbane, Queensland, Australia. Clem Jones Centre for Ageing Dementia Research, The University of Queensland, Brisbane, Queensland, Australia. Queensland Brain Institute, The University of Queensland, Brisbane, Queensland, Australia. Division of General Microbiology, Department of Biosciences, University of Helsinki, Helsinki, Finland. Queensland Brain Institute, The University of Queensland, Brisbane, Queensland, Australia. Australian Institute for Bioengineering and Nanotechnology, The University of Queensland, Brisbane, Queensland, Australia. Division of General Microbiology, Department of Biosciences, University of Helsinki, Helsinki, Finland. School of Chemical Engineering, The University of Queensland, Brisbane, Queensland, Australia. Materials Science and Engineering Division, CSIRO, Clayton, Victoria, Australia. UQ Centre for Stem Cell Ageing and Regenerative Engineering, The University of Queensland, Brisbane, Queensland, Australia. Queensland Brain Institute, The University of Queensland, Brisbane, Queensland, Australia. School of Mathematics and Physics, The University of Queensland, Brisbane, Queensland, Australia. Clem Jones Centre for Ageing Dementia Research, The University of Queensland, Brisbane, Queensland, Australia. Queensland Brain Institute, The University of Queensland, Brisbane, Queensland, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171130",
+     "PL": "England",
+     "TA": "Nat Protoc",
+     "JT": "Nature protocols",
+     "JID": "101284307",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cell Culture Techniques/instrumentation/*methods",
+          "Cell Survival",
+          "Cells, Cultured",
+          "*Endocytosis",
+          "Equipment Design",
+          "Hippocampus/cytology",
+          "*Lab-On-A-Chip Devices",
+          "Neurons/*cytology",
+          "Optical Imaging/instrumentation/*methods",
+          "Perfusion/instrumentation/methods",
+          "Printing, Three-Dimensional",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Transfection/instrumentation/methods"
+     ],
+     "EDAT": "2017/12/01 06:00",
+     "MHDA": "2017/12/13 06:00",
+     "CRDT": [
+          "2017/12/01 06:00"
+     ],
+     "PHST": [
+          "2017/12/01 06:00 [entrez]",
+          "2017/12/01 06:00 [pubmed]",
+          "2017/12/13 06:00 [medline]"
+     ],
+     "AID": [
+          "nprot.2017.116 [pii]",
+          "10.1038/nprot.2017.116 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nat Protoc. 2017 Dec;12(12):2590-2622. doi: 10.1038/nprot.2017.116. Epub 2017 Nov 30.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,69 @@
+{
+     "PMID": "22811963",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20121002",
+     "LR": "20170220",
+     "IS": "2153-3539 (Electronic)",
+     "VI": "2",
+     "DP": "2011",
+     "TI": "Atlas-guided correction of brain histology distortion.",
+     "PG": "S7",
+     "LID": "10.4103/2153-3539.92038 [doi]",
+     "AB": "Histological tissue preparation stages (e.g., cutting, sectioning, etc.) often introduce tissue distortions that prevent a smooth 3D reconstruction from being built. In this paper, we propose a method to correct histology distortions by running a piecewise registration scheme. It takes the information of several consecutive slices in a neighborhood into account. In order to achieve an accurate anatomic presentation, we run the method iteratively with the assistance from a pre-segmented brain atlas. The registration parameters are optimized to accommodate different brain sub-regions, e.g., cerebellum, hippocampus, etc. The results are evaluated by both visual and quantitative approaches. The proposed method has been proved to be robust enough for reconstructing an accurate and smooth mouse brain volume.",
+     "FAU": [
+          "Qiu, Xi",
+          "Shi, Lin",
+          "Pridmore, Tony",
+          "Pitiot, Alain",
+          "Wang, Defeng"
+     ],
+     "AU": [
+          "Qiu X",
+          "Shi L",
+          "Pridmore T",
+          "Pitiot A",
+          "Wang D"
+     ],
+     "AD": "Rotman Research Institute, University of Toronto, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20120119",
+     "PL": "India",
+     "TA": "J Pathol Inform",
+     "JT": "Journal of pathology informatics",
+     "JID": "101528849",
+     "PMC": "PMC3312713",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Atlas-guided correction",
+          "Histology distortion correction",
+          "Histology volume reconstruction",
+          "Piecewise image registration"
+     ],
+     "EDAT": "2011/01/01 00:00",
+     "MHDA": "2011/01/01 00:01",
+     "CRDT": [
+          "2012/07/20 06:00"
+     ],
+     "PHST": [
+          "2011/06/15 00:00 [received]",
+          "2011/09/23 00:00 [accepted]",
+          "2012/07/20 06:00 [entrez]",
+          "2011/01/01 00:00 [pubmed]",
+          "2011/01/01 00:01 [medline]"
+     ],
+     "AID": [
+          "10.4103/2153-3539.92038 [doi]",
+          "JPI-2-7 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Pathol Inform. 2011;2:S7. doi: 10.4103/2153-3539.92038. Epub 2012 Jan 19.",
+     "term": "hippocampus"
+}

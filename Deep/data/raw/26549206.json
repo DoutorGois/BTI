@@ -1,0 +1,110 @@
+{
+     "PMID": "26549206",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160928",
+     "LR": "20151205",
+     "IS": "1535-3907 (Electronic) 1535-3893 (Linking)",
+     "VI": "14",
+     "IP": "12",
+     "DP": "2015 Dec 4",
+     "TI": "Chromosome-Based Proteomic Study for Identifying Novel Protein Variants from Human Hippocampal Tissue Using Customized neXtProt and GENCODE Databases.",
+     "PG": "5028-37",
+     "LID": "10.1021/acs.jproteome.5b00472 [doi]",
+     "AB": "The goal of the Chromosome-Centric Human Proteome Project (C-HPP) is to fully provide proteomic information from each human chromosome, including novel proteoforms, such as novel protein-coding variants expressed from noncoding genomic regions, alternative splicing variants (ASVs), and single amino acid variants (SAAVs). In the 144 LC/MS/MS raw files from human hippocampal tissues of control, epilepsy, and Alzheimer's disease, we identified the novel proteoforms with a workflow including integrated proteomic pipeline using three different search engines, MASCOT, SEQUEST, and MS-GF+. With a <1% false discovery rate (FDR) at the protein level, the 11 detected peptides mapped to four translated long noncoding RNA variants against the customized databases of GENCODE lncRNA, which also mapped to coding-proteins at different chromosomal sites. We also identified four novel ASVs against the customized databases of GENCODE transcript. The target peptides from the variants were validated by tandem MS fragmentation pattern from their corresponding synthetic peptides. Additionally, a total of 128 SAAVs paired with their wild-type peptides were identified with FDR <1% at the peptide level using a customized database from neXtProt including nonsynonymous single nucleotide polymorphism (nsSNP) information. Among these results, several novel variants related in neuro-degenerative disease were identified using the workflow that could be applicable to C-HPP studies. All raw files used in this study were deposited in ProteomeXchange (PXD000395).",
+     "FAU": [
+          "Hwang, Heeyoun",
+          "Park, Gun Wook",
+          "Kim, Kwang Hoe",
+          "Lee, Ju Yeon",
+          "Lee, Hyun Kyoung",
+          "Ji, Eun Sun",
+          "Park, Sung-Kyu Robin",
+          "Xu, Tao",
+          "Yates, John R 3rd",
+          "Kwon, Kyung-Hoon",
+          "Park, Young Mok",
+          "Lee, Hyoung-Joo",
+          "Paik, Young-Ki",
+          "Kim, Jin Young",
+          "Yoo, Jong Shin"
+     ],
+     "AU": [
+          "Hwang H",
+          "Park GW",
+          "Kim KH",
+          "Lee JY",
+          "Lee HK",
+          "Ji ES",
+          "Park SK",
+          "Xu T",
+          "Yates JR 3rd",
+          "Kwon KH",
+          "Park YM",
+          "Lee HJ",
+          "Paik YK",
+          "Kim JY",
+          "Yoo JS"
+     ],
+     "AD": "Biomedical Omics Group, Korea Basic Science Institute , Chungbuk 28119, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , Chungbuk 28119, Republic of Korea. Graduate School of Analytical Science and Technology, Chungnam National University , Daejeon 34134, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , Chungbuk 28119, Republic of Korea. Graduate School of Analytical Science and Technology, Chungnam National University , Daejeon 34134, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , Chungbuk 28119, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , Chungbuk 28119, Republic of Korea. Graduate School of Analytical Science and Technology, Chungnam National University , Daejeon 34134, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , Chungbuk 28119, Republic of Korea. Department of Chemical Physiology, The Scripps Research Institute , La Jolla, California 92037, United States. Department of Chemical Physiology, The Scripps Research Institute , La Jolla, California 92037, United States. Department of Chemical Physiology, The Scripps Research Institute , La Jolla, California 92037, United States. Biomedical Omics Group, Korea Basic Science Institute , Chungbuk 28119, Republic of Korea. Center for Cognition and Sociality, Institute for Basic Science , Daejeon 34047, Republic of Korea. Yonsei Proteome Research Center and Department of Integrated OMICS for Biomedical Science, and Department of Biochemistry, College of Life Science and Biotechnology, Yonsei University , Seoul 03722, Republic of Korea. Yonsei Proteome Research Center and Department of Integrated OMICS for Biomedical Science, and Department of Biochemistry, College of Life Science and Biotechnology, Yonsei University , Seoul 03722, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , Chungbuk 28119, Republic of Korea. Biomedical Omics Group, Korea Basic Science Institute , Chungbuk 28119, Republic of Korea. Graduate School of Analytical Science and Technology, Chungnam National University , Daejeon 34134, Republic of Korea.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20151116",
+     "PL": "United States",
+     "TA": "J Proteome Res",
+     "JT": "Journal of proteome research",
+     "JID": "101128775",
+     "SB": "IM",
+     "MH": [
+          "Alternative Splicing",
+          "Alzheimer Disease/genetics/*metabolism",
+          "Amino Acid Sequence",
+          "Case-Control Studies",
+          "Chromatography, Liquid",
+          "Chromosomes, Human",
+          "Databases, Genetic",
+          "Databases, Protein",
+          "Epilepsy/genetics/*metabolism",
+          "Genetic Variation",
+          "Hippocampus/*metabolism/physiology",
+          "Humans",
+          "Molecular Sequence Data",
+          "Polymorphism, Single Nucleotide",
+          "Proteomics/*methods",
+          "Software",
+          "Tandem Mass Spectrometry",
+          "Workflow"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "C-HPP",
+          "alternative splice variants",
+          "hippocampus",
+          "novel proteoforms",
+          "single amino acid variants",
+          "translated lncRNA variants"
+     ],
+     "EDAT": "2015/11/10 06:00",
+     "MHDA": "2016/09/30 06:00",
+     "CRDT": [
+          "2015/11/10 06:00"
+     ],
+     "PHST": [
+          "2015/11/10 06:00 [entrez]",
+          "2015/11/10 06:00 [pubmed]",
+          "2016/09/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1021/acs.jproteome.5b00472 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Proteome Res. 2015 Dec 4;14(12):5028-37. doi: 10.1021/acs.jproteome.5b00472. Epub 2015 Nov 16.",
+     "term": "hippocampus"
+}

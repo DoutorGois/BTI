@@ -1,0 +1,85 @@
+{
+     "PMID": "16458361",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060823",
+     "LR": "20061115",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "154",
+     "IP": "1-2",
+     "DP": "2006 Jun 30",
+     "TI": "Ultrafast random-access scanning in two-photon microscopy using acousto-optic deflectors.",
+     "PG": "161-74",
+     "AB": "Two-photon scanning microscopy (TPSM) is a powerful tool for imaging deep inside living tissues with sub-cellular resolution. The temporal resolution of TPSM is however strongly limited by the galvanometric mirrors used to steer the laser beam. Fast physiological events can therefore only be followed by scanning repeatedly a single line within the field of view. Because acousto-optic deflectors (AODs) are non-mechanical devices, they allow access at any point within the field of view on a microsecond time scale and are therefore excellent candidates to improve the temporal resolution of TPSM. However, the use of AOD-based scanners with femtosecond pulses raises several technical difficulties. In this paper, we describe an all-digital TPSM setup based on two crossed AODs. It includes in particular an acousto-optic modulator (AOM) placed at 45 degrees with respect to the AODs to pre-compensate for the large spatial distortions of femtosecond pulses occurring in the AODs, in order to optimize the spatial resolution and the fluorescence excitation. Our setup allows recording from freely selectable point-of-interest at high speed (1kHz). By maximizing the time spent on points of interest, random-access TPSM (RA-TPSM) constitutes a promising method for multiunit recordings with millisecond resolution in biological tissues.",
+     "FAU": [
+          "Salome, R",
+          "Kremer, Y",
+          "Dieudonne, S",
+          "Leger, J-F",
+          "Krichevsky, O",
+          "Wyart, C",
+          "Chatenay, D",
+          "Bourdieu, L"
+     ],
+     "AU": [
+          "Salome R",
+          "Kremer Y",
+          "Dieudonne S",
+          "Leger JF",
+          "Krichevsky O",
+          "Wyart C",
+          "Chatenay D",
+          "Bourdieu L"
+     ],
+     "AD": "Laboratoire de Neurobiologie Moleculaire et Cellulaire, UMR CNRS 8544, Ecole Normale Superieure, Departement de Biologie, Paris, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20060203",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Algorithms",
+          "Animals",
+          "Calcium Signaling/physiology",
+          "Cells, Cultured",
+          "Diagnostic Imaging/*instrumentation",
+          "Hippocampus/cytology/physiology",
+          "Lasers",
+          "Microscopy, Confocal/*instrumentation",
+          "Microscopy, Fluorescence/*instrumentation",
+          "Models, Theoretical",
+          "Neurons/physiology",
+          "Pyramidal Cells/physiology",
+          "Rats",
+          "Signal Processing, Computer-Assisted"
+     ],
+     "EDAT": "2006/02/07 09:00",
+     "MHDA": "2006/08/24 09:00",
+     "CRDT": [
+          "2006/02/07 09:00"
+     ],
+     "PHST": [
+          "2005/08/26 00:00 [received]",
+          "2005/12/10 00:00 [revised]",
+          "2005/12/10 00:00 [accepted]",
+          "2006/02/07 09:00 [pubmed]",
+          "2006/08/24 09:00 [medline]",
+          "2006/02/07 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(05)00456-5 [pii]",
+          "10.1016/j.jneumeth.2005.12.010 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2006 Jun 30;154(1-2):161-74. doi: 10.1016/j.jneumeth.2005.12.010. Epub 2006 Feb 3.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,82 @@
+{
+     "PMID": "26332081",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160428",
+     "LR": "20171116",
+     "IS": "1478-3975 (Electronic) 1478-3967 (Linking)",
+     "VI": "12",
+     "IP": "5",
+     "DP": "2015 Sep 2",
+     "TI": "pH during non-synaptic epileptiform activity-computational simulations.",
+     "PG": "056007",
+     "LID": "10.1088/1478-3975/12/5/056007 [doi]",
+     "AB": "The excitability of neuronal networks is strongly modulated by changes in pH. The origin of these changes, however, is still under debate. The high complexity of neural systems justifies the use of computational simulation to investigate mechanisms that are possibly involved. Simulated neuronal activity includes non-synaptic epileptiform events (NEA) induced in hippocampal slices perfused with high-K(+) and zero-Ca(2+), therefore in the absence of the synaptic circuitry. A network of functional units composes the NEA model. Each functional unit represents one interface of neuronal/extracellular space/glial segments. Each interface contains transmembrane ionic transports, such as ionic channels, cotransporters, exchangers and pumps. Neuronal interconnections are mediated by gap-junctions, electric field effects and extracellular ionic fluctuations modulated by extracellular electrodiffusion. Mechanisms investigated are those that change intracellular and extracellular ionic concentrations and are able to affect [H(+)]. Our simulations suggest that the intense fluctuations in intra and extracellular concentrations of Na(+), K(+) and Cl(-) that accompany NEA are able to affect the combined action of the Na(+)/H(+) exchanger (NHE), [HCO(-)(3)]/Cl(-) exchanger (HCE), H(+) pump and the catalytic activity of intra and extracellular carbonic anhydrase. Cellular volume changes and extracellular electrodiffusion are responsible for modulating pH.",
+     "FAU": [
+          "Rodrigues, Antonio Marcio",
+          "Santos, Luiz Eduardo Canton",
+          "Covolan, Luciene",
+          "Hamani, Clement",
+          "de Almeida, Antonio-Carlos Guimaraes"
+     ],
+     "AU": [
+          "Rodrigues AM",
+          "Santos LE",
+          "Covolan L",
+          "Hamani C",
+          "de Almeida AC"
+     ],
+     "AD": "Laboratorio de Neurociencia Experimental e Computacional, Departamento de Engenharia de Biossistemas, Universidade Federal de Sao Joao del-Rei (UFSJ), Brazil.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150902",
+     "PL": "England",
+     "TA": "Phys Biol",
+     "JT": "Physical biology",
+     "JID": "101197454",
+     "RN": [
+          "0 (Chloride-Bicarbonate Antiporters)",
+          "0 (Sodium-Hydrogen Exchangers)",
+          "4R7X1O2820 (Chlorine)",
+          "9NEZ333N27 (Sodium)",
+          "RWP5GA015D (Potassium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Cell Size",
+          "Chloride-Bicarbonate Antiporters/metabolism",
+          "Chlorine/metabolism",
+          "*Computer Simulation",
+          "Hippocampus/*cytology/*physiology",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Models, Biological",
+          "*Models, Neurological",
+          "Nerve Net/*cytology/*physiology",
+          "Neurons/cytology/physiology",
+          "Potassium/metabolism",
+          "Sodium/metabolism",
+          "Sodium-Hydrogen Exchangers/metabolism"
+     ],
+     "EDAT": "2015/09/04 06:00",
+     "MHDA": "2016/04/29 06:00",
+     "CRDT": [
+          "2015/09/03 06:00"
+     ],
+     "PHST": [
+          "2015/09/03 06:00 [entrez]",
+          "2015/09/04 06:00 [pubmed]",
+          "2016/04/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1088/1478-3975/12/5/056007 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Phys Biol. 2015 Sep 2;12(5):056007. doi: 10.1088/1478-3975/12/5/056007.",
+     "term": "hippocampus"
+}

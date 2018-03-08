@@ -1,0 +1,65 @@
+{
+     "PMID": "28269576",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170707",
+     "LR": "20171127",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2016",
+     "DP": "2016 Aug",
+     "TI": "Detection of single unit spikes during orthodromic-high frequency stimulation in rat hippocampus.",
+     "PG": "5813-5816",
+     "LID": "10.1109/EMBC.2016.7592049 [doi]",
+     "AB": "Deep brain stimulation (DBS) has been used as a treatment of brain diseases such as Parkinson's disease and is a promising therapy for epilepsy. But the mechanisms of high frequency stimulation (HFS) used by DBS are still uncertain. In order to investigate the changes of action penitential firings of individual neurons (single unit activity, SUA) during the period of HFS, a new algorithm based on window detection was designed to detect spikes in broadband-frequency recording signals. The results show that orthodromic-HFS (O-HFS) could excite the neurons in CA1 regions, and the firing rate of interneurons and pyramidal neurons increased significantly. In particular, a decrease in spike amplitude for both interneurons and pyramidal neurons was observed during the period of O-HFS. The amplitude decrease of unit spikes was most remarkable with the presence of HFS-induced population spike (PS). These results suggest that the stimulation pulses of O-HFS could activate the downstream neurons continuously, leading to the downstream neurons being unable to repolarize completely. The results are important for tracking individual neuron activity during HFS and for further understanding of DBS mechanisms.",
+     "FAU": [
+          "Zhaoxiang Wang",
+          "Zhouyan Feng",
+          "Ying Yu",
+          "Yufang Zhu",
+          "Zheshan Guo"
+     ],
+     "AU": [
+          "Zhaoxiang Wang",
+          "Zhouyan Feng",
+          "Ying Yu",
+          "Yufang Zhu",
+          "Zheshan Guo"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Deep Brain Stimulation",
+          "Hippocampus/*physiology",
+          "Male",
+          "Neurons/*physiology",
+          "Rats",
+          "Rats, Sprague-Dawley"
+     ],
+     "EDAT": "2017/03/09 06:00",
+     "MHDA": "2017/07/08 06:00",
+     "CRDT": [
+          "2017/03/09 06:00"
+     ],
+     "PHST": [
+          "2017/03/09 06:00 [entrez]",
+          "2017/03/09 06:00 [pubmed]",
+          "2017/07/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2016.7592049 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2016 Aug;2016:5813-5816. doi: 10.1109/EMBC.2016.7592049.",
+     "term": "hippocampus"
+}

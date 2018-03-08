@@ -1,0 +1,77 @@
+{
+     "PMID": "18797828",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090219",
+     "LR": "20171107",
+     "IS": "1559-0089 (Electronic) 1539-2791 (Linking)",
+     "VI": "6",
+     "IP": "4",
+     "DP": "2008 Winter",
+     "TI": "Non-parametric algorithmic generation of neuronal morphologies.",
+     "PG": "257-77",
+     "LID": "10.1007/s12021-008-9026-x [doi]",
+     "AB": "Generation algorithms allow for the generation of Virtual Neurons (VNs) from a small set of morphological properties. The set describes the morphological properties of real neurons in terms of statistical descriptors such as the number of branches and segment lengths (among others). The majority of reconstruction algorithms use the observed properties to estimate the parameters of a priori fixed probability distributions in order to construct statistical descriptors that fit well with the observed data. In this article, we present a non-parametric generation algorithm based on kernel density estimators (KDEs). The new algorithm is called KDE-NEURON: and has three advantages over parametric reconstruction algorithms: (1) no a priori specifications about the distributions underlying the real data, (2) peculiarities in the biological data will be reflected in the VNs, and (3) ability to reconstruct different cell types. We experimentally generated motor neurons and granule cells, and statistically validated the obtained results. Moreover, we assessed the quality of the prototype data set and observed that our generated neurons are as good as the prototype data in terms of the used statistical descriptors. The opportunities and limitations of data-driven algorithmic reconstruction of neurons are discussed.",
+     "FAU": [
+          "Torben-Nielsen, Benjamin",
+          "Vanderlooy, Stijn",
+          "Postma, Eric O"
+     ],
+     "AU": [
+          "Torben-Nielsen B",
+          "Vanderlooy S",
+          "Postma EO"
+     ],
+     "AD": "TENU, Okinawa Institute of Science and Technology, Okinawa, Japan. nielsen@oist.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Validation Studies"
+     ],
+     "DEP": "20080917",
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Cell Polarity/physiology",
+          "Cell Shape/*physiology",
+          "Computational Biology/*methods",
+          "Computer Simulation",
+          "Data Interpretation, Statistical",
+          "Dendrites/physiology/ultrastructure",
+          "Hippocampus/cytology/physiology",
+          "Interneurons/cytology/physiology",
+          "Models, Statistical",
+          "Motor Neurons/cytology/physiology",
+          "Neuroanatomy/*methods",
+          "Neurons/*cytology/physiology",
+          "Rats",
+          "Reproducibility of Results",
+          "*Software",
+          "Spinal Cord/cytology/physiology"
+     ],
+     "EDAT": "2008/09/18 09:00",
+     "MHDA": "2009/02/20 09:00",
+     "CRDT": [
+          "2008/09/18 09:00"
+     ],
+     "PHST": [
+          "2008/03/31 00:00 [received]",
+          "2008/08/26 00:00 [accepted]",
+          "2008/09/18 09:00 [pubmed]",
+          "2009/02/20 09:00 [medline]",
+          "2008/09/18 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s12021-008-9026-x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2008 Winter;6(4):257-77. doi: 10.1007/s12021-008-9026-x. Epub 2008 Sep 17.",
+     "term": "hippocampus"
+}

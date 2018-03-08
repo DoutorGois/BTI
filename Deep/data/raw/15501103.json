@@ -1,0 +1,71 @@
+{
+     "PMID": "15501103",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050119",
+     "LR": "20071114",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "23 Suppl 1",
+     "DP": "2004",
+     "TI": "Expert knowledge-guided segmentation system for brain MRI.",
+     "PG": "S85-96",
+     "AB": "We describe an automated 3-D segmentation system for in vivo brain magnetic resonance images (MRI). Our segmentation method combines a variety of filtering, segmentation, and registration techniques and makes maximum use of the available a priori biomedical expertise, both in an implicit and an explicit form. We approach the issue of boundary finding as a process of fitting a group of deformable templates (simplex mesh surfaces) to the contours of the target structures. These templates evolve in parallel, supervised by a series of rules derived from analyzing the template's dynamics and from medical experience. The templates are also constrained by knowledge on the expected textural and shape properties of the target structures. We apply our system to segment four brain structures (corpus callosum, ventricles, hippocampus, and caudate nuclei) and discuss its robustness to imaging characteristics and acquisition noise.",
+     "FAU": [
+          "Pitiot, Alain",
+          "Delingette, Herve",
+          "Thompson, Paul M",
+          "Ayache, Nicholas"
+     ],
+     "AU": [
+          "Pitiot A",
+          "Delingette H",
+          "Thompson PM",
+          "Ayache N"
+     ],
+     "AD": "EPIDAURE Laboratory, INRIA, Sophia Antipolis, France. apitiot@loni.ucla.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "EB01651/EB/NIBIB NIH HHS/United States",
+          "R21 RR19771/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Automation",
+          "Brain/*anatomy & histology",
+          "*Expert Systems",
+          "Humans",
+          "Image Processing, Computer-Assisted/*statistics & numerical data",
+          "Magnetic Resonance Imaging/*statistics & numerical data",
+          "Models, Statistical",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "2004/10/27 09:00",
+     "MHDA": "2005/01/20 09:00",
+     "CRDT": [
+          "2004/10/27 09:00"
+     ],
+     "PHST": [
+          "2004/10/27 09:00 [pubmed]",
+          "2005/01/20 09:00 [medline]",
+          "2004/10/27 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(04)00390-8 [pii]",
+          "10.1016/j.neuroimage.2004.07.040 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2004;23 Suppl 1:S85-96. doi: 10.1016/j.neuroimage.2004.07.040.",
+     "term": "hippocampus"
+}

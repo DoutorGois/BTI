@@ -1,0 +1,115 @@
+{
+     "PMID": "26824337",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160928",
+     "LR": "20171116",
+     "IS": "1521-2254 (Electronic) 1099-498X (Linking)",
+     "VI": "18",
+     "IP": "1-3",
+     "DP": "2016 Jan-Mar",
+     "TI": "Lentiviral expression of GAD67 and CCK promoter-driven opsins to target interneurons in vitro and in vivo.",
+     "PG": "27-37",
+     "LID": "10.1002/jgm.2873 [doi]",
+     "AB": "BACKGROUND: The ability to manipulate the activity of interneurons with optogenetic tools offers the possibility of interfering with diseases caused by altered neuronal inhibition and synchrony, including epilepsy and schizophrenia. To develop vectors for therapeutic approaches, targeting optogenetic constructs to interneurons is therefore a key requirement. We investigated whether the interneuron-specific promoters glutamic acid decarboxylase (GAD)67 and cholecystokinin (CCK) allowed targeted lentiviral delivery of opsins to interneurons as a whole, or specifically CCK+ interneurons. METHODS: We generated lentiviral (LV) plasmids encoding channelrhodopsin (ChR2) and halorhodopsin (NpHR) tagged with fluorophores and driven by GAD67 or CCK promoters. Adeno-associated virus (AAV) and LV vectors carrying opsins driven by pyramidal cell promoters were used as controls. We transduced neuronal cultures and rodent brain in vivo, immunostained specimens 6-8 weeks after in vivo injection and 7-14 days after in vitro transduction, and evaluated volume and specificity of expression by confocal microscopy. RESULTS: In vitro, 90% (19/21) of LV-CCK-NpHR2.0-EYFP expressing neurons were CCK+. In vivo, LV-GAD67-ChR2-mCherry was expressed in 2.6% (5/193), LV-GAD67-NpHR2.0-EYFP in approximately 15% (43/279) and LV-CCK-NpHR2.0-EYFP in 47% (9/19) of hippocampal GABA+ interneurons. GAD67 vectors expressed in larger volumes than CCK-driven constructs. AAV vector controls achieved the largest expression volumes. CONCLUSIONS: LV-CCK-NpHR2.0-EYFP may be useful for targeting CCK+ interneurons in culture. GAD67/CCK-driven lentiviral constructs are expressed in vivo, although expression is not specific for interneurons. Overall, expression levels are low compared to opsins driven by pyramidal cell promoters. A better understanding of GAD67 and CCK promoter structure or alternative techniques is required to reliably target opsins to interneurons using viral vectors.",
+     "CI": [
+          "Copyright (c) 2016 John Wiley & Sons, Ltd."
+     ],
+     "FAU": [
+          "Mantoan Ritter, Laura",
+          "Macdonald, Douglas C",
+          "Ritter, Georg",
+          "Escors, David",
+          "Chiara, Francesca",
+          "Cariboni, Anna",
+          "Schorge, Stephanie",
+          "Kullmann, Dimitri M",
+          "Collins, Mary"
+     ],
+     "AU": [
+          "Mantoan Ritter L",
+          "Macdonald DC",
+          "Ritter G",
+          "Escors D",
+          "Chiara F",
+          "Cariboni A",
+          "Schorge S",
+          "Kullmann DM",
+          "Collins M"
+     ],
+     "AD": "Department of Clinical and Experimental Epilepsy, Institute of Neurology, University College London, London, UK. Clinical Neurosciences Department, King's College NHS Foundation Trust, Denmark Hill, London, UK. Division of Infection and Immunity, Paul O'Gorman Building, University College London, London, UK. Science and Technology Research Institute, University of Hertfordshire, Hatfield, UK. Division of Infection and Immunity, Rayne Building, University College London, London, UK. Department of Immunomodulation, Navarrabiomed, Pamplona, Navarra, Spain. Department of Cell and Developmental Biology, Anatomy Building, University College London, London, UK. Department of Cell and Developmental Biology, Anatomy Building, University College London, London, UK. Department of Pharmacological and Biomolecular Sciences, Univeristy of Milan, Milan, Italy. Department of Clinical and Experimental Epilepsy, Institute of Neurology, University College London, London, UK. Department of Clinical and Experimental Epilepsy, Institute of Neurology, University College London, London, UK. Division of Infection and Immunity, Paul O'Gorman Building, University College London, London, UK.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MR/L003457/1/Medical Research Council/United Kingdom",
+          "Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "J Gene Med",
+     "JT": "The journal of gene medicine",
+     "JID": "9815764",
+     "RN": [
+          "0 (Channelrhodopsins)",
+          "0 (Halorhodopsins)",
+          "9011-97-6 (Cholecystokinin)",
+          "EC 4.1.1.15 (Glutamate Decarboxylase)",
+          "EC 4.1.1.15 (glutamate decarboxylase 1)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cells, Cultured",
+          "Channelrhodopsins",
+          "Cholecystokinin/*genetics",
+          "Dependovirus",
+          "Genetic Vectors",
+          "Glutamate Decarboxylase/*genetics",
+          "Halorhodopsins/metabolism",
+          "Hippocampus/*metabolism",
+          "Humans",
+          "Interneurons/*metabolism",
+          "Lentivirus",
+          "Male",
+          "Optogenetics",
+          "Promoter Regions, Genetic",
+          "Pyramidal Cells/metabolism",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "*Transduction, Genetic"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "adenoassocated virus (AAV)",
+          "gene - delivery",
+          "microscopy",
+          "neuroscience",
+          "retroviruses",
+          "virology - lentiviruses"
+     ],
+     "EDAT": "2016/01/30 06:00",
+     "MHDA": "2016/09/30 06:00",
+     "CRDT": [
+          "2016/01/30 06:00"
+     ],
+     "PHST": [
+          "2015/10/28 00:00 [received]",
+          "2016/01/18 00:00 [revised]",
+          "2016/01/21 00:00 [accepted]",
+          "2016/01/30 06:00 [entrez]",
+          "2016/01/30 06:00 [pubmed]",
+          "2016/09/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/jgm.2873 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Gene Med. 2016 Jan-Mar;18(1-3):27-37. doi: 10.1002/jgm.2873.",
+     "term": "hippocampus"
+}

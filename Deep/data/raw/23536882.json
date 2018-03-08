@@ -1,0 +1,95 @@
+{
+     "PMID": "23536882",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20131227",
+     "LR": "20170730",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "3",
+     "DP": "2013",
+     "TI": "Transcriptome sequencing of gene expression in the brain of the HIV-1 transgenic rat.",
+     "PG": "e59582",
+     "LID": "10.1371/journal.pone.0059582 [doi]",
+     "AB": "The noninfectious HIV-1 transgenic (HIV-1Tg) rat was developed as a model of AIDs-related pathology and immune dysfunction by manipulation of a noninfectious HIV-1(gag-pol) virus with a deleted 3-kb SphI-MscI fragment containing the 3' -region of gag and the 5' region of pol into F344 rats. Our previous studies revealed significant behavioral differences between HIV-1Tg and F344 control rats in their performance in the Morris water maze and responses to psychostimulants. However, the molecular mechanisms underlying these behavioral differences remain largely unknown. The primary goal of this study was to identify differentially expressed genes and enriched pathways affected by the gag-pol-deleted HIV-1 genome. Using RNA deep sequencing, we sequenced RNA transcripts in the prefrontal cortex, hippocampus, and striatum of HIV-1Tg and F344 rats. A total of 72 RNA samples were analyzed (i.e., 12 animals per group x 2 strains x 3 brain regions). Following deep-sequencing analysis of 50-bp paired-end reads of RNA-Seq, we used Bowtie/Tophat/Cufflinks suites to align these reads into transcripts based on the Rn4 rat reference genome and to measure the relative abundance of each transcript. Statistical analyses on each brain region in the two strains revealed that immune response- and neurotransmission-related pathways were altered in the HIV-1Tg rats, with brain region differences. Other neuronal survival-related pathways, including those encoding myelin proteins, growth factors, and translation regulators, were altered in the HIV-1Tg rats in a brain region-dependent manner. This study is the first deep-sequencing analysis of RNA transcripts associated the HIV-1Tg rat. Considering the functions of the pathways and brain regions examined in this study, our findings of abnormal gene expression patterns in HIV-1Tg rats suggest mechanisms underlying the deficits in learning and memory and vulnerability to drug addiction and other psychiatric disorders observed in HIV-positive patients.",
+     "FAU": [
+          "Li, Ming D",
+          "Cao, Junran",
+          "Wang, Shaolin",
+          "Wang, Ju",
+          "Sarkar, Sraboni",
+          "Vigorito, Michael",
+          "Ma, Jennie Z",
+          "Chang, Sulie L"
+     ],
+     "AU": [
+          "Li MD",
+          "Cao J",
+          "Wang S",
+          "Wang J",
+          "Sarkar S",
+          "Vigorito M",
+          "Ma JZ",
+          "Chang SL"
+     ],
+     "AD": "Department of Psychiatry and Neurobehavioral Sciences, University of Virginia, Charlottesville, Virginia, United States of America. ml2km@virginia.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 DA026356/DA/NIDA NIH HHS/United States",
+          "P30 CA044579/CA/NCI NIH HHS/United States",
+          "DA-016149/DA/NIDA NIH HHS/United States",
+          "DA-026356/DA/NIDA NIH HHS/United States",
+          "DA-013783/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20130325",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/*metabolism",
+          "Computational Biology/methods",
+          "*Gene Expression Profiling",
+          "Gene Expression Regulation",
+          "Gene Regulatory Networks",
+          "HIV-1/*genetics",
+          "*High-Throughput Nucleotide Sequencing",
+          "Humans",
+          "Male",
+          "Molecular Sequence Annotation",
+          "Rats",
+          "Rats, Transgenic",
+          "Reproducibility of Results",
+          "Signal Transduction",
+          "Transcription, Genetic",
+          "*Transcriptome"
+     ],
+     "PMC": "PMC3607591",
+     "EDAT": "2013/03/29 06:00",
+     "MHDA": "2013/12/29 06:00",
+     "CRDT": [
+          "2013/03/29 06:00"
+     ],
+     "PHST": [
+          "2012/11/22 00:00 [received]",
+          "2013/02/15 00:00 [accepted]",
+          "2013/03/29 06:00 [entrez]",
+          "2013/03/29 06:00 [pubmed]",
+          "2013/12/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0059582 [doi]",
+          "PONE-D-12-36727 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2013;8(3):e59582. doi: 10.1371/journal.pone.0059582. Epub 2013 Mar 25.",
+     "term": "hippocampus"
+}

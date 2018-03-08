@@ -1,0 +1,74 @@
+{
+     "PMID": "24551089",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141014",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "9",
+     "IP": "2",
+     "DP": "2014",
+     "TI": "Tunable low energy, compact and high performance neuromorphic circuit for spike-based synaptic plasticity.",
+     "PG": "e88326",
+     "LID": "10.1371/journal.pone.0088326 [doi]",
+     "AB": "Cortical circuits in the brain have long been recognised for their information processing capabilities and have been studied both experimentally and theoretically via spiking neural networks. Neuromorphic engineers are primarily concerned with translating the computational capabilities of biological cortical circuits, using the Spiking Neural Network (SNN) paradigm, into in silico applications that can mimic the behaviour and capabilities of real biological circuits/systems. These capabilities include low power consumption, compactness, and relevant dynamics. In this paper, we propose a new accelerated-time circuit that has several advantages over its previous neuromorphic counterparts in terms of compactness, power consumption, and capability to mimic the outcomes of biological experiments. The presented circuit simulation results demonstrate that, in comparing the new circuit to previous published synaptic plasticity circuits, reduced silicon area and lower energy consumption for processing each spike is achieved. In addition, it can be tuned in order to closely mimic the outcomes of various spike timing- and rate-based synaptic plasticity experiments. The proposed circuit is also investigated and compared to other designs in terms of tolerance to mismatch and process variation. Monte Carlo simulation results show that the proposed design is much more stable than its previous counterparts in terms of vulnerability to transistor mismatch, which is a significant challenge in analog neuromorphic design. All these features make the proposed design an ideal circuit for use in large scale SNNs, which aim at implementing neuromorphic systems with an inherent capability that can adapt to a continuously changing environment, thus leading to systems with significant learning and computational abilities.",
+     "FAU": [
+          "Rahimi Azghadi, Mostafa",
+          "Iannella, Nicolangelo",
+          "Al-Sarawi, Said",
+          "Abbott, Derek"
+     ],
+     "AU": [
+          "Rahimi Azghadi M",
+          "Iannella N",
+          "Al-Sarawi S",
+          "Abbott D"
+     ],
+     "AD": "School of Electrical and Electronic Engineering, The University of Adelaide, Adelaide, South Australia, Australia. School of Electrical and Electronic Engineering, The University of Adelaide, Adelaide, South Australia, Australia. School of Electrical and Electronic Engineering, The University of Adelaide, Adelaide, South Australia, Australia. School of Electrical and Electronic Engineering, The University of Adelaide, Adelaide, South Australia, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140213",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Computer Simulation",
+          "Hippocampus/cytology/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/cytology/*physiology",
+          "*Neural Networks (Computer)",
+          "Neuronal Plasticity",
+          "Neurons/cytology/physiology",
+          "Synapses/physiology",
+          "Synaptic Transmission",
+          "Visual Cortex/cytology/*physiology"
+     ],
+     "PMC": "PMC3923791",
+     "EDAT": "2014/02/20 06:00",
+     "MHDA": "2014/10/15 06:00",
+     "CRDT": [
+          "2014/02/20 06:00"
+     ],
+     "PHST": [
+          "2013/10/04 00:00 [received]",
+          "2014/01/12 00:00 [accepted]",
+          "2014/02/20 06:00 [entrez]",
+          "2014/02/20 06:00 [pubmed]",
+          "2014/10/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0088326 [doi]",
+          "PONE-D-13-40670 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2014 Feb 13;9(2):e88326. doi: 10.1371/journal.pone.0088326. eCollection 2014.",
+     "term": "hippocampus"
+}

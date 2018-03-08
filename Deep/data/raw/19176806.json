@@ -1,0 +1,88 @@
+{
+     "PMID": "19176806",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090408",
+     "LR": "20170220",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "29",
+     "IP": "4",
+     "DP": "2009 Jan 28",
+     "TI": "Reduction of spike afterdepolarization by increased leak conductance alters interspike interval variability.",
+     "PG": "973-86",
+     "LID": "10.1523/JNEUROSCI.4195-08.2009 [doi]",
+     "AB": "Data from neurons in vivo have shown that spike output can often sustain episodes of high variability. Theoretical studies have indicated that the high conductance state of neurons brought on by synaptic activity can contribute to an increase in the variability of spike output by decreasing the integration timescale of the neuron. In the present work, we were interested in understanding how background synaptic conductance activity alters the interspike interval (ISI) variability of layer III pyramidal cells of the medial entorhinal cortex. We compared ISI variability in pyramidal cells as a result of synaptic current- or conductance-mediated membrane fluctuations. We found that the effects of background synaptic conductance activity on ISI variability depend on the neuron type. In pyramidal cells lacking spike frequency adaptation, the variability increased in relation to a comparable synaptic current stimulus. In contrast, in pyramidal cells displaying spike frequency adaptation, the synaptic conductance stimulus produced lower ISI variability. To understand this result, we constructed a phenomenological model that reproduced the basic properties of these neurons under control and increased leak conductance. We found that leak can change the properties of the neuron by acting as a bifurcation parameter that reduces the afterdepolarization (ADP) and decreases the slope (gain) of the frequency-current relationship, particularly for transient stimuli. A lower gain with the added leak causes a reduction in ISI variability. We conclude that the ability of a high conductance state to increase ISI variability cannot be generalized and can depend on the spike ADP dynamics expressed by the neuron.",
+     "FAU": [
+          "Fernandez, Fernando R",
+          "White, John A"
+     ],
+     "AU": [
+          "Fernandez FR",
+          "White JA"
+     ],
+     "AD": "Department of Bioengineering, University of Utah, Salt Lake City, Utah 84112, USA. f.fernandez@utah.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH061604/MH/NIMH NIH HHS/United States",
+          "R01 RR020115-05/RR/NCRR NIH HHS/United States",
+          "R01 RR020115/RR/NCRR NIH HHS/United States",
+          "R01 MH085074/MH/NIMH NIH HHS/United States",
+          "R56 NS034425-10A2/NS/NINDS NIH HHS/United States",
+          "R56 NS034425/NS/NINDS NIH HHS/United States",
+          "R01 MH061604-05/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/drug effects/*physiology",
+          "Animals",
+          "Animals, Newborn",
+          "Biophysical Phenomena/*physiology",
+          "Computer Simulation",
+          "*Electric Conductivity",
+          "Electric Stimulation/methods",
+          "Entorhinal Cortex/cytology",
+          "Hippocampus/cytology",
+          "In Vitro Techniques",
+          "Ion Channel Gating/drug effects/*physiology",
+          "Models, Neurological",
+          "Neural Inhibition/physiology",
+          "Neurons/*physiology",
+          "Patch-Clamp Techniques/methods",
+          "Rats",
+          "Rats, Long-Evans",
+          "Synapses/physiology",
+          "Synaptic Transmission"
+     ],
+     "PMC": "PMC2723775",
+     "MID": [
+          "NIHMS130856"
+     ],
+     "EDAT": "2009/01/30 09:00",
+     "MHDA": "2009/04/09 09:00",
+     "CRDT": [
+          "2009/01/30 09:00"
+     ],
+     "PHST": [
+          "2009/01/30 09:00 [entrez]",
+          "2009/01/30 09:00 [pubmed]",
+          "2009/04/09 09:00 [medline]"
+     ],
+     "AID": [
+          "29/4/973 [pii]",
+          "10.1523/JNEUROSCI.4195-08.2009 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2009 Jan 28;29(4):973-86. doi: 10.1523/JNEUROSCI.4195-08.2009.",
+     "term": "hippocampus"
+}

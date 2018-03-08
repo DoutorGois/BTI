@@ -1,0 +1,80 @@
+{
+     "PMID": "25894615",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160409",
+     "LR": "20150502",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "10",
+     "IP": "4",
+     "DP": "2015",
+     "TI": "Dosimetric evaluation of intensity-modulated radiotherapy, volumetric modulated arc therapy, and helical tomotherapy for hippocampal-avoidance whole brain radiotherapy.",
+     "PG": "e0126222",
+     "LID": "10.1371/journal.pone.0126222 [doi]",
+     "AB": "BACKGROUND: Whole brain radiotherapy (WBRT) is a vital tool in radiation oncology and beyond, but it can result in adverse health effects such as neurocognitive decline. Hippocampal Avoidance WBRT (HA-WBRT) is a strategy that aims to mitigate the neuro-cognitive side effects of whole brain radiotherapy treatment by sparing the hippocampi while delivering the prescribed dose to the rest of the brain. Several competing modalities capable of delivering HA-WBRT, include: Philips Pinnacle step-and-shoot intensity modulated radiotherapy (IMRT), Varian RapidArc volumetric modulated arc therapy (RapidArc), and helical TomoTherapy (TomoTherapy). METHODS: In this study we compared these methods using 10 patient datasets. Anonymized planning CT (computerized tomography) scans and contour data based on fused MRI images were collected. Three independent planners generated treatment plans for the patients using three modalities, respectively. All treatment plans met the RTOG 0933 criteria for HA-WBRT treatment. RESULTS: In dosimetric comparisons between the three modalities, TomoTherapy has a significantly superior homogeneity index of 0.15 +/- 0.03 compared to the other two modalities (0.28 +/- .04, p < .005 for IMRT and 0.22 +/- 0.03, p < .005 for RapidArc). RapidArc has the fastest average delivery time of 2.5 min compared to the other modalities (15 min for IMRT and 18 min for TomoTherapy). CONCLUSION: TomoTherapy is considered to be the preferred modality for HA-WBRT due to its superior dose distribution. When TomoTherapy is not available or treatment time is a concern, RapidArc can provide sufficient dose distribution meeting RTOG criteria and efficient treatment delivery.",
+     "FAU": [
+          "Rong, Yi",
+          "Evans, Josh",
+          "Xu-Welliver, Meng",
+          "Pickett, Cadron",
+          "Jia, Guang",
+          "Chen, Quan",
+          "Zuo, Li"
+     ],
+     "AU": [
+          "Rong Y",
+          "Evans J",
+          "Xu-Welliver M",
+          "Pickett C",
+          "Jia G",
+          "Chen Q",
+          "Zuo L"
+     ],
+     "AD": "Department of Radiation Oncology, The Ohio State University James Cancer Hospital, The Ohio State University Wexner Medical Center, Columbus, Ohio, 43210, United States of America. Department of Radiation Oncology, University of Virginia Health System, Charlottesville, Virginia, 22903, United States of America. Department of Radiation Oncology, The Ohio State University James Cancer Hospital, The Ohio State University Wexner Medical Center, Columbus, Ohio, 43210, United States of America. Department of Physics and Astronomy, Louisiana State University, Baton Rouge, Louisiana, 70803, United States of America. Department of Physics and Astronomy, Louisiana State University, Baton Rouge, Louisiana, 70803, United States of America. Department of Radiation Oncology, University of Virginia Health System, Charlottesville, Virginia, 22903, United States of America. Radiologic Sciences and Respiratory Therapy Division, School of Health and Rehabilitation Sciences, Biophysics Graduate Program, The Ohio State University College of Medicine, The Ohio State University Wexner Medical Center, Columbus, Ohio, 43210, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Clinical Trial, Phase II",
+          "Journal Article"
+     ],
+     "DEP": "20150420",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Brain Neoplasms/radiotherapy/secondary",
+          "Eye/radiation effects",
+          "Hippocampus/*radiation effects",
+          "Humans",
+          "Optic Chiasm/radiation effects",
+          "Optic Nerve/radiation effects",
+          "Organ Sparing Treatments/*methods",
+          "Radiometry",
+          "Radiotherapy Planning, Computer-Assisted",
+          "Radiotherapy, Intensity-Modulated/*adverse effects/*methods",
+          "Time Factors"
+     ],
+     "PMC": "PMC4404135",
+     "EDAT": "2015/04/22 06:00",
+     "MHDA": "2016/04/10 06:00",
+     "CRDT": [
+          "2015/04/21 06:00"
+     ],
+     "PHST": [
+          "2015/01/12 00:00 [received]",
+          "2015/03/31 00:00 [accepted]",
+          "2015/04/21 06:00 [entrez]",
+          "2015/04/22 06:00 [pubmed]",
+          "2016/04/10 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0126222 [doi]",
+          "PONE-D-14-55932 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2015 Apr 20;10(4):e0126222. doi: 10.1371/journal.pone.0126222. eCollection 2015.",
+     "term": "hippocampus"
+}

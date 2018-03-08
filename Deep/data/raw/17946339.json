@@ -1,0 +1,68 @@
+{
+     "PMID": "17946339",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080229",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "1",
+     "DP": "2006",
+     "TI": "A neural network based approach for inference and verification of transcriptional regulatory interactions.",
+     "PG": "5838-41",
+     "AB": "In this paper, we present a comprehensive neural network based modeling and validation framework for reverse engineering gene regulatory interactions. We employ two approaches, Gene Set Stochastic Sampling and Sensitivity Analysis, to infer these interactions. We first apply these methods to a simulated artificial dataset to ensure their correctness and accuracy. True biological interactions are then modeled by analyzing a rat hippocampus development dataset. Finally, we present a thorough computational methodology to test the validity and robustness of the inferred regulations through novel assemblies of relevant testing datasets.",
+     "FAU": [
+          "Knott, S",
+          "Mostafavi, S",
+          "Mousavi, P"
+     ],
+     "AU": [
+          "Knott S",
+          "Mostafavi S",
+          "Mousavi P"
+     ],
+     "AD": "Dept. of Comput. Sci., Queen's Univ., Kingston, Ont., Canada. knott@cs.queensu.ca",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Bayes Theorem",
+          "Computational Biology/*methods",
+          "Gene Expression Profiling",
+          "*Gene Regulatory Networks",
+          "Hippocampus/*metabolism",
+          "Models, Genetic",
+          "Models, Theoretical",
+          "*Neural Networks (Computer)",
+          "Pattern Recognition, Automated",
+          "Rats",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Stochastic Processes",
+          "Time Factors"
+     ],
+     "EDAT": "2007/10/20 09:00",
+     "MHDA": "2008/03/01 09:00",
+     "CRDT": [
+          "2007/10/20 09:00"
+     ],
+     "PHST": [
+          "2007/10/20 09:00 [pubmed]",
+          "2008/03/01 09:00 [medline]",
+          "2007/10/20 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2006.259927 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2006;1:5838-41. doi: 10.1109/IEMBS.2006.259927.",
+     "term": "hippocampus"
+}

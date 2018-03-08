@@ -1,0 +1,114 @@
+{
+     "PMID": "27894806",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180103",
+     "LR": "20180201",
+     "IS": "1873-6823 (Electronic) 0741-8329 (Linking)",
+     "VI": "58",
+     "DP": "2017 Feb",
+     "TI": "Genetic divergence in the transcriptional engram of chronic alcohol abuse: A laser-capture RNA-seq study of the mouse mesocorticolimbic system.",
+     "PG": "61-72",
+     "LID": "S0741-8329(16)30072-6 [pii] 10.1016/j.alcohol.2016.09.001 [doi]",
+     "AB": "Genetic factors that influence the transition from initial drinking to dependence remain enigmatic. Recent studies have leveraged chronic intermittent ethanol (CIE) paradigms to measure changes in brain gene expression in a single strain at 0, 8, 72 h, and even 7 days following CIE. We extend these findings using LCM RNA-seq to profile expression in 11 brain regions in two inbred strains - C57BL/6J (B6) and DBA/2J (D2) - 72 h following multiple cycles of ethanol self-administration and CIE. Linear models identified differential expression based on treatment, region, strain, or interactions with treatment. Nearly 40% of genes showed a robust effect (FDR < 0.01) of region, and hippocampus CA1, cortex, bed nucleus stria terminalis, and nucleus accumbens core had the highest number of differentially expressed genes after treatment. Another 8% of differentially expressed genes demonstrated a robust effect of strain. As expected, based on similar studies in B6, treatment had a much smaller impact on expression; only 72 genes (p < 0.01) are modulated by treatment (independent of region or strain). Strikingly, many more genes (415) show a strain-specific and largely opposite response to treatment and are enriched in processes related to RNA metabolism, transcription factor activity, and mitochondrial function. Over 3 times as many changes in gene expression were detected in D2 compared to B6, and weighted gene co-expression network analysis (WGCNA) module comparison identified more modules enriched for treatment effects in D2. Substantial strain differences exist in the temporal pattern of transcriptional neuroadaptation to CIE, and these may drive individual differences in risk of addiction following excessive alcohol consumption.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Mulligan, Megan K",
+          "Mozhui, Khyobeni",
+          "Pandey, Ashutosh K",
+          "Smith, Maren L",
+          "Gong, Suzhen",
+          "Ingels, Jesse",
+          "Miles, Michael F",
+          "Lopez, Marcelo F",
+          "Lu, Lu",
+          "Williams, Robert W"
+     ],
+     "AU": [
+          "Mulligan MK",
+          "Mozhui K",
+          "Pandey AK",
+          "Smith ML",
+          "Gong S",
+          "Ingels J",
+          "Miles MF",
+          "Lopez MF",
+          "Lu L",
+          "Williams RW"
+     ],
+     "AD": "Department of Genetics, Genomics and Informatics, University of Tennessee Health Science Center, United States. Electronic address: mmulliga@uthsc.edu. Department of Genetics, Genomics and Informatics, University of Tennessee Health Science Center, United States. Department of Genetics, Genomics and Informatics, University of Tennessee Health Science Center, United States. Department of Molecular Biology and Genetics, Virginia Commonwealth University, United States. Department of Genetics, Genomics and Informatics, University of Tennessee Health Science Center, United States. Department of Genetics, Genomics and Informatics, University of Tennessee Health Science Center, United States. Department of Molecular Biology and Genetics, Virginia Commonwealth University, United States. Charleston Alcohol Research Center, Department of Psychiatry and Behavioral Sciences, Medical University of South Carolina, United States. Department of Genetics, Genomics and Informatics, University of Tennessee Health Science Center, United States. Department of Genetics, Genomics and Informatics, University of Tennessee Health Science Center, United States.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 AA022537/AA/NIAAA NIH HHS/United States",
+          "U01 AA013499/AA/NIAAA NIH HHS/United States",
+          "U24 AA020929/AA/NIAAA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20161015",
+     "PL": "United States",
+     "TA": "Alcohol",
+     "JT": "Alcohol (Fayetteville, N.Y.)",
+     "JID": "8502311",
+     "RN": [
+          "3K9958V90M (Ethanol)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Alcoholism/*genetics/metabolism",
+          "Animals",
+          "Cerebral Cortex/drug effects/*physiology",
+          "Ethanol/administration & dosage",
+          "Gene Expression Regulation",
+          "Laser Capture Microdissection/*methods",
+          "Limbic System/drug effects/*pathology",
+          "Male",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Mice, Inbred DBA",
+          "Self Administration",
+          "Sequence Analysis, RNA/*methods",
+          "Species Specificity",
+          "Transcription, Genetic"
+     ],
+     "PMC": "PMC5450909",
+     "MID": [
+          "NIHMS864782"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Addiction",
+          "Alcohol",
+          "C57BL/6J",
+          "CIE",
+          "DBA/2J",
+          "RNA-seq"
+     ],
+     "EDAT": "2016/11/30 06:00",
+     "MHDA": "2018/01/04 06:00",
+     "CRDT": [
+          "2016/11/30 06:00"
+     ],
+     "PHST": [
+          "2016/03/15 00:00 [received]",
+          "2016/09/12 00:00 [revised]",
+          "2016/09/16 00:00 [accepted]",
+          "2016/11/30 06:00 [pubmed]",
+          "2018/01/04 06:00 [medline]",
+          "2016/11/30 06:00 [entrez]"
+     ],
+     "AID": [
+          "S0741-8329(16)30072-6 [pii]",
+          "10.1016/j.alcohol.2016.09.001 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Alcohol. 2017 Feb;58:61-72. doi: 10.1016/j.alcohol.2016.09.001. Epub 2016 Oct 15.",
+     "term": "hippocampus"
+}

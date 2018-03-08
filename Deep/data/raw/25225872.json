@@ -1,0 +1,79 @@
+{
+     "PMID": "25225872",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150624",
+     "LR": "20170220",
+     "IS": "1424-8220 (Electronic) 1424-8220 (Linking)",
+     "VI": "14",
+     "IP": "9",
+     "DP": "2014 Sep 15",
+     "TI": "A novel angle computation and calibration algorithm of bio-inspired sky-light polarization navigation sensor.",
+     "PG": "17068-88",
+     "LID": "10.3390/s140917068 [doi]",
+     "AB": "Navigation plays a vital role in our daily life. As traditional and commonly used navigation technologies, Inertial Navigation System (INS) and Global Navigation Satellite System (GNSS) can provide accurate location information, but suffer from the accumulative error of inertial sensors and cannot be used in a satellite denied environment. The remarkable navigation ability of animals shows that the pattern of the polarization sky can be used for navigation. A bio-inspired POLarization Navigation Sensor (POLNS) is constructed to detect the polarization of skylight. Contrary to the previous approach, we utilize all the outputs of POLNS to compute input polarization angle, based on Least Squares, which provides optimal angle estimation. In addition, a new sensor calibration algorithm is presented, in which the installation angle errors and sensor biases are taken into consideration. Derivation and implementation of our calibration algorithm are discussed in detail. To evaluate the performance of our algorithms, simulation and real data test are done to compare our algorithms with several exiting algorithms. Comparison results indicate that our algorithms are superior to the others and are more feasible and effective in practice.",
+     "FAU": [
+          "Xian, Zhiwen",
+          "Hu, Xiaoping",
+          "Lian, Junxiang",
+          "Zhang, Lilian",
+          "Cao, Juliang",
+          "Wang, Yujie",
+          "Ma, Tao"
+     ],
+     "AU": [
+          "Xian Z",
+          "Hu X",
+          "Lian J",
+          "Zhang L",
+          "Cao J",
+          "Wang Y",
+          "Ma T"
+     ],
+     "AD": "College of Mechantronics and Automation, National University of Defense Technology, Changsha 410073, Hunan, China. zwxian@nudt.edu.cn. College of Mechantronics and Automation, National University of Defense Technology, Changsha 410073, Hunan, China. xphu@nudt.edu.cn. College of Mechantronics and Automation, National University of Defense Technology, Changsha 410073, Hunan, China. jx_lian@hotmail.com. College of Mechantronics and Automation, National University of Defense Technology, Changsha 410073, Hunan, China. lilian_zhang@hotmail.com. College of Mechantronics and Automation, National University of Defense Technology, Changsha 410073, Hunan, China. jlcao_nudt@163.com. College of Mechantronics and Automation, National University of Defense Technology, Changsha 410073, Hunan, China. yjwang@nudt.edu.cn. College of Mechantronics and Automation, National University of Defense Technology, Changsha 410073, Hunan, China. tao.mao@nudt.edu.cn.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140915",
+     "PL": "Switzerland",
+     "TA": "Sensors (Basel)",
+     "JT": "Sensors (Basel, Switzerland)",
+     "JID": "101204366",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Biomimetics/*instrumentation/methods",
+          "Calibration",
+          "China",
+          "Geographic Information Systems/*instrumentation/*standards",
+          "Refractometry/*instrumentation/*standards",
+          "*Spatial Navigation",
+          "Sunlight"
+     ],
+     "PMC": "PMC4208214",
+     "EDAT": "2014/09/17 06:00",
+     "MHDA": "2015/06/25 06:00",
+     "CRDT": [
+          "2014/09/17 06:00"
+     ],
+     "PHST": [
+          "2014/06/27 00:00 [received]",
+          "2014/08/27 00:00 [revised]",
+          "2014/09/10 00:00 [accepted]",
+          "2014/09/17 06:00 [entrez]",
+          "2014/09/17 06:00 [pubmed]",
+          "2015/06/25 06:00 [medline]"
+     ],
+     "AID": [
+          "s140917068 [pii]",
+          "10.3390/s140917068 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Sensors (Basel). 2014 Sep 15;14(9):17068-88. doi: 10.3390/s140917068.",
+     "term": "spatial navigation"
+}

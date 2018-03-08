@@ -1,0 +1,78 @@
+{
+     "PMID": "27153678",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170823",
+     "LR": "20180121",
+     "IS": "1367-4811 (Electronic) 1367-4803 (Linking)",
+     "VI": "32",
+     "IP": "16",
+     "DP": "2016 Aug 15",
+     "TI": "2dSpAn: semiautomated 2-d segmentation, classification and analysis of hippocampal dendritic spine plasticity.",
+     "PG": "2490-8",
+     "LID": "10.1093/bioinformatics/btw172 [doi]",
+     "AB": "MOTIVATION: Accurate and effective dendritic spine segmentation from the dendrites remains as a challenge for current neuroimaging research community. In this article, we present a new method (2dSpAn) for 2-d segmentation, classification and analysis of structural/plastic changes of hippocampal dendritic spines. A user interactive segmentation method with convolution kernels is designed to segment the spines from the dendrites. Formal morphological definitions are presented to describe key attributes related to the shape of segmented spines. Spines are automatically classified into one of four classes: Stubby, Filopodia, Mushroom and Spine-head Protrusions. RESULTS: The developed method is validated using confocal light microscopy images of dendritic spines from dissociated hippocampal cultures for: (i) quantitative analysis of spine morphological changes, (ii) reproducibility analysis for assessment of user-independence of the developed software and (iii) accuracy analysis with respect to the manually labeled ground truth images, and also with respect to the available state of the art. The developed method is monitored and used to precisely describe the morphology of individual spines in real-time experiments, i.e. consequent images of the same dendritic fragment. AVAILABILITY AND IMPLEMENTATION: The software and the source code are available at https://sites.google.com/site/2dspan/ under open-source license for non-commercial use. CONTACT: subhadip@cse.jdvu.ac.in or j.wlodarczyk@nencki.gov.pl SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.",
+     "CI": [
+          "(c) The Author 2016. Published by Oxford University Press. All rights reserved.",
+          "For Permissions, please e-mail: journals.permissions@oup.com."
+     ],
+     "FAU": [
+          "Basu, Subhadip",
+          "Plewczynski, Dariusz",
+          "Saha, Satadal",
+          "Roszkowska, Matylda",
+          "Magnowska, Marta",
+          "Baczynska, Ewa",
+          "Wlodarczyk, Jakub"
+     ],
+     "AU": [
+          "Basu S",
+          "Plewczynski D",
+          "Saha S",
+          "Roszkowska M",
+          "Magnowska M",
+          "Baczynska E",
+          "Wlodarczyk J"
+     ],
+     "AD": "Department of Computer Science and Engineering, Jadavpur University, Kolkata 700032, India. Center of New Technologies, University of Warsaw, Warsaw, Poland. Department of Electronics and Communication Engineering, MCKV Institute of Engineering, Howrah 711204, India. Department of Molecular and Cellular Neurobiology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland. Department of Molecular and Cellular Neurobiology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland. Department of Molecular and Cellular Neurobiology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland. Department of Molecular and Cellular Neurobiology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160401",
+     "PL": "England",
+     "TA": "Bioinformatics",
+     "JT": "Bioinformatics (Oxford, England)",
+     "JID": "9808944",
+     "SB": "IM",
+     "MH": [
+          "Dendrites",
+          "*Dendritic Spines",
+          "*Hippocampus",
+          "*Microscopy, Confocal",
+          "Reproducibility of Results",
+          "Software"
+     ],
+     "EDAT": "2016/05/07 06:00",
+     "MHDA": "2017/08/24 06:00",
+     "CRDT": [
+          "2016/05/07 06:00"
+     ],
+     "PHST": [
+          "2015/10/02 00:00 [received]",
+          "2016/03/26 00:00 [accepted]",
+          "2016/05/07 06:00 [entrez]",
+          "2016/05/07 06:00 [pubmed]",
+          "2017/08/24 06:00 [medline]"
+     ],
+     "AID": [
+          "btw172 [pii]",
+          "10.1093/bioinformatics/btw172 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Bioinformatics. 2016 Aug 15;32(16):2490-8. doi: 10.1093/bioinformatics/btw172. Epub 2016 Apr 1.",
+     "term": "hippocampus"
+}

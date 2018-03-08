@@ -1,0 +1,70 @@
+{
+     "PMID": "28781411",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20170809",
+     "IS": "0277-786X (Print) 0277-786X (Linking)",
+     "VI": "10133",
+     "DP": "2017 Feb 11",
+     "TI": "Multi-Scale Hippocampal Parcellation Improves Atlas-Based Segmentation Accuracy.",
+     "LID": "101332D [pii] 10.1117/12.2254425 [doi]",
+     "AB": "Known for its distinct role in memory, the hippocampus is one of the most studied regions of the brain. Recent advances in magnetic resonance imaging have allowed for high-contrast, reproducible imaging of the hippocampus. Typically, a trained rater takes 45 minutes to manually trace the hippocampus and delineate the anterior from the posterior segment at millimeter resolution. As a result, there has been a significant desire for automated and robust segmentation of the hippocampus. In this work we use a population of 195 atlases based on T1-weighted MR images with the left and right hippocampus delineated into the head and body. We initialize the multi-atlas segmentation to a region directly around each lateralized hippocampus to both speed up and improve the accuracy of registration. This initialization allows for incorporation of nearly 200 atlases, an accomplishment which would typically involve hundreds of hours of computation per target image. The proposed segmentation results in a Dice similiarity coefficient over 0.9 for the full hippocampus. This result outperforms a multi-atlas segmentation using the BrainCOLOR atlases (Dice 0.85) and FreeSurfer (Dice 0.75). Furthermore, the head and body delineation resulted in a Dice coefficient over 0.87 for both structures. The head and body volume measurements also show high reproducibility on the Kirby 21 reproducibility population (R(2) greater than 0.95, p < 0.05 for all structures). This work signifies the first result in an ongoing work to develop a robust tool for measurement of the hippocampus and other temporal lobe structures.",
+     "FAU": [
+          "Plassard, Andrew J",
+          "McHugo, Maureen",
+          "Heckers, Stephan",
+          "Landman, Bennett A"
+     ],
+     "AU": [
+          "Plassard AJ",
+          "McHugo M",
+          "Heckers S",
+          "Landman BA"
+     ],
+     "AD": "Computer Science, Vanderbilt University, 2301 Vanderbilt Place, Nashville, TN USA 37235. Psychiatry and Behavioral Sciences, Vanderbilt University Medical Center, 1601 23 Avenue South, Nashville, TN USA 37212. Psychiatry and Behavioral Sciences, Vanderbilt University Medical Center, 1601 23 Avenue South, Nashville, TN USA 37212. Computer Science, Vanderbilt University, 2301 Vanderbilt Place, Nashville, TN USA 37235. Electrical Engineering, Vanderbilt University, 2301 Vanderbilt Place, Nashville, TN USA 37235.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "T32 LM012412/LM/NLM NIH HHS/United States",
+          "UL1 TR000445/TR/NCATS NIH HHS/United States",
+          "R01 EB006136/EB/NIBIB NIH HHS/United States",
+          "UL1 RR024975/RR/NCRR NIH HHS/United States",
+          "R01 NS095291/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170224",
+     "PL": "United States",
+     "TA": "Proc SPIE Int Soc Opt Eng",
+     "JT": "Proceedings of SPIE--the International Society for Optical Engineering",
+     "JID": "101524122",
+     "PMC": "PMC5544133",
+     "MID": [
+          "NIHMS839906"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Hippocampus",
+          "Multi-Atlas Segmentation"
+     ],
+     "EDAT": "2017/08/07 06:00",
+     "MHDA": "2017/08/07 06:01",
+     "CRDT": [
+          "2017/08/08 06:00"
+     ],
+     "PHST": [
+          "2017/08/08 06:00 [entrez]",
+          "2017/08/07 06:00 [pubmed]",
+          "2017/08/07 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1117/12.2254425 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc SPIE Int Soc Opt Eng. 2017 Feb 11;10133. doi: 10.1117/12.2254425. Epub 2017 Feb 24.",
+     "term": "hippocampus"
+}

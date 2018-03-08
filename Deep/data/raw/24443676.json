@@ -1,0 +1,64 @@
+{
+     "PMID": "24443676",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "1945-7928 (Print) 1945-7928 (Linking)",
+     "VI": "2012",
+     "DP": "2012 Dec 31",
+     "TI": "DEPENDENCY PRIOR FOR MULTI-ATLAS LABEL FUSION.",
+     "PG": "892-895",
+     "AB": "Multi-atlas label fusion has been widely applied in medical image analysis. To reduce the bias in label fusion, we proposed a joint label fusion technique to reduce correlated errors produced by different atlases via considering the pairwise dependencies between them. Using image similarities from image patches to estimate the pairwise dependencies, we showed promising performance. To address the unreliability in purely using local image similarity for dependency estimation, we propose to improve the accuracy of the estimated dependencies by including empirical knowledge, which is learned from the atlases in a leave-one-out strategy. We apply the new technique to segment the hippocampus from MRI and show significant improvement over our initial results.",
+     "FAU": [
+          "Wang, Hongzhi",
+          "Yushkevich, Paul A"
+     ],
+     "AU": [
+          "Wang H",
+          "Yushkevich PA"
+     ],
+     "AD": "Penn Image Computing and Science Lab, University of Pennsylvania. Penn Image Computing and Science Lab, University of Pennsylvania.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "K25 AG027785-05/AG/NIA NIH HHS/United States",
+          "K25 AG027785-02/AG/NIA NIH HHS/United States",
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "R01 AG037376-03/AG/NIA NIH HHS/United States",
+          "K25 AG027785-03/AG/NIA NIH HHS/United States",
+          "K25 AG027785-03S1/AG/NIA NIH HHS/United States",
+          "R01 AG037376-02/AG/NIA NIH HHS/United States",
+          "K25 AG027785-01A1/AG/NIA NIH HHS/United States",
+          "K25 AG027785-04/AG/NIA NIH HHS/United States",
+          "R01 AG037376-01/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Proc IEEE Int Symp Biomed Imaging",
+     "JT": "Proceedings. IEEE International Symposium on Biomedical Imaging",
+     "JID": "101492570",
+     "PMC": "PMC3892950",
+     "MID": [
+          "NIHMS366476"
+     ],
+     "EDAT": "2014/01/21 06:00",
+     "MHDA": "2014/01/21 06:00",
+     "CRDT": [
+          "2014/01/21 06:00"
+     ],
+     "PHST": [
+          "2014/01/21 06:00 [entrez]",
+          "2014/01/21 06:00 [pubmed]",
+          "2014/01/21 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/ISBI.2012.6235692 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc IEEE Int Symp Biomed Imaging. 2012 Dec 31;2012:892-895. doi: 10.1109/ISBI.2012.6235692.",
+     "term": "hippocampus"
+}

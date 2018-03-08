@@ -1,0 +1,128 @@
+{
+     "PMID": "24687814",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150306",
+     "LR": "20170220",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "35",
+     "IP": "9",
+     "DP": "2014 Sep",
+     "TI": "The power of neuroimaging biomarkers for screening frontotemporal dementia.",
+     "PG": "4827-40",
+     "LID": "10.1002/hbm.22515 [doi]",
+     "AB": "Frontotemporal dementia (FTD) is a clinically and pathologically heterogeneous neurodegenerative disease that can result from either frontotemporal lobar degeneration (FTLD) or Alzheimer's disease (AD) pathology. It is critical to establish statistically powerful biomarkers that can achieve substantial cost-savings and increase the feasibility of clinical trials. We assessed three broad categories of neuroimaging methods to screen underlying FTLD and AD pathology in a clinical FTD series: global measures (e.g., ventricular volume), anatomical volumes of interest (VOIs) (e.g., hippocampus) using a standard atlas, and data-driven VOIs using Eigenanatomy. We evaluated clinical FTD patients (N = 93) with cerebrospinal fluid, gray matter (GM) magnetic resonance imaging (MRI), and diffusion tensor imaging (DTI) to assess whether they had underlying FTLD or AD pathology. Linear regression was performed to identify the optimal VOIs for each method in a training dataset and then we evaluated classification sensitivity and specificity in an independent test cohort. Power was evaluated by calculating minimum sample sizes required in the test classification analyses for each model. The data-driven VOI analysis using a multimodal combination of GM MRI and DTI achieved the greatest classification accuracy (89% sensitive and 89% specific) and required a lower minimum sample size (N = 26) relative to anatomical VOI and global measures. We conclude that a data-driven VOI approach using Eigenanatomy provides more accurate classification, benefits from increased statistical power in unseen datasets, and therefore provides a robust method for screening underlying pathology in FTD patients for entry into clinical trials.",
+     "CI": [
+          "Copyright (c) 2014 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "McMillan, Corey T",
+          "Avants, Brian B",
+          "Cook, Philip",
+          "Ungar, Lyle",
+          "Trojanowski, John Q",
+          "Grossman, Murray"
+     ],
+     "AU": [
+          "McMillan CT",
+          "Avants BB",
+          "Cook P",
+          "Ungar L",
+          "Trojanowski JQ",
+          "Grossman M"
+     ],
+     "AD": "Department of Neurology, Penn Frontotemporal Degeneration Center, University of Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS044266/NS/NINDS NIH HHS/United States",
+          "P01 AG032953/AG/NIA NIH HHS/United States",
+          "P30 AG010124/AG/NIA NIH HHS/United States",
+          "R01 AG015116/AG/NIA NIH HHS/United States",
+          "P01 AG017586/AG/NIA NIH HHS/United States",
+          "AG017586/AG/NIA NIH HHS/United States",
+          "R01 AG038490/AG/NIA NIH HHS/United States",
+          "P50 NS053488/NS/NINDS NIH HHS/United States",
+          "AG010124/AG/NIA NIH HHS/United States",
+          "AG015116/AG/NIA NIH HHS/United States",
+          "K01 AG043503/AG/NIA NIH HHS/United States",
+          "R01 NS065347/NS/NINDS NIH HHS/United States",
+          "NS044266/NS/NINDS NIH HHS/United States",
+          "AG043503/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20140331",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "RN": [
+          "0 (Amyloid beta-Peptides)",
+          "0 (MAPT protein, human)",
+          "0 (Peptide Fragments)",
+          "0 (amyloid beta-protein (1-42))",
+          "0 (tau Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/cerebrospinal fluid/diagnosis/pathology",
+          "Amyloid beta-Peptides/cerebrospinal fluid",
+          "Brain/*pathology",
+          "Cohort Studies",
+          "Diagnosis, Differential",
+          "Diffusion Tensor Imaging/*methods",
+          "Female",
+          "Frontotemporal Dementia/cerebrospinal fluid/*diagnosis/*pathology",
+          "Frontotemporal Lobar Degeneration/cerebrospinal fluid/diagnosis/pathology",
+          "Gray Matter/pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Linear Models",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Organ Size",
+          "Peptide Fragments/cerebrospinal fluid",
+          "Sensitivity and Specificity",
+          "tau Proteins/cerebrospinal fluid"
+     ],
+     "PMC": "PMC4107021",
+     "MID": [
+          "NIHMS577768"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "DTI",
+          "MRI",
+          "biomarkers",
+          "classification",
+          "frontotemporal degeneration",
+          "statistical power"
+     ],
+     "EDAT": "2014/04/02 06:00",
+     "MHDA": "2015/03/07 06:00",
+     "CRDT": [
+          "2014/04/02 06:00"
+     ],
+     "PHST": [
+          "2014/01/31 00:00 [received]",
+          "2014/03/17 00:00 [accepted]",
+          "2014/04/02 06:00 [entrez]",
+          "2014/04/02 06:00 [pubmed]",
+          "2015/03/07 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.22515 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2014 Sep;35(9):4827-40. doi: 10.1002/hbm.22515. Epub 2014 Mar 31.",
+     "term": "hippocampus"
+}

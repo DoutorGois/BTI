@@ -1,0 +1,60 @@
+{
+     "PMID": "10495029",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19991124",
+     "LR": "20051116",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "9",
+     "IP": "4",
+     "DP": "1999",
+     "TI": "Attractor neural network models of spatial maps in hippocampus.",
+     "PG": "481-9",
+     "AB": "Hippocampal pyramidal neurons in rats are selectively activated at specific locations in an environment (O'Keefe and Dostrovsky, Brain Res 1971;34:171-175). Different cells are active in different places, therefore providing a faithful representation of the environment in which every spatial location is mapped to a particular population state of activity of place cells (Wilson and McNaughton, Science 1993;261:1055-1058; Zhang et al., J Neurosci 1998;79:1017-1044). We describe a theory of the hippocampus, according to which the map results from the cooperative dynamics of network, in which the strength of synaptic interaction between the neurons depends on the distance between their place fields. This synaptic structure guarantees that the network possesses a quasi-continuous set of stable states (attractors) that are localized in the space of neuronal variables reflecting their synaptic interactions, rather than their physical location in the hippocampus. As a consequence of the stable states, the network can exhibit place selective activity even without relying on input from external sensory cues.",
+     "FAU": [
+          "Tsodyks, M"
+     ],
+     "AU": [
+          "Tsodyks M"
+     ],
+     "AD": "Department of Neurobiology, Weizmann Institute of Science, Rehovot, Israel. bnmisha@wicc.weizmann.ac.il",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Review"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM S",
+     "MH": [
+          "Animals",
+          "*Brain Mapping",
+          "Hippocampus/cytology/*physiology",
+          "*Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Pyramidal Cells/*physiology",
+          "Rats",
+          "Space Perception/*physiology"
+     ],
+     "RF": "65",
+     "EDAT": "1999/09/24 00:00",
+     "MHDA": "1999/09/24 00:01",
+     "CRDT": [
+          "1999/09/24 00:00"
+     ],
+     "PHST": [
+          "1999/09/24 00:00 [pubmed]",
+          "1999/09/24 00:01 [medline]",
+          "1999/09/24 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/(SICI)1098-1063(1999)9:4<481::AID-HIPO14>3.0.CO;2-S [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 1999;9(4):481-9. doi: 10.1002/(SICI)1098-1063(1999)9:4<481::AID-HIPO14>3.0.CO;2-S.",
+     "term": "place cells"
+}

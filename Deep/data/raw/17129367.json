@@ -1,0 +1,89 @@
+{
+     "PMID": "17129367",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20061222",
+     "LR": "20170219",
+     "IS": "1471-2105 (Electronic) 1471-2105 (Linking)",
+     "VI": "7",
+     "DP": "2006 Nov 27",
+     "TI": "SigFlux: a novel network feature to evaluate the importance of proteins in signal transduction networks.",
+     "PG": "515",
+     "AB": "BACKGROUND: Measuring each protein's importance in signaling networks helps to identify the crucial proteins in a cellular process, find the fragile portion of the biology system and further assist for disease therapy. However, there are relatively few methods to evaluate the importance of proteins in signaling networks. RESULTS: We developed a novel network feature to evaluate the importance of proteins in signal transduction networks, that we call SigFlux, based on the concept of minimal path sets (MPSs). An MPS is a minimal set of nodes that can perform the signal propagation from ligands to target genes or feedback loops. We define SigFlux as the number of MPSs in which each protein is involved. We applied this network feature to the large signal transduction network in the hippocampal CA1 neuron of mice. Significant correlations were simultaneously observed between SigFlux and both the essentiality and evolutionary rate of genes. Compared with another commonly used network feature, connectivity, SigFlux has similar or better ability as connectivity to reflect a protein's essentiality. Further classification according to protein function demonstrates that high SigFlux, low connectivity proteins are abundant in receptors and transcriptional factors, indicating that SigFlux candescribe the importance of proteins within the context of the entire network. CONCLUSION: SigFlux is a useful network feature in signal transduction networks that allows the prediction of the essentiality and conservation of proteins. With this novel network feature, proteins that participate in more pathways or feedback loops within a signaling network are proved far more likely to be essential and conserved during evolution than their counterparts.",
+     "FAU": [
+          "Liu, Wei",
+          "Li, Dong",
+          "Zhang, Jiyang",
+          "Zhu, Yunping",
+          "He, Fuchu"
+     ],
+     "AU": [
+          "Liu W",
+          "Li D",
+          "Zhang J",
+          "Zhu Y",
+          "He F"
+     ],
+     "AD": "College of Mechanical & Electronic Engineering and Automatization, National University of Defense Technology, Changsha, China. liuwei@hupo.org.cn <liuwei@hupo.org.cn>",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20061127",
+     "PL": "England",
+     "TA": "BMC Bioinformatics",
+     "JT": "BMC bioinformatics",
+     "JID": "100965194",
+     "RN": [
+          "0 (Adaptor Proteins, Signal Transducing)",
+          "0 (Proteins)",
+          "0 (Receptors, Cell Surface)",
+          "0 (Receptors, Cytoplasmic and Nuclear)",
+          "0 (Transcription Factors)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adaptor Proteins, Signal Transducing/genetics/metabolism",
+          "Animals",
+          "Cluster Analysis",
+          "Evolution, Molecular",
+          "Feedback, Physiological",
+          "Gene Expression Regulation",
+          "Gene Regulatory Networks",
+          "Hippocampus/cytology/metabolism",
+          "Metabolic Networks and Pathways",
+          "Mice",
+          "Neurons/metabolism",
+          "Phenotype",
+          "*Proteins/genetics/metabolism",
+          "Receptors, Cell Surface/genetics/metabolism",
+          "Receptors, Cytoplasmic and Nuclear/genetics/metabolism",
+          "*Signal Transduction",
+          "*Software",
+          "Transcription Factors/genetics/metabolism"
+     ],
+     "PMC": "PMC1683949",
+     "EDAT": "2006/11/30 09:00",
+     "MHDA": "2006/12/23 09:00",
+     "CRDT": [
+          "2006/11/30 09:00"
+     ],
+     "PHST": [
+          "2006/05/23 00:00 [received]",
+          "2006/11/27 00:00 [accepted]",
+          "2006/11/30 09:00 [pubmed]",
+          "2006/12/23 09:00 [medline]",
+          "2006/11/30 09:00 [entrez]"
+     ],
+     "AID": [
+          "1471-2105-7-515 [pii]",
+          "10.1186/1471-2105-7-515 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "BMC Bioinformatics. 2006 Nov 27;7:515. doi: 10.1186/1471-2105-7-515.",
+     "term": "hippocampus"
+}

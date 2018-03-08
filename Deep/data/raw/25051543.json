@@ -1,0 +1,78 @@
+{
+     "PMID": "25051543",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141222",
+     "LR": "20161125",
+     "IS": "1558-2531 (Electronic) 0018-9294 (Linking)",
+     "VI": "61",
+     "IP": "8",
+     "DP": "2014 Aug",
+     "TI": "An optimal decisional space for the classification of Alzheimer's disease and mild cognitive impairment.",
+     "PG": "2245-53",
+     "LID": "10.1109/TBME.2014.2310709 [doi]",
+     "AB": "This paper proposes to combine MRI data with a neuropsychological test, mini-mental state examination (MMSE), as input to a multi-dimensional space for the classification of Alzheimer's disease (AD) and it's prodromal stages-mild cognitive impairment (MCI) including amnestic MCI (aMCI) and nonamnestic MCI (naMCI). The decisional space is constructed using those features deemed statistically significant through an elaborate feature selection and ranking mechanism. FreeSurfer was used to calculate 55 volumetric variables, which were then adjusted for intracranial volume, age and education. The classification results obtained using support vector machines are based on twofold cross validation of 50 independent and randomized runs. The study included 59 AD, 67 aMCI, 56 naMCI, and 127 cognitively normal (CN) subjects. The study shows that MMSE scores contain the most discriminative power of AD, aMCI, and naMCI. For AD versus CN, the two most discriminative volumetric variables (right hippocampus and left inferior lateral ventricle), when combined with MMSE scores, provided an average accuracy of 92.4% (sensitivity: 84.0%; specificity: 96.1%). MMSE scores are found to improve all classifications with accuracy increments of 8.2% and 12% for aMCI versus CN and naMCI versus CN, respectively. Results also show that brain atrophy is almost evenly seen on both sides of the brain for AD subjects, which is different from right-side dominance for aMCI and left-side dominance for naMCI. Furthermore, hippocampal atrophy is seen to be the most significant for aMCI, while Accumbens area and ventricle are most significant for naMCI.",
+     "FAU": [
+          "Zhou, Qi",
+          "Goryawala, Mohammed",
+          "Cabrerizo, Mercedes",
+          "Wang, Jin",
+          "Barker, Warren",
+          "Loewenstein, David A",
+          "Duara, Ranjan",
+          "Adjouadi, Malek"
+     ],
+     "AU": [
+          "Zhou Q",
+          "Goryawala M",
+          "Cabrerizo M",
+          "Wang J",
+          "Barker W",
+          "Loewenstein DA",
+          "Duara R",
+          "Adjouadi M"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/*classification/diagnosis/*pathology",
+          "Atrophy/pathology",
+          "Brain/*pathology",
+          "Cognitive Dysfunction/*classification/diagnosis/*pathology",
+          "Female",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/methods",
+          "Male",
+          "Reproducibility of Results",
+          "Support Vector Machine"
+     ],
+     "EDAT": "2014/07/23 06:00",
+     "MHDA": "2014/12/23 06:00",
+     "CRDT": [
+          "2014/07/23 06:00"
+     ],
+     "PHST": [
+          "2014/07/23 06:00 [entrez]",
+          "2014/07/23 06:00 [pubmed]",
+          "2014/12/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TBME.2014.2310709 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 2014 Aug;61(8):2245-53. doi: 10.1109/TBME.2014.2310709.",
+     "term": "hippocampus"
+}

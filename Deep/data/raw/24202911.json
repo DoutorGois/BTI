@@ -1,0 +1,95 @@
+{
+     "PMID": "24202911",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140303",
+     "LR": "20151119",
+     "IS": "1521-0111 (Electronic) 0026-895X (Linking)",
+     "VI": "85",
+     "IP": "1",
+     "DP": "2014 Jan",
+     "TI": "Ranolazine reduces neuronal excitability by interacting with inactivated states of brain sodium channels.",
+     "PG": "162-74",
+     "LID": "10.1124/mol.113.088492 [doi]",
+     "AB": "Ranolazine is an approved drug for chronic stable angina that acts by suppressing a noninactivating current conducted by the cardiac sodium channel [persistent sodium ion current (INa)]. Ranolazine has also been shown to inhibit the increased persistent INa carried by NaV1.1 channels encoding epilepsy- and migraine-associated mutations. Here, we investigate the antiepileptic properties of ranolazine exhibited through the reduction of hippocampal neuronal excitability. At therapeutically relevant concentrations, ranolazine reduced action potential firing frequency of hippocampal neurons in response to repetitive depolarizing current injections. Similarly, using a single current injection paradigm, ranolazine required a long depolarization (4 seconds) to produce significant inhibition of excitability, which was similar to that observed for the anticonvulsants phenytoin (slowly binds to the fast-inactivated state) and lacosamide (binds to the slow-inactivated state). Ranolazine enhanced the development of fast and slow inactivation assessed with conditioning prepulses of 100, 1000, or 10,000 milliseconds. Recovery of channels from inactivated states was also slowed in the presence of ranolazine. Interestingly, the use-dependent inhibition of hippocampal neurons was dependent on the duration of the voltage step, suggesting ranolazine does not selectively affect the open state and may also interact with inactivated states. NEURON (Yale University, New Haven, CT) computational simulations predict equal inhibition of action potential generation for binding to either fast-inactivated or slow-inactivated states. Binding of ranolazine to either preopen or open states did not affect the excitability of the simulation. Ranolazine was able to significantly reduce the epileptiform activity of the neuronal cultures, suggesting possible antiepileptic activity.",
+     "FAU": [
+          "Kahlig, Kristopher M",
+          "Hirakawa, Ryoko",
+          "Liu, Lynda",
+          "George, Alfred L Jr",
+          "Belardinelli, Luiz",
+          "Rajamani, Sridharan"
+     ],
+     "AU": [
+          "Kahlig KM",
+          "Hirakawa R",
+          "Liu L",
+          "George AL Jr",
+          "Belardinelli L",
+          "Rajamani S"
+     ],
+     "AD": "Department of Biology (Cardiovascular Therapeutic Area), Gilead Sciences, Inc., Foster City and Fremont, California (K.M.K., R.H., L.L., L.B., S.R.); Departments of Medicine and Pharmacology, Vanderbilt University School of Medicine, Nashville, Tennessee (A.L.G.).",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20131107",
+     "PL": "United States",
+     "TA": "Mol Pharmacol",
+     "JT": "Molecular pharmacology",
+     "JID": "0035623",
+     "RN": [
+          "0 (Acetanilides)",
+          "0 (Anticonvulsants)",
+          "0 (NAV1.1 Voltage-Gated Sodium Channel)",
+          "0 (NAV1.2 Voltage-Gated Sodium Channel)",
+          "0 (Piperazines)",
+          "0 (Voltage-Gated Sodium Channels)",
+          "6384-92-5 (N-Methylaspartate)",
+          "A6IEZ5M406 (Ranolazine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Acetanilides/*pharmacology",
+          "Action Potentials/drug effects",
+          "Animals",
+          "Anticonvulsants/*pharmacology",
+          "Cells, Cultured",
+          "Computer Simulation",
+          "Epilepsy/physiopathology",
+          "Hippocampus/cytology/*drug effects/metabolism",
+          "Humans",
+          "Markov Chains",
+          "N-Methylaspartate/pharmacology",
+          "NAV1.1 Voltage-Gated Sodium Channel/chemistry/physiology",
+          "NAV1.2 Voltage-Gated Sodium Channel/chemistry/physiology",
+          "Neurons/*drug effects/physiology",
+          "Patch-Clamp Techniques",
+          "Piperazines/*pharmacology",
+          "Protein Binding",
+          "Protein Conformation",
+          "Ranolazine",
+          "Rats",
+          "Voltage-Gated Sodium Channels/chemistry/*physiology"
+     ],
+     "EDAT": "2013/11/10 06:00",
+     "MHDA": "2014/03/04 06:00",
+     "CRDT": [
+          "2013/11/09 06:00"
+     ],
+     "PHST": [
+          "2013/11/09 06:00 [entrez]",
+          "2013/11/10 06:00 [pubmed]",
+          "2014/03/04 06:00 [medline]"
+     ],
+     "AID": [
+          "mol.113.088492 [pii]",
+          "10.1124/mol.113.088492 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Mol Pharmacol. 2014 Jan;85(1):162-74. doi: 10.1124/mol.113.088492. Epub 2013 Nov 7.",
+     "term": "hippocampus"
+}

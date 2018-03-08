@@ -1,0 +1,84 @@
+{
+     "PMID": "20006943",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100219",
+     "LR": "20161122",
+     "IS": "1542-0086 (Electronic) 0006-3495 (Linking)",
+     "VI": "97",
+     "IP": "12",
+     "DP": "2009 Dec 16",
+     "TI": "Calcium involvement in regulation of neuronal bursting in disinhibited neuronal networks: insights from calcium studies in a spherical cell model.",
+     "PG": "3065-74",
+     "LID": "10.1016/j.bpj.2009.09.027 [doi]",
+     "AB": "Cytosolic calcium is involved in the regulation of many intracellular processes. Intracellular calcium may therefore potentially affect the behavior of both single neurons and synaptically connected neuronal assemblies. In computer model studies, we investigated calcium dynamics in spherical neurons during periods of recurrent neuronal bursting that were simulated in a disinhibited neuronal network. The model takes into account calcium influx via voltage-gated calcium channels, extrusion through the cell membrane, and binding to two different buffers representing fixed and mobile endogenous calcium buffers. Throughout the duration of the simulated recurrent neuronal bursting, the concentration of free fixed buffers shows a hyperbolic decrease in time at a rate that is not uniform inside a neuron. Recurrent calcium influxes associated with bursting lead to the formation of gradients in the concentration of the fixed buffer in the radial direction, and are accompanied by the redistribution of mobile buffers acting to compensate for these gradients. Simulated intracellular calcium transients have a slow component characterized by a gradual increase in the calcium baseline level that reaches a plateau 120-200 s after the onset of recurrent bursting. Using this model, we demonstrate what we believe is a novel mechanism of regulation of network excitability that occurs in conditions of prolonged and recurrent neuronal bursting in disinhibited networks. This mechanism is expressed via interaction of calcium clearance systems inside neurons with calcium-dependent potassium regulation of neuronal excitability in membranes. This is a network phenomenon because it arises largely by synaptic interactions. Therefore, it can serve as a network safety mechanism to prevent excessive and uncontrolled neuronal firing resulting from the lack of inhibition or after acute suppression of the inhibitory drive.",
+     "FAU": [
+          "Kudela, Pawel",
+          "Bergey, Gregory K",
+          "Franaszczuk, Piotr J"
+     ],
+     "AU": [
+          "Kudela P",
+          "Bergey GK",
+          "Franaszczuk PJ"
+     ],
+     "AD": "Department of Neurology, The Johns Hopkins Epilepsy Center, The Johns Hopkins University School of Medicine, Baltimore, Maryland, USA. pkudela@jhmi.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS051382/NS/NINDS NIH HHS/United States",
+          "R01 NS051382-03/NS/NINDS NIH HHS/United States",
+          "NS51382/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Biophys J",
+     "JT": "Biophysical journal",
+     "JID": "0370626",
+     "RN": [
+          "RWP5GA015D (Potassium)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Calcium/*metabolism",
+          "Cell Membrane/metabolism",
+          "Cerebral Cortex/cytology",
+          "Computer Simulation",
+          "Electric Conductivity",
+          "Hippocampus/cytology",
+          "Intracellular Space/metabolism",
+          "*Models, Biological",
+          "Movement",
+          "Nerve Net/cytology/*physiology",
+          "Neurons/*cytology/metabolism",
+          "Potassium/metabolism",
+          "Synapses/metabolism"
+     ],
+     "PMC": "PMC2793358",
+     "EDAT": "2009/12/17 06:00",
+     "MHDA": "2010/02/20 06:00",
+     "CRDT": [
+          "2009/12/17 06:00"
+     ],
+     "PHST": [
+          "2009/02/12 00:00 [received]",
+          "2009/09/03 00:00 [revised]",
+          "2009/09/14 00:00 [accepted]",
+          "2009/12/17 06:00 [entrez]",
+          "2009/12/17 06:00 [pubmed]",
+          "2010/02/20 06:00 [medline]"
+     ],
+     "AID": [
+          "S0006-3495(09)01508-2 [pii]",
+          "10.1016/j.bpj.2009.09.027 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biophys J. 2009 Dec 16;97(12):3065-74. doi: 10.1016/j.bpj.2009.09.027.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,81 @@
+{
+     "PMID": "20426141",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100607",
+     "LR": "20161118",
+     "VI": "12",
+     "IP": "Pt 2",
+     "DP": "2009",
+     "TI": "Lossless online ensemble learning (LOEL) and its application to subcortical segmentation.",
+     "PG": "432-40",
+     "AB": "In this paper, we study the classification problem in the situation where large volumes of training data become available sequentially (online learning). In medical imaging, this is typical, e.g., a 3D brain MRI dataset may be gradually collected from a patient population, and not all of the data is available when the analysis begins. First, we describe two common ensemble learning algorithms, AdaBoost and bagging, and their corresponding online learning versions. We then show why each is ineffective for segmenting a gradually increasing set of medical images. Instead, we introduce a new ensemble learning algorithm, termed Lossless Online Ensemble Learning (LOEL). This algorithm is lossless in the online case, compared to its batch mode. LOEL outperformed online-AdaBoost and online-bagging when validated on a standardized dataset; it also performed better when used to segment the hippocampus from brain MRI scans of patients with Alzheimer's Disease and matched healthy subjects. Among those tested, LOEL largely outperformed the alternative online learning algorithms and gave excellent error metrics that were consistent between the online and offline case; it also accurately distinguished AD subjects from healthy controls based on automated measures of hippocampal volume.",
+     "FAU": [
+          "Morra, Jonathan H",
+          "Tu, Zhuowen",
+          "Toga, Arthur W",
+          "Thompson, Paul M"
+     ],
+     "AU": [
+          "Morra JH",
+          "Tu Z",
+          "Toga AW",
+          "Thompson PM"
+     ],
+     "AD": "Laboratory of Neuro Imaging, UCLA School of Medicine, Los Angeles, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "AG016570/AG/NIA NIH HHS/United States",
+          "R21 RR019771/RR/NCRR NIH HHS/United States",
+          "R01 LM005639/LM/NLM NIH HHS/United States",
+          "HD050735/HD/NICHD NIH HHS/United States",
+          "EB01651/EB/NIBIB NIH HHS/United States",
+          "P50 AG016570-11A1/AG/NIA NIH HHS/United States",
+          "RR019771/RR/NCRR NIH HHS/United States",
+          "P50 AG016570/AG/NIA NIH HHS/United States",
+          "R01 HD050735/HD/NICHD NIH HHS/United States",
+          "U54 RR021813/RR/NCRR NIH HHS/United States",
+          "LM05639/LM/NLM NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Artificial Intelligence",
+          "Brain/*anatomy & histology",
+          "Diffusion Magnetic Resonance Imaging/*methods",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC3148151",
+     "MID": [
+          "NIHMS309073"
+     ],
+     "EDAT": "2009/01/01 00:00",
+     "MHDA": "2010/06/09 06:00",
+     "CRDT": [
+          "2010/04/30 06:00"
+     ],
+     "PHST": [
+          "2010/04/30 06:00 [entrez]",
+          "2009/01/01 00:00 [pubmed]",
+          "2010/06/09 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2009;12(Pt 2):432-40.",
+     "term": "hippocampus"
+}

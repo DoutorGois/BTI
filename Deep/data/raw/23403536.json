@@ -1,0 +1,66 @@
+{
+     "PMID": "23403536",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130214",
+     "LR": "20170220",
+     "IS": "1662-5188 (Electronic) 1662-5188 (Linking)",
+     "VI": "6",
+     "DP": "2012",
+     "TI": "Associative memory model with long-tail-distributed Hebbian synaptic connections.",
+     "PG": "102",
+     "LID": "10.3389/fncom.2012.00102 [doi]",
+     "AB": "The postsynaptic potentials of pyramidal neurons have a non-Gaussian amplitude distribution with a heavy tail in both hippocampus and neocortex. Such distributions of synaptic weights were recently shown to generate spontaneous internal noise optimal for spike propagation in recurrent cortical circuits. However, whether this internal noise generation by heavy-tailed weight distributions is possible for and beneficial to other computational functions remains unknown. To clarify this point, we construct an associative memory (AM) network model of spiking neurons that stores multiple memory patterns in a connection matrix with a lognormal weight distribution. In AM networks, non-retrieved memory patterns generate a cross-talk noise that severely disturbs memory recall. We demonstrate that neurons encoding a retrieved memory pattern and those encoding non-retrieved memory patterns have different subthreshold membrane-potential distributions in our model. Consequently, the probability of responding to inputs at strong synapses increases for the encoding neurons, whereas it decreases for the non-encoding neurons. Our results imply that heavy-tailed distributions of connection weights can generate noise useful for AM recall.",
+     "FAU": [
+          "Hiratani, Naoki",
+          "Teramae, Jun-Nosuke",
+          "Fukai, Tomoki"
+     ],
+     "AU": [
+          "Hiratani N",
+          "Teramae JN",
+          "Fukai T"
+     ],
+     "AD": "Department of Complexity Science and Engineering, Graduate School of Frontier Sciences, The University of Tokyo Kashiwa, Japan ; Laboratory for Neural Circuit Theory, RIKEN Brain Science Institute Wako, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130207",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC3566427",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "attractor",
+          "hippocampus",
+          "integrate-and-fire",
+          "mean-field",
+          "stochastic resonance",
+          "storage capacity"
+     ],
+     "EDAT": "2013/02/14 06:00",
+     "MHDA": "2013/02/14 06:01",
+     "CRDT": [
+          "2013/02/14 06:00"
+     ],
+     "PHST": [
+          "2012/09/13 00:00 [received]",
+          "2012/12/30 00:00 [accepted]",
+          "2013/02/14 06:00 [entrez]",
+          "2013/02/14 06:00 [pubmed]",
+          "2013/02/14 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2012.00102 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2013 Feb 7;6:102. doi: 10.3389/fncom.2012.00102. eCollection 2012.",
+     "term": "hippocampus"
+}

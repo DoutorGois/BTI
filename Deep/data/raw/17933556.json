@@ -1,0 +1,93 @@
+{
+     "PMID": "17933556",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080219",
+     "LR": "20161122",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "39",
+     "IP": "1",
+     "DP": "2008 Jan 1",
+     "TI": "Automated segmentation of the actively stained mouse brain using multi-spectral MR microscopy.",
+     "PG": "136-45",
+     "AB": "Magnetic resonance microscopy (MRM) has created new approaches for high-throughput morphological phenotyping of mouse models of diseases. Transgenic and knockout mice serve as a test bed for validating hypotheses that link genotype to the phenotype of diseases, as well as developing and tracking treatments. We describe here a Markov random fields based segmentation of the actively stained mouse brain, as a prerequisite for morphological phenotyping. Active staining achieves higher signal to noise ratio (SNR) thereby enabling higher resolution imaging per unit time than obtained in previous formalin-fixed mouse brain studies. The segmentation algorithm was trained on isotropic 43-mum T1- and T2-weighted MRM images. The mouse brain was segmented into 33 structures, including the hippocampus, amygdala, hypothalamus, thalamus, as well as fiber tracts and ventricles. Probabilistic information used in the segmentation consisted of (a) intensity distributions in the T1- and T2-weighted data, (b) location, and (c) contextual priors for incorporating spatial information. Validation using standard morphometric indices showed excellent consistency between automatically and manually segmented data. The algorithm has been tested on the widely used C57BL/6J strain, as well as on a selection of six recombinant inbred BXD strains, chosen especially for their largely variant hippocampus.",
+     "FAU": [
+          "Sharief, Anjum A",
+          "Badea, Alexandra",
+          "Dale, Anders M",
+          "Johnson, G Allan"
+     ],
+     "AU": [
+          "Sharief AA",
+          "Badea A",
+          "Dale AM",
+          "Johnson GA"
+     ],
+     "AD": "GE Healthcare, Milwaukee, WI, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 RR005959/RR/NCRR NIH HHS/United States",
+          "P41 RR005959-18/RR/NCRR NIH HHS/United States",
+          "U24 CA092656/CA/NCI NIH HHS/United States",
+          "R24 CA092656/CA/NCI NIH HHS/United States",
+          "P41 RR013642-097290/RR/NCRR NIH HHS/United States",
+          "U24 RR021760/RR/NCRR NIH HHS/United States",
+          "P41 RR013642/RR/NCRR NIH HHS/United States",
+          "U24 CA092656-07/CA/NCI NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20070829",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "*Artificial Intelligence",
+          "Brain/*cytology",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Microscopy/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Staining and Labeling/methods",
+          "Subtraction Technique"
+     ],
+     "PMC": "PMC2139901",
+     "MID": [
+          "NIHMS35208"
+     ],
+     "EDAT": "2007/10/16 09:00",
+     "MHDA": "2008/02/20 09:00",
+     "CRDT": [
+          "2007/10/16 09:00"
+     ],
+     "PHST": [
+          "2007/03/27 00:00 [received]",
+          "2007/07/15 00:00 [revised]",
+          "2007/08/20 00:00 [accepted]",
+          "2007/10/16 09:00 [pubmed]",
+          "2008/02/20 09:00 [medline]",
+          "2007/10/16 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(07)00757-4 [pii]",
+          "10.1016/j.neuroimage.2007.08.028 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2008 Jan 1;39(1):136-45. doi: 10.1016/j.neuroimage.2007.08.028. Epub 2007 Aug 29.",
+     "term": "hippocampus"
+}

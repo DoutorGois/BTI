@@ -1,0 +1,64 @@
+{
+     "PMID": "21795531",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111007",
+     "LR": "20110728",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "31",
+     "IP": "30",
+     "DP": "2011 Jul 27",
+     "TI": "Branch-specific plasticity enables self-organization of nonlinear computation in single neurons.",
+     "PG": "10787-802",
+     "LID": "10.1523/JNEUROSCI.5684-10.2011 [doi]",
+     "AB": "It has been conjectured that nonlinear processing in dendritic branches endows individual neurons with the capability to perform complex computational operations that are needed to solve for example the binding problem. However, it is not clear how single neurons could acquire such functionality in a self-organized manner, because most theoretical studies of synaptic plasticity and learning concentrate on neuron models without nonlinear dendritic properties. In the meantime, a complex picture of information processing with dendritic spikes and a variety of plasticity mechanisms in single neurons has emerged from experiments. In particular, new experimental data on dendritic branch strength potentiation in rat hippocampus have not yet been incorporated into such models. In this article, we investigate how experimentally observed plasticity mechanisms, such as depolarization-dependent spike-timing-dependent plasticity and branch-strength potentiation, could be integrated to self-organize nonlinear neural computations with dendritic spikes. We provide a mathematical proof that, in a simplified setup, these plasticity mechanisms induce a competition between dendritic branches, a novel concept in the analysis of single neuron adaptivity. We show via computer simulations that such dendritic competition enables a single neuron to become member of several neuronal ensembles and to acquire nonlinear computational capabilities, such as the capability to bind multiple input features. Hence, our results suggest that nonlinear neural computation may self-organize in single neurons through the interaction of local synaptic and dendritic plasticity mechanisms.",
+     "FAU": [
+          "Legenstein, Robert",
+          "Maass, Wolfgang"
+     ],
+     "AU": [
+          "Legenstein R",
+          "Maass W"
+     ],
+     "AD": "Institute for Theoretical Computer Science, Graz University of Technology, 8010 Graz, Austria. robert.legenstein@igi.tugraz.at",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Adaptation, Physiological",
+          "Animals",
+          "*Computer Simulation",
+          "Dendrites/*physiology",
+          "*Models, Neurological",
+          "Neuronal Plasticity/*physiology",
+          "Neurons/*cytology/physiology",
+          "*Nonlinear Dynamics"
+     ],
+     "EDAT": "2011/07/29 06:00",
+     "MHDA": "2011/10/08 06:00",
+     "CRDT": [
+          "2011/07/29 06:00"
+     ],
+     "PHST": [
+          "2011/07/29 06:00 [entrez]",
+          "2011/07/29 06:00 [pubmed]",
+          "2011/10/08 06:00 [medline]"
+     ],
+     "AID": [
+          "31/30/10787 [pii]",
+          "10.1523/JNEUROSCI.5684-10.2011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2011 Jul 27;31(30):10787-802. doi: 10.1523/JNEUROSCI.5684-10.2011.",
+     "term": "hippocampus"
+}

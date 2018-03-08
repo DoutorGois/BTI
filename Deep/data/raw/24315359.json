@@ -1,0 +1,102 @@
+{
+     "PMID": "24315359",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150220",
+     "LR": "20170601",
+     "IS": "1361-8423 (Electronic) 1361-8415 (Linking)",
+     "VI": "18",
+     "IP": "6",
+     "DP": "2014 Aug",
+     "TI": "A generative probability model of joint label fusion for multi-atlas based brain segmentation.",
+     "PG": "881-90",
+     "LID": "10.1016/j.media.2013.10.013 [doi] S1361-8415(13)00157-6 [pii]",
+     "AB": "Automated labeling of anatomical structures in medical images is very important in many neuroscience studies. Recently, patch-based labeling has been widely investigated to alleviate the possible mis-alignment when registering atlases to the target image. However, the weights used for label fusion from the registered atlases are generally computed independently and thus lack the capability of preventing the ambiguous atlas patches from contributing to the label fusion. More critically, these weights are often calculated based only on the simple patch similarity, thus not necessarily providing optimal solution for label fusion. To address these limitations, we propose a generative probability model to describe the procedure of label fusion in a multi-atlas scenario, for the goal of labeling each point in the target image by the best representative atlas patches that also have the largest labeling unanimity in labeling the underlying point correctly. Specifically, sparsity constraint is imposed upon label fusion weights, in order to select a small number of atlas patches that best represent the underlying target patch, thus reducing the risks of including the misleading atlas patches. The labeling unanimity among atlas patches is achieved by exploring their dependencies, where we model these dependencies as the joint probability of each pair of atlas patches in correctly predicting the labels, by analyzing the correlation of their morphological error patterns and also the labeling consensus among atlases. The patch dependencies will be further recursively updated based on the latest labeling results to correct the possible labeling errors, which falls to the Expectation Maximization (EM) framework. To demonstrate the labeling performance, we have comprehensively evaluated our patch-based labeling method on the whole brain parcellation and hippocampus segmentation. Promising labeling results have been achieved with comparison to the conventional patch-based labeling method, indicating the potential application of the proposed method in the future clinical studies.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Wu, Guorong",
+          "Wang, Qian",
+          "Zhang, Daoqiang",
+          "Nie, Feiping",
+          "Huang, Heng",
+          "Shen, Dinggang"
+     ],
+     "AU": [
+          "Wu G",
+          "Wang Q",
+          "Zhang D",
+          "Nie F",
+          "Huang H",
+          "Shen D"
+     ],
+     "AD": "Department of Radiology and BRIC, University of North Carolina at Chapel Hill, USA. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, USA; Department of Computer Science, University of North Carolina at Chapel Hill, USA. Department of Computer Science and Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing, China. Department of Computer Science and Engineering, University of Texas, Arlington, USA. Department of Computer Science and Engineering, University of Texas, Arlington, USA. Department of Radiology and BRIC, University of North Carolina at Chapel Hill, USA. Electronic address: dgshen@med.unc.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB008374/EB/NIBIB NIH HHS/United States",
+          "1R01 EB009634/EB/NIBIB NIH HHS/United States",
+          "R01 EB006733/EB/NIBIB NIH HHS/United States",
+          "R01 AG041721/AG/NIA NIH HHS/United States",
+          "1R01 EB006733/EB/NIBIB NIH HHS/United States",
+          "R01 EB009634/EB/NIBIB NIH HHS/United States",
+          "R01 MH100217/MH/NIMH NIH HHS/United States",
+          "1R01 MH100217/MH/NIMH NIH HHS/United States",
+          "R21 HD081467/HD/NICHD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20131116",
+     "PL": "Netherlands",
+     "TA": "Med Image Anal",
+     "JT": "Medical image analysis",
+     "JID": "9713490",
+     "SB": "IM",
+     "MH": [
+          "Atlases as Topic",
+          "Brain Mapping/*methods",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Statistical",
+          "Probability"
+     ],
+     "PMC": "PMC4024092",
+     "MID": [
+          "NIHMS541224"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Generative probability model",
+          "Multi-atlas based segmentation",
+          "Patch-based labeling",
+          "Sparse representation"
+     ],
+     "EDAT": "2013/12/10 06:00",
+     "MHDA": "2015/02/24 06:00",
+     "CRDT": [
+          "2013/12/10 06:00"
+     ],
+     "PHST": [
+          "2013/04/04 00:00 [received]",
+          "2013/07/29 00:00 [revised]",
+          "2013/10/27 00:00 [accepted]",
+          "2013/12/10 06:00 [entrez]",
+          "2013/12/10 06:00 [pubmed]",
+          "2015/02/24 06:00 [medline]"
+     ],
+     "AID": [
+          "S1361-8415(13)00157-6 [pii]",
+          "10.1016/j.media.2013.10.013 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Anal. 2014 Aug;18(6):881-90. doi: 10.1016/j.media.2013.10.013. Epub 2013 Nov 16.",
+     "term": "hippocampus"
+}

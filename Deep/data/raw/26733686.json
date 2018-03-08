@@ -1,0 +1,118 @@
+{
+     "PMID": "26733686",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160613",
+     "LR": "20161019",
+     "IS": "1091-6490 (Electronic) 0027-8424 (Linking)",
+     "VI": "113",
+     "IP": "3",
+     "DP": "2016 Jan 19",
+     "TI": "Luminopsins integrate opto- and chemogenetics by using physical and biological light sources for opsin activation.",
+     "PG": "E358-67",
+     "LID": "10.1073/pnas.1510899113 [doi]",
+     "AB": "Luminopsins are fusion proteins of luciferase and opsin that allow interrogation of neuronal circuits at different temporal and spatial resolutions by choosing either extrinsic physical or intrinsic biological light for its activation. Building on previous development of fusions of wild-type Gaussia luciferase with channelrhodopsin, here we expanded the utility of luminopsins by fusing bright Gaussia luciferase variants with either channelrhodopsin to excite neurons (luminescent opsin, LMO) or a proton pump to inhibit neurons (inhibitory LMO, iLMO). These improved LMOs could reliably activate or silence neurons in vitro and in vivo. Expression of the improved LMO in hippocampal circuits not only enabled mapping of synaptic activation of CA1 neurons with fine spatiotemporal resolution but also could drive rhythmic circuit excitation over a large spatiotemporal scale. Furthermore, virus-mediated expression of either LMO or iLMO in the substantia nigra in vivo produced not only the expected bidirectional control of single unit activity but also opposing effects on circling behavior in response to systemic injection of a luciferase substrate. Thus, although preserving the ability to be activated by external light sources, LMOs expand the use of optogenetics by making the same opsins accessible to noninvasive, chemogenetic control, thereby allowing the same probe to manipulate neuronal activity over a range of spatial and temporal scales.",
+     "FAU": [
+          "Berglund, Ken",
+          "Clissold, Kara",
+          "Li, Haofang E",
+          "Wen, Lei",
+          "Park, Sung Young",
+          "Gleixner, Jan",
+          "Klein, Marguerita E",
+          "Lu, Dongye",
+          "Barter, Joseph W",
+          "Rossi, Mark A",
+          "Augustine, George J",
+          "Yin, Henry H",
+          "Hochgeschwender, Ute"
+     ],
+     "AU": [
+          "Berglund K",
+          "Clissold K",
+          "Li HE",
+          "Wen L",
+          "Park SY",
+          "Gleixner J",
+          "Klein ME",
+          "Lu D",
+          "Barter JW",
+          "Rossi MA",
+          "Augustine GJ",
+          "Yin HH",
+          "Hochgeschwender U"
+     ],
+     "AD": "Department of Neurobiology, Duke University, Durham, NC 27710; Department of Neurosurgery, Emory University, Atlanta, GA 30322; Department of Psychology and Neuroscience, Duke University, Durham, NC 27708; Department of Psychology and Neuroscience, Duke University, Durham, NC 27708; Center for Functional Connectomics, Korea Institute of Science and Technology, 39-1 Hawolgokdong, Seongbukgu, Seoul 136-791, Republic of Korea; Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 637553; Center for Functional Connectomics, Korea Institute of Science and Technology, 39-1 Hawolgokdong, Seongbukgu, Seoul 136-791, Republic of Korea; Department of Neurobiology, Duke University, Durham, NC 27710; Department of Neurobiology, Duke University, Durham, NC 27710; Department of Psychology and Neuroscience, Duke University, Durham, NC 27708; Department of Psychology and Neuroscience, Duke University, Durham, NC 27708; Department of Psychology and Neuroscience, Duke University, Durham, NC 27708; Center for Functional Connectomics, Korea Institute of Science and Technology, 39-1 Hawolgokdong, Seongbukgu, Seoul 136-791, Republic of Korea; Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 637553; Department of Neurobiology, Duke University, Durham, NC 27710; Department of Psychology and Neuroscience, Duke University, Durham, NC 27708; Center for Cognitive Neuroscience, Duke University, Durham, NC 27708; ute.hochgeschwender@cmich.edu hy43@duke.edu. Department of Neurobiology, Duke University, Durham, NC 27710; Neuroscience Program, Central Michigan University, Mt Pleasant, MI 48859; College of Medicine, Central Michigan University, Mt Pleasant, MI 48859 ute.hochgeschwender@cmich.edu hy43@duke.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R21 MH101525/MH/NIMH NIH HHS/United States",
+          "R21MH101525/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160105",
+     "PL": "United States",
+     "TA": "Proc Natl Acad Sci U S A",
+     "JT": "Proceedings of the National Academy of Sciences of the United States of America",
+     "JID": "7505876",
+     "RN": [
+          "0 (Opsins)",
+          "9009-81-8 (Rhodopsin)",
+          "EC 1.13.12.- (Luciferases)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/radiation effects",
+          "Animals",
+          "Behavior, Animal",
+          "Female",
+          "HEK293 Cells",
+          "Humans",
+          "*Light",
+          "Luciferases/metabolism",
+          "Luminescent Measurements",
+          "Mice, Inbred C57BL",
+          "Movement",
+          "Neurons/metabolism/radiation effects",
+          "Opsins/*metabolism",
+          "*Optogenetics",
+          "Rats, Sprague-Dawley",
+          "Rhodopsin/metabolism",
+          "Substantia Nigra/physiology/radiation effects",
+          "Synapses/metabolism/radiation effects",
+          "Volvox/metabolism/radiation effects"
+     ],
+     "PMC": "PMC4725499",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "bioluminescence",
+          "hippocampus",
+          "luciferase",
+          "neural circuitry",
+          "substantia nigra"
+     ],
+     "EDAT": "2016/01/07 06:00",
+     "MHDA": "2016/06/14 06:00",
+     "CRDT": [
+          "2016/01/07 06:00"
+     ],
+     "PHST": [
+          "2016/01/07 06:00 [entrez]",
+          "2016/01/07 06:00 [pubmed]",
+          "2016/06/14 06:00 [medline]"
+     ],
+     "AID": [
+          "1510899113 [pii]",
+          "10.1073/pnas.1510899113 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc Natl Acad Sci U S A. 2016 Jan 19;113(3):E358-67. doi: 10.1073/pnas.1510899113. Epub 2016 Jan 5.",
+     "term": "hippocampus"
+}

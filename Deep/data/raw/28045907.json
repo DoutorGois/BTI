@@ -1,0 +1,96 @@
+{
+     "PMID": "28045907",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170821",
+     "LR": "20170821",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "12",
+     "IP": "1",
+     "DP": "2017",
+     "TI": "Early Prediction of Alzheimer's Disease Using Null Longitudinal Model-Based Classifiers.",
+     "PG": "e0168011",
+     "LID": "10.1371/journal.pone.0168011 [doi]",
+     "AB": "Incipient Alzheimer's Disease (AD) is characterized by a slow onset of clinical symptoms, with pathological brain changes starting several years earlier. Consequently, it is necessary to first understand and differentiate age-related changes in brain regions in the absence of disease, and then to support early and accurate AD diagnosis. However, there is poor understanding of the initial stage of AD; seemingly healthy elderly brains lose matter in regions related to AD, but similar changes can also be found in non-demented subjects having mild cognitive impairment (MCI). By using a Linear Mixed Effects approach, we modelled the change of 166 Magnetic Resonance Imaging (MRI)-based biomarkers available at a 5-year follow up on healthy elderly control (HC, n = 46) subjects. We hypothesized that, by identifying their significant variant (vr) and quasi-variant (qvr) brain regions over time, it would be possible to obtain an age-based null model, which would characterize their normal atrophy and growth patterns as well as the correlation between these two regions. By using the null model on those subjects who had been clinically diagnosed as HC (n = 161), MCI (n = 209) and AD (n = 331), normal age-related changes were estimated and deviation scores (residuals) from the observed MRI-based biomarkers were computed. Subject classification, as well as the early prediction of conversion to MCI and AD, were addressed through residual-based Support Vector Machines (SVM) modelling. We found reductions in most cortical volumes and thicknesses (with evident gender differences) as well as in sub-cortical regions, including greater atrophy in the hippocampus. The average accuracies (ACC) recorded for men and women were: AD-HC: 94.11%, MCI-HC: 83.77% and MCI converted to AD (cAD)-MCI non-converter (sMCI): 76.72%. Likewise, as compared to standard clinical diagnosis methods, SVM classifiers predicted the conversion of cAD to be 1.9 years earlier for females (ACC:72.5%) and 1.4 years earlier for males (ACC:69.0%).",
+     "FAU": [
+          "Gavidia-Bovadilla, Giovana",
+          "Kanaan-Izquierdo, Samir",
+          "Mataro-Serrat, Maria",
+          "Perera-Lluna, Alexandre"
+     ],
+     "AU": [
+          "Gavidia-Bovadilla G",
+          "Kanaan-Izquierdo S",
+          "Mataro-Serrat M",
+          "Perera-Lluna A"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-5743-1800"
+     ],
+     "AD": "Department of ESAII, Universitat Politecnica de Catalunya, Barcelona, Catalonia, Spain. Department of ESAII, Universitat Politecnica de Catalunya, Barcelona, Catalonia, Spain. Department of ESAII, Center for Biomedical Engineering Research (CREB), Universitat Politecnica de Catalunya, Barcelona, Catalonia, Spain. Department of Clinical Psychology and Psychobiology, Universitat de Barcelona, Barcelona, Catalonia, Spain. Institute of Neurosciences, Universitat de Barcelona, Barcelona, Catalonia, Spain. Department of ESAII, Universitat Politecnica de Catalunya, Barcelona, Catalonia, Spain. CIBER of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), Barcelona, Catalonia, Spain.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170103",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (Amyloid beta-Peptides)",
+          "0 (Biomarkers)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/cerebrospinal fluid/*diagnostic imaging/*pathology",
+          "Amyloid beta-Peptides/cerebrospinal fluid",
+          "Atrophy/diagnostic imaging/*pathology",
+          "Biomarkers",
+          "Brain/diagnostic imaging/*pathology",
+          "Case-Control Studies",
+          "Cohort Studies",
+          "Female",
+          "Hippocampus/diagnostic imaging/pathology",
+          "Humans",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Reproducibility of Results",
+          "Sex Factors",
+          "Support Vector Machine"
+     ],
+     "PMC": "PMC5207395",
+     "COIS": [
+          "The authors have declared that no competing interests exist."
+     ],
+     "EDAT": "2017/01/04 06:00",
+     "MHDA": "2017/08/22 06:00",
+     "CRDT": [
+          "2017/01/04 06:00"
+     ],
+     "PHST": [
+          "2016/08/12 00:00 [received]",
+          "2016/11/24 00:00 [accepted]",
+          "2017/01/04 06:00 [entrez]",
+          "2017/01/04 06:00 [pubmed]",
+          "2017/08/22 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0168011 [doi]",
+          "PONE-D-16-32321 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2017 Jan 3;12(1):e0168011. doi: 10.1371/journal.pone.0168011. eCollection 2017.",
+     "term": "hippocampus"
+}

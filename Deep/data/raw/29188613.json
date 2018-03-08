@@ -1,0 +1,67 @@
+{
+     "PMID": "29188613",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20180208",
+     "IS": "1003-9406 (Print) 1003-9406 (Linking)",
+     "VI": "34",
+     "IP": "6",
+     "DP": "2017 Dec 10",
+     "TI": "[Exploration of common biological pathways for attention deficit hyperactivity disorder and low birth weight].",
+     "PG": "844-848",
+     "LID": "10.3760/cma.j.issn.1003-9406.2017.06.013 [doi]",
+     "AB": "OBJECTIVE: To explore common biological pathways for attention deficit hyperactivity disorder (ADHD) and low birth weight (LBW). METHODS: Thei-Gsea4GwasV2 software was used to analyze the result of genome-wide association analysis (GWAS) for LBW (pathways were derived from Reactome), and nominally significant (P< 0.05, FDR< 0.25) pathways were tested for replication in ADHD.Significant pathways were analyzed with DAPPLE and Reatome FI software to identify genes involved in such pathways, with each cluster enriched with the gene ontology (GO). The Centiscape2.0 software was used to calculate the degree of genetic networks and the betweenness value to explore the core node (gene). Weighed gene co-expression network analysis (WGCNA) was then used to explore the co-expression of genes in these pathways.With gene expression data derived from BrainSpan, GO enrichment was carried out for each gene module. RESULTS: Eleven significant biological pathways was identified in association with LBW, among which two (Selenoamino acid metabolism and Diseases associated with glycosaminoglycan metabolism) were replicated during subsequent ADHD analysis. Network analysis of 130 genes in these pathways revealed that some of the sub-networksare related with morphology of cerebellum, development of hippocampus, and plasticity of synaptic structure. Upon co-expression network analysis, 120 genes passed the quality control and were found to express in 3 gene modules. These modules are mainly related to the regulation of synaptic structure and activity regulation. CONCLUSION: ADHD and LBW share some biological regulation processes. Anomalies of such proces sesmay predispose to ADHD.",
+     "FAU": [
+          "Xiang, Bo",
+          "Yu, Minglan",
+          "Liang, Xuemei",
+          "Lei, Wei",
+          "Huang, Chaohua",
+          "Chen, Jing",
+          "He, Wenying",
+          "Zhang, Tao",
+          "Li, Tao",
+          "Liu, Kezhi"
+     ],
+     "AU": [
+          "Xiang B",
+          "Yu M",
+          "Liang X",
+          "Lei W",
+          "Huang C",
+          "Chen J",
+          "He W",
+          "Zhang T",
+          "Li T",
+          "Liu K"
+     ],
+     "AD": "Mental Health Center, Department of Psychiatry, Center of Laboratory Medicine, the Affiliated Hospital of Southwestern Medical University, Luzhou, Sichuan 646000, China. Email: xbyl2012@126.com.",
+     "LA": [
+          "chi"
+     ],
+     "PT": [
+          "English Abstract",
+          "Journal Article"
+     ],
+     "PL": "China",
+     "TA": "Zhonghua Yi Xue Yi Chuan Xue Za Zhi",
+     "JT": "Zhonghua yi xue yi chuan xue za zhi = Zhonghua yixue yichuanxue zazhi = Chinese journal of medical genetics",
+     "JID": "9425197",
+     "EDAT": "2017/12/01 06:00",
+     "MHDA": "2017/12/01 06:00",
+     "CRDT": [
+          "2017/12/01 06:00"
+     ],
+     "PHST": [
+          "2017/12/01 06:00 [entrez]",
+          "2017/12/01 06:00 [pubmed]",
+          "2017/12/01 06:00 [medline]"
+     ],
+     "AID": [
+          "940634172 [pii]",
+          "10.3760/cma.j.issn.1003-9406.2017.06.013 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Zhonghua Yi Xue Yi Chuan Xue Za Zhi. 2017 Dec 10;34(6):844-848. doi: 10.3760/cma.j.issn.1003-9406.2017.06.013.",
+     "term": "hippocampus"
+}

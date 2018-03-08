@@ -1,0 +1,86 @@
+{
+     "PMID": "21368047",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110513",
+     "LR": "20170220",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "31",
+     "IP": "9",
+     "DP": "2011 Mar 2",
+     "TI": "Submillisecond firing synchrony between different subtypes of cortical interneurons connected chemically but not electrically.",
+     "PG": "3351-61",
+     "LID": "10.1523/JNEUROSCI.4881-10.2011 [doi]",
+     "AB": "Synchronous firing is commonly observed in the brain, but its underlying mechanisms and neurobiological meaning remain debated. Most commonly, synchrony is attributed either to electrical coupling by gap junctions or to shared excitatory inputs. In the cerebral cortex and hippocampus, fast-spiking (FS) or somatostatin-containing (SOM) inhibitory interneurons are electrically coupled to same-type neighbors, and each subtype-specific network tends to fire in synchrony. Electrical coupling across subtypes is weak or absent, but SOM-FS and FS-FS pairs are often connected by inhibitory synapses. Theoretical studies suggest that purely inhibitory coupling can also promote synchrony; however, this has not been confirmed experimentally. We recorded from 74 pairs of electrically noncoupled layer 4 interneurons in mouse somatosensory cortex in vitro, and found that tonically depolarized FS-FS and SOM-FS pairs connected by unidirectional or bidirectional inhibitory synapses often fired within 1 ms of each other. Using a novel, jitter-based measure of synchrony, we found that synchrony correlated with inhibitory coupling strength. Importantly, synchrony was resistant to ionotropic glutamate receptors antagonists but was strongly reduced when GABA(A) receptors were blocked, confirming that in our experimental system IPSPs were both necessary and sufficient for synchrony. Submillisecond firing lags emerged in a computer simulation of pairs of spiking neurons, in which the only assumed interaction between neurons was by inhibitory synapses. We conclude that cortical interneurons are capable of synchronizing both within and across subtypes, and that submillisecond coordination of firing can arise by mutual synaptic inhibition alone, with neither shared inputs nor electrical coupling.",
+     "FAU": [
+          "Hu, Hang",
+          "Ma, Yunyong",
+          "Agmon, Ariel"
+     ],
+     "AU": [
+          "Hu H",
+          "Ma Y",
+          "Agmon A"
+     ],
+     "AD": "Department of Neurobiology, West Virginia University, Morgantown, West Virginia 26506-9303, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS050437-04/NS/NINDS NIH HHS/United States",
+          "NS050437/NS/NINDS NIH HHS/United States",
+          "P20 RR015574/RR/NCRR NIH HHS/United States",
+          "R01 NS050437/NS/NINDS NIH HHS/United States",
+          "RR015574/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "RN": [
+          "0 (Receptors, GABA-A)",
+          "51110-01-1 (Somatostatin)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/genetics/*physiology",
+          "Animals",
+          "Cerebral Cortex/chemistry/*cytology/*physiology",
+          "Female",
+          "Inhibitory Postsynaptic Potentials/genetics/physiology",
+          "Interneurons/chemistry/*cytology/*physiology",
+          "Male",
+          "Mice",
+          "Mice, Transgenic",
+          "Random Allocation",
+          "Receptors, GABA-A/chemistry/physiology",
+          "Somatostatin/chemistry/physiology",
+          "Time Factors"
+     ],
+     "PMC": "PMC3076707",
+     "MID": [
+          "NIHMS277796"
+     ],
+     "EDAT": "2011/03/04 06:00",
+     "MHDA": "2011/05/14 06:00",
+     "CRDT": [
+          "2011/03/04 06:00"
+     ],
+     "PHST": [
+          "2011/03/04 06:00 [entrez]",
+          "2011/03/04 06:00 [pubmed]",
+          "2011/05/14 06:00 [medline]"
+     ],
+     "AID": [
+          "31/9/3351 [pii]",
+          "10.1523/JNEUROSCI.4881-10.2011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2011 Mar 2;31(9):3351-61. doi: 10.1523/JNEUROSCI.4881-10.2011.",
+     "term": "hippocampus"
+}

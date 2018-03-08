@@ -1,0 +1,76 @@
+{
+     "PMID": "24586370",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150102",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "9",
+     "IP": "2",
+     "DP": "2014",
+     "TI": "Changes in topological organization of functional PET brain network with normal aging.",
+     "PG": "e88690",
+     "LID": "10.1371/journal.pone.0088690 [doi]",
+     "AB": "Recent studies about brain network have suggested that normal aging is associated with alterations in coordinated patterns of the large-scale brain functional and structural systems. However, age-related changes in functional networks constructed via positron emission tomography (PET) data are still barely understood. Here, we constructed functional brain networks composed of 90 regions in younger (mean age 36.5 years) and older (mean age 56.3 years) age groups with PET data. 113 younger and 110 older healthy individuals were separately selected for two age groups, from a physical examination database. Corresponding brain functional networks of the two groups were constructed by thresholding average cerebral glucose metabolism correlation matrices of 90 regions and analysed using graph theoretical approaches. Although both groups showed normal small-world architecture in the PET networks, increased clustering and decreased efficiency were found in older subjects, implying a degeneration process that brain system shifts from a small-world network to regular one along with normal aging. Moreover, normal senescence was related to changed nodal centralities predominantly in association and paralimbic cortex regions, e.g. increasing in orbitofrontal cortex (middle) and decreasing in left hippocampus. Additionally, the older networks were about equally as robust to random failures as younger counterpart, but more vulnerable against targeted attacks. Finally, methods in the construction of the PET networks revealed reasonable robustness. Our findings enhanced the understanding about the topological principles of PET networks and changes related to normal aging.",
+     "FAU": [
+          "Liu, Zhiliang",
+          "Ke, Lining",
+          "Liu, Huafeng",
+          "Huang, Wenhua",
+          "Hu, Zhenghui"
+     ],
+     "AU": [
+          "Liu Z",
+          "Ke L",
+          "Liu H",
+          "Huang W",
+          "Hu Z"
+     ],
+     "AD": "State Key Laboratory of Modern Optical Instrumentation, Department of Optical Engineering, Zhejiang University, Hangzhou, China. Institute of Clinical Anatomy, School of Basic Medical Sciences, Southern Medical University, Guangzhou, China. State Key Laboratory of Modern Optical Instrumentation, Department of Optical Engineering, Zhejiang University, Hangzhou, China. Institute of Clinical Anatomy, School of Basic Medical Sciences, Southern Medical University, Guangzhou, China. State Key Laboratory of Modern Optical Instrumentation, Department of Optical Engineering, Zhejiang University, Hangzhou, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140220",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aging/*physiology",
+          "Brain/*physiology",
+          "Female",
+          "Humans",
+          "Likelihood Functions",
+          "Male",
+          "Middle Aged",
+          "Nerve Net/*physiology",
+          "Positron-Emission Tomography"
+     ],
+     "PMC": "PMC3930631",
+     "EDAT": "2014/03/04 06:00",
+     "MHDA": "2015/01/03 06:00",
+     "CRDT": [
+          "2014/03/04 06:00"
+     ],
+     "PHST": [
+          "2013/08/10 00:00 [received]",
+          "2014/01/09 00:00 [accepted]",
+          "2014/03/04 06:00 [entrez]",
+          "2014/03/04 06:00 [pubmed]",
+          "2015/01/03 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0088690 [doi]",
+          "PONE-D-13-32821 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2014 Feb 20;9(2):e88690. doi: 10.1371/journal.pone.0088690. eCollection 2014.",
+     "term": "hippocampus"
+}

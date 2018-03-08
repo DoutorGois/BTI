@@ -1,0 +1,81 @@
+{
+     "PMID": "18996207",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090219",
+     "LR": "20081222",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "44",
+     "IP": "3",
+     "DP": "2009 Feb 1",
+     "TI": "Voxel-based iterative sensitivity (VBIS) analysis: methods and a validation of intensity scaling for T2-weighted imaging of hippocampal sclerosis.",
+     "PG": "812-9",
+     "LID": "10.1016/j.neuroimage.2008.09.055 [doi]",
+     "AB": "Abnormalities in the brain generally manifest on MRI as changes in shape (morphometry) or changes in the nature of the tissue (signal intensity). Voxel Based Morphometry (VBM) is a whole brain quantitative way of assessing morphometric changes. Voxel Based Relaxometry (VBR) directly assesses signal intensity changes in quantitative maps of T2 relaxation time, but this requires specialised multiple-echo acquisition sequences that are not usually available at clinical sites. This paper introduces and assesses an objective voxel-based statistical method for evaluation of signal intensity in groups of routinely acquired qualitative images. We call the method Voxel-Based Iterative Sensitivity (VBIS) analysis. It adaptively optimises the relative global scaling of images to maximise sensitivity to regional effects. We apply and validate the method of analysis for T2-weighted images of the human brain. To validate the method, it was directly compared with VBR by extracting T2-weighted images of a single echo from multi-echo T2 relaxometry acquisitions from a group of 24 patients with left hemisphere hippocampal sclerosis and 97 healthy controls. Expected signal abnormalities in the patients were detectable with VBIS-T2, confirming the feasibility of the technique. This opens the door to the use of a voxel-based analysis approach on the vast amount of T2-weighted image data that has been and is being acquired on MRI scanners. When a quantitative modality is not available, VBIS can be an effective way to quantify differences between groups. We expect the method could also assist quantitative analysis of other qualitative modalities such as T1-weighted MRI, SPECT and CT.",
+     "FAU": [
+          "Abbott, David F",
+          "Pell, Gaby S",
+          "Pardoe, Heath",
+          "Jackson, Graeme D"
+     ],
+     "AU": [
+          "Abbott DF",
+          "Pell GS",
+          "Pardoe H",
+          "Jackson GD"
+     ],
+     "AD": "Brain Research Institute, Florey Neuroscience Institutes Austin, Melbourne, Victoria, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20081019",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Artificial Intelligence",
+          "Epilepsy, Temporal Lobe/*pathology",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sclerosis/pathology",
+          "Sensitivity and Specificity",
+          "Young Adult"
+     ],
+     "EDAT": "2008/11/11 09:00",
+     "MHDA": "2009/02/20 09:00",
+     "CRDT": [
+          "2008/11/11 09:00"
+     ],
+     "PHST": [
+          "2008/06/13 00:00 [received]",
+          "2008/09/01 00:00 [revised]",
+          "2008/09/28 00:00 [accepted]",
+          "2008/11/11 09:00 [pubmed]",
+          "2009/02/20 09:00 [medline]",
+          "2008/11/11 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(08)01063-X [pii]",
+          "10.1016/j.neuroimage.2008.09.055 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2009 Feb 1;44(3):812-9. doi: 10.1016/j.neuroimage.2008.09.055. Epub 2008 Oct 19.",
+     "term": "hippocampus"
+}

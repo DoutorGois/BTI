@@ -1,0 +1,65 @@
+{
+     "PMID": "11007303",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20010126",
+     "LR": "20061115",
+     "IS": "0340-1200 (Print) 0340-1200 (Linking)",
+     "VI": "83",
+     "IP": "3",
+     "DP": "2000 Sep",
+     "TI": "Predictions derived from modelling the hippocampal role in navigation.",
+     "PG": "301-12",
+     "AB": "A computational model of the lesion and single unit data from navigation in rats is reviewed. The model uses external (visual) and internal (odometric) information from the environment to drive the firing of simulated hippocampal place cells. Constraints on the functional form of these inputs are drawn from experiments using an environment of modifiable shape. The place cell representation is used to guide navigation via the creation of a representation of goal location via Hebbian modification of synaptic strengths. The model includes consideration of the phase of firing of place cells with respect to the theta rhythm of hippocampal EEG. A series of predictions for behavioural and single-unit data in rats are derived from the input and output representations of the model.",
+     "FAU": [
+          "Burgess, N",
+          "Jackson, A",
+          "Hartley, T",
+          "O'Keefe, J"
+     ],
+     "AU": [
+          "Burgess N",
+          "Jackson A",
+          "Hartley T",
+          "O'Keefe J"
+     ],
+     "AD": "Institute of Cognitive Neuroscience and Department of Anatomy, University College London, UK. n.burgess@ucl.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Behavior, Animal",
+          "*Hippocampus",
+          "*Models, Biological",
+          "*Models, Theoretical",
+          "*Neurons",
+          "*Psychomotor Performance",
+          "Rats"
+     ],
+     "EDAT": "2000/09/28 11:00",
+     "MHDA": "2001/02/28 10:01",
+     "CRDT": [
+          "2000/09/28 11:00"
+     ],
+     "PHST": [
+          "2000/09/28 11:00 [pubmed]",
+          "2001/02/28 10:01 [medline]",
+          "2000/09/28 11:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s004220000172 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Cybern. 2000 Sep;83(3):301-12. doi: 10.1007/s004220000172.",
+     "term": "place cells"
+}

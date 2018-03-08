@@ -1,0 +1,94 @@
+{
+     "PMID": "19936051",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100201",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "5",
+     "IP": "11",
+     "DP": "2009 Nov",
+     "TI": "Evaluation of the oscillatory interference model of grid cell firing through analysis and measured period variance of some biological oscillators.",
+     "PG": "e1000573",
+     "LID": "10.1371/journal.pcbi.1000573 [doi]",
+     "AB": "Models of the hexagonally arrayed spatial activity pattern of grid cell firing in the literature generally fall into two main categories: continuous attractor models or oscillatory interference models. Burak and Fiete (2009, PLoS Comput Biol) recently examined noise in two continuous attractor models, but did not consider oscillatory interference models in detail. Here we analyze an oscillatory interference model to examine the effects of noise on its stability and spatial firing properties. We show analytically that the square of the drift in encoded position due to noise is proportional to time and inversely proportional to the number of oscillators. We also show there is a relatively fixed breakdown point, independent of many parameters of the model, past which noise overwhelms the spatial signal. Based on this result, we show that a pair of oscillators are expected to maintain a stable grid for approximately t = 5mu(3)/(4pisigma)(2) seconds where mu is the mean period of an oscillator in seconds and sigma(2) its variance in seconds(2). We apply this criterion to recordings of individual persistent spiking neurons in postsubiculum (dorsal presubiculum) and layers III and V of entorhinal cortex, to subthreshold membrane potential oscillation recordings in layer II stellate cells of medial entorhinal cortex and to values from the literature regarding medial septum theta bursting cells. All oscillators examined have expected stability times far below those seen in experimental recordings of grid cells, suggesting the examined biological oscillators are unfit as a substrate for current implementations of oscillatory interference models. However, oscillatory interference models can tolerate small amounts of noise, suggesting the utility of circuit level effects which might reduce oscillator variability. Further implications for grid cell models are discussed.",
+     "FAU": [
+          "Zilli, Eric A",
+          "Yoshida, Motoharu",
+          "Tahvildari, Babak",
+          "Giocomo, Lisa M",
+          "Hasselmo, Michael E"
+     ],
+     "AU": [
+          "Zilli EA",
+          "Yoshida M",
+          "Tahvildari B",
+          "Giocomo LM",
+          "Hasselmo ME"
+     ],
+     "AD": "Department of Psychology, Boston University, Boston, Massachusetts, USA. zilli@bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH71702/MH/NIMH NIH HHS/United States",
+          "MH60013/MH/NIMH NIH HHS/United States",
+          "R01 MH061492-08/MH/NIMH NIH HHS/United States",
+          "R01 MH060013-11A1/MH/NIMH NIH HHS/United States",
+          "DA16454/DA/NIDA NIH HHS/United States",
+          "R01 DA016454/DA/NIDA NIH HHS/United States",
+          "R01 MH061492-09/MH/NIMH NIH HHS/United States",
+          "R01 MH060013/MH/NIMH NIH HHS/United States",
+          "R01 MH060013-10/MH/NIMH NIH HHS/United States",
+          "P50 MH071702/MH/NIMH NIH HHS/United States",
+          "R01 MH061492/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20091120",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Algorithms",
+          "Animals",
+          "Biological Clocks/*physiology",
+          "Brain/pathology",
+          "Cell Membrane/metabolism",
+          "Computer Simulation",
+          "Male",
+          "Models, Biological",
+          "Models, Statistical",
+          "Neurons/physiology",
+          "Oscillometry",
+          "Patch-Clamp Techniques",
+          "Rats",
+          "Rats, Long-Evans"
+     ],
+     "PMC": "PMC2773844",
+     "EDAT": "2009/11/26 06:00",
+     "MHDA": "2010/02/02 06:00",
+     "CRDT": [
+          "2009/11/26 06:00"
+     ],
+     "PHST": [
+          "2009/04/24 00:00 [received]",
+          "2009/10/20 00:00 [accepted]",
+          "2009/11/26 06:00 [entrez]",
+          "2009/11/26 06:00 [pubmed]",
+          "2010/02/02 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1000573 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2009 Nov;5(11):e1000573. doi: 10.1371/journal.pcbi.1000573. Epub 2009 Nov 20.",
+     "term": "grid cells"
+}

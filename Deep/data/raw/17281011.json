@@ -1,0 +1,48 @@
+{
+     "PMID": "17281011",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20121002",
+     "LR": "20140821",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "4",
+     "DP": "2005",
+     "TI": "A Simulation Study of Firing Patterns based on Coupling Effect between Soma and Dendrite.",
+     "PG": "3624-7",
+     "AB": "The aim of this study is to investigate how firing patterns of neuron in hippocampus change with coupling effect between soma and dendrite via simulation of single neuron firings by a two-compartment (soma-dendrite) model. The results will help to understand how firing patterns relative to synaptic plasticity in further study. The neuron model used in this study consisted two compartments: the soma compartment and the dendrite compartment, which can describe synaptic input functions. Simulations of neural firings were performed with fourth order Runge-Kutta algorithm with different range of coupling conductance. Firing patterns of neuron were simulated under different current applied to soma (Is). The range for different firing patterns is: Is=0..A/cm2, range for spiking is [0.0, 1.8] and [4.5, ..], for bursting is [1.9,4.4]; Is=0.5..A/cm2, range for spiking is [0.0, 2.2] and [4.0, ..], for bursting is [2.3,3.9]; Is=1.0..A/cm2, range for spiking is [0.0, 2.5] and [3.6, ..], for bursting is [2.6,3.5]; Is=1.5..A/cm2, range for spiking is [0.0, 2.5] and [3.8, ..], for bursting is [2.6,3.7]; Is=2.0..A/cm2, range for spiking is [0.0, 2.6] and [3.6, ..], for bursting is [2.7,3.5]; Is=2.5..A/cm2, range for spiking is [0.0, 2.6] and [3.3, ..], for bursting is [2.7,3.2].",
+     "FAU": [
+          "Liu, T",
+          "Tian, X"
+     ],
+     "AU": [
+          "Liu T",
+          "Tian X"
+     ],
+     "AD": "Department of Biomedical Engineering, Tianjin Medical University, Tianjin, China, 300070.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "EDAT": "2007/02/07 09:00",
+     "MHDA": "2007/02/07 09:01",
+     "CRDT": [
+          "2007/02/07 09:00"
+     ],
+     "PHST": [
+          "2007/02/07 09:00 [pubmed]",
+          "2007/02/07 09:01 [medline]",
+          "2007/02/07 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2005.1617266 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2005;4:3624-7. doi: 10.1109/IEMBS.2005.1617266.",
+     "term": "hippocampus"
+}

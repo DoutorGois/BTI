@@ -1,0 +1,87 @@
+{
+     "PMID": "21152422",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110427",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "5",
+     "IP": "11",
+     "DP": "2010 Nov 30",
+     "TI": "Spike avalanches exhibit universal dynamics across the sleep-wake cycle.",
+     "PG": "e14129",
+     "LID": "10.1371/journal.pone.0014129 [doi]",
+     "AB": "BACKGROUND: Scale-invariant neuronal avalanches have been observed in cell cultures and slices as well as anesthetized and awake brains, suggesting that the brain operates near criticality, i.e. within a narrow margin between avalanche propagation and extinction. In theory, criticality provides many desirable features for the behaving brain, optimizing computational capabilities, information transmission, sensitivity to sensory stimuli and size of memory repertoires. However, a thorough characterization of neuronal avalanches in freely-behaving (FB) animals is still missing, thus raising doubts about their relevance for brain function. METHODOLOGY/PRINCIPAL FINDINGS: To address this issue, we employed chronically implanted multielectrode arrays (MEA) to record avalanches of action potentials (spikes) from the cerebral cortex and hippocampus of 14 rats, as they spontaneously traversed the wake-sleep cycle, explored novel objects or were subjected to anesthesia (AN). We then modeled spike avalanches to evaluate the impact of sparse MEA sampling on their statistics. We found that the size distribution of spike avalanches are well fit by lognormal distributions in FB animals, and by truncated power laws in the AN group. FB data surrogation markedly decreases the tail of the distribution, i.e. spike shuffling destroys the largest avalanches. The FB data are also characterized by multiple key features compatible with criticality in the temporal domain, such as 1/f spectra and long-term correlations as measured by detrended fluctuation analysis. These signatures are very stable across waking, slow-wave sleep and rapid-eye-movement sleep, but collapse during anesthesia. Likewise, waiting time distributions obey a single scaling function during all natural behavioral states, but not during anesthesia. Results are equivalent for neuronal ensembles recorded from visual and tactile areas of the cerebral cortex, as well as the hippocampus. CONCLUSIONS/SIGNIFICANCE: Altogether, the data provide a comprehensive link between behavior and brain criticality, revealing a unique scale-invariant regime of spike avalanches across all major behaviors.",
+     "FAU": [
+          "Ribeiro, Tiago L",
+          "Copelli, Mauro",
+          "Caixeta, Fabio",
+          "Belchior, Hindiael",
+          "Chialvo, Dante R",
+          "Nicolelis, Miguel A L",
+          "Ribeiro, Sidarta"
+     ],
+     "AU": [
+          "Ribeiro TL",
+          "Copelli M",
+          "Caixeta F",
+          "Belchior H",
+          "Chialvo DR",
+          "Nicolelis MA",
+          "Ribeiro S"
+     ],
+     "AD": "Department of Physics, Federal University of Pernambuco (UFPE), Recife, Pernambuco, Brazil.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 DE011451/DE/NIDCR NIH HHS/United States",
+          "R01-DE011451/DE/NIDCR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20101130",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Anesthesia",
+          "Animals",
+          "Brain/cytology/*physiology",
+          "Cerebral Cortex/cytology/physiology",
+          "Hippocampus/cytology/physiology",
+          "Male",
+          "Models, Neurological",
+          "Neurons/physiology",
+          "Rats",
+          "Rats, Long-Evans",
+          "Sleep/physiology",
+          "Synaptic Transmission/*physiology",
+          "Wakefulness/physiology"
+     ],
+     "PMC": "PMC2994706",
+     "EDAT": "2010/12/15 06:00",
+     "MHDA": "2011/04/28 06:00",
+     "CRDT": [
+          "2010/12/15 06:00"
+     ],
+     "PHST": [
+          "2010/07/08 00:00 [received]",
+          "2010/10/27 00:00 [accepted]",
+          "2010/12/15 06:00 [entrez]",
+          "2010/12/15 06:00 [pubmed]",
+          "2011/04/28 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0014129 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2010 Nov 30;5(11):e14129. doi: 10.1371/journal.pone.0014129.",
+     "term": "hippocampus"
+}

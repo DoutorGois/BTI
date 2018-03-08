@@ -1,0 +1,77 @@
+{
+     "PMID": "11051118",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20001102",
+     "LR": "20141120",
+     "IS": "0013-9580 (Print) 0013-9580 (Linking)",
+     "VI": "41",
+     "IP": "10",
+     "DP": "2000 Oct",
+     "TI": "Rapid cooling aborts seizure-like activity in rodent hippocampal-entorhinal slices.",
+     "PG": "1241-8",
+     "AB": "PURPOSE: As a preliminary step in the development of an implantable Peltier device to abort focal neocortical seizures in vivo, we have examined the effect of rapid cooling on seizures in rodent hippocampal-entorhinal slices. METHODS: Seizure-like discharges were induced by exposing the slices to extracellular saline containing 4-aminopyridine (50 micromol/L). RESULTS: When we manually activated a Peltier device that was in direct contact with the slice, seizures terminated within seconds of the onset of cooling, sometimes preceding a detectable decrease in temperature measured near the top of the slice. However, activation of the Peltier device did not stop seizures when slices were no longer in direct physical contact with the device, indicating that this was not a field effect. When cooling was shut off and temperature returned to 33 degrees C, bursting sometimes returned, but a longer-term suppressive effect on seizure activity could be observed. In two of our experiments, a custom computer program automatically detected seizure discharges and triggered a transistor-transistor logic pulse to activate the Peltier device. In these experiments, the Peltier device automatically terminated the slice bursting in less than 4 seconds. When the Peltier device was placed in contact with the normal, exposed cortex of a newborn pig, we found that the cortical temperature decreased rapidly from 36 degrees C to as low as 26 degrees C at a depth of 1.7 mm below the cooling unit. CONCLUSIONS: These experiments show that local cooling may rapidly terminate focal paroxysmal discharges and might be adapted for clinical practice.",
+     "FAU": [
+          "Hill, M W",
+          "Wong, M",
+          "Amarakone, A",
+          "Rothman, S M"
+     ],
+     "AU": [
+          "Hill MW",
+          "Wong M",
+          "Amarakone A",
+          "Rothman SM"
+     ],
+     "AD": "Department of Neurology, Washington University School of Medicine, St. Louis, Missouri, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K12 NS01690/NS/NINDS NIH HHS/United States",
+          "P01 NS14834/NS/NINDS NIH HHS/United States",
+          "R01 NS21045/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Epilepsia",
+     "JT": "Epilepsia",
+     "JID": "2983306R",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cerebral Cortex/physiopathology",
+          "Cold Temperature",
+          "Cryosurgery/methods",
+          "*Cryotherapy/instrumentation/methods",
+          "*Disease Models, Animal",
+          "Entorhinal Cortex/*physiopathology",
+          "Epilepsies, Partial/physiopathology/surgery",
+          "Hippocampus/*physiopathology",
+          "Humans",
+          "In Vitro Techniques",
+          "Male",
+          "Mice",
+          "Microelectrodes",
+          "Rats",
+          "Seizures/*physiopathology/*prevention & control",
+          "Swine"
+     ],
+     "EDAT": "2000/10/29 11:00",
+     "MHDA": "2001/02/28 10:01",
+     "CRDT": [
+          "2000/10/29 11:00"
+     ],
+     "PHST": [
+          "2000/10/29 11:00 [pubmed]",
+          "2001/02/28 10:01 [medline]",
+          "2000/10/29 11:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Epilepsia. 2000 Oct;41(10):1241-8.",
+     "term": "hippocampus"
+}

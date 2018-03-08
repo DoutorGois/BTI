@@ -1,0 +1,87 @@
+{
+     "PMID": "15338733",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20041028",
+     "LR": "20071114",
+     "IS": "0278-0062 (Print) 0278-0062 (Linking)",
+     "VI": "23",
+     "IP": "8",
+     "DP": "2004 Aug",
+     "TI": "Principal geodesic analysis for the study of nonlinear statistics of shape.",
+     "PG": "995-1005",
+     "AB": "A primary goal of statistical shape analysis is to describe the variability of a population of geometric objects. A standard technique for computing such descriptions is principal component analysis. However, principal component analysis is limited in that it only works for data lying in a Euclidean vector space. While this is certainly sufficient for geometric models that are parameterized by a set of landmarks or a dense collection of boundary points, it does not handle more complex representations of shape. We have been developing representations of geometry based on the medial axis description or m-rep. While the medial representation provides a rich language for variability in terms of bending, twisting, and widening, the medial parameters are not elements of a Euclidean vector space. They are in fact elements of a nonlinear Riemannian symmetric space. In this paper, we develop the method of principal geodesic analysis, a generalization of principal component analysis to the manifold setting. We demonstrate its use in describing the variability of medially-defined anatomical objects. Results of applying this framework on a population of hippocampi in a schizophrenia study are presented.",
+     "FAU": [
+          "Fletcher, P Thomas",
+          "Lu, Conglin",
+          "Pizer, Stephen M",
+          "Joshi, Sarang"
+     ],
+     "AU": [
+          "Fletcher PT",
+          "Lu C",
+          "Pizer SM",
+          "Joshi S"
+     ],
+     "AD": "Medical Image Display and Analysis Group, University of North Carolina at Chapel Hill, Chapel Hill, NC 27514, USA. fletcher@cs.unc.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "EB02779/EB/NIBIB NIH HHS/United States",
+          "MH33127/MH/NIMH NIH HHS/United States",
+          "P01 CA47982/CA/NCI NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Artificial Intelligence",
+          "Cluster Analysis",
+          "Computer Graphics",
+          "Computer Simulation",
+          "Hippocampus/pathology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Information Storage and Retrieval/methods",
+          "Models, Biological",
+          "Models, Statistical",
+          "Nonlinear Dynamics",
+          "Numerical Analysis, Computer-Assisted",
+          "*Pattern Recognition, Automated",
+          "Principal Component Analysis",
+          "Reproducibility of Results",
+          "Schizophrenia/pathology",
+          "Sensitivity and Specificity",
+          "Signal Processing, Computer-Assisted",
+          "*Subtraction Technique"
+     ],
+     "EDAT": "2004/09/02 05:00",
+     "MHDA": "2004/10/29 09:00",
+     "CRDT": [
+          "2004/09/02 05:00"
+     ],
+     "PHST": [
+          "2004/09/02 05:00 [pubmed]",
+          "2004/10/29 09:00 [medline]",
+          "2004/09/02 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TMI.2004.831793 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2004 Aug;23(8):995-1005. doi: 10.1109/TMI.2004.831793.",
+     "term": "hippocampus"
+}

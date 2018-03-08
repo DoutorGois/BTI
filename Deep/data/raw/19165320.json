@@ -1,0 +1,79 @@
+{
+     "PMID": "19165320",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090414",
+     "LR": "20161025",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "4",
+     "IP": "1",
+     "DP": "2009",
+     "TI": "Consistency analysis of redundant probe sets on affymetrix three-prime expression arrays and applications to differential mRNA processing.",
+     "PG": "e4229",
+     "LID": "10.1371/journal.pone.0004229 [doi]",
+     "AB": "Affymetrix three-prime expression microarrays contain thousands of redundant probe sets that interrogate different regions of the same gene. Differential expression analysis methods rarely consider probe redundancy, which can lead to inaccurate inference about overall gene expression or cause investigators to overlook potentially valuable information about differential regulation of variant mRNA products. We investigated the behaviour and consistency of redundant probe sets in a publicly-available data set containing samples from mouse brain amygdala and hippocampus and asked how applying filtering methods to the data affected consistency of results obtained from redundant probe sets. A genome-based filter that screens and groups probe sets according to their overlapping genomic alignments significantly improved redundant probe set consistency. Screening based on qualitative Present-Absent calls from MAS5 also improved consistency. However, even after applying these filters, many redundant probe sets showed significant fold-change differences relative to each other, suggesting differential regulation of alternative transcript production. Visual inspection of these loci using an interactive genome visualization tool (igb.bioviz.org) exposed thirty putative examples of differential regulation of alternative splicing or polyadenylation across brain regions in mouse. This work demonstrates how P/A-call and genome-based filtering can improve consistency among redundant probe sets while at the same time exposing possible differential regulation of RNA processing pathways across sample types.",
+     "FAU": [
+          "Cui, Xiangqin",
+          "Loraine, Ann E"
+     ],
+     "AU": [
+          "Cui X",
+          "Loraine AE"
+     ],
+     "AD": "Department of Biostatistics, University of Alabama, Birmingham, Alabama, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U54 CA100949/CA/NCI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20090123",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (RNA, Messenger)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Amygdala/metabolism",
+          "Animals",
+          "Brain/metabolism",
+          "Brain Mapping/*methods",
+          "Computational Biology/methods",
+          "*Gene Expression Profiling",
+          "Genome",
+          "Hippocampus/metabolism",
+          "Mice",
+          "Models, Statistical",
+          "Oligonucleotide Array Sequence Analysis",
+          "RNA, Messenger/*metabolism",
+          "Reproducibility of Results",
+          "Software"
+     ],
+     "PMC": "PMC2621337",
+     "EDAT": "2009/01/24 09:00",
+     "MHDA": "2009/04/15 09:00",
+     "CRDT": [
+          "2009/01/24 09:00"
+     ],
+     "PHST": [
+          "2008/06/23 00:00 [received]",
+          "2008/11/11 00:00 [accepted]",
+          "2009/01/24 09:00 [entrez]",
+          "2009/01/24 09:00 [pubmed]",
+          "2009/04/15 09:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0004229 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2009;4(1):e4229. doi: 10.1371/journal.pone.0004229. Epub 2009 Jan 23.",
+     "term": "hippocampus"
+}

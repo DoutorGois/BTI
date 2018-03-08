@@ -1,0 +1,68 @@
+{
+     "PMID": "22594833",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121212",
+     "LR": "20120801",
+     "IS": "1530-888X (Electronic) 0899-7667 (Linking)",
+     "VI": "24",
+     "IP": "9",
+     "DP": "2012 Sep",
+     "TI": "Optimal population codes for space: grid cells outperform place cells.",
+     "PG": "2280-317",
+     "LID": "10.1162/NECO_a_00319 [doi]",
+     "AB": "Rodents use two distinct neuronal coordinate systems to estimate their position: place fields in the hippocampus and grid fields in the entorhinal cortex. Whereas place cells spike at only one particular spatial location, grid cells fire at multiple sites that correspond to the points of an imaginary hexagonal lattice. We study how to best construct place and grid codes, taking the probabilistic nature of neural spiking into account. Which spatial encoding properties of individual neurons confer the highest resolution when decoding the animal's position from the neuronal population response? A priori, estimating a spatial position from a grid code could be ambiguous, as regular periodic lattices possess translational symmetry. The solution to this problem requires lattices for grid cells with different spacings; the spatial resolution crucially depends on choosing the right ratios of these spacings across the population. We compute the expected error in estimating the position in both the asymptotic limit, using Fisher information, and for low spike counts, using maximum likelihood estimation. Achieving high spatial resolution and covering a large range of space in a grid code leads to a trade-off: the best grid code for spatial resolution is built of nested modules with different spatial periods, one inside the other, whereas maximizing the spatial range requires distinct spatial periods that are pairwisely incommensurate. Optimizing the spatial resolution predicts two grid cell properties that have been experimentally observed. First, short lattice spacings should outnumber long lattice spacings. Second, the grid code should be self-similar across different lattice spacings, so that the grid field always covers a fixed fraction of the lattice period. If these conditions are satisfied and the spatial \"tuning curves\" for each neuron span the same range of firing rates, then the resolution of the grid code easily exceeds that of the best possible place code with the same number of neurons.",
+     "FAU": [
+          "Mathis, Alexander",
+          "Herz, Andreas V M",
+          "Stemmler, Martin"
+     ],
+     "AU": [
+          "Mathis A",
+          "Herz AV",
+          "Stemmler M"
+     ],
+     "AD": "Bernstein Center for Computational Neuroscience Munich, Germany. mathis@bio.lmu.de",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120517",
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cerebral Cortex/cytology",
+          "*Computer Simulation",
+          "Hippocampus/cytology",
+          "Humans",
+          "*Models, Neurological",
+          "Neurons/classification/*physiology",
+          "Orientation/*physiology",
+          "Population Dynamics",
+          "Probability",
+          "Space Perception/*physiology"
+     ],
+     "EDAT": "2012/05/19 06:00",
+     "MHDA": "2012/12/13 06:00",
+     "CRDT": [
+          "2012/05/19 06:00"
+     ],
+     "PHST": [
+          "2012/05/19 06:00 [entrez]",
+          "2012/05/19 06:00 [pubmed]",
+          "2012/12/13 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1162/NECO_a_00319 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2012 Sep;24(9):2280-317. doi: 10.1162/NECO_a_00319. Epub 2012 May 17.",
+     "term": "place cells"
+}

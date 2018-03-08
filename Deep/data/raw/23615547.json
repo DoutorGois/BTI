@@ -1,0 +1,76 @@
+{
+     "PMID": "23615547",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140129",
+     "LR": "20130716",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "110",
+     "IP": "2",
+     "DP": "2013 Jul",
+     "TI": "A new nonscanning confocal microscopy module for functional voltage-sensitive dye and Ca2+ imaging of neuronal circuit activity.",
+     "PG": "553-61",
+     "LID": "10.1152/jn.00856.2012 [doi]",
+     "AB": "Recent advances in fluorescent confocal microscopy and voltage-sensitive and Ca(2+) dyes have vastly improved our ability to image neuronal circuits. However, existing confocal systems are not fast enough or too noisy for many live-cell functional imaging studies. Here, we describe and demonstrate the function of a novel, nonscanning confocal microscopy module. The optics, which are designed to fit the standard camera port of the Olympus BX51WI epifluorescent microscope, achieve a high signal-to-noise ratio (SNR) at high temporal resolution, making this configuration ideal for functional imaging of neuronal activities such as the voltage-sensitive dye (VSD) imaging. The optics employ fixed 100- x 100-pinhole arrays at the back focal plane (optical conjugation plane), above the tube lens of a usual upright microscope. The excitation light travels through these pinholes, and the fluorescence signal, emitted from subject, passes through corresponding pinholes before exciting the photodiodes of the imager: a 100- x 100-pixel metal-oxide semiconductor (MOS)-type pixel imager with each pixel corresponding to a single 100- x 100-mum photodiode. This design eliminated the need for a scanning device; therefore, acquisition rate of the imager (maximum rate of 10 kHz) is the only factor limiting acquisition speed. We tested the application of the system for VSD and Ca(2+) imaging of evoked neuronal responses on electrical stimuli in rat hippocampal slices. The results indicate that, at least for these applications, the new microscope maintains a high SNR at image acquisition rates of </=0.3 ms per frame.",
+     "FAU": [
+          "Tominaga, Takashi",
+          "Tominaga, Yoko"
+     ],
+     "AU": [
+          "Tominaga T",
+          "Tominaga Y"
+     ],
+     "AD": "Laboratory for Neural Circuit Systems, Institute of Neuroscience, Tokushima Bunri University, Shido, Sanuki, Kagawa, Japan. tominagat@kph.bunri-u.ac.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130424",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Calcium/*analysis",
+          "Hippocampus/chemistry",
+          "Male",
+          "Microscopy, Confocal/*instrumentation",
+          "Rats",
+          "Voltage-Sensitive Dye Imaging/*instrumentation"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Ca2+ imaging",
+          "confocal microscopy",
+          "hippocampal slice",
+          "optical imaging",
+          "voltage-sensitive dye"
+     ],
+     "EDAT": "2013/04/26 06:00",
+     "MHDA": "2014/01/30 06:00",
+     "CRDT": [
+          "2013/04/26 06:00"
+     ],
+     "PHST": [
+          "2013/04/26 06:00 [entrez]",
+          "2013/04/26 06:00 [pubmed]",
+          "2014/01/30 06:00 [medline]"
+     ],
+     "AID": [
+          "jn.00856.2012 [pii]",
+          "10.1152/jn.00856.2012 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2013 Jul;110(2):553-61. doi: 10.1152/jn.00856.2012. Epub 2013 Apr 24.",
+     "term": "hippocampus"
+}

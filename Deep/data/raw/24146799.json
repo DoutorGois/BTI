@@ -1,0 +1,73 @@
+{
+     "PMID": "24146799",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140724",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "10",
+     "DP": "2013",
+     "TI": "The impact of spatial scales and spatial smoothing on the outcome of bayesian spatial model.",
+     "PG": "e75957",
+     "LID": "10.1371/journal.pone.0075957 [doi]",
+     "AB": "Discretization of a geographical region is quite common in spatial analysis. There have been few studies into the impact of different geographical scales on the outcome of spatial models for different spatial patterns. This study aims to investigate the impact of spatial scales and spatial smoothing on the outcomes of modelling spatial point-based data. Given a spatial point-based dataset (such as occurrence of a disease), we study the geographical variation of residual disease risk using regular grid cells. The individual disease risk is modelled using a logistic model with the inclusion of spatially unstructured and/or spatially structured random effects. Three spatial smoothness priors for the spatially structured component are employed in modelling, namely an intrinsic Gaussian Markov random field, a second-order random walk on a lattice, and a Gaussian field with Matern correlation function. We investigate how changes in grid cell size affect model outcomes under different spatial structures and different smoothness priors for the spatial component. A realistic example (the Humberside data) is analyzed and a simulation study is described. Bayesian computation is carried out using an integrated nested Laplace approximation. The results suggest that the performance and predictive capacity of the spatial models improve as the grid cell size decreases for certain spatial structures. It also appears that different spatial smoothness priors should be applied for different patterns of point data.",
+     "FAU": [
+          "Kang, Su Yun",
+          "McGree, James",
+          "Mengersen, Kerrie"
+     ],
+     "AU": [
+          "Kang SY",
+          "McGree J",
+          "Mengersen K"
+     ],
+     "AD": "Mathematical Sciences School, Queensland University of Technology, Brisbane, Queensland, Australia ; Cooperative Research Centre for Spatial Information, Melbourne, Victoria, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20131011",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Bayes Theorem",
+          "Child",
+          "England/epidemiology",
+          "Humans",
+          "Leukemia/diagnosis/*epidemiology/pathology",
+          "Logistic Models",
+          "Lymphoma/diagnosis/*epidemiology/pathology",
+          "Markov Chains",
+          "Neoplasm, Residual",
+          "Normal Distribution",
+          "*Spatial Analysis",
+          "Topography, Medical"
+     ],
+     "PMC": "PMC3795684",
+     "EDAT": "2013/10/23 06:00",
+     "MHDA": "2014/07/25 06:00",
+     "CRDT": [
+          "2013/10/23 06:00"
+     ],
+     "PHST": [
+          "2013/05/15 00:00 [received]",
+          "2013/08/19 00:00 [accepted]",
+          "2013/10/23 06:00 [entrez]",
+          "2013/10/23 06:00 [pubmed]",
+          "2014/07/25 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0075957 [doi]",
+          "PONE-D-13-20355 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2013 Oct 11;8(10):e75957. doi: 10.1371/journal.pone.0075957. eCollection 2013.",
+     "term": "grid cells"
+}

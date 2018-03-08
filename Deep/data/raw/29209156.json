@@ -1,0 +1,68 @@
+{
+     "PMID": "29209156",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20171220",
+     "IS": "1662-4548 (Print) 1662-453X (Linking)",
+     "VI": "11",
+     "DP": "2017",
+     "TI": "Machine Learning Classification Combining Multiple Features of A Hyper-Network of fMRI Data in Alzheimer's Disease.",
+     "PG": "615",
+     "LID": "10.3389/fnins.2017.00615 [doi]",
+     "AB": "Exploring functional interactions among various brain regions is helpful for understanding the pathological underpinnings of neurological disorders. Brain networks provide an important representation of those functional interactions, and thus are widely applied in the diagnosis and classification of neurodegenerative diseases. Many mental disorders involve a sharp decline in cognitive ability as a major symptom, which can be caused by abnormal connectivity patterns among several brain regions. However, conventional functional connectivity networks are usually constructed based on pairwise correlations among different brain regions. This approach ignores higher-order relationships, and cannot effectively characterize the high-order interactions of many brain regions working together. Recent neuroscience research suggests that higher-order relationships between brain regions are important for brain network analysis. Hyper-networks have been proposed that can effectively represent the interactions among brain regions. However, this method extracts the local properties of brain regions as features, but ignores the global topology information, which affects the evaluation of network topology and reduces the performance of the classifier. This problem can be compensated by a subgraph feature-based method, but it is not sensitive to change in a single brain region. Considering that both of these feature extraction methods result in the loss of information, we propose a novel machine learning classification method that combines multiple features of a hyper-network based on functional magnetic resonance imaging in Alzheimer's disease. The method combines the brain region features and subgraph features, and then uses a multi-kernel SVM for classification. This retains not only the global topological information, but also the sensitivity to change in a single brain region. To certify the proposed method, 28 normal control subjects and 38 Alzheimer's disease patients were selected to participate in an experiment. The proposed method achieved satisfactory classification accuracy, with an average of 91.60%. The abnormal brain regions included the bilateral precuneus, right parahippocampal gyrus\\hippocampus, right posterior cingulate gyrus, and other regions that are known to be important in Alzheimer's disease. Machine learning classification combining multiple features of a hyper-network of functional magnetic resonance imaging data in Alzheimer's disease obtains better classification performance.",
+     "FAU": [
+          "Guo, Hao",
+          "Zhang, Fan",
+          "Chen, Junjie",
+          "Xu, Yong",
+          "Xiang, Jie"
+     ],
+     "AU": [
+          "Guo H",
+          "Zhang F",
+          "Chen J",
+          "Xu Y",
+          "Xiang J"
+     ],
+     "AD": "Department of Software Engineering, College of Computer Science and Technology, Taiyuan University of Technology, Taiyuan, China. Department of Software Engineering, College of Computer Science and Technology, Taiyuan University of Technology, Taiyuan, China. Department of Software Engineering, College of Computer Science and Technology, Taiyuan University of Technology, Taiyuan, China. Department of Psychiatry, First Hospital of Shanxi Medical University, Taiyuan, China. Department of Software Engineering, College of Computer Science and Technology, Taiyuan University of Technology, Taiyuan, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171121",
+     "PL": "Switzerland",
+     "TA": "Front Neurosci",
+     "JT": "Frontiers in neuroscience",
+     "JID": "101478481",
+     "PMC": "PMC5702364",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "discriminative subgraph",
+          "fMRI",
+          "hyper-network",
+          "multi-feature"
+     ],
+     "EDAT": "2017/12/07 06:00",
+     "MHDA": "2017/12/07 06:01",
+     "CRDT": [
+          "2017/12/07 06:00"
+     ],
+     "PHST": [
+          "2017/06/19 00:00 [received]",
+          "2017/10/23 00:00 [accepted]",
+          "2017/12/07 06:00 [entrez]",
+          "2017/12/07 06:00 [pubmed]",
+          "2017/12/07 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnins.2017.00615 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neurosci. 2017 Nov 21;11:615. doi: 10.3389/fnins.2017.00615. eCollection 2017.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,64 @@
+{
+     "PMID": "28270783",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20170816",
+     "IS": "1664-1078 (Print) 1664-1078 (Linking)",
+     "VI": "8",
+     "DP": "2017",
+     "TI": "Semi-Supervised Learning of Cartesian Factors: A Top-Down Model of the Entorhinal Hippocampal Complex.",
+     "PG": "215",
+     "LID": "10.3389/fpsyg.2017.00215 [doi]",
+     "AB": "The existence of place cells (PCs), grid cells (GCs), border cells (BCs), and head direction cells (HCs) as well as the dependencies between them have been enigmatic. We make an effort to explain their nature by introducing the concept of Cartesian Factors. These factors have specific properties: (i) they assume and complement each other, like direction and position and (ii) they have localized discrete representations with predictive attractors enabling implicit metric-like computations. In our model, HCs make the distributed and local representation of direction. Predictive attractor dynamics on that network forms the Cartesian Factor \"direction.\" We embed these HCs and idiothetic visual information into a semi-supervised sparse autoencoding comparator structure that compresses its inputs and learns PCs, the distributed local and direction independent (allothetic) representation of the Cartesian Factor of global space. We use a supervised, information compressing predictive algorithm and form direction sensitive (oriented) GCs from the learned PCs by means of an attractor-like algorithm. Since the algorithm can continue the grid structure beyond the region of the PCs, i.e., beyond its learning domain, thus the GCs and the PCs together form our metric-like Cartesian Factors of space. We also stipulate that the same algorithm can produce BCs. Our algorithm applies (a) a bag representation that models the \"what system\" and (b) magnitude ordered place cell activities that model either the integrate-and-fire mechanism, or theta phase precession, or both. We relate the components of the algorithm to the entorhinal-hippocampal complex and to its working. The algorithm requires both spatial and lifetime sparsification that may gain support from the two-stage memory formation of this complex.",
+     "FAU": [
+          "Lorincz, Andras",
+          "Sarkany, Andras"
+     ],
+     "AU": [
+          "Lorincz A",
+          "Sarkany A"
+     ],
+     "AD": "Neural Information Processing Group, Faculty of Informatics, Eotvos Lorand University Budapest, Hungary. Neural Information Processing Group, Faculty of Informatics, Eotvos Lorand University Budapest, Hungary.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170221",
+     "PL": "Switzerland",
+     "TA": "Front Psychol",
+     "JT": "Frontiers in psychology",
+     "JID": "101550902",
+     "PMC": "PMC5318397",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Cartesian factors",
+          "border cells",
+          "entorhinal hippocampal complex",
+          "grid cells",
+          "head direction cells",
+          "integrate-and-fire neurons",
+          "place cells"
+     ],
+     "EDAT": "2017/03/09 06:00",
+     "MHDA": "2017/03/09 06:01",
+     "CRDT": [
+          "2017/03/09 06:00"
+     ],
+     "PHST": [
+          "2016/07/31 00:00 [received]",
+          "2017/02/03 00:00 [accepted]",
+          "2017/03/09 06:00 [entrez]",
+          "2017/03/09 06:00 [pubmed]",
+          "2017/03/09 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fpsyg.2017.00215 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Psychol. 2017 Feb 21;8:215. doi: 10.3389/fpsyg.2017.00215. eCollection 2017.",
+     "term": "place cells"
+}

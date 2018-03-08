@@ -1,0 +1,91 @@
+{
+     "PMID": "18036834",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080325",
+     "LR": "20170220",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "39",
+     "IP": "3",
+     "DP": "2008 Feb 1",
+     "TI": "An investigation of statistical power for continuous arterial spin labeling imaging at 1.5 T.",
+     "PG": "1246-56",
+     "AB": "Variance estimates can be used in conjunction with scientifically meaningful effect sizes to design experiments with type II error control. Here we present estimates of intra- and inter-subject variances for region of interest (ROI) from resting cerebral blood flow (CBF) maps obtained using whole brain, spin echo echoplanar (SE-EPI) continuous arterial spin labeling (CASL) imaging on 52 elderly subjects (age=70.5+/-7.9 years, 29 males). There was substantial intrasubject systematic variability in CBF of gray matter ROIs corresponding to a range of standard deviations=[39-168] (ml/(100 g min)). This variability was mainly due to two factors: (1) an expected inverse relationship between ROI volume and intrasubject variance and (2) an increased effective post-labeling delay for more superior slices acquired later in the sequence. For example, intrasubject variance in Brodmann area 4 (BA 4) was approximately 8 times larger than in hippocampus, despite their similar gray matter volumes. Estimated ROI-wise power was computed for various numbers of acquired CBF images, numbers of subjects, and CBF effect sizes for two experimental designs: independent sample t-test and paired t-test. The theoretical effects of pulse sequence and field strength on general applicability of these results are discussed.",
+     "FAU": [
+          "Asllani, Iris",
+          "Borogovac, Ajna",
+          "Wright, Clinton",
+          "Sacco, Ralph",
+          "Brown, Truman R",
+          "Zarahn, Eric"
+     ],
+     "AU": [
+          "Asllani I",
+          "Borogovac A",
+          "Wright C",
+          "Sacco R",
+          "Brown TR",
+          "Zarahn E"
+     ],
+     "AD": "The Department of Radiology, Columbia University College of Physicians and Surgeons, 630 West 168th Street, Columbia University, New York, New York 10032, USA. ia2026@columbia.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS029993/NS/NINDS NIH HHS/United States",
+          "R01 NS029993-07/NS/NINDS NIH HHS/United States",
+          "R01 NS 29993/NS/NINDS NIH HHS/United States",
+          "K12 RR 176548/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20071024",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "0 (Spin Labels)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Algorithms",
+          "Analysis of Variance",
+          "Cerebral Arteries/*anatomy & histology",
+          "Cerebrovascular Circulation/physiology",
+          "Cohort Studies",
+          "Echo-Planar Imaging/*statistics & numerical data",
+          "Humans",
+          "Image Processing, Computer-Assisted/*statistics & numerical data",
+          "Reproducibility of Results",
+          "Spin Labels"
+     ],
+     "PMC": "PMC2665307",
+     "MID": [
+          "NIHMS94607"
+     ],
+     "EDAT": "2007/11/27 09:00",
+     "MHDA": "2008/03/26 09:00",
+     "CRDT": [
+          "2007/11/27 09:00"
+     ],
+     "PHST": [
+          "2007/04/26 00:00 [received]",
+          "2007/10/15 00:00 [revised]",
+          "2007/10/16 00:00 [accepted]",
+          "2007/11/27 09:00 [pubmed]",
+          "2008/03/26 09:00 [medline]",
+          "2007/11/27 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(07)00953-6 [pii]",
+          "10.1016/j.neuroimage.2007.10.015 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2008 Feb 1;39(3):1246-56. doi: 10.1016/j.neuroimage.2007.10.015. Epub 2007 Oct 24.",
+     "term": "hippocampus"
+}

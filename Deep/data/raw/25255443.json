@@ -1,0 +1,73 @@
+{
+     "PMID": "25255443",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151130",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "10",
+     "IP": "9",
+     "DP": "2014 Sep",
+     "TI": "Clique of functional hubs orchestrates population bursts in developmentally regulated neural networks.",
+     "PG": "e1003823",
+     "LID": "10.1371/journal.pcbi.1003823 [doi]",
+     "AB": "It has recently been discovered that single neuron stimulation can impact network dynamics in immature and adult neuronal circuits. Here we report a novel mechanism which can explain in neuronal circuits, at an early stage of development, the peculiar role played by a few specific neurons in promoting/arresting the population activity. For this purpose, we consider a standard neuronal network model, with short-term synaptic plasticity, whose population activity is characterized by bursting behavior. The addition of developmentally inspired constraints and correlations in the distribution of the neuronal connectivities and excitabilities leads to the emergence of functional hub neurons, whose stimulation/deletion is critical for the network activity. Functional hubs form a clique, where a precise sequential activation of the neurons is essential to ignite collective events without any need for a specific topological architecture. Unsupervised time-lagged firings of supra-threshold cells, in connection with coordinated entrainments of near-threshold neurons, are the key ingredients to orchestrate population activity.",
+     "FAU": [
+          "Luccioli, Stefano",
+          "Ben-Jacob, Eshel",
+          "Barzilai, Ari",
+          "Bonifazi, Paolo",
+          "Torcini, Alessandro"
+     ],
+     "AU": [
+          "Luccioli S",
+          "Ben-Jacob E",
+          "Barzilai A",
+          "Bonifazi P",
+          "Torcini A"
+     ],
+     "AD": "Consiglio Nazionale delle Ricerche, Istituto dei Sistemi Complessi, Sesto Fiorentino, Italy; Joint Italian-Israeli Laboratory on Integrative Network Neuroscience, Tel Aviv University, Ramat Aviv, Israel. Joint Italian-Israeli Laboratory on Integrative Network Neuroscience, Tel Aviv University, Ramat Aviv, Israel; Beverly and Sackler Faculty of Exact Sciences School of Physics and Astronomy, Tel Aviv University, Ramat Aviv, Israel. Joint Italian-Israeli Laboratory on Integrative Network Neuroscience, Tel Aviv University, Ramat Aviv, Israel; Department of Neurobiology, George S. Wise Faculty of Life Sciences and Sagol School of Neuroscience, Tel Aviv University, Ramat Aviv, Israel. Joint Italian-Israeli Laboratory on Integrative Network Neuroscience, Tel Aviv University, Ramat Aviv, Israel; Beverly and Sackler Faculty of Exact Sciences School of Physics and Astronomy, Tel Aviv University, Ramat Aviv, Israel; Department of Neurobiology, George S. Wise Faculty of Life Sciences and Sagol School of Neuroscience, Tel Aviv University, Ramat Aviv, Israel. Consiglio Nazionale delle Ricerche, Istituto dei Sistemi Complessi, Sesto Fiorentino, Italy; Joint Italian-Israeli Laboratory on Integrative Network Neuroscience, Tel Aviv University, Ramat Aviv, Israel; INFN - Sezione di Firenze and CSDC, Sesto Fiorentino, Italy.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140925",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computational Biology",
+          "Hippocampus/cytology",
+          "*Models, Neurological",
+          "Nerve Net/growth & development/*physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "Synapses/physiology"
+     ],
+     "PMC": "PMC4177675",
+     "EDAT": "2014/09/26 06:00",
+     "MHDA": "2015/12/15 06:00",
+     "CRDT": [
+          "2014/09/26 06:00"
+     ],
+     "PHST": [
+          "2014/02/07 00:00 [received]",
+          "2014/07/24 00:00 [accepted]",
+          "2014/09/26 06:00 [entrez]",
+          "2014/09/26 06:00 [pubmed]",
+          "2015/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1003823 [doi]",
+          "PCOMPBIOL-D-14-00232 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2014 Sep 25;10(9):e1003823. doi: 10.1371/journal.pcbi.1003823. eCollection 2014 Sep.",
+     "term": "hippocampus"
+}

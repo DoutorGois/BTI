@@ -1,0 +1,89 @@
+{
+     "PMID": "11969317",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040329",
+     "LR": "20131121",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "16",
+     "IP": "1",
+     "DP": "2002 May",
+     "TI": "A fully automated method for tissue segmentation and CSF-correction of proton MRSI metabolites corroborates abnormal hippocampal NAA in schizophrenia.",
+     "PG": "49-60",
+     "AB": "In this report, we describe the implementation and application of a fully automated segmentation routine using SPM99 algorithms and MATLAB for clinical Magnetic Resonance Spectroscopic Imaging (MRSI) studies. By segmenting high-resolution 3-D image data and coregistering the results to the spatial localizer slices of a spectroscopy examination, the program offers the possibility to easily calculate segmentation maps for a large variety of MRSI experiments. The segmented data are corrected for the individual point-spread function, slice and VOI profiles for measurement sequences with selective pulses as well as for the chemical shifts of different metabolites. The new method was applied to investigate discrete hippocampal metabolite abnormalities in a small sample of schizophrenic patients in comparison to healthy controls (15 patients, 15 controls). Only after correction was the N-acetyl-aspartate (NAA) signal significantly lower in patients compared to controls. No differences were found for the corrected signals from the creatine/phosphocreatine (Cr) or choline-containing compounds (Ch). These results are in good agreement with neuropathological and previous MR spectroscopy studies of the hippocampus in schizophrenic patients.",
+     "CI": [
+          "2002 Elsevier Science (USA)."
+     ],
+     "FAU": [
+          "Weber-Fahr, W",
+          "Ende, G",
+          "Braus, D F",
+          "Bachert, P",
+          "Soher, B J",
+          "Henn, F A",
+          "Buchel, C"
+     ],
+     "AU": [
+          "Weber-Fahr W",
+          "Ende G",
+          "Braus DF",
+          "Bachert P",
+          "Soher BJ",
+          "Henn FA",
+          "Buchel C"
+     ],
+     "AD": "NMR Research in Psychiatry, Central Institute of Mental Health, Mannheim, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "020IUV4N33 (Phosphocreatine)",
+          "30KYC7MIAI (Aspartic Acid)",
+          "997-55-7 (N-acetylaspartate)",
+          "MU72812GK0 (Creatine)",
+          "N91BDP6H0X (Choline)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Aspartic Acid/*analogs & derivatives/*cerebrospinal fluid/*metabolism",
+          "Choline/cerebrospinal fluid/metabolism",
+          "Creatine/cerebrospinal fluid/metabolism",
+          "Female",
+          "Hippocampus/metabolism/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Phosphocreatine/cerebrospinal fluid/metabolism",
+          "Schizophrenia/*cerebrospinal fluid/*pathology"
+     ],
+     "EDAT": "2002/04/24 10:00",
+     "MHDA": "2004/03/30 05:00",
+     "CRDT": [
+          "2002/04/24 10:00"
+     ],
+     "PHST": [
+          "2002/04/24 10:00 [pubmed]",
+          "2004/03/30 05:00 [medline]",
+          "2002/04/24 10:00 [entrez]"
+     ],
+     "AID": [
+          "10.1006/nimg.2002.1057 [doi]",
+          "S1053811902910578 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2002 May;16(1):49-60. doi: 10.1006/nimg.2002.1057.",
+     "term": "hippocampus"
+}

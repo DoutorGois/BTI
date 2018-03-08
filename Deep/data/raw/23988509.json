@@ -1,0 +1,87 @@
+{
+     "PMID": "23988509",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140623",
+     "LR": "20131104",
+     "IS": "1872-6240 (Electronic) 0006-8993 (Linking)",
+     "VI": "1536",
+     "DP": "2013 Nov 6",
+     "TI": "The speed of learning instructed stimulus-response association rules in human: experimental data and model.",
+     "PG": "2-15",
+     "LID": "10.1016/j.brainres.2013.07.046 [doi] S0006-8993(13)01054-8 [pii]",
+     "AB": "Humans can learn associations between visual stimuli and motor responses from just a single instruction. This is known to be a fast process, but how fast is it? To answer this question, we asked participants to learn a briefly presented (200ms) stimulus-response rule, which they then had to rapidly apply after a variable delay of between 50 and 1300ms. Participants showed a longer response time with increased variability for short delays. The error rate was low and did not vary with the delay, showing that participants were able to encode the rule correctly in less than 250ms. This time is close to the fastest synaptic learning speed deemed possible by diffusive influx of AMPA receptors. Learning continued at a slower pace in the delay period and was fully completed in average 900ms after rule presentation onset, when response latencies dropped to levels consistent with basic reaction times. A neural model was proposed that explains the reduction of response times and of their variability with the delay by (i) a random synaptic learning process that generates weights of average values increasing with the learning time, followed by (ii) random crossing of the firing threshold by a leaky integrate-and-fire neuron model, and (iii) assuming that the behavioural response is initiated when all neurons in a pool of m neurons have fired their first spike after input onset. Values of m=2 or 3 were consistent with the experimental data. The proposed model is the simplest solution consistent with neurophysiological knowledge. Additional experiments are suggested to test the hypothesis underlying the model and also to explore forgetting effects for which there were indications for the longer delay conditions. This article is part of a Special Issue entitled Neural Coding 2012.",
+     "CI": [
+          "(c) 2013 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Bugmann, Guido",
+          "Goslin, Jeremy",
+          "Duchamp-Viret, Patricia"
+     ],
+     "AU": [
+          "Bugmann G",
+          "Goslin J",
+          "Duchamp-Viret P"
+     ],
+     "AD": "Centre for Robotics and Neural Systems, University of Plymouth, Drake Circus, Plymouth PL4 8AA, United Kingdom. Electronic address: gbugmann@plymouth.ac.uk.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130826",
+     "PL": "Netherlands",
+     "TA": "Brain Res",
+     "JT": "Brain research",
+     "JID": "0045503",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Association Learning",
+          "Computer Simulation",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "*Models, Neurological",
+          "Nerve Net/physiology",
+          "Neurons/physiology",
+          "Photic Stimulation",
+          "*Psychomotor Performance",
+          "Reaction Time/physiology",
+          "Synapses/physiology",
+          "Young Adult"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Hippocampus",
+          "Inferior-temporal cortex",
+          "Pre-frontal cortex",
+          "Rapid instructed task learning",
+          "Synaptic learning"
+     ],
+     "EDAT": "2013/08/31 06:00",
+     "MHDA": "2014/06/24 06:00",
+     "CRDT": [
+          "2013/08/31 06:00"
+     ],
+     "PHST": [
+          "2013/01/15 00:00 [received]",
+          "2013/07/27 00:00 [revised]",
+          "2013/07/27 00:00 [accepted]",
+          "2013/08/31 06:00 [entrez]",
+          "2013/08/31 06:00 [pubmed]",
+          "2014/06/24 06:00 [medline]"
+     ],
+     "AID": [
+          "S0006-8993(13)01054-8 [pii]",
+          "10.1016/j.brainres.2013.07.046 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Res. 2013 Nov 6;1536:2-15. doi: 10.1016/j.brainres.2013.07.046. Epub 2013 Aug 26.",
+     "term": "hippocampus"
+}

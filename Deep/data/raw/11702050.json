@@ -1,0 +1,93 @@
+{
+     "PMID": "11702050",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20011218",
+     "LR": "20161124",
+     "IS": "0271-678X (Print) 0271-678X (Linking)",
+     "VI": "21",
+     "IP": "11",
+     "DP": "2001 Nov",
+     "TI": "Kinetic analysis of [(11)C]MP4A using a high-radioactivity brain region that represents an integrated input function for measurement of cerebral acetylcholinesterase activity without arterial blood sampling.",
+     "PG": "1354-66",
+     "AB": "N -[(11)C]methylpiperidin-4-yl acetate ([(11)C]MP4A) is an acetylcholine analog. It has been used successfully for the quantitative measurement of acetylcholinesterase (AChE) activity in the human brain with positron emission tomography (PET). [(11)C]MP4A is specifically hydrolyzed by AChE in the brain to a hydrophilic metabolite, which is irreversibly trapped locally in the brain. The authors propose a new method of kinetic analysis of brain AChE activity by PET without arterial blood sampling, that is, reference tissue-based linear least squares (RLS) analysis. In this method, cerebellum or striatum is used as a reference tissue. These regions, because of their high AChE activity, act as a biologic integrator of plasma input function during PET scanning, when regional metabolic rates of [(11)C]MP4A through AChE (k(3); an AChE index) are calculated by using Blomqvist's linear least squares analysis. Computer simulation studies showed that RLS analysis yielded k(3) with almost the same accuracy as the standard nonlinear least squares (NLS) analysis in brain regions with low (such as neocortex and hippocampus) and moderately high (thalamus) k(3) values. The authors then applied these methods to [(11) C]MP4A PET data in 12 healthy subjects and 26 patients with Alzheimer disease (AD) using the cerebellum as the reference region. There was a highly significant linear correlation in regional k(3) estimates between RLS and NLS analyses (456 cerebral regions, [RLS k(3) ] = 0.98 x [NLS k(3) ], r = 0.92, P < 0.001). Significant reductions were observed in k(3) estimates of frontal, temporal, parietal, occipital, and sensorimotor cerebral neocortices (P < 0.001, single-tailed t-test), and hippocampus (P = 0.012) in patients with AD as compared with controls when using RLS analysis. Mean reductions (19.6%) in these 6 regions by RLS were almost the same as those by NLS analysis (20.5%). The sensitivity of RLS analysis for detecting cortical regions with abnormally low k 3 in the 26 patients with AD (138 of 312 regions, 44%) was somewhat less than NLS analysis (52%), but was greater than shape analysis (33%), another method of [(11)C]MP4A kinetic analysis without blood sampling. The authors conclude that RLS analysis is practical and useful for routine analysis of clinical [(11)C]MP4A studies.",
+     "FAU": [
+          "Nagatsuka Si, S",
+          "Fukushi, K",
+          "Shinotoh, H",
+          "Namba, H",
+          "Iyo, M",
+          "Tanaka, N",
+          "Aotsuka, A",
+          "Ota, T",
+          "Tanada, S",
+          "Irie, T"
+     ],
+     "AU": [
+          "Nagatsuka Si S",
+          "Fukushi K",
+          "Shinotoh H",
+          "Namba H",
+          "Iyo M",
+          "Tanaka N",
+          "Aotsuka A",
+          "Ota T",
+          "Tanada S",
+          "Irie T"
+     ],
+     "AD": "Advanced Technology for Medical Imaging, National Institute of Radiological Sciences, Chiba, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "J Cereb Blood Flow Metab",
+     "JT": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism",
+     "JID": "8112566",
+     "RN": [
+          "0 (Acetates)",
+          "0 (Carbon Radioisotopes)",
+          "0 (N-methyl-4-piperidyl acetate)",
+          "0 (Piperidines)",
+          "EC 3.1.1.7 (Acetylcholinesterase)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "*Acetates",
+          "Acetylcholinesterase/*metabolism",
+          "Adult",
+          "Aged",
+          "Alzheimer Disease/*diagnostic imaging/metabolism",
+          "Blood Specimen Collection",
+          "Brain/*diagnostic imaging/enzymology",
+          "Carbon Radioisotopes",
+          "Computer Simulation",
+          "Humans",
+          "Kinetics",
+          "Least-Squares Analysis",
+          "Middle Aged",
+          "Models, Biological",
+          "*Piperidines",
+          "Tomography, Emission-Computed/*methods"
+     ],
+     "EDAT": "2001/11/10 10:00",
+     "MHDA": "2002/01/05 10:01",
+     "CRDT": [
+          "2001/11/10 10:00"
+     ],
+     "PHST": [
+          "2001/11/10 10:00 [pubmed]",
+          "2002/01/05 10:01 [medline]",
+          "2001/11/10 10:00 [entrez]"
+     ],
+     "AID": [
+          "10.1097/00004647-200111000-00011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Cereb Blood Flow Metab. 2001 Nov;21(11):1354-66. doi: 10.1097/00004647-200111000-00011.",
+     "term": "hippocampus"
+}

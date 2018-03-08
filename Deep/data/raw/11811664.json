@@ -1,0 +1,63 @@
+{
+     "PMID": "11811664",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20020619",
+     "LR": "20041117",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "11",
+     "IP": "6",
+     "DP": "2001",
+     "TI": "A view model which accounts for the spatial fields of hippocampal primate spatial view cells and rat place cells.",
+     "PG": "699-706",
+     "AB": "Hippocampal spatial view cells found in primates respond to a region of visual space being looked at, relatively independently of where the monkey is located. Rat place cells have responses which depend on where the rat is located. We investigate the hypothesis that in both types of animal, hippocampal cells respond to a combination of visual cues in the correct spatial relation to each other. In rats, which have a wide visual field, such a combination might define a place. In primates, including humans, which have a much smaller visual field and a fovea which is directed towards a part of the environment, the same mechanism might lead to spatial view cells. A computational model in which the neurons become organized by learning to respond to a combination of a small number of visual cues spread within an angle of a 30 degrees receptive field resulted in cells with visual properties like those of primate spatial view cells. The same model, but operating with a receptive field of 270 degrees, produced cells with visual properties like those of rat place cells. Thus a common hippocampal mechanism operating with different visual receptive field sizes could account for some of the visual properties of both place cells in rodents and spatial view cells in primates.",
+     "FAU": [
+          "de Araujo, I E",
+          "Rolls, E T",
+          "Stringer, S M"
+     ],
+     "AU": [
+          "de Araujo IE",
+          "Rolls ET",
+          "Stringer SM"
+     ],
+     "AD": "Department of Experimental Psychology, Oxford University, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/cytology/*physiology",
+          "Humans",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Primates/*physiology",
+          "Rats/*physiology",
+          "Space Perception/*physiology",
+          "Visual Fields/physiology"
+     ],
+     "EDAT": "2002/01/29 10:00",
+     "MHDA": "2002/06/20 10:01",
+     "CRDT": [
+          "2002/01/29 10:00"
+     ],
+     "PHST": [
+          "2002/01/29 10:00 [pubmed]",
+          "2002/06/20 10:01 [medline]",
+          "2002/01/29 10:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.1085 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2001;11(6):699-706. doi: 10.1002/hipo.1085.",
+     "term": "place cells"
+}

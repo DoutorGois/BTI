@@ -1,0 +1,98 @@
+{
+     "PMID": "15050564",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040806",
+     "LR": "20161122",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "21",
+     "IP": "4",
+     "DP": "2004 Apr",
+     "TI": "Deformation tensor morphometry of semantic dementia with quantitative validation.",
+     "PG": "1387-98",
+     "AB": "High-resolution structural MRI scans of 20 subjects diagnosed with semantic dementia were compared against scans of 20 cognitively normal control subjects using whole brain deformation tensor morphometry to study spatially consistent differences in local anatomical size. A fine lattice free-form volume registration algorithm was used to estimate a continuous mapping from a reference MRI to each individual subject MRI. The Jacobian of these transformations at each voxel were used to quantitatively map relative anatomical size in each individual brain. Intensity consistent filtering was applied to the determinant of these Jacobians. A careful validation using manually traced gyral anatomy was carried out and used to select an optimal deformation tensor filter scale at which to examine the anatomical size maps. General linear modeling at each voxel was used to decompose the influence of age and head size from the primary diagnosis. Maps of the T statistic of the diagnosis across the 40 subjects highlighted significant (P < 0.01 Bonferroni corrected) focal tissue contraction effects related to dementia diagnosis in the left temporal pole extending into the hippocampus, occipitotemporal gyrus and parahippocampal gyrus. Some evidence of greater focal contraction in gray over white matter was also apparent. Contraction effects were also seen, but with reduced significance in the right temporal anatomy, focused toward the temporal pole and hippocampal regions. Additional lower significance findings (P < 0.05 permutation corrected) were detected in the left superior frontal gyrus, left orbital gyrus and left parietal lobe.",
+     "FAU": [
+          "Studholme, C",
+          "Cardenas, V",
+          "Blumenfeld, R",
+          "Schuff, N",
+          "Rosen, H J",
+          "Miller, B",
+          "Weiner, M"
+     ],
+     "AU": [
+          "Studholme C",
+          "Cardenas V",
+          "Blumenfeld R",
+          "Schuff N",
+          "Rosen HJ",
+          "Miller B",
+          "Weiner M"
+     ],
+     "AD": "Department of Radiology, U.C.S.F., VAMC (114Q), San Francisco, CA 94121, USA. colin.studholme@ieee.org",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG10897/AG/NIA NIH HHS/United States",
+          "P01 AG12435/AG/NIA NIH HHS/United States",
+          "P01 AA11493/AA/NIAAA NIH HHS/United States",
+          "R01 MH65392/MH/NIMH NIH HHS/United States",
+          "P01 AG019724/AG/NIA NIH HHS/United States",
+          "R01 MH065392/MH/NIMH NIH HHS/United States",
+          "P01 AG19724/AG/NIA NIH HHS/United States",
+          "P50 AG023501-059004/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Atrophy",
+          "Brain/*pathology",
+          "Brain Mapping",
+          "Cerebral Cortex/pathology",
+          "Dementia/*diagnosis",
+          "Dominance, Cerebral/physiology",
+          "Female",
+          "Humans",
+          "*Image Enhancement",
+          "*Image Processing, Computer-Assisted",
+          "*Imaging, Three-Dimensional",
+          "Linear Models",
+          "*Magnetic Resonance Imaging",
+          "Male",
+          "Mental Status Schedule",
+          "Middle Aged",
+          "Neuropsychological Tests",
+          "Reference Values",
+          "Reproducibility of Results"
+     ],
+     "EDAT": "2004/03/31 05:00",
+     "MHDA": "2004/08/07 05:00",
+     "CRDT": [
+          "2004/03/31 05:00"
+     ],
+     "PHST": [
+          "2003/07/07 00:00 [received]",
+          "2003/10/30 00:00 [revised]",
+          "2003/12/08 00:00 [accepted]",
+          "2004/03/31 05:00 [pubmed]",
+          "2004/08/07 05:00 [medline]",
+          "2004/03/31 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1016/j.neuroimage.2003.12.009 [doi]",
+          "S1053811903007730 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2004 Apr;21(4):1387-98. doi: 10.1016/j.neuroimage.2003.12.009.",
+     "term": "hippocampus"
+}

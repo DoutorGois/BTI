@@ -1,0 +1,89 @@
+{
+     "PMID": "21444193",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110930",
+     "LR": "20141120",
+     "IS": "1879-2782 (Electronic) 0893-6080 (Linking)",
+     "VI": "24",
+     "IP": "6",
+     "DP": "2011 Aug",
+     "TI": "A bistable computational model of recurring epileptiform activity as observed in rodent slice preparations.",
+     "PG": "526-37",
+     "LID": "10.1016/j.neunet.2011.03.003 [doi]",
+     "AB": "We describe a computational model of epileptiform activity mimicking the activity exhibited by an animal model of epilepsy in vitro. The computational model permits generation of synthetic data to assist in the evaluation of new algorithms for epilepsy treatment via adaptive neurostimulation. The model implements both single-compartment pyramidal neurons and fast-spiking interneurons, arranged in a one-dimensional network using both excitatory and inhibitory synapses. The model tracks changes in extracellular ion concentrations, which determine the reversal potentials of membrane currents. Changes in simulated ion concentration provide positive feedback which drives the system towards the epileptiform state. One mechanism of positive feedback explored by this model is the conversion of pyramidal cells from regular spiking to intrinsic bursting as extracellular potassium concentration increases. One of the main contributions of this work is the development of a slow depression mechanism that enforces seizure termination. The network spontaneously leaves the seizure-like state as the slow depression variable decreases. This is one of the first detailed computational models of epileptiform activity, which exhibits realistic transitions between inter-seizure and seizure states, and back, with state durations similar to the in vitro model. We validate the computational model by comparing its state durations to those of the biological model. We also show that electrical stimulation of the computational model achieves seizure suppression comparable to that observed in the in vitro model.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Vincent, Robert D",
+          "Courville, Aaron",
+          "Pineau, Joelle"
+     ],
+     "AU": [
+          "Vincent RD",
+          "Courville A",
+          "Pineau J"
+     ],
+     "AD": "McGill University, School of Computer Science, 3480 University Street, Montreal, Quebec H3A2A7, Canada. bert@cs.mcgill.ca",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110310",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "RN": [
+          "0 (Potassium Channel Blockers)",
+          "BH3B64OKL9 (4-Aminopyridine)",
+          "RWP5GA015D (Potassium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "4-Aminopyridine/pharmacology",
+          "Action Potentials/physiology",
+          "Animals",
+          "*Computer Simulation",
+          "*Disease Models, Animal",
+          "Entorhinal Cortex/pathology/*physiopathology",
+          "Epilepsy/*pathology",
+          "Hippocampus/pathology/*physiopathology",
+          "In Vitro Techniques",
+          "Inhibition (Psychology)",
+          "Male",
+          "Models, Neurological",
+          "Neurons/drug effects/metabolism/physiology",
+          "Potassium/metabolism",
+          "Potassium Channel Blockers/pharmacology",
+          "Rats",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2011/03/30 06:00",
+     "MHDA": "2011/10/01 06:00",
+     "CRDT": [
+          "2011/03/30 06:00"
+     ],
+     "PHST": [
+          "2010/10/09 00:00 [received]",
+          "2011/02/01 00:00 [revised]",
+          "2011/03/01 00:00 [accepted]",
+          "2011/03/30 06:00 [entrez]",
+          "2011/03/30 06:00 [pubmed]",
+          "2011/10/01 06:00 [medline]"
+     ],
+     "AID": [
+          "S0893-6080(11)00087-6 [pii]",
+          "10.1016/j.neunet.2011.03.003 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2011 Aug;24(6):526-37. doi: 10.1016/j.neunet.2011.03.003. Epub 2011 Mar 10.",
+     "term": "hippocampus"
+}

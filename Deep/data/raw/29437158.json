@@ -1,0 +1,73 @@
+{
+     "PMID": "29437158",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20180223",
+     "IS": "2052-4463 (Electronic) 2052-4463 (Linking)",
+     "VI": "5",
+     "DP": "2018 Feb 13",
+     "TI": "Dataset of human medial temporal lobe single neuron activity during declarative memory encoding and recognition.",
+     "PG": "180010",
+     "LID": "10.1038/sdata.2018.10 [doi]",
+     "AB": "We present a dataset of 1,576 single neurons recorded from the human amygdala and hippocampus in 65 sessions from 42 patients undergoing intracranial monitoring for localization of epileptic seizures. Subjects performed a recognition memory task with pictures as stimuli. Subjects were asked to identify whether they had seen a particular image the first time ('new') or second time ('old') on a 1-6 confidence scale. This comprehensive dataset includes the spike times of all neurons and their extracellular waveforms, behavior, electrode locations determined from post-operative MRI scans, demographics, and the stimuli shown. As technical validation, we provide spike sorting quality metrics and assessment of tuning of cells to verify the presence of visually-and memory selective cells. We also provide analysis code that reproduces key scientific findings published previously on a smaller version of this dataset. Together, this large dataset will facilitate the investigation of the neural mechanism of declarative memory by providing a substantial number of hard to obtain human single-neuron recordings during a well characterized behavioral task.",
+     "FAU": [
+          "Faraut, Mailys C M",
+          "Carlson, April A",
+          "Sullivan, Shannon",
+          "Tudusciuc, Oana",
+          "Ross, Ian",
+          "Reed, Chrystal M",
+          "Chung, Jeffrey M",
+          "Mamelak, Adam N",
+          "Rutishauser, Ueli"
+     ],
+     "AU": [
+          "Faraut MCM",
+          "Carlson AA",
+          "Sullivan S",
+          "Tudusciuc O",
+          "Ross I",
+          "Reed CM",
+          "Chung JM",
+          "Mamelak AN",
+          "Rutishauser U"
+     ],
+     "AD": "Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA. Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA. Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA. Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA 91125, USA. Department of Neurosurgery, Huntington Memorial Hospital, Pasadena, CA 91125, USA. Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA. Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA. Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA. Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA. Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA 91125, USA. Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA. Computation and Neural Systems Program, California Institute of Technology, Pasadena, CA 91125, USA. Center for Neural Science and Medicine, Department of Biomedical Science, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA.",
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-9207-7069"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH110831/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20180213",
+     "PL": "England",
+     "TA": "Sci Data",
+     "JT": "Scientific data",
+     "JID": "101640192",
+     "PMC": "PMC5810422",
+     "EDAT": "2018/02/14 06:00",
+     "MHDA": "2018/02/14 06:00",
+     "CRDT": [
+          "2018/02/14 06:00"
+     ],
+     "PHST": [
+          "2017/09/12 00:00 [received]",
+          "2017/12/08 00:00 [accepted]",
+          "2018/02/14 06:00 [entrez]",
+          "2018/02/14 06:00 [pubmed]",
+          "2018/02/14 06:00 [medline]"
+     ],
+     "AID": [
+          "sdata201810 [pii]",
+          "10.1038/sdata.2018.10 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Sci Data. 2018 Feb 13;5:180010. doi: 10.1038/sdata.2018.10.",
+     "term": "hippocampus"
+}

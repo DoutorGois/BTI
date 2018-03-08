@@ -1,0 +1,85 @@
+{
+     "PMID": "25721691",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160408",
+     "LR": "20150414",
+     "IS": "1095-9564 (Electronic) 1074-7427 (Linking)",
+     "VI": "120",
+     "DP": "2015 Apr",
+     "TI": "A computational study on how theta modulated inhibition can account for the long temporal windows in the entorhinal-hippocampal loop.",
+     "PG": "69-83",
+     "LID": "10.1016/j.nlm.2015.02.002 [doi] S1074-7427(15)00023-4 [pii]",
+     "AB": "A recent experimental study (Mizuseki, Sirota, Pastalkova, & Buzsaki, 2009) has shown that the temporal delays between population activities in successive entorhinal and hippocampal anatomical stages are longer (about 70-80ms) than expected from axon conduction velocities and passive synaptic integration of feed-forward excitatory inputs. We investigate via computer simulations the mechanisms that give rise to such long temporal delays in the hippocampus structures. A model of the dentate gyrus (DG), CA3 and CA1 microcircuits is presented that uses biophysical representations of the major cell types including granule cells, CA3 and CA1 pyramidal cells (PCs) and six types of interneurons: basket cells (BCs), axo-axonic cells (AACs), bistratified cells (BSCs), oriens lacunosum-moleculare cells (OLMs), mossy cells (MCs) and hilar perforant path associated cells (HC). Inputs to the network came from the entorhinal cortex (EC) (layers 2 and 3) and the medial septum (MS). The model simulates accurately the timing of firing of different hippocampal cells with respect to the theta rhythm. The model shows that the experimentally reported long temporal delays in the DG, CA3 and CA1 hippocampal regions are due to theta modulated somatic and axonic inhibition. The model further predicts that the phase at which the CA1 PCs fire with respect to the theta rhythm is determined primarily by their increased dendritic excitability caused by the decrease of the axial resistance and the A-type K(+) conductance along their dendritic trunk. The model predicted latencies by which the DG, CA3 and CA1 principal cells fire are inline with the experimental evidence. Finally, the model proposes functional roles for the different inhibitory interneurons in the retrieval of the memory pattern by the DG, CA3 and CA1 networks. The model makes a number of predictions, which can be tested experimentally, thus leading to a better understanding of the biophysical computations in the hippocampus.",
+     "CI": [
+          "Copyright (c) 2015 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Cutsuridis, Vassilis",
+          "Poirazi, Panayiota"
+     ],
+     "AU": [
+          "Cutsuridis V",
+          "Poirazi P"
+     ],
+     "AD": "Institute of Molecular Biology and Biotechnology, Foundation for Research and Technology - Hellas (FORTH), Vassilika Vouton 71110, Heraklion, Crete, Greece. Electronic address: vcutsuridis@gmail.com. Institute of Molecular Biology and Biotechnology, Foundation for Research and Technology - Hellas (FORTH), Vassilika Vouton 71110, Heraklion, Crete, Greece.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150224",
+     "PL": "United States",
+     "TA": "Neurobiol Learn Mem",
+     "JT": "Neurobiology of learning and memory",
+     "JID": "9508166",
+     "SB": "IM",
+     "MH": [
+          "CA1 Region, Hippocampal/physiology",
+          "CA3 Region, Hippocampal/physiology",
+          "Computational Biology",
+          "Dentate Gyrus/physiology",
+          "Entorhinal Cortex/*physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Mental Recall/physiology",
+          "Neural Networks (Computer)",
+          "Neural Pathways/physiology",
+          "Theta Rhythm/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "CA1",
+          "CA3",
+          "Computer model",
+          "Dentate gyrus",
+          "GABA-A",
+          "Inhibition",
+          "Medial septum",
+          "Theta oscillation"
+     ],
+     "EDAT": "2015/02/28 06:00",
+     "MHDA": "2016/04/09 06:00",
+     "CRDT": [
+          "2015/02/28 06:00"
+     ],
+     "PHST": [
+          "2014/09/15 00:00 [received]",
+          "2015/01/28 00:00 [revised]",
+          "2015/02/03 00:00 [accepted]",
+          "2015/02/28 06:00 [entrez]",
+          "2015/02/28 06:00 [pubmed]",
+          "2016/04/09 06:00 [medline]"
+     ],
+     "AID": [
+          "S1074-7427(15)00023-4 [pii]",
+          "10.1016/j.nlm.2015.02.002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neurobiol Learn Mem. 2015 Apr;120:69-83. doi: 10.1016/j.nlm.2015.02.002. Epub 2015 Feb 24.",
+     "term": "hippocampus"
+}

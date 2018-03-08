@@ -1,0 +1,102 @@
+{
+     "PMID": "26963609",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161230",
+     "LR": "20170714",
+     "IS": "1361-8423 (Electronic) 1361-8415 (Linking)",
+     "VI": "31",
+     "DP": "2016 Jul",
+     "TI": "Non-Euclidean classification of medically imaged objects via s-reps.",
+     "PG": "37-45",
+     "LID": "10.1016/j.media.2016.01.007 [doi] S1361-8415(16)00014-1 [pii]",
+     "AB": "Classifying medically imaged objects, e.g., into diseased and normal classes, has been one of the important goals in medical imaging. We propose a novel classification scheme that uses a skeletal representation to provide rich non-Euclidean geometric object properties. Our statistical method combines distance weighted discrimination (DWD) with a carefully chosen Euclideanization which takes full advantage of the geometry of the manifold on which these non-Euclidean geometric object properties (GOPs) live. Our method is evaluated via the task of classifying 3D hippocampi between schizophrenics and healthy controls. We address three central questions. 1) Does adding shape features increase discriminative power over the more standard classification based only on global volume? 2) If so, does our skeletal representation provide greater discriminative power than a conventional boundary point distribution model (PDM)? 3) Especially, is Euclideanization of non-Euclidean shape properties important in achieving high discriminative power? Measuring the capability of a method in terms of area under the receiver operator characteristic (ROC) curve, we show that our proposed method achieves strongly better classification than both the classification method based on global volume alone and the s-rep-based classification method without proper Euclideanization of non-Euclidean GOPs. We show classification using Euclideanized s-reps is also superior to classification using PDMs, whether the PDMs are first Euclideanized or not. We also show improved performance with Euclideanized boundary PDMs over non-linear boundary PDMs. This demonstrates the benefit that proper Euclideanization of non-Euclidean GOPs brings not only to s-rep-based classification but also to PDM-based classification.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Hong, Junpyo",
+          "Vicory, Jared",
+          "Schulz, Jorn",
+          "Styner, Martin",
+          "Marron, J S",
+          "Pizer, Stephen M"
+     ],
+     "AU": [
+          "Hong J",
+          "Vicory J",
+          "Schulz J",
+          "Styner M",
+          "Marron JS",
+          "Pizer SM"
+     ],
+     "AD": "Department of Computer Science, University of North Carolina at Chapel Hill, USA. Electronic address: jphong@cs.unc.edu. Department of Computer Science, University of North Carolina at Chapel Hill, USA. Stavanger University Hospital, Norway. Department of Computer Science, University of North Carolina at Chapel Hill, USA; Department of Psychiatry, University of North Carolina at Chapel Hill, USA. Department of Statistics and Operations Research, University of North Carolina at Chapel Hill, USA. Department of Computer Science, University of North Carolina at Chapel Hill, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U54 EB005149/EB/NIBIB NIH HHS/United States",
+          "HD03110/HD/NICHD NIH HHS/United States",
+          "U54 HD079124/HD/NICHD NIH HHS/United States",
+          "P30 HD003110/HD/NICHD NIH HHS/United States",
+          "U54 EB005149-01/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160219",
+     "PL": "Netherlands",
+     "TA": "Med Image Anal",
+     "JT": "Medical image analysis",
+     "JID": "9713490",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Hippocampus/*diagnostic imaging",
+          "Humans",
+          "Image Enhancement",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Machine Learning",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Schizophrenia/*diagnostic imaging",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC4821729",
+     "MID": [
+          "NIHMS761614"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Pattern classification",
+          "Shape analysis",
+          "Statistical analysis"
+     ],
+     "EDAT": "2016/03/11 06:00",
+     "MHDA": "2016/12/31 06:00",
+     "CRDT": [
+          "2016/03/11 06:00"
+     ],
+     "PHST": [
+          "2014/08/06 00:00 [received]",
+          "2016/01/07 00:00 [revised]",
+          "2016/01/28 00:00 [accepted]",
+          "2016/03/11 06:00 [entrez]",
+          "2016/03/11 06:00 [pubmed]",
+          "2016/12/31 06:00 [medline]"
+     ],
+     "AID": [
+          "S1361-8415(16)00014-1 [pii]",
+          "10.1016/j.media.2016.01.007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Anal. 2016 Jul;31:37-45. doi: 10.1016/j.media.2016.01.007. Epub 2016 Feb 19.",
+     "term": "hippocampus"
+}

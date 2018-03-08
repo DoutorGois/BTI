@@ -1,0 +1,93 @@
+{
+     "PMID": "25169050",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150616",
+     "LR": "20151026",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "236",
+     "DP": "2014 Oct 30",
+     "TI": "Revealing cell assemblies at multiple levels of granularity.",
+     "PG": "92-106",
+     "LID": "10.1016/j.jneumeth.2014.08.011 [doi] S0165-0270(14)00295-7 [pii]",
+     "AB": "BACKGROUND: Current neuronal monitoring techniques, such as calcium imaging and multi-electrode arrays, enable recordings of spiking activity from hundreds of neurons simultaneously. Of primary importance in systems neuroscience is the identification of cell assemblies: groups of neurons that cooperate in some form within the recorded population. NEW METHOD: We introduce a simple, integrated framework for the detection of cell-assemblies from spiking data without a priori assumptions about the size or number of groups present. We define a biophysically-inspired measure to extract a directed functional connectivity matrix between both excitatory and inhibitory neurons based on their spiking history. The resulting network representation is analyzed using the Markov Stability framework, a graph theoretical method for community detection across scales, to reveal groups of neurons that are significantly related in the recorded time-series at different levels of granularity. RESULTS AND COMPARISON WITH EXISTING METHODS: Using synthetic spike-trains, including simulated data from leaky-integrate-and-fire networks, our method is able to identify important patterns in the data such as hierarchical structure that are missed by other standard methods. We further apply the method to experimental data from retinal ganglion cells of mouse and salamander, in which we identify cell-groups that correspond to known functional types, and to hippocampal recordings from rats exploring a linear track, where we detect place cells with high fidelity. CONCLUSIONS: We present a versatile method to detect neural assemblies in spiking data applicable across a spectrum of relevant scales that contributes to understanding spatio-temporal information gathered from systems neuroscience experiments.",
+     "CI": [
+          "Copyright (c) 2014 The Authors. Published by Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Billeh, Yazan N",
+          "Schaub, Michael T",
+          "Anastassiou, Costas A",
+          "Barahona, Mauricio",
+          "Koch, Christof"
+     ],
+     "AU": [
+          "Billeh YN",
+          "Schaub MT",
+          "Anastassiou CA",
+          "Barahona M",
+          "Koch C"
+     ],
+     "AD": "Computation and Neural Systems Program, California Institute of Technology, Pasadena, CA 91125, USA. Electronic address: ybilleh@caltech.edu. Department of Mathematics, Imperial College London, London SW7 2AZ, UK. Electronic address: michael.schaub09@imperial.ac.uk. Allen Institute for Brain Science, Seattle, WA 98103, USA. Department of Mathematics, Imperial College London, London SW7 2AZ, UK. Allen Institute for Brain Science, Seattle, WA 98103, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140826",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials",
+          "Algorithms",
+          "Ambystoma",
+          "Animals",
+          "Computer Simulation",
+          "Exploratory Behavior/physiology",
+          "Hippocampus/physiology",
+          "Markov Chains",
+          "Mice, Inbred C57BL",
+          "Models, Neurological",
+          "Neural Inhibition/physiology",
+          "Neurons/*physiology",
+          "Rats",
+          "Retinal Ganglion Cells/physiology",
+          "*Signal Processing, Computer-Assisted",
+          "Space Perception/physiology",
+          "Tissue Culture Techniques"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Biophysically inspired and directed spike-train association metric",
+          "Clustering",
+          "Community detection",
+          "Spike-train communities"
+     ],
+     "EDAT": "2014/08/30 06:00",
+     "MHDA": "2015/06/17 06:00",
+     "CRDT": [
+          "2014/08/30 06:00"
+     ],
+     "PHST": [
+          "2014/04/29 00:00 [received]",
+          "2014/08/06 00:00 [revised]",
+          "2014/08/08 00:00 [accepted]",
+          "2014/08/30 06:00 [entrez]",
+          "2014/08/30 06:00 [pubmed]",
+          "2015/06/17 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(14)00295-7 [pii]",
+          "10.1016/j.jneumeth.2014.08.011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2014 Oct 30;236:92-106. doi: 10.1016/j.jneumeth.2014.08.011. Epub 2014 Aug 26.",
+     "term": "place cells"
+}

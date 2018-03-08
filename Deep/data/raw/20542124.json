@@ -1,0 +1,98 @@
+{
+     "PMID": "20542124",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110815",
+     "LR": "20161209",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "56",
+     "IP": "2",
+     "DP": "2011 May 15",
+     "TI": "Automatic classification of patients with Alzheimer's disease from structural MRI: a comparison of ten methods using the ADNI database.",
+     "PG": "766-81",
+     "LID": "10.1016/j.neuroimage.2010.06.013 [doi]",
+     "AB": "Recently, several high dimensional classification methods have been proposed to automatically discriminate between patients with Alzheimer's disease (AD) or mild cognitive impairment (MCI) and elderly controls (CN) based on T1-weighted MRI. However, these methods were assessed on different populations, making it difficult to compare their performance. In this paper, we evaluated the performance of ten approaches (five voxel-based methods, three methods based on cortical thickness and two methods based on the hippocampus) using 509 subjects from the ADNI database. Three classification experiments were performed: CN vs AD, CN vs MCIc (MCI who had converted to AD within 18 months, MCI converters - MCIc) and MCIc vs MCInc (MCI who had not converted to AD within 18 months, MCI non-converters - MCInc). Data from 81 CN, 67 MCInc, 39 MCIc and 69 AD were used for training and hyperparameters optimization. The remaining independent samples of 81 CN, 67 MCInc, 37 MCIc and 68 AD were used to obtain an unbiased estimate of the performance of the methods. For AD vs CN, whole-brain methods (voxel-based or cortical thickness-based) achieved high accuracies (up to 81% sensitivity and 95% specificity). For the detection of prodromal AD (CN vs MCIc), the sensitivity was substantially lower. For the prediction of conversion, no classifier obtained significantly better results than chance. We also compared the results obtained using the DARTEL registration to that using SPM5 unified segmentation. DARTEL significantly improved six out of 20 classification experiments and led to lower results in only two cases. Overall, the use of feature selection did not improve the performance but substantially increased the computation times.",
+     "CI": [
+          "Copyright (c) 2010 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Cuingnet, Remi",
+          "Gerardin, Emilie",
+          "Tessieras, Jerome",
+          "Auzias, Guillaume",
+          "Lehericy, Stephane",
+          "Habert, Marie-Odile",
+          "Chupin, Marie",
+          "Benali, Habib",
+          "Colliot, Olivier"
+     ],
+     "AU": [
+          "Cuingnet R",
+          "Gerardin E",
+          "Tessieras J",
+          "Auzias G",
+          "Lehericy S",
+          "Habert MO",
+          "Chupin M",
+          "Benali H",
+          "Colliot O"
+     ],
+     "AD": "UPMC Universite Paris 6, UMR 7225, UMR_S 975, Centre de Recherche de l'Institut du Cerveau et de la Moelle epiniere (CRICM), Paris, France. remi.cuingnet@gmail.com",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20100611",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alzheimer Disease/classification/*diagnosis",
+          "Brain/*pathology",
+          "Cognition Disorders/classification/*diagnosis",
+          "Databases, Factual",
+          "Female",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2010/06/15 06:00",
+     "MHDA": "2011/08/16 06:00",
+     "CRDT": [
+          "2010/06/15 06:00"
+     ],
+     "PHST": [
+          "2009/11/27 00:00 [received]",
+          "2010/05/31 00:00 [revised]",
+          "2010/06/05 00:00 [accepted]",
+          "2010/06/15 06:00 [entrez]",
+          "2010/06/15 06:00 [pubmed]",
+          "2011/08/16 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(10)00857-8 [pii]",
+          "10.1016/j.neuroimage.2010.06.013 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 May 15;56(2):766-81. doi: 10.1016/j.neuroimage.2010.06.013. Epub 2010 Jun 11.",
+     "term": "hippocampus"
+}

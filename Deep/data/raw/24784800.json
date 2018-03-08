@@ -1,0 +1,104 @@
+{
+     "PMID": "24784800",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150527",
+     "LR": "20140915",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "101",
+     "DP": "2014 Nov 1",
+     "TI": "Multi-atlas segmentation of the whole hippocampus and subfields using multiple automatically generated templates.",
+     "PG": "494-512",
+     "LID": "10.1016/j.neuroimage.2014.04.054 [doi] S1053-8119(14)00334-6 [pii]",
+     "AB": "INTRODUCTION: Advances in image segmentation of magnetic resonance images (MRI) have demonstrated that multi-atlas approaches improve segmentation over regular atlas-based approaches. These approaches often rely on a large number of manually segmented atlases (e.g. 30-80) that take significant time and expertise to produce. We present an algorithm, MAGeT-Brain (Multiple Automatically Generated Templates), for the automatic segmentation of the hippocampus that minimises the number of atlases needed whilst still achieving similar agreement to multi-atlas approaches. Thus, our method acts as a reliable multi-atlas approach when using special or hard-to-define atlases that are laborious to construct. METHOD: MAGeT-Brain works by propagating atlas segmentations to a template library, formed from a subset of target images, via transformations estimated by nonlinear image registration. The resulting segmentations are then propagated to each target image and fused using a label fusion method. We conduct two separate Monte Carlo cross-validation experiments comparing MAGeT-Brain and basic multi-atlas whole hippocampal segmentation using differing atlas and template library sizes, and registration and label fusion methods. The first experiment is a 10-fold validation (per parameter setting) over 60 subjects taken from the Alzheimer's Disease Neuroimaging Database (ADNI), and the second is a five-fold validation over 81 subjects having had a first episode of psychosis. In both cases, automated segmentations are compared with manual segmentations following the Pruessner-protocol. Using the best settings found from these experiments, we segment 246 images of the ADNI1:Complete 1Yr 1.5 T dataset and compare these with segmentations from existing automated and semi-automated methods: FSL FIRST, FreeSurfer, MAPER, and SNT. Finally, we conduct a leave-one-out cross-validation of hippocampal subfield segmentation in standard 3T T1-weighted images, using five high-resolution manually segmented atlases (Winterburn et al., 2013). RESULTS: In the ADNI cross-validation, using 9 atlases MAGeT-Brain achieves a mean Dice's Similarity Coefficient (DSC) score of 0.869 with respect to manual whole hippocampus segmentations, and also exhibits significantly lower variability in DSC scores than multi-atlas segmentation. In the younger, psychosis dataset, MAGeT-Brain achieves a mean DSC score of 0.892 and produces volumes which agree with manual segmentation volumes better than those produced by the FreeSurfer and FSL FIRST methods (mean difference in volume: 80 mm(3), 1600 mm(3), and 800 mm(3), respectively). Similarly, in the ADNI1:Complete 1Yr 1.5 T dataset, MAGeT-Brain produces hippocampal segmentations well correlated (r>0.85) with SNT semi-automated reference volumes within disease categories, and shows a conservative bias and a mean difference in volume of 250 mm(3) across the entire dataset, compared with FreeSurfer and FSL FIRST which both overestimate volume differences by 2600 mm(3) and 2800 mm(3) on average, respectively. Finally, MAGeT-Brain segments the CA1, CA4/DG and subiculum subfields on standard 3T T1-weighted resolution images with DSC overlap scores of 0.56, 0.65, and 0.58, respectively, relative to manual segmentations. CONCLUSION: We demonstrate that MAGeT-Brain produces consistent whole hippocampal segmentations using only 9 atlases, or fewer, with various hippocampal definitions, disease populations, and image acquisition types. Additionally, we show that MAGeT-Brain identifies hippocampal subfields in standard 3T T1-weighted images with overlap scores comparable to competing methods.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Pipitone, Jon",
+          "Park, Min Tae M",
+          "Winterburn, Julie",
+          "Lett, Tristram A",
+          "Lerch, Jason P",
+          "Pruessner, Jens C",
+          "Lepage, Martin",
+          "Voineskos, Aristotle N",
+          "Chakravarty, M Mallar"
+     ],
+     "AU": [
+          "Pipitone J",
+          "Park MT",
+          "Winterburn J",
+          "Lett TA",
+          "Lerch JP",
+          "Pruessner JC",
+          "Lepage M",
+          "Voineskos AN",
+          "Chakravarty MM"
+     ],
+     "AD": "Kimel Family Translational Imaging-Genetics Lab, Centre for Addiction and Mental Health, Toronto, ON, Canada. Electronic address: jon.pipitone@utoronto.ca. Kimel Family Translational Imaging-Genetics Lab, Centre for Addiction and Mental Health, Toronto, ON, Canada. Kimel Family Translational Imaging-Genetics Lab, Centre for Addiction and Mental Health, Toronto, ON, Canada. Kimel Family Translational Imaging-Genetics Lab, Centre for Addiction and Mental Health, Toronto, ON, Canada; Institute of Medical Science, University of Toronto, Toronto, ON, Canada. Neurosciences and Mental Health Laboratory, Hospital for Sick Children, Toronto, ON, Canada; Department of Medical Biophysics, University of Toronto, Toronto, ON, Canada. Douglas Mental Health University Institute, Verdun, QC, Canada. Douglas Mental Health University Institute, Verdun, QC, Canada; Department of Psychiatry, McGill University, Montreal, QC, Canada. Kimel Family Translational Imaging-Genetics Lab, Centre for Addiction and Mental Health, Toronto, ON, Canada; Department of Psychiatry, University of Toronto, Toronto, ON, Canada; Institute of Medical Science, University of Toronto, Toronto, ON, Canada. Kimel Family Translational Imaging-Genetics Lab, Centre for Addiction and Mental Health, Toronto, ON, Canada; Department of Psychiatry, University of Toronto, Toronto, ON, Canada; Institute of Biomaterials and Biomedical Engineering, University of Toronto, Toronto, ON, Canada; Rotman Research Institute, Baycrest, Toronto, ON, Canada. Electronic address: mallar.chak@gmail.com.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "R01MH099167/MH/NIMH NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "DEP": "20140429",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Aging/pathology",
+          "Alzheimer Disease/pathology",
+          "Atlases as Topic",
+          "Female",
+          "Hippocampus/*anatomy & histology/pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods/standards",
+          "Magnetic Resonance Imaging/*methods/standards",
+          "Male",
+          "Middle Aged",
+          "Monte Carlo Method",
+          "Psychotic Disorders/pathology",
+          "Young Adult"
+     ],
+     "EDAT": "2014/05/03 06:00",
+     "MHDA": "2015/05/28 06:00",
+     "CRDT": [
+          "2014/05/03 06:00"
+     ],
+     "PHST": [
+          "2013/09/04 00:00 [received]",
+          "2014/04/15 00:00 [revised]",
+          "2014/04/19 00:00 [accepted]",
+          "2014/05/03 06:00 [entrez]",
+          "2014/05/03 06:00 [pubmed]",
+          "2015/05/28 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(14)00334-6 [pii]",
+          "10.1016/j.neuroimage.2014.04.054 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2014 Nov 1;101:494-512. doi: 10.1016/j.neuroimage.2014.04.054. Epub 2014 Apr 29.",
+     "term": "hippocampus"
+}

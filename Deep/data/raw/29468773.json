@@ -1,0 +1,84 @@
+{
+     "PMID": "29468773",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20180302",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "DP": "2018 Feb 21",
+     "TI": "A comparison of manual tracing and FreeSurfer for estimating hippocampal volume over the adult lifespan.",
+     "LID": "10.1002/hbm.24017 [doi]",
+     "AB": "MRI has become an indispensable tool for brain volumetric studies, with the hippocampus an important region of interest. Automation of the MRI segmentation process has helped advance the field by facilitating the volumetric analysis of larger cohorts and more studies. FreeSurfer has emerged as the de facto standard tool for these analyses, but studies validating its output are all based on older versions. To characterize FreeSurfer's validity, we compare several versions of FreeSurfer software with traditional hand-tracing. Using MRI images of 262 males and 402 females aged 38 to 84, we directly compare estimates of hippocampal volume from multiple versions of FreeSurfer, its hippocampal subfield routines, and our manual tracing protocol. We then use those estimates to assess asymmetry and atrophy, comparing performance of different estimators with each other and with brain atrophy measures. FreeSurfer consistently reports larger volumes than manual tracing. This difference is smaller in larger hippocampi or older people, with these biases weaker in version 6.0.0 than prior versions. All methods tested agree qualitatively on rightward asymmetry and increasing atrophy in older people. FreeSurfer saves time and money, and approximates the same atrophy measures as manual tracing, but it introduces biases that could require statistical adjustments in some studies.",
+     "CI": [
+          "(c) 2018 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Schmidt, Mike F",
+          "Storrs, Judd M",
+          "Freeman, Kevin B",
+          "Jack, Clifford R Jr",
+          "Turner, Stephen T",
+          "Griswold, Michael E",
+          "Mosley, Thomas H Jr"
+     ],
+     "AU": [
+          "Schmidt MF",
+          "Storrs JM",
+          "Freeman KB",
+          "Jack CR Jr",
+          "Turner ST",
+          "Griswold ME",
+          "Mosley TH Jr"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0003-4721-1457",
+          "ORCID: http://orcid.org/0000-0002-9875-6740",
+          "ORCID: http://orcid.org/0000-0001-7916-622X"
+     ],
+     "AD": "Program in Neuroscience, University of Mississippi Medical Center, Jackson, Mississippi. Department of Medicine, University of Mississippi Medical Center, Jackson, Mississippi. Department of Radiology, University of Mississippi Medical Center, Jackson, Mississippi. Department of Psychiatry and Human Behavior, University of Mississippi Medical Center, Jackson, Mississippi. Department of Radiology, Mayo Clinic, Rochester, Minnesota. Division of Nephrology and Hypertension, Mayo Clinic, Rochester, Minnesota. Department of Data Science, University of Mississippi Medical Center, Jackson, Mississippi. Department of Medicine, University of Mississippi Medical Center, Jackson, Mississippi.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS041558/NS/NINDS NIH HHS/United States",
+          "U01 HL054463/HL/NHLBI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20180221",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "FreeSurfer",
+          "aging",
+          "asymmetry",
+          "hippocampus",
+          "human",
+          "magnetic resonance imaging",
+          "segmentation"
+     ],
+     "EDAT": "2018/02/23 06:00",
+     "MHDA": "2018/02/23 06:00",
+     "CRDT": [
+          "2018/02/23 06:00"
+     ],
+     "PHST": [
+          "2017/09/08 00:00 [received]",
+          "2018/02/11 00:00 [revised]",
+          "2018/02/13 00:00 [accepted]",
+          "2018/02/23 06:00 [entrez]",
+          "2018/02/23 06:00 [pubmed]",
+          "2018/02/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.24017 [doi]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "Hum Brain Mapp. 2018 Feb 21. doi: 10.1002/hbm.24017.",
+     "term": "hippocampus"
+}

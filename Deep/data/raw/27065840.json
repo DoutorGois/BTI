@@ -1,0 +1,94 @@
+{
+     "PMID": "27065840",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20160412",
+     "LR": "20170220",
+     "IS": "1662-5196 (Print) 1662-5196 (Linking)",
+     "VI": "10",
+     "DP": "2016",
+     "TI": "Neonatal Brain Tissue Classification with Morphological Adaptation and Unified Segmentation.",
+     "PG": "12",
+     "LID": "10.3389/fninf.2016.00012 [doi]",
+     "AB": "Measuring the distribution of brain tissue types (tissue classification) in neonates is necessary for studying typical and atypical brain development, such as that associated with preterm birth, and may provide biomarkers for neurodevelopmental outcomes. Compared with magnetic resonance images of adults, neonatal images present specific challenges that require the development of specialized, population-specific methods. This paper introduces MANTiS (Morphologically Adaptive Neonatal Tissue Segmentation), which extends the unified segmentation approach to tissue classification implemented in Statistical Parametric Mapping (SPM) software to neonates. MANTiS utilizes a combination of unified segmentation, template adaptation via morphological segmentation tools and topological filtering, to segment the neonatal brain into eight tissue classes: cortical gray matter, white matter, deep nuclear gray matter, cerebellum, brainstem, cerebrospinal fluid (CSF), hippocampus and amygdala. We evaluated the performance of MANTiS using two independent datasets. The first dataset, provided by the NeoBrainS12 challenge, consisted of coronal T 2-weighted images of preterm infants (born </=30 weeks' gestation) acquired at 30 weeks' corrected gestational age (n = 5), coronal T 2-weighted images of preterm infants acquired at 40 weeks' corrected gestational age (n = 5) and axial T 2-weighted images of preterm infants acquired at 40 weeks' corrected gestational age (n = 5). The second dataset, provided by the Washington University NeuroDevelopmental Research (WUNDeR) group, consisted of T 2-weighted images of preterm infants (born <30 weeks' gestation) acquired shortly after birth (n = 12), preterm infants acquired at term-equivalent age (n = 12), and healthy term-born infants (born >/=38 weeks' gestation) acquired within the first 9 days of life (n = 12). For the NeoBrainS12 dataset, mean Dice scores comparing MANTiS with manual segmentations were all above 0.7, except for the cortical gray matter for coronal images acquired at 30 weeks. This demonstrates that MANTiS' performance is competitive with existing techniques. For the WUNDeR dataset, mean Dice scores comparing MANTiS with manually edited segmentations demonstrated good agreement, where all scores were above 0.75, except for the hippocampus and amygdala. The results show that MANTiS is able to segment neonatal brain tissues well, even in images that have brain abnormalities common in preterm infants. MANTiS is available for download as an SPM toolbox from http://developmentalimagingmcri.github.io/mantis.",
+     "FAU": [
+          "Beare, Richard J",
+          "Chen, Jian",
+          "Kelly, Claire E",
+          "Alexopoulos, Dimitrios",
+          "Smyser, Christopher D",
+          "Rogers, Cynthia E",
+          "Loh, Wai Y",
+          "Matthews, Lillian G",
+          "Cheong, Jeanie L Y",
+          "Spittle, Alicia J",
+          "Anderson, Peter J",
+          "Doyle, Lex W",
+          "Inder, Terrie E",
+          "Seal, Marc L",
+          "Thompson, Deanne K"
+     ],
+     "AU": [
+          "Beare RJ",
+          "Chen J",
+          "Kelly CE",
+          "Alexopoulos D",
+          "Smyser CD",
+          "Rogers CE",
+          "Loh WY",
+          "Matthews LG",
+          "Cheong JL",
+          "Spittle AJ",
+          "Anderson PJ",
+          "Doyle LW",
+          "Inder TE",
+          "Seal ML",
+          "Thompson DK"
+     ],
+     "AD": "Murdoch Childrens Research Institute, The Royal Children's HospitalMelbourne, VIC, Australia; Department of Medicine, Monash Medical Centre, Monash UniversityMelbourne, VIC, Australia. Murdoch Childrens Research Institute, The Royal Children's HospitalMelbourne, VIC, Australia; Department of Medicine, Monash Medical Centre, Monash UniversityMelbourne, VIC, Australia. Murdoch Childrens Research Institute, The Royal Children's Hospital Melbourne, VIC, Australia. Department of Neurology, Washington University School of Medicine St. Louis, MO, USA. Department of Neurology, Washington University School of Medicine St. Louis, MO, USA. Department of Psychiatry, Washington University School of Medicine St. Louis, MO, USA. Murdoch Childrens Research Institute, The Royal Children's HospitalMelbourne, VIC, Australia; Florey Institute of Neuroscience and Mental HealthMelbourne, VIC, Australia. Murdoch Childrens Research Institute, The Royal Children's HospitalMelbourne, VIC, Australia; Department of Paediatrics, University of MelbourneMelbourne, VIC, Australia; Royal Women's HospitalMelbourne, VIC, Australia. Murdoch Childrens Research Institute, The Royal Children's HospitalMelbourne, VIC, Australia; Royal Women's HospitalMelbourne, VIC, Australia; Department of Obstetrics and Gynaecology, University of MelbourneMelbourne, VIC, Australia. Murdoch Childrens Research Institute, The Royal Children's HospitalMelbourne, VIC, Australia; Royal Women's HospitalMelbourne, VIC, Australia; Department of Physiotherapy, University of MelbourneMelbourne, VIC, Australia. Murdoch Childrens Research Institute, The Royal Children's HospitalMelbourne, VIC, Australia; Department of Paediatrics, University of MelbourneMelbourne, VIC, Australia. Murdoch Childrens Research Institute, The Royal Children's HospitalMelbourne, VIC, Australia; Department of Paediatrics, University of MelbourneMelbourne, VIC, Australia; Royal Women's HospitalMelbourne, VIC, Australia; Department of Obstetrics and Gynaecology, University of MelbourneMelbourne, VIC, Australia. Department of Pediatric Newborn Medicine, Harvard Medical School, Brigham and Women's Hospital Boston, MA, USA. Murdoch Childrens Research Institute, The Royal Children's HospitalMelbourne, VIC, Australia; Department of Paediatrics, University of MelbourneMelbourne, VIC, Australia. Murdoch Childrens Research Institute, The Royal Children's HospitalMelbourne, VIC, Australia; Florey Institute of Neuroscience and Mental HealthMelbourne, VIC, Australia; Department of Paediatrics, University of MelbourneMelbourne, VIC, Australia.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K02 NS089852/NS/NINDS NIH HHS/United States",
+          "U54 HD087011/HD/NICHD NIH HHS/United States",
+          "UL1 TR000448/TR/NCATS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160329",
+     "PL": "Switzerland",
+     "TA": "Front Neuroinform",
+     "JT": "Frontiers in neuroinformatics",
+     "JID": "101477957",
+     "PMC": "PMC4809890",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "magnetic resonance imaging",
+          "neonate",
+          "preterm birth",
+          "statistical parametric mapping",
+          "tissue classification"
+     ],
+     "EDAT": "2016/04/12 06:00",
+     "MHDA": "2016/04/12 06:01",
+     "CRDT": [
+          "2016/04/12 06:00"
+     ],
+     "PHST": [
+          "2015/12/22 00:00 [received]",
+          "2016/03/07 00:00 [accepted]",
+          "2016/04/12 06:00 [entrez]",
+          "2016/04/12 06:00 [pubmed]",
+          "2016/04/12 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fninf.2016.00012 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neuroinform. 2016 Mar 29;10:12. doi: 10.3389/fninf.2016.00012. eCollection 2016.",
+     "term": "hippocampus"
+}

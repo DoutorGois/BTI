@@ -1,0 +1,90 @@
+{
+     "PMID": "18995188",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090108",
+     "LR": "20161019",
+     "IS": "1878-4046 (Electronic) 1076-6332 (Linking)",
+     "VI": "15",
+     "IP": "11",
+     "DP": "2008 Nov",
+     "TI": "Multivariate analysis of structural and diffusion imaging in traumatic brain injury.",
+     "PG": "1360-75",
+     "LID": "10.1016/j.acra.2008.07.007 [doi]",
+     "AB": "RATIONALE AND OBJECTIVES: Diffusion tensor (DT) and T1 structural magnetic resonance images provide unique and complementary tools for quantifying the living brain. We leverage both modalities in a diffeomorphic normalization method that unifies analysis of clinical datasets in a consistent and inherently multivariate (MV) statistical framework. We use this technique to study MV effects of traumatic brain injury (TBI). MATERIALS AND METHODS: We contrast T1 and DT image-based measurements in the thalamus and hippocampus of 12 TBI survivors and nine matched controls normalized to a combined DT and T1 template space. The normalization method uses maps that are topology-preserving and unbiased. Normalization is based on the full tensor of information at each voxel and, simultaneously, the similarity between high-resolution features derived from T1 data. The technique is termed symmetric normalization for MV neuroanatomy (SyNMN). Voxel-wise MV statistics on the local volume and mean diffusion are assessed with Hotelling's T(2) test with correction for multiple comparisons. RESULTS: TBI significantly (false discovery rate P < .05) reduces volume and increases mean diffusion at coincident locations in the mediodorsal thalamus and anterior hippocampus. CONCLUSIONS: SyNMN reveals evidence that TBI compromises the limbic system. This TBI morphometry study and an additional performance evaluation contrasting SyNMN with other methods suggest that the DT component may aid normalization quality.",
+     "FAU": [
+          "Avants, Brian",
+          "Duda, Jeffrey T",
+          "Kim, Junghoon",
+          "Zhang, Hui",
+          "Pluta, John",
+          "Gee, James C",
+          "Whyte, John"
+     ],
+     "AU": [
+          "Avants B",
+          "Duda JT",
+          "Kim J",
+          "Zhang H",
+          "Pluta J",
+          "Gee JC",
+          "Whyte J"
+     ],
+     "AD": "Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "L40 DA025520/DA/NIDA NIH HHS/United States",
+          "P30 NS045839/NS/NINDS NIH HHS/United States",
+          "R24 HD39621/HD/NICHD NIH HHS/United States",
+          "T32 CA74781/CA/NCI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Acad Radiol",
+     "JT": "Academic radiology",
+     "JID": "9440159",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Brain/*pathology",
+          "Brain Injuries/*diagnosis",
+          "Cohort Studies",
+          "Diffusion Magnetic Resonance Imaging/*methods",
+          "Echo-Planar Imaging/methods",
+          "Female",
+          "Hippocampus/pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/methods",
+          "Male",
+          "Middle Aged",
+          "Multivariate Analysis",
+          "Thalamus/pathology"
+     ],
+     "EDAT": "2008/11/11 09:00",
+     "MHDA": "2009/01/09 09:00",
+     "CRDT": [
+          "2008/11/11 09:00"
+     ],
+     "PHST": [
+          "2008/03/01 00:00 [received]",
+          "2008/06/26 00:00 [revised]",
+          "2008/07/01 00:00 [accepted]",
+          "2008/11/11 09:00 [pubmed]",
+          "2009/01/09 09:00 [medline]",
+          "2008/11/11 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1076-6332(08)00395-4 [pii]",
+          "10.1016/j.acra.2008.07.007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Acad Radiol. 2008 Nov;15(11):1360-75. doi: 10.1016/j.acra.2008.07.007.",
+     "term": "hippocampus"
+}

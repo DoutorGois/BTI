@@ -1,0 +1,94 @@
+{
+     "PMID": "27163479",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171113",
+     "LR": "20171127",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "268",
+     "DP": "2016 Aug 1",
+     "TI": "A generalised method to estimate the kinetics of fast Ca(2+) currents from Ca(2+) imaging experiments.",
+     "PG": "66-77",
+     "LID": "10.1016/j.jneumeth.2016.05.005 [doi] S0165-0270(16)30083-8 [pii]",
+     "AB": "BACKGROUND: Fast Ca(2+) imaging using low-affinity fluorescent indicators allows tracking Ca(2+) neuronal influx at high temporal resolution. In some systems, where the Ca(2+)-bound indicator is linear with Ca(2+) entering the cell, the Ca(2+) current has same kinetics of the fluorescence time derivative. In other systems, like cerebellar Purkinje neuron dendrites, the time derivative strategy fails since fluorescence kinetics is affected by Ca(2+) binding proteins sequestering Ca(2+) from the indicator. NEW METHOD: Our novel method estimates the kinetics of the Ca(2+) current in cells where the time course of fluorescence is not linear with Ca(2+) influx. The method is based on a two-buffer and two-indicator model, with three free parameters, where Ca(2+) sequestration from the indicator is mimicked by Ca(2+)-binding to the slower buffer. We developed a semi-automatic protocol to optimise the free parameters and the kinetics of the input current to match the experimental fluorescence change with the simulated curve of the Ca(2+)-bound indicator. RESULTS: We show that the optimised input current is a good estimate of the real Ca(2+) current by validating the method both using computer simulations and data from real neurons. We report the first estimates of Ca(2+) currents associated with climbing fibre excitatory postsynaptic potentials in Purkinje neurons. COMPARISON WITH EXISTING METHODS: The present method extends the possibility of studying Ca(2+) currents in systems where the existing time derivative approach fails. CONCLUSIONS: The information available from our technique allows investigating the physiological behaviour of Ca(2+) channels under all possible conditions.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Ait Ouares, Karima",
+          "Jaafari, Nadia",
+          "Canepari, Marco"
+     ],
+     "AU": [
+          "Ait Ouares K",
+          "Jaafari N",
+          "Canepari M"
+     ],
+     "AD": "Laboratory for Interdisciplinary Physics, UMR 5588, Universite Grenoble Alpes and CNRS, 38402 Saint Martin d'Heres, France; Laboratories of Excellence, Ion Channel Science and Therapeutics, France. Laboratory for Interdisciplinary Physics, UMR 5588, Universite Grenoble Alpes and CNRS, 38402 Saint Martin d'Heres, France; Laboratories of Excellence, Ion Channel Science and Therapeutics, France. Laboratory for Interdisciplinary Physics, UMR 5588, Universite Grenoble Alpes and CNRS, 38402 Saint Martin d'Heres, France; Laboratories of Excellence, Ion Channel Science and Therapeutics, France; Institut National de la Sante et Recherche Medicale (INSERM), France. Electronic address: marco.canepari@univ-grenoble-alpes.fr.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Validation Studies",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160506",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Calcium Channels)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Calcium/*metabolism",
+          "Calcium Channels/*metabolism",
+          "Cerebellum/cytology/metabolism",
+          "Computer Simulation",
+          "Hippocampus/cytology/metabolism",
+          "Kinetics",
+          "Membrane Potentials/*physiology",
+          "Mice, Inbred C57BL",
+          "Models, Neurological",
+          "Neurons/cytology/*metabolism",
+          "Nonlinear Dynamics",
+          "Pattern Recognition, Automated/methods",
+          "*Signal Processing, Computer-Assisted",
+          "Tissue Culture Techniques",
+          "Voltage-Sensitive Dye Imaging/*methods"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*CA1 hippocampal pyramidal neuron",
+          "*Calcium binding proteins",
+          "*Calcium currents",
+          "*Calcium imaging",
+          "*Purkinje neuron"
+     ],
+     "EDAT": "2016/05/11 06:00",
+     "MHDA": "2017/11/14 06:00",
+     "CRDT": [
+          "2016/05/11 06:00"
+     ],
+     "PHST": [
+          "2016/03/18 00:00 [received]",
+          "2016/05/04 00:00 [revised]",
+          "2016/05/05 00:00 [accepted]",
+          "2016/05/11 06:00 [entrez]",
+          "2016/05/11 06:00 [pubmed]",
+          "2017/11/14 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(16)30083-8 [pii]",
+          "10.1016/j.jneumeth.2016.05.005 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2016 Aug 1;268:66-77. doi: 10.1016/j.jneumeth.2016.05.005. Epub 2016 May 6.",
+     "term": "hippocampus"
+}

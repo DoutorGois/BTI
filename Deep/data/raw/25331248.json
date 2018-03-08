@@ -1,0 +1,97 @@
+{
+     "PMID": "25331248",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151202",
+     "LR": "20170220",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "25",
+     "IP": "4",
+     "DP": "2015 Apr",
+     "TI": "Examination of rhythmicity of extracellularly recorded neurons in the entorhinal cortex.",
+     "PG": "460-73",
+     "LID": "10.1002/hipo.22383 [doi]",
+     "AB": "A number of studies have examined the theta-rhythmic modulation of neuronal firing in the hippocampal circuit. For extracellular recordings, this is often done by examining spectral properties of the spike-time autocorrelogram, most significantly, for validating the presence or absence of theta modulation across species. These techniques can show significant rhythmicity for high firing rate, highly rhythmic neurons; however, they are substantially biased by several factors including the peak firing rate of the neuron, the amount of time spent in the neuron's receptive field, and other temporal properties of the rhythmicity such as cycle-skipping. These limitations make it difficult to examine rhythmic modulation in neurons with low firing rates or when an animal has short dwell times within the firing field and difficult to compare rhythmicity under disparate experimental conditions when these factors frequently differ. Here, we describe in detail the challenges that researchers face when using these techniques and apply our findings to recent recordings from bat entorhinal grid cells, suggesting that they may have lacked enough data to examine theta rhythmicity robustly. We describe a more sensitive and statistically rigorous method using maximum likelihood estimation (MLE) of a parametric model of the lags within the autocorrelation window, which helps to alleviate some of the problems of traditional methods and was also unable to detect rhythmicity in bat grid cells. Using large batteries of simulated data, we explored the boundaries for which the MLE technique and the theta index can detect rhythmicity. The MLE technique is less sensitive to many features of the autocorrelogram and provides a framework for statistical testing to detect rhythmicity as well as changes in rhythmicity in individual sessions providing a substantial improvement over previous methods.",
+     "CI": [
+          "(c) 2014 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Climer, Jason R",
+          "DiTullio, Ronald",
+          "Newman, Ehren L",
+          "Hasselmo, Michael E",
+          "Eden, Uri T"
+     ],
+     "AU": [
+          "Climer JR",
+          "DiTullio R",
+          "Newman EL",
+          "Hasselmo ME",
+          "Eden UT"
+     ],
+     "AD": "Department of Psychological and Brain Sciences, Center for Memory and Brain, Boston University, Massachusetts.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "F31 MH102022/MH/NIMH NIH HHS/United States",
+          "1F31MH102022-01A1/MH/NIMH NIH HHS/United States",
+          "R01 MH61492/MH/NIMH NIH HHS/United States",
+          "R01 MH060013/MH/NIMH NIH HHS/United States",
+          "R01MH60013/MH/NIMH NIH HHS/United States",
+          "R01 MH061492/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20141125",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Confidence Intervals",
+          "Entorhinal Cortex/*cytology",
+          "Likelihood Functions",
+          "Neurons/*physiology",
+          "*Periodicity",
+          "Rats",
+          "Theta Rhythm"
+     ],
+     "PMC": "PMC4457388",
+     "MID": [
+          "NIHMS688306"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "bat",
+          "grid cell",
+          "maximum likelihood estimation",
+          "rat",
+          "theta"
+     ],
+     "EDAT": "2014/10/22 06:00",
+     "MHDA": "2015/12/15 06:00",
+     "CRDT": [
+          "2014/10/22 06:00"
+     ],
+     "PHST": [
+          "2014/10/14 00:00 [accepted]",
+          "2014/10/22 06:00 [entrez]",
+          "2014/10/22 06:00 [pubmed]",
+          "2015/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.22383 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2015 Apr;25(4):460-73. doi: 10.1002/hipo.22383. Epub 2014 Nov 25.",
+     "term": "grid cells"
+}

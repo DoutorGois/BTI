@@ -1,0 +1,87 @@
+{
+     "PMID": "17630650",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080320",
+     "LR": "20170220",
+     "IS": "0741-0395 (Print) 0741-0395 (Linking)",
+     "VI": "32",
+     "IP": "1",
+     "DP": "2008 Jan",
+     "TI": "Permutation-based adjustments for the significance of partial regression coefficients in microarray data analysis.",
+     "PG": "1-8",
+     "AB": "The aim of this paper is to generalize permutation methods for multiple testing adjustment of significant partial regression coefficients in a linear regression model used for microarray data. Using a permutation method outlined by Anderson and Legendre [1999] and the permutation P-value adjustment from Simon et al. [2004], the significance of disease related gene expression will be determined and adjusted after accounting for the effects of covariates, which are not restricted to be categorical. We apply these methods to a microarray dataset containing confounders and illustrate the comparisons between the permutation-based adjustments and the normal theory adjustments. The application of a linear model is emphasized for data containing confounders and the permutation-based approaches are shown to be better suited for microarray data.",
+     "FAU": [
+          "Wagner, Brandie D",
+          "Zerbe, Gary O",
+          "Mexal, Sharon",
+          "Leonard, Sherry S"
+     ],
+     "AU": [
+          "Wagner BD",
+          "Zerbe GO",
+          "Mexal S",
+          "Leonard SS"
+     ],
+     "AD": "Department of Preventative Medicine and Biometrics, University of Colorado Health Sciences Center, Denver, Colorado, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH081177-03/MH/NIMH NIH HHS/United States",
+          "P50 MH068582-030001/MH/NIMH NIH HHS/United States",
+          "R01 MH081177/MH/NIMH NIH HHS/United States",
+          "P50 MH068582/MH/NIMH NIH HHS/United States",
+          "R01 DA009457/DA/NIDA NIH HHS/United States",
+          "R01 DA009457-10A2/DA/NIDA NIH HHS/United States",
+          "R01 MH081177-02/MH/NIMH NIH HHS/United States",
+          "P50 MH068582-07/MH/NIMH NIH HHS/United States",
+          "R01 DA009457-09/DA/NIDA NIH HHS/United States",
+          "R01 DA009457-11/DA/NIDA NIH HHS/United States",
+          "R01 MH081177-01/MH/NIMH NIH HHS/United States",
+          "DA09457/DA/NIDA NIH HHS/United States",
+          "R01 DA009457-08/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "Genet Epidemiol",
+     "JT": "Genetic epidemiology",
+     "JID": "8411723",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Case-Control Studies",
+          "*Data Interpretation, Statistical",
+          "*Epidemiologic Methods",
+          "*Gene Expression Profiling",
+          "Health Surveys",
+          "Hippocampus/*metabolism",
+          "Humans",
+          "*Oligonucleotide Array Sequence Analysis",
+          "Schizophrenia/*epidemiology/etiology"
+     ],
+     "PMC": "PMC2592303",
+     "MID": [
+          "NIHMS74366"
+     ],
+     "EDAT": "2007/07/17 09:00",
+     "MHDA": "2008/03/21 09:00",
+     "CRDT": [
+          "2007/07/17 09:00"
+     ],
+     "PHST": [
+          "2007/07/17 09:00 [pubmed]",
+          "2008/03/21 09:00 [medline]",
+          "2007/07/17 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/gepi.20255 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Genet Epidemiol. 2008 Jan;32(1):1-8. doi: 10.1002/gepi.20255.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,73 @@
+{
+     "PMID": "23060317",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20131118",
+     "LR": "20130121",
+     "IS": "1558-2531 (Electronic) 0018-9294 (Linking)",
+     "VI": "60",
+     "IP": "2",
+     "DP": "2013 Feb",
+     "TI": "Single optical fiber probe for fluorescence detection and optogenetic stimulation.",
+     "PG": "268-80",
+     "LID": "10.1109/TBME.2012.2221713 [doi]",
+     "AB": "We have developed a fiber-optic-based probe for precise delivery of stimulation/excitation light pulses and detection of faint fluorescence signals for applications in neuroscience and optogenetics. In this design, a thin multimode fiber serves as the head of the probe to be inserted into the brain. This fiber is used to deliver light to the region of interest and guide a sample of the emission signal back to detectors. The major tradeoff in the design of such a system is to decrease the size of the fiber and intensity of input light to minimize physical damage and to avoid photobleaching/phototoxicity but to keep the signal-to-noise ratio (S/N) reasonably high. Here, the excitation light and the associated emission signal are frequency modulated. Then, the output of the detector is passed through a time lens which compresses the distributed energy of the emission signal and maximizes the instantaneous S/N. By measuring the statistics of the noise, the structure of the time lens is designed to achieve the global optimum of S/N. We have also designed side-firing fibers and a micromechanical assembly for distributed light delivery and fluorescence detection.",
+     "FAU": [
+          "Pashaie, Ramin",
+          "Falk, Ryan"
+     ],
+     "AU": [
+          "Pashaie R",
+          "Falk R"
+     ],
+     "AD": "Department of Electrical Engineering, University of Wisconsin-Milwaukee, Milwaukee, WI 53211, USA. pashaie@uwm.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20121005",
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "RN": [
+          "0 (Fluorescent Dyes)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain Chemistry",
+          "Cells, Cultured",
+          "Computer Simulation",
+          "Fiber Optic Technology/*instrumentation",
+          "Fluorescent Dyes/chemistry",
+          "Hippocampus/cytology",
+          "Models, Biological",
+          "*Optical Fibers",
+          "Optogenetics/*instrumentation",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Signal-To-Noise Ratio",
+          "Spectrometry, Fluorescence/*instrumentation"
+     ],
+     "EDAT": "2012/10/13 06:00",
+     "MHDA": "2013/11/19 06:00",
+     "CRDT": [
+          "2012/10/13 06:00"
+     ],
+     "PHST": [
+          "2012/10/13 06:00 [entrez]",
+          "2012/10/13 06:00 [pubmed]",
+          "2013/11/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TBME.2012.2221713 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 2013 Feb;60(2):268-80. doi: 10.1109/TBME.2012.2221713. Epub 2012 Oct 5.",
+     "term": "hippocampus"
+}

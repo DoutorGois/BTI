@@ -1,0 +1,99 @@
+{
+     "PMID": "28599195",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170828",
+     "LR": "20180124",
+     "IS": "1096-0953 (Electronic) 0013-9351 (Linking)",
+     "VI": "158",
+     "DP": "2017 Oct",
+     "TI": "Evaluation of a data fusion approach to estimate daily PM2.5 levels in North China.",
+     "PG": "54-60",
+     "LID": "S0013-9351(17)31060-5 [pii] 10.1016/j.envres.2017.06.001 [doi]",
+     "AB": "PM2.5 air pollution has been a growing concern worldwide. Previous studies have conducted several techniques to estimate PM2.5 exposure spatiotemporally in China, but all these have limitations. This study was to develop a data fusion approach and compare it with kriging and Chemistry Module. Two techniques were applied to create daily spatial cover of PM2.5 in grid cells with a resolution of 10km in North China in 2013, respectively, which was kriging with an external drift (KED) and Weather Research and Forecast Model with Chemistry Module (WRF-Chem). A data fusion technique was developed by fusing PM2.5 concentration predicted by KED and WRF-Chem, accounting for the distance from the central of grid cell to the nearest ground observations and daily spatial correlations between WRF-Chem and observations. Model performances were evaluated by comparing them with ground observations and the spatial prediction errors. KED and data fusion performed better at monitoring sites with a daily model R(2) of 0.95 and 0.94, respectively and PM2.5 was overestimated by WRF-Chem (R(2)=0.51). KED and data fusion performed better around the ground monitors, WRF-Chem performed relative worse with high prediction errors in the central of study domain. In our study, both KED and data fusion technique provided highly accurate PM2.5. Current monitoring network in North China was dense enough to provide a reliable PM2.5 prediction by interpolation technique.",
+     "CI": [
+          "Copyright (c) 2017. Published by Elsevier Inc."
+     ],
+     "FAU": [
+          "Liang, Fengchao",
+          "Gao, Meng",
+          "Xiao, Qingyang",
+          "Carmichael, Gregory R",
+          "Pan, Xiaochuan",
+          "Liu, Yang"
+     ],
+     "AU": [
+          "Liang F",
+          "Gao M",
+          "Xiao Q",
+          "Carmichael GR",
+          "Pan X",
+          "Liu Y"
+     ],
+     "AD": "Department of Occupational and Environmental Health, School of Public Health, Peking University, Beijing 100191, China; Department of Environmental Health, Rollins School of Public Health, Emory University, Atlanta, GA 30322, USA. Electronic address: liangfengchao126@126.com. Center for Global and Regional Environmental Research, the University of Iowa, Iowa City, IA 52242, USA. Electronic address: meng-gao@uiowa.edu. Department of Environmental Health, Rollins School of Public Health, Emory University, Atlanta, GA 30322, USA. Electronic address: qingyang.xiao@emory.edu. Center for Global and Regional Environmental Research, the University of Iowa, Iowa City, IA 52242, USA. Electronic address: gregory-carmichael@uiowa.edu. Department of Occupational and Environmental Health, School of Public Health, Peking University, Beijing 100191, China. Electronic address: xcpan@bjmu.edu.cn. Department of Environmental Health, Rollins School of Public Health, Emory University, Atlanta, GA 30322, USA. Electronic address: yang.liu@emory.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NNX14AG01G/NNX/NASA/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20170703",
+     "PL": "Netherlands",
+     "TA": "Environ Res",
+     "JT": "Environmental research",
+     "JID": "0147621",
+     "RN": [
+          "0 (Air Pollutants)",
+          "0 (Particulate Matter)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Air Pollutants/*analysis",
+          "Air Pollution/*analysis",
+          "China",
+          "Environmental Monitoring/*methods",
+          "Models, Theoretical",
+          "Particulate Matter/*analysis",
+          "Spatial Analysis",
+          "Weather"
+     ],
+     "PMC": "PMC5612782",
+     "MID": [
+          "NIHMS899887"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*Data fusion",
+          "*KED",
+          "*PM(2.5)",
+          "*Spatiotemporal model",
+          "*WRF-Chem"
+     ],
+     "EDAT": "2017/06/10 06:00",
+     "MHDA": "2017/08/29 06:00",
+     "CRDT": [
+          "2017/06/10 06:00"
+     ],
+     "PHST": [
+          "2016/12/18 00:00 [received]",
+          "2017/04/15 00:00 [revised]",
+          "2017/06/01 00:00 [accepted]",
+          "2017/06/10 06:00 [pubmed]",
+          "2017/08/29 06:00 [medline]",
+          "2017/06/10 06:00 [entrez]"
+     ],
+     "AID": [
+          "S0013-9351(17)31060-5 [pii]",
+          "10.1016/j.envres.2017.06.001 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Environ Res. 2017 Oct;158:54-60. doi: 10.1016/j.envres.2017.06.001. Epub 2017 Jul 3.",
+     "term": "grid cells"
+}

@@ -1,0 +1,77 @@
+{
+     "PMID": "22350670",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121010",
+     "LR": "20120530",
+     "IS": "1573-6792 (Electronic) 0896-0267 (Linking)",
+     "VI": "25",
+     "IP": "3",
+     "DP": "2012 Jul",
+     "TI": "Techniques for detection and localization of weak hippocampal and medial frontal sources using beamformers in MEG.",
+     "PG": "248-63",
+     "LID": "10.1007/s10548-012-0217-2 [doi]",
+     "AB": "Magnetoencephalography provides precise information about the temporal dynamics of brain activation and is an ideal tool for investigating rapid cognitive processing. However, in many cognitive paradigms visual stimuli are used, which evoke strong brain responses (typically 40-100 nAm in V1) that may impede the detection of weaker activations of interest. This is particularly a concern when beamformer algorithms are used for source analysis, due to artefacts such as \"leakage\" of activation from the primary visual sources into other regions. We have previously shown (Quraan et al. 2011) that we can effectively reduce leakage patterns and detect weak hippocampal sources by subtracting the functional images derived from the experimental task and a control task with similar stimulus parameters. In this study we assess the performance of three different subtraction techniques. In the first technique we follow the same post-localization subtraction procedures as in our previous work. In the second and third techniques, we subtract the sensor data obtained from the experimental and control paradigms prior to source localization. Using simulated signals embedded in real data, we show that when beamformers are used, subtraction prior to source localization allows for the detection of weaker sources and higher localization accuracy. The improvement in localization accuracy exceeded 10 mm at low signal-to-noise ratios, and sources down to below 5 nAm were detected. We applied our techniques to empirical data acquired with two different paradigms designed to evoke hippocampal and frontal activations, and demonstrated our ability to detect robust activations in both regions with substantial improvements over image subtraction. We conclude that removal of the common-mode dominant sources through data subtraction prior to localization further improves the beamformer's ability to project the n-channel sensor-space data to reveal weak sources of interest and allows more accurate localization.",
+     "FAU": [
+          "Mills, Travis",
+          "Lalancette, Marc",
+          "Moses, Sandra N",
+          "Taylor, Margot J",
+          "Quraan, Maher A"
+     ],
+     "AU": [
+          "Mills T",
+          "Lalancette M",
+          "Moses SN",
+          "Taylor MJ",
+          "Quraan MA"
+     ],
+     "AD": "Department of Diagnostic Imaging, The Hospital for Sick Children, Toronto, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MOP 81161/Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120216",
+     "PL": "United States",
+     "TA": "Brain Topogr",
+     "JT": "Brain topography",
+     "JID": "8903034",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "*Artifacts",
+          "Brain/*physiology",
+          "Brain Mapping/methods",
+          "Functional Neuroimaging",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Magnetoencephalography/*methods",
+          "*Signal Processing, Computer-Assisted",
+          "Signal-To-Noise Ratio",
+          "*Subtraction Technique"
+     ],
+     "EDAT": "2012/02/22 06:00",
+     "MHDA": "2012/10/12 06:00",
+     "CRDT": [
+          "2012/02/22 06:00"
+     ],
+     "PHST": [
+          "2011/09/15 00:00 [received]",
+          "2012/01/04 00:00 [accepted]",
+          "2012/02/22 06:00 [entrez]",
+          "2012/02/22 06:00 [pubmed]",
+          "2012/10/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10548-012-0217-2 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Topogr. 2012 Jul;25(3):248-63. doi: 10.1007/s10548-012-0217-2. Epub 2012 Feb 16.",
+     "term": "hippocampus"
+}

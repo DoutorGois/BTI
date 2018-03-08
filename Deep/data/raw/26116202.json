@@ -1,0 +1,72 @@
+{
+     "PMID": "26116202",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161109",
+     "LR": "20170103",
+     "IS": "1557-7023 (Electronic) 1540-7063 (Linking)",
+     "VI": "55",
+     "IP": "3",
+     "DP": "2015 Sep",
+     "TI": "Additional Navigational Strategies Can Augment Odor-Gated Rheotaxis for Navigation under Conditions of Variable Flow.",
+     "PG": "447-60",
+     "LID": "10.1093/icb/icv073 [doi]",
+     "AB": "The navigation strategies animals use to find sources of odor depend on the olfactory stimuli, the properties of flowing fluids, and the locomotory capabilities of the animal. In high Reynolds number environments, animals typically use odor-gated rheotaxis to find the source of turbulent odor plumes. This strategy succeeds because, although turbulence creates an intermittent chemical cue, the animal follows the (continuous) directional cue created by the flow that is transporting the chemical. However, in nature, animals may lose all contact with an odor plume as variations in the direction of bulk flow cause the plume to be rotated away before the animal reaches the source of the odor. Our goal was to use a mathematical model to test the hypothesis that strategies that augment odor-gated rheotaxis would be beneficial for finding the source of an odor plume in such variable flow. The model links a stochastic variable-direction odor plume with a turbulence-based intermittent chemical signal and four different movement strategies, including: odor-gated rheotaxis alone (as a control), odor-gated rheotaxis augmented by further rheotaxis in the absence of odor, odor-gated rheotaxis augmented by a random walk, and odor-gated rheotaxis augmented by movement actively guided by the heading of the flow when the odor was still present. We found that any of the three augmented strategies could improve on strict odor-gated rheotaxis. Moreover, variations in performance caused the best strategy to depend on the speed of movement of the animal and the magnitude of the variation in flow, and more subtly on the duration over which the augmented strategy was performed. For most combinations of parameters in the model, either augmenting with a random walk or following the last-known heading were the best-performing strategies. Overall, our results suggest that marine animals that rely on odor cues to navigate in turbulent environments may augment odor-gated rheotaxis with additional movements that will increase the probability of finding the sources of odors. Moreover, we believe our approach to modeling odor plumes in variable flows is a valuable step toward mathematically capturing the key conditions experienced by animals navigating on the basis of odors carried by flows.",
+     "CI": [
+          "(c) The Author 2015. Published by Oxford University Press on behalf of the",
+          "Society for Integrative and Comparative Biology. All rights reserved. For",
+          "permissions please email: journals.permissions@oup.com."
+     ],
+     "FAU": [
+          "Vasey, Gabrielle",
+          "Lukeman, Ryan",
+          "Wyeth, Russell C"
+     ],
+     "AU": [
+          "Vasey G",
+          "Lukeman R",
+          "Wyeth RC"
+     ],
+     "AD": "*Department of Mathematics, Statistics and Computer Science, St Francis Xavier University, P.O. Box 5000, Antigonish, Nova Scotia, Canada B2G 2W5; *Department of Mathematics, Statistics and Computer Science, St Francis Xavier University, P.O. Box 5000, Antigonish, Nova Scotia, Canada B2G 2W5; Department of Biology, St Francis Xavier University, P.O. Box 5000, Antigonish, Nova Scotia, Canada B2G 2W5 rwyeth@stfx.ca.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150626",
+     "PL": "England",
+     "TA": "Integr Comp Biol",
+     "JT": "Integrative and comparative biology",
+     "JID": "101152341",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Chemotaxis",
+          "Fishes/*physiology",
+          "Invertebrates/*physiology",
+          "Models, Biological",
+          "*Movement",
+          "*Odorants",
+          "Rheology",
+          "*Spatial Navigation"
+     ],
+     "EDAT": "2015/06/28 06:00",
+     "MHDA": "2016/11/10 06:00",
+     "CRDT": [
+          "2015/06/28 06:00"
+     ],
+     "PHST": [
+          "2015/06/28 06:00 [entrez]",
+          "2015/06/28 06:00 [pubmed]",
+          "2016/11/10 06:00 [medline]"
+     ],
+     "AID": [
+          "icv073 [pii]",
+          "10.1093/icb/icv073 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Integr Comp Biol. 2015 Sep;55(3):447-60. doi: 10.1093/icb/icv073. Epub 2015 Jun 26.",
+     "term": "spatial navigation"
+}

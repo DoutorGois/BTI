@@ -1,0 +1,88 @@
+{
+     "PMID": "22507227",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120917",
+     "LR": "20151119",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "61",
+     "IP": "3",
+     "DP": "2012 Jul 2",
+     "TI": "Classification of schizophrenia patients and healthy controls from structural MRI scans in two large independent samples.",
+     "PG": "606-12",
+     "LID": "10.1016/j.neuroimage.2012.03.079 [doi]",
+     "AB": "The purpose of this study is to create a model that can classify schizophrenia patients and healthy controls based on whole brain gray matter densities (voxel-based morphometry, VBM) from structural magnetic resonance imaging (MRI) scans. In addition, we investigated the stability of the accuracy of the models, when built with different sample sizes. Using a support vector machine, we built a model from 239 subjects (128 patients and 111 healthy controls) and classified 71.4% correct (leave-one-out). We replicated and validated this result by testing the unaltered model on a completely independent sample of 277 subjects (155 patients and 122 healthy controls), scanned with a different scanner. The classification rate of the validation sample was 70.4%. The model's discriminative pattern showed, amongst other differences, gray matter density decreases in frontal and superior temporal lobes and hippocampus in schizophrenia patients with respect to healthy controls and increases in gray matter density in basal ganglia and left occipital lobe and. Larger training samples gave more reliable models: Models based on sample sizes smaller than N=130 should be considered unstable and can even score below chance.",
+     "CI": [
+          "Copyright (c) 2012 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Nieuwenhuis, Mireille",
+          "van Haren, Neeltje E M",
+          "Hulshoff Pol, Hilleke E",
+          "Cahn, Wiepke",
+          "Kahn, Rene S",
+          "Schnack, Hugo G"
+     ],
+     "AU": [
+          "Nieuwenhuis M",
+          "van Haren NE",
+          "Hulshoff Pol HE",
+          "Cahn W",
+          "Kahn RS",
+          "Schnack HG"
+     ],
+     "AD": "Department of Psychiatry, Rudolf Magnus Institute of Neuroscience, University Medical Center Utrecht, P.O. Box 85500 3508 GA Utrecht, The Netherlands. M.Nieuwenhuis-4@umcutrecht.nl",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20120404",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Brain/pathology",
+          "Brain Mapping",
+          "Corpus Striatum/drug effects/physiology",
+          "Female",
+          "Frontal Lobe/pathology",
+          "Functional Laterality/physiology",
+          "Hippocampus/pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Models, Neurological",
+          "Quality Control",
+          "Reproducibility of Results",
+          "Schizophrenia/*classification/pathology",
+          "Support Vector Machine",
+          "Temporal Lobe/pathology"
+     ],
+     "EDAT": "2012/04/18 06:00",
+     "MHDA": "2012/09/18 06:00",
+     "CRDT": [
+          "2012/04/18 06:00"
+     ],
+     "PHST": [
+          "2012/01/18 00:00 [received]",
+          "2012/03/22 00:00 [revised]",
+          "2012/03/25 00:00 [accepted]",
+          "2012/04/18 06:00 [entrez]",
+          "2012/04/18 06:00 [pubmed]",
+          "2012/09/18 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(12)00367-9 [pii]",
+          "10.1016/j.neuroimage.2012.03.079 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2012 Jul 2;61(3):606-12. doi: 10.1016/j.neuroimage.2012.03.079. Epub 2012 Apr 4.",
+     "term": "hippocampus"
+}

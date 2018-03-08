@@ -1,0 +1,88 @@
+{
+     "PMID": "21195197",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110610",
+     "LR": "20161122",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "55",
+     "IP": "2",
+     "DP": "2011 Mar 15",
+     "TI": "Neuroanatomical spatial patterns in Turner syndrome.",
+     "PG": "439-47",
+     "LID": "10.1016/j.neuroimage.2010.12.054 [doi]",
+     "AB": "Turner syndrome (TS) is a highly prevalent genetic condition caused by partial or complete absence of one X-chromosome in a female and is associated with a lack of endogenous estrogen during development secondary to gonadal dysgenesis. Prominent cognitive weaknesses in executive and visuospatial functions in the context of normal overall IQ also occur in affected individuals. Previous neuroimaging studies of TS point to a profile of neuroanatomical variation relative to age and sex matched controls. However, there are no neuroimaging studies focusing on young girls with TS before they receive exogenous estrogen treatment to induce puberty. Information obtained from young girls with TS may help to establish an early neural correlate of the cognitive phenotype associated with the disorder. Further, univariate analysis has predominantly been the method of choice in prior neuroimaging studies of TS. Univariate approaches examine between-group differences on the basis of individual image elements (i.e., a single voxel's intensity or the volume of an a priori defined brain region). This is in contrast to multivariate methods that can elucidate complex neuroanatomical profiles in a clinical population by determining the pattern of between-group differences from many image elements evaluated simultaneously. In this case, individual image elements might not be significantly different between groups but can still contribute to a significantly different overall spatial pattern. In this study, voxel-based morphometry (VBM) of high-resolution magnetic resonance images was used to investigate differences in brain morphology between 13 pediatric, pre-estrogen girls with monosomic TS and 13 age-matched typically developing controls (3.0 T imaging: mean age 9.1+/-2.1). A similar analysis was performed with an older cohort of 13 girls with monosomic TS and 13 age-matched typically developing controls (1.5 T imaging: mean age 15.8+/-4.5). A multivariate, linear support vector machine analysis using leave-one-out cross-validation was then employed to discriminate girls with TS from typically developing controls based on differences in neuroanatomical spatial patterns and to assess how accurately such patterns translate across heterogeneous cohorts. VBM indicated that both TS cohorts had significantly reduced gray matter volume in the precentral, postcentral, and supramarginal gyri and enlargement of the left middle and superior temporal gyri. Support vector machine (SVM) classifiers achieved high accuracy for discriminating brain morphology patterns in TS from typically developing controls and also displayed spatial patterns consistent with the VBM results. Furthermore, the SVM classifiers identified additional neuroanatomical variations in individuals with TS, localized in the hippocampus, orbitofrontal cortex, insula, caudate, and cuneus. Our results demonstrate robust spatial patterns of altered brain morphology in developmentally dynamic populations with TS, providing further insight into the neuroanatomical correlates of cognitive-behavioral features in this condition.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Marzelli, Matthew J",
+          "Hoeft, Fumiko",
+          "Hong, David S",
+          "Reiss, Allan L"
+     ],
+     "AU": [
+          "Marzelli MJ",
+          "Hoeft F",
+          "Hong DS",
+          "Reiss AL"
+     ],
+     "AD": "Center for Interdisciplinary Brain Sciences Research, Department of Psychiatry and Behavioral Sciences, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K23 HD054720/HD/NICHD NIH HHS/United States",
+          "5-R01-HD049653/HD/NICHD NIH HHS/United States",
+          "T32-MH19908/MH/NIMH NIH HHS/United States",
+          "HD054720/HD/NICHD NIH HHS/United States",
+          "R01 HD049653/HD/NICHD NIH HHS/United States",
+          "R01 HD049653-04S1/HD/NICHD NIH HHS/United States",
+          "T32 MH019908/MH/NIMH NIH HHS/United States",
+          "R01 HD049653-05/HD/NICHD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20101230",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Brain/*pathology",
+          "Child",
+          "Female",
+          "Humans",
+          "Image Interpretation, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Turner Syndrome/*pathology"
+     ],
+     "PMC": "PMC3035734",
+     "MID": [
+          "NIHMS266913"
+     ],
+     "EDAT": "2011/01/05 06:00",
+     "MHDA": "2011/06/11 06:00",
+     "CRDT": [
+          "2011/01/04 06:00"
+     ],
+     "PHST": [
+          "2010/08/12 00:00 [received]",
+          "2010/12/04 00:00 [revised]",
+          "2010/12/20 00:00 [accepted]",
+          "2011/01/04 06:00 [entrez]",
+          "2011/01/05 06:00 [pubmed]",
+          "2011/06/11 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(10)01654-X [pii]",
+          "10.1016/j.neuroimage.2010.12.054 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 Mar 15;55(2):439-47. doi: 10.1016/j.neuroimage.2010.12.054. Epub 2010 Dec 30.",
+     "term": "hippocampus"
+}

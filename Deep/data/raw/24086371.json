@@ -1,0 +1,108 @@
+{
+     "PMID": "24086371",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140807",
+     "LR": "20161125",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "9",
+     "DP": "2013",
+     "TI": "White matter abnormalities and structural hippocampal disconnections in amnestic mild cognitive impairment and Alzheimer's disease.",
+     "PG": "e74776",
+     "LID": "10.1371/journal.pone.0074776 [doi]",
+     "AB": "The purpose of this project was to evaluate white matter degeneration and its impact on hippocampal structural connectivity in patients with amnestic mild cognitive impairment, non-amnestic mild cognitive impairment and Alzheimer's disease. We estimated white matter fractional anisotropy, mean diffusivity and hippocampal structural connectivity in two independent cohorts. The ADNI cohort included 108 subjects [25 cognitively normal, 21 amnestic mild cognitive impairment, 47 non-amnestic mild cognitive impairment and 15 Alzheimer's disease]. A second cohort included 34 subjects [15 cognitively normal and 19 amnestic mild cognitive impairment] recruited in Montreal. All subjects underwent clinical and neuropsychological assessment in addition to diffusion and T1 MRI. Individual fractional anisotropy and mean diffusivity maps were generated using FSL-DTIfit. In addition, hippocampal structural connectivity maps expressing the probability of connectivity between the hippocampus and cortex were generated using a pipeline based on FSL-probtrackX. Voxel-based group comparison statistics of fractional anisotropy, mean diffusivity and hippocampal structural connectivity were estimated using Tract-Based Spatial Statistics. The proportion of abnormal to total white matter volume was estimated using the total volume of the white matter skeleton. We found that in both cohorts, amnestic mild cognitive impairment patients had 27-29% white matter volume showing higher mean diffusivity but no significant fractional anisotropy abnormalities. No fractional anisotropy or mean diffusivity differences were observed between non-amnestic mild cognitive impairment patients and cognitively normal subjects. Alzheimer's disease patients had 66.3% of normalized white matter volume with increased mean diffusivity and 54.3% of the white matter had reduced fractional anisotropy. Reduced structural connectivity was found in the hippocampal connections to temporal, inferior parietal, posterior cingulate and frontal regions only in the Alzheimer's group. The severity of white matter degeneration appears to be higher in advanced clinical stages, supporting the construct that these abnormalities are part of the pathophysiological processes of Alzheimer's disease.",
+     "FAU": [
+          "Rowley, Jared",
+          "Fonov, Vladimir",
+          "Wu, Ona",
+          "Eskildsen, Simon Fristed",
+          "Schoemaker, Dorothee",
+          "Wu, Liyong",
+          "Mohades, Sara",
+          "Shin, Monica",
+          "Sziklas, Viviane",
+          "Cheewakriengkrai, Laksanun",
+          "Shmuel, Amir",
+          "Dagher, Alain",
+          "Gauthier, Serge",
+          "Rosa-Neto, Pedro"
+     ],
+     "AU": [
+          "Rowley J",
+          "Fonov V",
+          "Wu O",
+          "Eskildsen SF",
+          "Schoemaker D",
+          "Wu L",
+          "Mohades S",
+          "Shin M",
+          "Sziklas V",
+          "Cheewakriengkrai L",
+          "Shmuel A",
+          "Dagher A",
+          "Gauthier S",
+          "Rosa-Neto P"
+     ],
+     "AD": "Translational Neuroimaging Laboratory, McGill Centre for Studies in Aging (MCSA), McGill University, Montreal, Quebec, Canada.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "MOP-11-51-31/Canadian Institutes of Health Research/Canada",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130927",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/complications/pathology/*physiopathology",
+          "Amnesia/complications/pathology/*physiopathology",
+          "Anisotropy",
+          "Cognitive Dysfunction/complications/pathology/*physiopathology",
+          "Cohort Studies",
+          "Demography",
+          "Diffusion Tensor Imaging",
+          "Female",
+          "Hippocampus/*pathology/*physiopathology",
+          "Humans",
+          "Leukoencephalopathies/complications/*pathology/physiopathology",
+          "Male",
+          "Memory",
+          "Nerve Net/pathology/*physiopathology"
+     ],
+     "PMC": "PMC3785512",
+     "EDAT": "2013/10/03 06:00",
+     "MHDA": "2014/08/08 06:00",
+     "CRDT": [
+          "2013/10/03 06:00"
+     ],
+     "PHST": [
+          "2013/02/21 00:00 [received]",
+          "2013/08/07 00:00 [accepted]",
+          "2013/10/03 06:00 [entrez]",
+          "2013/10/03 06:00 [pubmed]",
+          "2014/08/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0074776 [doi]",
+          "PONE-D-13-08006 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2013 Sep 27;8(9):e74776. doi: 10.1371/journal.pone.0074776. eCollection 2013.",
+     "term": "hippocampus"
+}

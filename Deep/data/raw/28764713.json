@@ -1,0 +1,75 @@
+{
+     "PMID": "28764713",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20170804",
+     "IS": "1475-925X (Electronic) 1475-925X (Linking)",
+     "VI": "16",
+     "IP": "1",
+     "DP": "2017 Aug 1",
+     "TI": "Non-iterative geometric approach for inverse kinematics of redundant lead-module in a radiosurgical snake-like robot.",
+     "PG": "93",
+     "LID": "10.1186/s12938-017-0383-2 [doi]",
+     "AB": "BACKGROUND: Snake-like robot is an emerging form of serial-link manipulator with the morphologic design of biological snakes. The redundant robot can be used to assist medical experts in accessing internal organs with minimal or no invasion. Several snake-like robotic designs have been proposed for minimal invasive surgery, however, the few that were developed are yet to be fully explored for clinical procedures. This is due to lack of capability for full-fledged spatial navigation. In rare cases where such snake-like designs are spatially flexible, there exists no inverse kinematics (IK) solution with both precise control and fast response. METHODS: In this study, we proposed a non-iterative geometric method for solving IK of lead-module of a snake-like robot designed for therapy or ablation of abdominal tumors. The proposed method is aimed at providing accurate and fast IK solution for given target points in the robot's workspace. n-1 virtual points (VPs) were geometrically computed and set as coordinates of intermediary joints in an n-link module. Suitable joint angles that can place the end-effector at given target points were then computed by vectorizing coordinates of the VPs, in addition to coordinates of the base point, target point, and tip of the first link in its default pose. The proposed method is applied to solve IK of two-link and redundant four-link modules. RESULTS: Both two-link and four-link modules were simulated with Robotics Toolbox in Matlab 8.3 (R2014a). Implementation result shows that the proposed method can solve IK of the spatially flexible robot with minimal error values. Furthermore, analyses of results from both modules show that the geometric method can reach 99.21 and 88.61% of points in their workspaces, respectively, with an error threshold of 1 mm. The proposed method is non-iterative and has a maximum execution time of 0.009 s. CONCLUSIONS: This paper focuses on solving IK problem of a spatially flexible robot which is part of a developmental project for abdominal surgery through minimal invasion or natural orifices. The study showed that the proposed geometric method can resolve IK of the snake-like robot with negligible error offset. Evaluation against well-known methods shows that the proposed method can reach several points in the robot's workspace with high accuracy and shorter computational time, simultaneously.",
+     "FAU": [
+          "Omisore, Olatunji Mumini",
+          "Han, Shipeng",
+          "Ren, Lingxue",
+          "Zhang, Nannan",
+          "Ivanov, Kamen",
+          "Elazab, Ahmed",
+          "Wang, Lei"
+     ],
+     "AU": [
+          "Omisore OM",
+          "Han S",
+          "Ren L",
+          "Zhang N",
+          "Ivanov K",
+          "Elazab A",
+          "Wang L"
+     ],
+     "AD": "Research Centre for Medical Robotics and Minimally Invasive Surgical Devices, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China. Shenzhen College of Advanced Technology, University of Chinese Academy of Sciences, Shenzhen, China. Research Centre for Medical Robotics and Minimally Invasive Surgical Devices, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China. Research Centre for Medical Robotics and Minimally Invasive Surgical Devices, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China. Research Centre for Medical Robotics and Minimally Invasive Surgical Devices, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China. Research Centre for Medical Robotics and Minimally Invasive Surgical Devices, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China. Shenzhen College of Advanced Technology, University of Chinese Academy of Sciences, Shenzhen, China. Department of Computer Science, Misr Higher Institute for Commerce and Computers, Mansoura, Egypt. Research Centre for Medical Robotics and Minimally Invasive Surgical Devices, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China. wang.lei@siat.ac.cn.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170801",
+     "PL": "England",
+     "TA": "Biomed Eng Online",
+     "JT": "Biomedical engineering online",
+     "JID": "101147518",
+     "PMC": "PMC5540246",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Geometric method",
+          "Inverse kinematics",
+          "Joint angles",
+          "Medical robotics",
+          "Modular snake robots",
+          "Serial link manipulator"
+     ],
+     "EDAT": "2017/08/03 06:00",
+     "MHDA": "2017/08/03 06:00",
+     "CRDT": [
+          "2017/08/03 06:00"
+     ],
+     "PHST": [
+          "2017/04/19 00:00 [received]",
+          "2017/07/20 00:00 [accepted]",
+          "2017/08/03 06:00 [entrez]",
+          "2017/08/03 06:00 [pubmed]",
+          "2017/08/03 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1186/s12938-017-0383-2 [doi]",
+          "10.1186/s12938-017-0383-2 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Biomed Eng Online. 2017 Aug 1;16(1):93. doi: 10.1186/s12938-017-0383-2.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,71 @@
+{
+     "PMID": "17933019",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080201",
+     "LR": "20071012",
+     "IS": "0219-6352 (Print) 0219-6352 (Linking)",
+     "VI": "6",
+     "IP": "3",
+     "DP": "2007 Sep",
+     "TI": "Sensory integration and remapping in a model of the medial temporal lobe during maze navigation by a brain-based device.",
+     "PG": "403-31",
+     "AB": "Information from many different sensory modalities converges on the medial temporal lobe in the mammalian brain, an area that is known to be involved in the formation of episodic memories. Neurons in this region, called place cells, display location-correlated activity. Because it is not feasible to record all neurons using current electrophysiological techniques, it is difficult to address the mechanisms by which different sensory modalities are combined to form place field activity. To address this limitation, this paper presents an embodied neural simulation of the medial temporal lobe and other cortical structures, in which all aspects of the model can be examined during a maze navigation task. The neural simulation has realistic neuroanatomical connectivity. It uses a rate code model where a single neuronal unit represents the local field potential of a pool of neurons. The dynamics of these neuronal units are based on measured neurophysiological parameters. The model is embodied in a mobile device with multiple sensory modalities. Neural activity and behavior are analyzed both in the normal condition and after sensory lesions. Place field activity arose in the model through plasticity, and it continued even when one or more sensory modalities were lesioned. An analysis that traced through all neural circuits in the model revealed that many different pathways led to the same place activity, i.e., these pathways were degenerate. After sensory lesions, the pathways leading to place activity had even greater degeneracy, but more of this variance occurred in entorhinal cortex and sensory areas than in hippocampus. This model predicts that when examining neurons causing place activity in rodents, hippocampal neurons are more likely than entorhinal or sensory neurons to maintain involvement in the circuit after sensory deprivation.",
+     "FAU": [
+          "Fleischer, Jason G",
+          "Krichmar, Jeffrey L"
+     ],
+     "AU": [
+          "Fleischer JG",
+          "Krichmar JL"
+     ],
+     "AD": "The Neurosciences Institute, 10640 John Jay Hopkins Dr., San Diego, California, 92121, USA. fleischer@nsi.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "England",
+     "TA": "J Integr Neurosci",
+     "JT": "Journal of integrative neuroscience",
+     "JID": "101156357",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Afferent Pathways/cytology/injuries/physiology",
+          "Analysis of Variance",
+          "Animals",
+          "Behavior, Animal",
+          "Brain/cytology/physiology",
+          "*Brain Mapping",
+          "Computer Simulation",
+          "Head Movements",
+          "Maze Learning/*physiology",
+          "*Models, Neurological",
+          "*Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Orientation/physiology",
+          "Sensation/*physiology",
+          "Space Perception/physiology",
+          "Temporal Lobe/cytology/*physiology"
+     ],
+     "EDAT": "2007/10/13 09:00",
+     "MHDA": "2008/02/02 09:00",
+     "CRDT": [
+          "2007/10/13 09:00"
+     ],
+     "PHST": [
+          "2007/03/25 00:00 [received]",
+          "2007/07/29 00:00 [accepted]",
+          "2007/10/13 09:00 [pubmed]",
+          "2008/02/02 09:00 [medline]",
+          "2007/10/13 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0219635207001568 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Integr Neurosci. 2007 Sep;6(3):403-31.",
+     "term": "place cells"
+}

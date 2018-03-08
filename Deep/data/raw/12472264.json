@@ -1,0 +1,82 @@
+{
+     "PMID": "12472264",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030320",
+     "LR": "20071114",
+     "IS": "0278-0062 (Print) 0278-0062 (Linking)",
+     "VI": "21",
+     "IP": "8",
+     "DP": "2002 Aug",
+     "TI": "Adaptive elastic segmentation of brain MRI via shape-model-guided evolutionary programming.",
+     "PG": "910-23",
+     "AB": "This paper presents a fully automated segmentation method for medical images. The goal is to localize and parameterize a variety of types of structure in these images for subsequent quantitative analysis. We propose a new hybrid strategy that combines a general elastic template matching approach and an evolutionary heuristic. The evolutionary algorithm uses prior statistical information about the shape of the target structure to control the behavior of a number of deformable templates. Each template, modeled in the form of a B-spline, is warped in a potential field which is itself dynamically adapted. Such a hybrid scheme proves to be promising: by maintaining a population of templates, we cover a large domain of the solution space under the global guidance of the evolutionary heuristic, and thoroughly explore interesting areas. We address key issues of automated image segmentation systems. The potential fields are initially designed based on the spatial features of the edges in the input image, and are subjected to spatially adaptive diffusion to guarantee the deformation of the template. This also improves its global consistency and convergence speed. The deformation algorithm can modify the internal structure of the templates to allow a better match. We investigate in detail the preprocessing phase that the images undergo before they can be used more effectively in the iterative elastic matching procedure: a texture classifier, trained via linear discriminant analysis of a learning set, is used to enhance the contrast of the target structure with respect to surrounding tissues. We show how these techniques interact within a statistically driven evolutionary scheme to achieve a better tradeoff between template flexibility and sensitivity to noise and outliers. We focus on understanding the features of template matching that are most beneficial in terms of the achieved match. Examples from simulated and real image data are discussed, with considerations of algorithmic efficiency.",
+     "FAU": [
+          "Pitiot, Alain",
+          "Toga, Arthur W",
+          "Thompson, Paul M"
+     ],
+     "AU": [
+          "Pitiot A",
+          "Toga AW",
+          "Thompson PM"
+     ],
+     "AD": "Reed Neurological Research Center, Laboratory of Neuro Imaging, Department of Neurology, UCLA School of Medicine, Los Angeles, CA 90095-1769, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "LM/MH05639/LM/NLM NIH HHS/United States",
+          "MH65166/MH/NIMH NIH HHS/United States",
+          "P20 MH/DA52176/MH/NIMH NIH HHS/United States",
+          "P41 RR05956/RR/NCRR NIH HHS/United States",
+          "P41 RR13642/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Med Imaging",
+     "JT": "IEEE transactions on medical imaging",
+     "JID": "8310780",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Brain/*anatomy & histology",
+          "Computer Simulation",
+          "Elasticity",
+          "Feedback",
+          "Hippocampus/anatomy & histology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/methods",
+          "Magnetic Resonance Imaging/*methods",
+          "*Models, Biological",
+          "Motion",
+          "Pattern Recognition, Automated",
+          "Quality Control",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Stochastic Processes",
+          "Stress, Mechanical"
+     ],
+     "EDAT": "2002/12/11 04:00",
+     "MHDA": "2003/03/21 04:00",
+     "CRDT": [
+          "2002/12/11 04:00"
+     ],
+     "PHST": [
+          "2002/12/11 04:00 [pubmed]",
+          "2003/03/21 04:00 [medline]",
+          "2002/12/11 04:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TMI.2002.803124 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Med Imaging. 2002 Aug;21(8):910-23. doi: 10.1109/TMI.2002.803124.",
+     "term": "hippocampus"
+}

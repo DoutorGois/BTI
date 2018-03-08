@@ -1,0 +1,75 @@
+{
+     "PMID": "10400971",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19990810",
+     "LR": "20171213",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "82",
+     "IP": "1",
+     "DP": "1999 Jul",
+     "TI": "Geometry of dendritic spines affects calcium dynamics in hippocampal neurons: theory and experiments.",
+     "PG": "450-62",
+     "AB": "The role of dendritic spine morphology in the regulation of the spatiotemporal distribution of free intracellular calcium concentration ([Ca2+]i) was examined in a unique axial-symmetrical model that focuses on spine-dendrite interactions, and the simulations of the model were compared with the behavior of real dendritic spines in cultured hippocampal neurons. A set of nonlinear differential equations describes the behavior of a spherical dendritic spine head, linked to a dendrite via a cylindrical spine neck. Mechanisms for handling of calcium (including internal stores, buffers, and efflux pathways) are placed in both the dendrites and spines. In response to a calcium surge, the magnitude and time course of the response in both the spine and the parent dendrite vary as a function of the length of the spine neck such that a short neck increases the magnitude of the response in the dendrite and speeds up the recovery in the spine head. The generality of the model, originally constructed for a case of release of calcium from stores, was tested in simulations of fast calcium influx through membrane channels and verified the impact of spine neck on calcium dynamics. Spatiotemporal distributions of [Ca2+]i, measured in individual dendritic spines of cultured hippocampal neurons injected with Calcium Green-1, were monitored with a confocal laser scanning microscope. Line scans of spines and dendrites at a <1-ms time resolution reveal simultaneous transient rises in [Ca2+]i in spines and their parent dendrites after application of caffeine or during spontaneous calcium transients associated with synaptic or action potential discharges. The magnitude of responses in the individual compartments, spine-dendrite disparity, and the temporal distribution of [Ca2+]i were different for spines with short and long necks, with the latter being more independent of the dendrite, in agreement with prediction of the model.",
+     "FAU": [
+          "Volfovsky, N",
+          "Parnas, H",
+          "Segal, M",
+          "Korkotian, E"
+     ],
+     "AU": [
+          "Volfovsky N",
+          "Parnas H",
+          "Segal M",
+          "Korkotian E"
+     ],
+     "AD": "Department of Computer Science, Israel.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "3G6A5W338E (Caffeine)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Caffeine/pharmacology",
+          "Calcium/*metabolism",
+          "Cells, Cultured",
+          "Dendrites/drug effects/*physiology",
+          "Embryo, Mammalian",
+          "Embryo, Nonmammalian",
+          "Hippocampus/*physiology",
+          "Homeostasis",
+          "Kinetics",
+          "*Models, Neurological",
+          "Neurons/drug effects/*physiology",
+          "Reaction Time",
+          "Time Factors"
+     ],
+     "EDAT": "1999/07/13 00:00",
+     "MHDA": "1999/07/13 00:01",
+     "CRDT": [
+          "1999/07/13 00:00"
+     ],
+     "PHST": [
+          "1999/07/13 00:00 [pubmed]",
+          "1999/07/13 00:01 [medline]",
+          "1999/07/13 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1152/jn.1999.82.1.450 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 1999 Jul;82(1):450-62. doi: 10.1152/jn.1999.82.1.450.",
+     "term": "hippocampus"
+}

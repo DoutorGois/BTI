@@ -1,0 +1,59 @@
+{
+     "PMID": "3621923",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19871022",
+     "LR": "20141120",
+     "IS": "0010-4809 (Print) 0010-4809 (Linking)",
+     "VI": "20",
+     "IP": "4",
+     "DP": "1987 Aug",
+     "TI": "A nonlinear modeling procedure applied to hippocampal convulsant activity.",
+     "PG": "396-404",
+     "AB": "A strategy is described for fitting complex nonlinear models to experimental data. The procedure is demonstrated using an amplitude and frequency damped sine wave. The nature of the time dependency of the amplitude and frequency components was determined by fitting preliminary models to extreme data values and half-wave frequency estimates, respectively. In both cases, an exponential damping model fit the data. Parameter estimates from these preliminary models were used as starting values for a simultaneous nonlinear fit using all the data. Data used in this analysis were obtained from the picrotoxin-induced rhythmic discharges recorded from CA1 cells in vitro hippocampal slice. This analysis allows the response to be described by six parameters: a linear trend with slope and intercept, and a sinusoidal component with amplitude, amplitude decay, frequency, and frequency decay. This damped sine-wave model may be useful in quantifying seizure activity and the actions of convulsant and anticonvulsant drugs.",
+     "FAU": [
+          "Jennings, L W",
+          "Doller, H J"
+     ],
+     "AU": [
+          "Jennings LW",
+          "Doller HJ"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Comput Biomed Res",
+     "JT": "Computers and biomedical research, an international journal",
+     "JID": "0100331",
+     "RN": [
+          "0 (Convulsants)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Convulsants/*pharmacology",
+          "Hippocampus/drug effects/*physiology",
+          "In Vitro Techniques",
+          "*Mathematical Computing",
+          "*Models, Neurological",
+          "Rats",
+          "Rats, Inbred Strains"
+     ],
+     "EDAT": "1987/08/01 00:00",
+     "MHDA": "1987/08/01 00:01",
+     "CRDT": [
+          "1987/08/01 00:00"
+     ],
+     "PHST": [
+          "1987/08/01 00:00 [pubmed]",
+          "1987/08/01 00:01 [medline]",
+          "1987/08/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Biomed Res. 1987 Aug;20(4):396-404.",
+     "term": "hippocampus"
+}

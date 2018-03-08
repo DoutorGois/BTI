@@ -1,0 +1,63 @@
+{
+     "PMID": "12440584",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20030121",
+     "LR": "20061115",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "12",
+     "IP": "5",
+     "DP": "2002",
+     "TI": "Hierarchical model of the population dynamics of hippocampal dentate granule cells.",
+     "PG": "698-712",
+     "AB": "A hierarchical modeling approach is used as the basis for a mathematical representation of the population activity of hippocampal dentate granule cells. Using neural field equations, the variation in time and space of dentate granule cell activity is derived from the summed synaptic potential and summed action potential responses of a population of granule cells evoked by monosynaptic excitatory input from entorhinal cortical afferents. In this formulation of the problem, we have considered a two-level hierarchy: the synapses of entorhinal cortical axons define the first level of organization, and dentate granule cells, which include these synapses, define the second, higher level of organization. The model is specified by two state field variables, for membrane potential and for synaptic efficacy, respectively, with both evolving according to different time scales. The two state field variables introduce new parameters, physiological and anatomical, which characterize the dentate from the point of view of neuronal and synaptic populations: (1) a set of geometrical constraints corresponding to the morphological properties of granule cells and anatomical characteristics of entorhinal-dentate connections; and (2) a set of neuronal parameters corresponding to physiological mechanisms. Assuming no interaction between granule cells, i.e., neither ephaptic nor synaptic coupling, the model is shown to be mathematically tractable and allows solution of the field equations leading to the determination of activity. This treatment leads to the definition of two state variables, volume of stimulated synapses and firing time, which describe observed activity. Numerical simulations are used to investigate the populational characterization of the dentate by individual parameters: (1) the relationship between the conditions of stimulation of active perforant path fibers, e.g., stimulating intensity, and activity in the granule cell layer; and (2) the influence of geometry on the generation of activity, i.e., the influence of neuron density and synaptic density-connectivity. As an example application of the model, the granule cell population spike is reconstructed and compared with experimental data.",
+     "FAU": [
+          "Chauvet, G A",
+          "Berger, T W"
+     ],
+     "AU": [
+          "Chauvet GA",
+          "Berger TW"
+     ],
+     "AD": "Centre de Recherches en Physiologie Integrative, Universite Paris V, Hjpital Tarnier-Cochin, Paris, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Dentate Gyrus/anatomy & histology/*physiology",
+          "Evoked Potentials/physiology",
+          "Hippocampus/anatomy & histology/*physiology",
+          "Models, Neurological",
+          "Neurons/cytology/physiology",
+          "Synapses/physiology"
+     ],
+     "RF": "33",
+     "EDAT": "2002/11/21 04:00",
+     "MHDA": "2003/01/22 04:00",
+     "CRDT": [
+          "2002/11/21 04:00"
+     ],
+     "PHST": [
+          "2002/11/21 04:00 [pubmed]",
+          "2003/01/22 04:00 [medline]",
+          "2002/11/21 04:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.10106 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2002;12(5):698-712. doi: 10.1002/hipo.10106.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,77 @@
+{
+     "PMID": "18509078",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081105",
+     "LR": "20161019",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "100",
+     "IP": "2",
+     "DP": "2008 Aug",
+     "TI": "A biophysical model of synaptic plasticity and metaplasticity can account for the dynamics of the backward shift of hippocampal place fields.",
+     "PG": "983-92",
+     "LID": "10.1152/jn.01256.2007 [doi]",
+     "AB": "Hippocampal place cells in the rat undergo experience-dependent changes when the rat runs stereotyped routes. One such change, the backward shift of the place field center of mass, has been linked by previous modeling efforts to spike-timing-dependent plasticity (STDP). However, these models did not account for the termination of the place field shift and they were based on an abstract implementation of STDP that ignores many of the features found in cortical plasticity. Here, instead of the abstract STDP model, we use a calcium-dependent plasticity (CaDP) learning rule that can account for many of the observed properties of cortical plasticity. We use the CaDP learning rule in combination with a model of metaplasticity to simulate place field dynamics. Without any major changes to the parameters of the original model, the present simulations account both for the initial rapid place field shift and for the subsequent slowing down of this shift. These results suggest that the CaDP model captures the essence of a general cortical mechanism of synaptic plasticity, which may underlie numerous forms of synaptic plasticity observed both in vivo and in vitro.",
+     "FAU": [
+          "Yu, Xintian",
+          "Shouval, Harel Z",
+          "Knierim, James J"
+     ],
+     "AU": [
+          "Yu X",
+          "Shouval HZ",
+          "Knierim JJ"
+     ],
+     "AD": "Department of Neurobiology and Anatomy, University of Texas Medical School at Houston, P.O. Box 20708, Houston, TX 77225, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P01 NS038310/NS/NINDS NIH HHS/United States",
+          "P01 NS-038310/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20080528",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Calcium/metabolism",
+          "Computer Simulation",
+          "Feedback",
+          "Hippocampus/*cytology",
+          "*Models, Neurological",
+          "Neuronal Plasticity/*physiology",
+          "Neurons/*physiology",
+          "*Nonlinear Dynamics",
+          "Synapses/*physiology"
+     ],
+     "PMC": "PMC2525713",
+     "EDAT": "2008/05/30 09:00",
+     "MHDA": "2008/11/06 09:00",
+     "CRDT": [
+          "2008/05/30 09:00"
+     ],
+     "PHST": [
+          "2008/05/30 09:00 [pubmed]",
+          "2008/11/06 09:00 [medline]",
+          "2008/05/30 09:00 [entrez]"
+     ],
+     "AID": [
+          "01256.2007 [pii]",
+          "10.1152/jn.01256.2007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2008 Aug;100(2):983-92. doi: 10.1152/jn.01256.2007. Epub 2008 May 28.",
+     "term": "place cells"
+}

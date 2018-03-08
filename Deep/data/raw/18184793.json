@@ -1,0 +1,98 @@
+{
+     "PMID": "18184793",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080208",
+     "LR": "20141120",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "28",
+     "IP": "2",
+     "DP": "2008 Jan 9",
+     "TI": "A maximum entropy model applied to spatial and temporal correlations from cortical networks in vitro.",
+     "PG": "505-18",
+     "LID": "10.1523/JNEUROSCI.3359-07.2008 [doi]",
+     "AB": "Multineuron firing patterns are often observed, yet are predicted to be rare by models that assume independent firing. To explain these correlated network states, two groups recently applied a second-order maximum entropy model that used only observed firing rates and pairwise interactions as parameters (Schneidman et al., 2006; Shlens et al., 2006). Interestingly, with these minimal assumptions they predicted 90-99% of network correlations. If generally applicable, this approach could vastly simplify analyses of complex networks. However, this initial work was done largely on retinal tissue, and its applicability to cortical circuits is mostly unknown. This work also did not address the temporal evolution of correlated states. To investigate these issues, we applied the model to multielectrode data containing spontaneous spikes or local field potentials from cortical slices and cultures. The model worked slightly less well in cortex than in retina, accounting for 88 +/- 7% (mean +/- SD) of network correlations. In addition, in 8 of 13 preparations, the observed sequences of correlated states were significantly longer than predicted by concatenating states from the model. This suggested that temporal dependencies are a common feature of cortical network activity, and should be considered in future models. We found a significant relationship between strong pairwise temporal correlations and observed sequence length, suggesting that pairwise temporal correlations may allow the model to be extended into the temporal domain. We conclude that although a second-order maximum entropy model successfully predicts correlated states in cortical networks, it should be extended to account for temporal correlations observed between states.",
+     "FAU": [
+          "Tang, Aonan",
+          "Jackson, David",
+          "Hobbs, Jon",
+          "Chen, Wei",
+          "Smith, Jodi L",
+          "Patel, Hema",
+          "Prieto, Anita",
+          "Petrusca, Dumitru",
+          "Grivich, Matthew I",
+          "Sher, Alexander",
+          "Hottowy, Pawel",
+          "Dabrowski, Wladyslaw",
+          "Litke, Alan M",
+          "Beggs, John M"
+     ],
+     "AU": [
+          "Tang A",
+          "Jackson D",
+          "Hobbs J",
+          "Chen W",
+          "Smith JL",
+          "Patel H",
+          "Prieto A",
+          "Petrusca D",
+          "Grivich MI",
+          "Sher A",
+          "Hottowy P",
+          "Dabrowski W",
+          "Litke AM",
+          "Beggs JM"
+     ],
+     "AD": "Department of Physics, Indiana University, Bloomington, Indiana 47405, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Analysis of Variance",
+          "Animals",
+          "Cells, Cultured",
+          "Cerebral Cortex/*cytology",
+          "Computer Simulation",
+          "Embryo, Mammalian",
+          "*Entropy",
+          "Hippocampus/cytology",
+          "Humans",
+          "In Vitro Techniques",
+          "Membrane Potentials/physiology/radiation effects",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Patch-Clamp Techniques",
+          "Rats",
+          "Rats, Sprague-Dawley"
+     ],
+     "EDAT": "2008/01/11 09:00",
+     "MHDA": "2008/02/09 09:00",
+     "CRDT": [
+          "2008/01/11 09:00"
+     ],
+     "PHST": [
+          "2008/01/11 09:00 [pubmed]",
+          "2008/02/09 09:00 [medline]",
+          "2008/01/11 09:00 [entrez]"
+     ],
+     "AID": [
+          "28/2/505 [pii]",
+          "10.1523/JNEUROSCI.3359-07.2008 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2008 Jan 9;28(2):505-18. doi: 10.1523/JNEUROSCI.3359-07.2008.",
+     "term": "hippocampus"
+}

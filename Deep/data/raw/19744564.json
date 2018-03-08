@@ -1,0 +1,93 @@
+{
+     "PMID": "19744564",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100212",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "49",
+     "IP": "2",
+     "DP": "2010 Jan 15",
+     "TI": "FLAIR signal and texture analysis for lateralizing mesial temporal lobe epilepsy.",
+     "PG": "1559-71",
+     "LID": "10.1016/j.neuroimage.2009.08.064 [doi]",
+     "AB": "Standard magnetic resonance (MR) imaging analysis in several cases of mesial temporal lobe epilepsy (mTLE) either fail to show an identifiable hippocampal asymmetry or provide only subtle distinguishing features that remain inconclusive. A retrospective analysis of hippocampal fluid-attenuated inversion recovery (FLAIR) MR images was performed in cases of mTLE addressing, particularly, the mean and standard deviation of the signal and its texture. Preoperative T1-weighted and FLAIR MR images of 25 nonepileptic control subjects and 36 mTLE patients with Engel class Ia outcomes were analyzed. Patients requiring extraoperative electrocorticography (ECoG) with intracranial electrodes and thus judged to be more challenging were studied as a separate cohort. Hippocampi were manually segmented on T1-weighted images and their outlines were transposed onto FLAIR studies using an affine registration. Image intensity features including mean and standard deviation and wavelet-based texture features were determined for the hippocampal body. The right/left ratios of these features were used with a linear classifier to establish laterality. Whole hippocampal within-subject volume ratios were assessed for comparison. Mean and standard deviation of FLAIR signal intensities lateralized the site of epileptogenicity in 98% of all cases, whereas analysis of wavelet texture features and hippocampal volumetry each yielded correct lateralization in 94% and 83% of cases, respectively. Of patients requiring more intensive study with extraoperative ECoG, 17/18 were lateralized effectively by the combination of mean and standard deviation ratios despite a ratio of mean signal intensity near one in some. The analysis of mean and standard deviation of FLAIR signal intensities provides a highly sensitive method for lateralizing the epileptic focus in mTLE over that of volumetry or texture analysis of the hippocampal body.",
+     "FAU": [
+          "Jafari-Khouzani, Kourosh",
+          "Elisevich, Kost",
+          "Patel, Suresh",
+          "Smith, Brien",
+          "Soltanian-Zadeh, Hamid"
+     ],
+     "AU": [
+          "Jafari-Khouzani K",
+          "Elisevich K",
+          "Patel S",
+          "Smith B",
+          "Soltanian-Zadeh H"
+     ],
+     "AD": "Department of Diagnostic Radiology, Henry Ford Hospital, Detroit, MI 48202, USA. kjafari@rad.hfh.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB002450/EB/NIBIB NIH HHS/United States",
+          "R01 EB002450-04/EB/NIBIB NIH HHS/United States",
+          "R01-EB002450/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20090908",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Cohort Studies",
+          "Electroencephalography",
+          "Epilepsy, Temporal Lobe/*pathology/*physiopathology",
+          "Female",
+          "*Functional Laterality",
+          "Hippocampus/*pathology/*physiopathology",
+          "Humans",
+          "Linear Models",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Organ Size",
+          "Retrospective Studies",
+          "Sclerosis/pathology/physiopathology",
+          "Signal Processing, Computer-Assisted",
+          "Young Adult"
+     ],
+     "PMC": "PMC2836206",
+     "MID": [
+          "NIHMS144811"
+     ],
+     "EDAT": "2009/09/12 06:00",
+     "MHDA": "2010/02/13 06:00",
+     "CRDT": [
+          "2009/09/12 06:00"
+     ],
+     "PHST": [
+          "2009/03/04 00:00 [received]",
+          "2009/08/25 00:00 [revised]",
+          "2009/08/31 00:00 [accepted]",
+          "2009/09/12 06:00 [entrez]",
+          "2009/09/12 06:00 [pubmed]",
+          "2010/02/13 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(09)00975-6 [pii]",
+          "10.1016/j.neuroimage.2009.08.064 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2010 Jan 15;49(2):1559-71. doi: 10.1016/j.neuroimage.2009.08.064. Epub 2009 Sep 8.",
+     "term": "hippocampus"
+}

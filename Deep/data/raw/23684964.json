@@ -1,0 +1,98 @@
+{
+     "PMID": "23684964",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140221",
+     "LR": "20130729",
+     "IS": "1873-5894 (Electronic) 0730-725X (Linking)",
+     "VI": "31",
+     "IP": "7",
+     "DP": "2013 Sep",
+     "TI": "Fully-automated approach to hippocampus segmentation using a graph-cuts algorithm combined with atlas-based segmentation and morphological opening.",
+     "PG": "1190-6",
+     "LID": "10.1016/j.mri.2013.04.008 [doi] S0730-725X(13)00151-3 [pii]",
+     "AB": "The hippocampus has been known to be an important structure as a biomarker for Alzheimer's disease (AD) and other neurological and psychiatric diseases. However, it requires accurate, robust and reproducible delineation of hippocampal structures. In this study, an automated hippocampal segmentation method based on a graph-cuts algorithm combined with atlas-based segmentation and morphological opening was proposed. First of all, the atlas-based segmentation was applied to define initial hippocampal region for a priori information on graph-cuts. The definition of initial seeds was further elaborated by incorporating estimation of partial volume probabilities at each voxel. Finally, morphological opening was applied to reduce false positive of the result processed by graph-cuts. In the experiments with twenty-seven healthy normal subjects, the proposed method showed more reliable results (similarity index=0.81+/-0.03) than the conventional atlas-based segmentation method (0.72+/-0.04). Also as for segmentation accuracy which is measured in terms of the ratios of false positive and false negative, the proposed method (precision=0.76+/-0.04, recall=0.86+/-0.05) produced lower ratios than the conventional methods (0.73+/-0.05, 0.72+/-0.06) demonstrating its plausibility for accurate, robust and reliable segmentation of hippocampus.",
+     "CI": [
+          "Copyright (c) 2013 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Kwak, Kichang",
+          "Yoon, Uicheul",
+          "Lee, Dong-Kyun",
+          "Kim, Geon Ha",
+          "Seo, Sang Won",
+          "Na, Duk L",
+          "Shim, Hack-Joon",
+          "Lee, Jong-Min"
+     ],
+     "AU": [
+          "Kwak K",
+          "Yoon U",
+          "Lee DK",
+          "Kim GH",
+          "Seo SW",
+          "Na DL",
+          "Shim HJ",
+          "Lee JM"
+     ],
+     "AD": "Department of Biomedical Engineering, Hanyang University, Seoul, South Korea.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130516",
+     "PL": "Netherlands",
+     "TA": "Magn Reson Imaging",
+     "JT": "Magnetic resonance imaging",
+     "JID": "8214883",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Automation",
+          "Brain Mapping/*methods",
+          "False Positive Reactions",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/methods",
+          "Imaging, Three-Dimensional/methods",
+          "Middle Aged",
+          "Pattern Recognition, Automated/methods",
+          "Probability",
+          "Reproducibility of Results"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Atlas-based segmentation",
+          "Graph cuts algorithm",
+          "Magnetic Resonance Imaging",
+          "Morphological operation",
+          "Partial volume estimation"
+     ],
+     "EDAT": "2013/05/21 06:00",
+     "MHDA": "2014/02/22 06:00",
+     "CRDT": [
+          "2013/05/21 06:00"
+     ],
+     "PHST": [
+          "2012/07/06 00:00 [received]",
+          "2013/02/12 00:00 [revised]",
+          "2013/04/13 00:00 [accepted]",
+          "2013/05/21 06:00 [entrez]",
+          "2013/05/21 06:00 [pubmed]",
+          "2014/02/22 06:00 [medline]"
+     ],
+     "AID": [
+          "S0730-725X(13)00151-3 [pii]",
+          "10.1016/j.mri.2013.04.008 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Magn Reson Imaging. 2013 Sep;31(7):1190-6. doi: 10.1016/j.mri.2013.04.008. Epub 2013 May 16.",
+     "term": "hippocampus"
+}

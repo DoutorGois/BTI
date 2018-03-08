@@ -1,0 +1,81 @@
+{
+     "PMID": "22451202",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120516",
+     "LR": "20131121",
+     "IS": "1531-8249 (Electronic) 0364-5134 (Linking)",
+     "VI": "71",
+     "IP": "3",
+     "DP": "2012 Mar",
+     "TI": "Distinct hyperexcitability mechanisms underlie fast ripples and epileptic spikes.",
+     "PG": "342-52",
+     "LID": "10.1002/ana.22610 [doi]",
+     "AB": "OBJECTIVE: In partial epilepsies, interictal epileptic spikes (IESs) and fast ripples (FRs) represent clinically relevant biomarkers characteristic of epileptogenic networks. However, their specific significance and the pathophysiological changes leading to either FRs or IESs remain elusive. The objective of this study was to analyze the conditions in which hyperexcitable networks can generate either IESs or FRs and to reveal shared or distinct mechanisms that underlie both types of events. METHODS: This study is the first to comparatively analyze mechanisms that induce either IESs or FRs using an approach that combines computational modeling and experimental data (in vivo and in vitro). A detailed CA1 hippocampal network model is introduced. A parameter sensitivity analysis was conducted to determine which model parameters (cell related and network related) allow the most accurate simulation of FRs and IESs. RESULTS: Our model indicates that although FRs and IESs share certain common mechanisms (shifted gamma-aminobutyric acid [GABA]A reversal potential, altered synaptic transmission), there are also critical differences in terms of number of pyramidal cells involved (small vs large), spatial distribution of hyperexcitable pyramidal cells (clustered vs uniform), and firing patterns (weakly vs highly synchronized). In vitro experiments verified that subtle changes in GABAergic and glutamatergic transmission favor either FRs or IESs, as predicted by the model. INTERPRETATION: This study provides insights into the interpretation of 2 interictal markers observed in intracerebral electroencephalographic data. Depending on the degree and spatiotemporal features of hyperexcitability, not only IESs or FRs are generated but also transitions between both types of events.",
+     "CI": [
+          "Copyright (c) 2012 American Neurological Association."
+     ],
+     "FAU": [
+          "Demont-Guignard, Sophie",
+          "Benquet, Pascal",
+          "Gerber, Urs",
+          "Biraben, Arnaud",
+          "Martin, Benoit",
+          "Wendling, Fabrice"
+     ],
+     "AU": [
+          "Demont-Guignard S",
+          "Benquet P",
+          "Gerber U",
+          "Biraben A",
+          "Martin B",
+          "Wendling F"
+     ],
+     "AD": "INSERM, U642, University of Rennes 1, LTSI, and Neurology Department, University Hospital, Rennes, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Ann Neurol",
+     "JT": "Annals of neurology",
+     "JID": "7707449",
+     "RN": [
+          "SIV03811UC (Kainic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/drug effects/*physiology",
+          "Animals",
+          "Epilepsy/chemically induced/*physiopathology",
+          "Hippocampus/cytology/drug effects/*physiology",
+          "Kainic Acid/*toxicity",
+          "Mice",
+          "*Neural Networks (Computer)",
+          "Neurons/drug effects/physiology",
+          "Organ Culture Techniques",
+          "Rats",
+          "Rats, Wistar",
+          "Time Factors"
+     ],
+     "EDAT": "2012/03/28 06:00",
+     "MHDA": "2012/05/17 06:00",
+     "CRDT": [
+          "2012/03/28 06:00"
+     ],
+     "PHST": [
+          "2012/03/28 06:00 [entrez]",
+          "2012/03/28 06:00 [pubmed]",
+          "2012/05/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/ana.22610 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ann Neurol. 2012 Mar;71(3):342-52. doi: 10.1002/ana.22610.",
+     "term": "hippocampus"
+}

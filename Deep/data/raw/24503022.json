@@ -1,0 +1,87 @@
+{
+     "PMID": "24503022",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141125",
+     "LR": "20140317",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "226",
+     "DP": "2014 Apr 15",
+     "TI": "A new mathematical function to evaluate neuronal morphology using the Sholl analysis.",
+     "PG": "103-9",
+     "LID": "10.1016/j.jneumeth.2014.01.016 [doi] S0165-0270(14)00027-2 [pii]",
+     "AB": "BACKGROUND: The Sholl analysis is a morphometric method that evaluates the neurite architecture of neurons by drawing a series of concentric circles around the cell soma. Based on the Sholl analysis, one mathematical method that gives a measure of the neurite arborization is the Schoenen ramification index (SRI): the ratio between the maximum number of the intersections of the neurites with the circles and the number of the primary neurites. A different method is the quantification of the number of bifurcations of the neurites (BN). NEW METHOD: In this study we proposed a new mathematical function to quantify neurite morphology that we named the branching index (BI). The BI compares the difference in the number of intersections made in pairs of circles relative to the distance from the neuronal soma. To facilitate the morphometric analysis, we developed informatics software named CellTarget that obtains the quantitative variables of the Sholl analysis and neurite branching. RESULTS: Using that bioinformatics application we compared the BI, the SRI and BN values in neuronal models and in neuronal hippocampal cultures treated or untreated with the androgen dihydrotestosterone, which is known to induce neurite branching. COMPARISON WITH EXISTING METHODS: Although the SRI and the BN provided quantitative information of the degree of neurite morphology, it produced similar values in neurons that ramify very differently. By contrast, these differences were discriminated using the BI. CONCLUSIONS: The BI is a useful parameter to discriminate among different neuronal morphologies.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Garcia-Segura, Luis Miguel",
+          "Perez-Marquez, Julio"
+     ],
+     "AU": [
+          "Garcia-Segura LM",
+          "Perez-Marquez J"
+     ],
+     "AD": "Instituto Cajal, CSIC, 28002 Madrid, Spain. Electronic address: lmgs@cajal.csic.es. Departamento de Biomedicina y Biotecnologia, Universidad Alcala de Henares, 28871 Madrid, Spain. Electronic address: julio.pmarquez@uah.es.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140203",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Cells, Cultured",
+          "Computational Biology/methods",
+          "Hippocampus/cytology",
+          "Image Processing, Computer-Assisted/*methods",
+          "Information Dissemination",
+          "Internet",
+          "Mice",
+          "Microscopy, Fluorescence/methods",
+          "Models, Neurological",
+          "Neurites",
+          "Neurons/*cytology",
+          "*Software",
+          "Time Factors"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Androgens",
+          "Bioinformatics",
+          "Hippocampus",
+          "Neurite branching",
+          "Sholl analysis"
+     ],
+     "EDAT": "2014/02/08 06:00",
+     "MHDA": "2014/12/15 06:00",
+     "CRDT": [
+          "2014/02/08 06:00"
+     ],
+     "PHST": [
+          "2013/10/02 00:00 [received]",
+          "2014/01/15 00:00 [revised]",
+          "2014/01/16 00:00 [accepted]",
+          "2014/02/08 06:00 [entrez]",
+          "2014/02/08 06:00 [pubmed]",
+          "2014/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(14)00027-2 [pii]",
+          "10.1016/j.jneumeth.2014.01.016 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2014 Apr 15;226:103-9. doi: 10.1016/j.jneumeth.2014.01.016. Epub 2014 Feb 3.",
+     "term": "hippocampus"
+}

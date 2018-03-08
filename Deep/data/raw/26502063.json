@@ -1,0 +1,70 @@
+{
+     "PMID": "26502063",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160331",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "11",
+     "IP": "10",
+     "DP": "2015 Oct",
+     "TI": "Sensorimotor Model of Obstacle Avoidance in Echolocating Bats.",
+     "PG": "e1004484",
+     "LID": "10.1371/journal.pcbi.1004484 [doi]",
+     "AB": "Bat echolocation is an ability consisting of many subtasks such as navigation, prey detection and object recognition. Understanding the echolocation capabilities of bats comes down to isolating the minimal set of acoustic cues needed to complete each task. For some tasks, the minimal cues have already been identified. However, while a number of possible cues have been suggested, little is known about the minimal cues supporting obstacle avoidance in echolocating bats. In this paper, we propose that the Interaural Intensity Difference (IID) and travel time of the first millisecond of the echo train are sufficient cues for obstacle avoidance. We describe a simple control algorithm based on the use of these cues in combination with alternating ear positions modeled after the constant frequency bat Rhinolophus rouxii. Using spatial simulations (2D and 3D), we show that simple phonotaxis can steer a bat clear from obstacles without performing a reconstruction of the 3D layout of the scene. As such, this paper presents the first computationally explicit explanation for obstacle avoidance validated in complex simulated environments. Based on additional simulations modelling the FM bat Phyllostomus discolor, we conjecture that the proposed cues can be exploited by constant frequency (CF) bats and frequency modulated (FM) bats alike. We hypothesize that using a low level yet robust cue for obstacle avoidance allows bats to comply with the hard real-time constraints of this basic behaviour.",
+     "FAU": [
+          "Vanderelst, Dieter",
+          "Holderied, Marc W",
+          "Peremans, Herbert"
+     ],
+     "AU": [
+          "Vanderelst D",
+          "Holderied MW",
+          "Peremans H"
+     ],
+     "AD": "Active Perception Lab, University of Antwerp, Antwerp, Belgium; School of Biological Sciences, University of Bristol, Bristol, United Kingdom. School of Biological Sciences, University of Bristol, Bristol, United Kingdom. Active Perception Lab, University of Antwerp, Antwerp, Belgium.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20151026",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Chiroptera/*physiology",
+          "Computer Simulation",
+          "Cues",
+          "Echolocation/*physiology",
+          "Feedback, Sensory/*physiology",
+          "*Models, Neurological",
+          "Space Perception/*physiology",
+          "Spatial Navigation/*physiology"
+     ],
+     "PMC": "PMC4621039",
+     "EDAT": "2015/10/27 06:00",
+     "MHDA": "2016/04/01 06:00",
+     "CRDT": [
+          "2015/10/27 06:00"
+     ],
+     "PHST": [
+          "2014/11/21 00:00 [received]",
+          "2015/07/31 00:00 [accepted]",
+          "2015/10/27 06:00 [entrez]",
+          "2015/10/27 06:00 [pubmed]",
+          "2016/04/01 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1004484 [doi]",
+          "PCOMPBIOL-D-14-02097 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2015 Oct 26;11(10):e1004484. doi: 10.1371/journal.pcbi.1004484. eCollection 2015 Oct.",
+     "term": "spatial navigation"
+}

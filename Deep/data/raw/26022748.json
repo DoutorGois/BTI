@@ -1,0 +1,64 @@
+{
+     "PMID": "26022748",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160217",
+     "LR": "20171107",
+     "IS": "1559-0089 (Electronic) 1539-2791 (Linking)",
+     "VI": "13",
+     "IP": "2",
+     "DP": "2015 Apr",
+     "TI": "Automated methods for hippocampus segmentation: the evolution and a review of the state of the art.",
+     "PG": "133-50",
+     "LID": "10.1007/s12021-014-9243-4 [doi]",
+     "AB": "The segmentation of the hippocampus in Magnetic Resonance Imaging (MRI) has been an important procedure to diagnose and monitor several clinical situations. The precise delineation of the borders of this brain structure makes it possible to obtain a measure of the volume and estimate its shape, which can be used to diagnose some diseases, such as Alzheimer's disease, schizophrenia and epilepsy. As the manual segmentation procedure in three-dimensional images is highly time consuming and the reproducibility is low, automated methods introduce substantial gains. On the other hand, the implementation of those methods is a challenge because of the low contrast of this structure in relation to the neighboring areas of the brain. Within this context, this research presents a review of the evolution of automatized methods for the segmentation of the hippocampus in MRI. Many proposed methods for segmentation of the hippocampus have been published in leading journals in the medical image processing area. This paper describes these methods presenting the techniques used and quantitatively comparing the methods based on Dice Similarity Coefficient. Finally, we present an evaluation of those methods considering the degree of user intervention, computational cost, segmentation accuracy and feasibility of application in a clinical routine.",
+     "FAU": [
+          "Dill, Vanderson",
+          "Franco, Alexandre Rosa",
+          "Pinho, Marcio Sarroglia"
+     ],
+     "AU": [
+          "Dill V",
+          "Franco AR",
+          "Pinho MS"
+     ],
+     "AD": "School of Computer Science, PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul, Building 32, Office 607, Av. Ipiranga 6681, 90619-000, Porto Alegre, RS, Brazil, vanderdill@gmail.com.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Review"
+     ],
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Brain Mapping",
+          "Hippocampus/*anatomy & histology/*physiology",
+          "Humans",
+          "Imaging, Three-Dimensional",
+          "Magnetic Resonance Imaging",
+          "*Pattern Recognition, Automated"
+     ],
+     "EDAT": "2015/05/30 06:00",
+     "MHDA": "2016/02/18 06:00",
+     "CRDT": [
+          "2015/05/30 06:00"
+     ],
+     "PHST": [
+          "2015/05/30 06:00 [entrez]",
+          "2015/05/30 06:00 [pubmed]",
+          "2016/02/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s12021-014-9243-4 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2015 Apr;13(2):133-50. doi: 10.1007/s12021-014-9243-4.",
+     "term": "hippocampus"
+}

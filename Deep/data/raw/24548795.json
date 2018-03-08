@@ -1,0 +1,81 @@
+{
+     "PMID": "24548795",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141124",
+     "LR": "20140404",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "227",
+     "DP": "2014 Apr 30",
+     "TI": "Performance comparison between gPDC and PCMI for measuring directionality of neural information flow.",
+     "PG": "57-64",
+     "LID": "10.1016/j.jneumeth.2014.02.006 [doi] S0165-0270(14)00059-4 [pii]",
+     "AB": "BACKGROUND: General partial directed coherence (gPDC) and permutation conditional mutual information (PCMI) have been widely used to analyze neural activities. These two algorithms are representative of linear and nonlinear methods, respectively. However, there is little known about the difference between their performances in measurements of neural information flow (NIF). NEW METHOD: Comparison of these two approaches was effectively performed based on the neural mass model (NMM) and real local field potentials. RESULTS: The results showed that the sensitivity of PCMI was more robust than that of gPDC. The coupling strengths calculated by PCMI were closer to theoretical values in the bidirectional mode of NMM. Furthermore, there was a small Coefficient of Variance (C.V.) for the PCMI results. The gPDC was more sensitive to alterations in the directionality index or the coupling strength of NMM; the gPDC method was more likely to detect a difference between two distinct types of coupling strengths compared to that of PCMI, and gPDC performed well in the identification of the coupling strength in the unidirectional mode. COMPARISON TO EXISTING METHOD(S): A comparison between gPDC and PCMI was performed and the advantages of the approaches are discussed. CONCLUSIONS: The performance of the PCMI is better than that of gPDC in measuring the characteristics of connectivity between neural populations. However, gPDC is recommended to distinguish the differences in connectivity between two states in the same pathway or to detect the coupling strength of the unidirectional mode, such as the hippocampal CA3-CA1 pathway.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Mi, Xichao",
+          "Cheng, Ning",
+          "Zhang, Tao"
+     ],
+     "AU": [
+          "Mi X",
+          "Cheng N",
+          "Zhang T"
+     ],
+     "AD": "College of Life Sciences and Key Laboratory of Bioactive Materials, Ministry of Education, Nankai University, Tianjin 300071, PR China. College of Life Sciences and Key Laboratory of Bioactive Materials, Ministry of Education, Nankai University, Tianjin 300071, PR China. College of Life Sciences and Key Laboratory of Bioactive Materials, Ministry of Education, Nankai University, Tianjin 300071, PR China. Electronic address: zhangtao@nankai.edu.cn.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140215",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "*Computer Simulation",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "General partial directed coherence (gPDC)",
+          "Hippocampus",
+          "Local field potential (LFP)",
+          "Neural-mass model (NMM)",
+          "Permutation conditional mutual information (PCMI)"
+     ],
+     "EDAT": "2014/02/20 06:00",
+     "MHDA": "2014/12/15 06:00",
+     "CRDT": [
+          "2014/02/20 06:00"
+     ],
+     "PHST": [
+          "2013/10/21 00:00 [received]",
+          "2014/02/05 00:00 [revised]",
+          "2014/02/06 00:00 [accepted]",
+          "2014/02/20 06:00 [entrez]",
+          "2014/02/20 06:00 [pubmed]",
+          "2014/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(14)00059-4 [pii]",
+          "10.1016/j.jneumeth.2014.02.006 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2014 Apr 30;227:57-64. doi: 10.1016/j.jneumeth.2014.02.006. Epub 2014 Feb 15.",
+     "term": "hippocampus"
+}

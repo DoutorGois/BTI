@@ -1,0 +1,66 @@
+{
+     "PMID": "19879109",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101130",
+     "LR": "20100712",
+     "IS": "1879-0771 (Electronic) 0895-6111 (Linking)",
+     "VI": "34",
+     "IP": "6",
+     "DP": "2010 Sep",
+     "TI": "Unsupervised SVM-based gridding for DNA microarray images.",
+     "PG": "418-25",
+     "LID": "10.1016/j.compmedimag.2009.09.005 [doi]",
+     "AB": "This paper presents a novel method for unsupervised DNA microarray gridding based on support vector machines (SVMs). Each spot is a small region on the microarray surface where chains of known DNA sequences are attached. The goal of microarray gridding is the separation of the spots into distinct cells. The positions of the spots on a DNA microarray image are first detected using image analysis operations and then a set of soft-margin linear SVM classifiers is used to estimate the optimal layout of the grid lines in the image. Each grid line is the separating line produced by one of the SVM classifiers, which maximizes the margin between two consecutive rows or columns of spots. The classifiers are trained using the spot locations as training vectors. The proposed method was evaluated on reference microarray images containing more than two million spots in total. The results illustrate its robustness in the presence of artifacts, noise and weakly expressed spots, as well as image rotation. The comparison to state of the art methods for microarray gridding reveals the superior performance of the proposed method. In 96.4% of the cases, the spots reside completely inside their respective grid cells.",
+     "FAU": [
+          "Bariamis, Dimitris",
+          "Maroulis, Dimitris",
+          "Iakovidis, Dimitris K"
+     ],
+     "AU": [
+          "Bariamis D",
+          "Maroulis D",
+          "Iakovidis DK"
+     ],
+     "AD": "Dept. of Informatics and Telecommunications, University of Athens, Panepistimiopolis, Illisia, 15784 Athens, Greece. d.bariamis@di.uoa.gr",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20091029",
+     "PL": "United States",
+     "TA": "Comput Med Imaging Graph",
+     "JT": "Computerized medical imaging and graphics : the official journal of the Computerized Medical Imaging Society",
+     "JID": "8806104",
+     "SB": "IM",
+     "MH": [
+          "Diagnostic Imaging/*instrumentation",
+          "Evaluation Studies as Topic",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods/*standards",
+          "*Oligonucleotide Array Sequence Analysis"
+     ],
+     "EDAT": "2009/11/03 06:00",
+     "MHDA": "2010/12/14 06:00",
+     "CRDT": [
+          "2009/11/03 06:00"
+     ],
+     "PHST": [
+          "2009/03/31 00:00 [received]",
+          "2009/08/26 00:00 [revised]",
+          "2009/09/24 00:00 [accepted]",
+          "2009/11/03 06:00 [entrez]",
+          "2009/11/03 06:00 [pubmed]",
+          "2010/12/14 06:00 [medline]"
+     ],
+     "AID": [
+          "S0895-6111(09)00116-5 [pii]",
+          "10.1016/j.compmedimag.2009.09.005 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Med Imaging Graph. 2010 Sep;34(6):418-25. doi: 10.1016/j.compmedimag.2009.09.005. Epub 2009 Oct 29.",
+     "term": "grid cells"
+}

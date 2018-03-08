@@ -1,0 +1,105 @@
+{
+     "PMID": "25463474",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150903",
+     "LR": "20161025",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "106",
+     "DP": "2015 Feb 1",
+     "TI": "Hierarchical multi-atlas label fusion with multi-scale feature representation and label-specific patch partition.",
+     "PG": "34-46",
+     "LID": "10.1016/j.neuroimage.2014.11.025 [doi] S1053-8119(14)00942-2 [pii]",
+     "AB": "Multi-atlas patch-based label fusion methods have been successfully used to improve segmentation accuracy in many important medical image analysis applications. In general, to achieve label fusion a single target image is first registered to several atlas images. After registration a label is assigned to each target point in the target image by determining the similarity between the underlying target image patch (centered at the target point) and the aligned image patch in each atlas image. To achieve the highest level of accuracy during the label fusion process it's critical for the chosen patch similarity measurement to accurately capture the tissue/shape appearance of the anatomical structure. One major limitation of existing state-of-the-art label fusion methods is that they often apply a fixed size image patch throughout the entire label fusion procedure. Doing so may severely affect the fidelity of the patch similarity measurement, which in turn may not adequately capture complex tissue appearance patterns expressed by the anatomical structure. To address this limitation, we advance state-of-the-art by adding three new label fusion contributions: First, each image patch is now characterized by a multi-scale feature representation that encodes both local and semi-local image information. Doing so will increase the accuracy of the patch-based similarity measurement. Second, to limit the possibility of the patch-based similarity measurement being wrongly guided by the presence of multiple anatomical structures in the same image patch, each atlas image patch is further partitioned into a set of label-specific partial image patches according to the existing labels. Since image information has now been semantically divided into different patterns, these new label-specific atlas patches make the label fusion process more specific and flexible. Lastly, in order to correct target points that are mislabeled during label fusion, a hierarchical approach is used to improve the label fusion results. In particular, a coarse-to-fine iterative label fusion approach is used that gradually reduces the patch size. To evaluate the accuracy of our label fusion approach, the proposed method was used to segment the hippocampus in the ADNI dataset and 7.0 T MR images, sub-cortical regions in LONI LBPA40 dataset, mid-brain regions in SATA dataset from MICCAI 2013 segmentation challenge, and a set of key internal gray matter structures in IXI dataset. In all experiments, the segmentation results of the proposed hierarchical label fusion method with multi-scale feature representations and label-specific atlas patches are more accurate than several well-known state-of-the-art label fusion methods.",
+     "CI": [
+          "Copyright (c) 2014. Published by Elsevier Inc."
+     ],
+     "FAU": [
+          "Wu, Guorong",
+          "Kim, Minjeong",
+          "Sanroma, Gerard",
+          "Wang, Qian",
+          "Munsell, Brent C",
+          "Shen, Dinggang"
+     ],
+     "AU": [
+          "Wu G",
+          "Kim M",
+          "Sanroma G",
+          "Wang Q",
+          "Munsell BC",
+          "Shen D"
+     ],
+     "AD": "BRIC and Department of Radiology, University of NC, Chapel Hill, USA. BRIC and Department of Radiology, University of NC, Chapel Hill, USA. BRIC and Department of Radiology, University of NC, Chapel Hill, USA. Med-X Research Institute, Shanghai Jiao Tong University, Shanghai, China. Computer Science Department, College of Charleston, Charleston, SC 29424, USA. BRIC and Department of Radiology, University of NC, Chapel Hill, USA; Department of Brain and Cognitive Engineering, Korea University, Seoul, Republic of Korea. Electronic address: dgshen@med.unc.edu.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB008374/EB/NIBIB NIH HHS/United States",
+          "R01 EB006733/EB/NIBIB NIH HHS/United States",
+          "R01 AG041721/AG/NIA NIH HHS/United States",
+          "R01 AG042599/AG/NIA NIH HHS/United States",
+          "R01 EB009634/EB/NIBIB NIH HHS/United States",
+          "R01 MH100217/MH/NIMH NIH HHS/United States",
+          "R21 HD081467/HD/NICHD NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20141120",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*pathology",
+          "Anatomic Landmarks/pathology",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "Staining and Labeling",
+          "*Subtraction Technique"
+     ],
+     "PMC": "PMC4285661",
+     "MID": [
+          "NIHMS646545"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Label-specific patch partition",
+          "Multi-atlas based segmentation",
+          "Multi-scale feature representation",
+          "Patch-based labeling",
+          "Sparse representation"
+     ],
+     "EDAT": "2014/12/03 06:00",
+     "MHDA": "2015/09/04 06:00",
+     "CRDT": [
+          "2014/12/03 06:00"
+     ],
+     "PHST": [
+          "2014/05/06 00:00 [received]",
+          "2014/11/05 00:00 [revised]",
+          "2014/11/12 00:00 [accepted]",
+          "2014/12/03 06:00 [entrez]",
+          "2014/12/03 06:00 [pubmed]",
+          "2015/09/04 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(14)00942-2 [pii]",
+          "10.1016/j.neuroimage.2014.11.025 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2015 Feb 1;106:34-46. doi: 10.1016/j.neuroimage.2014.11.025. Epub 2014 Nov 20.",
+     "term": "hippocampus"
+}

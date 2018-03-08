@@ -1,0 +1,70 @@
+{
+     "PMID": "24723859",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20140411",
+     "LR": "20170816",
+     "IS": "1662-5137 (Print) 1662-5137 (Linking)",
+     "VI": "8",
+     "DP": "2014",
+     "TI": "Navigational strategies underlying phototaxis in larval zebrafish.",
+     "PG": "39",
+     "LID": "10.3389/fnsys.2014.00039 [doi]",
+     "AB": "Understanding how the brain transforms sensory input into complex behavior is a fundamental question in systems neuroscience. Using larval zebrafish, we study the temporal component of phototaxis, which is defined as orientation decisions based on comparisons of light intensity at successive moments in time. We developed a novel \"Virtual Circle\" assay where whole-field illumination is abruptly turned off when the fish swims out of a virtually defined circular border, and turned on again when it returns into the circle. The animal receives no direct spatial cues and experiences only whole-field temporal light changes. Remarkably, the fish spends most of its time within the invisible virtual border. Behavioral analyses of swim bouts in relation to light transitions were used to develop four discrete temporal algorithms that transform the binary visual input (uniform light/uniform darkness) into the observed spatial behavior. In these algorithms, the turning angle is dependent on the behavioral history immediately preceding individual turning events. Computer simulations show that the algorithms recapture most of the swim statistics of real fish. We discovered that turning properties in larval zebrafish are distinctly modulated by temporal step functions in light intensity in combination with the specific motor history preceding these turns. Several aspects of the behavior suggest memory usage of up to 10 swim bouts (~10 sec). Thus, we show that a complex behavior like spatial navigation can emerge from a small number of relatively simple behavioral algorithms.",
+     "FAU": [
+          "Chen, Xiuye",
+          "Engert, Florian"
+     ],
+     "AU": [
+          "Chen X",
+          "Engert F"
+     ],
+     "AD": "Department of Molecular and Cellular Biology, Harvard University Cambridge, MA, USA. Department of Molecular and Cellular Biology, Harvard University Cambridge, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "DP1 NS082121/NS/NINDS NIH HHS/United States",
+          "R24 NS086601/NS/NINDS NIH HHS/United States",
+          "DP1 OD008240/OD/NIH HHS/United States",
+          "R01 DA030304/DA/NIDA NIH HHS/United States",
+          "U01 NS090449/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140325",
+     "PL": "Switzerland",
+     "TA": "Front Syst Neurosci",
+     "JT": "Frontiers in systems neuroscience",
+     "JID": "101477946",
+     "PMC": "PMC3971168",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "behavior",
+          "modeling",
+          "navigation",
+          "phototaxis",
+          "zebrafish"
+     ],
+     "EDAT": "2014/04/12 06:00",
+     "MHDA": "2014/04/12 06:01",
+     "CRDT": [
+          "2014/04/12 06:00"
+     ],
+     "PHST": [
+          "2014/01/13 00:00 [received]",
+          "2014/03/06 00:00 [accepted]",
+          "2014/04/12 06:00 [entrez]",
+          "2014/04/12 06:00 [pubmed]",
+          "2014/04/12 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnsys.2014.00039 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Syst Neurosci. 2014 Mar 25;8:39. doi: 10.3389/fnsys.2014.00039. eCollection 2014.",
+     "term": "spatial navigation"
+}

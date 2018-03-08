@@ -1,0 +1,73 @@
+{
+     "PMID": "15707363",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050913",
+     "LR": "20061115",
+     "IS": "1535-3893 (Print) 1535-3893 (Linking)",
+     "VI": "4",
+     "IP": "1",
+     "DP": "2005 Jan-Feb",
+     "TI": "Comparison of statistical approaches for the analysis of proteome expression data of differentiating neural stem cells.",
+     "PG": "96-100",
+     "AB": "Comparative proteomic studies often use statistical tests included in the software for the analysis of digitized images of two-dimensional electrophoresis gels. As these programs include only limited capabilities for statistical analysis, many studies do not further describe their statistical approach. To find potential differences produced by different data processing, we compared the results of (1) Student's t-test using a spreadsheet program, (2) the intrinsic algorithms implemented in the Phoretix 2D gel analysis software, and (3) the SAM algorithm originally developed for microarray analysis. We applied the algorithms to proteome data of undifferentiated neural stem cells versus in vitro differentiated neural stem cells. We found (1) 367 spots differentially expressed using Student's t-test, (2) 203 spots using the algorithms in Phoretix 2D, and (3) 119 spots using the algorithms in SAM, respectively, with an overlap of 42 spots detected by all three algorithms. Applying different statistical approaches on the same dataset resulted in divergent set of protein spots labeled as statistically \"significant\". Currently, there is no agreement on statistical data processing of 2DE datasets, but the statistical tests applied in 2DE studies should be documented. Tools for the statistical analysis of proteome data should be implemented and documented in the existing 2DE software.",
+     "FAU": [
+          "Maurer, Martin H",
+          "Feldmann, Robert E Jr",
+          "Bromme, Jens O",
+          "Kalenka, Armin"
+     ],
+     "AU": [
+          "Maurer MH",
+          "Feldmann RE Jr",
+          "Bromme JO",
+          "Kalenka A"
+     ],
+     "AD": "Department of Physiology and Pathophysiology, University of Heidelberg, Heidelberg, Germany. maurer@uni-hd.de",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Proteome Res",
+     "JT": "Journal of proteome research",
+     "JID": "101128775",
+     "RN": [
+          "0 (Proteins)",
+          "0 (Proteome)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cell Differentiation",
+          "Electrophoresis, Gel, Two-Dimensional",
+          "Hippocampus/cytology",
+          "Humans",
+          "*Models, Statistical",
+          "Neurons/chemistry/*cytology/physiology",
+          "Proteins/*analysis",
+          "Proteome",
+          "Proteomics/methods",
+          "Stem Cells/chemistry/*cytology/physiology"
+     ],
+     "EDAT": "2005/02/15 09:00",
+     "MHDA": "2005/09/15 09:00",
+     "CRDT": [
+          "2005/02/15 09:00"
+     ],
+     "PHST": [
+          "2005/02/15 09:00 [pubmed]",
+          "2005/09/15 09:00 [medline]",
+          "2005/02/15 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1021/pr049841l [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Proteome Res. 2005 Jan-Feb;4(1):96-100. doi: 10.1021/pr049841l.",
+     "term": "hippocampus"
+}

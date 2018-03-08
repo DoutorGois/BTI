@@ -1,0 +1,86 @@
+{
+     "PMID": "20300851",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101207",
+     "LR": "20170220",
+     "IS": "1573-9686 (Electronic) 0090-6964 (Linking)",
+     "VI": "38",
+     "IP": "8",
+     "DP": "2010 Aug",
+     "TI": "Mapping the spatiotemporal dynamics of calcium signaling in cellular neural networks using optical flow.",
+     "PG": "2520-31",
+     "LID": "10.1007/s10439-010-0005-7 [doi]",
+     "AB": "An optical flow gradient algorithm was applied to spontaneously forming networks of neurons and glia in culture imaged by fluorescence optical microscopy in order to map functional calcium signaling with single pixel resolution. Optical flow estimates the direction and speed of motion of objects in an image between subsequent frames in a recorded digital sequence of images (i.e., a movie). Computed vector field outputs by the algorithm were able to track the spatiotemporal dynamics of calcium signaling patterns. We begin by briefly reviewing the mathematics of the optical flow algorithm, and then describe how to solve for the displacement vectors and how to measure their reliability. We then compare computed flow vectors with manually estimated vectors for the progression of a calcium signal recorded from representative astrocyte cultures. Finally, we applied the algorithm to preparations of primary astrocytes and hippocampal neurons and to the rMC-1 Muller glial cell line in order to illustrate the capability of the algorithm for capturing different types of spatiotemporal calcium activity. We discuss the imaging requirements, parameter selection and threshold selection for reliable measurements, and offer perspectives on uses of the vector data.",
+     "FAU": [
+          "Buibas, Marius",
+          "Yu, Diana",
+          "Nizar, Krystal",
+          "Silva, Gabriel A"
+     ],
+     "AU": [
+          "Buibas M",
+          "Yu D",
+          "Nizar K",
+          "Silva GA"
+     ],
+     "AD": "Department of Bioengineering, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS054736/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20100319",
+     "PL": "United States",
+     "TA": "Ann Biomed Eng",
+     "JT": "Annals of biomedical engineering",
+     "JID": "0361512",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Astrocytes/physiology",
+          "Calcium/*physiology",
+          "Calcium Signaling/*physiology",
+          "Cell Line",
+          "Cells",
+          "Hippocampus/cytology",
+          "Microglia/cytology/physiology",
+          "Microscopy",
+          "Motion",
+          "Movement",
+          "*Neural Networks (Computer)",
+          "Neurons/physiology",
+          "*Optical Devices",
+          "Rats",
+          "Spinal Cord/cytology"
+     ],
+     "PMC": "PMC2900593",
+     "EDAT": "2010/03/20 06:00",
+     "MHDA": "2010/12/14 06:00",
+     "CRDT": [
+          "2010/03/20 06:00"
+     ],
+     "PHST": [
+          "2009/05/08 00:00 [received]",
+          "2010/03/05 00:00 [accepted]",
+          "2010/03/20 06:00 [entrez]",
+          "2010/03/20 06:00 [pubmed]",
+          "2010/12/14 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10439-010-0005-7 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ann Biomed Eng. 2010 Aug;38(8):2520-31. doi: 10.1007/s10439-010-0005-7. Epub 2010 Mar 19.",
+     "term": "hippocampus"
+}

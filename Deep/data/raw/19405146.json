@@ -1,0 +1,92 @@
+{
+     "PMID": "19405146",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090806",
+     "LR": "20161122",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "19",
+     "IP": "6",
+     "DP": "2009 Jun",
+     "TI": "Parametric surface modeling and registration for comparison of manual and automated segmentation of the hippocampus.",
+     "PG": "588-95",
+     "LID": "10.1002/hipo.20613 [doi]",
+     "AB": "Accurate and efficient segmentation of the hippocampus from brain images is a challenging issue. Although experienced anatomic tracers can be reliable, manual segmentation is a time consuming process and may not be feasible for large-scale neuroimaging studies. In this article, we compare an automated method, FreeSurfer (V4), with a published manual protocol on the determination of hippocampal boundaries from magnetic resonance imaging scans, using data from an existing mild cognitive impairment/Alzheimer's disease cohort. To perform the comparison, we develop an enhanced spherical harmonic processing framework to model and register these hippocampal traces. The framework treats the two hippocampi as a single geometric configuration and extracts the positional, orientation, and shape variables in a multiobject setting. We apply this framework to register manual tracing and FreeSurfer results together and the two methods show stronger agreement on position and orientation than shape measures. Work is in progress to examine a refined FreeSurfer segmentation strategy and an improved agreement on shape features is expected.",
+     "CI": [
+          "2009 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Shen, Li",
+          "Firpi, Hiram A",
+          "Saykin, Andrew J",
+          "West, John D"
+     ],
+     "AU": [
+          "Shen L",
+          "Firpi HA",
+          "Saykin AJ",
+          "West JD"
+     ],
+     "AD": "Division of Imaging Sciences, Department of Radiology, IU Center for Neuroimaging, Indiana University School of Medicine, Indianapolis, Indiana 46202, USA. shenli@iupui.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG019771/AG/NIA NIH HHS/United States",
+          "R03 EB008674-01/EB/NIBIB NIH HHS/United States",
+          "P30 AG010133/AG/NIA NIH HHS/United States",
+          "P30 AG010133-18S1/AG/NIA NIH HHS/United States",
+          "R03 EB008674/EB/NIBIB NIH HHS/United States",
+          "U54 EB005149/EB/NIBIB NIH HHS/United States",
+          "R01 AG019771-07/AG/NIA NIH HHS/United States",
+          "U54 EB005149-010013/EB/NIBIB NIH HHS/United States",
+          "U54 EB005149-030013/EB/NIBIB NIH HHS/United States",
+          "R01 CA101318-05/CA/NCI NIH HHS/United States",
+          "R01 AG019771-01/AG/NIA NIH HHS/United States",
+          "R01 AG19771/AG/NIA NIH HHS/United States",
+          "R01 CA101318/CA/NCI NIH HHS/United States",
+          "R01 CA101318-01A1/CA/NCI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Alzheimer Disease/*pathology",
+          "Automation",
+          "Cognition Disorders/*pathology",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Imaging, Three-Dimensional",
+          "Magnetic Resonance Imaging",
+          "*Models, Anatomic",
+          "Organ Size"
+     ],
+     "PMC": "PMC2849649",
+     "MID": [
+          "NIHMS188977"
+     ],
+     "EDAT": "2009/05/01 09:00",
+     "MHDA": "2009/08/07 09:00",
+     "CRDT": [
+          "2009/05/01 09:00"
+     ],
+     "PHST": [
+          "2009/05/01 09:00 [entrez]",
+          "2009/05/01 09:00 [pubmed]",
+          "2009/08/07 09:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.20613 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2009 Jun;19(6):588-95. doi: 10.1002/hipo.20613.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,66 @@
+{
+     "PMID": "25294991",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20141008",
+     "LR": "20170220",
+     "IS": "1662-5137 (Print) 1662-5137 (Linking)",
+     "VI": "8",
+     "DP": "2014",
+     "TI": "A model of hippocampal spiking responses to items during learning of a context-dependent task.",
+     "PG": "178",
+     "LID": "10.3389/fnsys.2014.00178 [doi]",
+     "AB": "Single unit recordings in the rat hippocampus have demonstrated shifts in the specificity of spiking activity during learning of a contextual item-reward association task. In this task, rats received reward for responding to different items dependent upon the context an item appeared in, but not dependent upon the location an item appears at. Initially, neurons in the rat hippocampus primarily show firing based on place, but as the rat learns the task this firing became more selective for items. We simulated this effect using a simple circuit model with discrete inputs driving spiking activity representing place and item followed sequentially by a discrete representation of the motor actions involving a response to an item (digging for food) or the movement to a different item (movement to a different pot for food). We implemented spiking replay in the network representing neural activity observed during sharp-wave ripple events, and modified synaptic connections based on a simple representation of spike-timing dependent synaptic plasticity. This simple network was able to consistently learn the context-dependent responses, and transitioned from dominant coding of place to a gradual increase in specificity to items consistent with analysis of the experimental data. In addition, the model showed an increase in specificity toward context. The increase of selectivity in the model is accompanied by an increase in binariness of the synaptic weights for cells that are part of the functional network.",
+     "FAU": [
+          "Raudies, Florian",
+          "Hasselmo, Michael E"
+     ],
+     "AU": [
+          "Raudies F",
+          "Hasselmo ME"
+     ],
+     "AD": "Center for Computational Neuroscience and Neural Technology, Boston University Boston, MA, USA ; Center of Excellence for Learning in Education, Science, and Technology, Boston University Boston, MA, USA. Center for Computational Neuroscience and Neural Technology, Boston University Boston, MA, USA ; Center of Excellence for Learning in Education, Science, and Technology, Boston University Boston, MA, USA ; Department of Psychological and Brain Sciences, Center for Systems Neuroscience and Graduate Program for Neuroscience, Boston University Boston, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 MH094263/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140923",
+     "PL": "Switzerland",
+     "TA": "Front Syst Neurosci",
+     "JT": "Frontiers in systems neuroscience",
+     "JID": "101477946",
+     "PMC": "PMC4172020",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "hippocampus",
+          "leaky-integrate and fire neuron",
+          "neural network modeling",
+          "spike timing dependent plasticity",
+          "spiking neural networks"
+     ],
+     "EDAT": "2014/10/09 06:00",
+     "MHDA": "2014/10/09 06:01",
+     "CRDT": [
+          "2014/10/09 06:00"
+     ],
+     "PHST": [
+          "2014/07/01 00:00 [received]",
+          "2014/09/05 00:00 [accepted]",
+          "2014/10/09 06:00 [entrez]",
+          "2014/10/09 06:00 [pubmed]",
+          "2014/10/09 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnsys.2014.00178 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Syst Neurosci. 2014 Sep 23;8:178. doi: 10.3389/fnsys.2014.00178. eCollection 2014.",
+     "term": "hippocampus"
+}

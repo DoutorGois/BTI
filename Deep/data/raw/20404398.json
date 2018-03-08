@@ -1,0 +1,73 @@
+{
+     "PMID": "20404398",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100913",
+     "LR": "20100518",
+     "IS": "1741-2552 (Electronic) 1741-2552 (Linking)",
+     "VI": "7",
+     "IP": "3",
+     "DP": "2010 Jun",
+     "TI": "System characterization of neuronal excitability in the hippocampus and its relevance to observed dynamics of spontaneous seizure-like transitions.",
+     "PG": "036002",
+     "LID": "10.1088/1741-2560/7/3/036002 [doi]",
+     "AB": "Most forms of epilepsy are marked by seizure episodes that arise spontaneously. The low-magnesium/high-potassium (low-Mg(2+)/high-K(+)) experimental model of epilepsy is an acute model that produces spontaneous, recurring seizure-like events (SLEs). To elucidate the nature of spontaneous seizure transitions and their relationship to neuronal excitability, whole-cell recordings from the intact hippocampus were undertaken in vitro, and the response of hippocampal CA3 neurons to Gaussian white noise injection was obtained before and after treatment with various concentrations of low-Mg(2+)/high-K(+) solution. A second-order Volterra kernel model was estimated for each of the input-output response pairs. The spectral energy of the responses was also computed, providing a quantitative measure of neuronal excitability. Changes in duration and amplitude of the first-order kernel correlated positively with the spectral energy increase following treatment with low-Mg(2+)/high-K(+) solution, suggesting that variations in neuronal excitability are coded by the system kernels, in part by differences to the profile of the first-order kernel. In particular, kernel duration was more sensitive than amplitude to changes in spectral energy, and correlated more strongly with kernel area. An oscillator network model of the hippocampal CA3 was constructed to investigate the relationship of kernel duration to network excitability, and the model was able to generate spontaneous, recurrent SLEs by increasing the duration of a mode function analogous to the first-order kernel. Results from the model indicated that disruption to the dynamic balance of feedback was responsible for seizure-like transitions and the observed intermittency of SLEs. A physiological candidate for feedback imbalance consistent with the network model is the destabilizing interaction of extracellular potassium and paroxysmal neuronal activation. Altogether, these results (1) validate a mathematical model for epileptiform activity in the hippocampus by quantifying and subsequently correlating its behavior with an experimental, in vitro model of epilepsy; (2) elucidate a possible mechanism for epileptogenesis; and (3) pave the way for control studies in epilepsy utilizing the herein proposed experimental and mathematical setup.",
+     "FAU": [
+          "Zalay, Osbert C",
+          "Serletis, Demitre",
+          "Carlen, Peter L",
+          "Bardakjian, Berj L"
+     ],
+     "AU": [
+          "Zalay OC",
+          "Serletis D",
+          "Carlen PL",
+          "Bardakjian BL"
+     ],
+     "AD": "Institute of Biomaterials and Biomedical Engineering, University of Toronto, Toronto, M5S 3G9, Canada. oz.zalay@utoronto.ca",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Canadian Institutes of Health Research/Canada"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100419",
+     "PL": "England",
+     "TA": "J Neural Eng",
+     "JT": "Journal of neural engineering",
+     "JID": "101217933",
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials",
+          "Animals",
+          "*Biological Clocks",
+          "Hippocampus/*physiopathology",
+          "Humans",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "*Models, Neurological",
+          "Nerve Net/*physiopathology",
+          "Seizures/*physiopathology"
+     ],
+     "EDAT": "2010/04/21 06:00",
+     "MHDA": "2010/09/14 06:00",
+     "CRDT": [
+          "2010/04/21 06:00"
+     ],
+     "PHST": [
+          "2010/04/21 06:00 [entrez]",
+          "2010/04/21 06:00 [pubmed]",
+          "2010/09/14 06:00 [medline]"
+     ],
+     "AID": [
+          "S1741-2560(10)40138-X [pii]",
+          "10.1088/1741-2560/7/3/036002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neural Eng. 2010 Jun;7(3):036002. doi: 10.1088/1741-2560/7/3/036002. Epub 2010 Apr 19.",
+     "term": "hippocampus"
+}

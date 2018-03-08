@@ -1,0 +1,81 @@
+{
+     "PMID": "28749937",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170818",
+     "LR": "20170818",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "13",
+     "IP": "7",
+     "DP": "2017 Jul",
+     "TI": "Recurrently connected and localized neuronal communities initiate coordinated spontaneous activity in neuronal networks.",
+     "PG": "e1005672",
+     "LID": "10.1371/journal.pcbi.1005672 [doi]",
+     "AB": "Developing neuronal systems intrinsically generate coordinated spontaneous activity that propagates by involving a large number of synchronously firing neurons. In vivo, waves of spikes transiently characterize the activity of developing brain circuits and are fundamental for activity-dependent circuit formation. In vitro, coordinated spontaneous spiking activity, or network bursts (NBs), interleaved within periods of asynchronous spikes emerge during the development of 2D and 3D neuronal cultures. Several studies have investigated this type of activity and its dynamics, but how a neuronal system generates these coordinated events remains unclear. Here, we investigate at a cellular level the generation of network bursts in spontaneously active neuronal cultures by exploiting high-resolution multielectrode array recordings and computational network modelling. Our analysis reveals that NBs are generated in specialized regions of the network (functional neuronal communities) that feature neuronal links with high cross-correlation peak values, sub-millisecond lags and that share very similar structural connectivity motifs providing recurrent interactions. We show that the particular properties of these local structures enable locally amplifying spontaneous asynchronous spikes and that this mechanism can lead to the initiation of NBs. Through the analysis of simulated and experimental data, we also show that AMPA currents drive the coordinated activity, while NMDA and GABA currents are only involved in shaping the dynamics of NBs. Overall, our results suggest that the presence of functional neuronal communities with recurrent local connections allows a neuronal system to generate spontaneous coordinated spiking activity events. As suggested by the rules used for implementing our computational model, such functional communities might naturally emerge during network development by following simple constraints on distance-based connectivity.",
+     "FAU": [
+          "Lonardoni, Davide",
+          "Amin, Hayder",
+          "Di Marco, Stefano",
+          "Maccione, Alessandro",
+          "Berdondini, Luca",
+          "Nieus, Thierry"
+     ],
+     "AU": [
+          "Lonardoni D",
+          "Amin H",
+          "Di Marco S",
+          "Maccione A",
+          "Berdondini L",
+          "Nieus T"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0001-7863-9355",
+          "ORCID: http://orcid.org/0000-0003-4847-6270",
+          "ORCID: http://orcid.org/0000-0001-9521-2812"
+     ],
+     "AD": "Neuroscience and Brain Technologies Dept., Fondazione Istituto Italiano di Tecnologia, Genoa, Italy. Neuroscience and Brain Technologies Dept., Fondazione Istituto Italiano di Tecnologia, Genoa, Italy. Neuroscience and Brain Technologies Dept., Fondazione Istituto Italiano di Tecnologia, Genoa, Italy. Neuroscience and Brain Technologies Dept., Fondazione Istituto Italiano di Tecnologia, Genoa, Italy. Neuroscience and Brain Technologies Dept., Fondazione Istituto Italiano di Tecnologia, Genoa, Italy. Neuroscience and Brain Technologies Dept., Fondazione Istituto Italiano di Tecnologia, Genoa, Italy.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170727",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Cells, Cultured",
+          "Computational Biology",
+          "Hippocampus/cytology",
+          "*Models, Neurological",
+          "Nerve Net/*cytology/physiology",
+          "Neurons/*cytology/physiology",
+          "Rats"
+     ],
+     "PMC": "PMC5549760",
+     "EDAT": "2017/07/28 06:00",
+     "MHDA": "2017/08/19 06:00",
+     "CRDT": [
+          "2017/07/28 06:00"
+     ],
+     "PHST": [
+          "2016/12/28 00:00 [received]",
+          "2017/07/07 00:00 [accepted]",
+          "2017/08/08 00:00 [revised]",
+          "2017/07/28 06:00 [pubmed]",
+          "2017/08/19 06:00 [medline]",
+          "2017/07/28 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1005672 [doi]",
+          "PCOMPBIOL-D-16-02085 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2017 Jul 27;13(7):e1005672. doi: 10.1371/journal.pcbi.1005672. eCollection 2017 Jul.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,67 @@
+{
+     "PMID": "26737350",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160912",
+     "LR": "20160107",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2015",
+     "DP": "2015",
+     "TI": "Quantification and automatized adaptive detection of in vivo and in vitro neuronal bursts based on signal complexity.",
+     "PG": "4729-32",
+     "LID": "10.1109/EMBC.2015.7319450 [doi]",
+     "AB": "In this paper, we propose employing entropy values to quantify action potential bursts in electrophysiological measurements from the brain and neuronal cultures. Conventionally in the electrophysiological signal analysis, bursts are quantified by means of conventional measures such as their durations, and number of spikes in bursts. Here our main aim is to device metrics for burst quantification to provide for enhanced burst characterization. Entropy is a widely employed measure to quantify regularity/complexity of time series. Specifically, we investigate the applicability and differences of spectral entropy and sample entropy in the quantification of bursts in in vivo rat hippocampal measurements and in in vitro dissociated rat cortical cell culture measurement done with microelectrode arrays. For the task, an automatized and adaptive burst detection method is also utilized. Whereas the employed metrics are known from other applications, they are rarely employed in the assessment of burst in electrophysiological field potential measurements. Our results show that the proposed metrics are potential for the task at hand.",
+     "FAU": [
+          "Kapucu, Fikret E",
+          "Mikkonen, Jarno E",
+          "Tanskanen, Jarno M A",
+          "Hyttinen, Jari A K"
+     ],
+     "AU": [
+          "Kapucu FE",
+          "Mikkonen JE",
+          "Tanskanen JM",
+          "Hyttinen JA"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Cell Culture Techniques/methods",
+          "Electrophysiological Phenomena",
+          "Electrophysiology/instrumentation/*methods",
+          "Entropy",
+          "Hippocampus/cytology/*physiology",
+          "Microelectrodes",
+          "Neurons/*physiology",
+          "Rats, Wistar",
+          "Signal Processing, Computer-Assisted"
+     ],
+     "EDAT": "2016/01/07 06:00",
+     "MHDA": "2016/09/13 06:00",
+     "CRDT": [
+          "2016/01/07 06:00"
+     ],
+     "PHST": [
+          "2016/01/07 06:00 [entrez]",
+          "2016/01/07 06:00 [pubmed]",
+          "2016/09/13 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2015.7319450 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2015;2015:4729-32. doi: 10.1109/EMBC.2015.7319450.",
+     "term": "hippocampus"
+}

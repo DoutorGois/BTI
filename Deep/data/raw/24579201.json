@@ -1,0 +1,95 @@
+{
+     "PMID": "24579201",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140403",
+     "LR": "20161125",
+     "VI": "16",
+     "IP": "Pt 2",
+     "DP": "2013",
+     "TI": "Genetic clustering on the hippocampal surface for genome-wide association studies.",
+     "PG": "690-7",
+     "AB": "Imaging genetics aims to discover how variants in the human genome influence brain measures derived from images. Genome-wide association scans (GWAS) can screen the genome for common differences in our DNA that relate to brain measures. In small samples, GWAS has low power as individual gene effects are weak and one must also correct for multiple comparisons across the genome and the image. Here we extend recent work on genetic clustering of images, to analyze surface-based models of anatomy using GWAS. We performed spherical harmonic analysis of hippocampal surfaces, automatically extracted from brain MRI scans of 1254 subjects. We clustered hippocampal surface regions with common genetic influences by examining genetic correlations (r(g)) between the normalized deformation values at all pairs of surface points. Using genetic correlations to cluster surface measures, we were able to boost effect sizes for genetic associations, compared to clustering with traditional phenotypic correlations using Pearson's r.",
+     "FAU": [
+          "Hibar, Derrek P",
+          "Medland, Sarah E",
+          "Stein, Jason L",
+          "Kim, Sungeun",
+          "Shen, Li",
+          "Saykin, Andrew J",
+          "de Zubicaray, Greig I",
+          "McMahon, Katie L",
+          "Montgomery, Grant W",
+          "Martin, Nicholas G",
+          "Wright, Margaret J",
+          "Djurovic, Srdjan",
+          "Agartz, Ingrid A",
+          "Andreassen, Ole A",
+          "Thompson, Paul M"
+     ],
+     "AU": [
+          "Hibar DP",
+          "Medland SE",
+          "Stein JL",
+          "Kim S",
+          "Shen L",
+          "Saykin AJ",
+          "de Zubicaray GI",
+          "McMahon KL",
+          "Montgomery GW",
+          "Martin NG",
+          "Wright MJ",
+          "Djurovic S",
+          "Agartz IA",
+          "Andreassen OA",
+          "Thompson PM"
+     ],
+     "AD": "Imaging Genetics Center, Laboratory of Neuro Imaging, UCLA School of Medicine, Los Angeles, CA, USA. Queensland Institute of Medical Research, Brisbane, Australia. Imaging Genetics Center, Laboratory of Neuro Imaging, UCLA School of Medicine, Los Angeles, CA, USA. Center for Neuroimaging, Department of Radiology and Imaging Sciences, Indiana University School of Medicine, Indianapolis, IN, USA. Center for Neuroimaging, Department of Radiology and Imaging Sciences, Indiana University School of Medicine, Indianapolis, IN, USA. Center for Neuroimaging, Department of Radiology and Imaging Sciences, Indiana University School of Medicine, Indianapolis, IN, USA. Functional Magnetic Resonance Imaging Laboratory, School of Psychology, University of Queensland, Brisbane, Australia. Centre for Advanced Imaging, University of Queensland, Brisbane, Queensland, Australia. Queensland Institute of Medical Research, Brisbane, Australia. Queensland Institute of Medical Research, Brisbane, Australia. Queensland Institute of Medical Research, Brisbane, Australia. KG Jebsen Centre for Psychosis Research, Institute of Clinical Medicine, University of Oslo, Oslo, Norway. KG Jebsen Centre for Psychosis Research, Institute of Clinical Medicine, University of Oslo, Oslo, Norway. KG Jebsen Centre for Psychosis Research, Institute of Clinical Medicine, University of Oslo, Oslo, Norway. Imaging Genetics Center, Laboratory of Neuro Imaging, UCLA School of Medicine, Los Angeles, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG040060/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Cognitive Dysfunction/*genetics/*pathology",
+          "Female",
+          "Genetic Predisposition to Disease/genetics",
+          "Genome-Wide Association Study/*methods",
+          "Hippocampus/*pathology/*physiopathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Multigene Family/*genetics",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC4024454",
+     "MID": [
+          "NIHMS576338"
+     ],
+     "EDAT": "2014/03/01 06:00",
+     "MHDA": "2014/04/04 06:00",
+     "CRDT": [
+          "2014/03/01 06:00"
+     ],
+     "PHST": [
+          "2014/03/01 06:00 [entrez]",
+          "2014/03/01 06:00 [pubmed]",
+          "2014/04/04 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2013;16(Pt 2):690-7.",
+     "term": "hippocampus"
+}

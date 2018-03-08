@@ -1,0 +1,69 @@
+{
+     "PMID": "16107283",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20051219",
+     "LR": "20061115",
+     "IS": "0167-5877 (Print) 0167-5877 (Linking)",
+     "VI": "71",
+     "IP": "3-4",
+     "DP": "2005 Oct 12",
+     "TI": "Bayesian spatio-temporal modelling of national milk-recording data of seasonal-calving New Zealand dairy herds.",
+     "PG": "183-96",
+     "AB": "A spatio-temporal analysis was undertaken with the aim of identifying the dynamics of herd mean individual cow SCCs (MICSCC) in seasonally calving New Zealand dairy herds. Two datasets were extracted from the Livestock Improvement Corporation's extensive national dairy recording database: (1) milk-recording data aggregated at the herd-level and (2) sales questionnaire data containing information on the size, location and infrastructure of each farm. A Bayesian spatio-temporal modelling approach was applied to the analysis. The data were aggregated by 10 km(2) grid cells and linear regression models were developed with spatially structured and unstructured random effects, a linear temporal trend random effect and spatial-temporal interactions for log-transformed median MISCC (ln(median MISCC)). Significant associations were found between ln(median MISCC) and milk yield, milk fat, milk protein, farm area and number of cups in the dairy. This led us to suggest that SCCs should be adjusted for volume and constituents prior to determining a threshold MISCC for identification of subclinical mastitis (SCM) problem herds. Part, or all, of the temporal trend in MISCC in the spatio-temporal model was accounted for by inclusion of yield and milk constituents as independent variables. This supports the hypothesis of a dilution effect with potential consequences for misdiagnosis of SCM, particularly in late lactation. Unmeasured covariates were similarly likely to be spatially structured and unstructured.",
+     "FAU": [
+          "Clements, A C A",
+          "Pfeiffer, D U",
+          "Hayes, D"
+     ],
+     "AU": [
+          "Clements AC",
+          "Pfeiffer DU",
+          "Hayes D"
+     ],
+     "AD": "Epidemiology Division, Department of Veterinary Clinical Sciences, Royal Veterinary College, University of London, Hatfield, Hertfordshire AL9 7TA, UK. a.clements@imperial.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20050816",
+     "PL": "Netherlands",
+     "TA": "Prev Vet Med",
+     "JT": "Preventive veterinary medicine",
+     "JID": "8217463",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Bayes Theorem",
+          "Cattle",
+          "Dairying",
+          "Databases, Factual",
+          "Female",
+          "*Lactation",
+          "*Milk",
+          "New Zealand/epidemiology",
+          "*Reproduction",
+          "Seasons",
+          "Space-Time Clustering"
+     ],
+     "EDAT": "2005/08/19 09:00",
+     "MHDA": "2005/12/20 09:00",
+     "CRDT": [
+          "2005/08/19 09:00"
+     ],
+     "PHST": [
+          "2005/08/19 09:00 [pubmed]",
+          "2005/12/20 09:00 [medline]",
+          "2005/08/19 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0167-5877(05)00185-6 [pii]",
+          "10.1016/j.prevetmed.2005.07.004 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Prev Vet Med. 2005 Oct 12;71(3-4):183-96. doi: 10.1016/j.prevetmed.2005.07.004. Epub 2005 Aug 16.",
+     "term": "grid cells"
+}

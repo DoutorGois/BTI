@@ -1,0 +1,79 @@
+{
+     "PMID": "26797619",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160901",
+     "LR": "20170220",
+     "IS": "1424-8220 (Electronic) 1424-8220 (Linking)",
+     "VI": "16",
+     "IP": "1",
+     "DP": "2016 Jan 19",
+     "TI": "Pedestrian Navigation Using Foot-Mounted Inertial Sensor and LIDAR.",
+     "LID": "10.3390/s16010120 [doi] E120 [pii]",
+     "AB": "Foot-mounted inertial sensors can be used for indoor pedestrian navigation. In this paper, to improve the accuracy of pedestrian location, we propose a method using a distance sensor (LIDAR) in addition to an inertial measurement unit (IMU). The distance sensor is a time of flight range finder with 30 m measurement range (at 33.33 Hz). Using a distance sensor, walls on corridors are automatically detected. The detected walls are used to correct the heading of the pedestrian path. Through experiments, it is shown that the accuracy of the heading is significantly improved using the proposed algorithm. Furthermore, the system is shown to work robustly in indoor environments with many doors and passing people.",
+     "FAU": [
+          "Pham, Duy Duong",
+          "Suh, Young Soo"
+     ],
+     "AU": [
+          "Pham DD",
+          "Suh YS"
+     ],
+     "AD": "Department of Electrical Engineering, University of Ulsan, Namgu, Ulsan 680-749, Korea. duyduongd2@gmail.com. Department of Electrical Engineering, University of Ulsan, Namgu, Ulsan 680-749, Korea. yssuh@ulsan.ac.kr.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20160119",
+     "PL": "Switzerland",
+     "TA": "Sensors (Basel)",
+     "JT": "Sensors (Basel, Switzerland)",
+     "JID": "101204366",
+     "SB": "IM",
+     "MH": [
+          "Accelerometry/*instrumentation",
+          "Algorithms",
+          "Foot/*physiology",
+          "Humans",
+          "Monitoring, Ambulatory/*instrumentation",
+          "*Pedestrians",
+          "Shoes",
+          "Spatial Navigation/*physiology",
+          "Walking/physiology"
+     ],
+     "PMC": "PMC4732153",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "IMU",
+          "Kalman filters",
+          "LIDAR",
+          "distance sensor",
+          "inertial sensor",
+          "pedestrian navigation"
+     ],
+     "EDAT": "2016/01/23 06:00",
+     "MHDA": "2016/09/02 06:00",
+     "CRDT": [
+          "2016/01/23 06:00"
+     ],
+     "PHST": [
+          "2015/11/21 00:00 [received]",
+          "2016/01/14 00:00 [revised]",
+          "2016/01/15 00:00 [accepted]",
+          "2016/01/23 06:00 [entrez]",
+          "2016/01/23 06:00 [pubmed]",
+          "2016/09/02 06:00 [medline]"
+     ],
+     "AID": [
+          "s16010120 [pii]",
+          "10.3390/s16010120 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Sensors (Basel). 2016 Jan 19;16(1). pii: s16010120. doi: 10.3390/s16010120.",
+     "term": "spatial navigation"
+}

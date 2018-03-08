@@ -1,0 +1,55 @@
+{
+     "PMID": "16018458",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20051214",
+     "LR": "20061227",
+     "IS": "0001-4966 (Print) 0001-4966 (Linking)",
+     "VI": "117",
+     "IP": "6",
+     "DP": "2005 Jun",
+     "TI": "Model-oriented ocean tomography using higher frequency, bottom-mounted hydrophones.",
+     "PG": "3539-54",
+     "AB": "A tomographic scheme is presented that ingests ocean acoustic measurements into an ocean model using data from bottom-mounted hydrophones. The short distances between source-receiver pairs (1-10 km) means arrival times at frequencies of 8-11 kHz are readily detectable and often distinguishable. The influence of ocean surface motion causes considerable variability in acoustic travel times. Techniques are presented for measuring travel times and removing the variability due to surface waves. An assimilation technique is investigated that uses differences in measured and modeled acoustic travel times to impose corrections on the oceanographic model. Equations relating travel time differences to oceanographic variables are derived, and techniques are presented for estimating the acoustic and ocean model error covariance matrices. One test case using a single source-receiver pair shows that the tomographic information can have an impact on constraining the solution of the ocean circulation model but can also introduce biases in the predictions. A second test case utilizes knowledge of a bias in a model-predicted variable to limit grid cells that are impacted by the tomographic data. In this case, using the tomographic data results in significant improvements in the model predictions without introducing any biases.",
+     "FAU": [
+          "Lewis, James K",
+          "Rudzinsky, Jason",
+          "Rajan, Subramaniam",
+          "Stein, Peter J",
+          "Vandiver, Amy"
+     ],
+     "AU": [
+          "Lewis JK",
+          "Rudzinsky J",
+          "Rajan S",
+          "Stein PJ",
+          "Vandiver A"
+     ],
+     "AD": "Scientific Solutions, Inc., 4875 Kikala Road, Kalaheo, Hawaii 96741, USA.",
+     "CN": [
+          "KauaiEx Group"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "J Acoust Soc Am",
+     "JT": "The Journal of the Acoustical Society of America",
+     "JID": "7503051",
+     "EDAT": "2005/07/16 09:00",
+     "MHDA": "2005/07/16 09:01",
+     "CRDT": [
+          "2005/07/16 09:00"
+     ],
+     "PHST": [
+          "2005/07/16 09:00 [pubmed]",
+          "2005/07/16 09:01 [medline]",
+          "2005/07/16 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Acoust Soc Am. 2005 Jun;117(6):3539-54.",
+     "term": "grid cells"
+}

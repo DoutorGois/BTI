@@ -1,0 +1,71 @@
+{
+     "PMID": "15992486",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20050830",
+     "LR": "20071114",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "17",
+     "IP": "9",
+     "DP": "2005 Sep",
+     "TI": "Analyzing functional connectivity using a network likelihood model of ensemble neural spiking activity.",
+     "PG": "1927-61",
+     "AB": "Analyzing the dependencies between spike trains is an important step in understanding how neurons work in concert to represent biological signals. Usually this is done for pairs of neurons at a time using correlation-based techniques. Chornoboy, Schramm, and Karr (1988) proposed maximum likelihood methods for the simultaneous analysis of multiple pair-wise interactions among an ensemble of neurons. One of these methods is an iterative, continuous-time estimation algorithm for a network likelihood model formulated in terms of multiplicative conditional intensity functions. We devised a discrete-time version of this algorithm that includes a new, efficient computational strategy, a principled method to compute starting values, and a principled stopping criterion. In an analysis of simulated neural spike trains from ensembles of interacting neurons, the algorithm recovered the correct connectivity matrices and interaction parameters. In the analysis of spike trains from an ensemble of rat hippocampal place cells, the algorithm identified a connectivity matrix and interaction parameters consistent with the pattern of conjoined firing predicted by the overlap of the neurons' spatial receptive fields. These results suggest that the network likelihood model can be an efficient tool for the analysis of ensemble spiking activity.",
+     "FAU": [
+          "Okatan, Murat",
+          "Wilson, Matthew A",
+          "Brown, Emery N"
+     ],
+     "AU": [
+          "Okatan M",
+          "Wilson MA",
+          "Brown EN"
+     ],
+     "AD": "Neuroscience Statistics Research Laboratory, Department of Anesthesia and Critical Care, Massachusetts General Hospital, Boston, MA 02114-2698, USA. murat@neurostat.mgh.harvard.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "DA-015644/DA/NIDA NIH HHS/United States",
+          "MH-59733/MH/NIMH NIH HHS/United States",
+          "MH-61637/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "*Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/physiology",
+          "*Likelihood Functions",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Rats"
+     ],
+     "EDAT": "2005/07/05 09:00",
+     "MHDA": "2005/09/01 09:00",
+     "CRDT": [
+          "2005/07/05 09:00"
+     ],
+     "PHST": [
+          "2005/07/05 09:00 [pubmed]",
+          "2005/09/01 09:00 [medline]",
+          "2005/07/05 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/0899766054322973 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2005 Sep;17(9):1927-61. doi: 10.1162/0899766054322973.",
+     "term": "place cells"
+}

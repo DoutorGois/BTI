@@ -1,0 +1,68 @@
+{
+     "PMID": "7472331",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19951129",
+     "LR": "20171213",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "74",
+     "IP": "1",
+     "DP": "1995 Jul",
+     "TI": "Cholinergic modulation of cortical oscillatory dynamics.",
+     "PG": "288-97",
+     "AB": "1. The effect of cholinergic modulation on cortical oscillatory dynamics was studied in a computational model of the piriform (olfactory) cortex. The model included the cholinergic suppression of neuronal adaptation, the cholinergic suppression of intrinsic fiber synaptic transmission, the cholinergic enhancement of interneuron activity, and the cholinergic suppression of inhibitory synaptic transmission. 2. Electroencephalographic (EEG) recordings and field potential recordings from the piriform cortex were modeled with a simplified network in which cortical pyramidal cells were represented by excitatory input/output functions with gain parameters dependent on previous activity. The model incorporated distributed excitatory afferent input and excitatory connections between units. In addition, the model contained two sets of inhibitory units mediating inhibition with different time constants and different reversal potentials. This model can match effectively the patterns of cortical EEG and field potentials, showing oscillatory dynamics in both the gamma (30-80 Hz) and theta (3-10 Hz) frequency range. 3. Cholinergic suppression of neuronal adaptation was modeled by reducing the change in gain associated with previous activity. This caused an increased number of oscillations within the network in response to shock stimulation of the lateral olfactory tract, effectively replicating the effect of carbachol on the field potential response in physiological experiments. 4. Cholinergic suppression of intrinsic excitatory synaptic transmission decreased the prominence of gamma oscillations within the network, allowing theta oscillations to predominate. Coupled with the cholinergic suppression of neuronal adaptation, this caused the network to shift from a nonoscillatory state into an oscillatory state of predominant theta oscillations. This replicates the longer term effect of carbachol in experimental preparations on the EEG potential recorded from the cortex in vivo and from brain-slice preparations of the hippocampus in vitro. Analysis of the model suggests that these oscillations depend upon the time constant of neuronal adaptation rather than the time constant of inhibition or the activity of bursting neurons. 5. Cholinergic modulation may be involved in switching the dynamics of this cortical region between those appropriate for learning and those appropriate for recall. During recall, the spread of activity along intrinsic excitatory connections allows associative memory function, whereas neuronal adaptation prevents the spread of activity between different patterns. During learning, the recall of previously stored patterns is prevented by suppression of intrinsic excitatory connections, whereas the response to the new patterns is enhanced by suppression of neuronal adaptation.",
+     "FAU": [
+          "Liljenstrom, H",
+          "Hasselmo, M E"
+     ],
+     "AU": [
+          "Liljenstrom H",
+          "Hasselmo ME"
+     ],
+     "AD": "Department of Numerical Analysis and Computing Science, Royal Institute of Technology, Stockholm, Sweden.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Adaptation, Physiological",
+          "Cerebral Cortex/cytology/*physiology",
+          "Electric Stimulation",
+          "Electroencephalography",
+          "Hippocampus/physiology",
+          "Humans",
+          "Interneurons/physiology",
+          "Models, Neurological",
+          "Neurons/physiology",
+          "Olfactory Pathways/physiology",
+          "Parasympathetic Nervous System/*physiology",
+          "Pyramidal Cells/physiology",
+          "Synapses/physiology",
+          "Theta Rhythm"
+     ],
+     "EDAT": "1995/07/01 00:00",
+     "MHDA": "1995/07/01 00:01",
+     "CRDT": [
+          "1995/07/01 00:00"
+     ],
+     "PHST": [
+          "1995/07/01 00:00 [pubmed]",
+          "1995/07/01 00:01 [medline]",
+          "1995/07/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1152/jn.1995.74.1.288 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 1995 Jul;74(1):288-97. doi: 10.1152/jn.1995.74.1.288.",
+     "term": "hippocampus"
+}

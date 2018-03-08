@@ -1,0 +1,62 @@
+{
+     "PMID": "20607113",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "0278-3649 (Print) 0278-3649 (Linking)",
+     "VI": "29",
+     "IP": "7",
+     "DP": "2010 Jun 1",
+     "TI": "Generating Uniform Incremental Grids on SO(3) Using the Hopf Fibration.",
+     "PG": "801-812",
+     "AB": "The problem of generating uniform deterministic samples over the rotation group, SO(3), is fundamental to computational biology, chemistry, physics, and numerous branches of computer science. We present the best-known method to date for constructing incremental, deterministic grids on SO(3); it provides: 1) the lowest metric distortion for grid neighbor edges, 2) optimal dispersion-reduction with each additional sample, 3) explicit neighborhood structure, and 4) equivolumetric partition of SO(3) by the grid cells. We also demonstrate the use of the sequence on motion planning problems.",
+     "FAU": [
+          "Yershova, Anna",
+          "Jain, Swati",
+          "Lavalle, Steven M",
+          "Mitchell, Julie C"
+     ],
+     "AU": [
+          "Yershova A",
+          "Jain S",
+          "Lavalle SM",
+          "Mitchell JC"
+     ],
+     "AD": "Duke University, Durham, NC 27707, USA, yershova@cs.duke.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 GM065982/GM/NIGMS NIH HHS/United States",
+          "R01 GM065982-08/GM/NIGMS NIH HHS/United States",
+          "R01 GM078031/GM/NIGMS NIH HHS/United States",
+          "R01 GM078031-02/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Int J Rob Res",
+     "JT": "The International journal of robotics research",
+     "JID": "101511318",
+     "PMC": "PMC2896220",
+     "MID": [
+          "NIHMS152034"
+     ],
+     "EDAT": "2010/07/08 06:00",
+     "MHDA": "2010/07/08 06:00",
+     "CRDT": [
+          "2010/07/08 06:00"
+     ],
+     "PHST": [
+          "2010/07/08 06:00 [entrez]",
+          "2010/07/08 06:00 [pubmed]",
+          "2010/07/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1177/0278364909352700 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Int J Rob Res. 2010 Jun 1;29(7):801-812. doi: 10.1177/0278364909352700.",
+     "term": "grid cells"
+}

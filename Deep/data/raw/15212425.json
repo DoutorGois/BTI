@@ -1,0 +1,72 @@
+{
+     "PMID": "15212425",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20041122",
+     "LR": "20061115",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "92",
+     "IP": "4",
+     "DP": "2004 Oct",
+     "TI": "A combinatorial method for analyzing sequential firing patterns involving an arbitrary number of neurons based on relative time order.",
+     "PG": "2555-73",
+     "AB": "Information processing in the brain is believed to require coordinated activity across many neurons. With the recent development of techniques for simultaneously recording the spiking activity of large numbers of individual neurons, the search for complex multicell firing patterns that could help reveal this neural code has become possible. Here we develop a new approach for analyzing sequential firing patterns involving an arbitrary number of neurons based on relative firing order. Specifically, we develop a combinatorial method for quantifying the degree of matching between a \"reference sequence\" of N distinct \"letters\" (representing a particular target order of firing by N cells) and an arbitrarily long \"word\" composed of any subset of those letters including repeats (representing the relative time order of spikes in an arbitrary firing pattern). The method involves computing the probability that a random permutation of the word's letters would by chance alone match the reference sequence as well as or better than the actual word does, assuming all permutations were equally likely. Lower probabilities thus indicate better matching. The overall degree and statistical significance of sequence matching across a heterogeneous set of words (such as those produced during the course of an experiment) can be computed from the corresponding set of probabilities. This approach can reduce the sample size problem associated with analyzing complex firing patterns. The approach is general and thus applicable to other types of neural data beyond multiple spike trains, such as EEG events or imaging signals from multiple locations. We have recently applied this method to quantify memory traces of sequential experience in the rodent hippocampus during slow wave sleep.",
+     "FAU": [
+          "Lee, Albert K",
+          "Wilson, Matthew A"
+     ],
+     "AU": [
+          "Lee AK",
+          "Wilson MA"
+     ],
+     "AD": "Picower Center for Learning and Memory, RIKEN-MIT Neuroscience Research Center, Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA. albert@cortical.mit.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20040622",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "EIN": [
+          "J Neurophysiol. 2005 Mar;93(3):1821"
+     ],
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "Data Interpretation, Statistical",
+          "Electric Stimulation",
+          "Electroencephalography",
+          "Electrophysiology/*methods",
+          "Hippocampus/cytology/physiology",
+          "*Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "Probability",
+          "Rats",
+          "Sample Size",
+          "Sleep/physiology"
+     ],
+     "EDAT": "2004/06/24 05:00",
+     "MHDA": "2004/12/16 09:00",
+     "CRDT": [
+          "2004/06/24 05:00"
+     ],
+     "PHST": [
+          "2004/06/24 05:00 [pubmed]",
+          "2004/12/16 09:00 [medline]",
+          "2004/06/24 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1152/jn.01030.2003 [doi]",
+          "01030.2003 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2004 Oct;92(4):2555-73. doi: 10.1152/jn.01030.2003. Epub 2004 Jun 22.",
+     "term": "hippocampus"
+}

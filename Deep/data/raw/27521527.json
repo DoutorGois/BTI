@@ -1,0 +1,82 @@
+{
+     "PMID": "27521527",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170925",
+     "LR": "20170925",
+     "IS": "1095-8541 (Electronic) 0022-5193 (Linking)",
+     "VI": "408",
+     "DP": "2016 Nov 7",
+     "TI": "Validating a model for detecting magnetic field intensity using dynamic neural fields.",
+     "PG": "53-65",
+     "LID": "10.1016/j.jtbi.2016.08.010 [doi] S0022-5193(16)30244-2 [pii]",
+     "AB": "Several animals use properties of Earth's magnetic field as a part of their navigation toolkit to accomplish tasks ranging from local homing to continental migration. Studying these behaviors has led to the postulation of both a magnetite-based sense, and a chemically based radical-pair mechanism. Several researchers have proposed models aimed at both understanding these mechanisms, and offering insights into future physiological experiments. The present work mathematically implements a previously developed conceptual model for sensing and processing magnetite-based magnetosensory feedback by using dynamic neural fields, a computational neuroscience tool for modeling nervous system dynamics and processing. Results demonstrate the plausibility of the conceptual model's predictions. Specifically, a population of magnetoreceptors in which each individual can only sense directional information can encode magnetic intensity en masse. Multiple populations can encode both magnetic direction, and intensity, two parameters that several animals use in their navigational toolkits. This work can be expanded to test other magnetoreceptor models.",
+     "CI": [
+          "Published by Elsevier Ltd."
+     ],
+     "FAU": [
+          "Taylor, Brian K"
+     ],
+     "AU": [
+          "Taylor BK"
+     ],
+     "AD": "Air Force Research Laboratory - Munitions Directorate, 101 West Eglin Blvd, Ste. 209, Bldg 13 Eglin AFB, FL 32542, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160810",
+     "PL": "England",
+     "TA": "J Theor Biol",
+     "JT": "Journal of theoretical biology",
+     "JID": "0376342",
+     "RN": [
+          "XM0M87F357 (Ferrosoferric Oxide)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animal Migration/physiology",
+          "Animals",
+          "Behavior, Animal/*physiology",
+          "Ferrosoferric Oxide",
+          "Homing Behavior",
+          "*Magnetic Fields",
+          "*Models, Biological",
+          "Nervous System Physiological Phenomena",
+          "Orientation/physiology",
+          "Spatial Navigation/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alternative navigation",
+          "Dynamic neural field",
+          "Magnetic reception",
+          "Magnetoreception",
+          "Magnetosensing",
+          "Navigation"
+     ],
+     "EDAT": "2016/08/16 06:00",
+     "MHDA": "2017/09/26 06:00",
+     "CRDT": [
+          "2016/08/14 06:00"
+     ],
+     "PHST": [
+          "2015/12/16 00:00 [received]",
+          "2016/08/05 00:00 [revised]",
+          "2016/08/10 00:00 [accepted]",
+          "2016/08/14 06:00 [entrez]",
+          "2016/08/16 06:00 [pubmed]",
+          "2017/09/26 06:00 [medline]"
+     ],
+     "AID": [
+          "S0022-5193(16)30244-2 [pii]",
+          "10.1016/j.jtbi.2016.08.010 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Theor Biol. 2016 Nov 7;408:53-65. doi: 10.1016/j.jtbi.2016.08.010. Epub 2016 Aug 10.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,72 @@
+{
+     "PMID": "23386827",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130207",
+     "LR": "20170922",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "7",
+     "DP": "2013",
+     "TI": "Influence of slow oscillation on hippocampal activity and ripples through cortico-hippocampal synaptic interactions, analyzed by a cortical-CA3-CA1 network model.",
+     "PG": "3",
+     "LID": "10.3389/fncom.2013.00003 [doi]",
+     "AB": "Hippocampal sharp wave-ripple complexes (SWRs) involve the synchronous discharge of thousands of cells throughout the CA3-CA1-subiculum-entorhinal cortex axis. Their strong transient output affects cortical targets, rendering SWRs a possible means for memory transfer from the hippocampus to the neocortex for long-term storage. Neurophysiological observations of hippocampal activity modulation by the cortical slow oscillation (SO) during deep sleep and anesthesia, and correlations between ripples and UP states, support the role of SWRs in memory consolidation through a cortico-hippocampal feedback loop. We couple a cortical network exhibiting SO with a hippocampal CA3-CA1 computational network model exhibiting SWRs, in order to model such cortico-hippocampal correlations and uncover important parameters and coupling mechanisms controlling them. The cortical oscillatory output entrains the CA3 network via connections representing the mossy fiber input, and the CA1 network via the temporoammonic pathway (TA). The spiking activity in CA3 and CA1 is shown to depend on the excitation-to-inhibition ratio, induced by combining the two hippocampal inputs, with mossy fiber input controlling the UP-state correlation of CA3 population bursts and corresponding SWRs, whereas the temporoammonic input affects the overall CA1 spiking activity. Ripple characteristics and pyramidal spiking participation to SWRs are shaped by the strength of the Schaffer collateral drive. A set of in vivo recordings from the rat hippocampus confirms a model-predicted segregation of pyramidal cells into subgroups according to the SO state where they preferentially fire and their response to SWRs. These groups can potentially play distinct functional roles in the replay of spike sequences.",
+     "FAU": [
+          "Taxidis, Jiannis",
+          "Mizuseki, Kenji",
+          "Mason, Robert",
+          "Owen, Markus R"
+     ],
+     "AU": [
+          "Taxidis J",
+          "Mizuseki K",
+          "Mason R",
+          "Owen MR"
+     ],
+     "AD": "Centre for Mathematical Biology and Medicine, School of Mathematical Sciences, University of Nottingham Nottingham, UK ; Division of Biology, Computation and Neural Systems, California Institute of Technology Pasadena, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0401458/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130205",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC3564232",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "correlations",
+          "hippocampus",
+          "mossy fibers",
+          "ripples",
+          "sharp waves",
+          "slow oscillation",
+          "temporoammonic pathway"
+     ],
+     "EDAT": "2013/02/07 06:00",
+     "MHDA": "2013/02/07 06:01",
+     "CRDT": [
+          "2013/02/07 06:00"
+     ],
+     "PHST": [
+          "2012/11/28 00:00 [received]",
+          "2013/01/21 00:00 [accepted]",
+          "2013/02/07 06:00 [entrez]",
+          "2013/02/07 06:00 [pubmed]",
+          "2013/02/07 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2013.00003 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2013 Feb 5;7:3. doi: 10.3389/fncom.2013.00003. eCollection 2013.",
+     "term": "hippocampus"
+}

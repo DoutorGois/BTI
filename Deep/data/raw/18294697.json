@@ -1,0 +1,100 @@
+{
+     "PMID": "18294697",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080718",
+     "LR": "20161122",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "170",
+     "IP": "1",
+     "DP": "2008 May 15",
+     "TI": "Associative image analysis: a method for automated quantification of 3D multi-parameter images of brain tissue.",
+     "PG": "165-78",
+     "LID": "10.1016/j.jneumeth.2007.12.024 [doi]",
+     "AB": "Brain structural complexity has confounded prior efforts to extract quantitative image-based measurements. We present a systematic 'divide and conquer' methodology for analyzing three-dimensional (3D) multi-parameter images of brain tissue to delineate and classify key structures, and compute quantitative associations among them. To demonstrate the method, thick ( approximately 100 microm) slices of rat brain tissue were labeled using three to five fluorescent signals, and imaged using spectral confocal microscopy and unmixing algorithms. Automated 3D segmentation and tracing algorithms were used to delineate cell nuclei, vasculature, and cell processes. From these segmentations, a set of 23 intrinsic and 8 associative image-based measurements was computed for each cell. These features were used to classify astrocytes, microglia, neurons, and endothelial cells. Associations among cells and between cells and vasculature were computed and represented as graphical networks to enable further analysis. The automated results were validated using a graphical interface that permits investigator inspection and corrective editing of each cell in 3D. Nuclear counting accuracy was >89%, and cell classification accuracy ranged from 81 to 92% depending on cell type. We present a software system named FARSIGHT implementing our methodology. Its output is a detailed XML file containing measurements that may be used for diverse quantitative hypothesis-driven and exploratory studies of the central nervous system.",
+     "FAU": [
+          "Bjornsson, Christopher S",
+          "Lin, Gang",
+          "Al-Kofahi, Yousef",
+          "Narayanaswamy, Arunachalam",
+          "Smith, Karen L",
+          "Shain, William",
+          "Roysam, Badrinath"
+     ],
+     "AU": [
+          "Bjornsson CS",
+          "Lin G",
+          "Al-Kofahi Y",
+          "Narayanaswamy A",
+          "Smith KL",
+          "Shain W",
+          "Roysam B"
+     ],
+     "AD": "Center for Neural Communication Technology, New York State Department of Health, Wadsworth Center, Albany, NY 12201-0509, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB002030-11A29003/EB/NIBIB NIH HHS/United States",
+          "R01 EB005157/EB/NIBIB NIH HHS/United States",
+          "R01 EB005157-01A2/EB/NIBIB NIH HHS/United States",
+          "R01 NS044287-01A1/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20080117",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Coloring Agents)",
+          "0 (Glial Fibrillary Acidic Protein)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Blood Vessels/anatomy & histology/chemistry",
+          "Brain/*anatomy & histology/cytology",
+          "Brain Chemistry",
+          "Cerebral Cortex/anatomy & histology/cytology/physiology",
+          "Cerebrovascular Circulation/physiology",
+          "Coloring Agents",
+          "Glial Fibrillary Acidic Protein/metabolism",
+          "Hippocampus/anatomy & histology/cytology/physiology",
+          "Image Processing, Computer-Assisted/*methods/statistics & numerical data",
+          "Male",
+          "Nerve Net/cytology/physiology",
+          "Neurons/classification",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Reproducibility of Results",
+          "Software"
+     ],
+     "PMC": "PMC2700351",
+     "MID": [
+          "NIHMS47241"
+     ],
+     "EDAT": "2008/02/26 09:00",
+     "MHDA": "2008/07/19 09:00",
+     "CRDT": [
+          "2008/02/26 09:00"
+     ],
+     "PHST": [
+          "2007/06/15 00:00 [received]",
+          "2007/12/06 00:00 [revised]",
+          "2007/12/27 00:00 [accepted]",
+          "2008/02/26 09:00 [pubmed]",
+          "2008/07/19 09:00 [medline]",
+          "2008/02/26 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0165-0270(08)00003-4 [pii]",
+          "10.1016/j.jneumeth.2007.12.024 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2008 May 15;170(1):165-78. doi: 10.1016/j.jneumeth.2007.12.024. Epub 2008 Jan 17.",
+     "term": "hippocampus"
+}

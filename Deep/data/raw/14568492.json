@@ -1,0 +1,80 @@
+{
+     "PMID": "14568492",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20031219",
+     "LR": "20131121",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "20",
+     "IP": "2",
+     "DP": "2003 Oct",
+     "TI": "Identifying confounds to increase specificity during a \"no task condition\". Evidence for hippocampal connectivity using fMRI.",
+     "PG": "1236-45",
+     "AB": "Functional MRI can be applied to study connectivity in the brain during a \"no task condition.\" This study focuses on applying a multiple linear regression analysis to identify spurious connectivity caused by confounding factors such as physiologic noise and to separate these from hippocampal connectivity caused by the blood oxygen level dependent (BOLD) signal during a no-task condition. Regressors of interest (hippocampal time courses) as well as regressors of no interest (respiratory signal and cerebrospinal fluid), were included in the analysis, and each yielded a connectivity map. This method was applied at high sampling rate (limited volume, proper physiologic noise sampling), low sampling rate (whole brain scans possible), and at high and low spatial resolution in five healthy control subjects. Regressors of no interest showed specific connectivity patterns, different from hippocampal regressors. The latter showed connectivity between left and right hippocampus. The current study shows successful application of a multiple regression analysis to study connectivity between left and right hippocampus. Both maps of hippocampal connectivity caused by BOLD signal and connectivity caused by spurious signals could be identified.",
+     "FAU": [
+          "Rombouts, S A R B",
+          "Stam, C J",
+          "Kuijer, J P A",
+          "Scheltens, Ph",
+          "Barkhof, F"
+     ],
+     "AU": [
+          "Rombouts SA",
+          "Stam CJ",
+          "Kuijer JP",
+          "Scheltens P",
+          "Barkhof F"
+     ],
+     "AD": "Department of Physics and Medical Technology, VU Medical Center, Amsterdam, The Netherlands. sarb.rombouts@vumc.nl",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Clinical Trial",
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "S88TT14065 (Oxygen)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Brain Mapping",
+          "Female",
+          "Functional Laterality/physiology",
+          "Hippocampus/*physiology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted",
+          "Linear Models",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Nerve Net/physiology",
+          "Neural Pathways/*physiology",
+          "Oxygen/blood"
+     ],
+     "EDAT": "2003/10/22 05:00",
+     "MHDA": "2003/12/20 05:00",
+     "CRDT": [
+          "2003/10/22 05:00"
+     ],
+     "PHST": [
+          "2003/02/24 00:00 [received]",
+          "2003/05/22 00:00 [revised]",
+          "2003/06/23 00:00 [accepted]",
+          "2003/10/22 05:00 [pubmed]",
+          "2003/12/20 05:00 [medline]",
+          "2003/10/22 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1016/S1053-8119(03)00386-0 [doi]",
+          "S1053811903003860 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2003 Oct;20(2):1236-45. doi: 10.1016/S1053-8119(03)00386-0.",
+     "term": "hippocampus"
+}

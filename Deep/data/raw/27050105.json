@@ -1,0 +1,88 @@
+{
+     "PMID": "27050105",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170103",
+     "LR": "20170104",
+     "IS": "1879-0038 (Electronic) 0378-1119 (Linking)",
+     "VI": "586",
+     "IP": "1",
+     "DP": "2016 Jul 15",
+     "TI": "Brain in situ hybridization maps as a source for reverse-engineering transcriptional regulatory networks: Alzheimer's disease insights.",
+     "PG": "77-86",
+     "LID": "10.1016/j.gene.2016.03.045 [doi] S0378-1119(16)30235-9 [pii]",
+     "AB": "Microarray data have been a valuable resource for identifying transcriptional regulatory relationships among genes. As an example, brain region-specific transcriptional regulatory events have the potential of providing etiological insights into Alzheimer Disease (AD). However, there is often a paucity of suitable brain-region specific expression data obtained via microarrays or other high throughput means. The Allen Brain Atlas in situ hybridization (ISH) data sets (Jones et al., 2009) represent a potentially valuable alternative source of high-throughput brain region-specific gene expression data for such purposes. In this study, Allen Brain Atlas mouse ISH data in the hippocampal fields were extracted, focusing on 508 genes relevant to neurodegeneration. Transcriptional regulatory networks were learned using three high-performing network inference algorithms. Only 17% of regulatory edges from a network reverse-engineered based on brain region-specific ISH data were also found in a network constructed upon gene expression correlations in mouse whole brain microarrays, thus showing the specificity of gene expression within brain sub-regions. Furthermore, the ISH data-based networks were used to identify instructive transcriptional regulatory relationships. Ncor2, Sp3 and Usf2 form a unique three-party regulatory motif, potentially affecting memory formation pathways. Nfe2l1, Egr1 and Usf2 emerge among regulators of genes involved in AD (e.g. Dhcr24, Aplp2, Tia1, Pdrx1, Vdac1, and Syn2). Further, Nfe2l1, Egr1 and Usf2 are sensitive to dietary factors and could be among links between dietary influences and genes in the AD etiology. Thus, this approach of harnessing brain region-specific ISH data represents a rare opportunity for gleaning unique etiological insights for diseases such as AD.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Acquaah-Mensah, George K",
+          "Taylor, Ronald C"
+     ],
+     "AU": [
+          "Acquaah-Mensah GK",
+          "Taylor RC"
+     ],
+     "AD": "Department of Pharmaceutical Sciences, MCPHS University (Massachusetts College of Pharmacy and Health Sciences), Worcester, MA, USA. Electronic address: george.acquaah-mensah@mcphs.edu. Computational Biology & Bioinformatics Group, Pacific Northwest National Laboratory (U.S. Department of Energy), Richland, WA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160403",
+     "PL": "Netherlands",
+     "TA": "Gene",
+     "JT": "Gene",
+     "JID": "7706761",
+     "RN": [
+          "0 (Transcription Factors)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*genetics",
+          "Animals",
+          "Female",
+          "*Gene Regulatory Networks",
+          "Hippocampus/*metabolism",
+          "Humans",
+          "*In Situ Hybridization",
+          "Male",
+          "Mice",
+          "Oligonucleotide Array Sequence Analysis",
+          "Rats",
+          "Transcription Factors/metabolism"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Egr1",
+          "In situ hybridization",
+          "Nfe2l1",
+          "Sp3",
+          "Transcriptional regulatory networks",
+          "Usf2"
+     ],
+     "EDAT": "2016/04/07 06:00",
+     "MHDA": "2017/01/04 06:00",
+     "CRDT": [
+          "2016/04/07 06:00"
+     ],
+     "PHST": [
+          "2015/11/17 00:00 [received]",
+          "2016/02/05 00:00 [revised]",
+          "2016/03/23 00:00 [accepted]",
+          "2016/04/07 06:00 [entrez]",
+          "2016/04/07 06:00 [pubmed]",
+          "2017/01/04 06:00 [medline]"
+     ],
+     "AID": [
+          "S0378-1119(16)30235-9 [pii]",
+          "10.1016/j.gene.2016.03.045 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Gene. 2016 Jul 15;586(1):77-86. doi: 10.1016/j.gene.2016.03.045. Epub 2016 Apr 3.",
+     "term": "hippocampus"
+}

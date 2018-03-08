@@ -1,0 +1,104 @@
+{
+     "PMID": "19815080",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100212",
+     "LR": "20170922",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "49",
+     "IP": "2",
+     "DP": "2010 Jan 15",
+     "TI": "LEAP: learning embeddings for atlas propagation.",
+     "PG": "1316-25",
+     "LID": "10.1016/j.neuroimage.2009.09.069 [doi]",
+     "AB": "We propose a novel framework for the automatic propagation of a set of manually labeled brain atlases to a diverse set of images of a population of subjects. A manifold is learned from a coordinate system embedding that allows the identification of neighborhoods which contain images that are similar based on a chosen criterion. Within the new coordinate system, the initial set of atlases is propagated to all images through a succession of multi-atlas segmentation steps. This breaks the problem of registering images that are very \"dissimilar\" down into a problem of registering a series of images that are \"similar\". At the same time, it allows the potentially large deformation between the images to be modeled as a sequence of several smaller deformations. We applied the proposed method to an exemplar region centered around the hippocampus from a set of 30 atlases based on images from young healthy subjects and a dataset of 796 images from elderly dementia patients and age-matched controls enrolled in the Alzheimer's Disease Neuroimaging Initiative (ADNI). We demonstrate an increasing gain in accuracy of the new method, compared to standard multi-atlas segmentation, with increasing distance between the target image and the initial set of atlases in the coordinate embedding, i.e., with a greater difference between atlas and image. For the segmentation of the hippocampus on 182 images for which a manual segmentation is available, we achieved an average overlap (Dice coefficient) of 0.85 with the manual reference.",
+     "FAU": [
+          "Wolz, Robin",
+          "Aljabar, Paul",
+          "Hajnal, Joseph V",
+          "Hammers, Alexander",
+          "Rueckert, Daniel"
+     ],
+     "AU": [
+          "Wolz R",
+          "Aljabar P",
+          "Hajnal JV",
+          "Hammers A",
+          "Rueckert D"
+     ],
+     "AD": "Visual Information Processing Group, Department of Computing, Imperial College London, 180 Queen's Gate, London, SW7 2AZ, UK. r.wolz@imperial.ac.uk",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904-01/AG/NIA NIH HHS/United States",
+          "G108/585/Medical Research Council/United Kingdom",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "U19 AG010483/AG/NIA NIH HHS/United States",
+          "MC_U120061309/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20091006",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Anatomy, Artistic/*methods",
+          "*Atlases as Topic",
+          "*Automation",
+          "Brain/*anatomy & histology/pathology",
+          "Dementia/pathology",
+          "Female",
+          "Hippocampus/anatomy & histology/pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Male",
+          "Middle Aged",
+          "Organ Size",
+          "Young Adult"
+     ],
+     "PMC": "PMC3068618",
+     "MID": [
+          "NIHMS238476"
+     ],
+     "IR": [
+          "Weiner MW"
+     ],
+     "FIR": [
+          "Weiner, Michael W"
+     ],
+     "EDAT": "2009/10/10 06:00",
+     "MHDA": "2010/02/13 06:00",
+     "CRDT": [
+          "2009/10/10 06:00"
+     ],
+     "PHST": [
+          "2009/07/08 00:00 [received]",
+          "2009/09/27 00:00 [revised]",
+          "2009/09/29 00:00 [accepted]",
+          "2009/10/10 06:00 [entrez]",
+          "2009/10/10 06:00 [pubmed]",
+          "2010/02/13 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(09)01068-4 [pii]",
+          "10.1016/j.neuroimage.2009.09.069 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2010 Jan 15;49(2):1316-25. doi: 10.1016/j.neuroimage.2009.09.069. Epub 2009 Oct 6.",
+     "term": "hippocampus"
+}

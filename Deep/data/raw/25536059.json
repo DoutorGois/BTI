@@ -1,0 +1,78 @@
+{
+     "PMID": "25536059",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160429",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "9",
+     "IP": "12",
+     "DP": "2014",
+     "TI": "Multiplex networks of cortical and hippocampal neurons revealed at different timescales.",
+     "PG": "e115764",
+     "LID": "10.1371/journal.pone.0115764 [doi]",
+     "AB": "Recent studies have emphasized the importance of multiplex networks--interdependent networks with shared nodes and different types of connections--in systems primarily outside of neuroscience. Though the multiplex properties of networks are frequently not considered, most networks are actually multiplex networks and the multiplex specific features of networks can greatly affect network behavior (e.g. fault tolerance). Thus, the study of networks of neurons could potentially be greatly enhanced using a multiplex perspective. Given the wide range of temporally dependent rhythms and phenomena present in neural systems, we chose to examine multiplex networks of individual neurons with time scale dependent connections. To study these networks, we used transfer entropy--an information theoretic quantity that can be used to measure linear and nonlinear interactions--to systematically measure the connectivity between individual neurons at different time scales in cortical and hippocampal slice cultures. We recorded the spiking activity of almost 12,000 neurons across 60 tissue samples using a 512-electrode array with 60 micrometer inter-electrode spacing and 50 microsecond temporal resolution. To the best of our knowledge, this preparation and recording method represents a superior combination of number of recorded neurons and temporal and spatial recording resolutions to any currently available in vivo system. We found that highly connected neurons (\"hubs\") were localized to certain time scales, which, we hypothesize, increases the fault tolerance of the network. Conversely, a large proportion of non-hub neurons were not localized to certain time scales. In addition, we found that long and short time scale connectivity was uncorrelated. Finally, we found that long time scale networks were significantly less modular and more disassortative than short time scale networks in both tissue types. As far as we are aware, this analysis represents the first systematic study of temporally dependent multiplex networks among individual neurons.",
+     "FAU": [
+          "Timme, Nicholas",
+          "Ito, Shinya",
+          "Myroshnychenko, Maxym",
+          "Yeh, Fang-Chin",
+          "Hiolski, Emma",
+          "Hottowy, Pawel",
+          "Beggs, John M"
+     ],
+     "AU": [
+          "Timme N",
+          "Ito S",
+          "Myroshnychenko M",
+          "Yeh FC",
+          "Hiolski E",
+          "Hottowy P",
+          "Beggs JM"
+     ],
+     "AD": "Department of Physics, Indiana University, Bloomington, Indiana, 47405, United States of America. Santa Cruz Institute for Particle Physics, University of California Santa Cruz, Santa Cruz, California, 95064, United States of America. Program in Neuroscience, Indiana University, Bloomington, Indiana, 47405, United States of America. Department of Physics, Indiana University, Bloomington, Indiana, 47405, United States of America. Department of Microbiology & Environmental Toxicology, University of California Santa Cruz, Santa Cruz, California, 95064, United States of America. Physics and Applied Computer Science, AGH University of Science and Technology, 30-059, Krakow, Poland. Department of Physics, Indiana University, Bloomington, Indiana, 47405, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20141223",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "Cerebral Cortex/*cytology/physiology",
+          "Entropy",
+          "Hippocampus/*cytology/physiology",
+          "Mice, Inbred C57BL",
+          "Models, Neurological",
+          "Nerve Net/*cytology/physiology",
+          "Neurons/*cytology/physiology"
+     ],
+     "PMC": "PMC4275261",
+     "EDAT": "2014/12/24 06:00",
+     "MHDA": "2016/04/30 06:00",
+     "CRDT": [
+          "2014/12/24 06:00"
+     ],
+     "PHST": [
+          "2014/07/03 00:00 [received]",
+          "2014/11/03 00:00 [accepted]",
+          "2014/12/24 06:00 [entrez]",
+          "2014/12/24 06:00 [pubmed]",
+          "2016/04/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0115764 [doi]",
+          "PONE-D-14-29881 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2014 Dec 23;9(12):e115764. doi: 10.1371/journal.pone.0115764. eCollection 2014.",
+     "term": "hippocampus"
+}

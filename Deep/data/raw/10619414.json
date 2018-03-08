@@ -1,0 +1,66 @@
+{
+     "PMID": "10619414",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20000120",
+     "LR": "20061115",
+     "IS": "1065-9471 (Print) 1065-9471 (Linking)",
+     "VI": "8",
+     "IP": "4",
+     "DP": "1999",
+     "TI": "Measuring phase synchrony in brain signals.",
+     "PG": "194-208",
+     "AB": "This article presents, for the first time, a practical method for the direct quantification of frequency-specific synchronization (i.e., transient phase-locking) between two neuroelectric signals. The motivation for its development is to be able to examine the role of neural synchronies as a putative mechanism for long-range neural integration during cognitive tasks. The method, called phase-locking statistics (PLS), measures the significance of the phase covariance between two signals with a reasonable time-resolution (<100 ms). Unlike the more traditional method of spectral coherence, PLS separates the phase and amplitude components and can be directly interpreted in the framework of neural integration. To validate synchrony values against background fluctuations, PLS uses surrogate data and thus makes no a priori assumptions on the nature of the experimental data. We also apply PLS to investigate intracortical recordings from an epileptic patient performing a visual discrimination task. We find large-scale synchronies in the gamma band (45 Hz), e.g., between hippocampus and frontal gyrus, and local synchronies, within a limbic region, a few cm apart. We argue that whereas long-scale effects do reflect cognitive processing, short-scale synchronies are likely to be due to volume conduction. We discuss ways to separate such conduction effects from true signal synchrony.",
+     "FAU": [
+          "Lachaux, J P",
+          "Rodriguez, E",
+          "Martinerie, J",
+          "Varela, F J"
+     ],
+     "AU": [
+          "Lachaux JP",
+          "Rodriguez E",
+          "Martinerie J",
+          "Varela FJ"
+     ],
+     "AD": "Laboratoire de Neurosciences Cognitives et Imagerie Cerebrale, CNRS UPR 40 Hopital de La Salpetriere, Paris, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Brain/*physiology",
+          "Cerebral Cortex/physiology",
+          "Computer Simulation",
+          "Electroencephalography",
+          "Humans",
+          "Models, Neurological",
+          "Neural Conduction/physiology",
+          "Signal Transduction/*physiology",
+          "Time Factors"
+     ],
+     "EDAT": "2000/01/05 09:00",
+     "MHDA": "2000/08/12 11:00",
+     "CRDT": [
+          "2000/01/05 09:00"
+     ],
+     "PHST": [
+          "2000/01/05 09:00 [pubmed]",
+          "2000/08/12 11:00 [medline]",
+          "2000/01/05 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/(SICI)1097-0193(1999)8:4<194::AID-HBM4>3.0.CO;2-C [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 1999;8(4):194-208.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,71 @@
+{
+     "PMID": "24784375",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141215",
+     "LR": "20170214",
+     "IS": "2473-4209 (Electronic) 0094-2405 (Linking)",
+     "VI": "41",
+     "IP": "5",
+     "DP": "2014 May",
+     "TI": "Helical tomotherapy with dynamic running-start-stop delivery compared to conventional tomotherapy delivery.",
+     "PG": "051709",
+     "LID": "10.1118/1.4870987 [doi]",
+     "AB": "PURPOSE: Despite superior target dose uniformity, helical tomotherapy((R)) (HT) may involve a trade-off between longitudinal dose conformity and beam-on time (BOT), due to the limitation of only three available jaw sizes with the conventional HT (1.0, 2.5, and 5.0 cm). The recently introduced dynamic running-start-stop (RSS) delivery allows smaller jaw opening at the superior and inferior ends of the target when a sharp penumbra is needed. This study compared the dosimetric performance of RSS delivery with the fixed jaw HT delivery. METHODS: Twenty patient cases were selected and deidentified prior to treatment planning, including 16 common clinical cases (brain, head and neck (HN), lung, and prostate) and four special cases of whole brain with hippocampus avoidance (WBHA) that require a high degree of dose modulation. HT plans were generated for common clinical cases using the fixed 2.5 cm jaw width (HT2.5) and WBHA cases using 1.0 cm (HT1.0). The jaw widths for RSS were preset with a larger size (RSS5.0 vs HT2.5 and RSS2.5 vs HT1.0). Both delivery techniques were planned based on identical contours, prescriptions, and planning objectives. Dose indices for targets and critical organs were compared using dose-volume histograms, BOT, and monitor units. RESULTS: The average BOT was reduced from 4.8 min with HT2.5 to 2.5 min with RSS5.0. Target dose homogeneity with RSS5.0 was shown comparable to HT2.5 for common clinical sites. Superior normal tissue sparing was observed in RSS5.0 for optic nerves and optic chiasm in brain and HN cases. RSS5.0 demonstrated improved dose sparing for cord and esophagus in lung cases, as well as penile bulb in prostate cases. The mean body dose was comparable for both techniques. For the WBHA cases, the target homogeneity was significantly degraded in RSS2.5 without distinct dose sparing for hippocampus, compared to HT1.0. CONCLUSIONS: Compared to the fixed jaw HT delivery, RSS combined with a larger jaw width provides faster treatment delivery and improved cranial-caudal target dose conformity. The target coverage achieved by RSS with a large jaw width is comparable to the fixed jaw HT delivery for common cancer sites, but may deteriorate for cases where complex geometry is present in the middle part of the target.",
+     "FAU": [
+          "Rong, Yi",
+          "Chen, Yu",
+          "Shang, Lu",
+          "Zuo, Li",
+          "Lu, Weiguo",
+          "Chen, Quan"
+     ],
+     "AU": [
+          "Rong Y",
+          "Chen Y",
+          "Shang L",
+          "Zuo L",
+          "Lu W",
+          "Chen Q"
+     ],
+     "AD": "Department of Radiation Oncology, The Ohio State University Wexner Medical Center, Columbus, Ohio 43210. 21st Century Oncology, Madison, Wisconsin 53719. Guangxi Polytechnic of Construction and Technology, Nanning, China. Radiologic Sciences and Respiratory Therapy Division, School of Health and Rehabilitation Sciences, The Ohio State University College of Medicine, Columbus, Ohio 43210. 21st Century Oncology, Madison, Wisconsin 53719. Department of Radiation Oncology, University of Virginia, Charlottesville, Virginia 22904.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Med Phys",
+     "JT": "Medical physics",
+     "JID": "0425746",
+     "SB": "IM",
+     "MH": [
+          "Brain Neoplasms/radiotherapy",
+          "Head and Neck Neoplasms/radiotherapy",
+          "Humans",
+          "Lung Neoplasms/radiotherapy",
+          "Male",
+          "Prostatic Neoplasms/radiotherapy",
+          "Radiotherapy Dosage",
+          "Radiotherapy Planning, Computer-Assisted",
+          "Radiotherapy, Intensity-Modulated/adverse effects/*instrumentation/*methods"
+     ],
+     "EDAT": "2014/05/03 06:00",
+     "MHDA": "2014/12/17 06:00",
+     "CRDT": [
+          "2014/05/03 06:00"
+     ],
+     "PHST": [
+          "2014/05/03 06:00 [entrez]",
+          "2014/05/03 06:00 [pubmed]",
+          "2014/12/17 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1118/1.4870987 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Phys. 2014 May;41(5):051709. doi: 10.1118/1.4870987.",
+     "term": "hippocampus"
+}

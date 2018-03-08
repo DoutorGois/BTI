@@ -1,0 +1,102 @@
+{
+     "PMID": "17383900",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070611",
+     "LR": "20170219",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "35",
+     "IP": "4",
+     "DP": "2007 May 1",
+     "TI": "Hippocampus-specific fMRI group activation analysis using the continuous medial representation.",
+     "PG": "1516-30",
+     "AB": "We present a new shape-based approach for regional group activation analysis in fMRI studies. The method restricts anatomical normalization, spatial smoothing and random effects statistical analysis to the space inside and around a structure of interest. Normalization involves finding intersubject correspondences between manually outlined masks, and it leverages the continuous medial representation, which makes it possible to extend surface-based shape correspondences to the space inside and outside of structures. Our approach is an alternative to whole-brain normalization in cases where the latter may fail due to anatomical variability or pathology. It also provides an opportunity to analyze the shape and thickness of structures concurrently with functional activation. We apply the technique to the hippocampus and evaluate it using data from a visual scene encoding fMRI study, where activation in the hippocampus is expected. We produce detailed statistical maps of hippocampal activation, as well as maps comparing activation inside and outside of the hippocampus. We find that random effects statistics computed by the new approach are more significant than those produced using the Statistical Parametric Mapping framework (Friston, K.J., Holmes, A.P., Worsley, K.J., Poline, J.-P., Firth, C.D., Frackowiak, R.S.J. 1994, Statistical parametric maps in functional imaging: a general linear approach. Human Brain Mapping, 2(4): 189-210) at low levels of smoothing, suggesting that greater specificity can be achieved by the new method without a severe tradeoff in sensitivity.",
+     "FAU": [
+          "Yushkevich, Paul A",
+          "Detre, John A",
+          "Mechanic-Hamilton, Dawn",
+          "Fernandez-Seara, Maria A",
+          "Tang, Kathy Z",
+          "Hoang, Angela",
+          "Korczykowski, Marc",
+          "Zhang, Hui",
+          "Gee, James C"
+     ],
+     "AU": [
+          "Yushkevich PA",
+          "Detre JA",
+          "Mechanic-Hamilton D",
+          "Fernandez-Seara MA",
+          "Tang KZ",
+          "Hoang A",
+          "Korczykowski M",
+          "Zhang H",
+          "Gee JC"
+     ],
+     "AD": "Penn Image Computing and Science Laboratory (PICSL), Department of Radiology, University of Pennsylvania, 3600 Market St., Ste 370, Philadelphia, PA 19104, USA. pauly2@grasp.upenn.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "DA14418/DA/NIDA NIH HHS/United States",
+          "EB006266/EB/NIBIB NIH HHS/United States",
+          "R01 MH068066-03/MH/NIMH NIH HHS/United States",
+          "P30 NS045839-03/NS/NINDS NIH HHS/United States",
+          "MH068066/MH/NIMH NIH HHS/United States",
+          "R01 EB006266/EB/NIBIB NIH HHS/United States",
+          "P30 NS045839/NS/NINDS NIH HHS/United States",
+          "R01 EB006266-01/EB/NIBIB NIH HHS/United States",
+          "NS045839/NS/NINDS NIH HHS/United States",
+          "R01 DA014418/DA/NIDA NIH HHS/United States",
+          "R01 DA014418-04/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20070222",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Artifacts",
+          "Brain/anatomy & histology/physiology",
+          "Female",
+          "Hippocampus/*anatomy & histology/*physiology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Models, Anatomic",
+          "Models, Neurological"
+     ],
+     "PMC": "PMC2262289",
+     "MID": [
+          "NIHMS22468"
+     ],
+     "EDAT": "2007/03/27 09:00",
+     "MHDA": "2007/06/15 09:00",
+     "CRDT": [
+          "2007/03/27 09:00"
+     ],
+     "PHST": [
+          "2006/04/04 00:00 [received]",
+          "2007/01/02 00:00 [revised]",
+          "2007/01/25 00:00 [accepted]",
+          "2007/03/27 09:00 [pubmed]",
+          "2007/06/15 09:00 [medline]",
+          "2007/03/27 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(07)00079-1 [pii]",
+          "10.1016/j.neuroimage.2007.01.029 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2007 May 1;35(4):1516-30. doi: 10.1016/j.neuroimage.2007.01.029. Epub 2007 Feb 22.",
+     "term": "hippocampus"
+}

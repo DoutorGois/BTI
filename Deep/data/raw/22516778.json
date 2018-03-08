@@ -1,0 +1,78 @@
+{
+     "PMID": "22516778",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130402",
+     "LR": "20120604",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "207",
+     "IP": "2",
+     "DP": "2012 Jun 15",
+     "TI": "Multiscale functional connectivity estimation on low-density neuronal cultures recorded by high-density CMOS Micro Electrode Arrays.",
+     "PG": "161-71",
+     "LID": "10.1016/j.jneumeth.2012.04.002 [doi]",
+     "AB": "We used electrophysiological signals recorded by CMOS Micro Electrode Arrays (MEAs) at high spatial resolution to estimate the functional-effective connectivity of sparse hippocampal neuronal networks in vitro by applying a cross-correlation (CC) based method and ad hoc developed spatio-temporal filtering. Low-density cultures were recorded by a recently introduced CMOS-MEA device providing simultaneous multi-site acquisition at high-spatial (21 mum inter-electrode separation) as well as high-temporal resolution (8 kHz per channel). The method is applied to estimate functional connections in different cultures and it is refined by applying spatio-temporal filters that allow pruning of those functional connections not compatible with signal propagation. This approach permits to discriminate between possible causal influence and spurious co-activation, and to obtain detailed maps down to cellular resolution. Further, a thorough analysis of the links strength and time delays (i.e., amplitude and peak position of the CC function) allows characterizing the inferred interconnected networks and supports a possible discrimination of fast mono-synaptic propagations, and slow poly-synaptic pathways. By focusing on specific regions of interest we could observe and analyze microcircuits involving connections among a few cells. Finally, the use of the high-density MEA with low density cultures analyzed with the proposed approach enables to compare the inferred effective links with the network structure obtained by staining procedures.",
+     "CI": [
+          "Copyright (c) 2012 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Maccione, Alessandro",
+          "Garofalo, Matteo",
+          "Nieus, Thierry",
+          "Tedesco, Mariateresa",
+          "Berdondini, Luca",
+          "Martinoia, Sergio"
+     ],
+     "AU": [
+          "Maccione A",
+          "Garofalo M",
+          "Nieus T",
+          "Tedesco M",
+          "Berdondini L",
+          "Martinoia S"
+     ],
+     "AD": "Department of Neuroscience and Brain Technologies - Istituto Italiano di Tecnologia, via Morego, 30, 16163 Genova, Italy.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20120409",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cell Count/instrumentation/*methods",
+          "Cells, Cultured",
+          "Hippocampus/*cytology/*physiology",
+          "Microelectrodes",
+          "Nerve Net/*cytology/*physiology",
+          "Neurons/cytology/*physiology",
+          "Rats",
+          "Time Factors"
+     ],
+     "EDAT": "2012/04/21 06:00",
+     "MHDA": "2013/04/03 06:00",
+     "CRDT": [
+          "2012/04/21 06:00"
+     ],
+     "PHST": [
+          "2011/12/05 00:00 [received]",
+          "2012/03/30 00:00 [revised]",
+          "2012/04/02 00:00 [accepted]",
+          "2012/04/21 06:00 [entrez]",
+          "2012/04/21 06:00 [pubmed]",
+          "2013/04/03 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(12)00125-2 [pii]",
+          "10.1016/j.jneumeth.2012.04.002 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2012 Jun 15;207(2):161-71. doi: 10.1016/j.jneumeth.2012.04.002. Epub 2012 Apr 9.",
+     "term": "hippocampus"
+}

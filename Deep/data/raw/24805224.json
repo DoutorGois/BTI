@@ -1,0 +1,64 @@
+{
+     "PMID": "24805224",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150929",
+     "LR": "20140508",
+     "IS": "2162-2388 (Electronic) 2162-237X (Linking)",
+     "VI": "24",
+     "IP": "12",
+     "DP": "2013 Dec",
+     "TI": "Neural network architecture for cognitive navigation in dynamic environments.",
+     "PG": "2075-87",
+     "LID": "10.1109/TNNLS.2013.2271645 [doi]",
+     "AB": "Navigation in time-evolving environments with moving targets and obstacles requires cognitive abilities widely demonstrated by even simplest animals. However, it is a long-standing challenging problem for artificial agents. Cognitive autonomous robots coping with this problem must solve two essential tasks: 1) understand the environment in terms of what may happen and how I can deal with this and 2) learn successful experiences for their further use in an automatic subconscious way. The recently introduced concept of compact internal representation (CIR) provides the ground for both the tasks. CIR is a specific cognitive map that compacts time-evolving situations into static structures containing information necessary for navigation. It belongs to the class of global approaches, i.e., it finds trajectories to a target when they exist but also detects situations when no solution can be found. Here we extend the concept of situations with mobile targets. Then using CIR as a core, we propose a closed-loop neural network architecture consisting of conscious and subconscious pathways for efficient decision-making. The conscious pathway provides solutions to novel situations if the default subconscious pathway fails to guide the agent to a target. Employing experiments with roving robots and numerical simulations, we show that the proposed architecture provides the robot with cognitive abilities and enables reliable and flexible navigation in realistic time-evolving environments. We prove that the subconscious pathway is robust against uncertainty in the sensory information. Thus if a novel situation is similar but not identical to the previous experience (because of, e.g., noisy perception) then the subconscious pathway is able to provide an effective solution.",
+     "FAU": [
+          "Villacorta-Atienza, Jose Antonio",
+          "Makarov, Valeri A"
+     ],
+     "AU": [
+          "Villacorta-Atienza JA",
+          "Makarov VA"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Netw Learn Syst",
+     "JT": "IEEE transactions on neural networks and learning systems",
+     "JID": "101616214",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Biomimetics/methods",
+          "Cognition/*physiology",
+          "*Decision Support Techniques",
+          "Humans",
+          "Motion",
+          "*Neural Networks (Computer)",
+          "Pattern Recognition, Automated/*methods",
+          "Robotics/*methods",
+          "*Spatial Navigation"
+     ],
+     "EDAT": "2014/05/09 06:00",
+     "MHDA": "2015/09/30 06:00",
+     "CRDT": [
+          "2014/05/09 06:00"
+     ],
+     "PHST": [
+          "2014/05/09 06:00 [entrez]",
+          "2014/05/09 06:00 [pubmed]",
+          "2015/09/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TNNLS.2013.2271645 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Netw Learn Syst. 2013 Dec;24(12):2075-87. doi: 10.1109/TNNLS.2013.2271645.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,49 @@
+{
+     "PMID": "26357303",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20151202",
+     "LR": "20150911",
+     "IS": "1941-0506 (Electronic) 1077-2626 (Linking)",
+     "VI": "20",
+     "IP": "6",
+     "DP": "2014 Jun",
+     "TI": "Learning Optimized Local Difference Binaries for Scalable Augmented Reality on Mobile Devices.",
+     "PG": "852-65",
+     "LID": "10.1109/TVCG.2013.260 [doi]",
+     "AB": "The efficiency, robustness and distinctiveness of a feature descriptor are critical to the user experience and scalability of a mobile augmented reality (AR) system. However, existing descriptors are either too computationally expensive to achieve real-time performance on a mobile device such as a smartphone or tablet, or not sufficiently robust and distinctive to identify correct matches from a large database. As a result, current mobile AR systems still only have limited capabilities, which greatly restrict their deployment in practice. In this paper, we propose a highly efficient, robust and distinctive binary descriptor, called Learning-based Local Difference Binary (LLDB). LLDB directly computes a binary string for an image patch using simple intensity and gradient difference tests on pairwise grid cells within the patch. To select an optimized set of grid cell pairs, we densely sample grid cells from an image patch and then leverage a modified AdaBoost algorithm to automatically extract a small set of critical ones with the goal of maximizing the Hamming distance between mismatches while minimizing it between matches. Experimental results demonstrate that LLDB is extremely fast to compute and to match against a large database due to its high robustness and distinctiveness. Compared to the state-of-the-art binary descriptors, primarily designed for speed, LLDB has similar efficiency for descriptor construction, while achieving a greater accuracy and faster matching speed when matching over a large database with 2.3M descriptors on mobile devices.",
+     "FAU": [
+          "Xin Yang",
+          "Kwang-Ting Cheng"
+     ],
+     "AU": [
+          "Xin Yang",
+          "Kwang-Ting Cheng"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Vis Comput Graph",
+     "JT": "IEEE transactions on visualization and computer graphics",
+     "JID": "9891704",
+     "EDAT": "2014/06/01 00:00",
+     "MHDA": "2014/06/01 00:01",
+     "CRDT": [
+          "2015/09/11 06:00"
+     ],
+     "PHST": [
+          "2015/09/11 06:00 [entrez]",
+          "2014/06/01 00:00 [pubmed]",
+          "2014/06/01 00:01 [medline]"
+     ],
+     "AID": [
+          "10.1109/TVCG.2013.260 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Vis Comput Graph. 2014 Jun;20(6):852-65. doi: 10.1109/TVCG.2013.260.",
+     "term": "grid cells"
+}

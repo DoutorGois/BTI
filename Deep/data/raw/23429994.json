@@ -1,0 +1,84 @@
+{
+     "PMID": "23429994",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140519",
+     "LR": "20170220",
+     "IS": "1662-5110 (Print) 1662-5110 (Linking)",
+     "VI": "7",
+     "DP": "2013",
+     "TI": "Nonlinear dynamical model based control of in vitro hippocampal output.",
+     "PG": "20",
+     "LID": "10.3389/fncir.2013.00020 [doi]",
+     "AB": "This paper describes a modeling-control paradigm to control the hippocampal output (CA1 response) for the development of hippocampal prostheses. In order to bypass a damaged hippocampal region (e.g., CA3), downstream hippocampal signal (e.g., CA1 responses) needs to be reinstated based on the upstream hippocampal signal (e.g., dentate gyrus responses) via appropriate stimulations to the downstream (CA1) region. In this approach, we optimize the stimulation signal to CA1 by using a predictive DG-CA1 nonlinear model (i.e., DG-CA1 trajectory model) and an inversion of the CA1 input-output model (i.e., inverse CA1 plant model). The desired CA1 responses are first predicted by the DG-CA1 trajectory model and then used to derive the optimal stimulation intensity through the inverse CA1 plant model. Laguerre-Volterra kernel models for random-interval, graded-input, contemporaneous-graded-output system are formulated and applied to build the DG-CA1 trajectory model and the CA1 plant model. The inverse CA1 plant model to transform desired output to input stimulation is derived from the CA1 plant model. We validate this paradigm with rat hippocampal slice preparations. Results show that the CA1 responses evoked by the optimal stimulations accurately replicate the CA1 responses recorded in the hippocampal slice with intact trisynaptic pathway.",
+     "FAU": [
+          "Hsiao, Min-Chi",
+          "Song, Dong",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Hsiao MC",
+          "Song D",
+          "Berger TW"
+     ],
+     "AD": "Department of Biomedical Engineering, University of Southern California Los Angeles, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 GM104604/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20130220",
+     "PL": "Switzerland",
+     "TA": "Front Neural Circuits",
+     "JT": "Frontiers in neural circuits",
+     "JID": "101477940",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/*physiology",
+          "Male",
+          "Neural Pathways/physiology",
+          "*Nonlinear Dynamics",
+          "Organ Culture Techniques",
+          "Rats",
+          "Rats, Sprague-Dawley"
+     ],
+     "PMC": "PMC3576714",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Volterra kernel",
+          "hippocampus",
+          "inverse control",
+          "neural prosthesis",
+          "trajectory model"
+     ],
+     "GN": [
+          "NLM: Original DateCompleted: 20130225"
+     ],
+     "EDAT": "2013/02/23 06:00",
+     "MHDA": "2013/02/23 06:01",
+     "CRDT": [
+          "2013/02/23 06:00"
+     ],
+     "PHST": [
+          "2012/08/31 00:00 [received]",
+          "2013/01/30 00:00 [accepted]",
+          "2013/02/23 06:00 [entrez]",
+          "2013/02/23 06:00 [pubmed]",
+          "2013/02/23 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncir.2013.00020 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neural Circuits. 2013 Feb 20;7:20. doi: 10.3389/fncir.2013.00020. eCollection 2013.",
+     "term": "hippocampus"
+}

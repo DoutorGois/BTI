@@ -1,0 +1,95 @@
+{
+     "PMID": "19911062",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100223",
+     "LR": "20170621",
+     "IS": "1687-5273 (Electronic)",
+     "DP": "2010",
+     "TI": "State-space algorithms for estimating spike rate functions.",
+     "PG": "426539",
+     "LID": "10.1155/2010/426539 [doi]",
+     "AB": "The accurate characterization of spike firing rates including the determination of when changes in activity occur is a fundamental issue in the analysis of neurophysiological data. Here we describe a state-space model for estimating the spike rate function that provides a maximum likelihood estimate of the spike rate, model goodness-of-fit assessments, as well as confidence intervals for the spike rate function and any other associated quantities of interest. Using simulated spike data, we first compare the performance of the state-space approach with that of Bayesian adaptive regression splines (BARS) and a simple cubic spline smoothing algorithm. We show that the state-space model is computationally efficient and comparable with other spline approaches. Our results suggest both a theoretically sound and practical approach for estimating spike rate functions that is applicable to a wide range of neurophysiological data.",
+     "FAU": [
+          "Smith, Anne C",
+          "Scalon, Joao D",
+          "Wirth, Sylvia",
+          "Yanike, Marianna",
+          "Suzuki, Wendy A",
+          "Brown, Emery N"
+     ],
+     "AU": [
+          "Smith AC",
+          "Scalon JD",
+          "Wirth S",
+          "Yanike M",
+          "Suzuki WA",
+          "Brown EN"
+     ],
+     "AD": "Department of Anesthesiology and Pain Medicine, One Shields Avenue, TB-170, UC Davis, Davis, CA 95616, USA. annesmith@ucdavis.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH071847/MH/NIMH NIH HHS/United States",
+          "MH071847/MH/NIMH NIH HHS/United States",
+          "R01 DA015644/DA/NIDA NIH HHS/United States",
+          "OD003646-01/OD/NIH HHS/United States",
+          "R01 MH058847/MH/NIMH NIH HHS/United States",
+          "DP1 OD003646/OD/NIH HHS/United States",
+          "K02 MH061637/MH/NIMH NIH HHS/United States",
+          "MH58847/MH/NIMH NIH HHS/United States",
+          "MH59733/MH/NIMH NIH HHS/United States",
+          "R01 MH059733/MH/NIMH NIH HHS/United States",
+          "DA01564/DA/NIDA NIH HHS/United States",
+          "DA015644/DA/NIDA NIH HHS/United States",
+          "MH61637/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20091105",
+     "PL": "United States",
+     "TA": "Comput Intell Neurosci",
+     "JT": "Computational intelligence and neuroscience",
+     "JID": "101279357",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "*Algorithms",
+          "Animals",
+          "Association Learning/physiology",
+          "Bayes Theorem",
+          "Computer Simulation",
+          "Confidence Intervals",
+          "Electrophysiology",
+          "Eye Movements/physiology",
+          "Hippocampus/physiology",
+          "Macaca",
+          "Models, Neurological",
+          "*Models, Statistical",
+          "Neurons/*physiology",
+          "Regression Analysis"
+     ],
+     "PMC": "PMC2774470",
+     "EDAT": "2009/11/17 06:00",
+     "MHDA": "2010/02/24 06:00",
+     "CRDT": [
+          "2009/11/14 06:00"
+     ],
+     "PHST": [
+          "2009/03/06 00:00 [received]",
+          "2009/08/09 00:00 [accepted]",
+          "2009/11/14 06:00 [entrez]",
+          "2009/11/17 06:00 [pubmed]",
+          "2010/02/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2010/426539 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Intell Neurosci. 2010:426539. doi: 10.1155/2010/426539. Epub 2009 Nov 5.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,83 @@
+{
+     "PMID": "21835242",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120213",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "59",
+     "IP": "1",
+     "DP": "2012 Jan 2",
+     "TI": "Estimating and testing variance components in a multi-level GLM.",
+     "PG": "490-501",
+     "LID": "10.1016/j.neuroimage.2011.07.077 [doi]",
+     "AB": "Most analysis of multi-subject fMRI data is concerned with determining whether there exists a significant population-wide 'activation' in a comparison between two or more conditions. This is typically assessed by testing the average value of a contrast of parameter estimates (COPE) against zero in a general linear model (GLM) analysis. However, important information can also be obtained by testing whether there exist significant individual differences in effect magnitude between subjects, i.e. whether the variance of a COPE is significantly different from zero. Intuitively, such a test amounts to testing whether inter-individual differences are larger than would be expected given the within-subject error variance. We compare several methods for estimating variance components, including a) a naive estimate using ordinary least squares (OLS); b) linear mixed effects in R (LMER); c) a novel Matlab implementation of iterative generalized least squares (IGLS) and its restricted maximum likelihood variant (RIGLS). All methods produced reasonable estimates of within- and between-subject variance components, with IGLS providing an attractive balance between sensitivity and appropriate control of false positives. Finally, we use the IGLS method to estimate inter-subject variance in a perfusion fMRI study (N=18) of social evaluative threat, and show evidence for significant inter-individual differences in ventromedial prefrontal cortex (VMPFC), amygdala, hippocampus and medial temporal lobes, insula, and brainstem, with predicted inverse coupling between VMPFC and the midbrain periaqueductal gray only when high inter-individual variance was used to define the seed for functional connectivity analyses. In sum, tests of variance provides a way of selecting regions that show significant inter-individual variability for subsequent analyses that attempt to explain those individual differences.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Lindquist, Martin A",
+          "Spicer, Julie",
+          "Asllani, Iris",
+          "Wager, Tor D"
+     ],
+     "AU": [
+          "Lindquist MA",
+          "Spicer J",
+          "Asllani I",
+          "Wager TD"
+     ],
+     "AD": "Department of Statistics, Columbia University, New York, NY 10027, USA. martin@stat.columbia.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "RC1 DA028608/DA/NIDA NIH HHS/United States",
+          "RC1 DA028608-02/RC/CCR NIH HHS/United States",
+          "RC1 DA028608-02/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "DEP": "20110731",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Brain/physiology",
+          "Brain Mapping/*methods",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Linear Models",
+          "*Magnetic Resonance Imaging",
+          "*Models, Neurological",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC3195889",
+     "MID": [
+          "NIHMS315555"
+     ],
+     "EDAT": "2011/08/13 06:00",
+     "MHDA": "2012/02/14 06:00",
+     "CRDT": [
+          "2011/08/13 06:00"
+     ],
+     "PHST": [
+          "2011/02/23 00:00 [received]",
+          "2011/07/18 00:00 [revised]",
+          "2011/07/25 00:00 [accepted]",
+          "2011/08/13 06:00 [entrez]",
+          "2011/08/13 06:00 [pubmed]",
+          "2012/02/14 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)00872-X [pii]",
+          "10.1016/j.neuroimage.2011.07.077 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2012 Jan 2;59(1):490-501. doi: 10.1016/j.neuroimage.2011.07.077. Epub 2011 Jul 31.",
+     "term": "hippocampus"
+}

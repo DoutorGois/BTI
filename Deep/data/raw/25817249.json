@@ -1,0 +1,75 @@
+{
+     "PMID": "25817249",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160120",
+     "LR": "20161125",
+     "IS": "1875-5828 (Electronic) 1567-2050 (Linking)",
+     "VI": "12",
+     "IP": "4",
+     "DP": "2015",
+     "TI": "Can FreeSurfer Compete with Manual Volumetric Measurements in Alzheimer's Disease?",
+     "PG": "358-67",
+     "AB": "Alzheimer's disease-related pathology results in tremendous structural and functional changes in the brain. These morphological changes might lead to a less precise performance of automated brain segmentation techniques in AD-patients, which in turn could possibly lead to false allocations of gray matter, white matter or cerebrospinal fluid. FreeSurfer has been shown to operate as an accurate and reliable instrument to measure cortical thickness and volume of neuroanatomical structures. Considering the principal role of FreeSurfer in the imaging field of AD, the present study aims to investigate the robustness of FreeSurfer to capture morphological changes in the brain against varying processing variables in comparison to manual measurements (the gold standard). T1-weighted MRI scan data were used pertaining to a sample of 53 individuals (18 healthy participants, 18 patients with mild cognitive impairment, and 18 patients with mild AD). Data were analyzed with different FreeSurfer versions (v4.3.1, v4.5.0, v5.0.0, v5.1.0), on a custom-built cluster (LINUX) and a Macintosh (UNIX) workstation. Group differences across versions and workstations were most consistent for both the hippocampus and posterior cingulate, regions known to be affected in the earliest stages of the disease. The results showed that later versions of FreeSurfer were more sensitive to identify group differences and corresponded best with the results of gold standard manual volumetric methods. In conclusion, later versions of FreeSurfer were more accurate than earlier versions, especially in medial temporal and posterior parietal regions. This development is very promising for future applications of FreeSurfer in research studies and encourages the future role of FreeSurfer output as a candidate marker in clinical practice.",
+     "FAU": [
+          "Clerx, Lies",
+          "Gronenschild, Ed H B M",
+          "Echavarri, Carmen",
+          "Verhey, Frans",
+          "Aalten, Pauline",
+          "Jacobs, Heidi I L"
+     ],
+     "AU": [
+          "Clerx L",
+          "Gronenschild EH",
+          "Echavarri C",
+          "Verhey F",
+          "Aalten P",
+          "Jacobs HI"
+     ],
+     "AD": "Department of Psychiatry and Neuropsychology, School for Mental Health and Neuroscience, Alzheimer Centrum Limburg, Maastricht University Medical Center, P.O. Box 616, 6200 MD Maastricht, The Netherlands. ed.gronenschild@maastrichtuniversity.nl.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "PL": "United Arab Emirates",
+     "TA": "Curr Alzheimer Res",
+     "JT": "Current Alzheimer research",
+     "JID": "101208441",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/*pathology",
+          "Brain/*pathology",
+          "Cognitive Dysfunction/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Male",
+          "Middle Aged",
+          "Organ Size",
+          "Pattern Recognition, Automated/*methods",
+          "*Software"
+     ],
+     "EDAT": "2015/03/31 06:00",
+     "MHDA": "2016/01/21 06:00",
+     "CRDT": [
+          "2015/03/31 06:00"
+     ],
+     "PHST": [
+          "2014/05/14 00:00 [received]",
+          "2015/02/02 00:00 [revised]",
+          "2015/03/17 00:00 [accepted]",
+          "2015/03/31 06:00 [entrez]",
+          "2015/03/31 06:00 [pubmed]",
+          "2016/01/21 06:00 [medline]"
+     ],
+     "AID": [
+          "CAR-EPUB-66148 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Curr Alzheimer Res. 2015;12(4):358-67.",
+     "term": "hippocampus"
+}

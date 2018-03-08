@@ -1,0 +1,90 @@
+{
+     "PMID": "26890750",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161220",
+     "LR": "20161230",
+     "IS": "1875-8908 (Electronic) 1387-2877 (Linking)",
+     "VI": "51",
+     "IP": "2",
+     "DP": "2016",
+     "TI": "Integrated Analysis of Alzheimer's Disease and Schizophrenia Dataset Revealed Different Expression Pattern in Learning and Memory.",
+     "PG": "417-25",
+     "LID": "10.3233/JAD-150807 [doi]",
+     "AB": "Alzheimer's disease (AD) and schizophrenia (SZ) are both accompanied by impaired learning and memory functions. This study aims to explore the expression profiles of learning or memory genes between AD and SZ. We downloaded 10 AD and 10 SZ datasets from GEO-NCBI for integrated analysis. These datasets were processed using RMA algorithm and a global renormalization for all studies. Then Empirical Bayes algorithm was used to find the differentially expressed genes between patients and controls. The results showed that most of the differentially expressed genes were related to AD whereas the gene expression profile was little affected in the SZ. Furthermore, in the aspects of the number of differentially expressed genes, the fold change and the brain region, there was a great difference in the expression of learning or memory related genes between AD and SZ. In AD, the CALB1, GABRA5, and TAC1 were significantly downregulated in whole brain, frontal lobe, temporal lobe, and hippocampus. However, in SZ, only two genes CRHBP and CX3CR1 were downregulated in hippocampus, and other brain regions were not affected. The effect of these genes on learning or memory impairment has been widely studied. It was suggested that these genes may play a crucial role in AD or SZ pathogenesis. The different gene expression patterns between AD and SZ on learning and memory functions in different brain regions revealed in our study may help to understand the different mechanism between two diseases.",
+     "FAU": [
+          "Li, Wen-Xing",
+          "Dai, Shao-Xing",
+          "Liu, Jia-Qian",
+          "Wang, Qian",
+          "Li, Gong-Hua",
+          "Huang, Jing-Fei"
+     ],
+     "AU": [
+          "Li WX",
+          "Dai SX",
+          "Liu JQ",
+          "Wang Q",
+          "Li GH",
+          "Huang JF"
+     ],
+     "AD": "Institute of Health Sciences, Anhui University, Hefei, Anhui, China. State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, Yunnan, China. State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, Yunnan, China. State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, Yunnan, China. State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, Yunnan, China. State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, Yunnan, China. State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, Yunnan, China. KIZ-SU Joint Laboratory of Animal Models and Drug Development, College of Pharmaceutical Sciences, Soochow University, Kunming, Yunnan, China. Collaborative Innovation Center for Natural Products and Biological Drugs of Yunnan, Kunming, Yunnan, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Dataset",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Alzheimers Dis",
+     "JT": "Journal of Alzheimer's disease : JAD",
+     "JID": "9814863",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Algorithms",
+          "Alzheimer Disease/genetics/*metabolism/psychology",
+          "Bayes Theorem",
+          "Brain/*metabolism",
+          "Datasets as Topic",
+          "Gene Expression Profiling",
+          "Humans",
+          "Learning/*physiology",
+          "Memory/*physiology",
+          "Microarray Analysis",
+          "Middle Aged",
+          "Schizophrenia/genetics/*metabolism",
+          "Schizophrenic Psychology",
+          "Young Adult"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "gene expression",
+          "learning or memory",
+          "schizophrenia"
+     ],
+     "EDAT": "2016/02/19 06:00",
+     "MHDA": "2016/12/21 06:00",
+     "CRDT": [
+          "2016/02/19 06:00"
+     ],
+     "PHST": [
+          "2016/02/19 06:00 [entrez]",
+          "2016/02/19 06:00 [pubmed]",
+          "2016/12/21 06:00 [medline]"
+     ],
+     "AID": [
+          "JAD150807 [pii]",
+          "10.3233/JAD-150807 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Alzheimers Dis. 2016;51(2):417-25. doi: 10.3233/JAD-150807.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,67 @@
+{
+     "PMID": "27587036",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170317",
+     "LR": "20170902",
+     "IS": "2473-4209 (Electronic) 0094-2405 (Linking)",
+     "VI": "43",
+     "IP": "9",
+     "DP": "2016 Sep",
+     "TI": "Registration of human skull computed tomography data to an ultrasound treatment space using a sparse high frequency ultrasound hemispherical array.",
+     "PG": "5063",
+     "LID": "10.1118/1.4960362 [doi]",
+     "AB": "PURPOSE: Transcranial focused ultrasound (FUS) shows great promise for a range of therapeutic applications in the brain. Current clinical investigations rely on the use of magnetic resonance imaging (MRI) to monitor treatments and for the registration of preoperative computed tomography (CT)-data to the MR images at the time of treatment to correct the sound aberrations caused by the skull. For some applications, MRI is not an appropriate choice for therapy monitoring and its cost may limit the accessibility of these treatments. An alternative approach, using high frequency ultrasound measurements to localize the skull surface and register CT data to the ultrasound treatment space, for the purposes of skull-related phase aberration correction and treatment targeting, has been developed. METHODS: A prototype high frequency, hemispherical sparse array was fabricated. Pulse-echo measurements of the surface of five ex vivo human skulls were made, and the CT datasets of each skull were obtained. The acoustic data were used to rigidly register the CT-derived skull surface to the treatment space. The ultrasound-based registrations of the CT datasets were compared to the gold-standard landmark-based registrations. RESULTS: The results show on an average sub-millimeter (0.9 +/- 0.2 mm) displacement and subdegree (0.8 degrees +/- 0.4 degrees ) rotation registration errors. Numerical simulations predict that registration errors on this scale will result in a mean targeting error of 1.0 +/- 0.2 mm and reduction in focal pressure of 1.0% +/- 0.6% when targeting a midbrain structure (e.g., hippocampus) using a commercially available low-frequency brain prototype device (InSightec, 230 kHz brain system). CONCLUSIONS: If combined with ultrasound-based treatment monitoring techniques, this registration method could allow for the development of a low-cost transcranial FUS treatment platform to make this technology more widely available.",
+     "FAU": [
+          "O'Reilly, Meaghan A",
+          "Jones, Ryan M",
+          "Birman, Gabriel",
+          "Hynynen, Kullervo"
+     ],
+     "AU": [
+          "O'Reilly MA",
+          "Jones RM",
+          "Birman G",
+          "Hynynen K"
+     ],
+     "AD": "Physical Sciences Platform, Sunnybrook Research Institute, Toronto, Ontario M4N 3M5, Canada and Department of Medical Biophysics, University of Toronto, Toronto, Ontario M5G 1L7, Canada. Physical Sciences Platform, Sunnybrook Research Institute, Toronto, Ontario M4N 3M5, Canada and Department of Medical Biophysics, University of Toronto, Toronto, Ontario M5G 1L7, Canada. Physical Sciences Platform, Sunnybrook Research Institute, Toronto, Ontario M4N 3M5, Canada. Physical Sciences Platform, Sunnybrook Research Institute, Toronto, Ontario M4N 3M5, Canada; Department of Medical Biophysics, University of Toronto, Toronto, Ontario M5G 1L7, Canada; and Institute of Biomaterials and Biomedical Engineering, University of Toronto, Toronto, Ontario M5S 3G9, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB003268/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Med Phys",
+     "JT": "Medical physics",
+     "JID": "0425746",
+     "SB": "IM",
+     "MH": [
+          "Humans",
+          "*Image Processing, Computer-Assisted",
+          "Preoperative Period",
+          "Skull/*diagnostic imaging",
+          "*Tomography, X-Ray Computed",
+          "Ultrasonic Therapy/*instrumentation"
+     ],
+     "PMC": "PMC4982873",
+     "EDAT": "2016/09/03 06:00",
+     "MHDA": "2017/03/18 06:00",
+     "CRDT": [
+          "2016/09/03 06:00"
+     ],
+     "PHST": [
+          "2016/09/03 06:00 [entrez]",
+          "2016/09/03 06:00 [pubmed]",
+          "2017/03/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1118/1.4960362 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Phys. 2016 Sep;43(9):5063. doi: 10.1118/1.4960362.",
+     "term": "hippocampus"
+}

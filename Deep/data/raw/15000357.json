@@ -1,0 +1,80 @@
+{
+     "PMID": "15000357",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040616",
+     "LR": "20061115",
+     "IS": "1089-7771 (Print) 1089-7771 (Linking)",
+     "VI": "7",
+     "IP": "4",
+     "DP": "2003 Dec",
+     "TI": "Median-based robust algorithms for tracing neurons from noisy confocal microscope images.",
+     "PG": "302-17",
+     "AB": "This paper presents a method to exploit rank statistics to improve fully automatic tracing of neurons from noisy digital confocal microscope images. Previously proposed exploratory tracing (vectorization) algorithms work by recursively following the neuronal topology, guided by responses of multiple directional correlation kernels. These algorithms were found to fail when the data was of lower quality (noisier, less contrast, weak signal, or more discontinuous structures). This type of data is commonly encountered in the study of neuronal growth on microfabricated surfaces. We show that by partitioning the correlation kernels in the tracing algorithm into multiple subkernels, and using the median of their responses as the guiding criterion improves the tracing precision from 41% to 89% for low-quality data, with a 5% improvement in recall. Improved handling was observed for artifacts such as discontinuities and/or hollowness of structures. The new algorithms require slightly higher amounts of computation, but are still acceptably fast, typically consuming less than 2 seconds on a personal computer (Pentium III, 500 MHz, 128 MB). They produce labeling for all somas present in the field, and a graph-theoretic representation of all dendritic/axonal structures that can be edited. Topological and size measurements such as area, length, and tortuosity are derived readily. The efficiency, accuracy, and fully-automated nature of the proposed method makes it attractive for large-scale applications such as high-throughput assays in the pharmaceutical industry, and study of neuron growth on nano/micro-fabricated structures. A careful quantitative validation of the proposed algorithms is provided against manually derived tracing, using a performance measure that combines the precision and recall metrics.",
+     "FAU": [
+          "Al-Kofahi, Khalid A",
+          "Can, Ali",
+          "Lasek, Sharie",
+          "Szarowski, Donald H",
+          "Dowell-Mesfin, Natalie",
+          "Shain, William",
+          "Turner, James N",
+          "Roysam, Badrinath"
+     ],
+     "AU": [
+          "Al-Kofahi KA",
+          "Can A",
+          "Lasek S",
+          "Szarowski DH",
+          "Dowell-Mesfin N",
+          "Shain W",
+          "Turner JN",
+          "Roysam B"
+     ],
+     "AD": "ECSE Department Rensselaer Polytechnic Institute, Troy, NY 12180-3590, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "IEEE Trans Inf Technol Biomed",
+     "JT": "IEEE transactions on information technology in biomedicine : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "9712259",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Hippocampus/physiology",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Microscopy, Confocal/*methods",
+          "Neurons/*cytology",
+          "Pattern Recognition, Automated",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Signal Processing, Computer-Assisted",
+          "Stochastic Processes"
+     ],
+     "EDAT": "2004/03/06 05:00",
+     "MHDA": "2004/06/17 05:00",
+     "CRDT": [
+          "2004/03/06 05:00"
+     ],
+     "PHST": [
+          "2004/03/06 05:00 [pubmed]",
+          "2004/06/17 05:00 [medline]",
+          "2004/03/06 05:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Inf Technol Biomed. 2003 Dec;7(4):302-17.",
+     "term": "hippocampus"
+}

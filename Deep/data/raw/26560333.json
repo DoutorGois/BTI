@@ -1,0 +1,82 @@
+{
+     "PMID": "26560333",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161213",
+     "LR": "20171021",
+     "IS": "1573-6873 (Electronic) 0929-5313 (Linking)",
+     "VI": "40",
+     "IP": "1",
+     "DP": "2016 Feb",
+     "TI": "Effects of polarization induced by non-weak electric fields on the excitability of elongated neurons with active dendrites.",
+     "PG": "27-50",
+     "LID": "10.1007/s10827-015-0582-4 [doi]",
+     "AB": "An externally-applied electric field can polarize a neuron, especially a neuron with elongated dendrites, and thus modify its excitability. Here we use a computational model to examine, predict, and explain these effects. We use a two-compartment Pinsky-Rinzel model neuron polarized by an electric potential difference imposed between its compartments, and we apply an injected ramp current. We vary three model parameters: the magnitude of the applied potential difference, the extracellular potassium concentration, and the rate of current injection. A study of the Time-To-First-Spike (TTFS) as a function of polarization leads to the identification of three regions of polarization strength that have different effects. In the weak region, the TTFS increases linearly with polarization. In the intermediate region, the TTFS increases either sub- or super-linearly, depending on the current injection rate and the extracellular potassium concentration. In the strong region, the TTFS decreases. Our results in the weak and strong region are consistent with experimental observations, and in the intermediate region, we predict novel effects that depend on experimentally-accessible parameters. We find that active channels in the dendrite play a key role in these effects. Our qualitative results were found to be robust over a wide range of inter-compartment conductances and the ratio of somatic to dendritic membrane areas. In addition, we discuss preliminary results where synaptic inputs replace the ramp injection protocol. The insights and conclusions were found to extend from our polarized PR model to a polarized PR model with I h dendritic currents. Finally, we discuss the degree to which our results may be generalized.",
+     "FAU": [
+          "Reznik, Robert I",
+          "Barreto, Ernest",
+          "Sander, Evelyn",
+          "So, Paul"
+     ],
+     "AU": [
+          "Reznik RI",
+          "Barreto E",
+          "Sander E",
+          "So P"
+     ],
+     "AD": "School of Physics, Astronomy, and Computational Sciences and The Krasnow Institute for Advanced Study, George Mason University, Fairfax, VA, 22030, USA. robert.reznik@cox.net. School of Physics, Astronomy, and Computational Sciences and The Krasnow Institute for Advanced Study, George Mason University, Fairfax, VA, 22030, USA. ebarreto@gmu.edu. Department of Mathematical Sciences, George Mason University, Fairfax, VA, 22030, USA. esander@gmu.edu. School of Physics, Astronomy, and Computational Sciences and The Krasnow Institute for Advanced Study, George Mason University, Fairfax, VA, 22030, USA. paso@gmu.edu.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Addresses",
+          "Journal Article"
+     ],
+     "DEP": "20151111",
+     "PL": "United States",
+     "TA": "J Comput Neurosci",
+     "JT": "Journal of computational neuroscience",
+     "JID": "9439510",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Cell Polarity/*physiology",
+          "Computer Simulation",
+          "Dendrites/*physiology",
+          "Electric Stimulation",
+          "Electricity",
+          "*Models, Neurological",
+          "Neural Conduction",
+          "Neurons/*cytology/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Electric fields",
+          "Excitability",
+          "Hippocampus",
+          "Pyramidal neurons"
+     ],
+     "EDAT": "2015/11/13 06:00",
+     "MHDA": "2016/12/15 06:00",
+     "CRDT": [
+          "2015/11/13 06:00"
+     ],
+     "PHST": [
+          "2015/03/25 00:00 [received]",
+          "2015/10/22 00:00 [accepted]",
+          "2015/10/17 00:00 [revised]",
+          "2015/11/13 06:00 [entrez]",
+          "2015/11/13 06:00 [pubmed]",
+          "2016/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s10827-015-0582-4 [doi]",
+          "10.1007/s10827-015-0582-4 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Comput Neurosci. 2016 Feb;40(1):27-50. doi: 10.1007/s10827-015-0582-4. Epub 2015 Nov 11.",
+     "term": "hippocampus"
+}

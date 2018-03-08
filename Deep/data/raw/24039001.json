@@ -1,0 +1,105 @@
+{
+     "PMID": "24039001",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20141201",
+     "LR": "20140411",
+     "IS": "1097-0193 (Electronic) 1065-9471 (Linking)",
+     "VI": "35",
+     "IP": "5",
+     "DP": "2014 May",
+     "TI": "Hippocampal shape is predictive for the development of dementia in a normal, elderly population.",
+     "PG": "2359-71",
+     "LID": "10.1002/hbm.22333 [doi]",
+     "AB": "Previous studies have shown that hippocampal volume is an early marker for dementia. We investigated whether hippocampal shape characteristics extracted from MRI scans are predictive for the development of dementia during follow up in subjects who were nondemented at baseline. Furthermore, we assessed whether hippocampal shape provides additional predictive value independent of hippocampal volume. Five hundred eleven brain MRI scans from elderly nondemented participants of a prospective population-based imaging study were used. During the 10-year follow-up period, 52 of these subjects developed dementia. For training and evaluation independent of age and gender, a subset of 50 cases and 150 matched controls was selected. The hippocampus was segmented using an automated method. From the segmentation, the volume was determined and a statistical shape model was constructed. We trained a classifier to distinguish between subjects who developed dementia and subjects who stayed cognitively healthy. For all subjects the a posteriori probability to develop dementia was estimated using the classifier in a cross-validation experiment. The area under the ROC curve for volume, shape, and the combination of both were, respectively, 0.724, 0.743, and 0.766. A logistic regression model showed that adding shape to a model using volume corrected for age and gender increased the global model-fit significantly (P = 0.0063). We conclude that hippocampal shape derived from MRI scans is predictive for dementia before clinical symptoms arise, independent of age and gender. Furthermore, the results suggest that hippocampal shape provides additional predictive value over hippocampal volume and that combining shape and volume leads to better prediction.",
+     "CI": [
+          "Copyright (c) 2013 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Achterberg, Hakim C",
+          "van der Lijn, Fedde",
+          "den Heijer, Tom",
+          "Vernooij, Meike W",
+          "Ikram, M Arfan",
+          "Niessen, Wiro J",
+          "de Bruijne, Marleen"
+     ],
+     "AU": [
+          "Achterberg HC",
+          "van der Lijn F",
+          "den Heijer T",
+          "Vernooij MW",
+          "Ikram MA",
+          "Niessen WJ",
+          "de Bruijne M"
+     ],
+     "AD": "Biomedical Imaging Group Rotterdam, Departments of Radiology and Medical Informatics, Erasmus MC, Rotterdam, The Netherlands.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "2P41 RR0112553-12/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130903",
+     "PL": "United States",
+     "TA": "Hum Brain Mapp",
+     "JT": "Human brain mapping",
+     "JID": "9419065",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "Aging/*pathology",
+          "Brain Mapping",
+          "Cohort Studies",
+          "Dementia/*diagnosis",
+          "Female",
+          "Follow-Up Studies",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Processing, Computer-Assisted",
+          "Logistic Models",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Neuropsychological Tests",
+          "ROC Curve"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer disease",
+          "classification",
+          "cohort studies",
+          "early diagnosis",
+          "hippocampus",
+          "magnetic resonance imaging",
+          "mild cognitive impairment",
+          "prospective studies"
+     ],
+     "EDAT": "2013/09/17 06:00",
+     "MHDA": "2014/12/15 06:00",
+     "CRDT": [
+          "2013/09/17 06:00"
+     ],
+     "PHST": [
+          "2012/01/25 00:00 [received]",
+          "2013/03/11 00:00 [revised]",
+          "2013/05/06 00:00 [accepted]",
+          "2013/09/17 06:00 [entrez]",
+          "2013/09/17 06:00 [pubmed]",
+          "2014/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hbm.22333 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hum Brain Mapp. 2014 May;35(5):2359-71. doi: 10.1002/hbm.22333. Epub 2013 Sep 3.",
+     "term": "hippocampus"
+}

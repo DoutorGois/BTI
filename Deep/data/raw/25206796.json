@@ -1,0 +1,76 @@
+{
+     "PMID": "25206796",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20140910",
+     "LR": "20170220",
+     "IS": "1673-5374 (Print) 1673-5374 (Linking)",
+     "VI": "9",
+     "IP": "2",
+     "DP": "2014 Jan 15",
+     "TI": "Resting-state functional connectivity abnormalities in first-onset unmedicated depression.",
+     "PG": "153-63",
+     "LID": "10.4103/1673-5374.125344 [doi]",
+     "AB": "Depression is closely linked to the morphology and functional abnormalities of multiple brain regions; however, its topological structure throughout the whole brain remains unclear. We collected resting-state functional MRI data from 36 first-onset unmedicated depression patients and 27 healthy controls. The resting-state functional connectivity was constructed using the Automated Anatomical Labeling template with a partial correlation method. The metrics calculation and statistical analysis were performed using complex network theory. The results showed that both depressive patients and healthy controls presented typical small-world attributes. Compared with healthy controls, characteristic path length was significantly shorter in depressive patients, suggesting development toward randomization. Patients with depression showed apparently abnormal node attributes at key areas in cortical-striatal-pallidal-thalamic circuits. In addition, right hippocampus and right thalamus were closely linked with the severity of depression. We selected 270 local attributes as the classification features and their P values were regarded as criteria for statistically significant differences. An artificial neural network algorithm was applied for classification research. The results showed that brain network metrics could be used as an effective feature in machine learning research, which brings about a reasonable application prospect for brain network metrics. The present study also highlighted a significant positive correlation between the importance of the attributes and the intergroup differences; that is, the more significant the differences in node attributes, the stronger their contribution to the classification. Experimental findings indicate that statistical significance is an effective quantitative indicator of the selection of brain network metrics and can assist the clinical diagnosis of depression.",
+     "FAU": [
+          "Guo, Hao",
+          "Cheng, Chen",
+          "Cao, Xiaohua",
+          "Xiang, Jie",
+          "Chen, Junjie",
+          "Zhang, Kerang"
+     ],
+     "AU": [
+          "Guo H",
+          "Cheng C",
+          "Cao X",
+          "Xiang J",
+          "Chen J",
+          "Zhang K"
+     ],
+     "AD": "College of Computer Science and Technology, Taiyuan University of Technology, Taiyuan, Shanxi Province, China. College of Computer Science and Technology, Taiyuan University of Technology, Taiyuan, Shanxi Province, China. Department of Psychiatry, First Affiliated Hospital, Shanxi Medical University, Taiyuan, Shanxi Province, China. College of Computer Science and Technology, Taiyuan University of Technology, Taiyuan, Shanxi Province, China. College of Computer Science and Technology, Taiyuan University of Technology, Taiyuan, Shanxi Province, China. Department of Psychiatry, First Affiliated Hospital, Shanxi Medical University, Taiyuan, Shanxi Province, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "India",
+     "TA": "Neural Regen Res",
+     "JT": "Neural regeneration research",
+     "JID": "101316351",
+     "PMC": "PMC4146162",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "NSFC grant",
+          "brain network",
+          "classification",
+          "complex networks",
+          "depression",
+          "feature selection",
+          "functional MRI",
+          "graph theory",
+          "nerve regeneration",
+          "neural regeneration"
+     ],
+     "EDAT": "2014/09/11 06:00",
+     "MHDA": "2014/09/11 06:01",
+     "CRDT": [
+          "2014/09/11 06:00"
+     ],
+     "PHST": [
+          "2013/11/02 00:00 [accepted]",
+          "2014/09/11 06:00 [entrez]",
+          "2014/09/11 06:00 [pubmed]",
+          "2014/09/11 06:01 [medline]"
+     ],
+     "AID": [
+          "10.4103/1673-5374.125344 [doi]",
+          "NRR-9-153 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Regen Res. 2014 Jan 15;9(2):153-63. doi: 10.4103/1673-5374.125344.",
+     "term": "hippocampus"
+}

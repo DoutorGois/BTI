@@ -1,0 +1,102 @@
+{
+     "PMID": "26094850",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170118",
+     "LR": "20170118",
+     "IS": "1552-6569 (Electronic) 1051-2284 (Linking)",
+     "VI": "26",
+     "IP": "1",
+     "DP": "2016 Jan-Feb",
+     "TI": "Pooling Morphometric Estimates: A Statistical Equivalence Approach.",
+     "PG": "109-15",
+     "LID": "10.1111/jon.12265 [doi]",
+     "AB": "Changes in hardware or image-processing settings are a common issue for large multicenter studies. To pool MRI data acquired under these changed conditions, it is necessary to demonstrate that the changes do not affect MRI-based measurements. In these circumstances, classical inference testing is inappropriate because it is designed to detect differences, not prove similarity. We used a method known as statistical equivalence testing to address this limitation. Equivalence testing was carried out on 3 datasets: (1) cortical thickness and automated hippocampal volume estimates obtained from healthy individuals imaged using different multichannel head coils; (2) manual hippocampal volumetry obtained using two readers; and (3) corpus callosum area estimates obtained using an automated method with manual cleanup carried out by two readers. Equivalence testing was carried out using the \"two one-sided tests\" (TOST) approach. Power analyses of the TOST were used to estimate sample sizes required for well-powered equivalence testing analyses. Mean and standard deviation estimates from the automated hippocampal volume dataset were used to carry out an example power analysis. Cortical thickness values were found to be equivalent over 61% of the cortex when different head coils were used (q < .05, false discovery rate correction). Automated hippocampal volume estimates obtained using the same two coils were statistically equivalent (TOST P = 4.28 x 10(-15) ). Manual hippocampal volume estimates obtained using two readers were not statistically equivalent (TOST P = .97). The use of different readers to carry out limited correction of automated corpus callosum segmentations yielded equivalent area estimates (TOST P = 1.28 x 10(-14) ). Power analysis of simulated and automated hippocampal volume data demonstrated that the equivalence margin affects the number of subjects required for well-powered equivalence tests. We have presented a statistical method for determining if morphometric measures obtained under variable conditions can be pooled. The equivalence testing technique is applicable for analyses in which experimental conditions vary over the course of the study.",
+     "CI": [
+          "Copyright (c) 2015 by the American Society of Neuroimaging."
+     ],
+     "FAU": [
+          "Pardoe, Heath R",
+          "Cutter, Gary R",
+          "Alter, Rachel",
+          "Hiess, Rebecca Kucharsky",
+          "Semmelroch, Mira",
+          "Parker, Donna",
+          "Farquharson, Shawna",
+          "Jackson, Graeme D",
+          "Kuzniecky, Ruben"
+     ],
+     "AU": [
+          "Pardoe HR",
+          "Cutter GR",
+          "Alter R",
+          "Hiess RK",
+          "Semmelroch M",
+          "Parker D",
+          "Farquharson S",
+          "Jackson GD",
+          "Kuzniecky R"
+     ],
+     "AD": "Department of Neurology, Comprehensive Epilepsy Center, New York University School of Medicine, New York, NY. School of Public Health, University of Alabama at Birmingham, Birmingham, AL. Department of Neurology, Comprehensive Epilepsy Center, New York University School of Medicine, New York, NY. Department of Neurology, Comprehensive Epilepsy Center, New York University School of Medicine, New York, NY. The Florey Institute of Neuroscience and Mental Health, Melbourne, Australia. The Florey Institute of Neuroscience and Mental Health, Melbourne, Australia. The Florey Institute of Neuroscience and Mental Health, Melbourne, Australia. The Florey Institute of Neuroscience and Mental Health, Melbourne, Australia. Department of Neurology, Comprehensive Epilepsy Center, New York University School of Medicine, New York, NY.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150621",
+     "PL": "United States",
+     "TA": "J Neuroimaging",
+     "JT": "Journal of neuroimaging : official journal of the American Society of Neuroimaging",
+     "JID": "9102705",
+     "RN": [
+          "0 (Membrane Glycoproteins)",
+          "0 (Receptors, Interleukin-1)",
+          "0 (TIRAP protein, human)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Corpus Callosum/*diagnostic imaging",
+          "Female",
+          "Hippocampus/*diagnostic imaging",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Membrane Glycoproteins",
+          "Organ Size",
+          "Receptors, Interleukin-1",
+          "Reproducibility of Results",
+          "Software"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "MRI",
+          "morphometry",
+          "statistics",
+          "volumetrics"
+     ],
+     "EDAT": "2015/06/23 06:00",
+     "MHDA": "2017/01/19 06:00",
+     "CRDT": [
+          "2015/06/23 06:00"
+     ],
+     "PHST": [
+          "2015/02/13 00:00 [received]",
+          "2015/04/24 00:00 [revised]",
+          "2015/04/28 00:00 [accepted]",
+          "2015/06/23 06:00 [entrez]",
+          "2015/06/23 06:00 [pubmed]",
+          "2017/01/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/jon.12265 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neuroimaging. 2016 Jan-Feb;26(1):109-15. doi: 10.1111/jon.12265. Epub 2015 Jun 21.",
+     "term": "hippocampus"
+}

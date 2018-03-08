@@ -1,0 +1,59 @@
+{
+     "PMID": "10735526",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20000424",
+     "LR": "20061115",
+     "IS": "0954-898X (Print) 0954-898X (Linking)",
+     "VI": "11",
+     "IP": "1",
+     "DP": "2000 Feb",
+     "TI": "Robust gamma oscillations in networks of inhibitory hippocampal interneurons.",
+     "PG": "1-23",
+     "AB": "Recent experiments suggest that inhibitory networks of interneurons can synchronize the neuronal discharge in in vitro hippocampal slices. Subsequent theoretical work has shown that strong synchronization by mutual inhibition is only moderately robust against neuronal heterogeneities in the current drive, provided by activation of metabotropic glutamate receptors. In vivo neurons display greater variability in the interspike intervals due to the presence of synaptic noise. Noise and heterogeneity affect synchronization properties differently. In this paper we study, using model simulations, how robust synchronization can be in the presence of synaptic noise and neuronal heterogeneity. We find that stochastic weak synchronization (SWS) (i.e. when neurons spike within a short interval from each other, but not necessarily at each period) is produced with at least a minimum amount of noise and that it is much more robust than strong synchronization (i.e. when neurons spike at each period). The statistics produced by the SWS population discharge are consistent with previous experimental data. We also find robust SWS in the gamma-frequency range (20-80 Hz) for a stronger synaptic coupling compared with previous models and for networks with 10-1000 neurons.",
+     "FAU": [
+          "Tiesinga, P H",
+          "Jose, J V"
+     ],
+     "AU": [
+          "Tiesinga PH",
+          "Jose JV"
+     ],
+     "AD": "Center for Interdisciplinary Research on Complex Systems, and Department of Physics, Northeastern University, Boston, MA 02115, USA. tiesinga@salk.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "Network",
+     "JT": "Network (Bristol, England)",
+     "JID": "9431867",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Artifacts",
+          "Hippocampus/cytology/*physiology",
+          "Interneurons/*physiology",
+          "Neural Inhibition/*physiology",
+          "*Neural Networks (Computer)",
+          "*Periodicity",
+          "Stochastic Processes",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2000/03/29 09:00",
+     "MHDA": "2000/04/29 09:00",
+     "CRDT": [
+          "2000/03/29 09:00"
+     ],
+     "PHST": [
+          "2000/03/29 09:00 [pubmed]",
+          "2000/04/29 09:00 [medline]",
+          "2000/03/29 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Network. 2000 Feb;11(1):1-23.",
+     "term": "hippocampus"
+}

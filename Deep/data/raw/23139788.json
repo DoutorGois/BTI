@@ -1,0 +1,74 @@
+{
+     "PMID": "23139788",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130423",
+     "LR": "20150222",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "7",
+     "IP": "11",
+     "DP": "2012",
+     "TI": "The mammalian adult neurogenesis gene ontology (MANGO) provides a structural framework for published information on genes regulating adult hippocampal neurogenesis.",
+     "PG": "e48527",
+     "LID": "10.1371/journal.pone.0048527 [doi]",
+     "AB": "BACKGROUND: Adult hippocampal neurogenesis is not a single phenotype, but consists of a number of sub-processes, each of which is under complex genetic control. Interpretation of gene expression studies using existing resources often does not lead to results that address the interrelatedness of these processes. Formal structure, such as provided by ontologies, is essential in any field for comprehensive interpretation of existing knowledge but, until now, such a structure has been lacking for adult neurogenesis. METHODOLOGY/PRINCIPAL FINDINGS: We have created a resource with three components 1. A structured ontology describing the key stages in the development of adult hippocampal neural stem cells into functional granule cell neurons. 2. A comprehensive survey of the literature to annotate the results of all published reports on gene function in adult hippocampal neurogenesis (257 manuscripts covering 228 genes) to the appropriate terms in our ontology. 3. An easy-to-use searchable interface to the resulting database made freely available online. The manuscript presents an overview of the database highlighting global trends such as the current bias towards research on early proliferative stages, and an example gene set enrichment analysis. A limitation of the resource is the current scope of the literature which, however, is growing by around 100 publications per year. With the ontology and database in place, new findings can be rapidly annotated and regular updates of the database will be made publicly available. CONCLUSIONS/SIGNIFICANCE: The resource we present allows relevant interpretation of gene expression screens in terms of defined stages of postnatal neuronal development. Annotation of genes by hand from the adult neurogenesis literature ensures the data are directly applicable to the system under study. We believe this approach could also serve as an example to other fields in a 'bottom-up' community effort complementing the already successful 'top-down' approach of the Gene Ontology.",
+     "FAU": [
+          "Overall, Rupert W",
+          "Paszkowski-Rogacz, Maciej",
+          "Kempermann, Gerd"
+     ],
+     "AU": [
+          "Overall RW",
+          "Paszkowski-Rogacz M",
+          "Kempermann G"
+     ],
+     "AD": "CRTD - Center for Regenerative Therapies Dresden, Technische Universitat Dresden, Dresden, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20121105",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Animals",
+          "Cell Proliferation",
+          "*Gene Expression Regulation",
+          "Hippocampus/*growth & development/*metabolism",
+          "Humans",
+          "Mammals/*genetics",
+          "*Molecular Sequence Annotation",
+          "Neurogenesis/*genetics",
+          "Neurons/cytology/metabolism",
+          "*Publishing",
+          "Signal Transduction/genetics",
+          "User-Computer Interface"
+     ],
+     "PMC": "PMC3489671",
+     "EDAT": "2012/11/10 06:00",
+     "MHDA": "2013/04/24 06:00",
+     "CRDT": [
+          "2012/11/10 06:00"
+     ],
+     "PHST": [
+          "2012/05/24 00:00 [received]",
+          "2012/09/26 00:00 [accepted]",
+          "2012/11/10 06:00 [entrez]",
+          "2012/11/10 06:00 [pubmed]",
+          "2013/04/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0048527 [doi]",
+          "PONE-D-12-14862 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2012;7(11):e48527. doi: 10.1371/journal.pone.0048527. Epub 2012 Nov 5.",
+     "term": "hippocampus"
+}

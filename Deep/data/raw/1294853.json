@@ -1,0 +1,59 @@
+{
+     "PMID": "1294853",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19930409",
+     "LR": "20061115",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "45",
+     "IP": "3",
+     "DP": "1992 Dec",
+     "TI": "Computer-assisted alignment of standard serial sections without use of artificial landmarks. A practical approach to the utilization of incomplete information in 3-D reconstruction of the hippocampal region.",
+     "PG": "199-207",
+     "AB": "An algorithm for the alignment of stained serial sections without the support of artificial landmarks is described. Four-hundred-thirty serial sections of the rabbit hippocampal region were digitized, and computer-based alignment was performed without use of artificial markers, resulting in a consistent matrix. Following proper filtration, artificial sections were cut through the matrix. In a second experiment every second image was deleted and reconstructed by interpolation with a minor loss of biological information. In a third experiment every second image was deleted and the rest of the images were 'disordered', realigned and the missing planes reconstructed by interpolation. Under these circumstances the matrix was reconstructed with some loss of information. These results may widen the limits of 3-dimensional (3-D) reconstruction, as routine histological preparations normally include only every second or every third section without artificial landmarks.",
+     "FAU": [
+          "Andreasen, A",
+          "Drewes, A M",
+          "Assentoft, J E",
+          "Larsen, N E"
+     ],
+     "AU": [
+          "Andreasen A",
+          "Drewes AM",
+          "Assentoft JE",
+          "Larsen NE"
+     ],
+     "AD": "Department of Biostructural Chemistry, University of Aarhus, Denmark.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Hippocampus/*anatomy & histology",
+          "Image Processing, Computer-Assisted/*methods",
+          "Rabbits"
+     ],
+     "EDAT": "1992/12/01 00:00",
+     "MHDA": "1992/12/01 00:01",
+     "CRDT": [
+          "1992/12/01 00:00"
+     ],
+     "PHST": [
+          "1992/12/01 00:00 [pubmed]",
+          "1992/12/01 00:01 [medline]",
+          "1992/12/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 1992 Dec;45(3):199-207.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,72 @@
+{
+     "PMID": "24624066",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20140313",
+     "LR": "20170922",
+     "IS": "1662-5153 (Print) 1662-5153 (Linking)",
+     "VI": "8",
+     "DP": "2014",
+     "TI": "Computational modeling and analysis of hippocampal-prefrontal information coding during a spatial decision-making task.",
+     "PG": "62",
+     "LID": "10.3389/fnbeh.2014.00062 [doi]",
+     "AB": "We introduce a computational model describing rat behavior and the interactions of neural populations processing spatial and mnemonic information during a maze-based, decision-making task. The model integrates sensory input and implements working memory to inform decisions at a choice point, reproducing rat behavioral data and predicting the occurrence of turn- and memory-dependent activity in neuronal networks subserving task performance. We tested these model predictions using a new software toolbox (Maze Query Language, MQL) to analyse activity of medial prefrontal cortical (mPFC) and dorsal hippocampal (dCA1) neurons recorded from six adult rats during task performance. The firing rates of dCA1 neurons discriminated context (i.e., the direction of the previous turn), whilst a subset of mPFC neurons was selective for current turn direction or context, with some conjunctively encoding both. mPFC turn-selective neurons displayed a ramping of activity on approach to the decision turn and turn-selectivity in mPFC was significantly reduced during error trials. These analyses complement data from neurophysiological recordings in non-human primates indicating that firing rates of cortical neurons correlate with integration of sensory evidence used to inform decision-making.",
+     "FAU": [
+          "Jahans-Price, Thomas",
+          "Gorochowski, Thomas E",
+          "Wilson, Matthew A",
+          "Jones, Matthew W",
+          "Bogacz, Rafal"
+     ],
+     "AU": [
+          "Jahans-Price T",
+          "Gorochowski TE",
+          "Wilson MA",
+          "Jones MW",
+          "Bogacz R"
+     ],
+     "AD": "School of Physiology and Pharmacology, University of Bristol Bristol, UK. Department of Engineering Mathematics, Bristol Centre for Complexity Sciences, University of Bristol Bristol, UK. Departments of Brain and Cognitive Sciences and Biology, Picower Institute for Learning and Memory, Massachusetts Institute of Technology Cambridge, MA, USA. School of Physiology and Pharmacology, University of Bristol Bristol, UK. Department of Computer Science, University of Bristol Bristol, UK.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G1002064/Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140303",
+     "PL": "Switzerland",
+     "TA": "Front Behav Neurosci",
+     "JT": "Frontiers in behavioral neuroscience",
+     "JID": "101477952",
+     "PMC": "PMC3939443",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "computational modeling",
+          "decision making",
+          "hippocampus",
+          "information coding",
+          "prefrontal cortex"
+     ],
+     "EDAT": "2014/03/14 06:00",
+     "MHDA": "2014/03/14 06:01",
+     "CRDT": [
+          "2014/03/14 06:00"
+     ],
+     "PHST": [
+          "2013/11/25 00:00 [received]",
+          "2014/02/13 00:00 [accepted]",
+          "2014/03/14 06:00 [entrez]",
+          "2014/03/14 06:00 [pubmed]",
+          "2014/03/14 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fnbeh.2014.00062 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Behav Neurosci. 2014 Mar 3;8:62. doi: 10.3389/fnbeh.2014.00062. eCollection 2014.",
+     "term": "hippocampus"
+}

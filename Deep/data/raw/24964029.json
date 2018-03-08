@@ -1,0 +1,88 @@
+{
+     "PMID": "24964029",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150207",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "9",
+     "IP": "6",
+     "DP": "2014",
+     "TI": "Identification of endogenous reference genes for the analysis of microRNA expression in the hippocampus of the pilocarpine-induced model of mesial temporal lobe epilepsy.",
+     "PG": "e100529",
+     "LID": "10.1371/journal.pone.0100529 [doi]",
+     "AB": "Real-time quantitative RT-PCR (qPCR) is one of the most powerful techniques for analyzing miRNA expression because of its sensitivity and specificity. However, in this type of analysis, a suitable normalizer is required to ensure that gene expression is unaffected by the experimental condition. To the best of our knowledge, there are no reported studies that performed a detailed identification and validation of suitable reference genes for miRNA qPCR during the epileptogenic process. Here, using a pilocarpine (PILO) model of mesial temporal lobe epilepsy (MTLE), we investigated five potential reference genes, performing a stability expression analysis using geNorm and NormFinder softwares. As a validation strategy, we used each one of the candidate reference genes to measure PILO-induced changes in microRNA-146a levels, a gene whose expression pattern variation in the PILO injected model is known. Our results indicated U6SnRNA and SnoRNA as the most stable candidate reference genes. By geNorm analysis, the normalization factor should preferably contain at least two of the best candidate reference genes (snoRNA and U6SnRNA). In fact, when normalized using the best combination of reference genes, microRNA-146a transcripts were found to be significantly increased in chronic stage, which is consistent with the pattern reported in different models. Conversely, when reference genes were individually employed for normalization, we failed to detect up-regulation of the microRNA-146a gene in the hippocampus of epileptic rats. The data presented here support that the combination of snoRNA and U6SnRNA was the minimum necessary for an accurate normalization of gene expression at the different stages of epileptogenesis that we tested.",
+     "FAU": [
+          "de Araujo, Mykaella Andrade",
+          "Marques, Thalita Ewellyn Batista Sales",
+          "Taniele-Silva, Jamile",
+          "Souza, Fernanda Maria de Araujo",
+          "de Andrade, Tiago Gomes",
+          "Garcia-Cairasco, Norberto",
+          "Paco-Larson, Maria Luisa",
+          "Gitai, Daniel Leite Goes"
+     ],
+     "AU": [
+          "de Araujo MA",
+          "Marques TE",
+          "Taniele-Silva J",
+          "Souza FM",
+          "de Andrade TG",
+          "Garcia-Cairasco N",
+          "Paco-Larson ML",
+          "Gitai DL"
+     ],
+     "AD": "Department of Cell, Molecular Biology, Institute of Biological Sciences and Health, Federal University of Alagoas, Maceio, Alagoas, Brazil. Department of Cell, Molecular Biology, Institute of Biological Sciences and Health, Federal University of Alagoas, Maceio, Alagoas, Brazil. Department of Cell, Molecular Biology, Institute of Biological Sciences and Health, Federal University of Alagoas, Maceio, Alagoas, Brazil. Department of Cell, Molecular Biology, Institute of Biological Sciences and Health, Federal University of Alagoas, Maceio, Alagoas, Brazil. Campus Arapiraca, Federal University of Alagoas, Maceio, Alagoas, Brazil. Department of Physiology, Ribeirao Preto School of Medicine, University of Sao Paulo, Ribeirao Preto, Sao Paulo, Brazil. Department of Cellular and Molecular Biology, Ribeirao Preto School of Medicine, University of Sao Paulo, Ribeirao Preto, Sao Paulo, Brazil. Department of Cell, Molecular Biology, Institute of Biological Sciences and Health, Federal University of Alagoas, Maceio, Alagoas, Brazil.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140625",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "RN": [
+          "0 (MicroRNAs)",
+          "01MI4Q9DI3 (Pilocarpine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Disease Models, Animal",
+          "Epilepsy, Temporal Lobe/*chemically induced/*genetics",
+          "Gene Expression Profiling/*standards",
+          "Hippocampus/*metabolism",
+          "Male",
+          "MicroRNAs/*genetics",
+          "Pilocarpine/*pharmacology",
+          "Rats",
+          "Rats, Wistar",
+          "Real-Time Polymerase Chain Reaction/*standards",
+          "Reference Standards",
+          "Reproducibility of Results"
+     ],
+     "PMC": "PMC4070922",
+     "EDAT": "2014/06/26 06:00",
+     "MHDA": "2015/02/11 06:00",
+     "CRDT": [
+          "2014/06/26 06:00"
+     ],
+     "PHST": [
+          "2013/12/27 00:00 [received]",
+          "2014/05/28 00:00 [accepted]",
+          "2014/06/26 06:00 [entrez]",
+          "2014/06/26 06:00 [pubmed]",
+          "2015/02/11 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0100529 [doi]",
+          "PONE-D-13-54803 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2014 Jun 25;9(6):e100529. doi: 10.1371/journal.pone.0100529. eCollection 2014.",
+     "term": "hippocampus"
+}

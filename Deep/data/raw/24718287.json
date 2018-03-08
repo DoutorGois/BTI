@@ -1,0 +1,92 @@
+{
+     "PMID": "24718287",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150121",
+     "LR": "20140603",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "96",
+     "DP": "2014 Aug 1",
+     "TI": "Fine-grained mapping of mouse brain functional connectivity with resting-state fMRI.",
+     "PG": "203-15",
+     "LID": "10.1016/j.neuroimage.2014.03.078 [doi] S1053-8119(14)00239-0 [pii]",
+     "AB": "Understanding the intrinsic circuit-level functional organization of the brain has benefited tremendously from the advent of resting-state fMRI (rsfMRI). In humans, resting-state functional network has been consistently mapped and its alterations have been shown to correlate with symptomatology of various neurological or psychiatric disorders. To date, deciphering the mouse brain functional connectivity (MBFC) with rsfMRI remains a largely underexplored research area, despite the plethora of human brain disorders that can be modeled in this specie. To pave the way from pre-clinical to clinical investigations we characterized here the intrinsic architecture of mouse brain functional circuitry, based on rsfMRI data acquired at 7T using the Cryoprobe technology. High-dimensional spatial group independent component analysis demonstrated fine-grained segregation of cortical and subcortical networks into functional clusters, overlapping with high specificity onto anatomical structures, down to single gray matter nuclei. These clusters, showing a high level of stability and reliability in their patterning, formed the input elements for computing the MBFC network using partial correlation and graph theory. Its topological architecture conserved the fundamental characteristics described for the human and rat brain, such as small-worldness and partitioning into functional modules. Our results additionally showed inter-modular interactions via \"network hubs\". Each major functional system (motor, somatosensory, limbic, visual, autonomic) was found to have representative hubs that might play an important input/output role and form a functional core for information integration. Moreover, the rostro-dorsal hippocampus formed the highest number of relevant connections with other brain areas, highlighting its importance as core structure for MBFC.",
+     "CI": [
+          "Copyright (c) 2014 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Mechling, Anna E",
+          "Hubner, Neele S",
+          "Lee, Hsu-Lei",
+          "Hennig, Jurgen",
+          "von Elverfeldt, Dominik",
+          "Harsan, Laura-Adela"
+     ],
+     "AU": [
+          "Mechling AE",
+          "Hubner NS",
+          "Lee HL",
+          "Hennig J",
+          "von Elverfeldt D",
+          "Harsan LA"
+     ],
+     "AD": "Advanced Molecular Imaging Research Center (AMIR), Medical Physics, Department of Radiology, University Medical Center and the BrainLinks-BrainTools Cluster of Excellence, University of Freiburg, 79106 Freiburg, Germany; Faculty of Biology, Albert-Ludwigs-University Freiburg, 79104 Freiburg, Germany. Advanced Molecular Imaging Research Center (AMIR), Medical Physics, Department of Radiology, University Medical Center and the BrainLinks-BrainTools Cluster of Excellence, University of Freiburg, 79106 Freiburg, Germany; Faculty of Biology, Albert-Ludwigs-University Freiburg, 79104 Freiburg, Germany. Advanced Molecular Imaging Research Center (AMIR), Medical Physics, Department of Radiology, University Medical Center and the BrainLinks-BrainTools Cluster of Excellence, University of Freiburg, 79106 Freiburg, Germany. Advanced Molecular Imaging Research Center (AMIR), Medical Physics, Department of Radiology, University Medical Center and the BrainLinks-BrainTools Cluster of Excellence, University of Freiburg, 79106 Freiburg, Germany. Advanced Molecular Imaging Research Center (AMIR), Medical Physics, Department of Radiology, University Medical Center and the BrainLinks-BrainTools Cluster of Excellence, University of Freiburg, 79106 Freiburg, Germany. Advanced Molecular Imaging Research Center (AMIR), Medical Physics, Department of Radiology, University Medical Center and the BrainLinks-BrainTools Cluster of Excellence, University of Freiburg, 79106 Freiburg, Germany. Electronic address: laura.harsan@uniklinik-freiburg.de.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140406",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain/anatomy & histology/*physiology",
+          "Connectome/*methods",
+          "Female",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Nerve Net/anatomy & histology/*physiology",
+          "Reproducibility of Results",
+          "Rest/*physiology",
+          "Sensitivity and Specificity"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Functional connectivity",
+          "Graph theory",
+          "Independent component analysis",
+          "Living mouse brain",
+          "rsfMRI"
+     ],
+     "EDAT": "2014/04/11 06:00",
+     "MHDA": "2015/01/22 06:00",
+     "CRDT": [
+          "2014/04/11 06:00"
+     ],
+     "PHST": [
+          "2013/12/16 00:00 [received]",
+          "2014/02/19 00:00 [revised]",
+          "2014/03/30 00:00 [accepted]",
+          "2014/04/11 06:00 [entrez]",
+          "2014/04/11 06:00 [pubmed]",
+          "2015/01/22 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(14)00239-0 [pii]",
+          "10.1016/j.neuroimage.2014.03.078 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2014 Aug 1;96:203-15. doi: 10.1016/j.neuroimage.2014.03.078. Epub 2014 Apr 6.",
+     "term": "hippocampus"
+}

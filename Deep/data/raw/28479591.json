@@ -1,0 +1,49 @@
+{
+     "PMID": "28479591",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20170525",
+     "IS": "1643-3750 (Electronic) 1234-1010 (Linking)",
+     "VI": "23",
+     "DP": "2017 May 8",
+     "TI": "A Novel Method to Identify Differential Pathways in Hippocampus Alzheimer's Disease.",
+     "PG": "2179-2188",
+     "AB": "BACKGROUND Alzheimer's disease (AD) is the most common type of dementia. The objective of this paper is to propose a novel method to identify differential pathways in hippocampus AD. MATERIAL AND METHODS We proposed a combined method by merging existed methods. Firstly, pathways were identified by four known methods (DAVID, the neaGUI package, the pathway-based co-expressed method, and the pathway network approach), and differential pathways were evaluated through setting weight thresholds. Subsequently, we combined all pathways by a rank-based algorithm and called the method the combined method. Finally, common differential pathways across two or more of five methods were selected. RESULTS Pathways obtained from different methods were also different. The combined method obtained 1639 pathways and 596 differential pathways, which included all pathways gained from the four existing methods; hence, the novel method solved the problem of inconsistent results. Besides, a total of 13 common pathways were identified, such as metabolism, immune system, and cell cycle. CONCLUSIONS We have proposed a novel method by combining four existing methods based on a rank product algorithm, and identified 13 significant differential pathways based on it. These differential pathways might provide insight into treatment and diagnosis of hippocampus AD.",
+     "FAU": [
+          "Liu, Chun-Han",
+          "Liu, Lian"
+     ],
+     "AU": [
+          "Liu CH",
+          "Liu L"
+     ],
+     "AD": "Department of Neurology, Tianjin First Central Hospital, Tianjin, China (mainland). Department of Interventional Neuroradiology, Beijing Tiantan Hospital, Capital Medical University, Beijing, China (mainland).",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170508",
+     "PL": "United States",
+     "TA": "Med Sci Monit",
+     "JT": "Medical science monitor : international medical journal of experimental and clinical research",
+     "JID": "9609063",
+     "PMC": "PMC5436445",
+     "EDAT": "2017/05/10 06:00",
+     "MHDA": "2017/05/10 06:00",
+     "CRDT": [
+          "2017/05/09 06:00"
+     ],
+     "PHST": [
+          "2017/05/09 06:00 [entrez]",
+          "2017/05/10 06:00 [pubmed]",
+          "2017/05/10 06:00 [medline]"
+     ],
+     "AID": [
+          "900929 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Med Sci Monit. 2017 May 8;23:2179-2188.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,81 @@
+{
+     "PMID": "28320671",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171027",
+     "LR": "20180212",
+     "IS": "1558-0210 (Electronic) 1534-4320 (Linking)",
+     "VI": "25",
+     "IP": "9",
+     "DP": "2017 Sep",
+     "TI": "An Indoor Wayfinding System Based on Geometric Features Aided Graph SLAM for the Visually Impaired.",
+     "PG": "1592-1604",
+     "LID": "10.1109/TNSRE.2017.2682265 [doi]",
+     "AB": "This paper presents a 6-degree of freedom (DOF) pose estimation (PE) method and an indoor wayfinding system based on the method for the visually impaired. The PE method involves two-graph simultaneous localization and mapping (SLAM) processes to reduce the accumulative pose error of the device. In the first step, the floor plane is extracted from the 3-D camera's point cloud and added as a landmark node into the graph for 6-DOF SLAM to reduce roll, pitch, and Z errors. In the second step, the wall lines are extracted and incorporated into the graph for 3-DOF SLAM to reduce X , Y , and yaw errors. The method reduces the 6-DOF pose error and results in more accurate pose with less computational time than the state-of-the-art planar SLAM methods. Based on the PE method, a wayfinding system is developed for navigating a visually impaired person in an indoor environment. The system uses the estimated pose and floor plan to locate the device user in a building and guides the user by announcing the points of interest and navigational commands through a speech interface. Experimental results validate the effectiveness of the PE method and demonstrate that the system may substantially ease an indoor navigation task.",
+     "FAU": [
+          "Zhang, He",
+          "Ye, Cang"
+     ],
+     "AU": [
+          "Zhang H",
+          "Ye C"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB018117/EB/NIBIB NIH HHS/United States",
+          "R01 EY026275/EY/NEI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20170315",
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Syst Rehabil Eng",
+     "JT": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "101097023",
+     "SB": "IM",
+     "MH": [
+          "*Canes",
+          "*Dependent Ambulation",
+          "Equipment Design",
+          "Equipment Failure Analysis",
+          "Humans",
+          "Imaging, Three-Dimensional/*instrumentation",
+          "Patient Identification Systems/*methods",
+          "Reproducibility of Results",
+          "*Self-Help Devices",
+          "Sensitivity and Specificity",
+          "Spatial Navigation",
+          "Treatment Outcome",
+          "*User-Computer Interface",
+          "Visually Impaired Persons/rehabilitation",
+          "Wireless Technology/instrumentation"
+     ],
+     "PMC": "PMC5659309",
+     "MID": [
+          "NIHMS905576"
+     ],
+     "EDAT": "2017/03/23 06:00",
+     "MHDA": "2017/10/28 06:00",
+     "CRDT": [
+          "2017/03/22 06:00"
+     ],
+     "PMCR": [
+          "2018/09/01 00:00"
+     ],
+     "PHST": [
+          "2018/09/01 00:00 [pmc-release]",
+          "2017/03/23 06:00 [pubmed]",
+          "2017/10/28 06:00 [medline]",
+          "2017/03/22 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1109/TNSRE.2017.2682265 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Syst Rehabil Eng. 2017 Sep;25(9):1592-1604. doi: 10.1109/TNSRE.2017.2682265. Epub 2017 Mar 15.",
+     "term": "spatial navigation"
+}

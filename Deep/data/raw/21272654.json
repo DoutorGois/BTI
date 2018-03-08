@@ -1,0 +1,113 @@
+{
+     "PMID": "21272654",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110729",
+     "LR": "20170922",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "56",
+     "IP": "1",
+     "DP": "2011 May 1",
+     "TI": "Automated hippocampal shape analysis predicts the onset of dementia in mild cognitive impairment.",
+     "PG": "212-9",
+     "LID": "10.1016/j.neuroimage.2011.01.050 [doi]",
+     "AB": "The hippocampus is involved at the onset of the neuropathological pathways leading to Alzheimer's disease (AD). Individuals with mild cognitive impairment (MCI) are at increased risk of AD. Hippocampal volume has been shown to predict which MCI subjects will convert to AD. Our aim in the present study was to produce a fully automated prognostic procedure, scalable to high throughput clinical and research applications, for the prediction of MCI conversion to AD using 3D hippocampal morphology. We used an automated analysis for the extraction and mapping of the hippocampus from structural magnetic resonance scans to extract 3D hippocampal shape morphology, and we then applied machine learning classification to predict conversion from MCI to AD. We investigated the accuracy of prediction in 103 MCI subjects (mean age 74.1 years) from the longitudinal AddNeuroMed study. Our model correctly predicted MCI conversion to dementia within a year at an accuracy of 80% (sensitivity 77%, specificity 80%), a performance which is competitive with previous predictive models dependent on manual measurements. Categorization of MCI subjects based on hippocampal morphology revealed more rapid cognitive deterioration in MMSE scores (p<0.01) and CERAD verbal memory (p<0.01) in those subjects who were predicted to develop dementia relative to those predicted to remain stable. The pattern of atrophy associated with increased risk of conversion demonstrated initial degeneration in the anterior part of the cornus ammonis 1 (CA1) hippocampal subregion. We conclude that automated shape analysis generates sensitive measurements of early neurodegeneration which predates the onset of dementia and thus provides a prognostic biomarker for conversion of MCI to AD.",
+     "CI": [
+          "Copyright (c) 2011 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Costafreda, Sergi G",
+          "Dinov, Ivo D",
+          "Tu, Zhuowen",
+          "Shi, Yonggang",
+          "Liu, Cheng-Yi",
+          "Kloszewska, Iwona",
+          "Mecocci, Patrizia",
+          "Soininen, Hilkka",
+          "Tsolaki, Magda",
+          "Vellas, Bruno",
+          "Wahlund, Lars-Olof",
+          "Spenger, Christian",
+          "Toga, Arthur W",
+          "Lovestone, Simon",
+          "Simmons, Andrew"
+     ],
+     "AU": [
+          "Costafreda SG",
+          "Dinov ID",
+          "Tu Z",
+          "Shi Y",
+          "Liu CY",
+          "Kloszewska I",
+          "Mecocci P",
+          "Soininen H",
+          "Tsolaki M",
+          "Vellas B",
+          "Wahlund LO",
+          "Spenger C",
+          "Toga AW",
+          "Lovestone S",
+          "Simmons A"
+     ],
+     "AD": "King's College London, London, UK. sergi.1.costafreda@kcl.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0802594/Medical Research Council/United Kingdom",
+          "U54 RR021813/RR/NCRR NIH HHS/United States",
+          "U54 RR021813-01/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20110125",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Brain Mapping/*methods",
+          "Cognition Disorders/*pathology",
+          "Dementia/*diagnosis",
+          "Disease Progression",
+          "Female",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Neuropsychological Tests",
+          "Predictive Value of Tests"
+     ],
+     "PMC": "PMC3066277",
+     "MID": [
+          "NIHMS277181"
+     ],
+     "EDAT": "2011/01/29 06:00",
+     "MHDA": "2011/07/30 06:00",
+     "CRDT": [
+          "2011/01/29 06:00"
+     ],
+     "PHST": [
+          "2010/09/02 00:00 [received]",
+          "2011/01/14 00:00 [revised]",
+          "2011/01/17 00:00 [accepted]",
+          "2011/01/29 06:00 [entrez]",
+          "2011/01/29 06:00 [pubmed]",
+          "2011/07/30 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)00086-3 [pii]",
+          "10.1016/j.neuroimage.2011.01.050 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2011 May 1;56(1):212-9. doi: 10.1016/j.neuroimage.2011.01.050. Epub 2011 Jan 25.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,83 @@
+{
+     "PMID": "27741293",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170522",
+     "LR": "20170522",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "11",
+     "IP": "10",
+     "DP": "2016",
+     "TI": "Transient Global Amnesia Deteriorates the Network Efficiency of the Theta Band.",
+     "PG": "e0164884",
+     "LID": "10.1371/journal.pone.0164884 [doi]",
+     "AB": "Acute perturbation of the hippocampus, one of the connector hubs in the brain, is a key step in the pathophysiological cascade of transient global amnesia (TGA). We tested the hypothesis that network efficiency, meaning the efficiency of information exchange over a network, is impaired during the acute stage of TGA. Graph theoretical analysis was applied to resting-state EEG data collected from 21 patients with TGA. The EEG data were obtained twice, once during the acute stage (< 24 hours after symptom onset) and once during the resolved stage (> 2 months after symptom onset) of TGA. Characteristic path lengths and clustering coefficients of functional networks constructed using phase-locking values were computed and normalized as a function of the degree in the delta, theta, alpha, beta 1, beta 2 and gamma frequency bands of the EEG. We investigated whether the normalized characteristic path length (nCPL) and normalized clustering coefficients (nCC) differed significantly between the acute and resolved stages of TGA at each frequency band using the Wilcoxon signed-rank test. For networks where the nCPL or nCC differed significantly between the two stages, we also evaluated changes in the connections of the brain networks. During the acute stage of TGA, the nCPL of the theta band networks with mean degrees of 8, 8.5, 9 and 9.5 significantly increased (P < 0.05). During the acute stage, the lost edges for these networks were mostly found between the anterior (frontal and anterior temporal) and posterior (parieto-occipital and posterior temporal) brain regions, whereas newly developed edges were primarily found between the left and right frontotemporal regions. The nCC of the theta band with a mean degree of 5.5 significantly decreased during the acute stage (P < 0.05). Our results indicate that TGA deteriorates the network efficiency of the theta frequency band. This effect might be related to the desynchronization between the anterior and posterior brain areas.",
+     "FAU": [
+          "Park, Young Ho",
+          "Kim, Jeong-Youn",
+          "Yi, SangHak",
+          "Lim, Jae-Sung",
+          "Jang, Jae-Won",
+          "Im, Chang-Hwan",
+          "Kim, SangYun"
+     ],
+     "AU": [
+          "Park YH",
+          "Kim JY",
+          "Yi S",
+          "Lim JS",
+          "Jang JW",
+          "Im CH",
+          "Kim S"
+     ],
+     "AD": "Department of Neurology, Seoul National University College of Medicine and Clinical Neuroscience Center, Seoul National University Bundang Hospital, Seongnam, Korea. Department of Biomedical Engineering, Hanyang University, Seoul, Korea. Department of Neurology, Seoul National University College of Medicine and Clinical Neuroscience Center, Seoul National University Bundang Hospital, Seongnam, Korea. Department of Neurology, Seoul National University Boramae Hospital, Seoul, Korea. Department of Neurology, Kangwon National University Hospital, Chuncheon, Korea. Department of Biomedical Engineering, Hanyang University, Seoul, Korea. Department of Neurology, Seoul National University College of Medicine and Clinical Neuroscience Center, Seoul National University Bundang Hospital, Seongnam, Korea.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20161014",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Amnesia, Transient Global/*physiopathology",
+          "Databases, Factual",
+          "*Electroencephalography",
+          "Female",
+          "Hippocampus/physiopathology",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Models, Theoretical",
+          "Retrospective Studies",
+          "Signal Processing, Computer-Assisted"
+     ],
+     "PMC": "PMC5065218",
+     "COIS": [
+          "The authors have declared that no competing interests exist."
+     ],
+     "EDAT": "2016/10/16 06:00",
+     "MHDA": "2017/05/23 06:00",
+     "CRDT": [
+          "2016/10/15 06:00"
+     ],
+     "PHST": [
+          "2016/06/15 00:00 [received]",
+          "2016/10/03 00:00 [accepted]",
+          "2016/10/15 06:00 [entrez]",
+          "2016/10/16 06:00 [pubmed]",
+          "2017/05/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0164884 [doi]",
+          "PONE-D-16-23993 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2016 Oct 14;11(10):e0164884. doi: 10.1371/journal.pone.0164884. eCollection 2016.",
+     "term": "hippocampus"
+}

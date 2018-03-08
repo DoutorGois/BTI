@@ -1,0 +1,76 @@
+{
+     "PMID": "18194111",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080710",
+     "LR": "20161122",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "20",
+     "IP": "6",
+     "DP": "2008 Jun",
+     "TI": "A classification method to distinguish cell-specific responses elicited by current pulses in hippocampal CA1 pyramidal cells.",
+     "PG": "1512-36",
+     "LID": "10.1162/neco.2007.07-07-564 [doi]",
+     "AB": "The suprathreshold electrophysiological responses of pyramidal cells have been grouped into large classes such as bursting and spiking. However, it is not known whether, within a class, response variability ranges uniformly across all cells or whether each cell has a unique and consistent profile that can be differentiated. A major difficulty when comparing suprathreshold responses is that slight variations in spike timing in otherwise very similar traces render traditional metrics ineffective. To address these issues, we developed a novel distance measure based on fiducial points to quantify the similarity among traces with trains of action potentials and applied it together with classification techniques to a set of in vitro patch clamp recordings from CA1 pyramidal cells. We tested if responses to repeated current stimulation of a given cell would cluster together yet remain distinct from those of other cells. We found that depolarizing and hyperpolarizing current pulses elicited responses in each cell that clustered and were systematically distinguishable from responses in other cells. The fiducial-point distance measure was more effective than other methods based on spike times and voltage-gradient phase planes. Depolarizing traces were more reliably differentiated than hyperpolarizing traces, and combining both scores was even more effective. These results suggest that each CA1 pyramidal cell has unique properties that can be detected and quantified with methods discussed here. This uniqueness may be due to slight variations in morphology or membrane channel densities and kinetics, or to large, coordinated variations in these elements. Ascertaining the actual sources and their degree of variability is important when constructing network models of neural function to ensure that key mechanisms are robust in the face of variations within these ranges. The analytical tools presented here can assist in constructing detailed cell models to match experimental records to elucidate the sources of electrophysiological variability in neurons.",
+     "FAU": [
+          "Ambros-Ingerson, Jose",
+          "Grover, Lawrence M",
+          "Holmes, William R"
+     ],
+     "AU": [
+          "Ambros-Ingerson J",
+          "Grover LM",
+          "Holmes WR"
+     ],
+     "AD": "Department of Biological Sciences, Neuroscience Program and Quantitative Biology Institute, Ohio University, Athens, OH 45701, USA. ambros@alumni.uci.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AA014294/AA/NIAAA NIH HHS/United States",
+          "R01 AA014294-04/AA/NIAAA NIH HHS/United States",
+          "AA-014294/AA/NIAAA NIH HHS/United States"
+     ],
+     "PT": [
+          "Letter",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*radiation effects",
+          "Animals",
+          "Dose-Response Relationship, Radiation",
+          "Electric Stimulation/*methods",
+          "Hippocampus/*cytology",
+          "In Vitro Techniques",
+          "Patch-Clamp Techniques",
+          "Pyramidal Cells/*radiation effects",
+          "Rats",
+          "Rats, Sprague-Dawley"
+     ],
+     "PMC": "PMC2900194",
+     "MID": [
+          "NIHMS214086"
+     ],
+     "EDAT": "2008/01/16 09:00",
+     "MHDA": "2008/07/11 09:00",
+     "CRDT": [
+          "2008/01/16 09:00"
+     ],
+     "PHST": [
+          "2008/01/16 09:00 [pubmed]",
+          "2008/07/11 09:00 [medline]",
+          "2008/01/16 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/neco.2007.07-07-564 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2008 Jun;20(6):1512-36. doi: 10.1162/neco.2007.07-07-564.",
+     "term": "hippocampus"
+}

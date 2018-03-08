@@ -1,0 +1,103 @@
+{
+     "PMID": "26631463",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160328",
+     "LR": "20161019",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "35",
+     "IP": "48",
+     "DP": "2015 Dec 2",
+     "TI": "Can Neural Activity Propagate by Endogenous Electrical Field?",
+     "PG": "15800-11",
+     "LID": "10.1523/JNEUROSCI.1045-15.2015 [doi]",
+     "AB": "It is widely accepted that synaptic transmissions and gap junctions are the major governing mechanisms for signal traveling in the neural system. Yet, a group of neural waves, either physiological or pathological, share the same speed of approximately 0.1 m/s without synaptic transmission or gap junctions, and this speed is not consistent with axonal conduction or ionic diffusion. The only explanation left is an electrical field effect. We tested the hypothesis that endogenous electric fields are sufficient to explain the propagation with in silico and in vitro experiments. Simulation results show that field effects alone can indeed mediate propagation across layers of neurons with speeds of 0.12 +/- 0.09 m/s with pathological kinetics, and 0.11 +/- 0.03 m/s with physiologic kinetics, both generating weak field amplitudes of approximately 2-6 mV/mm. Further, the model predicted that propagation speed values are inversely proportional to the cell-to-cell distances, but do not significantly change with extracellular resistivity, membrane capacitance, or membrane resistance. In vitro recordings in mice hippocampi produced similar speeds (0.10 +/- 0.03 m/s) and field amplitudes (2.5-5 mV/mm), and by applying a blocking field, the propagation speed was greatly reduced. Finally, osmolarity experiments confirmed the model's prediction that cell-to-cell distance inversely affects propagation speed. Together, these results show that despite their weak amplitude, electric fields can be solely responsible for spike propagation at approximately 0.1 m/s. This phenomenon could be important to explain the slow propagation of epileptic activity and other normal propagations at similar speeds.",
+     "CI": [
+          "Copyright (c) 2015 the authors 0270-6474/15/3515800-12$15.00/0."
+     ],
+     "FAU": [
+          "Qiu, Chen",
+          "Shivacharan, Rajat S",
+          "Zhang, Mingming",
+          "Durand, Dominique M"
+     ],
+     "AU": [
+          "Qiu C",
+          "Shivacharan RS",
+          "Zhang M",
+          "Durand DM"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-0802-8425",
+          "ORCID: http://orcid.org/0000-0002-5384-6363"
+     ],
+     "AD": "Department of Biomedical Engineering, Neural Engineering Center, Case Western Reserve University, Cleveland, Ohio 44106. Department of Biomedical Engineering, Neural Engineering Center, Case Western Reserve University, Cleveland, Ohio 44106. Department of Biomedical Engineering, Neural Engineering Center, Case Western Reserve University, Cleveland, Ohio 44106. Department of Biomedical Engineering, Neural Engineering Center, Case Western Reserve University, Cleveland, Ohio 44106 dxd6@case.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS060757/NS/NINDS NIH HHS/United States",
+          "1R01NS060757-01/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "RN": [
+          "0 (4-aminopiperidine)",
+          "0 (Piperidines)",
+          "0 (Potassium Channel Blockers)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/drug effects",
+          "Animals",
+          "Calcium/metabolism",
+          "Computer Simulation",
+          "*Electromagnetic Fields",
+          "*Electromagnetic Phenomena",
+          "Female",
+          "Hippocampus/*physiology",
+          "In Vitro Techniques",
+          "Male",
+          "Membrane Potentials",
+          "Mice",
+          "Models, Neurological",
+          "Neurons/*physiology",
+          "Osmolar Concentration",
+          "Piperidines/pharmacology",
+          "Potassium Channel Blockers/pharmacology"
+     ],
+     "PMC": "PMC4666910",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "epileptical",
+          "field effect",
+          "neural propagation",
+          "osmolarity"
+     ],
+     "EDAT": "2015/12/04 06:00",
+     "MHDA": "2016/03/29 06:00",
+     "CRDT": [
+          "2015/12/04 06:00"
+     ],
+     "PHST": [
+          "2015/12/04 06:00 [entrez]",
+          "2015/12/04 06:00 [pubmed]",
+          "2016/03/29 06:00 [medline]"
+     ],
+     "AID": [
+          "35/48/15800 [pii]",
+          "10.1523/JNEUROSCI.1045-15.2015 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2015 Dec 2;35(48):15800-11. doi: 10.1523/JNEUROSCI.1045-15.2015.",
+     "term": "hippocampus"
+}

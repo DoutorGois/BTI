@@ -1,0 +1,65 @@
+{
+     "PMID": "15036336",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040505",
+     "LR": "20071114",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "17",
+     "IP": "2",
+     "DP": "2004 Mar",
+     "TI": "Configural representations in transverse patterning with a hippocampal model.",
+     "PG": "175-90",
+     "AB": "The hippocampus is necessary in both humans and rats for learning configural representations in tasks such as transverse patterning. The transverse patterning task, (A+B-, B+C-, C+A-), requires representing individual stimuli in the context of other stimuli. This paper extends a previous application to rat data [INNS World Congress on Neural Networks, 1995; Biol Cybern 6 (1998a) 203] by applying a model of the CA3 region of the hippocampus to human data. A decision function is also added that enables the system to choose among training items. Analysis of the simulations show that configural representations are formed by unique neural codes that depend on temporal and stimuli context. Based on the simulations, we hypothesize that configural representations in biological networks depend on a proper balance of input and context representations. Furthermore, the division of labor between functions in the model is a specific working hypothesis that in learning this task the hippocampus specializes in sequence prediction and the decision function evaluates the predictions.",
+     "FAU": [
+          "Rodriguez, Paul",
+          "Levy, William B"
+     ],
+     "AU": [
+          "Rodriguez P",
+          "Levy WB"
+     ],
+     "AD": "Department of Psychology, University of California, Los Angeles, 1285 Franz Hall, Box 951563 Los Angeles, CA 90095-1563, USA. rodrigue@psych.ucla.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "1-F32-MH12762-01/MH/NIMH NIH HHS/United States",
+          "MH48161/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "Neurons/*physiology"
+     ],
+     "EDAT": "2004/03/24 05:00",
+     "MHDA": "2004/05/07 05:00",
+     "CRDT": [
+          "2004/03/24 05:00"
+     ],
+     "PHST": [
+          "2002/04/23 00:00 [received]",
+          "2003/06/25 00:00 [revised]",
+          "2003/06/25 00:00 [accepted]",
+          "2004/03/24 05:00 [pubmed]",
+          "2004/05/07 05:00 [medline]",
+          "2004/03/24 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1016/j.neunet.2003.06.001 [doi]",
+          "S0893-6080(03)00213-2 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2004 Mar;17(2):175-90. doi: 10.1016/j.neunet.2003.06.001.",
+     "term": "hippocampus"
+}

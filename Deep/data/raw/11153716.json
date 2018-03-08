@@ -1,0 +1,68 @@
+{
+     "PMID": "11153716",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20010308",
+     "LR": "20170922",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "10",
+     "IP": "6",
+     "DP": "2000",
+     "TI": "A model of theta rhythm production in the septal-hippocampal system and its modulation by ascending brain stem pathways.",
+     "PG": "698-716",
+     "AB": "Recent experimental observations have disclosed the existence of a septal-hippocampal feedback circuit, composed of medial septum diagonal band of Broca (ms-dbB) GABAergic projections to the inhibitory interneurons of the hippocampus, and hippocampal GABAergic projections to the ms-dbB, the major targets of which are the GABAergic septo-hippocampal projection cells. We propose that this feedback circuit provides the mechanism for the rhythmic suppression of interneuronal activity in the hippocampus, which is observed as low-level GABAergic-mediated theta activity. We also propose that this circuit may be the mechanism by which ascending brain stem pathways to the ms-dbB, in particular from the reticular formation, can influence hippocampal information processing in response to particular behavioral states, by exercising control over the level and frequency of theta activity in the hippocampus. In support of these proposals, we describe a minimal computational model of the feedback circuit which uses a set of four coupled differential equations describing the average dynamic activity of the populations of excitatory and inhibitory cells involved in the circuit. We demonstrate through simulations the inherently robust 4-6-Hz oscillatory dynamics of the circuit, and show that manipulation of internal connection strengths and external modulatory influences on this circuit changes the dynamics in a way which closely mimics corresponding manipulations in recent neurophysiological experiments investigating theta activity.",
+     "FAU": [
+          "Denham, M J",
+          "Borisyuk, R M"
+     ],
+     "AU": [
+          "Denham MJ",
+          "Borisyuk RM"
+     ],
+     "AD": "Centre for Neural and Adaptive Systems, School of Computing, University of Plymouth, UK. mike@soc.plym.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "BB/G006369/1/Biotechnology and Biological Sciences Research Council/United",
+          "Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain Stem/*cytology/physiology",
+          "Computer Simulation",
+          "Feedback/physiology",
+          "Hippocampus/*cytology/physiology",
+          "*Models, Neurological",
+          "Neural Inhibition/physiology",
+          "Neural Pathways",
+          "Periodicity",
+          "Septum of Brain/*cytology/physiology",
+          "*Theta Rhythm"
+     ],
+     "EDAT": "2001/01/12 11:00",
+     "MHDA": "2001/03/10 10:01",
+     "CRDT": [
+          "2001/01/12 11:00"
+     ],
+     "PHST": [
+          "2001/01/12 11:00 [pubmed]",
+          "2001/03/10 10:01 [medline]",
+          "2001/01/12 11:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/1098-1063(2000)10:6<698::AID-HIPO1008>3.0.CO;2-Z [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2000;10(6):698-716. doi: 10.1002/1098-1063(2000)10:6<698::AID-HIPO1008>3.0.CO;2-Z.",
+     "term": "hippocampus"
+}

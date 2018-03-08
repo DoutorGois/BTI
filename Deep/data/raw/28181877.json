@@ -1,0 +1,48 @@
+{
+     "PMID": "28181877",
+     "OWN": "NLM",
+     "STAT": "In-Data-Review",
+     "LR": "20170323",
+     "IS": "1530-888X (Electronic) 0899-7667 (Linking)",
+     "VI": "29",
+     "IP": "4",
+     "DP": "2017 Apr",
+     "TI": "An in Silico, Biomarker-Based Method for the Evaluation of Virtual Neuropsychiatric Drug Effects.",
+     "PG": "1021-1052",
+     "LID": "10.1162/NECO_a_00944 [doi]",
+     "AB": "The recent explosion in neuroscience research has markedly increased our understanding of the neurobiological correlates of many psychiatric illnesses, but this has unfortunately not translated into more effective pharmacologic treatments for these conditions. At the same time, researchers have increasingly sought out biological markers, or biomarkers, as a way to categorize psychiatric illness, as these are felt to be closer to underlying genetic and neurobiological vulnerabilities. While biomarker-based drug discovery approaches have tended to employ in vivo (e.g., rodent) or in vitro test systems, relatively little attention has been paid to the potential of computational, or in silico, methodologies. Here we describe such a methodology, using as an example a biophysically detailed computational model of hippocampus that is made to generate putative schizophrenia biomarkers by the inclusion of a number of neuropathological changes that have been associated with the illness (NMDA system deficit, decreased neural connectivity, hyperdopaminergia). We use the specific inability to attune to gamma band (40 Hz) auditory stimulus as our illness biomarker. We expose this system to a large number of virtual medications, defined by systematic variation of model parameters corresponding to five cellular-level effects. The potential efficacy of virtual medications is determined by a wellness metric (WM) that we have developed. We identify a number of virtual agents that consist of combinations of mechanisms, which are not simply reversals of the causative lesions. The manner in which this methodology could be extended to other neuropsychiatric conditions, such as Alzheimer's disease, autism, and fragile X syndrome, is discussed.",
+     "FAU": [
+          "Siekmeier, Peter J"
+     ],
+     "AU": [
+          "Siekmeier PJ"
+     ],
+     "AD": "Harvard Medical School, Boston, MA 02115, and Laboratory for Computational Neuroscience, McLean Hospital, Belmont, MA 02478, U.S.A. psiekmeier@mclean.harvard.edu.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170209",
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "EDAT": "2017/02/10 06:00",
+     "MHDA": "2017/02/10 06:00",
+     "CRDT": [
+          "2017/02/10 06:00"
+     ],
+     "PHST": [
+          "2017/02/10 06:00 [pubmed]",
+          "2017/02/10 06:00 [medline]",
+          "2017/02/10 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/NECO_a_00944 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2017 Apr;29(4):1021-1052. doi: 10.1162/NECO_a_00944. Epub 2017 Feb 9.",
+     "term": "hippocampus"
+}

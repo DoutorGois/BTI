@@ -1,0 +1,77 @@
+{
+     "PMID": "24615558",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150514",
+     "LR": "20140828",
+     "IS": "1748-3190 (Electronic) 1748-3182 (Linking)",
+     "VI": "9",
+     "IP": "3",
+     "DP": "2014 Sep",
+     "TI": "A biomimetic vision-based hovercraft accounts for bees' complex behaviour in various corridors.",
+     "PG": "036003",
+     "LID": "10.1088/1748-3182/9/3/036003 [doi]",
+     "AB": "Here we present the first systematic comparison between the visual guidance behaviour of a biomimetic robot and those of honeybees flying in similar environments. We built a miniature hovercraft which can travel safely along corridors with various configurations. For the first time, we implemented on a real physical robot the 'lateral optic flow regulation autopilot', which we previously studied computer simulations. This autopilot inspired by the results of experiments on various species of hymenoptera consists of two intertwined feedback loops, the speed and lateral control loops, each of which has its own optic flow (OF) set-point. A heading-lock system makes the robot move straight ahead as fast as 69 cm s(-1) with a clearance from one wall as small as 31 cm, giving an unusually high translational OF value (125 degrees s(-1)). Our biomimetic robot was found to navigate safely along straight, tapered and bent corridors, and to react appropriately to perturbations such as the lack of texture on one wall, the presence of a tapering or non-stationary section of the corridor and even a sloping terrain equivalent to a wind disturbance. The front end of the visual system consists of only two local motion sensors (LMS), one on each side. This minimalistic visual system measuring the lateral OF suffices to control both the robot's forward speed and its clearance from the walls without ever measuring any speeds or distances. We added two additional LMSs oriented at +/-45 degrees to improve the robot's performances in stiffly tapered corridors. The simple control system accounts for worker bees' ability to navigate safely in six challenging environments: straight corridors, single walls, tapered corridors, straight corridors with part of one wall moving or missing, as well as in the presence of wind.",
+     "FAU": [
+          "Roubieu, Frederic L",
+          "Serres, Julien R",
+          "Colonnier, Fabien",
+          "Franceschini, Nicolas",
+          "Viollet, Stephane",
+          "Ruffier, Franck"
+     ],
+     "AU": [
+          "Roubieu FL",
+          "Serres JR",
+          "Colonnier F",
+          "Franceschini N",
+          "Viollet S",
+          "Ruffier F"
+     ],
+     "AD": "Aix-Marseille Universite, CNRS, ISM UMR 7287, 13288, Marseille cedex 09, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140311",
+     "PL": "England",
+     "TA": "Bioinspir Biomim",
+     "JT": "Bioinspiration & biomimetics",
+     "JID": "101292902",
+     "SB": "IM",
+     "MH": [
+          "Aircraft/*instrumentation",
+          "Animals",
+          "Artificial Intelligence",
+          "Bees/*physiology",
+          "Biomimetics/*instrumentation",
+          "Equipment Design",
+          "Equipment Failure Analysis",
+          "Feedback, Physiological/physiology",
+          "Flight, Animal/*physiology",
+          "Humans",
+          "Robotics/instrumentation",
+          "Spatial Navigation/*physiology",
+          "Visual Perception/*physiology"
+     ],
+     "EDAT": "2014/03/13 06:00",
+     "MHDA": "2015/05/15 06:00",
+     "CRDT": [
+          "2014/03/12 06:00"
+     ],
+     "PHST": [
+          "2014/03/12 06:00 [entrez]",
+          "2014/03/13 06:00 [pubmed]",
+          "2015/05/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1088/1748-3182/9/3/036003 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Bioinspir Biomim. 2014 Sep;9(3):036003. doi: 10.1088/1748-3182/9/3/036003. Epub 2014 Mar 11.",
+     "term": "spatial navigation"
+}

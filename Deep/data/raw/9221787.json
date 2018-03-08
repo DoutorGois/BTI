@@ -1,0 +1,59 @@
+{
+     "PMID": "9221787",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19971003",
+     "LR": "20071114",
+     "IS": "0270-6474 (Print) 0270-6474 (Linking)",
+     "VI": "17",
+     "IP": "15",
+     "DP": "1997 Aug 1",
+     "TI": "Path integration and cognitive mapping in a continuous attractor neural network model.",
+     "PG": "5900-20",
+     "AB": "A minimal synaptic architecture is proposed for how the brain might perform path integration by computing the next internal representation of self-location from the current representation and from the perceived velocity of motion. In the model, a place-cell assembly called a \"chart\" contains a two-dimensional attractor set called an \"attractor map\" that can be used to represent coordinates in any arbitrary environment, once associative binding has occurred between chart locations and sensory inputs. In hippocampus, there are different spatial relations among place fields in different environments and behavioral contexts. Thus, the same units may participate in many charts, and it is shown that the number of uncorrelated charts that can be encoded in the same recurrent network is potentially quite large. According to this theory, the firing of a given place cell is primarily a cooperative effect of the activity of its neighbors on the currently active chart. Therefore, it is not particularly useful to think of place cells as encoding any particular external object or event. Because of its recurrent connections, hippocampal field CA3 is proposed as a possible location for this \"multichart\" architecture; however, other implementations in anatomy would not invalidate the main concepts. The model is implemented numerically both as a network of integrate-and-fire units and as a \"macroscopic\" (with respect to the space of states) description of the system, based on a continuous approximation defined by a system of stochastic differential equations. It provides an explanation for a number of hitherto perplexing observations on hippocampal place fields, including doubling, vanishing, reshaping in distorted environments, acquiring directionality in a two-goal shuttling task, rapid formation in a novel environment, and slow rotation after disorientation. The model makes several new predictions about the expected properties of hippocampal place cells and other cells of the proposed network.",
+     "FAU": [
+          "Samsonovich, A",
+          "McNaughton, B L"
+     ],
+     "AU": [
+          "Samsonovich A",
+          "McNaughton BL"
+     ],
+     "AD": "Arizona Research Laboratories Division of Neural Systems, Memory and Aging, The University of Arizona, Tucson, Arizona 85749, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS20331/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain Mapping",
+          "Hippocampus/*physiology",
+          "*Neural Networks (Computer)",
+          "Rats"
+     ],
+     "EDAT": "1997/08/01 00:00",
+     "MHDA": "1997/08/01 00:01",
+     "CRDT": [
+          "1997/08/01 00:00"
+     ],
+     "PHST": [
+          "1997/08/01 00:00 [pubmed]",
+          "1997/08/01 00:01 [medline]",
+          "1997/08/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 1997 Aug 1;17(15):5900-20.",
+     "term": "place cells"
+}

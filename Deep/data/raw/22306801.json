@@ -1,0 +1,102 @@
+{
+     "PMID": "22306801",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120629",
+     "LR": "20161019",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "60",
+     "IP": "2",
+     "DP": "2012 Apr 2",
+     "TI": "Measuring longitudinal change in the hippocampal formation from in vivo high-resolution T2-weighted MRI.",
+     "PG": "1266-79",
+     "LID": "10.1016/j.neuroimage.2012.01.098 [doi]",
+     "AB": "The hippocampal formation (HF) is a brain structure of great interest because of its central role in learning and memory, and its associated vulnerability to several neurological disorders. In vivo oblique coronal T2-weighted MRI with high in-plane resolution (~0.5 mm x 0.5 mm), thick slices (~2.0 mm), and a field of view tailored to imaging the hippocampal formation (denoted HF-MRI in this paper) has been advanced as a useful imaging modality for detailed hippocampal morphometry. Cross-sectional analysis of volume measurements derived from HF-MRI has shown the modality's promise to yield sensitive imaging-based biomarker for neurological disorders such as Alzheimer's disease. However, the utility of this modality for making measurements of longitudinal change has not yet been demonstrated. In this paper, using an unbiased deformation-based morphometry (DBM) pipeline, we examine the suitability of HF-MRI for estimating longitudinal change by comparing atrophy rates measured in the whole hippocampus from this modality with those measured from more common isotropic (~1 mm(3)) T1-weighted MRI in the same set of individuals, in a cohort of healthy controls and patients with cognitive impairment. While measurements obtained from HF-MRI were largely consistent with those obtained from T1-MRI, HF-MRI yielded slightly larger group effect of greater atrophy rates in patients than in controls. The estimated minimum sample size required for detecting a 25% change in patients' atrophy rate in the hippocampus compared to the control group with a statistical power beta=0.8 was N=269. For T1-MRI, the equivalent sample size was N=325. Using a dataset of test-retest scans, we show that the measurements were free of additive bias. We also demonstrate that these results were not a confound of certain methodological choices made in the DBM pipeline to address the challenges of making longitudinal measurements from HF-MRI, using a region of interest (ROI) around the HF to globally align serial images, followed by slice-by-slice deformable registration to measure local volume change. Additionally, we present a preliminary study of atrophy rate measurements within hippocampal subfields using HF-MRI. Cross-sectional differences in atrophy rates were detected in several subfields.",
+     "CI": [
+          "Copyright A(c) 2012 Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Das, Sandhitsu R",
+          "Avants, Brian B",
+          "Pluta, John",
+          "Wang, Hongzhi",
+          "Suh, Jung W",
+          "Weiner, Michael W",
+          "Mueller, Susanne G",
+          "Yushkevich, Paul A"
+     ],
+     "AU": [
+          "Das SR",
+          "Avants BB",
+          "Pluta J",
+          "Wang H",
+          "Suh JW",
+          "Weiner MW",
+          "Mueller SG",
+          "Yushkevich PA"
+     ],
+     "AD": "Penn Image Computing and Science Laboratory-PICSL, Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA. sudas@seas.upenn.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "1R01 AG037376-01/AG/NIA NIH HHS/United States",
+          "2U01 AG024904-06/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States",
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "R01 AG010897/AG/NIA NIH HHS/United States",
+          "RC2 AG036535/AG/NIA NIH HHS/United States",
+          "U01 AG024904-06/AG/NIA NIH HHS/United States",
+          "K25 AG027785-02/AG/NIA NIH HHS/United States",
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "1RC2 AG036535-01/AG/NIA NIH HHS/United States",
+          "R01 AG010897-18/AG/NIA NIH HHS/United States",
+          "RC2 AG036535-01/AG/NIA NIH HHS/United States",
+          "R21 NS061111/NS/NINDS NIH HHS/United States",
+          "R01 AG037376-01/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120128",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Atrophy/pathology",
+          "Cognition Disorders/*pathology",
+          "Hippocampus/*pathology",
+          "Humans",
+          "Magnetic Resonance Imaging/*methods",
+          "Organ Size"
+     ],
+     "PMC": "PMC3667607",
+     "MID": [
+          "NIHMS352977"
+     ],
+     "EDAT": "2012/02/07 06:00",
+     "MHDA": "2012/06/30 06:00",
+     "CRDT": [
+          "2012/02/07 06:00"
+     ],
+     "PHST": [
+          "2011/11/23 00:00 [received]",
+          "2012/01/12 00:00 [revised]",
+          "2012/01/18 00:00 [accepted]",
+          "2012/02/07 06:00 [entrez]",
+          "2012/02/07 06:00 [pubmed]",
+          "2012/06/30 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(12)00115-2 [pii]",
+          "10.1016/j.neuroimage.2012.01.098 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2012 Apr 2;60(2):1266-79. doi: 10.1016/j.neuroimage.2012.01.098. Epub 2012 Jan 28.",
+     "term": "hippocampus"
+}

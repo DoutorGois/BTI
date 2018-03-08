@@ -1,0 +1,68 @@
+{
+     "PMID": "23805244",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171006",
+     "LR": "20171006",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "8",
+     "IP": "6",
+     "DP": "2013",
+     "TI": "Real-Time Localization of Moving Dipole Sources for Tracking Multiple Free-Swimming Weakly Electric Fish.",
+     "PG": "e66596",
+     "LID": "10.1371/journal.pone.0066596 [doi]",
+     "AB": "In order to survive, animals must quickly and accurately locate prey, predators, and conspecifics using the signals they generate. The signal source location can be estimated using multiple detectors and the inverse relationship between the received signal intensity (RSI) and the distance, but difficulty of the source localization increases if there is an additional dependence on the orientation of a signal source. In such cases, the signal source could be approximated as an ideal dipole for simplification. Based on a theoretical model, the RSI can be directly predicted from a known dipole location; but estimating a dipole location from RSIs has no direct analytical solution. Here, we propose an efficient solution to the dipole localization problem by using a lookup table (LUT) to store RSIs predicted by our theoretically derived dipole model at many possible dipole positions and orientations. For a given set of RSIs measured at multiple detectors, our algorithm found a dipole location having the closest matching normalized RSIs from the LUT, and further refined the location at higher resolution. Studying the natural behavior of weakly electric fish (WEF) requires efficiently computing their location and the temporal pattern of their electric signals over extended periods. Our dipole localization method was successfully applied to track single or multiple freely swimming WEF in shallow water in real-time, as each fish could be closely approximated by an ideal current dipole in two dimensions. Our optimized search algorithm found the animal's positions, orientations, and tail-bending angles quickly and accurately under various conditions, without the need for calibrating individual-specific parameters. Our dipole localization method is directly applicable to studying the role of active sensing during spatial navigation, or social interactions between multiple WEF. Furthermore, our method could be extended to other application areas involving dipole source localization.",
+     "FAU": [
+          "Jun, James Jaeyoon",
+          "Longtin, Andre",
+          "Maler, Leonard"
+     ],
+     "AU": [
+          "Jun JJ",
+          "Longtin A",
+          "Maler L"
+     ],
+     "AD": "Department of Physics, University of Ottawa, Ottawa, Canada ; Department of Cellular and Molecular Medicine, University of Ottawa, Ottawa, Canada ; Center for Neural Dynamics, University of Ottawa, Ottawa, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130621",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "EIN": [
+          "PLoS One. 2014;9(8):e105293"
+     ],
+     "MH": [
+          "Animals",
+          "Behavior, Animal/*physiology",
+          "Gymnotiformes/*physiology",
+          "*Models, Biological",
+          "Swimming/*physiology"
+     ],
+     "PMC": "PMC3689756",
+     "EDAT": "2013/06/28 06:00",
+     "MHDA": "2013/06/28 06:01",
+     "CRDT": [
+          "2013/06/28 06:00"
+     ],
+     "PHST": [
+          "2013/02/05 00:00 [received]",
+          "2013/05/07 00:00 [accepted]",
+          "2013/06/28 06:00 [entrez]",
+          "2013/06/28 06:00 [pubmed]",
+          "2013/06/28 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0066596 [doi]",
+          "PONE-D-13-05496 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2013 Jun 21;8(6):e66596. doi: 10.1371/journal.pone.0066596. Print 2013.",
+     "term": "spatial navigation"
+}

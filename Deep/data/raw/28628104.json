@@ -1,0 +1,80 @@
+{
+     "PMID": "28628104",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170905",
+     "LR": "20170906",
+     "IS": "1546-1726 (Electronic) 1097-6256 (Linking)",
+     "VI": "20",
+     "IP": "8",
+     "DP": "2017 Aug",
+     "TI": "Active dendritic integration as a mechanism for robust and precise grid cell firing.",
+     "PG": "1114-1121",
+     "LID": "10.1038/nn.4582 [doi]",
+     "AB": "Understanding how active dendrites are exploited for behaviorally relevant computations is a fundamental challenge in neuroscience. Grid cells in medial entorhinal cortex are an attractive model system for addressing this question, as the computation they perform is clear: they convert synaptic inputs into spatially modulated, periodic firing. Whether active dendrites contribute to the generation of the dual temporal and rate codes characteristic of grid cell output is unknown. We show that dendrites of medial entorhinal cortex neurons are highly excitable and exhibit a supralinear input-output function in vitro, while in vivo recordings reveal membrane potential signatures consistent with recruitment of active dendritic conductances. By incorporating these nonlinear dynamics into grid cell models, we show that they can sharpen the precision of the temporal code and enhance the robustness of the rate code, thereby supporting a stable, accurate representation of space under varying environmental conditions. Our results suggest that active dendrites may therefore constitute a key cellular mechanism for ensuring reliable spatial navigation.",
+     "FAU": [
+          "Schmidt-Hieber, Christoph",
+          "Toleikyte, Gabija",
+          "Aitchison, Laurence",
+          "Roth, Arnd",
+          "Clark, Beverley A",
+          "Branco, Tiago",
+          "Hausser, Michael"
+     ],
+     "AU": [
+          "Schmidt-Hieber C",
+          "Toleikyte G",
+          "Aitchison L",
+          "Roth A",
+          "Clark BA",
+          "Branco T",
+          "Hausser M"
+     ],
+     "AUID": [
+          "ORCID: http://orcid.org/0000-0002-5328-9704",
+          "ORCID: http://orcid.org/0000-0002-2673-8957"
+     ],
+     "AD": "Wolfson Institute for Biomedical Research and Department of Neuroscience, Physiology and Pharmacology, University College London, London, UK. Institut Pasteur, Paris, France. Wolfson Institute for Biomedical Research and Department of Neuroscience, Physiology and Pharmacology, University College London, London, UK. Gatsby Computational Neuroscience Unit, University College London, London, UK. Wolfson Institute for Biomedical Research and Department of Neuroscience, Physiology and Pharmacology, University College London, London, UK. Wolfson Institute for Biomedical Research and Department of Neuroscience, Physiology and Pharmacology, University College London, London, UK. Wolfson Institute for Biomedical Research and Department of Neuroscience, Physiology and Pharmacology, University College London, London, UK. Sainsbury Wellcome Centre, University College London, London, UK. Wolfson Institute for Biomedical Research and Department of Neuroscience, Physiology and Pharmacology, University College London, London, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170619",
+     "PL": "United States",
+     "TA": "Nat Neurosci",
+     "JT": "Nature neuroscience",
+     "JID": "9809671",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Dendrites/*physiology",
+          "Entorhinal Cortex/*physiology",
+          "Grid Cells/*physiology",
+          "Male",
+          "Membrane Potentials/*physiology",
+          "Mice, Inbred C57BL",
+          "Models, Neurological",
+          "Theta Rhythm/physiology"
+     ],
+     "EDAT": "2017/06/20 06:00",
+     "MHDA": "2017/09/07 06:00",
+     "CRDT": [
+          "2017/06/20 06:00"
+     ],
+     "PHST": [
+          "2017/03/02 00:00 [received]",
+          "2017/05/07 00:00 [accepted]",
+          "2017/06/20 06:00 [pubmed]",
+          "2017/09/07 06:00 [medline]",
+          "2017/06/20 06:00 [entrez]"
+     ],
+     "AID": [
+          "nn.4582 [pii]",
+          "10.1038/nn.4582 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nat Neurosci. 2017 Aug;20(8):1114-1121. doi: 10.1038/nn.4582. Epub 2017 Jun 19.",
+     "term": "grid cells"
+}

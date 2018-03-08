@@ -1,0 +1,67 @@
+{
+     "PMID": "18715261",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090615",
+     "LR": "20090119",
+     "IS": "1745-6584 (Electronic) 0017-467X (Linking)",
+     "VI": "46",
+     "IP": "6",
+     "DP": "2008 Nov-Dec",
+     "TI": "Robust representation of dry cells in single-layer MODFLOW models.",
+     "PG": "873-81",
+     "LID": "10.1111/j.1745-6584.2008.00483.x [doi]",
+     "AB": "Dewatered or \"dry\" grid cells in the USGS ground water modeling software MODFLOW may cause nonphysical artifacts, trigger convergence failures, or interfere with parameter estimation. These difficulties can be avoided in two dimensions by modifying the spatial differencing scheme and the iterative procedure used to resolve nonlinearities. Specifically, the spatial differencing scheme is modified to use the water level on the upstream side of a pair of adjacent cells to calculate the saturated thickness and hence intercell conductance for the pair. This makes it possible to explicitly constrain the water level in a cell to be at or above the cell bottom elevation without introducing nonphysical artifacts. Thus constrained, all initially active cells will remain active throughout the simulation. It was necessary to replace MODFLOW's Picard iteration method with the Newton-Raphson method to achieve convergence in demanding applications involving many dry cells. Tests using a MODFLOW variant based on the new method produced results nearly identical to conventional MODFLOW in situations where conventional MODFLOW converges. The new method is extremely robust and converged in scenarios where conventional MODFLOW failed to converge, such as when almost all cells dewatered. An example application to the Edwards Aquifer in south-central Texas further demonstrates the utility of the new method.",
+     "FAU": [
+          "Painter, Scott",
+          "Basagaoglu, Hakan",
+          "Liu, Angang"
+     ],
+     "AU": [
+          "Painter S",
+          "Basagaoglu H",
+          "Liu A"
+     ],
+     "AD": "Southwest Research Institute, 6220 Culebra Road, San Antonio, TX 78238-5166, USA. spainter@swri.org",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20080818",
+     "PL": "United States",
+     "TA": "Ground Water",
+     "JT": "Ground water",
+     "JID": "9882886",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Artifacts",
+          "*Computer Simulation",
+          "*Environmental Monitoring",
+          "*Models, Theoretical",
+          "Nonlinear Dynamics",
+          "Rivers/*chemistry",
+          "Texas",
+          "*Water Movements"
+     ],
+     "EDAT": "2008/08/22 09:00",
+     "MHDA": "2009/06/16 09:00",
+     "CRDT": [
+          "2008/08/22 09:00"
+     ],
+     "PHST": [
+          "2008/08/22 09:00 [pubmed]",
+          "2009/06/16 09:00 [medline]",
+          "2008/08/22 09:00 [entrez]"
+     ],
+     "AID": [
+          "GWAT483 [pii]",
+          "10.1111/j.1745-6584.2008.00483.x [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ground Water. 2008 Nov-Dec;46(6):873-81. doi: 10.1111/j.1745-6584.2008.00483.x. Epub 2008 Aug 18.",
+     "term": "grid cells"
+}

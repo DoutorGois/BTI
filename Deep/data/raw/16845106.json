@@ -1,0 +1,80 @@
+{
+     "PMID": "16845106",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060829",
+     "LR": "20140909",
+     "IS": "1362-4962 (Electronic) 0305-1048 (Linking)",
+     "VI": "34",
+     "IP": "Web Server issue",
+     "DP": "2006 Jul 1",
+     "TI": "KOBAS server: a web-based platform for automated annotation and pathway identification.",
+     "PG": "W720-4",
+     "AB": "There is an increasing need to automatically annotate a set of genes or proteins (from genome sequencing, DNA microarray analysis or protein 2D gel experiments) using controlled vocabularies and identify the pathways involved, especially the statistically enriched pathways. We have previously demonstrated the KEGG Orthology (KO) as an effective alternative controlled vocabulary and developed a standalone KO-Based Annotation System (KOBAS). Here we report a KOBAS server with a friendly web-based user interface and enhanced functionalities. The server can support input by nucleotide or amino acid sequences or by sequence identifiers in popular databases and can annotate the input with KO terms and KEGG pathways by BLAST sequence similarity or directly ID mapping to genes with known annotations. The server can then identify both frequent and statistically enriched pathways, offering the choices of four statistical tests and the option of multiple testing correction. The server also has a 'User Space' in which frequent users may store and manage their data and results online. We demonstrate the usability of the server by finding statistically enriched pathways in a set of upregulated genes in Alzheimer's Disease (AD) hippocampal cornu ammonis 1 (CA1). KOBAS server can be accessed at http://kobas.cbi.pku.edu.cn.",
+     "FAU": [
+          "Wu, Jianmin",
+          "Mao, Xizeng",
+          "Cai, Tao",
+          "Luo, Jingchu",
+          "Wei, Liping"
+     ],
+     "AU": [
+          "Wu J",
+          "Mao X",
+          "Cai T",
+          "Luo J",
+          "Wei L"
+     ],
+     "AD": "Center for Bioinformatics, National Laboratory of Protein Engineering and Plant Genetic Engineering, College of Life Sciences, Peking University, Beijing 100871, PR China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "Nucleic Acids Res",
+     "JT": "Nucleic acids research",
+     "JID": "0411011",
+     "RN": [
+          "0 (Proteins)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/genetics/metabolism",
+          "Computer Graphics",
+          "Data Interpretation, Statistical",
+          "Databases, Genetic",
+          "Genes/*physiology",
+          "Hippocampus/metabolism",
+          "Internet",
+          "Models, Biological",
+          "Proteins/*physiology",
+          "Sequence Analysis",
+          "Signal Transduction",
+          "*Software",
+          "Up-Regulation",
+          "User-Computer Interface",
+          "*Vocabulary, Controlled"
+     ],
+     "PMC": "PMC1538915",
+     "EDAT": "2006/07/18 09:00",
+     "MHDA": "2006/08/30 09:00",
+     "CRDT": [
+          "2006/07/18 09:00"
+     ],
+     "PHST": [
+          "2006/07/18 09:00 [pubmed]",
+          "2006/08/30 09:00 [medline]",
+          "2006/07/18 09:00 [entrez]"
+     ],
+     "AID": [
+          "34/suppl_2/W720 [pii]",
+          "10.1093/nar/gkl167 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nucleic Acids Res. 2006 Jul 1;34(Web Server issue):W720-4. doi: 10.1093/nar/gkl167.",
+     "term": "hippocampus"
+}

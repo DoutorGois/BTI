@@ -1,0 +1,65 @@
+{
+     "PMID": "25503492",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151228",
+     "LR": "20170220",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "10",
+     "IP": "12",
+     "DP": "2014 Dec",
+     "TI": "Oscillation-induced signal transmission and gating in neural circuits.",
+     "PG": "e1003940",
+     "LID": "10.1371/journal.pcbi.1003940 [doi]",
+     "AB": "Reliable signal transmission constitutes a key requirement for neural circuit function. The propagation of synchronous pulse packets through recurrent circuits is hypothesized to be one robust form of signal transmission and has been extensively studied in computational and theoretical works. Yet, although external or internally generated oscillations are ubiquitous across neural systems, their influence on such signal propagation is unclear. Here we systematically investigate the impact of oscillations on propagating synchrony. We find that for standard, additive couplings and a net excitatory effect of oscillations, robust propagation of synchrony is enabled in less prominent feed-forward structures than in systems without oscillations. In the presence of non-additive coupling (as mediated by fast dendritic spikes), even balanced oscillatory inputs may enable robust propagation. Here, emerging resonances create complex locking patterns between oscillations and spike synchrony. Interestingly, these resonances make the circuits capable of selecting specific pathways for signal transmission. Oscillations may thus promote reliable transmission and, in co-action with dendritic nonlinearities, provide a mechanism for information processing by selectively gating and routing of signals. Our results are of particular interest for the interpretation of sharp wave/ripple complexes in the hippocampus, where previously learned spike patterns are replayed in conjunction with global high-frequency oscillations. We suggest that the oscillations may serve to stabilize the replay.",
+     "FAU": [
+          "Jahnke, Sven",
+          "Memmesheimer, Raoul-Martin",
+          "Timme, Marc"
+     ],
+     "AU": [
+          "Jahnke S",
+          "Memmesheimer RM",
+          "Timme M"
+     ],
+     "AD": "Network Dynamics, Max Planck Institute for Dynamics and Self-Organization (MPIDS), Gottingen, Germany; Bernstein Center for Computational Neuroscience (BCCN), Gottingen, Germany; Institute for Nonlinear Dynamics, Fakultat fur Physik, Georg-August Universitat Gottingen, Gottingen Germany. Department for Neuroinformatics, Donders Institute, Radboud University, Nijmegen, Netherlands. Network Dynamics, Max Planck Institute for Dynamics and Self-Organization (MPIDS), Gottingen, Germany; Bernstein Center for Computational Neuroscience (BCCN), Gottingen, Germany; Institute for Nonlinear Dynamics, Fakultat fur Physik, Georg-August Universitat Gottingen, Gottingen Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20141211",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Signal Transduction/*physiology"
+     ],
+     "PMC": "PMC4263355",
+     "EDAT": "2014/12/17 06:00",
+     "MHDA": "2015/12/29 06:00",
+     "CRDT": [
+          "2014/12/16 06:00"
+     ],
+     "PHST": [
+          "2014/03/27 00:00 [received]",
+          "2014/09/26 00:00 [accepted]",
+          "2014/12/16 06:00 [entrez]",
+          "2014/12/17 06:00 [pubmed]",
+          "2015/12/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1003940 [doi]",
+          "PCOMPBIOL-D-14-00540 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2014 Dec 11;10(12):e1003940. doi: 10.1371/journal.pcbi.1003940. eCollection 2014 Dec.",
+     "term": "hippocampus"
+}

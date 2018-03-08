@@ -1,0 +1,69 @@
+{
+     "PMID": "24576927",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20170220",
+     "IS": "1945-7928 (Print) 1945-7928 (Linking)",
+     "DP": "2012",
+     "TI": "MULTIMODAL CLASSIFICATION OF DEMENTIA USING FUNCTIONAL DATA, ANATOMICAL FEATURES AND 3D INVARIANT SHAPE DESCRIPTORS.",
+     "PG": "606-609",
+     "AB": "Multimodality classification of Alzheimer's disease (AD) and its prodromal stage, Mild Cognitive Impairment (MCI), is of interest to the medical community. We improve on prior classification frameworks by incorporating multiple features from MRI and PET data obtained with multiple radioligands, fluorodeoxyglucose (FDG) and Pittsburg compound B (PIB). We also introduce a new MRI feature, invariant shape descriptors based on 3D Zernike moments applied to the hippocampus region. Classification performance is evaluated on data from 17 healthy controls (CTR), 22 MCI, and 17 AD subjects. Zernike significantly outperforms volume, accuracy (Zernike to volume): CTR/AD (90.7% to 71.6%), CTR/MCI (76.2% to 60.0%), MCI/AD (84.3% to 65.5%). Zernike also provides comparable and complementary performance to PET. Optimal accuracy is achieved when Zernike and PET features are combined (accuracy, specificity, sensitivity), CTR/AD (98.8%, 99.5%, 98.1%), CTR/MCI (84.3%, 82.9%, 85.9%) and MCI/AD (93.3%, 93.6%, 93.3%).",
+     "FAU": [
+          "Mikhno, Arthur",
+          "Nuevo, Pablo Martinez",
+          "Devanand, Davangere P",
+          "Parsey, Ramin V",
+          "Laine, Andrew F"
+     ],
+     "AU": [
+          "Mikhno A",
+          "Nuevo PM",
+          "Devanand DP",
+          "Parsey RV",
+          "Laine AF"
+     ],
+     "AD": "Department of Biomedical Engineering, Columbia University. Department of Electrical Engineering, Columbia University. Department of Psychiatry, College of Physicians and Surgeons, Columbia University. Department of Psychiatry, College of Physicians and Surgeons, Columbia University ; Division of Molecular Imaging and Neuropathology, New York State Psychiatric Institute. Department of Biomedical Engineering, Columbia University.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "F31 MH095338/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Proc IEEE Int Symp Biomed Imaging",
+     "JT": "Proceedings. IEEE International Symposium on Biomedical Imaging",
+     "JID": "101492570",
+     "PMC": "PMC3934109",
+     "MID": [
+          "NIHMS495723"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's",
+          "PET",
+          "SVM",
+          "Zernike",
+          "multimodal"
+     ],
+     "EDAT": "2012/01/01 00:00",
+     "MHDA": "2012/01/01 00:00",
+     "CRDT": [
+          "2014/03/01 06:00"
+     ],
+     "PHST": [
+          "2014/03/01 06:00 [entrez]",
+          "2012/01/01 00:00 [pubmed]",
+          "2012/01/01 00:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/ISBI.2012.6235621 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc IEEE Int Symp Biomed Imaging. 2012:606-609. doi: 10.1109/ISBI.2012.6235621.",
+     "term": "hippocampus"
+}

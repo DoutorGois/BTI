@@ -1,0 +1,84 @@
+{
+     "PMID": "18299993",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080520",
+     "LR": "20161122",
+     "IS": "1573-9686 (Electronic) 0090-6964 (Linking)",
+     "VI": "36",
+     "IP": "5",
+     "DP": "2008 May",
+     "TI": "Modeling the nonlinear dynamic interactions of afferent pathways in the dentate gyrus of the hippocampus.",
+     "PG": "852-64",
+     "LID": "10.1007/s10439-008-9463-6 [doi]",
+     "AB": "The dentate gyrus is the first region of the hippocampus that receives and integrates sensory information (e.g., visual, auditory, and olfactory) via the perforant path, which is composed of two distinct neuronal pathways: the Lateral Perforant Path (LPP) and the Medial Perforant Path (MPP). This paper examines the nonlinear dynamic interactions among arbitrary stimulation patterns at these two afferent pathways and their combined effect on the resulting response of the granule cells at the dentate gyrus. We employ non-parametric Poisson-Volterra models that serve as canonical quantitative descriptors of the nonlinear dynamic transformations of the neuronal signals propagating through these two neuronal pathways. These Poisson-Volterra models are estimated in the so-called \"reduced form\" with experimental data from in vitro hippocampal slices and provide excellent predictions of the electrophysiological activity of the granule cells in response to arbitrary stimulation patterns. The data are acquired through a custom-made multi-electrode-array system, which stimulated simultaneously the two pathways with random impulse trains and recorded the neuronal postsynaptic activity at the granule cell layer. The results of this study show that significant nonlinear interactions exist between the LPP and the MPP that may be critical for the integration of sensory information performed by the dentate gyrus of the hippocampus.",
+     "FAU": [
+          "Dimoka, Angelika",
+          "Courellis, Spiros H",
+          "Marmarelis, Vasilis Z",
+          "Berger, Theodore W"
+     ],
+     "AU": [
+          "Dimoka A",
+          "Courellis SH",
+          "Marmarelis VZ",
+          "Berger TW"
+     ],
+     "AD": "247A Bourns Hall, Department of Bioengineering, Bourns College of Engineering, University of California, Riverside, Riverside, CA 92521, USA. dimoka@ucr.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41 EB001978/EB/NIBIB NIH HHS/United States",
+          "P41 EB001978-24/EB/NIBIB NIH HHS/United States",
+          "P41 EB001978-245378/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20080226",
+     "PL": "United States",
+     "TA": "Ann Biomed Eng",
+     "JT": "Annals of biomedical engineering",
+     "JID": "0361512",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Afferent Pathways/*physiology",
+          "Animals",
+          "Computer Simulation",
+          "Dentate Gyrus/*physiology",
+          "Male",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons, Afferent/*physiology",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Sensation/*physiology"
+     ],
+     "PMC": "PMC2749714",
+     "MID": [
+          "NIHMS140637"
+     ],
+     "EDAT": "2008/02/27 09:00",
+     "MHDA": "2008/05/21 09:00",
+     "CRDT": [
+          "2008/02/27 09:00"
+     ],
+     "PHST": [
+          "2007/10/23 00:00 [received]",
+          "2008/02/06 00:00 [accepted]",
+          "2008/02/27 09:00 [pubmed]",
+          "2008/05/21 09:00 [medline]",
+          "2008/02/27 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s10439-008-9463-6 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ann Biomed Eng. 2008 May;36(5):852-64. doi: 10.1007/s10439-008-9463-6. Epub 2008 Feb 26.",
+     "term": "hippocampus"
+}

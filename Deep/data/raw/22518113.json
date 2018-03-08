@@ -1,0 +1,54 @@
+{
+     "PMID": "22518113",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20120823",
+     "LR": "20170220",
+     "IS": "1687-4196 (Electronic) 1687-4188 (Linking)",
+     "VI": "2012",
+     "DP": "2012",
+     "TI": "Label fusion strategy selection.",
+     "PG": "431095",
+     "LID": "10.1155/2012/431095 [doi]",
+     "AB": "Label fusion is used in medical image segmentation to combine several different labels of the same entity into a single discrete label, potentially more accurate, with respect to the exact, sought segmentation, than the best input element. Using simulated data, we compared three existing label fusion techniques-STAPLE, Voting, and Shape-Based Averaging (SBA)-and observed that none could be considered superior depending on the dissimilarity between the input elements. We thus developed an empirical, hybrid technique called SVS, which selects the most appropriate technique to apply based on this dissimilarity. We evaluated the label fusion strategies on two- and three-dimensional simulated data and showed that SVS is superior to any of the three existing methods examined. On real data, we used SVS to perform fusions of 10 segmentations of the hippocampus and amygdala in 78 subjects from the ICBM dataset. SVS selected SBA in almost all cases, which was the most appropriate method overall.",
+     "FAU": [
+          "Robitaille, Nicolas",
+          "Duchesne, Simon"
+     ],
+     "AU": [
+          "Robitaille N",
+          "Duchesne S"
+     ],
+     "AD": "Centre de Recherche de l'Institut Universitaire en Sante Mentale de Quebec, 2601, Chemin de la Canardiere, QC, Canada G1J 2G3.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20120206",
+     "PL": "United States",
+     "TA": "Int J Biomed Imaging",
+     "JT": "International journal of biomedical imaging",
+     "JID": "101250756",
+     "PMC": "PMC3296312",
+     "EDAT": "2012/04/21 06:00",
+     "MHDA": "2012/04/21 06:01",
+     "CRDT": [
+          "2012/04/21 06:00"
+     ],
+     "PHST": [
+          "2011/04/26 00:00 [received]",
+          "2011/09/08 00:00 [revised]",
+          "2011/09/25 00:00 [accepted]",
+          "2012/04/21 06:00 [entrez]",
+          "2012/04/21 06:00 [pubmed]",
+          "2012/04/21 06:01 [medline]"
+     ],
+     "AID": [
+          "10.1155/2012/431095 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Int J Biomed Imaging. 2012;2012:431095. doi: 10.1155/2012/431095. Epub 2012 Feb 6.",
+     "term": "hippocampus"
+}

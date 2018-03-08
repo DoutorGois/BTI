@@ -1,0 +1,67 @@
+{
+     "PMID": "15301433",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20041004",
+     "LR": "20101118",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "14",
+     "IP": "5",
+     "DP": "2004",
+     "TI": "Computational constraints between retrieving the past and predicting the future, and the CA3-CA1 differentiation.",
+     "PG": "539-56",
+     "AB": "The differentiation between the CA3 and CA1 fields of the mammalian hippocampus is one of the salient traits that set it apart from the organization of the homologue medial wall in reptiles and birds. CA3 is widely thought to function as an autoassociator, but what do we need CA1 for? Based on evidence for a specific role of CA1 in temporal processing, I have explored the hypothesis that the differentiation between CA3 and CA1 may help solve a computational conflict. The conflict is between pattern completion, or integrating current sensory information on the basis of memory, and prediction, or moving from one pattern to the next in a stored sequence. CA3 would take care of the former, while CA1 would concentrate on the latter. I have found the hypothesis to be only weakly supported by neural network simulations. The conflict indeed exists, but two mechanisms that would relate more directly to a functional CA3-CA1 differentiation were found unable to produce genuine prediction. Instead, a simple mechanism based on firing frequency adaptation in pyramidal cells was found to be sufficient for prediction, with the degree of adaptation as the crucial parameter balancing retrieval with prediction. The differentiation between the architectures of CA3 and CA1 has a minor but significant, and positive, effect on this balance. In particular, for a fixed anticipatory interval in the model, it increases significantly the information content of hippocampal outputs. There may therefore be just a simple quantitative advantage in differentiating the connectivity of the two fields. Moreover, different degrees of adaptation in CA3 and CA1 cells were not found to lead to better performance, further undermining the notion of a functional dissociation.",
+     "FAU": [
+          "Treves, Alessandro"
+     ],
+     "AU": [
+          "Treves A"
+     ],
+     "AD": "SISSA, Cognitive Neuroscience Sector, via Beirut, Trieste, Italy. ale@sissa.it",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Biological Evolution",
+          "Dentate Gyrus/cytology/physiology",
+          "Hippocampus/cytology/*physiology",
+          "Learning/physiology",
+          "Memory/*physiology",
+          "Mossy Fibers, Hippocampal/physiology/ultrastructure",
+          "Nerve Net/cytology/physiology",
+          "Neural Networks (Computer)",
+          "Neural Pathways/cytology/*physiology",
+          "Neuronal Plasticity/physiology",
+          "Perforant Pathway/cytology/physiology",
+          "Pyramidal Cells/cytology/*physiology",
+          "Rats",
+          "Synaptic Transmission/physiology"
+     ],
+     "EDAT": "2004/08/11 05:00",
+     "MHDA": "2004/10/05 09:00",
+     "CRDT": [
+          "2004/08/11 05:00"
+     ],
+     "PHST": [
+          "2004/08/11 05:00 [pubmed]",
+          "2004/10/05 09:00 [medline]",
+          "2004/08/11 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/hipo.10187 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2004;14(5):539-56. doi: 10.1002/hipo.10187.",
+     "term": "hippocampus"
+}

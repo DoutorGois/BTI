@@ -1,0 +1,86 @@
+{
+     "PMID": "21761647",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110831",
+     "LR": "20161025",
+     "IS": "1011-2499 (Print) 1011-2499 (Linking)",
+     "VI": "22",
+     "DP": "2011",
+     "TI": "Optimal weights for multi-atlas label fusion.",
+     "PG": "73-84",
+     "AB": "Multi-atlas based segmentation has been applied widely in medical image analysis. For label fusion, previous studies show that image similarity-based local weighting techniques produce the most accurate results. However, these methods ignore the correlations between results produced by different atlases. Furthermore, they rely on pre-selected weighting models and ad hoc methods to choose model parameters. We propose a novel label fusion method to address these limitations. Our formulation directly aims at reducing the expectation of the combined error and can be efficiently solved in a closed form. In our hippocampus segmentation experiment, our method significantly outperforms similarity-based local weighting. Using 20 atlases, we produce results with 0.898 +/- 0.019 Dice overlap to manual labelings for controls.",
+     "FAU": [
+          "Wang, Hongzhi",
+          "Suh, Jung Wook",
+          "Pluta, John",
+          "Altinay, Murat",
+          "Yushkevich, Paul"
+     ],
+     "AU": [
+          "Wang H",
+          "Suh JW",
+          "Pluta J",
+          "Altinay M",
+          "Yushkevich P"
+     ],
+     "AD": "PICSL, Department of Radiology, University of Pennsylvania, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 AG037376/AG/NIA NIH HHS/United States",
+          "K25 AG027785-05/AG/NIA NIH HHS/United States",
+          "K25 AG027785-02/AG/NIA NIH HHS/United States",
+          "K25 AG027785/AG/NIA NIH HHS/United States",
+          "R01 AG037376-03/AG/NIA NIH HHS/United States",
+          "K25 AG027785-03/AG/NIA NIH HHS/United States",
+          "K25 AG027785-03S1/AG/NIA NIH HHS/United States",
+          "R01 AG037376-02/AG/NIA NIH HHS/United States",
+          "K25 AG027785-01A1/AG/NIA NIH HHS/United States",
+          "K25 AG027785-04/AG/NIA NIH HHS/United States",
+          "R01 AG037376-01/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Germany",
+     "TA": "Inf Process Med Imaging",
+     "JT": "Information processing in medical imaging : proceedings of the ... conference",
+     "JID": "9216871",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Computer Simulation",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Anatomic",
+          "Models, Statistical",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "PMC": "PMC3226736",
+     "MID": [
+          "NIHMS337330"
+     ],
+     "EDAT": "2011/07/19 06:00",
+     "MHDA": "2011/09/01 06:00",
+     "CRDT": [
+          "2011/07/19 06:00"
+     ],
+     "PHST": [
+          "2011/07/19 06:00 [entrez]",
+          "2011/07/19 06:00 [pubmed]",
+          "2011/09/01 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Inf Process Med Imaging. 2011;22:73-84.",
+     "term": "hippocampus"
+}

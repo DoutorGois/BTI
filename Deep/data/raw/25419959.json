@@ -1,0 +1,105 @@
+{
+     "PMID": "25419959",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150313",
+     "LR": "20170603",
+     "IS": "1548-7105 (Electronic) 1548-7091 (Linking)",
+     "VI": "12",
+     "IP": "1",
+     "DP": "2015 Jan",
+     "TI": "Rational design of a high-affinity, fast, red calcium indicator R-CaMP2.",
+     "PG": "64-70",
+     "LID": "10.1038/nmeth.3185 [doi]",
+     "AB": "Fluorescent Ca(2+) reporters are widely used as readouts of neuronal activities. Here we designed R-CaMP2, a high-affinity red genetically encoded calcium indicator (GECI) with a Hill coefficient near 1. Use of the calmodulin-binding sequence of CaMKK-alpha and CaMKK-beta in lieu of an M13 sequence resulted in threefold faster rise and decay times of Ca(2+) transients than R-CaMP1.07. These features allowed resolving single action potentials (APs) and recording fast AP trains up to 20-40 Hz in cortical slices. Somatic and synaptic activities of a cortical neuronal ensemble in vivo were imaged with similar efficacy as with previously reported sensitive green GECIs. Combining green and red GECIs, we successfully achieved dual-color monitoring of neuronal activities of distinct cell types, both in the mouse cortex and in freely moving Caenorhabditis elegans. Dual imaging using R-CaMP2 and green GECIs provides a powerful means to interrogate orthogonal and hierarchical neuronal ensembles in vivo.",
+     "FAU": [
+          "Inoue, Masatoshi",
+          "Takeuchi, Atsuya",
+          "Horigane, Shin-ichiro",
+          "Ohkura, Masamichi",
+          "Gengyo-Ando, Keiko",
+          "Fujii, Hajime",
+          "Kamijo, Satoshi",
+          "Takemoto-Kimura, Sayaka",
+          "Kano, Masanobu",
+          "Nakai, Junichi",
+          "Kitamura, Kazuo",
+          "Bito, Haruhiko"
+     ],
+     "AU": [
+          "Inoue M",
+          "Takeuchi A",
+          "Horigane S",
+          "Ohkura M",
+          "Gengyo-Ando K",
+          "Fujii H",
+          "Kamijo S",
+          "Takemoto-Kimura S",
+          "Kano M",
+          "Nakai J",
+          "Kitamura K",
+          "Bito H"
+     ],
+     "AD": "1] Department of Neurochemistry, Graduate School of Medicine, University of Tokyo, Tokyo, Japan. [2] Core Research for Evolutional Science and Technology (CREST), Japan Science and Technology Agency, Tokyo, Japan. Department of Neurophysiology, Graduate School of Medicine, University of Tokyo, Tokyo, Japan. Department of Neurochemistry, Graduate School of Medicine, University of Tokyo, Tokyo, Japan. Brain Science Institute, Saitama University, Saitama, Japan. Brain Science Institute, Saitama University, Saitama, Japan. Department of Neurochemistry, Graduate School of Medicine, University of Tokyo, Tokyo, Japan. 1] Department of Neurochemistry, Graduate School of Medicine, University of Tokyo, Tokyo, Japan. [2] Core Research for Evolutional Science and Technology (CREST), Japan Science and Technology Agency, Tokyo, Japan. 1] Department of Neurochemistry, Graduate School of Medicine, University of Tokyo, Tokyo, Japan. [2] Precursory Research for Embryonic Science and Technology (PRESTO), Japan Science and Technology Agency, Saitama, Japan. Department of Neurophysiology, Graduate School of Medicine, University of Tokyo, Tokyo, Japan. Brain Science Institute, Saitama University, Saitama, Japan. 1] Department of Neurophysiology, Graduate School of Medicine, University of Tokyo, Tokyo, Japan. [2] Precursory Research for Embryonic Science and Technology (PRESTO), Japan Science and Technology Agency, Saitama, Japan. 1] Department of Neurochemistry, Graduate School of Medicine, University of Tokyo, Tokyo, Japan. [2] Core Research for Evolutional Science and Technology (CREST), Japan Science and Technology Agency, Tokyo, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20141124",
+     "PL": "United States",
+     "TA": "Nat Methods",
+     "JT": "Nature methods",
+     "JID": "101215604",
+     "RN": [
+          "0 (Calmodulin-Binding Proteins)",
+          "0 (Fluorescent Dyes)",
+          "0 (Indicators and Reagents)",
+          "0 (Peptide Fragments)",
+          "EC 2.7.11.17 (Calcium-Calmodulin-Dependent Protein Kinase Kinase)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Caenorhabditis elegans/radiation effects",
+          "Calcium/metabolism",
+          "Calcium Signaling/physiology",
+          "Calcium-Calmodulin-Dependent Protein Kinase Kinase/*metabolism",
+          "Calmodulin-Binding Proteins",
+          "Cells, Cultured",
+          "Cerebral Cortex/cytology",
+          "Fluorescent Dyes/metabolism",
+          "HEK293 Cells",
+          "Hippocampus/cytology",
+          "Humans",
+          "Indicators and Reagents/*chemical synthesis",
+          "Light",
+          "Mice",
+          "Neurons/physiology",
+          "Patch-Clamp Techniques",
+          "Peptide Fragments/chemistry/metabolism"
+     ],
+     "EDAT": "2014/11/25 06:00",
+     "MHDA": "2015/03/17 06:00",
+     "CRDT": [
+          "2014/11/25 06:00"
+     ],
+     "PHST": [
+          "2014/05/15 00:00 [received]",
+          "2014/10/25 00:00 [accepted]",
+          "2014/11/25 06:00 [entrez]",
+          "2014/11/25 06:00 [pubmed]",
+          "2015/03/17 06:00 [medline]"
+     ],
+     "AID": [
+          "nmeth.3185 [pii]",
+          "10.1038/nmeth.3185 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nat Methods. 2015 Jan;12(1):64-70. doi: 10.1038/nmeth.3185. Epub 2014 Nov 24.",
+     "term": "hippocampus"
+}

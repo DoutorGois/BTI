@@ -1,0 +1,97 @@
+{
+     "PMID": "28116234",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171117",
+     "LR": "20180125",
+     "IS": "2213-1582 (Electronic) 2213-1582 (Linking)",
+     "VI": "13",
+     "DP": "2017",
+     "TI": "Rey's Auditory Verbal Learning Test scores can be predicted from whole brain MRI in Alzheimer's disease.",
+     "PG": "415-427",
+     "LID": "10.1016/j.nicl.2016.12.011 [doi]",
+     "AB": "Rey's Auditory Verbal Learning Test (RAVLT) is a powerful neuropsychological tool for testing episodic memory, which is widely used for the cognitive assessment in dementia and pre-dementia conditions. Several studies have shown that an impairment in RAVLT scores reflect well the underlying pathology caused by Alzheimer's disease (AD), thus making RAVLT an effective early marker to detect AD in persons with memory complaints. We investigated the association between RAVLT scores (RAVLT Immediate and RAVLT Percent Forgetting) and the structural brain atrophy caused by AD. The aim was to comprehensively study to what extent the RAVLT scores are predictable based on structural magnetic resonance imaging (MRI) data using machine learning approaches as well as to find the most important brain regions for the estimation of RAVLT scores. For this, we built a predictive model to estimate RAVLT scores from gray matter density via elastic net penalized linear regression model. The proposed approach provided highly significant cross-validated correlation between the estimated and observed RAVLT Immediate (R = 0.50) and RAVLT Percent Forgetting (R = 0.43) in a dataset consisting of 806 AD, mild cognitive impairment (MCI) or healthy subjects. In addition, the selected machine learning method provided more accurate estimates of RAVLT scores than the relevance vector regression used earlier for the estimation of RAVLT based on MRI data. The top predictors were medial temporal lobe structures and amygdala for the estimation of RAVLT Immediate and angular gyrus, hippocampus and amygdala for the estimation of RAVLT Percent Forgetting. Further, the conversion of MCI subjects to AD in 3-years could be predicted based on either observed or estimated RAVLT scores with an accuracy comparable to MRI-based biomarkers.",
+     "FAU": [
+          "Moradi, Elaheh",
+          "Hallikainen, Ilona",
+          "Hanninen, Tuomo",
+          "Tohka, Jussi"
+     ],
+     "AU": [
+          "Moradi E",
+          "Hallikainen I",
+          "Hanninen T",
+          "Tohka J"
+     ],
+     "AD": "Institute of Biosciences and Medical Technology, University of Tampere, Tampere, Finland. University of Eastern Finland, Institute of Clinical Medicine, Department of Neurology, Kuopio, Finland. Neurocenter, Neurology, Kuopio University Hospital, Kuopio, Finland. Department of Bioengineering and Aerospace Engineering, Universidad Carlos III de Madrid, Leganes, Spain; Instituto de Investigacion Sanitaria Gregorio Maranon, Madrid, Spain; University of Eastern Finland, AI Virtanen Institute for Molecular Sciences, Kuopio, Finland.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20161218",
+     "PL": "Netherlands",
+     "TA": "Neuroimage Clin",
+     "JT": "NeuroImage. Clinical",
+     "JID": "101597070",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Aged, 80 and over",
+          "*Alzheimer Disease/diagnostic imaging/pathology/physiopathology",
+          "Atrophy/pathology",
+          "*Brain/diagnostic imaging/pathology/physiopathology",
+          "*Cognitive Dysfunction/diagnostic imaging/pathology/physiopathology",
+          "*Disease Progression",
+          "Female",
+          "Humans",
+          "Machine Learning",
+          "Magnetic Resonance Imaging/*methods/statistics & numerical data",
+          "Male",
+          "*Memory, Episodic",
+          "Neuropsychological Tests/*statistics & numerical data",
+          "Prognosis",
+          "Verbal Learning/*physiology"
+     ],
+     "PMC": "PMC5233798",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*Alzheimer's disease",
+          "*Elastic net",
+          "*Magnetic resonance imaging",
+          "*Penalized regression",
+          "*Rey's Auditory Verbal Learning Test"
+     ],
+     "EDAT": "2017/01/25 06:00",
+     "MHDA": "2017/11/29 06:00",
+     "CRDT": [
+          "2017/01/25 06:00"
+     ],
+     "PHST": [
+          "2016/07/12 00:00 [received]",
+          "2016/11/25 00:00 [revised]",
+          "2016/12/11 00:00 [accepted]",
+          "2017/01/25 06:00 [entrez]",
+          "2017/01/25 06:00 [pubmed]",
+          "2017/11/29 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1016/j.nicl.2016.12.011 [doi]",
+          "S2213-1582(16)30248-0 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Neuroimage Clin. 2016 Dec 18;13:415-427. doi: 10.1016/j.nicl.2016.12.011. eCollection 2017.",
+     "term": "hippocampus"
+}

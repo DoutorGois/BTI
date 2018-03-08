@@ -1,0 +1,54 @@
+{
+     "PMID": "2203101",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19900928",
+     "LR": "20061115",
+     "IS": "0079-6123 (Print) 0079-6123 (Linking)",
+     "VI": "83",
+     "DP": "1990",
+     "TI": "A computational theory of the hippocampal cognitive map.",
+     "PG": "301-12",
+     "AB": "Evidence from single unit and lesion studies suggests that the hippocampal formation acts as a spatial or cognitive map (O'Keefe and Nadel, 1978). In this chapter, I summarise some of the unit recording data and then outline the most recent computational version of the cognitive map theory. The novel aspects of the present version of the theory are that it identifies two allocentric parameters, the centroid and the eccentricity, which can be calculated from the array of cues in an environment and which can serve as the bases for an allocentric polar co-ordinate system. Computations within this framework enable the animal to identify its location within an environment, to predict the location which will be reached as a result of any specific movement from that location, and conversely, to calculate the spatial transformation necessary to go from the current location to a desired location. Aspects of the model are identified with the information provided by cells in the hippocampus and dorsal presubiculum. The hippocampal place cells are involved in the calculation of the centroid and the presubicular direction cells in the calculation of the eccentricity.",
+     "FAU": [
+          "O'Keefe, J"
+     ],
+     "AU": [
+          "O'Keefe J"
+     ],
+     "AD": "Department of Anatomy and Developmental Biology, University College London, U.K.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+     ],
+     "PL": "Netherlands",
+     "TA": "Prog Brain Res",
+     "JT": "Progress in brain research",
+     "JID": "0376441",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cognition/*physiology",
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "*Spatial Behavior"
+     ],
+     "RF": "26",
+     "EDAT": "1990/01/01 00:00",
+     "MHDA": "1990/01/01 00:01",
+     "CRDT": [
+          "1990/01/01 00:00"
+     ],
+     "PHST": [
+          "1990/01/01 00:00 [pubmed]",
+          "1990/01/01 00:01 [medline]",
+          "1990/01/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Prog Brain Res. 1990;83:301-12.",
+     "term": "place cells"
+}

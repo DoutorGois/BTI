@@ -1,0 +1,78 @@
+{
+     "PMID": "24366136",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140908",
+     "LR": "20170220",
+     "IS": "1471-2970 (Electronic) 0962-8436 (Linking)",
+     "VI": "369",
+     "IP": "1635",
+     "DP": "2014 Feb 5",
+     "TI": "Coordinated learning of grid cell and place cell spatial and temporal properties: multiple scales, attention and oscillations.",
+     "PG": "20120524",
+     "LID": "10.1098/rstb.2012.0524 [doi]",
+     "AB": "A neural model proposes how entorhinal grid cells and hippocampal place cells may develop as spatial categories in a hierarchy of self-organizing maps (SOMs). The model responds to realistic rat navigational trajectories by learning both grid cells with hexagonal grid firing fields of multiple spatial scales, and place cells with one or more firing fields, that match neurophysiological data about their development in juvenile rats. Both grid and place cells can develop by detecting, learning and remembering the most frequent and energetic co-occurrences of their inputs. The model's parsimonious properties include: similar ring attractor mechanisms process linear and angular path integration inputs that drive map learning; the same SOM mechanisms can learn grid cell and place cell receptive fields; and the learning of the dorsoventral organization of multiple spatial scale modules through medial entorhinal cortex to hippocampus (HC) may use mechanisms homologous to those for temporal learning through lateral entorhinal cortex to HC ('neural relativity'). The model clarifies how top-down HC-to-entorhinal attentional mechanisms may stabilize map learning, simulates how hippocampal inactivation may disrupt grid cells, and explains data about theta, beta and gamma oscillations. The article also compares the three main types of grid cell models in the light of recent data.",
+     "FAU": [
+          "Grossberg, Stephen",
+          "Pilly, Praveen K"
+     ],
+     "AU": [
+          "Grossberg S",
+          "Pilly PK"
+     ],
+     "AD": "Department of Mathematics, Center for Adaptive Systems, Graduate Program in Cognitive and Neural Systems, Center for Computational Neuroscience and Neural Technology, Department of Mathematics, Boston University, , 677 Beacon Street, Boston, MA 02215, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20131223",
+     "PL": "England",
+     "TA": "Philos Trans R Soc Lond B Biol Sci",
+     "JT": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+     "JID": "7503623",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Biological Clocks/physiology",
+          "Computer Simulation",
+          "Entorhinal Cortex/cytology/*physiology",
+          "Hippocampus/cytology/*physiology",
+          "Learning/physiology",
+          "*Models, Neurological",
+          "Pyramidal Cells/cytology/*physiology",
+          "Rats",
+          "Space Perception/*physiology"
+     ],
+     "PMC": "PMC3866446",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "adaptive timing",
+          "attention",
+          "grid cells",
+          "place cells",
+          "self-organizing map",
+          "spatial navigation"
+     ],
+     "EDAT": "2013/12/25 06:00",
+     "MHDA": "2014/09/10 06:00",
+     "CRDT": [
+          "2013/12/25 06:00"
+     ],
+     "PHST": [
+          "2013/12/25 06:00 [entrez]",
+          "2013/12/25 06:00 [pubmed]",
+          "2014/09/10 06:00 [medline]"
+     ],
+     "AID": [
+          "rstb.2012.0524 [pii]",
+          "10.1098/rstb.2012.0524 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Philos Trans R Soc Lond B Biol Sci. 2013 Dec 23;369(1635):20120524. doi: 10.1098/rstb.2012.0524. Print 2014 Feb 5.",
+     "term": "place cells"
+}

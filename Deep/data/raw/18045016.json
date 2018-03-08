@@ -1,0 +1,68 @@
+{
+     "PMID": "18045016",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080506",
+     "LR": "20080328",
+     "IS": "0899-7667 (Print) 0899-7667 (Linking)",
+     "VI": "20",
+     "IP": "3",
+     "DP": "2008 Mar",
+     "TI": "A principle for learning egocentric-allocentric transformation.",
+     "PG": "709-37",
+     "AB": "Numerous single-unit recording studies have found mammalian hippocampal neurons that fire selectively for the animal's location in space, independent of its orientation. The population of such neurons, commonly known as place cells, is thought to maintain an allocentric, or orientation-independent, internal representation of the animal's location in space, as well as mediating long-term storage of spatial memories. The fact that spatial information from the environment must reach the brain via sensory receptors in an inherently egocentric, or viewpoint-dependent, fashion leads to the question of how the brain learns to transform egocentric sensory representations into allocentric ones for long-term memory storage. Additionally, if these long-term memory representations of space are to be useful in guiding motor behavior, then the reverse transformation, from allocentric to egocentric coordinates, must also be learned. We propose that orientation-invariant representations can be learned by neural circuits that follow two learning principles: minimization of reconstruction error and maximization of representational temporal inertia. Two different neural network models are presented that adhere to these learning principles, the first by direct optimization through gradient descent and the second using a more biologically realistic circuit based on the restricted Boltzmann machine (Hinton, 2002; Smolensky, 1986). Both models lead to orientation-invariant representations, with the latter demonstrating place-cell-like responses when trained on a linear track environment.",
+     "FAU": [
+          "Byrne, Patrick",
+          "Becker, Suzanna"
+     ],
+     "AU": [
+          "Byrne P",
+          "Becker S"
+     ],
+     "AD": "Department of Psychology, Neuroscience and Behavior, McMaster University, Hamilton, Ontario, L8S 4K1, Canada. pbyrne@yorku.ca",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Letter",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neural Comput",
+     "JT": "Neural computation",
+     "JID": "9426182",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Brain/*physiology",
+          "Computer Simulation",
+          "Humans",
+          "Learning/*physiology",
+          "Memory/*physiology",
+          "Models, Neurological",
+          "Nerve Net/physiology",
+          "Neural Networks (Computer)",
+          "Neurons/physiology",
+          "Orientation/*physiology",
+          "Psychomotor Performance/physiology",
+          "Space Perception/*physiology",
+          "Time Factors"
+     ],
+     "EDAT": "2007/11/30 09:00",
+     "MHDA": "2008/05/07 09:00",
+     "CRDT": [
+          "2007/11/30 09:00"
+     ],
+     "PHST": [
+          "2007/11/30 09:00 [pubmed]",
+          "2008/05/07 09:00 [medline]",
+          "2007/11/30 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1162/neco.2007.10-06-361 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Comput. 2008 Mar;20(3):709-37. doi: 10.1162/neco.2007.10-06-361.",
+     "term": "place cells"
+}

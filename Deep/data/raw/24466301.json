@@ -1,0 +1,67 @@
+{
+     "PMID": "24466301",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140929",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "9",
+     "IP": "1",
+     "DP": "2014",
+     "TI": "Nonlinear dynamics analysis of a self-organizing recurrent neural network: chaos waning.",
+     "PG": "e86962",
+     "LID": "10.1371/journal.pone.0086962 [doi]",
+     "AB": "Self-organization is thought to play an important role in structuring nervous systems. It frequently arises as a consequence of plasticity mechanisms in neural networks: connectivity determines network dynamics which in turn feed back on network structure through various forms of plasticity. Recently, self-organizing recurrent neural network models (SORNs) have been shown to learn non-trivial structure in their inputs and to reproduce the experimentally observed statistics and fluctuations of synaptic connection strengths in cortex and hippocampus. However, the dynamics in these networks and how they change with network evolution are still poorly understood. Here we investigate the degree of chaos in SORNs by studying how the networks' self-organization changes their response to small perturbations. We study the effect of perturbations to the excitatory-to-excitatory weight matrix on connection strengths and on unit activities. We find that the network dynamics, characterized by an estimate of the maximum Lyapunov exponent, becomes less chaotic during its self-organization, developing into a regime where only few perturbations become amplified. We also find that due to the mixing of discrete and (quasi-)continuous variables in SORNs, small perturbations to the synaptic weights may become amplified only after a substantial delay, a phenomenon we propose to call deferred chaos.",
+     "FAU": [
+          "Eser, Jurgen",
+          "Zheng, Pengsheng",
+          "Triesch, Jochen"
+     ],
+     "AU": [
+          "Eser J",
+          "Zheng P",
+          "Triesch J"
+     ],
+     "AD": "Frankfurt Institute for Advanced Studies, Frankfurt am Main, Germany. Frankfurt Institute for Advanced Studies, Frankfurt am Main, Germany. Frankfurt Institute for Advanced Studies, Frankfurt am Main, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20140123",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Computer Simulation",
+          "Humans",
+          "*Neural Networks (Computer)",
+          "Neurons/*physiology",
+          "*Nonlinear Dynamics"
+     ],
+     "PMC": "PMC3900684",
+     "EDAT": "2014/01/28 06:00",
+     "MHDA": "2014/09/30 06:00",
+     "CRDT": [
+          "2014/01/28 06:00"
+     ],
+     "PHST": [
+          "2013/06/07 00:00 [received]",
+          "2013/12/17 00:00 [accepted]",
+          "2014/01/28 06:00 [entrez]",
+          "2014/01/28 06:00 [pubmed]",
+          "2014/09/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0086962 [doi]",
+          "PONE-D-13-23748 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS One. 2014 Jan 23;9(1):e86962. doi: 10.1371/journal.pone.0086962. eCollection 2014.",
+     "term": "hippocampus"
+}

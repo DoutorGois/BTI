@@ -1,0 +1,82 @@
+{
+     "PMID": "16822132",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20061120",
+     "LR": "20071203",
+     "IS": "0096-1523 (Print) 0096-1523 (Linking)",
+     "VI": "32",
+     "IP": "3",
+     "DP": "2006 Jun",
+     "TI": "Lost in virtual space: studies in human and ideal spatial navigation.",
+     "PG": "688-704",
+     "AB": "The authors describe 3 human spatial navigation experiments that investigate how limitations of perception, memory, uncertainty, and decision strategy affect human spatial navigation performance. To better understand the effect of these variables on human navigation performance, the authors developed an ideal-navigator model for indoor navigation whose optimizing algorithm uses a partially observable Markov decision process. The model minimizes the number of actions (translations and rotations) required to move from an unknown starting state to a specific goal state in indoor environments that have perceptual ambiguity. The authors compared the model's performance with that of the human observer to measure human navigation efficiency. Experiment 1 investigated the effect of increasing the layout size on spatial way-finding efficiency and found that participants' efficiencies decreased as layout size increased. The authors investigated whether this reduction in navigation efficiency was due to visual perception (Experiment 2), memory, spatial updating strategy, or decision strategy (Experiment 3).",
+     "CI": [
+          "Copyright 2006 APA"
+     ],
+     "FAU": [
+          "Stankiewicz, Brian J",
+          "Legge, Gordon E",
+          "Mansfield, J Stephen",
+          "Schlicht, Erik J"
+     ],
+     "AU": [
+          "Stankiewicz BJ",
+          "Legge GE",
+          "Mansfield JS",
+          "Schlicht EJ"
+     ],
+     "AD": "Department of Psychology, University of Texas, Austin, TX 78712-0187, USA. bstankie@mail.utexas.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "EY016089/EY/NEI NIH HHS/United States",
+          "EY02857/EY/NEI NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "J Exp Psychol Hum Percept Perform",
+     "JT": "Journal of experimental psychology. Human perception and performance",
+     "JID": "7502589",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Bayes Theorem",
+          "*Cognition",
+          "Decision Making",
+          "Decision Support Techniques",
+          "Female",
+          "Humans",
+          "Male",
+          "Memory",
+          "*Orientation",
+          "Space Perception",
+          "Uncertainty",
+          "User-Computer Interface",
+          "Visual Perception"
+     ],
+     "EDAT": "2006/07/11 09:00",
+     "MHDA": "2006/12/09 09:00",
+     "CRDT": [
+          "2006/07/11 09:00"
+     ],
+     "PHST": [
+          "2006/07/11 09:00 [pubmed]",
+          "2006/12/09 09:00 [medline]",
+          "2006/07/11 09:00 [entrez]"
+     ],
+     "AID": [
+          "2006-08586-012 [pii]",
+          "10.1037/0096-1523.32.3.688 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Exp Psychol Hum Percept Perform. 2006 Jun;32(3):688-704. doi: 10.1037/0096-1523.32.3.688.",
+     "term": "spatial navigation"
+}

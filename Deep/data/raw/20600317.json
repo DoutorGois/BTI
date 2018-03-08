@@ -1,0 +1,92 @@
+{
+     "PMID": "20600317",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110426",
+     "LR": "20161122",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "191",
+     "IP": "2",
+     "DP": "2010 Aug 30",
+     "TI": "Cross-correlation of instantaneous amplitudes of field potential oscillations: a straightforward method to estimate the directionality and lag between brain areas.",
+     "PG": "191-200",
+     "LID": "10.1016/j.jneumeth.2010.06.019 [doi]",
+     "AB": "Researchers performing multi-site recordings are often interested in identifying the directionality of functional connectivity and estimating lags between sites. Current techniques for determining directionality require spike trains or involve multivariate autoregressive modeling. However, it is often difficult to sample large numbers of spikes from multiple areas simultaneously, and modeling can be sensitive to noise. A simple, model-independent method to estimate directionality and lag using local field potentials (LFPs) would be of general interest. Here we describe such a method using the cross-correlation of the instantaneous amplitudes of filtered LFPs. The method involves four steps. First, LFPs are band-pass filtered; second, the instantaneous amplitude of the filtered signals is calculated; third, these amplitudes are cross-correlated and the lag at which the cross-correlation peak occurs is determined; fourth, the distribution of lags obtained is tested to determine if it differs from zero. This method was applied to LFPs recorded from the ventral hippocampus and the medial prefrontal cortex in awake behaving mice. The results demonstrate that the hippocampus leads the mPFC, in good agreement with the time lag calculated from the phase locking of mPFC spikes to vHPC LFP oscillations in the same dataset. We also compare the amplitude cross-correlation method to partial directed coherence, a commonly used multivariate autoregressive model-dependent method, and find that the former is more robust to the effects of noise. These data suggest that the cross-correlation of instantaneous amplitude of filtered LFPs is a valid method to study the direction of flow of information across brain areas.",
+     "CI": [
+          "Copyright (c) 2010 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Adhikari, Avishek",
+          "Sigurdsson, Torfi",
+          "Topiwala, Mihir A",
+          "Gordon, Joshua A"
+     ],
+     "AU": [
+          "Adhikari A",
+          "Sigurdsson T",
+          "Topiwala MA",
+          "Gordon JA"
+     ],
+     "AD": "Department of Biological Sciences, Columbia University, New York, NY 10032, United States.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH081958/MH/NIMH NIH HHS/United States",
+          "K08 MH069823-05/MH/NIMH NIH HHS/United States",
+          "K08 MH069823/MH/NIMH NIH HHS/United States",
+          "R01 MH081968/MH/NIMH NIH HHS/United States",
+          "K08 MH098623/MH/NIMH NIH HHS/United States",
+          "R01 MH081968-02/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100630",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Biological Clocks/*physiology",
+          "Brain/*anatomy & histology/*physiology",
+          "Computer Simulation/standards",
+          "Electrophysiology/*methods",
+          "Evoked Potentials/*physiology",
+          "Male",
+          "Mice",
+          "Mice, 129 Strain",
+          "Mice, Inbred C57BL",
+          "Nerve Net/*anatomy & histology/*physiology",
+          "Neurophysiology/methods",
+          "*Signal Processing, Computer-Assisted"
+     ],
+     "PMC": "PMC2924932",
+     "MID": [
+          "NIHMS218720"
+     ],
+     "EDAT": "2010/07/06 06:00",
+     "MHDA": "2011/04/27 06:00",
+     "CRDT": [
+          "2010/07/06 06:00"
+     ],
+     "PHST": [
+          "2009/12/23 00:00 [received]",
+          "2010/06/08 00:00 [revised]",
+          "2010/06/21 00:00 [accepted]",
+          "2010/07/06 06:00 [entrez]",
+          "2010/07/06 06:00 [pubmed]",
+          "2011/04/27 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(10)00343-2 [pii]",
+          "10.1016/j.jneumeth.2010.06.019 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2010 Aug 30;191(2):191-200. doi: 10.1016/j.jneumeth.2010.06.019. Epub 2010 Jun 30.",
+     "term": "hippocampus"
+}

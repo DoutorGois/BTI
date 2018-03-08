@@ -1,0 +1,72 @@
+{
+     "PMID": "28108871",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20171201",
+     "IS": "1860-2002 (Electronic) 1536-1632 (Linking)",
+     "VI": "19",
+     "IP": "5",
+     "DP": "2017 Oct",
+     "TI": "Quantitative SPM Analysis Involving an Adaptive Template May Be Easily Applied to [(18)F]FDG PET Images of the Rat Brain.",
+     "PG": "731-735",
+     "LID": "10.1007/s11307-016-1043-9 [doi]",
+     "AB": "PURPOSE: The Statistical Parametric Mapping (SPM) software is frequently used for the quantitative analysis of patients' brain images obtained from 2-deoxy-2-[(18)F]fluoro-D-glucose positron emission tomography ([(18)F]FDG PET). However, its adaptation to small animals is difficult, particularly for the initial step of spatial normalization which requires a specific brain anatomical template. This study was aimed at determining whether SPM analysis can be applied to rat, and more specifically to the lithium-pilocarpine model of epilepsy, by using an adaptive template. This template developed for PET clinical imaging is constructed from a block matching algorithm. PROCEDURES: SPM analysis of brain [(18)F]FDG PET images from Sprague-Dawley rats was used with the block matching (BM) adaptive template for the detection of brain abnormalities (1) artificially inserted within the initially normal brain images of 10 rats (50 % decrease in signal intensity within 40 spheres of 0.5 to 1.0 mm in diameter) and (2) occurring at 4 h (n = 16), 48 h (n = 15), and 8 days (n = 13) after lithium-pilocarpine treatment. RESULTS: Concordant positive clusters were documented for all inserted abnormalities, whereas no aberrant clusters were documented in remote brain areas. Positive clusters were also detected on sites known to be involved in the epileptogenesis process of the lithium-pilocarpine model (piriform and entorhinal cortex, hippocampus), with the expected time-specific changes involving an early hypermetabolism followed by a severe hypometabolism and a subsequent partial recovery. CONCLUSION: A quantitative SPM analysis of brain [(18)F]FDG PET images may be applied to the monitoring of rat brain function when using an adaptive BM template.",
+     "FAU": [
+          "Poussier, Sylvain",
+          "Maskali, Fatiha",
+          "Vexiau, Gaelle",
+          "Verger, Antoine",
+          "Boutley, Henri",
+          "Karcher, Gilles",
+          "Raffo, Emmanuel",
+          "Marie, Pierre-Yves"
+     ],
+     "AU": [
+          "Poussier S",
+          "Maskali F",
+          "Vexiau G",
+          "Verger A",
+          "Boutley H",
+          "Karcher G",
+          "Raffo E",
+          "Marie PY"
+     ],
+     "AD": "NANCYCLOTEP-Experimental Imaging Platform, F-5400, Nancy, France. sylvain.poussier@univ-lorraine.fr. INSERM, IADI U947 and Lorraine University, F-5400, Nancy, France. sylvain.poussier@univ-lorraine.fr. NANCYCLOTEP-Experimental Imaging Platform, F-5400, Nancy, France. Department of Nuclear Medicine, University Hospital, F-5400, Nancy, France. Department of Neurology, University Hospital, F-5400, Nancy, France. NANCYCLOTEP-Experimental Imaging Platform, F-5400, Nancy, France. INSERM, IADI U947 and Lorraine University, F-5400, Nancy, France. Department of Nuclear Medicine, University Hospital, F-5400, Nancy, France. NANCYCLOTEP-Experimental Imaging Platform, F-5400, Nancy, France. NANCYCLOTEP-Experimental Imaging Platform, F-5400, Nancy, France. Department of Nuclear Medicine, University Hospital, F-5400, Nancy, France. INSERM U1116 and Lorraine University, F-5400, Nancy, France. Department of Neurology, University Hospital, F-5400, Nancy, France. NANCYCLOTEP-Experimental Imaging Platform, F-5400, Nancy, France. Department of Nuclear Medicine, University Hospital, F-5400, Nancy, France. INSERM U1116 and Lorraine University, F-5400, Nancy, France.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Mol Imaging Biol",
+     "JT": "Molecular imaging and biology : MIB : the official publication of the Academy of Molecular Imaging",
+     "JID": "101125610",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Brain PET",
+          "Epilepsy",
+          "FDG",
+          "Spatial normalization",
+          "Statistical Parametric Mapping"
+     ],
+     "EDAT": "2017/01/22 06:00",
+     "MHDA": "2017/01/22 06:00",
+     "CRDT": [
+          "2017/01/22 06:00"
+     ],
+     "PHST": [
+          "2017/01/22 06:00 [pubmed]",
+          "2017/01/22 06:00 [medline]",
+          "2017/01/22 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s11307-016-1043-9 [doi]",
+          "10.1007/s11307-016-1043-9 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Mol Imaging Biol. 2017 Oct;19(5):731-735. doi: 10.1007/s11307-016-1043-9.",
+     "term": "hippocampus"
+}

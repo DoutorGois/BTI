@@ -1,0 +1,69 @@
+{
+     "PMID": "10456096",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19990909",
+     "LR": "20071114",
+     "IS": "1072-0502 (Print) 1072-0502 (Linking)",
+     "VI": "3",
+     "IP": "2-3",
+     "DP": "1996 Sep-Oct",
+     "TI": "Theta/gamma networks with slow NMDA channels learn sequences and encode episodic memory: role of NMDA channels in recall.",
+     "PG": "264-78",
+     "AB": "This paper examines the role of slow N-methyl-D-aspartate (NMDA) channels (deactivation approximately 150 msec) in networks that multiplex different memories in different gamma subcycles of a low frequency theta oscillation. The NMDA channels are in the synapses of recurrent collaterals and govern synaptic modification in accord with known physiological properties. Because slow NMDA channels have a time constant that spans several gamma cycles, synaptic connections will form between cells that represent different memories. This enables brain structures that have slow NMDA channels to store heteroassociative sequence information in long-term memory. Recall of this stored sequence information can be initiated by presentation of initial elements of the sequence. The remaining sequence is then recalled at a rate of one memory every gamma cycle. A new role for the NMDA channel suggested by our finding is that recall at gamma frequency works well if slow NMDA channels provide the dominant component of the EPSP at the synapse of recurrent collaterals: The slow onset of these channels and their long duration allows the firing of one memory during one gamma cycle to trigger the next memory during the subsequent gamma cycle. An interesting feature of the readout mechanism is that the activation of a given memory is due to cumulative input from multiple previous memories in the stored sequence, not just the previous one. The network thus stores sequence information in a doubly redundant way: Activation of a memory depends on the strength of synaptic inputs from multiple cells of multiple previous memories. The cumulative property of sequence storage has support from the psychophysical literature. Cumulative learning also provides a solution to the disambiguation problem that occurs when different sequences have a region of overlap. In a final set of simulations, we show how coupling an autoassociative network to a heteroassociative network allows the storage of episodic memories (a unique sequence of briefly occurring known items). The autoassociative network (cortex) captures the sequence in short-term memory and provides the accurate, time-compressed repetition required to drive synaptic modification in the heteroassociative network (hippocampus). This is the first mechanistically detailed model showing how known brain properties, including network oscillations, recurrent collaterals, AMPA channels, NMDA channel subtypes, the ADP, and the AHP can act together to accomplish memory storage and recall.",
+     "FAU": [
+          "Jensen, O",
+          "Lisman, J E"
+     ],
+     "AU": [
+          "Jensen O",
+          "Lisman JE"
+     ],
+     "AD": "Volen Center for Complex Systems, Brandeis University, Waltham, MA 02254, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS 27337/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Learn Mem",
+     "JT": "Learning & memory (Cold Spring Harbor, N.Y.)",
+     "JID": "9435678",
+     "RN": [
+          "0 (Ion Channels)",
+          "6384-92-5 (N-Methylaspartate)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Association Learning/*physiology",
+          "Computer Simulation",
+          "Electrophysiology",
+          "Humans",
+          "Ion Channels/*physiology",
+          "Memory/*physiology",
+          "Mental Recall/*physiology",
+          "Models, Neurological",
+          "N-Methylaspartate/*metabolism",
+          "Nerve Net/*physiology",
+          "*Theta Rhythm"
+     ],
+     "EDAT": "1996/09/01 00:00",
+     "MHDA": "1999/08/24 00:01",
+     "CRDT": [
+          "1996/09/01 00:00"
+     ],
+     "PHST": [
+          "1996/09/01 00:00 [pubmed]",
+          "1999/08/24 00:01 [medline]",
+          "1996/09/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Learn Mem. 1996 Sep-Oct;3(2-3):264-78.",
+     "term": "hippocampus"
+}

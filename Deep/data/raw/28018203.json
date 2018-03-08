@@ -1,0 +1,64 @@
+{
+     "PMID": "28018203",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20170220",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "10",
+     "DP": "2016",
+     "TI": "Computational Properties of the Hippocampus Increase the Efficiency of Goal-Directed Foraging through Hierarchical Reinforcement Learning.",
+     "PG": "128",
+     "LID": "10.3389/fncom.2016.00128 [doi]",
+     "AB": "The mammalian brain is thought to use a version of Model-based Reinforcement Learning (MBRL) to guide \"goal-directed\" behavior, wherein animals consider goals and make plans to acquire desired outcomes. However, conventional MBRL algorithms do not fully explain animals' ability to rapidly adapt to environmental changes, or learn multiple complex tasks. They also require extensive computation, suggesting that goal-directed behavior is cognitively expensive. We propose here that key features of processing in the hippocampus support a flexible MBRL mechanism for spatial navigation that is computationally efficient and can adapt quickly to change. We investigate this idea by implementing a computational MBRL framework that incorporates features inspired by computational properties of the hippocampus: a hierarchical representation of space, \"forward sweeps\" through future spatial trajectories, and context-driven remapping of place cells. We find that a hierarchical abstraction of space greatly reduces the computational load (mental effort) required for adaptation to changing environmental conditions, and allows efficient scaling to large problems. It also allows abstract knowledge gained at high levels to guide adaptation to new obstacles. Moreover, a context-driven remapping mechanism allows learning and memory of multiple tasks. Simulating dorsal or ventral hippocampal lesions in our computational framework qualitatively reproduces behavioral deficits observed in rodents with analogous lesions. The framework may thus embody key features of how the brain organizes model-based RL to efficiently solve navigation and other difficult tasks.",
+     "FAU": [
+          "Chalmers, Eric",
+          "Luczak, Artur",
+          "Gruber, Aaron J"
+     ],
+     "AU": [
+          "Chalmers E",
+          "Luczak A",
+          "Gruber AJ"
+     ],
+     "AD": "Department of Neuroscience, University of Lethbridge Lethbridge, AB, Canada. Department of Neuroscience, University of Lethbridge Lethbridge, AB, Canada. Department of Neuroscience, University of Lethbridge Lethbridge, AB, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20161212",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC5149552",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "context",
+          "hierarchical learning",
+          "hippocampus",
+          "planning",
+          "reinforcement learning"
+     ],
+     "EDAT": "2016/12/27 06:00",
+     "MHDA": "2016/12/27 06:01",
+     "CRDT": [
+          "2016/12/27 06:00"
+     ],
+     "PHST": [
+          "2016/08/18 00:00 [received]",
+          "2016/11/28 00:00 [accepted]",
+          "2016/12/27 06:00 [entrez]",
+          "2016/12/27 06:00 [pubmed]",
+          "2016/12/27 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2016.00128 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2016 Dec 12;10:128. doi: 10.3389/fncom.2016.00128. eCollection 2016.",
+     "term": "place cells"
+}

@@ -1,0 +1,69 @@
+{
+     "PMID": "26594151",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20151123",
+     "LR": "20170220",
+     "IS": "1662-5102 (Print) 1662-5102 (Linking)",
+     "VI": "9",
+     "DP": "2015",
+     "TI": "Distinct and synergistic feedforward inhibition of pyramidal cells by basket and bistratified interneurons.",
+     "PG": "439",
+     "LID": "10.3389/fncel.2015.00439 [doi]",
+     "AB": "Feedforward inhibition (FFI) enables pyramidal cells in area CA1 of the hippocampus (CA1PCs) to remain easily excitable while faithfully representing a broad range of excitatory inputs without quickly saturating. Despite the cortical ubiquity of FFI, its specific function is not completely understood. FFI in CA1PCs is mediated by two physiologically and morphologically distinct GABAergic interneurons: fast-spiking, perisomatic-targeting basket cells and regular-spiking, dendritic-targeting bistratified cells. These two FFI pathways might create layer-specific computational sub-domains within the same CA1PC, but teasing apart their specific contributions remains experimentally challenging. We implemented a biophysically realistic model of CA1PCs using 40 digitally reconstructed morphologies and constraining synaptic numbers, locations, amplitude, and kinetics with available experimental data. First, we validated the model by reproducing the known combined basket and bistratified FFI of CA1PCs at the population level. We then analyzed how the two interneuron types independently affected the CA1PC spike probability and timing as a function of inhibitory strength. Separate FFI by basket and bistratified respectively modulated CA1PC threshold and gain. Concomitant FFI by both interneuron types synergistically extended the dynamic range of CA1PCs by buffering their spiking response to excitatory stimulation. These results suggest testable hypotheses on the precise effects of GABAergic diversity on cortical computation.",
+     "FAU": [
+          "Ferrante, Michele",
+          "Ascoli, Giorgio A"
+     ],
+     "AU": [
+          "Ferrante M",
+          "Ascoli GA"
+     ],
+     "AD": "Computational Neurophysiology Laboratory, Center for Memory and Brain, Psychology Department, Boston University Boston, MA, USA. Krasnow Institute for Advanced Study, George Mason University Fairfax, VA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS039600/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20151105",
+     "PL": "Switzerland",
+     "TA": "Front Cell Neurosci",
+     "JT": "Frontiers in cellular neuroscience",
+     "JID": "101477935",
+     "PMC": "PMC4633480",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "CA1 pyramidal cells",
+          "basket",
+          "bistratified",
+          "feedforward inhibiton",
+          "hippocampus",
+          "input-output transformation",
+          "interneurons",
+          "neuronal connectivity"
+     ],
+     "EDAT": "2015/11/26 06:00",
+     "MHDA": "2015/11/26 06:01",
+     "CRDT": [
+          "2015/11/24 06:00"
+     ],
+     "PHST": [
+          "2015/08/11 00:00 [received]",
+          "2015/10/22 00:00 [accepted]",
+          "2015/11/24 06:00 [entrez]",
+          "2015/11/26 06:00 [pubmed]",
+          "2015/11/26 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncel.2015.00439 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Cell Neurosci. 2015 Nov 5;9:439. doi: 10.3389/fncel.2015.00439. eCollection 2015.",
+     "term": "hippocampus"
+}

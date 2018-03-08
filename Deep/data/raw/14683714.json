@@ -1,0 +1,91 @@
+{
+     "PMID": "14683714",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040212",
+     "LR": "20161124",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "20",
+     "IP": "4",
+     "DP": "2003 Dec",
+     "TI": "Development and evaluation of an automated atlas-based image analysis method for microPET studies of the rat brain.",
+     "PG": "2100-18",
+     "AB": "An automated method for placement of 3D rat brain atlas-derived volumes of interest (VOIs) onto PET studies has been designed and evaluated. VOIs representing major structures of the rat brain were defined on a set of digitized cryosectioned images of the rat brain. For VOI placement, each PET study was registered with a synthetic PET target constructed from the VOI template. Registration was accomplished with an automated algorithm that maximized the mutual information content of the image volumes. The accuracy and precision of this method for VOI placement was determined using datasets from PET studies of the striatal dopamine and hippocampal serotonin systems. Each evaluated PET study could be registered to at least one synthetic PET target without obvious failure. Registration was critically dependent upon the initial position of the PET study relative to the synthetic PET target, but not dependent on the amount of synthetic PET target smoothing. An evaluation algorithm showed that resultant radioactivity concentration measurements of selected brain structures had errors=2% due to misalignment with the corresponding VOI. Further, radioligand binding values calculated from these measurements were found to be more precise than those calculated from measurements obtained with manually drawn regions of interest (ROIs). Overall, evaluation results demonstrated that this atlas-derived VOI method can be used to obtain unbiased measurements of radioactivity concentration from PET studies. Its automated features, and applicability to different radioligands and brain regions, will facilitate quantitative rat brain PET assessment procedures.",
+     "FAU": [
+          "Rubins, Daniel J",
+          "Melega, William P",
+          "Lacan, Goran",
+          "Way, Baldwin",
+          "Plenevaux, Alain",
+          "Luxen, Andre",
+          "Cherry, Simon R"
+     ],
+     "AU": [
+          "Rubins DJ",
+          "Melega WP",
+          "Lacan G",
+          "Way B",
+          "Plenevaux A",
+          "Luxen A",
+          "Cherry SR"
+     ],
+     "AD": "Department of Molecular and Medical Pharmacology, David Geffen School of Medicine, University of California, Los Angeles, CA 90095, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB00561/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "RN": [
+          "333DO1RDJY (Serotonin)",
+          "VTD58H1Z2X (Dopamine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Atlases as Topic",
+          "Automation",
+          "Brain/*anatomy & histology/*diagnostic imaging",
+          "Brain Mapping/*methods",
+          "Cerebellum/diagnostic imaging/physiology",
+          "Cerebral Cortex/diagnostic imaging/physiology",
+          "Dopamine/physiology",
+          "Hippocampus/diagnostic imaging/physiology",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Image Processing, Computer-Assisted",
+          "Magnetic Resonance Imaging",
+          "Neostriatum/diagnostic imaging/physiology",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Serotonin/physiology",
+          "Thalamus/diagnostic imaging/physiology",
+          "Tomography, Emission-Computed/*standards",
+          "Tomography, Emission-Computed, Single-Photon"
+     ],
+     "EDAT": "2003/12/20 05:00",
+     "MHDA": "2004/02/13 05:00",
+     "CRDT": [
+          "2003/12/20 05:00"
+     ],
+     "PHST": [
+          "2003/12/20 05:00 [pubmed]",
+          "2004/02/13 05:00 [medline]",
+          "2003/12/20 05:00 [entrez]"
+     ],
+     "AID": [
+          "S1053811903004622 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2003 Dec;20(4):2100-18.",
+     "term": "hippocampus"
+}

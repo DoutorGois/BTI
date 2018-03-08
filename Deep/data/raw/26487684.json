@@ -1,0 +1,86 @@
+{
+     "PMID": "26487684",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160314",
+     "LR": "20161019",
+     "IS": "1091-6490 (Electronic) 0027-8424 (Linking)",
+     "VI": "112",
+     "IP": "44",
+     "DP": "2015 Nov 3",
+     "TI": "Clique topology reveals intrinsic geometric structure in neural correlations.",
+     "PG": "13455-60",
+     "LID": "10.1073/pnas.1506407112 [doi]",
+     "AB": "Detecting meaningful structure in neural activity and connectivity data is challenging in the presence of hidden nonlinearities, where traditional eigenvalue-based methods may be misleading. We introduce a novel approach to matrix analysis, called clique topology, that extracts features of the data invariant under nonlinear monotone transformations. These features can be used to detect both random and geometric structure, and depend only on the relative ordering of matrix entries. We then analyzed the activity of pyramidal neurons in rat hippocampus, recorded while the animal was exploring a 2D environment, and confirmed that our method is able to detect geometric organization using only the intrinsic pattern of neural correlations. Remarkably, we found similar results during nonspatial behaviors such as wheel running and rapid eye movement (REM) sleep. This suggests that the geometric structure of correlations is shaped by the underlying hippocampal circuits and is not merely a consequence of position coding. We propose that clique topology is a powerful new tool for matrix analysis in biological settings, where the relationship of observed quantities to more meaningful variables is often nonlinear and unknown.",
+     "FAU": [
+          "Giusti, Chad",
+          "Pastalkova, Eva",
+          "Curto, Carina",
+          "Itskov, Vladimir"
+     ],
+     "AU": [
+          "Giusti C",
+          "Pastalkova E",
+          "Curto C",
+          "Itskov V"
+     ],
+     "AD": "Warren Center for Network and Data Science, Departments of Bioengineering and Mathematics, University of Pennsylvania, Philadelphia, PA 19104; Department of Mathematics, University of Nebraska, Lincoln, NE 68588; Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA 20147; Department of Mathematics, University of Nebraska, Lincoln, NE 68588; Department of Mathematics, The Pennsylvania State University, University Park, PA 16802. Department of Mathematics, University of Nebraska, Lincoln, NE 68588; Department of Mathematics, The Pennsylvania State University, University Park, PA 16802 vladimir.itskov@psu.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "Howard Hughes Medical Institute/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20151020",
+     "PL": "United States",
+     "TA": "Proc Natl Acad Sci U S A",
+     "JT": "Proceedings of the National Academy of Sciences of the United States of America",
+     "JID": "7505876",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/cytology/*physiology",
+          "Models, Neurological",
+          "Motor Activity/*physiology",
+          "Neural Pathways/physiology",
+          "Neurophysiology/*methods",
+          "Pyramidal Cells/*physiology",
+          "Rats",
+          "Sleep, REM/*physiology"
+     ],
+     "PMC": "PMC4640785",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Betti curves",
+          "clique topology",
+          "neural coding",
+          "structure of neural correlation",
+          "topological data analysis"
+     ],
+     "EDAT": "2015/10/22 06:00",
+     "MHDA": "2016/03/15 06:00",
+     "CRDT": [
+          "2015/10/22 06:00"
+     ],
+     "PHST": [
+          "2015/10/22 06:00 [entrez]",
+          "2015/10/22 06:00 [pubmed]",
+          "2016/03/15 06:00 [medline]"
+     ],
+     "AID": [
+          "1506407112 [pii]",
+          "10.1073/pnas.1506407112 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Proc Natl Acad Sci U S A. 2015 Nov 3;112(44):13455-60. doi: 10.1073/pnas.1506407112. Epub 2015 Oct 20.",
+     "term": "hippocampus"
+}

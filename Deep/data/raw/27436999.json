@@ -1,0 +1,79 @@
+{
+     "PMID": "27436999",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170207",
+     "LR": "20170220",
+     "IS": "1687-5273 (Electronic)",
+     "VI": "2016",
+     "DP": "2016",
+     "TI": "Automatic Training of Rat Cyborgs for Navigation.",
+     "PG": "6459251",
+     "LID": "10.1155/2016/6459251 [doi]",
+     "AB": "A rat cyborg system refers to a biological rat implanted with microelectrodes in its brain, via which the outer electrical stimuli can be delivered into the brain in vivo to control its behaviors. Rat cyborgs have various applications in emergency, such as search and rescue in disasters. Prior to a rat cyborg becoming controllable, a lot of effort is required to train it to adapt to the electrical stimuli. In this paper, we build a vision-based automatic training system for rat cyborgs to replace the time-consuming manual training procedure. A hierarchical framework is proposed to facilitate the colearning between rats and machines. In the framework, the behavioral states of a rat cyborg are visually sensed by a camera, a parameterized state machine is employed to model the training action transitions triggered by rat's behavioral states, and an adaptive adjustment policy is developed to adaptively adjust the stimulation intensity. The experimental results of three rat cyborgs prove the effectiveness of our system. To the best of our knowledge, this study is the first to tackle automatic training of animal cyborgs.",
+     "FAU": [
+          "Yu, Yipeng",
+          "Wu, Zhaohui",
+          "Xu, Kedi",
+          "Gong, Yongyue",
+          "Zheng, Nenggan",
+          "Zheng, Xiaoxiang",
+          "Pan, Gang"
+     ],
+     "AU": [
+          "Yu Y",
+          "Wu Z",
+          "Xu K",
+          "Gong Y",
+          "Zheng N",
+          "Zheng X",
+          "Pan G"
+     ],
+     "AD": "College of Computer Science and Technology, Zhejiang University, Hangzhou 310027, China. College of Computer Science and Technology, Zhejiang University, Hangzhou 310027, China. Qiushi Academy for Advanced Studies, Zhejiang University, Hangzhou 310027, China. College of Computer Science and Technology, Zhejiang University, Hangzhou 310027, China. Qiushi Academy for Advanced Studies, Zhejiang University, Hangzhou 310027, China. Qiushi Academy for Advanced Studies, Zhejiang University, Hangzhou 310027, China. College of Computer Science and Technology, Zhejiang University, Hangzhou 310027, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160629",
+     "PL": "United States",
+     "TA": "Comput Intell Neurosci",
+     "JT": "Computational intelligence and neuroscience",
+     "JID": "101279357",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Automation",
+          "Brain/*physiology",
+          "*Brain-Computer Interfaces",
+          "Conditioning, Operant/*physiology",
+          "Electric Stimulation",
+          "Functional Laterality",
+          "Maze Learning",
+          "Medial Forebrain Bundle/physiology",
+          "Microelectrodes",
+          "Rats",
+          "*Spatial Navigation",
+          "Time Factors"
+     ],
+     "PMC": "PMC4942600",
+     "EDAT": "2016/07/21 06:00",
+     "MHDA": "2017/02/09 06:00",
+     "CRDT": [
+          "2016/07/21 06:00"
+     ],
+     "PHST": [
+          "2015/12/28 00:00 [received]",
+          "2016/05/12 00:00 [accepted]",
+          "2016/07/21 06:00 [entrez]",
+          "2016/07/21 06:00 [pubmed]",
+          "2017/02/09 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2016/6459251 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Intell Neurosci. 2016;2016:6459251. doi: 10.1155/2016/6459251. Epub 2016 Jun 29.",
+     "term": "spatial navigation"
+}

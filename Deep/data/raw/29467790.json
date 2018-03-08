@@ -1,0 +1,68 @@
+{
+     "PMID": "29467790",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "LR": "20180227",
+     "IS": "1664-8021 (Print) 1664-8021 (Linking)",
+     "VI": "9",
+     "DP": "2018",
+     "TI": "Classification of Autism Spectrum Disorder Using Random Support Vector Machine Cluster.",
+     "PG": "18",
+     "LID": "10.3389/fgene.2018.00018 [doi]",
+     "AB": "Autism spectrum disorder (ASD) is mainly reflected in the communication and language barriers, difficulties in social communication, and it is a kind of neurological developmental disorder. Most researches have used the machine learning method to classify patients and normal controls, among which support vector machines (SVM) are widely employed. But the classification accuracy of SVM is usually low, due to the usage of a single SVM as classifier. Thus, we used multiple SVMs to classify ASD patients and typical controls (TC). Resting-state functional magnetic resonance imaging (fMRI) data of 46 TC and 61 ASD patients were obtained from the Autism Brain Imaging Data Exchange (ABIDE) database. Only 84 of 107 subjects are utilized in experiments because the translation or rotation of 7 TC and 16 ASD patients has surpassed +/-2 mm or +/-2 degrees . Then the random SVM cluster was proposed to distinguish TC and ASD. The results show that this method has an excellent classification performance based on all the features. Furthermore, the accuracy based on the optimal feature set could reach to 96.15%. Abnormal brain regions could also be found, such as inferior frontal gyrus (IFG) (orbital and opercula part), hippocampus, and precuneus. It is indicated that the method of random SVM cluster may apply to the auxiliary diagnosis of ASD.",
+     "FAU": [
+          "Bi, Xia-An",
+          "Wang, Yang",
+          "Shu, Qing",
+          "Sun, Qi",
+          "Xu, Qian"
+     ],
+     "AU": [
+          "Bi XA",
+          "Wang Y",
+          "Shu Q",
+          "Sun Q",
+          "Xu Q"
+     ],
+     "AD": "College of Mathematics and Computer Science, Hunan Normal University, Changsha, China. College of Mathematics and Computer Science, Hunan Normal University, Changsha, China. College of Mathematics and Computer Science, Hunan Normal University, Changsha, China. College of Mathematics and Computer Science, Hunan Normal University, Changsha, China. College of Mathematics and Computer Science, Hunan Normal University, Changsha, China.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20180206",
+     "PL": "Switzerland",
+     "TA": "Front Genet",
+     "JT": "Frontiers in genetics",
+     "JID": "101560621",
+     "PMC": "PMC5808191",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "autism spectrum disorder",
+          "classification",
+          "feature selection",
+          "neuroimaging",
+          "random support vector machine cluster"
+     ],
+     "EDAT": "2018/02/23 06:00",
+     "MHDA": "2018/02/23 06:01",
+     "CRDT": [
+          "2018/02/23 06:00"
+     ],
+     "PHST": [
+          "2017/11/16 00:00 [received]",
+          "2018/01/15 00:00 [accepted]",
+          "2018/02/23 06:00 [entrez]",
+          "2018/02/23 06:00 [pubmed]",
+          "2018/02/23 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fgene.2018.00018 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Genet. 2018 Feb 6;9:18. doi: 10.3389/fgene.2018.00018. eCollection 2018.",
+     "term": "hippocampus"
+}

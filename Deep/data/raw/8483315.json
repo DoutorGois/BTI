@@ -1,0 +1,63 @@
+{
+     "PMID": "8483315",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19930602",
+     "LR": "20141120",
+     "IS": "0165-0270 (Print) 0165-0270 (Linking)",
+     "VI": "46",
+     "IP": "3",
+     "DP": "1993 Mar",
+     "TI": "Algorithm for semi-automatic sorting of objects to specified tissue domains. An aid for co-ordinating morphometric data with identified tissue components.",
+     "PG": "217-24",
+     "AB": "A personal computer-based technique was developed that reduces the extent of human efforts in obtaining data, like numerical density of profiles on area, describing the distribution of specific features of histological sections, e.g., density of synaptic profiles or of histochemical reaction products in specified tissue compartments. The procedure consists of (i) marking the objects to be counted, (ii) recording the borderlines of (reference) tissue domains of interest, and (iii) allocating the marked objects to the corresponding domains automatically. This automatic sorting of objects into defined tissue domains is achieved by an algorithm operating on two sets of coordinates: (i) coordinates of points that constitute the boundary of tissue domains (perimeter points) and (ii) coordinates of points marking the particular objects to be sorted. The principle of the sorting calculation is to construct 'segments' of the loop by lines parallel to the ordinate which pass through neighbouring perimeter points. The 'items' to be sorted are classified by the sign of marker flags allocated to each point depending on which side of the perimeter segment they are located. Segmentation and classification procedures are sequentially repeated along the entire perimeter of each domain specified by the operator which may result during the procedure in multiple changes of the sign of the flags. The internal or external location of each item finally is represented by the last sign of its flag. Objects, allocated to domains can be counted and processed further for numerical density determination.",
+     "FAU": [
+          "Siklos, L",
+          "Kuhnt, U"
+     ],
+     "AU": [
+          "Siklos L",
+          "Kuhnt U"
+     ],
+     "AD": "Laboratory of Molecular Neurobiology, Biology Research Center, Szeged, Hungary.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "*Automatic Data Processing",
+          "Calcium/metabolism",
+          "Guinea Pigs",
+          "Hippocampus/*metabolism/ultrastructure",
+          "Histocytochemistry/*methods",
+          "In Vitro Techniques",
+          "Microscopy, Electron/*methods",
+          "Neurology/*methods"
+     ],
+     "EDAT": "1993/03/01 00:00",
+     "MHDA": "1993/03/01 00:01",
+     "CRDT": [
+          "1993/03/01 00:00"
+     ],
+     "PHST": [
+          "1993/03/01 00:00 [pubmed]",
+          "1993/03/01 00:01 [medline]",
+          "1993/03/01 00:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 1993 Mar;46(3):217-24.",
+     "term": "hippocampus"
+}

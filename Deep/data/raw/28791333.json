@@ -1,0 +1,73 @@
+{
+     "PMID": "28791333",
+     "OWN": "NLM",
+     "STAT": "In-Process",
+     "LR": "20170811",
+     "IS": "2373-2822 (Electronic) 2373-2822 (Linking)",
+     "VI": "4",
+     "IP": "4",
+     "DP": "2017 Jul-Aug",
+     "TI": "Combining Theory, Model, and Experiment to Explain How Intrinsic Theta Rhythms Are Generated in an In Vitro Whole Hippocampus Preparation without Oscillatory Inputs.",
+     "LID": "ENEURO.0131-17.2017 [pii] 10.1523/ENEURO.0131-17.2017 [doi]",
+     "AB": "Scientists have observed local field potential theta rhythms (3-12 Hz) in the hippocampus for decades, but understanding the mechanisms underlying their generation is complicated by their diversity in pharmacological and frequency profiles. In addition, interactions with other brain structures and oscillatory drives to the hippocampus during distinct brain states has made it difficult to identify hippocampus-specific properties directly involved in theta generation. To overcome this, we develop cellular-based network models using a whole hippocampus in vitro preparation that spontaneously generates theta rhythms. Building on theoretical and computational analyses, we find that spike frequency adaptation and postinhibitory rebound constitute a basis for theta generation in large, minimally connected CA1 pyramidal (PYR) cell network models with fast-firing parvalbumin-positive (PV(+)) inhibitory cells. Sparse firing of PYR cells and large excitatory currents onto PV(+) cells are present as in experiments. The particular theta frequency is more controlled by PYR-to-PV(+) cell interactions rather than PV(+)-to-PYR cell interactions. We identify two scenarios by which theta rhythms can emerge, and they can be differentiated by the ratio of excitatory to inhibitory currents to PV(+) cells, but not to PYR cells. Only one of the scenarios is consistent with data from the whole hippocampus preparation, which leads to the prediction that the connection probability from PV(+) to PYR cells needs to be larger than from PYR to PV(+) cells. Our models can serve as a platform on which to build and develop an understanding of in vivo theta generation.",
+     "FAU": [
+          "Ferguson, Katie A",
+          "Chatzikalymniou, Alexandra P",
+          "Skinner, Frances K"
+     ],
+     "AU": [
+          "Ferguson KA",
+          "Chatzikalymniou AP",
+          "Skinner FK"
+     ],
+     "AD": "Krembil Research Institute, University Health Network, Toronto, Ontario, Canada. Department of Physiology, University of Toronto, Toronto, Ontario, Canada. Krembil Research Institute, University Health Network, Toronto, Ontario, Canada. Department of Physiology, University of Toronto, Toronto, Ontario, Canada. Krembil Research Institute, University Health Network, Toronto, Ontario, Canada. Departments of Medicine (Neurology) and Physiology, University of Toronto, Toronto, Ontario, Canada.",
+     "AUID": [
+          "ORCID: 0000-0003-1678-0315",
+          "ORCID: 0000-0001-7819-4202"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170807",
+     "PL": "United States",
+     "TA": "eNeuro",
+     "JT": "eNeuro",
+     "JID": "101647362",
+     "PMC": "PMC5547196",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Computational modeling",
+          "hippocampus",
+          "mathematical model",
+          "network",
+          "theta rhythm"
+     ],
+     "COIS": [
+          "Authors report no conflict of interest."
+     ],
+     "EDAT": "2017/08/10 06:00",
+     "MHDA": "2017/08/10 06:00",
+     "CRDT": [
+          "2017/08/10 06:00"
+     ],
+     "PHST": [
+          "2017/04/12 00:00 [received]",
+          "2017/07/11 00:00 [revised]",
+          "2017/07/15 00:00 [accepted]",
+          "2017/08/10 06:00 [entrez]",
+          "2017/08/10 06:00 [pubmed]",
+          "2017/08/10 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1523/ENEURO.0131-17.2017 [doi]",
+          "eN-TNC-0131-17 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "eNeuro. 2017 Aug 7;4(4). pii: eN-TNC-0131-17. doi: 10.1523/ENEURO.0131-17.2017. eCollection 2017 Jul-Aug.",
+     "term": "hippocampus"
+}

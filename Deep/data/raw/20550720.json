@@ -1,0 +1,80 @@
+{
+     "PMID": "20550720",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100917",
+     "LR": "20171116",
+     "IS": "1742-4682 (Electronic) 1742-4682 (Linking)",
+     "VI": "7",
+     "DP": "2010 Jun 16",
+     "TI": "In silico modeling of the specific inhibitory potential of thiophene-2,3-dihydro-1,5-benzothiazepine against BChE in the formation of beta-amyloid plaques associated with Alzheimer's disease.",
+     "PG": "22",
+     "LID": "10.1186/1742-4682-7-22 [doi]",
+     "AB": "BACKGROUND: Alzheimer's disease, known to be associated with the gradual loss of memory, is characterized by low concentration of acetylcholine in the hippocampus and cortex part of the brain. Inhibition of acetylcholinesterase has successfully been used as a drug target to treat Alzheimer's disease but drug resistance shown by butyrylcholinesterase remains a matter of concern in treating Alzheimer's disease. Apart from the many other reasons for Alzheimer's disease, its association with the genesis of fibrils by beta-amyloid plaques is closely related to the increased activity of butyrylcholinesterase. Although few data are available on the inhibition of butyrylcholinesterase, studies have shown that that butyrylcholinesterase is a genetically validated drug target and its selective inhibition reduces the formation of beta-amyloid plaques. RATIONALE: We previously reported the inhibition of cholinesterases by 2,3-dihydro-1, 5-benzothiazepines, and considered this class of compounds as promising inhibitors for the cure of Alzheimer's disease. One compound from the same series, when substituted with a hydroxy group at C-3 in ring A and 2-thienyl moiety as ring B, showed greater activity against butyrylcholinesterase than to acetylcholinesterase. To provide insight into the binding mode of this compound (Compound A), molecular docking in combination with molecular dynamics simulation of 5000 ps in an explicit solvent system was carried out for both cholinesterases. CONCLUSION: Molecular docking studies revealed that the potential of Compound A to inhibit cholinesterases was attributable to the cumulative effects of strong hydrogen bonds, cationic-pi, pi-pi interactions and hydrophobic interactions. A comparison of the docking results of Compound A against both cholinesterases showed that amino acid residues in different sub-sites were engaged to stabilize the docked complex. The relatively high affinity of Compound A for butyrylcholinesterase was due to the additional hydrophobic interaction between the 2-thiophene moiety of Compound A and Ile69. The involvement of one catalytic triad residue (His438) of butyrylcholinesterase with the 3'-hydroxy group on ring A increases the selectivity of Compound A. C-C bond rotation around ring A also stabilizes and enhances the interaction of Compound A with butyrylcholinesterase. Furthermore, the classical network of hydrogen bonding interactions as formed by the catalytic triad of butyrylcholinesterase is disturbed by Compound A. This study may open a new avenue for structure-based drug design for Alzheimer's disease by considering the 3D-pharmacophoric features of the complex responsible for discriminating these two closely-related cholinesterases.",
+     "FAU": [
+          "Ul-Haq, Zaheer",
+          "Khan, Waqasuddin",
+          "Kalsoom, Saima",
+          "Ansari, Farzana L"
+     ],
+     "AU": [
+          "Ul-Haq Z",
+          "Khan W",
+          "Kalsoom S",
+          "Ansari FL"
+     ],
+     "AD": "Dr. Panjwani Center for Molecular Medicine and Drug Research, International Center for Chemical and Biological Sciences, University of Karachi, Karachi, Pakistan. zaheer.qasmi@iccs.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20100616",
+     "PL": "England",
+     "TA": "Theor Biol Med Model",
+     "JT": "Theoretical biology & medical modelling",
+     "JID": "101224383",
+     "RN": [
+          "0 ((E)-3-(2-(thiophene-2-yl)-2,3-dihydrobenzo(b)(1,4)thiazepin-4-yl)phenol)",
+          "0 (Amyloid)",
+          "0 (Cholinesterase Inhibitors)",
+          "0 (Thiazepines)",
+          "EC 3.1.1.8 (Butyrylcholinesterase)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Alzheimer Disease/enzymology/metabolism/*pathology",
+          "Amyloid/*metabolism",
+          "Butyrylcholinesterase/*drug effects",
+          "Cholinesterase Inhibitors/chemistry/*pharmacology",
+          "Humans",
+          "Models, Molecular",
+          "Molecular Dynamics Simulation",
+          "Molecular Structure",
+          "Thermodynamics",
+          "Thiazepines/chemistry/*pharmacology"
+     ],
+     "PMC": "PMC2905356",
+     "EDAT": "2010/06/17 06:00",
+     "MHDA": "2010/09/21 06:00",
+     "CRDT": [
+          "2010/06/17 06:00"
+     ],
+     "PHST": [
+          "2010/01/06 00:00 [received]",
+          "2010/06/16 00:00 [accepted]",
+          "2010/06/17 06:00 [entrez]",
+          "2010/06/17 06:00 [pubmed]",
+          "2010/09/21 06:00 [medline]"
+     ],
+     "AID": [
+          "1742-4682-7-22 [pii]",
+          "10.1186/1742-4682-7-22 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Theor Biol Med Model. 2010 Jun 16;7:22. doi: 10.1186/1742-4682-7-22.",
+     "term": "hippocampus"
+}

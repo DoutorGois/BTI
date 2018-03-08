@@ -1,0 +1,57 @@
+{
+     "PMID": "11970133",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20020812",
+     "LR": "20061115",
+     "IS": "1063-651X (Print) 1063-651X (Linking)",
+     "VI": "60",
+     "IP": "3",
+     "DP": "1999 Sep",
+     "TI": "Nonlinear transfer function encodes synchronization in a neural network from the mammalian brain.",
+     "PG": "3239-43",
+     "AB": "Synchronization is one of the mechanisms by which the brain encodes information. The observed synchronization of neuronal activity has, however, several levels of fluctuations, which presumably regulate local features of specific areas. This means that biological neural networks should have an intrinsic mechanism able to synchronize the neuronal activity but also to preserve the firing capability of individual cells. Here, we investigate the input-output relationship of a biological neural network from developing mammalian brain, i.e., the hippocampus. We show that the probability of occurrence of synchronous output activity (which consists in stereotyped population bursts recorded throughout the hippocampus) is encoded by a sigmoidal transfer function of the input frequency. Under this scope, low-frequency inputs will not produce any coherent output while high-frequency inputs will determine a synchronous pattern of output activity (population bursts). We analyze the effect of the network size (N) on the parameters of the transfer function (threshold and slope). We found that sigmoidal functions realistically simulate the synchronous output activity of hippocampal neural networks. This outcome is particularly important in the application of results from neural network models to neurobiology.",
+     "FAU": [
+          "Menendez de la Prida, L",
+          "Sanchez-Andres, J V"
+     ],
+     "AU": [
+          "Menendez de la Prida L",
+          "Sanchez-Andres JV"
+     ],
+     "AD": "Unidad de Cartografia, Instituto Pluridisciplinar, Universidad Complutense, Paseo Juan XXIII, 1, 28040 Madrid, Spain. liset@eucmax.sim.ucm.es",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Phys Rev E Stat Phys Plasmas Fluids Relat Interdiscip Topics",
+     "JT": "Physical review. E, Statistical physics, plasmas, fluids, and related interdisciplinary topics",
+     "JID": "9887340",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Animals, Newborn",
+          "Brain/*pathology/*physiology",
+          "Hippocampus/pathology/physiology",
+          "*Nerve Net",
+          "Rabbits"
+     ],
+     "EDAT": "2002/04/24 10:00",
+     "MHDA": "2002/08/13 10:01",
+     "CRDT": [
+          "2002/04/24 10:00"
+     ],
+     "PHST": [
+          "1999/01/21 00:00 [received]",
+          "2002/04/24 10:00 [pubmed]",
+          "2002/08/13 10:01 [medline]",
+          "2002/04/24 10:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Phys Rev E Stat Phys Plasmas Fluids Relat Interdiscip Topics. 1999 Sep;60(3):3239-43.",
+     "term": "hippocampus"
+}

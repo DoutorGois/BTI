@@ -1,0 +1,100 @@
+{
+     "PMID": "19162198",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090512",
+     "LR": "20170220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "45",
+     "IP": "3",
+     "DP": "2009 Apr 15",
+     "TI": "A comparison of automated segmentation and manual tracing for quantifying hippocampal and amygdala volumes.",
+     "PG": "855-66",
+     "LID": "10.1016/j.neuroimage.2008.12.033 [doi]",
+     "AB": "Large databases of high-resolution structural MR images are being assembled to quantitatively examine the relationships between brain anatomy, disease progression, treatment regimens, and genetic influences upon brain structure. Quantifying brain structures in such large databases cannot be practically accomplished by expert neuroanatomists using hand-tracing. Rather, this research will depend upon automated methods that reliably and accurately segment and quantify dozens of brain regions. At present, there is little guidance available to help clinical research groups in choosing such tools. Thus, our goal was to compare the performance of two popular and fully automated tools, FSL/FIRST and FreeSurfer, to expert hand tracing in the measurement of the hippocampus and amygdala. Volumes derived from each automated measurement were compared to hand tracing for percent volume overlap, percent volume difference, across-sample correlation, and 3-D group-level shape analysis. In addition, sample size estimates for conducting between-group studies were computed for a range of effect sizes. Compared to hand tracing, hippocampal measurements with FreeSurfer exhibited greater volume overlap, smaller volume difference, and higher correlation than FIRST, and sample size estimates with FreeSurfer were closer to hand tracing. Amygdala measurement with FreeSurfer was also more highly correlated to hand tracing than FIRST, but exhibited a greater volume difference than FIRST. Both techniques had comparable volume overlap and similar sample size estimates. Compared to hand tracing, a 3-D shape analysis of the hippocampus showed FreeSurfer was more accurate than FIRST, particularly in the head and tail. However, FIRST more accurately represented the amygdala shape than FreeSurfer, which inflated its anterior and posterior surfaces.",
+     "FAU": [
+          "Morey, Rajendra A",
+          "Petty, Christopher M",
+          "Xu, Yuan",
+          "Hayes, Jasmeet Pannu",
+          "Wagner, H Ryan 2nd",
+          "Lewis, Darrell V",
+          "LaBar, Kevin S",
+          "Styner, Martin",
+          "McCarthy, Gregory"
+     ],
+     "AU": [
+          "Morey RA",
+          "Petty CM",
+          "Xu Y",
+          "Hayes JP",
+          "Wagner HR 2nd",
+          "Lewis DV",
+          "LaBar KS",
+          "Styner M",
+          "McCarthy G"
+     ],
+     "AD": "Duke-UNC Brain Imaging and Analysis Center, Duke University, Durham, NC 27710, USA. rajendra.morey@duke.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 MH060451/MH/NIMH NIH HHS/United States",
+          "K23 MH073091-02/MH/NIMH NIH HHS/United States",
+          "K23 MH073091/MH/NIMH NIH HHS/United States",
+          "K23 MH073091-04/MH/NIMH NIH HHS/United States",
+          "P50-MH60451/MH/NIMH NIH HHS/United States",
+          "R01 NS043209/NS/NINDS NIH HHS/United States",
+          "K23 MH073091-03/MH/NIMH NIH HHS/United States",
+          "R37 NS043209/NS/NINDS NIH HHS/United States",
+          "K23 MH073091-01A1/MH/NIMH NIH HHS/United States",
+          "NS 43209/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20081230",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "CIN": [
+          "Neuroimage. 2009 Nov 15;48(3):497-8. PMID: 19442748"
+     ],
+     "MH": [
+          "Amygdala/*anatomy & histology",
+          "Automation",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging"
+     ],
+     "PMC": "PMC2714773",
+     "MID": [
+          "NIHMS111308"
+     ],
+     "EDAT": "2009/01/24 09:00",
+     "MHDA": "2009/05/13 09:00",
+     "CRDT": [
+          "2009/01/24 09:00"
+     ],
+     "PHST": [
+          "2008/07/31 00:00 [received]",
+          "2008/11/06 00:00 [revised]",
+          "2008/12/08 00:00 [accepted]",
+          "2009/01/24 09:00 [entrez]",
+          "2009/01/24 09:00 [pubmed]",
+          "2009/05/13 09:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(08)01279-2 [pii]",
+          "10.1016/j.neuroimage.2008.12.033 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2009 Apr 15;45(3):855-66. doi: 10.1016/j.neuroimage.2008.12.033. Epub 2008 Dec 30.",
+     "term": "hippocampus"
+}

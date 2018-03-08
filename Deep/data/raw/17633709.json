@@ -1,0 +1,75 @@
+{
+     "PMID": "17633709",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070831",
+     "LR": "20170220",
+     "IS": "1011-2499 (Print) 1011-2499 (Linking)",
+     "VI": "20",
+     "DP": "2007",
+     "TI": "Symmetric positive 4th order tensors & their estimation from diffusion weighted MRI.",
+     "PG": "308-19",
+     "AB": "In Diffusion Weighted Magnetic Resonance Image (DW-MRI) processing a 2nd order tensor has been commonly used to approximate the diffusivity function at each lattice point of the DW-MRI data. It is now well known that this 2nd-order approximation fails to approximate complex local tissue structures, such as fibers crossings. In this paper we employ a 4th order symmetric positive semi-definite (PSD) tensor approximation to represent the diffusivity function and present a novel technique to estimate these tensors from the DW-MRI data guaranteeing the PSD property. There have been several published articles in literature on higher order tensor approximations of the diffusivity function but none of them guarantee the positive semi-definite constraint, which is a fundamental constraint since negative values of the diffusivity coefficients are not meaningful. In our methods, we parameterize the 4th order tensors as a sum of squares of quadratic forms by using the so called Gram matrix method from linear algebra and its relation to the Hilbert's theorem on ternary quartics. This parametric representation is then used in a nonlinear-least squares formulation to estimate the PSD tensors of order 4 from the data. We define a metric for the higher-order tensors and employ it for regularization across the lattice. Finally, performance of this model is depicted on synthetic data as well as real DW-MRI from an isolated rat hippocampus.",
+     "FAU": [
+          "Barmpoutis, Angelos",
+          "Jian, Bing",
+          "Vemuri, Baba C",
+          "Shepherd, Timothy M"
+     ],
+     "AU": [
+          "Barmpoutis A",
+          "Jian B",
+          "Vemuri BC",
+          "Shepherd TM"
+     ],
+     "AD": "Computer and Information Science and Engineering, University of Florida, Gainesville, FL 32611, USA. abarmpou@cise.ufl.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 EB007082-03/EB/NIBIB NIH HHS/United States",
+          "R01 EB007082/EB/NIBIB NIH HHS/United States",
+          "R01 NS042075-03/NS/NINDS NIH HHS/United States",
+          "R01 NS042075/NS/NINDS NIH HHS/United States",
+          "NS42075/NS/NINDS NIH HHS/United States",
+          "EB007082/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "Germany",
+     "TA": "Inf Process Med Imaging",
+     "JT": "Information processing in medical imaging : proceedings of the ... conference",
+     "JID": "9216871",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Animals",
+          "Diffusion Magnetic Resonance Imaging/*methods",
+          "Hippocampus/*cytology",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Rats",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC2759272",
+     "MID": [
+          "NIHMS144137"
+     ],
+     "EDAT": "2007/07/19 09:00",
+     "MHDA": "2007/09/01 09:00",
+     "CRDT": [
+          "2007/07/19 09:00"
+     ],
+     "PHST": [
+          "2007/07/19 09:00 [pubmed]",
+          "2007/09/01 09:00 [medline]",
+          "2007/07/19 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Inf Process Med Imaging. 2007;20:308-19.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,65 @@
+{
+     "PMID": "29124777",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20171110",
+     "IS": "1551-6709 (Electronic) 0364-0213 (Linking)",
+     "DP": "2017 Nov 10",
+     "TI": "Coherence in the Visual Imagination.",
+     "LID": "10.1111/cogs.12569 [doi]",
+     "AB": "An incoherent visualization is when aspects of different senses of a word (e.g., the biological \"mouse\" vs. the computer \"mouse\") are present in the same visualization (e.g., a visualization of a biological mouse in the same image with a computer tower). We describe and implement a new model of creating contextual coherence in the visual imagination called Coherencer, based on the SOILIE model of imagination. We show that Coherencer is able to generate scene descriptions that are more coherent than SOILIE's original approach as well as a parallel connectionist algorithm that is considered competitive in the literature on general coherence. We also show that co-occurrence probabilities are a better association representation than holographic vectors and that better models of coherence improve the resulting output independent of the association type that is used. Theoretically, we show that Coherencer is consistent with other models of cognitive generation. In particular, Coherencer is a similar, but more cognitively plausible model than the C(3) model of concept combination created by Costello and Keane (2000). We show that Coherencer is also consistent with both the modal schematic indices of perceptual symbol systems theory (Barsalou, 1999) and the amodal contextual constraints of Thagard's (2002) theory of coherence. Finally, we describe how Coherencer is consistent with contemporary research on the hippocampus, and we show evidence that the process of making a visualization coherent is serial.",
+     "CI": [
+          "(c) 2017 Cognitive Science Society, Inc."
+     ],
+     "FAU": [
+          "Vertolli, Michael O",
+          "Kelly, Matthew A",
+          "Davies, Jim"
+     ],
+     "AU": [
+          "Vertolli MO",
+          "Kelly MA",
+          "Davies J"
+     ],
+     "AD": "Institute of Cognitive Science, Carleton University. Institute of Cognitive Science, Carleton University. Institute of Cognitive Science, Carleton University.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20171110",
+     "PL": "United States",
+     "TA": "Cogn Sci",
+     "JT": "Cognitive science",
+     "JID": "7708195",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Cognitive modeling",
+          "Coherence",
+          "Hippocampus",
+          "Imagination",
+          "Visualization"
+     ],
+     "EDAT": "2017/11/11 06:00",
+     "MHDA": "2017/11/11 06:00",
+     "CRDT": [
+          "2017/11/11 06:00"
+     ],
+     "PHST": [
+          "2015/02/09 00:00 [received]",
+          "2017/05/08 00:00 [revised]",
+          "2017/10/02 00:00 [accepted]",
+          "2017/11/11 06:00 [entrez]",
+          "2017/11/11 06:00 [pubmed]",
+          "2017/11/11 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1111/cogs.12569 [doi]"
+     ],
+     "PST": "aheadofprint",
+     "SO": "Cogn Sci. 2017 Nov 10. doi: 10.1111/cogs.12569.",
+     "term": "hippocampus"
+}

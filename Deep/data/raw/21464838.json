@@ -1,0 +1,63 @@
+{
+     "PMID": "21464838",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20110714",
+     "LR": "20130529",
+     "IS": "0973-2063 (Electronic) 0973-2063 (Linking)",
+     "VI": "6",
+     "IP": "1",
+     "DP": "2011 Mar 2",
+     "TI": "Discovering amino acid patterns on binding sites in protein complexes.",
+     "PG": "10-4",
+     "AB": "Discovering amino acid (AA) patterns on protein binding sites has recently become popular. We propose a method to discover the association relationship among AAs on binding sites. Such knowledge of binding sites is very helpful in predicting protein-protein interactions. In this paper, we focus on protein complexes which have protein-protein recognition. The association rule mining technique is used to discover geographically adjacent amino acids on a binding site of a protein complex. When mining, instead of treating all AAs of binding sites as a transaction, we geographically partition AAs of binding sites in a protein complex. AAs in a partition are treated as a transaction. For the partition process, AAs on a binding site are projected from three-dimensional to two-dimensional. And then, assisted with a circular grid, AAs on the binding site are placed into grid cells. A circular grid has ten rings: a central ring, the second ring with 6 sectors, the third ring with 12 sectors, and later rings are added to four sectors in order. As for the radius of each ring, we examined the complexes and found that 10A is a suitable range, which can be set by the user. After placing these recognition complexes on the circular grid, we obtain mining records (i.e. transactions) from each sector. A sector is regarded as a record. Finally, we use the association rule to mine these records for frequent AA patterns. If the support of an AA pattern is larger than the predetermined minimum support (i.e. threshold), it is called a frequent pattern. With these discovered patterns, we offer the biologists a novel point of view, which will improve the prediction accuracy of protein-protein recognition. In our experiments, we produced the AA patterns by data mining. As a result, we found that arginine (arg) most frequently appears on the binding sites of two proteins in the recognition protein complexes, while cysteine (cys) appears the fewest. In addition, if we discriminate the shape of binding sites between concave and convex further, we discover that patterns {arg, glu, asp} and {arg, ser, asp} on the concave shape of binding sites in a protein more frequently (i.e. higher probability) make contact with {lys} or {arg} on the convex shape of binding sites in another protein. Thus, we can confidently achieve a rate of at least 78%. On the other hand {val, gly, lys} on the convex surface of binding sites in proteins is more frequently in contact with {asp} on the concave site of another protein, and the confidence achieved is over 81%. Applying data mining in biology can reveal more facts that may otherwise be ignored or not easily discovered by the naked eye. Furthermore, we can discover more relationships among AAs on binding sites by appropriately rotating these residues on binding sites from a three-dimension to two-dimension perspective. We designed a circular grid to deposit the data, which total to 463 records consisting of AAs. Then we used the association rules to mine these records for discovering relationships. The proposed method in this paper provides an insight into the characteristics of binding sites for recognition complexes.",
+     "FAU": [
+          "Kuo, Huang-Cheng",
+          "Ong, Ping-Lin",
+          "Lin, Jung-Chang",
+          "Huang, Jen-Peng"
+     ],
+     "AU": [
+          "Kuo HC",
+          "Ong PL",
+          "Lin JC",
+          "Huang JP"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20110302",
+     "PL": "Singapore",
+     "TA": "Bioinformation",
+     "JT": "Bioinformation",
+     "JID": "101258255",
+     "PMC": "PMC3064845",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Association rules",
+          "Binding sites",
+          "Data mining",
+          "Protein complexes",
+          "Protein-protein recognition"
+     ],
+     "EDAT": "2011/04/06 06:00",
+     "MHDA": "2011/04/06 06:01",
+     "CRDT": [
+          "2011/04/06 06:00"
+     ],
+     "PHST": [
+          "2011/02/09 00:00 [received]",
+          "2011/02/10 00:00 [accepted]",
+          "2011/04/06 06:00 [entrez]",
+          "2011/04/06 06:00 [pubmed]",
+          "2011/04/06 06:01 [medline]"
+     ],
+     "PST": "epublish",
+     "SO": "Bioinformation. 2011 Mar 2;6(1):10-4.",
+     "term": "grid cells"
+}

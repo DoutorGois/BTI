@@ -1,0 +1,96 @@
+{
+     "PMID": "25411462",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20151023",
+     "LR": "20161019",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "113",
+     "IP": "4",
+     "DP": "2015 Feb 15",
+     "TI": "Single-trial imaging of spikes and synaptic potentials in single neurons in brain slices with genetically encoded hybrid voltage sensor.",
+     "PG": "1249-59",
+     "LID": "10.1152/jn.00691.2014 [doi]",
+     "AB": "Genetically encoded voltage sensors expand the optogenetics toolkit into the important realm of electrical recording, enabling researchers to study the dynamic activity of complex neural circuits in real time. However, these probes have thus far performed poorly when tested in intact neural circuits. Hybrid voltage sensors (hVOS) enable the imaging of voltage by harnessing the resonant energy transfer that occurs between a genetically encoded component, a membrane-tethered fluorescent protein that serves as a donor, and a small charged molecule, dipicrylamine, which serves as an acceptor. hVOS generates optical signals as a result of voltage-induced changes in donor-acceptor distance. We expressed the hVOS probe in mouse brain by in utero electroporation and in transgenic mice with a neuronal promoter. Under conditions favoring sparse labeling we could visualize single-labeled neurons. hVOS imaging reported electrically evoked fluorescence changes from individual neurons in slices from entorhinal cortex, somatosensory cortex, and hippocampus. These fluorescence signals tracked action potentials in individual neurons in a single trial with excellent temporal fidelity, producing changes that exceeded background noise by as much as 16-fold. Subthreshold synaptic potentials were detected in single trials in multiple distinct cells simultaneously. We followed signal propagation between different cells within one field of view and between dendrites and somata of the same cell. hVOS imaging thus provides a tool for high-resolution recording of electrical activity from genetically targeted cells in intact neuronal circuits.",
+     "CI": [
+          "Copyright (c) 2015 the American Physiological Society."
+     ],
+     "FAU": [
+          "Ghitani, Nima",
+          "Bayguinov, Peter O",
+          "Ma, Yihe",
+          "Jackson, Meyer B"
+     ],
+     "AU": [
+          "Ghitani N",
+          "Bayguinov PO",
+          "Ma Y",
+          "Jackson MB"
+     ],
+     "AD": "Neuroscience Training Program, University of Wisconsin, Madison, Wisconsin; Department of Neuroscience, University of Wisconsin, Madison, Wisconsin. Physiology Graduate Training Program, University of Wisconsin, Madison, Wisconsin; and. Neuroscience Training Program, University of Wisconsin, Madison, Wisconsin; Physiology Graduate Training Program, University of Wisconsin, Madison, Wisconsin; and Department of Neuroscience, University of Wisconsin, Madison, Wisconsin mbjackso@wisc.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "T32 GM007507/GM/NIGMS NIH HHS/United States",
+          "NS-078301/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20141119",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "RN": [
+          "0 (Picrates)",
+          "147336-22-9 (Green Fluorescent Proteins)",
+          "14STR4KG8T (dipicrylamine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials",
+          "Amino Acid Sequence",
+          "Animals",
+          "Biosensing Techniques/*methods",
+          "Brain/cytology/physiology",
+          "Fluorescence Resonance Energy Transfer/*methods",
+          "Green Fluorescent Proteins/chemistry/genetics/metabolism",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Molecular Sequence Data",
+          "Neurons/metabolism/*physiology",
+          "Optogenetics/*methods",
+          "Picrates/chemistry",
+          "*Synaptic Potentials"
+     ],
+     "PMC": "PMC4329433",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "neural circuitry",
+          "optogenetics",
+          "synaptic integration",
+          "voltage imaging"
+     ],
+     "EDAT": "2014/11/21 06:00",
+     "MHDA": "2015/10/24 06:00",
+     "CRDT": [
+          "2014/11/21 06:00"
+     ],
+     "PHST": [
+          "2014/11/21 06:00 [entrez]",
+          "2014/11/21 06:00 [pubmed]",
+          "2015/10/24 06:00 [medline]"
+     ],
+     "AID": [
+          "jn.00691.2014 [pii]",
+          "10.1152/jn.00691.2014 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2015 Feb 15;113(4):1249-59. doi: 10.1152/jn.00691.2014. Epub 2014 Nov 19.",
+     "term": "hippocampus"
+}

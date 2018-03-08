@@ -1,0 +1,85 @@
+{
+     "PMID": "22094645",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120703",
+     "LR": "20120220",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "59",
+     "IP": "4",
+     "DP": "2012 Feb 15",
+     "TI": "Simultaneous segmentation and grading of anatomical structures for patient's classification: application to Alzheimer's disease.",
+     "PG": "3736-47",
+     "LID": "10.1016/j.neuroimage.2011.10.080 [doi]",
+     "AB": "In this paper, we propose an innovative approach to robustly and accurately detect Alzheimer's disease (AD) based on the distinction of specific atrophic patterns of anatomical structures such as hippocampus (HC) and entorhinal cortex (EC). The proposed method simultaneously performs segmentation and grading of structures to efficiently capture the anatomical alterations caused by AD. Known as SNIPE (Scoring by Non-local Image Patch Estimator), the novel proposed grading measure is based on a nonlocal patch-based frame-work and estimates the similarity of the patch surrounding the voxel under study with all the patches present in different training populations. In this study, the training library was composed of two populations: 50 cognitively normal subjects (CN) and 50 patients with AD, randomly selected from the ADNI database. During our experiments, the classification accuracy of patients (CN vs. AD) using several biomarkers was compared: HC and EC volumes, the grade of these structures and finally the combination of their volume and their grade. Tests were completed in a leave-one-out framework using discriminant analysis. First, we showed that biomarkers based on HC provide better classification accuracy than biomarkers based on EC. Second, we demonstrated that structure grading is a more powerful measure than structure volume to distinguish both populations with a classification accuracy of 90%. Finally, by adding the ages of subjects in order to better separate age-related structural changes from disease-related anatomical alterations, SNIPE obtained a classification accuracy of 93%.",
+     "CI": [
+          "Crown Copyright (c) 2011. Published by Elsevier Inc. All rights reserved."
+     ],
+     "FAU": [
+          "Coupe, Pierrick",
+          "Eskildsen, Simon F",
+          "Manjon, Jose V",
+          "Fonov, Vladimir S",
+          "Collins, D Louis"
+     ],
+     "AU": [
+          "Coupe P",
+          "Eskildsen SF",
+          "Manjon JV",
+          "Fonov VS",
+          "Collins DL"
+     ],
+     "AD": "McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Canada. pierrick.coupe@gmail.com",
+     "CN": [
+          "Alzheimer's disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01AG030514/AG/NIA NIH HHS/United States",
+          "MOP-111169/Canadian Institutes of Health Research/Canada",
+          "MOP-84360/Canadian Institutes of Health Research/Canada",
+          "P30AG010129/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20111109",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/*classification/*pathology",
+          "Entorhinal Cortex/*pathology",
+          "Hippocampus/*pathology",
+          "Humans",
+          "*Magnetic Resonance Imaging/methods",
+          "Time Factors"
+     ],
+     "EDAT": "2011/11/19 06:00",
+     "MHDA": "2012/07/04 06:00",
+     "CRDT": [
+          "2011/11/19 06:00"
+     ],
+     "PHST": [
+          "2011/06/10 00:00 [received]",
+          "2011/09/27 00:00 [revised]",
+          "2011/10/25 00:00 [accepted]",
+          "2011/11/19 06:00 [entrez]",
+          "2011/11/19 06:00 [pubmed]",
+          "2012/07/04 06:00 [medline]"
+     ],
+     "AID": [
+          "S1053-8119(11)01244-4 [pii]",
+          "10.1016/j.neuroimage.2011.10.080 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2012 Feb 15;59(4):3736-47. doi: 10.1016/j.neuroimage.2011.10.080. Epub 2011 Nov 9.",
+     "term": "hippocampus"
+}

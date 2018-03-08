@@ -1,0 +1,75 @@
+{
+     "PMID": "12034787",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20020617",
+     "LR": "20061115",
+     "IS": "0028-3878 (Print) 0028-3878 (Linking)",
+     "VI": "58",
+     "IP": "10",
+     "DP": "2002 May 28",
+     "TI": "Predicting surgical outcome in temporal lobe epilepsy patients using MRI and MRSI.",
+     "PG": "1505-12",
+     "AB": "OBJECTIVE: To develop a classifier that uses MR data to predict surgical outcome in patients with temporal lobe epilepsy (TLE). METHODS: Eighty-one patients with medically refractory TLE who underwent surgical treatment were studied. Patients underwent comprehensive presurgical investigation, including ictal video-EEG recording, 1H MRS imaging, and volumetric MRI. Outcome was measured using Engel's classification system, condensed into two outcome groups. Two approaches were taken. First, outcome was defined as experiencing worthwhile improvement with >90% reduction of seizure frequency (Classes I, II, and III) or not (Class IV). A second approach was to define outcome as experiencing freedom from seizures following surgery (Class I) or not (Classes II, III, and IV). For each approach, a Bayesian classifier was constructed to predict outcome by calculating the probability of a patient's pattern of results from spectroscopic analysis of the temporal lobes and volumetric analysis of the amygdala and hippocampus being associated with the various outcome groups. RESULTS: The worthwhile improvement classifier correctly predicted the surgical outcomes of 60 of 65 (92%) of patients who experienced worthwhile improvement and 10 of 16 (63%) of patients who did not. The seizure-free classifier correctly predicted the surgical outcomes of 39 of 52 (75%) of patients who became seizure free and 21 of 29 (72%) of patients who did not. CONCLUSION: MR features are important markers of surgical outcome in patients with TLE and can provide assistance in identifying surgical candidates.",
+     "FAU": [
+          "Antel, S B",
+          "Li, L M",
+          "Cendes, F",
+          "Collins, D L",
+          "Kearney, R E",
+          "Shinghal, R",
+          "Arnold, D L"
+     ],
+     "AU": [
+          "Antel SB",
+          "Li LM",
+          "Cendes F",
+          "Collins DL",
+          "Kearney RE",
+          "Shinghal R",
+          "Arnold DL"
+     ],
+     "AD": "Department of Biomedical Engineering, McGill University, Montreal, Quebec, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Neurology",
+     "JT": "Neurology",
+     "JID": "0401060",
+     "SB": "AIM IM",
+     "MH": [
+          "Adult",
+          "Bayes Theorem",
+          "Confidence Intervals",
+          "Epilepsy, Temporal Lobe/pathology/*surgery",
+          "Female",
+          "Forecasting",
+          "Humans",
+          "Magnetic Resonance Imaging/methods/*statistics & numerical data",
+          "Magnetic Resonance Spectroscopy/methods/*statistics & numerical data",
+          "Male",
+          "Middle Aged",
+          "Predictive Value of Tests",
+          "Seizures/surgery",
+          "Treatment Outcome"
+     ],
+     "EDAT": "2002/05/30 10:00",
+     "MHDA": "2002/06/18 10:01",
+     "CRDT": [
+          "2002/05/30 10:00"
+     ],
+     "PHST": [
+          "2002/05/30 10:00 [pubmed]",
+          "2002/06/18 10:01 [medline]",
+          "2002/05/30 10:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neurology. 2002 May 28;58(10):1505-12.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,103 @@
+{
+     "PMID": "25101236",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150331",
+     "LR": "20170220",
+     "IS": "2213-1582 (Print) 2213-1582 (Linking)",
+     "VI": "5",
+     "DP": "2014",
+     "TI": "Inferring changepoint times of medial temporal lobe morphometric change in preclinical Alzheimer's disease.",
+     "PG": "178-87",
+     "LID": "10.1016/j.nicl.2014.04.009 [doi]",
+     "AB": "This paper uses diffeomorphometry methods to quantify the order in which statistically significant morphometric change occurs in three medial temporal lobe regions, the amygdala, entorhinal cortex (ERC), and hippocampus among subjects with symptomatic and preclinical Alzheimer's disease (AD). Magnetic resonance imaging scans were examined in subjects who were cognitively normal at baseline, some of whom subsequently developed clinical symptoms of AD. The images were mapped to a common template, using shape-based diffeomorphometry. The multidimensional shape markers indexed through the temporal lobe structures were modeled using a changepoint model with explicit parameters, specifying the number of years preceding clinical symptom onset. Our model assumes that the atrophy rate of a considered brain structure increases years before detectable symptoms. The results demonstrate that the atrophy changepoint in the ERC occurs first, indicating significant change 8-10 years prior to onset, followed by the hippocampus, 2-4 years prior to onset, followed by the amygdala, 3 years prior to onset. The ERC is significant bilaterally, in both our local and global measures, with estimates of ERC surface area loss of 2.4% (left side) and 1.6% (right side) annually. The same changepoint model for ERC volume gives 3.0% and 2.7% on the left and right sides, respectively. Understanding the order in which changes in the brain occur during preclinical AD may assist in the design of intervention trials aimed at slowing the evolution of the disease.",
+     "FAU": [
+          "Younes, Laurent",
+          "Albert, Marilyn",
+          "Miller, Michael I"
+     ],
+     "AU": [
+          "Younes L",
+          "Albert M",
+          "Miller MI"
+     ],
+     "AD": "Center for Imaging Science, Johns Hopkins University, Baltimore, MD 21218, USA ; Institute for Computational Medicine, Johns Hopkins University, Baltimore, MD 21218, USA ; Department of Applied Mathematics and Statistics, Johns Hopkins University, Baltimore, MD 21218, USA. Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA. Center for Imaging Science, Johns Hopkins University, Baltimore, MD 21218, USA ; Institute for Computational Medicine, Johns Hopkins University, Baltimore, MD 21218, USA ; Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD 21218, USA.",
+     "CN": [
+          "BIOCARD Research Team"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50 AG005146/AG/NIA NIH HHS/United States",
+          "U19 AG033655/AG/NIA NIH HHS/United States",
+          "R01 EB000975/EB/NIBIB NIH HHS/United States",
+          "U01 AG033655/AG/NIA NIH HHS/United States",
+          "P41 EB015909/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140421",
+     "PL": "Netherlands",
+     "TA": "Neuroimage Clin",
+     "JT": "NeuroImage. Clinical",
+     "JID": "101597070",
+     "SB": "IM",
+     "MH": [
+          "Aged",
+          "Alzheimer Disease/*pathology",
+          "Atrophy/pathology",
+          "Disease Progression",
+          "Early Diagnosis",
+          "Female",
+          "Humans",
+          "Image Interpretation, Computer-Assisted",
+          "Longitudinal Studies",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Temporal Lobe/*pathology"
+     ],
+     "PMC": "PMC4110355",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "AD, Alzheimer's disease",
+          "CDR, clinical dementia rating",
+          "ERC, entorhinal cortex",
+          "FWER, family-wise error rate",
+          "GPB, Geriatric Psychiatry Branch",
+          "MCI, mild cognitive impairment",
+          "MMSE, mini-mental state exam",
+          "NIA, National Institute on Aging",
+          "NIH, Clinical Center of the National Institutes of Health",
+          "NIMH, National Institute for Mental Health",
+          "ROI-LDDMM, region-of-interest large deformation diffeomorphic metric mapping",
+          "RSS, residual sum of squares",
+          "SPGR, spoiled gradient echo",
+          "diffeomorphometry, study of shape using a metric on the diffeomorphic connections",
+          "between structures"
+     ],
+     "EDAT": "2014/08/08 06:00",
+     "MHDA": "2015/04/01 06:00",
+     "CRDT": [
+          "2014/08/08 06:00"
+     ],
+     "PHST": [
+          "2014/01/07 00:00 [received]",
+          "2014/04/17 00:00 [revised]",
+          "2014/04/17 00:00 [accepted]",
+          "2014/08/08 06:00 [entrez]",
+          "2014/08/08 06:00 [pubmed]",
+          "2015/04/01 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1016/j.nicl.2014.04.009 [doi]",
+          "S2213-1582(14)00053-9 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Neuroimage Clin. 2014 Apr 21;5:178-87. doi: 10.1016/j.nicl.2014.04.009. eCollection 2014.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,81 @@
+{
+     "PMID": "27406442",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170918",
+     "LR": "20180119",
+     "IS": "1879-0887 (Electronic) 0167-8140 (Linking)",
+     "VI": "120",
+     "IP": "2",
+     "DP": "2016 Aug",
+     "TI": "Estimating the probability of underdosing microscopic brain metastases with hippocampal-sparing whole-brain radiation.",
+     "PG": "248-52",
+     "LID": "10.1016/j.radonc.2016.05.030 [doi] S0167-8140(16)31172-0 [pii]",
+     "AB": "PURPOSE/OBJECTIVES: Whole-brain radiation for brain metastases can result in cognitive side effects. Hippocampal-sparing techniques have been developed to decrease morbidity, but they carry the risk of underdosing lesions near the hippocampus due to the unavoidable dose gradient from the hippocampal surface to the prescription isodose surface. This study examines the impact of variable levels of hippocampal sparing on the underdosing of potential brain metastases. MATERIALS/METHODS: Helical intensity modulated radiation therapy (IMRT) and volumetric modulated arc therapy (VMAT) plans were developed for hippocampal-sparing whole-brain treatment. For all plans, 30Gy was prescribed in 10 fractions to result in mean hippocampal doses of 6-12Gy. From a series of expanded shells, we determined the distance from the hippocampus at which the parenchyma would receive less than specified doses. Then, using published data, a mathematical model was constructed to predict the incident probability of potential brain metastases receiving different doses for different levels of hippocampal sparing. RESULTS: Whole-brain radiation plans were able to spare the hippocampi to mean doses of 7-12Gy under our planning constraints; more stringent constraints compromised brain coverage. The dose gradients were approximately 4% per mm, regardless of the hippocampal constraint, and they decreased sharply by a factor of almost 4 at approximately 15mm from the hippocampi. A mathematical model was constructed and combined the plan information with published data on the distribution of brain metastases, to determine the percentage of potential brain metastases receiving specified doses, as a function of technique and level of hippocampal sparing. CONCLUSIONS: Our results describe the characteristics of an array of hippocampal-sparing whole-brain radiation dose distributions. These can be used as a decision-making guideline for weighing the benefit of decreased dose to the hippocampi against the cost of decreased dose to potential brain metastases when deciding on a hippocampal-sparing whole-brain irradiation treatment approach.",
+     "CI": [
+          "Copyright (c) 2016 Elsevier Ireland Ltd. All rights reserved."
+     ],
+     "FAU": [
+          "Chang, Jennifer S",
+          "Perez-Andujar, Angelica",
+          "Barani, Igor J",
+          "Ma, Lijun",
+          "Larson, David A"
+     ],
+     "AU": [
+          "Chang JS",
+          "Perez-Andujar A",
+          "Barani IJ",
+          "Ma L",
+          "Larson DA"
+     ],
+     "AD": "Department of Radiation Oncology, University of California, San Francisco, United States. Electronic address: Jennifer.S.Chang@ucsf.edu. Department of Radiation Oncology, University of California, San Francisco, United States. Department of Radiation Oncology, University of California, San Francisco, United States. Department of Radiation Oncology, University of California, San Francisco, United States. Department of Radiation Oncology, University of California, San Francisco, United States.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160709",
+     "PL": "Ireland",
+     "TA": "Radiother Oncol",
+     "JT": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
+     "JID": "8407192",
+     "SB": "IM",
+     "MH": [
+          "Brain Neoplasms/diagnostic imaging/*radiotherapy/*secondary",
+          "Cranial Irradiation/methods",
+          "Hippocampus/diagnostic imaging/pathology/*radiation effects",
+          "Humans",
+          "Radiotherapy Dosage",
+          "Radiotherapy Planning, Computer-Assisted/*methods",
+          "Radiotherapy, Intensity-Modulated/methods"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*Brain metastases",
+          "*Hippocampal-sparing whole-brain radiation"
+     ],
+     "EDAT": "2016/07/14 06:00",
+     "MHDA": "2017/09/19 06:00",
+     "CRDT": [
+          "2016/07/14 06:00"
+     ],
+     "PHST": [
+          "2015/11/10 00:00 [received]",
+          "2016/05/20 00:00 [revised]",
+          "2016/05/22 00:00 [accepted]",
+          "2016/07/14 06:00 [entrez]",
+          "2016/07/14 06:00 [pubmed]",
+          "2017/09/19 06:00 [medline]"
+     ],
+     "AID": [
+          "S0167-8140(16)31172-0 [pii]",
+          "10.1016/j.radonc.2016.05.030 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Radiother Oncol. 2016 Aug;120(2):248-52. doi: 10.1016/j.radonc.2016.05.030. Epub 2016 Jul 9.",
+     "term": "hippocampus"
+}

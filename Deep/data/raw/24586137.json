@@ -1,0 +1,76 @@
+{
+     "PMID": "24586137",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150511",
+     "LR": "20170922",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "10",
+     "IP": "2",
+     "DP": "2014 Feb",
+     "TI": "Optimal recall from bounded metaplastic synapses: predicting functional adaptations in hippocampal area CA3.",
+     "PG": "e1003489",
+     "LID": "10.1371/journal.pcbi.1003489 [doi]",
+     "AB": "A venerable history of classical work on autoassociative memory has significantly shaped our understanding of several features of the hippocampus, and most prominently of its CA3 area, in relation to memory storage and retrieval. However, existing theories of hippocampal memory processing ignore a key biological constraint affecting memory storage in neural circuits: the bounded dynamical range of synapses. Recent treatments based on the notion of metaplasticity provide a powerful model for individual bounded synapses; however, their implications for the ability of the hippocampus to retrieve memories well and the dynamics of neurons associated with that retrieval are both unknown. Here, we develop a theoretical framework for memory storage and recall with bounded synapses. We formulate the recall of a previously stored pattern from a noisy recall cue and limited-capacity (and therefore lossy) synapses as a probabilistic inference problem, and derive neural dynamics that implement approximate inference algorithms to solve this problem efficiently. In particular, for binary synapses with metaplastic states, we demonstrate for the first time that memories can be efficiently read out with biologically plausible network dynamics that are completely constrained by the synaptic plasticity rule, and the statistics of the stored patterns and of the recall cue. Our theory organises into a coherent framework a wide range of existing data about the regulation of excitability, feedback inhibition, and network oscillations in area CA3, and makes novel and directly testable predictions that can guide future experiments.",
+     "FAU": [
+          "Savin, Cristina",
+          "Dayan, Peter",
+          "Lengyel, Mate"
+     ],
+     "AU": [
+          "Savin C",
+          "Dayan P",
+          "Lengyel M"
+     ],
+     "AD": "Computational & Biological Learning Lab, Department of Engineering, University of Cambridge, Cambridge, United Kingdom. Gatsby Computational Neuroscience Unit, University College London, London, United Kingdom. Computational & Biological Learning Lab, Department of Engineering, University of Cambridge, Cambridge, United Kingdom.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "095621/Wellcome Trust/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140227",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Adaptation, Physiological",
+          "Algorithms",
+          "Animals",
+          "CA3 Region, Hippocampal/*physiology",
+          "Computational Biology",
+          "Feedback, Physiological",
+          "Humans",
+          "Mental Recall/*physiology",
+          "*Models, Neurological",
+          "Models, Psychological",
+          "Models, Statistical",
+          "Neuronal Plasticity",
+          "Synapses/physiology"
+     ],
+     "PMC": "PMC3937414",
+     "EDAT": "2014/03/04 06:00",
+     "MHDA": "2015/05/12 06:00",
+     "CRDT": [
+          "2014/03/04 06:00"
+     ],
+     "PHST": [
+          "2013/07/08 00:00 [received]",
+          "2013/12/23 00:00 [accepted]",
+          "2014/03/04 06:00 [entrez]",
+          "2014/03/04 06:00 [pubmed]",
+          "2015/05/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1003489 [doi]",
+          "PCOMPBIOL-D-13-01206 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2014 Feb 27;10(2):e1003489. doi: 10.1371/journal.pcbi.1003489. eCollection 2014 Feb.",
+     "term": "hippocampus"
+}

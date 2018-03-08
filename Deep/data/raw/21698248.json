@@ -1,0 +1,68 @@
+{
+     "PMID": "21698248",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111107",
+     "LR": "20170220",
+     "IS": "1932-6203 (Electronic) 1932-6203 (Linking)",
+     "VI": "6",
+     "IP": "6",
+     "DP": "2011",
+     "TI": "Neuronal assembly detection and cell membership specification by principal component analysis.",
+     "PG": "e20996",
+     "LID": "10.1371/journal.pone.0020996 [doi]",
+     "AB": "In 1949, Donald Hebb postulated that assemblies of synchronously activated neurons are the elementary units of information processing in the brain. Despite being one of the most influential theories in neuroscience, Hebb's cell assembly hypothesis only started to become testable in the past two decades due to technological advances. However, while the technology for the simultaneous recording of large neuronal populations undergoes fast development, there is still a paucity of analytical methods that can properly detect and track the activity of cell assemblies. Here we describe a principal component-based method that is able to (1) identify all cell assemblies present in the neuronal population investigated, (2) determine the number of neurons involved in ensemble activity, (3) specify the precise identity of the neurons pertaining to each cell assembly, and (4) unravel the time course of the individual activity of multiple assemblies. Application of the method to multielectrode recordings of awake and behaving rats revealed that assemblies detected in the cerebral cortex and hippocampus typically contain overlapping neurons. The results indicate that the PCA method presented here is able to properly detect, track and specify neuronal assemblies, irrespective of overlapping membership.",
+     "FAU": [
+          "Lopes-dos-Santos, Vitor",
+          "Conde-Ocazionez, Sergio",
+          "Nicolelis, Miguel A L",
+          "Ribeiro, Sidarta T",
+          "Tort, Adriano B L"
+     ],
+     "AU": [
+          "Lopes-dos-Santos V",
+          "Conde-Ocazionez S",
+          "Nicolelis MA",
+          "Ribeiro ST",
+          "Tort AB"
+     ],
+     "AD": "Brain Institute, Federal University of Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil. vtlsantos@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20110615",
+     "PL": "United States",
+     "TA": "PLoS One",
+     "JT": "PloS one",
+     "JID": "101285081",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Neurons/*cytology",
+          "*Principal Component Analysis"
+     ],
+     "PMC": "PMC3115970",
+     "EDAT": "2011/06/24 06:00",
+     "MHDA": "2011/11/08 06:00",
+     "CRDT": [
+          "2011/06/24 06:00"
+     ],
+     "PHST": [
+          "2011/04/11 00:00 [received]",
+          "2011/05/17 00:00 [accepted]",
+          "2011/06/24 06:00 [entrez]",
+          "2011/06/24 06:00 [pubmed]",
+          "2011/11/08 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pone.0020996 [doi]",
+          "PONE-D-11-06537 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS One. 2011;6(6):e20996. doi: 10.1371/journal.pone.0020996. Epub 2011 Jun 15.",
+     "term": "hippocampus"
+}

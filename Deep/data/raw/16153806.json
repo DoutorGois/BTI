@@ -1,0 +1,69 @@
+{
+     "PMID": "16153806",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060908",
+     "LR": "20061115",
+     "IS": "0893-6080 (Print) 0893-6080 (Linking)",
+     "VI": "19",
+     "IP": "5",
+     "DP": "2006 Jun",
+     "TI": "Conserving total synaptic weight ensures one-trial sequence learning of place fields in the hippocampus.",
+     "PG": "547-63",
+     "AB": "The hippocampus plays a critical role in the rapid acquisition of information from a novel experience. Recent theoretical studies on the rat hippocampus have shown the possibility of behavioral sequence learning in a single traversal experience by theta phase coding. Specifically, previous work using computer simulations demonstrated that the extent of overlap among individual events of sequence and rat running velocity should be quantitatively incorporated into the learning rule to ensure one-trial sequence learning. These extents of overlap- and running velocity-dependent properties in the learning rule are called the input-dependent regulation of the learning rule. However, the biological meaning of such learning properties remains poorly understood. In this study, we quantitatively derive these learning properties with mathematical analyses. We further find that the input-dependent regulation of the learning rule allows maintenance of total synaptic weight over a given neuron during one-trial learning. Our results predict that a homeostatic plasticity mechanism should exist for conserving total synaptic weight on a rapid timescale.",
+     "FAU": [
+          "Wu, Zhihua",
+          "Yamaguchi, Yoko"
+     ],
+     "AU": [
+          "Wu Z",
+          "Yamaguchi Y"
+     ],
+     "AD": "Laboratory for Dynamics of Emergent Intelligence, RIKEN Brain Science Institute, 2-1, Hirosawa, Wako-shi, Saitama 351-0198, Japan. wuzh@brain.riken.jp",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article"
+     ],
+     "DEP": "20050908",
+     "PL": "United States",
+     "TA": "Neural Netw",
+     "JT": "Neural networks : the official journal of the International Neural Network Society",
+     "JID": "8805018",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology",
+          "Animals",
+          "Hippocampus/*cytology/*physiology",
+          "Mathematics",
+          "Mental Recall/physiology",
+          "Nerve Net/physiology",
+          "Neural Networks (Computer)",
+          "Rats",
+          "Serial Learning/*physiology",
+          "Synapses/*physiology",
+          "Time Factors"
+     ],
+     "EDAT": "2005/09/13 09:00",
+     "MHDA": "2006/09/09 09:00",
+     "CRDT": [
+          "2005/09/13 09:00"
+     ],
+     "PHST": [
+          "2004/09/27 00:00 [received]",
+          "2005/06/07 00:00 [revised]",
+          "2005/06/07 00:00 [accepted]",
+          "2005/09/13 09:00 [pubmed]",
+          "2006/09/09 09:00 [medline]",
+          "2005/09/13 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0893-6080(05)00156-5 [pii]",
+          "10.1016/j.neunet.2005.06.048 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neural Netw. 2006 Jun;19(5):547-63. doi: 10.1016/j.neunet.2005.06.048. Epub 2005 Sep 8.",
+     "term": "hippocampus"
+}

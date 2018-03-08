@@ -1,0 +1,85 @@
+{
+     "PMID": "25402854",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150206",
+     "LR": "20170604",
+     "IS": "1546-1726 (Electronic) 1097-6256 (Linking)",
+     "VI": "17",
+     "IP": "12",
+     "DP": "2014 Dec",
+     "TI": "Simultaneous cellular-resolution optical perturbation and imaging of place cell firing fields.",
+     "PG": "1816-24",
+     "LID": "10.1038/nn.3866 [doi]",
+     "AB": "Linking neural microcircuit function to emergent properties of the mammalian brain requires fine-scale manipulation and measurement of neural activity during behavior, where each neuron's coding and dynamics can be characterized. We developed an optical method for simultaneous cellular-resolution stimulation and large-scale recording of neuronal activity in behaving mice. Dual-wavelength two-photon excitation allowed largely independent functional imaging with a green fluorescent calcium sensor (GCaMP3, lambda = 920 +/- 6 nm) and single-neuron photostimulation with a red-shifted optogenetic probe (C1V1, lambda = 1,064 +/- 6 nm) in neurons coexpressing the two proteins. We manipulated task-modulated activity in individual hippocampal CA1 place cells during spatial navigation in a virtual reality environment, mimicking natural place-field activity, or 'biasing', to reveal subthreshold dynamics. Notably, manipulating single place-cell activity also affected activity in small groups of other place cells that were active around the same time in the task, suggesting a functional role for local place cell interactions in shaping firing fields.",
+     "FAU": [
+          "Rickgauer, John Peter",
+          "Deisseroth, Karl",
+          "Tank, David W"
+     ],
+     "AU": [
+          "Rickgauer JP",
+          "Deisseroth K",
+          "Tank DW"
+     ],
+     "AD": "1] Princeton Neuroscience Institute, Princeton University, Princeton, New Jersey, USA. [2] Bezos Center for Neural Circuit Dynamics, Princeton University, Princeton, New Jersey, USA. [3] Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, New Jersey, USA. [4] Department of Molecular Biology, Princeton University, Princeton, New Jersey, USA. 1] Department of Bioengineering, Stanford University, Stanford, California, USA. [2] CNC Program, Stanford University, Stanford, California, USA. [3] Department of Psychiatry and Behavioral Sciences, Stanford University, Stanford, California, USA. [4] Howard Hughes Medical Institute, Stanford University, Stanford, California, USA. 1] Princeton Neuroscience Institute, Princeton University, Princeton, New Jersey, USA. [2] Bezos Center for Neural Circuit Dynamics, Princeton University, Princeton, New Jersey, USA. [3] Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, New Jersey, USA. [4] Department of Molecular Biology, Princeton University, Princeton, New Jersey, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P50-GM071508/GM/NIGMS NIH HHS/United States",
+          "R01 MH075957/MH/NIMH NIH HHS/United States",
+          "R01-MH083686/MH/NIMH NIH HHS/United States",
+          "R01 MH099647/MH/NIMH NIH HHS/United States",
+          "R01 MH083686/MH/NIMH NIH HHS/United States",
+          "U01 NS090541/NS/NINDS NIH HHS/United States",
+          "R37 DA035377/DA/NIDA NIH HHS/United States",
+          "R01 DA035377/DA/NIDA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20141117",
+     "PL": "United States",
+     "TA": "Nat Neurosci",
+     "JT": "Nature neuroscience",
+     "JID": "9809671",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Hippocampus/*cytology/*physiology",
+          "Male",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Mice, Transgenic",
+          "Neurons/*physiology",
+          "Optogenetics/*methods",
+          "Photic Stimulation/*methods",
+          "Space Perception/*physiology"
+     ],
+     "PMC": "PMC4459599",
+     "MID": [
+          "NIHMS695817"
+     ],
+     "EDAT": "2014/11/18 06:00",
+     "MHDA": "2015/02/07 06:00",
+     "CRDT": [
+          "2014/11/18 06:00"
+     ],
+     "PHST": [
+          "2014/07/16 00:00 [received]",
+          "2014/10/15 00:00 [accepted]",
+          "2014/11/18 06:00 [entrez]",
+          "2014/11/18 06:00 [pubmed]",
+          "2015/02/07 06:00 [medline]"
+     ],
+     "AID": [
+          "nn.3866 [pii]",
+          "10.1038/nn.3866 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Nat Neurosci. 2014 Dec;17(12):1816-24. doi: 10.1038/nn.3866. Epub 2014 Nov 17.",
+     "term": "place cells"
+}

@@ -1,0 +1,88 @@
+{
+     "PMID": "22634730",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20120904",
+     "LR": "20170220",
+     "IS": "1546-1726 (Electronic) 1097-6256 (Linking)",
+     "VI": "15",
+     "IP": "7",
+     "DP": "2012 May 27",
+     "TI": "pHTomato, a red, genetically encoded indicator that enables multiplex interrogation of synaptic activity.",
+     "PG": "1047-53",
+     "LID": "10.1038/nn.3126 [doi]",
+     "AB": "The usefulness of genetically encoded probes for optical monitoring of neuronal activity and brain circuits would be greatly advanced by the generation of multiple indicators with non-overlapping color spectra. Most existing indicators are derived from or spectrally convergent on GFP. We generated a bright, red, pH-sensitive fluorescent protein, pHTomato, that can be used in parallel with green probes to monitor neuronal activity. SypHTomato, made by fusing pHTomato to the vesicular membrane protein synaptophysin, reported activity-dependent exocytosis as efficiently as green reporters. When expressed with the GFP-based indicator GCaMP3 in the same neuron, sypHTomato enabled concomitant imaging of transmitter release and presynaptic Ca(2+) transients at single nerve terminals. Expressing sypHTomato and GCaMP3 in separate cells enabled the simultaneous determination of presynaptic vesicular turnover and postsynaptic sub- and supra-threshold responses from a connected pair of neurons. With these new tools, we observed a close size matching between pre- and postsynaptic compartments, as well as interesting target cell-dependent regulation of presynaptic vesicle pools. Lastly, by coupling expression of pHTomato- and GFP-based probes with distinct variants of channelrhodopsin, we provided proof-of-principle for an all-optical approach to multiplex control and tracking of distinct circuit pathways.",
+     "FAU": [
+          "Li, Yulong",
+          "Tsien, Richard W"
+     ],
+     "AU": [
+          "Li Y",
+          "Tsien RW"
+     ],
+     "AD": "Department of Molecular and Cellular Physiology, Stanford University School of Medicine, Stanford, California, USA. yulong@gmail.com",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS074785/NS/NINDS NIH HHS/United States",
+          "R01 MH064070/MH/NIMH NIH HHS/United States",
+          "NS24067/NS/NINDS NIH HHS/United States",
+          "MH064070/MH/NIMH NIH HHS/United States",
+          "R01 NS074785/NS/NINDS NIH HHS/United States",
+          "R01 NS024067/NS/NINDS NIH HHS/United States",
+          "R56 MH064070/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20120527",
+     "PL": "United States",
+     "TA": "Nat Neurosci",
+     "JT": "Nature neuroscience",
+     "JID": "9809671",
+     "RN": [
+          "0 (Fluorescent Dyes)",
+          "0 (Luminescent Proteins)",
+          "0 (red fluorescent protein)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Cells, Cultured",
+          "Exocytosis/genetics",
+          "*Fluorescent Dyes",
+          "HEK293 Cells",
+          "Hippocampus/chemistry/cytology/physiology",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Luminescent Proteins/genetics/*physiology",
+          "Nerve Net/chemistry/physiology",
+          "Synaptic Potentials/*physiology",
+          "Synaptic Transmission/*physiology"
+     ],
+     "PMC": "PMC3959862",
+     "MID": [
+          "NIHMS375042"
+     ],
+     "EDAT": "2012/05/29 06:00",
+     "MHDA": "2012/09/05 06:00",
+     "CRDT": [
+          "2012/05/29 06:00"
+     ],
+     "PHST": [
+          "2012/03/07 00:00 [received]",
+          "2012/04/30 00:00 [accepted]",
+          "2012/05/29 06:00 [entrez]",
+          "2012/05/29 06:00 [pubmed]",
+          "2012/09/05 06:00 [medline]"
+     ],
+     "AID": [
+          "nn.3126 [pii]",
+          "10.1038/nn.3126 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Nat Neurosci. 2012 May 27;15(7):1047-53. doi: 10.1038/nn.3126.",
+     "term": "hippocampus"
+}

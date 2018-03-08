@@ -1,0 +1,72 @@
+{
+     "PMID": "25642694",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150817",
+     "LR": "20150203",
+     "IS": "1748-3190 (Electronic) 1748-3182 (Linking)",
+     "VI": "10",
+     "IP": "1",
+     "DP": "2015 Feb 2",
+     "TI": "Tactile surface classification for limbed robots using a pressure sensitive robot skin.",
+     "PG": "016012",
+     "LID": "10.1088/1748-3190/10/1/016012 [doi]",
+     "AB": "This paper describes an approach to terrain identification based on pressure images generated through direct surface contact using a robot skin constructed around a high-resolution pressure sensing array. Terrain signatures for classification are formulated from the magnitude frequency responses of the pressure images. The initial experimental results for statically obtained images show that the approach yields classification accuracies [Formula: see text]. The methodology is extended to accommodate the dynamic pressure images anticipated when a robot is walking or running. Experiments with a one-legged hopping robot yield similar identification accuracies [Formula: see text]. In addition, the accuracies are independent with respect to changing robot dynamics (i.e., when using different leg gaits). The paper further shows that the high-resolution capabilities of the sensor enables similarly textured surfaces to be distinguished. A correcting filter is developed to accommodate for failures or faults that inevitably occur within the sensing array with continued use. Experimental results show using the correcting filter can extend the effective operational lifespan of a high-resolution sensing array over 6x in the presence of sensor damage. The results presented suggest this methodology can be extended to autonomous field robots, providing a robot with crucial information about the environment that can be used to aid stable and efficient mobility over rough and varying terrains.",
+     "FAU": [
+          "Shill, Jacob J",
+          "Collins, Emmanuel G Jr",
+          "Coyle, Eric",
+          "Clark, Jonathan"
+     ],
+     "AU": [
+          "Shill JJ",
+          "Collins EG Jr",
+          "Coyle E",
+          "Clark J"
+     ],
+     "AD": "Center for Intelligent Systems, Control, and Robotics (CISCOR), USA. Department of Mechanical Engineering, FAMU & FSU College of Engineering, Tallahassee, FL, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20150202",
+     "PL": "England",
+     "TA": "Bioinspir Biomim",
+     "JT": "Bioinspiration & biomimetics",
+     "JID": "101292902",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Biomimetics/*instrumentation",
+          "Equipment Design",
+          "Equipment Failure Analysis",
+          "Gait/*physiology",
+          "Humans",
+          "Pressure",
+          "Robotics/*instrumentation",
+          "*Skin Physiological Phenomena",
+          "Spatial Navigation/physiology",
+          "Surface Properties",
+          "Touch/*physiology",
+          "*Transducers, Pressure"
+     ],
+     "EDAT": "2015/02/03 06:00",
+     "MHDA": "2015/08/19 06:00",
+     "CRDT": [
+          "2015/02/03 06:00"
+     ],
+     "PHST": [
+          "2015/02/03 06:00 [entrez]",
+          "2015/02/03 06:00 [pubmed]",
+          "2015/08/19 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1088/1748-3190/10/1/016012 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Bioinspir Biomim. 2015 Feb 2;10(1):016012. doi: 10.1088/1748-3190/10/1/016012.",
+     "term": "spatial navigation"
+}

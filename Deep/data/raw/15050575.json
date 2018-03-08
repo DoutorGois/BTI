@@ -1,0 +1,69 @@
+{
+     "PMID": "15050575",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20040806",
+     "LR": "20041117",
+     "IS": "1053-8119 (Print) 1053-8119 (Linking)",
+     "VI": "21",
+     "IP": "4",
+     "DP": "2004 Apr",
+     "TI": "Measuring temporal morphological changes robustly in brain MR images via 4-dimensional template warping.",
+     "PG": "1508-17",
+     "AB": "Robustly measuring subtle longitudinal brain changes is a major challenge in computational neuroanatomy. This paper describes a method for measuring temporal morphological brain changes, by means of a 4-dimensional image warping mechanism. Longitudinal stability is achieved by considering all temporal MR images of an individual simultaneously, rather than by individually warping a template to an individual, or by warping the images of one time-point to those of another time-point. Following earlier work in 3D, a local morphological signature is attached to each voxel of a sequence of images, and it includes a set of image attributes reflecting morphological characteristics of the spatiotemporal structure around the respective voxel at different scales. This attribute vector forms the basis for searching in the 4-dimensional space for a counterpart that has similar morphological signature, thereby leading to automated detection of anatomical correspondence. Ambiguities in this process are reduced by constructing attribute vectors that are highly distinctive of respective voxels, and by using a hierarchical matching procedure in which reliable and easily distinguishable voxels are used to guide the 4D deformation process. The resultant deformations are smooth both in the spatial and temporal dimensions, and are shown to significantly improve warping accuracy over a series of independent 3D warpings, in longitudinal measurements.",
+     "FAU": [
+          "Shen, Dinggang",
+          "Davatzikos, Christos"
+     ],
+     "AU": [
+          "Shen D",
+          "Davatzikos C"
+     ],
+     "AD": "Section of Biomedical Image Analysis, Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104-2644, USA. dgshen@rad.upenn.edu",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Atrophy",
+          "Brain/*pathology",
+          "*Brain Mapping",
+          "Computer Simulation",
+          "Hippocampus/pathology",
+          "Humans",
+          "*Image Processing, Computer-Assisted",
+          "*Imaging, Three-Dimensional",
+          "Longitudinal Studies",
+          "*Magnetic Resonance Imaging",
+          "*Software",
+          "Time Factors"
+     ],
+     "EDAT": "2004/03/31 05:00",
+     "MHDA": "2004/08/07 05:00",
+     "CRDT": [
+          "2004/03/31 05:00"
+     ],
+     "PHST": [
+          "2003/08/05 00:00 [received]",
+          "2003/12/06 00:00 [revised]",
+          "2003/12/09 00:00 [accepted]",
+          "2004/03/31 05:00 [pubmed]",
+          "2004/08/07 05:00 [medline]",
+          "2004/03/31 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1016/j.neuroimage.2003.12.015 [doi]",
+          "S1053811903007808 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2004 Apr;21(4):1508-17. doi: 10.1016/j.neuroimage.2003.12.015.",
+     "term": "hippocampus"
+}

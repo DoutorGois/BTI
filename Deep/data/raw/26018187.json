@@ -1,0 +1,72 @@
+{
+     "PMID": "26018187",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160516",
+     "LR": "20170220",
+     "IS": "1469-7793 (Electronic) 0022-3751 (Linking)",
+     "VI": "593",
+     "IP": "16",
+     "DP": "2015 Aug 15",
+     "TI": "Active dendrites mediate stratified gamma-range coincidence detection in hippocampal model neurons.",
+     "PG": "3549-76",
+     "LID": "10.1113/JP270688 [doi]",
+     "AB": "KEY POINTS: Quantitative metrics for the temporal window of integration/coincidence detection, based on the spike-triggered average, were employed to assess the emergence and dependence of gamma-range coincidence detection in hippocampal pyramidal neurons on various ion channel combinations. The presence of hyperpolarization-activated cyclic nucleotide-gated (HCN) channels decreased the coincidence detection window (CDW) of the neuronal compartment to the gamma frequency range. Interaction of HCN channels with T-type calcium channels and persistent sodium channels further reduced the CDW, whereas interaction with A-type potassium channels broadened the CDW. When multiple channel gradients were co-expressed, the high density of resonating conductances in the distal dendrites led to a slow gamma CDW in the proximal dendrites and a fast-gamma CDW in the distal dendrites. The presence of resonating and spike-generating conductances serve as a mechanism underlying the emergence of stratified gamma-range coincidence detection in the dendrites of CA1 pyramidal neurons, enabling them to perform behaviour- and state-dependent gamma frequency multiplexing. ABSTRACT: Hippocampal pyramidal neurons exhibit gamma-phase preference in their spikes, selectively route inputs through gamma frequency multiplexing and are considered part of gamma-bound cell assemblies. How do these neurons exhibit gamma-frequency coincidence detection capabilities, a feature that is essential for the expression of these physiological observations, despite their slow membrane time constant? In this conductance-based modelling study, we developed quantitative metrics for the temporal window of integration/coincidence detection based on the spike-triggered average (STA) of the neuronal compartment. We employed these metrics in conjunction with quantitative measures for spike initiation dynamics to assess the emergence and dependence of coincidence detection and STA spectral selectivity on various ion channel combinations. We found that the presence of resonating conductances (hyperpolarization-activated cyclic nucleotide-gated or T-type calcium), either independently or synergistically when expressed together, led to the emergence of spectral selectivity in the spike initiation dynamics and a significant reduction in the coincidence detection window (CDW). The presence of A-type potassium channels, along with resonating conductances, reduced the STA characteristic frequency and broadened the CDW, but persistent sodium channels sharpened the CDW by strengthening the spectral selectivity in the STA. Finally, in a morphologically precise model endowed with experimentally constrained channel gradients, we found that somatodendritic compartments expressed functional maps of strong theta-frequency selectivity in spike initiation dynamics and gamma-range CDW. Our results reveal the heavy expression of resonating and spike-generating conductances as the mechanism underlying the robust emergence of stratified gamma-range coincidence detection in the dendrites of hippocampal and cortical pyramidal neurons.",
+     "CI": [
+          "(c) 2015 The Authors. The Journal of Physiology (c) 2015 The Physiological",
+          "Society."
+     ],
+     "FAU": [
+          "Das, Anindita",
+          "Narayanan, Rishikesh"
+     ],
+     "AU": [
+          "Das A",
+          "Narayanan R"
+     ],
+     "AD": "Cellular Neurophysiology Laboratory, Molecular Biophysics Unit, Indian Institute of Science, Bangalore, India. Cellular Neurophysiology Laboratory, Molecular Biophysics Unit, Indian Institute of Science, Bangalore, India.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150625",
+     "PL": "England",
+     "TA": "J Physiol",
+     "JT": "The Journal of physiology",
+     "JID": "0266262",
+     "RN": [
+          "0 (Calcium Channels, T-Type)",
+          "0 (Hyperpolarization-Activated Cyclic Nucleotide-Gated Channels)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Calcium Channels, T-Type/physiology",
+          "Dendrites/physiology",
+          "Hippocampus/physiology",
+          "Hyperpolarization-Activated Cyclic Nucleotide-Gated Channels/*physiology",
+          "*Models, Biological",
+          "Pyramidal Cells/*physiology"
+     ],
+     "PMC": "PMC4560584",
+     "EDAT": "2015/05/29 06:00",
+     "MHDA": "2016/05/18 06:00",
+     "CRDT": [
+          "2015/05/29 06:00"
+     ],
+     "PHST": [
+          "2015/04/01 00:00 [received]",
+          "2015/05/18 00:00 [accepted]",
+          "2015/05/29 06:00 [entrez]",
+          "2015/05/29 06:00 [pubmed]",
+          "2016/05/18 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1113/JP270688 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Physiol. 2015 Aug 15;593(16):3549-76. doi: 10.1113/JP270688. Epub 2015 Jun 25.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,69 @@
+{
+     "PMID": "18979748",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20081209",
+     "LR": "20091211",
+     "VI": "11",
+     "IP": "Pt 1",
+     "DP": "2008",
+     "TI": "Automatic subcortical segmentation using a contextual model.",
+     "PG": "194-201",
+     "AB": "Automatically segmenting subcortical structures in brain im ages has the potential to greatly accelerate drug trials and population studies of disease. Here we propose an automatic subcortical segmentation algorithm using the auto context model. Unlike many segmentation algorithms that separately compute a shape prior and an image appearance model, we develop a framework based on machine learning to learn a unified appearance and context model. We trained our algorithm to segment the hippocampus and tested it on 83 brain MRIs (of 35 Alzheimer's disease patients, 22 with mild cognitive impairment, and 26 normal healthy controls). Using standard distance and overlap metrics, the auto context model method significantly outperformed simpler learning-based algorithms (using AdaBoost alone) and the FreeSurfer system. In tests on a public domain dataset designed to validate segmentation [1], our new algorithm also greatly improved upon a recently-proposed hybrid discriminative/generative approach [2], which was among the top three that performed comparably in a recent head-to-head competition.",
+     "FAU": [
+          "Morra, Jonathan H",
+          "Tu, Zhuowen",
+          "Apostolova, Liana G",
+          "Green, Amity E",
+          "Toga, Arthur W",
+          "Thompson, Paul M"
+     ],
+     "AU": [
+          "Morra JH",
+          "Tu Z",
+          "Apostolova LG",
+          "Green AE",
+          "Toga AW",
+          "Thompson PM"
+     ],
+     "AD": "Laboratory of Neuro Imaging, UCLA School of Medicine, Los Angeles, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Alzheimer Disease/*diagnosis",
+          "*Artificial Intelligence",
+          "Cerebral Cortex/pathology",
+          "Cognition Disorders/*diagnosis",
+          "Hippocampus/*pathology",
+          "Image Enhancement/methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Models, Neurological",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity"
+     ],
+     "EDAT": "2008/11/05 09:00",
+     "MHDA": "2008/12/17 09:00",
+     "CRDT": [
+          "2008/11/05 09:00"
+     ],
+     "PHST": [
+          "2008/11/05 09:00 [pubmed]",
+          "2008/12/17 09:00 [medline]",
+          "2008/11/05 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2008;11(Pt 1):194-201.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,79 @@
+{
+     "PMID": "26699321",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161011",
+     "LR": "20170830",
+     "IS": "1526-9914 (Electronic) 1526-9914 (Linking)",
+     "VI": "16",
+     "IP": "5",
+     "DP": "2015 Sep 8",
+     "TI": "Potential for reduced radiation-induced toxicity using intensity-modulated arc therapy for whole-brain radiotherapy with hippocampal sparing.",
+     "PG": "131-141",
+     "LID": "10.1120/jacmp.v16i5.5587 [doi]",
+     "AB": "The purpose of this study was to retrospectively investigate the accuracy, plan quality, and efficiency of using intensity-modulated arc therapy (IMAT) for whole brain radiotherapy (WBRT) patients with sparing not only the hippocampus (following RTOG 0933 compliance criteria) but also other organs at risk (OARs). A total of 10 patients previously treated with nonconformal opposed laterals whole-brain radiotherapy (NC-WBRT) were retrospectively replanned for hippocampal sparing using IMAT treatment planning. The hippocampus was volumetrically contoured on fused diagnostic T1-weighted MRI with planning CT images and hippocampus avoidance zone (HAZ) was generated using a 5 mm uniform margin around the hippocampus. Both hippocampi were defined as one paired organ. Whole brain tissue minus HAZ was defined as the whole-brain planning target volume (WB-PTV). Highly conformal IMAT plans were generated in the Eclipse treatment planning system for Novalis TX linear accelerator consisting of high-definition multileaf collimators (HD-MLCs: 2.5 mm leaf width at isocenter) and 6 MV beam for a prescription dose of 30 Gy in 10 fractions following RTOG 0933 dosimetric criteria. Two full coplanar arcs with orbits avoidance sectors were used. In addition to RTOG criteria, doses to other organs at risk (OARs), such as parotid glands, cochlea, external/middle ear canals, skin, scalp, optic pathways, brainstem, and eyes/lens, were also evaluated. Subsequently, dose delivery efficiency and accuracy of each IMAT plan was assessed by delivering quality assurance (QA) plans with a MapCHECK device, recording actual beam-on time and measuring planed vs. measured dose agreement using a gamma index. On IMAT plans, following RTOG 0933 dosimetric criteria, the maximum dose to WB-PTV, mean WB-PTV D2%, and mean WB-PTV D98% were 34.9 +/- 0.3 Gy, 33.2 +/- 0.4 Gy, and 26.0+/- 0.4Gy, respectively. Accordingly, WB-PTV received the prescription dose of 30Gy and mean V30 was 90.5% +/- 0.5%. The D100%, and mean and maximum doses to hippocampus were 8.4 +/- 0.3 Gy, 11.2 +/- 0.3 Gy, and 15.6 +/- 0.4 Gy, on average, respectively. The mean values of homogeneity index (HI) and conformity index (CI) were 0.23 +/- 0.02 and 0.96 +/- 0.02, respectively. The maximum point dose to WB-PTV was 35.3 Gy, well below the optic pathway tolerance of 37.5 Gy. In addition, compared to NC-WBRT, dose reduction of mean and maximum of parotid glands from IMAT were 65% and 50%, respectively. Ear canals mean and maximum doses were reduced by 26% and 12%, and mean and maximum scalp doses were reduced by 9 Gy (32%) and 2 Gy (6%), on average, respectively. The mean dose to skin was 9.7 Gy with IMAT plans compared to 16 Gy with conventional NC-WBRT, demonstrating that absolute reduction of skin dose by a factor of 2. The mean values of the total number of monitor units (MUs) and actual beam on time were 719 +/- 44 and 2.34 +/- 0.14 min, respectively. The accuracy of IMAT QA plan delivery was (98.1 +/- 0.8) %, on average, with a 3%/3 mm gamma index passing rate criteria. All of these plans were considered clinically acceptable per RTOG 0933 criteria. IMAT planning provided highly conformal and homogenous plan with a fast and effective treatment option for WBRT patients, sparing not only hippocampi but also other OARs, which could potentially result in an additional improvement of the quality life (QoL). In the future, we plan to evaluate the clinical potential of IMAT planning and treatment option with hippocampal and other OARs avoidance in our patient's cohort and asses the QoL of the WBRT patients, as well as simultaneous integrated boost (SIB) for the brain metastases diseases.",
+     "FAU": [
+          "Pokhrel, Damodar",
+          "Sood, Sumit",
+          "Lominska, Christopher",
+          "Kumar, Pravesh",
+          "Badkul, Rajeev",
+          "Jiang, Hongyu",
+          "Wang, Fen"
+     ],
+     "AU": [
+          "Pokhrel D",
+          "Sood S",
+          "Lominska C",
+          "Kumar P",
+          "Badkul R",
+          "Jiang H",
+          "Wang F"
+     ],
+     "AD": "The University of Kansas Hospital. dpokhrel@kumc.edu.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150908",
+     "PL": "United States",
+     "TA": "J Appl Clin Med Phys",
+     "JT": "Journal of applied clinical medical physics",
+     "JID": "101089176",
+     "SB": "IM",
+     "MH": [
+          "Brain Neoplasms/*radiotherapy/secondary",
+          "*Cranial Irradiation",
+          "Hippocampus/*radiation effects",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "*Organ Sparing Treatments",
+          "Organs at Risk/*radiation effects",
+          "Phantoms, Imaging",
+          "Radiation Injuries",
+          "Radiotherapy Dosage",
+          "Radiotherapy Planning, Computer-Assisted",
+          "Radiotherapy, Intensity-Modulated/*methods"
+     ],
+     "EDAT": "2015/12/25 06:00",
+     "MHDA": "2016/10/12 06:00",
+     "CRDT": [
+          "2015/12/25 06:00"
+     ],
+     "PHST": [
+          "2015/02/02 00:00 [received]",
+          "2015/04/28 00:00 [accepted]",
+          "2015/05/18 00:00 [revised]",
+          "2015/12/25 06:00 [entrez]",
+          "2015/12/25 06:00 [pubmed]",
+          "2016/10/12 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1120/jacmp.v16i5.5587 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "J Appl Clin Med Phys. 2015 Sep 8;16(5):131-141. doi: 10.1120/jacmp.v16i5.5587.",
+     "term": "hippocampus"
+}

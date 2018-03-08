@@ -1,0 +1,71 @@
+{
+     "PMID": "28269699",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170719",
+     "LR": "20171127",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2016",
+     "DP": "2016 Aug",
+     "TI": "Automated volumetry for unilateral hippocampal sclerosis detection in patients with temporal lobe epilepsy.",
+     "PG": "6339-6342",
+     "LID": "10.1109/EMBC.2016.7592178 [doi]",
+     "AB": "Hippocampal sclerosis (HS) is the most common cause of temporal lobe epilepsy (TLE) and can be identified in magnetic resonance imaging as hippocampal atrophy and subsequent volume loss. Detecting this kind of abnormalities through simple radiological assessment could be difficult, even for experienced radiologists. For that reason, hippocampal volumetry is generally used to support this kind of diagnosis. Manual volumetry is the traditional approach but it is time consuming and requires the physician to be familiar with neuroimaging software tools. In this paper, we propose an automated method, written as a script that uses FSL-FIRST, to perform hippocampal segmentation and compute an index to quantify hippocampi asymmetry (HAI). We compared the automated detection of HS (left or right) based on the HAI with the agreement of two experts in a group of 19 patients and 15 controls, achieving 84.2% sensitivity, 86.7% specificity and a Cohen's kappa coefficient of 0.704. The proposed method is integrated in the \"Advanced Brain Imaging Lab\" (ABrIL) cloud neurocomputing platform. The automated procedure is 77% (on average) faster to compute vs. the manual volumetry segmentation performed by an experienced physician.",
+     "FAU": [
+          "Martins, Cristina",
+          "Moreira da Silva, Nadia",
+          "Silva, Guilherme",
+          "Rozanski, Verena E",
+          "Silva Cunha, Joao Paulo"
+     ],
+     "AU": [
+          "Martins C",
+          "Moreira da Silva N",
+          "Silva G",
+          "Rozanski VE",
+          "Silva Cunha JP"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Automation",
+          "Epilepsy, Temporal Lobe/*pathology",
+          "Female",
+          "Hippocampus/diagnostic imaging/*pathology",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Neuroimaging",
+          "Organ Size",
+          "Sclerosis",
+          "Sensitivity and Specificity",
+          "Time Factors"
+     ],
+     "EDAT": "2017/03/09 06:00",
+     "MHDA": "2017/07/20 06:00",
+     "CRDT": [
+          "2017/03/09 06:00"
+     ],
+     "PHST": [
+          "2017/03/09 06:00 [entrez]",
+          "2017/03/09 06:00 [pubmed]",
+          "2017/07/20 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2016.7592178 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2016 Aug;2016:6339-6342. doi: 10.1109/EMBC.2016.7592178.",
+     "term": "hippocampus"
+}

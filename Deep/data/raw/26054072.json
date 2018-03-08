@@ -1,0 +1,81 @@
+{
+     "PMID": "26054072",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20161005",
+     "LR": "20161230",
+     "IS": "1558-0210 (Electronic) 1534-4320 (Linking)",
+     "VI": "24",
+     "IP": "1",
+     "DP": "2016 Jan",
+     "TI": "Control of a Wheelchair in an Indoor Environment Based on a Brain-Computer Interface and Automated Navigation.",
+     "PG": "128-39",
+     "LID": "10.1109/TNSRE.2015.2439298 [doi]",
+     "AB": "The concept of controlling a wheelchair using brain signals is promising. However, the continuous control of a wheelchair based on unstable and noisy electroencephalogram signals is unreliable and generates a significant mental burden for the user. A feasible solution is to integrate a brain-computer interface (BCI) with automated navigation techniques. This paper presents a brain-controlled intelligent wheelchair with the capability of automatic navigation. Using an autonomous navigation system, candidate destinations and waypoints are automatically generated based on the existing environment. The user selects a destination using a motor imagery (MI)-based or P300-based BCI. According to the determined destination, the navigation system plans a short and safe path and navigates the wheelchair to the destination. During the movement of the wheelchair, the user can issue a stop command with the BCI. Using our system, the mental burden of the user can be substantially alleviated. Furthermore, our system can adapt to changes in the environment. Two experiments based on MI and P300 were conducted to demonstrate the effectiveness of our system.",
+     "FAU": [
+          "Zhang, Rui",
+          "Li, Yuanqing",
+          "Yan, Yongyong",
+          "Zhang, Hao",
+          "Wu, Shaoyu",
+          "Yu, Tianyou",
+          "Gu, Zhenghui"
+     ],
+     "AU": [
+          "Zhang R",
+          "Li Y",
+          "Yan Y",
+          "Zhang H",
+          "Wu S",
+          "Yu T",
+          "Gu Z"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20150601",
+     "PL": "United States",
+     "TA": "IEEE Trans Neural Syst Rehabil Eng",
+     "JT": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+     "JID": "101097023",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "*Brain-Computer Interfaces",
+          "*Ecosystem",
+          "Electroencephalography/*instrumentation",
+          "Equipment Design",
+          "Equipment Failure Analysis",
+          "Female",
+          "Humans",
+          "Machine Learning",
+          "Male",
+          "*Man-Machine Systems",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Robotics/*instrumentation",
+          "Sensitivity and Specificity",
+          "Spatial Navigation",
+          "*Wheelchairs",
+          "Young Adult"
+     ],
+     "EDAT": "2015/06/09 06:00",
+     "MHDA": "2016/10/07 06:00",
+     "CRDT": [
+          "2015/06/09 06:00"
+     ],
+     "PHST": [
+          "2015/06/09 06:00 [entrez]",
+          "2015/06/09 06:00 [pubmed]",
+          "2016/10/07 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TNSRE.2015.2439298 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Neural Syst Rehabil Eng. 2016 Jan;24(1):128-39. doi: 10.1109/TNSRE.2015.2439298. Epub 2015 Jun 1.",
+     "term": "spatial navigation"
+}

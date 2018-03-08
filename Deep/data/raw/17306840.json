@@ -1,0 +1,76 @@
+{
+     "PMID": "17306840",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20070731",
+     "LR": "20091111",
+     "IS": "0025-5564 (Print) 0025-5564 (Linking)",
+     "VI": "207",
+     "IP": "2",
+     "DP": "2007 Jun",
+     "TI": "Learning of oscillatory correlated patterns in a cortical network by a STDP-based learning rule.",
+     "PG": "322-35",
+     "AB": "In this paper, we propose an iterative learning rule that allows the imprinting of correlated oscillatory patterns in a model of the hippocampus able to work as an associative memory for oscillatory spatio-temporal patterns. We analyze the dynamics in the Fourier domain, showing how the network selectively amplify or distort the Fourier components of the input, in a manner which depends on the imprinted patterns. We also prove that the proposed iterative local rule converges to the pseudo-inverse rule generalized to oscillatory patterns.",
+     "FAU": [
+          "Marinaro, Maria",
+          "Scarpetta, Silvia",
+          "Yoshioka, Mashaiko"
+     ],
+     "AU": [
+          "Marinaro M",
+          "Scarpetta S",
+          "Yoshioka M"
+     ],
+     "AD": "Dipartimento di Fisica E.R.Caianiello, Universita di Salerno, Via S.Allende Baronissi, SA, Italy.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20061019",
+     "PL": "United States",
+     "TA": "Math Biosci",
+     "JT": "Mathematical biosciences",
+     "JID": "0103146",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Algorithms",
+          "Animals",
+          "Fourier Analysis",
+          "Hippocampus/physiology",
+          "Humans",
+          "Imprinting (Psychology)/physiology",
+          "Interneurons/physiology",
+          "Learning/*physiology",
+          "Memory/physiology",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neural Inhibition/physiology",
+          "Neuronal Plasticity/*physiology",
+          "Neurons/physiology",
+          "Pyramidal Cells/physiology",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2007/02/20 09:00",
+     "MHDA": "2007/08/01 09:00",
+     "CRDT": [
+          "2007/02/20 09:00"
+     ],
+     "PHST": [
+          "2006/06/01 00:00 [received]",
+          "2006/09/25 00:00 [revised]",
+          "2006/10/02 00:00 [accepted]",
+          "2007/02/20 09:00 [pubmed]",
+          "2007/08/01 09:00 [medline]",
+          "2007/02/20 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0025-5564(06)00194-5 [pii]",
+          "10.1016/j.mbs.2006.10.001 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Math Biosci. 2007 Jun;207(2):322-35. doi: 10.1016/j.mbs.2006.10.001. Epub 2006 Oct 19.",
+     "term": "hippocampus"
+}

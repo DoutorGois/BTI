@@ -1,0 +1,66 @@
+{
+     "PMID": "24829568",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140929",
+     "LR": "20170220",
+     "IS": "1687-5273 (Electronic)",
+     "VI": "2014",
+     "DP": "2014",
+     "TI": "Spike sorting by joint probabilistic modeling of neural spike trains and waveforms.",
+     "PG": "643059",
+     "LID": "10.1155/2014/643059 [doi]",
+     "AB": "This paper details a novel probabilistic method for automatic neural spike sorting which uses stochastic point process models of neural spike trains and parameterized action potential waveforms. A novel likelihood model for observed firing times as the aggregation of hidden neural spike trains is derived, as well as an iterative procedure for clustering the data and finding the parameters that maximize the likelihood. The method is executed and evaluated on both a fully labeled semiartificial dataset and a partially labeled real dataset of extracellular electric traces from rat hippocampus. In conditions of relatively high difficulty (i.e., with additive noise and with similar action potential waveform shapes for distinct neurons) the method achieves significant improvements in clustering performance over a baseline waveform-only Gaussian mixture model (GMM) clustering on the semiartificial set (1.98% reduction in error rate) and outperforms both the GMM and a state-of-the-art method on the real dataset (5.04% reduction in false positive + false negative errors). Finally, an empirical study of two free parameters for our method is performed on the semiartificial dataset.",
+     "FAU": [
+          "Matthews, Brett A",
+          "Clements, Mark A"
+     ],
+     "AU": [
+          "Matthews BA",
+          "Clements MA"
+     ],
+     "AD": "School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA 30332, USA. School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA 30332, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20140416",
+     "PL": "United States",
+     "TA": "Comput Intell Neurosci",
+     "JT": "Computational intelligence and neuroscience",
+     "JID": "101279357",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "Computer Simulation",
+          "Humans",
+          "Likelihood Functions",
+          "*Models, Neurological",
+          "Neurons/*physiology",
+          "Principal Component Analysis",
+          "*Wavelet Analysis"
+     ],
+     "PMC": "PMC4009224",
+     "EDAT": "2014/05/16 06:00",
+     "MHDA": "2014/09/30 06:00",
+     "CRDT": [
+          "2014/05/16 06:00"
+     ],
+     "PHST": [
+          "2013/09/16 00:00 [received]",
+          "2013/12/20 00:00 [revised]",
+          "2014/02/07 00:00 [accepted]",
+          "2014/05/16 06:00 [entrez]",
+          "2014/05/16 06:00 [pubmed]",
+          "2014/09/30 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1155/2014/643059 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Comput Intell Neurosci. 2014;2014:643059. doi: 10.1155/2014/643059. Epub 2014 Apr 16.",
+     "term": "hippocampus"
+}

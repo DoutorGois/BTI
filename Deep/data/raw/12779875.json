@@ -1,0 +1,50 @@
+{
+     "PMID": "12779875",
+     "OWN": "NLM",
+     "STAT": "Publisher",
+     "LR": "20030603",
+     "IS": "1089-7682 (Electronic) 1054-1500 (Linking)",
+     "VI": "9",
+     "IP": "3",
+     "DP": "1999 Sep",
+     "TI": "A coupled ordinary differential equation lattice model for the simulation of epileptic seizures.",
+     "PG": "795-804",
+     "AB": "A coupled ordinary differential equation lattice model for the CA3 region of the hippocampus (a common location of the epileptic focus) is developed. This model consists of a hexagonal lattice of nodes, each describing a subnetwork consisting of a group of prototypical excitatory pyramidal cells and a group of prototypical inhibitory interneurons connected via on/off excitatory and inhibitory synapses. The nodes communicate using simple rules to simulate the diffusion of extracellular potassium. Both the integration time over which a node's trajectory is integrated before the diffusional event is allowed to occur and the level of inhibition in each node were found to be important parameters. Shorter integration times lead to total synchronization of the lattice (similar to synchronous neural activity occurring during a seizure) whereas longer times cause more random spatiotemporal behavior. Moderately diminished levels of inhibition lead to simple nodal oscillatory behavior. It is postulated that both the lack of inhibition and an alteration in conduction time may be necessary for the development of a behaviorally manifest seizure. (c) 1999 American Institute of Physics.",
+     "FAU": [
+          "Larter, Raima",
+          "Speelman, Brent",
+          "Worth, Robert M."
+     ],
+     "AU": [
+          "Larter R",
+          "Speelman B",
+          "Worth RM"
+     ],
+     "AD": "Department of Chemistry, Indiana University Purdue University at Indianapolis (IUPUI), 402 N. Blackford Street, Indianapolis, Indiana 46202.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Chaos",
+     "JT": "Chaos (Woodbury, N.Y.)",
+     "JID": "100971574",
+     "EDAT": "2003/06/05 05:00",
+     "MHDA": "2003/06/05 05:00",
+     "CRDT": [
+          "2003/06/05 05:00"
+     ],
+     "PHST": [
+          "2003/06/05 05:00 [pubmed]",
+          "2003/06/05 05:00 [medline]",
+          "2003/06/05 05:00 [entrez]"
+     ],
+     "AID": [
+          "10.1063/1.166453 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Chaos. 1999 Sep;9(3):795-804. doi: 10.1063/1.166453.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,74 @@
+{
+     "PMID": "22912564",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20121214",
+     "LR": "20161019",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "8",
+     "IP": "8",
+     "DP": "2012",
+     "TI": "A topological paradigm for hippocampal spatial map formation using persistent homology.",
+     "PG": "e1002581",
+     "LID": "10.1371/journal.pcbi.1002581 [doi]",
+     "AB": "An animal's ability to navigate through space rests on its ability to create a mental map of its environment. The hippocampus is the brain region centrally responsible for such maps, and it has been assumed to encode geometric information (distances, angles). Given, however, that hippocampal output consists of patterns of spiking across many neurons, and downstream regions must be able to translate those patterns into accurate information about an animal's spatial environment, we hypothesized that 1) the temporal pattern of neuronal firing, particularly co-firing, is key to decoding spatial information, and 2) since co-firing implies spatial overlap of place fields, a map encoded by co-firing will be based on connectivity and adjacency, i.e., it will be a topological map. Here we test this topological hypothesis with a simple model of hippocampal activity, varying three parameters (firing rate, place field size, and number of neurons) in computer simulations of rat trajectories in three topologically and geometrically distinct test environments. Using a computational algorithm based on recently developed tools from Persistent Homology theory in the field of algebraic topology, we find that the patterns of neuronal co-firing can, in fact, convey topological information about the environment in a biologically realistic length of time. Furthermore, our simulations reveal a \"learning region\" that highlights the interplay between the parameters in combining to produce hippocampal states that are more or less adept at map formation. For example, within the learning region a lower number of neurons firing can be compensated by adjustments in firing rate or place field size, but beyond a certain point map formation begins to fail. We propose that this learning region provides a coherent theoretical lens through which to view conditions that impair spatial learning by altering place cell firing rates or spatial specificity.",
+     "FAU": [
+          "Dabaghian, Y",
+          "Memoli, F",
+          "Frank, L",
+          "Carlsson, G"
+     ],
+     "AU": [
+          "Dabaghian Y",
+          "Memoli F",
+          "Frank L",
+          "Carlsson G"
+     ],
+     "AD": "Jan & Dan Duncan Neurological Research Institute, Baylor College of Medicine, Houston, Texas, United States of America. dabaghia@bcm.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "5F32NS054425/NS/NINDS NIH HHS/United States",
+          "MH080283/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20120809",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "Hippocampus/*anatomy & histology/physiology",
+          "Models, Theoretical",
+          "Rats"
+     ],
+     "PMC": "PMC3415417",
+     "EDAT": "2012/08/23 06:00",
+     "MHDA": "2012/12/15 06:00",
+     "CRDT": [
+          "2012/08/23 06:00"
+     ],
+     "PHST": [
+          "2011/08/16 00:00 [received]",
+          "2012/05/07 00:00 [accepted]",
+          "2012/08/23 06:00 [entrez]",
+          "2012/08/23 06:00 [pubmed]",
+          "2012/12/15 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1002581 [doi]",
+          "PCOMPBIOL-D-11-01222 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "PLoS Comput Biol. 2012;8(8):e1002581. doi: 10.1371/journal.pcbi.1002581. Epub 2012 Aug 9.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,84 @@
+{
+     "PMID": "27927782",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170913",
+     "LR": "20180301",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "117",
+     "IP": "3",
+     "DP": "2017 Mar 1",
+     "TI": "Modeling fast and slow gamma oscillations with interneurons of different subtype.",
+     "PG": "950-965",
+     "LID": "10.1152/jn.00490.2016 [doi]",
+     "AB": "Experimental and theoretical studies demonstrate that neuronal gamma oscillations crucially depend on interneurons, but current models do not consider the diversity of known interneuron subtypes. Moreover, in CA1 of the hippocampus, experimental evidence indicates the presence of multiple gamma oscillators, two of which may be coordinated by differing interneuron populations. In this article, we show that models of networks with competing interneuron populations with different postsynaptic effects are sufficient to generate, within CA1, distinct oscillatory regimes. We find that strong mutual inhibition between the interneuron populations permits distinct fast and slow gamma states, whereas weak mutual inhibition generates mixed gamma states. We develop idealized firing rate models to illuminate dynamic properties of these competitive gamma networks, and reinforce these concepts with basic spiking models. The models make several explicit predictions about gamma oscillators in CA1. Specifically, interneurons of different subtype phase-lock to different gamma states, and one population of interneurons is silenced and the other active during fast and slow gamma events. Finally, mutual inhibition between interneuron populations is necessary to generate distinct gamma states. Previous experimental studies indicate that fast and slow gamma oscillations reflect different information processing modes, although it is unclear whether these rhythms are intrinsic or imposed. The models outlined demonstrate that basic architectures can locally generate these oscillations, as well as capture other features of fast and slow gamma, including theta-phase preference and spontaneous transitions between gamma states. These models may extend to describe general dynamics in networks with diverse interneuron populations.NEW & NOTEWORTHY The oscillatory coordination of neural signals is crucial to healthy brain function. We have developed an idealized neuronal model that generates distinct fast and slow gamma oscillations, a known feature of the rodent hippocampus. Our work provides a mechanism of this phenomenon, as well as a theoretical framework for future experiments concerning hippocampal gamma. It moreover offers a tractable model of competitive gamma oscillations that is generalizable across the nervous system.",
+     "CI": [
+          "Copyright (c) 2017 the American Physiological Society."
+     ],
+     "FAU": [
+          "Keeley, Stephen",
+          "Fenton, Andre A",
+          "Rinzel, John"
+     ],
+     "AU": [
+          "Keeley S",
+          "Fenton AA",
+          "Rinzel J"
+     ],
+     "AD": "Center for Neural Science, New York University, New York, New York; and stephenlkeeley@gmail.com. Center for Neural Science, New York University, New York, New York; and. Center for Neural Science, New York University, New York, New York; and. Courant Institute of Mathematical Sciences, New York University, New York, New York.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20161207",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Animals",
+          "CA1 Region, Hippocampal/*physiology",
+          "*Gamma Rhythm",
+          "Humans",
+          "Interneurons/*physiology",
+          "*Models, Neurological",
+          "Neural Networks (Computer)",
+          "Neural Pathways/physiology",
+          "Pyramidal Cells/physiology",
+          "Rats"
+     ],
+     "PMC": "PMC5338627",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "dynamical systems",
+          "gamma",
+          "hippocampus",
+          "interneuron",
+          "oscillations"
+     ],
+     "EDAT": "2016/12/09 06:00",
+     "MHDA": "2017/09/14 06:00",
+     "CRDT": [
+          "2016/12/09 06:00"
+     ],
+     "PHST": [
+          "2016/06/16 00:00 [received]",
+          "2016/12/05 00:00 [accepted]",
+          "2016/12/09 06:00 [pubmed]",
+          "2017/09/14 06:00 [medline]",
+          "2016/12/09 06:00 [entrez]"
+     ],
+     "AID": [
+          "jn.00490.2016 [pii]",
+          "10.1152/jn.00490.2016 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2017 Mar 1;117(3):950-965. doi: 10.1152/jn.00490.2016. Epub 2016 Dec 7.",
+     "term": "hippocampus"
+}

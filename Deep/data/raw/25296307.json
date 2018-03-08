@@ -1,0 +1,93 @@
+{
+     "PMID": "25296307",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150625",
+     "LR": "20170220",
+     "IS": "1542-0086 (Electronic) 0006-3495 (Linking)",
+     "VI": "107",
+     "IP": "7",
+     "DP": "2014 Oct 7",
+     "TI": "Imaging GFP-based reporters in neurons with multiwavelength optogenetic control.",
+     "PG": "1554-63",
+     "LID": "10.1016/j.bpj.2014.08.020 [doi] S0006-3495(14)00891-1 [pii]",
+     "AB": "To study the impact of neural activity on cellular physiology, one would like to combine precise control of firing patterns with highly sensitive probes of cellular physiology. Light-gated ion channels, e.g., Channelrhodopsin-2, enable precise control of firing patterns; green fluorescent protein-based reporters, e.g., the GCaMP6f Ca(2+) reporter, enable highly sensitive probing of cellular physiology. However, for most actuator-reporter combinations, spectral overlap prevents straightforward combination within a single cell. Here we explore multiwavelength control of channelrhodopsins to circumvent this limitation. The \"stoplight\" technique described in this article uses channelrhodopsin variants that are opened by blue light and closed by orange light. Cells are illuminated with constant blue light to excite fluorescence of a green fluorescent protein-based reporter. Modulated illumination with orange light negatively regulates activation of the channelrhodopsin. We performed detailed photophysical characterization and kinetic modeling of four candidate stoplight channelrhodopsins. The variant with the highest contrast, sdChR(C138S,E154A), enabled all-optical measurements of activity-induced calcium transients in cultured rat hippocampal neurons, although cell-to-cell variation in expression levels presents a challenge for quantification.",
+     "CI": [
+          "Copyright (c) 2014 Biophysical Society. Published by Elsevier Inc. All rights",
+          "reserved."
+     ],
+     "FAU": [
+          "Venkatachalam, Veena",
+          "Cohen, Adam E"
+     ],
+     "AU": [
+          "Venkatachalam V",
+          "Cohen AE"
+     ],
+     "AD": "Biophysics Program, Harvard Stem Cell Institute, Harvard University, Cambridge, Massachusetts. Departments of Chemistry and Chemical Biology and Physics, Harvard Stem Cell Institute, Harvard University, Cambridge, Massachusetts; Howard Hughes Medical Institute, Chevy Chase, Maryland. Electronic address: cohen@chemistry.harvard.edu.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "T32GM07753-36/GM/NIGMS NIH HHS/United States",
+          "1-R01-EB012498-01/EB/NIBIB NIH HHS/United States",
+          "DP2 OD007428/OD/NIH HHS/United States",
+          "T32 GM007753/GM/NIGMS NIH HHS/United States",
+          "R01 EB012498/EB/NIBIB NIH HHS/United States",
+          "1-DP2-OD007428/OD/NIH HHS/United States",
+          "Howard Hughes Medical Institute/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Biophys J",
+     "JT": "Biophysical journal",
+     "JID": "0370626",
+     "RN": [
+          "147336-22-9 (Green Fluorescent Proteins)",
+          "9009-81-8 (Rhodopsin)",
+          "SY7Q814VUP (Calcium)"
+     ],
+     "SB": "IM",
+     "CIN": [
+          "Biophys J. 2014 Oct 7;107(7):1489-90. PMID: 25296299"
+     ],
+     "MH": [
+          "Animals",
+          "Calcium/metabolism",
+          "Green Fluorescent Proteins/*metabolism",
+          "HEK293 Cells",
+          "Hippocampus/cytology",
+          "Humans",
+          "Molecular Imaging/*methods",
+          "Neurons/*cytology/*metabolism",
+          "Optogenetics/*methods",
+          "Rats",
+          "Rhodopsin/metabolism"
+     ],
+     "PMC": "PMC4190653",
+     "EDAT": "2014/10/09 06:00",
+     "MHDA": "2015/06/26 06:00",
+     "CRDT": [
+          "2014/10/09 06:00"
+     ],
+     "PHST": [
+          "2014/06/25 00:00 [received]",
+          "2014/08/02 00:00 [revised]",
+          "2014/08/07 00:00 [accepted]",
+          "2014/10/09 06:00 [entrez]",
+          "2014/10/09 06:00 [pubmed]",
+          "2015/06/26 06:00 [medline]"
+     ],
+     "AID": [
+          "S0006-3495(14)00891-1 [pii]",
+          "10.1016/j.bpj.2014.08.020 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biophys J. 2014 Oct 7;107(7):1554-63. doi: 10.1016/j.bpj.2014.08.020.",
+     "term": "hippocampus"
+}

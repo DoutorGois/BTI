@@ -1,0 +1,81 @@
+{
+     "PMID": "18655199",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090219",
+     "LR": "20081121",
+     "IS": "1097-4547 (Electronic) 0360-4012 (Linking)",
+     "VI": "86",
+     "IP": "16",
+     "DP": "2008 Dec",
+     "TI": "Validation of internal control genes for expression studies: effects of the neurotrophin BDNF on hippocampal neurons.",
+     "PG": "3684-92",
+     "LID": "10.1002/jnr.21796 [doi]",
+     "AB": "The stability of expression of an internal control is required for accurate and reliable normalization in quantitative real-time reverse transcription-polymerase chain reaction (qRT-PCR) experiments. However, expression of commonly used reference genes can be regulated under specific experimental conditions, particularly in response to stimuli that exert multiple effects on gene expression. The neurotrophin brain-derived neurotrophic factor (BDNF) regulates gene expression through activation of multiple signaling cascades, and we have conducted an expression study for the proper validation of internal control genes in BDNF-stimulated cultured hippocampal neurons. geNorm and NormFinder were applied to eight potential genes to identify the most stable genes to be used in the relative quantification of the effects of BDNF on gene expression. Our data show that Tbp (TATA box binding protein), Ppia (peptidylprolyl isomerase A), Pgk1 (phosphoglycerate kinase 1), and Hprt1 (hypoxanthine guanine phosphoribosyl transferase I) are the most stable genes under the experimental conditions used, contrasting with Tuba1 (tubulin alpha1-A chain) and Gapdh (glyceraldehydes-3-phosphate dehydrogenase), two genes widely used as control genes, which showed an unstable expression in hippocampal neurons stimulated with BDNF. Analysis of the BDNF-induced changes in expression of Sars, Tufm, and Egr3 by using different sets of control genes showed distinct results, with a combination of three to four of the genes Tbp/Ppia/Pgk1/Hprt1 providing the most consistent results. Our data reinforce the need for proper validation of the internal control genes for an accurate quantification of qRT-PCR results, particularly when analyzing cellular responses to agents (e.g., neurotrophins) that cause multiple changes in gene expression.",
+     "CI": [
+          "(c) 2008 Wiley-Liss, Inc."
+     ],
+     "FAU": [
+          "Santos, Ana Rita A",
+          "Duarte, Carlos B"
+     ],
+     "AU": [
+          "Santos AR",
+          "Duarte CB"
+     ],
+     "AD": "Center for Neuroscience and Cell Biology, Department of Zoology, University of Coimbra, Coimbra, Portugal.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Studies"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci Res",
+     "JT": "Journal of neuroscience research",
+     "JID": "7600111",
+     "RN": [
+          "0 (Brain-Derived Neurotrophic Factor)",
+          "0 (Genetic Markers)",
+          "0 (TATA-Box Binding Protein)",
+          "EC 2.4.2.8 (Hypoxanthine Phosphoribosyltransferase)",
+          "EC 2.7.2.3 (Phosphoglycerate Kinase)",
+          "EC 5.2.1.8 (Peptidylprolyl Isomerase)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Brain-Derived Neurotrophic Factor/metabolism/*pharmacology",
+          "Cells, Cultured",
+          "Gene Expression/*drug effects/genetics",
+          "Genes/drug effects/*genetics",
+          "Genetic Markers/genetics",
+          "Hippocampus/*drug effects/metabolism",
+          "Hypoxanthine Phosphoribosyltransferase/genetics",
+          "Neurons/*drug effects/metabolism",
+          "Peptidylprolyl Isomerase/genetics",
+          "Phosphoglycerate Kinase/genetics",
+          "Rats",
+          "Rats, Wistar",
+          "Reverse Transcriptase Polymerase Chain Reaction/methods/*standards",
+          "TATA-Box Binding Protein/genetics"
+     ],
+     "EDAT": "2008/07/26 09:00",
+     "MHDA": "2009/02/20 09:00",
+     "CRDT": [
+          "2008/07/26 09:00"
+     ],
+     "PHST": [
+          "2008/07/26 09:00 [pubmed]",
+          "2009/02/20 09:00 [medline]",
+          "2008/07/26 09:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/jnr.21796 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Res. 2008 Dec;86(16):3684-92. doi: 10.1002/jnr.21796.",
+     "term": "hippocampus"
+}

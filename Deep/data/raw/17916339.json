@@ -1,0 +1,102 @@
+{
+     "PMID": "17916339",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080115",
+     "LR": "20091119",
+     "IS": "0006-8993 (Print) 0006-8993 (Linking)",
+     "VI": "1177",
+     "DP": "2007 Oct 26",
+     "TI": "Pathway and gene ontology based analysis of gene expression in a rat model of cerebral ischemic tolerance.",
+     "PG": "103-23",
+     "AB": "Ischemic tolerance is a phenomenon whereby a sublethal ischemic insult [ischemic preconditioning (IPC)] provides robust protection against subsequent lethal ischemia. Activation of N-methyl-D-aspartate (NMDA) receptors and subsequent new gene transcription are required for tolerance. We utilized the NMDA antagonist, MK801, prior to the IPC stimulus to separate candidate genes from epiphenomenona. Rats were divided into four groups: vehicle/IPC (preconditioned), MK801/IPC (attenuated preconditioning), vehicle/sham (non-preconditioned), and MK801/sham (non-preconditioned). Hippocampi (5/group/time point) were harvested immediately after ischemia as well as 1, 4, and 24 h post-ischemia to profile gene expression patterns using microarray analyses. Extracted mRNAs were pooled and subsequently hybridized to Affymetrix arrays. In addition, groups of rats were sacrificed for Western blot analysis and histological studies. Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway and gene ontology (GO) analyses were used to identify functionally related groups of genes whose modulation was statistically significant, while hierarchical cluster analysis was used to visualize the fold expression within these groups. Significantly modulated pathways included: MAP kinase signaling pathway, Toll receptor pathway, TGF-beta signaling pathways, and pathways associated with ribosome function and oxidative phosphorylation. Our data suggest that the tolerant brain responds to subsequent ischemic stress by partially downregulating inflammatory and upregulating protein synthesis and energy metabolism pathways.",
+     "FAU": [
+          "Feng, Zheng",
+          "Davis, Daniel P",
+          "Sasik, Roman",
+          "Patel, Hemal H",
+          "Drummond, John C",
+          "Patel, Piyush M"
+     ],
+     "AU": [
+          "Feng Z",
+          "Davis DP",
+          "Sasik R",
+          "Patel HH",
+          "Drummond JC",
+          "Patel PM"
+     ],
+     "AD": "Department of Anesthesiology, University of California, San Diego, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "5P30 AI36214/AI/NIAID NIH HHS/United States",
+          "NS047570-01/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20070807",
+     "PL": "Netherlands",
+     "TA": "Brain Res",
+     "JT": "Brain research",
+     "JID": "0045503",
+     "RN": [
+          "0 (Bmp7 protein, rat)",
+          "0 (Bone Morphogenetic Protein 7)",
+          "0 (Bone Morphogenetic Proteins)",
+          "0 (Toll-Like Receptors)",
+          "0 (Transforming Growth Factor beta)",
+          "EC 1.14.99.1 (Cyclooxygenase 2)",
+          "EC 2.7.12.2 (Mitogen-Activated Protein Kinase Kinases)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Blotting, Western",
+          "Bone Morphogenetic Protein 7",
+          "Bone Morphogenetic Proteins/genetics",
+          "Brain Ischemia/*genetics/*pathology",
+          "Cluster Analysis",
+          "Computational Biology",
+          "Cyclooxygenase 2/biosynthesis/genetics",
+          "Databases, Genetic",
+          "Fluorescent Antibody Technique, Direct",
+          "*Gene Expression",
+          "Hippocampus/pathology",
+          "Ischemic Preconditioning",
+          "Male",
+          "Mitogen-Activated Protein Kinase Kinases/genetics/physiology",
+          "Oligonucleotide Array Sequence Analysis",
+          "Rats",
+          "Rats, Wistar",
+          "Reverse Transcriptase Polymerase Chain Reaction",
+          "Ribosomes/physiology",
+          "Signal Transduction/genetics/*physiology",
+          "Toll-Like Receptors/genetics/physiology",
+          "Transforming Growth Factor beta/biosynthesis/genetics"
+     ],
+     "EDAT": "2007/10/06 09:00",
+     "MHDA": "2008/01/16 09:00",
+     "CRDT": [
+          "2007/10/06 09:00"
+     ],
+     "PHST": [
+          "2007/03/22 00:00 [received]",
+          "2007/07/23 00:00 [revised]",
+          "2007/07/24 00:00 [accepted]",
+          "2007/10/06 09:00 [pubmed]",
+          "2008/01/16 09:00 [medline]",
+          "2007/10/06 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0006-8993(07)01746-5 [pii]",
+          "10.1016/j.brainres.2007.07.047 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Res. 2007 Oct 26;1177:103-23. doi: 10.1016/j.brainres.2007.07.047. Epub 2007 Aug 7.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,73 @@
+{
+     "PMID": "16363621",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20060119",
+     "LR": "20161124",
+     "IS": "0914-7187 (Print) 0914-7187 (Linking)",
+     "VI": "19",
+     "IP": "7",
+     "DP": "2005 Oct",
+     "TI": "Influence of photon scattering and attenuation on ROI analysis in brain perfusion single-photon emission tomographic imaging of normal subjects.",
+     "PG": "567-72",
+     "AB": "OBJECTIVE: The aim of this study was to evaluate the effect of scatter and attenuation correction in region of interest (ROI) analysis in brain perfusion single-photon emission tomography (SPECT) and to assess the influence of selecting the reference area on semi-quantification. METHODS: Ten normal subjects were enrolled and injected with 123I-iodoamphetamine to undergo simultaneous emission and transmission scanning for scatter and attenuation correction. We reconstructed three SPECT images from common projection data of each subject: with scatter correction and non-uniform attenuation correction, with scatter correction and uniform attenuation correction, and with uniform attenuation correction applied to data without scatter correction. A program for automated ROI drawing was used to set ROIs on various regions in brain images. Regional count ratios were compared in images with different correction procedures by using three different reference areas. RESULTS: The effect of the combination of scatter and attenuation correction was marked in the precentral, temporal, posterior, hippocampus and especially in the cerebellum. In contrast, it was not appreciable in the central and parietal areas. When using the cerebellar ROI as the reference, the count ratio varied widely depending on the correction procedures. On the other hand, the whole brain reference offered the least variation in the count ratio. CONCLUSIONS: The influence of photon scattering and attenuation was dependent on regions. Since the count in the cerebellar ROI is greatly affected by photon scattering and attenuation, nonuniform attenuation correction combined with scatter correction deserves consideration when using the cerebellar ROI as the reference.",
+     "FAU": [
+          "Bai, Jingming",
+          "Hashimoto, Jun",
+          "Ogawa, Koichi",
+          "Kubo, Atsushi",
+          "Fukunaga, Atsushi",
+          "Onozuka, Satoshi",
+          "Uchida, Koichi"
+     ],
+     "AU": [
+          "Bai J",
+          "Hashimoto J",
+          "Ogawa K",
+          "Kubo A",
+          "Fukunaga A",
+          "Onozuka S",
+          "Uchida K"
+     ],
+     "AD": "Department of Radiology, School of Medicine, Keio University, 35 Shinano-machi, Shinjuku-ku, Tokyo 160-8582, Japan.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Clinical Trial",
+          "Journal Article"
+     ],
+     "PL": "Japan",
+     "TA": "Ann Nucl Med",
+     "JT": "Annals of nuclear medicine",
+     "JID": "8913398",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "*Artifacts",
+          "Brain/*blood supply/*diagnostic imaging",
+          "Cerebrovascular Circulation/*physiology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "*Photons",
+          "Reference Values",
+          "Reproducibility of Results",
+          "Scattering, Radiation",
+          "Sensitivity and Specificity",
+          "Tomography, Emission-Computed, Single-Photon/*methods"
+     ],
+     "EDAT": "2005/12/21 09:00",
+     "MHDA": "2006/01/20 09:00",
+     "CRDT": [
+          "2005/12/21 09:00"
+     ],
+     "PHST": [
+          "2005/12/21 09:00 [pubmed]",
+          "2006/01/20 09:00 [medline]",
+          "2005/12/21 09:00 [entrez]"
+     ],
+     "PST": "ppublish",
+     "SO": "Ann Nucl Med. 2005 Oct;19(7):567-72.",
+     "term": "hippocampus"
+}

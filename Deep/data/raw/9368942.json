@@ -1,0 +1,68 @@
+{
+     "PMID": "9368942",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19971229",
+     "LR": "20140617",
+     "IS": "0962-8436 (Print) 0962-8436 (Linking)",
+     "VI": "352",
+     "IP": "1360",
+     "DP": "1997 Oct 29",
+     "TI": "Robotic and neuronal simulation of the hippocampus and rat navigation.",
+     "PG": "1535-43",
+     "AB": "The properties of hippocampal place cells are reviewed, with particular attention to the nature of the internal and external signals that support their firing. A neuronal simulation of the firing of place cells in open-field environments of varying shape is presented. This simulation is coupled with an existing model of how place-cell firing can be used to drive navigation, and is tested by implementation as a miniature mobile robot. The sensors on the robot provide visual, odometric and short-range proximity data, which are combined to estimate the distance of the walls of the enclosure from the robot and the robot's current heading direction. These inputs drive the hippocampal simulation, in which the robot's location is represented as the firing of place cells. If a goal location is encountered, learning occurs in connections from the concurrently active place cells to a set of 'goal cells', which guide subsequent navigation, allowing the robot to return to an unmarked location. The system shows good agreement with actual place-cell firing, and makes predictions regarding the firing of cells in the subiculum, the effect of blocking long-term synaptic changes, and the locus of search of rats after deformation of their environment.",
+     "FAU": [
+          "Burgess, N",
+          "Donnett, J G",
+          "Jeffery, K J",
+          "O'Keefe, J"
+     ],
+     "AU": [
+          "Burgess N",
+          "Donnett JG",
+          "Jeffery KJ",
+          "O'Keefe J"
+     ],
+     "AD": "Department of Anatomy, University College London, UK.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "England",
+     "TA": "Philos Trans R Soc Lond B Biol Sci",
+     "JT": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+     "JID": "7503623",
+     "SB": "IM S",
+     "MH": [
+          "Animals",
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "Neural Networks (Computer)",
+          "Neurons/physiology",
+          "Orientation/*physiology",
+          "Rats",
+          "*Robotics",
+          "Space Perception/*physiology"
+     ],
+     "PMC": "PMC1692051",
+     "EDAT": "1997/11/22 00:00",
+     "MHDA": "1997/11/22 00:01",
+     "CRDT": [
+          "1997/11/22 00:00"
+     ],
+     "PHST": [
+          "1997/11/22 00:00 [pubmed]",
+          "1997/11/22 00:01 [medline]",
+          "1997/11/22 00:00 [entrez]"
+     ],
+     "AID": [
+          "10.1098/rstb.1997.0140 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Philos Trans R Soc Lond B Biol Sci. 1997 Oct 29;352(1360):1535-43. doi: 10.1098/rstb.1997.0140.",
+     "term": "place cells"
+}

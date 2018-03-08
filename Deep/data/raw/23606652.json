@@ -1,0 +1,100 @@
+{
+     "PMID": "23606652",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20140211",
+     "LR": "20130724",
+     "IS": "1552-454X (Electronic) 1087-0571 (Linking)",
+     "VI": "18",
+     "IP": "7",
+     "DP": "2013 Aug",
+     "TI": "Quantitation of chronic and acute treatment effects on neuronal network activity using image and signal analysis: toward a high-content assay.",
+     "PG": "807-19",
+     "LID": "10.1177/1087057113486518 [doi]",
+     "AB": "Upon maturation, primary neuronal cultures form an interconnected network based on neurite outgrowth and synaptogenesis in which spontaneous electrical activity arises. Measurement of network activity allows quantification of neuronal health and maturation. A fluorescent indicator was used to monitor secondary calcium influxes after the occurrence of action potentials, allowing us to examine activity of hippocampal cultures via confocal live cell imaging. Subsequently, nuclear staining with DAPI allows accurate cell segmentation. To analyze the calcium recording in a robust, observer-independent manner, we implemented an automated image- and signal-processing algorithm and validated it against a visual, interactive procedure. Both methods yielded similar results on the emergence of synchronized activity and allowed robust quantitative measurement of acute and chronic modulation of drugs on network activity. Both the number of days in vitro (DIV) and neutralization of nerve growth factor (NGF) have a significant effect on synchronous burst frequency and correlation. Acute effects are demonstrated using 5-HT (serotonin) and ethylene glycol tetra-acetic acid. Automated analysis allowed measuring additional features, such as peak decay times and bursting frequency of individual neurons. Based on neuronal cell cultures in 96-well plates and accurate calcium recordings, the analysis method allows development of an integrated high-content screening assay. Because molecular biological techniques can be applied to assess the influence of genes on network activity, it is applicable for neurotoxicity or neurotrophics screening as well as development of in vitro disease models via, for example, pharmacologic manipulation or RNAi.",
+     "FAU": [
+          "Cornelissen, Frans",
+          "Verstraelen, Peter",
+          "Verbeke, Tobias",
+          "Pintelon, Isabel",
+          "Timmermans, Jean-Pierre",
+          "Nuydens, Rony",
+          "Meert, Theo"
+     ],
+     "AU": [
+          "Cornelissen F",
+          "Verstraelen P",
+          "Verbeke T",
+          "Pintelon I",
+          "Timmermans JP",
+          "Nuydens R",
+          "Meert T"
+     ],
+     "AD": "Janssen Research & Development, a Division of Janssen Pharmaceutica NV, Beerse, Belgium. fcorneli@its.jnj.com",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20130419",
+     "PL": "United States",
+     "TA": "J Biomol Screen",
+     "JT": "Journal of biomolecular screening",
+     "JID": "9612112",
+     "RN": [
+          "0 (Chelating Agents)",
+          "0 (Neurotransmitter Agents)",
+          "526U7A2651 (Egtazic Acid)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials",
+          "Algorithms",
+          "Analysis of Variance",
+          "Animals",
+          "*Calcium Signaling",
+          "Cells, Cultured",
+          "Chelating Agents/pharmacology",
+          "Drug Discovery",
+          "Drug Evaluation, Preclinical/*methods",
+          "Egtazic Acid/pharmacology",
+          "High-Throughput Screening Assays",
+          "Hippocampus/cytology",
+          "Mice",
+          "Nerve Net/*drug effects",
+          "Neurons/drug effects/metabolism",
+          "Neurotransmitter Agents/*pharmacology",
+          "Optical Imaging",
+          "Primary Cell Culture"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "calcium imaging",
+          "high-content screening",
+          "image and signal analysis",
+          "in vitro synaptogenesis",
+          "neuronal network activity",
+          "primary hippocampal culture"
+     ],
+     "EDAT": "2013/04/23 06:00",
+     "MHDA": "2014/02/12 06:00",
+     "CRDT": [
+          "2013/04/23 06:00"
+     ],
+     "PHST": [
+          "2013/04/23 06:00 [entrez]",
+          "2013/04/23 06:00 [pubmed]",
+          "2014/02/12 06:00 [medline]"
+     ],
+     "AID": [
+          "1087057113486518 [pii]",
+          "10.1177/1087057113486518 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Biomol Screen. 2013 Aug;18(7):807-19. doi: 10.1177/1087057113486518. Epub 2013 Apr 19.",
+     "term": "hippocampus"
+}

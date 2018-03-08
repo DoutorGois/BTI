@@ -1,0 +1,84 @@
+{
+     "PMID": "19261422",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20100105",
+     "LR": "20170922",
+     "IS": "1873-5894 (Electronic) 0730-725X (Linking)",
+     "VI": "27",
+     "IP": "8",
+     "DP": "2009 Oct",
+     "TI": "Evaluation of atlas-based segmentation of hippocampi in healthy humans.",
+     "PG": "1104-9",
+     "LID": "10.1016/j.mri.2009.01.008 [doi]",
+     "AB": "INTRODUCTION AND AIM: Region of interest (ROI)-based functional magnetic resonance imaging (fMRI) data analysis relies on extracting signals from a specific area which is presumed to be involved in the brain activity being studied. The hippocampus is of interest in many functional connectivity studies for example in epilepsy as it plays an important role in epileptogenesis. In this context, ROI may be defined using different techniques. Our study aims at evaluating the spatial correspondence of hippocampal ROIs obtained using three brain atlases with hippocampal ROI obtained using an automatic segmentation algorithm dedicated to the hippocampus. MATERIAL AND METHODS: High-resolution volumetric T1-weighted MR images of 18 healthy volunteers (five females) were acquired on a 3T scanner. Individual ROIs for both hippocampi of each subject were segmented from the MR images using an automatic hippocampus and amygdala segmentation software called SACHA providing the gold standard ROI for comparison with the atlas-derived results. For each subject, hippocampal ROIs were also obtained using three brain atlases: PickAtlas available as a commonly used software toolbox; automated anatomical labeling (AAL) atlas included as a subset of ROI into PickAtlas toolbox and a frequency-based brain atlas by Hammers et al. The levels of agreement between the SACHA results and those obtained using the atlases were assessed based on quantitative indices measuring volume differences and spatial overlap. The comparison was performed in standard Montreal Neurological Institute space, the registration being obtained with SPM5 (http://www.fil.ion.ucl.ac.uk/spm/). RESULTS: The mean volumetric error across all subjects was 73% for hippocampal ROIs derived from AAL atlas; 20% in case of ROIs derived from the Hammers atlas and 107% for ROIs derived from PickAtlas. The mean false-positive and false-negative classification rates were 60% and 10% respectively for the AAL atlas; 16% and 32% for the Hammers atlas and 6% and 72% for the PickAtlas. CONCLUSION: Though atlas-based ROI definition may be convenient, the resulting ROIs may be poor representations of the hippocampus in some studies critical to under- or oversampling. Performance of the AAL atlas was inferior to that of the Hammers atlas. Hippocampal ROIs derived from PickAtlas are highly significantly smaller, and this results in the worst performance out of three atlases. It is advisable that the defined ROIs should be verified with knowledge of neuroanatomy before using it for further data analysis.",
+     "FAU": [
+          "Rodionov, Roman",
+          "Chupin, Marie",
+          "Williams, Elaine",
+          "Hammers, Alexander",
+          "Kesavadas, Chandrasekharan",
+          "Lemieux, Louis"
+     ],
+     "AU": [
+          "Rodionov R",
+          "Chupin M",
+          "Williams E",
+          "Hammers A",
+          "Kesavadas C",
+          "Lemieux L"
+     ],
+     "AD": "Department of Clinical and Experimental Epilepsy, UCL Institute of Neurology, Queen Square, London, United Kingdom. r.rodionov@ion.ucl.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "G0301067/Medical Research Council/United Kingdom",
+          "G108/585/Medical Research Council/United Kingdom",
+          "Medical Research Council/United Kingdom"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20090304",
+     "PL": "Netherlands",
+     "TA": "Magn Reson Imaging",
+     "JT": "Magnetic resonance imaging",
+     "JID": "8214883",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Female",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Middle Aged",
+          "Reference Values",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "EDAT": "2009/03/06 09:00",
+     "MHDA": "2010/01/06 06:00",
+     "CRDT": [
+          "2009/03/06 09:00"
+     ],
+     "PHST": [
+          "2008/11/13 00:00 [received]",
+          "2008/12/10 00:00 [revised]",
+          "2009/01/09 00:00 [accepted]",
+          "2009/03/06 09:00 [entrez]",
+          "2009/03/06 09:00 [pubmed]",
+          "2010/01/06 06:00 [medline]"
+     ],
+     "AID": [
+          "S0730-725X(09)00012-5 [pii]",
+          "10.1016/j.mri.2009.01.008 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Magn Reson Imaging. 2009 Oct;27(8):1104-9. doi: 10.1016/j.mri.2009.01.008. Epub 2009 Mar 4.",
+     "term": "hippocampus"
+}

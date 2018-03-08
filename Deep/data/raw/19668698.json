@@ -1,0 +1,74 @@
+{
+     "PMID": "19668698",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20110714",
+     "LR": "20170220",
+     "IS": "1662-6443 (Electronic) 1662-6443 (Linking)",
+     "VI": "2",
+     "DP": "2009",
+     "TI": "A low-cost multielectrode system for data acquisition enabling real-time closed-loop processing with rapid recovery from stimulation artifacts.",
+     "PG": "12",
+     "LID": "10.3389/neuro.16.012.2009 [doi]",
+     "AB": "Commercially available data acquisition systems for multielectrode recording from freely moving animals are expensive, often rely on proprietary software, and do not provide detailed, modifiable circuit schematics. When used in conjunction with electrical stimulation, they are prone to prolonged, saturating stimulation artifacts that prevent the recording of short-latency evoked responses. Yet electrical stimulation is integral to many experimental designs, and critical for emerging brain-computer interfacing and neuroprosthetic applications. To address these issues, we developed an easy-to-use, modifiable, and inexpensive system for multielectrode neural recording and stimulation. Setup costs are less than US$10,000 for 64 channels, an order of magnitude lower than comparable commercial systems. Unlike commercial equipment, the system recovers rapidly from stimulation and allows short-latency action potentials (<1 ms post-stimulus) to be detected, facilitating closed-loop applications and exposing neural activity that would otherwise remain hidden. To illustrate this capability, evoked activity from microstimulation of the rodent hippocampus is presented. System noise levels are similar to existing platforms, and extracellular action potentials and local field potentials can be recorded simultaneously. The system is modular, in banks of 16 channels, and flexible in usage: while primarily designed for in vivo use, it can be combined with commercial preamplifiers to record from in vitro multielectrode arrays. The system's open-source control software, NeuroRighter, is implemented in C#, with an easy-to-use graphical interface. As C# functions in a managed code environment, which may impact performance, analysis was conducted to ensure comparable speed to C++ for this application. Hardware schematics, layout files, and software are freely available. Since maintaining wired headstage connections with freely moving animals is difficult, we describe a new method of electrode-headstage coupling using neodymium magnets.",
+     "FAU": [
+          "Rolston, John D",
+          "Gross, Robert E",
+          "Potter, Steve M"
+     ],
+     "AU": [
+          "Rolston JD",
+          "Gross RE",
+          "Potter SM"
+     ],
+     "AD": "Department of Neurological Surgery, Emory University School of Medicine Atlanta, GA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "F30 NS060392/NS/NINDS NIH HHS/United States",
+          "K08 NS046322/NS/NINDS NIH HHS/United States",
+          "R21 NS054809/NS/NINDS NIH HHS/United States",
+          "T32 NS007480/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20090723",
+     "PL": "Switzerland",
+     "TA": "Front Neuroeng",
+     "JT": "Frontiers in neuroengineering",
+     "JID": "101477961",
+     "PMC": "PMC2722905",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "data acquisition system",
+          "hippocampus",
+          "local field potential",
+          "microstimulation",
+          "multi-electrode array",
+          "population spike",
+          "recording",
+          "stimulation artifact"
+     ],
+     "EDAT": "2009/08/12 09:00",
+     "MHDA": "2009/08/12 09:01",
+     "CRDT": [
+          "2009/08/12 09:00"
+     ],
+     "PHST": [
+          "2009/03/12 00:00 [received]",
+          "2009/07/02 00:00 [accepted]",
+          "2009/08/12 09:00 [entrez]",
+          "2009/08/12 09:00 [pubmed]",
+          "2009/08/12 09:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/neuro.16.012.2009 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neuroeng. 2009 Jul 23;2:12. doi: 10.3389/neuro.16.012.2009. eCollection 2009.",
+     "term": "hippocampus"
+}

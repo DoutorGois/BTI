@@ -1,0 +1,82 @@
+{
+     "PMID": "9199810",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "19970827",
+     "LR": "20161019",
+     "IS": "0006-3495 (Print) 0006-3495 (Linking)",
+     "VI": "73",
+     "IP": "1",
+     "DP": "1997 Jul",
+     "TI": "High-speed, random-access fluorescence microscopy: I. High-resolution optical recording with voltage-sensitive dyes and ion indicators.",
+     "PG": "477-91",
+     "AB": "The design and implementation of a high-speed, random-access, laser-scanning fluorescence microscope configured to record fast physiological signals from small neuronal structures with high spatiotemporal resolution is presented. The laser-scanning capability of this nonimaging microscope is provided by two orthogonal acousto-optic deflectors under computer control. Each scanning point can be randomly accessed and has a positioning time of 3-5 microseconds. Sampling time is also computer-controlled and can be varied to maximize the signal-to-noise ratio. Acquisition rates up to 200k samples/s at 16-bit digitizing resolution are possible. The spatial resolution of this instrument is determined by the minimal spot size at the level of the preparation (i.e., 2-7 microns). Scanning points are selected interactively from a reference image collected with differential interference contrast optics and a video camera. Frame rates up to 5 kHz are easily attainable. Intrinsic variations in laser light intensity and scanning spot brightness are overcome by an on-line signal-processing scheme. Representative records obtained with this instrument by using voltage-sensitive dyes and calcium indicators demonstrate the ability to make fast, high-fidelity measurements of membrane potential and intracellular calcium at high spatial resolution (2 microns) without any temporal averaging.",
+     "FAU": [
+          "Bullen, A",
+          "Patel, S S",
+          "Saggau, P"
+     ],
+     "AU": [
+          "Bullen A",
+          "Patel SS",
+          "Saggau P"
+     ],
+     "AD": "Division of Neuroscience, Baylor College of Medicine, Houston, Texas 77030, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "NS33147/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+     ],
+     "PL": "United States",
+     "TA": "Biophys J",
+     "JT": "Biophysical journal",
+     "JID": "0370626",
+     "RN": [
+          "0 (Fluorescent Dyes)",
+          "0 (Indicators and Reagents)",
+          "0 (Ions)",
+          "0 (Organic Chemicals)",
+          "138067-56-8 (calcium orange)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Cells, Cultured",
+          "Equipment Design",
+          "*Fluorescent Dyes",
+          "Hippocampus/cytology",
+          "Indicators and Reagents",
+          "Ions",
+          "Membrane Potentials",
+          "Microscopy, Fluorescence/*instrumentation/methods",
+          "Neurons/*cytology/physiology",
+          "Organic Chemicals",
+          "Sensitivity and Specificity",
+          "Software",
+          "Time Factors"
+     ],
+     "PMC": "PMC1180947",
+     "EDAT": "1997/07/01 00:00",
+     "MHDA": "1997/07/01 00:01",
+     "CRDT": [
+          "1997/07/01 00:00"
+     ],
+     "PHST": [
+          "1997/07/01 00:00 [pubmed]",
+          "1997/07/01 00:01 [medline]",
+          "1997/07/01 00:00 [entrez]"
+     ],
+     "AID": [
+          "S0006-3495(97)78086-X [pii]",
+          "10.1016/S0006-3495(97)78086-X [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biophys J. 1997 Jul;73(1):477-91. doi: 10.1016/S0006-3495(97)78086-X.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,87 @@
+{
+     "PMID": "17698043",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080814",
+     "LR": "20170220",
+     "IS": "0006-8993 (Print) 0006-8993 (Linking)",
+     "VI": "1202",
+     "DP": "2008 Apr 2",
+     "TI": "Consequences of parameter differences in a model of short-term persistent spiking buffers provided by pyramidal cells in entorhinal cortex.",
+     "PG": "54-67",
+     "AB": "In previous simulations of hippocampus-dependent and prefrontal cortex-dependent tasks, we demonstrated the use of one-shot short-term buffering with time compression that may be achieved through persistent spiking activity during theta rhythm. A biophysically plausible implementation of such a first-in first-out buffer of short sequences of spike patterns includes noise and differences between the parameter values of individual model pyramidal cells. We show that a specific set of parameters determines model buffer capacity and buffer function, and individual differences can have consequences similar to those of noise. The set of parameters includes the frequency of network theta rhythm and the strength of recurrent inhibition (affecting capacity), as well as the time constants of the characteristic after-depolarizing response and the phase of afferent input during theta rhythm (affecting buffer function). Given a sufficient number of pyramidal cells in layer II of entorhinal cortex, and in each self-selected category of pyramidal cells with similar model parameters, buffer function within a category is reliable with category-specific properties. Properties include buffering of spikes in the order of inputs or in the reversed order. Multiple property sets may enable parallel buffers with different capacities, which may underlie differences of place field sizes and may interact with grid cell firing in a separate population of layer II stellate cells in the entorhinal cortex.",
+     "FAU": [
+          "Koene, Randal A",
+          "Hasselmo, Michael E"
+     ],
+     "AU": [
+          "Koene RA",
+          "Hasselmo ME"
+     ],
+     "AD": "Center for Memory and Brain, Department of Psychology and Program in Neuroscience, Boston University, 64 Cummington Street, Boston, MA 02215, USA. randalk@bu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "MH71702/MH/NIMH NIH HHS/United States",
+          "MH60013/MH/NIMH NIH HHS/United States",
+          "DA16454/DA/NIDA NIH HHS/United States",
+          "MH61492/MH/NIMH NIH HHS/United States",
+          "R01 DA016454/DA/NIDA NIH HHS/United States",
+          "R01 MH060013/MH/NIMH NIH HHS/United States",
+          "R01 DA016454-05/DA/NIDA NIH HHS/United States",
+          "R01 MH060013-10/MH/NIMH NIH HHS/United States",
+          "P50 MH071702/MH/NIMH NIH HHS/United States",
+          "R01 MH061492-07/MH/NIMH NIH HHS/United States",
+          "R01 MH061492/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Review"
+     ],
+     "DEP": "20070717",
+     "PL": "Netherlands",
+     "TA": "Brain Res",
+     "JT": "Brain research",
+     "JID": "0045503",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/*physiology",
+          "Animals",
+          "*Computer Simulation",
+          "Entorhinal Cortex/cytology/*physiology",
+          "Humans",
+          "Neural Inhibition/physiology",
+          "*Neural Networks (Computer)",
+          "Neural Pathways/physiology",
+          "Pyramidal Cells/*physiology",
+          "Synaptic Transmission/*physiology",
+          "Theta Rhythm"
+     ],
+     "RF": "37",
+     "PMC": "PMC2722951",
+     "MID": [
+          "NIHMS45685"
+     ],
+     "EDAT": "2007/08/19 09:00",
+     "MHDA": "2008/08/15 09:00",
+     "CRDT": [
+          "2007/08/19 09:00"
+     ],
+     "PHST": [
+          "2007/06/08 00:00 [received]",
+          "2007/06/12 00:00 [accepted]",
+          "2007/08/19 09:00 [pubmed]",
+          "2008/08/15 09:00 [medline]",
+          "2007/08/19 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0006-8993(07)01378-9 [pii]",
+          "10.1016/j.brainres.2007.06.067 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Brain Res. 2008 Apr 2;1202:54-67. doi: 10.1016/j.brainres.2007.06.067. Epub 2007 Jul 17.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,70 @@
+{
+     "PMID": "27636199",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170622",
+     "LR": "20170622",
+     "IS": "1553-7358 (Electronic) 1553-734X (Linking)",
+     "VI": "12",
+     "IP": "9",
+     "DP": "2016 Sep",
+     "TI": "Gamma Synchronization Influences Map Formation Time in a Topological Model of Spatial Learning.",
+     "PG": "e1005114",
+     "LID": "10.1371/journal.pcbi.1005114 [doi]",
+     "AB": "The mammalian hippocampus plays a crucial role in producing a cognitive map of space-an internalized representation of the animal's environment. We have previously shown that it is possible to model this map formation using a topological framework, in which information about the environment is transmitted through the temporal organization of neuronal spiking activity, particularly those occasions in which the firing of different place cells overlaps. In this paper, we discuss how gamma rhythm, one of the main components of the extracellular electrical field potential affects the efficiency of place cell map formation. Using methods of algebraic topology and the maximal entropy principle, we demonstrate that gamma modulation synchronizes the spiking of dynamical cell assemblies, which enables learning a spatial map at faster timescales.",
+     "FAU": [
+          "Basso, Edward",
+          "Arai, Mamiko",
+          "Dabaghian, Yuri"
+     ],
+     "AU": [
+          "Basso E",
+          "Arai M",
+          "Dabaghian Y"
+     ],
+     "AD": "Department of Physics, Rice University, Houston, Texas, United States of America. Department of Mathematics, Tokyo Women's Christian University, 2-6-1 Zempukuji, Suginami-ku, Tokyo, Japan. Jan and Dan Duncan Neurological Research Institute, Baylor College of Medicine, Houston, Texas, United States of America. Department of Computational and Applied Mathematics, Rice University, Houston, Texas, United States of America.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20160916",
+     "PL": "United States",
+     "TA": "PLoS Comput Biol",
+     "JT": "PLoS computational biology",
+     "JID": "101238922",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "Computational Biology",
+          "Gamma Rhythm/*physiology",
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "Rats",
+          "Spatial Learning/*physiology"
+     ],
+     "PMC": "PMC5026372",
+     "COIS": [
+          "The authors have declared that no competing interests exist."
+     ],
+     "EDAT": "2016/09/17 06:00",
+     "MHDA": "2017/06/24 06:00",
+     "CRDT": [
+          "2016/09/17 06:00"
+     ],
+     "PHST": [
+          "2016/03/31 00:00 [received]",
+          "2016/08/20 00:00 [accepted]",
+          "2016/09/17 06:00 [entrez]",
+          "2016/09/17 06:00 [pubmed]",
+          "2017/06/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1371/journal.pcbi.1005114 [doi]",
+          "PCOMPBIOL-D-16-00525 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "PLoS Comput Biol. 2016 Sep 16;12(9):e1005114. doi: 10.1371/journal.pcbi.1005114. eCollection 2016 Sep.",
+     "term": "place cells"
+}

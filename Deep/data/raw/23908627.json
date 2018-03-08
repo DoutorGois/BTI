@@ -1,0 +1,64 @@
+{
+     "PMID": "23908627",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130805",
+     "LR": "20170220",
+     "IS": "1662-5188 (Print) 1662-5188 (Linking)",
+     "VI": "7",
+     "DP": "2013",
+     "TI": "RatLab: an easy to use tool for place code simulations.",
+     "PG": "104",
+     "LID": "10.3389/fncom.2013.00104 [doi]",
+     "AB": "In this paper we present the RatLab toolkit, a software framework designed to set up and simulate a wide range of studies targeting the encoding of space in rats. It provides open access to our modeling approach to establish place and head direction cells within unknown environments and it offers a set of parameters to allow for the easy construction of a variety of enclosures for a virtual rat as well as controlling its movement pattern over the course of experiments. Once a spatial code is formed RatLab can be used to modify aspects of the enclosure or movement pattern and plot the effect of such modifications on the spatial representation, i.e., place and head direction cell activity. The simulation is based on a hierarchical Slow Feature Analysis (SFA) network that has been shown before to establish a spatial encoding of new environments using visual input data only. RatLab encapsulates such a network, generates the visual training data, and performs all sampling automatically-with each of these stages being further configurable by the user. RatLab was written with the intention to make our SFA model more accessible to the community and to that end features a range of elements to allow for experimentation with the model without the need for specific programming skills.",
+     "FAU": [
+          "Schonfeld, Fabian",
+          "Wiskott, Laurenz"
+     ],
+     "AU": [
+          "Schonfeld F",
+          "Wiskott L"
+     ],
+     "AD": "Theory of Neural Systems Group, Institute for Neural Computation, Ruhr University Bochum Bochum, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130729",
+     "PL": "Switzerland",
+     "TA": "Front Comput Neurosci",
+     "JT": "Frontiers in computational neuroscience",
+     "JID": "101477956",
+     "PMC": "PMC3725472",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "CUDA",
+          "MDP",
+          "Slow Feature Analysis",
+          "head direction cells",
+          "place cells",
+          "simulation"
+     ],
+     "EDAT": "2013/08/03 06:00",
+     "MHDA": "2013/08/03 06:01",
+     "CRDT": [
+          "2013/08/03 06:00"
+     ],
+     "PHST": [
+          "2013/05/14 00:00 [received]",
+          "2013/07/12 00:00 [accepted]",
+          "2013/08/03 06:00 [entrez]",
+          "2013/08/03 06:00 [pubmed]",
+          "2013/08/03 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncom.2013.00104 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Comput Neurosci. 2013 Jul 29;7:104. doi: 10.3389/fncom.2013.00104. eCollection 2013.",
+     "term": "place cells"
+}

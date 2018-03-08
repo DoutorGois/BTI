@@ -1,0 +1,73 @@
+{
+     "PMID": "28660347",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20180226",
+     "LR": "20180226",
+     "IS": "1432-0770 (Electronic) 0340-1200 (Linking)",
+     "VI": "111",
+     "IP": "3-4",
+     "DP": "2017 Aug",
+     "TI": "Bioinspired magnetic reception and multimodal sensing.",
+     "PG": "287-308",
+     "LID": "10.1007/s00422-017-0720-3 [doi]",
+     "AB": "Several animals use Earth's magnetic field in concert with other sensor modes to accomplish navigational tasks ranging from local homing to continental scale migration. However, despite extensive research, animal magnetic reception remains poorly understood. Similarly, the Earth's magnetic field offers a signal that engineered systems can leverage to navigate in environments where man-made positioning systems such as GPS are either unavailable or unreliable. This work uses a behavioral strategy inspired by the migratory behavior of sea turtles to locate a magnetic goal and respond to wind when it is present. Sensing is performed using a number of distributed sensors. Based on existing theoretical biology considerations, data processing is performed using combinations of circles and ellipses to exploit the distributed sensing paradigm. Agent-based simulation results indicate that this approach is capable of using two separate magnetic properties to locate a goal from a variety of initial conditions in both noiseless and noisy sensory environments. The system's ability to locate the goal appears robust to noise at the cost of overall path length.",
+     "FAU": [
+          "Taylor, Brian K"
+     ],
+     "AU": [
+          "Taylor BK"
+     ],
+     "AD": "Air Force Research Laboratory - Munitions Directorate, 101 West Eglin Blvd Ste. 209, Bldg 13, Eglin AFB, FL, 32542, USA. brian.taylor.48@us.af.mil.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20170622",
+     "PL": "Germany",
+     "TA": "Biol Cybern",
+     "JT": "Biological cybernetics",
+     "JID": "7502533",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Biomimetics",
+          "*Earth (Planet)",
+          "*Magnetic Fields",
+          "Spatial Navigation/*physiology",
+          "Turtles/*physiology",
+          "Wind"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alternative navigation",
+          "Magnetic reception",
+          "Magnetosensing",
+          "Multimodal",
+          "Navigation",
+          "Sensing"
+     ],
+     "EDAT": "2017/07/01 06:00",
+     "MHDA": "2018/02/27 06:00",
+     "CRDT": [
+          "2017/06/30 06:00"
+     ],
+     "PHST": [
+          "2015/12/11 00:00 [received]",
+          "2017/05/30 00:00 [accepted]",
+          "2017/07/01 06:00 [pubmed]",
+          "2018/02/27 06:00 [medline]",
+          "2017/06/30 06:00 [entrez]"
+     ],
+     "AID": [
+          "10.1007/s00422-017-0720-3 [doi]",
+          "10.1007/s00422-017-0720-3 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Biol Cybern. 2017 Aug;111(3-4):287-308. doi: 10.1007/s00422-017-0720-3. Epub 2017 Jun 22.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,75 @@
+{
+     "PMID": "18929669",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20090219",
+     "LR": "20081128",
+     "IS": "1095-9572 (Electronic) 1053-8119 (Linking)",
+     "VI": "44",
+     "IP": "2",
+     "DP": "2009 Jan 15",
+     "TI": "A quantitative evaluation of cross-participant registration techniques for MRI studies of the medial temporal lobe.",
+     "PG": "319-27",
+     "LID": "10.1016/j.neuroimage.2008.09.016 [doi]",
+     "AB": "Accurate cross-participant alignment within the medial temporal lobe (MTL) region is critical for fMRI studies of memory. However, traditional alignment approaches have been exceptionally poor at registering structures in this area due to significant inter-individual anatomic variability. In this study, we evaluated the performance of twelve registration approaches. Specifically, we extended several traditional approaches such as SPM's normalization and AFNI's 3dWarpDrive to improve the quality of alignment in the MTL region by using weighting masks or applying the transformations directly to ROI segmentations. In addition, we evaluated the performance of three fully deformable methods, DARTEL, Diffeomorphic Demons, and LDDMM that are effectively unconstrained by number of degrees of freedom. For each, we first assessed the method's ability to achieve optimal overlap between segmentations of subregions of the MTL across participants. Then we evaluated the smoothness of group average structural images aligned using each method to assess the blur that results when voxels of different tissue types are averaged together. In general, we found that when anatomical segmentation is possible, substantial improvement in registration accuracy can be gained in the MTL even with a small number of deformations. When segmentation is not possible, the fully deformable models provide some improvement over more traditional approaches and in a few cases even approach the performance of the ROI-based approaches. The best performance is achieved when both methods are combined. We note that these conclusions are not limited to the MTL and are easily extendable to other areas of the brain.",
+     "FAU": [
+          "Yassa, Michael A",
+          "Stark, Craig E L"
+     ],
+     "AU": [
+          "Yassa MA",
+          "Stark CE"
+     ],
+     "AD": "Center for Neurobiology of Learning and Memory, Department of Neurobiology and Behavior, University of California, Irvine, California 92697, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20080927",
+     "PL": "United States",
+     "TA": "Neuroimage",
+     "JT": "NeuroImage",
+     "JID": "9215515",
+     "SB": "IM",
+     "MH": [
+          "Adult",
+          "Algorithms",
+          "Artificial Intelligence",
+          "Female",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Male",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique",
+          "Temporal Lobe/*anatomy & histology"
+     ],
+     "EDAT": "2008/10/22 09:00",
+     "MHDA": "2009/02/20 09:00",
+     "CRDT": [
+          "2008/10/22 09:00"
+     ],
+     "PHST": [
+          "2008/07/10 00:00 [received]",
+          "2008/09/08 00:00 [revised]",
+          "2008/09/17 00:00 [accepted]",
+          "2008/10/22 09:00 [pubmed]",
+          "2009/02/20 09:00 [medline]",
+          "2008/10/22 09:00 [entrez]"
+     ],
+     "AID": [
+          "S1053-8119(08)01022-7 [pii]",
+          "10.1016/j.neuroimage.2008.09.016 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroimage. 2009 Jan 15;44(2):319-27. doi: 10.1016/j.neuroimage.2008.09.016. Epub 2008 Sep 27.",
+     "term": "hippocampus"
+}

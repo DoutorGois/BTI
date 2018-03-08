@@ -1,0 +1,88 @@
+{
+     "PMID": "21622067",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20111207",
+     "LR": "20170220",
+     "IS": "1558-2531 (Electronic) 0018-9294 (Linking)",
+     "VI": "58",
+     "IP": "9",
+     "DP": "2011 Sep",
+     "TI": "Deconvolved spatial light interference microscopy for live cell imaging.",
+     "PG": "2489-97",
+     "LID": "10.1109/TBME.2011.2158003 [doi]",
+     "AB": "Spatial light interference microscopy (SLIM) is a recently developed method for the label-free imaging of live cells, using the quantitative optical path length through the sample as an endogenous source of contrast. In conventional SLIM, spatial resolution is limited by diffraction and aberrations. This paper describes a novel constrained deconvolution method for improving resolution in SLIM. Constrained deconvolution is enabled by experimental measurement of the system point-spread function and the modeling of coherent image formation in SLIM. Results using simulated and experimental data demonstrate that the proposed method leads to significant improvements in the resolution and contrast of SLIM images. The proposed method should prove useful for high-resolution label-free studies of biological cells and subcellular processes.",
+     "FAU": [
+          "Haldar, Justin P",
+          "Wang, Zhuo",
+          "Popescu, Gabriel",
+          "Liang, Zhi-Pei"
+     ],
+     "AU": [
+          "Haldar JP",
+          "Wang Z",
+          "Popescu G",
+          "Liang ZP"
+     ],
+     "AD": "Department of Electrical and Computer Engineering and the Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA. haldar@uiuc.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "P41-RR023953/RR/NCRR NIH HHS/United States",
+          "R21-CA154813/CA/NCI NIH HHS/United States",
+          "P41 RR023953-01A1/RR/NCRR NIH HHS/United States",
+          "P41-EB001977/EB/NIBIB NIH HHS/United States",
+          "P41 EB001977/EB/NIBIB NIH HHS/United States",
+          "P41 RR023953/RR/NCRR NIH HHS/United States",
+          "P41 EB001977-21/EB/NIBIB NIH HHS/United States",
+          "R21 EB009768-01A1/EB/NIBIB NIH HHS/United States",
+          "R21 EB009768/EB/NIBIB NIH HHS/United States",
+          "R21-EB009768/EB/NIBIB NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20110527",
+     "PL": "United States",
+     "TA": "IEEE Trans Biomed Eng",
+     "JT": "IEEE transactions on bio-medical engineering",
+     "JID": "0012737",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Cytological Techniques/*methods",
+          "Hippocampus/cytology",
+          "Image Processing, Computer-Assisted/*methods",
+          "Light",
+          "Membrane Potentials/physiology",
+          "Microglia/cytology",
+          "Microscopy, Interference/*methods",
+          "Neurons/cytology",
+          "Rats",
+          "Rats, Long-Evans"
+     ],
+     "PMC": "PMC3286342",
+     "MID": [
+          "NIHMS348946"
+     ],
+     "EDAT": "2011/05/31 06:00",
+     "MHDA": "2011/12/13 00:00",
+     "CRDT": [
+          "2011/05/31 06:00"
+     ],
+     "PHST": [
+          "2011/05/31 06:00 [entrez]",
+          "2011/05/31 06:00 [pubmed]",
+          "2011/12/13 00:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/TBME.2011.2158003 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "IEEE Trans Biomed Eng. 2011 Sep;58(9):2489-97. doi: 10.1109/TBME.2011.2158003. Epub 2011 May 27.",
+     "term": "hippocampus"
+}

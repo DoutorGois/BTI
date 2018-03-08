@@ -1,0 +1,130 @@
+{
+     "PMID": "21167201",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110504",
+     "LR": "20171116",
+     "IS": "1872-678X (Electronic) 0165-0270 (Linking)",
+     "VI": "195",
+     "IP": "2",
+     "DP": "2011 Feb 15",
+     "TI": "Automated analysis of neuronal morphology, synapse number and synaptic recruitment.",
+     "PG": "185-93",
+     "LID": "10.1016/j.jneumeth.2010.12.011 [doi]",
+     "AB": "The shape, structure and connectivity of nerve cells are important aspects of neuronal function. Genetic and epigenetic factors that alter neuronal morphology or synaptic localization of pre- and post-synaptic proteins contribute significantly to neuronal output and may underlie clinical states. To assess the impact of individual genes and disease-causing mutations on neuronal morphology, reliable methods are needed. Unfortunately, manual analysis of immuno-fluorescence images of neurons to quantify neuronal shape and synapse number, size and distribution is labor-intensive, time-consuming and subject to human bias and error. We have developed an automated image analysis routine using steerable filters and deconvolutions to automatically analyze dendrite and synapse characteristics in immuno-fluorescence images. Our approach reports dendrite morphology, synapse size and number but also synaptic vesicle density and synaptic accumulation of proteins as a function of distance from the soma as consistent as expert observers while reducing analysis time considerably. In addition, the routine can be used to detect and quantify a wide range of neuronal organelles and is capable of batch analysis of a large number of images enabling high-throughput analysis.",
+     "CI": [
+          "(c) 2010 Elsevier B.V. All rights reserved."
+     ],
+     "FAU": [
+          "Schmitz, Sabine K",
+          "Hjorth, J J Johannes",
+          "Joemai, Raoul M S",
+          "Wijntjes, Rick",
+          "Eijgenraam, Susanne",
+          "de Bruijn, Petra",
+          "Georgiou, Christina",
+          "de Jong, Arthur P H",
+          "van Ooyen, Arjen",
+          "Verhage, Matthijs",
+          "Cornelisse, L Niels",
+          "Toonen, Ruud F",
+          "Veldkamp, Wouter J H"
+     ],
+     "AU": [
+          "Schmitz SK",
+          "Hjorth JJ",
+          "Joemai RM",
+          "Wijntjes R",
+          "Eijgenraam S",
+          "de Bruijn P",
+          "Georgiou C",
+          "de Jong AP",
+          "van Ooyen A",
+          "Verhage M",
+          "Cornelisse LN",
+          "Toonen RF",
+          "Veldkamp WJ"
+     ],
+     "AD": "Functional Genomics, Center for Neurogenomics and Cognitive Research (CNCR), VU University Amsterdam, De Boelelaan 1085, 1081 HV Amsterdam, The Netherlands.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20101215",
+     "PL": "Netherlands",
+     "TA": "J Neurosci Methods",
+     "JT": "Journal of neuroscience methods",
+     "JID": "7905558",
+     "RN": [
+          "0 (Disks Large Homolog 4 Protein)",
+          "0 (Dlg4 protein, mouse)",
+          "0 (Intracellular Signaling Peptides and Proteins)",
+          "0 (Lamp1 protein, mouse)",
+          "0 (Lysosome-Associated Membrane Glycoproteins)",
+          "0 (Membrane Proteins)",
+          "0 (Microtubule-Associated Proteins)",
+          "0 (Mtap2 protein, mouse)",
+          "0 (Munc18 Proteins)",
+          "0 (Neuropeptide Y)",
+          "0 (Receptors, Transferrin)",
+          "0 (Vesicle-Associated Membrane Protein 2)",
+          "EC 2.7.4.8 (Guanylate Kinases)",
+          "G6D6147J22 (biocytin)",
+          "K3Z4F929H6 (Lysine)"
+     ],
+     "SB": "IM",
+     "EIN": [
+          "J Neurosci Methods. 2011 Apr 15;197(1):190. Veldkamp, Wouter [corrected to",
+          "Veldkamp, Wouter J H]"
+     ],
+     "MH": [
+          "Animals",
+          "Automatic Data Processing/*methods",
+          "Cells, Cultured",
+          "Dendrites/metabolism",
+          "Diagnostic Imaging",
+          "Disks Large Homolog 4 Protein",
+          "Guanylate Kinases",
+          "Hippocampus/cytology",
+          "Intracellular Signaling Peptides and Proteins/metabolism",
+          "Lysine/analogs & derivatives/metabolism",
+          "Lysosome-Associated Membrane Glycoproteins/metabolism",
+          "Membrane Proteins/metabolism",
+          "Mice",
+          "Mice, Mutant Strains",
+          "Microtubule-Associated Proteins/metabolism",
+          "Munc18 Proteins/genetics",
+          "Neurites/metabolism",
+          "Neurons/*cytology/*physiology",
+          "Neuropeptide Y/metabolism",
+          "Receptors, Transferrin/metabolism",
+          "*Software",
+          "Synapses/*physiology",
+          "Synaptic Vesicles/metabolism",
+          "Time Factors",
+          "Vesicle-Associated Membrane Protein 2/metabolism"
+     ],
+     "EDAT": "2010/12/21 06:00",
+     "MHDA": "2011/05/05 06:00",
+     "CRDT": [
+          "2010/12/21 06:00"
+     ],
+     "PHST": [
+          "2010/11/03 00:00 [received]",
+          "2010/11/30 00:00 [revised]",
+          "2010/12/01 00:00 [accepted]",
+          "2010/12/21 06:00 [entrez]",
+          "2010/12/21 06:00 [pubmed]",
+          "2011/05/05 06:00 [medline]"
+     ],
+     "AID": [
+          "S0165-0270(10)00675-8 [pii]",
+          "10.1016/j.jneumeth.2010.12.011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci Methods. 2011 Feb 15;195(2):185-93. doi: 10.1016/j.jneumeth.2010.12.011. Epub 2010 Dec 15.",
+     "term": "hippocampus"
+}

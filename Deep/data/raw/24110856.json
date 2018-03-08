@@ -1,0 +1,73 @@
+{
+     "PMID": "24110856",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150805",
+     "LR": "20131010",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2013",
+     "DP": "2013",
+     "TI": "A customizable stochastic state point process filter (SSPPF) for neural spiking activity.",
+     "PG": "4993-6",
+     "LID": "10.1109/EMBC.2013.6610669 [doi]",
+     "AB": "Stochastic State Point Process Filter (SSPPF) is effective for adaptive signal processing. In particular, it has been successfully applied to neural signal coding/decoding in recent years. Recent work has proven its efficiency in non-parametric coefficients tracking in modeling of mammal nervous system. However, existing SSPPF has only been realized in commercial software platforms which limit their computational capability. In this paper, the first hardware architecture of SSPPF has been designed and successfully implemented on field-programmable gate array (FPGA), proving a more efficient means for coefficient tracking in a well-established generalized Laguerre-Volterra model for mammalian hippocampal spiking activity research. By exploring the intrinsic parallelism of the FPGA, the proposed architecture is able to process matrices or vectors with random size, and is efficiently scalable. Experimental result shows its superior performance comparing to the software implementation, while maintaining the numerical precision. This architecture can also be potentially utilized in the future hippocampal cognitive neural prosthesis design.",
+     "FAU": [
+          "Xin, Yao",
+          "Li, Will X Y",
+          "Min, Biao",
+          "Han, Yan",
+          "Cheung, Ray C C"
+     ],
+     "AU": [
+          "Xin Y",
+          "Li WX",
+          "Min B",
+          "Han Y",
+          "Cheung RC"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "RN": [
+          "Z4152N8IUI (Silicon)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Computer Simulation",
+          "Hippocampus/*physiopathology",
+          "Humans",
+          "Models, Neurological",
+          "Neural Prostheses",
+          "Neurons/*pathology",
+          "Pattern Recognition, Automated",
+          "Reproducibility of Results",
+          "*Signal Processing, Computer-Assisted",
+          "Silicon/chemistry",
+          "Software",
+          "*Stochastic Processes"
+     ],
+     "EDAT": "2013/10/11 06:00",
+     "MHDA": "2015/08/06 06:00",
+     "CRDT": [
+          "2013/10/11 06:00"
+     ],
+     "PHST": [
+          "2013/10/11 06:00 [entrez]",
+          "2013/10/11 06:00 [pubmed]",
+          "2015/08/06 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/EMBC.2013.6610669 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2013;2013:4993-6. doi: 10.1109/EMBC.2013.6610669.",
+     "term": "hippocampus"
+}

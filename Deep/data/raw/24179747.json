@@ -1,0 +1,87 @@
+{
+     "PMID": "24179747",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20131101",
+     "LR": "20170220",
+     "IS": "2213-1582 (Print) 2213-1582 (Linking)",
+     "VI": "1",
+     "IP": "1",
+     "DP": "2012",
+     "TI": "Scoring by nonlocal image patch estimator for early detection of Alzheimer's disease.",
+     "PG": "141-52",
+     "LID": "10.1016/j.nicl.2012.10.002 [doi]",
+     "AB": "Detection of Alzheimer's disease (AD) at the first stages of the pathology is an important task to accelerate the development of new therapies and improve treatment. Compared to AD detection, the prediction of AD using structural MRI at the mild cognitive impairment (MCI) or pre-MCI stage is more complex because the associated anatomical changes are more subtle. In this study, we analyzed the capability of a recently proposed method, SNIPE (Scoring by Nonlocal Image Patch Estimator), to predict AD by analyzing entorhinal cortex (EC) and hippocampus (HC) scoring over the entire ADNI database (834 scans). Detection (AD vs. CN) and prediction (progressive - pMCI vs. stable - sMCI) efficiency of SNIPE were studied using volumetric and grading biomarkers. First, our results indicate that grading-based biomarkers are more relevant for prediction than volume-based biomarkers. Second, we show that HC-based biomarkers are more important than EC-based biomarkers for prediction. Third, we demonstrate that the results obtained by SNIPE are similar to or better than results obtained in an independent study using HC volume, cortical thickness, and tensor-based morphometry, individually and in combination. Fourth, a comparison of new patch-based methods shows that the nonlocal redundancy strategy involved in SNIPE obtained similar results to a new local sparse-based approach. Finally, we present the first results of patch-based morphometry to illustrate the progression of the pathology.",
+     "FAU": [
+          "Coupe, Pierrick",
+          "Eskildsen, Simon F",
+          "Manjon, Jose V",
+          "Fonov, Vladimir S",
+          "Pruessner, Jens C",
+          "Allard, Michele",
+          "Collins, D Louis"
+     ],
+     "AU": [
+          "Coupe P",
+          "Eskildsen SF",
+          "Manjon JV",
+          "Fonov VS",
+          "Pruessner JC",
+          "Allard M",
+          "Collins DL"
+     ],
+     "AD": "Laboratoire Bordelais de Recherche en Informatique, Unite Mixte de Recherche CNRS (UMR 5800), Bordeaux, France ; McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Canada, 3801 University Street, Montreal, Canada H3A 2B4.",
+     "CN": [
+          "Alzheimer's Disease Neuroimaging Initiative"
+     ],
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "K01 AG030514/AG/NIA NIH HHS/United States",
+          "P30 AG010129/AG/NIA NIH HHS/United States",
+          "U01 AG024904/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20121017",
+     "PL": "Netherlands",
+     "TA": "Neuroimage Clin",
+     "JT": "NeuroImage. Clinical",
+     "JID": "101597070",
+     "PMC": "PMC3757726",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Alzheimer's disease",
+          "Early detection",
+          "Entorhinal cortex",
+          "Grading",
+          "Hippocampus",
+          "Nonlocal means estimator",
+          "Patient's classification",
+          "Scoring"
+     ],
+     "EDAT": "2012/01/01 00:00",
+     "MHDA": "2012/01/01 00:01",
+     "CRDT": [
+          "2013/11/02 06:00"
+     ],
+     "PHST": [
+          "2012/07/10 00:00 [received]",
+          "2012/09/18 00:00 [revised]",
+          "2012/10/06 00:00 [accepted]",
+          "2013/11/02 06:00 [entrez]",
+          "2012/01/01 00:00 [pubmed]",
+          "2012/01/01 00:01 [medline]"
+     ],
+     "AID": [
+          "10.1016/j.nicl.2012.10.002 [doi]",
+          "S2213-1582(12)00020-4 [pii]"
+     ],
+     "PST": "epublish",
+     "SO": "Neuroimage Clin. 2012 Oct 17;1(1):141-52. doi: 10.1016/j.nicl.2012.10.002. eCollection 2012.",
+     "term": "hippocampus"
+}

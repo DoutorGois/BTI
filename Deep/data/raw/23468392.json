@@ -1,0 +1,86 @@
+{
+     "PMID": "23468392",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20131216",
+     "LR": "20170220",
+     "IS": "1522-1598 (Electronic) 0022-3077 (Linking)",
+     "VI": "109",
+     "IP": "11",
+     "DP": "2013 Jun",
+     "TI": "Hippocampal CA1 pyramidal neurons exhibit type 1 phase-response curves and type 1 excitability.",
+     "PG": "2757-66",
+     "LID": "10.1152/jn.00721.2012 [doi]",
+     "AB": "Phase-resetting properties of neurons determine their functionality as integrators (type 1) vs. resonators (type 2), as well as their synchronization tendencies. We introduce a novel, bias-correction method to estimate the infinitesimal phase-resetting curve (iPRC) and confirm type 1 excitability in hippocampal pyramidal CA1 neurons in vitro by two independent methods. First, PRCs evoked using depolarizing pulses consisted only of advances, consistent with type 1. Second, the frequency/current (f/I) plots showed no minimum frequency, again consistent with type 1. Type 1 excitability was also confirmed by the absence of a resonant peak in the interspike interval histograms derived from the f/I data. The PRC bias correction assumed that the distribution of noisy phase resetting is truncated, because an input cannot advance a spike to a point in time before the input (the causal limit) and successfully removed the statistical bias for delays in the null PRC in response to zero-magnitude input by computing the phase resetting as the mean of the untruncated distribution. The PRC for depolarization peaked at late phases and decreased to zero by the end of the cycle, whereas delays observed in response to hyperpolarization increased monotonically. The bias correction did not affect this difference in shape, which was due instead to the causal limit obscuring the iPRC for depolarization but not hyperpolarization. Our results suggest that weak periodic hyperpolarizing drive can theoretically entrain CA1 pyramidal neurons at any phase but that strong excitation will preferentially phase-lock them with zero time lag.",
+     "FAU": [
+          "Wang, Shuoguo",
+          "Musharoff, Maximilian M",
+          "Canavier, Carmen C",
+          "Gasparini, Sonia"
+     ],
+     "AU": [
+          "Wang S",
+          "Musharoff MM",
+          "Canavier CC",
+          "Gasparini S"
+     ],
+     "AD": "Neuroscience Center, Louisiana State University Health Sciences Center, New Orleans, Louisiana 70112, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01-NS069714/NS/NINDS NIH HHS/United States",
+          "R01 NS069714/NS/NINDS NIH HHS/United States",
+          "R01-NS054281/NS/NINDS NIH HHS/United States",
+          "P30-GM103340/GM/NIGMS NIH HHS/United States",
+          "R01 NS054281/NS/NINDS NIH HHS/United States",
+          "R01-MH085387/MH/NIMH NIH HHS/United States",
+          "P30 GM103340/GM/NIGMS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20130306",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "*Action Potentials",
+          "Animals",
+          "CA1 Region, Hippocampal/cytology/*physiology",
+          "Male",
+          "Pyramidal Cells/*physiology",
+          "Rats",
+          "Rats, Sprague-Dawley"
+     ],
+     "PMC": "PMC3680797",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "hippocampus",
+          "nonlinear dynamics",
+          "oscillator",
+          "synchrony"
+     ],
+     "EDAT": "2013/03/08 06:00",
+     "MHDA": "2013/12/18 06:00",
+     "CRDT": [
+          "2013/03/08 06:00"
+     ],
+     "PHST": [
+          "2013/03/08 06:00 [entrez]",
+          "2013/03/08 06:00 [pubmed]",
+          "2013/12/18 06:00 [medline]"
+     ],
+     "AID": [
+          "jn.00721.2012 [pii]",
+          "10.1152/jn.00721.2012 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2013 Jun;109(11):2757-66. doi: 10.1152/jn.00721.2012. Epub 2013 Mar 6.",
+     "term": "hippocampus"
+}

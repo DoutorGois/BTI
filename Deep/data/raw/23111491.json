@@ -1,0 +1,65 @@
+{
+     "PMID": "23111491",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20130930",
+     "LR": "20171107",
+     "IS": "1559-0089 (Electronic) 1539-2791 (Linking)",
+     "VI": "11",
+     "IP": "2",
+     "DP": "2013 Apr",
+     "TI": "Employing NeuGen 2.0 to automatically generate realistic morphologies of hippocampal neurons and neural networks in 3D.",
+     "PG": "137-48",
+     "LID": "10.1007/s12021-012-9170-1 [doi]",
+     "AB": "Detailed cell and network morphologies are becoming increasingly important in Computational Neuroscience. Great efforts have been undertaken to systematically record and store the anatomical data of cells. This effort is visible in databases, such as NeuroMorpho.org. In order to make use of these fast growing data within computational models of networks, it is vital to include detailed data of morphologies when generating those cell and network geometries. For this purpose we developed the Neuron Network Generator NeuGen 2.0, that is designed to include known and published anatomical data of cells and to automatically generate large networks of neurons. It offers export functionality to classic simulators, such as the NEURON Simulator by Hines and Carnevale (2003). NeuGen 2.0 is designed in a modular way, so any new and available data can be included into NeuGen 2.0. Also, new brain areas and cell types can be defined with the possibility of constructing user-defined cell types and networks. Therefore, NeuGen 2.0 is a software package that grows with each new piece of anatomical data, which subsequently will continue to increase the morphological detail of automatically generated networks. In this paper we introduce NeuGen 2.0 and apply its functionalities to the CA1 hippocampus. Runtime and memory benchmarks show that NeuGen 2.0 is applicable to generating very large networks, with high morphological detail.",
+     "FAU": [
+          "Wolf, S",
+          "Grein, S",
+          "Queisser, G"
+     ],
+     "AU": [
+          "Wolf S",
+          "Grein S",
+          "Queisser G"
+     ],
+     "AD": "Goethe Center for Scientific Computing, Goethe University Frankfurt, Kettenhofweg 139, 60325, Frankfurt, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Neuroinformatics",
+     "JT": "Neuroinformatics",
+     "JID": "101142069",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "*Computer Simulation",
+          "Hippocampus/*cytology",
+          "Humans",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*cytology/*physiology",
+          "Reproducibility of Results",
+          "Synapses/physiology"
+     ],
+     "EDAT": "2012/11/01 06:00",
+     "MHDA": "2013/10/01 06:00",
+     "CRDT": [
+          "2012/11/01 06:00"
+     ],
+     "PHST": [
+          "2012/11/01 06:00 [entrez]",
+          "2012/11/01 06:00 [pubmed]",
+          "2013/10/01 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1007/s12021-012-9170-1 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Neuroinformatics. 2013 Apr;11(2):137-48. doi: 10.1007/s12021-012-9170-1.",
+     "term": "hippocampus"
+}

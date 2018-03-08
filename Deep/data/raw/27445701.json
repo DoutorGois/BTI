@@ -1,0 +1,86 @@
+{
+     "PMID": "27445701",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20171023",
+     "LR": "20171128",
+     "IS": "1662-5110 (Electronic) 1662-5110 (Linking)",
+     "VI": "10",
+     "DP": "2016",
+     "TI": "Repeating Spatial-Temporal Motifs of CA3 Activity Dependent on Engineered Inputs from Dentate Gyrus Neurons in Live Hippocampal Networks.",
+     "PG": "45",
+     "LID": "10.3389/fncir.2016.00045 [doi]",
+     "AB": "Anatomical and behavioral studies, and in vivo and slice electrophysiology of the hippocampus suggest specific functions of the dentate gyrus (DG) and the CA3 subregions, but the underlying activity dynamics and repeatability of information processing remains poorly understood. To approach this problem, we engineered separate living networks of the DG and CA3 neurons that develop connections through 51 tunnels for axonal communication. Growing these networks on top of an electrode array enabled us to determine whether the subregion dynamics were separable and repeatable. We found spontaneous development of polarized propagation of 80% of the activity in the native direction from DG to CA3 and different spike and burst dynamics for these subregions. Spatial-temporal differences emerged when the relationships of target CA3 activity were categorized with to the number and timing of inputs from the apposing network. Compared to times of CA3 activity when there was no recorded tunnel input, DG input led to CA3 activity bursts that were 7x more frequent, increased in amplitude and extended in temporal envelope. Logistic regression indicated that a high number of tunnel inputs predict CA3 activity with 90% sensitivity and 70% specificity. Compared to no tunnel input, patterns of >80% tunnel inputs from DG specified different patterns of first-to-fire neurons in the CA3 target well. Clustering dendrograms revealed repeating motifs of three or more patterns at up to 17 sites in CA3 that were importantly associated with specific spatial-temporal patterns of tunnel activity. The number of these motifs recorded in 3 min was significantly higher than shuffled spike activity and not seen above chance in control networks in which CA3 was apposed to CA3 or DG to DG. Together, these results demonstrate spontaneous input-dependent repeatable coding of distributed activity in CA3 networks driven by engineered inputs from DG networks. These functional configurations at measured times of activation (motifs) emerge from anatomically accurate feed-forward connections from DG through tunnels to CA3.",
+     "FAU": [
+          "Bhattacharya, Aparajita",
+          "Desai, Harsh",
+          "DeMarse, Thomas B",
+          "Wheeler, Bruce C",
+          "Brewer, Gregory J"
+     ],
+     "AU": [
+          "Bhattacharya A",
+          "Desai H",
+          "DeMarse TB",
+          "Wheeler BC",
+          "Brewer GJ"
+     ],
+     "AD": "Department of Biomedical Engineering, University of California Irvine, CA, USA. Department of Biomedical Engineering, University of California Irvine, CA, USA. J. Clayton Pruitt Family Department of Biomedical Engineering, University of FloridaGainesville, FL, USA; Department of Pediatric Neurology, University of FloridaGainesville, FL, USA. J. Clayton Pruitt Family Department of Biomedical Engineering, University of FloridaGainesville, FL, USA; Department of Bioengineering, University of CaliforniaSan Diego, CA, USA. Department of Biomedical Engineering, University of CaliforniaIrvine, CA, USA; Memory Impairments and Neurological Disorders (MIND) Institute, University of CaliforniaIrvine, CA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 NS052233/NS/NINDS NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+     ],
+     "DEP": "20160628",
+     "PL": "Switzerland",
+     "TA": "Front Neural Circuits",
+     "JT": "Frontiers in neural circuits",
+     "JID": "101477940",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "CA3 Region, Hippocampal/*physiology",
+          "Dentate Gyrus/*physiology",
+          "*Electrophysiological Phenomena",
+          "*Models, Neurological",
+          "Nerve Net/*physiology",
+          "Neurons/*physiology",
+          "Rats"
+     ],
+     "PMC": "PMC4923256",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "*CA3",
+          "*burst",
+          "*dentate",
+          "*electrode array",
+          "*microtunnels",
+          "*motifs",
+          "*networks"
+     ],
+     "EDAT": "2016/07/23 06:00",
+     "MHDA": "2017/10/24 06:00",
+     "CRDT": [
+          "2016/07/23 06:00"
+     ],
+     "PHST": [
+          "2016/02/12 00:00 [received]",
+          "2016/06/08 00:00 [accepted]",
+          "2016/07/23 06:00 [entrez]",
+          "2016/07/23 06:00 [pubmed]",
+          "2017/10/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncir.2016.00045 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neural Circuits. 2016 Jun 28;10:45. doi: 10.3389/fncir.2016.00045. eCollection 2016.",
+     "term": "hippocampus"
+}

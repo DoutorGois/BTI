@@ -1,0 +1,84 @@
+{
+     "PMID": "11306622",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20010607",
+     "LR": "20141120",
+     "IS": "1529-2401 (Electronic) 0270-6474 (Linking)",
+     "VI": "21",
+     "IP": "8",
+     "DP": "2001 Apr 15",
+     "TI": "Rapid signaling at inhibitory synapses in a dentate gyrus interneuron network.",
+     "PG": "2687-98",
+     "AB": "Mutual synaptic interactions between GABAergic interneurons are thought to be of critical importance for the generation of network oscillations and for temporal encoding of information in the hippocampus. However, the functional properties of synaptic transmission between hippocampal interneurons are largely unknown. We have made paired recordings from basket cells (BCs) in the dentate gyrus of rat hippocampal slices, followed by correlated light and electron microscopical analysis. Unitary GABA(A) receptor-mediated IPSCs at BC-BC synapses recorded at the soma showed a fast rise and decay, with a mean decay time constant of 2.5 +/- 0.2 msec (32 degrees C). Synaptic transmission at BC-BC synapses showed paired-pulse depression (PPD) (32 +/- 5% for 10 msec interpulse intervals) and multiple-pulse depression during repetitive stimulation. Detailed passive cable model simulations based on somatodendritic morphology and localization of synaptic contacts further indicated that the conductance change at the postsynaptic site was even faster, decaying with a mean time constant of 1.8 +/- 0.6 msec. Sequential triple recordings revealed that the decay time course of IPSCs at BC-BC synapses was approximately twofold faster than that at BC-granule cell synapses, whereas the extent of PPD was comparable. To examine the consequences of the fast postsynaptic conductance change for the generation of oscillatory activity, we developed a computational model of an interneuron network. The model showed robust oscillations at frequencies >60 Hz if the excitatory drive was sufficiently large. Thus the fast conductance change at interneuron-interneuron synapses may promote the generation of high-frequency oscillations observed in the dentate gyrus in vivo.",
+     "FAU": [
+          "Bartos, M",
+          "Vida, I",
+          "Frotscher, M",
+          "Geiger, J R",
+          "Jonas, P"
+     ],
+     "AU": [
+          "Bartos M",
+          "Vida I",
+          "Frotscher M",
+          "Geiger JR",
+          "Jonas P"
+     ],
+     "AD": "Physiologisches Institut and Anatomisches Institut, Albert-Ludwigs-Universitat Freiburg, D-79104 Freiburg, Germany.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "J Neurosci",
+     "JT": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+     "JID": "8102140",
+     "RN": [
+          "0 (GABA Antagonists)",
+          "0 (Receptors, GABA-A)",
+          "40709-69-1 (bicuculline methiodide)",
+          "Y37615DVKC (Bicuculline)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/drug effects/physiology",
+          "Animals",
+          "Bicuculline/*analogs & derivatives/pharmacology",
+          "Biological Clocks/physiology",
+          "Computer Simulation",
+          "Dentate Gyrus/cytology/drug effects/*physiology",
+          "GABA Antagonists/pharmacology",
+          "In Vitro Techniques",
+          "Interneurons/cytology/drug effects/*physiology",
+          "Models, Neurological",
+          "Nerve Net/drug effects/*physiology",
+          "Neural Inhibition/*physiology",
+          "Patch-Clamp Techniques",
+          "Rats",
+          "Rats, Wistar",
+          "Reaction Time/physiology",
+          "Receptors, GABA-A/drug effects/physiology",
+          "Synapses/drug effects/physiology/ultrastructure",
+          "Synaptic Transmission/drug effects/*physiology"
+     ],
+     "EDAT": "2001/04/18 10:00",
+     "MHDA": "2001/06/08 10:01",
+     "CRDT": [
+          "2001/04/18 10:00"
+     ],
+     "PHST": [
+          "2001/04/18 10:00 [pubmed]",
+          "2001/06/08 10:01 [medline]",
+          "2001/04/18 10:00 [entrez]"
+     ],
+     "AID": [
+          "21/8/2687 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurosci. 2001 Apr 15;21(8):2687-98.",
+     "term": "hippocampus"
+}

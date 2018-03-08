@@ -1,0 +1,84 @@
+{
+     "PMID": "23346048",
+     "OWN": "NLM",
+     "STAT": "PubMed-not-MEDLINE",
+     "DCOM": "20130125",
+     "LR": "20170220",
+     "IS": "1662-5110 (Electronic) 1662-5110 (Linking)",
+     "VI": "6",
+     "DP": "2012",
+     "TI": "A translational platform for prototyping closed-loop neuromodulation systems.",
+     "PG": "117",
+     "LID": "10.3389/fncir.2012.00117 [doi]",
+     "AB": "While modulating neural activity through stimulation is an effective treatment for neurological diseases such as Parkinson's disease and essential tremor, an opportunity for improving neuromodulation therapy remains in automatically adjusting therapy to continuously optimize patient outcomes. Practical issues associated with achieving this include the paucity of human data related to disease states, poorly validated estimators of patient state, and unknown dynamic mappings of optimal stimulation parameters based on estimated states. To overcome these challenges, we present an investigational platform including: an implanted sensing and stimulation device to collect data and run automated closed-loop algorithms; an external tool to prototype classifier and control-policy algorithms; and real-time telemetry to update the implanted device firmware and monitor its state. The prototyping system was demonstrated in a chronic large animal model studying hippocampal dynamics. We used the platform to find biomarkers of the observed states and transfer functions of different stimulation amplitudes. Data showed that moderate levels of stimulation suppress hippocampal beta activity, while high levels of stimulation produce seizure-like after-discharge activity. The biomarker and transfer function observations were mapped into classifier and control-policy algorithms, which were downloaded to the implanted device to continuously titrate stimulation amplitude for the desired network effect. The platform is designed to be a flexible prototyping tool and could be used to develop improved mechanistic models and automated closed-loop systems for a variety of neurological disorders.",
+     "FAU": [
+          "Afshar, Pedram",
+          "Khambhati, Ankit",
+          "Stanslaski, Scott",
+          "Carlson, David",
+          "Jensen, Randy",
+          "Linde, Dave",
+          "Dani, Siddharth",
+          "Lazarewicz, Maciej",
+          "Cong, Peng",
+          "Giftakis, Jon",
+          "Stypulkowski, Paul",
+          "Denison, Tim"
+     ],
+     "AU": [
+          "Afshar P",
+          "Khambhati A",
+          "Stanslaski S",
+          "Carlson D",
+          "Jensen R",
+          "Linde D",
+          "Dani S",
+          "Lazarewicz M",
+          "Cong P",
+          "Giftakis J",
+          "Stypulkowski P",
+          "Denison T"
+     ],
+     "AD": "Medtronic Neuromodulation Minneapolis, MN, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20130122",
+     "PL": "Switzerland",
+     "TA": "Front Neural Circuits",
+     "JT": "Frontiers in neural circuits",
+     "JID": "101477940",
+     "PMC": "PMC3551193",
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "automation",
+          "closed-loop",
+          "hippocampus",
+          "neuromodulation",
+          "prototyping",
+          "seizure"
+     ],
+     "EDAT": "2013/01/25 06:00",
+     "MHDA": "2013/01/25 06:01",
+     "CRDT": [
+          "2013/01/25 06:00"
+     ],
+     "PHST": [
+          "2012/09/03 00:00 [received]",
+          "2012/12/18 00:00 [accepted]",
+          "2013/01/25 06:00 [entrez]",
+          "2013/01/25 06:00 [pubmed]",
+          "2013/01/25 06:01 [medline]"
+     ],
+     "AID": [
+          "10.3389/fncir.2012.00117 [doi]"
+     ],
+     "PST": "epublish",
+     "SO": "Front Neural Circuits. 2013 Jan 22;6:117. doi: 10.3389/fncir.2012.00117. eCollection 2012.",
+     "term": "hippocampus"
+}

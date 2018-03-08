@@ -1,0 +1,95 @@
+{
+     "PMID": "24978936",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150722",
+     "LR": "20171130",
+     "IS": "1098-1063 (Electronic) 1050-9631 (Linking)",
+     "VI": "24",
+     "IP": "12",
+     "DP": "2014 Dec",
+     "TI": "Intrinsic mechanisms stabilize encoding and retrieval circuits differentially in a hippocampal network model.",
+     "PG": "1430-48",
+     "LID": "10.1002/hipo.22324 [doi]",
+     "AB": "Acetylcholine regulates memory encoding and retrieval by inducing the hippocampus to switch between pattern separation and pattern completion modes. However, both processes can introduce significant variations in the level of network activity and potentially cause a seizure-like spread of excitation. Thus, mechanisms that keep network excitation within certain bounds are necessary to prevent such instability. We developed a biologically realistic computational model of the hippocampus to investigate potential intrinsic mechanisms that might stabilize the network dynamics during encoding and retrieval. The model was developed by matching experimental data, including neuronal behavior, synaptic current dynamics, network spatial connectivity patterns, and short-term synaptic plasticity. Furthermore, it was constrained to perform pattern completion and separation under the effects of acetylcholine. The model was then used to investigate the role of short-term synaptic depression at the recurrent synapses in CA3, and inhibition by basket cell (BC) interneurons and oriens lacunosum-moleculare (OLM) interneurons in stabilizing these processes. Results showed that when CA3 was considered in isolation, inhibition solely by BCs was not sufficient to control instability. However, both inhibition by OLM cells and short-term depression at the recurrent CA3 connections stabilized the network activity. In the larger network including the dentate gyrus, the model suggested that OLM inhibition could control the network during high cholinergic levels while depressing synapses at the recurrent CA3 connections were important during low cholinergic states. Our results demonstrate that short-term plasticity is a critical property of the network that enhances its robustness. Furthermore, simulations suggested that the low and high cholinergic states can each produce runaway excitation through unique mechanisms and different pathologies. Future studies aimed at elucidating the circuit mechanisms of epilepsy could benefit from considering the two modulatory states separately.",
+     "CI": [
+          "(c) 2014 Wiley Periodicals, Inc."
+     ],
+     "FAU": [
+          "Hummos, Ali",
+          "Franklin, Charles C",
+          "Nair, Satish S"
+     ],
+     "AU": [
+          "Hummos A",
+          "Franklin CC",
+          "Nair SS"
+     ],
+     "AD": "Department of Health Informatics, University of Missouri, Columbia, Missouri; Department of Psychiatry, University of Missouri, Columbia, Missouri.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "R01 MH087755/MH/NIMH NIH HHS/United States",
+          "MH087755/MH/NIMH NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Validation Studies"
+     ],
+     "DEP": "20140708",
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "RN": [
+          "N9YNS0M02X (Acetylcholine)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Acetylcholine/metabolism",
+          "Animals",
+          "Computer Simulation",
+          "Hippocampus/*physiology",
+          "Interneurons/physiology",
+          "*Models, Neurological",
+          "Neural Inhibition/physiology",
+          "Neural Pathways/physiology",
+          "Neuronal Plasticity/physiology",
+          "Pyramidal Cells/physiology",
+          "Rats",
+          "Seizures/physiopathology",
+          "Software",
+          "Synapses/*physiology"
+     ],
+     "OTO": [
+          "NOTNLM"
+     ],
+     "OT": [
+          "Pattern separation and completion",
+          "acetylcholine",
+          "biologically realistic model",
+          "interneurons",
+          "seizures"
+     ],
+     "EDAT": "2014/07/01 06:00",
+     "MHDA": "2015/07/23 06:00",
+     "CRDT": [
+          "2014/07/01 06:00"
+     ],
+     "PHST": [
+          "2013/12/20 00:00 [received]",
+          "2014/06/13 00:00 [revised]",
+          "2014/06/16 00:00 [accepted]",
+          "2014/07/01 06:00 [entrez]",
+          "2014/07/01 06:00 [pubmed]",
+          "2015/07/23 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1002/hipo.22324 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2014 Dec;24(12):1430-48. doi: 10.1002/hipo.22324. Epub 2014 Jul 8.",
+     "term": "hippocampus"
+}

@@ -1,0 +1,73 @@
+{
+     "PMID": "21096221",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20110330",
+     "LR": "20151119",
+     "IS": "1557-170X (Print) 1557-170X (Linking)",
+     "VI": "2010",
+     "DP": "2010",
+     "TI": "Decoding state transitions in hippocampal oscillatory activity in mice.",
+     "PG": "2822-4",
+     "LID": "10.1109/IEMBS.2010.5626582 [doi]",
+     "AB": "Understanding the intricate dynamics of the hippocampal neural network, from which several types of neural oscillation rhythms arise, is an important step in uncovering the role of the hippocampus in the formation of memory. The different oscillation types commonly recorded in the hippocampus are thought to correspond to several states of neural network synchronization. Therefore, accurate segmentation and decoding of these underlying states provide useful insight on the rhythms' generation. In this study we use a framework based on Hidden Markov Models, coupled with a nonlinear dynamics method based on the Lempel-Ziv estimator. The method allows us to decode and model the neural state transitions. Network synchronization was induced by acute exposure to cholinergic agonist carbachol and oscillations were recorded from the Cornu Ammonis (CA1) region of the mouse hippocampus. Our results prove that deficits in cholinergic neuro-transmission found in triple transgenic mice (3xTG, as Alzheimer's disease animal model) lead to increased instability in the hippocampal neural network synchronization.",
+     "FAU": [
+          "Dragomir, Andrei",
+          "Akay, Yasemin M",
+          "Wang, Kui",
+          "Wu, Jie",
+          "Akay, Metin"
+     ],
+     "AU": [
+          "Dragomir A",
+          "Akay YM",
+          "Wang K",
+          "Wu J",
+          "Akay M"
+     ],
+     "AD": "Department of Biomedical Engineering, University of Houston, TX 77204, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "United States",
+     "TA": "Conf Proc IEEE Eng Med Biol Soc",
+     "JT": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+     "JID": "101243413",
+     "RN": [
+          "8Y164V895Y (Carbachol)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Alzheimer Disease/genetics",
+          "Animals",
+          "Carbachol/chemistry",
+          "Disease Models, Animal",
+          "Hippocampus/*metabolism/*pathology",
+          "Markov Chains",
+          "Mice",
+          "Mice, Transgenic",
+          "Nerve Net",
+          "Oscillometry/*methods",
+          "Signal Processing, Computer-Assisted",
+          "Time Factors"
+     ],
+     "EDAT": "2010/11/26 06:00",
+     "MHDA": "2011/03/31 06:00",
+     "CRDT": [
+          "2010/11/25 06:00"
+     ],
+     "PHST": [
+          "2010/11/25 06:00 [entrez]",
+          "2010/11/26 06:00 [pubmed]",
+          "2011/03/31 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1109/IEMBS.2010.5626582 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Conf Proc IEEE Eng Med Biol Soc. 2010;2010:2822-4. doi: 10.1109/IEMBS.2010.5626582.",
+     "term": "hippocampus"
+}

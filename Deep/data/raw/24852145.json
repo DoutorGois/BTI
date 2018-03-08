@@ -1,0 +1,72 @@
+{
+     "PMID": "24852145",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20150105",
+     "LR": "20140523",
+     "IS": "1748-3190 (Electronic) 1748-3182 (Linking)",
+     "VI": "9",
+     "IP": "2",
+     "DP": "2014 Jun",
+     "TI": "A mu analysis-based, controller-synthesis framework for robust bioinspired visual navigation in less-structured environments.",
+     "PG": "025011",
+     "LID": "10.1088/1748-3182/9/2/025011 [doi]",
+     "AB": "Safe, autonomous navigation by aerial microsystems in less-structured environments is a difficult challenge to overcome with current technology. This paper presents a novel visual-navigation approach that combines bioinspired wide-field processing of optic flow information with control-theoretic tools for synthesis of closed loop systems, resulting in robustness and performance guarantees. Structured singular value analysis is used to synthesize a dynamic controller that provides good tracking performance in uncertain environments without resorting to explicit pose estimation or extraction of a detailed environmental depth map. Experimental results with a quadrotor demonstrate the vehicle's robust obstacle-avoidance behaviour in a straight line corridor, an S-shaped corridor and a corridor with obstacles distributed in the vehicle's path. The computational efficiency and simplicity of the current approach offers a promising alternative to satisfying the payload, power and bandwidth constraints imposed by aerial microsystems.",
+     "FAU": [
+          "Keshavan, J",
+          "Gremillion, G",
+          "Escobar-Alvarez, H",
+          "Humbert, J S"
+     ],
+     "AU": [
+          "Keshavan J",
+          "Gremillion G",
+          "Escobar-Alvarez H",
+          "Humbert JS"
+     ],
+     "AD": "Autonomous Vehicles Laboratory, Department of Aerospace Engineering, University of Maryland, College Park 20742, USA.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "DEP": "20140522",
+     "PL": "England",
+     "TA": "Bioinspir Biomim",
+     "JT": "Bioinspiration & biomimetics",
+     "JID": "101292902",
+     "SB": "IM",
+     "MH": [
+          "Aircraft/*instrumentation",
+          "Animals",
+          "Biomimetics/*instrumentation/methods",
+          "Computer Simulation",
+          "Computer-Aided Design",
+          "Equipment Design",
+          "Equipment Failure Analysis",
+          "Feedback, Sensory/physiology",
+          "Flight, Animal/*physiology",
+          "*Models, Biological",
+          "Optic Flow/*physiology",
+          "Robotics/*instrumentation",
+          "Spatial Navigation/*physiology"
+     ],
+     "EDAT": "2014/05/24 06:00",
+     "MHDA": "2015/01/06 06:00",
+     "CRDT": [
+          "2014/05/24 06:00"
+     ],
+     "PHST": [
+          "2014/05/24 06:00 [entrez]",
+          "2014/05/24 06:00 [pubmed]",
+          "2015/01/06 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1088/1748-3182/9/2/025011 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Bioinspir Biomim. 2014 Jun;9(2):025011. doi: 10.1088/1748-3182/9/2/025011. Epub 2014 May 22.",
+     "term": "spatial navigation"
+}

@@ -1,0 +1,76 @@
+{
+     "PMID": "12117763",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20021028",
+     "LR": "20071114",
+     "IS": "1523-9829 (Print) 1523-9829 (Linking)",
+     "VI": "4",
+     "DP": "2002",
+     "TI": "On the metrics and euler-lagrange equations of computational anatomy.",
+     "PG": "375-405",
+     "AB": "This paper reviews literature, current concepts and approaches in computational anatomy (CA). The model of CA is a Grenander deformable template, an orbit generated from a template under groups of diffeomorphisms. The metric space of all anatomical images is constructed from the geodesic connecting one anatomical structure to another in the orbit. The variational problems specifying these metrics are reviewed along with their associated Euler-Lagrange equations. The Euler equations of motion derived by Arnold for the geodesics in the group of divergence-free volume-preserving diffeomorphisms of incompressible fluids are generalized for the larger group of diffeomorphisms used in CA with nonconstant Jacobians. Metrics that accommodate photometric variation are described extending the anatomical model to incorporate the construction of neoplasm. Metrics on landmarked shapes are reviewed as well as Joshi's diffeomorphism metrics, Bookstein's thin-plate spline approximate-metrics, and Kendall's affine invariant metrics. We conclude by showing recent experimental results from the Toga & Thompson group in growth, the Van Essen group in macaque and human cortex mapping, and the Csernansky group in hippocampus mapping for neuropsychiatric studies in aging and schizophrenia.",
+     "FAU": [
+          "Miller, Michael I",
+          "Trouve, Alain",
+          "Younes, Laurent"
+     ],
+     "AU": [
+          "Miller MI",
+          "Trouve A",
+          "Younes L"
+     ],
+     "AD": "Center for Imaging Science, The Johns Hopkins University, Baltimore, Maryland 21218, USA. mim@cis.jhu.edu",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "1 P20 MH6211300A1/MH/NIMH NIH HHS/United States",
+          "1 R01 MH60883-01/MH/NIMH NIH HHS/United States",
+          "1 R01 MH62626-01/MH/NIMH NIH HHS/United States",
+          "5 R01 MH60974-07/MH/NIMH NIH HHS/United States",
+          "P01 AG03991-16/AG/NIA NIH HHS/United States",
+          "P41 RR15241/RR/NCRR NIH HHS/United States"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+     ],
+     "DEP": "20020322",
+     "PL": "United States",
+     "TA": "Annu Rev Biomed Eng",
+     "JT": "Annual review of biomedical engineering",
+     "JID": "100883581",
+     "SB": "IM",
+     "MH": [
+          "Algorithms",
+          "Animals",
+          "Brain/*anatomy & histology",
+          "Humans",
+          "Image Processing, Computer-Assisted/*methods",
+          "Imaging, Three-Dimensional/*methods",
+          "Macaca",
+          "*Models, Neurological",
+          "*Models, Statistical"
+     ],
+     "RF": "123",
+     "EDAT": "2002/07/16 10:00",
+     "MHDA": "2002/10/29 04:00",
+     "CRDT": [
+          "2002/07/16 10:00"
+     ],
+     "PHST": [
+          "2002/07/16 10:00 [pubmed]",
+          "2002/10/29 04:00 [medline]",
+          "2002/07/16 10:00 [entrez]"
+     ],
+     "AID": [
+          "10.1146/annurev.bioeng.4.092101.125733 [doi]",
+          "092101.125733 [pii]"
+     ],
+     "PST": "ppublish",
+     "SO": "Annu Rev Biomed Eng. 2002;4:375-405. doi: 10.1146/annurev.bioeng.4.092101.125733. Epub 2002 Mar 22.",
+     "term": "hippocampus"
+}

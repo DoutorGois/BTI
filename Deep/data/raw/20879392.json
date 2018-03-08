@@ -1,0 +1,66 @@
+{
+     "PMID": "20879392",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20101115",
+     "LR": "20100930",
+     "VI": "13",
+     "IP": "Pt 3",
+     "DP": "2010",
+     "TI": "Nonlocal patch-based label fusion for hippocampus segmentation.",
+     "PG": "129-36",
+     "AB": "Quantitative magnetic resonance analysis often requires accurate, robust and reliable automatic extraction of anatomical structures. Recently, template-warping methods incorporating a label fusion strategy have demonstrated high accuracy in segmenting cerebral structures. In this study, we propose a novel patch-based method using expert segmentation priors to achieve this task. Inspired by recent work in image denoising, the proposed nonlocal patch-based label fusion produces accurate and robust segmentation. During our experiments, the hippocampi of 80 healthy subjects were segmented. The influence on segmentation accuracy of different parameters such as patch size or number of training subjects was also studied. Moreover, a comparison with an appearance-based method and a template-based method was carried out. The highest median kappa value obtained with the proposed method was 0.884, which is competitive compared with recently published methods.",
+     "FAU": [
+          "Coupe, Pierrick",
+          "Manjon, Jose V",
+          "Fonov, Vladimir",
+          "Pruessner, Jens",
+          "Robles, Montserrat",
+          "Collins, D Louis"
+     ],
+     "AU": [
+          "Coupe P",
+          "Manjon JV",
+          "Fonov V",
+          "Pruessner J",
+          "Robles M",
+          "Collins DL"
+     ],
+     "AD": "McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Canada.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "PL": "Germany",
+     "TA": "Med Image Comput Comput Assist Interv",
+     "JT": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+     "JID": "101249582",
+     "SB": "IM",
+     "MH": [
+          "*Algorithms",
+          "Hippocampus/*anatomy & histology",
+          "Humans",
+          "Image Enhancement/*methods",
+          "Image Interpretation, Computer-Assisted/*methods",
+          "Magnetic Resonance Imaging/*methods",
+          "Pattern Recognition, Automated/*methods",
+          "Reproducibility of Results",
+          "Sensitivity and Specificity",
+          "*Subtraction Technique"
+     ],
+     "EDAT": "2010/10/01 06:00",
+     "MHDA": "2010/11/16 06:00",
+     "CRDT": [
+          "2010/10/01 06:00"
+     ],
+     "PHST": [
+          "2010/10/01 06:00 [entrez]",
+          "2010/10/01 06:00 [pubmed]",
+          "2010/11/16 06:00 [medline]"
+     ],
+     "PST": "ppublish",
+     "SO": "Med Image Comput Comput Assist Interv. 2010;13(Pt 3):129-36.",
+     "term": "hippocampus"
+}

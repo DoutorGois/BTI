@@ -1,0 +1,101 @@
+{
+     "PMID": "26577045",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20170726",
+     "LR": "20171127",
+     "IS": "1476-5438 (Electronic) 1018-4813 (Linking)",
+     "VI": "24",
+     "IP": "7",
+     "DP": "2016 Jul",
+     "TI": "Evaluation of power of the Illumina HumanOmni5M-4v1 BeadChip to detect risk variants for human complex diseases.",
+     "PG": "1029-34",
+     "LID": "10.1038/ejhg.2015.244 [doi]",
+     "AB": "Although emerging sequencing technologies can characterize all genetic variants, the cost is still high. Illumina released the HumanOmni5M-4v1 (Omni5) genotype array with ~4.3M assayed SNPs, a much denser array compared with other available arrays. The Omni5 balances both cost and array density. In this article, we illustrate the power of Omni5 to detect genetic associations. The Omni5 includes variants with a wide range of minor allele frequencies down to <1%. The theoretical power calculation examples indicate the increased power of the Omni5 array compared with other arrays with lower density when evaluating associations with some known loci, although there are exceptions. We further evaluate the genetic associations between known loci and several quantitative traits in the Framingham Heart Study: femoral neck bone mineral density, lumbar spine bone mineral density and hippocampal volume. Finally, we search genome wide for novel associations using the Omni5 genotypes. We compare our association results from Affymetrix 500K+MIPS 50K arrays and two imputed data sets: (1) HapMap Phase II and (2) 1000 Genomes reference panel. We observed increased evidence for genotype-phenotype associations with smaller P-values for selected known loci using the Omni5 genotypes. With limited sample sizes, we identify novel variants with genome-wide significant P-values. Our observations support the notion that dense genotyping using the Omni5 can be powerful in detecting novel associated variants. Comparison with imputed data with higher density also suggests that imputation helps but cannot replace genotyping, especially when imputation quality is low.",
+     "FAU": [
+          "Xing, Chuanhua",
+          "Huang, Jie",
+          "Hsu, Yi-Hsiang",
+          "DeStefano, Anita L",
+          "Heard-Costa, Nancy L",
+          "Wolf, Philip A",
+          "Seshadri, Sudha",
+          "Kiel, Douglas P",
+          "Cupples, L Adrienne",
+          "Dupuis, Josee"
+     ],
+     "AU": [
+          "Xing C",
+          "Huang J",
+          "Hsu YH",
+          "DeStefano AL",
+          "Heard-Costa NL",
+          "Wolf PA",
+          "Seshadri S",
+          "Kiel DP",
+          "Cupples LA",
+          "Dupuis J"
+     ],
+     "AD": "Department of Biostatistics, Boston University School of Public Health, Boston, MA, USA. Department of Human Genetics, Wellcome Trust Sanger Institute, Hinxton, UK. Hebrew SeniorLife, Institute for Aging Research, Boston, MA, USA. Department of Medicine, Beth Israel Deaconess Medical Center and Harvard Medical School, Boston, MA, USA. Molecular and Integrative Physiological Sciences Program, Harvard School of Public Health, Boston, MA, USA. Department of Biostatistics, Boston University School of Public Health, Boston, MA, USA. Department of Neurology, Boston University School of Medicine, Boston, MA, USA. Framingham Heart Study, National Heart, Lung and Blood Institute, Framingham, MA, USA. Department of Neurology, Boston University School of Medicine, Boston, MA, USA. Framingham Heart Study, National Heart, Lung and Blood Institute, Framingham, MA, USA. Department of Neurology, Boston University School of Medicine, Boston, MA, USA. Framingham Heart Study, National Heart, Lung and Blood Institute, Framingham, MA, USA. Department of Neurology, Boston University School of Medicine, Boston, MA, USA. Framingham Heart Study, National Heart, Lung and Blood Institute, Framingham, MA, USA. Hebrew SeniorLife, Institute for Aging Research, Boston, MA, USA. Department of Medicine, Beth Israel Deaconess Medical Center and Harvard Medical School, Boston, MA, USA. Department of Biostatistics, Boston University School of Public Health, Boston, MA, USA. Framingham Heart Study, National Heart, Lung and Blood Institute, Framingham, MA, USA. Department of Biostatistics, Boston University School of Public Health, Boston, MA, USA. Framingham Heart Study, National Heart, Lung and Blood Institute, Framingham, MA, USA.",
+     "LA": [
+          "eng"
+     ],
+     "GR": [
+          "RC2 HL102419/HL/NHLBI NIH HHS/United States",
+          "R01 NS017950/NS/NINDS NIH HHS/United States",
+          "R01 AG054076/AG/NIA NIH HHS/United States",
+          "R01 AG016495/AG/NIA NIH HHS/United States",
+          "U01 HL096917/HL/NHLBI NIH HHS/United States",
+          "R01 AR041398/AR/NIAMS NIH HHS/United States",
+          "R01 AG008122/AG/NIA NIH HHS/United States",
+          "R01 AG033193/AG/NIA NIH HHS/United States",
+          "N01HC25195/HL/NHLBI NIH HHS/United States",
+          "U01 AG049505/AG/NIA NIH HHS/United States"
+     ],
+     "PT": [
+          "Evaluation Studies",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20151118",
+     "PL": "England",
+     "TA": "Eur J Hum Genet",
+     "JT": "European journal of human genetics : EJHG",
+     "JID": "9302235",
+     "SB": "IM",
+     "MH": [
+          "Bone Density/genetics",
+          "Genetic Testing/*methods/standards",
+          "Genome-Wide Association Study/*methods/standards",
+          "Genotyping Techniques/methods/*standards",
+          "Hippocampus/growth & development",
+          "Humans",
+          "Mutation",
+          "Oligonucleotide Array Sequence Analysis/*methods/standards",
+          "Organ Size/genetics",
+          "*Quantitative Trait Loci",
+          "Sensitivity and Specificity"
+     ],
+     "PMC": "PMC5070895",
+     "EDAT": "2015/11/19 06:00",
+     "MHDA": "2017/07/27 06:00",
+     "CRDT": [
+          "2015/11/19 06:00"
+     ],
+     "PHST": [
+          "2014/08/22 00:00 [received]",
+          "2015/10/09 00:00 [revised]",
+          "2015/10/14 00:00 [accepted]",
+          "2015/11/19 06:00 [entrez]",
+          "2015/11/19 06:00 [pubmed]",
+          "2017/07/27 06:00 [medline]"
+     ],
+     "AID": [
+          "ejhg2015244 [pii]",
+          "10.1038/ejhg.2015.244 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Eur J Hum Genet. 2016 Jul;24(7):1029-34. doi: 10.1038/ejhg.2015.244. Epub 2015 Nov 18.",
+     "term": "hippocampus"
+}

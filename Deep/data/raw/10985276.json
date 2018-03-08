@@ -1,0 +1,65 @@
+{
+     "PMID": "10985276",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20001222",
+     "LR": "20061115",
+     "IS": "1050-9631 (Print) 1050-9631 (Linking)",
+     "VI": "10",
+     "IP": "4",
+     "DP": "2000",
+     "TI": "Modeling place fields in terms of the cortical inputs to the hippocampus.",
+     "PG": "369-79",
+     "AB": "A model of place-cell firing is presented that makes quantitative predictions about specific place cells' spatial receptive fields following changes to the rat's environment. A place cell's firing rate is modeled as a function of the rat's location by the thresholded sum of the firing rates of a number of putative cortical inputs. These inputs are tuned to respond whenever an environmental boundary is at a particular distance and allocentric direction from the rat. The initial behavior of a place cell in any environment is simply determined by its set of inputs and its threshold; learning is not necessary. The model is shown to produce a good fit to the firing of individual place cells, and populations of place cells across environments of differing shape. The cells' behavior can be predicted for novel environments of arbitrary size and shape, or for manipulations such as introducing a barrier. The model can be extended to make behavioral predictions regarding spatial memory.",
+     "FAU": [
+          "Hartley, T",
+          "Burgess, N",
+          "Lever, C",
+          "Cacucci, F",
+          "O'Keefe, J"
+     ],
+     "AU": [
+          "Hartley T",
+          "Burgess N",
+          "Lever C",
+          "Cacucci F",
+          "O'Keefe J"
+     ],
+     "AD": "Institute of Cognitive Neuroscience, University College London, UK. t.hartley@ucl.ac.uk",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "PL": "United States",
+     "TA": "Hippocampus",
+     "JT": "Hippocampus",
+     "JID": "9108167",
+     "SB": "IM",
+     "MH": [
+          "Afferent Pathways/physiology",
+          "Animals",
+          "Cerebral Cortex/*physiology",
+          "Hippocampus/*physiology",
+          "*Models, Neurological",
+          "Space Perception/*physiology"
+     ],
+     "EDAT": "2000/09/14 11:00",
+     "MHDA": "2001/02/28 10:01",
+     "CRDT": [
+          "2000/09/14 11:00"
+     ],
+     "PHST": [
+          "2000/09/14 11:00 [pubmed]",
+          "2001/02/28 10:01 [medline]",
+          "2000/09/14 11:00 [entrez]"
+     ],
+     "AID": [
+          "10.1002/1098-1063(2000)10:4<369::AID-HIPO3>3.0.CO;2-0 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Hippocampus. 2000;10(4):369-79. doi: 10.1002/1098-1063(2000)10:4<369::AID-HIPO3>3.0.CO;2-0.",
+     "term": "place cells"
+}

@@ -1,0 +1,74 @@
+{
+     "PMID": "17925236",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080709",
+     "LR": "20071010",
+     "IS": "0079-6123 (Print) 0079-6123 (Linking)",
+     "VI": "165",
+     "DP": "2007",
+     "TI": "The neuronal transfer function: contributions from voltage- and time-dependent mechanisms.",
+     "PG": "1-12",
+     "AB": "The discovery that an array of voltage- and time-dependent channels is present in both the dendrites and soma of neurons has led to a variety of models for single-neuron computation. Most of these models, however, are based on experimental techniques that use simplified inputs of either single synaptic events or brief current injections. In this study, we used a more complex time-varying input to mimic the continuous barrage of synaptic input that neurons are likely to receive in vivo. Using dual whole-cell recordings of CA1 pyramidal neurons, we injected long-duration white-noise current into the dendrites. The amplitude variance of this stimulus was adjusted to produce either low subthreshold or high suprathreshold fluctuations of the somatic membrane potential. Somatic action potentials were produced in the high variance input condition. Applying a rigorous system-identification approach, we discovered that the neuronal input/output function was extremely well described by a model containing a linear bandpass filter followed by a nonlinear static-gain. Using computer models, we found that a range of voltage-dependent channel properties can readily account for the experimentally observed filtering in the neuronal input/output function. In addition, the bandpass signal processing of the neuronal input/output function was determined by the time-dependence of the channels. A simple active channel, however, could not account for the experimentally observed change in gain. These results suggest that nonlinear voltage- and time-dependent channels contribute to the linear filtering of the neuronal input/output function and that channel kinetics shape temporal signal processing in dendrites.",
+     "FAU": [
+          "Cook, Erik P",
+          "Wilhelm, Aude C",
+          "Guest, Jennifer A",
+          "Liang, Yong",
+          "Masse, Nicolas Y",
+          "Colbert, Costa M"
+     ],
+     "AU": [
+          "Cook EP",
+          "Wilhelm AC",
+          "Guest JA",
+          "Liang Y",
+          "Masse NY",
+          "Colbert CM"
+     ],
+     "AD": "Department of Physiology, McGill University, 3655 Sir William Osler, Montreal, QC H3G 1Y6, Canada. erik.cook@mcgill.ca",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+     ],
+     "PL": "Netherlands",
+     "TA": "Prog Brain Res",
+     "JT": "Progress in brain research",
+     "JID": "0376441",
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "*Computer Simulation",
+          "Dendrites/radiation effects",
+          "Dose-Response Relationship, Radiation",
+          "Electric Stimulation/methods",
+          "Excitatory Postsynaptic Potentials/*physiology",
+          "Hippocampus/cytology",
+          "*Models, Neurological",
+          "Pyramidal Cells/cytology/*physiology",
+          "Synapses/*physiology",
+          "Time Factors"
+     ],
+     "RF": "77",
+     "EDAT": "2007/10/11 09:00",
+     "MHDA": "2008/07/10 09:00",
+     "CRDT": [
+          "2007/10/11 09:00"
+     ],
+     "PHST": [
+          "2007/10/11 09:00 [pubmed]",
+          "2008/07/10 09:00 [medline]",
+          "2007/10/11 09:00 [entrez]"
+     ],
+     "AID": [
+          "S0079-6123(06)65001-2 [pii]",
+          "10.1016/S0079-6123(06)65001-2 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Prog Brain Res. 2007;165:1-12. doi: 10.1016/S0079-6123(06)65001-2.",
+     "term": "hippocampus"
+}

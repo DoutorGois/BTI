@@ -1,0 +1,75 @@
+{
+     "PMID": "17881486",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20080225",
+     "LR": "20141120",
+     "IS": "0022-3077 (Print) 0022-3077 (Linking)",
+     "VI": "98",
+     "IP": "5",
+     "DP": "2007 Nov",
+     "TI": "Dendrite-to-soma input/output function of continuous time-varying signals in hippocampal CA1 pyramidal neurons.",
+     "PG": "2943-55",
+     "AB": "We examined how hippocamal CA1 neurons process complex time-varying inputs that dendrites are likely to receive in vivo. We propose a functional model of the dendrite-to-soma input/output relationship that combines temporal integration and static-gain control mechanisms. Using simultaneous dual whole cell recordings, we injected 50 s of subthreshold and suprathreshold zero-mean white-noise current into the primary dendritic trunk along the proximal 2/3 of stratum radiatum and measured the membrane potential at the soma. Applying a nonlinear system-identification analysis, we found that a cascade of a linear filter followed by an adapting static-gain term fully accounted for the nonspiking input/output relationship between the dendrite and soma. The estimated filters contained a prominent band-pass region in the 1- to 10-Hz frequency range that remained constant as a function of stimulus variance. The gain of the dendrite-to-soma input/output relationship, in contrast, varied as a function of stimulus variance. When the contribution of the voltage-dependent current I(h) was eliminated, the estimated filters lost their band-pass properties and the gain regulation was substantially altered. Our findings suggest that the dendrite-to-soma input/output relationship for proximal apical inputs to CA1 pyramidal neurons is well described as a band-pass filter in the theta frequency range followed by a gain-control nonlinearity that dynamically adapts to the statistics of the input signal.",
+     "FAU": [
+          "Cook, Erik P",
+          "Guest, Jennifer A",
+          "Liang, Yong",
+          "Masse, Nicolas Y",
+          "Colbert, Costa M"
+     ],
+     "AU": [
+          "Cook EP",
+          "Guest JA",
+          "Liang Y",
+          "Masse NY",
+          "Colbert CM"
+     ],
+     "AD": "Department of Physiology, McGill University, 3655 Sir William Osler, Montreal, QC H3G 1Y6, Canada. erik.cook@mcgill.ca",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article"
+     ],
+     "DEP": "20070919",
+     "PL": "United States",
+     "TA": "J Neurophysiol",
+     "JT": "Journal of neurophysiology",
+     "JID": "0375404",
+     "SB": "IM",
+     "MH": [
+          "Action Potentials/physiology/radiation effects",
+          "Animals",
+          "Axons/*physiology",
+          "Dendrites/*physiology",
+          "Dose-Response Relationship, Radiation",
+          "Electric Stimulation/methods",
+          "Hippocampus/*cytology",
+          "In Vitro Techniques",
+          "Male",
+          "Models, Neurological",
+          "Patch-Clamp Techniques",
+          "Pyramidal Cells/*cytology",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Time Factors"
+     ],
+     "EDAT": "2007/09/21 09:00",
+     "MHDA": "2008/02/26 09:00",
+     "CRDT": [
+          "2007/09/21 09:00"
+     ],
+     "PHST": [
+          "2007/09/21 09:00 [pubmed]",
+          "2008/02/26 09:00 [medline]",
+          "2007/09/21 09:00 [entrez]"
+     ],
+     "AID": [
+          "00414.2007 [pii]",
+          "10.1152/jn.00414.2007 [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "J Neurophysiol. 2007 Nov;98(5):2943-55. doi: 10.1152/jn.00414.2007. Epub 2007 Sep 19.",
+     "term": "hippocampus"
+}

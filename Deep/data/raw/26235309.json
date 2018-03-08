@@ -1,0 +1,90 @@
+{
+     "PMID": "26235309",
+     "OWN": "NLM",
+     "STAT": "MEDLINE",
+     "DCOM": "20160523",
+     "LR": "20150826",
+     "IS": "1473-0189 (Electronic) 1473-0189 (Linking)",
+     "VI": "15",
+     "IP": "18",
+     "DP": "2015",
+     "TI": "Neural probes with multi-drug delivery capability.",
+     "PG": "3730-7",
+     "LID": "10.1039/c5lc00582e [doi]",
+     "AB": "Multi-functional neural probes are promising platforms to conduct efficient and effective in-depth studies of brain by recording neural signals as well as modulating the signals with various stimuli. Here we present a neural probe with an embedded microfluidic channel (chemtrode) with multi-drug delivery capability suitable for small animal experiments. We integrated a staggered herringbone mixer (SHM) in a 3-inlet microfluidic chip directly into our chemtrode. This chip, which also serves as a compact interface for the chemtrode, allows for efficient delivery of small volumes of multiple or concentration-modulated drugs via chaotic mixing. We demonstrated the successful infusion of combinatorial inputs of three chemicals with a low flow rate (170 nl min(-1)). By sequentially delivering red, green, and blue inks from each inlet and conducting visual inspections at the tip of the chemtrode, we measured a short residence time of 14 s which corresponds to a small swept volume of 66 nl. Finally, we demonstrated the potential of our proposed chemtrode as an enabling tool through extensive in vivo mice experiments. Through simultaneous infusions of a chemical (pilocarpine or tetrodotoxin (TTX) at inlet 1), a buffer solution (saline at inlet 2), and 4',6-diamidino-2-phenylindole (DAPI at inlet 3) locally into a mouse brain, we not only modulated the neural activities by varying the concentration of the chemical but also locally stained the cells at our target region (CA1 in hippocampus). More specifically, infusion of pilocarpine with a higher concentration resulted in an increase in neural activities while infusion of TTX with a higher concentration resulted in a distinctive reduction. For each chemical, we acquired multiple sets of data using only one mouse through a single implantation of the chemtrode. Our proposed chemtrode offers 1) multiplexed delivery of three drugs through a compact packaging with a small swept volume and 2) simultaneous recording to monitor near real-time effects on neural signals, which allows for more versatile in vivo experiments with a minimum number of animals to be sacrificed.",
+     "FAU": [
+          "Shin, Hyogeun",
+          "Lee, Hyunjoo J",
+          "Chae, Uikyu",
+          "Kim, Huiyoung",
+          "Kim, Jeongyeon",
+          "Choi, Nakwon",
+          "Woo, Jiwan",
+          "Cho, Yakdol",
+          "Lee, C Justin",
+          "Yoon, Eui-Sung",
+          "Cho, Il-Joo"
+     ],
+     "AU": [
+          "Shin H",
+          "Lee HJ",
+          "Chae U",
+          "Kim H",
+          "Kim J",
+          "Choi N",
+          "Woo J",
+          "Cho Y",
+          "Lee CJ",
+          "Yoon ES",
+          "Cho IJ"
+     ],
+     "AD": "Center for BioMicrosystems, Brain Science Institute, Korea Institute of Science and Technology (KIST), Seoul, Korea. ijcho@kist.re.kr.",
+     "LA": [
+          "eng"
+     ],
+     "PT": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+     ],
+     "DEP": "20150803",
+     "PL": "England",
+     "TA": "Lab Chip",
+     "JT": "Lab on a chip",
+     "JID": "101128948",
+     "RN": [
+          "0 (Indoles)",
+          "01MI4Q9DI3 (Pilocarpine)",
+          "4368-28-9 (Tetrodotoxin)",
+          "47165-04-8 (DAPI)"
+     ],
+     "SB": "IM",
+     "MH": [
+          "Animals",
+          "CA1 Region, Hippocampal",
+          "*Drug Delivery Systems/instrumentation/methods",
+          "Humans",
+          "Indoles/pharmacology",
+          "*Lab-On-A-Chip Devices",
+          "Male",
+          "Mice",
+          "*Neural Prostheses",
+          "Pilocarpine/pharmacology",
+          "Tetrodotoxin/pharmacology"
+     ],
+     "EDAT": "2015/08/04 06:00",
+     "MHDA": "2016/05/24 06:00",
+     "CRDT": [
+          "2015/08/04 06:00"
+     ],
+     "PHST": [
+          "2015/08/04 06:00 [entrez]",
+          "2015/08/04 06:00 [pubmed]",
+          "2016/05/24 06:00 [medline]"
+     ],
+     "AID": [
+          "10.1039/c5lc00582e [doi]"
+     ],
+     "PST": "ppublish",
+     "SO": "Lab Chip. 2015;15(18):3730-7. doi: 10.1039/c5lc00582e. Epub 2015 Aug 3.",
+     "term": "hippocampus"
+}
