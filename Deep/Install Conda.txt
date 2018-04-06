@@ -1,0 +1,13 @@
+!conda update base conda -y
+
+!conda install -c conda-forge matplotlib -y
+
+!conda install -c conda-forge scikit-image -y
+
+!sudo env PATH=$PATH conda install -c conda-forge scikit-learn -y
+
+!sudo env PATH=$PATH conda install -c conda-forge ipywidgets -y
+
+!sudo env PATH=$PATH jupyter labextension install @jupyterlab/github -y
+
+!sudo env PATH=$PATH conda install -c conda-forge opencv -y

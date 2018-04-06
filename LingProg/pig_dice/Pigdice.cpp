@@ -1,6 +1,26 @@
 #include<iostream>
 #include<cstdlib>
 #include<fstream>
+#include<vector>
+
+typedef size_t face_t;
+typedef std::vector<Player>;
+
+
+struct
+
+class Dice(){
+	private:
+		size_t n_faces;
+		face_t[] faces;
+	public:
+		face_t roll(void);
+		void Dice();
+}
+
+
+
+
 
 class Player(){
 	private:
@@ -10,7 +30,8 @@ class Player(){
 }
 
 class RandomPlayer(){
-
+	public:
+		int action(void);
 }
 
 class BernouliePlayer(){
@@ -21,15 +42,25 @@ class GoPlayer(){
 
 }
 
+// Main game definition
 class Piggame(){
 	private:
 		void roll_dice();
-		std::array<Player> players;
-		std::array<std::array<int>> record;
+		
+		player_list_t players;
+
 		bool status;
 		std::string log_filename;
-
 		
+
+		//Game State
+		// + current player
+		Player current_player;
+		// + log jogadas
+		std::array<std::array<int>> record;
+		// + score do jogo
+		
+
 	public:
 		//Score
 		void getScore(void);
